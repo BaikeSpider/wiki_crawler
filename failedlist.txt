@@ -1,0 +1,46 @@
+crawl failed 20 Polisi – 威尔士语 https://cy.wikipedia.org/wiki/Polisi
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 Policy – 丹麦语 https://da.wikipedia.org/wiki/Policy
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 Policy – 德语 https://de.wikipedia.org/wiki/Policy
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 Policy – 英语 https://en.wikipedia.org/wiki/Policy
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 Política organizacional – 西班牙语 https://es.wikipedia.org/wiki/Pol%C3%ADtica_organizacional
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 خط مشی – 波斯语 https://fa.wikipedia.org/wiki/%D8%AE%D8%B7_%D9%85%D8%B4%DB%8C
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 नीति – 印地语 https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 Kebijakan – 印度尼西亚语 https://id.wikipedia.org/wiki/Kebijakan
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 Policy (politica) – 意大利语 https://it.wikipedia.org/wiki/Policy_(politica)
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 政策 – 日语 https://ja.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 정책 – 韩语 https://ko.wikipedia.org/wiki/%EC%A0%95%EC%B1%85
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 नीति – 尼瓦尔语 https://new.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 Beleid – 荷兰语 https://nl.wikipedia.org/wiki/Beleid
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 Policy – 挪威语 https://no.wikipedia.org/wiki/Policy
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 Политика (управление) – 俄语 https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_(%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 پاليسي – 信德语 https://sd.wikipedia.org/wiki/%D9%BE%D8%A7%D9%84%D9%8A%D8%B3%D9%8A
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 ප්‍රතිපත්ති – 僧伽罗语 https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B6%AD%E0%B7%92%E0%B6%B4%E0%B6%AD%E0%B7%8A%E0%B6%AD%E0%B7%92
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 Gwara (Humaneja) – 绍纳语 https://sn.wikipedia.org/wiki/Gwara_(Humaneja)
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 Policy – 瑞典语 https://sv.wikipedia.org/wiki/Policy
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 حکمت عملی – 乌尔都语 https://ur.wikipedia.org/wiki/%D8%AD%DA%A9%D9%85%D8%AA_%D8%B9%D9%85%D9%84%DB%8C
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 Chính sách – 越南语 https://vi.wikipedia.org/wiki/Ch%C3%ADnh_s%C3%A1ch
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 פאליסי – 意第绪语 https://yi.wikipedia.org/wiki/%D7%A4%D7%90%D7%9C%D7%99%D7%A1%D7%99
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 20 Chèng-chhek – Chinese (Min Nan) https://zh-min-nan.wikipedia.org/wiki/Ch%C3%A8ng-chhek
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
