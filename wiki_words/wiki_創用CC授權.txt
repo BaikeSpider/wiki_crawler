@@ -1,0 +1,728 @@
+创作共用
+
+
+ 關於知识共享署名-相同方式共享（CC BY-SA 3.0）协议的文本全文，請見Wikipedia:CC BY-SA 3.0协议文本。
+
+
+
+
+關於与「创作共用」名称相近或相同的条目，請見「知识共享许可协议」。
+
+
+
+
+
+
+
+
+
+
+
+創作共用
+
+
+
+
+原名
+Creative Commons
+
+
+成立時間
+2001年
+
+
+創始人
+劳伦斯·莱斯格
+
+
+類型
+非營利組織
+
+
+總部
+美國舊金山
+
+
+網站
+https://creativecommons.org/
+
+
+[失效連結]
+知识共享（英语：Creative Commons）是一個非營利組織，該組織提供同名的一系列著作權授權方式。知识共享組織的主要宗旨是使得著作物能更廣為流通與改作，作為其他人據以創作及共享，並以所提供的授權方式確保上述理念。
+
+
+
+目录
+
+
+1 理念
+2 协议
+
+2.1 六種核心授權條款
+2.2 其他授權條款
+
+
+3 歷史
+4 本地化
+
+4.1 台灣本地社群發展
+
+
+5 相容性
+6 實際案例
+
+6.1 知名出版品
+
+
+7 批評
+8 發掘CC授權作品的工具
+9 參見
+10 参考文献
+11 外部链接
+
+
+
+理念[编辑]
+知识共享的理念和copyleft紧密联系。傳統的著作權中有兩種極端，一端是「保留所有權利」（All Rights Reserved），另一端則是「不保留任何權利」（即公有領域，public domain）。該組織試圖在兩者中間廣大的灰色地帶保有彈性，使得創作者可以「保留部分權利」（Some Rights Reserved），思索知识产权在信息时代的意义。知识共享提供多種可供選擇的授權形式及條款組合，創作者可與大眾分享其創作，授予其他人一定条件下再散布的權利，卻又可能保留其他某些權利。另外還有一種則是「撤回所有權利」（All Rights Reversed），與著佐權（Copyleft）相關。
+該組織還提供了描述授權條款的RDF/XML詮釋資料，以利於電腦自動處理及尋找以知识共享授權的作品。
+协议[编辑]
+主条目：创作共用授权
+六種核心授權條款[编辑]
+知识共享协议允许作者选择不同的授权条款和根据不同国家的著作权法制定的版权协议，版权持有人可以指定以下的条件：（以下條件均不適用於原始創作者）
+
+
+標誌
+英文
+縮寫
+全稱
+說明
+
+
+
+Attribution
+BY
+署名
+您（使用者）可以复制、发行、展览、表演、放映、广播或通过信息网络传播本作品；您必须按照作者或者许可人指定的方式对作品进行署名。
+
+
+
+NonCommercial
+NC
+非商业性使用
+您可以自由复制、散布、展示及演出本作品；您不得为商业目的而使用本作品。
+
+
+
+NoDerivs
+ND
+禁止改作
+您可以自由复制、散布、展示及演出本作品；您不得改变、转变或更改本作品。
+
+
+
+ShareAlike
+SA
+相同方式共享
+您可以自由复制、散布、展示及演出本作品；若您改变、转变或更改本作品，仅在遵守与本作品相同的授权条款下，您才能散布由本作品产生的衍生作品。
+
+
+在没有指定“NC”的情况下，将授权对本作品进行商业利用；在没有指定“ND”的情况下，将授权创作衍生作品。
+另外，含有“NC”和“ND”知识共享协议将不被认为是“自由文化协议”。[1]
+
+
+
+
+CC 0
+
+
+混合搭配这些条件，产生了16种可能的组合，其中11种是有效的創作共用许可。5个无效组合，4种是同时包括“nd”和“sa”的条款，这是相互排斥的，还有一种没有包括条款，稱為“CC0”。11种有效组合中，五种缺乏“by”的条款已经失效了，因为98%的特许人要求署名。[2][3][4]剩下的6种经常使用的授權：
+
+
+授權條款
+BY
+NC
+ND
+SA
+
+
+姓名標示（BY）
+
+
+
+
+
+
+姓名標示（BY）-相同方式分享（SA）
+
+
+
+
+
+
+姓名標示（BY）-禁止改作（ND）
+
+
+
+
+
+
+姓名標示（BY）-非商業性（NC）
+
+
+
+
+
+
+姓名標示（BY）-非商業性（NC）-相同方式分享（SA）
+
+
+
+
+
+
+姓名標示（BY）-非商業性（NC）-禁止改作（ND）
+
+
+
+
+
+
+其他授權條款[编辑]
+
+美國建國者著作權（Founder's Copyright，簡稱FC）授權條款：重塑最早期美國建國者們在設計美國憲法時所提出的版權概念[5]，版權的主要目的是促進文化、藝術等方面的進步，為此版權人可享有的版權保護期限為14年或28年，而不是今天的作者终身加死後70年（美國法律）。
+特別取樣授權（Sampling Plus）、非商業特別取樣授權（Noncommercial Sampling Plus）：用於音樂、影片、攝影作品的拼貼混合創作。但于2011年9月12日取消。[6]
+公有領域（public domain，簡稱PD）：或稱CC0，不保留任何權利。
+
+歷史[编辑]
+知识共享协议类似于开放出版物协议（OPL）和GNU自由文档协议（GFDL）。GFDL主要用于软件文档，但是也可以用于其它像维基百科这样的非软件文档的项目。而隨著OPL的消失，他的创造者建议新的项目不要再使用它。但有批评者[谁？]认为OPL和GFDL都还不够“自由”，GFDL与CC协议不同之处在于它要求分发的作品提供一个“透明版本”，也就是说，不能是一个私有或秘密的格式。
+
+
+
+
+知识共享得到金尼卡獎
+
+
+知识共享在2001年正式运行，劳伦斯·莱斯格是创始人和主席。知识共享的最初版本在2002年12月16日发布。[7]本計畫在2004年榮獲电子艺术大奖網路願景類金尼卡獎。
+創作共用的董事包括了劳伦斯·莱斯格、等长期对现代知识产权进行批评的学者、教授及律师。
+本地化[编辑]
+原本的知识共享授權條款是以美國法律體系寫成的，所以用詞可能無法完美地切合其他國家現存的法律。雖然某種程度上不見得如此，但使用美國法律體系，不顧慮本地法律可能導致授權條款無法執行。為了解決這問題，知识共享推出iCommons（International Commons）計畫，調整法律用詞以適應各國國情。2004年5月27日，iCommons推出2.0版。至2007年11月30日為止，已有41個國家完成本地化。自3.0版開始，原始的授權條款改以國際法及相關慣例撰寫，稱為“未本地化版本”或「未移植版」（Unported）[8]，但各司法領域團隊仍然會依其法律翻譯、修改成該司法領域的適用版本。
+在使用華文的國家和地区當中，臺灣、中國大陸、香港已完成本地化。中國大陸的正式命名為知識共享，臺灣的正式命名為創用CC，香港的正式名稱命名為共享創意。
+臺灣由中央研究院資訊科學所於2004年完成Creative Commons的本地化版本，意味在臺灣的法律下可以使用Creative Commons [9]，並在2005年11月將台灣正式名稱定為創用CC。[10]中國大陸由中国人民大学及CNBlog.org进行本地化，并于2006年3月30日正式发布知识共享中国大陆版（CC China）2.5协议[11][12]，2010年12月再次发布知识共享中国大陆版3.0协议草案[13]，2012年底，知识共享中国大陆版3.0协议完成了本地化并正式发布[14]。2008年1月，Creative Commons License 3.0香港版進入本地化公眾討論的階段[15][16]。并于2008年10月25日完成本地化。而澳門則於2010年下半年由澳門科技大學進行本地化，至今仍在進行中。而新加坡等地，至今為止尚未进行Creative Commons本地化的工作。
+台灣本地社群發展[编辑]
+台灣的創用CC的工作團隊最初是2003年11月由中研院資訊所的經費支應在台灣推廣和維護的相關工作，自2009年後改為中研院資訊創新研究中心進行支持[10]，2016年起相關的參與人力逐步轉移到以開放文化基金會支援的社群志工。[17]
+相容性[编辑]
+GNU自由文档许可证（GFDL）允许使用于商业目的，並可散布修改後的衍生創作，因此只有CC-BY和CC-BY-SA 3.0可與GFDL單向相容（CC可改為GFDL，GFDL不可改為CC）。CC-BY-SA的理念基本上與GFDL相同，但是因為一些條款細節有所出入而無法相容（CC-BY-SA要求衍生作品同样以CC-BY-SA发布，因此不能改以GFDL发布）。知识共享3.0中已經增加CC-BY-SA對GFDL的相容性。
+實際案例[编辑]
+
+數以百萬計的網頁使用知识共享授權。Jeff Kramer與知识共享組織合作設立了Common Content，現在由志愿者維護。
+媒體集中地（部分上傳者選擇知识共享授權）：Flickr、互联网档案馆、維基共享資源、Ourmedia（英语：Ourmedia）
+麻省理工學院開放式課程網頁 - 學術課程授課大綱
+维基新闻、Wikitravel、阿尔法记忆、偽基百科等部份wiki站台
+Groklaw（英语：Groklaw）
+Public Library of Science
+Star Wreck（英语：Star Wreck） VI
+This Week in Tech（podcast）
+Mozilla基金會的官方网站
+
+知名出版品[编辑]
+
+知识共享的創辦人莱斯格（Lessig）2004年的著作《自由文化》的電子版採取CC授權，在幾天內立刻出現中文版翻譯及給盲人的錄音版本。[18]
+Dan Gillmor（英语：Dan Gillmor）的著作《草根媒體》。
+埃里克·斯蒂芬·雷蒙的三本書《大教堂和市集》（第一本完整而且曾商業發行的CC版權書籍，由歐萊禮出版）、《新駭客辭典》及《Unix編程藝術》。三本都有附加但書。
+臺灣搖滾歌手朱約信（豬頭皮）的音樂專輯《搖滾主耶穌》是亞洲第一片CC授權的唱片。
+臺灣金曲獎三位歌王朱約信（豬頭皮）、謝宇威、王宏恩、廣播主持人李坤城等人的音樂專輯《秋天的孩子》也採用CC授權。[19]
+科利·多克托罗的小說
+知识共享中国大陆许可协议正式发布当天，iMagine有限公司发布了全中國第一片數位CD唱片《PatPet》，由廣州唱作人Mongo So，采用知识共享"署名－非商业性使用－禁止演绎2.5中国大陆"（cc-by-nc-nd 2.5 China）协议。[20]
+洋蔥頭原流行於網際網路，目前已成功被商業化，使用的是“cc by-nc-nd 3.0”。
+《Big Buck Bunny》、《Sintel》－Blender基金會CC授權的動畫電影。
+
+批評[编辑]
+知识共享在其第一年的發展得到一段近乎沒有批評的蜜月期。然而，直至最近[何时？]，批評主要集中於知识共享的推行以及其在提升既定價值和目標的方式。被指最主要缺乏的定位最主要有以下幾點：
+
+倫理定位：
+政治定位：
+常識定位：一般這種版歸類為「這沒有需要」或「這奪去了用戶權益」（見Toth 2005或Dvorak（英语：John C. Dvorak） 2005）。
+超越版權的定位：主要由傳統的內容工業提出，他們質疑知识共享缺乏用處，甚至傷害傳統版權的根基（Nimmer 2005）。有些意見甚至認為創作共用的條款其實已在傳統的版權含蓋。
+
+發掘CC授權作品的工具[编辑]
+
+雅虎Creative Commons搜尋
+Google進階搜尋
+CC:Mixter - 擁有remix功能、CC授權的社群音樂網站
+Common Content
+Jamendo - Creative Commons授權的音樂專輯收藏區
+The Assayer - 自由／copylefted書籍目錄
+Flickr Creative Commons搜尋 - Flickr上的照片
+iRATE radio（英语：iRATE radio）
+Gnomoradio（英语：Gnomoradio）
+
+參見[编辑]
+
+Copyleft
+自由內容
+內容開放
+共同世界
+
+参考文献[编辑]
+
+
+^ Permissible restrictions. Definition of Free Cultural Works. [2012-12-06]. 
+^ Retired Legal Tools. Creative Commons. [May 31, 2012]. 
+^ Announcing (and explaining) our new 2.0 licenses
+^ Creative Commons Licenses. Creative Commons. [2010-02-22]. 
+^ Founder's Copyright
+^ http://creativecommons.org/retiredlicenses
+^ Creative Commons Unveils Machine-Readable Copyright Licenses
+^ [1][2]
+^ Creative Commons Taiwan部落格新開張!! 互联网档案馆的存檔，存档日期2009-06-29.
+^ 10.0 10.1 http://creativecommons.tw/twcc
+^ Creative Commons International China Mainland
+^ 知识共享许可协议文本 - 知识共享@中国大陆
+^ China Mainland/3.0/BY-NC-SA/Draft - CC Wiki
+^ 中国大陆版CC协议正式从2.5版本更新为3.0版本
+^ Creative Commons License 3.0香港版草案討論已經開始！香港中文大學學生會知識產權關注小組官方網誌
+^ Creative Commons International Hong Kong 互联网档案馆的存檔，存档日期2008-04-17.
+^ https://ocftw.github.io/tw.creativecommons.org/
+^ Lawrence Lessig. Free Culture ---Chinese Edition (自由文化). Socialbrain. 2004-04-10 [2018-01-01]. （原始内容存档于2004-04-11） （中文（中国大陆）‎）. 
+^ Jedi. 《秋天的孩子》新片發表會. Creative Commons. 2005-09-22 [2018-01-01]. （原始内容存档于2006-02-09） （中文（台灣）‎）. 
+^ Stephen. 首张采用知识共享中国大陆许可协议的CD发布. Creative Commons. 2006-03-29 [2018-01-01]. （原始内容存档于2006-04-07） （中文（中国大陆）‎）. 
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：创作共用
+
+
+
+
+维基文库中相关的原始文献：
+Creative Commons Attribution-ShareAlike License
+
+
+
+
+
+维基语录上的相关摘錄：創用CC
+
+
+
+
+维基新闻相关報導：
+CC China 2.5协议正式发布
+
+
+
+官方网站
+所有的知识共享协议
+各国的知识共享本地化协议
+Creative Commons知识共享 - 中國大陆官方网站
+創用 CC ─ Creative Commons Taiwan - 台灣官方网站
+香港共享創意 - 香港官方網站
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+創作共用授权
+
+
+
+
+
+
+作品及项目
+
+
+
+
+
+
+
+授权的作品及项目（英语：List of works available under a Creative Commons license）（Category:創作共用授权的作品（英语：Category:Creative Commons-licensed works））
+内容目录（英语：Creative Commons-licensed content directories）
+管辖区（英语：Creative Commons jurisdiction ports）
+
+
+
+
+
+
+
+
+
+主要项目
+
+
+
+
+共享創意
+ccMixter（英语：ccMixter）
+Ourmedia（英语：Ourmedia]]]）
+OpenGameArt.org（英语：OpenGameArt.org）
+Dogmazic（英语：Dogmazic）
+Jamendo
+Phlow（英语：Phlow）
+Electrobel（英语：Electrobel）
+Newgrounds音頻門戶（英语：Newgrounds#Audio portal）
+Scripped（英语：Scripped）
+Mininova（英语：Mininova）
+維基媒體 （共享資源）
+
+
+
+
+
+
+
+
+
+
+
+人物
+
+
+
+勞倫斯·雷席格
+伊藤穰一
+
+
+
+
+
+
+
+
+参见
+
+
+
+自由及开放内容
+自由文化运动
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+知识产权激进主义
+
+
+
+
+
+
+问题和争论
+
+
+
+版权侵犯
+软件版权侵犯
+数字版权管理
+Gripe site（英语：Gripe site）
+音乐著作权的历史
+知识产权
+文件分享的合法性
+混制
+
+视频
+音乐
+
+
+专利权
+公有领域
+软件专利争论
+專利流氓
+
+
+
+
+
+
+
+
+概念
+
+
+
+All Rights Reversed
+Anti-版权 notice
+Copyleft
+版权属左的商业应用
+Commons-based peer production（英语：Commons-based peer production）
+自由内容
+自由软件许可
+信息无政府主义
+Libertarian positions（英语：Libertarian perspectives on intellectual property）
+开放内容
+开放设计
+开放音乐模式
+开放专利权
+开源硬件
+开源软件
+相同方式共享
+
+
+
+
+
+
+
+
+运动
+
+
+
+知识无界运动
+反版权
+文化环境
+自由文化运动
+自由软件运动
+
+
+
+
+
+
+
+
+组织
+
+
+
+创作共用
+
+电子前哨基金会
+自由软件基金会
+自由权利组织
+软件自由法律中心
+Organization for Transformative Works（英语：Organization for Transformative Works）
+海盗湾
+海盗署
+海盗党
+Students for Free Culture（英语：Students for Free Culture）
+
+
+
+
+
+
+
+
+人物
+
+
+
+李卡德·法克明炎
+勞倫斯·雷席格
+理查德·斯托曼
+
+
+
+
+
+
+
+
+文档
+
+
+
+幹走電影 (2006, 2007)
+正版盗版 (2007)
+混制宣言 (2008)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+自由文化和开放源代码运动
+
+
+
+
+
+
+概念
+
+
+
+公众科学
+共有知识（英语：Knowledge commons）
+开放获取
+开放式协同合作
+开放内容
+开放交流（英语：Open communication）
+开放资料
+开放设计（英语：Open design）
+开放教育（英语：Open education）
+开放政府（英语：Open government）
+开放式创新
+开放知识（英语：Open knowledge）
+开放专利（英语：Open patent）
+开放研究（英语：Open research）
+开放科学
+开源架构（英语：Opensource Architecture）
+开源软件
+开源治理（英语：Open-source governance）
+开源新闻（英语：Open-source journalism）
+开源硬件
+开放标准
+开放式大学（英语：Open-door academic policy）
+
+入学
+
+
+开放Web
+
+
+
+
+
+
+
+
+工具
+
+
+
+自由及开放源代码软件
+开放教育资源
+开放音乐模型（英语：Open Music Model）
+开放科学笔记（英语：Open notebook science）
+
+
+
+
+
+
+
+
+组织
+
+
+
+知识共享
+DIYbio（英语：DIYbio）
+自由软件基金会
+开放架构网络（英语：Open Architecture Network）
+开放知识基金会（英语：Open Knowledge Foundation）
+开放权力集团（英语：Open Rights Group）
+开放源代码促进会
+软件自由法律中心
+公共科学图书馆（PLOS）
+学术出版与学术资源联盟（英语：Scholarly Publishing and Academic Resources Coalition）（SPARC）
+
+
+
+
+
+
+
+
+活动家
+
+
+
+亚伦·斯沃茨
+John Wilbanks（英语：John Wilbanks）
+劳伦斯·莱斯格
+Peter Murray-Rust（英语：Peter Murray-Rust）
+Peter Suber（英语：Peter Suber）
+理查德·斯托曼
+蒂姆·伯纳斯-李
+
+
+
+
+
+
+
+
+项目
+
+
+
+创作共用授权
+自由文化作品定义（英语：Definition of Free Cultural Works）
+自由文化运动
+自由软件运动
+开源生态学
+OpenCores（英语：OpenCores）
+OpenWetWare（英语：OpenWetWare）
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 152808990
+GND: 7565402-7
+SUDOC: 158278895
+BNF: cb14609270n（数据）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：創作共用版权网络文化知识产权美國民間組織美国文化组织旧金山组织2001年建立的組織隐藏分类：Webarchive模板wayback链接含有英語的條目带有失效链接的条目条目有永久失效的外部链接缺少主语或者主语不够具体的语句维基百科和维基数据上的官方网站不同有非常模棱两可或者十分空泛语句的条目本地链接的维基共享资源分类与Wikidata不同包含规范控制信息的维基百科条目

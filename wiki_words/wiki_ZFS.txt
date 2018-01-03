@@ -1,0 +1,627 @@
+ZFS
+
+
+
+
+
+本条目可参照英語維基百科相應條目来扩充。 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+
+
+
+
+
+
+ZFS
+
+开发者
+甲骨文公司
+
+
+全称
+ZFS
+
+
+发布
+2005年11月 (OpenSolaris)
+
+
+结构
+
+
+目录内容
+可扩展哈希表
+
+
+限制
+
+
+最大文件尺寸
+264字节（16 Exabytes)
+
+
+最大文件数量
+248
+
+
+最长文件名
+255字节
+
+
+最大卷容量
+264字节（16 exabytes）
+
+
+功能
+
+
+岔流
+是（称作扩展文件属性）
+
+
+属性
+POSIX
+
+
+文件系统权限
+POSIX、NFSv4 ACLs
+
+
+透明压缩
+是
+
+
+透明加密
+是
+
+
+Data deduplication
+是
+
+
+操作系统支持
+见下
+
+
+ZFS，一個檔案系統，擁有邏輯捲軸管理功能，最早源自于昇陽電腦为Solaris操作系统开发的文件系统。ZFS是一个具有高存储容量、文件系统与卷管理概念整合、崭新的磁盘逻辑结构的轻量级文件系统，同时也是一个便捷的存储池管理系统。ZFS是一个使用通用开发与散布许可证授权的开源项目，這個商標名稱現由甲骨文公司擁有。
+
+
+
+目录
+
+
+1 历史
+2 存储池
+3 容量
+4 写入时复制事务模型
+5 快照与克隆
+6 动态条带化
+7 可变块尺寸
+8 轻量化文件系统创建
+9 储存管理
+10 限制
+11 专利争端
+12 对其支持的操作系统
+13 参见
+14 參考文獻
+15 外部連結
+
+
+
+历史[编辑]
+ZFS的设计与开发由Sun公司的Jeff Bonwick所领导的一支团队完成。最早宣布于2004年9月14日，[1]於2005年10月31日并入了Solaris开发的主干源代码。[2]并在2005年11月16日作为OpenSolaris build 27的一部分发布。Sun在OpenSolaris社区开张1年后的2006年六月，将ZFS整合进了Solaris 10 6/06版本更新。[3]
+ZFS的命名來源發想於"Zettabyte File System"的首字母缩写。[4]但ZFS本身並不具備任何的縮寫意涵，只是作者想闡述做為一個具備高擴充容量檔案系統且還有支援許多延伸功能的一個產品。
+存储池[编辑]
+不同于传统文件系统需要驻留于单独设备或者需要一个卷管理系统去使用一个以上的设备，ZFS建立在虚拟的，被称为“zpools”的存储池之上（存储池最早在AdvFS實現[5]，並且加到後來的Btrfs）。每个存储池由若干虚拟设备（virtual devices，vdevs）组成。这些虚拟设备可以是原始磁盘，也可能是一个RAID1镜像设备，或是非标准RAID等级的多磁盘组。于是zpool上的文件系统可以使用这些虚拟设备的总存储容量。
+可以使用磁盘限额以及设置磁盘预留空间来限制存储池中单个文件系统所占用的空间。
+容量[编辑]
+ZFS是一个128位的文件系统，这意味着它能存储1800亿亿（18.4×1018）倍于当前64位文件系统的数据。ZFS的设计如此超前以至于这个极限就当前现实实际可能永远无法遇到。项目领导Bonwick曾说：“要填满一个128位的文件系统，将耗尽地球上所有存储设备。除非你拥有煮沸整个海洋的能量，不然你不可能将其填满。”[1]
+以下是ZFS的一些理论极限：
+
+248—任意文件系统的快照数量（2×1014）
+248—任何单独文件系统的文件数（2×1014）
+16 exabytes (264 byte)—文件系统最大尺寸
+16 exabytes (264 byte)—最大单个文件尺寸
+16 exabytes (264 byte)—最大属性大小
+128 Zettabytes (278 byte)—最大zpool大小
+256—单个文件的属性数量（受ZFS文件数量的约束，实际为248）
+256—单个目录的文件数（受ZFS文件数量的约束，实际为248）
+264—单一zpool的设备数
+264—系统的zpools数量
+264—单一zpool的文件系统数量
+
+作为对这些数字的感性认识，假设每秒钟创建1,000个新文件，达到ZFS文件数极限需要大约9,000年。
+在辩解填满ZFS与煮沸海洋的关系时，Bonwick写到：
+
+尽管我们都希望摩尔定律永远延续，但是量子力学给定了任何物理设备上计算速率（computation rate）与信息量的理论极限。举例而言，一个质量为1公斤，体积为1升的物体，每秒至多在1031位信息 上进行1051次运算[6]。一个完全的128位存储池将包含2128个块= 2137字节= 2140位；应此，保存这些数据位至少需要(2140位) / (1031位/公斤) = 1360亿公斤的物质。
+
+写入时复制事务模型[编辑]
+ZFS采用写入时复制事务对象模型。文件系统中的所有块指向都包含目标块的256位校验和或hash值（目前有Fletcher-2（英语：Fletcher's checksum）、 Fletcher-4与SHA-2供选择）[7]。在读取块时会对这些参数加以验证。包含活动数据的块不会被覆盖，而是给修改过的数据分配一个新块，任何引用此块的元数据块都被重新读取、重新分配和重写。为减少该过程的开销，多次读写更新会被归纳为一个事件组，在需要同步写入语义时会使用ZIL（目的日志（英语：intent log））写入缓存，而这些块会与校验和一同编入Merkle 树（英语：Merkle tree）中。
+利用写入时复制使ZFS的快照和事物功能的实现变得更简单和自然，快照功能更灵活，但严重碎片化问题是其缺点之一。对于通过顺序写生成的大文件，如果以后随机的对其中的一部分进行了更改，那么这个文件在硬盘上的物理地址就变得不再连续，未来的顺序读会变得性能比较差。
+快照与克隆[编辑]
+当ZFS写入新数据时，可以保留包含旧数据的块，因而能够维护文件系统的快照版本。ZFS快照具备一致性（快照基于单个时间点反映整个数据）。而因为组合快照的所有数据都会被储存，且整个存储池通常每小时会进行几次快照，所以快照的创建速度非常快。任何未变动的数据会在文件系统及其快照之间进行共享，因此也具备空间高效性。快照本质上是只读的，确保在创建后快照不会被修改。快照可以被整个恢复，也可以恢复快照中的某些文件或目录。
+ZFS也可以创建可写快照（“克隆”），让两个独立的文件系统共享一组块。对克隆文件系统的修改都会创建新的数据块以反映这些更改。但是无论存在多少个克隆，未变动的块仍然会被共享。这是写入时复制原则的实施方式。
+动态条带化[编辑]
+ZFS能动态条带化所有设备以最大化吞吐量。当额外的设备被加入到zpool中的时候，条带宽度会自动扩展以包含这些设备。这使得存储池中的所有磁盘都被用到，同时负载被平摊到所有的磁盘上。
+可变块尺寸[编辑]
+ZFS使用可变大小的块，最大可至128KB。现有的代码允许管理员调整最大块大小，这在大块效果不好的时候有用。未来也许能做到自动调整适合工作量的块大小。[需要引用]
+ZFS的可变大小的块与BtrFS和Ext4的extent不同。在ZFS中，在一个文件中所有数据块的逻辑长度必须是相同的，不同文件之间的块大小可以不同，因此ZFS可以用直接映射（direct map）的方式（同ufs/ffs/ext2/ext3）来来搜索间接块的数据指针数组（blkptr）。BtrFS和Ext4的extent方式在同一个文件中每个数据快的大小都可以不相同，因此需要用B+ Tree或者类B Tree的方式来组织间接块的数据。
+虽然直接映射方式比B+ Tree的查找速度快，但是这种方式的缺点也非常明显，如：元数据开销过大、顺序IO的大文件性能不好、删除比较慢等等，因此在现代文件系统中映射方式逐渐被extent变长块取代。
+如果数据压缩（LZJB）被启用，可变块大小需要被用到。如果一个数据块可被压缩至一个更小的数据块，则小的数据块将使用更少的存储和提高吞吐量（代价是增加CPU压缩和解压缩的负担）。
+轻量化文件系统创建[编辑]
+在ZFS中，存储池中文件系统的操作相比传统文件系统的卷管理更加便捷。创建ZFS文件系统或者改变一个ZFS文件系统的大小接近于传统技术中的管理目录而非管理卷。
+储存管理[编辑]
+限制[编辑]
+ZFS的最新beta版已支持透明加密。[8]
+专利争端[编辑]
+NetApp指控Sun的ZFS文件系统侵犯了它WAFL的七项专利，Sun反诉NetApp侵犯了12项专利，其中包括NFS协议等。后来专利争端以和解告终。
+对其支持的操作系统[编辑]
+
+Sun Solaris
+OpenSolaris
+Illumos发行版
+OpenIndiana
+FreeBSD
+Mac OS X Server 10.5
+NetBSD
+Linux（通过用户空间文件系统或原生第三方内核可載入核心模組支持）[9]
+Ubuntu从16.04起开始
+
+参见[编辑]
+
+Btrfs
+OpenZFS
+
+參考文獻[编辑]
+
+
+^ 1.0 1.1 ZFS: the last word in file systems. Sun Microsystems. September 14, 2004 [2006-04-30]. 
+^ Jeff Bonwick. ZFS: The Last Word in Filesystems. Jeff Bonwick's Blog. October 31, 2005 [2006-04-30]. （原始内容存档于2012年10月13日）. 
+^ Sun Celebrates Successful One-Year Anniversary of OpenSolaris. Sun Microsystems. June 20, 2006. 
+^ Jeff Bonwick. You say zeta, I say zetta. Jeff Bonwick's Blog. 2006-05-04 [2006-09-08]. （原始内容存档于2012-10-13）. 
+^ AdvFS內部設計文件 (AdvFS Design Docs). SourceForge.net. 
+^ Seth Lloyd, "Ultimate physical limits to computation（计算的终极物理限制）互联网档案馆的存檔，存档日期2008-08-07.." Nature 406, 1047-1054 (2000)]
+^ ZFS On-Disk Specification (PDF). Sun Microsystems, Inc. 2006. （原始内容 (PDF)存档于2008年12月30日）.  见2.4节。
+^ OpenSolaris Project: ZFS on disk encryption support. OpenSolaris Project. [2006-12-13]. （原始内容存档于2012-10-13）. 
+^ 1.1 What about the licensing issue?. [November 18, 2010]. 
+
+
+外部連結[编辑]
+
+ZFS主頁
+ZFS on Linux - 美國勞倫斯利福摩爾國家實驗室的ZFS on Linux開源計劃
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+文件系统
+
+
+
+
+
+
+
+
+
+文件系统列表
+文件系统的对比
+Unix的文件系统（英语：Unix filesystem）
+
+
+
+
+
+
+
+
+磁盘
+
+
+
+
+
+
+
+ADFS（英语：Advanced Disc Filing System）
+AdvFS
+Amiga FFS（英语：Amiga Fast File System）
+Amiga OFS（英语：Amiga Old File System）
+APFS
+AthFS（英语：AtheOS File System）
+BFS
+
+Be文件系统（英语：Be File System）
+启动文件系统（英语：Boot File System）
+
+
+Btrfs
+DFS（英语：Disc Filing System）
+EFS
+
+加密文件系统
+区段文件系统（英语：Extent File System）
+
+
+Episode（英语：Episode filesystem）
+ext
+
+ext2
+ext3
+ext3cow（英语：ext3cow）
+ext4
+
+
+FAT
+
+exFAT
+
+
+Files-11（英语：Files-11）
+Fossil
+HAMMER（英语：HAMMER）
+HFS
+HFS+
+HPFS
+HTFS（英语：High Throughput File System）
+IBM通用并行文件系统（英语：IBM General Parallel File System）
+JFS（英语：JFS (file system)）
+LFS（英语：Log-structured File System (BSD)）
+MFS
+
+Macintosh文件系统（英语：Macintosh File System）
+Tivo媒体文件系统（英语：Tivo Media File System）
+
+
+MINIX
+NetWare文件系统（英语：NetWare File System）
+Next3（英语：Next3）
+NILFS（英语：NILFS）
+
+NILFS2（英语：NILFS2）
+
+
+NSS（英语：Novell Storage Services）
+NTFS
+OneFS（英语：OneFS distributed file system）
+PFS（英语：Professional File System）
+QFS（英语：QFS）
+QNX4FS（英语：QNX4FS）
+ReFS
+ReiserFS
+
+Reiser4（英语：Reiser4）
+
+
+Reliance（英语：Reliance (file system)）
+Reliance Nitro（英语：Reliance Nitro）
+RFS
+SFS（英语：Smart File System）
+Soup（英语：Soup (Apple)）
+Tux3（英语：Tux3）
+UBIFS
+UFS
+VxFS（英语：Veritas File System）
+WAFL（英语：Write Anywhere File Layout）
+Xiafs（英语：Xiafs）
+XFS
+Xsan（英语：Xsan）
+zFS（英语：zFS (z/OS file system)）
+ZFS
+
+
+
+
+
+
+
+
+
+光碟
+
+
+
+
+HSF（英语：High Sierra Format）
+ISO 9660
+ISO 13490（英语：ISO 13490）
+UDF
+
+
+
+
+
+
+
+
+
+闪存和SSD
+
+
+
+
+APFS
+FAT
+exFAT
+CHFS（英语：CHFS）
+TFAT
+FFS2
+F2FS
+HPFS
+JFFS（英语：JFFS）
+JFFS2
+JFS（英语：JFS (file system)）
+LogFS
+NILFS（英语：NILFS）
+
+NILFS2（英语：NILFS2）
+
+
+NVFS（英语：Non-Volatile File System）
+YAFFS
+UBIFS
+
+
+
+
+
+
+
+
+
+分布式
+
+
+
+
+CXFS（英语：CXFS）
+GFS2（英语：GFS2）
+Google檔案系統
+OCFS2（英语：OCFS2）
+OrangeFS（英语：OrangeFS）
+PVFS（英语：Parallel Virtual File System）
+QFS（英语：Quantcast File System）
+Xsan（英语：Xsan）
+更多...
+
+
+
+
+
+
+
+
+
+
+
+NAS
+
+
+
+AFS（OpenAFS）
+AFP
+Coda
+DFS
+GPFS（英语：IBM General Parallel File System）
+Google檔案系統
+Lustre
+NCP
+NFS
+POHMELFS（英语：POHMELFS）
+Hadoop
+SMB (CIFS)
+SSHFS
+更多...
+
+
+
+
+
+
+
+
+特殊
+
+
+
+
+
+
+
+Aufs
+AXFS（英语：AXFS）
+启动文件系统（英语：Boot File System）
+CDfs（英语：CDfs）
+光盘文件系统（英语：Compact Disc File System）
+Cramfs
+Davfs2（英语：Davfs2）
+FTPFS
+FUSE
+GmailFS
+Lnfs
+LTFS（英语：Linear Tape File System）
+MVFS（英语：Rational MultiVersion File System）
+SquashFS
+UMSDOS（英语：FAT filesystem and Linux）
+OverlayFS
+UnionFS（英语：UnionFS）
+WBFS（英语：WBFS）
+
+
+
+
+
+
+
+
+
+伪/虚拟
+
+
+
+
+configfs（英语：configfs）
+devfs（英语：Device file）
+debugfs（英语：debugfs）
+kernfs（英语：kernfs (BSD)）
+procfs
+specfs
+sysfs
+tmpfs
+WinFS
+
+
+
+
+
+
+
+
+
+加密（英语：Filesystem-level encryption）
+
+
+
+
+eCryptfs
+EncFS（英语：EncFS）
+EFS
+Rubberhose（英语：Rubberhose (file system)）
+SSHFS
+ZFS
+
+
+
+
+
+
+
+
+
+
+
+类型
+
+
+
+集群
+
+全局（英语：Global file system）
+网格（英语：Grid File System）
+自我认证（英语：Self-certifying File System）
+
+
+闪存
+日志
+日志结构（英语：Log-structured file system）
+对象（英语：Object storage）
+面向记录（英语：Record-oriented filesystem）
+语义（英语：Semantic file system）
+隐写（英语：Steganographic file system）
+合成（英语：Synthetic file system）
+版本（英语：Versioning file system）
+
+
+
+
+
+
+
+
+特性
+
+
+
+
+
+
+
+保留大小写
+寫入時複製
+重复数据删除
+数据擦洗（英语：Data scrubbing）
+原地执行（英语：Execute in place）
+Extent
+文件属性
+
+扩展文件属性
+
+
+文件更改日志
+Fork
+链接
+
+硬链接（英语：Hard link）
+符号链接
+
+
+
+
+
+
+
+
+
+
+
+访问控制（英语：Computer access control）
+
+
+
+
+存取控制串列
+文件系统级加密（英语：Filesystem-level encryption）
+权限
+
+Modes（英语：Modes (Unix)）
+粘滞位
+
+
+
+
+
+
+
+
+
+
+
+
+
+接口
+
+
+
+檔案管理器
+文件系统API（英语：File system API）
+
+可安装文件系统
+
+
+虛擬檔案系統
+
+
+
+
+
+
+
+
+
+
+
+
+分类：磁盘文件系统昇陽電腦軟體Linux檔案系統OpenSolaris隐藏分类：Webarchive模板wayback链接需要從英語維基百科翻譯的條目

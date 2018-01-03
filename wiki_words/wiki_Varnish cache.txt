@@ -1,0 +1,94 @@
+Varnish cache
+
+
+
+
+
+
+Varnish cache
+
+原作者
+Poul-Henning Kamp
+
+
+穩定版本
+
+
+
+穩定版本
+
+5.1  / 2017年2月25日
+
+
+
+系統平台
+Unix
+
+
+语言
+C語言
+
+
+类型
+快取伺服器
+
+
+许可协议
+BSD許可證
+
+
+網站
+https://www.varnish-cache.org/
+
+
+Varnish cache，或稱Varnish，是一套高效能的反向網站快取伺服器（reverse proxy server）。
+Varnish目前被用在挪威最大的報社Verdens Gang上。
+
+
+
+目录
+
+
+1 起因
+2 參考資料
+3 相關條目
+4 外部連結
+
+
+
+起因[编辑]
+Poul-Henning Kamp認為現在的電腦比起1975年已經複雜許多。在1975年時，儲存媒介只有兩種：記憶體與硬碟。但現在電腦系統的記憶體除了主記憶體外，還包括了CPU內的L1、L2，甚至有L3快取。硬碟上也有自己的快取裝置，因此Squid cache自行處理物件替換的架構不可能得知這些情況而做到最佳化，但作業系統可以得知這些情況，所以這部份的工作應該交給作業系統處理。[1]
+參考資料[编辑]
+
+
+^ Notes from the Architect 互联网档案馆的存檔，存档日期2007-08-16.，Poul-Henning Kamp 對於Varnish cache設計架構的介紹。
+
+
+相關條目[编辑]
+
+代理伺服器
+Squid cache
+
+外部連結[编辑]
+
+Varnish，官方網站。
+
+
+
+
+这是一篇與软件相關的小作品。你可以通过编辑或修订扩充其内容。
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+
+隐藏分类：Webarchive模板wayback链接全部小作品软件小作品

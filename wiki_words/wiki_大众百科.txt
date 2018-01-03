@@ -1,0 +1,505 @@
+大众百科
+
+
+
+
+
+
+大眾百科（Citizendium）
+
+网站类型
+網路百科全書
+
+
+语言
+英文
+
+
+创始人
+拉里·桑格
+
+
+标语
+An encyclopedia project—and more!
+
+
+网站
+citizendium.org
+
+
+Alexa排名
+ 286,796 (截至2014年10月12日 (2014-10-12)[update])[1]
+
+
+商业性质
+否
+
+
+注册
+可选（编辑页面则需注册）
+
+
+推出时间
+2006年10月23日，​11年前​（2006-10-23）（试验）
+2007年3月25日，​10年前​（2007-03-25）（公开）
+
+
+现状
+很不活跃[2][3]
+
+
+內容許可
+CC BY-SA 3.0
+
+
+大众百科（英语：Citizendium，/ˌsɪtᵻˈzɛndiəm/ SIT-i-ZEN-dee-əm），又译为公民汇编、公民纪要等，是由維基百科共同創辦人拉里·桑格（Larry Sanger）创办的一个以Wiki技术为基础的英文自由內容在线百科全书项目。它要求用户的真实姓名和身份，并要求内容通过专家评审。目前，该计划正处于测试阶段，只有英语版本，尚无官方的中文译名。此百科網站與維基百科一樣使用Mediawiki。
+
+
+
+目录
+
+
+1 目标和特点
+2 发展历史
+3 参考文献
+4 外部链接
+
+
+
+目标和特点[编辑]
+大众百科的目标是建立一个由“阅读科学和知识的受教育有思想的人”编写的“新知识汇总（英语：Compendium）”[4]。大众百科希望推行一种专家文化和一个鼓励学科专家（作为“编辑”）进行编辑而大众（“作者”）尊重专家意见的社区。一旦意见不一致，则根据桑格公布的大众百科政策框架解决[5]。专家需要通过透明的过程验证他们的资格，以达到可广泛接受到权威。这一点与维基百科匿名的特点正相反，在维基百科中专家没有特殊地位，条目也不需要专家的审查。
+发展历史[编辑]
+大众百科开始于2006年9月15日，桑格在柏林操作系统巫师会议（英语：Wizards of OS）上宣布了该计划，但没有给出具体实施时间[6]。该项目最早被宣称为英语维基百科的一个复刻[7]，但这个想法在2007年3月公开发布前被放弃，改为赞成原创文章。该项目的目标是通过高可靠性来改进维基百科模型[8]。它寄希望于通过要求几乎所有贡献者使用自己的真实姓名、对日常贡献者提供的“温和的专家监督”，以及通过其“条目批准”机制来实现对项目中不专业行为的严格控制。批准的条目为已由具备证书的主题专家进行同行評審，并被关闭实时编辑。[9][10]
+小范围内的实验版本开始于10月23日，不接受公众注册，而只接受邀请的编辑者[11]。11月8日，该计划拥有263名用户、183个活跃条目（有人正进行编辑）、以及300个左右的编辑次数[12] 。
+2007年3月25日，大众百科结束小范围实验，网站向大众开放运行，开始其“Beta”测试版[13]。这一开放运行受到了媒体广泛的关注，大众百科被普遍认为维基百科的竞争对手和威胁[14][15][16][17][18]。
+截至2011年10月27日，该网站的活跃成员少于100人。[2]截至2017年11月 (2017-11)[update]，其有16,938篇条目，其中160篇获得了编辑批准，约有5名贡献者每月至少编辑1次。[3]
+参考文献[编辑]
+
+
+^ Citizendium.org Site Info. Alexa Internet. [2014-10-12]. 
+^ 2.0 2.1 Lee, Timothy B. Citizendium turns five, but the Wikipedia fork is dead in the water. Ars Technica. [27 October 2011]. 
+^ 3.0 3.1 "Welcome to Citizendium", Citizendium. Retrieved 2017-11-21, and "Statistics", Active users (Users who have performed an action in the last 30 days), Citizendium. Retrieved 21 November 2017.
+^ （英文）拉里·桑格，“通向一个新知识汇编” 互联网档案馆的存檔，存档日期2006-10-11.，大众百科。
+^ （英文）拉里·桑格，“大众百科政策框架” 互联网档案馆的存檔，存档日期2007-07-03.，大众百科。
+^ 拉里·桑格，“9月26日的大众百科实施计划” 互联网档案馆的存檔，存档日期2011-07-20.，大众百科邮件列表，2006年9月27日。
+^ Andrew Orlowski."Wikipedia founder forks Wikipedia, More experts, less fiddling?", The Register（英语：The Register）, 18 September 2006. In software engineering, a project fork occurs when developers take a copy of source code from one software package and start independent development on it, creating a distinct piece of software.
+^ The Citizendium's Statement of Fundamental Policies. Citizendium. 6 September 2007 [25 February 2008]. 
+^ McCarthy, Caroline. Citizendium: Wikipedia co-founder Sanger's Wikipedia riva l. CNET. 23 January 2007 [13 April 2009]. 
+^ Anderson, Nate. Citizendium: building a better Wikipedia. Ars Technica. 25 February 2007 [13 April 2009]. 
+^ Jason Potkanski. “募集开发者：大众百科网站开放” 互联网档案馆的存檔，存档日期2011-09-29.，大众百科邮件列表，2006年10月23日。
+^ 拉里·桑格，“2006年11月8日统计数据” 互联网档案馆的存檔，存档日期2007年09月29日，.，大众百科博客，2006年11月8日。
+^ 拉里·桑格，“我们开始运行了” 互联网档案馆的存檔，存档日期2007-09-25.，大众百科博客，2007年3月25日。
+^ 維基百科出現對手 - Taiwan.CNET.com
+^ 維基百科 出現勁敵了![失效連結] - 電子商務時報 ECTimes
+^ Web2.0時代標志維基百科分裂 - 北京新浪網
+^ 維基百科創始人另立門戶 實名大眾百科今公測[失效連結] - 中國經濟網
+^ Web2.0時代標誌維基百科分裂 創始人另起爐灶[失效連結] - 中國經濟網
+
+
+外部链接[编辑]
+
+官方网站（英文）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+維基百科
+
+
+
+
+
+
+百科概要（英语：Outline of Wikipedia）
+
+
+
+維基
+利益衝突編輯
+批評
+刪除主義和保留主義
+性別偏誤
+種族偏差（英语：Racial bias on Wikipedia）
+關注度
+可靠性
+來源請求（日语：要出典）
+破壞
+維基百科健康資訊（英语：Health information on Wikipedia）
+
+
+
+
+
+
+
+
+維基社群
+
+
+
+
+百科運作
+
+
+
+管理員
+仲裁委員會
+編輯松
+The Signpost（英语：The Signpost）
+維基愛古蹟
+Art+Feminism（英语：Art+Feminism）
+駐點維基人（英语：Wikipedian in residence）
+年度維基人（英语：Wikipedian of the Year）
+維基教育基金會
+
+
+
+
+
+
+
+
+運動夥伴
+
+
+
+維基媒體基金會
+維基媒體分會
+
+德國
+法國
+義大利
+荷蘭
+波蘭
+中華民國
+香港
+澳門
+Amical（加泰罗尼亚语：Amical Wikimedia）
+
+
+維基媒體計劃
+
+元維基
+維基百科
+維基詞典
+維基數據
+維基教科書
+維基共享資源
+維基新聞
+維基語錄
+維基文庫
+維基物種
+維基學院
+維基導遊
+
+
+維基媒體國際會議
+中文維基年會
+
+
+
+
+
+
+
+
+
+
+
+著名人物
+
+
+
+弗洛朗絲·德伍阿爾
+奧斯卡·范·迪倫（英语：Oscar van Dillen）
+蘇·加德納
+詹姆斯·海爾曼
+凱薩琳·馬赫
+馬格努斯·曼斯克
+埃里克·默勒
+拉里·桑格
+莉拉·崔迪科夫
+吉米·威爾斯
+安吉拉·貝絲蕾·斯塔林
+時昭
+許瑜真
+陳霆
+王鐘銘
+陳穎
+賈斯汀·納普
+提姆·謝爾
+麥可·斯諾
+邁克·戈德溫（英语：Mike Godwin）
+埃文·阿莫斯
+巴塞爾·哈爾塔比爾
+酈安治
+麥康瑞
+西蒙·普爾西斐
+亞倫·斯沃茨
+伊霍爾·柯斯登柯
+唐鳳
+加特·沃爾什
+雷米·馬蒂斯
+亞倫·哈爾費克（英语：Aaron Halfaker）
+達魯休·傑米爾尼亞克（英语：Dariusz Jemielniak）
+漢普頓·凱特林（英语：Hampton Catlin）
+達斯·庫珀（英语：Danese Cooper）
+比夏漢·達塔（英语：Bishakha Datta）
+亞倫·格斯里（英语：Arnnon Geshuri）
+蓋伊·川崎（英语：Guy Kawasaki）
+路爾斯·比利亞（英语：Luis Villa）
+
+
+
+
+
+
+
+
+百科歷史
+
+
+
+
+發展歷程
+
+
+
+Bomis
+Nupedia
+維基百科標誌
+義大利語維基百科大規模空白抗議
+反SOPA和PIPA抗議
+
+英語維基百科關站抗議（印尼语：Pemadaman Wikipedia bahasa Inggris）
+
+
+俄語維基百科關站抗議（俄语：Забастовка русской Википедии）
+皮埃爾敍奧特軍用無線電台事件
+維基百科也申遺
+1Lib1Ref（英语：1Lib1Ref）
+維基百科知識引擎
+涉及到維基媒體基金會的訴訟（英语：Litigation involving the Wikimedia Foundation）
+
+維基媒體基金會控告美國國家安全局案
+
+
+
+
+
+
+
+
+
+
+相關爭議（英语：List of Wikipedia controversies）
+
+
+
+美國國會職員的編輯
+Essjay事件
+席根塔勒傳記事件
+亨里克·巴圖塔惡作劇事件（英语：Henryk Batuta hoax）
+山達基教會的編輯（英语：Church of Scientology editing on Wikipedia）
+希爾斯堡慘劇編輯事件（英语：Hillsborough Wikipedia posts）
+MyWikiBiz（英语：MyWikiBiz）
+克里斯·班瓦謀殺事件（英语：Chris Benoit double-murder and suicide）
+美國中東新聞報導準確性委員會爭議（英语：Committee for Accuracy in Middle East Reporting in America）
+比喬利姆戰爭（加泰罗尼亚语：Bicholim conflict）
+
+
+
+
+
+
+
+
+審查封鎖
+
+
+
+網路觀察基金會審查
+中國大陸對維基媒體的封鎖
+俄羅斯對維基百科的封鎖（俄语：Блокирование Википедии в России）
+
+俄羅斯國家杜馬89417-6法案
+
+
+2017年土耳其封鎖維基百科事件
+
+
+
+
+
+
+
+
+
+
+
+相關技術
+
+
+
+
+網站技術
+
+
+
+Wiki
+MediaWiki
+维基可视化编辑器
+Lsjbot
+資訊框
+Wikiwand
+
+
+
+
+
+
+
+
+手機访问
+
+
+
+應用程式
+QRpedia
+Wapedia
+WikiNodes（英语：WikiNodes）
+維基百科零計劃
+
+
+
+
+
+
+
+
+內容使用
+
+
+
+Books LLC（英语：Books LLC）
+DBpedia
+Deletionpedia
+Kiwix
+WikiReader（英语：WikiReader）
+維基百科校園版
+維基掃描器
+
+
+
+
+
+
+
+
+
+
+
+獎勵紀念
+
+
+
+2008年勝利女神四馬戰車獎（英语：Quadriga (award)）
+2015年伊拉斯謨獎
+2015年阿斯圖里亞斯親王獎
+維基百科紀念雕像
+國際志願者日
+小行星274301
+
+
+
+
+
+
+
+
+造成影響
+
+
+
+文化領域（英语：Wikipedia in culture）
+相關書目（英语：Bibliography of Wikipedia）
+相關電影
+學術研究（英语：Academic studies about Wikipedia）
+Wikipedia Review（英语：Wikipedia Review）
+Wikipediocracy（英语：Wikipediocracy）
+Wiki-Watch（英语：Wiki-Watch）
+伊拉克戰爭：維基百科編輯歷史史學（英语：The Iraq War: A Historiography of Wikipedia Changelogs）
+列印維基百科
+大憲章（英语：Magna Carta (An Embroidery)）
+數字中的真相
+維基百科編輯手冊
+
+
+
+
+
+
+
+
+類似計畫
+
+
+
+Interpedia（英语：Interpedia）
+大眾百科
+自由百科
+Digital Universe（英语：Digital Universe）
+偽基百科
+Nonciclopedia（義大利語：Nonciclopedia）
+Vikidia（法语：Vikidia）
+Veropedia（英语：Veropedia）
+WikiZnanie（葡萄牙語：WikiZnanie）
+Lurkmore（俄语：Луркоморье）
+Wookieepedia
+Scholarpedia
+Wikia
+Wiki網站列表
+
+
+
+
+
+
+
+
+
+
+
+ 條目分類
+ 維基教科書
+ 維基數據
+ 維基共享資源
+ 維基新聞
+ 維基語錄
+ 維基文庫
+ 維基學院
+ 維基導遊
+ 維基辭典
+
+
+
+
+
+
+
+
+
+
+
+
+分类：在线百科全书MediaWiki網站隐藏分类：Webarchive模板wayback链接带有失效链接的条目条目有永久失效的外部链接维基百科和维基数据上的官方网站不同

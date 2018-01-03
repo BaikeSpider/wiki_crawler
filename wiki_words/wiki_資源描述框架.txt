@@ -1,0 +1,600 @@
+資源描述框架
+
+
+
+
+
+资源描述框架（英语：Resource Description Framework，縮寫为RDF），是万维网联盟（W3C）提出的一组标记语言的技术规范（英语：Specification (technical standard)），以便更为丰富地描述和表达网络资源（英语：Web resource）的内容与结构。
+
+
+
+目录
+
+
+1 参见
+2 参考文献
+3 延伸閱讀
+4 外部連結
+
+
+
+参见[编辑]
+
+元数据
+语义网
+简单知识组织系统
+Web 3.0
+RDF模式（英语：RDF Schema）
+本体语言
+
+OWL
+
+
+
+参考文献[编辑]
+
+
+W3C RDF Primer中文版
+
+延伸閱讀[编辑]
+
+W3C's RDF at W3C: specifications, guides, and resources
+RDF Semantics: specification of semantics, and complete systems of inference rules for both RDF and RDFS
+
+外部連結[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：資源描述框架
+
+
+
+开放式目录计划中和資源描述框架相关的内容
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+万维网联盟（W3C）
+
+
+
+
+
+
+產品及
+標準
+
+
+
+
+推薦
+
+
+
+ARIA（英语：WAI-ARIA）
+Canonical XML
+CDF（英语：Compound Document Format）
+CSS
+DOM
+地理位置API（英语：W3C Geolocation API）
+HTML（HTML5）
+ITS（英语：Internationalization Tag Set）
+MathML
+OWL
+P3P
+PLS（英语：Pronunciation Lexicon Specification）
+RDF
+RDF Schema（英语：RDF Schema）
+SISR（英语：Semantic Interpretation for Speech Recognition）
+SKOS
+SMIL
+SOAP
+SRGS（英语：Speech Recognition Grammar Specification）
+SSML
+SVG
+SPARQL
+Timed Text（英语：Timed Text）
+VoiceXML
+网页存储
+WSDL
+XForms
+XHTML
+XHTML+RDFa（英语：XHTML+RDFa）
+XInclude（英语：XInclude）
+XLink
+XML
+XML Base
+XML Encryption
+XML Events（英语：XML Events）
+XML信息集
+XML命名空间
+XML Schema
+XML Signature
+XOP（英语：XML-binary Optimized Packaging）
+XPath
+XPath 2.0（英语：XPath 2.0）
+XPointer（英语：XPointer）
+XProc（英语：XProc）
+XQuery（英语：XQuery）
+XSL
+XSL-FO
+XSLT（元素（英语：XSLT elements））
+
+
+
+
+
+
+
+
+记录
+
+
+
+XAdES（英语：XAdES）
+XHTML+SMIL（英语：XHTML+SMIL）
+XUP
+
+
+
+
+
+
+
+
+工作草案
+
+
+
+CCXML（英语：Call Control eXtensible Markup Language）
+CURIE（英语：CURIE）
+EME
+InkML
+JSON-LD
+MSE
+RIF
+SCXML（英语：SCXML）
+SMIL時間表（英语：SMIL Timesheets）
+sXBL（英语：sXBL）
+WICD（英语：Web Integration Compound Document）
+XFDL（英语：Extensible Forms Description Language）
+XFrames（英语：XFrames）
+XBL
+XMLHttpRequest
+
+
+
+
+
+
+
+
+檢測
+
+
+
+無障礙網頁檢測（英语：Web Content Accessibility Guidelines）
+
+
+
+
+
+
+
+
+倡議
+
+
+
+多通道交互活動（MMI）（英语：W3C MMI）
+驗証服務
+無障礙網頁倡議（英语：Web Accessibility Initiative）
+網絡平台（英语：WebPlatform）
+
+
+
+
+
+
+
+
+棄用
+
+
+
+C-HTML
+HDML（英语：Handheld Device Markup Language）
+JSSS（英语：JavaScript Style Sheets）
+PGML（英语：Precision Graphics Markup Language）
+VML
+XHTML+MathML+SVG（英语：XHTML+MathML+SVG）
+
+
+
+
+
+
+
+
+
+
+
+機構
+
+
+
+
+
+
+
+萬維網基金會（英语：World Wide Web Foundation）
+
+
+
+
+
+
+
+
+工作小組
+
+
+
+SVG（英语：SVG Working Group）
+CSS（英语：CSS Working Group）
+HTML（英语：HTML Working Group）
+WebOnt（語義網活動）（英语：WebOnt）
+設備描述（DDWG）（英语：W3C Device Description Working Group）
+網頁超文本技術工作小組（WHATWG）
+
+
+
+
+
+
+
+
+
+
+
+軟件
+
+
+
+
+
+
+
+CERN httpd
+Libwww
+
+
+
+
+
+
+
+
+瀏覽器
+
+
+
+Line Mode （1990年－）
+Arena （1993年－1998年）
+Agora （1994年－1997年）（英语：Agora (web browser)）
+Argo （1994年－1997年）（英语：Argo (web browser)）
+Amaya （瀏覽器及編輯器，1996年－2012年）
+
+
+
+
+
+
+
+
+
+
+
+會議
+
+
+
+國際萬維網大會（WWW大會）（英语：International World Wide Web Conference）
+
+督導委員會（IW3C2）（英语：International World Wide Web Conferences Steering Committee）
+第一屆（WWW1，1994年）（英语：First International Conference on the World-Wide Web）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+语义网
+
+
+
+
+
+
+背景
+
+
+
+知识
+万维网
+因特网
+数据库
+语义网络
+本体工程
+本体
+
+
+
+
+
+
+
+
+分主题
+
+
+
+数据网（英语：Data Web）
+数据空间（英语：Dataspaces）
+Dereferenceable URIs
+Hyperdata
+鍵連資料
+本体
+规则库
+
+
+
+
+
+
+
+
+应用
+
+语义维基（英语：Semantic wiki） · 语义发布（英语：Semantic publishing） · 语义搜索 · 语义宣传（英语：Semantic advertising） · 语义推理程序（英语：Semantic reasoner） · 语义匹配（英语：Semantic matching） · 语义映射程序（英语：Semantic mapper） · 语义代理程序（英语：Semantic broker） · 语义分析方法（英语：Semantic analytics） · 面向语义服务型架构（英语：Semantic service oriented architecture） · 语义检索
+
+
+
+
+
+
+相关主题
+
+
+
+集体智慧
+描述逻辑
+信息架构
+知识管理
+知识表示
+图书馆2.0
+元数据
+引用
+Web 2.0
+Plain Old Semantic HTML
+搜索引擎优化
+开放数据库连接(ODBC)
+主题地图
+心智图
+XML
+描述逻辑
+分众分类法
+
+
+
+
+
+
+
+
+人物
+
+蒂姆·伯纳斯-李 · James Hendler（英语：James Hendler） · Ora Lassila · Nigel Shadbolt · Wendy Hall
+
+
+
+
+
+
+关键的语义网组织
+
+W3C · WSRI · MIT · OpenLink软件 · Talis工作组 · ClearForest · 南安普敦大学 · DERI
+
+
+
+
+
+
+标准
+
+
+
+
+语法及支持技术
+
+
+
+HTTP
+IRI（英语：Internationalized resource identifier）
+
+URI
+
+
+资源描述框架(RDF)
+
+Notation 3（英语：Notation 3）
+Turtle (语法)（英语：Turtle (syntax)）
+JSON-LD（英语：JSON-LD）
+N-Triples（英语：N-Triples）
+
+
+SPARQL
+XML
+
+
+
+
+
+
+
+
+模式、本体和规则
+
+RDFS · OWL · 规则交换格式 · 语义网规则语言
+
+
+
+
+
+
+语义标注
+
+RDFa · eRDF · GRDDL · 微格式
+
+
+
+
+
+
+公共词表
+
+FOAF · SIOC · Dublin Core · SKOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+数据交换格式
+
+
+
+
+
+
+人类可读的格式
+
+
+
+Atom
+XML
+YAML
+JSON
+資源描述框架(RDF)
+Rebol
+RSS
+网络本体语言(OWL)
+
+
+
+
+
+
+
+
+二进制格式
+
+
+
+AMF
+Base32
+Base36
+Base58
+Base64
+Ascii85
+MessagePack
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh2003010124
+GND: 4737512-7
+
+
+
+
+
+
+
+
+
+
+
+这是一篇與计算机相關的小作品。你可以通过编辑或修订扩充其内容。
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+
+分类：知识表示XMLW3C标准資源描述架構隐藏分类：含有英語的條目包含规范控制信息的维基百科条目全部小作品電腦小作品

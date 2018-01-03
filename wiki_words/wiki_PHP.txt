@@ -1,0 +1,1609 @@
+PHP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+本条目需要更新。（2013年12月14日） 
+請更新本文以反映近況和新增内容。完成修改時，請移除本模板。 
+
+
+
+
+本文介紹的是程式設計語言。關於貨幣單位，請見「菲律賓披索」。
+
+
+
+PHP
+
+
+
+
+编程范型
+物件導向、指令式編程
+
+
+設計者
+拉斯姆斯·勒多夫
+
+
+實作者
+The PHP Group
+
+
+最新发行时间
+7.2.0（2017年11月30日，​31天前​（2017-11-30））
+
+
+型態系統
+動態、弱型別
+
+
+作業系統
+跨平台
+
+
+許可證
+PHP许可证
+
+
+網站
+http://php.net/ http://windows.php.net/
+
+
+
+
+
+啟發語言
+
+
+C、Perl、Java、C++、Python
+
+
+影響語言
+
+
+Php4delphi
+
+
+
+
+
+PHP（全称：PHP：Hypertext Preprocessor，即“PHP：超文本预处理器”）是一种开源的通用计算机脚本语言，尤其适用于网络开发并可嵌入HTML中使用。PHP的语法借鉴吸收C语言、Java和Perl等流行计算机语言的特点，易于一般程序员学习。PHP的主要目标是允许网络开发人员快速编写动态页面，但PHP也被用于其他很多领域。[1]
+PHP最初是由勒多夫在1995年开始开发的；現在PHP的標準由the PHP Group[2]維護。PHP以PHP License作為許可協議，不過因為這個協議限制了PHP名稱的使用，所以和開放原始碼許可協議GPL不相容。[3]
+PHP的應用範圍相當廣泛，尤其是在網頁程式的開發上。一般來說PHP大多執行在網頁伺服器上，透過執行PHP程式碼來產生使用者瀏覽的網頁。PHP可以在多數的伺服器和作業系統上執行，而且使用PHP完全是免費的。根據2013年4月的統計資料，PHP已經被安裝在超過2億4400萬個網站和210萬台伺服器上[4]。
+PHP在windows上有专门的官方移植编译项目，并且分多个VC编译器版本和线程安全特性来提供不同的版本支持。
+
+
+
+目录
+
+
+1 開發歷史
+
+1.1 版本歷程
+
+
+2 吉祥物
+3 應用
+4 安全
+
+4.1 PHP官网被駭入事件
+
+
+5 語法
+
+5.1 類型
+5.2 變數
+5.3 物件導向
+
+
+6 PHP相關資源
+
+6.1 PHP框架
+6.2 函式庫
+6.3 原始碼編碼和加速
+6.4 php包管理器
+
+
+7 PHP編譯器
+8 未來發展
+
+8.1 PHP 7
+
+
+9 彩蛋
+10 軼事
+11 註釋
+12 參考文獻
+
+12.1 引用
+12.2 来源
+
+
+13 外部連結
+
+
+
+開發歷史[编辑]
+
+
+
+
+Zend Technologies的創辦人之一 - Andi Gutmans
+
+
+
+
+
+
+Zend Technologies的創辦人之一 - Zeev Suraski
+
+
+PHP原本的簡稱為Personal Home Page[5]，是拉斯姆斯·勒多夫為了要維護個人網頁，而用c語言開發的一些CGI工具程式集，來取代原先使用的Perl程式。最初這些工具程式用來顯示拉斯姆斯·勒多夫的個人履歷，以及統計網頁流量[6]。他將這些程式和一些表單直譯器整合起來，稱為PHP/FI。PHP/FI可以和資料庫連接，產生簡單的動態網頁程式。拉斯姆斯·勒多夫在1995年6月8日將PHP/FI公開釋出，希望可以透過社群來加速程式開發與尋找錯誤[7]。這個釋出的版本命名為PHP 2，已經有今日PHP的一些雛型，像是類似Perl的變數命名方式、表單處理功能、以及嵌入到HTML中執行的能力。程式語法上也類似Perl，有較多的限制，不過更簡單、更有彈性。[6]
+在1997年，任職於Technion IIT公司的兩個以色列程式設計師：Zeev Suraski和Andi Gutmans，重寫了PHP的剖析器，成為PHP 3的基礎，而PHP也在這個時候改稱為PHP: Hypertext Preprocessor.[6]。經過幾個月測試，開發團隊在1997年11月釋出了PHP/FI 2，隨後就開始PHP 3的開放測試，最後在1998年6月正式釋出PHP 3。Zeev Suraski和Andi Gutmans在PHP 3釋出後開始改寫PHP的核心，這個在1999年釋出的剖析器稱為Zend Engine[8]，他們也在以色列的Ramat Gan成立了Zend Technologies來管理PHP的開發。[6]
+在2000年5月22日，以Zend Engine 1.0為基礎的PHP 4正式釋出，2004年7月13日則釋出了PHP 5，PHP 5則使用了第二代的Zend Engine[6]。PHP包含了許多新特色，像是強化的物件導向功能、引入PDO（PHP Data Objects，一個存取資料庫的延伸函式庫）、以及許多效能上的增強[9]。目前PHP 4已經不會繼續更新，以鼓勵用戶轉移到PHP 5。[10][11]
+2008年PHP 5成為了PHP唯一維護中的穩定版本。最新的发布版本为PHP 5.6.9。
+PHP 7的于2015年12月3日開發完成，主要的改進有PHPNG、JIT引擎、抽象语法树编译、异步编程。
+版本歷程[编辑]
+
+
+
+代表意義
+
+
+紅色
+舊版；官方停止支援
+
+
+黃色
+舊版；官方維護中
+
+
+綠色
+目前版本
+
+
+藍色
+未來版本
+
+
+
+
+主要版本
+次要版本
+釋出日期
+结束支持日期[12]
+說明
+
+
+1.0
+1.0.0
+1995年6月8日
+
+正式名稱為"Personal Home Page Tools (PHP Tools)"，第一次使用了"PHP"的名字。[6]
+
+
+2.0
+2.0.0
+1996年4月16日
+
+針對PHP 1.0的改進版，速度更快、體積更小，更容易產生動態網頁。[6]
+
+
+3.0
+3.0.0
+1998年6月6日
+2000年10月20日
+開發方式改成多人共同參與。Zeev Suraski和Andi Gutmans為了這個版本重寫了剖析引擎。[6]
+
+
+4.x
+4.0.0
+2000年5月22日
+2001年6月23日
+改成以Zend引擎作為剖析器，具有兩階段剖析/標籤剖析系統等先進功能。[13]
+
+
+4.1.0
+2001年12月10日
+2002年3月2日
+加入"超全域變數"（superglobals）功能，包含了$_GET、$_POST、$_SESSION等。[13]
+
+
+4.2.0
+2002年4月22日
+2002年9月6日
+預設取消register_globals功能。從網路接收的資料將不會設定成全域變數，增加程式安全性。[13]
+
+
+4.3.0
+2002年12月27日
+2005年3月31日
+加入命令列執行檔，稱為CLI，用以补充CGI[13][14]
+
+
+4.4.0
+2005年7月11日
+
+Added man pages for phpize and php-config scripts.[13]
+
+
+4.4.8
+2008年1月3日
+
+一些安全性的增強。曾可能為PHP 4的最後版本。若有必要，提供安全性更新到2008-08-08。[15]
+
+
+4.4.9
+2008年8月7日
+
+更多安全性增強和問題修補。PHP 4.4系列的最後版本。[16]
+
+
+5.x
+5.0.0
+2004年7月13日
+2005年9月5日
+推出有着新的对象模型的Zend Engine II。[17]
+
+
+5.1.0
+2005年11月24日
+2006年8月24日
+在往重新设计的PHP引擎引入编译变量时做了性能提升。[17]添加了PHP数据对象（PDO）作为访问数据库的统一接口。[18]
+
+
+5.2.0
+2006年11月2日
+2011年1月6日
+預設開啟"過濾"的擴充功能。[17]原生的JSON支援。[19]
+
+
+5.2.8
+2008年12月8日[20]
+
+紧急bug修复。[20]
+
+
+5.2.9
+2009年2月26日[21]
+
+解決了5.2.*的超過了50多個錯誤和多個安全問題，增加了穩定性。[21]
+
+
+5.2.10
+2009年6月18日[22]
+
+这个版本修正了大量的bug和安全漏洞，并升级了时区数据库。[22]
+
+
+5.2.17
+2011年1月6日[23]
+
+修正了一个浮点数转化的Bug。[23]
+
+
+5.3.0
+2009年6月30日[24]
+2014年8月14日
+支持命名空间;使用XMLReader和XMLWriter增强XML支持;支持SOAP ,[25]延迟静态绑定，跳转标签（有限的goto）, 闭包，Native PHP archives。
+
+
+5.3.3
+2010年7月22日[26]
+
+使用命名空间的类中，与类同名的成员函数不再作为构造函数。[27]
+
+
+5.3.6
+2011年3月17日[28]
+
+修正一系列Bug。[29]
+
+
+5.3.10
+2012年2月2日
+
+修正了Stefan Esser报告的任意远程代码执行漏洞，CVE-2012-0830。
+
+
+5.4.0
+2012年3月1日
+2015年9月3日
+支持Trait、简短数组表达式。移除了register_globals, safe_mode, allow_call_time_pass_reference, session_register(), session_unregister(), magic_quotes以及session_is_registered()。加入了内建的Web服务器。[30]增强了性能，减小内存使用量。
+
+
+5.5.0
+2013年6月20日
+2016年7月10日
+支持generators，用于异常处理的finally ，将OpCache（基于 Zend Optimizer+）加入官方发布中。
+
+
+5.6.0
+2014年8月28日
+2018年12月31日
+支持常量标量表达式、可变参数函数、指数运算符，增加phpdbg SAPI、统一的默认字符集。[31]
+
+
+6.x
+未发布
+不適用
+
+取消掉的、从未正式发布的PHP版本。[32][33]
+
+
+7.x
+7.0.0
+2015年12月3日[34]
+2018年12月3日
+Zend Engine 3 (性能提升[35]并在Windows上支持 64-bit 整数)，统一的变量语法， 
+基于抽象语法树编译过程。
+
+
+
+7.0.1
+2015年12月17日
+
+
+
+
+7.0.2
+2016年1月7日
+
+
+
+
+7.0.3
+2016年2月4日
+
+
+
+
+7.0.4
+2016年3月3日
+
+
+
+
+7.0.5
+2016年3月31日
+
+
+
+
+7.0.6
+2016年4月28日
+
+
+
+
+7.1.0
+2016年12月1日
+2019年12月1日
+
+
+
+7.1.1
+2017年1月19日
+
+
+
+
+7.1.2
+2017年2月17日
+
+
+
+
+7.1.5
+2017年5月11日
+
+
+
+
+吉祥物[编辑]
+
+
+
+
+吉祥物：elePHPant
+
+
+PHP計畫的吉祥物名叫「elePHPant」，PHP的logo在一頭藍象的裡面，由文森·龐蒂爾(Vincent Pontier)[36]在1998年[37]設計。當elePHPant被製作成毛絨玩具時，有時顏色會有不同。
+
+應用[编辑]
+
+
+
+
+網路應用開發
+
+
+PHP是一個應用範圍很廣的語言，特別是在網路程式開發方面。一般來說PHP大多在伺服器端執行，透過執行PHP的程式碼來產生網頁提供瀏覽器讀取，此外也可以用來開發命令列腳本程式和使用者端的GUI應用程式。PHP可以在許多的不同種的伺服器、作業系統、平台上執行，也可以和許多資料庫系統結合。使用PHP不需要任何費用，官方組織PHP Group提供了完整的程序源代码，允許使用者修改、編譯、擴充來使用。[38]
+安全[编辑]
+据National Vulnerability Database数据显示，与PHP有关的数据库攻击比例为：20% 2004, 28% 2005, 43% 2006, 36% 2007, 35% 2008 and 32% 2009[39]。其中很多的漏洞都可以通过远程操作完成，如：黑客可以通过网络连接攻击服务器，达到盗取或毁坏数据，发送垃圾邮件或进行分散式阻斷服務攻擊。但是随着更多的关注，PHP也变得越来越安全了。
+PHP官网被駭入事件[编辑]
+2010年12月17日，PHP代码“贡献者名单”中被加入“Wolegequ Gelivable”字样（中文含义“我勒个去 给力”），约半小时后被删除。[40][41][42]2011年3月19日，PHP官方发布声明[43]指出，黑客可能是通过wiki.php.net作为入口攻击了代码系统。并且，官方已经检查过自版本5.3.5以来釋出的代码，并没有发现恶意内容。但官方同时表示，尚未完全掌握黑客发动本次攻击的具体细节。
+語法[编辑]
+PHP的語法參考了Perl、C語言，而且可以整合在HTML之中，以下是一個簡單的Hello World程式碼：
+
+
+ <?php
+    echo 'Hello World!';
+ ?>
+
+PHP剖析引擎只剖析<?php到?>之間的程式碼，而不包含在<?php到?>之間的內容則會直接送出，所以可以用以下的方式來將PHP程式碼嵌入在HTML之中：
+
+
+ <?php
+ //-PHP-{zh-hans:代码;zh-hant:程式碼：}-
+ ?>
+ html內容
+ <?php
+ //-PHP-{zh-hans:代码;zh-hant:程式碼：}-
+ ?>
+
+在HTML中嵌入PHP时，比如需要單獨输出某個變數，除了正常採用 echo 方式外，也可以直接採用下列方式：
+
+
+ <?=$title?>
+
+但是上述這種方式曾經引起爭議，有的人並不推薦這種方式的縮寫[44]（其原因為：並不是所有伺服器都支援縮寫，但在後期之後此選項為預設開啟），也有人因為採用這種方法，造成與 XML 搞混[45]的情況。
+在判斷語句中的HTML代碼並不會被直接送出：
+
+
+ <?php
+ if (false) {
+ ?>
+ HTML Code
+ <?php
+ }
+ ?>
+
+PHP可以用三種註解的形式：C與C++所使用的「/*...*/」與「//」，和Perl的「#」。
+
+
+ <?php
+ /* 多行註解的第一行
+ 多行註解的另一行 */
+
+ // 單行註解
+
+ # 單行註解
+ ?>
+
+類型[编辑]
+PHP主要有八种基本数据类型[46]，其中包括：
+
+四種变量類型
+
+整數型（integer）
+浮點數型（float）
+布尔型（boolean）
+字符串（string）
+
+
+兩種複合類型
+
+陣列（array）
+对象（object）
+
+
+兩種特殊類型
+
+NULL
+資源 （resource）
+
+
+
+變數[编辑]
+PHP中，變數以「$」後接变量名稱來表示。 變數名稱區分大小寫。
+有效的變數名稱以字母或底線開頭，後接任意數目的字母、數字或底線，PHP也支持使用多字节文字作为變數名。[47]
+物件導向[编辑]
+PHP從PHP 3開始有了基本的物件導向（Object oriented）的特性，但直到PHP 5將物件導向部份重新改寫之後，PHP的物件導向功能才比較完善。現在PHP可以說是一個有完整物件導向功能的語言。
+PHP相關資源[编辑]
+PHP框架[编辑]
+主条目：PHP框架列表
+使用PHP框架可以更快更简单的部署项目並提高开发效率，但学习使用这些框架需要付出额外的学习成本。
+最流行的PHP框架包括：Symfony, Zend Framework, Laravel、Phalcon、CodeIgniter、Yii等等。
+函式庫[编辑]
+內建多樣化的函數是PHP主要的特點之一，這些開放程式碼的函數提供了各種不同的功能，例如文件處理、FTP、字符串處理、等等。這些函數的使用方法和C語言相近（例如printf），這也是PHP廣為流行的原因之一。
+除了內建的函數之外，PHP也提供了很多扩展函式庫（extension），像是各種資料庫連接函數、資料壓縮函數、圖形處理等等。有些延伸函式庫需要從PECL（PHP Extension Community Library）取得。
+以下是PHP程式語言提供的函式庫列表
+
+
+
+
+Apache
+BCMath
+Bzip2
+Calendars
+CCVS
+COM
+ClibPDF
+cURL
+Cybercash
+DB2
+dBase
+DBM
+dbx
+DB++
+DOM XML
+.NET
+FileMaker Pro
+FrontBase
+filePro
+FriBiDi
+FTP
+Gettext
+GD Graphics Library
+GNU Multi-Precision Library
+Hyperwave
+iconv
+IMAP，POP3 and NNTP
+
+
+
+
+Informix
+Ingres II
+InterBase
+IRC
+
+
+LDAP
+Lotus Notes
+mailparse
+MCAL
+Mcrypt
+MCVE
+Mhash
+MIME Functions
+MS-SQL
+Ming
+mnoGoSearch
+mSQL
+MySQL
+Mowhawk
+muscat
+Ncurses
+ODBC
+Oracle
+OpenSSL
+Ovrimos SQL
+PDF
+PayFlow Pro
+PDO
+POSIX
+
+
+
+
+PostgreSQL
+Printer
+Pspell
+GNU Readline
+GNU Recode
+Regular expressions
+QT-Dom
+Semaphores
+SESAM
+Session Handling
+Shared memory
+SMTP
+SNMP
+Sockets
+SimpleXML
+SQLite
+Streams
+Sybase
+Token
+vpopmail
+WDDX
+Win32 API
+XML（Xpath）
+XML-RPC
+XSLT
+YAZ
+Yellow Pages / 網絡資訊服務（NIS）
+ZIP
+Zlib
+
+
+
+
+原始碼編碼和加速[编辑]
+参见：PHP加速軟件
+PHP原始碼是可以直接讀取的，即使放到伺服器上執行也是一樣。雖然讓PHP多了彈性，但相對的會造成安全危機和性能下降的問題。
+透過PHP編碼器，可以保護PHP的原始碼不被讀取（對商業軟體來說特別有需求），也可以提昇執行的效能。有許多公司或團體開發PHP的編碼器，將PHP程式編譯成位元組碼（byte code），再透過伺服器上安裝對應的程式來執行PHP腳本。
+除了透過編碼器加速之外，PHP還可以透過動態的快取機制來提昇速度，加速工具有商業版的，例如Zend Platform，也有開放原始碼的加速軟體如eAccelerator、APC、XCache。
+php包管理器[编辑]
+Composer是php社区用来管理依赖关系的工具，一般在php项目中通过composer.json声明依赖的外部php库，然后就可以使用Composer管理包依赖。
+PHP編譯器[编辑]
+PHP一直被當作直譯器使用。PHP編譯器則將PHP從直譯器中分離，為加快運行和改善與以其他程式語言編寫部份的互通性，例如Phalanger將PHP編譯成通用中间语言和Hiphop for PHP把PHP原始碼編譯成C++等。Facebook因應其網站大量的使用者，整合了HPHPc、HPHPi、HPHPd以及HHVM這四種腳本引擎，開發出HipHop for PHP，以加強網站效能。
+未來發展[编辑]
+PHP 7[编辑]
+
+基于PHPNG项目（PHP Next-Gen），它能让透明提升PHP程序性能，使PHP7的性能和HHVM相当
+JIT引擎
+抽象语法树编译 AST: Abstract Syntax Tree
+异步编程
+
+PHP 7 已发布，发布日期：2015年12月3日。目前一些更新较快的Linux發行版，如Ubuntu 16.04、Debian Testing、Arch Linux等已經採用新的PHP 7。
+彩蛋[编辑]
+PHP含有多個彩蛋，可以透過在網域名稱的後面加上特殊字串顯示彩蛋。例如，?=PHPE9568F36-D428-11d2-A769-00AA001ACF42則會出現PHP的logo，PHP版本的不同，logo也會不同；不过该特性已经在5.5版本中被移除[48]。
+軼事[编辑]
+PHP程式語言經常被華語圈的程式設計師調侃為「PHP是世界上最好的語言」。
+註釋[编辑]
+
+參考文獻[编辑]
+引用[编辑]
+
+
+^ PHP：序言. [2013-05-13]. 
+^ the PHP Group. [2015-07-24]. 
+^ GPL-Incompatible, Free Software Licenses. Various Licenses and Comments about Them. Free Software Foundation. [2008-02-22]. （原始内容存档于2008-12-16）. 
+^ Usage Stats for April 2007. [2015-02-26]. 
+^ php.net/history
+^ 6.0 6.1 6.2 6.3 6.4 6.5 6.6 6.7 History of PHP and related projects. The PHP Group. [2008-02-25]. 
+^ Lerdorf, Rasmus. Announce: Personal Home Page Tools (PHP Tools). Newsgroup: comp.infosystems.www.authoring.cgi. 1995-06-08 [2006-09-17]. 
+^ Zend Engine version 2.0: Feature Overview and Design. Zend Technologies Ltd. [2006-09-17]. （原始内容存档于2006-07-19）. 
+^ Trachtenberg, Adam. Why PHP 5 Rocks!. O'Reilly. 2004-07-15 [2008-02-22]. 
+^ php.net 2007 news archive. The PHP Group. 2007-07-13 [2008-02-22]. 
+^ Kerner, Sean Michael. PHP 4 is Dead—Long Live PHP 5. InternetNews. 2008-02-01 [2008-03-16]. 
+^ PHP: Unsupported Branches. php.net. [2016-06-17]. 
+^ 13.0 13.1 13.2 13.3 13.4 PHP: PHP 4 ChangeLog. The PHP Group. 2008-01-03 [2008-02-22]. 
+^ PHP: Command line usage - Manual. php.net. [2016-06-17]. 
+^ PHP: PHP 4.4.8 Release Announcement
+^ PHP: Downloads
+^ 17.0 17.1 17.2 PHP: PHP 5 ChangeLog. The PHP Group. 2007-11-08 [2008-02-22]. 
+^ PHP: Introduction - Manual. php.net. [2016-06-17]. 
+^ PHP: PHP 5 ChangeLog. www.php.net. [2016-06-17]. 
+^ 20.0 20.1 PHP: News Archive - 2008
+^ 21.0 21.1 PHP: News Archive - 2009
+^ 22.0 22.1 [1]
+^ 23.0 23.1 [2]
+^ [3]
+^ Zend Weekly Summaries Issue #359 互联网档案馆的存檔，存档日期2009-01-03.
+^ [4]
+^ PHP 5.3.3 Changelog
+^ [5]
+^ PHP 5.3.6 Changelog
+^ Built-in web server. [March 26, 2012]. 
+^ PHP: PHP 5 Changelog
+^ Resetting PHP 6. There have been books on the shelves purporting to cover PHP 6 since at least 2008. But, in March 2010, the PHP 6 release is not out - in fact, it is not even close to out. Recent events suggest that PHP 6 will not be released before 2011 - if, indeed, it is released at all. 
+^ PHP 7 moves full speed ahead. Recent versions of PHP have been part of the 5.x release series, but there will be no PHP 6. “We’re going to skip [version] 6 because years ago, we had plans for a 6 but those plans were very different from what we’re doing now,” Gutmans said. Going right to version 7 avoids confusion. 
+^ PHP: todo:php70. 2015-05-27 [2015-06-01]. 
+^ PHP: phpng. wiki.php.net. [2016-06-17]. 
+^ PHP: ElePHPant. 4 Oct 2014 [4 Oct 2014]. 
+^ What is ElePHPant and Why PHP Uses Elephants in Some Logotypes?. 
+^ Embedding PHP in HTML. O'Reilly. 2001-05-03 [2008-02-25]. 
+^ PHP-related vulnerabilities on the National Vulnerability Database. 2008-03-01. 
+^ [6][失效連結]
+^ PHP developer wiki server hacked
+^ PHP官方网站被入侵，近期请勿从官方下载源码[失效連結]
+^ [7]
+^ [8]，Why are “echo” short tags permanently enabled as of PHP 5.4?
+^ [9]，Escaping <? on php shorthand enabled server when using require
+^ Types Introduction，The PHP Group
+^ Language variables，The PHP Group
+^ expose_php
+
+
+来源[编辑]
+
+网页
+
+
+PHP手冊
+函数参考
+
+外部連結[编辑]
+
+
+
+从维基百科的姊妹计划
+了解更多有关
+“PHP”的内容
+
+
+
+
+维基共享资源上的多媒体资源
+
+
+
+维基教科书上的教科书和手册
+
+
+
+维基学院上的學習资源
+
+
+
+官方网站
+开放式目录计划中和PHP相关的内容
+PHP wiki
+PHP参考手册
+CentOS下安装PHP7
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+網頁技術與標準
+
+
+
+
+
+
+文档呈现语言
+
+
+
+HTML*（HTML5*）
+XHTML*
+XML*
+XForms*
+DHTML
+
+
+
+
+
+
+
+
+样式格式描述语言
+
+
+
+CSS*
+XSL*
+
+
+
+
+
+
+
+
+动态网页技术
+
+
+
+CGI
+FastCGI
+ASP
+ASP.NET
+ColdFusion
+JSP
+Perl（PSGI）
+Python（WSGI）
+Ruby
+Smalltalk
+PHP
+
+
+
+
+
+
+
+
+客户端交互技术
+
+
+
+ActiveX
+Java Applet
+JavaFX
+AJAX（XMLHTTP*）
+WebSocket*
+Silverlight
+ActionScript（Flash
+Flex
+AIR）
+
+
+
+
+
+
+
+
+客户端脚本语言
+
+
+
+JavaScript
+JScript
+VBScript
+ECMAScript
+
+
+
+
+
+
+
+
+标识定位语言
+
+
+
+URL
+URI
+XPath
+URL重寫
+
+
+
+
+
+
+
+
+文档纲要语言
+
+
+
+DTD*
+XML Schema*
+
+
+
+
+
+
+
+
+
+* 代表由W3C制定和维护的标准与规范
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+编程语言分类
+
+
+
+
+
+
+按平台
+
+
+
+
+.NET框架平台语言
+
+
+
+C++/CLI
+C#
+F#
+IronPython
+IronRuby
+J#
+Visual C#
+VB.NET
+Small Basic
+
+
+
+
+
+
+
+
+Java虚拟机上的语言
+
+
+
+Java
+Jython
+JRuby
+JScheme（英语：JScheme）
+Groovy
+Kawa（英语：Kawa）
+Scala
+Clojure
+Kotlin
+
+
+
+
+
+
+
+
+iOS苹果手机平台上的语言
+
+
+
+Swift
+Objective-C
+
+
+
+
+
+
+
+
+Android手机平台上的语言
+
+
+
+Java
+
+
+
+
+
+
+
+
+Fire OS（英语：Fire OS）手机平台上的语言
+
+
+
+Java
+
+
+
+
+
+
+
+
+Windows Phone手机平台上的语言
+
+
+
+C#
+
+
+
+
+
+
+
+
+
+
+
+按家族
+
+
+
+
+C/C++语言
+
+
+
+C
+C++
+Turbo C++
+Borland C++
+C++ Builder - C++/CLI
+Visual C++组件扩展
+Objective-C
+Visual C++
+
+
+
+
+
+
+
+
+BASIC语言
+
+
+
+
+有行号
+
+
+
+BASIC
+BASICA
+GW-BASIC
+ETBASIC
+GVBASIC
+
+
+
+
+
+
+
+
+无行号
+
+
+
+QBASIC
+QuickBASIC
+True BASIC
+Turbo BASIC
+PowerBASIC
+FreeBasic
+DarkBASIC
+Visual Basic
+Gambas
+VB.NET
+VBScript
+VBA
+REALbasic
+Small Basic
+
+
+
+
+
+
+
+
+
+
+
+Pascal/Delphi语言
+
+
+
+Pascal
+Turbo Pascal
+Object Pascal
+Free Pascal
+Delphi
+Lazarus
+
+
+
+
+
+
+
+
+
+
+
+按范式
+
+
+
+
+声明式
+
+
+
+
+函数式
+
+
+
+
+Lisp家族
+
+
+
+LISP
+Scheme
+Common Lisp
+Clojure
+Racket
+
+
+
+
+
+
+
+
+ML家族
+
+
+
+ML
+Standard ML
+OCaml
+F#
+
+
+
+
+
+
+
+
+
+
+
+Haskell
+Scala
+Erlang
+Elixir
+Clean
+Miranda
+Logo
+
+
+
+
+
+
+
+
+
+
+
+逻辑式
+
+
+
+Prolog
+
+
+
+
+
+
+
+
+
+
+
+命令式
+
+
+
+
+结构化
+
+
+
+
+程序式
+
+
+
+BASIC
+Fortran
+C
+Pascal
+Go
+
+
+
+
+
+
+
+
+面向对象
+
+
+
+Smalltalk
+Java
+C#
+Objective-C
+C++
+Eiffel
+Python
+Ruby
+Rust
+Swift
+
+
+
+
+
+
+
+
+
+
+
+非结构化
+
+
+
+
+
+
+
+COBOL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+元编程
+
+
+
+
+泛型
+
+
+
+
+模板
+
+
+
+C++
+D
+
+
+
+
+
+
+
+
+
+
+
+Ada
+C#
+Delphi
+Eiffel
+Java
+Swift
+Visual Basic .NET
+
+
+
+
+
+
+
+
+
+
+
+反射化
+
+
+
+C#
+ECMAScript
+Java
+Perl
+PHP
+Python
+R
+Ruby
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+脚本语言
+
+
+
+
+
+
+
+Lua
+Perl
+PHP
+Python
+Ruby
+ASP
+JSP
+Tcl/Tk
+VBScript
+AppleScript
+AAuto（基于Lua）
+
+
+
+
+
+
+
+
+ECMAScript衍生语言
+
+
+
+ActionScript
+CoffeeScript
+Dart
+DMDScript
+ECMAScript
+JavaScript
+JScript
+TypeScript
+
+
+
+
+
+
+
+
+Shell语言
+
+
+
+sh
+bash
+sed
+awk
+PowerShell
+csh
+tcsh
+ksh
+zsh
+
+
+
+
+
+
+
+
+
+
+
+专业工具语言
+
+
+
+
+科学与统计计算
+
+
+
+FORTRAN
+SAS
+MATLAB
+Scilab
+GNU Octave
+R
+S-Plus（英语：S-Plus）
+Mathematica
+Maple
+Julia
+
+
+
+
+
+
+
+
+GPU用着色器语言
+
+
+
+Cg
+GLSL
+HLSL
+
+
+
+
+
+
+
+
+数据库相关编程语言
+
+
+
+xBase（英语：xBase）
+
+Clipper
+Visual FoxPro
+
+
+SQL
+
+PL/SQL
+T-SQL
+SQL/PSM（英语：SQL/PSM）
+
+
+LINQ
+XQuery（英语：XQuery）
+
+
+
+
+
+
+
+
+标记语言
+
+
+
+
+SGML家族
+
+
+
+
+XML家族
+
+
+
+XML
+SVG
+XML Schema
+XSLT
+XHTML
+MathML
+XAML
+SSML
+
+
+
+
+
+
+
+
+
+
+
+SGML
+HTML
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curl
+
+
+
+
+
+
+
+
+
+
+
+工业与辅助设计
+
+
+
+AutoCAD
+
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+汇编语言
+ALGOL
+APL/J
+Falcon
+Forth
+Io
+MUMPS（英语：MUMPS）
+PL/I
+PostScript
+REXX
+SAC
+Self
+Simula
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh99002710
+GND: 4546126-0
+BNF: cb135584386（数据）
+BNE: XX548742
+
+
+
+
+
+
+
+
+
+
+
+
+分类：PHPLAMP跨平台軟體隐藏分类：Webarchive模板wayback链接带有失效链接的条目自2013年12月待更新条目使用过时图像语法的页面含有英語的條目维基百科和维基数据上的官方网站不同包含规范控制信息的维基百科条目

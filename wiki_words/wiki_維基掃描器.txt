@@ -1,0 +1,521 @@
+维基扫描器
+
+
+
+
+
+
+WikiScanner
+
+
+網站LOGO
+
+
+
+网站类型
+資料庫工具
+
+
+语言
+英語、法語、德語、日語
+
+
+持有者
+Virgil Griffith（英语：Virgil Griffith）
+
+
+创始人
+Virgil Griffith
+
+
+网站
+wikiscanner.virgil.gr
+
+
+商业性质
+否
+
+
+注册
+否
+
+
+推出时间
+2007-08-14
+
+
+现状
+离线
+
+
+維基百科掃描器（Wikipedia Scanner），簡稱維基掃描器（WikiScanner），是一個於2007年8月14日推出的工具程式，由美國駭客Virgil Griffith（英语：Virgil Griffith）建立，為一個能讓公眾查詢的維基百科匿名編輯資料庫[1][2]。通过把这些编辑与不同组织的IP地址交叉比對，可以查询哪些组织里的职员编辑了哪些条目。维基扫描器不能用来查询登录用户的来源。在维基扫描器的常见问题回答中，作者说他相信维基扫描器可以帮助维基百科有争议的条目获得更高的可靠性[3]，他还表示他从来没有被维基媒体基金会雇用，他在维基扫描器上花的工作是“100%非商业性的”[3]。
+
+
+
+目录
+
+
+1 设计
+2 媒体报道和反应
+3 维基百科的反应
+4 外部链接
+5 参考资料
+
+
+
+设计[编辑]
+维基扫描器的数据库里存有从2002年2月7日至2007年8月4日间共34,417,493个匿名编辑[4]。作者称这个数据库是使用维基百科全书公开的每月数据库下载编辑成的，与各组织的IP地址的联系是通过IP2Location建立的。通过比较，他“发现了187,529个至少编辑过一次维基百科的组织”[3]。
+维基扫描器不能应用于注册用户。在这种情况下，数据仅显示用户名，而不显示IP地址。维基扫描器也无法区分一个组织的合理用户做的编辑和入侵者做的编辑，以及使用同一个组织的网络里的公共电脑做的编辑。英国广播公司引用电脑专家凯温·克伦对使用梵蒂冈的电脑做的编辑的分析说：“很难分辨做编辑的是职员还是恶意打入梵蒂冈系统‘盗用’它们的IP地址[5]。”
+维基扫描器的常见问题回答说，编辑无法与一个公司的职员联系起来，只能和该公司的网络。它还说，当然“有理由假设”这些编辑是该公司的职员或者被允许的客人做的，但是无法保证它们不是由入侵者做的[3]。这样的入侵的可能性，根据该组织网络的安全设置而不同。一些组织如梵蒂冈图书馆有公共接口或者网络[6]。
+媒体报道和反应[编辑]
+首先报道维基扫描器的《连线》报道说，大多数编辑“相当无辜”[7]。《连线》要求用户提名“最无耻的维基百科编辑”[8]。从中产生了许多关于不同组织的新报道，其中包括半岛电视台、福克斯新聞頻道、美国民主党参议员羅伯特·伯德的助手和中央情报局编辑维基百科。
+据英国广播公司报道，维基扫描器发现一些维基百科的编辑是使用迪堡公司、民主党国会竞选委员会和梵蒂冈的计算机做的[9]。《泰晤士报》则报道，英国广播公司自己的一个互联网地址编辑了维基百科[10]。英国广播公司在其部落格中承认了这个编辑，其中说：“一些例子的确不光彩。但是与这些不光彩相对的是许多许多没有异议的编辑。在这些编辑中，英国广播公司的人出于好意，添加了信息或者更改了细节。”[11]
+美联社报道说，山達基的计算机被用来删除维基百科上关于山達基的批评。美联社也承认它自己的计算机也被用来匿名编辑维基百科，不过它没有说这些编辑的内容[12]。《纽约时报》在它关于维基扫描器的文章中也承认，它自己的计算机被用来编辑维基百科了[13]。
+加拿大CTV電視網报道说，华特迪士尼公司和加拿大政府的计算机也编辑了维基百科[14]。
+2007年8月24日，澳大利亚印刷和电子媒体都头版报道说，澳大利亚总理办公室匿名编辑了维基百科来删除有可能对政府不利的文章细节，通过维基扫描器发现的126个匿名编辑涉及有争议的文章以及关于政府部长的文章[15][16]。政府首先说，总理約翰·霍華德没有让他的职员编辑维基百科[17]；当天晚些時候又说，编辑者不是总理办公室或者政府部门的人，而是一个使用同一互联网服务提供者的人[18]。维基扫描器也确认澳大利亚国防部的职员做了5000多个编辑；澳大利亚国防部因此史无前例地下令，假如这些编辑有可能被误认为国防部官方评论的话，禁止职员编辑维基百科[19][20]。
+2007年8月26日，《波士顿环球报》在一篇社论中称维基百科是“事实的民主基础”，并提到使用“维基扫描器”技术发现编辑维基百科的公司包括百事可樂、沃尔玛、艾克森美孚和荷蘭皇家殼牌集團。尤其关于后者“在2005年有人使用荷蘭皇家殼牌集團内部的计算机重写了一篇对该公司有益的描写，称‘一群认为无法在短时间里做决定和不喜欢高利率公司的老人领导该公司’。[21]”《獨立報》也报道说，发现了不同维基百科文章内出于各种利益的许多“检查性介入”[22]。
+2007年12月18日《财富》提到，使用维基扫描器发现了：2007年它评比出的“101个商务苯事”中的第96个《华盛顿邮报》的一名志愿者，被发现把一个参考资料的来源改为《邮报》竞争对手的拥有人；另外，《纽约时报》中有人在乔治·布什的文章中12次加入了“愚蠢”这个词[23]。
+从2008年6月4日到5月27日，一个属于加拿大工业部的IP地址编辑了其部长的文章，其中包括删除他的关于版权法案的工作和其它两项工作[24][25]。
+维基百科的反应[编辑]
+维基百科创办人之一[26]吉米·威尔士对维基扫描器大加赞赏，说它为“维基百科提供了另一层透明度”，并说这个工具“非常好，我非常支持它。[12][27]”英国广播公司引用一名匿名维基百科发言人赞赏它把透明度提高到“又一层”，说它防止“组织或个人用不应该的方法编辑文章”[9]。作为对加拿大工业部的编辑维基媒体基金会发言人杰·沃尔士说语言中立和避免兴趣冲突是维基百科的中心支柱，并说“没有兴趣冲突地人应该编辑，在这次情况下，我们得说：假如这些编辑是使用加拿大政府的计算机……假如是工业部内的人做的话，那么这理论上造成了兴趣冲突。[28]”威尔士考虑可以向匿名用户提供一个警告：“假如有人点击‘编辑’的话，可能我们可以说：‘嘿，谢谢您的编辑。我们看到您来自《纽约时报》。请记住这是一个公共信息。’……这可能可以使他们停下来思考。[13]”
+外部链接[编辑]
+
+维基扫描器
+维基扫描器工作原理
+
+参考资料[编辑]
+
+
+^ Biuso, Emily. Wikiscanning. 纽约时报. 2007-12-09 [2007-12-09]. 当24岁的骇客Virgil Griffith听说议会职员被发现更改维基百科来美化他们的上司，他想到还会有别的什么类似的情况发生。 
+^ John Borland. See Who's Editing Wikipedia - Diebold, the CIA, a Campaign（瞧瞧谁在编辑维基百科）. Wired. 2007-08-14 [2007-08-17]. 
+^ 3.0 3.1 3.2 3.3 Virgil Griffith. WikiScanner FAQ. [2007-08-18]. （原始内容存档于2007-08-30）. 
+^ WikiScanner FAQ
+^ Did Vatican alter Wikipedia info on Adams?. Belfast Telegraph. 2007-08-16 [2009-05-18]. 
+^ 梵蒂冈图书馆规则[失效連結] 互联网档案馆的存檔，存档日期2007-09-27.
+^ See Who's Editing Wikipedia - Diebold, the CIA, a Campaign（瞧瞧谁在编辑维基百科）. Wired blogs. 2007-08-14 [2007-08-19]. 
+^ Vote On the Most Shameful Wikipedia Spin Jobs. Wired blogs. 2007-08-13 [2007-08-17]. 
+^ 9.0 9.1 Jonathan Fildes. Wikipedia 'shows CIA page edits'（中央情报局在维基百科上的编辑）. 英国广播公司. 2007-08-15 [2007-08-16]. 
+^ Rhys Blakely. Wal-Mart, CIA, ExxonMobil Changed Wikipedia Entries（沃尔马、中央情报局和艾克森美孚更改了维基百科条目）. 泰晤士报. 2007-08-16 [2007-08-18]. 
+^ Pete Clifton. Wikipedia edits（维基百科编辑）. 英国广播公司. 2007-08-16 [2007-08-16]. 
+^ 12.0 12.1 New online tool unmasks Wikipedia edits（新网上工具揭露维基百科的编辑）. 美联社. 2007-08-15 [2007-08-16]. 
+^ 13.0 13.1 Katie Hafner. Seeing Corporate Fingerprints in Wikipedia Edits（观察公司在维基百科编辑中的指纹）. 纽约时报. 2007-08-19 [2007-08-19]. 
+^ Government computers linked to Wikipedia edits（政府计算机连到维基百科编辑）. CTV. 2007-08-16 [2007-08-20]. [失效連結]
+^ PM's staff edited Wikipedia（总理职员编辑维基百科）. 《雪梨晨鋒報》. 2007-08-24 [2007-08-25]. 
+^ Government caught Wiki-watching（政府监视维基）. 墨尔本: 《世纪报》. 2007-08-24 [2007-08-25]. 
+^ PM 'not behind Wikipedia edits'（总理不是维基百科编辑的幕后）. 澳大利亚广播公司. 2007-08-24 [2007-08-25]. 
+^ PM's Dept denies making Wikipedia changes（总理办公室否定更改维基百科）. 澳大利亚广播公司. 2007-08-24 [2007-08-25]. 
+^ PM's staff edit Wikipedia entries（总理职员编辑维基百科条目）. The Advertiser. 2007-08-24 [2007-08-24]. 
+^ Defence blocks staff's Wikipedia access（国防部封禁职员接触维基百科）. 澳大利亚广播公司. 2007-08-24 [2007-08-25]. 
+^ Behind the e-curtain（电子幕后）. 波士顿环球报. 2007-08-26. 
+^ Robert Verkaik. Wikipedia and the art of censorship（维基百科和检查艺术）. 伦敦: 《独立报》. 2007-08-18 [2007-10-27]. （原始内容存档于2009-01-09）. 
+^ 《财富》. 101 Dumbest Moments in Business - 96. WikiScanner（101个商务苯事：96—维基扫描器）. 《财富》. 2007-12-17 [2007-12-18]. 
+^ Nowak, Peter. Government buffing Prentice's Wikipedia entry. 加拿大: 加拿大广播公司新闻. 2008-06-04 [2008-06-04]. 
+^ Geist, Michael. Prentice's Staff Scrubbing Copyright Controversy From Wikipedia Entry. www.michaelgeist.ca. [2008-06-04]. 
+^ Peter Meyers. Fact-Driven? Collegial? This Site Wants You（实事求是？合作性？这个网站需要你）. 纽约时报. 2001-09-20 [2007-08-17]. 
+^ Katherine Noyes. New Tool Outs Would-Be Wikipedia Tricksters（新工具出笼）. TechNewsWorld. 2007-08-15 [2007-08-16]. 
+^ Cheadle, Bruce. Rewrite war rages on Wikipedia over Prentice biography and copyright law. cnews.canoe.ca. [2008-06-05]. （原始内容存档于2008-06-07）. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+維基百科
+
+
+
+
+
+
+百科概要（英语：Outline of Wikipedia）
+
+
+
+維基
+利益衝突編輯
+批評
+刪除主義和保留主義
+性別偏誤
+種族偏差（英语：Racial bias on Wikipedia）
+關注度
+可靠性
+來源請求（日语：要出典）
+破壞
+維基百科健康資訊（英语：Health information on Wikipedia）
+
+
+
+
+
+
+
+
+維基社群
+
+
+
+
+百科運作
+
+
+
+管理員
+仲裁委員會
+編輯松
+The Signpost（英语：The Signpost）
+維基愛古蹟
+Art+Feminism（英语：Art+Feminism）
+駐點維基人（英语：Wikipedian in residence）
+年度維基人（英语：Wikipedian of the Year）
+維基教育基金會
+
+
+
+
+
+
+
+
+運動夥伴
+
+
+
+維基媒體基金會
+維基媒體分會
+
+德國
+法國
+義大利
+荷蘭
+波蘭
+中華民國
+香港
+澳門
+Amical（加泰罗尼亚语：Amical Wikimedia）
+
+
+維基媒體計劃
+
+元維基
+維基百科
+維基詞典
+維基數據
+維基教科書
+維基共享資源
+維基新聞
+維基語錄
+維基文庫
+維基物種
+維基學院
+維基導遊
+
+
+維基媒體國際會議
+中文維基年會
+
+
+
+
+
+
+
+
+
+
+
+著名人物
+
+
+
+弗洛朗絲·德伍阿爾
+奧斯卡·范·迪倫（英语：Oscar van Dillen）
+蘇·加德納
+詹姆斯·海爾曼
+凱薩琳·馬赫
+馬格努斯·曼斯克
+埃里克·默勒
+拉里·桑格
+莉拉·崔迪科夫
+吉米·威爾斯
+安吉拉·貝絲蕾·斯塔林
+時昭
+許瑜真
+陳霆
+王鐘銘
+陳穎
+賈斯汀·納普
+提姆·謝爾
+麥可·斯諾
+邁克·戈德溫（英语：Mike Godwin）
+埃文·阿莫斯
+巴塞爾·哈爾塔比爾
+酈安治
+麥康瑞
+西蒙·普爾西斐
+亞倫·斯沃茨
+伊霍爾·柯斯登柯
+唐鳳
+加特·沃爾什
+雷米·馬蒂斯
+亞倫·哈爾費克（英语：Aaron Halfaker）
+達魯休·傑米爾尼亞克（英语：Dariusz Jemielniak）
+漢普頓·凱特林（英语：Hampton Catlin）
+達斯·庫珀（英语：Danese Cooper）
+比夏漢·達塔（英语：Bishakha Datta）
+亞倫·格斯里（英语：Arnnon Geshuri）
+蓋伊·川崎（英语：Guy Kawasaki）
+路爾斯·比利亞（英语：Luis Villa）
+
+
+
+
+
+
+
+
+百科歷史
+
+
+
+
+發展歷程
+
+
+
+Bomis
+Nupedia
+維基百科標誌
+義大利語維基百科大規模空白抗議
+反SOPA和PIPA抗議
+
+英語維基百科關站抗議（印尼语：Pemadaman Wikipedia bahasa Inggris）
+
+
+俄語維基百科關站抗議（俄语：Забастовка русской Википедии）
+皮埃爾敍奧特軍用無線電台事件
+維基百科也申遺
+1Lib1Ref（英语：1Lib1Ref）
+維基百科知識引擎
+涉及到維基媒體基金會的訴訟（英语：Litigation involving the Wikimedia Foundation）
+
+維基媒體基金會控告美國國家安全局案
+
+
+
+
+
+
+
+
+
+
+相關爭議（英语：List of Wikipedia controversies）
+
+
+
+美國國會職員的編輯
+Essjay事件
+席根塔勒傳記事件
+亨里克·巴圖塔惡作劇事件（英语：Henryk Batuta hoax）
+山達基教會的編輯（英语：Church of Scientology editing on Wikipedia）
+希爾斯堡慘劇編輯事件（英语：Hillsborough Wikipedia posts）
+MyWikiBiz（英语：MyWikiBiz）
+克里斯·班瓦謀殺事件（英语：Chris Benoit double-murder and suicide）
+美國中東新聞報導準確性委員會爭議（英语：Committee for Accuracy in Middle East Reporting in America）
+比喬利姆戰爭（加泰罗尼亚语：Bicholim conflict）
+
+
+
+
+
+
+
+
+審查封鎖
+
+
+
+網路觀察基金會審查
+中國大陸對維基媒體的封鎖
+俄羅斯對維基百科的封鎖（俄语：Блокирование Википедии в России）
+
+俄羅斯國家杜馬89417-6法案
+
+
+2017年土耳其封鎖維基百科事件
+
+
+
+
+
+
+
+
+
+
+
+相關技術
+
+
+
+
+網站技術
+
+
+
+Wiki
+MediaWiki
+维基可视化编辑器
+Lsjbot
+資訊框
+Wikiwand
+
+
+
+
+
+
+
+
+手機访问
+
+
+
+應用程式
+QRpedia
+Wapedia
+WikiNodes（英语：WikiNodes）
+維基百科零計劃
+
+
+
+
+
+
+
+
+內容使用
+
+
+
+Books LLC（英语：Books LLC）
+DBpedia
+Deletionpedia
+Kiwix
+WikiReader（英语：WikiReader）
+維基百科校園版
+維基掃描器
+
+
+
+
+
+
+
+
+
+
+
+獎勵紀念
+
+
+
+2008年勝利女神四馬戰車獎（英语：Quadriga (award)）
+2015年伊拉斯謨獎
+2015年阿斯圖里亞斯親王獎
+維基百科紀念雕像
+國際志願者日
+小行星274301
+
+
+
+
+
+
+
+
+造成影響
+
+
+
+文化領域（英语：Wikipedia in culture）
+相關書目（英语：Bibliography of Wikipedia）
+相關電影
+學術研究（英语：Academic studies about Wikipedia）
+Wikipedia Review（英语：Wikipedia Review）
+Wikipediocracy（英语：Wikipediocracy）
+Wiki-Watch（英语：Wiki-Watch）
+伊拉克戰爭：維基百科編輯歷史史學（英语：The Iraq War: A Historiography of Wikipedia Changelogs）
+列印維基百科
+大憲章（英语：Magna Carta (An Embroidery)）
+數字中的真相
+維基百科編輯手冊
+
+
+
+
+
+
+
+
+類似計畫
+
+
+
+Interpedia（英语：Interpedia）
+大眾百科
+自由百科
+Digital Universe（英语：Digital Universe）
+偽基百科
+Nonciclopedia（義大利語：Nonciclopedia）
+Vikidia（法语：Vikidia）
+Veropedia（英语：Veropedia）
+WikiZnanie（葡萄牙語：WikiZnanie）
+Lurkmore（俄语：Луркоморье）
+Wookieepedia
+Scholarpedia
+Wikia
+Wiki網站列表
+
+
+
+
+
+
+
+
+
+
+
+ 條目分類
+ 維基教科書
+ 維基數據
+ 維基共享資源
+ 維基新聞
+ 維基語錄
+ 維基文庫
+ 維基學院
+ 維基導遊
+ 維基辭典
+
+
+
+
+
+
+
+
+
+
+
+
+分类：维基百科隐藏分类：带有失效链接的条目Webarchive模板wayback链接使用过时图像语法的页面含有英語的條目

@@ -44,3 +44,19 @@ crawl failed 20 פאליסי – 意第绪语 https://yi.wikipedia.org/wiki/%D7%
 政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
 crawl failed 20 Chèng-chhek – Chinese (Min Nan) https://zh-min-nan.wikipedia.org/wiki/Ch%C3%A8ng-chhek
 政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 1 政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 120 en-User-Tim Shell https://en.wikipedia.org/wiki/User:Tim_Shell
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 120 en-User-Jason Richey https://en.wikipedia.org/wiki/User:Jason_Richey
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 123 Taw https://en.wikipedia.org/wiki/User:Taw
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 145 en-User-Mav https://en.wikipedia.org/wiki/User:Mav
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 150 24.150.61.63 https://en.wikipedia.org/wiki/User:24.150.61.63
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 188 ja-利用者-太田尚志 https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:%E5%A4%AA%E7%94%B0%E5%B0%9A%E5%BF%97
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 312 ja-利用者-Kasuga~jawiki https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Kasuga~jawiki
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91

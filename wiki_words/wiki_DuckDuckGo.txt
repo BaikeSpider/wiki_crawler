@@ -1,0 +1,221 @@
+DuckDuckGo
+
+
+
+
+
+
+
+
+
+
+DuckDuckGo
+
+
+
+
+
+
+
+网站类型
+搜尋引擎
+
+
+持有者
+DuckDuckGo公司
+
+
+创始人
+蓋布瑞·溫伯格
+
+
+网站
+https://duckduckgo.com/
+
+
+Alexa排名
+▼ 598 (2015年11月[update])[1]
+
+
+商业性质
+是
+
+
+注册
+不需註冊
+
+
+推出时间
+2008年9月25日
+
+
+现状
+活躍
+
+
+DuckDuckGo是一個網際網路搜尋引擎，其總部位於美國賓州保利市。DuckDuckGo著重在傳統搜尋引擎的基礎上引入各大Web 2.0網站（如維基百科）的內容，主張維護使用者的隱私權，並承諾不監控、不記錄使用者的搜尋內容[2]。
+
+
+
+
+
+本條目屬於网络搜索引擎系列
+
+
+网络搜索引擎
+
+
+元搜索引擎
+
+
+國際性搜索引擎（多语言）
+
+
+Google
+
+
+Yahoo! Search
+
+
+Bing
+
+
+仅中文搜索引擎
+
+
+百度
+
+
+360搜索
+
+
+有道
+
+
+搜狗
+
+
+阿里云搜索
+
+
+yam蕃薯藤
+
+
+PChome Online
+
+
+中國搜索
+
+
+稻谷搜索
+
+
+LinAsk!恆問
+
+
+其他搜索引擎
+
+
+DuckDuckGo
+
+
+Exalead
+
+
+Naver
+
+
+Yandex
+
+
+Alexa Internet
+
+
+AOL
+
+
+Ask.com
+
+
+其他链接
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+目录
+
+
+1 歷史
+2 評論
+3 參見
+4 註釋
+5 外部連結
+
+
+
+歷史[编辑]
+DuckDuckGo的創始人是蓋布瑞·溫伯格，一名大學與碩士皆畢業於麻省理工學院的實業家[3]，其資金來自出售Names Database公司的一千萬美金[4]。DuckDuckGo在剛剛創建時的支出完全由溫伯格個人負擔，現在則由一些網頁廣告收入來分擔費用[5]。它的搜索引擎是由Perl寫成的，並以nginx在FreeBSD上運行[2][6][7]。
+DuckDuckGo主要基于各大型搜索服务商（比如Yahoo! Search BOSS）的應用程式介面，因此有人认为它是一个“混合”搜索引擎[8][9]。在使用别的搜索引擎的應用程式介面时, DuckDuckGo也会提供自己的内容页, 就像Mahalo, Kosmix以及SearchMe这些网站一样[10]。
+當被問及為什麼取這個被認為可笑的網站名稱時[11]，溫伯格如此解釋：「說實話，它就是某天突然靈光一現地出現在腦海，而且我很中意。它當然是源自，或說受到Duck, duck, goose（英语：duck, duck, goose）（也就是华人所熟知的“丢手绢”）的影響，但是除此之外沒有其他的關聯或隱喻。」[12]
+DuckDuckGo流量统计数据是公开的[13]，在2011年内，平均每日访问量达到200,000。其他数据来源，比如 Compete.com估计2011年三月的访问量大约是191,904[14]。2011年4月13日, Alexa显示DuckDuckGo前三个月的增长率达到了51%[15]。
+在TechCrunch上，DuckDuckGo被认为是Elevator Pitch Friday的一部分[16]。在BOSS Mashable挑战赛中，DuckDuckGo进入了决赛圈[17]。
+2010年6月，蓋布瑞·溫伯格启动了DuckDuckGo社区网页让大众报告使用问题，讨论如何推广搜索引擎，寻求新功能以及讨论开放源代码[18]。
+2011年10月 Union Square Ventures投资DuckDuckGo。Union Square合作伙伴Brad Burnham说：「我们注资DDG，是因为我们相信只有它有能力改变搜索引擎之间的竞争的依据，现在正是时候。」[19]
+2011年11月，Linux Mint與DuckDuckGo簽立了一份獨家合約，DuckDuckGo 將成為Linux Mint 12之預設搜尋引擎[20]。
+2014年6月，DuckDuckGo 成为 iOS 8、OS X Yosemite 搜索引擎選項之一[21]。
+2014年9月3日，DuckDuckGo在中国大陆被防火長城域名污染，通过修改Hosts文件可以直接访问[22]，后防火長城升级直至再度封锁至今。
+評論[编辑]
+《時代週刊》作者Harry McCracken於2011年6月發表的評論中對DuckDuckGo高度讚揚，並拿它與作者最愛的漢堡餐廳In-N-Out漢堡比對：「它（DuckDuckGo）看起來很像早期的Google，首頁沒有任何點綴。正如In-N-Out漢堡店不做拿鐵、沙拉、聖代、或是煎蛋，DDG也沒有嘗試去做新聞、部落格、書籍、或圖像搜尋。這裡沒有自動完成或者即時結果，只有最基本的網路搜索、十個連結。不管它的批評者如何說，這種基本的搜尋引擎在今日仍然作用很大……至於它的搜尋結果質量，我倒不是說溫伯格找到了相較於強大的Google團隊能挖出相關度更高的搜尋結果之方法，但是DuckDuckGo……在搜尋有用的站點這方面已經十分優秀。這裡的搜尋結果都很充實、率直，而沒有充斥垃圾」[23]。
+參見[编辑]
+
+搜尋引擎列表
+
+註釋[编辑]
+
+
+^ Duckduckgo.com Site Info. Alexa Internet. [2015-12-09]. 
+^ 2.0 2.1 Buys, Jon. DuckDuckGo: A New Search Engine Built from Open Source. July 2010 [16 July 2010]. （原始内容存档于2011年3月17日）. 
+^ Gabriel Weinberg. Gabriel Weinberg's Personal Homepage. 
+^ Acquisition of Namesdatabase.com Expands Company's Classmates Online Social Networking Unit. Houston Chronicle. March 20, 2006. 
+^ Duck Duck Go younoodle Startup Profile. （原始内容存档于2012-09-12）. 
+^ Weinberg, Gabriel. About Duck Duck Go. [10 February 2011]. 
+^ Warner, Andrew. How The Founder Of Duck Duck Go Previously Bootstrapped A $10 Mil Company – with Gabriel Weinberg. [10 February 2011]. 
+^ Dan Kimerling. Duck Duck Go, the Hybrid Search Engine. 
+^ Gabriel Weinberg. Public remarks by Gabriel Weinberg. 
+^ Duck Duck Go Company Profile. 
+^ Frederic Lardnois. Duck Duck Go: Silly Name, Interesting Search Engine. April 30, 2009. （原始内容存档于2012年10月8日）. 
+^ Hacker News Thread. 
+^ DuckDuckGo Official traffic. 
+^ Compete.com Analytics Profile. 
+^ Alexa.com Analytics Profile. 
+^ Dan Kimerling. Duck Duck Go, The Hybrid Search Engine. December 12, 2008. 
+^ Adam Hirsch. Voting Round for the BOSS Mashable Challenge. October 7, 2008. 
+^ Weinberg, Gabriel. duck.co - The DuckDuckGo Community. July 2010 [21 July 2010]. 
+^ Burnham, Brad. Duck Duck Go. October 2011 [14 October 2011]. 
+^ muktware.com. DuckDuckGo Results No Better Than Bing, Becomes Default Search Engine Of Linux Mint. muktware. November 2011 [11 Nov 2011]. 
+^ Apple will let you ditch Google search for DuckDuckGo in iOS 8 and OS X. June 6, 2014. 
+^ China Blocks DuckDuckGo, The Privacy Search Engine. September 22, 2014. 
+^ McCracken, Harry. Duck Duck Go, the In-N-Out Burger of Search Engines. Time Inc. June 2011 [14 June 2011]. 
+
+
+外部連結[编辑]
+
+官方网站
+
+
+
+
+
+分类：網路搜尋引擎搜索引擎被中華人民共和國封鎖的網站隐藏分类：使用过时图像语法的页面维基百科和维基数据上的官方网站不同

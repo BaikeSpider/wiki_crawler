@@ -1,0 +1,238 @@
+无线应用协议
+
+
+
+
+
+本条目没有列出任何参考或来源。（2008年11月23日） 
+維基百科所有的內容都應該可供查證。请协助添加来自可靠来源的引用以改善这篇条目。无法查证的内容可能被提出异议而移除。 
+
+
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。（2017年5月25日） 
+請邀請適合的人士改善本条目。更多的細節與詳情請參见討論頁。 
+
+
+无线应用协议（Wireless Application Protocol，WAP），是一个使移动用户使用无线设备（例如移动电话）随时使用互联网的信息和服务的开放的规范。WAP的主要意图是使得袖珍的、手提的无线终端设备能够获得类似网页浏览器的功能，因此其功能上有限。WAP1.X规定无线设备访问的页面是用WML（一种XML方言）语言编写的，但是WAP2.0将XHTML-MP做为主要内容格式。
+手机浏览器[编辑]
+主条目：移动浏览器
+
+Opera Mini：支持WAP及万维网浏览的免费浏览器，全球市场占有率较大。
+Opera Mobile：Opera另一款免费的手机浏览器。
+UC浏览器：在中国大陆有较大使用率。
+Fennec：即FireFox Mobile，曾经用名为Minimo。
+Skyfire：自带代理服务器远程解析。
+
+参见[编辑]
+
+外部功能界面
+XHTML
+
+外部链接[编辑]
+
+OMA
+WAP规范
+WAP Tutorials
+XHTML-MP Style Guide
+CMWAP和CMNET的区别
+WAP百科*
+[1] lovejk.com
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+移动电话
+
+
+
+
+
+
+概括
+
+
+
+功能
+历史
+GSM（服务（英语：GSM services））
+操作系统（比较）
+安全
+移动电话
+SMS
+多媒體短訊
+垃圾信息（英语：Mobile phone spam）
+跟踪（英语：Mobile phone tracking）
+网页（英语：Mobile Web）
+
+HTML5（英语：HTML5 in mobile devices）
+
+
+
+
+
+
+
+
+
+
+应用
+
+
+
+飞行模式
+应用开发（英语：Mobile application development）
+应用发行平台
+行动商务
+即时短信（英语：Mobile instant messaging）
+行动学习
+本地搜索（英语：Mobile local search）
+本地追踪（英语：Mobile phone tracking）
+竊聽
+移动营销
+彩信
+手机音乐（英语：Mobile music）
+手机新闻（英语：Mobile news）
+行動支付
+Push email
+Root
+Telephony电话通讯（英语：Mobile telephony）
+移动云计算（英语：Mobile cloud computing）
+
+
+
+
+
+
+
+
+手机文化
+
+
+
+手機吊飾
+手机漫画（英语：Mobile comic）
+手机约会
+日本手機文化
+手机小说
+电话铃声
+SMS语（英语：SMS language）
+移动电视
+手机廣告
+
+
+
+
+
+
+
+
+移动设备
+
+
+
+Android Root
+Android裝置列表
+Windows Phone手提電話列表
+功能型手机
+相机手机
+智能手机
+平板手机
+手机规格
+行動電話公司
+智能手机列表（英语：Comparison of smartphones）
+
+
+
+
+
+
+
+
+环境卫生
+
+
+
+电子垃圾
+移动电话辐射和健康
+
+
+
+
+
+
+
+
+法规
+
+
+
+Carrier IQ（英语：Carrier IQ）
+行车安全（英语：Mobile phones and driving safety）
+拍照（英语：Photography and the law）
+开车时发短信（英语：Texting while driving）
+监狱（英语：Mobile phones in prison）
+電話竊聽
+緊急短訊求助
+
+
+
+
+
+
+
+
+网络
+
+
+
+信道容量
+手机频率（英语：Cellular frequencies）
+移动电话运营商列表
+手机信号（英语：Mobile phone signal）
+SIM卡
+USIM卡
+手机标准列表（英语：Comparison of mobile phone standards）
+VoIP
+VoLTE
+WAP
+XHTML MP
+
+
+时代（英语：List of mobile phone generations）：0G
+1G
+2G
+2.5G
+2.75G
+3G
+3.5G
+3.9G
+4G
+4.5G（英语：LTE Advanced Pro）
+5G
+
+
+
+
+
+
+
+
+
+
+
+
+分类：网际协议智能手機OSI协议隐藏分类：自2008年11月缺少来源的条目自2017年5月需要专业人士关注的页面

@@ -1,0 +1,1141 @@
+MediaWiki
+
+
+
+
+
+
+本條目存在以下問題，請協助改善本條目或在討論頁針對議題發表看法。
+
+
+
+
+
+
+本条目需要更新。（2013年2月17日） 
+請更新本文以反映近況和新增内容。完成修改時，請移除本模板。 
+
+
+
+
+
+
+
+本条目可参照英語維基百科相應條目来扩充。 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 关于MediaWiki在维基百科中的使用，详见「Wikipedia:MediaWiki」。
+
+
+
+MediaWiki
+
+
+官方标志和口号
+
+
+
+原作者
+马格努斯·曼斯克，李·丹尼尔·克罗克（英语：Lee Daniel Crocker）
+
+
+開發者
+维基媒体基金会以及志愿者
+
+
+初始版本
+2002年1月25日，​15年前​（2002-01-25）
+
+
+穩定版本
+
+
+
+穩定版本
+1.28[1]（2016年11月28日，​12個月前​（2016-11-28））[±]
+
+
+預覽版本
+1.29 alpha（2016年11月1日，​13個月前​（2016-11-01））[±]
+
+
+编程语言
+PHP
+
+
+操作系统
+跨平台
+
+
+文件大小
+.zip — 31.43MB
+
+
+语言
+201[2] 种语言
+
+
+类型
+Wiki引擎
+
+
+许可协议
+GPLv2+[3]
+
+
+網站
+mediawiki.org
+
+
+源代码库
+phabricator.wikimedia.org/source/mediawiki/
+
+
+MediaWiki是一套基于网络的Wiki引擎，維基媒體基金會的所有项目乃至众多wiki网站皆採用了这一软件。MediaWiki软件最初是为自由内容百科全书维基百科所开发的，今日已被一些公司机构部署为内部的知识管理和内容管理系统。Novell甚而还在多个高流量的网站中使用了该软件。[4]
+MediaWiki採用PHP编程語言寫成，並可使用MySQL、MariaDB、PostgreSQL或SQLite之一作為其关系数据库管理系统。MediaWiki在GNU通用公共许可证第2版及其后续版本的条款下分发，其文档则按知识共享-署名-相同方式共享3.0版协议释出，部分文档还被释入了公有领域[5]，这使其成为了自由软件。
+出于服务维基百科的需求，软件的第一个版本于2002年被部署[6]，后来，维基百科和其他维基项目继续定义了MediaWiki的大部分功能[7]。为了有效地处理大型项目，MediaWiki得到了很好的优化，使其可以承载万亿字节的内容和每秒数十万次的访问请求[7][8]。因为维基百科是全球最大的网站之一，需要MediaWiki能为开发者实现通过多层次的实现可伸缩性缓存和数据库响应，对开发者来说，这一直是一个让他们很头疼的大问题，而MediaWiki很好的解决了这一问题。
+MediaWiki有700多个配置设置[9]和超过1800个扩展[10]，可以使各种特性被添加或更改。在维基百科上，超过1000个自动化和半自动化的机器人和其他工具用于协助编辑。[11]
+它也被一些公司部署为一个内部知识管理系统[12]，一些教育机构也让学生使用MediaWiki来进行小组项目的管理和维护[13]。
+
+
+
+目录
+
+
+1 许可
+2 歷史
+
+2.1 版本历史
+
+
+3 使用网站
+4 主要功能
+
+4.1 国际化和本地化
+4.2 安装和配置
+4.3 标记
+4.4 编辑界面
+4.5 应用程序编程接口
+4.6 丰富内容
+4.7 追踪编辑
+4.8 导航
+4.9 内容组织
+4.10 自定义
+4.11 模版
+4.12 用户组和访问限制
+4.13 可扩展性
+
+
+5 安装要求
+
+5.1 硬件配置
+5.2 操作系统及应用环境
+
+
+6 参考文献
+7 外部連結
+8 參見
+
+
+
+许可[编辑]
+MediaWiki是遵循GNU通用公共许可证的最新版本（截至发布日期）发布的自由软件。它的文档则是部分基于知识共享许可证发布，部分隶属于公有领域[14]。MediaWiki.org上的指南等内容具有知识共享许可证，而用于拷贝和/或包含在MediaWiki安装文件内的帮助页面则属于公有领域。这是为了避免由于拷贝帮助页面而引起的违背知识共享许可证条例的法律纠纷[15]。MediaWiki总体使用开放源代码的多媒体格式。[16]
+歷史[编辑]
+
+
+
+
+马格努斯·曼斯克（Magnus Manske），摄于2012年
+
+
+
+
+
+
+布里昂·维伯 (Brion Vibber)，摄于2012年
+
+
+在科隆大学的学生及开发员马格努斯·曼斯克设计的用户介面基础上，李·丹尼尔·克罗克（英语：Lee Daniel Crocker）为维基百科编写了现在的这一软件。维基百科最初曾经使用Perl语言编写的小型wiki引擎UseModWiki作为后台，其后则换用了Manske用PHP编写的软件来提供更多的功能。随着使用量的日益增长，页面加载的问题日益严重，这促使克罗克重写了该软件，采用了扩展性更强的MySQL后台数据库。
+后来，维基媒体基金会的首席技术官布里昂·维伯（Brion Vibber）[17]成为了该软件的发布经理及其最活跃的开发者。[6][18]
+随着曼斯克程序第一版的释出，该软件曾被赋予了多项昵称，以表示当时的开发状态——“PHP脚本”（the PHP script）、“第二期”（phase II）、“第三期”（phase III）、“新代码库”（the new codebase）——但并无正式的产品名称。2003年6月20日，随着维基媒体基金会的宣布成立，作为对“Wikimedia”（维基媒体）的戏称，维基百科贡献者丹尼尔·迈耶（Daniel Mayer）创造了“MediaWiki”一词来称呼这一软件，[19]并在2003年8月开始逐步得到采用。由于这一名称有意地相似于“Wikimedia”一名（而“Wikimedia”还相似于“Wikipedia”），因而经常造成混淆。该软件的标志由埃里克·默勒（Erik Möller）基于弗洛朗丝·尼巴尔-德伍阿尔拍摄的太阳花照片制作，最初用于参加维基百科在2003年年中举行的国际性标志竞赛。[20]该标志被评为第三名，并被选作MediaWiki的标志；第二名的标志则被选为维基媒体基金会的标志。[21]太阳花两侧的双重方括号象征着MediaWiki用来建立超連結到其他wiki页面的语法。
+版本历史[编辑]
+
+
+顏色
+说明
+
+
+红色
+旧版本；不再支持
+
+
+黄色
+旧版本；仍受支持
+
+
+绿色
+当前版本
+
+
+蓝色
+未来版本
+
+
+MediaWiki的第一个版本1.1，发布于2003年12月。MediaWiki 1.25.1是当前稳定版本，发布于2015年5月。
+下表包含了MediaWiki的版本历史，展示了该软件所有的发行版本。
+
+
+版本号
+发行日期
+链接
+重大更新
+
+
+1.1
+2003年12月8日
+完整版本说明
+
+
+新的wiki表格语法。
+用户可通过“MediaWiki”名字空间编辑界面消息。
+XML格式的页面源码导出功能，可选历史版本。
+“魔术字”功能——特殊的变量和解析器指令。
+
+
+
+
+1.2
+2004年3月24日
+完整版本说明
+
+
+试验基于网络的安装程序。
+缩放图像和生成缩略图。
+方便学习wiki语法的编辑工具栏。
+在wiki内对用户权限进行管理。
+
+
+
+
+1.3
+2004年8月11日
+完整版本说明
+
+
+新的高度使用CSS呈现的默认外观（“MonoBook”皮肤），并进一步地遵从网络标准。
+模板参数功能。
+分类功能。
+在可能时自动合并编辑冲突。
+改善安装程序。
+
+
+
+
+1.4
+2005年3月20日
+完整版本说明、语言支持
+
+
+用户可修改其用户界面语言。
+显著的性能改善。
+支持对条目的旧修订进行压缩以减少存储需求。
+支持生成图廊，最近上传图像列表。
+支持将SVG点阵化（需要外部工具支持）。
+
+
+
+
+1.5
+（支持MySQL 3的最后版本）
+2005年10月5日
+完整版本说明、语言支持
+
+
+大幅重新设计数据库，令文本存储脱离对修订溯查的依赖，导致：
+
+显著提升部分操作的性能。
+为所有修订提供永久链接功能。
+支持在主数据库外存储大批数据。
+
+
+支持在发生更改时以电子邮件提醒。
+强制以UTF-8编码页面内容。
+
+
+
+
+1.6
+（支援PHP 4的最后版本）
+2006年4月5日
+完整版本说明、语言支持
+
+
+使用新的扩展框架处理页面的保护和解除保护。
+后台更新采用“工作队列”。
+改进对模板使用的溯查。
+模板参数可使用默认值。
+
+
+
+
+1.7
+2006年7月7日
+完整版本说明、语言支持
+
+
+MediaWiki 1.7需要使用PHP 5（推荐使用5.1），不再支持PHP 4。
+可恢复已删除文件。
+
+
+
+
+1.8
+2006年10月10日
+完整版本说明、语言支持
+
+
+完全支持PostgreSQL（8.1或更高版本）后台数据库
+支持DjVu缩略图和多页导航
+对用户封禁的多项改进；封禁可只影响到使用特定IP地址的未注册用户
+从公开可访问的URL地址上传文件，倘若相关功能已被启用
+
+
+
+
+1.9
+2007年1月10日
+完整版本说明、语言支持
+
+
+“撤销修订”功能
+对封禁和特殊页面缓存的多项改进
+支持列排序的表格
+Addition of an edit counter field to the user database
+在监视列表和最近更改中显示修订的大小
+Special名字空间的页面名称可被本地化，令非英语网站的链接和URL地址更易于辨识
+
+
+
+
+1.10
+2007年5月9日
+完整版本说明、语言支持
+
+
+“连锁保护”功能
+改进工具提示和快捷键功能
+对封禁和特殊页面缓存的多项改进
+
+
+
+
+1.11
+2007年9月10日
+完整版本说明、语言支持
+
+
+增加全局变量$wgAddGroups和$wgRemoveGroups以更好地管理用户组
+清理并默认启用基于AJAX的页面监视功能
+
+
+
+
+1.12
+2008年3月20日
+完整版本说明、语言支持
+
+
+国际化与本地化大幅改进；增加了更多语言的翻译，Special:Version亦被本地化，支持希伯来历、泰历和伊朗历。
+重写解析器预处理程序
+改善并一般化用户权限接口
+
+
+
+
+1.13
+2008年8月14日
+完整版本说明、语言支持
+
+
+新的特殊页面：FileDuplicateSearch（搜索重复文件）、ListGroupRights（群组权限列表）
+重新设计Special:UserRights（用户权限）和Special:SpecialPages（特殊页面）
+隐藏分类功能：在分类页面添加__HIDDENCAT__魔术字将能在条目页面中隐藏该分类。
+对点击红链但不能编辑的用户友好化
+可自动修复因页面移动而创建的双重重定向
+
+
+
+
+1.14
+2009年2月22日
+完整版本说明、语言支持
+
+
+支持纯文本的著作权提醒（除知识共享或GFDL外）
+图像可链接到任意的标题或URL
+Search engine indexing can be controlled on a per-page basis
+对手持设备的更好的CSS支持
+页面的历史页面可选择日期
+文件上传的历史页面可为每一文件版本显示缩略图
+
+
+
+
+1.15
+2009年6月10日
+完整版本说明、语言支持
+
+
+支持文件名移动
+增加魔术字{{GENDER:||}}、{{NUMBEROFACTIVEUSERS}}和{{REVISIONUSER}}
+
+
+
+
+1.16
+2010年7月28日
+完整版本说明、 语言支持
+
+
+新的Vector皮肤
+能从Special:Emailuser禁止用户发电邮
+提供監視列表清單的RSS
+可於特殊頁面封禁用戶
+改進使用SQLite資料庫的支援
+
+
+
+
+1.17
+2011年6月22日
+完整版本说明、 语言支持
+
+
+新的安裝介面
+資源載入器
+分類排序的改進
+
+
+
+
+1.18
+（支援MySQL 4的最后版本）
+2011年11月28日
+完整版本说明、 语言支持
+
+
+自1.18版起，math語法自MediaWiki核心中抽離，改為以外掛Extension:Math來支援
+更好的書寫方向支持。
+調整用戶連結以反映用戶性別。
+支持Protocol-relative URL。
+
+
+
+
+1.19(LTS)
+（支援PHP 5.2.3的最后版本）
+2012年5月2日
+完整版本说明、 语言支持
+
+
+只支持MySQL 5.0.2以上的版本。
+更多性別支持(如用戶列表)。
+語言轉換器及一些魔術字從此版本開始基於該頁面的語言。
+
+
+
+
+1.20
+2012年11月7日
+完整版本说明、 语言支持
+
+
+只支持PHP 5.3.2以上的版本。
+改進清晰度，以及對色盲用戶更友善。
+
+
+
+
+1.21
+2013年5月25日
+完整版本说明、 语言支持
+
+
+更详细的电子邮件通知。
+新的內容處理程序。
+支持高DPI的显示器。
+
+
+
+
+1.22
+2013年12月7日
+完整版本说明、 语言支持
+
+
+反垃圾邮件和反破坏的改进。
+编辑系统改进。
+页面样式（皮肤）升级至 Vector 和其它一些。
+Support for Composer PHP dependency manager.
+改进登录和注册页面。
+
+
+
+
+1.23(LTS)
+2014年6月5日
+完整版本说明、 语言支持
+
+
+弃用样式自动发现（autodiscovery）。
+Notifications。
+Vector样式的CSS刷新。
+
+
+
+
+1.24
+2014年11月27日
+完整版本说明、 语言支持
+
+
+新的本地化工具。
+性能改进。
+分类页面现在可以移动了。
+支持取消register globals。
+其它一些改进。
+
+
+
+
+1.25
+2015年5月25日
+完整版本说明、 语言支持
+
+
+移除点击计数器。
+
+
+
+
+使用网站[编辑]
+更多信息：Category:MediaWiki网站
+MediaWiki最著名的使用案例是维基百科，同时还部分用于维基媒体基金会的其他项目。一些其他的公共wiki网站也使用Mediawiki，包括Wikia[22]（一个wiki农场[23]）、wikiHow[24]和维基解密[25]。
+使用mediawiki的还有众多和维基百科模式相似的线上wiki百科，大众百科、Metapedia、Scholarpedia和保守百科[26]是其中几个例子。Mediawiki也在大量公司的内部使用，其中有Novell和英特尔[27][28]。
+Mediawiki也被应用在政府内部，例子包括由美国情报体系使用的情报百科（英语：Intellipedia）和美国国务院使用的Diplopedia。联合国开发计划署和INSTRAW（英语：United Nations International Research and Training Institute for the Advancement of Women）等联合国机构也使用MediaWiki来运行他们的wiki网站，他们认为：“这个软件支撑了维基百科的运转，得到了全面而彻底的测试，相对于其他wiki软件，MediaWiki在未来将会是更多wiki网站技术人员的选择。”[29]
+主要功能[编辑]
+MediaWiki提供丰富的核心功能集和增加提供附加功能的扩展程序的机制。
+国际化和本地化[编辑]
+由于维基媒体计划大力强调多语言，国际化和本地化受到开发商的显著关注。Translatewiki.net将用户界面完全或部分翻译成超过300种语言，网站管理员还可以进一步定制（整个界面可以透过wiki编辑）[30]。几个扩展程序，最明显的是收集在MediaWiki语言扩展包中的，旨在进一步提升MediaWiki的多语种和国际化。
+安装和配置[编辑]
+安装MediaWiki要求用户拥有管理权限能同时运行PHP和兼容类型SQL数据库的服务器。有些用户发现设置虚拟主机能在很大程度上使得不兼容MediaWiki的网站的大部分内容在框架下（如Zope和Ruby on Rails）运行[31]。云主机可以让用户省去手动建立新服务器的工夫[32]。
+安装PHP脚本能透过网络浏览器访问来初始化wiki的设置。软件为用户提示了必备参数的最小化设置，留下启用上传功能[33]、增加网站标志[34]、安装扩展等进一步的变更可透过修改包含在文件LocalSettings.php中的配置设置实现[35][36]。MediaWiki的某些方面可以透过特殊网页或编辑某些页面进行配置。例如，滥用过滤器需要透过专门的页面设置[37]，某些小工具可以在MediaWiki名字空间中创建JavaScript页面以进行添加。MediaWiki社区发布了一篇全面的安装指南[38]。
+标记[编辑]
+早期MediaWiki（及其前身UseModWiki）与其他维基引擎之间的差别之处在于代替驼峰式大小写的“自由链接”。当MediaWiki被创造时，wiki的典型现象是需要文本像“WorldWideWeb”一样创建关于万维网页面的链接：MediaWiki中的链接从另一方面来讲，是由双括号括起来的字创建的，它们之间的空间保持不变，如万维网。这种变化符合创建百科全书的逻辑，且十分讲求名字的精确度。
+MediaWiki使用了一种可扩展、轻量级的维基标记语言来设计[39]，它比HTML更容易学习和使用。工具存在将表格在MediaWiki标记和HTML之间切换的转换内容[40]。尽管有过创造MediaWiki标记语言规范的尝试，但共识似乎已经达到了维基代码需要上下文有关文法的程度[41][42]。下面的对比分析展现了维基标记语言与HTML之间的差别。
+
+
+MediaWiki语法
+对应HTML代码
+渲染输出
+
+
+==== A dialogue ====
+
+"Take some more [[tea]]," the March Hare said to Alice, very earnestly.
+
+"I've had nothing yet," Alice replied in an offended tone: "so I can't take more."
+
+"You mean you can't take ''less''," said the Hatter: "it's '''very''' easy to take ''more'' than nothing."
+<h4><span class="mw-headline" id="A_dialogue">A dialogue</span></h4>
+
+<p>"Take some more <a href="/wiki/Tea" title="Tea">tea</a>," the March Hare said to Alice, very earnestly.</p>
+
+<p>"I've had nothing yet," Alice replied in an offended tone: "so I can't take more."</p>
+
+<p>"You mean you can't take <i>less</i>," said the Hatter: "it's <b>very</b> easy to take <i>more</i> than nothing."</p>
+
+
+A dialogue
+"Take some more tea," the March Hare said to Alice, very earnestly.
+"I've had nothing yet," Alice replied in an offended tone: "so I can't take more."
+"You mean you can't take less," said the Hatter: "it's very easy to take more than nothing."
+
+
+
+（语出路易斯·卡罗《爱丽丝梦游仙境》）
+编辑界面[编辑]
+主条目：可视化编辑器
+学习MediaWiki的页面编辑工具被认为有挑战性。一项关于学生使用基于MediaWiki的wiki的分配情况的调查发现，当被问及wiki的主要问题的开放性问题时，24%提到了技术问题和格式，如“无法弄清楚如何加入图像。无法弄清楚如何显示带链接的文字，就像输入数字。”
+为了使编辑长页面更容易，MediaWiki允许分段编辑页面（从段落标题处找到）。用户还可以标记编辑是否为小修改。例如更正拼写、语法和标点符号属于小修改，而增加新文本段落就不属于小修改。
+有时一个用户正在编辑，第二个用户保存页面同一段落的编辑，之后当第一个用户尝试保存网页时，就会出现编辑冲突。那个第二个用户将获得机会将它的内容合并到当前展现第一个用户保存的编辑的页面。一个可选的扩展程序向特定用户组在编辑冲突时提供优先机会。
+MediaWiki的用户界面已被本地化成不同的语言。维基内容本身可以设置、发送到“内容式语言”的HTTP标题和“lang”HTML属性。
+应用程序编程接口[编辑]
+丰富内容[编辑]
+追踪编辑[编辑]
+导航[编辑]
+内容组织[编辑]
+自定义[编辑]
+模版[编辑]
+用户组和访问限制[编辑]
+可扩展性[编辑]
+安装要求[编辑]
+硬件配置[编辑]
+操作系统及应用环境[编辑]
+
+任何一種可以運行PHP5與MySQL的作業系統：
+
+
+
+
+Microsoft Windows，例如：
+
+
+Windows 2000、Windows Server 2003、Windows Server 2008
+
+
+Linux（例如，Fedora……）
+BSD（例如，FreeBSD……）
+macOS(前稱Mac OS X)，例如：
+
+
+OS X Lion、Mac OS X 10.6.....
+
+
+
+
+資料庫：MySQL、PostgreSQL或MariaDB
+動態網頁技術：PHP5
+網頁伺服器：Apache、Nginx或IIS
+
+参考文献[编辑]
+
+
+^ MediaWiki开源套件. mediawiki.org. 
+^ MediaWiki支持的语言. translatewiki.net. 
+^ MediaWiki所用的许可协议. mediawiki.org. 
+^ 例如：http://developer.novell.com/ ；http://en.opensuse.org/ ；存档副本. [2013-09-21]. （原始内容存档于2013-09-21）. 等。
+^ Project:Copyrights. MediaWiki.org. [2009-10-24]. 
+^ 6.0 6.1 MediaWiki history. MediaWiki website. [2007-07-19]. 
+^ 7.0 7.1 What is MediaWiki?. [2013-08-04]. 
+^ Česky. Wikipedia:Statistics – Wikipedia, the free encyclopedia. En.wikipedia.org. [2010-05-30]. 
+^ Category:MediaWiki configuration settings. MediaWiki. 2011-02-07 [2011-02-07]. 
+^ Extension Matrix. MediaWiki. [2011-02-07]. 
+^ Wikipedia statistics – Bot editing activity. Wikimedia Foundation. 2012-10-31 [2012-11-15]. 
+^ Sites using MediaWiki/corporate. MediaWiki. [2010-05-30]. 
+^ Schacht, Paul, The Collaborative Writing Project, Using Wiki in Education (PDF) 
+^ MediaWiki.org Project:Copyrights. [2009-08-17]. 
+^ Project:PD help. MediaWiki. [2010-05-30]. 
+^ Rafe Needleman, Wikipedia gears up for flood of video and photo files, C-Net, November 19, 2008 
+^ David Weinberger. Everything Is Miscellaneous: The Power of the New Digital Disorder. Times Books. 2007: 99. ISBN 0805080430. 
+^ Wikipedia and MediaWiki. Presentation MediaWiki development (video). 2006-04-28 [2009-09-23]. 
+^ Mayer, Daniel. Phase IV, Wikibooks.org/.com and WikimediaFoundation.org/.com (was Wikis and uniformity). Wikipedia-L mailing list archives. 
+^ Wikimedia contributors. International logo contest/results. Meta-wiki. 维基媒体基金会. 2007-01-10 [2007-03-14]. 
+^ Wikimedia contributors. Historical/Logo history. Meta-wiki. 维基媒体基金会. 2007-01-17 [2007-03-14]. 
+^ John K Waters and John Lester. The Everything Guide to Social Media: All you need to know about participating in today's most popular online communities. Adams Media. 2010: 171 [2014-09-17]. 
+^ Henry K. Lee. Boyfriend charged with murder in Bernal Heights death. SFGate. 2014-08-29 [2014-09-17]. 
+^ Special:Version. wikiHow. [2015-02-21]. 
+^ About. WikiLeaks. [2012-10-11]. （原始内容存档于2012-10-11）. 
+^ Examples of Bias in Wikipedia. Conservapedia. [2010-05-30]. 
+^ 使用 MediaWiki 软件的站点. MediaWiki. [2015-07-29]. 
+^ The story of Intelpedia: A model corporate wiki. Socialmedia.biz. 2010-07-08 [2015-07-29]. 
+^ A. Maron, M. Maron. A stealth transformation: introducing wikis to the UN. Knowledge Management for Development Journal. 2007 [2010-10-09]. 
+^ 参见：Translation statistics和Multilingual MediaWiki.
+^ Lerner, Reuven M. Installing and Customizing MediaWiki. Linux Journal. 2006-01-23. 
+^ Petrazickis, Leons. Deploying PHP applications on IBM DB2 in my butt: MediaWiki as a case study. Proceedings of the 2009 Conference of the Center for Advanced Studies on Collaborative Research. 2009. 
+^ Manual:$wgEnableUploads. MediaWiki. [2010-05-30]. 
+^ Manual:$wgLogo. MediaWiki. December 12, 2009 [2010-05-30]. 
+^ Manual:Configuration settings
+^ 手册:LocalSettings.php. MediaWiki. 2007-03-29 [2010-05-30]. 
+^ Extension:AbuseFilter. MediaWiki. [2010-05-30]. 
+^ 手册:安装指南. MediaWiki. [2010-05-30]. 
+^ Manual:Extending wiki markup. MediaWiki. [2010-05-30]. 
+^ HTML to Wiki Converter – tables. WMF Labs. 2008-03-29 [2014-06-12]. 
+^ Markup spec. MediaWiki. [2010-05-30]. 
+^ Extricating Meaning from Wikimedia Article Archives (PDF). [2011-01-02]. 
+
+
+外部連結[编辑]
+
+
+
+维基共享资源中相關的多媒體資源：
+
+MediaWiki（分類）
+
+
+
+
+
+
+
+元維基上的相關信息：
+MediaWiki
+
+
+
+
+
+MediaWiki上的相關條目：
+
+什么是MediaWiki？
+
+
+
+
+
+官方网站
+
+使用者指南
+使用MediaWiki的網站列表
+
+
+MediaWiki中文技术论坛（非官方）
+中文Mediawiki
+
+參見[编辑]
+
+
+自由软件主题
+维基百科主题
+
+
+
+
+MediaWiki初版主要作者：马格努斯·曼斯克
+Wikipedia:MediaWiki
+Wiki
+Wiki引擎
+Wiki軟件比較
+維基
+維基媒體基金會
+維基百科
+跨维基
+如何取得维基软件
+內容管理系統列表
+MediaWiki與瀏覽器或執行環境的相容性
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+維基百科
+
+
+
+
+
+
+百科概要（英语：Outline of Wikipedia）
+
+
+
+維基
+利益衝突編輯
+批評
+刪除主義和保留主義
+性別偏誤
+種族偏差（英语：Racial bias on Wikipedia）
+關注度
+可靠性
+來源請求（日语：要出典）
+破壞
+維基百科健康資訊（英语：Health information on Wikipedia）
+
+
+
+
+
+
+
+
+維基社群
+
+
+
+
+百科運作
+
+
+
+管理員
+仲裁委員會
+編輯松
+The Signpost（英语：The Signpost）
+維基愛古蹟
+Art+Feminism（英语：Art+Feminism）
+駐點維基人（英语：Wikipedian in residence）
+年度維基人（英语：Wikipedian of the Year）
+維基教育基金會
+
+
+
+
+
+
+
+
+運動夥伴
+
+
+
+維基媒體基金會
+維基媒體分會
+
+德國
+法國
+義大利
+荷蘭
+波蘭
+中華民國
+香港
+澳門
+Amical（加泰罗尼亚语：Amical Wikimedia）
+
+
+維基媒體計劃
+
+元維基
+維基百科
+維基詞典
+維基數據
+維基教科書
+維基共享資源
+維基新聞
+維基語錄
+維基文庫
+維基物種
+維基學院
+維基導遊
+
+
+維基媒體國際會議
+中文維基年會
+
+
+
+
+
+
+
+
+
+
+
+著名人物
+
+
+
+弗洛朗絲·德伍阿爾
+奧斯卡·范·迪倫（英语：Oscar van Dillen）
+蘇·加德納
+詹姆斯·海爾曼
+凱薩琳·馬赫
+馬格努斯·曼斯克
+埃里克·默勒
+拉里·桑格
+莉拉·崔迪科夫
+吉米·威爾斯
+安吉拉·貝絲蕾·斯塔林
+時昭
+許瑜真
+陳霆
+王鐘銘
+陳穎
+賈斯汀·納普
+提姆·謝爾
+麥可·斯諾
+邁克·戈德溫（英语：Mike Godwin）
+埃文·阿莫斯
+巴塞爾·哈爾塔比爾
+酈安治
+麥康瑞
+西蒙·普爾西斐
+亞倫·斯沃茨
+伊霍爾·柯斯登柯
+唐鳳
+加特·沃爾什
+雷米·馬蒂斯
+亞倫·哈爾費克（英语：Aaron Halfaker）
+達魯休·傑米爾尼亞克（英语：Dariusz Jemielniak）
+漢普頓·凱特林（英语：Hampton Catlin）
+達斯·庫珀（英语：Danese Cooper）
+比夏漢·達塔（英语：Bishakha Datta）
+亞倫·格斯里（英语：Arnnon Geshuri）
+蓋伊·川崎（英语：Guy Kawasaki）
+路爾斯·比利亞（英语：Luis Villa）
+
+
+
+
+
+
+
+
+百科歷史
+
+
+
+
+發展歷程
+
+
+
+Bomis
+Nupedia
+維基百科標誌
+義大利語維基百科大規模空白抗議
+反SOPA和PIPA抗議
+
+英語維基百科關站抗議（印尼语：Pemadaman Wikipedia bahasa Inggris）
+
+
+俄語維基百科關站抗議（俄语：Забастовка русской Википедии）
+皮埃爾敍奧特軍用無線電台事件
+維基百科也申遺
+1Lib1Ref（英语：1Lib1Ref）
+維基百科知識引擎
+涉及到維基媒體基金會的訴訟（英语：Litigation involving the Wikimedia Foundation）
+
+維基媒體基金會控告美國國家安全局案
+
+
+
+
+
+
+
+
+
+
+相關爭議（英语：List of Wikipedia controversies）
+
+
+
+美國國會職員的編輯
+Essjay事件
+席根塔勒傳記事件
+亨里克·巴圖塔惡作劇事件（英语：Henryk Batuta hoax）
+山達基教會的編輯（英语：Church of Scientology editing on Wikipedia）
+希爾斯堡慘劇編輯事件（英语：Hillsborough Wikipedia posts）
+MyWikiBiz（英语：MyWikiBiz）
+克里斯·班瓦謀殺事件（英语：Chris Benoit double-murder and suicide）
+美國中東新聞報導準確性委員會爭議（英语：Committee for Accuracy in Middle East Reporting in America）
+比喬利姆戰爭（加泰罗尼亚语：Bicholim conflict）
+
+
+
+
+
+
+
+
+審查封鎖
+
+
+
+網路觀察基金會審查
+中國大陸對維基媒體的封鎖
+俄羅斯對維基百科的封鎖（俄语：Блокирование Википедии в России）
+
+俄羅斯國家杜馬89417-6法案
+
+
+2017年土耳其封鎖維基百科事件
+
+
+
+
+
+
+
+
+
+
+
+相關技術
+
+
+
+
+網站技術
+
+
+
+Wiki
+MediaWiki
+维基可视化编辑器
+Lsjbot
+資訊框
+Wikiwand
+
+
+
+
+
+
+
+
+手機访问
+
+
+
+應用程式
+QRpedia
+Wapedia
+WikiNodes（英语：WikiNodes）
+維基百科零計劃
+
+
+
+
+
+
+
+
+內容使用
+
+
+
+Books LLC（英语：Books LLC）
+DBpedia
+Deletionpedia
+Kiwix
+WikiReader（英语：WikiReader）
+維基百科校園版
+維基掃描器
+
+
+
+
+
+
+
+
+
+
+
+獎勵紀念
+
+
+
+2008年勝利女神四馬戰車獎（英语：Quadriga (award)）
+2015年伊拉斯謨獎
+2015年阿斯圖里亞斯親王獎
+維基百科紀念雕像
+國際志願者日
+小行星274301
+
+
+
+
+
+
+
+
+造成影響
+
+
+
+文化領域（英语：Wikipedia in culture）
+相關書目（英语：Bibliography of Wikipedia）
+相關電影
+學術研究（英语：Academic studies about Wikipedia）
+Wikipedia Review（英语：Wikipedia Review）
+Wikipediocracy（英语：Wikipediocracy）
+Wiki-Watch（英语：Wiki-Watch）
+伊拉克戰爭：維基百科編輯歷史史學（英语：The Iraq War: A Historiography of Wikipedia Changelogs）
+列印維基百科
+大憲章（英语：Magna Carta (An Embroidery)）
+數字中的真相
+維基百科編輯手冊
+
+
+
+
+
+
+
+
+類似計畫
+
+
+
+Interpedia（英语：Interpedia）
+大眾百科
+自由百科
+Digital Universe（英语：Digital Universe）
+偽基百科
+Nonciclopedia（義大利語：Nonciclopedia）
+Vikidia（法语：Vikidia）
+Veropedia（英语：Veropedia）
+WikiZnanie（葡萄牙語：WikiZnanie）
+Lurkmore（俄语：Луркоморье）
+Wookieepedia
+Scholarpedia
+Wikia
+Wiki網站列表
+
+
+
+
+
+
+
+
+
+
+
+ 條目分類
+ 維基教科書
+ 維基數據
+ 維基共享資源
+ 維基新聞
+ 維基語錄
+ 維基文庫
+ 維基學院
+ 維基導遊
+ 維基辭典
+
+
+
+
+
+
+
+
+
+
+
+
+分类：MediaWiki自由内容管理系统用PHP编程的自由软件自由wiki软件2002年软件自由跨平台軟體隐藏分类：自2013年2月待更新条目需要從英語維基百科翻譯的條目含有多个问题的条目使用过时图像语法的页面含有英語的條目

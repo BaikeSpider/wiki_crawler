@@ -1,0 +1,126 @@
+nginx
+
+
+
+
+
+本条目需要更新。（2012年11月3日） 
+請更新本文以反映近況和新增内容。完成修改時，請移除本模板。 
+
+
+
+
+
+
+
+
+
+Nginx
+
+
+
+
+原作者
+伊戈尔·赛索耶夫
+
+
+開發者
+NGINX, Inc.
+
+
+初始版本
+2004年10月4日，​13年前​（2004-10-04）
+
+
+穩定版本
+
+
+
+穩定版本
+
+1.12.2  / 2017年10月17日，​2個月前​（2017-10-17）
+
+
+
+預覽版本
+
+1.13.8  / 2017年12月26日，​5天前​（2017-12-26）
+
+
+
+操作系统
+Linux, BSD variants, OS X, Solaris, AIX, HP-UX,*nix Windows
+
+
+语言
+C
+
+
+类型
+網頁伺服器、郵件伺服器、反向代理伺服器
+
+
+许可协议
+类BSD
+
+
+網站
+www.nginx.org
+
+
+源代码库
+http://hg.nginx.org/nginx/、https://github.com/nginx/nginx
+
+
+Nginx（发音同engine x）是一个 Web服务器，也可以用作反向代理，负载平衡器和 HTTP缓存。该软件由 Igor Sysoev 创建，并于2004年首次公开发布。同名公司成立于2011年，以提供支持。
+Nginx是一款免费的开源软件，根据类BSD许可证的条款发布。大部分 Web服务器通常使用 NGINX 作为负载均衡器。
+
+
+
+目录
+
+
+1 特点
+
+1.1 可大量平行處理
+
+
+2 Nginx模块
+3 数据统计
+4 PHP整合
+5 參考文獻
+6 另请参阅
+7 外部链接
+
+
+
+特点[编辑]
+Nginx可以部署在网络上使用FastCGI脚本、SCGI处理程序、WSGI应用服务器或Phusion乘客模块的动态HTTP内容，并可作为软件负载均衡器。
+Nginx使用异步事件驱动的方法来处理请求。Nginx的模块化事件驱动架构可以在高负载下提供更可预测的性能。
+Nginx是一款面向性能设计的HTTP服务器，相较于Apache、lighttpd具有占有内存少，稳定性高等优势。与旧版本（<=2.2）的Apache不同，Nginx不采用每客户机一线程的设计模型，而是充分使用异步逻辑从而削减了上下文调度开销，所以并发服务能力更强。整体采用模块化设计，有丰富的模块库和第三方模块库，配置灵活。 在Linux作業系統下，Nginx使用epoll事件模型，得益於此，Nginx在Linux作業系統下效率相當高。同時Nginx在OpenBSD或FreeBSD作業系統上採用類似於epoll的高效事件模型kqueue。
+可大量平行處理[编辑]
+Nginx在官方測試的結果中，能夠支援五萬個平行連接，而在實際的運作中，可以支援二萬至四萬個平行連結。
+Nginx模块[编辑]
+整体采用模块化设计是Nginx的一个重大特点，甚至http服务器核心功能也是一个模块。旧版本的Nginx的模块是静态的，添加和删除模块都要对Nginx进行重新编译，1.9.11以及更新的版本已经支持动态模块加载。
+数据统计[编辑]
+截至2017年三月，中国注册域名总数的9.65%使用 Nginx。(中国网络统计)
+PHP整合[编辑]
+自PHP-5.3.3起，PHP-FPM加入到了PHP核心，编译时加上--enable-fpm即可提供支持。 PHP-FPM以守护进程在后台运行，Nginx响应请求后，自行处理静态请求，PHP请求则经过fastcgi_pass交由PHP-FPM处理，处理完毕后返回。 Nginx和PHP-FPM的组合，是一种稳定、高效的PHP运行方式，效率要比传统的Apache和mod_php高出不少。
+PHP-FPM不支持Windows平台，由于没有fastcgi进程管理器管理php-cgi.exe，因此一旦php-cgi.exe崩溃退出，前端将失去响应，这时Nginx会返回“The page you are looking for is temporarily unavailable. Please try again later.”的错误信息。 因此在Windows上用Nginx和php-cgi.exe组合来运行PHP的方式并不可靠，稳定性有待提高。
+參考文獻[编辑]
+
+另请参阅[编辑]
+
+Tengine
+
+外部链接[编辑]
+
+官方网站
+NGINX, Inc.
+邮件列表归档
+
+
+
+
+
+分类：2002年软件自由跨平台軟體自由代理服务器用C編程的自由軟體Linux网络服务器软件Linux代理服务器软件自由网络服务器软件反向代理Unix网络相关软件隐藏分类：自2012年11月待更新条目小寫標題使用过时图像语法的页面

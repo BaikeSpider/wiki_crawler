@@ -1,0 +1,142 @@
+网络生命大百科
+
+
+
+
+
+
+网络生命大百科
+Encyclopedia of Life
+
+
+
+
+网站类型
+大百科
+
+
+语言
+Template:Show hide box
+
+
+创始人
+菲爾德自然史博物館
+哈佛大學
+麥克阿瑟基金會
+海洋生物实验室（英语：Marine Biological Laboratory）
+密蘇里植物園
+艾爾弗·斯隆基金
+史密森尼学会
+
+
+网站
+eol.org
+
+
+Alexa排名
+ 57,646 (July 2016[update])[1]
+
+
+商业性质
+No
+
+
+注册
+Optional
+
+
+推出时间
+2008年2月26日 (2008-02-26)
+
+
+现状
+活跃
+
+
+网络生命大百科（Encyclopedia of Life, EOL）是一个免费的在线协作百科全书，旨在记录所有190万种生物的科学知识。 它是从现有的数据库，以及来自世界各地的专家和非专家的贡献编制的[2]。它旨在为每个物种构建一个“无限扩展”页面，包括视频，声音，图像，图形以及文本[3]。此外，“网络生命大百科”还包含了生物多样性遗产图书馆（英语：Biodiversity Heritage Library）的内容，该图书馆数字化了世界主要自然历史图书馆数百万页的印刷文献。该项目最初由麦克阿瑟基金会和斯隆基金会牵头的5000万美元资金承诺，分别提供了2000万美元和500万美元。额外的2500万美元来自五个基石机构 - 美國菲爾德自然史博物館，哈佛大学，海洋生物实验室（英语：Marine Biological Laboratory）， 密苏里植物园，和史密森学会。该项目最初由Jim Edwards[4]和David Patterson的开发团队领导。 今天，参与机构和个人捐助者通过财政捐款继续支持EOL。
+
+
+
+目录
+
+
+1 概述
+2 意图
+3 資源和合作
+4 参見
+5 参考資料
+6 外部链接
+
+
+
+概述[编辑]
+EOL于2008年2月26日上线，共有3万项条目[5]。该网站立即被证明是非常受欢迎的，暂时不得不回到演示页面两天，当时它超过了1100多万次观察的交通流量[6]。
+该网站于2011年9月5日重新启动，重新设计了界面和工具[7]。新版本 - 被称为EOLv2 - 是根据公众，公民科学家，教育工作者和专业生物学家的要求开发的，这个网站是更具吸引力，更易于访问和个性化的。 EOLv2被重新设计，以提高可用性，并鼓励用户之间的贡献和交互。 该产品还具有国际化，提供英语，德语，西班牙语，法语，加利西亚语，塞尔维亚语，马其顿语，阿拉伯语，中文，韩语，和乌克兰语语言的界面。 2014年1月16日，EOL启动了TraitBank，这是一个可搜索的开放式数字存储库，用于生命之树上的所有分类群的生物性状，测量，相互作用和其他事实[8]。
+该计划的执行委员会包括澳大利亚生物图集，生物多样性遗产图书馆（英语：Biodiversity Heritage Library）联盟，中国科学院，CONABIO（英语：Comisión Nacional para el Conocimiento y Uso de la Biodiversidad），菲爾德自然史博物館，哈佛大学，新亚历山大图书馆(Bibliotheca Alexandrina)，麦克阿瑟基金会，海洋生物实验室（英语：Marine Biological Laboratory）， 密苏里植物园，斯隆基金會和史密森学会[9][10]。
+意图[编辑]
+關於許多物種的信息已經從各種來源獲得，特別是關於巨型動物群。收集目前可用的所有190萬種物種的數據將需要10年左右[11] 。截至2011年9月 (2011-09)[update]，EOL有超過70萬種物種的資料，以及超過60萬張照片和數百萬頁的掃描文獻資料[12]。該計劃依靠索引編制的信息，其中包括Sp2000和整合分類學資訊系統(ITIS)的生命目錄（英语：Catalogue of Life），世界鱼类数据库(FishBase)和国家科学基金会(NSF)組裝生命樹項目，AmphibiaWeb，蘑菇瀏覽器項目(Mushroom explorer)，顯微鏡項目(microscope)等。最初的重點是生物種，但將後來包括滅絕物種。隨著新物種的發現有望繼續（目前的速度是每年約20,000次），网络生命大百科將不斷增長。由於分類法發現了通過分子技術發現的物種的新方式，新物種添加的速率將會增加 - 特別是在細菌，古菌和病毒的微生物方面。
+EOL的目標是為廣大市民，熱心業餘愛好者，教育工作者，學生和來自世界各地的專業科學家提供資源[2]。
+資源和合作[编辑]
+生命百科全書包含世界各地的內容合作夥伴，通過EOL平台[13]，包括維基百科和Flickr共享信息。
+它的界面翻譯為translatewiki.net, 一个基于网络的翻译平台。
+参見[编辑]
+
+在线百科全书列表
+维基物种
+整合分類學資訊系統(ITIS)
+
+参考資料[编辑]
+
+
+^ Eol.org Site Info. Alexa Internet. [2016-07-13]. 
+^ 2.0 2.1 EOL History. Eol.org. 2012-02-28 [2012-03-23]. 
+^ Odling-Smee, Lucy. Encyclopedia of Life launched. Nature. 2007-05-09 [2007-05-09]. doi:10.1038/news070508-7. 
+^ James Edwards - Encyclopedia of Life. Eol.org. [2015-11-21]. 
+^ Zimmer, Carl. The Encyclopedia of Life, No Bookshelf Required. The New York Times. 2008-02-26 [2008-02-27]. 
+^ Life Encyclopedia Debut Too Popular to Stay "Live". National Geographic. Associated Press. February 27, 2008 [2009-05-12]. 
+^ New Version of Encyclopedia of Life Now Available – Encyclopedia of Life. Eol.org. 2011-09-05 [2012-03-23]. 
+^ TraitBank: Practical semantics for organism attribute data. Semantic-web-journal.net. 2014-03-28 [2015-11-21]. 
+^ Scientists compile 'book of life'. BBC News. 2007-05-09 [2007-05-09]. 
+^ Meet the Team: Executive Committee. EOL. 2012-02-28 [2012-03-23]. 
+^ Encyclopédie de la vie: Une arche de Noé virtuelle!. Radio-Canada. 9 May 2007 [2009-05-12]. 
+^ New Version of the Encyclopedia of Life Now Available. Eol.org. 2011-09-05 [2012-03-23]. 
+^ EOL Content Partners. Eol.org. [2012-03-23]. 
+
+
+
+邵廣昭. 「生命大百科」(Encyclopedia of Life)－一項與數典計劃有關的重大科學國際合作計畫之啟動. 數位典藏國家型科技計畫網站. [2007-06-27]. 
+
+外部链接[编辑]
+
+官方网站 （英文）（法文）（中文）（西班牙文）
+A Leap for All Life: World's Leading Scientists Announce Creation of 'Encyclopedia of Life'. Encyclopedia of Life. 2007-05-09. 
+YouTube上的The Encyclopedia of Life – Introductory video from May 2007.
+
+
+
+生物學主题
+
+
+
+
+
+
+
+规范控制
+
+
+
+ISNI: 0000 0004 0499 7215
+
+
+
+
+
+
+
+
+
+
+
+
+分类：在线百科全书生物2008年建立的网站生物學文獻系统发生学生物分类动物学命名法中文百科全书英文百科全书多語言網站隐藏分类：使用过时图像语法的页面包含规范控制信息的维基百科条目

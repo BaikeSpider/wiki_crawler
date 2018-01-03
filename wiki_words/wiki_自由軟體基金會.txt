@@ -1,0 +1,771 @@
+自由软件基金会
+
+
+
+
+
+本条目的引用需要进行清理，使其符合格式。（2017年6月5日） 
+参考文献应符合正确的引用、脚注及外部链接格式。 
+
+
+
+
+
+
+
+本条目應避免有陳列雜項、瑣碎資料的部分。（2017年6月5日） 
+請協助將有關資料重新編排成連貫性的文章，安置於適當章節或條目內。 
+
+
+
+
+
+
+
+
+
+
+
+自由软件基金会
+
+
+
+
+簡稱
+FSF
+
+
+標語
+自由软件，自由社会（Free Software, Free Society）
+
+
+成立時間
+1985年10月4日，​32年前​（1985-10-04）[1]
+
+
+類型
+501(c)(3) 非营利组织
+
+
+法律地位
+基金会
+
+
+目標
+Educational
+
+
+總部
+ 美國馬薩諸塞州波士頓
+
+
+
+服務地區
+
+全球
+
+
+
+會員
+
+私人和企业赞助人
+
+
+
+主席
+
+理查德·斯托曼
+
+
+隸屬
+软件自由法律中心
+
+
+
+預算
+
+$1,136,393 （2014年度）[2]
+
+
+
+員工
+
+12[3]
+
+
+網站
+www.fsf.org
+
+
+自由軟件基金會（英语：Free Software Foundation，FSF）是一個致力於推廣自由軟件的美國民間非營利性組織。它於1985年10月由理查德·斯托曼建立。其主要工作是執行GNU計劃，開發更多的自由軟件。
+從其建立到1990年代中自由軟件基金會的基金主要被用來僱用編程師來發展自由軟件。從1990年代中開始寫自由軟件的公司和個人繁多，因此自由軟件基金會的僱員和志願者主要在自由軟件運動的法律和結構問題上工作。
+
+
+
+目录
+
+
+1 最近工作
+2 高優先計畫
+3 结构
+
+3.1 成员
+3.2 组织
+
+3.2.1 理事会成员
+
+
+3.3 姊妹组织
+
+
+4 奖励
+5 參考資料
+6 外部連結
+7 参见
+
+
+
+最近工作[编辑]
+
+
+GNU工程 
+自由软件基金会最早的目的在于促进自由软件的开发，但自由软件基金会也有开发GNU操作系统的任务。
+
+
+施行GPL 
+自由软件基金会具有施行GNU通用公共许可证和其它GNU许可证的能力和资源，但自由软件基金会只对它拥有版权的软件负责。其它软件必须由它们自己的拥有人来负责，原因是从法律规定上自由软件基金会无法为这些其它软件负责。自由软件基金会每年约接触到50个违反GNU通用公共许可证的事件，自由软件基金会试图不通过法院使对方遵守GNU通用公共许可证。
+
+
+GNU许可证 
+GNU通用公共许可证是自由软件工程中最普及的许可证。最新的版本（版本3）发表于2007年6月29日。自由软件基金会还发布了GNU宽通用公共许可证和GNU自由文档许可证。
+
+
+监督版权 
+自由软件基金会拥有大多数GNU软件和一些非GNU自由软件的版权。每个GNU软件包的贡献者必须签署版权文件，这样自由软件基金会可以在诉讼案中在法庭上维护这些软件。此外这样假如许可证有所变化的话不必征求软件所有的贡献者的同意。
+
+
+自由软件目录 
+自由软件目录是所有自由软件包的一个列表。其中列出的每个软件包含47条信息，比如工程的主页、程序师、编程语言等。目的是提供一个自由软件的搜索引擎和为用户提供一个检查一个软件包是否自由的工具。自由软件基金会为此从联合国教科文组织获得少数基金。计划是将来这个目录可以翻译成不同的语言。
+
+
+维持自由软件的定义 
+自由软件基金会维持多个定义自由软件运动的文献。
+
+
+法律教育 
+自由软件基金会举办关于GNU通用公共许可证的法律问题的研究会，向律师提供咨询服务。
+
+
+工程管理 
+自由软件基金会通过它的GNU草原（GNU Savannah）页面提供工程管理的服务。
+
+
+颁发奖励 
+自由软件基金会每年颁发两部奖励：自由软件进步大奖和社会福利自由软件奖励（英语：Free Software Award for Projects of Social Benefit）。
+
+高優先計畫[编辑]
+自由软件基金会列出了一個高優先計畫（high priority projects）列表，FSF認為這些計畫需要自由軟體社群們的注意，這些計畫所開發的項目目前並沒有自由軟體可以用來取代非自由軟體。
+目前計畫[4]：
+
+Gnash — 自由的Flash player軟件
+Coreboot — 一個自由BIOS的運動
+一個代替Skype的自由軟件
+一個自由的視訊編輯軟件
+一個代替Google Earth的自由軟件
+gNewSense — 一個只使用自由軟件的GNU/Linux作業系統
+GNU Octave — 一個代替Matlab的自由軟件
+代替OpenDWG（英语：OpenDWG）函式庫
+GDB的可逆性偵錯
+自由的網絡路由器驅動程式
+一個代替Oracle Forms（英语：Oracle Forms）的自由軟件
+自動轉錄Automatic transcription
+
+结构[编辑]
+成员[编辑]
+2002年11月25日自由软件基金会向个人提供自由软件基金会附属会员的可能性。到2005年3月它拥有3400多位附属会员。2003年3月5日它向商业企业提供公司保护计划，到2004年4月它拥有45位公司保护。
+组织[编辑]
+理事会成员[编辑]
+
+Geoffery Knauth，SFA公司高级程序员
+劳伦斯·莱斯格，斯坦福大学法律教授
+伊本·莫格林，哥伦比亚大学法律和司法历史教授
+亨利·普乐（英语：Henry Poole (technologist)），CivicActions公司的建立人
+理查德·斯托曼，自由软件基金会的建立人
+傑拉德·傑伊·薩斯曼，麻省工业学院电脑科学教授
+
+一般在波士顿总部里有10个雇员工作。
+姊妹组织[编辑]
+2001年在德国成立了欧洲自由软件基金会（英语：Free Software Foundation Europe）作为自由软件基金会在欧洲的代表人。2003年在喀拉拉邦成立了印度自由软件基金会（英语：Free Software Foundation of India）。2005年据传有打算成立拉丁美洲自由软件基金会（英语：Free Software Foundation Latin America）的计划。而在臺灣，與自由軟體基金會無直接關係的中華民國軟體自由協會於2001年成立，又該基金會將自由軟體基金會和GNU的繁體中文業務合併在同一個網站（即GNU繁體中文站），兩者共同推廣自由軟體與開放原始碼的普及。
+奖励[编辑]
+
+1999年：林纳斯·托瓦兹奖
+2005年：电子艺术大奖
+
+參考資料[编辑]
+
+^ Corporations Division Entity Summary for ID Number: 042888848. Secretary of Commonwealth of Massachusetts. [2014-10-04]. 
+^ 2014 Free Software Foundation IRS Form 990 (PDF). [24 November 2015]. 
+^ Staff of the Free Software Foundation. [2015-01-24]. 
+^ High Priority Free Software Projects — Free Software Foundation — working together for free software. www.fsf.org. 
+
+外部連結[编辑]
+
+官方网站
+FSF Europe
+FSF India
+中華民國軟體自由協會
+
+参见[编辑]
+
+
+自由软件主题
+
+
+
+GNU
+理查德·斯托曼
+自由软件运动
+自由软件
+自由軟體鑄造場
+自由编程联盟（英语：League for Programming Freedom）
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+知识产权激进主义
+
+
+
+
+
+
+问题和争论
+
+
+
+版权侵犯
+软件版权侵犯
+数字版权管理
+Gripe site（英语：Gripe site）
+音乐著作权的历史
+知识产权
+文件分享的合法性
+混制
+
+视频
+音乐
+
+
+专利权
+公有领域
+软件专利争论
+專利流氓
+
+
+
+
+
+
+
+
+概念
+
+
+
+All Rights Reversed
+Anti-版权 notice
+Copyleft
+版权属左的商业应用
+Commons-based peer production（英语：Commons-based peer production）
+自由内容
+自由软件许可
+信息无政府主义
+Libertarian positions（英语：Libertarian perspectives on intellectual property）
+开放内容
+开放设计
+开放音乐模式
+开放专利权
+开源硬件
+开源软件
+相同方式共享
+
+
+
+
+
+
+
+
+运动
+
+
+
+知识无界运动
+反版权
+文化环境
+自由文化运动
+自由软件运动
+
+
+
+
+
+
+
+
+组织
+
+
+
+创作共用
+
+电子前哨基金会
+自由软件基金会
+自由权利组织
+软件自由法律中心
+Organization for Transformative Works（英语：Organization for Transformative Works）
+海盗湾
+海盗署
+海盗党
+Students for Free Culture（英语：Students for Free Culture）
+
+
+
+
+
+
+
+
+人物
+
+
+
+李卡德·法克明炎
+勞倫斯·雷席格
+理查德·斯托曼
+
+
+
+
+
+
+
+
+文档
+
+
+
+幹走電影 (2006, 2007)
+正版盗版 (2007)
+混制宣言 (2008)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+GNU计划
+
+
+
+
+
+
+历史
+
+
+
+GNU宣言
+自由软件基金会
+
+欧洲（英语：Free Software Foundation Europe）
+印度（英语：Free Software Foundation of India）
+拉丁美洲（英语：Free Software Foundation Latin America）
+
+
+自由开源软件历史
+
+
+
+
+
+
+
+
+
+
+
+许可证
+
+
+
+GNU通用公共许可证
+GNU宽通用公共许可证
+Affero通用公共许可证
+GNU自由文档许可证
+GPL链接例外
+
+
+
+
+
+
+
+
+软件
+
+
+
+GNU
+
+变种
+
+
+Hurd
+Linux-libre
+glibc
+Bash
+Coreutils
+findutils
+构建系统
+GCC
+binutils
+GDB
+GRUB
+GNOME
+GNUstep
+GIMP
+GNU Emacs
+GNU TeXmacs
+GNU Octave
+GNU R
+GSL
+GMP
+GNU Electric
+GNU Archimedes
+GNUnet
+GNU Privacy Guard
+Gnuzilla
+
+IceCat
+
+
+GNU Health
+GNUmed
+GNU LilyPond
+GNU Go
+GNU Chess
+Gnash
+更多...
+
+
+
+
+
+
+
+
+发言人
+
+
+
+Alexandre Oliva
+Benjamin Mako Hill
+Bradley M. Kuhn
+伊本·莫格林
+Georg C. F. Greve
+Loïc Dachary
+Ricardo Galli
+理查德·斯托曼
+Robert J. Chassell
+John Sullivan
+
+
+
+
+
+
+
+
+其它
+
+
+
+GNU/Linux命名爭議
+操作系统革命
+BadVista
+设计式缺陷
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+自由及开放源代码软件
+
+
+
+
+
+
+概念
+
+Copyleft · 自由軟體 · 自由軟體定義 · 开放源代码软件 · 自由及开放源代码软件列表
+
+
+
+
+
+
+作業系統家族
+
+AROS · BSD · Darwin · FreeDOS · GNU · Haiku · Inferno · Linux · Mach · Minix · OpenSolaris · Symbian · Plan 9 · ReactOS
+
+
+
+
+
+
+開發（英语：Open-source software development）
+
+Eclipse · Free Pascal · GCC · Java · LLVM · Lua · Open64 · Perl · PHP · Python · ROSE · Ruby · Tcl
+
+
+
+
+
+
+歷史
+
+GNU · Haiku · Linux · Mozilla (Application Suite · Firefox · Thunderbird)
+
+
+
+
+
+
+組織
+
+Android开源项目 · Apache軟體基金會 · Blender基金會 · Eclipse基金會 · freedesktop.org · 自由軟體基金會 (歐洲 · 印度 · 拉丁美洲) · FSMI · GNOME基金會 · GNU Project · Google Code · KDE e.V. · Linux基金會 · Mozilla基金會 · 開源地理空間基金會 · 开放源代码促进会 · SourceForge · Symbian基金會 · VideoLAN组织 · 维基媒体基金会 · Xiph.Org基金會 · XMPP標準基金會（英语：XMPP Standards Foundation）  · X.Org基金會  · 文檔基金會 · 软件自由法律中心
+
+
+
+
+
+
+許可證
+
+Apache · Artistic · APSL · BSD · GNU GPL · GNU LGPL · Affero通用公共许可证  · ISC · MIT · MPL · 共享原始碼 · zlib · WTFPL · 自由及開放原始碼軟體許可證比較
+
+
+
+
+
+
+挑戰
+
+FUD · 擁抱、擴充功能再消滅 · 二進制blob（英语：Binary blob） · 數位版權管理 · 自由及開放原始碼顯示卡驅動程式（英语：Free and open-source graphics device driver） · 授權擴散（英语：License proliferation）  · Mozilla software rebranding · 專有軟體 · SCO-Linux爭議 · 安全性 · 軟體專利 · 硬體限制 · 可信计算 · 病毒許可證
+
+
+
+
+
+
+其他
+
+Alternative terms · 自由軟體社群 · Linux發行版 · 復刻 (軟體工程) · 自由軟體運動 · 微軟開放規範承諾（英语：Microsoft Open Specification Promise） · 操作系统革命 · 與封閉原始碼的比較（英语：Comparison of open source and closed source）
+
+
+
+
+
+
+
+ 分类 ·  维基共享资源 ·  主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+自由文化和开放源代码运动
+
+
+
+
+
+
+概念
+
+
+
+公众科学
+共有知识（英语：Knowledge commons）
+开放获取
+开放式协同合作
+开放内容
+开放交流（英语：Open communication）
+开放资料
+开放设计（英语：Open design）
+开放教育（英语：Open education）
+开放政府（英语：Open government）
+开放式创新
+开放知识（英语：Open knowledge）
+开放专利（英语：Open patent）
+开放研究（英语：Open research）
+开放科学
+开源架构（英语：Opensource Architecture）
+开源软件
+开源治理（英语：Open-source governance）
+开源新闻（英语：Open-source journalism）
+开源硬件
+开放标准
+开放式大学（英语：Open-door academic policy）
+
+入学
+
+
+开放Web
+
+
+
+
+
+
+
+
+工具
+
+
+
+自由及开放源代码软件
+开放教育资源
+开放音乐模型（英语：Open Music Model）
+开放科学笔记（英语：Open notebook science）
+
+
+
+
+
+
+
+
+组织
+
+
+
+知识共享
+DIYbio（英语：DIYbio）
+自由软件基金会
+开放架构网络（英语：Open Architecture Network）
+开放知识基金会（英语：Open Knowledge Foundation）
+开放权力集团（英语：Open Rights Group）
+开放源代码促进会
+软件自由法律中心
+公共科学图书馆（PLOS）
+学术出版与学术资源联盟（英语：Scholarly Publishing and Academic Resources Coalition）（SPARC）
+
+
+
+
+
+
+
+
+活动家
+
+
+
+亚伦·斯沃茨
+John Wilbanks（英语：John Wilbanks）
+劳伦斯·莱斯格
+Peter Murray-Rust（英语：Peter Murray-Rust）
+Peter Suber（英语：Peter Suber）
+理查德·斯托曼
+蒂姆·伯纳斯-李
+
+
+
+
+
+
+
+
+项目
+
+
+
+创作共用授权
+自由文化作品定义（英语：Definition of Free Cultural Works）
+自由文化运动
+自由软件运动
+开源生态学
+OpenCores（英语：OpenCores）
+OpenWetWare（英语：OpenWetWare）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：自由軟體組織非营利组织自由軟體基金會1985年麻薩諸塞州建立隐藏分类：自2017年6月维基百科来源清理自2017年6月需要清理的內容瑣碎條目含有英語的條目

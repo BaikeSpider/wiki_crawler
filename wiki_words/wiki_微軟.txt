@@ -1,0 +1,2062 @@
+微软
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+微軟股份有限公司
+
+
+Microsoft Corporation
+
+
+
+
+
+
+位于雷德蒙德的17号楼前的大堂入口，17号楼是微软主要办公区内最大的建筑之一
+
+
+
+公司類型
+上市公司
+
+
+股票代號
+NASDAQ：MSFT
+
+
+成立
+1975年4月4日
+（42年274天）
+
+
+創辦人
+比爾·蓋兹、保羅·艾倫
+
+
+總部
+ 美國華盛頓州雷德蒙德微软路1号总部园区
+
+
+業務範圍
+全球
+
+
+产业
+電腦軟體
+電腦硬體
+消費電子產品
+
+
+產品
+
+
+
+Windows
+Office
+Dynamics
+Azure
+Xbox
+Surface
+Bing
+Skype
+LinkedIn ……
+
+
+（參見微软生态体系）
+
+
+營業額
+▼ 853.2亿美元（2016年）[1]
+
+
+息税前利润
+▲ 198.6亿美元（2016年）[1]
+
+
+净利润
+▲ 167.9亿美元（2016年）[1]
+
+
+總資產
+▲ 1,936.9亿美元（2016年）[1]
+
+
+資產淨值
+▼ 719.9亿美元（2016年）[1]
+
+
+員工人數
+118584（2015年3月）[2]
+
+
+网站
+www.microsoft.com
+www.microsoft.com/zh-cn/（简体中文）
+www.microsoft.com/zh-hk/（繁体中文）
+www.microsoft.com/zh-tw/（繁体中文）
+
+
+微軟（英语：Microsoft；NASDAQ：MSFT）是美國一家跨國電腦科技公司，以研發、製造、授權和提供廣泛的電腦軟件服務為主[3][4]。總部位於美國华盛顿州的雷德蒙德，最為著名和暢銷的產品為Microsoft Windows操作系统和Microsoft Office辦公室軟件，以及Xbox的遊戲業務。微軟是美国《财富》杂志2015年评选的全球最大500家公司的排行榜中的第95名。
+公司於1975年由比尔·盖茨和保羅·艾倫創立。初期主要為Altair 8800發展和銷售BASIC直譯器，在1980年代中期憑藉MS-DOS在家用電腦作業系統市場上取得長足進步，後來出現的Windows使得微軟逐漸統治了家用桌面電腦作業系統市場。同時微軟也開始擴張業務，進軍其他行業和市場，建立了MSN網站，在計算機硬件市場上，微軟商標及Xbox遊戲機、Zune和MSN TV家庭娛樂設備也在不同的年份出現在市場上[3]。微軟於1986年首次公開募股，此後不斷走高的股價為微軟締造了四位億萬富翁和12,000位百萬富翁[5][6][7]。
+伴隨公司的強大，微軟也越來越受到批評和指責，並且數十年來從未間斷。拒絕交易和捆綁銷售等做法招致垄断和不正當競爭的訴訟。美国司法部和歐盟委員會根據反托拉斯法均對微軟做出過不利裁定[8][9]。
+
+
+
+目录
+
+
+1 歷史
+
+1.1 1972年–1984年：起步
+1.2 1984年–1994年：Windows和Office
+1.3 1995年–2007年：互聯網和32位元時代
+1.4 2007年–2011年：Windows Vista、Windows 7及行動裝置
+1.5 2011年–2014年：Windows 8、Surface及收購諾基亞移動部門
+1.6 2014年至今：Windows 10 和新一代 Surface
+
+
+2 部門結構
+
+2.1 企業開發平台產品及服務部門
+2.2 商業部門
+2.3 娛樂及設備製造部門
+
+
+3 「生態體系」
+
+3.1 软件產品
+
+3.1.1 遊戲軟件
+
+
+3.2 硬件產品
+3.3 網絡產品
+3.4 培訓
+3.5 微軟MVP
+
+
+4 微軟中國研發集團
+
+4.1 微軟亞洲研究院
+
+
+5 壟斷問題
+
+5.1 微軟的壟斷地位
+
+
+6 逸事
+
+6.1 政治影響力
+6.2 造就的億萬富翁
+
+
+7 裁员
+8 被入侵
+9 參考文獻
+
+9.1 引用
+9.2 来源
+
+
+10 外部連結
+11 參見
+
+
+
+歷史[编辑]
+参见：Microsoft Windows的歷史
+1972年–1984年：起步[编辑]
+
+
+
+
+蓋茨和艾倫和IBM簽定合同後合影
+
+
+微软公司於1975年由比爾·蓋茲和保羅·艾倫創立。他們是小時候認識的朋友及高中同學，並對計算機編程充滿激情。他們利用其演講技能，意圖追求成功。在1975年1月發行MITS公司的Altair 8800大眾化微電腦和遙測系統令他們注意到，他可以編寫一個BASIC直譯器賺錢。他們致電給Altair 8800的發明者（MITS），提出在該系統中執行BASIC[10]。MITS公司感到興趣，要求艾倫和蓋茨進行示範。之後MITS公司聘請艾倫為Altair進行模擬器的開發工作，而蓋茨則開發直譯器。它們的工作十分完美，1975年3月MITS公司同意出售Altair BASIC[11]。他們順利賺了第一桶金，於是蓋茨離開哈佛大学，並搬到MITS在新墨西哥州阿布奎基的總部。1975年4月4日，微軟正式成立，蓋茨為微軟執行長。原名“Micro-Soft”是艾倫想出來的，之後更改為“Microsoft”[12]，在1995年《財富》雜誌的一篇文章中回憶。在1977年8月，公司和日本ASCII雜誌簽署了一個協議，成立了其首個國際辦事處“ASCII Microsoft”[13]。在1979年1月，公司搬遷到在華盛頓州貝爾維尤的新辦公室。
+微軟在1980年開發了UNIX作業系統業務，叫做Xenix[14]，並聘用聖克魯茲作業改編該作業系統以應用於不同操作平台[15][16]。發表後受到歡迎，並鞏固了公司的霸主地位。1980年11月，微軟獲得了IBM公司的合同，這筆交易中，微軟要提供CP/M作業系統給即將到來的IBM個人電腦上[17]。但微軟沒有時間開發一個全新的系統，於是微軟從西雅圖電腦產品公司（英语：Seattle Computer Products）收購了86-DOS（英语：86-DOS），並將它更名為MS-DOS，授權給IBM使用之後，IBM更名為PC-DOS。繼在1981年8月發布的IBM PC，微軟保留了MS-DOS的所有版權。當時，因為IBM有PC-DOS的版權，沒有公司可扭轉在非IBM硬件上不可運行IBM系統的情況。但由於微軟有MS-DOS的所有版權，微軟除了授權該軟體給IBM使用外，還與其他OEM廠商談判，將經過更改後的MS-DOS系統安裝到每一台新電腦上。加上各種因素，微軟最終成為了領先的個人電腦作業系統的系統供應商[18][19]。從此在非IBM硬體上便可運行微軟更改後的IBM系統，完全改變了當時的電腦業的規則和生態系統。微軟在1983年擴大業務，發布微軟滑鼠，並成立微軟出版社進入新的市場。但不幸地，保羅·艾倫患上霍奇金病。同年二月向微軟辭職。
+1984年–1994年：Windows和Office[编辑]
+
+
+微軟公司商標歷史
+
+
+商標
+說明
+
+
+
+
+
+1982年8月26日至1987年間使用。[20]
+
+
+
+
+
+1994年至2006年間使用。
+口號“Where do you want to go today?（今日你想去何地？）”（直譯為此，引申的意思是「微軟可以把你帶到任何你想去的地方」）[21][22]
+
+
+
+
+
+2006年至2011年間使用。
+口號“Your potential. Our passion.（你的潛力。我們的動力。）”[22]
+
+
+
+
+
+2011年至2012年8月23日間使用。
+口號“Be What's Next.（成為下一個未來）”
+
+
+
+
+
+2012年8月23日起使用至今[23]。
+四個顏色分別代表微軟的四大重要商品，橘色：Office系列、綠色：Xbox家族、藍色：Windows系列、黃色：必应搜索
+
+
+1984年，微軟和IBM開始合作開發一款不同以往的作業系統OS/2[24]。 1985年11月20日，微軟推出了首款Microsoft Windows的零售版，最初作為其MS-DOS系統的圖形拓展版本[10]。於1986年2月26日，微軟將其總部搬到雷德蒙德。1986年3月13日，公司上市；股價的顯著上升為微軟締造了4位億萬富翁以及12000位百萬富翁[6][25][7][26]。由於與IBM的合作夥伴關係，導致1990年聯邦貿易委員會開始對微軟的監視；標誌著與美國政府超過十年的法律衝突的開始[27]。1987年，微軟終於為原始設備製造商提供了首款OS/2版本[28]。OS/2有一個新的模塊化內核和Win32應用程序編程接口（API），基於MS-DOS的16位元Windows可更容易移植。但之後，OS/2的夥伴關係日趨惡化[29]。
+1990年，微軟推出其辦公套件Microsoft Office。該軟件綁定了辦公室生產力應用程序，如Microsoft Office Word和Microsoft Office Excel等。5月22日，微軟推出Windows 3.0。Windows 3.0有精簡的用戶界面，改進圖形效能和適合Intel 386處理器的改良[30]。從此，Microsoft Office和Windows在各自領域佔據主導地位[31][32]。
+1994年7月27日，美国司法部提出的競爭影響報告書的一部分称：“從1988年開始，直到1994年7月15日，微軟誘導許多OEM廠商進行反競爭行為。OEM為每台計算機向微軟支付版稅。”[33]
+1995年–2007年：互聯網和32位元時代[编辑]
+
+
+
+
+比爾·蓋茲於1998年美國訴微軟案進行審判
+
+
+1995年5月26日，比爾·蓋茨提出了“互聯網備忘錄”。1995年，微軟開始重新定義其產品，並擴大並進入電腦網路產品線和萬維網[34]。該公司於1995年8月24日，發佈Windows 95。具有先發制人的多工功能，新的開始選單，和與32位元兼容的用戶界面，並提供Win32 API[35][36]。Windows 95捆綁了線上服務MSN和IE。同時微軟也開始擴張業務，進軍其他行業和市場：與NBC合資建立MSNBC，拓展有線電視新聞業務[37]。微軟發布Windows CE 1.0，一個新的作業系統，設計為低記憶體設備提供簡單操作，如PDA[38]。1997年10月，司法部在聯邦地區法院提交了一項議案，稱微軟違反1994年簽署的一項協議，並要求法院责令微软停止将Internet Explorer捆綁於Windows[39][40]。
+2000年1月13日，比尔·盖茨將微軟執行長的位置交給史蒂夫·鮑爾默，然後為自己創造一個新的職位：首席軟件架構師[11]。2001年10月25日，微軟發布Windows XP，是首個使用產品啟用與盜版競爭的Windows，然而Windows XP亦被部份使用者批評其安全漏洞與應用程式綁定（如Internet Explorer及Windows Media Player）等。2011年9月底前，Windows XP是世界上使用人數最多的作業系統，在2007年1月，Windows XP的市場占有率達歷史最高水平，超過76%。根據Netmarketshare公司對全球網路使用者的統計資料顯示，2012年8月份，統治作業系統市場長達11年之久的Windows XP最終被Windows 7超越。Windows XP成為有史以來銷量最大及最常用的作業系統，更令下一代的Windows Vista慘澹收場（Windows Vista的市場占有率最高只有18%）。2004年，微軟發布的Xbox遊戲機進入由索尼和任天堂主導的遊戲機市場[41]。
+2007年–2011年：Windows Vista、Windows 7及行動裝置[编辑]
+
+
+
+
+微軟執行長史蒂夫·巴爾默
+
+
+在2007年1月30日，Windows Vista正式對普通用户出售。Windows Vista距離上一版本的作業系統Windows XP已有超過五年的時間，這是Windows歷史上間隔時間最久的一次發佈。Windows Vista包含了上百種新功能；其中較特別的是新版的圖形使用者界面和稱為「Windows Aero」的全新界面風格（要求較高的硬體需求）、加強後的搜尋功能、新的多媒體創作工具（例如Windows DVD Maker），以及重新設計的網路、音訊、輸出（列印）和顯示子系统。Vista也使用點對點技術提升了计算机系統在家庭網路中的示通信能力，將讓在不同计算机或裝置之間分享檔案與多媒体內容變得更簡單。針對開發者方面，Vista使用.NET Framework 3.0版本，比起傳統的Windows API更能讓開發者能簡單寫出高品質的程式。Windows Vista是第一版只能支援在NTFS硬碟分割區上安裝Windows系統的Windows作業系統。
+2008年6月27日，比爾·蓋茨退休後，除了重點項目加以指導外，而其餘時間都只當公司顧問。[42] 2008年10月27日推出的Windows Azure的服務平台，是該公司進入雲計算入門市場上第一步。[43] 2009年2月12日，微軟宣布有意圖開一個微軟品牌連鎖零售店，並於2009年10月22日第一家零售商店在亞利桑那州斯科茨代爾正式開幕當天，微軟正式發表Windows 7。其易於使用的功能和性能增強，不但是一個大改造的Windows Vista，亦是Windows 7的重點。[44][45][46] Windows 7將更「以使用者為中心」。[47] Windows 7在執行程式方面上有較大的改進；[48]微軟將會在進步的前提下利用多種測量工具來測試作業系統，以增進其執行效率。[49] Windows 7提高了螢幕觸控支持和手寫識別，支持虛擬硬碟，改善多核心處理器的運作效率[50][51][52][53]，開機速度和内核改進。
+隨著智慧型手機行業的蓬勃發展，從2007年開始，微軟努力保持與它的競爭對手蘋果和谷歌的現代化的行動作業系統距離。微軟於2010年4月12日上午在三藩市舉行記者會，發表新一代智能手機。[54] 2010年10月，微軟發佈Windows Phone。Windows Phone是一個觸控操作模式行動作業系統，Windows Phone 8採用和Windows 8相同的内核。[55]微軟在發行這個作業系統時，主要的銷售對象是一般的消費市場，而非以前版本所瞄準的企業市場。[56]在Windows Phone中，微軟將其使用介面套用了一種稱為“Metro”的設計語言（曾被使用於Zune中），並將微軟以及其它第三方的軟體整合到了作業系統中，以嚴格控制執行它的硬體。[57]微軟更緊密地與智能手機製造商合作，如：諾基亞。在智能手機行業的新戰略，可望挽回失去的市場佔有率。
+2011年–2014年：Windows 8、Surface及收購諾基亞移動部門[编辑]
+
+
+
+
+Windows 8.1開始畫面
+
+
+
+
+
+
+Surface RT
+
+
+Windows 8是微軟公司改良研發中的下一代電腦作業系統，Windows 8試圖打造一個可在平板電腦、手提電腦、桌上電腦和智能手機等都能使用的跨平台作業系統，[58]被認為是微軟反擊主導平板電腦及手提電話作業系統市場的蘋果電腦iOS和Google Android系統。該软件除了具備微軟公司的傳統視窗系統顯示方式外，亦將強化更適合使用於觸控螢幕的平板電腦設計，使用類似Windows Phone作業系統中動態方塊（live tiles）界面，新系統可透過官方網上商店Windows Store購買軟體等新功能及特性。Windows 8於2012年8月第1周發布RTM版，並於10月26日正式上市。Windows 8.1中，微软发布了与Windows 8有区别的多个重要更新。微软公司于中原標準时间2013年10月17日发布Windows 8.1正式版。[59][60]
+平板電腦上，Microsoft Surface是一系列以Windows 8為作業系統的平板電腦。分別為Surface和Surface Pro，前者使用英伟达處理器而後者使用英特尔處理器。並使用10.6英寸、長寬比16:9的高解析度螢幕。[61]這款產品由微軟首席执行官史蒂夫·巴爾默在2012年6月18日於洛杉矶舉行的記者會上公開。10月26日推出[62]。雖然產品有多項新嘗試，但銷量並不理想，截至2013年5月僅售出150萬部 [63][64]。
+2013年9月3日，微軟宣布將以約72億美元收購諾基亞公司幾乎全部的手機業務，當中购买設備與服務部門50亿，支付相關專利21.8亿[65][66]。福布斯評論認為諾基亞是白菜價賤賣，“出售給微軟並不驚訝，驚訝的是出售時間和價格”並且“史蒂芬·埃洛普的動機將被仔細審視”[67][68]。有媒體則指明埃洛普與微軟的CEO職位令人遐想。
+2014年至今：Windows 10 和新一代 Surface[编辑]
+2014年9月15日，微軟公司宣布併購瑞典遊戲開發商Mojang，包含公司所有權和遊戲（如该公司所开发的《我的世界》）的智慧財產權。收購金額為25億美元。[69][70] 2014年9月30日，微软在美国西雅图的新一代Windows操作系统的发布会中亮相Windows 10技术预览版，并声称正式版将于2015年后半年发行。2015年7月29日,微软发布新版Windows 10，擁有多工管理介面、生物识别解锁（Windows Hello）及全新的瀏覽器Microsoft Edge等數百種功能。微軟希望Windows 10能帶動PC市場增长，并改善旗下Windows Phone的系统功能及生态环境。
+2015年7月29日，微軟 Windows 10在全球 190 個國家同步上市，符合硬件資格的正版 Windows 7 、 Windows 8.1 及 Windows Phone 8.1 裝置均能免費升級，預估全球將有數億 Windows 用戶受惠。
+2015年9月23日，微軟在全球同步上市新版Office 2016。
+2015年10月7日，微软发布新一代Surface Pro产品，以及全新的 Surface Book，将 Surface 品牌扩大到笔记本领域。
+2016年6月13日，微軟以每股196美元的价格，斥資262億美元(約8244.4億台幣)現金收購商業社交平台領英(LinkedIn)。
+2016年8月2日，微軟在官網宣布，Microsoft HoloLens 開發者版本已經在美國和加拿大開賣。
+2016年10月26日，微软在秋季新品发布会上发布增强版的 Surface Pro 4 和 Surface Book，提高了其硬件配置。同时还发布了 Surface Studio 一体机和 Surface Dial 等辅助设备，将 Surface 硬件品牌再次扩大到纯桌面领域。[71]
+部門結構[编辑]
+企業開發平台產品及服務部門[编辑]
+包括Windows用戶服務處、伺服器暨開發工具處、MSN事業處。產品和服務如Windows Live。Windows伺服器版本，如Windows Server。
+商業部門[编辑]
+微軟商業部門生產的Microsoft Office和該公司的在線辦公軟件。軟件產品包括Word（文字處理器），Access（關係數據庫程序），Excel（電子表格程序）的，Outlook（Exchange Server）時，PowerPoint（演示軟件），和Publisher（桌面排版軟件）。後來又增加了一些其他產品，包括Visio，MapPoint，InfoPath和OneNote。
+娛樂及設備製造部門[编辑]
+娛樂及設備部生產的嵌入式系統和Windows智能手機。
+「生態體系」[编辑]
+微軟公司試圖在其產品周圍建立「生態體系」，以為其產品以及品牌增值，同樣這麼做的還有蘋果、Google、小米、三星等同業。
+软件產品[编辑]
+微軟生產的软件產品包括了很多的種類：
+
+Microsoft Windows - 稱為「Windows」的圖形作業系統；有很多版本。個人版、企業版最新版本是Windows 10。伺服器最新版本是Windows Server 2016。Microsoft Windows幾乎預裝在所有的IBM相容的个人电脑上。
+MS-DOS - 微軟公司的早期產品，它是一個命令行界面的簡單作業系統。早期的Microsoft Windows版本要在MS-DOS下運行，但是到了Windows NT以及以後的產品已經可以脫離MS-DOS運行了，但基於用戶因軟硬體在Windows NT不能正常運作，微軟同時間繼續推出Windows 95，Windows 98，Windows Me在MS-DOS下運行的過渡產品。
+Microsoft Office - 它是微軟公司的辦公室套裝软件，根據版本不同可能包括Microsoft Word（文字處理）、Microsoft Excel（电子试算表）、Microsoft Access（数据库管理系统）、Microsoft PowerPoint（簡報製作）、Microsoft Outlook（個人郵件和日程管理）、Microsoft OneNote（电子笔记）、Microsoft SharePoint Designer（所見即所得的網頁編輯软件）、Microsoft Project（專案管理）和Microsoft Publisher（電子排版）等软件。微軟也為麦金塔电脑生產使用於蘋果電腦的版本。
+Microsoft SQL Server - 是由微軟公司所推出的關係數據庫解決方案。
+Internet Information Services - 微軟公司所推出的网页伺服器软件，类似在互联网上被广泛使用的Apache，同时可以解释ASP动态网页。
+Internet Explorer - 微軟的網頁瀏覽器。它曾經是世界上使用最廣泛的一種瀏覽器，從Windows 95開始，預裝在微軟各版本的Windows中。它在麦金塔电脑上也可以使用。微軟投資了四億美元把瀏覽器預裝在蘋果电脑上。主要搜尋引擎為bing。
+Windows Media Player - 它是一個用於播放音乐和视频的应用程序。
+Microsoft Azure - 為微軟為雲端服務的品牌，好處是企業不需要有實體的伺服器就可以建立自己的系統服務。
+Microsoft Edge - 微软的最新版本浏览器，是 Windows 10 操作系统的默认浏览器
+微軟也生產一系列參考產品，例如百科全书和地圖冊，使用Encarta的名稱。
+微軟還開發用於應用系統開發的集成開發環境，命名為Microsoft Visual Studio。目前已發佈用於.NET環境編程的相應開發工具Visual Studio。
+其他產品：Microsoft Student，Microsoft Money，Streets & Trips，Works & Works Suite，Math，Microsoft Expression。
+
+遊戲軟件[编辑]
+
+
+
+
+微軟遊戲搖桿
+
+
+
+《光环》系列：
+
+第一代：《光环：戰鬥進化》
+第二代：《光环2》
+第三代：《光环3》
+第四代：《光环4》
+第五代：《光环5:守護者》
+外傳：《光环：星環戰役》
+外傳：《光环3：ODST》
+外傳：《光环：瑞曲之战》
+复刻版：《光环：最后一战 复刻版》
+
+
+《帝国时代》系列：
+
+第一代：《帝国时代》、《帝国时代：罗马复兴》
+第二代：《帝国时代II:帝王世纪》、《帝国时代II：征服者入侵》、《帝国时代II：失落的帝国》《世紀帝國II：非洲王國》
+第三代：《帝国时代III》、《世紀帝國III：群酋爭霸》、《帝国时代III：亞洲王朝》
+第四代：《帝国时代Online》
+外傳：《神话世纪》
+
+
+《王国的兴起》系列：
+
+《王國的興起》
+《王國的興起：政權保衛戰》
+《王國的興起：傳說再現》
+
+
+《戰爭機器系列》系列：
+
+第一代：《戰爭機器》
+第二代：《戰爭機器2》
+第三代：《戰爭機器3》
+第四代：《戰爭機器4》
+外傳：《戰爭機器：審判》
+
+
+《Forza Motorsport系列/極限競速系列》系列：
+
+第一代：《極限競速》
+第二代：《極限競速2》
+第三代：《極限競速3》
+第四代：《極限競速4》
+第五代：《極限競速5》
+第六代：《極限競速6》
+第七代：《極限競速7》
+衍生作第一代：《極限競速 地平線》
+衍生作第二代：《極限競速 地平線2》
+衍生作第三代：《極限競速 地平線3》
+
+
+《Kinect 大冒險》
+《微軟模擬飛行》
+《微軟模擬列車》
+《瘋狂城市賽車》系列
+《魔幻戰士》
+《我的世界(Minecraft)》
+《Scrolls》
+《Cobalt》
+
+硬件產品[编辑]
+
+
+
+
+2013年Xbox One發表會
+
+
+雖然微軟總體上是一家軟件公司，它也生產一些電腦硬件產品，通常用來支援其特殊的軟件商品策略：
+
+早期的一個例子是微軟滑鼠，用來鼓勵更多用戶使用微軟作業系統的圖形用戶界面。由於使用GUI而不用到鼠標是很罕見的，因此鼠標的流行會幫助更多用戶使用Windows。微軟確立了IntelliMouse（中鍵帶滾輪的鼠標）鼠標標準，新增的滾輪方便了用戶在瀏覽網頁時上下翻頁。
+微軟還售賣鍵盤、網絡鏡頭、遊戲桿等硬件產品。
+公司還購買了互聯網設備公司WebTV，以支援其MSN互聯網服務。
+2001年公司推出的Xbox遊戲機標誌著公司開始進入價值上百億美元的遊戲終端市場，這個市場之前一直由索尼公司和任天堂兩家公司主導。
+2005年微軟推出Xbox的後繼機種Xbox 360，雖然其主要的競爭對手索尼公司的PlayStation 3遊戲機由於數次延期至2006年11月發售，但由於缺貨與日本的消費慣性等各種因素，Xbox 360的初期推廣並不很順利，但仍在一年後PlayStation 3推出前賣出了1000萬部的銷售量。[來源請求]Xbox 360由於設計缺陷導致3紅問題也引起了玩家的不滿，最終在壓力下微軟承認了3紅事實，並實行3年免費更換服務。
+2006年11月14日微軟推出Zune可攜式媒體播放器，並開始在美國上市。[來源請求]
+2008年微軟將為一级方程式赛车所有車隊供應統一規格的行車電腦系統。[來源請求]
+2010年微軟推出Kinect体感拾取器，初期仅作为游戏机Xbox360的外设装备。
+2012年6月微軟發布Surface平板電腦，打破創立37年以來不生產電腦主機做法。
+2013年5月21日微軟在記者會上發布了Xbox One[72][73]。
+2016年8月2日，微軟在官網宣布 Microsoft HoloLens 開發者版本已經在美國和加拿大開賣。
+
+網絡產品[编辑]
+
+1990年代中期，微軟開始將其產品線擴張到計算機網絡領域。微軟在1995年8月24日推出了線上服務MSN。MSN是美國在線的直接競爭對手，也是微軟其他網絡產品的主打品牌。
+1996年，微軟以及美國的廣播業巨擎NBC聯合創立了MSNBC，一個綜合性的24小時新聞頻道以及在線新聞服務供應商。
+1997年末，微軟收購了Hotmail，最受歡迎的webmail服務商。Hotmail被重新命名為MSN Hotmail，並成為Microsoft Account，一個綜合登入服務系統的平台，現在更改名稱為Outlook.com。
+Windows Live Messenger是一個即時通訊程序，由微軟在1999年推出，是美國在線的AOL Instant Messager、ICQ、QQ的主要競爭對手，2013年10月31日停止服務 。
+2011年5月10日，宣布以85億美元併購Skype。
+
+培訓[编辑]
+主条目：微軟認證
+微軟創立了多所培訓中心，旨在訓練出精通各樣微軟及配合公司環境的專家。目前最著名就是2012年10月最新改版的MCSE。 2012年10月，微軟因應考古題氾濫以及認證與實務相差甚遠的詬病，改採用新一代的雲端解決方案，配合私有雲建置、虛擬化、BI、自動化等，來識別認證的技能，並且以Solutions為主軸，IT技術為輔助，考試大幅加重了實作考題，和以前用認證的制度相比，解決（Solutions）字代表的是更廣泛，較無明顯界定的專業技術範圍，且取消一試就發一張MCTS的制度，取消證照永久效用，改以兩、三年再認證機制，減少85％認證數目，廢除過期考試科目及證照。
+
+MCSM（Microsoft Certified Solutions Master，微軟認證解決方案大師）
+MCSE（Microsoft Certified Solutions Expert，微軟認證解決方案專家）
+MCSD（Microsoft Certified Solutions Developer，微軟認證開發專家）
+MCSA（Microsoft Certified Solutions Associate，微軟認證解決方案技術師），考科有Windows Server 2012、Windows 8、Visual Studio、SQL Server 2012。
+MCPD考科有桌面端、網頁端、協作平臺端等3個開發領域的考試認證。
+
+微軟MVP[编辑]
+主条目：微軟最有價值專家
+微軟最有價值專家（Microsoft Most Valuable Professional（MVP）），是那些具備一種或多種微軟技術專業知識，在微軟相關技術社群中貢獻突出的專家。目前全球大約有4200位以上MVP，以美國的人數最多，中國大陸區約有240位，台灣區約有110位。
+微軟中國研發集團[编辑]
+主条目：微軟中國研發集團
+微軟中國研發集團於2006年1月18日正式宣佈成立，由微軟亞洲研究院、微軟亞洲工程院、微軟中國研發集團戰略合作部，以及分佈於北京、上海、深圳的多個產品研發機構組成，集團以矩陣式架構統一和協調微軟在中國所有的研究及開發事務。張亞勤博士任集團主席，張宏江博士任集團首席技術官。
+微軟亞洲研究院[编辑]
+主条目：微軟亞洲研究院
+1998年11月5日，微軟公司在北京成立微軟中國研究院，並於2001年11月1日將其正式更名為微軟亞洲研究院。微軟亞洲研究院是微軟公司在海外開設的第二家基礎科研機構，也是亞洲地區唯一的基礎研究機構。現任研究院院長是洪小文博士。
+壟斷問題[编辑]
+微軟的Windows產品壟斷桌面電腦作業系統市場。持此看法的人指出，幾乎所有市場上出售的個人電腦都預裝有微軟的Windows作業系統。
+一些觀察家聲稱，微軟作為一個壟斷企業令其競爭對手處境窘困：
+
+一方面，競爭對手不願意承認微軟的壟斷地位。因為在一個被壟斷的市場，只有一家產品或服務的提供商。因此對競爭對手而言，將微軟稱為壟斷者會將自己置於一個失敗者的境地：這樣做等於是否定了自己的存在，或否定了自己能夠生存、競爭的能力。
+另一方面，競爭對手又希望將微軟比作壟斷企業，因為這樣做會給自己帶來好處。首先，這有可能導致市場管理者（政府）的介入。其次，被看作是「落水狗」的微軟競爭對手有可能在公共關係上取勝，以刺激銷售。
+
+無論微軟是否是壟斷企業，我們可以肯定的是：
+
+在多數微型電腦软件市場，微軟是主導企業。
+這種主導引發很多的不滿。
+這種不滿不僅僅只存在於競爭對手中間。
+
+微軟的壟斷地位[编辑]
+有人批評微軟試圖利用其在桌上電腦作業系統市場上的壟斷地位來擴大其在其他市場上的市場份額，例如网页浏览器（Internet Explorer）、作業系統（Windows NT）服务器作業系統（Windows NT Server）、辦公室套裝软件（Microsoft Office），多媒体播放软件（Windows Media Player）。
+在微軟將IE直接附加在Windows作業系統上後，微軟在瀏覽器獲得了非常大的佔有率。正是由於這種行為，微軟被美國聯邦法庭裁定濫用其在美國的作業系統市場的主導優勢。（詳情參見美國訴微軟案）。
+面對這些指控中，微軟認為它只是在滿足客戶需求，提供給Windows使用者免費的瀏覽器（IE）。
+也有人批評微軟的商業策略是「擁抱再擴展」（embrace and extend）策略。批評者認為微軟試圖在開放、已確立的標準之上加入專利功能，最終達到利用其市場優勢來控制「擴展」的標準。有些人將這種策略稱之為「擁抱、擴充功能再消滅」（embrace, extend and extinguish）。
+2004年3月，微軟公司因違反歐盟公平競爭法，被歐盟委員會要求向競爭對手提供包括視窗作業系統源代碼在內的必要技術資訊，並被處以近5億歐元的罰款，創下歐盟罰款的最高紀錄。
+2006年4月24日，歐洲初審法院正式開庭審理微軟公司與歐盟委員會在软件市場上的爭端。[74]
+2007年9月17日，歐洲初審法院裁定，維持歐盟委員會對微軟公司做出的反壟斷處罰決定。[75]
+2008年2月，微軟因未能執行2004年歐盟的反壟斷裁決，被歐盟處以8.99億歐元罰款。至此，歐盟已經以違反反壟斷法和未執行反壟斷裁決為名對微軟處以總計16.8億歐元的罰款。微軟也是第一個因不合作態度而被處罰的公司[76]。
+微軟在中國大陸也遭到有人舉報涉嫌壟斷行為，並提出10億美元的索賠。舉報人在舉報信中說「微軟的全球統一價策略和在作業系統捆綁應用軟件的做法違反了《中華人民共和國反壟斷法》」，但中國國家發改委並未受理。[77][78]而微軟（中國）有限公司董事長張亞勤接受《第一財經日報》獨家專訪時就《反壟斷法》表態：「由於微軟大部分以非正版方式存在，正版產品市場佔有率很小，因此微軟在中國構成壟斷的前提不存在。」[79]在一些調查中顯示中國網民使用過番茄花園或類似的修改版作業系統的比例有六成之多，使用原版XP的網民不足一成。[80][81][82]2014年7月28日，中国国家工商行政管理总局组织由北京、上海、广东、四川、福建、湖北、江苏、重庆、河北等9省市近百名工商执法人员对微软公司在中国大陆的四个经营场所，即微软（中国）有限公司以及上海、广州、成都分公司进行了反垄断突击检查。[83]针对中国国家工商总局的反垄断突击检查，微软(中国)有限公司7月30日发表声明称，微软始终如一遵守并符合中国法律法规，会积极解答政府部门可能有的疑问。[84]2016年1月5日，中国国家工商总局专案组再次对微软公司、微软大中华区有关负责人进行反垄断询问调查，但微软没有作出回应[85]。
+逸事[编辑]
+政治影響力[编辑]
+根據政治反應中心（Center for Responsive Politics，opensecrets.org）網站的數據，微軟在一次的美國聯邦選舉的政治捐款中，43%給了民主黨，57%給了共和黨。
+造就的億萬富翁[编辑]
+微軟最富裕的幾個人的資產甚至可以傲視許多其他跨國大公司的創始人。在微軟富翁當中進入「十億美元超巨富級」的有：
+
+比尔·盖茨，微軟創始人，現已退休[86]，自1995～2007年，年年蟬聯《富比士》全球億萬富翁排行榜第一位。[87]2013年，盖茨重登全球億萬富翁排行榜第一位。
+保羅·艾倫，微軟創始人，第32位。
+
+（2009年資料）[88]。
+
+史蒂夫·巴爾默，首席執行官，現已退休，第29位。
+
+（2009年資料）[88]。
+裁员[编辑]
+美国时间2014年7月17日，全球软件巨头微软公司宣布，受精简机构与整合诺基亚手机业务部门的影响，公司将在今后一年削减1.8万个工作岗位。其中，约1.25万被裁员工将来自刚刚并购过来的诺基亚设备与服务部门（主要为手机业务）。这将是公司历史上规模最大的一次裁员[89]。
+被入侵[编辑]
+2017年10月17日，5位前微軟員工稱，四年前微軟用於追蹤自主軟體漏洞內部資料庫被入侵，微軟在2013年發現了資料庫被駭客入侵，但微軟隨後並未公開被攻擊的嚴重程度，5位前員工被採訪描述此事件，微軟拒絕回應。[90]
+參考文獻[编辑]
+引用[编辑]
+
+
+^ 1.0 1.1 1.2 1.3 1.4 Earnings Release FY16 Q4. Microsoft. 2016-07-21 [2016-07-19]. 
+^ Aaron Souppouris. Microsoft plans 7800 layoffs, $7.8 billion Nokia write-down. [2014-07-08]. 
+^ 3.0 3.1 Microsoft Corporation Annual Report 2005 (doc). 微軟. [2005-10-01] （英语）. 
+^ Benjamin J. Romano. Microsoft head count way up in last 11 months, nearing 90,000. 西雅图时报. 2008-06-20 [2009-03-27] （英语）. 
+^ Chapman, Merrill R., In search of stupidity: over 20 years of high-tech marketing disasters (2nd Edition) , Apress, ISBN 978-1-59059-721-7
+^ 6.0 6.1 Julie Bick. The Microsoft Millionaires Come of Age. 纽约时报. 2005-05-29 [2006-07-03] （英语）. 
+^ 7.0 7.1 Hiawatha Bray. Somehow, Usenet lumbers on. 波士頓環球報. 2005-06-13 [2008-08-18] （英语）. 
+^ United States v. Microsoft. U.S. Department of Justice. [2005-08-05]. 美国司法部网页
+^ European Commission - PRESS RELEASES - Press release - Commission concludes on Microsoft investigation, imposes conduct remedies and a fine. 
+^ 10.0 10.1 Information for Students: Key Events In Microsoft History (doc). Microsoft Visitor Center Student Information. [2005-10-01]. 
+^ 11.0 11.1 Bill Gates: A Timeline. BBC News (BBC). 2006-07-15 [2010-07-17]. 
+^ http://money.cnn.com/magazines/fortune/fortune_archive/1995/10/02/206528/index.htm 1995 Fortune magazine article
+^ Staples, Betsy. Kay Nishi bridges the cultural gap. Creative Computing. 1984-08, 10 (8): 192 [2010-07-15]. 
+^ Dyar, Dafydd Neal. Under The Hood: Part 8. Computer Source. 2002-11-04 [2010-07-14]. （原始内容存档于2006-09-01）. 
+^ Jason Levitt. Is It Time Again For Microsoft And Unix?. Information Week. 2000-06-12 [2006-04-29]. （原始内容存档于2006-11-05）. 
+^ Dafydd Neal Dyar. Under The Hood: Part 8. Computer Source. 2002-11-04 [2006-07-04]. （原始内容存档于2006-09-01）. 
+^ Engines that move markets. Books.google.co.uk. 2002 [2011-05-29]. ISBN 9780471205951. 
+^ Microsoft to Microsoft disk operating system (MS-DOS). Smart Computing (Sandhills Publishing Company). 2002-03, 6 (3) [2008-08-18]. （原始内容存档于2004-04-05）. 
+^ Blaxill, Mark; Eckardt, Ralph. The Invisible Edge: Taking Your Strategy to the Next Level Using Intellectual Property. Portfolio Hardcover. 2009-03-05 [2010-07-07]. ISBN 1591842379. 
+^ Serial Number: 7338210. Trademark Applications and Registrations Retrieval. USPTO. [2010-08-13]. 
+^ The Rise and Rise of the Redmond Empire. Wired. 1998-12 [2008-01-08]. 
+^ 22.0 22.1 Schmelzer, Randi. McCann Thinks Local for Global Microsoft. Adweek. 2006-01-09 [2008-08-18]. 
+^ Microsoft Unveils a New Look. Microsoft. 2012-08 [2012-08-23]. （原始内容存档于2012-08-25）. 
+^ Manek Dubash. Techworld Article:OS/2 users must look elsewhere. Techworld. IDG. 2005-07-19 [2005-07-05] （英语）. 
+^ Chapman, Merrill R., In search of stupidity: over 20 years of high-tech marketing disasters (2nd Edition), Apress, ISBN 978-1-59059-721-7
+^ Microsoft Frequently Asked Questions. 微軟（Most Valued Professional）. [2008-08-18] （英语）. 
+^ U.S. v. Microsoft: Timeline. Wired. 2002-11-04 [2010-07-17]. 
+^ Microsoft Systems Journal—1986–1994 Index. Microsoft. [2008-08-18] （英语）. See May 1987 releases.
+^ Thurrott, Paul. Windows Server 2003: The Road To Gold. winsupersite.com. Penton Media. 2003-01-24 [2010-07-15]. （原始内容存档于2010-06-04）. 
+^ Athow, Desire. Microsoft Windows 3.0 Is 20 Years Old Today!!!. ITProPortal. 2010-05-22 [2012-04-04]. 
+^ Miller, Michael. Windows 98 Put to the Test (OS Market Share 1993–2001). PC Magazine. Ziff Davis. 1998-08-01 [2010-07-03]. （原始内容存档于2012-10-12）. 
+^ McCracken, Harry. A Peek at Office Upgrade. PC World. IDG. 2000-09-13 [2006-07-04]. （原始内容存档于2009-05-06）. 
+^ Competitive Impact Statement : U.S. v. Microsoft Corporation. Justice.gov. [2011-05-11]. 
+^ Borland, John. Victor: Software empire pays high price. CNET (CBS Interactive). 2003-04-15 [2010-0616].  请检查|access-date=中的日期值 (帮助)
+^ Cope, Jim. New And Improved. Smart Computing (Sandhills Publishing Company). 1996-03, 4 (3) [2010-07-16]. （原始内容存档于2004-07-06）. 
+^ Pietrek, Matt. Windows 95 Programming Secrets (PDF). IDG. 1996年3月 [2010-07-17]. ISBN 1-56884-318-6. （原始内容 (PDF)存档于2011-05-14）. 
+^ Marketplace: News Archives. Marketplace. American Public Media. 1996-07-15. （原始内容存档于2004-08-23）. 
+^ Tilly, Chris. The History of Microsoft Windows CE. HPC:Factor. [2008-08-18]. 
+^ Markoff, John. Fears of Misuse of Encryption System Are Voiced. The New York Times. 2002-06-20 [2010-07-07]. 
+^ Stajano, Frank. Security for whom? The shifting security assumptions of pervasive computing (PDF). Software Security—Theories and Systems. Lecture notes in computer science (Springer-Verlag Berlin Heidelberg). 2003, 2609: 16–27 [2010-07-06]. ISBN 978-3-540-00708-1. doi:10.1007/3-540-36532-X_2. 
+^ NPD REPORTS ANNUAL 2001 U.S. INTERACTIVE ENTERTAINMENT SALES SHATTER INDUSTRY RECORD (新闻稿). Port Washington, New York: NPD Group. 2002-02-07 [2015-01-28]. （原始内容存档于2004-08-14）. 
+^ Conte, Natali Del. Bill Gates Announces Resignation. PC Magazine (Ziff Davis, Inc.). 2006-06-15 [2010-07-17]. 
+^ Fried, Ina. Microsoft launches Windows Azure. CNET. CBS Interactive. 2008-10-27 [2010-07-06]. 
+^ Fried, Ina. Microsoft follows Apple into the retail business. CNET. CBS Interactive. 2009年2月12日 [2010年7月17日]. 
+^ Gaynor, Tim. Long lines as Microsoft opens retail store. Reuters. 2009年10月22日 [2010年7月3日]. 
+^ Mintz, Jessica. Windows 7 operating system makes its debut. MSNBC. Associated Press. 2009年10月22日 [2012年4月4日]. 
+^ Steven Levy. Bill Gates on Vista and Apple's 'Lying' Ads. 2007-02-03. （原始内容存档于2007-03-31）. 
+^ Bill Gates. Bill Gates: Japan—Windows Digital Lifestyle Consortium. 2007-05-12. （原始内容存档于2008-05-14）. 
+^ 史蒂芬·辛諾夫斯基. Continuing our discussion on performance. Engineering Windows 7. Microsoft. 2008年12月15日 [2008-12-18]. 
+^ Windows 7 Takes More Advantage Of Multi-Core CPUs - Windows 7. Windowsvienna.com. [2009-05-25]. 
+^ Windows 7 to get parallel-processing tweaks. Blogs.zdnet.com. 2008-09-30 [2009-05-25]. （原始内容存档于2009-02-01）. 
+^ Windows 7 to get parallel-processing tweaks. PcTips Box. 2008-10-05 [2009-05-25]. （原始内容存档于2009-04-15）. 
+^ Windows 7 enters parallel universe. Vista.Blorge. 2008-09-30 [2009-05-25]. （原始内容存档于2009-05-10）. 
+^ 881903.com 商業電台 - 微軟推出兩款智能手機. 
+^ Windows Mobile 7: A Pocket PC Central Brief. [2008-05-31]. 
+^ Peter Bright. Windows Phone 7 Series in the Enterprise: not all good news. 2010-03-16 [2010-11-20]. 
+^ Everything Is Different Now. 
+^ 視窗8 Apps化玩雲端 可下載試用 盼撼蘋果Android明報2012年3月2日
+^ Upcoming Windows Milestones Shared with Partners at WPC. 2012-07-09. 
+^ Windows 8來了！10月26日上市. 
+^ Surface specsheet (PDF). Microsoft. [2012-06-18]. （原始内容 (PDF)存档于2014-10-20）. 
+^ Mark Sullivan. Microsoft Announces Surface Tablet PC. PCWord. 2012年6月18日. 
+^ Surface销量不给力Q1仅售出90万台. 驱动之家. [2013-06-16]. 
+^ 微软Surface Pro无人问津：面临国内销售尴尬. 光明网. [2013-06-16]. 
+^ Nick Wingfield. Microsoft Gets Nokia Units, and Leader. The New York Times. 2013-09-03 [2013-09-03] （英语）. 
+^ Shira Ovide. Microsoft in $7 Billion Deal for Nokia Cellphone Business. The Wall Street Journal. 2013-09-03 [2013-09-03] （英语）. 
+^ Tero Kuittinen. Nokia Sells Handset Business To Microsoft At A Shockingly Low Price. Forbes.com. 2013-09-02 [2013-09-03] （英语）. 
+^ Haydn Shaughnessy. Microsoft, Lucky Beneficiary Of Nokia's Screwed Up Strategy. Forbes.com. 2013-09-03 [2013-10-30] （英语）. 
+^ Peckham, Matt. Minecraft Is Now Part of Microsoft, and It Only Cost $2.5 Billion. Time. Time Inc. [2014-09-15]. 
+^ Bass, Dina. Microsoft to Buy Minecraft Maker Mojang for $2.5 Billion. Bloomberg. Bloomberg L.P. [2014-09-16]. 
+^ 微软2016年秋季新品发布会图文实录. IT之家. [2016年10月26日]. 
+^ Amanda Holpuch. Microsoft unveils Xbox One console - as it happened. the Guardian. 
+^ Kyle Wagner. Xbox One: Everything You Need to Know About Microsoft's New Console. Gizmodo. Gawker Media. 
+^ 盧蘇燕，尚緒謙，歐盟法院開庭審理微軟與歐盟市場爭端，新華網
+^ 尚軍，潘革平，歐洲初審法院維持對美國微軟公司的反壟斷處罰，新華網
+^ 孟帆. 微軟再遭歐盟9億歐元重罰. 新浪科技. 2008年2月27日 [2008-02-28]. 
+^ 发改委受理对微软反垄断调查消息不准确_互联网频道_新华网. 
+^ 姜燕. 商務部：微軟反壟斷調查不歸商務部負責. 新华网. 2008年8月22日. 
+^ 王智宇. 微軟為何捏"番茄". 2008年9月1日. 
+^ 番茄花园版Windows XP作者被拘留. 新浪投票. 
+^ 爭鳴為了自己利益 請不要支持番茄花園. 人民网. 2008年8月31日. 
+^ 姜伯静. 某些媒體不要用"偽數據"誤導網民. 人民网. 2008年9月3日. 
+^ 工商总局突袭微软反垄断. 
+^ 微软回应反垄断调查：会积极解答政府部门可能有的疑问，中国经济网，2014年7月31日
+^ 工商总局对微软进行反垄断询问调查 微软暂未回应. 央广网. 2016年1月6日 [2016年1月6日]. 
+^ Bill Gates. 微软官网. 2011年8月3日. 
+^ The World's Billionaires. Forbes. 
+^ 88.0 88.1 The World's Billionaires 2009. Forbes. 2009年11月3日. 
+^ 微软公布规模最大裁员计划 集中诺基亚部门. 中国经济网. [2014-07-19]. 
+^ 微軟被指掩蓋資料庫被黑事件. TechWeb. [2017-10-17]. 
+
+
+来源[编辑]
+
+微软公司采用机器人保安值守|微软公司使用机器人保安|话语胡同|[2014/11]
+微软最长寿操作系统XP今日“退休” 安全厂商接力 中国经济网 2014-05-28
+微软尖峰时刻 中国经济网 2014-05-29
+
+外部連結[编辑]
+
+
+
+维基共享资源中相關的多媒體資源：
+
+微软（分類）
+
+
+
+
+
+
+
+维基语录上的相关摘錄：微软
+
+
+
+官方网站
+官方博客（英文）
+微軟中國（简体中文）
+微軟香港（繁体中文）
+微軟台灣（繁体中文）
+微軟亞洲研究院（简体中文）
+微軟亚太研發集團（简体中文）
+微软的Facebook專頁
+
+參見[编辑]
+
+
+微软主题
+美国主题
+软件主题
+电子游戏主题
+信息技术主题
+
+
+
+微軟作業系統列表
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ 微軟
+
+
+
+
+
+
+
+
+
+歷史
+
+
+
+
+
+
+
+
+人物
+（列表）
+
+
+
+
+創始人
+
+
+
+比尔·盖茨
+保羅·艾倫
+
+
+
+
+
+
+
+
+董事會
+
+
+
+约翰·W·汤普森（主席）
+薩蒂亞·納德拉（執行長）
+迪娜·杜伯倫
+里德·霍夫曼
+Maria Klawe（英语：Maria Klawe）
+David Marquardt（英语：David Marquardt）
+Charles Noski（英语：Charles Noski）
+Helmut Panke（英语：Helmut Panke）
+Mason Morfit（英语：Mason Morfit）
+John W. Stanton（英语：John W. Stanton）
+
+
+
+
+
+
+
+
+高層領導團隊
+
+
+
+薩蒂亞·納德拉（執行長）
+Chris Caposella（行銷長）
+Kurt DelBene
+Scott Guthrie（英语：Scott Guthrie）
+Amy Hood（英语：Amy Hood）（財務長）
+Kathleen Hogan
+陸奇
+特里·邁爾森
+沈向洋
+Brad Smith
+Kevin Turner（英语：B. Kevin Turner）（首席營運長）
+
+
+
+
+
+
+
+
+公司副總裁
+
+
+
+乔北峰
+Panos Panay
+理查德·拉希德（高級副總裁）
+S. Somasegar（英语：S. Somasegar）（高級副總裁）
+
+
+
+
+
+
+
+
+
+
+
+部門
+
+
+
+工程團隊
+
+配件
+移動
+
+
+反網絡犯罪中心（英语：Microsoft Digital Crimes Unit）
+車庫（英语：Microsoft Garage）
+出版社
+研究院
+工作室
+.NET基金會
+Outercurve基金會（英语：Outercurve Foundation）
+
+
+
+
+
+
+
+
+產品系列
+
+
+
+作業系統
+
+Windows
+
+
+軟體
+
+Office
+Servers
+Visual Studio
+
+
+Hololens
+Surface
+Xbox
+
+
+
+
+
+
+
+
+網絡性
+
+
+
+Bing
+Channel 9
+CodePlex
+領英
+開發者網絡
+MSN
+Office.com
+OneDrive
+Outlook.com
+TechNet
+Windows Store
+How-old.net
+
+
+
+
+
+
+
+
+大會
+
+
+
+Build
+MIX（英语：MIX (Microsoft)）
+PDC
+TechEd（英语：TechEd）
+WinHEC
+微軟全球合作夥伴大會（英语：Microsoft Worldwide Partner Conference）
+
+
+
+
+
+
+
+
+批評
+
+
+
+Microsoft Windows捆綁銷售（英语：Bundling of Microsoft Windows）
+iLoo（英语：iLoo#Reaction）
+Internet Explorer
+_NSAKEY（英语：_NSAKEY）
+Windows
+
+XP
+Vista
+8
+
+
+Xbox 360
+
+
+
+
+
+
+
+
+訴訟
+
+
+
+阿爾卡特-朗訊訴微軟（英语：Alcatel-Lucent v. Microsoft Corp.）
+蘋果訴微軟（英语：Apple Computer, Inc. v. Microsoft Corp.）
+歐盟微軟競爭案（英语：Microsoft Corp v Commission）
+微軟訴Lindows（英语：Microsoft Corp. v. Lindows.com, Inc.）
+微軟訴MikeRoweSoft
+微軟訴Shah（英语：Microsoft Corp. v. Shah）
+美國訴微軟案
+
+
+
+
+
+
+
+
+收購（英语：List of mergers and acquisitions by Microsoft）
+
+
+
+6Wunderkinder
+Altamira Software（英语：Altamira Software）
+aQuantive
+Azyxxi
+The Blue Ribbon SoundWorks（英语：The Blue Ribbon SoundWorks）
+Bungie
+Calista Technologies（英语：Calista Technologies）
+Colloquis（英语：Colloquis）
+Connectix（英语：Connectix）
+Consumers Software（英语：Consumers Software）
+Danger（英语：Danger (公司)）
+Farecast
+FASA Studio
+Fast Search & Transfer（英语：Fast Search & Transfer）
+Firefly（英语：Firefly (website)）
+Forethought（英语：Forethought, Inc.）
+GIANT Company Software
+GreenButton（英语：GreenButton）
+Groove Networks（英语：Groove Networks）
+Hotmail
+Jellyfish.com（英语：Jellyfish.com）
+領英
+LinkExchange（英语：LinkExchange）
+Lionhead Studios
+Massive Incorporated（英语：Massive Incorporated）
+Mojang
+諾基亞
+Onfolio（英语：Windows Live Toolbar#Onfolio）
+PlaceWare（英语：PlaceWare）
+Powerset
+ProClarity（英语：ProClarity）
+Rare
+Revolution Analytics（英语：Revolution Analytics）
+ScreenTonic（英语：ScreenTonic）
+Skype
+Sunrise Atelier（英语：Sunrise Calendar）
+Winternals Software
+Teleo（英语：Teleo）
+Telekinesys Research
+Tellme Networks（英语：Tellme Networks）
+Twisted Pixel Games
+Vermeer Technologies（英语：Vermeer Technologies）
+Visio Corporation（英语：Visio Corporation）
+Vivaty（英语：Flux (software)）（解散）
+VoloMetrix（英语：VoloMetrix）
+VXtreme（英语：NetShow）
+WebTV Networks
+Yammer
+Yupi（英语：Yupi）
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 共享資源
+ 微軟主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+杀毒软件
+
+
+
+
+
+
+防毒廠商
+
+
+
+
+
+主要
+
+
+
+
+Agnitum
+Avast Software
+AVG
+Avira AntiVirus
+BitDefender
+Comodo
+Dr. Web
+ESET
+F-Secure
+卡巴斯基
+McAfee
+微软
+熊猫
+奇虎360
+守护使
+赛门铁克
+趋势
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+安博士
+BullGuard
+Cisco
+Check Point
+ClamWin
+Fortinet
+FRISK
+歌德塔
+GFI Software
+iolo
+Intego
+K7
+金山
+Lavasoft
+Malwarebytes
+PSafe
+Quick Heal
+瑞星
+TG Soft
+TrustPort
+VirusBlokAda
+Webroot
+Zemana
+ZoneAlarm
+
+
+
+
+
+
+
+
+
+
+
+防毒產品
+
+
+
+
+
+桌面端与伺服器端
+
+
+
+
+AhnLab V3 Internet Security
+Avast Antivirus
+AVG
+Avira Internet Security
+BitDefender
+BullGuard
+ClamWin
+Clam AntiVirus
+Comodo Antivirus
+科摩多网络安全套装
+Dr. Web
+ESET NOD32
+F-Secure
+F-PROT
+Fortinet
+G Data
+VIPRE
+Advanced SystemCare
+iolo System Shield
+K7 Total Security
+卡巴斯基防毒軟體
+卡巴斯基安全软件
+金山毒霸
+Mac Internet Security
+Malwarebytes' Anti-Malware
+McAfee VirusScan
+Microsoft Security Essentials
+Windows Defender
+NANO Antivirus（俄语：NANO Антивирус）
+Panda
+PSafe TOTAL
+360安全衛士
+百度杀毒
+Outpost Security Suite
+Sophos
+Symantec Endpoint Protection
+Immunet
+Element Anti-Virus
+諾頓防毒
+諾頓網絡安全大師
+Spyware Doctor
+VirIT eXplorer
+VirusBarrier
+Trend Micro Internet Security
+TrustPort
+Vba32 AntiVirus
+ZoneAlarm
+
+
+
+
+
+
+
+
+
+移动端与平板端
+
+
+
+
+AhnLab Mobile Security
+Avast Antivirus
+AVG AntiVirus
+Avira Free Android Security
+Bitdefender Mobile Security
+BullGuard Mobile Security
+CM Security
+Comodo Mobile Security
+Dr. Web Mobile Security Suite
+ESET Mobile Security
+F-Secure Mobile Security
+G Data MobileSecurity
+Lookout Mobile Security
+McAfee Mobile Security
+Microdot Security
+PSafe TOTAL Android
+FireAMP Mobile
+Trend Micro Mobile Security
+TrustPort Mobile Security
+VirusBarrier
+
+
+
+
+
+
+
+
+
+
+
+相关内容
+
+
+
+防毒軟體列表
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ 道琼斯工业平均指数成份股
+
+
+
+
+
+
+目前組成股票
+
+
+
+3M
+蘋果公司
+高盛
+美國運通
+Visa
+波音
+卡特彼勒
+雪佛龍
+思科系统
+可口可乐公司
+陶氏杜邦
+埃克森美孚
+通用电气
+耐克
+家得宝
+英特尔
+IBM
+强生
+摩根大通
+麦当劳
+默沙东
+微软
+輝瑞
+宝洁
+旅行家集團
+聯合健康集團
+联合技术
+威訊
+沃尔玛
+华特迪士尼
+
+
+
+
+
+
+
+
+前任組成股票
+
+
+
+奧馳亞集團
+卡夫食品
+美國國際集團
+美国烟草公司
+花旗集团
+杜邦
+通用汽车
+伊士曼柯达
+固特異
+霍尼韦尔
+國際紙業公司
+北美洲公司
+西爾斯羅巴克
+美國聯合碳化物
+美國橡膠公司
+美國鋁業
+惠普
+AT&T
+美國銀行
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ 納斯達克100指數成份股
+
+
+
+
+
+
+
+
+
+二十一世紀福斯
+动视暴雪
+Adobe Systems
+Akamai
+亞力兄制藥
+Alphabet
+亞馬遜公司
+American Airlines Group（英语：American Airlines Group）
+安进
+亚德诺半导体
+蘋果公司
+应用材料
+Autodesk
+Automatic Data Processing（英语：Automatic Data Processing）
+百度
+Biogen Idec
+BioMarin Pharmaceutical（英语：BioMarin Pharmaceutical）
+博通有限
+CA科技
+賽爾基因
+Cerner（英语：Cerner）
+Charter Communications（英语：Charter Communications）
+Check Point（英语：Check Point）
+Cintas（英语：Cintas）
+思科系统
+思杰系统
+高知特
+康卡斯特
+好市多
+CSX Corporation（英语：CSX Corporation）
+携程旅行网
+Dentsply Sirona（英语：Dentsply Sirona）
+探索傳播
+Dish Network
+Dollar Tree（英语：Dollar Tree）
+EBay
+艺电
+Expedia公司
+Express Scripts（英语：Express Scripts）
+Facebook
+Fastenal（英语：Fastenal）
+Fiserv（英语：Fiserv）
+Gilead Sciences（英语：Gilead Sciences）
+孩之寶
+Henry Schein（英语：Henry Schein）
+Hologic（英语：Hologic）
+Idexx Laboratories（英语：Idexx Laboratories）
+Illumina
+Incyte（英语：Incyte）
+英特尔
+Intuit
+Intuitive Surgical（英语：Intuitive Surgical）
+J. B. Hunt Transport Services（英语：J. B. Hunt Transport Services）
+京東商城
+KLA-Tencor（英语：KLA-Tencor）
+卡夫亨氏
+Lam Research（英语：Lam Research）
+Liberty Global（英语：Liberty Global）
+Liberty Interactive（英语：Liberty Interactive）
+萬豪國際
+美泰兒
+美信集成产品
+MercadoLibre（英语：MercadoLibre）
+微晶片科技
+美光科技
+微软
+亿滋国际
+Monster Beverage（英语：Monster Beverage）
+邁蘭
+网易
+Netflix
+挪威郵輪
+英伟达
+O'Reilly Auto Parts（英语：O'Reilly Auto Parts）
+Paccar
+Paychex（英语：Paychex）
+PayPal
+高通
+Regeneron（英语：Regeneron）
+Ross Stores（英语：Ross Stores）
+希捷科技
+Shire (pharmaceutical company)（英语：Shire (pharmaceutical company)）
+天狼星XM
+Skyworks Solutions（英语：Skyworks Solutions）
+星巴克
+赛门铁克
+T-Mobile US（英语：T-Mobile US）
+特斯拉汽車
+德州仪器
+Priceline集團
+Tractor Supply Company（英语：Tractor Supply Company）
+Ulta Beauty（英语：Ulta Beauty）
+Verisk Analytics（英语：Verisk Analytics）
+Vertex Pharmaceuticals（英语：Vertex Pharmaceuticals）
+維亞康姆
+沃达丰
+Walgreens Boots Alliance（英语：Walgreens Boots Alliance）
+威騰電子
+永利度假村
+赛灵思
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+全球主要信息技术公司
+
+
+
+
+
+
+
+
+
+最大的信息技术公司列表
+最大的網際網路公司列表
+最大的軟體公司列表
+全球二十大半導體廠商
+
+
+
+
+
+
+
+
+消費电子产品
+
+
+
+
+
+行動裝置[1]
+
+
+
+
+蘋果
+三星电子
+華為
+索尼移動通信
+宏达电
+華碩
+摩托罗拉移动
+小米
+LG電子
+TCL
+步步高电子（包括Vivo、OPPO以及OnePlus）
+中興
+魅族
+夏普
+富可視
+Micromax
+Tecno
+
+
+
+
+
+
+
+
+
+个人电脑[2]
+
+
+
+
+聯想
+惠普
+戴尔
+蘋果
+宏碁
+華碩
+微星
+东芝
+三星电子
+清华同方
+富士通
+
+
+
+
+
+
+
+
+
+組裝代工
+
+
+
+
+鴻海
+富智康
+廣達
+仁寶
+緯創
+英業達
+和碩
+偉創力
+Celestica
+Jabil
+Sanmina-SCI
+冠捷
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+诺基亚
+酷派
+黑莓
+日本電氣
+
+
+
+
+
+
+
+
+
+
+
+影像
+
+
+
+佳能
+三星
+尼康
+索尼
+徕卡
+奥林巴斯
+柯尼卡美能达
+柯达
+京瓷
+利盟
+理光
+精工愛普生
+惠普
+夏普
+东芝
+施乐
+大立光電
+
+
+
+
+
+
+
+
+数据保存
+
+
+
+
+
+硬盘[3]
+
+
+
+
+希捷科技
+威騰電子
+日立存储
+东芝
+三星
+
+
+
+
+
+
+
+戴尔
+易安信
+富士通
+惠普
+IBM
+威騰電子
+網路器械
+甲骨文
+
+
+
+
+
+
+
+
+咨询和外包服務
+
+
+
+埃森哲
+源訊
+博思艾伦汉密尔顿控股公司
+BT
+CACI
+凱捷
+CGI Group
+高知特
+CSC
+德勤
+戴尔
+神州数码
+富士通
+HCL Technologies
+日立
+EDS
+IBM
+Indra
+印孚瑟斯
+日本電氣
+NTT
+Orange Business Services
+TCS
+T-Systems
+Wipro
+
+
+
+
+
+
+
+
+大型计算机
+
+
+
+
+
+大型主機
+
+
+
+
+富士通
+IBM
+
+
+
+
+
+
+
+
+
+伺服器
+
+
+
+
+IBM
+甲骨文
+思科
+
+
+
+
+
+
+
+
+
+PoS系統
+
+
+
+
+NCR
+東芝
+
+
+
+
+
+
+
+
+
+
+
+網路設備（英语：Network equipment provider）
+
+
+
+阿爾卡特-朗訊
+亚美亚
+思科
+愛立信
+富士通
+惠普
+华为
+瞻博網路
+摩托罗拉解决方案
+日本電氣
+諾基亞通信
+三星
+中興
+
+
+
+
+
+
+
+
+半导体製造
+
+
+
+
+
+IC設計
+
+
+
+
+英特爾
+三星
+高通
+美光
+SK海力士
+東芝
+德州儀器
+博通
+意法半導體
+瑞薩
+超威
+英偉達
+華爲(海思半導體)
+聯發科
+飛思卡爾
+富士通
+索尼
+LG
+英飛凌
+邁威爾
+恩智浦
+松下
+安森美
+快捷
+LSI公司
+紫光集團
+安謀控股
+
+
+
+
+
+
+
+
+
+晶圓代工
+
+
+
+
+台積電
+聯華電子
+格羅方德
+中芯國際
+力晶科技
+
+
+
+
+
+
+
+
+
+
+
+互联网[4]
+
+
+
+
+
+电子商务
+
+
+
+
+阿里巴巴
+Amazon
+eBay
+Priceline集團
+京東商城
+Groupon
+Flipkart
+樂天
+貓途鷹
+Expedia
+唯品會
+攜程旅行網
+Lazada
+MercadoLibre
+
+
+
+
+
+
+
+
+
+搜索引擎
+
+
+
+
+Google
+百度
+微软
+雅虎
+Naver
+Yandex
+奇虎360
+搜狗
+
+
+
+
+
+
+
+
+
+社群網路
+
+
+
+
+Facebook
+騰訊
+Twitter
+領英
+新浪微博
+VKontakte
+
+
+
+
+
+
+
+
+
+入口网站
+
+
+
+
+网易
+Oath (Yahoo! 及 AOL)
+新浪
+
+
+
+
+
+
+
+
+
+
+
+軟體
+
+
+
+微软
+甲骨文
+SAP
+賽門鐵克
+VMware
+CA公司
+Adobe
+蘋果
+Google
+IBM
+惠普
+Intuit
+趨勢科技
+訊連科技
+華為
+海尔
+中興
+Salesforce.com
+
+
+
+
+
+
+
+
+电信服務
+
+
+
+
+
+十大电信运营商[5]
+
+
+
+
+AT&T
+威訊
+中国移动
+日本電信電話
+德國電信
+軟銀
+沃達豐
+美洲行動通訊（英语：América Móvil）
+中國電信
+西班牙電信
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+Orange
+中国联通
+KDDI
+英國電信
+義大利電信
+澳大利亞電信
+韩国电信
+世紀互聯（英语：CenturyLink）
+BCE公司（英语：BCE Inc.）
+挪威電信（英语：Telenor）
+威瑞森
+維旺迪
+中華電信
+荷蘭皇家電信
+NTT DOCOMO
+Reliance
+Sprint Nextel
+TeliaSonera
+3 (電訊)
+新加坡電信
+Etisalat
+TeliaSonera
+T-Mobile
+SK電訊
+電訊盈科
+
+
+
+
+
+
+
+
+
+
+
+电子游戏
+
+
+
+动视暴雪
+雅达利股份公司
+万代南梦宫娱乐
+卡普空‎
+艺电
+Epic Games
+LucasArts
+光荣特库摩
+科樂美
+NCsoft
+Nexon
+任天堂
+世嘉
+索尼
+史克威尔艾尼克斯
+Take-Two Interactive
+腾讯
+育碧
+華納兄弟
+
+
+
+
+
+
+
+
+数据来源
+
+
+
+^ TrendForce：2015年全球智慧型手機出貨12.93億支
+^ IDC：全球十大PC厂商将有两家退出市场2015年11月07日
+^ 全球硬盘市场大洗牌 仅存5家生产商
+^ 2015年全球互联网公司市值前20强排名
+^ The World’s Biggest Public Companies. Forbes. [2 June 2016] （英语）. 
+
+
+
+
+
+
+
+
+
+收錄標準：年營業收入超過30億美元；特例：組別5（主機）為10億美元，組別11（網際網路）為15億美元，組別13（電信）為200億美元。
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 148809628
+LCCN: n86810571
+ISNI: 0000 0001 2181 3404
+GND: 5003949-0
+SELIBR: 347184
+SUDOC: 030109434
+BNF: cb120673486（数据）
+ULAN: 500333090
+NLA: 35928074
+NDL: 00322150
+NKC: kn20020321575
+BNE: XX121178
+
+
+
+
+
+
+
+
+
+
+
+
+分类：納斯達克上市公司道瓊斯工業平均指數成份股納斯達克100指數成分股微軟美國軟體公司跨國軟件公司美國電子遊戲公司1975年開業電子遊戲公司標準普爾500指數成分股香港交易所已除牌公司隐藏分类：调用重复模板参数的页面CS1英语来源 (en)引文格式1错误：日期使用ISBN魔术链接的页面含有英語的條目使用未知公司信息框参数的页面自2007年7月有未列明来源语句的条目官方博客在维基数据与维基百科不同包含规范控制信息的维基百科条目

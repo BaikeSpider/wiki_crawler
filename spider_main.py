@@ -31,8 +31,8 @@ class SpiderMain(object):
             try:
                 #while new_url in crawled_urls:
                 new_url, title, parent_url, parent_title, parent_all, now = self.urls.get_new_url(now)
-                if new_url == 'https://zh.wikipedia.org/wiki/%E6%99%BA%E5%BA%AB':
-                    print('hah')
+                #if new_url == 'https://zh.wikipedia.org/wiki/%E6%99%BA%E5%BA%AB':
+                #    print('hah')
 
                 # print('crawl %d : %s' % (count, new_url))
                 # print(title)

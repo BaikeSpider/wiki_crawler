@@ -1,0 +1,18 @@
+数据库服务器
+
+
+
+
+
+本条目需要擴充。（2012年5月27日） 
+请協助改善这篇條目，更進一步的信息可能會在討論頁或扩充请求中找到。请在擴充條目後將此模板移除。 
+
+
+联系Web服务器与DBMS的中间件是负责处理所有的应用程序服务器，包括在web服务器和后台的应用程序或数据库之间的事务处理和数据访问。
+出处[编辑]
+Kenneth C.Laudon and Jane P.Laudon, 《Management Information Systems》, Pearson, 07 March 2011, Chapter6 Information systems Organizations and Strategy p. 155
+
+
+
+
+分类：数据库服务器隐藏分类：自2012年5月扩充中的条目

@@ -1,0 +1,307 @@
+语义网
+
+
+
+
+
+本条目部分链接不符合格式手冊規範。跨語言链接及章節標題等處的链接可能需要清理。（2015年12月12日） 
+請協助改善此條目。參見WP:LINKSTYLE、WP:MOSIW以了解細節。突出显示跨语言链接可以便于检查。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+W3C的语意网徽标
+
+
+语义网（Semantic Web）是由万维网联盟的蒂姆·伯纳斯-李（Tim Berners-Lee）在1998年提出的一个概念，它的核心是：通过给万维网上的文档（如: HTML）添加能够被计算机所理解的语义（Meta data），从而使整个互联网成为一个通用的信息交换媒介。语义万维网通过使用标准、置标语言和相关的处理工具来扩展万维网的能力。不过语意网概念实际上是基于很多已有技术的，也依赖于后来和text-and-markup与知识表现的综合。那些渊源甚至可以追溯到20世纪60年代末期的Allan M. Collins、M. Ross Quillian、Elizabeth F. Loftus等人的研究，还有之后70年代初R.F.Simon、R.C.Schamk、Minsky等人陆续提出的一些理论上的成果，其中Simon在进行自然语言理解的应用研究时提出了语义网络Semantic Network（不是现在的Semantic Web）的概念。当时人们甚至发明了以逻辑为基础的程序设计语言Prolog。
+"语义"网是由比现今成熟的网际搜索工具更加行之有效的、更加广泛意义的并且自动聚集和搜集信息的文档组成的。其最基本的元素就是语义链接。
+
+
+
+目录
+
+
+1 應用
+2 語義網應用範例
+3 Web 3.0
+4 参考文献
+5 外部链接
+6 参见
+
+
+
+應用[编辑]
+通过下列方法可以提升全球資訊網以及其互连的资源的易用性（usability）和實用性（usefulness）：
+
+"标记"了语义信息的文档。这可以是机器可以理解的关于文档内容（例如文档的作者,标题,简介等)的描述,或者是描述该网站所拥有的服务和资源.(注意:任何东西都是能被URI-统一资源定位符-所描述的,因此语义网能理解人物、地方、想法、類別等等)
+通用元数据詞滙表(本体论)及詞滙間的影射使得文檔作者知道如何來標記文檔方可讓機器識別他想提供的元數據.
+利用元数据为语义网用户执行任务的自动软件代理(agent).
+為自動軟件代理提供特定信息的網絡服务 (例如,可信度服務可以讓軟件代理查詢某個在线商店是否曾經有過不良紀錄或者發送過垃圾郵件).
+
+語義網應用範例[编辑]
+目前的各种萬維網技术都有可能被应用于语义网（在语义环球网的意义上）,例如:
+
+DOM文档对象模型,一组访问XML和HTML文档组成部分的标准接口.
+XPath、XLink、XPointer
+XInclude XML fragment XML查询语言XHTML
+XML Schema, RDF（Resource Description Framework）
+XSL, XSLT Extensible Stylesheet Language
+SVG（Scalable Vector Graphic）
+SMIL
+SOAP
+DTD
+微格式
+元数据概念.
+
+Web 3.0[编辑]
+2006年5月，蒂姆·伯纳斯-李曾說[1]：
+
+人們不停地詢問Web 3.0是什麼。我認為當SVG在Web 2.0的基礎上大面積使用——所有東西都起波紋、被折疊並且看起來沒有菱角——以及一整張語義網涵蓋著大量的數據，你就可以訪問這難以置信的數據資源。
+——Tim Berners-Lee, 2006
+
+参考文献[编辑]
+
+
+^ Victoria Shannon. A 'more revolutionary' Web. International Herald Tribune. 2006-06-26 [2006-05-24]. 
+
+
+外部链接[编辑]
+
+（英文） W3C发起组织语义网页
+（英文） Tim Berners-Lee的1998指南论文
+（英文） <科学美国人>关于语义网的文章
+（英文） 语义网研究社区门户
+（中文） 中文语义网研究论坛
+（中文） W3CHINA.ORG语义网讨论区
+
+参见[编辑]
+
+
+互联网主题
+信息技术主题
+计算机科学主题
+
+
+
+W3C
+OWL
+Cyc
+知识表达
+語義網路（Semantic network）
+语义网堆栈
+OWL2
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+语义网
+
+
+
+
+
+
+背景
+
+
+
+知识
+万维网
+因特网
+数据库
+语义网络
+本体工程
+本体
+
+
+
+
+
+
+
+
+分主题
+
+
+
+数据网（英语：Data Web）
+数据空间（英语：Dataspaces）
+Dereferenceable URIs
+Hyperdata
+鍵連資料
+本体
+规则库
+
+
+
+
+
+
+
+
+应用
+
+语义维基（英语：Semantic wiki） · 语义发布（英语：Semantic publishing） · 语义搜索 · 语义宣传（英语：Semantic advertising） · 语义推理程序（英语：Semantic reasoner） · 语义匹配（英语：Semantic matching） · 语义映射程序（英语：Semantic mapper） · 语义代理程序（英语：Semantic broker） · 语义分析方法（英语：Semantic analytics） · 面向语义服务型架构（英语：Semantic service oriented architecture） · 语义检索
+
+
+
+
+
+
+相关主题
+
+
+
+集体智慧
+描述逻辑
+信息架构
+知识管理
+知识表示
+图书馆2.0
+元数据
+引用
+Web 2.0
+Plain Old Semantic HTML
+搜索引擎优化
+开放数据库连接(ODBC)
+主题地图
+心智图
+XML
+描述逻辑
+分众分类法
+
+
+
+
+
+
+
+
+人物
+
+蒂姆·伯纳斯-李 · James Hendler（英语：James Hendler） · Ora Lassila · Nigel Shadbolt · Wendy Hall
+
+
+
+
+
+
+关键的语义网组织
+
+W3C · WSRI · MIT · OpenLink软件 · Talis工作组 · ClearForest · 南安普敦大学 · DERI
+
+
+
+
+
+
+标准
+
+
+
+
+语法及支持技术
+
+
+
+HTTP
+IRI（英语：Internationalized resource identifier）
+
+URI
+
+
+资源描述框架(RDF)
+
+Notation 3（英语：Notation 3）
+Turtle (语法)（英语：Turtle (syntax)）
+JSON-LD（英语：JSON-LD）
+N-Triples（英语：N-Triples）
+
+
+SPARQL
+XML
+
+
+
+
+
+
+
+
+模式、本体和规则
+
+RDFS · OWL · 规则交换格式 · 语义网规则语言
+
+
+
+
+
+
+语义标注
+
+RDFa · eRDF · GRDDL · 微格式
+
+
+
+
+
+
+公共词表
+
+FOAF · SIOC · Dublin Core · SKOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh2002000569
+GND: 4688372-1
+BNF: cb14521343b（数据）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：新兴技术语义网Web服务知识表示隐藏分类：自2015年12月連結格式不正確的條目包含规范控制信息的维基百科条目
