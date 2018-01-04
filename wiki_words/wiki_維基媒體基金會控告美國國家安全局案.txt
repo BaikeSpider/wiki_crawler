@@ -1,0 +1,149 @@
+維基媒體基金會控告美國國家安全局案
+
+維基媒體基金會控告美國國家安全局案
+
+
+美國安局的內部簡報幻燈片，顯示其監控對象包括了維基百科。
+
+
+
+日期
+2015年3月10日 (2015-03-10)
+
+
+主题
+Lawsuit against the National Security Agency
+
+
+起因
+維基媒體基金會認定美国国家安全局進行非法監控
+
+
+发起人
+American Civil Liberties Union, Wikimedia Foundation, National Association of Criminal Defense Lawyers, Human Rights Watch, Amnesty International USA, PEN American Center, Global Fund for Women, The Nation, Rutherford Institute, Washington Office on Latin America
+
+
+结果
+提出訴訟中
+
+
+維基媒體基金會控告美國國家安全局案（英语：Wikimedia Foundation v. NSA），是指包括擁有維基百科網站的維基媒體基金會在內的數個團體或組織，於2015年3月10日聯名委託美國公民自由聯盟為訴訟代理人，控告美国国家安全局[1]與美國司法部[2]進行非法的網路監控。訴訟人指控，NSA與司法部對維基百科的用戶實施群眾監控[3][4] 。訴訟人聲稱，NSA與司法部的上游收集（英语：Upstream collection）監聽計畫違反了《美国宪法第一修正案》中的保護言論自由，與《美國憲法第四修正案》中的禁止無理搜查和扣押條文[5]。
+
+
+
+目录
+
+
+1 背景
+2 原告
+3 參見
+4 参考文献
+5 外部連結
+
+
+
+背景[编辑]
+
+
+
+
+上游收集的國安局簡報幻燈片。顯示上游收集指的是直接於光纖電纜(fiber cables)進行監控，故稱為上游；而稜鏡計畫是收集伺服器端的資料。
+
+
+上游收集（英语：Upstream collection）監聽計畫最早是由前NSA職員爱德华·斯诺登揭發的。在本案之前，美國公民自由聯盟便已經代理過國際特赦組織美國分會控告克拉珀案（英语：Clapper v. Amnesty International USA），結果因證據不足而敗訴；而此次維基媒體基金會與美國公民自由聯盟，在斯诺登所公佈的NSA內部資料幻燈片中，發現了當中有一個分類特別提到了對維基百科的監控。聯盟律師Patrick Toomey指出，此案對於原告而言特別重要，因為原告每年進行數以千億計的國際通訊（英语：International communication）[6][7]。
+原告[编辑]
+本案的原告有：
+
+維基媒體基金會
+美國刑事辯護律師協會（英语：National Association of Criminal Defense Lawyers）
+人权观察
+國際特赦組織美國分會（英语：Amnesty International USA）
+國際筆會美東分會（英语：PEN American Center）
+全球婦女基金會（英语：Global Fund for Women）
+《國家週刊（英语：The Nation）》
+拉瑟福德學會（英语：Rutherford Institute）
+拉美地區駐華盛頓辦公室（英语：Washington Office on Latin America）[5][8]
+
+參見[编辑]
+
+爱德华·斯诺登
+國際特赦組織美國分會控告克拉珀案（英语：Clapper v. Amnesty International USA）
+
+参考文献[编辑]
+
+本条目的部分内容翻译自英語維基百科条目Wikimedia v. NSA（版本650878173）並以知识共享-署名-相同方式共享3.0协议授权使用。原文作者列表請參閱其页面历史。
+
+
+
+^ National Security Agency，縮寫：NSA；下文為敘述方便，均以NSA或國安局代稱。
+^ Department of Justice，縮寫：DOJ；下文為敘述方便，均以DOJ或司法部代稱。
+^ Paulson, Michelle. Wikimedia v. NSA: Wikimedia Foundation files suit against the NSA to challenge upstream mass surveillance. Wikimedia Foundation. [10 March 2015] （英语）. 
+^ Wales, Jimmy; Tretikov, Lila. Stop Spying on Wikipedia Users. New York Times. 2015-03-10 [10 March 2015]. 
+^ 5.0 5.1 Reuters. ACLU, Wikimedia file lawsuit challenging NSA mass surveillance. Reuters. 2015-03-10 [2015-03-10]. 
+^ Schneider, Marc. Wikimedia vs NSA: ACLU Files Lawsuit to End Spy Agency's 'Upstream Surveillance'. billboard.com. Billboard. 
+^ Gass, Nick. Wikimedia sues NSA, DOJ over mass surveillance. Politico（英语：Politico）. 10 March 2015 [11 March 2015]. 
+^ Lomas, Natasha. Wikimedia Sues NSA Over Mass Surveillance. TechCrunch. 10 March 2015 [11 March 2015]. 
+
+
+外部連結[编辑]
+
+訴狀全文(英文版)：在美國公民自由聯盟網站
+元維基對本案的FAQ（中文）
+Why Are We Interested in HTTP? （愛德華·斯諾登揭露的簡報幻燈片，有維基百科的部份）
+
+
+
+
+維基媒體基金會的项目
+
+
+公眾项目
+
+
+
+维基百科（前往）
+
+維基詞典（前往）
+
+維基教科書（前往）
+
+維基語錄（前往）
+
+
+
+維基文庫（前往）
+
+維基共享資源（前往）
+
+維基物種（前往）
+
+維基新聞（前往）
+
+
+
+維基學院（前往）
+
+维基数据（前往）
+
+維基導遊（前往）
+
+MediaWiki（前往）
+
+
+內部项目
+
+
+
+元维基（前往）
+
+維基媒體國際會議（前往）
+
+維基孵育場（前往）
+
+
+
+
+
+
+
+分类：2015年3月維基媒體基金會诉讼美国国家安全局美国司法部监视隱私權隐藏分类：CS1英语来源 (en)使用过时图像语法的页面含有英語的條目

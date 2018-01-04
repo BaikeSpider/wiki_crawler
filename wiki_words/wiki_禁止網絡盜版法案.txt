@@ -1,0 +1,367 @@
+禁止网络盗版法案
+
+
+
+
+
+
+
+
+
+
+
+
+
+本条目需要更新。（2017年6月3日） 
+請更新本文以反映近況和新增内容。完成修改時，請移除本模板。 
+
+
+
+禁止網絡盜版法案
+Stop Online Piracy Act
+
+
+
+
+全称
+“通過打擊對美國財產的盜竊及其他違法行為來促進繁榮、創作、創業和創新。”[1]
+
+
+缩写
+（通俗）
+SOPA
+
+
+俗称
+House Bill 3261
+
+
+立法历程
+
+
+
+
+
+美国众议院提案：H.R. 3261， 兰默·史密斯 （德州共和黨員）， 2011年10月26日
+委员会审核：美国众议院司法委員會
+
+
+
+
+
+《禁止網絡盜版法案》（Stop Online Piracy Act），縮寫為SOPA，亦被稱為H.R. 3261法案。該法案由美國眾議院德克薩斯州共和黨议员兰默·史密斯（Lamar Smith）於2011年10月26日提出，得到了眾議院兩黨共12名眾議員的連署支持。如果该法案得到通过，将擴大美國執法部門及版權擁有者在應對網絡上販售盜版產品及冒牌货時的權力。[2]該法案現已提交至美國眾議院司法委員會。它以1998年的《保護知識產權法案》（PROTECT IP Act）為基礎。[3]
+當法案通過後，美國司法部及其他版權持有人將可以更便捷地申請法院禁令以對付盜版及販售冒牌貨的網站。而向法院申請的禁令包括：禁止網絡廣告公司向涉嫌網站投放廣告、禁止支付網站向涉嫌網站提供支付服務、禁止搜索引擎出現涉嫌網站的網址，甚至可以要求互聯網服務供應商拒絕用戶訪問涉嫌網站。該法案提高了對互聯網用戶未經授權在網絡上分享版權內容的刑罰，如：六個月內分享10份音樂或電影類的版權作品將面臨最高五年的監禁。該法案將給予那些自願採取措施打擊網絡盜版和侵權的互聯網服務提供商以司法豁免權，同時也允許版權持有人向任何一個明知卻謊稱不知、進而提供侵權內容或盜版產品的網站索要連帶賠償。[4]
+該法案的支持者認為，保護智慧財產權市場及相關行業的的就業和收入是有必要的，尤其是要加強對國外侵權網站的執法力度。[5]他們舉例在Google與美國司法部的5億美元和解案中，Google的廣告客戶試圖通過廣告向美國消費者推薦去加拿大藥房購買非法的處方藥。而反對者認為，該法案侵犯了《美國憲法第一修正案》，[6] 是一種網絡審查行為。[7]同時該法案還會導致互聯網發展的倒退。[8]反對者還擔憂，該法案會鼓勵互聯網上的告密行為，同時影響言論自由。[6][9]
+眾議院司法委員會就該法案於2011年11月16日和12月15日舉行了聽證會，同時該委員會計劃在國會冬季休會結束之後對該法案展開辯論。[10]
+
+
+
+目录
+
+
+1 法案內容
+2 目標
+
+2.1 保護內容創作者的知識產權
+2.2 打击假药
+
+
+3 對網絡自由言論的影響
+
+3.1 專制國家
+
+
+4 對網站的影響
+
+4.1 寄存用戶內容的網站
+4.2 弱化「安全港」保護
+4.3 網絡相關業務
+4.4 用戶上傳的非法內容
+4.5 內部網絡
+
+
+5 潛在影響
+6 技術細節
+
+6.1 深度封包檢測及隱私
+6.2 域名系统
+6.3 互聯網安全
+6.4 域名系統安全擴展
+
+
+7 執法透明度
+8 支持者
+
+8.1 國會議員
+8.2 企業及组织
+
+
+9 贊成國家
+10 反對者
+
+10.1 白宮
+10.2 國會議員
+10.3 企業及组织
+10.4 抗議行动
+
+
+11 立法歷史
+
+11.1 11月16日众议院司法委员会的听证会
+11.2 12月15日议案的审订
+
+11.2.1 审订结果
+
+
+11.3 1月24日，有关保护知识产权的法案在参议院表决
+
+
+12 其他國家類似爭議法案
+13 参见
+14 參考文獻
+15 外部連結
+
+
+
+法案內容[编辑]
+《禁止網絡盜版法案》將授權美國司法部更便捷地獲得法庭禁令以針對非美國本土管轄範圍的侵權網站。[4] 美國司法部長可以通過法庭禁令要求互聯網服務供應商、網絡廣告商（例如：Google AdSense）、在線支付服務商（例如：PayPal）暫停與涉嫌侵權網站的交易，甚至他還能夠下令搜索引擎不顯示涉嫌侵權網站的地址。[11]
+該法案還為版權擁有者提供了兩步司法救濟手段，以幫助他們應對侵權網站。版權擁有者可以以書面形式要求互聯網服務供應商中止涉嫌侵權網站的服務，如果該網站沒有提供相反的證據證明自己的清白，那麼互聯網服務供應商可以中止服務。如果書面形式無法要求互聯網服務供應商中止服務，那麼版權擁有者可以向法庭申請禁止令，以強迫互聯網服務供應商履行該責任。[11]
+同時該法案還鼓勵互聯網服務供應商、網絡廣告商和在線支付服務商主動停止與涉嫌侵權網站的服務，并為他們提供司法豁免權。同時該法案也認定，如果網站明知該內容侵權卻謊稱不知而不願刪除的話，將承擔連帶責任。[4] 在法案的第二部份加強了對流媒體侵權、銷售假藥、軍用物資和其他假冒消費品的處罰。[11]
+根據本法案的共同提名人、美國眾議院眾議員、佛吉尼亚州共和黨黨員、美國眾議院司法委員會保護知識產權小組組長鮑勃·古德萊特（Bob Goodlatte）的說法，《禁止網絡盜版法案》將重寫《保護知識產權法案》，以解決高科技行業的憂慮。同時古德萊特也承認，根據本法案將能要求法院對搜索引擎採取措施，[12] 而《保護知識產權法案》沒有涉及此塊內容。
+目標[编辑]
+保護內容創作者的知識產權[编辑]
+议员鮑勃·古德萊特说：“知识产权是美国的主要工作机会资源和在全球市场的主要竞争力之一，但是美国的投资者、作家及企业家们，已经被迫坐视他们的成果被在美国执法权以外的侵权行为剽窃。这项法案将会使确保在2020年前，宪法起草者所定下的以促进新的写作、研究、生产以及服务的激励机制在21世纪的全球市场上有效，且这将为美国人提供更多的工作机会。”
+专利持有人将会把负责联系专利买卖的中介机构作为唯一的被告。發起者之一的議員約翰·科尼爾斯（John Conyers）說：「現在近百萬名的美國人的工作正處在緊要關頭上，而我們對於保護美國智慧財產的努力將關係我國長期的經濟發展是否順遂。」史密斯補述，「SOPA將可協助遏止智慧財產擁有者的利益流向那些如同盜匪般的網站，以及確保因美國人的創新而產生的獲益可以由創造者獲得。」
+美國電影協會（The Motion Picture Association of America）的代表在會前表明說電影以及電影業提供了近兩百萬的工作機會和95,000個小型企業。
+打击假药[编辑]
+辉瑞（Phier）公司的发言人约翰·克拉克（John Clark）作证：「患者不能明確地辨識出一些网站上所巧妙伪造的畅销药物，其中包括被贴上假标签，或干脆直接伪造的药品。」
+处方药方面，一个名為 RxRights 的消费者宣传组织发表声明：“克拉克並未指出：加拿大或其他国际药商会公开它们的所在位置。它们所销售的药品来自于那些生产在美国销售的与处方药相同的主要制造商。”它们早些时候曾表示，《禁止网络盗版法案》“不能区分假冒的或真正的药店”，这将阻止来自美国的患者从加拿大在线药店订购他们所需的药物。
+《禁止网络盗版法案（草案）》的赞助商史密斯指责阻挠该法案的谷歌（Google）公司，援引其曾以5亿美元的罚款与司法部和解，使其不追究那些来自于加拿大药廠的广告播出，导致非法进口处方药的产生。在美国，“为客户从外国药商运输处方药”通常是违反《联邦食品，药品和化妆品法案》和《受管制物质法案》的行为。
+對網絡自由言論的影響[编辑]
+專制國家[编辑]
+通过在阿拉伯之春使用的电子前哨基金会的代理服务器可以绕过版权执法。贝克曼网络与社会中心副主任约翰·波尔弗利表示，他以针对禁止网络盗版法案的调查表示异议。他写道：“法案会导致（DNS）规避工具非法”，使得专制国家的“异见社区”面临更大的风险。他补充道，“规避工具的最大资助者仍是美国政府，线上的激进运动发挥了这些工具的作用，而政府同时资助和剥夺其法律保护无疑适得其反。”
+對網站的影響[编辑]
+寄存用戶內容的網站[编辑]
+反对者警告说，SOPA将对在线社区产生负面影响。记者麦康瑞（Rebecca MacKinnon）在一篇专栏中说：“使企业为用户的行为承担责任，会对用户生成内容网站（如YouTube）产生寒蝉效应。虽然SOPA的目的不是建立一个像中国防火长城的国家级互联网审查系统，但实际效果可能类似。”电子前哨基金会（EFF）警告说，如果该法案通过，Etsy、Flickr和Vimeo以及类似的网站都可能被迫关闭。美国智库新美国基金会（New America Foundation）的政策分析家说，这项立法允许法院关闭整个域名，可能仅仅因为该域名上一个博客张贴的东西不合法，“本来应该只惩处少数人，却使无辜的大多数人受波及。”
+弱化「安全港」保護[编辑]
+根據民主科技中心（英语：Center for Democracy and Technology）及電子前哨基金會指出草案的用詞定義非常模糊導致到只要任何人一個投訴就可以授權當局封鎖所有受牽連網站，而且舉證的責任將會完全落在被檢舉的一方。草案的條款提到「蓄意迴避確認任何可能干犯法案的網址都會被認為是違法」，評論對之解讀為網站必須任何時刻都監視其內容及辨識侵權內容避免遭封禁，即是說不會等待其他人的通知其內容可能觸犯法例。[13][14]
+網絡相關業務[编辑]
+用戶上傳的非法內容[编辑]
+霍华德大学法学院知识产权及社会正义研究所所长拉蒂夫·穆迪马，表示对用户在网上上传的受版权保护的内容可能会被追究刑事责任严重关注，他表示：“该法令最危险的方面在于其对犯罪行为的界定不明确，虽然法令表面上似乎辨别盈利行为和非营利行为，装作是定罪在先，允许在后的样子，但事实上法令不仅未得到完善，而且由于缺乏具体的定义，所涉及到的潜在刑事犯罪行为，按照目前法律看来是得到允许的。
+內部網絡[编辑]
+潛在影響[编辑]
+
+
+
+
+
+本条目中立性有争议。內容、語調可能帶有明顯的個人觀點或地方色彩。（2012年2月29日） 
+加上此模板的編輯者需在討論頁說明此文中立性有爭議的原因，以便讓各編輯者討論和改善。
+在編輯之前請務必察看讨论页。 
+
+
+SOPA/PIPA法案的通过对网民造成的影响非常大，几乎所有网民日常生活中使用到的网站都会受到波及，不仅仅是失去了免费的内容来源，而且由用户产生的大量内容，像Facebook的动态讯息、相册内容等也都必须受到监控、审查，也可能会成为网站被封锁的原因。这样一来，许多网站都会关闭、或是成为空站点。有反对者制作了这样一个网站SOPA blackout来告诉人们SOPA/PIPA法案通过之后的网络状况，并呼吁人们一起加入抵制SOPA/PIPA法案的队伍中。 对于中国网民，SOPA/PIPA法案也有可能造成影响，由于许多国内网站的域名都是在美国进行注册，美国司法部将拥有对他们的制裁权，比如，美国司法部长可以以某网站严重侵犯美国知识产权为由，直接下令其美国域名注册服务商封杀其域名，让其外业务无法使用。
+技術細節[编辑]
+深度封包檢測及隱私[编辑]
+域名系统[编辑]
+DNS服务器，有时被比作一本电话簿，将域名解析为与其对应的IP地址。原始的法案要求DNS服务器停止对涉及侵权的网站域名进行解析，达到屏蔽该网站的效果。但由于DNS的设计具有高度的鲁棒性，若计算机从某些DNS服务器上查询不到结果，或查询到的结果是错误的，它将从其它的DNS服务器上查询，直到得到正确的结果，从而无法达到屏蔽侵权网站的效果。[15]
+ESET北美分公司的首席执行官Andrew Lee反对此法案，因为该法案将要求ISP过滤网站的DNS查询，这会破坏DNS的完整性。[16]
+据总部位于旧金山的OpenDNS公司的领导者David Ulevitch称，SOPA法案的通过，将可能导致美国人将其使用的DNS服务器切换到位于其他国家的DNS提供商提供的、加密的DNS服务器；并可能导致美国的DNS提供商，如OpenDNS公司搬迁到其他国家或地区，如开曼群岛。[17]
+2011年11月，一个匿名的顶级域名“.bit”，开始ICANN的控制之外运行，这被看作是对SOPA的回应，但其（以及处于ICANN控制之外的顶级域名）的有效性仍然不明。[18]
+2012年1月12日，该法案提出者兰默·史密斯宣布，将撤销该草案中关于过滤DNS内容的规定。[19][20][21]
+互聯網安全[编辑]
+域名系統安全擴展[编辑]
+執法透明度[编辑]
+支持者[编辑]
+國會議員[编辑]
+主条目：en:List of elected officials who support the Stop Online Piracy Act
+禁止網絡盜版法案由议员 Lamar Smith (德州共和党籍R-TX) 提出并由 Howard Berman (加州民主黨籍D-CA)，Marsha Blackburn (田纳西州共和党籍R-TN)，Mary Bono Mack (加州共和黨籍R-CA)，Steve Chabot (加州共和黨籍R-OH)，John Conyers (密西根州民主黨籍D-MI)，Ted Deutch (佛羅里達州民主黨籍D-FL)，Elton Gallegly (加州共和黨籍R-CA)，Bob Goodlatte (維吉尼亞州共和黨籍R-VA))，Timothy Griffin (內布拉斯加州共和黨籍R-AR)，Dennis A. Ross (佛罗里达州共和党籍R-FL)，Adam Schiff (加州民主黨籍D-CA) and Lee Terry (內布拉斯加州共和黨R-NE)共同發起。直到2012年1月16日，共有31位支持者。[22]
+企業及组织[编辑]
+主条目：支持SOPA法案組織列表
+該法案得到依靠版權的機構包括美國電影協會、美國唱片業協會、Macmillan US、Viacom等以及其他從事收費電視、電影及音樂行業的企業廣泛支持。支持者當中亦包括依靠品牌影響的公司，例如Nike、L'Oréal及Acushnet Company。[23][24]
+AFL-CIO与美国商会都支持H.R. 3261，很多行業也公開稱讚該項議案。
+贊成國家[编辑]
+
+英國：2012年5月英國高等法院命令六個主要ISP業者必須阻斷其使用者進入「The Pirate Bay」網站。執行阻斷所需費用由ISP者負擔。「The Pirate Bay」網站瀏覽人次因此下滑了70%。英國高等法院又於2013年3月判令6個英國主要ISP業者必須在2013年3月底前阻斷其使用者進入3個英國知名侵權BT種子網站kat.ph、fenopy.se、h33t。阻斷措施包括阻斷IP位址及網域位址（URL）之混合措施。這6家ISP業者無異議接受法院命令並同意負擔阻斷措施所需費用。
+
+
+丹麥：在丹麥IFPI控告「thepiratebay.org」侵權案中，法院命令ISP不得令其用戶接觸thepiratebay.org網頁及其附屬網頁（Sub-Pages）與附屬網域（Sub-Domains）。2012年2月丹麥法院命令一家ISP業者阻斷其使用者進入一個侵權串流音樂網站「Grooveshark」。二個月後其他丹麥主要ISP業者也跟進阻斷這個網站。雖然這個網站所提供的內容有部分是有經過授權的，但丹麥法院還是認為阻斷進入這個網站仍有其正當性，理由之一是這個網站很受丹麥年輕人歡迎。
+
+
+義大利：在對「the Pirate Bay」刑事侵權告訴案件中，法院命全義大利所有ISP均須阻止其用戶進入「thepiratebay.org」網站及其他「thepiratebay.org」現在與未來轉址網域（other current and future domain names redirecting to the site）以及「thepiratebay.org」現在與未來的IP位址。
+
+
+愛爾蘭：在控告「thepiratebay.org」網站侵權案中，法院命ISP須阻止其用戶進入「thepiratebay.org」網站及與「thepiratebay.org」相關網域以及「thepiratebay.org」IP位址。
+
+
+芬蘭：在控告「thepiratebay.org」網站侵權案中，法院命ISP須移除「thepiratebay.org」之網域登入及封鎖「thepiratebay.org」所使用IP位址。
+
+
+南韓：文化體育及觀光部（Ministry of Culture, Sports and Tourism）於2011年4月及12月分別要求電信委員會（Communications Commission）封鎖17個惡名昭彰的侵權網站及24個BT網站。電信及多媒體委員會（Communications and Multimedia Commission, SKMM）2011年6月依1998年通信及多媒體法規定要求ISP封鎖包括The Pirate Bay、 Megaupload及主要網路儲存服務網站在內的多個涉及侵權的網站。
+
+反對者[编辑]
+
+
+
+
+2012年1月18日的英文維基百科頁面，以黑畫面對SOPA法案表示反對
+
+
+主条目：反对SOPA组织列表
+白宮[编辑]
+2012年1月14日，奥巴马政府回应反对该法案的请愿书，并说明其不会支持这项立法，该法律法规有利于构建美国互联网审查制度，却遏制了改革创新，减少网络安全性，但奥巴马政府鼓励“今年各方面共同合作以通过健全完备的法律 ，这项法律能够为起诉人和版权持有者提供新的合法工具来对抗源于非美国本土的网络侵权行为，同时忠于上述回应内容中的原则。”
+國會議員[编辑]
+企業及组织[编辑]
+反對者包括Google、Yahoo!、YouTube、Facebook、Twitter、AOL、LinkedIn、eBay、Mozilla、Microsoft、Roblox、9gag、Reddit、[25]維基媒體[26]以及如無國界記者、[27]電子前哨基金會、美國公民自由聯盟及人權觀察等人權組織。[28]
+
+
+
+
+包含美國審查日標志的電子前哨基金會首頁
+
+
+主要的電腦安全公司—卡巴斯基實驗室亦已就該法案表示反對並「決定退出商業軟件聯盟」。[29]
+2011年12月31日，自由意志主義智囊卡托研究所的朱利安桑切斯對該議案表示強烈抗議，並指出該修改版本「修剪了或軟化了小部份原本的法案中最過份的規條……SOPA的基礎問題從來沒有如此清晰，就是它的核心思想。它的核心思想仍然是設立一份網絡黑名單……」[30]
+圖書館版權協會(當中包括美國圖書館協會) 認為此項法案的改動會鼓勵對圖書館的刑事檢控，因此對擴大「可能侵權」的定義以及對於非商業侵權行為的過重罰作出抗議。[31]
+11月22日，Techdirt的Mike Masnick声称SOPA是“有毒”的[32] 並且公開其對於該法案的批評[33]，其中寫道「有人好像認為整個網際網路都允許並鼓勵盜版似的。」，並稱一個由娛樂業收集的網站清單中包括了他們自己的藝術家之一，50 Cent，还有合法的網路公司。文章质疑了該項議案會對美國國內生產總額造成約兩兆美元的影響，並且可能影響到三百一十萬份工作，以及一系列與投資，債務和產業創新相關的問題。[34] Y Combinator风险资本公司的创始人Paul Graham 反對該項議案，並禁止所有支持SOPA的公司參加他們公司的“演示日”活動。“如果這些公司對科技如此毫無頭緒以至於認為SOPA是個好主意”，他說“他們又怎麼可能是好的投資者呢？”[35] Avaaz.org發起了一次引人注意的支持民主運動，起草了一份抗議SOPA的請願書，至今已取得全球範圍120萬個簽名。[36]
+民主與技術中心列了一張SOPA和PIPA的反對者的名单，其中包括 紐約時報，洛杉磯時報的編輯部, 以及其他34個組織和數百位知名人士。[37]
+著名的Facebook遊戲 Texas HoldEm Poker及FarmVille的制造商Zynga Game Network， 對該法案草案與數字千年版權法的支持者發表了針對這些法案的影響的評論，表示法案與數字千年版權法的安全港條款一樣，該法案將會削弱他們的「創意及活力」而作出反對。[38]
+美國電腦軟件公司微軟亦在星期二發表聲明，表示反對SOPA草案，但是不會效法其他公司以暫停服務的方式來抗議。[39]
+抗議行动[编辑]
+
+
+
+
+Mozilla於2011年11月16日在Firefox網頁瀏覽器中顯示抗議標語。
+
+
+2011年11月16日，Tumblr、Mozilla、Techdirt（英语：Techdirt）、民主科技中心（英语：Center for Democracy and Technology）等反對SOPA的網絡公司於American Censorship Day當日以「STOP CENSORSHIP」（停止審查）字樣覆蓋於其網站標志上。[40]
+2012年1月16日，維基媒體執行董事蘇·加德納宣布，英語版維基百科將會在1月18日當天關閉網站以抗議SOPA與PIPA法案。
+抗議行動不斷擴大，當中包含主要的網站。比較知名的如Google、Facebook、Twitter、Yahoo、亞馬遜、美国在线、Reddit、Mozilla、LinkedIn、IAC、eBay、PayPal、Wordpress和維基媒體等均表示「關注」該議案，又或將於1月18日當天進行「前所未有的」[41]網絡封閉行動。[42][41][43][44]
+立法歷史[编辑]
+11月16日众议院司法委员会的听证会[编辑]
+在眾議院司法委員會的聽證會中，有一些觀察員擔心該組證人缺乏技術知識。科技新聞網站CNET報導到“一個接著一個的證人，包括一位美國電影協會的遊說者，表示他們沒有資格討論DNSSEC。”莫卡特斯中心的高級研究院，亞當·蒂雷爾，同樣表示，“這充分展示了美國國會對技術的一無所知。一位接著一位的成員承認他們對SOPA的管理條款會對DNS，網絡安全，或任何東西所帶來的衝擊毫無頭緒。[45]
+12月15日议案的审订[编辑]
+审订结果[编辑]
+1月24日，有关保护知识产权的法案在参议院表决[编辑]
+其他國家類似爭議法案[编辑]
+2013年5月22日，蘋果日報報導，中華民國經濟部智慧財產局因片商、唱片公司抗議境外侵權網站無法可管，衝擊產業生存，將因此修訂《著作權法》，未來可要求ISP業者，以IP位址或網域名稱封鎖，讓民眾連不上侵權網站，此修正法案預定送立法院審議。經濟部智慧財產局長王美花表示，草案中只要符合「專門從事著作權侵權行為」或「網站內容一看即知均是侵害著作權」，就認定為重大境外侵權網站。 此修正法案遭到批評和質疑，儘管目的為阻絕盜版網站，但中華民國政府企圖以擴張行政權而跨越司法權管轄，恐達成對人民言論自由、通訊自由的不當箝制和侵害，乃美國禁止網路盜版法案（SOPA）的翻版。
+参见[编辑]
+
+保護知識產權法案 (PIPA)
+反假冒貿易協定 (ACTA)
+打擊網上侵權和假冒法 (COICA)
+數位權利
+版權保護期限擴展法 (CETA)
+2010年數位經濟法案 (英國)
+域名伺服器緩存污染
+分裂网
+中華民國經濟部智慧財產局研擬封鎖境外侵權網站爭議事件
+
+參考文獻[编辑]
+
+
+未使用參考來源暫存處
+
+
+
+[10] [19] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [9] [59] [5] [60] [61] [62] [63] [7] [64] [65] [66] [1] [4] [12] [67] [2] [40] [68] [27] [69] [16] [70] [31] [71] [28] [8] [22] [3] [23] [25] [24] [72] [73] [74] [45] [75] [76] [77] [78] [79] [80]
+
+
+
+
+
+^ 1.0 1.1 H.R.3261 – Stop Online Piracy Act; House Judiciary Committee; October 26, 2011
+^ 2.0 2.1 House Introduces Internet Piracy Bill; Washington Post; October 26, 2011
+^ 3.0 3.1 H.R. 3261, STOP ONLINE PIRACY ACT; House Judiciary Committee; October 26, 2011
+^ 4.0 4.1 4.2 4.3 The US Stop Online Piracy Act: A Primer; PC World – Business Center; November 16, 2011
+^ 5.0 5.1 Beth Marlowe. SOPA (Stop Online Piracy Act) debate: Why are Google and Facebook against it?. Washington Post. November 17, 2011 [November 17, 2011]. 
+^ 6.0 6.1 Tribe, Laurence H. THE “STOP ONLINE PIRACY ACT” (SOPA) VIOLATES THE FIRST AMENDMENT. Scribd. 6 December 2011 [2012-01-10]. 
+^ 7.0 7.1 Chloe Albanesius. SOPA: Is Congress Pushing Web Censorship? | News & Opinion. PCMag.com. November 16, 2011 [November 18, 2011]. 
+^ 8.0 8.1 Chloe Albanesius. Will Online Piracy Bill Combat 'Rogue' Web Sites or Cripple the Internet?. November 1, 2011 [December 19, 2011]. 
+^ 9.0 9.1 Trevor Timm. Proposed Copyright Bill Threatens Whistleblowing and Human Rights. Electronic Frontier Foundation. November 2, 2011 [December 19, 2011]. 
+^ 10.0 10.1 Hayley Tsukayama. SOPA online piracy bill markup postponed. The Washington Post. December 20, 2011. 
+^ 11.0 11.1 11.2 Bill Summary by Congressional Research Service. Thomas – Library of Congress. October 26, 2011 [November 21, 2011]. （原始内容存档于December 19, 2011）. 
+^ 12.0 12.1 Gautham Nagesh. Tech groups say online piracy bill would create 'nightmare' for Web and social media firms. The Hill. October 31, 2011 [December 19, 2011]. 
+^ Parker Higgins. What's On the Blacklist? Three Sites That SOPA Could Put at Risk. Deeplinks blog. Electronic Frontier Foundation. November 15, 2011 [December 19, 2011]. 
+^ David Sohn. House Copyright Bill Casts Dangerously Broad Net. Center for Democracy and Technology. October 27, 2011 [December 19, 2011]. 
+^ SOPA-rope-a-dopa. Stewart Baker. December 14, 2011 [January 14, 2012]. 
+^ 16.0 16.1 ESET Open Letter. [November 17, 2011]. 
+^ Declan McCullagh. OpenDNS: SOPA will be 'extremely disruptive' to the Internet. Privacy Inc. CNET. November 17, 2011 [December 19, 2011]. 
+^ Sean Gallagher. Anonymous "dimnet" tries to create hedge against DNS censorship. Ars Technica. November 17, 2011 [December 19, 2011]. 
+^ 19.0 19.1 Timothy B. Lee, (January 13, 2012) "Under voter pressure, members of Congress backpedal (hard) on SOPA" Ars Technica
+^ Smith, Lamar. Smith To Remove DNS Blocking from SOPA. Congressman Lamar Smith. January 13, 2012. 
+^ Kravets, David. Rep. Smith Waters Down SOPA, DNS RedirectsOut. Wired (magazine). January 12, 2012 [January 12, 2012]. 
+^ 22.0 22.1 Bill H.R.3261; GovTrack.us; November 4, 2011
+^ 23.0 23.1 Chamber Presses Gas Pedal on IP Push ; Politico – Morning Tech; September 22, 2011
+^ 24.0 24.1 Letter to Congress in Support of Legislation; Chamber of Commerce Global IP Center; September 22, 2011
+^ 25.0 25.1 American Censorship Day – Stand up for ████ ███████ : announcements. Reddit.com. November 16, 2011 [January 15, 2012]. 
+^ Geoff Brigham. How SOPA will hurt the free web and Wikipedia. Wikimedia Foundation Blog. December 13, 2011 [December 16, 2011]. 
+^ 27.0 27.1 Domestic Reality Does Not Match Bold Words on Internet Freedom of Expression. November 2, 2011 [December 19, 2011]. 
+^ 28.0 28.1 Declan McCullagh. SOPA: Opponents. November 15, 2011 [December 19, 2011]. 
+^ Elinor Mills. Kaspersky dumps trade group over SOPA. CNET. December 5, 2011 [January 17, 2012]. 
+^ Julian Sanchez | Cato Institute: Policy Scholars. Cato.org. [2012-01-17]. 
+^ 31.0 31.1 Brandon Butler. Re: Stop Online Piracy Act, H.R. 3261 (PDF). Library Copyright Alliance. November 8, 2011 [November 10, 2011]. 
+^ Masnick, Mike. As SOPA/PIPA Becomes Toxic, Frantic Congress Test Runs Dropping DNS Blocking Provisions. TechDirt. January 11, 2012 [January 13, 2012]. 
+^ Mike Masnick. The Definitive Post On Why SOPA And Protect IP Are Bad, Bad Ideas. Techdirt. November 22, 2011 [December 28, 2011]. 
+^ Sarah Jacobsson. Controversial anti-piracy bill nears House approval: Why you should care. Infoworld. December 16, 2011 [December 19, 2011]. 
+^ Paul Graham: SOPA supporters are no longer welcome at Y Combinator events. December 22, 2011. 
+^ Avaaz.org petition against SOPA. 17 February 2012. 
+^ List of Those Expressing Concern With SOPA and PIPA. Center for Democracy and Technology. [December 19, 2011]. 
+^ McCullagh, Declan. Google, Facebook, Zynga oppose new SOPA copyright bill. CNet News. November 15, 2011 [January 14, 2012].  (direct link to letter)
+^ 微軟聲明反對美國《網絡反盜版法》草案. 新浪網. 2012-01-18 [2012-01-18] （中文（繁體）‎）. 
+^ 40.0 40.1 'American Censorship Day' Makes an Online Statement: The Ticker. 'American Censorship Day' Makes an Online Statement: The Ticker. Bloomberg. [November 17, 2011]. 
+^ 41.0 41.1 Rachel Bennett and J. Sebe Dale IV. Internet giants consider blackout to protest SOPA. WTOL.com. January 9, 2012 [January 13, 2012]. 
+^ Burgess, Rick. Reddit prepares for anti-SOPA blackout, others may follow. TechSpot. January 11, 2012 [January 13, 2012]. 
+^ Hornshaw, Phil. Gaming community joins SOPA protests with Jan. 18 blackouts. GameFront.com. January 13, 2012 [January 13, 2012]. 
+^ E. Kain. WordPress Comes Out Against SOPA. Forbes. January 11, 2012 [January 13, 2012]. 
+^ 45.0 45.1 Adam Thierer. SOPA & Selective Memory about a Technologically Incompetent Congress. Technology Liberation Front. November 16, 2011. 
+^ Greg Sandoval. Hollywood's SOPA testimony links job loss to piracy. CNET. November 16, 2011 [December 19, 2011]. 
+^ Zack Whittacker. British ISP told to block Pirate Bay torrent site, or face court. ZDNet. November 4, 2011 [December 19, 2011]. 
+^ Nate Anderson. At Web censorship hearing, Congress guns for "pro-pirate" Google. Ars Technica. November 16, 2011 [December 19, 2011]. 
+^ A. M. Reilly. The Stop Online Piracy Act: What Industry Leaders Can Do About It. Industry Leaders Magazine. November 16, 2011 [December 19, 2011]. 
+^ Steve Crocker; Danny McPherson; Dan Kaminsky; David Dagon; Paul Vixie. Security and Other Technical Concerns Raised by the DNS Filtering Requirements in the PROTECT IP Bill (PDF). CircleID. May 2011 [December 19, 2011]. 
+^ "Arts+Labs Presents: CREATE – Protecting Creativity from the Ground Up" Arts+Labs blog 请检查|url=值 (帮助). June 1, 2011 [November 30, 2011]. 
+^ Dominic Rushe. Sopa condemned by web giants as 'internet blacklist bill': Google, Twitter and eBay say controversial Stop Online Piracy Act would give US authorities too much power over websites. The Guardian (UK). November 16, 2011 [December 19, 2011]. 
+^ Grant Gross. Lawmakers seek alternative to Stop Online Piracy Act: Opponents of the legislation also complain that sponsors are railroading it through Congress. Network World. November 15, 2011 [December 19, 2011]. 
+^ Gautham Nagesh. GOP's Issa: Effort to 'grease the skids' for online piracy bill has failed. The Hill. November 18, 2011 [December 19, 2011]. 
+^ David Kravaets. Feds Demand Firefox Remove Add-On That Redirects Seized Domains. Wired. May 5, 2011 [December 19, 2011]. 
+^ Why the House is stacking the deck on Internet piracy. CNN. November 17, 2011 [December 19, 2011]. 
+^ Wayne Rash. House SOPA Hearings Reveal Anti-internet Bias on Committee, Witness List. Cloud Computing News. eWeek. November 16, 2011 [December 19, 2011]. 
+^ Hayley Tsukayama. Tech coalition backs off SOPA support. Washington Post. November 22, 2011 [December 19, 2011]. 
+^ Questions to Department of Homeland Security April 19, 2011. [December 19, 2011]. 
+^ Cade Metz. Google settles illegal drug ad probe for $500 million. August 24, 2011 [December 19, 2011]. 
+^ Timothy B. Lee. Strange bedfellows: Nancy Pelosi, Ron Paul join SOPA opposition. Ars Technica. November 17, 2011 [December 19, 2011]. 
+^ Cynthia Wong. US Piracy Law Could Threaten Human Rights. Center for Democracy and Technology. November 18, 2011 [December 19, 2011]. 
+^ Tim Donnelly. Why Start-ups Are Scared of SOPA. Inc. November 17, 2011 [November 18, 2011]. 
+^ Markham C. Erickson. H.R. 3261, "Stop Online Piracy Act" ("SOPA"): Explanation of Bill and Summary of Concerns (PDF). NetCoalition. November 1, 2011 [December 19, 2011]. 
+^ Peter Eckersley. Hollywood's New War on Software Freedom and Internet Innovation. Deep Links. Electronic Frontier Foundation. November 11, 2011 [December 19, 2011]. 
+^ Corynne McSherry. Disastrous IP Legislation Is Back – And It's Worse than Ever. Electronic Frontier Foundation. October 26, 2011 [December 19, 2011]. 
+^ Eric Engleman. House Judiciary Chairman Says Google Obstructs Piracy Bill. Bloomberg BusinessWeek. [December 19, 2011]. 
+^ Greg Sandoval (January 14, 2012), Momentum shift: SOPA, PIPA opponents now in driver's seat CNET News
+^ Larry Downes. SOPA: Hollywood's latest effort to turn back time. CNET News. November 1, 2011 [November 9, 2011]. 
+^ Press Resources; Commitee on the Judiciary; October 26, 2011
+^ Corynne McSherry. SOPA: Hollywood Finally Gets A Chance to Break the Internet. October 28, 2011 [December 19, 2011]. 
+^ Angel Investors and Venture Capitalists Say They Will Stop Funding Some Internet Start-Up Business Models if Tough New Rules Are Enacted, Finds Booz & Company Study. November 16, 2011 [December 19, 2011]. 
+^ Mike Palmetto. Notes from the House Judiciary Committee Hearing on the Stop Online Piracy Act. November 18, 2011 [December 19, 2011]. 
+^ Markham C. Erickson. H.R. 3261, "Stop Online Piracy Act" ("SOPA") Explanation of Bill and Summary of Concerns (PDF). Center for Democracy and Technology. November 1, 2011 [December 19, 2011]. 
+^ RxRights statement in response to House Judiciary Committee hearing on Stop Online Piracy Act (SOPA). RxRights.org. November 16, 2011 [December 19, 2011]. 
+^ Stop Online Piracy Act (SOPA) Fails to Distinguish "Rogue" from "Real" International Online Pharmacies. Yahoo Finance. November 2, 2011. （原始内容存档于January 8, 2012）. 
+^ SOPA Markup Scheduled for Dec. 15 As Opposition to the Bill Grows. Mike Palmedo. November 28, 2011 [December 19, 2011]. 
+^ Groups Still Oppose SOPA After Proposed Amendment. PCWorld. December 13, 2011. 
+^ Rebecca MacKinnon. Stop the Great Firewall of America. New York Times. November 15, 2011 [November 18, 2011]. 
+^ Gavin Clarke. Mozilla stirs netizens against US anti-piracy law: Dancing cats take-down threat. The Register. November 16, 2011 [December 19, 2011]. 
+
+
+外部連結[编辑]
+
+H.R. 3261 on Thomas – Library of Congress (archive)
+H.R. 3261 on GovTrack
+Brookings Institution white paper
+What DNS Is Not
+
+
+
+
+
+分类：美国联邦立法建议美国审查制度互联网审查互联网管理网络隐私數位版權管理2011年美国著作權法2011年美国法律2012年美国法律隐藏分类：含有网址格式错误的引用的页面自2017年6月待更新条目含有英語的條目自2012年2月中立性有争议的作品

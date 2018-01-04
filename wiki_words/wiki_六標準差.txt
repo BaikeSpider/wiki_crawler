@@ -1,0 +1,317 @@
+六標準差
+
+
+
+
+六西格玛常用的标志（6σ）
+
+
+六標準差（英语：Six Sigma，6 sigma），又譯為六西格玛，用於流程改善的工具與程序，是商业管理的战略之一，最初于1986年由摩托罗拉创立[1][2]。后来由于通用電氣第八任執行長杰克·韦尔奇（Jack Welch）的推广，六西格玛于1995年成为通用電氣的核心管理思想[3]，今天广泛应用于很多行业中。
+六西格玛是通过确定、消除引起残疵的流程来提高产品品質，降低生产中和商业流程中的变化程度[4]，利用了一套品質管理方法，包括统计方法，创建了组织内人员的一种特殊架构（“黑带”、“绿带”等等）[4]。每个六西格玛项目都是根据具体的步骤，完成具体的财务目标实现的[4]。
+“六西格玛”这个名字来自于生产方面的方法，特别是过程（英语：Process capability）中的统计模型。生产流程可用“西格玛”来计算，可计算产品中无缺陷产品的百分比。六个西格玛是指生产的产品中，有99.99966%的产品是没有品質问题的（每一百万中有3.4个有缺陷）。摩托罗拉制定了一套六西格玛的目标，针对于所有生产流程，也可指管理和工程实践中达到目标的一种手段。
+
+
+
+目录
+
+
+1 历史
+2 方法
+
+2.1 DMAIC方法
+2.2 DMADV 或 DFSS方法
+2.3 六西格玛使用的品質管理工具
+
+
+3 贯彻实施
+4 六西格玛流程的意义和起源
+
+4.1 西格玛等级
+
+
+5 六西格玛使用的软件
+
+5.1 分析工具
+
+
+6 应用
+7 参见
+8 参考文献
+9 更多阅读
+
+
+
+历史[编辑]
+六西格玛源于一套用于改善生产工业流程（英语：List of industrial processes）、消除残疵的方法，但后来它的应用拓展到其他商业领域[5] 在六西格玛中，残疵是指任何客户不满意的地方，或者可导致不符合客户要求结果的事情。[4]
+六西格玛的核心思想于1970年代诞生在摩托罗拉，因为高级领导Art Sundry批评摩托罗拉的生产品質太差[6]，因为这次批评，公司发现了提高质量与降低生产成本之间的关系，当时，主流的看法是提高质量必然增加成本，实际上，提高质量降低了整体成本，因为降低了维修和操控的成本[7]。摩托罗拉的工程师比尔·史密斯（英语：Bill Smith (Motorola engineer)）后来于1986年制定了摩托罗拉的一系列方法[1]。六西格玛深受前面几十年的多种品質提升方法的影响，包括品質控制、全面品質管理（TQM）和零缺陷法（英语：Zero Defects）[8][9]。根据前人的一些方法，例如休哈特（英语：Walter A. Shewhart）、戴明、朱蘭、克勞士比、石川馨、田口玄一等人的方法，于是有了六西格玛。
+六西格玛的基本阐述如下：
+
+持续改进，稳定和预测性地提高流程结果（如减少流程统计方差（英语：Statistical variance））对于商业成功非常重要
+生产和商业流程可以通过测量、分析、提高和控制进行改善
+获得持续的品質提升需要整个组织、特别是领导者的参与
+
+六西格玛与以前的一些方法的区别是：
+
+对获得可测量、可量化的财务回报有明确的规定[4]
+对领导力和支持提出了很高的要求[4]
+建立了一系列特殊的级别，“冠军”、“大师级黑带”、“黑带”、“绿带”、“红带”等等，去领导和贯彻六西格玛方法的执行[4]
+明确用可确定的数据进行决策，而不是运用猜想和预测[4]
+
+六西格玛的名字来源于过程能力（英语：Process capability）的研究。最开始是生产很高比例的范围以内的产品。运用六西格玛质量管理，短期内可以将长期的缺陷水平控制在3.4个DPMO（英语：Defects per million opportunities）（DPMO）以内。 [10][11]六西格玛的最终目标是，提升所有的流程，然后提高质量水平。
+六西格玛是一种注册的服务商标和摩托罗拉公司的商标[12]。2006年，摩托罗拉依靠六西格玛方法节省了170亿美元[13]。其他运用六西格玛比较早的公司也都取得了很大的效果，包括Honeywell（原名为AlliedSignal（英语：AlliedSignal））以及通用电气，由杰克·韦尔奇引入了这种方法[14]。到1990年代末，世界500强公司中大约有三分之二开始使用六西格玛的管理方法，对成本进行削减、提升管理质量[15]
+近些年，有些人将六西格玛的方法与精益生产方法相结合，创建了一套名为精益六西格玛的管理方法[16]。精益六西格玛将改善生产流程、减少浪费的精益生产和注重减少质量和设计参差的六西格玛法相结合，作为一种用于提高“商业流程优化”的新方法。[16] 一些公司，如IBM和桑迪亚国家实验室等，已经开始使用精益六西格玛，进行流程再造，提高产量。这是组织的一种创新方法，可以从生产到软件开发，从销售到服务配送等各个领域。
+方法[编辑]
+六西格玛法有两种方法，来自于愛德華茲·戴明的计划-实施-检查-行动循环。这些方法中的每一项还包括五个步骤，可以称为DMAIC方法和DMADV方法[15]。
+
+DMAIC用于改善现有的商业流程。[15]
+DMADV用于建立新的产品或设计流程[15]。
+
+DMAIC方法[编辑]
+DMAIC方法分为五个步骤：
+
+D：定义问题，客户需求和项目目标等等。
+M：测量当前流程的关键方面，收集相关资料。
+A：分析数据，寻求和检验原因和效果之间的关系，确定是什么关系，然后确保考虑到所有因素。通过调查，发现因为残疵的根本原因。
+I：提升优化当前流程，根据分析数据，运用不同方法，例如实验设计、防误防错或错误校对，利用标准工作创建一个新的、未来的理想流程，建立规范运作流程能力（英语：Process capability）。
+C：控制改变未来流程，确保任何偏离目标的误差都可以改正。执行控制系统，例如统计流程控制（英语：Statistical_process_control），生产板、可见工作区和流程持续改善等。
+
+有些公司还增加了一个R认知步骤，就是认知需要针对的正确问题，于是产生了RDMAIC方法[17]
+DMADV 或 DFSS方法[编辑]
+DMADV项目方法，也称为DFSS（英语：Design for Six Sigma）（六西格玛设计图）[15]，包括五个步骤：
+
+D：定义设计符合客户需要和其他目标的战略
+M：摸准确定CTQ（对质量至关重要的参数），产品性能、生产流程性能和风险等
+A：分析去考虑是否有替代方法，创建高性能的设计、评估设计技能，选择最佳的设计方案
+D：设计细节、优化设计，对设计审核进行评估，这个过程可能需要模拟操作
+V：检查设计，简历规范模型，实施生产流程，并且提交给流程所有者
+
+六西格玛使用的品質管理工具[编辑]
+在DMAIC或DMADV项目的单一流程中，六西格玛会用到很多种已经成型的质量管理工具，这些工具也用于六西格玛以外。下面是一些主要的操作方法：
+
+
+
+
+五问法
+方差分析法
+ANOVA R&R测试法
+公理设计法（英语：Axiomatic design）
+商业流程图法（英语：Business process mapping）
+原因效果图（也称为鱼骨图或石川图）
+检查单法（英语：Check sheet）
+独立性和适应性的卡方检验
+控制图法
+关联法
+成本效益分析法（英语：Cost–benefit analysis）
+关键品質特性树法（英语：CTQ tree）
+实验设计法
+失效模式和影響分析（FMEA）
+一般线性模型
+直方图
+
+
+
+
+帕累托分析法
+帕累托图
+挑选图法（英语：Pick chart）
+加工能力（英语：Process capability）
+品質機能展開（QFD）
+通过运用企业反馈管理（英语：Enterprise feedback management）（EFM）系统的量化市场研究
+回归分析法
+滚动生产能力法（英语：Rolled throughput yield）
+根本原因分析法
+运行图
+散点图（英语：Scatter plot）
+SIPOC分析（英语：SIPOC）（S供应商、 I输入、P流程、O输出、C客户）
+层别法
+田口方法
+田口损失函数（英语：Taguchi loss function）
+TRIZ法
+
+
+
+
+贯彻实施[编辑]
+六西格玛一个创新的地方就是发明了一种品質管理人士“职业化”的衡量方法，在六西格玛以前，品質管理一般都是局限于管理层面，统计师（英语：Statistician）一般都是在独立的品質部门。六西格玛的项目加入了一种等级制的称号（如武术中的分级），来界定各种管理职能。
+六西格玛的职能界定保证了其成功实施。[18]
+
+领导者包括CEO和企业高级管理人员，他们负责制定一套六西格玛的贯彻目标。他们也需要授权其他人员更大的自由和资源，开发新思想，进行管理创新。
+冠军统一负责组织中六西格玛的实施和执行：由领导者从企业中挑选这些人员，冠军也是黑带的导师。
+黑带大师由冠军指定作为企业内六西格玛的教练。他们完全投入六西格玛的工作，帮助冠军，指导黑带和绿带，除了统计工作以外，他们大部分时间是保证六西格玛在各个职能部门之间得到顺利的贯彻。
+黑带在黑带大师的带领下，负责应用六西格玛的方法实施具体项目。他们完全投入六西格玛，主要负责项目执行、而冠军和黑带大师负责鉴定项目和功能。
+绿带是在进行自己工作的同时，负责开展六西格玛操作的普通员工，他们要听从黑带的指挥。
+
+六西格玛流程的意义和起源[编辑]
+“六西格玛流程”来源于，如果人们在流程平均值和最近的规格界限之间达到了六个标准方差，如图所示，就不会有残次品。[11]这是根据流程效能研究中的计算获得的。
+
+
+
+
+
+正态分布图，这是六西格玛模型的根本。希腊字母σ（西格玛）在横轴上标明了算术平均值,µ,和曲线的拐点之间的距离。这个距离越大，说明遇到的差值越大。在上面的绿色曲线中，µ = 0 and σ = 1.上面和下面的参数限定了（USL和LSL）离平均值的距离在6σ以内。
+
+
+西格玛等级[编辑]
+
+
+
+
+A 控制图
+
+
+下面的表格[19][20]给出了对应短期西格玛等级的长期DPMO（英语：Defects per million opportunities）值。
+
+
+西格玛等级
+百万次错误率（英语：Defects per million opportunities）
+残疵百分比
+产出百分比
+短期Cpk
+长期Cpk
+
+
+1
+691,462
+69%
+31%
+0.33
+–0.17
+
+
+2
+308,538
+31%
+69%
+0.67
+0.17
+
+
+3
+66,807
+6.7%
+93.3%
+1.00
+0.5
+
+
+4
+6,210
+0.62%
+99.38%
+1.33
+0.83
+
+
+5
+233
+0.023%
+99.977%
+1.67
+1.17
+
+
+6
+3.4
+0.00034%
+99.99966%
+2.00
+1.5
+
+
+7
+0.019
+0.0000019%
+99.9999981%
+2.33
+1.83
+
+
+六西格玛使用的软件[编辑]
+一般六西格玛使用四类软件作为支持：
+
+分析软件，用来进行统计和流程分析
+项目管理软件，用来管理和跟踪公司整体的六西格玛项目
+DMAIC和在线精益项目协调软件，用来管理当地和全球团队
+数据整理软件，用来把数据直接填入分析工具，大大缩减了收集数据的时间
+
+分析工具[编辑]
+
+Arena（英语：Arena (software)）
+ARIS（英语：Architecture of Integrated Information Systems） 六西格玛
+博尔尼塔开源解决方案（Bonita Open Solution） BPMN2 标准和统计控制 KPI软件
+JMP（英语：JMP (statistical software)）
+Microsoft Visio
+Minitab
+R语言 (统计计算中的 R 项目[21]). 公开软件：六西格玛项目中用到的基础安装的统计和图像功能软件，另外，一些CRAN 的安装包也含有一些工具，可用来进行六西格玛[22] qualityTools,[23] qcc[24] and IQCC.[25]
+SDI工具（英语：SDI Tools）
+SigmaXL（英语：SigmaXL）
+Software AG webMethods（英语：webMethods） BPM Suite
+SPC XL（英语：SPC_XL）
+Statgraphics（英语：Statgraphics）
+STATISTICA（英语：Statistica）
+STATA
+MATLAB
+Mathematica
+
+应用[编辑]
+六西格玛主要应用于大型企业。[26]六西格玛转播中的一个重要事件就是，GE于1998年宣布利用六西格玛节省了3.5亿美元，这个数字后来增长到10亿。[26]根据一些像托马斯·派兹德克和约翰·库尔曼等咨询专家，少于五百名员工的公司不适用于六西格玛项目的执行，或者需要改变标准，让系统适应这些小企业。[26]这主要是因为六西格玛所需的黑带体系的基础建设，以及大型企业能让六西格玛带来更多的改良机会。[26]
+参见[编辑]
+
+六西格玛设计（英语：design for six sigma）
+精益六西格玛
+六西格玛软件列表（英语：List of Six Sigma software packages）
+系统性问题（英语：Systemic problem） – 变量的一般和特殊情况
+改善法 – 流程持续提升的哲学方法
+68–95–99.7原則
+
+参考文献[编辑]
+
+
+^ 1.0 1.1 六西格玛的发明者. [January 29, 2006]. （原始内容存档于2005年11月6日）. 
+^ Tennant, Geoff. 六西格玛: 生产和服务业中的SPC和TQM. Gower Publishing, Ltd. 2001: 6. ISBN 0-566-08374-4. 
+^ "六西格玛的发展". [2012-03-19]. 
+^ 4.0 4.1 4.2 4.3 4.4 4.5 4.6 4.7 Antony, Jiju. 学术角度看六西格玛的利与弊. [August 5, 2010]. （原始内容存档于2008年7月23日）. 
+^ 摩托罗拉大学：什么是六西格玛？. [2009-09-14]. （原始内容存档于2008-07-19）. [...] 六西格玛开始作为一种消除生产残次的方法，而后应用于其他商业流程。 
+^ Schroeder, Richard A.; MIKEL PHD HARRY. 六西格玛：创新的管理策略，改革了世界顶级公司. Sydney: Currency. 2006: 9. ISBN 0-385-49438-6. 
+^ Harry, M., Schroeder, R., Six Sigma – Prozesse optimieren, Null-Fehler-Qualität schaffen, Rendite radikal steigern, Frankfurt / Main, 2000
+^ Stamatis, D. H. 六西格玛的基础：系统整体介绍. New York: Productivity Press. 2004: 1. ISBN 978-1-56327-292-9. OCLC 52775178. 六西格玛的实施者应该考虑到用老的、现有的工具和方法，寻求持续提升和客户满意，所以TQM（全面品質管理）是一些方法的基础。' 
+^ Montgomery, Douglas C. 统计质量控制：一种现代方法介绍 6. Hoboken, New Jersey: John Wiley & Sons. 2009: 23. ISBN 978-0-470-23397-9. OCLC 244727396. 在1950到1960年间， 零缺陷法（英语：Zero Defects）和价值工程法在各地盛行，但是对质量和生产力提高收效甚微。在TQM 盛行的1980年间，另外一种流行的方法是质量免费法思想，其中提到管理需要确定品質成本... 
+^ Motorola University Six Sigma Dictionary. [January 29, 2006]. （原始内容存档于2006年1月28日）. 
+^ 11.0 11.1 Tennant, Geoff. SIX SIGMA: SPC and TQM in Manufacturing and Services. Gower Publishing, Ltd. 2001: 25. ISBN 0-566-08374-4. 
+^ Motorola Inc. - Motorola University. [January 29, 2006]. 
+^ About Motorola University. [January 28, 2006]. （原始内容存档于2005年12月22日）. 
+^ 六西格玛：现在在哪里？. [May 22, 2008]. 
+^ 15.0 15.1 15.2 15.3 15.4 De Feo, Joseph A.; Barnard, William. JURAN Institute's Six Sigma Breakthrough and Beyond - Quality Performance Breakthrough Methods. Tata McGraw-Hill Publishing Company Limited. 2005. ISBN 0-07-059881-9. 
+^ 16.0 16.1 Kieran Walshe; Gill Harvey; Pauline Jas. Connecting Knowledge and Performance in Public Services: From Knowing to Doing. Cambridge University Press. 15 November 2010: 175 [22 August 2011]. ISBN 978-0-521-19546-1. 
+^ Larry Webber; Michael Wallace. Quality Control for Dummies. For Dummies. 15 December 2006: 42–43 [16 May 2012]. ISBN 978-0-470-06909-7. 
+^ Harry, Mikel; Schroeder, Richard. Six Sigma. Random House, Inc. 2000. ISBN 0-385-49437-8. 
+^ Gygi, Craig; DeCarlo, Neil; Williams, Bruce. Six Sigma for Dummies. Hoboken, NJ: Wiley Publishing, Inc. 2005: Front inside cover, 23. ISBN 0-7645-6798-5.  引文使用过时参数coauthors (帮助)
+^ El-Haik, Basem; Suh, Nam P. Axiomatic Quality. John Wiley and Sons. : 10. ISBN 978-0-471-68273-8.  引文使用过时参数coauthors (帮助)
+^ R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing. [2011-08-24]. 
+^ Emilio Lopez, Andres Redchuk, Javier M.Moguerza. SixSigma: Six Sigma Tools for Quality and Process Improvement. [2011-08-24]. 
+^ Thomas Roth. qualityTools: Statistical Methods for Quality Science. [2011-08-24]. 
+^ Luca Scrucca. qcc: Quality Control Charts. [2011-08-24]. 
+^ Daniela R. Recchia, Emanuel P. Barbosa, Elias de Jesus Goncalves. IQCC: Improved Quality Control Charts. [2011-08-24]. 
+^ 26.0 26.1 26.2 26.3 Dirk Dusharme, "Six Sigma Survey: Breaking Through the Six Sigma Hype", Quality Digest
+
+
+更多阅读[编辑]
+
+
+Adams, Cary W.; Gupta, Praveen; Charles E. Wilson. Six Sigma Deployment. Burlington, MA: Butterworth-Heinemann. 2003. ISBN 0-7506-7523-3.  引文使用过时参数coauthors (帮助)
+Breyfogle, Forrest W. III. Implementing Six Sigma: Smarter Solutions Using Statistical Methods. New York, NY: John Wiley & Sons. 1999. ISBN 0-471-26572-1. 
+De Feo, Joseph A.; Barnard, William. JURAN Institute's Six Sigma Breakthrough and Beyond - Quality Performance Breakthrough Methods. New York, NY: McGraw-Hill Professional. 2005. ISBN 0-07-142227-7. 
+Hahn, G. J., Hill, W. J., Hoerl, R. W. and Zinkgraf, S. A. (1999) The Impact of Six Sigma Improvement-A Glimpse into the Future of Statistics, The American Statistician, Vol. 53, No. 3, pp. 208–215.
+Keller, Paul A. Six Sigma Deployment: A Guide for Implementing Six Sigma in Your Organization. Tucson, AZ: Quality Publishing. 2001. ISBN 0-930011-84-8. 
+Pande, Peter S.; Neuman, Robert P.; Roland R. Cavanagh. The Six Sigma Way: How GE, Motorola, and Other Top Companies are Honing Their Performance. New York, NY: McGraw-Hill Professional. 2001. ISBN 0-07-135806-4.  引文使用过时参数coauthors (帮助)
+Pyzdek, Thomas and Paul A. Keller. The Six Sigma Handbook, Third Edition. New York, NY: McGraw-Hill. 2009. ISBN 0-07-162338-8. 
+Snee, Ronald D.; Hoerl, Roger W. Leading Six Sigma: A Step-by-Step Guide Based on Experience with GE and Other Six Sigma Companies. Upper Saddle River, NJ: FT Press. 2002. ISBN 0-13-008457-3. 
+Taylor, Gerald. Lean Six Sigma Service Excellence: A Guide to Green Belt Certification and Bottom Line Improvement. New York, NY: J. Ross Publishing. 2008. ISBN 978-1-60427-006-8. 
+Tennant, Geoff. SIX SIGMA: SPC and TQM in Manufacturing and Services. Aldershot, UK: Gower Publishing, Ltd. 2001. ISBN 0-566-08374-4. 
+
+
+
+
+
+
+分类：商業術語評價方法通用電氣公司摩托羅拉生產管理流程管理生產與製造品質隐藏分类：含有过时参数的引用的页面含有英語的條目

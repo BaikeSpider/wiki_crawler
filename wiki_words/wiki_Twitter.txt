@@ -1,0 +1,1861 @@
+Twitter
+
+
+
+
+
+本条目需要更新。 
+請更新本文以反映近況和新增内容。完成修改時，請移除本模板。 
+
+
+
+
+
+
+
+
+
+
+
+Twitter公司
+
+Twitter, Inc
+
+
+
+
+
+
+
+網頁擷圖 
+
+一幅Twitter個人檔案影像
+
+
+
+
+
+公司类型
+上市公司（NYSE：TWTR）
+
+
+网站类型
+行動社群網路服務，微網誌
+
+
+语言
+多语言
+
+
+成立
+2006年3月21日
+
+
+業務範圍
+全世界
+
+
+创始人
+杰克·多西
+埃文·威廉姆斯
+比兹·斯通
+
+
+代表人物
+杰克·多西（董事長）
+埃文·威廉姆斯（執行長）
+比兹·斯通（創意總監）
+
+
+营业额
+▲ US$2.52億（2016年）[1]
+
+
+息税前利润
+▼ US$4.5億（2015年）[1]
+
+
+净利润
+▼ US$-456萬（2016年）[1]
+
+
+员工
+4200
+
+
+标语
+What's happening?
+
+
+网站
+twitter.com
+
+
+Alexa排名
+▬ 12 (Global, 截至2017年11月1日 (2017-11-01)[update])[2]
+
+
+注册
+需要
+
+
+用户
+3.3亿活跃用户（2017年10月）
+
+
+推出时间
+2006年7月15日
+
+
+现状
+活躍
+
+
+Twitter（官方中文譯名推特[3]）是一个社交网络與微博客服务，它可以让用户更新不超过140个字符的消息，这些消息也被称作“推文（Tweet）”。这个服务是由傑克·多西在2006年3月创办并在当年7月启动的。Twitter風行於全世界多個國家，是互联网上访问量最大的十个网站之一[4]。据Twitter现任CEO迪克·科斯特洛（Dick Costolo）宣布，截至2012年3月，Twitter共有1.4亿活跃用户[5]，这些用户每天会发表约3.4亿条推文[5]。同时，Twitter每天还会处理约16亿的网络搜索请求[6][7]。公司總部设立在美國旧金山，其部分办公室及服务器位于纽约。
+Twitter被形容为“互联网的短信服务”[8]。网站的非注册用户可以阅读公开的推文，而注册用户则可以通过Twitter网站、短信或者各种各样的应用软件来发布消息[9]。同时，Twitter还被认为在阿拉伯之春、以及2010年代後期以來全球的政治活动中扮演重要角色[10]。
+2013年9月，Twitter進行首次公開募股：同年11月7日，Twitter股票在纽約證券交易所挂牌上市，开盘45.1亿美元，较发行价大涨73.46%[11]。在歷過近十年的發展後，Twitter已成為現今全球新聞、娛樂和評論的重要來源，卻也開始面臨諸多經營困境，包括用戶成長趨於停滯，廣告銷售疲軟，以及近年持續虧損數億美元，而有出售的打算[12]。
+
+
+
+目录
+
+
+1 歷史
+
+1.1 创办
+1.2 反应
+1.3 领导团队
+1.4 成长
+1.5 “Twitter bird”标志
+
+
+2 特色
+
+2.1 消息
+2.2 消息内容
+2.3 排名
+2.4 消息发布与管理
+2.5 趋势
+2.6 验证
+2.7 行動裝置
+2.8 用户及市场统计
+
+
+3 财政
+
+3.1 资金
+3.2 收入来源
+
+
+4 技术
+
+4.1 架构
+4.2 用户界面
+4.3 宕机
+4.4 隐私与安全
+4.5 开源
+4.6 创新者专利协议
+4.7 网址缩短服务
+4.8 内置图片分享服务
+
+
+5 影响
+
+5.1 在示威游行中的影响
+5.2 在名人社會中的影响
+
+
+6 應用程序外掛
+7 Twitpic
+8 封锁
+
+8.1 埃及
+8.2 伊朗
+8.3 中国大陸
+8.4 对封锁的反制
+
+
+9 參見
+10 參考文獻
+11 外部链接
+
+
+
+歷史[编辑]
+创办[编辑]
+
+
+
+
+杰克·多西大约在2006年创立的Twitter短信息服务的图示
+
+
+
+
+
+
+2012年6月13日，Twitter更换小鸟图标后的中文首页
+
+
+Twitter的前身是约成立于2005年的Odeo播客平台，创立者是诺亚·格拉斯（英语：Noah_Glass_(Twitter)）。埃文·威廉姆斯是该公司的早期投资者之一，并成为其后来的CEO。不久Odeo扩展，杰克·多西、布雷恩·库克等人加入。
+2005年秋季，苹果发布了内建音樂播放功能的iTunes，Odeo业务大受影响。威廉姆斯改组业务，将Odeo的员工分成数个小组开展不同的项目。格拉斯和多西的“全日智囊团”开始了名为“Twttr”的项目，创意来自多西，格拉斯负责营运并定下了“Twttr”的名字。这是Flickr和美国短信服务代码都是5位数这一惯例所带来的灵感。开发者们最初使用“10958”作为实验开发所用的短号码，后来为了“方便实用与记忆”将其改为了“40404”。[13]
+杰克·多西提出了一个个人使用手机短信来与小组进行交流沟通的设想，这个设想有一部分来自于短信息群组服务TXTMob所带来的灵感。[13]
+
+
+“
+这个项目最开始的一段时间里使用“Status”作为项目名称，事实上它当时没有名字。我们当时试图给它命名并且移动化是这个产品的大的发展方向……我们喜欢短信服务这个方面以及你如何在任何地方即时更新与接收信息。我们想捕捉一种感觉：那种你不断骚扰你的朋友的手机而产生的振动的感觉。所以我们腦力激盪地进行了许多给产品命名的讨论，之后我们想到了一个名字“twitch”（抽搐），因为手机震动的时候感觉就是这样的，但是“twitch”表达的意向不准确使得它不能成为一个好的产品名称。所以我们去查阅字典，并最终找到了单词“twitter”（啁啾），而且我们觉得它很棒。它的定义是“很弱的脉冲信号”与“小鸟的啁啾”，而且这正符合这个产品的大体设计思路。
+”
+
+
+— 杰克·多西[14]
+
+
+2006年3月21日，这个项目完成的时候，多西在晚上9：50太平洋标准时间（PST）发表了第一条Twitter消息:“just setting up my twttr”。[15]
+在最开始Twitter仅仅是为Odeo公司雇员提供的内部服务，并且在2006年7月向公众开放。2006年10月，比兹·斯通、埃文·威廉姆斯、多西和其他来自Odeo公司的成员一起成立了Obvious公司并且获得了Odeo公司及其所有资产：包括Odeo.com和来自投资者和其他股东的Twitter.com。[16]随后在2007年Twitter从原来的公司独立出来并成立了独立运营的公司。[17]
+反应[编辑]
+使Twitter一炮走红的是2007年的西南偏南（SXSW）活动，在这次活动期间，Twitter的使用量从每天20000推增长到60000推。[18]“来自Twitter的人巧妙地将两块60英寸的等离子显示屏拼在一起并放在会议走廊上，专门用来显示来自Twitter的消息”来自《新闻周刊》的Steven Levy这样说道。“数以百计的与会者通过他人的Twitter消息不断地监视着他人的动态，小组成员与演讲者都提到了这个服务，并且在场的博客们都在吹捧这项服务。很快在场的所有人都在讨论并发表有关这样一个新事物的文章，他们认为这个东西与即时通信很相似，与博客也很相似，或者说与发送电报很类似。”[19] Twitter在这次活动中带来的影响非常积极，Laughing Squid的博主Scott Beale说Twitter“绝对地控制了”SXSW，社会软件研究者Danah Boyd说Twitter“拥有了”这次活动。[20] Twitter的全体员工也最终包揽了这次活动中附有“we'd like to thank you in 140 characters or less. And we just did!”获奖词的网络部落格类大奖。[21]
+2010年1月22日，国际空间站的美国国家航空航天局宇航员提摩西·克林姆在Twitter上发布了第一条来自地外的Twitter消息。[22]截止到2010年11月，在宇航员通讯用的Twitter账号@NASA_Astronauts上，平均每天都有一定数量的消息。
+2011年4月6日，Twitter正式启用新的首页登入界面。
+2011年9月15日，Twitter推出包括中文在内的5种新语言。[23]
+领导团队[编辑]
+
+
+
+
+比兹·斯通和多西领取最佳mobile startup的Crunchie奖
+
+
+杰克·多西作为首席执行官，他见证了公司在发展初期的两轮支持公司后续发展的风险投资全部过程。[24]
+2008年10月16日，[25]埃文·威廉姆斯成为了公司首席执行官，而多西成为了公司的董事长。[26]
+2010年10月4日，威廉姆斯宣布他将从首席执行官的职位退下，当时任Twitter公司的首席运营官迪克·柯斯特洛成为新一任首席执行官。根据Twitter 2010年10月4日发表的一篇博客，威廉姆斯将继续留在公司并“将所有精力集中于产品战略上”。[27]
+根据纽约时报的报道，在多西离开后，柯斯特洛与多西形成了非常亲密的关系。[28]根据PC Magazine的报道，威廉姆斯将不再管理公司日常的各项事务。他目前集中于更新的起点，但他依旧是执行董事会中的一员，并且承诺“将会从任何可能的角度提供帮助”。斯通仍在Twitter工作，同时他也在AOL以“志愿者活动和慈善事业顾问”的身份活动。[29]
+多西在2011年3月重新加入Twitter，并担任产品开发的执行首席。他的工作时间全部花费在他任首席执行官职务的Square公司以及距离该公司不远的Twitter公司。[28]
+成长[编辑]
+Twitter公司经历了非常快速的发展。2007年时，平均每季度会产生400,000条消息，而到了2008年，这个数字已经增长至1亿。在2010年2月，Twitter用户平均每天会发送5000万条消息。[30]到2010年3月，Twitter官方一共记录了超过70,000款第三方应用程序。[31]到2010年6月，根据Twitter提供的数据，平均每天会产生6500万条消息，也就是每秒750条消息。[32] Compete.com网站显示，Twitter早在2009年1月就已经从排名第22位的社交网络站点上升至第三位。[33]
+Twitter的信息量经常会突然在重要事件发生时猛增。例如在2010年世界杯足球赛上，在日本队与喀麦隆队伍竞争并得分的三十秒内，用户每秒发出的信息数量是2,940条。这一纪录在六月17日举行的2010年NBA总决赛中当洛杉矶湖人队赢得胜利时被打破，当时的纪录是每秒钟3,085条消息，随后这一纪录在日本队与世界杯比赛中击败丹麦队时被每秒产生的3,283条消息数量再次打破。当美国歌手迈克尔·杰克逊在2009年6月25日去世时，用户每小时发布的包含迈克尔·杰克逊名字的消息就达到100,000条，导致Twitter服务器一度崩溃。
+2010年4月11日，Twitter吸纳了软件开发者Atebits，这位软件开发人员已经开发出了获得Apple设计大奖的Twitter客户端Tweetie，这款软件包含iPhone版本和Mac版本。后来这款软件改名为Twitter并作为官方程序免费开放下载，适用于iPhone、iPad以及Mac平台。[34]
+从2010年9月到10月，Twitter公司开始推出全新的“New Twitter”，这是Twitter网页版的全新版本。其中全新设计包括可以在每条消息内通过点击消息内所包含的链接就可以直接观看各种多媒体而无需离开Twitter站点，所支持的站点链接包括Flickr和YouTube。同时新的设计还包括全新的页面布局：将类似“@Mentions”和“Retweets”之类的全部移到了Twitter消息的上部，并且每一页的上端都会有一个浮动条，可以给用户提供包括登出等功能的链接。在2010年11月，官方已经确认新版的Twitter已经提供给所有的用户了。
+2011年4月5日，Twitter推出了全新版本的首页，并逐渐淡化旧版本的Twitter设计。[35]但是在新版本主页启动之后发生了一些小的错误，导致Twitter不得不回溯到旧版本直到问题得以解决。[36]在2011年4月20日，新版本主页再次被引入，但是仍然保留了让用户切换至老版本页面的功能。[37]
+2011年11月8日，Twitter对其网站进行了一次重新设计，以突出其“飞翔”的寓意，该设计据说是为了能够提供给用户更好的用户体验以及帮助商家利用广告进行宣传。同时此次设计还引进了“主页”、“联系”和“发现”三个按钮，该设计曾经被用来与Facebook的新版设计相对比。[38][39]
+2012年2月21日，有消息称Twitter与俄罗斯搜索引擎Yandex成为合作伙伴，Yandex认为Twitter的实时消息更新是一个非常有价值的功能，而Twitter的市场开发部门负责人则认为让Twitter的消息能够出现在用户所在区域是一项很重要的举措。[40]
+2012年3月21日，Twitter在庆祝6岁生日的同时对外宣布，其已经具有1.4亿的活跃用户以及高达每天3.4亿条的推文数量。该用户数量与2011年9月的1亿用户数量相比，增长了40%。[41]
+2012年4月，Twitter宣布在底特律设立办公室以用于和汽车品牌和广告代理公司进行合作。[42]此外，Twitter还在都柏林设立了自己的办公室。[43]
+2013年9月10日Twitter Inc斥3.5億美元（約27.3億港元）收購流動廣告交換服務商MoPub Inc.，屬該公司最大宗收購。
+2013年11月6日Twitter Inc登陸紐約證券交易所，将IPO发行价定为26美元，发售7000万股普通股，集資18.2億美元，交易代码为“TWTR”[44]。
+2014年5月5日，Twitter与全球最大网路零售商亚马逊公司联手，开放用户从旗下微网志服务的推文直接购物[45].
+2014年6月4日， Twitter宣布将收购移动广告平台Namo Media，但并未透露交易金额。[46]
+2014年6月19日，Twitter宣布，将收购视频编辑创业公司SnappyTV，具体的收购金额并未公布。[47]
+2015年3月，Twitter收购的流媒体直播应用Periscope正式上线。"通过Periscope，用户可以向其他人直播视音频，直播和评论功能都在Periscope app内完成。直播的地址链接可以分享到Twitter上，让更多的人参与进来。"[48]
+2015年4月，Twitter 收购广告技术提供商 TellApart，TellApart曾与Facebook合作。[49]
+2016年1月，Twitter拟计划自3月底开始取消用户每次最多发布140个字符的限制，字符容量将扩展至1万个[50]。
+2016年9月，推特近年遭遇經營困境，已引發外界質疑推特能否繼續以獨立上市公司的方式存活。自2013年首次公開上市股票（IPO）後，一直為用戶的緩慢擴張、收入成長停滯成長，以致陷入虧損的的境地而深感苦惱，目前而有出售的打算[51]。
+“Twitter bird”标志[编辑]
+这只蓝色的小鸟，已经成为Twitter品牌的标志性图案。
+原始徽标，从2006年7月15日至2010年9月14被使用。
+第二个标志，从2010年9月14日至2012年6月5日被使用。一位来自Twitter公司供职于平台与API的雇员与公司的创意主管一起讨论了“Larry the Bird”徽标的创作过程，并且透露说Larry Bird的起名是受到NBA的波士顿凯尔特人队声望的影响。具体的细节已于2011年八月波士顿凯尔特人队的互动媒体主管向Twitter的合作创办者比兹·斯通询问此事的过程中得到确认[52]。
+第三个标志，当前的徽标，从2012年6月5日起被使用。网站标志中的Twitter字体去除，采用与服务最相关的简化版蓝鸟图案并更名为“Twitter Bird”，Twitter表示，这只小鸟就是Twitter，无需用任何文字来自描述该服务。
+特色[编辑]
+Twitter经常会被拿来与网页版的IRC客户端作对比。[53]
+用户的消息默认是向所有人公开，但是用户也可以设置成仅对选定的人开放。用户可以通过Twitter网站发布消息，或者使用各种第三方软件，或者是在一些国家地区使用短信才发布消息。通过短信发布消息虽然是免费的，但是服务提供商可能会收取一定的短信费用。[54]
+用户可以订阅其他用户的消息，这种订阅行为以及被订阅者通常被称作“跟进（Following）”，订阅者通常被称作“跟进者（Follower）”[55]或者是“Tweeps（由Twitter和peeps两个单词缩合而成。）”[56]
+Twitter同时允许用户通过各种可用途径来更新自己的个人用户页面。[57]
+2009年的一起时代杂志中，专注于技术方面的作者史蒂芬·約翰遜（英语：Steven Johnson）评价Twitter是非凡的简洁，他这样说道：[58]
+
+
+“
+作为一个社交网络，Twitter围绕着跟進者（Follower）这个概念。当你打算去跟進（Follow）一个Twitter用户的时候，那个用户所发布的消息就会按照时间顺序全部出现在你的Twitter主页上。假设你跟進了20个人，那么你可能在一个页面上看到这20个用户的混合在一起的消息，比如会有有关早餐的消息、感兴趣的网址链接、音乐推荐甚至是对未来教育的假想。
+”
+
+
+— 史蒂芬·約翰遜（英语：Steven Johnson）
+
+
+消息[编辑]
+Twitter上的消息可以采用添加“标签”（hashtags）形式进行分类，即在单词、短语前面加上一个#构成的标签。类似的，在@符号后边紧跟一个用户名可以让用户直接给对方发送信息。例如，一条包含有@example的消息可以直接送达对方，并且在“Reply”中显示，同时，别人也能看到这条消息。[59]如果用户转发另一用户的消息，这种行为被称作“RT消息”。
+在2009年，一个名叫“Twitter列表（Twitter Lists）”的功能被引入，这个功能允许用户可以通过一个用户列表一次性订阅许多用户的消息。[55][60]
+Twitter用户通过手机短信，可以继续与Twitter保持连线状态。用户可以通过5个网关号码：分别是设在美国、加拿大、印度、新西兰和一个供国际用户使用的，建立在马恩岛的号码。还有一个短号码可以供英国境内的Vodafone和O2网络用户使用。[61]在印度，虽然Twitter官方只支持Bharti Airtel服务商，[62]但是另一个名叫smsTweet的平台[63]已经成功让所有网络的用户都能使这一功能。[64]在新加坡、马来西亚和菲律宾，有一个名叫GladlyCast [65]也允许用户通过手机短信发送Twitter消息。
+为了适应短信字数的140字的限制，Twitter消息的字限制同样也是140字，这催生了各种速记用语以及俚语的广泛使用。字数的限制同时还催生了类似bit.ly、goo.gl等缩略网址服务和类似Twitpic这种第三方内容存储服务，同时类似memozu.com和NotePub这样的服务让用户可以发布各种多媒体消息以及超过字数限制的消息。[66]目前Twitter已开始使用自己的t.co域名对所有发布于其网站上的链接自动进行缩短[67]。
+Retweet意为在引用被转推的内容时对其发表评论，大致格式一般如下：“转推者的评论RT @被转推者的ID:被转推的内容”，由于Twitter并没有提供评论功能，因此这个简写开始在Twitter用户中流传并广泛使用。出于信息的纯粹性，Twitter官方并不推荐这种做法。他们在2009年11月18日推出了官方的Retweet功能。
+消息内容[编辑]
+
+
+
+
+根据Pear Analytics的分析结果得到的图表[68]
+  新闻
+  垃圾信息
+  自我推广
+  无目的的闲谈
+  对话
+  传递价值
+
+
+
+一家来自圣安东尼奥的市场研究公司Pear Analytics在2009年8月连续两周分析了每天11点到17点（CST时间）的来自美国或者是用英语书写的2,000条消息，并将这些消息归为6类：[68]
+
+无目的的闲谈——40%
+对话——38%
+传递价值——9%
+自我推广——6%
+垃圾信息——4%
+新闻——4%[68]
+
+社交网络研究者Danah Boyd随后对这一研究结果展开讨论。他认为“无目的的闲谈”更应该是一种人类维系社交关系的行为，人们会想知道自己身边的人在做什么。
+由于这项研究仅仅选取了非常非常小的一部分消息，语言种类也很有限，所以无论是样本容量还是样本选择的范围来看，都不能够用于分析所有Twitter所有消息的状况，因此仅能够作为一种参考。
+排名[编辑]
+在Alexa上Twitter被认作是访问量最多的十个网站的一员。[69]每天的使用人数均有不同，官方也没有发布相关的统计数据。Compete.com网站显示，Twitter早在2009年1月就已经从排名第22位的社交网络站点上升至第三位。[70]在2009年3月，一篇来自AC尼尔森的报告将Twitter评为在2009年2月份发展最迅速的会员交流（Member Communities）站点。Twitter以1382%的百分数稳步发展，而Zimbio仅仅是240%的发展速度，紧随其后的是以每月228%的速度发展的Facebook。[71]据统计，Twitter的用户回访率为40%。[72]
+消息发布与管理[编辑]
+以Twitter为服务基础有许多软件和工具可以用于发布消息、监控内容等，这其中包括Twitvid（用于视频分享）、[73] TweetDeck、Salesforce.com、HootSuite以及Twitterfeed.只有不到一半的消息是通过网站本身发出的，大部分用户更习惯于使用第三方软件进行消息发布等操作（此结论由Sysomos基于5亿条推文分析得到）。[74]
+趋势[编辑]
+在Twitter上一个被打上标签符号（一个井号“#”）的单词、词组或者是一个话题，如果当它被提及的频率远远高于其他标签的时候，就会成为一个热词而进入趋势列表。通常一个趋势是由许多用户共同推动或者是由于一个活动让用户针对某一特定话题进行讨论而产生的。[75]这些热门话题旨在于帮助用户了解世界上正在发生什么事情。[76]
+热门话题有的时候是由于明星或者一特定的文化现象的爱好者共同推动而产生的，比如Lady Gaga、贾斯汀·比伯、暮光之城以及哈利波特小说的爱好者。Twitter此前已经针对这种情况改变的趋势的算法，以避免这种现象的发生。[77]
+Twitter官方在2010年3月20日的博客文章中宣布最热门的话题将会滚动显示于Twitter网站首页。[78]网站用户也可以了解到一个特定的话题是如何成为热门话题的。
+曾有一些关于Twitter热门话题的争议：Twitter会审查一些具有冒犯他人内容的话题标签，以便其不被显示出来。Twitter曾经在接到用户举报后审查过#Thatsafrican[79]和#thingsdarkiessay这两个标签[80]。
+验证[编辑]
+2010年8月31日，所有的Twitter第三方应用程序被要求使用OAuth验证方式，这种验证方式不需要用户在使用第三方应用的过程中向程序本身提供自己的账号信息。此前OAuth验证方式只是可选的，但现在已经变为强制要求，此前的用户名和密码的验证方式已经不能再使用。Twitter官方发表声明说使用OAuth是为了“增强安全性并改善用户体验”。[81]
+行動裝置[编辑]
+
+
+
+
+Twitter行動裝置版本畫面
+mobile.twitter.com
+
+
+Twitter目前已推出iOS、Android、Windows Phone、BlackBerry、Firefox OS和Nokia S40等平台行動裝置版本[82][83]。而第三方的Twitter應用程式最大使用人數限制約十萬人[84]。
+用户及市场统计[编辑]
+
+
+
+Twitter.com全球五大市场 (%)[85][86]
+
+
+国家
+
+
+百分比
+
+
+
+印度尼西亚
+Jun 2010
+
+  
+
+20.8%
+
+
+
+Dec 2010
+
+  
+
+19.0%
+
+
+巴西
+Jun 2010
+
+  
+
+20.5%
+
+
+
+Dec 2010
+
+  
+
+21.8%
+
+
+委内瑞拉
+Jun 2010
+
+  
+
+19.0%
+
+
+
+Dec 2010
+
+  
+
+21.1%
+
+
+荷兰
+Jun 2010
+
+  
+
+17.7%
+
+
+
+Dec 2010
+
+  
+
+22.3%
+
+
+日本
+Jun 2010
+
+  
+
+16.8%
+
+
+
+Dec 2010
+
+  
+
+20.0%
+
+
+提示：被统计的访问者为15岁以上，来自家庭或者办公场所，统计结果中已除去来自公共场所（例如网吧）和移动设备的访问量。
+
+
+
+一位研究社会化媒体的产业分析者Jeremiah Owyang曾认为Twitter的主要使用者是一些此前从未使用过其它社会化媒体服务的年纪较大的使用者。[87]根据comScore的统计结果，仅有11%的Twitter用户年纪在12至17岁[87]，comScore认为这是由于在Twitter发展早期阶段，关于社交网络的消息主要获得了商业界的关注，相关的新闻报道也仅仅受到成年用户的关注。但是当沙奎尔·奥尼尔、布兰妮·斯皮尔斯以及阿什顿·库奇等人加入到Twitter名人堂之后，comScore评价认为Twitter已经逐渐融入主流并为其自身带来了许多名人。[88]
+根据2009年6月来自Sysomos的一份研究报告显示，Twitter用户中女性用户比男性用户略多，男女所占比例为53%对47%。报告同时还显示，有5%的用户贡献的信息占据了所有信息的75%，而纽约则拥有最多的Twitter用户。[89]
+根据Quancast的报告，2009年9月3日在美国有2700万人使用Twitter。其中63%的用户年龄在35岁以下；60%的用户为白人，其它几个较高的人群为非裔美国人（16%）和拉丁美洲人（11%）；58%的Twitter用户的年收入在$60,000以上。[90]
+2011年9月7日，Twitter对外宣布他们已经拥有1亿活跃用户，这些用户每个月至少登陆Twitter网站一次，并且有5000万的活跃用户每天使用Twitter服务。[91]
+在2012年1月6日发表的一篇文章中提到，Twitter已经成为日本最大的社交网络，而Facebook以细微差距名列第二。comScore确认了这则消息的真实性，并评论说日本是唯一一个Twitter超越了Facebook的国家。[92]
+财政[编辑]
+资金[编辑]
+总体来说，Twitter已经从美国风险投资中获得了5700万美元的资金，至于具体的资金数额至今也没有公开过。Twitter获得的第一笔资金是从未公开过的，据传言这笔资金为10000美元到50000美元之间，[93]它在2008年的B轮融资是2200万美元，[94]而Twitter的C轮融资则包括来自Institutional Venture Partners和Benchmark Capital的3500万美元，以及来自包括Union Square Ventures公司、Spark Capital（星火资本）公司和Insight Venture Partners公司在内的未知数额的投资。[93]可以这样说，Twitter是由Union Square Ventures、Digital Garage、Spark Capital和Bezos Expeditions这些公司共同支撑起来的。[95]
+The Industry Standard网站曾表示Twitter的长期存活力受到资金不足的限制。[96]Twitter的董事会成员Tood Chaffee则预测说公司将会从电子商务中获益，他提到用户可能会希望直接购买那些在推特上进行推荐和推广的产品。[97]
+在2010年12月Twitter获得了2亿美元的风险投资，使公司价值达到37亿美元[98]。在2011年3月，Twitter在股权交易网站SharesPost将35000股的股票以每股美元$34.50元的价格进行出售，此时的公司价值为78亿美元[99]。在当年8月，Twitter宣布获得了来自数码天空科技8亿美元的风险投资[100]。
+Twitter公司已经确认成为2013年首次公开募股的候选人之一。[101]
+2011年12月，沙特阿拉伯王子瓦利德·本·塔拉勒·阿勒沙特向Twitter投资了3亿美元，这个时候该公司的价值为84亿美元[102]。
+收入来源[编辑]
+在黑客盗取了一些包含Twitter的收入和用户增长的情况的文件后，这些文件也通过TechCrunch被公布出来。这些文件包括Twitter的内部财政预测资料，包含对第三季度的40万美元的收入预测，以及在第四季度实现400万美元的收入和2500万的用户数量，文件还预测在2013年底，Twitter的年收入将达到15.4亿美元，净收入达1.11亿美元，同时拥有10亿用户。[103]但是有关如何实现这些目标的文件并没有被公布出来，与此同时，比兹·斯通在他的博客中也提到对于这些商业细节的透露可能会采取法律行动的可能性。[104]
+2010年4月13日，Twitter宣布将会向企业公司提供付费广告业务，这些广告将会在用户进行推文搜索的结果中以专门的推文形式显示出来，有些类似于Google的AdWords广告模型，并且Twitter还说已经有包括索尼影视娱乐、红牛、百思买和星巴克在内的公司已经表达了使用此项业务的意愿[105][106]。为了进一步扩大其广告业务的覆盖范围，2012年3月20日Twitter宣布将在移动设备上显示广告推文。在2011年Twitter通过广告业务获得大约1亿4千万美元的收入，并预计2012年这项收入将增长86.3%达到2亿6千万美元左右[107]。
+虽然Twitter公司从2010年春季末期才开始销售广告，但是其依然成功创造了4500万美元的年收入。即使公司在2010年的大部分时期是亏本运营，其还是吸引了2亿美元的风险投资。Twitter与国际娱乐新闻网（WENN）在2011年5月签订的一项协议可以使Twitter从用户发布的照片中获得免税收入。2011年6月，Twitter宣布他们将会为小型企业提供一个自助广告平台。[108]
+技术[编辑]
+架构[编辑]
+
+
+
+
+一幅Twitter个人档案图像
+
+
+Twitter被描述为一个基于Web的中继聊天（IRC）客户端。[109] Twitter网站早期采用Ruby on Rails框架语言编写[110]，在Ruby的企业版本上进行部署，由于考虑到执行效率等因素并没有采用Vanilla的Ruby进行部署[111]。
+从2007年春季一直到2008年，这一期间Twitter的原始消息都是通过一个名叫Starling[112]的持续性数据结构服务器进行处理的，但是从2009年开始，Twitter已经开始逐渐在用Scala编写的程序来进行消息处理。[113]同时，这项服务提供的API允许众多网站与Twitter进行整合。[114]
+2011年，Twitter從Ruby on Rails交替到Java，從MySQL交替到Lucene；[115]新的核心框架使Twitter增加3倍的效能。[116]
+用户界面[编辑]
+2009年4月30日Twitter修改了其网站界面，添加了一个搜索框和一个名为“全球趋势”的侧边栏，这一侧边栏用来显示在每天推文中出现频率最多的词。比兹·斯通说所有发布在Twitter上的消息会被迅速索引，这样的一个功能让Twitter真正成为了一个发现引擎，让用户来发现这个世界上正在发生什么[117]。
+2012年3月，Twitter推出了阿拉伯语、波斯语、希伯来语以及乌尔都语版本，这是Twitter第一次推出从右到左书写语言的版本。大约有13000多名志愿者参与到了菜单选项的翻译工作中[118]。
+宕机[编辑]
+当Twitter遇到宕机情况时，用户可以看到一幅八只橙色的飞鸟将一只大鲸鱼用网打捞起来的图像，并且会给出“太多推文！请稍后再试！”的消息[119]。这幅图画是由Yiying Lu[120]创作的。
+2007年Twitter的上线率为98%（宕机时间总计大约6天）[121]，在一些大型活动譬如2008年的MacWorld大会上Twitter的宕机现象尤为突出[122][123]。
+以下列出了几次主要的宕机事件：
+
+2008年5月：Twitter新的工程师团队在对构架进行更改，以应对网站规模的增长。由于系统的不稳定导致了宕机事件以及临时性的功能丢失。
+2008年8月：Twitter停止了对英国用户的免费短消息服务[124]，随后的五个月中，一个通过XMPP机器人的即时信息服务也处于不可用状态[125]。
+2008年10月：Twitter的工作状态博客发布公告说Twitter的即时通讯服务已经不属于临时宕机，而是需要进行修理。同时还宣布Twitter将会暂停许多主要工作，重新开始其即时通讯服务。[126]
+2009年6月12日：Twitter遇到了所谓的“Twitpocalypse”问题。由于每一条推文都对应一个独特的数字ID，而当时的推文数字ID增长已接近32位计算机运算时最大的有符号整数值（总共有2,147,483,647条消息）[127]。虽然说Twitter网站本身没有任何故障出现，但是许多第三方应用程序却无法再访问最近所发表的推文了。随后Twitter发布了补丁，修正了这一缺陷，但依然有一些iPhone应用程序由于在苹果App Store中需要审核而被迫将这一修复时间延长[128]。
+2009年6月25日：Twitter在当天宕机了至少一次，并且网站运行缓慢。这段时间内曾经有记录显示在一个小时内出现了超过50000条有关于迈克尔·杰克逊去世消息的推文[129]，当时迈克尔·杰克逊在热门话题上排名第七。
+2009年8月6日：Twitter和Facebook受到了分散式阻断服务攻击，这次网络攻击导致Twitter被迫下线数小时[130]。后来经查明，这次攻击是针对在2008年南奥塞梯战争一周年纪念日时一名支持格鲁吉亚的Twitter用户的，而非是针对网站本身[131]。
+2009年9月22日：Twitter网站的消息总量超过了32位计算机运算时最大的无符号整数值（总共有4,294,967,296条消息），一些第三方应用软件再一次无法正常工作[132]。
+2009年12月17日：Twitter网站被黑客攻击，网站的欢迎页面被替换成一张绿色旗帜图像，并且写有“该站点已被伊朗网络军攻击”。但是黑客与伊朗之间并没有任何联系[133]。
+2010年6月-7月：Twitter在这段时间的2010年世界杯足球赛期间曾经有相当高的服务拒绝率（10%-20%），同时服务响应的延迟也有所增加[134]。
+2010年11月：一部分用户遇到了服务错误，当他们登录到自己的账户的时候，看到的却是大鲸鱼的错误页面。这些账户并不是被锁定的账号，同时使用者依旧可以看到回复自己的消息并可以发表内容，但是时间线以及其它功能则出现不正常。
+2013年8月27日：Twitter出現宕机，疑似遭到黑客组织“叙利亚电子军”的攻击，该组织表示对此事负责。此外，纽约时报、赫芬顿邮报等几家媒体的网站均遭到该组织的攻击。
+
+隐私与安全[编辑]
+Twitter上发表的信息默认都是公开的，但是用户可以给其他用户发送私人信息。Twitter也会以非匿名的形式收集用户的个人信息并与其合作伙伴进行分享，并且如果公司更换领导层，那么公司保留出售用户信息的权利[135]。虽然说Twitter不显示广告，但是广告商可以收集用户所发送的历史信息，并将其用于自己的广告中[136]，且可以指明用户名。
+2007年4月7日，Nitesh Dhanjani和Rujith指出Twitter存在安全隐患，而隐患是由其短信服务造成的。由于Twitter使用用户的移动电话号码作为验证手段，导致攻击者可以使用短信欺骗的方式，将短消息的来源伪造成用户手机号码[137]，从而可以随意更新受害者的消息。这个安全隐患公布数周之后，Twitter增加了PIN码验证的可选方式，来保证用户短信的来源正确性[138]。
+2009年1月5日，在Twitter的一个管理员密码被字典破解后，有33个知名的账户遭到纂改和冒用[139]，并发布了一些有关于性和毒品的消息[140]。
+2009年6月11日，Twitter发布了测试版本的“验证账号”功能。这项功能可以让名人来验证自己的账户为自己本人所拥有而非伪造的，通过验证的用户在其个人用户页上将会出现相应的标识[141]。
+2010年5月，土耳其网站İnci Sözlük发现了Twitter网站的一个漏洞，这个漏洞可以让攻击者在被攻击者完全不知情的情况下，操纵修改其账户所关注的人的列表。例如喜剧演员康纳·欧布莱恩的账户就受到该漏洞影响，他的账户本来只设置了关注一个人，被攻击后被恶意增加了200多个关注的人[142]。
+由于Twitter屡次出现安全问题，美国联邦贸易委员会在2010年6月24号对Twitter提起诉讼，这也是该委员会第一次针对社交网站的安全漏洞采取行动。委员会要求Twitter必须采取众多措施来保障用户个人信息的安全，包括通过“综合性的信息安全保护程序”对用户信息进行保护，并且要求每两年接受一次审查[143]。
+2010年9月21日，由于一个XXS蠕虫导致的“鼠标悬停”安全漏洞在Twitter上传播开来。当用户将鼠标光标移到一条包含有方框的特定消息上时，该漏洞即被触发，自动打开一个链接并且自动通过用户的账户发布包含有相同内容的恶意消息[144]，这个漏洞以前曾被用于弹出广告以及一些色情站点的链接上。这个蠕虫的来源尚不清楚，但是Pearce H. Delphin（Twitter用户名为@zzap）和一位斯堪的纳维亚的程序员Magnus Holm都宣称自己利用了之前可能是开发彩色推文的作者Masato Kinugawa所发现的一个漏洞[145]。在8月14日的时候，Masato Kinugawa就已向Twitter提交了有关于XXS安全隐患的消息，后来当他发现这一安全隐患在一次出现的时候，他创建了名为“RainbowTwtr”的账号并发布一些包含彩色文字的消息[145]。Delphin宣称自己利用这个安全隐患创造了一段包含有“onMouseOver”鼠标悬停事件的JavaScript脚本[145]，而Magnus Holm则宣称自己编写并发布了这条可以通过自我ReTweet的方式来进行自我复制的XXS蠕虫[144]。安全公司Sophos说这个病毒是一群人纯属娱乐才编写的，但是这个漏洞还可以被用于网络犯罪[144]。随后Twitter官方的状态博客在UTC时间13:50的时候发布消息说“该漏洞已经被完全修补”[144][146]，同时公司的代表Carolyn Penner说不会因为此事件而发起任何指控[147]。
+2010年12月14日，美国司法部发出一张传票，要求Twitter提供涉及到维基解密的用户的账户资料[148]。Twitter通知了其用户，并且在发布的一份声明中称“我们的政策要求当用户的个人信息被通过法律强制手段或者政府请求的方式被他人所获取时，我们需要通知用户，除非有相关法律禁止我们这样做。[149]”
+2011年5月，在CTB与新闻集团报纸一案中的原告CTB（后来被确认是瑞恩·吉格斯）在英格兰及威尔士高等法院要求Twitter公布几个用户的资料[150]。这是由于之前在Twitter网站有用户发布了涉及吉格斯个人私生活的消息，并引起了有关隐私禁令的争议[151][152]。Twitter欧洲区的领导Tony Wang说，在网站上“做坏事”的用户需要在这场由这一案件引发的争议中为自己辩护，同时Twitter将在司法请求的情况下向有关部门移交用户的信息[153]。他同时表示Twitter将服从英国法庭的命令，将这次“非法行为”的相关用户的名字公布出来[154]。
+2011年5月29日，南泰因赛德市政委员会成功地在美国加利福尼亚的一个法庭通过法律手段要求Twitter公布5名用户的资料，这些用户资料被用来鉴别一个名为“Mr Monkey”博客的真实身份，据称这一博客发布了诽谤当地3名议员的消息[155][156]。
+2012年1月23号，Twitter收购了一家名为Dasient的公司，这家公司主要提供针对恶意软件的保护。Twitter希望能够通过这家公司来清除Twitter网站上恶意的广告发布者[157]。
+2012年1月26日，Twitter发布了一项功能，这项功能允许按照国家对一些消息进行选择性删除。例如对于法国和德国而言，有关新纳粹的消息是违法的，在这些国家内包含有这样内容的消息将会被删除。在此之前，违法的消息在所有国家地区都会被删除[158][159]。
+2012年5月17日，Twitter宣布将会提供“Do Not Track”隐私保护选项，这是Firefox浏览器的一个功能，用来阻止网站在计算机上留下Cookie[160]。
+开源[编辑]
+Twitter在提高自身技术发展的过程中发布了许多开源项目[161]，其中较为著名的项目包括用于创建分布式数据存储的Gizzard框架以及用于创建分布式图片数据库的FlockDB项目。
+创新者专利协议[编辑]
+2012年4月27日，Twitter宣布将会履行一项名为《创新者专利协议》（Innovators Patent Agreement，简称IPA）的协议，这项协议将要求Twitter只能将其专利用于自卫目的。这项协议将于2012年后期开始执行[162]。
+网址缩短服务[编辑]
+Twitter自己开发了一个名为t.co的网址缩短服务[67]，这项服务仅用于缩短發布在Twitter上的网址链接[163]，而不允许外部使用[67]。Twitter希望通过这样的网址缩短服务帮助用户远离恶意网站[67]，并且能够追踪用户对网址的点击等相关情况[67][164]。
+最初Twitter上的网址缩短服务由第三方网站如bit.ly和TinyURL等提供[165]，后来Twitter在2010年3月首先在私信服务中试验了自己的网址缩短服务，当时Twitter使用的是twt.tl这一域名[163]，随后哥伦比亚域名注册机构向Twitter赠送t.co这个域名。这项服务后来在@TwitterAPI、@rsarver和@raffi这三个账号上进行了测试[163]。2010年9月2日，Twitter向所有用户发布了一封电子邮件称，这项服务将会推广至所有用户。在2011年6月7日，Twitter正式宣布了这项服务的启动[166]。
+内置图片分享服务[编辑]
+2011年6月1日，Twitter宣布启用内置的图片分享服务，用户将可以通过网站内置的功能上传图片进行分享[167]，同时用户还可以给包含图片链接的消息中加入标签，使得消息可以在搜索系统中被搜索到[168]。Twitter还计划开发图片库功能，将用户通过官方图片分享服务以及其它第三方服务发布的图片全部收集并集中同步在一起[168]。
+影响[编辑]
+由于Twitter是消息传播最快速和便捷的通道，它的影响力在2008年美国总统选举、伊朗綠色革命、丹佛飞机脱离跑道事件、印度孟买连环恐怖袭击事件、迈克尔·杰克逊逝世，到中国大陆的中央电视台新台址大火、石首事件、新疆骚乱事件等都能体现出来。[169]在伊朗总统大选事件中，美国政府更罕有地要求Twitter延后原本已经安排好的维修工作至伊朗当地时间的凌晨时分进行，好让网站在白天能继续正常运作。不过此举被外界批评有干涉伊朗內政之嫌，美国国务院则辩称Twitter是伊朗民众在总统大选后的重要联络工具，所以才下达此要求。Twitter则表示此决定是出自其网络服务供应商，而非国务院的强制规定。[170]
+在示威游行中的影响[编辑]
+2009年6月，在宣称伊朗总统大选舞弊之后，示威者利用Twitter作为串联和与外界通信的工具。[171][172][173][174]6月15日，因为几位用户和美国国务院的要求，Twitter取消了计划中的90分钟的离线维修。[175][176]CNN在这一事件中的报道被批评并被标签为#CNNfail[177]。Twitter同时被用于组织对伊朗政府网页的DDoS攻击。[178]
+2009年8月，当美国总统奥巴马的医疗改革计划的反对者攻击英国的全国医疗体系（NHS）时，上千NHS的用户利用Twitter的#welovetheNHS标签进行支持NHS并反对美国右派的运动，并得到了英国首相高登布朗的支持。[179][180][181][182]
+2009年G-20峰会在匹兹堡召开时，纽约市的异议人士艾略特麦迪逊（Elliot Madison）利用Twitter报道组织示威者避开警察的阻挠。警察袭击了麦迪逊的宾馆房间，一周后他在纽约的家也被FBI袭击并搜查了长达16个小时。麦迪逊被指利用计算机和无线电设备跟踪会议当天警察的行动并用手机和社交网络工具Twitter向示威者传递消息；他被指控妨碍公务，用通信设施犯罪和拥有犯罪工具。尽管搜查令只授权FBI探员搜查有可能违反联邦反暴乱法定证据，他们将冰箱磁铁，玩具猴等杂物统统没收。[183][184][185]
+在名人社會中的影响[编辑]
+现在，前美国总统奥巴马、NBA球星奥尼尔、Google、白宫和诸多新闻媒体等也先后在Twitter上开设帐号。而谷歌大中华区前总裁李开复开设的帐号更使Twitter在中国大陆提高了知名度。不过，Twitter上也有大量各式各样的假冒名人用户，以名人们的名义发表不实或不当言论。受害者包括伊旺·麥奎格、布兰妮、美国前总统乔治·W·布什及英国女王等。李开复的英文名“Kaifulee”在之前就曾被人捷足先登，在Twitter开设了账号，以他的名义来发布消息，被众多媒体引用。后来李开复与Twitter进行了沟通，才拿回了账号。[186]对于此现象，Twitter已开始改变先前放任不管的态度。目前公司正测试一款新系统，以确保用户能辨别出哪些是真正的名人用户。[187]
+据美国《商业周刊》在2009年5月的统计，使用Twitter的美国大公司執行長已经由2008年8月的18位增长至48位。[186]
+2009年下半年，Twitter被收录入《柯林斯英文词典》（Collins English Dictionary）30周年版中，“Twitter”的释义为“一个让人们发表有关个人现状的短消息的网站”，动词“tweet”的释义为“在Twitter网站上写短消息”。[169]
+應用程序外掛[编辑]
+與眾多社交网络相同的是，Twitter也提供許多應用程序的外掛链接，方便整理或快速刪除：
+
+
+
+TwitBird for Twitter
+TweetDeck and TweetDeck for iPhone
+flipboard，社交網站雜誌，提供如同實體雜誌化的電子預覽，可以與社交網站（包括twitter）作為链接。
+twitrub[失效連結]，提供快速删除twitter tweets的應用程序。
+
+
+
+Twitpic[编辑]
+
+Twitpic
+
+
+
+
+语言
+英文
+
+
+持有者
+Noah Everett→Twitter
+
+
+标语
+Share photos and videos on Twitter
+
+
+网站
+www.twitpic.com
+
+
+Alexa排名
+1436（2014年4月）[188]
+
+
+注册
+需要
+
+
+推出时间
+2008年2月
+
+
+现状
+唯讀模式
+
+
+由於Twitter初期並不支援貼圖功能，在2008年2月出現第三方圖片分享服務的Twitpic。然而Twitter於2011年6月內建圖片分享服務後，2012年9月取消App第三方圖片分享服務功能[189]，Twitpic因此逐漸式微。2014年9月，受Twitter商標侵權控訴及威脅收回API服務權限之下，宣告將被迫關閉。2014年10月，與Twitter協議收購其域名和照片存檔，Twitpic網站存續以便Twitter用戶保留過往資料、不再更新[190]。
+封锁[编辑]
+主条目：对推特的审查
+埃及[编辑]
+
+受反政府示威影响，埃及当局曾短暂封锁Twitter。[191]
+
+伊朗[编辑]
+
+德黑兰时间2009年5月23日15点Twitter被伊朗政府屏蔽。[192]
+
+中国大陸[编辑]
+
+2009年6月4日下午，中国大陸防火长城封锁Twitter。据报道，此次网络封锁估计与1989年天安门事件二十周年有关。中国大陸Twitter网民对此反应剧烈，并纷纷在更新中加入“#FuckGFW”等字句表示抗议，“#FuckGFW”亦很快登上Twitter热门关键词榜并曾超越关于法国航空447号班机事故的关键词“#Air France”位列第二位，后被“#China Blocks Twitter”代替。[193][194][195][196] 2009年6月8日中午，封锁解除。
+
+
+2009年7月5日，乌鲁木齐市发生七五骚乱事件。翌日下午，Twitter再次被封锁。Facebook也在7月7日遭到封锁至今未解除。[197][198] 8月6日，《中国国防报》发表文章指出Twitter、Facebook、Flickr和YouTube可以被“西方敌对势力”用作宣传与颠覆工具，并称“要加快提高网络隔绝、屏蔽、锁定和反击网上攻击的能力”。[199][200][201]雖然被封锁，但還有中国用户通过各种手段来登录与使用Twitter，如修改Hosts文件，使用twip，tweetr等搭建twitter API proxy，或使用Dabr、推特中文圈（或者基于推特中文圈的修改版本Rabr）等第三方站点或软件。[202][203]
+
+
+2011年2月19日，有網民在博訊新聞網上發出中國茉莉花革命的號召，號召網民於次日（即2月20日）上街集會。而當晚有部分中國大陸境內的網民反映能通過SSL直接連接Twitter和Facebook而無需翻牆。21日起，多个Google的IP及免费主机被封锁，以阻止中国大陸网民使用自己搭建的API（GTAP或Twip等）访问Twitter。[204]
+
+目前中国大陆地区无法直接登录Twitter，可通过突破网络审查的相关方法访问Twitter官网。
+对封锁的反制[编辑]
+
+由于Twitter开放应用程序接口，众多使用者搭建了大量的Twitter第三方应用，其中部分未被封锁。用户可通过未被封锁的Twitter第三方应用免“翻墙”的使用Twitter的服务。由于使用Twitter第三方应用有泄露密码的风险，2010年8月开始Twitter已经逐步停止未经OAuth认证的第三方应用，但用户仍无法避免第三方应用对自己的帐号发送广告或恶意链接的情况。
+2010年1月27日，Twitter称正在研发新技术，此项技术将被用于保护Twitter用户免遭来自中国和伊朗政府的网络审查。[205]
+2015年8月19日，Twitter以服務大中華區廣告主的變通方式在中國大陸啟用，僅對海外發布產品消息而非社群網路性質，對內仍屏蔽[206][207][208]。
+
+參見[编辑]
+
+Twitter服务与应用程序列表
+微博
+2009年伊朗綠色革命
+2010-2011年突尼斯骚乱
+推特共和国：与Twitter有关的电影
+
+參考文獻[编辑]
+
+
+^ 1.0 1.1 1.2 10-K Annual Report. SEC Filings. Twitter. 
+^ Twitter.com Site Info. Alexa Internet. [2017年11月1日]. 
+^ Twitter. Twitter认证官方账号发布的推文. [2015-08-19]. 推特大中华区账号，今天正式成立。 
+^ 引用错误：没有为名为alexa的参考文献提供内容
+^ 5.0 5.1 Twitter Team. Twitter Turns Six. Twitter Blog (blog of Twitter). 2012-03-21 [2012-04-06]. 
+^ Twitter Search Team. The Engineering Behind Twitter’s New Search Experience. Twitter Engineering Blog(blog of Twitter Engineering Division). 2011-05-31 [2011-06-10]. 
+^ [1][失效連結]
+^ D'Monte, Leslie. Swine Flu's Tweet Tweet Causes Online Flutter. Business Standard. 2009-04-29 [2011-02-04]. Also known as the 'SMS of the internet', Twitter is a free social networking and micro-blogging service 
+^ via SMS FAQ Retrieved April 13, 2012.
+^ Huang, Carol. Facebook and Twitter key to Arab Spring uprisings: report. The National. 2011-06-06 [2012-04-13]. 
+^ twitter上市专题
+^ 推特再傳求售 谷歌、Salesforce有興趣
+^ 13.0 13.1 Sagolla, Dom. How Twitter Was Born. 140 Characters. 2009-01-30 [2009-06-25]. 
+^ Sano, David. Twitter creator Jack Dorsey illuminates the site's founding document. 洛杉矶时报. 2009-02-18 [2009-06-18]. 
+^ Dorsey, Jack, just setting up my twttr, Twitter, 2006 [2009-06-19] 
+^ Malik, Om. Odeo RIP, Hello Obvious Corp. GigaOM. 2006-10-25 [2009-06-20]. 
+^ Lennon, Andrew. A Conversation With Twitter Co-Founder Jack Dorsey. The Daily Anchor. [2009-06-20]. 
+^ Douglas, Nick. Twitter blows up at SXSW Conference. Gawker. 2007-03-12 [2009-06-20]. （原始内容存档于2010-11-13）. 
+^ Levy, Steven. Twitter: Is Brevity The Next Big Thing. Newsweek. 2007-04-30 [2009-06-20]. 
+^ Terdiman, Daniel. To Twitter or Dodgeball at SXSW?. CNET. 2007-03-10 [2009-06-20]. 
+^ Stone, Biz. We Won!. Twitter. 2007-03-14 [2008-05-07]. 
+^ Press release（January 22, 2010）. "Media Advisory M10-012 – NASA Extends the World Wide Web Out into Space". NASA. Retrieved February 5, 2011.
+^ 网易科技. Twitter推出简体和繁体中文等5种新语言.  缺少或|url=为空 (帮助); 使用|accessdate=需要含有|url= (帮助)
+^ Miller, Claire Cain; Goel, Vindu. Twitter Sidelines One Founder and Promotes Another. Bits (blog of The New York Times). 2008-10-16 [2011-02-05]. 
+^  Miller, Claire Cain. Popularity or Income? Two Sites Fight It Out. The New York Times. 2008-10-20 [2008-11-05]. 
+^ McCarthy, Caroline. Twitter CEO Jack Dorsey Steps Down. CNET News. 2008-10-16 [2008-11-05]. 
+^ Staff writer. #newtwitterceo. Blog of Twitter. 2010-10-04 [2011-02-05]. 
+^ 28.0 28.1 Miller, Claire Cain. Two Twitter Founders Trade Places. The New York Times. 2011-03-28 [2011-03-28]. 
+^ Albanesius, Chloe. Twitter's Evan Williams Confirms Departure. PC Magazine (Ziff Davis). 2011-03-29 [2011-03-29]. 
+^ Beaumont, Claudine. Twitter Users Send 50 Million Tweets Per Day – Almost 600 Tweets Are Sent Every Second Through the Microblogging Site, According to Its Own Metrics. The Daily Telegraph. 2010-02-23 [2011-02-07]. 
+^ Staff writer. Twitter Registers 1,500 Per Cent Growth in Users. New Statesman. 2010-03-04 [2011-02-07]. 
+^ Garrett, Sean. Big Goals, Big Game, Big Records. Twitter Blog (blog of Twitter). 2010-06-18 [2011-02-07]. 
+^ Kazeniac, Andy. Social Networks: Facebook Takes Over Top Spot, Twitter Climbs. Compete Pulse (blog of compete.com). 2009-02-09 [2011-02-07]. 
+^ Miller, Claire Cain. Twitter Acquires Atebits, Maker of Tweetie. Bits (blog of The New York Times). 2010-04-11 [2011-02-07]. 
+^ Twitter Users Report Twitter.com Has A New Homepage(SCREENSHOTS). Huffingtonpost.com. 2011-05-04 [2011-05-22]. 
+^ Dunn, John E. Twitter Delays Homepage Revamp After Service Glitch. PCWorld. 2011-04-06 [2011-05-22]. 
+^ Crum, Chris. New Twitter Homepage Launched. 2011-04-20 [2011-04-25]. 
+^ Twitter: Yours to discover. Fly.twitter.com. [2012-01-20]. 
+^ Twitter / YouTube. Twitter 2.0: Everything You Need To Know About The New Changes. Fox News. 2010-04-07 [2012-01-20]. 
+^ Prodhan Georgina. Twitter partners with Yandex for real-time search. 2012-02-21. 
+^ Wasserman, Todd. Twitter Says It Has 140 Million Users. 2012-03-21. 
+^ Twitter heads to Motown to be closer to automakers. Reuters. 2012-04-04 [2012-04-05]. 
+^ Twitter to create 12 jobs as it scales up Irish operations. Irish Independent. 2012-04-04 [2012-04-05]. 
+^ Twitter发行价确定为每股26美元共募集18.2亿美元. 鳳凰網科技. 2013-11-07 [2013-11-07] （中文（中国大陆）‎）. 
+^ Twitter推特携亚马逊 开放标签购物. 新浪. 2014-05-05 [2014-05-05] （中文（中国大陆）‎）. 
+^ Twitter收购新型移动广告平台Namo Media. 新浪. 2014-06-05 [2014-06-05] （中文（中国大陆）‎）. 
+^ Twitter收购旧金山视频创业公司SnappyTV. 新浪. 2014-06-19 [2014-06-19] （中文（中国大陆）‎）. 
+^ Twitter收购的直播应用Periscope正式上线. 网易. 2015-03-26 [2015-04-29] （中文（中国大陆）‎）. 
+^ Twitter 收购广告技术提供商 TellApart，与谷歌旗下 DoubleClick 广告平台合作. TechCrunch. 2015-04-29 [2015-04-29] （中文（中国大陆）‎）. 
+^ 推特计划取消单条140字限制 字符容量将扩展至1万. 广州日报. 2016年1月9日 [2016年1月20日] （中文（中国大陆）‎）. 
+^ 推特傳Google想買 股價飆 2016-09-24 經濟日報
+^ Freeman, Eric. Twitter's Logo Is Named After Larry Bird. Yahoo!Sports. August 2011 [2016-11-21]. 
+^ Stutzman, Fred. The 12-Minute Definitive Guide to Twitter. AOL Developer Network. 2007-04-11 [2008-11-12]. （原始内容存档于2008-07-04）. 
+^ Using Twitter with Your Phone. Twitter Support. [2010-06-01]. We currently support 2-way (sending and receiving) Twitter SMS via short codes and 1-way (sending only) via long codes. 
+^ 55.0 55.1 Stone, Biz. There's a List for That. blog.twitter.com. 2009-10-30 [2010-02-01]. 
+^ Brown, Amanda. The tricky business of business tweeting. The Irish Times. 2011-03-02 [2011-04-28]. 
+^ Mobile Apps. 
+^ How Twitter Will Change the Way We Live. 時代 (雜誌). 2009-06-05 [2009-08-21]. 
+^ Strachan, Donald. Twitter: how to set up your account. The Daily Telegraph. 2009-02-19 [2009-06-14]. 
+^ Staff writer. Twitter Lists!. Support forum at help.twitter.com. undated [2011-02-13].  请检查|date=中的日期值 (帮助)
+^ Andrews, Robert. Twitter brings back UK SMS; Vodafone first, others to follows. The Guardian. 2009-03-27 [2009-06-07]. 
+^ Kutty, Darpana. Twitter, Bharti Airtel Tie-Up To Activate Twitter SMS Service in India. TopNews. 2009-10-15 [2011-02-23]. 
+^ SMStweet :: Send Twitter Message sing SMS in India. India. [2010-04-03]. 
+^ Balanarayan, N.T. Tweeting Via SMS Is In, the Way It Should Be. Daily News and Analysis. 2009-12-17 [2011-02-23]. 
+^ Update Twitter or Plurk by sending an SMS to a Singapore or Malaysia local number. Singapore. [2010-04-03]. 
+^ Wauters, Robin. URL Shortening Wars: Twitter Ditches TinyURL for bit.ly. TechCrunch. 2009-05-06 [2010-03-28]. 
+^ 67.0 67.1 67.2 67.3 67.4 Staff writer. About Twitter's Link Service. Twitter Help Center (module of Twitter). [2011-02-23]. 
+^ 68.0 68.1 68.2 Kelly, Ryan (编). Twitter Study – August 2009 (PDF). Twitter Study Reveals Interesting Results About Usage (PDF format; Adobe Reader required)使用|format=需要含有|url= (帮助). San Antonio, Texas: Pear Analytics. 2009-08-12 [2010-06-03]. 
+^ Twitter.com  – Traffic Details from Alexa. Alexa Internet. 2010-08-26 [2010-08-26]. 
+^ Kazeniac, Andy. Social Networks: Facebook Takes Over Top Spot, Twitter Climbs. Compete Pulse (blog of compete.com). 2009-02-09 [2011-02-07]. 
+^ McGiboney, Michelle. Twitter's Tweet Smell of Success. Nielsen. 2009-03-18 [2009-04-05]. 
+^ Hoffman, Stefanie. Twitter Quitters Outnumber Those Who Stay, Report Finds. United Business Media. 2009-04-29 [2009-04-29]. 
+^ Laura Locke,"Twitter video-sharing service nabs $6.5 million ", CNET, September 29, 2011
+^ Inside Twitter Clients – An Analysis of 500 Million Tweets. Sysomos. November 2009 [2010-08-23]. （原始内容存档于2010-09-01）. 
+^ Bloggers back media against youth league. [2010-04-03]. （原始内容存档于2011-07-18）. 
+^ Top Twitter Trends of 2009. [2010-04-03]. 
+^ By:  Vicky Woollaston. Justin Bieber fans beat Twitter 'block'. Web User magazine. [2012-01-20]. （原始内容存档于2012-11-22）. 
+^ Tweaking the Twitter homepage. [2010-04-03]. 
+^ Weiner, David. #Thatsafrican -- When Twitter Went Racist?. Huffington Post. 2009-06-21 [2010-04-03]. 
+^ Thingsdarkiessay causes a Twitter storm. South Africa: Independent Online. 2009-11-05 [2012-01-11]. 
+^ Twitter Applications and OAuth. Twitter. 2010-08-30 [2010-09-13]. 
+^ Volledige naam. Twitter. Twitter. [2012-10-19]. 
+^ Twitter for Firefox OS
+^ Twitter sets max user caps for 3rd party clients, tightens API rules to direct users to official apps
+^ comScore Report: Twitter Usage Exploding in Brazil, Indonesia and Venezuela. Bill Hartzer. 2010-08-11 [2011-05-22]. 
+^ The Netherlands lead Global Markets in Twitter.com reach. Comscoredatamine.com. 2011-02-10 [2011-05-22]. （原始内容存档于2011-04-15）. 
+^ 87.0 87.1 Miller, Claire Cain. Who's Driving Twitter's Popularity? Not Teens. The New York Times. 2009-08-25 [2009-09-18]. 
+^ Lipsman, Andrew. What Ashton vs. CNN Foretold About the Changing Demographics of Twitter. comScore. 2009-09-02 [2009-09-18]. （原始内容存档于2009-09-07）. 
+^ Cheng, Alex; Evans, Mark. Inside Twitter – An In-Depth Look Inside the Twitter World. Sysomos. June 2009 [2011-02-23].  引文使用过时参数coauthors (帮助)
+^ Bluff, Brian. Who Uses Twitter?. site-seeker.com. May 2010 [2010-09-22]. （原始内容存档于2010-05-31）. 
+^ Taylor, Chris. Twitter has 100 million active users. 2011-09-08. 
+^ Yarrow, Jay,There's Only One Place In The World Where Twitter Is Bigger Than Facebook, Business Insider, January 6, 2012. Retrieved January 11, 2012.
+^ 93.0 93.1 Twitter Raises Over $35M in Series C. MarketingVOX. 2009-02-16 [2009-06-17]. （原始内容存档于2011-08-07）. 
+^ Womack, Brian. Twitter Shuns Venture-Capital Money as Startup Values Plunge. Bloomberg L.P. 2008-11-12 [2008-11-12]. （原始内容存档于2010-05-25）. 
+^ Miller, Claire Cain. Twitter Sidelines One Founder and Promotes Another. The New York Times. 2008-10-16 [2008-11-05]. 
+^ Snyder, Bill. Twitter: Fanatical users help build the brand, but not revenue. The Industry Standard. 2008-03-31 [2008-05-07]. （原始内容存档于2010-03-16）. 
+^ Miller, Claire Cain. Twitter Plans To Offer Shopping Advice and Easy Purchasing. Bits (blog of The New York Times）. 2009-06-19 [2011-02-23]. 
+^ Ante, Spencer E.; Efrati, Amir; Das, Anupretta. Twitter as Tech Bubble Barometer. The Wall Street Journal. 2011-02-10 [2011-02-23]. 
+^ Carlson, Nicholas. Twitter Valued At $7.8 Billion In Private Market Auction. Business Insider via San Francisco Chronicle (Hearst). 2011-03-04 [2011-03-26]. 
+^ Delevett, Peter. Twitter lands $800 million venture capital deal, breaking record. San Jose Mercury News. 2011-08-01. 
+^ Althucher, James. 6 Reasons Groupon's Rejection of Google Is Great for the Universe. The Altucher Confidential(blog of James Altucher via Business Insider). 2010-12-10 [2011-02-23]. 
+^ Scott, Mark. Saudi Prince Invests $300 Million in Twitter. The New York Times. 2011-12-19 [2011-12-19]. 
+^ 引用错误：没有为名为NYT-Twitter Hacked的参考文献提供内容
+^ Stone, Biz. Twitter, Even More Open Than We Wanted. Twitter. 2007-07-15 [2008-05-07]. 
+^ Arthur, Charles. Twitter Unveils 'Promoted Tweets' Ad Plan – Twitter To Let Advertisers Pay for Tweets To Appear in Search Results. The Guardian (London). 2010-04-13 [2011-02-23]. 
+^ Kimberley, Sara. Twitter Debuts 'Promoted Tweets' Ad Platform. MediaWeek (U.K. edition). 2010-04-13 [2011-02-05]. 
+^ Wasserman, Todd. Twitter Rolls Out Promoted Tweets for Mobile. 2012-03-20. 
+^ Twitter Will Automate Ad-Buying by the End of the Year
+^ Stutzman, Fred. The 12-Minute Definitive Guide to Twitter. AOL Developer Network. 2007-04-11 [2008-11-12]. （原始内容存档于2008-07-04）. 
+^ Gomes, Lee. The Pied Piper of Pay. Forbes. 2009-06-22 [2009-06-16]. 
+^ ryan king. Twitter on Ruby. 2009-09-25 [2009-10-31]. We recently migrated Twitter from a custom Ruby 1.8.6 build to a Ruby Enterprise Edition release candidate, courtesy of Phusion. Our primary motivation was the integration of Brent's MBARI patches, which increase memory stability. 
+^ Payne, Alex. Announcing Starling. Twitter. 2008-01-16 [2009-01-11]. （原始内容存档于2008-01-20）. 
+^ Venners, Bill. Twitter on Scala. Artima Developer. 2009-04-03 [2009-06-17]. 
+^ API Documentation. Google Groups. [2008-05-08]. 
+^ Twitter's New Search Architecture
+^ Twitter Search is Now 3x Faster
+^ Stone, Biz. Twitter Search for Everyone!. Twitter. 2009-04-30 [2008-05-07]. 
+^ Twitter Arabic, Farsi, Hebrew and Urdu version launch. BBC News. 2012-03-07 [2012-03-07]. 
+^ Whyte, Murray. Tweet, Tweet – There's Been an Earthquake. Toronto Star. 2008-06-01 [2011-02-23]. 
+^  Walker, Rob. Consumed  – Fail Whale. The New York Times Magazine. 2009-02-15: 17 [2009-02-15]. 
+^ Staff writer. Twitter Growing Pains Cause Lots of Downtime in 2007. Royal Pingdom (blog of Pingdom). 2007-12-19 [2011-02-23]. 
+^ Dorsey, Jack. MacWorld. Twitter Blog (blog of Twitter). 2008-01-15 [2011-02-23]. 
+^ Kuramoto, Jake. MacWorld Brings Twitter to its Knees. Oracle AppsLab. 2008-01-15 [2008-05-07]. 
+^ Changes for Some SMS Users—Good and Bad News. Twitter (blog). 2008-08-13 [2009-06-14]. 
+^ Dorsey, Jack. Twitter IM Down May 23–24. Get Satisfaction. 2008-05-23 [2008-07-29]. 
+^ Williams, Evan. IM: Not Coming Soon. Twitter status blog. 2008-10-10 [2008-12-31]. （原始内容存档于2008-12-20）. 
+^ Siegler, MG. Twitter Moves Up The Twitpocalypse. All Hell May Break Loose Today.. TechCrunch. 2009-06-12 [2009-07-18]. 
+^ O'Brien, John. MacChat: 2009 – The Age of the Twitpocalypse. Tech Blog (blog of news.com.au). 2009-06-24 [2011-02-23]. （原始内容存档于2009-07-11）. 
+^ Google & Twitter crash at news of Jackson’s death. News.icm.ac.uk. 2009-06-26 [2011-11-14]. （原始内容存档于2011-11-17）. 
+^ Claburn, Thomas. Twitter Downed by Denial of Service Attack. InformationWeek. 2009-08-06 [2009-08-06]. 
+^ Staff writer. Web Attack 'Aimed at One Blogger'. BBC News. 2009-08-07 [2011-02-23]. 
+^ Parr, Ben. Twitpocalypse II: Twitter Apps Might Break Tomorrow. Mashable. 2009-09-21 [2011-02-23]. 
+^ Staff writer. Twitter Hackers Appear To Be Shiite Group. CNN. 2009-12-18 [2011-02-23]. 
+^ Tianyin Xu, Yang Chen, Lei Jiao, Ben Y. Zhao, Pan Hui, and Xiaoming Fu. Scaling Microblogging Services with Divergent Traffic Demands (PDF). Proc. of the ACM/IFIP/USENIX 12th International Middleware Conference (Middleware'11）. December 2011. 
+^ Twitter Privacy Policy. Twitter. 2007-05-14 [2009-03-11]. 
+^ Hansell, Saul. Advertisers Are Watching Your Every Tweet. The New York Times. 2009-07-16 [2009-07-17]. 
+^ Gilbertson, Scott. Twitter Vulnerability: Spoof Caller ID To Take Over Any Account. Webmonkey. 2007-06-11 [2011-02-05]. 
+^ Leyden, John. Twitter SMS Spoofing Still Undead. The Register. 2009-03-06 [2009-06-17]. 
+^ Stone, Biz. Monday Morning Madness. 2009-01-05 [2009-06-17]. 
+^ Bellantoni, Christina; Stephen Dinan. Obama's Twitter Site Hacked?. The Washington Times. 2009-01-05 [2009-01-05].  引文使用过时参数coauthors (帮助)
+^ McCarthy, Caroline. Twitter Power Players Get Shiny 'Verified' Badges. The Social (blog of cNET.com). 2009-06-12 [2011-02-23]. 
+^ Ostrow, Adam. Twitter Bug Lets You Control Who Follows You. Mashable. 2010-05-10 [2010-05-11]. 
+^ Gonsalves, Antone. Twitter, Feds Settle Security Charges – Twitter Must Establish and Maintain a 'Comprehensive Information Security Program' and Allow Third-Party Review of the Program Biannually for the 10 Years. InformationWeek. 2010-06-25 [2011-02-23]. 
+^ 144.0 144.1 144.2 144.3 Fildes, Jonathan. Twitter Scrambles To Block Worms. BBC News. 2010-09-21 [2011-02-23]. 
+^ 145.0 145.1 145.2 Schroeder, Stan. 17-Year-Old Australian Boy, Japanese Developer Take Blame for Twitter Meltdown. Mashable. 2010-09-22 [2011-02-23]. 
+^ Twitter Status – XSS Attack Identified and Patched. status.twitter.com. [2010-09-21]. （原始内容存档于2010-09-23）. 
+^ Staff writer. Kiwi Link To Twitter 'Mouseover' Chaos. The New Zealand Herald. 2010-09-22 [2011-02-23]. 
+^ Twitter Subpoena (PDF). Salon.com. [2011-01-10]. （原始内容 (PDF; requires Adobe Reader)存档于2011-01-11）. 
+^ Rushe, Dominic. Icelandic MP Fights US Demand for Her Twitter Account Details. The Guardian (London). 2011-01-08 [2011-01-10]. 
+^ Twitter Inc., Unknown Posters Sued by Athlete Known as ‘CTB’ at U.K. Court From: bloomberg.com Date: May 20, 2011
+^ Twitter users served with privacy injunction. Politics.co.uk. [2011-05-22]. 
+^ Parker, Nick. Imogen footie rat in bid to gag Twitter site. London: The Sun. 2011-05-20 [2011-05-22]. 
+^ Twitter's European boss Tony Wang gives legal warning. BBC News (UK). 2011-05-25 [2011-05-25]. 
+^ Smith, Lewis. Twitter chief hints he may have to divulge users' names. The Independent (UK). 2011-05-26 [2011-12-13]. 
+^ "Mr Monkey" accessed 30 May 2011
+^ South Tyneside Council takes Twitter to court in US. BBC News. 2011-05-29. 
+^ Smith, Catharine. Twitter Buys Dasient Security Startup To Combat Spam. 2012-01-23. 
+^ Twitter to selectively 'censor' tweets by country. BBC News. 2012-01-27. 
+^ Twitter Blog - Tweets still must flow 26 January 2012. Retrieved 27 January 2012.
+^ Bilton, Nick. Twitter Implements Do Not Track Privacy Option. The New York Times. 2012-05-17 [2012-05-26]. 
+^ Twitter / OpenSource. Twitter.com. [2010-06-01]. 
+^ Terrence O’Brien “Twitter introduces Innovators Patent Agreement, vows to not abuse patent system”, Engadget, 17 April 2012
+^ 163.0 163.1 163.2 Garrett, Sean. Links and Twitter: Length Shouldn't Matter. Twitter Blog (blog of Twitter）. 2010-06-08 [2011-02-23]. 
+^ Metz, Cade. Twitter Tightens Grip on Own Firehose. The Register. 2010-09-02 [2011-02-23]. 
+^ Weisenthal, Joe. Twitter Switches from TinyURL to Bit.ly. Business Insider. 2009-05-06 [2011-02-23]. 
+^ Penner, Carolyn. Link Sharing Made Simple. Twitter Blog (blog of Twitter). 2011-06-07 [2011-06-09]. 
+^ Twitter now with integrated photo-sharing service and completely new twitter search. Techshrimp. 2011-06-01 [2011-06-01]. （原始内容存档于2011-06-30）. 
+^ 168.0 168.1 Mike Flacy, Digital Trends. "Twitter photo sharing goes live for all users." August 9, 2011. Retrieved August 10, 2011.
+^ 169.0 169.1 饭否歇了，Twitter的晚餐在哪里？. 南都周刊. 2009-07-17 [2009-09-22]. 
+^ Twitter网站押后维修被指干涉伊朗内政. 星岛环球网. 2009-06-17 [2009-10-31]. 
+^ Veiszadeh, Ehssan. Twitter freedom's only link in Iran. The Australian. 2009-06-16 [2009-06-16]. 
+^ Berman, Ari. Iran's Twitter Revolution. The Nation. 2009-06-15 [2009-06-15]. 
+^ Bright, Arthur. Iranian media crackdown prompts Tweets and blogs. The Christian Science Monitor. 2009-06-15 [2009-06-15]. 
+^ Iran Protesters Using Tech To Skirt Curbs. CBS News. 2009-06-15 [2009-06-15]. 
+^ LaVallee, Andrew. Web Users in Iran Reach Overseas for Proxies. 华尔街日报. 2009-06-15 [2009-06-16]. 
+^ Musgrove, Mike. Twitter Is a Player In Iran's Drama. The Washington Post. 2009-06-17 [2009-07-09]. 
+^ Terdiman, Daniel. '#CNNFail': Twitterverse slams network's Iran absence. CNet. 2009-06-14. 
+^ Cyber activists target Iranian government websites. 2009-06-17 [2009-07-17]. 
+^ Mann, Bill. "Graham Linehan’s We Love the NHS campaign shows political power of Twitter", "The First Post", 2009-8-14.
+^ Gordon and Sarah Brown join US pro-NHS Twitter campaign
+^ Linehan attacks American 'lies' over NHS. Channel 4. 2009-08-14 [2009-08-15]. 
+^ Jacobson, Seth. How Father Ted creator Graha Linehan sparked NHS backlash on Twitter. The First Post. 2009-08-12 [2009-08-15]. 
+^ Twitter Crackdown: NYC Activist Arrested for Using Social Networking Site during G-20 Protest in Pittsburgh. Democracy Now!. 2009-10-06. 
+^ Man Arrested for Twittering Goes to Court, EFF Has the Documents. Electronic Frontier Foundation. 2009-10-05. 
+^ Amy Goodman. Watch What You Tweet. truthdig. 2009-10-06. 
+^ 186.0 186.1 Twitter时代：人人都可发新闻. 南方都市报. 2009-07-12 [2009-09-22]. （原始内容存档于2009-09-16）. 
+^ 冒牌名人泛濫Twitter一改放任態度高舉打假大旗. 鉅亨網. 2009-09-21 [2009-09-22]. （原始内容存档于2010-12-03）. 
+^ Twitpic.com Site Info. Alexa Internet. [2014-04-01]. 
+^ Twitter to Dump Third-Party Image Hosts From Apps. Mashable. 2012-09-18.
+^ Twitpic Blog
+^ Facebook and Twitter unblocked, but Google and YouTube still blocked for many in Egypt [Updated]. TNW. 2011-01-27 [2011-01-27]. 
+^ 大选临近，伊朗政府封锁Facebook和Twitter. 东方早报. 2009-05-25 [2010-03-20]. [失效連結]
+^ China Blocks Twitter, Flickr, Others as Tiananmen Anniversary Looms. 福克斯新闻. 2009-06-02 [2009-06-02]. 
+^ Twitterers defy China's firewall. BBC. 2009-06-10 [2009-09-22]. 
+^ Twitter Goes Down in China. 华尔街日报. 2009-06-02 [2009-06-02]. 
+^ China blocks Twitter, Flickr and Hotmail ahead of Tiananmen anniversary. 卫报. 2009-06-02 [2009-06-02]. 
+^ China Blocks Access To Twitter, Facebook After Riots. TechCrunch. 2009-07-07 [2009-07-07]. 
+^ China Disables Twitter, Then Facebook, as Civil Unrest Ensues. Fast Company. 2009-07-07 [2009-07-07]. 
+^ 网络颠覆：不容小觑的安全威胁. 中国军网数字报. 2009年8月6日 [2009年10月1日]. （原始内容存档于2009年10月5日）. 
+^ 中共军报提出网路颠覆论. 中央社. 2009-08-07 [2009-09-13]. 
+^ 中国军方：Twitter和YouTube成颠覆工具. 南洋视界. 2009-08-07 [2009-09-13]. 
+^ 高明. 中国网民怎么上Twitter？. FT中文网. 2009-09-01 [2009-11-01]. 
+^ 访问微博客软件遭封锁用户纷纷抗议GFW. RFA. 2009-10-14 [2011-03-22]. 
+^ 茉莉花革命令大陆大规模封锁网络. RFA. 2011-02-23 [2011-03-22]. 
+^ Twitter works on technology to evade censors. 金融时报. 2010-01-27 [2010-01-28] （英语）. 
+^ 「推特」設香港分部擬再拓大中華業務. BBC. 2015-03-11. 
+^ Twitter appoints new Greater China head as number of Chinese advertisers balloons over 300 per cent. South China Morning Post. 2016-04-15. 
+^ 中國廣告激增 推特任命首位大中華區掌門人. BBC. 2016-04-16. 
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：Twitter
+
+
+
+
+您可以在維基教科書中查找此百科条目的相關電子教程：
+Twitter
+
+
+
+這是本條目的朗讀版本（info/dl）
+
+
+
+
+
+
+
+
+
+
+
+
+此音頻文件是根據2009年10月11日的“Twitter”條目的修訂版本創建的，以普通话朗讀，不會反映對該條目的後續編輯。（媒體幫助）
+更多有聲條目
+
+
+Twitter 官網
+Twitter 手机版
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Twitter
+
+
+
+
+
+
+客戶端
+
+Twitter服务与应用程序列表 · Twitter服务与应用程序列表 · Brizzly（英语：Brizzly）  · HOSEbird（英语：HOSEbird） · HootSuite · Twidroid · TweetDeck · Tweetie · Twitterrific · Twhirl（英语：Twhirl）
+
+
+
+
+
+
+人物
+
+杰克·多西 (创建者/主席) · 埃文·威廉姆斯 (CEO) · 比兹·斯通 (创意总监)
+
+
+
+
+
+
+軟體
+
+
+
+FlockDB（英语：FlockDB）
+Kestrel（英语：Kestrel）
+MySQL
+椋鸟科
+攀緣植物
+
+
+
+
+
+
+
+
+相关主题
+
+
+
+推特黑（英语：Black Twitter） · 对推特的审查 · 短篇奖（英语：Shorty Awards） · 推特炸弹（英语：Twitter bomb） · 推特的用途（英语：Twitter usage）
+
+公众人物对推特的使用（英语：Use of Twitter by public figures）
+
+
+
+
+
+
+
+
+
+
+兼并与
+收购（英语：List of mergers and acquisitions by Twitter）
+
+
+
+BackType（英语：BackType）
+Bluefin Labs（英语：Bluefin Labs）
+Dasient（英语：Dasient）
+Gnip（英语：Gnip）
+Mitro（英语：Mitro）
+Namo Media（英语：Namo Media）
+Posterous（英语：Posterous）
+Summify（英语：Summify）
+Trendrr（英语：Trendrr）
+TweetDeck
+Tweetie
+Vine
+Whisper Systems（英语：Whisper Systems）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+社交网络服务
+
+
+
+
+
+
+網站
+
+
+
+
+
+个人应用
+
+
+
+
+Ask.fm
+AcFun
+ANobii
+Badoo
+Bebo
+Bilibili
+Cyworld
+Diaspora
+Facebook
+Foursquare
+FriendFeed
+Friendster
+GetGlue（英语：GetGlue）
+Google+
+Hi5
+Hyves（英语：Hyves）
+ibibo（英语：ibibo）
+Instagram
+Last.fm
+LINE
+Myspace
+Netlog
+Nextdoor（英语：Nextdoor）
+NICONICO
+Odnoklassniki
+Path
+Pinterest
+PlentyOfFish
+噗浪
+StudiVZ
+Tagged（英语：Tagged）
+Tout（英语：Tout）
+Tribe.net（英语：Tribe.net）
+Tuenti
+Tumblr
+Twitter
+Vine
+VKontakte
+Facenama
+YouTube
+天涯社区
+开心网
+人人网
+豆瓣
+博客网
+騰訊微博
+新浪微博
+新浪博客
+百度贴吧
+QQ空间
+知乎
+优酷网
+土豆网
+网易云音乐
+虾米音乐
+米聊
+微信
+陌陌
+猫途鹰
+大众点评网
+果壳网
+蚂蜂窝
+背包客栈
+穷游网
+
+
+
+
+
+
+
+
+
+专业应用
+
+
+
+
+Academia.edu（英语：Academia.edu）
+Brainly（英语：Brainly）
+BranchOut（英语：BranchOut）
+Edmodo（英语：Edmodo）
+eXo Platform（英语：eXo Platform）
+Hub Culture（英语：Hub Culture）
+IBM Connections（英语：IBM Connections）
+LinkedIn
+Plaxo（英语：Plaxo）
+ResearchGate
+Sciencescape（英语：Sciencescape）
+Solaborate
+Viadeo
+XING
+IdeaPlane（英语：IdeaPlane）
+Yammer
+
+
+
+
+
+
+
+
+
+停止开发
+
+
+
+
+Jaiku
+Orkut
+SixDegrees.com（英语：SixDegrees.com）
+Me2day
+
+
+
+
+
+
+
+
+
+白標服務
+
+
+
+
+Ning
+Wall.fm（英语：Wall.fm）
+
+
+
+
+
+
+
+
+
+
+
+工具
+
+
+
+Facebook Connect（英语：Facebook Platform#Facebook Connect）
+OpenSocial
+社交网络分析软件
+Diaspora
+
+
+
+
+
+
+
+
+常规
+
+
+
+软件比较
+网络身份
+用户信息
+虚拟社区
+1亿以上用户
+
+
+
+
+
+
+
+
+應用
+
+
+
+社交网络广告
+社交网络托管服务
+在线约会服务
+移动社交网络
+
+
+
+
+
+
+
+
+啟示
+
+
+
+隐私问题
+性别差异
+调查应用
+
+
+
+
+
+
+
+
+相關概念
+
+
+
+六度分隔理论
+小世界網路
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+全球主要信息技术公司
+
+
+
+
+
+
+
+
+
+最大的信息技术公司列表
+最大的網際網路公司列表
+最大的軟體公司列表
+全球二十大半導體廠商
+
+
+
+
+
+
+
+
+消費电子产品
+
+
+
+
+
+行動裝置[1]
+
+
+
+
+蘋果
+三星电子
+華為
+索尼移動通信
+宏达电
+華碩
+摩托罗拉移动
+小米
+LG電子
+TCL
+步步高电子（包括Vivo、OPPO以及OnePlus）
+中興
+魅族
+夏普
+富可視
+Micromax
+Tecno
+
+
+
+
+
+
+
+
+
+个人电脑[2]
+
+
+
+
+聯想
+惠普
+戴尔
+蘋果
+宏碁
+華碩
+微星
+东芝
+三星电子
+清华同方
+富士通
+
+
+
+
+
+
+
+
+
+組裝代工
+
+
+
+
+鴻海
+富智康
+廣達
+仁寶
+緯創
+英業達
+和碩
+偉創力
+Celestica
+Jabil
+Sanmina-SCI
+冠捷
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+诺基亚
+酷派
+黑莓
+日本電氣
+
+
+
+
+
+
+
+
+
+
+
+影像
+
+
+
+佳能
+三星
+尼康
+索尼
+徕卡
+奥林巴斯
+柯尼卡美能达
+柯达
+京瓷
+利盟
+理光
+精工愛普生
+惠普
+夏普
+东芝
+施乐
+大立光電
+
+
+
+
+
+
+
+
+数据保存
+
+
+
+
+
+硬盘[3]
+
+
+
+
+希捷科技
+威騰電子
+日立存储
+东芝
+三星
+
+
+
+
+
+
+
+戴尔
+易安信
+富士通
+惠普
+IBM
+威騰電子
+網路器械
+甲骨文
+
+
+
+
+
+
+
+
+咨询和外包服務
+
+
+
+埃森哲
+源訊
+博思艾伦汉密尔顿控股公司
+BT
+CACI
+凱捷
+CGI Group
+高知特
+CSC
+德勤
+戴尔
+神州数码
+富士通
+HCL Technologies
+日立
+EDS
+IBM
+Indra
+印孚瑟斯
+日本電氣
+NTT
+Orange Business Services
+TCS
+T-Systems
+Wipro
+
+
+
+
+
+
+
+
+大型计算机
+
+
+
+
+
+大型主機
+
+
+
+
+富士通
+IBM
+
+
+
+
+
+
+
+
+
+伺服器
+
+
+
+
+IBM
+甲骨文
+思科
+
+
+
+
+
+
+
+
+
+PoS系統
+
+
+
+
+NCR
+東芝
+
+
+
+
+
+
+
+
+
+
+
+網路設備（英语：Network equipment provider）
+
+
+
+阿爾卡特-朗訊
+亚美亚
+思科
+愛立信
+富士通
+惠普
+华为
+瞻博網路
+摩托罗拉解决方案
+日本電氣
+諾基亞通信
+三星
+中興
+
+
+
+
+
+
+
+
+半导体製造
+
+
+
+
+
+IC設計
+
+
+
+
+英特爾
+三星
+高通
+美光
+SK海力士
+東芝
+德州儀器
+博通
+意法半導體
+瑞薩
+超威
+英偉達
+華爲(海思半導體)
+聯發科
+飛思卡爾
+富士通
+索尼
+LG
+英飛凌
+邁威爾
+恩智浦
+松下
+安森美
+快捷
+LSI公司
+紫光集團
+安謀控股
+
+
+
+
+
+
+
+
+
+晶圓代工
+
+
+
+
+台積電
+聯華電子
+格羅方德
+中芯國際
+力晶科技
+
+
+
+
+
+
+
+
+
+
+
+互联网[4]
+
+
+
+
+
+电子商务
+
+
+
+
+阿里巴巴
+Amazon
+eBay
+Priceline集團
+京東商城
+Groupon
+Flipkart
+樂天
+貓途鷹
+Expedia
+唯品會
+攜程旅行網
+Lazada
+MercadoLibre
+
+
+
+
+
+
+
+
+
+搜索引擎
+
+
+
+
+Google
+百度
+微软
+雅虎
+Naver
+Yandex
+奇虎360
+搜狗
+
+
+
+
+
+
+
+
+
+社群網路
+
+
+
+
+Facebook
+騰訊
+Twitter
+領英
+新浪微博
+VKontakte
+
+
+
+
+
+
+
+
+
+入口网站
+
+
+
+
+网易
+Oath (Yahoo! 及 AOL)
+新浪
+
+
+
+
+
+
+
+
+
+
+
+軟體
+
+
+
+微软
+甲骨文
+SAP
+賽門鐵克
+VMware
+CA公司
+Adobe
+蘋果
+Google
+IBM
+惠普
+Intuit
+趨勢科技
+訊連科技
+華為
+海尔
+中興
+Salesforce.com
+
+
+
+
+
+
+
+
+电信服務
+
+
+
+
+
+十大电信运营商[5]
+
+
+
+
+AT&T
+威訊
+中国移动
+日本電信電話
+德國電信
+軟銀
+沃達豐
+美洲行動通訊（英语：América Móvil）
+中國電信
+西班牙電信
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+Orange
+中国联通
+KDDI
+英國電信
+義大利電信
+澳大利亞電信
+韩国电信
+世紀互聯（英语：CenturyLink）
+BCE公司（英语：BCE Inc.）
+挪威電信（英语：Telenor）
+威瑞森
+維旺迪
+中華電信
+荷蘭皇家電信
+NTT DOCOMO
+Reliance
+Sprint Nextel
+TeliaSonera
+3 (電訊)
+新加坡電信
+Etisalat
+TeliaSonera
+T-Mobile
+SK電訊
+電訊盈科
+
+
+
+
+
+
+
+
+
+
+
+电子游戏
+
+
+
+动视暴雪
+雅达利股份公司
+万代南梦宫娱乐
+卡普空‎
+艺电
+Epic Games
+LucasArts
+光荣特库摩
+科樂美
+NCsoft
+Nexon
+任天堂
+世嘉
+索尼
+史克威尔艾尼克斯
+Take-Two Interactive
+腾讯
+育碧
+華納兄弟
+
+
+
+
+
+
+
+
+数据来源
+
+
+
+^ TrendForce：2015年全球智慧型手機出貨12.93億支
+^ IDC：全球十大PC厂商将有两家退出市场2015年11月07日
+^ 全球硬盘市场大洗牌 仅存5家生产商
+^ 2015年全球互联网公司市值前20强排名
+^ The World’s Biggest Public Companies. Forbes. [2 June 2016] （英语）. 
+
+
+
+
+
+
+
+
+
+收錄標準：年營業收入超過30億美元；特例：組別5（主機）為10億美元，組別11（網際網路）為15億美元，組別13（電信）為200億美元。
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 125720882
+LCCN: n2009031956
+GND: 7660487-1
+BIBSYS: 14023121
+
+
+
+
+
+
+
+
+
+
+
+
+分类：纽约证券交易所上市公司2006年建立的网站Twitter網站Web 2.0微博客被中華人民共和國封鎖的網站虛擬社群Android软件Firefox OS軟體IOS软件Windows Phone软件隐藏分类：有参考文献错误的页面带有失效链接的条目含有缺少网址的网站引用的页面含有访问日期但无网址的引用的页面引文格式1错误：日期含有格式却不含网址的引用的页面含有过时参数的引用的页面条目有永久失效的外部链接CS1英语来源 (en)待更新条目使用过时图像语法的页面含有英語的條目使用未知Infobox website参数的页面维基共享资源模板未填写分类有声条目嵌入hAudio微格式的條目包含规范控制信息的维基百科条目

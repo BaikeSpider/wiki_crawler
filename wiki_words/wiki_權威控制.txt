@@ -1,0 +1,111 @@
+權威控制
+
+
+ 关于維基百科的規範控制模板，请见Template:Authority control。
+
+
+
+
+
+
+
+本条目可参照英語維基百科相應條目来扩充。 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+
+
+
+
+
+
+權威控制或规范控制[註 1]，是图书馆信息学中一个整理圖書館目錄（英语：Library catalog）和目录信息的方式[7][8]，使同一主题使用相同、唯一的标题。这些标题贯彻整个目录库[9]并且能与其他交叉引用的数据库协同工作[9][10]。每个标题简明扼要地其应用范围和用法，此组织形式方便了图书馆工作人员而且对研究者很友好[11]。
+分配给同一主题如作者、书籍、系列图书或合著图书一个独特唯一的标题，在与此相关的引用中都只使用此标题，就算作者拥有其他筆名或化名[12]。例如，作家林良的筆名為子敏，又被稱為小太陽，該館就可訂定一致的題名，當讀者查檢作者林良時，就可檢索到所有林良的作品[12]。作者记录可以合并到一个数据库中成为一个作者文件，维护更新这些文件以及其间的“逻辑关系”也是图书馆员及信息编录人员的工作[13]。因此，规范控制是受控词表和目录控制（英语：Bibliographic control）的一个例子。
+虽然从理论上来讲，任何一条信息都可进行规范控制，如个人或企业的名称、统一标题、系列和主题[8]，图书馆编目通常侧重于作者姓名和书名。虽然它们通常单独考虑，不过美国国会图书馆的主题词（英语：Library of Congress Subject Headings）所起到的作用和规范控制类似。随着时间的推移和信息的变化促使这些信息重组的要求会越来越明显。根据一个观点，规范控制的宗旨并不在于创建一个天衣无缝的系统，而在于在帮助用户寻找信息的前提下不断努力适应变化提供更为“结构和秩序化”的内容[11]。
+在傳統人工編目系統中，用來維持卡片目錄著錄標目之一致性；在線上編目系統中，則可利用系統自動聯結與指引功能，辨識個人作者或團體作者的匿名重複性與更替情形，同時將相關主題聚集在一起。權威控制除了提供各個圖書館管理館藏與讀者檢索的便利，對於各館之間館藏交流或整合查詢也有重大影響，如果兩個合作館的规范控制系统不相同時，就會造成讀者檢索時無法檢索到所需的完整館藏。
+
+
+
+目录
+
+
+1 注释
+2 參考文獻
+
+2.1 引用
+2.2 来源
+
+
+3 参见
+
+
+
+注释[编辑]
+
+
+^ 「權威控制」主要见于繁体中文文献，「规范控制」主要见于简体中文文献[1]，日語译为典拠管理[2]（“拠”同“据”[3]），韓語譯為典據統制，均对应英文“Authority Control”。authority在这里不代表通常的权威的意思，而表示唯一地辨识作者（author）之意，authority的这两个义项在词源上是相通的[4][5][6]。
+
+
+參考文獻[编辑]
+引用[编辑]
+
+
+^ 邹瑾. 数字环境下的书目权威控制. 云南档案. 2006, (04) （中文（简体）‎）. 权威控制（Authority Control），也称规范控制，……，本文按照英文字面意思，参照港台地区的惯例，采用“权威控制”的译法 
+^ 典拠管理の英語. Weblio英和辞典. JST科学技術用語日英对译辞書 （日语）. 
+^ 拠. 新华字典 （中文（简体）‎）. 
+'^ auctor辞源检索. 在线词源词典. 道格拉斯·哈珀. 2013 [2013-07-19] （英语）. author (n) — c.1300, autor "father," from O.Fr. auctor, acteor "author, originator, creator, instigator (12c., Mod.Fr. auteur), from L. auctorem (nom. auctor) ... --authority (n.) — early 13c., autorite "book or quotation that settles an argument," from O.Fr. auctorité "authority, prestige, right, permission, dignity, gravity; the Scriptures" (12c.; Mod.Fr. autorité), ... (see author). ... （注：author和authority 的辞源如auctor或autor、autorite都来自13世纪。）
+^ authority (control). Memidex. December 7, 2012 [2012-12-07] （英语）. Etymology ... autorite "book or quotation that settles an argument", from Old French auctorité... 
+^ authority. 韦氏词典. 2012-11-07 [2012-12-07] （英语）. See "Origin of authority" -- Middle English auctorite, from Anglo-French auctorité, from Latin auctoritat-, auctoritas opinion, decision, power, from auctor First Known Use: 13th century... 
+^ Block, Rick J. 1999. "Authority Control: What It Is and Why It Matters.", [2006-03-30]
+^ 8.0 8.1 Why Does a Library Catalog Need Authority Control and What Is. IMPLEMENTING AUTHORITY CONTROL. 美国: Vermont Department of Libraries. 2003 [2013-07-19] （英语）. 
+^ 9.0 9.1 Authority Control at the NMSU Library. 美国: 新墨西哥州立大学. 2007 [2012-11-25]. （原始内容存档于2010-06-04） （英语）. 
+^ Authority Control in the Card Environment. IMPLEMENTING AUTHORITY CONTROL. 美国: Vermont Department of Libraries. 2003 [2013-07-19] （英语）. 
+^ 11.0 11.1 南密西西比大学图书馆的Kathleen L. Wells. Got Authorities? Why Authority Control Is Good for Your Library. 田纳西州图书馆. 2012-11-25 [2013-10-29] （英语）. 
+^ 12.0 12.1 Cataloguing authority control policy. 澳大利亚国家图书馆. 2012-11-25 [2013-10-29] （英语）. bhe primary purpose of authority control is to assist the catalogue user in locating items of interest. 
+^ Authority Control at LTI. LTI. 2012-11-25 [2013-10-29] （英语）. 
+
+
+来源[编辑]
+
+书籍
+
+
+胡述兆. 圖書館學與資訊科學大辭典. 台北: 漢美圖書. 1995. ISBN 9789579005777 （中文（台灣）‎）.  改
+
+参见[编辑]
+
+图书馆学
+
+图书馆信息学
+目录学
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh85009792
+GND: 4239774-1
+BNF: cb11953411c（数据）
+NDL: 00945169
+
+
+
+
+
+
+
+
+
+
+
+
+分类：圖書資訊科學隐藏分类：CS1日语来源 (ja)CS1英语来源 (en)需要從英語維基百科翻譯的條目包含规范控制信息的维基百科条目

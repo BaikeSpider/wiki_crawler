@@ -1,0 +1,514 @@
+开放源代码
+
+
+
+
+
+本条目可参照英語維基百科相應條目来扩充。 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+
+關於开放源代码的软件，請見“开源软件”。
+
+
+
+
+
+
+
+
+開放原始碼（英语：Open Source）描述了一种在产品的出品和开发中提供最终源材料的做法。在這個詞廣泛使用前，開發者和生產者使用很多詞去描述這個概念；開放源代碼在互聯網上獲得廣泛使用，參加者需要大量更新電腦原始碼。開放源代碼使得生產模組、通訊管道、互動社群獲得改善。[1]隨後，一個新著作權、軟體授權條款、域名和消費者提供建立的，一個新詞開源軟體誕生。
+開源模型概念包括同時間不同時程和方法來生產，相對而言，更加集中式的軟体設計模型，例如典型的商業軟体公司。[2]一個開源軟体開發的主要原則和慣例是易貨貿易和合作的同儕生產，經由免費公開的最終產品、原始資訊、藍圖和文件。這逐漸應用在其它領域，例如生物技術。[3]
+
+
+
+目录
+
+
+1 歷史
+2 應用領域
+
+2.1 應用軟體
+2.2 作業系統
+2.3 程式語言
+2.4 伺服器軟體
+2.5 電腦硬體
+2.6 飲料
+
+
+3 参考文献
+
+3.1 引用
+3.2 来源
+
+
+4 外部链接
+5 参见
+
+
+
+歷史[编辑]
+開放原始碼的概念和免費分享技術資訊，在電腦誕生前存在很長的一段時間。例如食譜共享從人類文化一開始就有。開放原始碼能夠用在商業技術上的電腦和軟体。 在汽車發展的初期，二行程引擎的專利被資產家喬治·賽爾登（英语：George B. Selden）所垄断。[4]藉由掌握這項專利，能夠壟斷市場，或是對於競爭者提出侵權訴訟。然而，汽車製造商亨利·福特在1911年挑戰這項專利，其結果使得這項專利變成幾乎一文不值，並形成新的關聯，催生出汽車製造商協會（英语：Automobile Manufacturers Association）。[4]
+1998年，提姆·奥莱理召開了一次開放原始碼會議，包括BSD陣營與Linux社群的中堅份子都參與其中。因為自由軟體基金會提出的自由软件（Free Software）可能與免費軟體造成混淆，在會議中，決議以克里斯蒂娜·彼得森（英语：Christine Peterson）提出的Open Source作為共通名稱。
+應用領域[编辑]
+應用軟體[编辑]
+
+
+
+
+7-Zip是一款開源的檔案壓縮軟體
+
+
+檔案壓縮
+
+7-Zip
+File Roller
+Ark
+Expander
+FreeArc
+Info-ZIP
+KGB Archiver
+PAQ
+Peazip
+The Unarchiver (decompression only)
+tar
+Xarchiver
+Zipeg
+ZPAQ
+
+
+
+
+
+Blender是一款開源的圖形編輯器
+
+
+三維繪圖及渲染
+
+Blender
+
+辦公室套件
+
+LibreOffice
+openOffice.org
+Apache OpenOffice
+StarOffice
+Calligra Suite
+NeoOffice
+GNOME Office
+KOffice
+Feng Office CE——線上套裝
+
+整合式開發環境
+
+Eclipse
+Lazarus
+
+圖像處理
+
+GIMP
+
+桌面出版
+
+Scribus
+
+向量圖形編輯器
+
+Inkscape
+
+數位音樂工作站（DAW）
+
+Ardour
+
+數位聲波編輯
+
+Audacity
+
+純文字編輯器
+
+Emacs
+Vim
+
+網頁瀏覽器
+
+Chromium
+Mozilla Firefox
+
+電子郵件客戶端
+
+Mozilla Thunderbird
+
+虛擬地球
+
+NASA World Wind
+
+線上直播
+
+Open Broadcaster Software
+
+桌面搜尋
+
+DocFetcher
+
+作業系統[编辑]
+
+
+
+
+Android是一款普遍的開源行動裝置作業系統
+
+
+
+MINIX——為Linux之前的作業系統。
+Android——基於Linux的作業系統。
+Firefox OS——基於Linux的作業系統。
+FreeBSD——類Unix的作業系統。
+Linux——類Unix作業系統家族。
+OpenIndiana——類Unix作業系統家族。
+ReactOS——建立在Windows NT架構的作業系統。
+Haiku——與BeOS相容的作業系統。
+
+程式語言[编辑]
+
+Perl——一種通用的程式語言。
+PHP——適用於網路開發的程式語言。
+Python——一種通用的程式語言。
+Ruby——一種通用的程式語言。
+Go——一種通用的程式語言。
+Rust——一種通用的程式語言。
+Swift——一種支援多編程範式，編譯式編程語言。
+
+伺服器軟體[编辑]
+
+Apache HTTP Server——一種網頁伺服器。
+Drupal——內容管理系統。
+Joomla!——內容管理系統。
+MediaWiki——執行於維基百科的Wiki引擎。
+MongoDB——檔案導向資料庫管理系統
+Moodle——課程管理系統、虛擬學習環境。
+
+電腦硬體[编辑]
+
+Arduino——單晶片微電腦，由藝術家、設計師、業餘愛好者所使用。
+
+飲料[编辑]
+
+開源可樂（英语：Open-source cola）——一種配方開源的可樂。
+
+参考文献[编辑]
+引用[编辑]
+
+
+^ The complexity of such communication relates to Brooks' law, and it is also described by Eric S. Raymond, "Brooks predicts that as your number of programmers N rises, work performed scales as N but complexity and vulnerability to bugs rises as N-squared. N-squared tracks the number of communications paths (and potential code interfaces) between developers' code bases." —"The Revenge of the Hackers". 2000.
+^ Raymond, Eric S. The Cathedral and the Bazaar. ed 3.0. 2000.
+^ "Science 2.0 is here as CSIR resorts to open-source drug research for TB" Business Standard, 1 March 2009
+^ 4.0 4.1 James J. Flink. The Car Culture. MIT Press. 1977. ISBN 0-262-56015-1. 
+
+
+来源[编辑]
+
+书籍
+
+
+葛林·穆迪（Glyn Moody）著，杜默 译：《Linux传奇：让比尔盖茨坐立难安的天才》，时报文化，2001年，台北，ISBN 9571333628
+林納斯·托瓦茲（Linus Torvalds）著，梁曉鶯 譯：《Just for Fun—Linux創始人托瓦茲自傳》，經典傳訊，2001年，ISBN 978-957-476-123-4
+
+外部链接[编辑]
+
+开放源代码促进会
+《开源软件文集》英文版
+台湾中央研究院 自由軟體鑄造場
+中国的LUPA开源社区 供参考
+OSMSG开源资讯
+10 things people get wrong about open source (images)（10個對於開源碼的錯誤印象）
+自由開源軟體侵權警告與因應流程
+DARPA Open Catalog - 美國國防高等研究計劃署
+
+参见[编辑]
+
+
+自由软件主题
+软件主题
+法律主题
+
+
+
+开源软件
+内容开放
+开放源代码软件列表
+自由软件
+自由及開放原始碼軟體授權條款比較
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+自由及开放源代码软件
+
+
+
+
+
+
+概念
+
+Copyleft · 自由軟體 · 自由軟體定義 · 开放源代码软件 · 自由及开放源代码软件列表
+
+
+
+
+
+
+作業系統家族
+
+AROS · BSD · Darwin · FreeDOS · GNU · Haiku · Inferno · Linux · Mach · Minix · OpenSolaris · Symbian · Plan 9 · ReactOS
+
+
+
+
+
+
+開發（英语：Open-source software development）
+
+Eclipse · Free Pascal · GCC · Java · LLVM · Lua · Open64 · Perl · PHP · Python · ROSE · Ruby · Tcl
+
+
+
+
+
+
+歷史
+
+GNU · Haiku · Linux · Mozilla (Application Suite · Firefox · Thunderbird)
+
+
+
+
+
+
+組織
+
+Android开源项目 · Apache軟體基金會 · Blender基金會 · Eclipse基金會 · freedesktop.org · 自由軟體基金會 (歐洲 · 印度 · 拉丁美洲) · FSMI · GNOME基金會 · GNU Project · Google Code · KDE e.V. · Linux基金會 · Mozilla基金會 · 開源地理空間基金會 · 开放源代码促进会 · SourceForge · Symbian基金會 · VideoLAN组织 · 维基媒体基金会 · Xiph.Org基金會 · XMPP標準基金會（英语：XMPP Standards Foundation）  · X.Org基金會  · 文檔基金會 · 软件自由法律中心
+
+
+
+
+
+
+許可證
+
+Apache · Artistic · APSL · BSD · GNU GPL · GNU LGPL · Affero通用公共许可证  · ISC · MIT · MPL · 共享原始碼 · zlib · WTFPL · 自由及開放原始碼軟體許可證比較
+
+
+
+
+
+
+挑戰
+
+FUD · 擁抱、擴充功能再消滅 · 二進制blob（英语：Binary blob） · 數位版權管理 · 自由及開放原始碼顯示卡驅動程式（英语：Free and open-source graphics device driver） · 授權擴散（英语：License proliferation）  · Mozilla software rebranding · 專有軟體 · SCO-Linux爭議 · 安全性 · 軟體專利 · 硬體限制 · 可信计算 · 病毒許可證
+
+
+
+
+
+
+其他
+
+Alternative terms · 自由軟體社群 · Linux發行版 · 復刻 (軟體工程) · 自由軟體運動 · 微軟開放規範承諾（英语：Microsoft Open Specification Promise） · 操作系统革命 · 與封閉原始碼的比較（英语：Comparison of open source and closed source）
+
+
+
+
+
+
+
+ 分类 ·  维基共享资源 ·  主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+知识产权激进主义
+
+
+
+
+
+
+问题和争论
+
+
+
+版权侵犯
+软件版权侵犯
+数字版权管理
+Gripe site（英语：Gripe site）
+音乐著作权的历史
+知识产权
+文件分享的合法性
+混制
+
+视频
+音乐
+
+
+专利权
+公有领域
+软件专利争论
+專利流氓
+
+
+
+
+
+
+
+
+概念
+
+
+
+All Rights Reversed
+Anti-版权 notice
+Copyleft
+版权属左的商业应用
+Commons-based peer production（英语：Commons-based peer production）
+自由内容
+自由软件许可
+信息无政府主义
+Libertarian positions（英语：Libertarian perspectives on intellectual property）
+开放内容
+开放设计
+开放音乐模式
+开放专利权
+开源硬件
+开源软件
+相同方式共享
+
+
+
+
+
+
+
+
+运动
+
+
+
+知识无界运动
+反版权
+文化环境
+自由文化运动
+自由软件运动
+
+
+
+
+
+
+
+
+组织
+
+
+
+创作共用
+
+电子前哨基金会
+自由软件基金会
+自由权利组织
+软件自由法律中心
+Organization for Transformative Works（英语：Organization for Transformative Works）
+海盗湾
+海盗署
+海盗党
+Students for Free Culture（英语：Students for Free Culture）
+
+
+
+
+
+
+
+
+人物
+
+
+
+李卡德·法克明炎
+勞倫斯·雷席格
+理查德·斯托曼
+
+
+
+
+
+
+
+
+文档
+
+
+
+幹走電影 (2006, 2007)
+正版盗版 (2007)
+混制宣言 (2008)
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4548264-0
+
+
+
+
+
+
+
+
+
+
+
+
+分类：开放源代码知识产权隐藏分类：需要從英語維基百科翻譯的條目包含规范控制信息的维基百科条目使用ISBN魔术链接的页面

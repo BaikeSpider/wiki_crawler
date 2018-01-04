@@ -1,0 +1,575 @@
+埃里克·默勒
+
+
+
+
+
+
+
+埃里克·默勒
+Erik Möller
+
+
+
+埃里克·默勒，2008年
+
+
+
+出生
+1979年（38–39歲）
+ 德國
+
+
+居住地
+ 美國加利福尼亚州旧金山湾区
+
+
+母校
+柏林应用科技大学
+
+
+职业
+记者、软件设计师、作家
+
+
+头衔
+维基媒体基金会副主任（2008-2015）
+
+
+网站
+埃里克·默勒的主页
+
+
+埃里克·默勒（德語：Erik Möller，1979年－[1]）是一位德国自由职业记者[2]、软件设计师[3]、作家，曾任维基媒体基金会（WMF）副董事[4]。默勒同时还是一位网页设计师，此前曾开办网络托管服务，myoo.de.[4][5]。
+
+
+
+目录
+
+
+1 出版作品
+2 基于Web的项目
+3 基金会
+4 参考资料
+5 延伸阅读
+6 外部链接
+
+
+
+出版作品[编辑]
+默勒撰写了《媒体革命的秘诀：博客、wiki和自由软件如何改变世界》（Die heimliche Medienrevolution - Wie Weblogs, Wikis und freie Software die Welt verändern）一书[6]。在书中，默勒认为新闻从业员的发展就像公民媒体和博客中的开放源代码运动，但他同时指出，大多数博客网站不愿与主流大众媒体竞争[7]。2005年，Heinz Heise首次出版该书，2006年发行更新并修订了章节的第二版[8]。《柏林文学批评》（Berliner Literaturkritik）评价表示看到本书有实用技巧，但表示这本书在技术细节上着墨太多[9]。默勒的书被2006年出版的书籍《Wiki：Web协作》引用，在探讨“Wiki是社会变迁的引擎”的一节中用到他的术语“媒体革命的秘诀”[10]。作者点评道：“默勒全面审视了问题，可能有处理Wiki环境和博客中的破坏行为和费解的争议问题的解决方法[10]。”
+在他对维基百科的早期研究中，默勒在2003年发现维基百科开源性质的积累吸引到一些人，但也导致需要专家参与的主题出现空白[11]。他的其中一些研究成果在《Telepolis》杂志发表，在文中他将维基百科与数字多媒体百科全书MicrosoftEncarta进行比较[12]。2003年在他的文章《Wiki的原则：大脑的舞蹈》（Das Wiki-Prinzip: Tanz der Gehirne）中，他给出了维基百科和wiki的一些背景，同时也阐述了他对该项目优点的了解、防止破坏条目的方法和维基百科用户的礼仪等观点[13]。
+基于Web的项目[编辑]
+穆勒拥有计算机科学毕业学位（Dipl.-Inform.FH）[4]，创办了拥有P2P和文件共享技术信息的网站Infoanarchy[14]。Slyck News的托马斯·门尼克（Thomas Mennecke）写道，“就像P2Pnet.net，InfoAnarchy.org包含由其持有者埃里克·穆勒创作的数量惊人的内容[14]。”穆勒还参与了FreedomDefined网站的开发[15]。他也被列入violence.de网站的联合主机，该网站发布了詹姆斯·普雷斯科特（James W.Prescott）的作品，并声称剥夺身体感情是造成抑郁症、侵略和滥用药物的主要原因[16]。
+在2005年柏林的博客主年会上，默勒在演讲介绍了开放源代码促进会、自由知识和维基新闻，认为维基新闻在内容上的其他模型被Slashdot、Kuro5hin、Daily Kos等使用[17]。2005年在维也纳的奥地利wiki大会上，默勒探讨了使用wiki编制统计数据的优势，指出wiki鼓励内部透明和同事之间更大的参与[18]。
+基金会[编辑]
+
+
+
+
+埃里克·默勒与苏马那·哈里哈雷斯瓦拉（Sumana Harihareswara）在2011年孟买黑客马拉松大会中的合影
+
+
+
+
+播放媒体
+
+
+维基媒体基金会的埃里克·默勒在旧金山维基百科黑客马拉松的开幕会上谈论维基百科的关站行动（关站行动持续第二天）
+
+
+
+
+
+
+2012年默勒在柏林黑客马拉松上演讲
+
+
+自2001年，默勒一直参与包括维基百科在内维基媒体基金会项目，他不仅是一名编者，还是MediaWiki软件和维基新闻的开发者[19]。他利用用户名Eloquence起草了维基新闻的初版提案[2][20]，还在维基共享资源的开发中起到重要作用[21]。穆勒于2004年3月率先提出了维基共享资源的理念[22] ，他描述出维基百科和维基新闻与《纽约时报》之间的差异，表示：“维基新闻的条目的时效性很短，所以能为促成永久持续下去的知识提供基础[2]。”默勒在2005年首尔公民记者论坛上表示：“我们是新媒体，我们制定属于我们的规则[23][24]。”他表示，维基新闻每日出版打印版，还在增加其它格式，包括文章的音频版[23]。默勒因2005年伦敦七七爆炸案期间维基新闻的访问流量增加八倍，以及其对新闻自由的影响，受到Journalism.co.uk的采访[25]。“尽管维基新闻比维基百科要小得多，但它在报道新闻方面的潜力远远超出了维基百科现在正在做的事情。“默勒表示[25]。他在维基新闻定期给出“State of the Wiki”报道，为项目使用出自其他媒体来源的原始素材和整合信息辩护[26]。
+2005年6月，默勒被任命为维基媒体基金会的首席研究员，但由于个人与董事会成员存在分歧，于同年8月辞去该职[27][28]。他曾担任总部设在荷兰[21]的OmegaWiki非营利法律机构Stichting Open Progress的首席技术官[29]。在Stichting Open Progress，默勒担任致力于Omegawiki运营的开发小组总管[21]。默勒还开办了WikiEducator.org等其他wiki社群[21]。
+2006年9月，默勒入选维基媒体基金会董事会，接替安吉拉·比斯利的职位[30][31]。2006年10月，默勒担任行政秘书[32][33]。默勒2007年12月从董事会辞职，被提拔为副董事[34]。2008年10月，他被正式任命为维基媒体基金会的副董事，该职位于2008年10月生效[35]。作为副董事，默勒参与维基媒体基金会的融资分析，并与执行董事苏·加德纳向太阳计算机系统公司作展示，为维基媒体基金会公司赢得资金[36]。本次演示后来被维基新闻泄露出去[36]。
+担任维基媒体基金会副董事的默勒负责组织的管理和执行技术策略[21][37]。默勒向《洛杉矶时报》解释道，基金会在对待各种交易时需要很小心，表示：“我们不希望进入会与目标产生冲突的交易中[38]。”默勒是维基媒体基金会驻网络生命大百科这一理事会机构的代表[39]。透过这次接触，默勒说服阿尔弗雷德·斯隆基金会（Alfred P.Sloan Foundation，网络生命大百科的支持者）向维基媒体基金会捐赠300万美元，这也是基金会迄今为止所收到的单笔最大数额的捐赠[40]。
+2014年，默勒的帐号因创造、实施并使用“超级保护”权利否决德国维基百科不启用全新的查看图像的机制，直至法律和技术问题被修复的决策，遭到德文维基百科的封禁[41][42]。
+2015年4月30日，默勒离开基金会[43]。
+
+参考资料[编辑]
+
+
+^ Wahrheit braut sich zusammen Erik Möller im Gespräch mit Ada von der Decken. webwatching.info. [2014-08-18] （德语）. 
+^ 2.0 2.1 2.2 Weiss, Aaron. The Unassociated Press. The New York Times. The New York Times Company. 2005-02-10 [2008-05-12]. 
+^ Lih, Andrew. The Foundations of Participatory Journalism and the Wikipedia Project (PDF). Conference Paper for the Association for Education in Journalism and Mass Communications - Communications Technology and Policy Division, Toronto, Canada (jmsc.hku.hk). 2004-08-07 [2008-05-13]. （原始内容 (PDF)存档于2008-02-27）. 
+^ 4.0 4.1 4.2 Moeller, Erik. Erik Moellers homepage. [2008-09-16]. （原始内容存档于2007-08-27）. 
+^ Moeller, Erik. MyOO - wiki hosting. [2008-05-13]. （原始内容存档于2007-08-26）. 
+^ 埃里克·默勒（德国国家图书馆目录）
+^ Schöne neue Onlinewelt? - Erik Möller beschwört eine "heimliche Medienrevolution" durch das Internet. Berliner Literaturkritik. www.berlinerliteraturkritik.de. 2005-07-29 [2008-05-12] （德语）. 
+^ Wie Weblogs, Wikis und freie Software die Welt verändern / Telepolis-Buch: "Die heimliche Medienrevolution". Presseportal: Telepolis. www.presseportal.de. 2006-02-03 [2008-05-12]. （原始内容存档于2012-10-09） （德语）. 
+^ Der blinde Fleck. Berliner Literaturkritik. www.berlinerliteraturkritik.de. 2005-07-29 [2008-05-12] （德语）. 
+^ 10.0 10.1 Ebersbach, Anja; Markus Glaser; Richard Heigl; Gunter Dueck. Wiki: Web collaboration. Springer Verlag. 2006: 28, 348, 378. ISBN 3-540-25995-3. 
+^ Schwall, Johannes. The wiki phenomenon (PDF). University of Münster. 2003: 10–11 [2008-05-13]. 
+^ Wenn die Gehirne tanzen. heise online. Heise Zeitschriften Verlag. 2003-05-30 [2008-05-12] （德语）. 
+^ Möller, Erik. TP: Das Wiki-Prinzip - Tanz der Gehirne. Telepolis. www.heise.de. 2003-05-09 [2008-05-13]. 
+^ 14.0 14.1 Mennecke, Thomas. Top 10 File-Sharing News Alternatives. Slyck News. www.slyck.com. 2004-11-16 [2008-05-12]. 
+^ FreedomDefined.org: Was ist eine "freie Lizenz". Golem.de. www.golem.de. 2006-05-18 [2008-05-12]. 
+^ Möller, Erik; Joel Schlosberg and colleagues. Origins of Peace and Violence: Introduction. www.violence.de. 2005-12-30 [2008-05-13]. 
+^ Blogs vom Bauchnabel oder für die kritische Öffentlichkeit. heise online. Heise Zeitschriften Verlag. 2005-09-05 [2008-05-12] （德语）. 
+^ Wikis: Zurück in die Zukunft. heise online. Heise Zeitschriften Verlag. 2005-07-11 [2008-05-12]. 
+^ Kiss, Jemina. Wikinews trumpets online revolution. Online Journalism News (Mousetrap Media Ltd). 2004-12-15 [2008-05-13]. 
+^ Allan, Stuart. Online news: journalism and the Internet. McGraw-Hill International. 2006: 136. ISBN 0-335-22121-1. 
+^ 21.0 21.1 21.2 21.3 21.4 Donohue, Alex. Wikimedia hires Moeller as deputy director. Brand Republic News. Brand Republic. 2008-01-10 [2008-05-13]. 
+^ Möller, Erik. Proposal: commons.wikimedia.org. [Wikipedia-l]. Wikimedia Foundation. 2004-03-19 [2008-05-13]. 
+^ 23.0 23.1 Kiss, Jemima. News round-up: Citizen journalism is officially cool. Journalism.co.uk - Online Journalism News. Mousetrap Media Ltd. 2005-07-14 [2008-05-13]. （原始内容存档于2007-11-18）. 
+^ Pollard, William. Citizen Reporters Turn to Print for Delivery. OhmyNews International. english.ohmynews.com. 2005-07-11 [2008-05-12]. （原始内容存档于2011-06-05）. 
+^ 25.0 25.1 Kiss, Jemima. Wikinews supercharged by London bombings coverage. Journalism.co.uk - Online Journalism News. Mousetrap Media Ltd. 2005-07-13 [2008-05-13]. （原始内容存档于2007-11-09）. 
+^ Kolodzy, Janet. Convergence Journalism: Writing and Reporting Across the News Media. Rowman & Littlefield. 2006: 238–239, 243. ISBN 0-7425-3886-9. 
+^ Möller, Erik. Resignation as CRO. [Foundation-l]. Wikimedia Foundation. 2005-08-17 [2008-05-12]. 
+^ Chief Research Officer. Wikimedia Foundation. [2008-05-13]. （原始内容存档于2007-01-28）. 
+^ Staff. Bay Area Biz: Movers and shakers. San Francisco Chronicle. www.sfgate.com. 2008-01-20 [2008-05-13]. 
+^ Kleinz, Torsten. TP: Die neuen Herausforderungen der Wikipedia. Telepolis. www.heise.de. 2007-01-20 [2008-05-12] （德语）. 
+^ Resolution:Replacement Board member 2006 - Wikimedia Foundation. Wikimedia Foundation. 2006-09-26 [2008-05-12]. 
+^ Wechsel an der Wikimedia-Spitze. heise online. www.heise.de. 2006-10-28 [2008-05-12] （德语）. 
+^ Jimmy Wales sai da presidência da enciclopédia online Wikipedia. Carreira - IDG Now!. idgnow.uol.com.br. 2006-11-06 [2008-05-12]. （原始内容存档于2011-07-06） （葡萄牙语）. 
+^ Sue Gardner. Announcing Erik Moeller as Wikimedia Deputy Director. [Foundation-l]. Wikimedia Foundation. 2007-12-18 [2008-05-12]. 
+^ Erik Möller Deputy Director - Wikimedia Foundation. Wikimedia Foundation. 2008-01-09 [2008-05-12]. 
+^ 36.0 36.1 Zwei Millionen US-Dollar für Wikipedia & Co. heise online. Heise Zeitschriften Verlag. 2008-01-09 [2010-05-15] （德语）. 
+^ Staff. Bay Area Biz : January 2008. San Francisco Chronicle. www.sfgate.com. 2008-01-13 [2008-05-13]. 
+^ Semuels, Alana. Wikipedia Experiences Growing Pains. Los Angeles Times. 2008-03-13: Financial section. 
+^ Institutional Partners. Encyclopedia of Life. www.eol.org. [2014-06-04]. 
+^ Sue Gardner. Sloan awards Wikimedia USD 1m annually for three years. [Foundation-l]. Wikimedia Foundation. 2008-03-25 [2008-05-15]. 
+^ Torsten Kleinz. "Superprotect": Wikimedia behält das letzte Wort bei Wikipedia. heise online. 2014-08-12. 
+^ Class war! Wikipedia's workers revolt again. 
+^ Management changes continue: Erik Möller to leave Foundation. Wikipedia Signpost. [2015-04-19]. 
+
+
+延伸阅读[编辑]
+
+
+维基百科主题
+
+
+
+Bachner, Harald. Wiki-systeme als Wissensmanagementtools. GRIN Verlag. 2007: 6, 8, 29. ISBN 3-638-67365-0. 
+Gepp, Roman. Bildung zwischen Luxus und Notwendigkeit. LIT Verlag Berlin-Hamburg-Münster. 2006: 128, 129, 135, 192. ISBN 3-8258-9360-X （德语）. 
+Kühne, Stefan. Veni, vidi, Wiki! Rezension zu Erik Möller: Die heimliche Medienrevolution. Wie Weblogs, Wikis und freie Software die Welt verändern (PDF). E-beratungsjournal (e-beratungsjournal.net). 2005年9月, (1). ISSN 1816-7632 （德语）. 
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：埃里克·默勒
+
+
+
+
+维基新闻相关報導：
+Will Wikimedia "run on Sun"?
+
+
+
+默勒的个人主页
+埃里克·默勒（德国国家图书馆目录）
+Erik Möller Deputy Director. Wikimedia Foundation. 2008-01-09. 
+Infoanarchy.org
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+維基百科
+
+
+
+
+
+
+百科概要（英语：Outline of Wikipedia）
+
+
+
+維基
+利益衝突編輯
+批評
+刪除主義和保留主義
+性別偏誤
+種族偏差（英语：Racial bias on Wikipedia）
+關注度
+可靠性
+來源請求（日语：要出典）
+破壞
+維基百科健康資訊（英语：Health information on Wikipedia）
+
+
+
+
+
+
+
+
+維基社群
+
+
+
+
+百科運作
+
+
+
+管理員
+仲裁委員會
+編輯松
+The Signpost（英语：The Signpost）
+維基愛古蹟
+Art+Feminism（英语：Art+Feminism）
+駐點維基人（英语：Wikipedian in residence）
+年度維基人（英语：Wikipedian of the Year）
+維基教育基金會
+
+
+
+
+
+
+
+
+運動夥伴
+
+
+
+維基媒體基金會
+維基媒體分會
+
+德國
+法國
+義大利
+荷蘭
+波蘭
+中華民國
+香港
+澳門
+Amical（加泰罗尼亚语：Amical Wikimedia）
+
+
+維基媒體計劃
+
+元維基
+維基百科
+維基詞典
+維基數據
+維基教科書
+維基共享資源
+維基新聞
+維基語錄
+維基文庫
+維基物種
+維基學院
+維基導遊
+
+
+維基媒體國際會議
+中文維基年會
+
+
+
+
+
+
+
+
+
+
+
+著名人物
+
+
+
+弗洛朗絲·德伍阿爾
+奧斯卡·范·迪倫（英语：Oscar van Dillen）
+蘇·加德納
+詹姆斯·海爾曼
+凱薩琳·馬赫
+馬格努斯·曼斯克
+埃里克·默勒
+拉里·桑格
+莉拉·崔迪科夫
+吉米·威爾斯
+安吉拉·貝絲蕾·斯塔林
+時昭
+許瑜真
+陳霆
+王鐘銘
+陳穎
+賈斯汀·納普
+提姆·謝爾
+麥可·斯諾
+邁克·戈德溫（英语：Mike Godwin）
+埃文·阿莫斯
+巴塞爾·哈爾塔比爾
+酈安治
+麥康瑞
+西蒙·普爾西斐
+亞倫·斯沃茨
+伊霍爾·柯斯登柯
+唐鳳
+加特·沃爾什
+雷米·馬蒂斯
+亞倫·哈爾費克（英语：Aaron Halfaker）
+達魯休·傑米爾尼亞克（英语：Dariusz Jemielniak）
+漢普頓·凱特林（英语：Hampton Catlin）
+達斯·庫珀（英语：Danese Cooper）
+比夏漢·達塔（英语：Bishakha Datta）
+亞倫·格斯里（英语：Arnnon Geshuri）
+蓋伊·川崎（英语：Guy Kawasaki）
+路爾斯·比利亞（英语：Luis Villa）
+
+
+
+
+
+
+
+
+百科歷史
+
+
+
+
+發展歷程
+
+
+
+Bomis
+Nupedia
+維基百科標誌
+義大利語維基百科大規模空白抗議
+反SOPA和PIPA抗議
+
+英語維基百科關站抗議（印尼语：Pemadaman Wikipedia bahasa Inggris）
+
+
+俄語維基百科關站抗議（俄语：Забастовка русской Википедии）
+皮埃爾敍奧特軍用無線電台事件
+維基百科也申遺
+1Lib1Ref（英语：1Lib1Ref）
+維基百科知識引擎
+涉及到維基媒體基金會的訴訟（英语：Litigation involving the Wikimedia Foundation）
+
+維基媒體基金會控告美國國家安全局案
+
+
+
+
+
+
+
+
+
+
+相關爭議（英语：List of Wikipedia controversies）
+
+
+
+美國國會職員的編輯
+Essjay事件
+席根塔勒傳記事件
+亨里克·巴圖塔惡作劇事件（英语：Henryk Batuta hoax）
+山達基教會的編輯（英语：Church of Scientology editing on Wikipedia）
+希爾斯堡慘劇編輯事件（英语：Hillsborough Wikipedia posts）
+MyWikiBiz（英语：MyWikiBiz）
+克里斯·班瓦謀殺事件（英语：Chris Benoit double-murder and suicide）
+美國中東新聞報導準確性委員會爭議（英语：Committee for Accuracy in Middle East Reporting in America）
+比喬利姆戰爭（加泰罗尼亚语：Bicholim conflict）
+
+
+
+
+
+
+
+
+審查封鎖
+
+
+
+網路觀察基金會審查
+中國大陸對維基媒體的封鎖
+俄羅斯對維基百科的封鎖（俄语：Блокирование Википедии в России）
+
+俄羅斯國家杜馬89417-6法案
+
+
+2017年土耳其封鎖維基百科事件
+
+
+
+
+
+
+
+
+
+
+
+相關技術
+
+
+
+
+網站技術
+
+
+
+Wiki
+MediaWiki
+维基可视化编辑器
+Lsjbot
+資訊框
+Wikiwand
+
+
+
+
+
+
+
+
+手機访问
+
+
+
+應用程式
+QRpedia
+Wapedia
+WikiNodes（英语：WikiNodes）
+維基百科零計劃
+
+
+
+
+
+
+
+
+內容使用
+
+
+
+Books LLC（英语：Books LLC）
+DBpedia
+Deletionpedia
+Kiwix
+WikiReader（英语：WikiReader）
+維基百科校園版
+維基掃描器
+
+
+
+
+
+
+
+
+
+
+
+獎勵紀念
+
+
+
+2008年勝利女神四馬戰車獎（英语：Quadriga (award)）
+2015年伊拉斯謨獎
+2015年阿斯圖里亞斯親王獎
+維基百科紀念雕像
+國際志願者日
+小行星274301
+
+
+
+
+
+
+
+
+造成影響
+
+
+
+文化領域（英语：Wikipedia in culture）
+相關書目（英语：Bibliography of Wikipedia）
+相關電影
+學術研究（英语：Academic studies about Wikipedia）
+Wikipedia Review（英语：Wikipedia Review）
+Wikipediocracy（英语：Wikipediocracy）
+Wiki-Watch（英语：Wiki-Watch）
+伊拉克戰爭：維基百科編輯歷史史學（英语：The Iraq War: A Historiography of Wikipedia Changelogs）
+列印維基百科
+大憲章（英语：Magna Carta (An Embroidery)）
+數字中的真相
+維基百科編輯手冊
+
+
+
+
+
+
+
+
+類似計畫
+
+
+
+Interpedia（英语：Interpedia）
+大眾百科
+自由百科
+Digital Universe（英语：Digital Universe）
+偽基百科
+Nonciclopedia（義大利語：Nonciclopedia）
+Vikidia（法语：Vikidia）
+Veropedia（英语：Veropedia）
+WikiZnanie（葡萄牙語：WikiZnanie）
+Lurkmore（俄语：Луркоморье）
+Wookieepedia
+Scholarpedia
+Wikia
+Wiki網站列表
+
+
+
+
+
+
+
+
+
+
+
+ 條目分類
+ 維基教科書
+ 維基數據
+ 維基共享資源
+ 維基新聞
+ 維基語錄
+ 維基文庫
+ 維基學院
+ 維基導遊
+ 維基辭典
+
+
+
+
+
+
+
+
+
+
+
+
+分类：1979年出生在世人物维基百科人物維基媒體基金會隐藏分类：CS1德语来源 (de)CS1葡萄牙语来源 (pt)含有hCards的条目本地相关图片与维基数据相同含有德語的條目含有英語的條目

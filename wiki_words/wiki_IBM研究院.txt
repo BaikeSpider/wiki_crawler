@@ -1,0 +1,50 @@
+IBM研究院
+
+
+
+
+
+
+IBM研究院是IBM公司的一個（研究）部門，是一個研究與先進發展的組織，該部門目前分佈在全球八個地方，並正進行著數百個研究專案，這個部門最早可追溯到1945年成立於哥倫比亞大學的華生科學運算實驗室（Watson Scientific Computing Laboratory）。[1]
+IBM研究院的主要研究活動包括創新材料與結構的發明、高效能微處理器及電腦、分析方法與工具、演算法、軟體架構、管理方法、從資料進行搜尋並探知意向。
+過去許多知名的科技發展也都出自此部門，例如DES（Data Encryption Standard）加密演算、經典的電腦程式語言：FORTRAN（Formula Translation System）、本華·曼德博（Benoît B. Mandelbrot）的報告書中發表了分形（Fractal）、磁性碟片儲存（硬碟）、用單一個電晶體即可記憶一個比特的動態RAM（Dynamic Random Access Memory，DRAM）、精簡指令集電腦（RISC）架構、以及關聯式資料庫等。IBM研究院在物理科學上也有所貢獻，包括掃描隧道顯微鏡（簡稱：STM）以及高溫超導等，此兩項成就都獲得了諾貝爾獎。
+IBM研究院在全球拥有十二个實驗室，其中三處在美國本土，分别是：
+
+托马斯·Ｊ·沃森研究中心（英语：Thomas J. Watson Research Center）（Thomas J. Watson Research Center）共分佈在三個位置，分別是紐約州約克鎮（Yorktown, New York）、霍桑（Hawthorne, New York）、以及马萨诸塞州剑桥（Cambridge, Massachusetts）。
+愛曼登研究中心（Almaden Research Center（英语：Almaden Research Center）），位于加利福尼亚州聖荷西（矽谷）。
+奧斯汀研究實驗室（Austin Research Lab），位于德克萨斯州奧斯汀。
+
+而在美國本土之外的九處為：
+
+瑞士的蘇黎世
+以色列的海法
+日本的東京
+中國的北京
+印度的德里和班加罗尔
+肯尼亚的内罗毕和南非的约翰内斯堡
+巴西的里约热内卢和圣保罗
+爱尔兰的都柏林
+澳大利亚的墨尔本
+
+IBM中国研究院[编辑]
+IBM中国研究院成立于1995年9月，是IBM在全球设立的 12 个研究实验室之一。IBM CRL位于北京上地信息产业基地的西北角，坐落在中关村软件园内，是IBM在发展中国家设立的第一个研究中心。目前CRL共有研究人员近200名，其中绝大多数拥有中国甚至世界一流大学的博士和硕士学位。目前IBM中国研究院的主要研究方向有系统和网络、信息管理和协作、分布式计算和系统管理、下一代服务。
+參考資料[编辑]
+
+
+^ IBM Watson Laboratory at Columbia University
+
+
+外部連結[编辑]
+
+IBM Research官方網站（英文）
+研究的專案（英文）
+出色研究的歷史（最佳創新）（英文）
+IBM Research的編年史（英文）
+IBM Research位在蘇黎世的實驗室（英文）
+位在哥倫比亞大學的IBM華生研究實驗室之歷史（英文）
+
+
+
+
+
+分类：IBM隐藏分类：含有英語的條目

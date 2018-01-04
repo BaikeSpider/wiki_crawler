@@ -1,0 +1,128 @@
+2017年土耳其封锁维基百科事件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017年土耳其封锁维基百科事件发生于2017年4月29日，土耳其政府自当天起在该国屏蔽了维基百科的所有语言版本[1][2]。封锁开始时，该国正因2016年土耳其政变失败而进行大清洗，几个星期前还举行了一次重大的修宪公投；土耳其此前几年曾有选择地封锁维基百科部分内容[3]。维基百科创始人吉米·威尔士亦在封锁后接到通知，称决定取消对其发出的前往世界城市博览会之邀请，该博览会定于5月15至18日在伊斯坦布尔举行[4]。
+
+
+
+目录
+
+
+1 背景
+2 封锁
+3 吉米·威尔士邀请函遭撤回
+4 适用法律
+5 反应
+6 参见
+7 参考文献
+8 外部链接
+
+
+
+背景[编辑]
+2017年4月16日，土耳其举行修宪公投，对维基百科的封锁在公投两星期后发生。
+4月25日，土耳其对叙利亚和伊拉克辛贾尔的库尔德人设施实施了数次空袭（英语：April 2017 Turkish airstrikes in Syria and Iraq），目标是库尔德斯坦工人党（PKK）、民主联盟党（PYD）及后者的武装组织人民保护部队（YPG）。此次空袭在伊拉克辛贾尔山（英语：Sinjar Mountains）造成40名武装人员死亡，其中包括5名库尔德自由斗士，另有超过20名YPG和YPJ武装人员死于叙利亚卡拉科克山[5]。叙利亚民主力量（SDF）威胁道，如果美国不采取行动阻止土耳其对该组织的空袭，就退出正在进行的拉卡攻势[6]。美国随后开始与SDF武装共同巡逻边境，以迫使其两个盟友之间停火[7][8]。
+4月26日，致力于2016–17年土耳其大清洗的当局拘留1009名警官，指控他们在警队内组成了葛兰主义者秘密网络（英语：Gülen movement）[9]；另有9100名警官的职务遭暂停[10][11]。当局并于4月29日解雇了3974名公务员。在封锁维基百科的同时，当局还封杀了电视相亲节目（英语：Dating show），《纽约时报》称这些举动“扩大了对异见和自由表达的镇压”。[3]
+封锁[编辑]
+2017年4月29日早间，Turkey Blocks（英语：Turkey Blocks）发布消息，指土耳其封锁了维基百科所有语言版本[1]，几家网站随后跟进报道此事[12]。根据路透社和BBC的报道，土耳其政府对维基百科的封锁始于格林尼治时间5:00。土耳其信息和通信技术管理局（英语：Information and Communication Technologies Authority）未给出封锁的原因，只表示“在基于第5651号法律（管制互联网的法律）进行技术分析以及法律考虑后，我们对该网站采取了行政措施”。[13][2]
+美国之音在报道中提到，土耳其媒体解释说封锁是因为“恐怖主义相关内容”[14]。土耳其的阿纳多卢通讯社（英语：Anadolu Agency）在报道中引述了交通运输、海事及通信部的一封电邮声明，称封锁是因为维基百科的条目和讨论显示土耳其与恐怖组织协调配合（英语：Turkish involvement in the Syrian Civil War）。该部门在声明中认为，维基百科“非但未能共同反对恐怖主义，反而成为了在国际舞台上抹黑土耳其的信息源的一部分”[15]。
+BBC在报道中曾引述土耳其日报《自由报（英语：Hürriyet）》的消息，该消息指安卡拉方面已要求维基百科移除冒犯性内容，并称在满足要求后，土耳其会解除对维基百科的封锁[2]。
+当天晚些时候，下令封锁的临时性“行政措施”被法庭命令所取代。该命令由安卡拉第一和平刑事法院发出，将封锁维基百科认定为“保护措施”[1]。
+土耳其希望国际网站在该国开设代表处，遵守国际法原则，执行法院裁决，并且不参与任何抹黑土耳其的行动[15]。新德里电视台指出封锁行动在社交媒体上引发了强烈反应，这些用户反对与“世界上最大的网站之一”切断连接的决定[16]。
+封锁生效后，土耳其用户只能使用特殊工具访问维基百科，当中使用最广泛的是私人VPN[17][18]。
+吉米·威尔士邀请函遭撤回[编辑]
+5月2日，伊斯坦布尔市政府从世界城市博览会活动的受邀嘉宾名单中删除了维基百科创始人吉米·威尔士，博览会计划于5月15至18日在该市举办；市政府声明如下：“维基百科创始人吉米·威尔士参加‘世界城市博览会活动’的邀请被取消，取消决定已告知本人。特此向公众告知。”[4]尽管发生了此次封锁事件，威尔士一开始还是希望参加这一活动，他评论道：“我很期待这次访问。伊斯坦布尔是我最喜欢的城市之一。”[19][20]
+适用法律[编辑]
+第5651号法律（英语：Internet regulation in Turkey#Internet law），又称互联网法令（IA），生效于2007年5月4日[21]。就该法立法目的，电信和通信主管部（英语：Presidency of Telecommunication and Communication）（现已不存在）解说如下：“该法立法有2个理由。第一个理由是确定集体使用提供者、接入提供者、位置提供者和内容提供者的责任与义务，这些提供者是互联网的主要角色。另一个理由是确定与互联网上特定犯罪的处理相关的程序和基本原则，并与内容、位置和接入提供者共同打击这些犯罪。”[22]但该法最近被用于对个人、记者与媒体进行审查[23]，欧洲委员会下属的威尼斯委员会（英语：Venice Commission）亦认为这项法律特别有争议[24]。
+反应[编辑]
+共和人民党议员批评此次封锁，其中Eren Erdem（英语：Eren Erdem）认为封锁“使土耳其显得像朝鲜一样”，Baris Yarkadas（英语：Barış Yarkadaş）称封锁是“一种审查，侵犯人们获取信息的权利”[25][26]。在一则推文中，维基百科创始人吉米·威尔士对批评封锁为审查的人表示支持，写道“获取信息是一项基本人权。土耳其人民，我永远与你们站在一起，争取这项权利。”[25][17][27]维基百科的运营方维基媒体基金会表示正努力使网站在土耳其可用，以及为封锁决定争取“司法复核”[28]。
+2017年5月3日，维基百科方面对安卡拉第一和平刑事法院的决定提交异议，这是针对此封锁发起的第一次法律抗争[29]。
+参见[编辑]
+
+
+互联网主题
+
+
+
+对维基媒体的审查和封锁
+
+中国大陆对维基媒体的封锁
+
+
+土耳其审查（英语：Censorship in Turkey）
+
+土耳其网络审查（英语：Internet censorship in Turkey）
+
+
+雷杰普·塔伊普·埃尔多安
+突破网络审查（“翻墙”）
+
+Help:如何访问维基百科
+
+
+
+参考文献[编辑]
+
+
+^ 1.0 1.1 1.2 Wikipedia blocked in Turkey. Turkey Blocks. [2017-04-29] （英语）. 
+^ 2.0 2.1 2.2 Turkish authorities block Wikipedia without giving reason. BBC News. 2017-04-29 [2017-04-29] （英语）. 
+^ 3.0 3.1 Kingsley, Patrick, Turkey Purges 4,000 More Officials, and Blocks Wikipedia, 2017-04-30 （英语） 
+^ 4.0 4.1 Days after banning Wikipedia, Turkey disinvites founder from Istanbul expo. Turkey Purge. 2 May 2017 [3 May 2017] （英语）. 
+^ Turkey may hit YPG in Syria ‘all of a sudden’: President Erdoğan, Hurriyet, 2017-04-30 （英语） 
+^ YPG threatenes to withdraw from Raqqa ops amid Turkish attacks. NRT TV. 2017-04-28 [2017-04-28] （英语）. 
+^ Bilginsoy, Zeynep1. Turkey, U.S. move armored vehicles onto either side of Syrian border. 2017-04-29 （英语）. 
+^ Turkey attacks Rojava to impede anti-ISIS operations in Raqqa: Western SDF volunteer. ARA News. 2017-04-29 （英语）. 
+^ Kingsley, Patrick. Over 1,000 People Are Detained in Raids in Turkey. The New York Times. 2017-04-26 [2017-04-29] （英语）. 
+^ Purges en Turquie : plus de 9 000 policiers suspendus. 2017-04-26 （法语）. 
+^ Turkey fires 3,900 in second post-referendum purge, Reuters.com, 2017-04-29 （英语） 
+^ Turkey blocks Wikipedia as threat to national security （英文）
+^ Turkey blocks access to Wikipedia （英文）
+^ Monitors: Turkey Blocks Access to Wikipedia. Voice of America. 2017-04-29 [2017-04-29] （英语）. 
+^ 15.0 15.1 Turkey: Wikipedia blocked for disregarding the law. Anadolu Agency. 2017-04-29 [2017-04-29] （英语）. 
+^ Turkish Authorities Block Access To Wikipedia: Monitor. NDTV. 2017-04-29 [2017-04-29] （英语）. 
+^ 17.0 17.1 Türkei blockiert Wikipedia-Zugang. Deutsche Welle. [2017-04-29] （德语）. 
+^ Internet-Zensur unter Erdogan: Türkei blockiert Wikipedia. FOCUS Online. [2017-04-29] （德语）. 
+^ Can, Ahmet. Wikimedia Foundation appeals court ruling blocking Wikipedia in Turkey. Hurriyet Daily News. 2017-05-02 [2017-05-03] （英语）. 
+^ Istanbul cancels invite for Wikipedia founder Jimmy Wales after ban. Deutsche Welle. 2017-05-02 [2017-05-03] （英语）. 
+^ World Intellectual Property Organization, WIPO. Overview, Law N. 5651, Turkey. WIPO. [2017-04-29] （英语）. 
+^ Presidency of Telecommunication, communication, PTC. Information about the regulations of the content of the Internet. PTC. [2014-03-22]. （原始内容存档于2014-03-22） （英语）. 
+^ Akdeniz, Y. Internet: restricted access- A critical assessment of Internet Content Regulation and Censorship in Turkey (PDF). İnsan Hakları Ortak Platformu (IHOP). 2008-11 [2017-04-29] （英语）. 
+^ OPINION ON LAW No. 5651 ON REGULATION OF PUBLICATIONS ON THE INTERNET AND COMBATING CRIMES COMMITTED BY MEANS OF SUCH PUBLICATION ("THE INTERNET LAW"). Venice Commission for Democracy thorugh Law, Council of Europe. 2016-06-15 [2017-04-29] （英语）. 
+^ 25.0 25.1 Turkish court formally blocks access to Wikipedia. ABC News. [2017-04-29] （英语）. 
+^ Bilginsoy, Zeynep. Access to Wikipedia blocked by government in Turkey. [2017-04-29] （英语）. 
+^ Jimmy Wales on Twitter. Twitter. 2017-04-29 [2017-05-01] （英语）. 
+^ Turkey blocks Wikipedia over an alleged 'smear campaign'. Engadget. [2017-04-29] （英语）. 
+^ Wikipedia takes the first legal step against Turkey's ban. birgun.net. BİRGÜN DAİLY. 2017-05-03 [2017-05-04] （英语）. 
+
+
+外部链接[编辑]
+
+欧洲委员会威尼斯委员会对第5651号法律的意见 （英文）
+维基媒体基金会敦促土耳其当局恢复与维基百科的连接，维基媒体基金会（WMF）的回应 （英文）
+对2017年土耳其封锁的回应，维基媒体社群对WMF回应的补充回应 （英文）
+有关封锁的更多细节，由“维基媒体土耳其用户组”提供 （英文）
+
+
+
+
+
+分类：互联网审查2017年土耳其维基百科隐藏分类：CS1英语来源 (en)CS1含有外文文本CS1法语来源 (fr)CS1德语来源 (de)

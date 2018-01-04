@@ -1,0 +1,316 @@
+Palm Pre
+
+
+
+
+
+
+Palm Pre
+
+
+
+
+生產商
+Palm公司
+
+
+兼容的網絡
+CDMA
+
+
+上市日期
+2009年6月6日 (Sprint Nextel)
+2009年8月27日 (Bell Mobility)
+2009年10月13日 (O2 Germany)
+2009年10月16日 (O2 UK&Ireland)
+
+
+手機規格
+滑盖
+
+
+尺寸
+长100.53毫米
+宽59.57毫米
+高16.95毫米
+
+
+重量
+135 g（4.8 oz）
+
+
+作業系統
+Palm webOS
+
+
+CPU
+600 Mhz 德州仪器 OMAP 3430 (ARM Cortex A8 + PowerVR SGX)
+
+
+内存
+256 MB RAM
+
+
+存储
+8 GB
+
+
+電池
+1150 mAh 锂离子电池
+
+
+顯示器
+3.1英寸（79 mm） HVGA (320×480) 24位色电容触摸屏
+
+
+後置相機
+320万像素照相机，带LED闪光灯，支持地理标记
+
+
+連接能力
+EV-DO Rev. A
+蓝牙2.1+EDR，支持A2DP
+MicroUSB接口
+Wi-Fi 802.11b/g，支持WPA、WPA2、802.1X认证
+
+
+Palm Pre（称为palm prē），是一款由Palm公司設計的新一代多媒體智能手機，設有可多点触控的屏幕及可滑出的全鍵盤。该手机于2009年6月6日发售，是第一款采用基于Linux[1]的webOS系统的手机。功能上除作為拍照手機、便攜式媒體播放器、GPS导航仪以外，更可以作为互聯網客戶端（包括SMS、即時通訊、電子郵件、網頁瀏覽等）。[2]
+Palm Pre获得了许多评论者正面的评价，赢得了CNET的Best in Show, Best in Category: Cell Phones & Smartphones奖项[3]和2009年的People's Voice奖[4]。
+
+
+
+目录
+
+
+1 硬件
+
+1.1 屏幕和键盘
+1.2 传感器
+1.3 相机
+1.4 内部存储容量
+1.5 充电
+
+
+2 软件
+
+2.1 界面
+2.2 Synergy
+2.3 网页浏览器
+2.4 同步
+2.5 第三方应用程序
+
+
+3 参见
+4 参考资料
+5 外部链接
+
+
+
+硬件[编辑]
+屏幕和键盘[编辑]
+Pre拥有一个3.1英寸、24位色、分辨率为320×480的触摸屏。触摸屏的操作将会用手指取代原来的Palm PDA和电话常用的触摸笔。在触摸屏下面有所谓的“手势区域”——一个黑色半透明的额外的触摸区域，带有LED背光灯，允许更多的触摸指令。
+就像原来的Palm电话一样，Pre带有一个QWERTY键盘。除了键盘，在手势区域中间还有一个“中央钮” ，侧面有一个声音调节开关，上面有一个铃声开关。
+传感器[编辑]
+Pre有三个传感器使它能了解到周围的环境。一个加速传感器，当用户在手中转动手机时，可以使一些应用程序自动改变方向。一个光线传感器使得Pre能够自动调节屏幕的亮度。一个接近传感器允许Pre在贴近脸进行通话时避免触摸输入。
+相机[编辑]
+相比原来的Treo手机，Pre的相机有了不小的进步。Pre拥有一个320万像素的相机，并带有LED闪光灯，支持扩展景深技术但不支持AF自动对焦。[5][6]系统版本升级到1.4.0后，可以支持摄像。
+内部存储容量[编辑]
+Palm Pre拥有8.0 GB内部闪存 （用户可用约7.4 GB）。Pre没有配备闪存卡插槽。[6]
+充电[编辑]
+Pre是第一个使用无线充电技术的智能手机，可以使用电磁感应通过一个可选的无线充电基座（称为“Touchstone”，一般译为“点金石”）和一个可以单独出售的特殊的背板进行充电。[7]用户同时仍然可以使用手机提供的MicroUSB线为手机充电。
+软件[编辑]
+主条目：webOS
+Palm Pre是第一个使用webOS（基於Linux，並用來代替Palm OS的）的Palm设备。
+界面[编辑]
+webOS的界面是基于“卡片”系统来管理多个进程的。应用程序可以从“Launcher”（可以显示三页的应用程序）或者快速启动条（横向显示五个图标） 启动。只要按一下中央钮，正在运行的应用程序就会变成卡片的形式出现在屏幕上。用户可以简单地通过向左、右滑动就可以切换应用程序。只要往上一划，应用程序就关闭了。
+webOS也支持多点触控，但是，在Pre拥有一个可滑出的键盘的同时，它并没有像其他大多数触摸屏智能手机一样包含虚拟键盘。
+Synergy[编辑]
+webOS拥有一个叫做Synergy的功能，可以从很多来源整合信息。webOS允许用户登录Gmail、Facebook和Microsoft Outlook（通过Exchange ActiveSync）的帐号。所有来源的联系人将显示在一个列表中。来自多个来源的日历可以显示在一起或单独查看。对于信息，Synergy整合了所有对话，集中到一个聊天式的窗口中。比如说，即时通信和短信将被显示在一起。[6]
+网页浏览器[编辑]
+webOS的网页浏览器基于WebKit，所以，页面可以像其他其他基于WebKit的浏览器（比如Safari、iPhone浏览器、谷歌浏览器、以及诺基亚S60的浏览器）一样显示。浏览器可以通过转动手机切换横向或者纵向显示。另外，2009年2月16日，Adobe宣布要为webOS开发一个Adobe Flash Player[8]。
+同步[编辑]
+Palm Pre使用云服务模式， 但不使用的桌面数据同步客户端。[9]
+Palm为需要与桌面软件（比如Palm Desktop、Microsoft Outlook、或者IBM Lotus Notes）进行同步的用户提出了多种解决方案。另外，Mark Space Software已经发布了针对苹果电脑的桌面同步软件，Chapura也已经发布了类似软件的Windows版。[10]Palm已经提供了一个在线教程（英文）来帮助用户。
+第三方应用程序[编辑]
+第三方可以开发原生地运行在webOS中的web应用程序。在发售时，“Palm App Catalog”[11]已经拥有了18个应用程序。其中一个叫做“Classic”，是一个Palm OS模拟器，可以运行大量的Palm OS应用程序。
+参见[编辑]
+
+移动设备
+webOS
+智能手机
+
+参考资料[编辑]
+
+
+^ Carrol, Tim. TealPoint & Normsoft on webOS: It's Great, But We Want C. Palm Info centre. 2009-01-19 [2009-01-19]. 
+^ Keilhack, Kris. Palm Announces the Palm Pre Smartphone. Palminfocenter.com. 2009-01-08 [2009-01-08]. 
+^ CES 2009 - Consumer Electronics Show - Best of CES Awards: Nominees - CNET.com
+^ Palm Pre Wins CNET Best of CES Awards Posted By: Kris Keilhack Saturday, January 10, 2009
+^ Palm Pre Plus review from TechRadar UK's expert reviews of Mobile phones. TechRadar. [2010-05-28]. 
+^ 6.0 6.1 6.2 Palm Unveils All-new webOS (新闻稿). Palm, Inc. 2009-01-08 [2009-05-27]. 
+^ Palm Pre - Touchstone™ Charging Kit - Palm.com Shop
+^ Tricia Duryee. mocoNews.net - @ MWC: Adobe Creates Fund With Nokia For Open Project; Palm Pre Will Support Flash. Washington Post. 2009-02-16 [2009-05-27]. 
+^ Stokes, Jon. "Synergy" means no need to "save" or "sync" on Palm's pre. arstechnica.com. 2009-01-11 [2009-01-14]. 
+^ Several Companies Bringing Desktop Synchronization to Palm Pre. Brighthand.com. 2009-06-08 [2009-07-03]. 
+^ http://www.palm.com/us/products/software/mobile-applications.html
+
+
+外部链接[编辑]
+
+Palm公司网站
+吹友吧,中国Pre用户交流论坛
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Palm手機列表
+
+
+
+
+
+
+Palm公司之前
+
+
+
+Tandy（英语：Tandy Corporation）
+Zoomer
+Pilot
+1000（英语：Pilot 1000）
+5000（英语：Pilot 5000）
+PalmPilot
+Personal（英语：PalmPilot）
+Professional（英语：PalmPilot Professional）
+Palm
+III（英语：Palm III）
+IIIx（英语：Palm IIIx）
+IIIe（英语：Palm IIIe）
+V（英语：Palm V）
+VII（英语：Palm VII）
+Visor
+Visor
+Deluxe
+Prism
+Platinum
+Edge
+Neo
+Pro
+Treo
+90
+180
+270/300
+600
+
+
+
+
+
+
+
+
+
+
+
+Palm公司
+
+
+
+Foleo
+Foleo*
+LifeDrive
+LifeDrive（英语：LifeDrive）
+Palm
+IIIxe（英语：Palm IIIxe）
+IIIc（英语：Palm IIIc）
+V（英语：Palm V）
+Vx（英语：Palm Vx）
+VIIx（英语：Palm VIIx）
+m100（英语：Palm m100）
+m105（英语：Palm m105）
+m125（英语：Palm m125）
+m130（英语：Palm m130）
+m500（英语：Palm m500）
+m505（英语：Palm m505）
+m515（英语：Palm m515）
+i705（英语：Palm i705）
+T|X
+Z22（英语：Palm Z22）
+Treo
+650
+680（英语：Treo 680）
+700p（英语：Treo 700p）
+700w（英语：Treo 700w）
+700wx（英语：Treo 700wx）
+750（英语：Treo 750）
+750v（英语：Treo 750v）
+755p（英语：Treo 755p）
+800w（英语：Palm Treo 800w）
+Pro（英语：Treo Pro）
+Centro（英语：Palm Centro）
+Tungsten
+T
+T2
+T3
+W
+C
+E
+T5
+E2
+Zire（英语：Zire Handheld）
+21（英语：Zire 21）
+31（英语：Zire 31）
+71（英语：Zire 71）
+72（英语：Zire 72）
+
+
+WebOS
+Pre
+Pre 2（英语：Palm Pre 2）
+Pixi（英语：Palm Pixi）
+
+
+
+
+
+
+
+
+HP Palm公司
+
+
+
+HP Veer（英语：HP Veer）
+HP Pre 3（英语：HP Pre 3）
+TouchPad
+
+
+
+
+
+
+
+
+
+^* – 从未发售
+
+
+
+
+
+
+
+
+
+
+分类：智慧型手機觸控手機Palm公司2009年面世的產品

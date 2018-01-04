@@ -1,0 +1,191 @@
+邏輯函數
+
+
+
+
+标准Logistic函数
+
+
+邏輯函数或邏輯曲线是一种常见的S函数，它是皮埃尔·弗朗索瓦·韦吕勒（英语：Pierre François Verhulst）在1844或1845年在研究它与人口增长的关系时命名的。广义Logistic曲线（英语：generalized logistic curve）可以模仿一些情况人口增长（P）的S形曲线。起初阶段大致是指数增长；然后随着开始变得饱和，增加变慢；最后，达到成熟时增加停止。
+一个简单的Logistic函数可用下式表示：
+
+
+
+
+
+P
+(
+t
+)
+=
+
+
+1
+
+1
++
+
+e
+
+−
+t
+
+
+
+
+
+
+
+{\displaystyle P(t)={\frac {1}{1+e^{-t}}}}
+
+
+
+
+
+
+目录
+
+
+1 邏輯差分方程
+
+1.1 变化
+
+
+2 参见
+3 注释
+4 参考资料
+5 外部链接
+
+
+
+邏輯差分方程[编辑]
+
+
+
+
+
+
+V
+[
+i
++
+1
+]
+=
+k
+∗
+V
+[
+i
+]
+∗
+(
+1
+−
+V
+[
+k
+]
+)
+
+
+{\displaystyle V[i+1]=k*V[i]*(1-V[k])}
+
+ 是混沌理论研究的一个课题[1][2]这个函数对初始值和参数的变化很敏感，往往微小的变化会引起混沌。如图所示，当V[1]=0.3，参数k 从0.1 变到 4 时，系统变化很大。
+
+当 k 由 0.1 变到 1 时， 曲线很快趋向于0
+当 k 继续增加，曲线由 0.3 上升到 一个稳定值
+k 继续增加 ，曲线出现摆动，有2个稳定值。
+k 继续增加 ， 曲线相继出现 4个、8个、16个32个....稳定值
+k 增加到一个临界值，系统进入混沌状态。
+K 再增加，系统突然垮塌。
+
+变化[编辑]
+ 
+
+
+
+V
+[
+i
++
+1
+]
+=
+k
+∗
+V
+[
+i
+]
+∗
+(
+1
+−
+(
+V
+[
+k
+]
+
+)
+
+2
+
+
+)
+
+
+{\displaystyle V[i+1]=k*V[i]*(1-(V[k])^{2})}
+
+
+参见[编辑]
+
+
+广义Logistic曲线
+龚配子氏曲线
+创新扩散理论
+拐点 (社会学)
+转移Gompertz分布
+哈伯特曲线
+Logistic分布
+Logistic映射
+Logistic回归
+Logit
+对数似然比
+马尔萨斯增长模型
+r/K选择理论
+Logistic平滑转换模型
+希维赛德阶跃函数
+
+
+注释[编辑]
+
+
+^ Garnett P. Williams Chaos Theory Tamed chapter 10
+^ Edgar Peters Chaos and Order in the Capital Market p7
+
+
+参考资料[编辑]
+
+
+Jannedy, Stefanie; Bod, Rens; Hay, Jennifer. Probabilistic Linguistics. Cambridge, Massachusetts: MIT Press. 2003. ISBN 0-262-52338-8. 
+Gershenfeld, Neil A. The Nature of Mathematical Modeling. Cambridge, UK: Cambridge University Press. 1999. ISBN 978-0-521-57095-4. 
+Kingsland, Sharon E. Modeling nature: episodes in the history of population ecology. Chicago: University of Chicago Press. 1995. ISBN 0-226-43728-0. 
+MathWorld上Logistic Equation的资料，作者：埃里克·韦斯坦因。
+
+
+
+外部链接[编辑]
+
+L.J. Linacre, Why logistic ogive and not autocatalytic curve?, accessed 2009-09-12.
+https://web.archive.org/web/20060914155939/http://luna.cas.usf.edu/~mbrannic/files/regression/Logistic.html
+Modeling Market Adoption in Excel with a simplified s-curve
+MathWorld上Sigmoid Function的资料，作者：埃里克·韦斯坦因。
+Online experiments with JSXGraph
+
+
+
+
+
+分类：曲線人口学微分方程人口种群生态学特殊函数

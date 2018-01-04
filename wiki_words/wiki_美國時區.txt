@@ -1,0 +1,159 @@
+美國時區
+
+
+
+
+美國時區圖
+
+
+美國時區是覆蓋美国及其屬地九個时区的總稱，配以由聯邦及地區立法制訂的夏令時法規使用。
+美國時區由《美国法典》第15章（Title 15 of the United States Code）第260節規定[1]，時區界線由《美國聯邦條例法典》（CFR, Code of Federal Regulations）第49章第71節規定[2]。
+
+
+
+目录
+
+
+1 時區的詳細資料
+
+1.1 美國大陸地區
+1.2 美國大陸地區以外
+1.3 美國屬地
+1.4 非法定時區
+
+
+2 日光節約時
+3 延伸閱讀
+4 參考資料
+5 外部链接
+
+
+
+時區的詳細資料[编辑]
+下列時區只有全名為正式稱呼，一切英文縮寫皆只是約定俗成。
+美國大陸地區[编辑]
+
+東部標準時（Eastern Standard Time；EST；UTC-5；R區）
+中部標準時（Central Standard Time；CST；UTC-6；S區）
+山區標準時（Mountain Standard Time；MST；UTC-7；T區）
+太平洋標準時（Pacific Standard Time；PST；UTC-8；U區）
+
+美國大陸地區以外[编辑]
+
+阿拉斯加標準時間（Alaska Standard Time；AKST；UTC-9；V區）包括阿拉斯加州大部份地區。
+夏威夷－阿留申時區 (Hawaii-Aleutian Standard Time；HAST；UTC-10；W區）包括夏威夷州及169°30'W以西的阿留申群島。
+
+美國屬地[编辑]
+
+大西洋標準時（Atlantic Standard Time；AST；UTC-4；Q區）包括波多黎各及美屬維爾京群島。
+薩摩亞標準時（Samoa Standard Time；SST；UTC-11；X區）包括美屬薩摩亞。
+查莫羅標準時（Chamorro Standard Time；ChST；UTC+10；K區）包括關島及北马里亚纳群岛。
+
+非法定時區[编辑]
+下列由美國政府或軍隊直接管轄，有臨時居民但沒有民治政府的美國屬地，實施的地方時由管轄機構頒布，並非依據聯邦法律，也沒有時區名稱：
+
+威克島（Wake Island）使用UTC+12（M區）。
+中途島（Midway Island）使用UTC-11，即薩摩亞標準時（SST）。
+
+日光節約時[编辑]
+夏令時，美國法律名稱為「日光節約時」（Daylight Saving Time）實施期間，地方時名稱中的 Standard 改稱 Daylight，簡寫中的 S 也改為 D，例如犹他州夏季時使用的是山區夏令時（Mountain Daylight Time，MDT），但不實施夏令時的亞利桑那州的地方時仍稱為山區標準時（Mountain Standard Time，MST）。
+在宣佈電視節目或全國性公司電話服務辦公時間時，一般只稱時區名而非時間名，例如東部時間通常只說「東部時間」（Eastern Time，ET)，這樣無論冬夏都不用改變。
+美國屬地的三個時區都沒有實施夏令時。
+延伸閱讀[编辑]
+
+Prerau, David. Seize the Daylight: The Curious and Contentious Story of Daylight Saving Time (Thunder’s Mouth Press; ISBN 1-56025-655-9) 講述時區與夏令時制度的建立。
+
+參考資料[编辑]
+
+
+^ Uniform Time Act of 1966. Office of the Federal Register, National Archives and Records Administration on the United States Government Printing Office. 2006-01-03 [2008-08-23] （英语）. 
+^ Title 49--Transportation: Subtitle A--Office of the Secretary of Transportation: PART 71--STANDARD TIME ZONE BOUNDARIES. Office of the Federal Register, National Archives and Records Administration on the United States Government Printing Office. 2005-12-19 [2008-08-23] （英语）. 
+
+
+外部链接[编辑]
+
+美國海軍天文台時區網頁
+美國時區界線
+美國標準時法
+
+
+
+
+
+
+查
+论
+编
+
+
+北美时区
+
+
+UTC–小時
+標準時間
+日光節約時間
+
+
+–10
+夏威夷-阿留申
+
+
+
+–9
+阿拉斯加
+夏威夷-阿留申
+
+
+–8
+太平洋
+阿拉斯加
+
+
+–7
+北美山區
+太平洋
+
+
+–6
+北美中部
+北美山區
+
+
+–5
+北美東部
+北美中部
+
+
+–4
+大西洋
+北美東部
+
+
+–3:30
+紐芬蘭島
+
+
+
+–3
+聖皮耶與密克隆群島
+大西洋
+
+
+–2:30
+
+紐芬蘭島
+
+
+–2
+
+聖皮耶與密克隆群島
+
+
+參見：加拿大时区 • 墨西哥时区 • 美國時區
+
+
+
+
+
+
+分类：北美洲时区美国地理美國時區隐藏分类：CS1英语来源 (en)使用ISBN魔术链接的页面

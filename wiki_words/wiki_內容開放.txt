@@ -1,0 +1,382 @@
+開放內容
+
+
+
+
+
+開放內容（英语：Open content或OpenContent）是個新名詞，於1998年由大衛·威立（David Wiley）創立，[1]係指他人可以複製或修改的原創著作。該名詞源自於開放源碼與軟體相關的概念。[2]
+
+
+
+
+屏幕中主人公左手上的是的标志是创作共用（CC）授权，而他右手上的文件表明该图像是开放内容。
+
+
+威立第一次使用開放內容这个词時，指的是採用開放內容授權（一个非自由的相同方式共享许可，参见下面的“自由内容”）或其他類似授權的作品。[2]内容的开放性可以根据“5R框架"，在不違反著作權法的前提下，基于内容的再利用、修改、混合及再散布的程度来评估。[3]開放內容與開放源碼或自由內容的不同之處為，一件作品想要具有開放內容的资格没有明确的门槛。
+雖然，開放內容被視為著作權的對立面，[4]開放內容许可证依赖著作權人许可他人使用其作品的权力。
+
+
+
+目录
+
+
+1 定义
+2 开放获取
+3 開放內容與教育
+
+3.1 教科書
+
+
+4 许可协议
+5 参考资料
+6 外部链接
+
+
+
+定义[编辑]
+OpenContent网站曾经将开放内容定义为“在一个类似开源与自由软件社区使用的许可证下，可供修改、使用和再分发（的内容）”。[2]然而，这样的定义会把开放内容许可证（OPL）自身排除在外，因为该许可证禁止“对[开放内容]自身收费”，但此权利是自由和开源软件许可证的要求。
+因此这个词改变了定义。开放内容协议“给用户提供自由、永久地从事5R活动的许可”。[3]
+OpenContent网站上提出了5R，作为评估什么内容是开放的一个框架。
+
+
+持有（Retain）——制作、拥有和支配该内容副本的权利（例如，下载、保存和管理）
+再利用（Reuse）——以更广泛的方式使用该内容的权利（例如，在课堂上、研究小组中、网站上、视频中）
+修改（Revise）——适应、调整、修改或改变内容本身的权利（例如，将内容翻译成另一种语言）
+混合（Remix）——把原始和原创或修改过的内容合并起来，创造新东西的权利（例如，将内容混搭）
+再分发（Redistribute）——共享原创内容、你的修改或你与他人混合后的内容的权利（例如，把内容的副本给朋友）[3]
+
+
+这个更广泛的定义将开放内容和开源软件区分开来，因为后者必须可供公开商业使用。但它和一些开放教育资源的定义相似，开放教育资源包括非商业和逐字复制许可证下的资源。[5][6]
+開放定義旨在定义开放内容和开放知识（英语：open knowledge），大量借鉴开源定义；它保留开放内容狭义上作为自由内容。[7]
+开放获取[编辑]
+“开放获取”是指对内容的免费访问，主要包括经过同行评审的学术期刊文章。一些开放获取作品也许可用于再利用和再分发，这将使他们的开放内容。[8]
+開放內容與教育[编辑]
+過去十年來，開放內容已經成為高等教育的另一條路。傳統大學的費用昂貴，且仍不斷在調漲之中。[9]開放內容提供免費獲取高等教育的管道，且「聚焦於集體知識以及學習與學術內容的分享與再利用」[10]現在全世界有許多推廣開放內容學習的專案與組織，例如開放式課程導入計畫、謝勒基金會以及可汗學院。部分大學，例如麻省理工學院、耶魯大學以及塔夫茨大學正在規劃在網路上免費開放她們的學校課程。[11]
+教科書[编辑]
+教科書產業是開放內容在教育產業中可以造成最大影響的一塊。[12]在過去，因為出版商習慣不斷推出更新版本，教科書價格不但昂貴，同時資訊內容也很容易過時或不便對照[13]。開放內容教科書（英语：Open textbooks）因為其在網路上容易更新的特質，可以協助解決這類問題。同時使用開放授權以及維持線上也對老師們的幫助很大，因為這樣一來老師便可以依照自己的課程需求來編修教學資源。[12]目前也有許多組織正在推廣開放授權教科書的產出，例如開放教科書計畫、Connexions（英语：Connexions）, 謝勒基金會開放教科書大挑戰（英文）以及維基教科書。
+想了解更多與教育或教科書的開放內容相關資訊，可參考以下條目：開放教育資源。
+许可协议[编辑]
+根据OpenContent网站上开放内容目前的定义，任何一般的免版税的版权许可证将有资格作为一个开放许可证，因为它“为用户提供的权利种类比通常法律允许的更多。这些权限免费授予用户。”[3]
+然而，狭义定义有效地将开放内容限制到了自由内容的范畴；任何自由内容许可证都有资格作为开饭内容许可证。根据这个狭义标准，以下仍在维护的许可证具有资格：
+
+知识共享（仅署名、署名-相同方式共享和CC0）
+出版开放许可证（英语：Open Publication License）（开放内容计划的原许可协议，开放内容许可证由于不允许以营利为目的复制授权的作品，因此不具资格）
+反DRM许可证（英语：Against DRM license）
+GNU自由文档许可证
+游戏开放许可证（英语：Open Game License）
+自由艺术许可证
+
+参考资料[编辑]
+
+^ Grossman, Lev. New Free License to Cover Content Online. Netly News. 1998-07-18 [2010-01-12]. （原始内容存档于2000-06-19）. 
+^ 2.0 2.1 2.2 Wiley, David. Open Content. OpenContent.org. 1998 [2012-04-17]. （原始内容存档于1999-01-28）. 
+^ 3.0 3.1 3.2 3.3 Wiley, David. Open Content. OpenContent.org. [2011-11-18]. 
+^ Lawrence Liang, "Free/Open Source Software Open Content", ''Asia-Pacific Development Information Programme: e-Primers on Free/Open Source Software'', United Nations Development Programme – Asia-Pacific Development Information Programme, 2007. (PDF). [2012-06-23]. 
+^ Atkins, Daniel E.; John Seely Brown; Allen L. Hammond. A Review of the Open Educational Resources (OER) Movement: Achievements, Challenges, and New Opportunities (PDF). Menlo Park, CA: The William and Flora Hewlett Foundation: 4. February 2007 [2010-12-03]. （原始内容 (PDF)存档于2012-05-08）. 
+^ Geser, Guntram. Open Educational Practices and Resources. OLCOS Roadmap 2012. Salzburg, Austria: Salzburg Research, EduMedia Group: 20. January 2007 [2010-11-06]. 
+^ Open Definition. OpenDefinition.org. [2011-11-18]. 
+^ Suber, Peter. Open Access Overview. 2013-12-16 [2014-04-18]. 
+^ Kantrowitz, Mark. Tuition Inflation. FinAid.org. 2012 [2012-04-18]. 
+^ NMC. One Year or Less: Open Content. 2010 Horizon Report. 2012 [2012-04-18]. 
+^ Admin. Open.edu: Top 50 University Open Courseware Collections. DIY Learning. 2012 [2012-04-18]. 
+^ 12.0 12.1 Fitzgerald, Bill. Using Open Content To Drive Educational Change. Funny Monkey. 2012 [2012-04-18]. 
+^ Moushon, James. e-Textbooks: How do they stack up against tradition textbooks. Self Publishing Review. 2012 [2012-04-18]. 
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：開放內容
+
+
+
+开放式目录计划中和Open Content相关的内容
+GNU自由文档的相关协议列表
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+自由文化和开放源代码运动
+
+
+
+
+
+
+概念
+
+
+
+公众科学
+共有知识（英语：Knowledge commons）
+开放获取
+开放式协同合作
+开放内容
+开放交流（英语：Open communication）
+开放资料
+开放设计（英语：Open design）
+开放教育（英语：Open education）
+开放政府（英语：Open government）
+开放式创新
+开放知识（英语：Open knowledge）
+开放专利（英语：Open patent）
+开放研究（英语：Open research）
+开放科学
+开源架构（英语：Opensource Architecture）
+开源软件
+开源治理（英语：Open-source governance）
+开源新闻（英语：Open-source journalism）
+开源硬件
+开放标准
+开放式大学（英语：Open-door academic policy）
+
+入学
+
+
+开放Web
+
+
+
+
+
+
+
+
+工具
+
+
+
+自由及开放源代码软件
+开放教育资源
+开放音乐模型（英语：Open Music Model）
+开放科学笔记（英语：Open notebook science）
+
+
+
+
+
+
+
+
+组织
+
+
+
+知识共享
+DIYbio（英语：DIYbio）
+自由软件基金会
+开放架构网络（英语：Open Architecture Network）
+开放知识基金会（英语：Open Knowledge Foundation）
+开放权力集团（英语：Open Rights Group）
+开放源代码促进会
+软件自由法律中心
+公共科学图书馆（PLOS）
+学术出版与学术资源联盟（英语：Scholarly Publishing and Academic Resources Coalition）（SPARC）
+
+
+
+
+
+
+
+
+活动家
+
+
+
+亚伦·斯沃茨
+John Wilbanks（英语：John Wilbanks）
+劳伦斯·莱斯格
+Peter Murray-Rust（英语：Peter Murray-Rust）
+Peter Suber（英语：Peter Suber）
+理查德·斯托曼
+蒂姆·伯纳斯-李
+
+
+
+
+
+
+
+
+项目
+
+
+
+创作共用授权
+自由文化作品定义（英语：Definition of Free Cultural Works）
+自由文化运动
+自由软件运动
+开源生态学
+OpenCores（英语：OpenCores）
+OpenWetWare（英语：OpenWetWare）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+知识产权激进主义
+
+
+
+
+
+
+问题和争论
+
+
+
+版权侵犯
+软件版权侵犯
+数字版权管理
+Gripe site（英语：Gripe site）
+音乐著作权的历史
+知识产权
+文件分享的合法性
+混制
+
+视频
+音乐
+
+
+专利权
+公有领域
+软件专利争论
+專利流氓
+
+
+
+
+
+
+
+
+概念
+
+
+
+All Rights Reversed
+Anti-版权 notice
+Copyleft
+版权属左的商业应用
+Commons-based peer production（英语：Commons-based peer production）
+自由内容
+自由软件许可
+信息无政府主义
+Libertarian positions（英语：Libertarian perspectives on intellectual property）
+开放内容
+开放设计
+开放音乐模式
+开放专利权
+开源硬件
+开源软件
+相同方式共享
+
+
+
+
+
+
+
+
+运动
+
+
+
+知识无界运动
+反版权
+文化环境
+自由文化运动
+自由软件运动
+
+
+
+
+
+
+
+
+组织
+
+
+
+创作共用
+
+电子前哨基金会
+自由软件基金会
+自由权利组织
+软件自由法律中心
+Organization for Transformative Works（英语：Organization for Transformative Works）
+海盗湾
+海盗署
+海盗党
+Students for Free Culture（英语：Students for Free Culture）
+
+
+
+
+
+
+
+
+人物
+
+
+
+李卡德·法克明炎
+勞倫斯·雷席格
+理查德·斯托曼
+
+
+
+
+
+
+
+
+文档
+
+
+
+幹走電影 (2006, 2007)
+正版盗版 (2007)
+混制宣言 (2008)
+
+
+
+
+
+
+
+
+
+
+
+
+分类：版权内容开放創作共用自由文化運動隐藏分类：含有英語的條目

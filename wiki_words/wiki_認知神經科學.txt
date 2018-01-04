@@ -1,0 +1,1058 @@
+認知神經科學
+
+
+心理学
+
+
+
+
+
+
+
+心理學大綱
+心理學史
+心理學的子領域（英语：Subfields of psychology）
+
+
+
+
+心理學基礎（英语：Basic science (psychology)）
+
+
+
+
+
+異常心理學
+行为遗传學
+生物心理學
+認知心理學
+比較心理學
+跨文化心理學（英语：Cross-cultural psychology）
+文化心理學（英语：Cultural psychology）
+差異心理學（英语：Differential psychology）
+發展心理學
+演化心理學
+實驗心理學
+數學心理學
+神經心理學
+人格心理學
+正面心理學
+定量心理學（英语：Quantitative psychology）
+社會心理學
+
+
+
+
+
+應用心理學
+
+
+
+
+
+應用行為分析
+臨床心理學
+社區心理學
+消費行為
+諮商心理學
+批判社區心理學
+教育心理學
+環境心理學（英语：Environmental psychology）
+人因工程學
+法庭心理學
+健康心理學
+人本主义心理學
+工業與組織心理學
+本體解釋學（英语：Ontological hermeneutics）
+法律心理學
+醫學心理學（英语：Medical psychology）
+軍事心理學（英语：Military psychology）
+音樂心理學（英语：Music psychology）
+職業健康心理學（英语：Occupational health psychology）
+政治心理學
+宗教心理學
+學校心理學（英语：School psychology）
+運動心理學
+交通心理學
+
+
+
+
+
+心理學列表
+
+
+
+
+
+心理學學科列表
+心理學組織列表（英语：List of psychology organizations）
+心理學家
+心理治療列表（英语：List of psychotherapies）
+重要著作列表（英语：List of important publications in psychology）
+重要研究列表（英语：List of psychological research methods）
+心理學學派列表
+心理學的時間表（英语：Timeline of psychology）
+心理學文章索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+ 心理學主题  神經科學主题  醫學主题  社會主题
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+神經心理學
+
+
+
+
+主題
+
+
+大腦區域（英语：List of regions in the human brain）
+臨床神經心理學（英语：Clinical neuropsychology）
+認知神經心理學（英语：Cognitive neuropsychology）
+認知神經科學
+失智症
+人腦
+神經解剖學
+神經生理學
+神經心理學評估（英语：Neuropsychological assessment）
+神經心理康復（英语：Neuropsychological rehabilitation）
+外傷性顱腦損傷（英语：Traumatic brain injury）
+
+
+
+
+
+
+
+
+腦功能
+
+
+喚起（英语：Arousal）
+注意
+意识
+決策
+管控功能
+自然語言
+學習
+記憶
+運動協調
+知覺
+企劃
+解決問題
+思想
+
+
+
+
+
+
+
+
+人物
+
+
+Arthur L. Benton（英语：Arthur L. Benton）
+戴维·玻姆
+Antonio Damasio（英语：Antonio Damasio）
+費尼斯·蓋吉
+Norman Geschwind（英语：Norman Geschwind）
+Elkhonon Goldberg（英语：Elkhonon Goldberg）
+Patricia Goldman Rakic（英语：Patricia Goldman Rakic）
+Pasko Rakic（英语：Pasko Rakic）
+唐纳德·赫布
+Kenneth Heilman（英语：Kenneth Heilman）
+Edith Kaplan（英语：Edith Kaplan）
+Muriel Lezak（英语：Muriel Lezak）
+Benjamin Libet（英语：Benjamin Libet）
+Rodolfo Llinás（英语：Rodolfo Llinás）
+亚历山大·鲁利亚
+Brenda Milner（英语：Brenda Milner）
+Karl H. Pribram（英语：Karl H. Pribram）
+奧利佛·薩克斯
+Mark Rosenzweig（英语：Mark Rosenzweig）
+罗杰·斯佩里
+Hans-Lukas Teuber（英语：Hans-Lukas Teuber）
+亨利·莫萊森
+K.C.（英语：K.C. (patient)）
+
+
+
+
+
+
+
+
+神經心理學測驗（英语：Neuropsychological test）
+
+
+本頓視覺保留測驗（英语：Benton Visual Retention Test）
+連續效能任務（英语：Continuous Performance Task）
+霍爾斯特德-理坦神經心理學測驗（英语：Halstead-Reitan Neuropsychological Battery）
+海靈和布裡布測驗（英语：Hayling and Brixton tests）
+詞彙決策任務（英语：Lexical decision task）
+盧里亞-內布拉斯加神經心理學測驗（英语：Luria-Nebraska Neuropsychological battery）
+簡短智能測驗
+雷伊-奧斯特里特複雜圖（英语：Rey-Osterrieth Complex Figure）
+斯特魯普效應
+魏氏智力測驗
+韋氏記憶量表（英语：Wechsler Memory Scale）
+威斯康星卡片分揀任務（英语：Wisconsin Card Sorting Task）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+認知神經科學（英语：Cognitive neuroscience）是一門科學學門，旨在探討認知歷程的生物學基礎[1]。主要的目標為闡明心理歷程的神經機制，也就是大腦的運作如何造就心理或認知功能。認知神經科學為心理學和神經科學的分支，並且橫跨眾多領域，例如生理心理學、神經科學、認知心理學和神經心理學[2]。認知神經科學以認知科學的理論以及神經心理學、神經科學及計算機模型的實驗證據為基礎[2]。
+由於其跨領域的特性，認知神經科學家的背景除了上述提到的學科之外，還有來自神經生物學、神经化学、精神病學、神經學、内分泌学、有机化学、物理學、語言學、哲學和數學等學門。
+認知神經科學採用的研究方法，包括來自心理物理學、認知心理學、功能性神經造影（英语：functional_neuroimaging）、電生理學、認知基因體學（英语：cognitive_genomics）和行為遺傳學的實驗典範。另外一部分重要的研究方向來自於腦傷病人的研究。腦部損傷所造成的認知功能受損，提供認知神經科學許多重要的證據（請參照：神經心理學）。而理論的發展則來自計算神經科學和認知心理學。
+
+
+
+目录
+
+
+1 歷史起源
+
+1.1 顱相學
+1.2 總體論
+1.3 區位化論
+1.4 神經心理學的興起
+1.5 腦功能定位
+1.6 神經教條
+1.7 認知科學的誕生
+1.8 認知神經科學
+
+
+2 認知神經科學的主題
+3 參考文獻
+
+3.1 引用
+3.2 来源
+
+
+4 延伸閱讀
+5 外部連結
+
+
+
+歷史起源[编辑]
+部分認知神經科學學者持有特定腦部區位負責特定的認知功能這樣的觀點。這樣的看法源自於許多不同的理論，如顱相學。雖然顱相學最後因為缺乏科學根據而被摒棄，但特定腦區控制特定認知功能的觀點仍被採納。而現今，在揚棄了觀察頭殼外觀這樣不科學的方式之後，取而代之的是對於頭皮的電生理測量，或是更多對腦部本身的觀測。
+顱相學[编辑]
+認知神經科學的起源和顱相學有很大的關係。顱相學實質上是一個偽科學，並聲稱頭皮的形狀會影響行為的表現。在19世紀早期，弗朗茲·約瑟夫·加爾和史普漢（英语：J. G. Spurzheim）相信人的大腦可以被分為35個不同的區域。加爾在他的書《神經系統的解剖生理學概論和腦部深論》聲稱頭殼上較大的凸起代表著這塊區域被較頻繁的使用。當時，顱相學廣被大眾所注意，並且發行了以顱相學為主題的期刊。甚至發明了顱相測定儀以測定頭顱上的凸起。
+總體論[编辑]
+十九世紀的法國實驗心理學家佛羅倫斯如眾多的科學家一樣質疑顱相學的觀點。雖然他的實驗對象為兔子和鴿子，但他發現特定部位的腦傷並不會造成行為上的改變。由此他認為行為表現是由不同腦區共同參與，也就是總體論的觀點。
+區位化論[编辑]
+二十世紀，歐洲一些科學家如傑克森所進行的一些研究讓區位化論重新成為主流的觀點。傑克森的研究特別在於有癲癇症狀的腦傷病人，他發現病人在癲癇發作的時候，時常會造成相同的陣攣和肌肉緊張的情況。因此他認為每次的發作一定都是發生在相同的腦區，並且提出特定腦區負責特定功能的看法[3]。在後續對於腦葉的研究中，區位化觀點有很大的影響和幫助。
+神經心理學的興起[编辑]
+
+
+
+
+布洛卡氏區與韋尼克區
+
+
+法國的神經科學家布洛卡（英语：Paul Broca）在1861年報告了一位病人的症狀。這位病人可以聽的懂語言，但是無法說，並且只能發出「炭」（tan）的音。這位病人之後被發現他左腦的額葉有腦傷，而這塊腦傷的區域現今則被稱作布洛卡氏區。另外一位神經科學家卡爾·韋尼克（英语：Carl Wernicke）則發現一位中風病人無法聽取語言訊息和閱讀文字，但可以流利的說話（雖然說的是沒有意義的語句）。這位病人則是有一個在左腦頂葉和顳葉交界處的腦傷。而這塊區域現今被稱作韋尼克區。這兩個病例是支持區位化論的重要證據，因為特定區域的腦傷造成了特定的行為改變。布洛卡和韋尼克的研究促成了神經心理學的誕生，而這個新領域研究的是心理現象和腦傷之間的關係。
+腦功能定位[编辑]
+在1870年，德國兩位醫師希茲格（英语：Eduard Hitzig）和費理屈（英语：Gustav Fritsch）發表了他們在動物實驗的發現。他們在狗的不同大腦皮質部位通上電流，可以誘發不同的相應動作。由此他們認為行為的表現是源自於腦細胞層次的運作。德國的神經解剖學家科比尼安·布洛德曼（英语：Korbinian Brodmann）使用尼氏發明的組織染色技術觀察腦部的細胞種類。於1909時，他發表了他的結論：腦部是由52個不同的部份所組成。這些分區現被稱為布洛德曼分區。現在看來，有些分區劃定的非常精確，如布洛德曼17區和布洛德曼18區。
+神經教條[编辑]
+在20世紀早期，聖地亞哥·拉蒙-卡哈爾和卡米洛·高爾基開始研究神經細胞的結構。高基發展出銀染色法（英语：Silver stain），可以將特定區域的細胞一同染色。使用這樣的技術觀察神經細胞，讓高爾基認為細胞之間，在共同的細胞質內有直接的連接。卡哈爾則反對這樣的觀點。他在腦部含有較少髓鞘的部位做染色，發現神經細胞並不是緊密相連，而是分離的。他進一步發現神經細胞會單方向的傳遞電訊號。這些發現稱為神經教條（英语：Neuron doctrine），並對之後了解神經細胞的功能提供了基礎的理論。也因次這個貢獻，高基和卡哈爾都獲得了1906年的諾貝爾生理學或醫學獎。
+認知科學的誕生[编辑]
+1956年9月11日，認知科學大會在麻省理工學院舉行。在大會上喬治·A·米勒發表了他著名的研究《神奇的数字：7±2》。诺姆·乔姆斯基和艾倫·紐厄爾和赫伯特·亞歷山大·西蒙發表了他們在電腦科學上的成果。耐瑟（英语：Ulric Neisser）在他1967年的書「認知心理學」中評論了許多在這次會議中所發表的成果。心理學此名詞在1950到1960年代逐漸式微，取代的是認知科學的開始。行為主義的科學家如喬治·A·米勒開始重視語言的內在表徵，而不只有外在的行為表現。大衛·馬爾 提出記憶的階層性表徵，也讓許多心理學家接納了心理功能是需要由腦中特別的演算法處理。
+認知神經科學[编辑]
+在1980年代之前，神經科學和認知心理學這兩個領域之間幾乎沒有互動。[4]在1970年代晚期，「認知神經科學」這個名詞在一輛計程車的後座誕生[5]，由喬治·A·米勒和麥可·葛詹尼加（英语：Michael Gazzaniga）共同創立[4]。研究者開始用實驗心理學、神經心理學和神經科學的研究方法來為認知科學奠定基礎。在20世紀晚期，新的科學技術成為認知神經科學重要的研究方法。這些技術包含了穿顱磁刺激（英语：Transcranial_magnetic_stimulation）、功能性磁振造影、腦電圖和腦磁圖（英语：Magnetoencephalography）。有時也會使用到其他的腦造影技術，如正子斷層掃瞄造影和單光子電腦斷層掃描（英语：SPECT）。在動物上使用的單細胞電位記錄（英语：Single-unit recording）也是重要的技術。另外其他的技術還包含微神經圖（英语：microneurography）、臉部的肌電圖（英语：EMG）和眼球追蹤儀。整合神經科學（英语：Integrative neuroscience）試著將不同領域和不同尺度（如生物學、心理學、解剖學和臨床經驗）所得到的研究成果，整合成一個統合的描述性模型。
+認知神經科學的主題[编辑]
+
+注意力
+意識
+決策判斷
+學習
+記憶
+情感
+語言
+動作
+感官
+
+參考文獻[编辑]
+引用[编辑]
+
+
+^ Gazzaniga, Ivry and Mangun 2002, cf. title
+^ 2.0 2.1 Gazzaniga 2002, p. xv
+^ Enersen, O. D. 2009
+^ 4.0 4.1 http://www.petemandik.com/philosophy/papers/brookmandik.pdf
+^ Gazzaniga et al. 2002, p.1
+
+
+来源[编辑]
+
+
+Churchland, P.S. & Sejnowski, T.J. (1992). The Computational Brain（英语：The Computational Brain）, The MIT Press（英语：The MIT Press）, ISBN 0-262-03188-4.
+Code, C. (1996). Classic Cases: Ancient & Modern Milestones in the Development of Neuropsychological Science. In: Code, C. et al. Classic Cases in Neuropsychology.
+Gazzaniga, M. S., Ivry, R. B. & Mangun, G. R. (2002). Cognitive Neuroscience: The biology of the mind (2nd ed.). New York: W.W.Norton.
+Gazzaniga, M. S., The Cognitive Neurosciences III, (2004), The MIT Press（英语：The MIT Press）, ISBN 0-262-07254-8
+Gazzaniga, M. S., Ed. (1999). Conversations in the Cognitive Neurosciences, The MIT Press（英语：The MIT Press）, ISBN 0-262-57117-X.
+Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63, 81-97
+Parkin, A.J. (1996). Explorations in Cognitive Neuropsychology, pp. 1-23.
+Sternberg, Eliezer J. Are You a Machine? The Brain, the Mind and What it Means to be Human. Amherst, NY: Prometheus Books.
+Ward, Jamie. The Student's Guide to Cognitive Neuroscience. Psychology Press. 2006. ISBN 978-1-84169-535-8.  外部链接存在于|publisher=, |title= (帮助)
+Handbook of Functional Neuroimaging of Cognition By Roberto Cabeza, Alan Kingstone
+Principles of neural science By Eric R. Kandel, James H. Schwartz, Thomas M. Jessell
+The Cognitive Neuroscience of Memory By Amanda Parker, Edward L. Wilding, Timothy J. Bussey
+Neuronal Theories of the Brain By Christof Koch, Joel L. Davis
+Cambridge Handbook of Thinking and Reasoning By Keith James Holyoak, Robert G. Morrison
+Handbook of Mathematical Cognition By Jamie I. D. Campbell
+Cognitive Psychology By Michael W. Eysenck, Mark T. Keane
+Development of Intelligence By Mike Anderson
+Development of Mental Processing By Andreas Demetriou, et. al.
+Memory and Thinking By Robert H. Logie, K. J. Gilhooly
+Memory Capacity By Nelson Cowan
+Proceedings of the Nineteenth Annual Conference of the Cognitive Science
+Models of Working Memory By Akira Miyake, Priti Shah
+Memory and Thinking By Robert H. Logie, K. J. Gilhooly
+Variation in Working Memory By Andrew R. A. Conway, et. al.
+Memory Capacity By Nelson Cowan
+Cognition and Intelligence By Robert J. Sternberg, Jean E. Pretz
+General Factor of Intelligence By Robert J. Sternberg, Elena Grigorenko
+Neurological Basis of Learning, Development and Discovery By Anton E. Lawson
+Memory and Human Cognition By John T. E. Richardson
+Enersen, O. D. (2009). John Hughlings Jackson. In: Who Named It. http://www.whonamedit.com/doctor.cfm/2766.html Retrieved 14 August 2009
+Society for Neuroscience. http://www.sfn.org/index.cfm?pagename=about_sfn#timeline Retrieved 14 August 2009.
+
+
+延伸閱讀[编辑]
+
+
+European Journal of Neuroscience
+Cerebral Cortex
+Neuroreport
+Neuropsychologia
+Social neuroscience
+Trends in Neuroscience
+Neuroscience
+Neuroimage
+Brain
+Neuroscience Letters
+Visual Neuroscience
+Vision
+Vision Research
+Brain Research
+Clinical Neuropsychology
+Experimental Neurology
+Neuroscience Methods
+Clinical Neuroscience Research
+Clinical Neuroscience
+Developmental Brain Research
+Progress in Brain Research
+Neuroscience Research
+Experimental Neurology
+Human Neurobiology
+Neurophysiology
+Synapse
+Hippocampus
+Memory and Language
+Neuropsychopharmacology
+Clinical and Experimental Neuropsychology
+Neurochemical Research
+Neural Computation
+Trends in Cognitive Science
+Current Opinion in Neurobiology
+Cognitive Brain Research
+Human Brain Mapping
+American Journal of Audiology
+Otology and Neurotology
+Hearing Research
+Clinical Neurophysiology
+Optical Society of America
+Neural Systems
+Auditory Research
+Perception
+Hearing Research
+Acoustical Society of America
+Psychological Review
+Experimental Psychology
+Visual Cognition
+Neurocomputing
+Trends in Cognitive Sciences
+Progress in Neurobiology
+Clinical Neuropharmacology
+
+
+外部連結[编辑]
+
+
+關於認知神經科學
+的圖書館資源
+
+
+
+
+
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+Cognitive Neuroscience Society Homepage
+There's Something about Zero
+What Is Cognitive Neuroscience?, Jamie Ward/Psychology Press
+goCognitive - Educational Tools for Cognitive Neuroscience (including video interviews)
+CogNet, The Brain and Cognitive Sciences Community Online, MIT
+Cognitive Neuroscience Arena, Psychology Press
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+心理学
+
+
+
+
+
+
+
+
+
+历史
+专利
+心理学家
+
+
+
+
+
+
+
+
+基础心理學（英语：Basic science (psychology)）
+（尾綴有心理學者不贅述）
+
+
+
+異常
+生物
+認知
+比較
+文化（英语：Cultural psychology）
+发展
+差別（英语：Differential psychology）
+演化
+实验
+数学
+神经
+人格
+正面
+生理
+社会
+理论
+哲學
+科學
+心理语言学
+心理物理学
+人本主義
+情感科学（英语：Affective science）
+情感神經科學（英语：Affective neuroscience）
+行為主義
+精神分析學
+認知神經科學
+
+
+
+
+
+
+
+
+应用心理学
+
+
+
+应用行为分析
+心理測驗
+臨床心理學
+社區心理學
+消費行為
+咨询
+教育
+法医
+健康
+工业与组织
+法律心理學
+傳媒心理学（英语：Media psychology）
+军事心理學（英语：Military psychology）
+职业心理健康（英语：Occupational health psychology）
+牧師心理學
+政治心理學
+心理统计学
+校园心理學（英语：School psychology）
+运动心理学
+自杀学（英语：Suicidology）
+系统心理学（英语：Systems psychology）
+交通
+
+
+
+
+
+
+
+
+研究方法（英语：List of psychological research methods）
+
+
+
+动物测试
+档案研究（英语：Archival research）
+行为遗传学
+行为表观遗传学（英语：Behavioral epigenetics）
+案例研究（英语：Case study）
+內容分析法
+实验心理学
+人体试验
+面談
+神经成像
+观察
+定性研究（英语：Qualitative psychological research）
+定量研究（英语：Quantitative psychological research）
+自陳量表（英语：Self-report inventory）
+统计调查
+智力
+
+
+
+
+
+
+
+
+取向
+
+
+
+阿德勒心理学（英语：Adlerian psychology）
+分析心理学
+行为主义
+认知行为疗法
+認知主義
+描述心理学（英语：Descriptive psychology）
+生态系统理论
+存在主义治疗（英语：Existential therapy）
+家庭療法（英语：Family therapy）
+女权主义疗法（英语：Feminist therapy）
+格式塔学派
+人本主义
+晤談治療法（英语：Narrative therapy）
+心理學哲學（英语：Philosophy of psychology）
+精神動力取向心理治療（英语：Psychodynamic psychotherapy）
+理性情緒行為治療法（英语：Rational emotive behavior therapy）
+精神分析学
+超个人
+
+
+
+
+
+
+
+
+著名心理学家
+
+
+
+阿尔弗雷德·阿德勒
+高尔顿·威拉德·奥尔波特
+阿尔波特·班杜拉
+阿龙·贝克
+約翰·鮑比
+雷蒙德·卡特尔
+肯尼斯和玛米·克拉克（英语：Kenneth and Mamie Clark）
+阿尔伯特·艾利斯
+爱利克·埃里克森
+汉斯·艾森克
+利昂·费斯廷格
+西格蒙德·弗洛伊德
+哈里·哈洛
+唐纳德·赫布
+克拉克·L·赫爾
+威廉·詹姆士
+卡爾·榮格
+杰罗姆·凯根（英语：Jerome Kagan）
+库尔特·勒温
+依瓦·洛瓦斯（英语：Ivar Lovaas）
+亚伯拉罕·马斯洛
+大卫·麦克利兰
+乔治·A·米勒
+尼爾·米勒（英语：Neal E. Miller）
+沃爾特·米歇爾
+巴甫洛夫
+讓·皮亞傑
+卡爾·羅哲斯
+斯坦利·沙克特（英语：Stanley Schachter）
+伯尔赫斯·弗雷德里克·斯金纳
+愛德華·桑代克
+约翰·布罗德斯·华生
+威廉·冯特
+赫爾曼·艾賓浩斯
+
+
+
+
+
+
+
+
+心理学列表
+
+
+
+輔導
+学科
+重要出版物（英语：List of important publications in psychology）
+組織（英语：List of psychology organizations）
+概要
+心理学家
+心理療法
+研究方法（英语：List of psychological research methods）
+心理学学派
+年表（英语：Timeline of psychology）
+條目索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+
+
+
+
+参见Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+神经科学
+
+
+
+
+
+
+基础科学
+
+
+
+行为表观遗传学（英语：Behavioral epigenetics）
+行为神经病学
+行为遗传学
+脑机接口
+细胞神经科学
+計算神經科學
+连接组学
+进化神经科学（英语：Evolutionary neuroscience）
+成像遗传学（英语：Imaging genetics）
+整合神经科学（英语：Integrative neuroscience）
+分子神经科学（英语：Molecular neuroscience）
+神经发育
+神经工程
+神经网络（人工的以及生物的）
+神经信号处理
+神经组织再生
+神经生物工程学
+神经生命学
+神经心脏病学
+神經化學
+神经芯片
+神經多樣性
+胚胎学
+神经内分泌学
+神经行为学
+神经遗传学
+神经免疫学
+神经信息学
+神经测量学
+神经调制
+神经功能监测
+神经物理学
+神经生理学
+神经可塑性
+神经机器人学（英语：Neurorobotics）
+神经技术（英语：Neurotechnology）
+神經毒素
+神经递质
+
+
+
+
+
+
+
+
+
+
+
+临床神经科学（英语：Clinical neuroscience）
+
+
+
+行为神经学
+临床神经生理学（英语：Clinical neurophysiology）
+神经退行性疾病
+神经发育疾病
+神经成像
+神經內科
+神经流行病学
+神经眼科学
+神经解剖学
+神经胃肠病学
+神经重症护理
+神經學
+神经肿瘤学
+神经病理学（英语：Neuropathology）
+神经义肢技术
+神经药理学（英语：Neuropharmacology）
+Neuroradiology（英语：Neuroradiology）
+Neurorehabilitation（英语：Neurorehabilitation）
+神經外科
+神经病毒学（英语：Neurovirology）
+精神病学
+神经精神病学
+神经耳科学
+古神经病学（英语：Paleoneurology）
+
+
+
+
+
+
+
+
+认知神经科学
+
+
+
+情感神经科学（英语：Affective Neuroscience）
+行为神经科学
+時間生物學
+文化神经科学（英语：Cultural neuroscience）
+教育神经科学（英语：Educational neuroscience）
+分子细胞认知（英语：Molecular cellular cognition）
+神经语言学
+生物心理学
+神经心理学
+Sensory neuroscience（英语：感官神经科学）
+社会神经科学
+Systems neuroscience（英语：系统神经科学）
+
+
+
+
+
+
+
+
+非科学
+
+
+
+神经经济学
+神经语言学
+神经哲学（英语：Neurophilosoph）
+神经伦理学
+神经社会学（英语：Neuro-sociology）
+神经神学（英语：Neurotheology）
+
+
+
+
+
+
+
+
+
+
+
+ 书籍
+ 神經科學的條目分類
+ 共享資源
+ 神經科學主題
+ 專題
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+神经科学
+
+
+
+
+
+
+
+神經科學概要（英语：Outline of neuroscience）
+
+
+
+
+
+
+基础科学
+
+
+
+行為的遺傳訊息學（英语：Behavioral epigenetics）
+行为遗传学
+細胞神經科學（英语：Cellular neuroscience）
+計算神經科學
+连接组学
+影像遺傳學（英语：Imaging genetics）
+整合性神經科學（英语：Integrative neuroscience）
+分子神經科學（英语：Molecular neuroscience）
+神经工程
+神經解剖（構造）學
+神經化學
+神經內分泌學（英语：Neuroendocrinology）
+神經基因學（英语：Neurogenetics）
+神经信息学
+神經測量學（英语：Neurometrics）
+神經科學與生物形態學（英语：Neuromorphology）
+神經物理（英语：Neurophysics）
+神经生理学
+
+
+
+
+
+
+
+
+
+
+
+臨床神經科學（英语：Clinical neuroscience）
+
+
+
+行為神經學
+臨床神經生理學（英语：Clinical neurophysiology）
+神經心臟學（英语：Neurocardiology）
+神經流行病學（英语：Neuroepidemiology）
+神經與消化系統學（英语：Neurogastroenterology）
+神經免疫學（英语：Neuroimmunology）
+神經重症學
+神經內科
+神經腫瘤學（英语：Neurooncology）
+神经眼科学
+神經病理學（英语：Neuropathology）
+神經藥學（英语：Neuropharmacology）
+神经假体
+神經與精神病學（英语：Neuropsychiatry）
+神經放射學（英语：Neuroradiology）
+神經復健學（英语：Neurorehabilitation）
+神經外科
+神經病毒學（英语：Neurotology）
+神經病毒學（英语：Neurovirology）
+營養與神經科學（英语：Nutritional neuroscience）
+精神病学
+
+
+
+
+
+
+
+
+認知神經科學
+
+
+
+情感神經科學（英语：Affective neuroscience）
+生物心理学
+時間生物學
+分子細胞的認知（英语：Molecular cellular cognition）
+肌肉運動的/運動神經的控制（英语：Motor control）
+神经语言学
+神经心理学
+感知神經科學（英语：Sensory neuroscience）
+社会神经科学
+系統神經科學（英语：Systems neuroscience）
+
+
+
+
+
+
+
+
+跨領域
+
+
+
+消費性神經科學（英语：Consumer neuroscience）
+文化的神經科學（英语：Cultural neuroscience）
+教育的神經科學（英语：Educational neuroscience）
+Evolutionary neuroscience（英语：Evolutionary neuroscience）
+神經人類學（英语：Neuroanthropology）
+神經生物工程（英语：Neurobioengineering）
+神經與生態學（英语：Neurobiotics）
+神經科學與犯罪學（英语：Neurocriminology）
+神經經濟學
+神經科學與哲學的認識理論（英语：Neuroepistemology）
+Neuroesthetics（英语：Neuroesthetics）
+神經科學與倫理道德（英语：Neuroethics）
+神经行为学
+神經科學與歷史學（英语：Neurohistory）
+神經科學與法律（英语：Neurolaw）
+神經科學與行銷學（英语：Neuromarketing）
+神經科學與現象學
+神經科學與哲學（英语：Neurophilosophy）
+神經科學與政治學（英语：Neuropolitics）
+神經科學與機器人（英语：Neurorobotics）
+神經科學與社會學（英语：Neurosociology）
+神經科學與宗教學（英语：Neurotheology）
+神經科學與古生物學（英语：Paleoneurology）
+
+
+
+
+
+
+
+
+概念
+
+
+
+腦機介面
+神經發展（英语：Neural development）
+人工神经网络
+生物神经网络
+信号检测理论
+多執行之神經生理監測（英语：Intraoperative neurophysiological monitoring）
+神經晶片（英语：Neurochip）
+神经退行性疾病
+神經發展及疾患（英语：Neurodevelopmental disorder）
+神經多樣性（英语：Neurodiversity）
+神经发生
+神经成像
+神經免疫系統（英语：Neuroimmune system）
+神經管理（英语：Neuromanagement）
+神經調節
+神经可塑性
+神經科技（英语：Neurotechnology）
+神經毒素
+
+
+
+
+
+
+
+
+
+
+
+ 相關書籍（英语：Book:Neuroscience）
+ 神經科學的條目分類
+ 共享資源
+ 神經科學主題
+ 專題
+
+
+
+
+
+
+
+
+
+
+
+
+分类：认知心理学神經科學認知科學隐藏分类：引文格式1错误：外部链接使用ISBN魔术链接的页面

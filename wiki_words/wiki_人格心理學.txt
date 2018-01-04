@@ -1,0 +1,282 @@
+人格心理學
+
+
+心理学
+
+
+
+
+
+
+
+心理學大綱
+心理學史
+心理學的子領域（英语：Subfields of psychology）
+
+
+
+
+心理學基礎（英语：Basic science (psychology)）
+
+
+
+
+
+異常心理學
+行为遗传學
+生物心理學
+認知心理學
+比較心理學
+跨文化心理學（英语：Cross-cultural psychology）
+文化心理學（英语：Cultural psychology）
+差異心理學（英语：Differential psychology）
+發展心理學
+演化心理學
+實驗心理學
+數學心理學
+神經心理學
+人格心理學
+正面心理學
+定量心理學（英语：Quantitative psychology）
+社會心理學
+
+
+
+
+
+應用心理學
+
+
+
+
+
+應用行為分析
+臨床心理學
+社區心理學
+消費行為
+諮商心理學
+批判社區心理學
+教育心理學
+環境心理學（英语：Environmental psychology）
+人因工程學
+法庭心理學
+健康心理學
+人本主义心理學
+工業與組織心理學
+本體解釋學（英语：Ontological hermeneutics）
+法律心理學
+醫學心理學（英语：Medical psychology）
+軍事心理學（英语：Military psychology）
+音樂心理學（英语：Music psychology）
+職業健康心理學（英语：Occupational health psychology）
+政治心理學
+宗教心理學
+學校心理學（英语：School psychology）
+運動心理學
+交通心理學
+
+
+
+
+
+心理學列表
+
+
+
+
+
+心理學學科列表
+心理學組織列表（英语：List of psychology organizations）
+心理學家
+心理治療列表（英语：List of psychotherapies）
+重要著作列表（英语：List of important publications in psychology）
+重要研究列表（英语：List of psychological research methods）
+心理學學派列表
+心理學的時間表（英语：Timeline of psychology）
+心理學文章索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+ 心理學主题  神經科學主题  醫學主题  社會主题
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+人格心理學為心理學的分支之一，可簡單定義為研究一個人所特有的行為模式的心理學。
+「Personality」一般都會被譯作「性格」，心理學學界則把它譯為「人格」。「人格」不單包括性格，還包括信念、自我觀念等等。準確來說，「人格」是指一個人一致的行為特徵的群集。人格的組成特徵因人而異，因此每個人都有其獨特性。這種獨特性致使每個人面對同一情況下都可能有不同反應。人格心理學家會研究人格的構成特徵及其形成，從而預計它對塑造人類行為和人生大事的影響。
+
+
+
+目录
+
+
+1 理論
+
+1.1 精神分析論
+1.2 社會認知論
+1.3 人本主義觀點
+1.4 生物學觀點
+
+
+2 人格特徵論
+3 測驗
+4 參見
+5 參考文獻
+6 延伸閱讀
+7 外部連結
+
+
+
+理論[编辑]
+人格的形成受到不同因素的影響，因而發展出不同的分析理論，包括心理精神分析論、社會認知論、人本主義及生物學派等。
+精神分析論[编辑]
+根據心理動力學，精神分析學家弗洛伊德指出人格可分成三個層次，即意識，前意識及潛意識，他並提出人格結構中的本我、自我和超我來解釋以上三個層次。
+社會認知論[编辑]
+社會認知論（Social Cognitive theory）的提出者是心理學家班杜拉，他指出人的行為不但受個人控制，亦受環境和外在社會因素影響，即「相互決定論」。他提出個人自我效能的高低會影響他適應生活及克服障礙的能力，而根據社會學習理論，個人的觀察學習能力亦對性格形成和發展有所影響。
+人本主義觀點[编辑]
+以馬斯洛為首的人本主義認為個人有五種天生的需求層次，而滿足這些需求的行為就是從學習得來的。人格受先天、後天學習、遺傳等各種因素互相影響。
+生物學觀點[编辑]
+生物學派（Biological）認為人格的特質會透過遺傳影響子女，亦關乎腦袋的生理構造，並非只受個人經驗影響。心理學家艾森克 認為人格可分為三大維度，即外向與內向、神经质傾向（Neuroricism）和精神症狀傾向（Psychoticism）。
+人格特徵論[编辑]
+主条目：五大性格特质
+人格特徵（trait）可解作特定的人格元素，用以描述一個人的感覺、思考及表現方式。人格特徵可從行為中推論出來，具有相當的統合性與持久性。從古至今，心理學家對於人格分類都有著不同的見解，而近期一些心理學家們就組織了一套廣泛被使用的人格五大模型（“Big Five”model）。此模型列出了五種普遍的人格特徵，包括外向性（extraversion）、神经质（neuroticism）、和善性（agreeableness）、嚴謹自律性（conscientiousness），和開放性（openness to experience）。
+
+
+
+
+
+
+
+
+
+
+
+
+人格五大模型
+外向性
+神经质
+和善性
+嚴謹自律性
+開放性
+
+
+
+和人格五大模型有關的特定特徵
+愛交朋友、親切
+焦慮、感情脆弱
+信任、溫厚的
+自律、有組織的
+豐富想象力、創意
+
+
+
+
+
+這五大特徵都會受遺傳影響，也受不同文化影響從而提高個人適應能力。
+測驗[编辑]
+人格特徵可以從人格心理測驗（personality test）中推斷出來。這種測驗是對個人行為樣本的一種客觀化和標準化的測量工具，可分為客觀與主觀兩大類。objective test會以特定的問卷形式進行，而近期較為普及的有明尼苏达多项人格问卷 ，創立於1942年，並且在1989年發行修訂版（MMPI-2），以18歲或以上的成年人為對像。而projective test就以動力心理學為基礎，用抽象的方式去推測人的潛意識思想，例如Rorschach Inkblot test和Thematic Apperception Test（TAT），兩者都被廣泛用於人格研究中。
+參見[编辑]
+
+人格與個別差異期刊（Personality and Individual Differences）
+
+參考文獻[编辑]
+
+
+《人格心理學》，黃堅厚作。心理出版社，1999年出版。
+
+
+延伸閱讀[编辑]
+
+
+Allport, G. W. (1937). Personality: A psychological interpretation. New York: Holt, Rinehart & Winston.
+Mischel, Walter. An Introduction to Personality. John Wiley & Sons Incorporated. 1999-01-01 [30 April 2012]. ISBN 978-0-470-00552-1. 
+Buss D.M.; Greiling H. Adaptive Individual Differences. Journal of Personality. 1999, 67 (2): 209–243. doi:10.1111/1467-6494.00053. 
+Lombardo G.P.; Foschi R. The Concept of Personality between 19th Century France and 20th Century American Psychology. History of Psychology. 2003, 6 (2): 133–142. PMID 12817602. doi:10.1037/1093-4510.6.2.123. 
+Lombardo G.P.; Foschi R. The European origins of "personality psychology. European Psychologist. 2002, 7 (2): 134–145. doi:10.1027/1016-9040.7.2.134. 
+Engler, Barbara. Personality Theories: An Introduction. Cengage Learning. 2008-08-25 [30 April 2012]. ISBN 978-0-547-14834-2. 
+John, Oliver P.; Robins, Richard W.; Pervin, Lawrence A. Handbook of Personality, Third Edition: Theory and Research. Guilford Press. 2010-11-24 [30 April 2012]. ISBN 978-1-60918-059-1. 
+Hall, Calvin S., and Gardner Lindzey (1957). Theories of Personality. New York: J. Wiley & Sons. xi, 571 p., ill. with diagrams.
+Hjelle, Larry A.; Ziegler, Daniel J. Personality theories: basic assumptions, research, and applications. McGraw-Hill. 1992-01-01 [30 April 2012]. ISBN 978-0-07-029079-2. 
+Lombardo, Giovanni Pietro; Foschi, Renato. The European Origins of "Personality Psychology". European Psychologist. 2002, 7 (2): 134–145. doi:10.1027/1016-9040.7.2.134. 
+Lombardo, Giovanni Pietro; Foschi, Renato. The concept of personality in 19th-century French and 20th-century American psychology. History of Psychology. 2003, 6 (2): 123–142. PMID 12817602. doi:10.1037/1093-4510.6.2.123. 
+Ryckman, Richard M. Theories of Personality. Cengage Learning. 2007-03-15 [30 April 2012]. ISBN 978-0-495-09908-6. 
+
+
+外部連結[编辑]
+
+
+關於人格心理學
+的圖書館資源
+
+
+
+
+
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+
+
+維基學院中的相關學習資源：
+
+人格心理學
+
+
+
+
+
+Northwestern University-led collaboration between personality psychologists worldwide to "attempt to bring information about current personality theory and research to the readers of the World Wide Web"
+Psychology, Art of Human Life : Personality
+Cambridge University based myPersonality project offering to researchers access to robust database of millions of detailed psycho-demographic profiles
+Scientific theoretical-methodological and applied psychological journal "Personality Psychology"
+Personality Theories
+Trait Emotional Intelligence: EI as personality
+Personality: Theory & Perspectives - Individual Differences
+Personality Synopsis at the Virtual Psychology Classroom
+Holland's Types
+Henry A. Murray and Clyde Kluckhohn, Personality in Nature, Society, and Culture (1953)
+What is Personality Psychology?
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4075996-9
+NDL: 01067299
+
+
+
+
+
+
+
+
+
+
+
+
+分类：心理學分支人格心理學隐藏分类：包含规范控制信息的维基百科条目

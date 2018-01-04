@@ -1,0 +1,331 @@
+簡短智能測驗
+
+
+心理学
+
+
+
+
+
+
+
+心理學大綱
+心理學史
+心理學的子領域（英语：Subfields of psychology）
+
+
+
+
+心理學基礎（英语：Basic science (psychology)）
+
+
+
+
+
+異常心理學
+行为遗传學
+生物心理學
+認知心理學
+比較心理學
+跨文化心理學（英语：Cross-cultural psychology）
+文化心理學（英语：Cultural psychology）
+差異心理學（英语：Differential psychology）
+發展心理學
+演化心理學
+實驗心理學
+數學心理學
+神經心理學
+人格心理學
+正面心理學
+定量心理學（英语：Quantitative psychology）
+社會心理學
+
+
+
+
+
+應用心理學
+
+
+
+
+
+應用行為分析
+臨床心理學
+社區心理學
+消費行為
+諮商心理學
+批判社區心理學
+教育心理學
+環境心理學（英语：Environmental psychology）
+人因工程學
+法庭心理學
+健康心理學
+人本主义心理學
+工業與組織心理學
+本體解釋學（英语：Ontological hermeneutics）
+法律心理學
+醫學心理學（英语：Medical psychology）
+軍事心理學（英语：Military psychology）
+音樂心理學（英语：Music psychology）
+職業健康心理學（英语：Occupational health psychology）
+政治心理學
+宗教心理學
+學校心理學（英语：School psychology）
+運動心理學
+交通心理學
+
+
+
+
+
+心理學列表
+
+
+
+
+
+心理學學科列表
+心理學組織列表（英语：List of psychology organizations）
+心理學家
+心理治療列表（英语：List of psychotherapies）
+重要著作列表（英语：List of important publications in psychology）
+重要研究列表（英语：List of psychological research methods）
+心理學學派列表
+心理學的時間表（英语：Timeline of psychology）
+心理學文章索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+ 心理學主题  神經科學主题  醫學主题  社會主题
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+神經心理學
+
+
+
+
+主題
+
+
+大腦區域（英语：List of regions in the human brain）
+臨床神經心理學（英语：Clinical neuropsychology）
+認知神經心理學（英语：Cognitive neuropsychology）
+認知神經科學
+失智症
+人腦
+神經解剖學
+神經生理學
+神經心理學評估（英语：Neuropsychological assessment）
+神經心理康復（英语：Neuropsychological rehabilitation）
+外傷性顱腦損傷（英语：Traumatic brain injury）
+
+
+
+
+
+
+
+
+腦功能
+
+
+喚起（英语：Arousal）
+注意
+意识
+決策
+管控功能
+自然語言
+學習
+記憶
+運動協調
+知覺
+企劃
+解決問題
+思想
+
+
+
+
+
+
+
+
+人物
+
+
+Arthur L. Benton（英语：Arthur L. Benton）
+戴维·玻姆
+Antonio Damasio（英语：Antonio Damasio）
+費尼斯·蓋吉
+Norman Geschwind（英语：Norman Geschwind）
+Elkhonon Goldberg（英语：Elkhonon Goldberg）
+Patricia Goldman Rakic（英语：Patricia Goldman Rakic）
+Pasko Rakic（英语：Pasko Rakic）
+唐纳德·赫布
+Kenneth Heilman（英语：Kenneth Heilman）
+Edith Kaplan（英语：Edith Kaplan）
+Muriel Lezak（英语：Muriel Lezak）
+Benjamin Libet（英语：Benjamin Libet）
+Rodolfo Llinás（英语：Rodolfo Llinás）
+亚历山大·鲁利亚
+Brenda Milner（英语：Brenda Milner）
+Karl H. Pribram（英语：Karl H. Pribram）
+奧利佛·薩克斯
+Mark Rosenzweig（英语：Mark Rosenzweig）
+罗杰·斯佩里
+Hans-Lukas Teuber（英语：Hans-Lukas Teuber）
+亨利·莫萊森
+K.C.（英语：K.C. (patient)）
+
+
+
+
+
+
+
+
+神經心理學測驗（英语：Neuropsychological test）
+
+
+本頓視覺保留測驗（英语：Benton Visual Retention Test）
+連續效能任務（英语：Continuous Performance Task）
+霍爾斯特德-理坦神經心理學測驗（英语：Halstead-Reitan Neuropsychological Battery）
+海靈和布裡布測驗（英语：Hayling and Brixton tests）
+詞彙決策任務（英语：Lexical decision task）
+盧里亞-內布拉斯加神經心理學測驗（英语：Luria-Nebraska Neuropsychological battery）
+簡短智能測驗
+雷伊-奧斯特里特複雜圖（英语：Rey-Osterrieth Complex Figure）
+斯特魯普效應
+魏氏智力測驗
+韋氏記憶量表（英语：Wechsler Memory Scale）
+威斯康星卡片分揀任務（英语：Wisconsin Card Sorting Task）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+ 维基百科中的醫療相关内容仅供参考，詳見醫學聲明。如需专业意见请咨询专业人士。
+簡短智能測驗（英文簡稱MMSE）是一份有30條問題的問卷，用作評估認知障礙。醫學界常用此來檢查失智症病人。此問卷也藉着在不同時間點評估病人的認知障礙程度，從而得出治療的成效。
+測驗時間約10分鐘，測試有關於算術、記憶和方向的問題。由Folstein等人於1975年推出[1]。簡短智能測驗的標準版本現由心理評估資源公司出版，是基於1975年推出時的概念，但經過原作者輕微的修改。
+市面上有其他各種類似的測試，如Hodkinson的簡短智能測驗[2]（1972年，用於老年醫學）、醫生認知評估以及其他較深入評估特別情況的測驗。
+
+
+
+目录
+
+
+1 內容
+2 評估
+3 版權
+4 參考
+
+
+
+內容[编辑]
+
+
+交疊的五角形
+
+
+測驗包括不同範疇的簡單問題，如詢問測試的時間和地點、重複一連串的字、算術問題、語言使用和理解、簡單動作。例如，臨摹如右圖的兩個五邊形。[1]
+
+
+分類
+一般分數
+內容
+
+
+時間廣度
+5
+由最廣到最窄，由詢問今年的年份到詢問今日星期幾[3]
+
+
+地方廣度
+5
+由最廣到最窄，問題由何省、何市到何街道[4]，有時會問到建築物層數[5]
+
+
+記錄
+3
+重覆一串字
+
+
+注意力與計算
+5
+減七法（Serial sevens（英语：Serial sevens））[6]
+
+
+回憶
+3
+回憶先前重覆的字
+
+
+語言
+2
+說出物件名
+
+
+重覆
+1
+重覆測試者的說話
+
+
+複雜指示
+6
+各不相同，包括臨摹圖畫。
+
+
+評估[编辑]
+任何得分大於或等於25分（滿分30）代表智能正常。少過25分，可以表示嚴重（≤9分）、中度（10-20分）或輕度（21-24分）[7] 。原始分數可能還需要根據教育程度和年齡進行修正。[8]低分或非常低分反映病人可能受失智症影響，但也有可能是其他精神疾病導致。需要留意病人的缺憾可能會影響結果，例如，病人可聽覺有問題或無法清楚說話等。
+版權[编辑]
+MMSE的作者將MMSE的版權轉移至MiniMental公司。2001年3月，MiniMental與心理評估資源公司（PAR）簽訂了一項獨家協議，採權PAR發行和管理所有有關MMSE的知識產權。2010年2月，PAR發布了MMSE的第二版，也發布了10種外國語言翻譯本（法語、德語、荷蘭語、西班牙語（美國）、西班牙（拉丁美洲）、西班牙語（歐洲）、印度文、俄文、意大利文和簡體中文）。
+參考[编辑]
+
+
+^ 1.0 1.1 Folstein MF, Folstein SE, McHugh PR. "Mini-mental state". A practical method for grading the cognitive state of patients for the clinician. Journal of psychiatric research. 1975, 12 (3): 189–98. PMID 1202204. doi:10.1016/0022-3956(75)90026-6. 
+^ Hodkinson HM. Evaluation of a mental test score for assessment of mental impairment in the elderly. Age and ageing. 1972, 1 (4): 233–8. PMID 4669880. doi:10.1093/ageing/1.4.233. 
+^ Guerrero-Berroa E, Luo X, Schmeidler J; 等. The MMSE orientation for time domain is a strong predictor of subsequent cognitive decline in the elderly. Int J Geriatr Psychiatry. December 2009, 24 (12): 1429–37. PMC 2919210. PMID 19382130. doi:10.1002/gps.2282.  引文格式1维护：显式使用等标签 (link)
+^ Morales LS, Flowers C, Gutierrez P, Kleinman M, Teresi JA. Item and scale differential functioning of the Mini-Mental State Exam assessed using the Differential Item and Test Functioning (DFIT) Framework. Med Care. November 2006, 44 (11 Suppl 3): S143–51. PMC 1661831. PMID 17060821. doi:10.1097/01.mlr.0000245141.70946.29. 
+^ MMSE. [2009-12-10]. （原始内容存档于2010-02-25）. 
+^ Ganguli M, Ratcliff G, Huff FJ; 等. Serial sevens versus world backwards: a comparison of the two measures of attention from the MMSE. J Geriatr Psychiatry Neurol. 1990, 3 (4): 203–7. PMID 2073308. doi:10.1177/089198879000300405.  引文格式1维护：显式使用等标签 (link)
+^ Mungas D. In-office mental status testing: a practical guide. Geriatrics. July 1991, 46 (7): 54–8, 63, 66. PMID 2060803. 
+^ Crum RM, Anthony JC, Bassett SS, Folstein MF. Population-based norms for the Mini-Mental State Examination by age and educational level. JAMA. May 1993, 269 (18): 2386–91. PMID 8479064. doi:10.1001/jama.269.18.2386. 
+
+
+
+
+
+
+分类：精神病學隐藏分类：引文格式1维护：显式使用等标签

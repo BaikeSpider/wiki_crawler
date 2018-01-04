@@ -1,0 +1,615 @@
+維基百科的性別偏誤
+
+
+
+
+
+
+
+
+
+
+
+
+
+據調查，維基百科的編者大多是男性（取自2011年維基媒體基金會針對維基百科編者的調查數據）
+
+
+維基百科的性別偏誤是一項針對線上維基百科，特別是英語維基百科的批評；認為在內容的質與量上都是有偏誤的，原因是來自於絕大多數的維基百科編輯者都是男性。這是對維基百科最常見的一種批評，也是對維基百科系統性偏見的一般性批評的其中一部分。維基百科的運行者維基媒體基金會同意這種批評，也不斷嘗試增加女性維基百科編輯者的數量。
+
+
+
+目录
+
+
+1 研究結果
+2 原因
+3 反应
+4 提升女性编辑地位的措施
+5 参见
+6 参考文献
+7 延伸阅读
+
+7.1 媒体报道
+7.2 研究与建议
+
+
+8 外部链接
+
+
+
+研究結果[编辑]
+
+外部视频链接
+
+
+
+
+ Research proves gender imbalance on Wikipedia, 2:45, University of Minnesota[1]
+
+
+ Where Are All the Women? Wikipedia’s Gender Gap, 1:12:40, West Virginia University[2]
+
+
+調查显示，維基百科的编者中，女性只佔了大約8.5-16%。[3][4][5] 據此，一些學者和記者批評維基百科主要男性貢獻者，[6][7][8] 關於女性或對女性重要的話題的条目很少。《紐約時報》曾指出，維基百科上的女性參與率，可能和其他「公共思想領導論壇（public thought-leadership forums）」的参与率在一条水平线上。[9] 2009年，維基媒體基金會調查顯示，做过超過500次編輯的編者中，只有6%是女性；此外，男性编者的平均編輯次數，是女性编者的兩倍。[10]
+2010年，聯合國大學和聯合國大學馬斯垂克高新技術經濟及社會研究所（UNU-MERIT）共同提出了一份對全球維基百科調查的結果概述。[11] 一篇於2011年1月30日《紐約時報》刊出的文章引用了這篇維基媒體基金會的合作成果，指出女性在維基百科的貢獻者中所佔比率，低於13%。時任基金會执行董事的蘇·加德納表示，增加編者的多樣性，攸關一部百科全書是否能夠「盡可能做到最好」。根據這篇研究的說法，可能對女性編輯形成阻力的因素，包括會讓人聯想到「吹毛求疵的黑客群體」的「過分較真者」，還有「对難以相處、具高度衝突性的人，甚至歧視者開放」的必要性。[6] 2013年，希爾（Hill）和蕭（Shaw）使用修正估计方法，對這份研究提出商榷，他們建議把這份調查中的數字上修，並更新現有的統計數字，他們給出的數字是美國成年女性的貢獻佔22.7%，全體女性為16.1%。[5]
+2011年2月，《紐約時報》以「維基百科上的女性在哪裡？」為主題，提出了一系列的意見。[12] 其中資訊科學和語言學教授苏珊·C·贺琳（英语：Susan Herring）表示，她對於維基百科貢獻者有性别差异並不感到驚訝。她說，維基百科條目「討論頁」中，討論文字的內容常常具有爭議性，對許多女性來說缺乏吸引力。[13] 约瑟夫·M·里格尔（英语：Joseph Reagle）同样反映说，“黑客精英文化”加上高度冲突的（少数）成员对社群气氛的不成比例的影响，会使其丧失吸引力。他说，“自由和开放的意识形态和言论可以被用来（a）掩盖对不当或冒犯性言论的担忧（b）把女性的参与度低理性归结为仅仅是她们个人偏好和选择的问题”[14] 贾斯汀·卡塞尔（英语：Justine Cassell）说，虽然女性与男性一样知识渊博，能够维护自己的观点，“但在美国社会中，在辩论、争论和对自己的立场有力辩护方面，往往看到的还是男性的立场，而女性使用这些言语风格可能会引起负面评价。”[15]
+《国际通讯杂志（英语：International Journal of Communication）》发表了Reagle和Lauren Rhue的研究报告，其中对英文维基百科和《大英百科全书》在线版上的成千上万个传记主题的覆盖率、性别表征和条目长度进行了研究。他们的结论是，总的来说，相比《大英百科》，维基百科条目的覆盖率更高，条目也更长，但在维基百科上，女性条目相比男性条目来说，较《大英百科》更容易缺失。也就是说，维基百科在人物传记的覆盖率压倒性胜过《大英百科》，但在男性传记方面尤其如此。同样，有人或许会说，《大英百科》未收录的人物在性别上比维基百科更均衡。在两篇文献中，条目长度都没有表现出因性别差异而有明显差异。[16]
+2011年4月，维基媒体基金会进行了第一次半年度维基百科调查。该调查表明9%的维基百科编辑是女性。调查还指出“与一些人的看法相反，我们的数据显示，很少有女性编辑觉得她们受到骚扰，或是觉得维基百科是一个性化的环境。”[17] 然而，2011年10月的维基和开放合作国际研讨会上的论文发现有证据表明，维基百科可能有“一种可能阻碍女性参与的文化”。[18]
+2014年发表的一项研究发现，维基百科编者之间也存在“互联网技能差距”。作者发现，最有可能的维基百科贡献者是高技能男性，低技能编辑之间没有性别差异，并得出结论说，“技能差距”加剧了编辑之间的性别差距。[19]
+在2010–14年间，维基教育基金会项目安排的（把编辑维基百科作为课程的一部分的）大学课程参与者中，女性占61%。他们的贡献将维基百科内容从流行文化和STEM方向转移到人文社科方向。[20]
+2017年的一项研究发现，通过编辑一个类似维基百科的网站来参与实验的女性倾向于把其他编辑视为男性，并将其回复视为比其他性别中立（英语：Gender neutrality）编辑者更为挑剔的回应。研究得出结论认为：
+
+
+……维基百科上可以看见的女性编者以及鼓励建设性的反馈可能会有助于缩小维基百科的性别差距。此外，匿名编辑比例相对较高，可能会加剧维基百科的性别差距，因为匿名可能常常被视为男性，而且更为挑剔。[21]
+
+
+福特和瓦杰曼的研究指出，对性别偏见的研究继续将问题视为女性的缺陷。相反，他们的中心论点是：女性主义技科学的基础建设研究使得性别分析水平进一步提高。它着眼于基础建设三个方面的问题：实施的内容方针、软件和法律框架。该研究表明通过改变知识生产文化，通过鼓励替代知识，减少编辑技术壁垒和降低维基百科方针的复杂性，可以取得进展。[22]
+原因[编辑]
+
+
+
+
+前维基媒体基金会的执行蘇·加德納给出了九个女性编者在维基百科上提出的，关于“為什麼女人不编辑维基百科”的原因。[23]
+
+
+有人提出了造成这种性别差异的几种原因。2010年的一项研究显示，维基百科女性参与率为13％，接近于其他“公共思想领导论坛”女性参与率的15％。[9][24] 维基百科研究员Sarah Stierch认为，维基百科贡献者保持性别不公开是“相当常见的”。[25] 不近人情的文化和对暴力和侮辱性语言的容忍也对性别差距起了推波助澜的作用。[26] 根据2013年的一项研究，维基百科的性别差距的另一个原因是未能吸引和留住女性编辑，这对维基百科覆盖率造成了负面影响。[8]
+维基媒体基金会的前执行董事蘇·加德納列举了女性為什麼不编辑维基百科的九个理由，从维基百科的女性编者的评论中精选：[23]
+
+编辑界面缺乏用户友好性
+没有足够的闲暇时间
+缺乏自信
+厌恶冲突（英语：Conflict avoidance），不愿参与冗长的编辑战
+认为她们的贡献很可能被撤销或删除
+觉得维基百科的整体气氛对女性不友善
+维基百科有关性的文化让人厌恶
+那些母语有语法性别的女性会不乐意看作是男性
+相比其他网站建立社会关系以及受到欢迎的机会小
+
+Lam等人认为，在维基百科上可能会有一种不包容女性的文化，这可能是因为以男性和女性为中心的主题存在差异，女性用户倾向于在社交和社群方面更加活跃，而女性新编者的编辑更可能被撤销，女性编者比例高的条目会更具争议性。[18]
+2014年7月，国家科学基金会宣布将花费20万美元来研究维基百科的系统性别偏差。该研究将由朱莉娅·亚当斯和汉娜·布鲁克纳领导。[27]
+一个值得关注的问题是，关于女性主题的条目更有可能被标记删除模板。[28][29][30]
+反应[编辑]
+维基媒体基金会认为至少自加德纳担任执行理事的2011年起，其项目中就存在着性别偏差。基金会确实进行了一些努力以解决此问题，但是加德纳对他们取得的成就表示失望。但是她也指出，女性的空闲时间通常非常有限，她们更倾向于去参加社交活动而非编辑维基百科。‘女性更多地将科技视为一种完成任务用的工具而非其本身就有趣的东西。’”[31][32] 2011年，维基媒体基金会定下了一个目标，到2015年前要使其25%的贡献者是女性。[8] 2013年8月，加德纳说，“我没有做到，我们没有做到，基金会没有做到。解决方案不会来自维基媒体基金会。”[31]
+在给《Slate杂志（英语：Slate (magazine)）》写的文章中，希瑟·麦克唐纳（英语：Heather Mac Donald）将维基百科的性别不平衡称作“在不存在问题的情况下寻找误入歧途的解决方案”。她断言，“对于维基百科男女参与率的不同的最简单的、也是符合日常经验的解释就是，一般来说，男性和女性的兴趣不同，对如何利用空闲时间的偏好也不同。”[33]
+2014年8月，维基百科的联合创始人之一吉米·威尔士在BBC的采访中表示，维基媒体基金会计划在性别偏差问题上“加倍下注”。吉米·威尔士表示基金会将会开放更多的拓展项目并且在软件上做更多改变。[34]
+提升女性编辑地位的措施[编辑]
+
+
+
+
+2013年举办于华盛顿的编辑松活动“艺术作品中的女性”的参与者
+
+
+
+
+
+
+由中華民國維基媒體協會與台灣女子自由軟體工作小組(WoFOSS)聯合舉辦的薇姬人（女性維基人）活動－薇姬的房間
+
+
+人们已经组织了一些专门的编辑松活动，来提升对维基百科中女性相关话题的覆盖率，并鼓励更多女性参与维基百科的编辑。[35] 这些活动受到了维基媒体基金会的支持，有时基金会还会在这个过程中提供顾问和技术，以引导资历较浅的编辑者。最近的编辑松活动给出了一些特定的中心话题，诸如澳大利亚女性神经科学家和犹太历史中的女性。[36]
+可视化编辑器是维基媒体基金会资助的一个项目，它使人们可以以“所见即所得”（What You See Is What You Get，WYSIWYG）的方式编辑维基百科。据说此项目的部分目的即是减小维基百科的性别差距。[37][38]
+此外人们还启动了“维基茶馆”项目。该项目的目标是为新人提供一个更友好的环境，其中一个特别的目标也是促进女性参与维基百科。[39]
+2015年年初，一个关于为维基百科编者建立一个“女性专用”空间的提案受到了维基人的强烈抵制。[40]
+参见[编辑]
+
+第二代性别偏见（英语：Second-generation gender bias）
+维基百科
+
+参考文献[编辑]
+
+
+^ University of Minnesota researchers reveal Wikipedia gender biases. University of Minnesota. [2016-11-21]. 
+^ Tackling Wikipedia’s Gender Gap. West Virginia University. [2016-03-03]. 
+^ Can Wikipedia Survive?. 2015-06-20 [2015-06-21]. ...the considerable and often-noted gender gap among Wikipedia editors; in 2011, less than 15 percent were women. 
+^ Statistics based on Wikimedia Foundation Wikipedia editor surveys 2011 (Nov. 2010-April 2011) and November 2011 (April - October 2011)
+^ 5.0 5.1 Hill, Benjamin Mako; Shaw, Aaron; Sánchez, Angel. The Wikipedia Gender Gap Revisited: Characterizing Survey Response Bias with Propensity Score Estimation. PLoS ONE. 2013-06-26, 8 (6): e65782. Bibcode:2013PLoSO...865782H. PMC 3694126. PMID 23840366. doi:10.1371/journal.pone.0065782. 
+^ 6.0 6.1 Cohen, Noam. Define Gender Gap? Look Up Wikipedia's Contributor List. New York Times. 2011-01-30 [2011-01-31]. 
+^ Reagle, Joseph. "Free as in sexist?": Free culture and the gender gap. First Monday. [2015-10-10]. 
+^ 8.0 8.1 8.2 Jonathan T. Morgan; Siko Bouterse; Sarah Stierch; Heather Walls. Tea & Sympathy: Crafting Positive New User Experiences on Wikipedia (PDF). Wikimedia Foundation. 
+^ 9.0 9.1 Wikipedia Ponders Its Gender-Skewed Contributions - NYTimes.com. 
+^ WP:Clubhouse? An Exploration of Wikipedia’s Gender Imbalance (PDF). 
+^ Wikipedia Survey: Overview Results (PDF). March 2010 [2014-08-11]. （原始内容 (PDF)存档于2010-04-14）. 
+^ Where Are the Women in Wikipedia?. New York Times. 2011-02-02 [2014-08-09]. 
+^ Herring, Susan C. Communication Styles Make a Difference. New York Times (opinion). 2011-02-04 [2014-08-11]. 
+^ Reagle, Joseph M. 'Open' Doesn't Include Everyone. New York Times (opinion). 2011-02-04 [2014-08-11]. 
+^ Cassell, Justine. Editing Wars Behind the Scenes. New York Times (opinion). 2011-02-04. 
+^ Reagle, Joseph; Rhue, Lauren. Gender Bias in Wikipedia and Britannica. International Journal of Communication (Joseph Reagle & Lauren Rhue). 2011, 5: 1138–1158. 
+^ Wikipedia Editors Study: Results From The Editor Survey, April 2011 (PDF). Wikipedia. April 2011 [2014-05-18]. 
+^ 18.0 18.1 Lam, Shyong K.; Uduwage, Anuradha; Dong, Zhenhua; Sen, Shilad; Musicant, David R.; Terveen, Loren; Reidl, John. WP:Clubhouse? An Exploration of Wikipedia’s Gender Imbalance (PDF). WikiSym'11. ACM. October 2011. 
+^ Hargittai, Eszter; Shaw, Aaron. Mind the skills gap: the role of Internet know-how and gender in differentiated contributions to Wikipedia. Information, Communication & Society. 2014-11-04, 18: 1–19. doi:10.1080/1369118X.2014.957711. 
+^ Bruce Maiman. Wikipedia grows up on college campuses. The Sacramento Bee. 2014-09-23 [2014-09-23]. 
+^ Shane-Simpson, Christina; Gillespie-Lynch, Kristen. Examining potential mechanisms underlying the Wikipedia gender gap through a collaborative editing task. Computers in Human Behavior. January 2017, 66: 312–328. doi:10.1016/j.chb.2016.09.043. 
+^ Ford, Heather; Wajcman, Judy. ‘Anyone can edit’, not everyone does: Wikipedia and the gender gap. Social Studies of Science. 2017. 
+^ 23.0 23.1 Gardner, Sue. Nine Reasons Why Women Don't Edit Wikipedia, In Their Own Words. suegardner.org (blog). 2011-02-19. 
+^ Yasseri, Taha; Liao, Han-Teng; Konieczny, Piotr; Morgan, Jonathan; Bayer, Tilman. Recent research — Napoleon, Michael Jackson and Srebrenica across cultures, 90% of Wikipedia better than Britannica, WikiSym preview. The Signpost. Wikipedia. 2013-07-31. 
+^ The women of Wikipedia: Closing the site's giant gender gap. 
+^ In UK, rising chorus of outrage over online misogyny. CSMonitor.com. 
+^ Harrington, Elizabeth. Government-Funded Study: Why Is Wikipedia Sexist?. Washington Free Beacon. 2014-07-30 [2014-07-31]. 
+^ Editors Are Trying To Fix Wikipedia's Gender And Racial Bias Problem. [2016-01-13]. 
+^ Project Aims to Raise Profile of Women Architects on Wikipedia. [2016-01-13]. 
+^ Does academia have a place on Wikipedia?. [2016-01-13]. 
+^ 31.0 31.1 Huang, Keira (11 August 2013). "Wikipedia fails to bridge gender gap". South China Morning Post.
+^ "Wikistorming" 互联网档案馆的存檔，存档日期2015-07-17.. FemTechNet. Fall 2013.
+^ Mac Donald, Heather (9 February 2011). "Wikipedia Is Male-Dominated. That Doesn't Mean It's Sexist.". Slate. Retrieved 7 January 2015.
+^ Wikipedia 'completely failed' to fix gender imbalance, BBC interview with Jimmy Wales, 8 August 2014; starting at 45 seconds.
+^ Stoeffel (11 February 2014). "Closing Wikipedia’s Gender Gap — Reluctantly". New York Magazine. Retrieved 27 August 2014.
+^ "The Wikipedia wars: does it matter if our biggest source of knowledge is written by men?". newstatesman.com.
+^ "Class war! Wikipedia's workers revolt again • The Register". El Reg. 18 August 2014. Retrieved 4 December 2014.
+^ "Kate Middleton's wedding gown and Wikipedia's gender gap.". 13 July 2012. Retrieved 4 December 2014.
+^ "Tea & Sympathy: Crafting Positive New User Experiences on Wikipedia" 互联网档案馆的存檔，存档日期2015-02-09.. washington.edu. Proc. CSCW ‘13, 23–27 February 2013, San Antonio, Texas, USA. 2013.
+^ Paling, Emma, "How Wikipedia Is Hostile to Women", The Atlantic, 21 October 2015 (subscription or advertising required)
+
+
+延伸阅读[编辑]
+
+
+维基文库中相关的原始文献：
+en:Wikipedia is pushing the boundaries of scholarly practice but the gender gap must be addressed
+
+
+
+
+
+维基共享资源中相关的多媒体资源：維基百科的性別偏誤
+
+
+媒体报道[编辑]
+
+Bort, Julie. A Growing Army Of Women Are Taking On Wikipedia's Sexism Problem. Business Insider. 2014-02-15 [2014-08-09]. 
+Filipacchi, Amanda. Wikipedia's Sexism Toward Women Novelists. New York Times (op-ed). 2013-04-24. 
+Filipacchi, Amanda. Sexism on Wikipedia Is Not the Work of 'a Single Misguided Editor'. The Atlantic (Atlantic Monthly Group). 2013-04-30 [2014-08-09]. 
+Gleick, James. Wikipedia's Women Problem. New York Review of Books (NYREV). 2013-04-29 [2013-11-19]. 
+Kloppenburg, Julia; Buchem, Ilona; Ducki, Antje; Khayati, Sarah; Weichert, Nils. Charting Diversity: Working Together Towards Diversity in Wikipedia. Berlin: Wikimedia Deutschland. 2014 [2014-08-09]. ISBN 978-3-9816799-0-8. 
+Knibbs, Kate. Chipping away at Wikipedia's gender bias, one article at a time. The Daily Dot. 2014-02-10 [2014-04-30]. 
+Leonard, Andrew. Wikipedia’s shame: Sexism isn't the problem at the online encyclopedia. The real corruption is the lust for revenge.. Salon Media Group. 2013-04-29 [2014-08-09]. 
+Morris, Kevin. Does Wikipedia's sexism problem really prove that the system works?. The Daily Dot. 2013-05-01 [2013-11-19]. 
+Zandt, Deanna. Yes, Wikipedia is Sexist. Forbes. 2013-04-26 [2013-11-19]. 
+Zevallos, Zuleyka. Sexism on Wikipedia: Why the #YesAllWomen Edits Matter. othersociologist.com. Zuleyka Zevallos. 2014-06-08 [2014-08-09]. 
+Where Are the Women in Wikipedia?. New York Times. 2011-02-02 [2014-08-09].  - Introduction and links to eight opinions.
+Paling, Emma. How Wikipedia Is Hostile to Women. The Atlantic. 2015-10-21 [2015-10-21]. （原始内容存档于2015-10-21）. 
+
+研究与建议[编辑]
+
+Glott, Ruediger; Schmidt, Philipp; Ghosh, Rishab. Wikipedia Survey: Overview Results (PDF). March 2010 [2014-08-11]. （原始内容 (PDF)存档于2010-04-14）. 
+Tripp, Dawn Leonard. How to Edit Wikipedia: Lessons from a Female Contributor. Anita Borg Institute. [2015-02-06]. 
+
+外部链接[编辑]
+
+
+
+元維基上的相關信息：
+性別落差
+
+
+
+
+
+元維基上的相關信息：
+臺灣「薇姬的房間」
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+維基百科
+
+
+
+
+
+
+百科概要（英语：Outline of Wikipedia）
+
+
+
+維基
+利益衝突編輯
+批評
+刪除主義和保留主義
+性別偏誤
+種族偏差（英语：Racial bias on Wikipedia）
+關注度
+可靠性
+來源請求（日语：要出典）
+破壞
+維基百科健康資訊（英语：Health information on Wikipedia）
+
+
+
+
+
+
+
+
+維基社群
+
+
+
+
+百科運作
+
+
+
+管理員
+仲裁委員會
+編輯松
+The Signpost（英语：The Signpost）
+維基愛古蹟
+Art+Feminism（英语：Art+Feminism）
+駐點維基人（英语：Wikipedian in residence）
+年度維基人（英语：Wikipedian of the Year）
+維基教育基金會
+
+
+
+
+
+
+
+
+運動夥伴
+
+
+
+維基媒體基金會
+維基媒體分會
+
+德國
+法國
+義大利
+荷蘭
+波蘭
+中華民國
+香港
+澳門
+Amical（加泰罗尼亚语：Amical Wikimedia）
+
+
+維基媒體計劃
+
+元維基
+維基百科
+維基詞典
+維基數據
+維基教科書
+維基共享資源
+維基新聞
+維基語錄
+維基文庫
+維基物種
+維基學院
+維基導遊
+
+
+維基媒體國際會議
+中文維基年會
+
+
+
+
+
+
+
+
+
+
+
+著名人物
+
+
+
+弗洛朗絲·德伍阿爾
+奧斯卡·范·迪倫（英语：Oscar van Dillen）
+蘇·加德納
+詹姆斯·海爾曼
+凱薩琳·馬赫
+馬格努斯·曼斯克
+埃里克·默勒
+拉里·桑格
+莉拉·崔迪科夫
+吉米·威爾斯
+安吉拉·貝絲蕾·斯塔林
+時昭
+許瑜真
+陳霆
+王鐘銘
+陳穎
+賈斯汀·納普
+提姆·謝爾
+麥可·斯諾
+邁克·戈德溫（英语：Mike Godwin）
+埃文·阿莫斯
+巴塞爾·哈爾塔比爾
+酈安治
+麥康瑞
+西蒙·普爾西斐
+亞倫·斯沃茨
+伊霍爾·柯斯登柯
+唐鳳
+加特·沃爾什
+雷米·馬蒂斯
+亞倫·哈爾費克（英语：Aaron Halfaker）
+達魯休·傑米爾尼亞克（英语：Dariusz Jemielniak）
+漢普頓·凱特林（英语：Hampton Catlin）
+達斯·庫珀（英语：Danese Cooper）
+比夏漢·達塔（英语：Bishakha Datta）
+亞倫·格斯里（英语：Arnnon Geshuri）
+蓋伊·川崎（英语：Guy Kawasaki）
+路爾斯·比利亞（英语：Luis Villa）
+
+
+
+
+
+
+
+
+百科歷史
+
+
+
+
+發展歷程
+
+
+
+Bomis
+Nupedia
+維基百科標誌
+義大利語維基百科大規模空白抗議
+反SOPA和PIPA抗議
+
+英語維基百科關站抗議（印尼语：Pemadaman Wikipedia bahasa Inggris）
+
+
+俄語維基百科關站抗議（俄语：Забастовка русской Википедии）
+皮埃爾敍奧特軍用無線電台事件
+維基百科也申遺
+1Lib1Ref（英语：1Lib1Ref）
+維基百科知識引擎
+涉及到維基媒體基金會的訴訟（英语：Litigation involving the Wikimedia Foundation）
+
+維基媒體基金會控告美國國家安全局案
+
+
+
+
+
+
+
+
+
+
+相關爭議（英语：List of Wikipedia controversies）
+
+
+
+美國國會職員的編輯
+Essjay事件
+席根塔勒傳記事件
+亨里克·巴圖塔惡作劇事件（英语：Henryk Batuta hoax）
+山達基教會的編輯（英语：Church of Scientology editing on Wikipedia）
+希爾斯堡慘劇編輯事件（英语：Hillsborough Wikipedia posts）
+MyWikiBiz（英语：MyWikiBiz）
+克里斯·班瓦謀殺事件（英语：Chris Benoit double-murder and suicide）
+美國中東新聞報導準確性委員會爭議（英语：Committee for Accuracy in Middle East Reporting in America）
+比喬利姆戰爭（加泰罗尼亚语：Bicholim conflict）
+
+
+
+
+
+
+
+
+審查封鎖
+
+
+
+網路觀察基金會審查
+中國大陸對維基媒體的封鎖
+俄羅斯對維基百科的封鎖（俄语：Блокирование Википедии в России）
+
+俄羅斯國家杜馬89417-6法案
+
+
+2017年土耳其封鎖維基百科事件
+
+
+
+
+
+
+
+
+
+
+
+相關技術
+
+
+
+
+網站技術
+
+
+
+Wiki
+MediaWiki
+维基可视化编辑器
+Lsjbot
+資訊框
+Wikiwand
+
+
+
+
+
+
+
+
+手機访问
+
+
+
+應用程式
+QRpedia
+Wapedia
+WikiNodes（英语：WikiNodes）
+維基百科零計劃
+
+
+
+
+
+
+
+
+內容使用
+
+
+
+Books LLC（英语：Books LLC）
+DBpedia
+Deletionpedia
+Kiwix
+WikiReader（英语：WikiReader）
+維基百科校園版
+維基掃描器
+
+
+
+
+
+
+
+
+
+
+
+獎勵紀念
+
+
+
+2008年勝利女神四馬戰車獎（英语：Quadriga (award)）
+2015年伊拉斯謨獎
+2015年阿斯圖里亞斯親王獎
+維基百科紀念雕像
+國際志願者日
+小行星274301
+
+
+
+
+
+
+
+
+造成影響
+
+
+
+文化領域（英语：Wikipedia in culture）
+相關書目（英语：Bibliography of Wikipedia）
+相關電影
+學術研究（英语：Academic studies about Wikipedia）
+Wikipedia Review（英语：Wikipedia Review）
+Wikipediocracy（英语：Wikipediocracy）
+Wiki-Watch（英语：Wiki-Watch）
+伊拉克戰爭：維基百科編輯歷史史學（英语：The Iraq War: A Historiography of Wikipedia Changelogs）
+列印維基百科
+大憲章（英语：Magna Carta (An Embroidery)）
+數字中的真相
+維基百科編輯手冊
+
+
+
+
+
+
+
+
+類似計畫
+
+
+
+Interpedia（英语：Interpedia）
+大眾百科
+自由百科
+Digital Universe（英语：Digital Universe）
+偽基百科
+Nonciclopedia（義大利語：Nonciclopedia）
+Vikidia（法语：Vikidia）
+Veropedia（英语：Veropedia）
+WikiZnanie（葡萄牙語：WikiZnanie）
+Lurkmore（俄语：Луркоморье）
+Wookieepedia
+Scholarpedia
+Wikia
+Wiki網站列表
+
+
+
+
+
+
+
+
+
+
+
+ 條目分類
+ 維基教科書
+ 維基數據
+ 維基共享資源
+ 維基新聞
+ 維基語錄
+ 維基文庫
+ 維基學院
+ 維基導遊
+ 維基辭典
+
+
+
+
+
+
+
+
+
+
+
+
+分类：性別研究性別歧視歧視與差別待遇隐藏分类：Webarchive模板wayback链接

@@ -1,0 +1,379 @@
+斯特鲁普效应
+
+紅色 綠色 藍色
+綠色 藍色 橘色
+
+綠色 紅色 橘色
+藍色 紅色 綠色
+
+老鼠 企鵝 猴子
+老鼠 企鵝 猴子
+
+如果文字的意義與顯示的字體顏色沒有相關，說出顯示文字的顏色的名稱比較容易且迅速。如果兩組文字都是以紅色顯示，則當文字顯示「綠色」，而辨別出文字顏色是「紅色」的時間，較文字顯示「老鼠」，而辨別出文字顏色是「紅色」的時間來得長。
+
+
+
+心理学
+
+
+
+
+
+
+
+心理學大綱
+心理學史
+心理學的子領域（英语：Subfields of psychology）
+
+
+
+
+心理學基礎（英语：Basic science (psychology)）
+
+
+
+
+
+異常心理學
+行为遗传學
+生物心理學
+認知心理學
+比較心理學
+跨文化心理學（英语：Cross-cultural psychology）
+文化心理學（英语：Cultural psychology）
+差異心理學（英语：Differential psychology）
+發展心理學
+演化心理學
+實驗心理學
+數學心理學
+神經心理學
+人格心理學
+正面心理學
+定量心理學（英语：Quantitative psychology）
+社會心理學
+
+
+
+
+
+應用心理學
+
+
+
+
+
+應用行為分析
+臨床心理學
+社區心理學
+消費行為
+諮商心理學
+批判社區心理學
+教育心理學
+環境心理學（英语：Environmental psychology）
+人因工程學
+法庭心理學
+健康心理學
+人本主义心理學
+工業與組織心理學
+本體解釋學（英语：Ontological hermeneutics）
+法律心理學
+醫學心理學（英语：Medical psychology）
+軍事心理學（英语：Military psychology）
+音樂心理學（英语：Music psychology）
+職業健康心理學（英语：Occupational health psychology）
+政治心理學
+宗教心理學
+學校心理學（英语：School psychology）
+運動心理學
+交通心理學
+
+
+
+
+
+心理學列表
+
+
+
+
+
+心理學學科列表
+心理學組織列表（英语：List of psychology organizations）
+心理學家
+心理治療列表（英语：List of psychotherapies）
+重要著作列表（英语：List of important publications in psychology）
+重要研究列表（英语：List of psychological research methods）
+心理學學派列表
+心理學的時間表（英语：Timeline of psychology）
+心理學文章索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+ 心理學主题  神經科學主题  醫學主题  社會主题
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+神經心理學
+
+
+
+
+主題
+
+
+大腦區域（英语：List of regions in the human brain）
+臨床神經心理學（英语：Clinical neuropsychology）
+認知神經心理學（英语：Cognitive neuropsychology）
+認知神經科學
+失智症
+人腦
+神經解剖學
+神經生理學
+神經心理學評估（英语：Neuropsychological assessment）
+神經心理康復（英语：Neuropsychological rehabilitation）
+外傷性顱腦損傷（英语：Traumatic brain injury）
+
+
+
+
+
+
+
+
+腦功能
+
+
+喚起（英语：Arousal）
+注意
+意识
+決策
+管控功能
+自然語言
+學習
+記憶
+運動協調
+知覺
+企劃
+解決問題
+思想
+
+
+
+
+
+
+
+
+人物
+
+
+Arthur L. Benton（英语：Arthur L. Benton）
+戴维·玻姆
+Antonio Damasio（英语：Antonio Damasio）
+費尼斯·蓋吉
+Norman Geschwind（英语：Norman Geschwind）
+Elkhonon Goldberg（英语：Elkhonon Goldberg）
+Patricia Goldman Rakic（英语：Patricia Goldman Rakic）
+Pasko Rakic（英语：Pasko Rakic）
+唐纳德·赫布
+Kenneth Heilman（英语：Kenneth Heilman）
+Edith Kaplan（英语：Edith Kaplan）
+Muriel Lezak（英语：Muriel Lezak）
+Benjamin Libet（英语：Benjamin Libet）
+Rodolfo Llinás（英语：Rodolfo Llinás）
+亚历山大·鲁利亚
+Brenda Milner（英语：Brenda Milner）
+Karl H. Pribram（英语：Karl H. Pribram）
+奧利佛·薩克斯
+Mark Rosenzweig（英语：Mark Rosenzweig）
+罗杰·斯佩里
+Hans-Lukas Teuber（英语：Hans-Lukas Teuber）
+亨利·莫萊森
+K.C.（英语：K.C. (patient)）
+
+
+
+
+
+
+
+
+神經心理學測驗（英语：Neuropsychological test）
+
+
+本頓視覺保留測驗（英语：Benton Visual Retention Test）
+連續效能任務（英语：Continuous Performance Task）
+霍爾斯特德-理坦神經心理學測驗（英语：Halstead-Reitan Neuropsychological Battery）
+海靈和布裡布測驗（英语：Hayling and Brixton tests）
+詞彙決策任務（英语：Lexical decision task）
+盧里亞-內布拉斯加神經心理學測驗（英语：Luria-Nebraska Neuropsychological battery）
+簡短智能測驗
+雷伊-奧斯特里特複雜圖（英语：Rey-Osterrieth Complex Figure）
+斯特魯普效應
+魏氏智力測驗
+韋氏記憶量表（英语：Wechsler Memory Scale）
+威斯康星卡片分揀任務（英语：Wisconsin Card Sorting Task）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+斯特魯普效應（英语：Stroop Effect），又譯Stroop效應、司楚卜效應、史楚普效應[1]，是由美國的實驗心理學家約翰·萊德利·斯特魯普（英语：John Ridley Stroop）於1935年最先以英語提出的效應，因此以他的名字命名。[2]
+這個效應展示了人們對事物的認知過程已是一個自動化的歷程。當有一個新的刺激出現時，如果它的特徵和原先的刺激相似或符合一致，便會加速人們的認知；反之，若新的刺激特徵與原先的刺激不相同，則會干擾人們的認知，使人們的所需的反應時間變長[3]。
+在心理學中，斯特魯普效應是干擾對處理任務時反應時間的論證。例如，將一個顏色的名稱（例如「藍色」、「綠色」、「紅色」、「橘色」）以不是它所代表的顏色顯示時（例如文字「紅色」以綠色油墨顯示，而非紅色油墨；或是文字「橘色」是以藍色油墨顯示而非橘色油墨），對比於文字及其顏色一致時，前者必須花較長的時間來辨識文字的顏色，而且辨識過程也更容易出錯。斯特魯普效應也被用來創造一個心理學上著名的實驗，即「斯特魯普實驗」（Stroop Test），或稱為「斯特魯普顏色與文字實驗」（Stroop Color and Word Test，簡稱SCWT）。[4][5]
+斯特魯普顏色與文字實驗（SCWT）是一個在神經心理學領域被廣泛運用於臨床與調查中的實驗。此實驗評估人們在處理一個特定刺激特徵、而此刺激妨礙同時第二個刺激特性的處理時，抑制認知干擾的能力。[5]
+
+
+
+目录
+
+
+1 最初版斯特魯普實驗
+
+1.1 現象緣起
+1.2 斯特魯普實驗
+
+1.2.1 小實驗一
+1.2.2 小實驗二
+1.2.3 小實驗三
+
+
+
+
+2 實驗發現
+3 斯特魯普實驗的變化
+
+3.1 扭曲字
+3.2 反向斯特魯普實驗
+3.3 情緒的斯特魯普實驗
+
+
+4 參考資料
+5 外部連結
+
+
+
+最初版斯特魯普實驗[编辑]
+
+刺激1： 紫色 棕色 紅色 藍色 綠色
+
+刺激2：棕色 綠色 藍色 綠色
+
+刺激3：◼︎ ◼︎ ◼︎ ◼︎ ◼︎
+
+上述三個刺激和顏色的實驗，源自最初發表的那篇論文。[2]
+
+
+
+圖一 此圖源自對斯特魯普效應最原始的描述的實驗2（1935）。
+圖片中的1是判斷點（dots）的顏色所要花的時間；圖片中的2則是當文字顏色與所顯示的文字相衝突時，判斷文字顏色所需的時間。[2]
+
+
+現象緣起[编辑]
+這個現象是以，用英文發表這個現象的美國心理學家約翰·萊德利·斯特魯普（英语：John Ridley Stroop）命名。[2]
+斯特魯普在西元1935年，在《實驗心理學期刊》（Journal of Experimental Psychology）以英文發表了〈語文反應中的干擾研究〉（Studies of interference in serial verbal reactions）這篇文章，這篇文章包含了三個小實驗。
+然而，這個現象最初在1929年，由埃里克·杨施（德语：Erich Rudolf Jaensch）在德國發表，而概念的起源是源自詹姆斯·麥基恩·卡特爾和威廉·馮特19世紀發表的文章。
+斯特魯普實驗[编辑]
+在斯特魯普實驗（SCWT）中，最普遍的版本即是1935年由斯特魯普提出的版本。在這最初的實驗中，斯特魯普在相同的測試中使用三種不同的變化以創造三種不同的刺激（如右上表所示）：
+
+以黑色顯示顏色名字的文字（Names of colors appeared in black ink）。
+以不同於文字名字所代表的顏色顯示的文字（Names of colors in a different ink than the color named）。
+給定顏色的方形色框（Squares of a given color）。
+
+這三種刺激中，其中兩種代表「一致的條件」（congruous condition），包括念出黑色油墨列印出的顏色的名字（右上表刺激1）和唸出小色不同色標的名字（右上表刺激3）。而相反的，在刺激2中，顏色的名字與所使用的墨水的顏色不一致（例如文字「紅色」是以「綠色」油墨印出）。[5]
+小實驗一[编辑]
+在第一個實驗，同時使用了「文字」跟「與字義不同的顏色的文字（衝突文字，conflict words）」。實驗要求受試者分別說出所列的顏色的文字，此與所使用的墨水的顏色無關。例如：受試者必須說：「紫色」不管這兩個字是用什麼墨水寫的。
+小實驗二[编辑]
+在第二個實驗，使用了「衝突文字」和「色標」（見右上表）（見圖一），而受試者被要求說出文字的印刷顏色，而此與所顯示文字的字義（右上表刺激2）無關，並且分變色標的顏色（右上表刺激3）。例如：如果文字「紫色」以紅色印刷，受試者必須說：「紅色」而非「紫色」。當顯示方框框時，受試者必須說出方框的顏色。
+小實驗三[编辑]
+在第三個實驗，斯特魯普給不同階段的受試者練習實驗一和實驗二的任務和刺激，以檢測學習效果。[2]
+不同於現在研究者用以評估心理的測驗，斯特魯普只使用三個基本的分數去評估程度，而非使用更複雜的評估方式。
+斯特魯普發現到，相對於辨識方形色標的顏色，受試者在實驗二中，花費明顯較長的時間來辨識文字的顏色。這個延遲並沒有出現在實驗一中。這種干擾可以用「自發閱讀」（the automation of reading）解釋。自動化閱讀的意思就是，大腦會自動的判斷出文字語意上的意思（例如閱讀到文字「紅色」就想到顏色「紅色」），然後必須有意識地檢查文字本身和辨認出文字的顏色（墨水是非紅色的顏色），後者並不是自動自發的行為。因為在實驗二這種「不一致的狀況中」，受試者被要求說出墨水的顏色而不是讀出文字，換句話說，受試者被要求做一個相對較不自發任務（a less automated task），即「說出墨水的顏色」，同時阻止源自更自發的行為（a more automated task），即讀出文字的干擾。[2][5]
+實驗發現[编辑]
+刺激在斯特魯普實驗中的類型，可分為三種：中性、一致的、不一致的。中性的刺激，指的是只出現文字或顏色，即只有單一刺激，不會有其他干擾。[6]一致的刺激，指的是字義和其印刷顏色相同，亦即兩種刺激是彼此具有相似的特徵（例:“紅色”這個詞以紅色的筆寫）。不一致的刺激，則是指字義和印刷顏色不相同，兩個刺激不具相似特徵（例：“紅色”這個詞以藍色的筆寫）。[6]
+這個實驗的發現有三，分別是：[6]
+
+語意干擾。這說明了，以中性刺激去辨認印刷顏色時的速度回會比在不一致的情況下更加快速。這個發現之所以稱作語意干擾，是因為印刷顏色和字義之間的含意關係通常被認為是干擾的根源。[6]
+語義輔導，這解釋了為何在實驗中發現於刺激一致的情況下，辨認印刷顏色的速度會比在中性刺激的條件下更快。
+當任務要求閱讀文字而非辨認顏色時，語意干擾和語意輔導的現象皆會消失。這種現象，有時又稱作斯特魯普不同時性，並且在辨認顏色與閱讀文字相比較時所減少的自動化歷程可以解釋這種狀況。[6]
+
+在干擾理論的研究中，最常被使用的實驗程序與斯特魯普的第二個實驗相當相似。在第二個實驗當中，實驗對象被測試了於不相符的文字與色標的情況下辨認顏色的反應情形。而第一個斯特魯普研究的實驗（分別於黑體和與文字不一致的顏色下辨認顏色）則比較少被討論。在這兩種情況下，干擾的程度可由閱讀兩種類型的字塊所需的時間差表現出來。而除了辨認顏色之外，受試者同樣也被要求將刺激分類。不同特色的刺激，像是印刷顏色或是文字指示同樣也被系統化地改變於不同情況當中。所有的這些變更，都沒有剔除干擾的影響。
+斯特魯普實驗的變化[编辑]
+斯特魯普實驗曾被修改，以加進其他感官種類和變數[7]，以研究雙重語言的效果[8]，或是調查情緒干擾的影響。[9]
+扭曲字[编辑]
+
+
+
+
+圖二 扭曲字
+
+
+在扭曲字（Warped Words）的測試中，測試結果與最初的斯特魯普實驗差不多。與最初的斯特魯普實驗相同，所顯示的有關顏色的文字，與所使用的墨水顏色不同。但是，文字被以更難閱讀的方式顯示（以彎曲環形為典型，見右圖二）[10]。如此顯示文字的目的在於，這種顯示方式同時減慢了大腦的反應和處理時間，使完成這個任務更為困難。
+反向斯特魯普實驗[编辑]
+
+
+
+
+圖三 反向斯特魯普實驗
+
+
+同樣地，反向斯特魯普實驗（Reversed Stroop Test）依舊相似於原本的斯特普魯測試，只是受試者會被展示一個黑色的框框中間寫著一個顏色與字義不同的單詞（例：「藍色」這個詞以紅色印刷）。而在這個黑色的框框四角，分別有四個其他顏色的小正方形。實驗者會要求受試者去指出和中間單詞相同顏色的正方形（例：當中間顯示以紅色印刷的「藍色」，受試者就應該去指紅色的正方形而不是藍色的），不意外地，有相當數量的受試者指出了錯誤的顏色。雖然這個實驗與原先的斯特普魯實驗不同，但所呈現的效應卻非常相似，在原先的實驗裡，此種效應會造成受試者有更慢的反應與需要更多的反應時間。[10]
+情緒的斯特魯普實驗[编辑]
+情緒的斯特魯普實驗（Emotional Stroop Test）是斯特普魯試驗的另一種變形，實驗者會給受試者展示一堆字卡，字卡中會有一個具負面意義的單詞（例：難過、受傷、不幸運）混雜在其他中性單詞（例：看見、寫、按壓）內。這些單詞同樣會塗上顏色，並且實驗者會紀錄受試者在說出這些負面單詞時的速度是比中性的詞快或慢。這個實驗最後展示了，心情較差的受試者比較有可能在辨認負面單詞的顏色時會較中性的詞更慢。[10]
+參考資料[编辑]
+
+
+^ Stroop Effect. 國家教育研究院雙語詞彙、學術名詞暨辭書資訊網. [2017-06-10]. （原始内容存档于2017-06-10）. 
+^ 2.0 2.1 2.2 2.3 2.4 2.5 Stroop, John Ridley. Studies of interference in serial verbal reactions. Journal of Experimental Psychology. 1935, 18 (6): 643–662 [2008-10-08]. doi:10.1037/h0054651. 
+^ What is The Stroop Effect?. [2017-06-08] （英语）. The Stroop Effect, named after John Ridley Stroop, is a demonstration of the reaction time of a task and is often used to illustrate the nature of automatic processing versus conscious visual control. It was first published in 1935 following a series of experiments similar to those outlined above. 
+^ MacLeod CM. Half a century of research on the Stroop effect: an integrative review. Psychological Bulletin. March 1991, 109 (2): 163–203. PMID 2034749. doi:10.1037/0033-2909.109.2.163. 
+^ 5.0 5.1 5.2 5.3 Scarpina, Federica; Tagini, Sofia. The Stroop Color and Word Test. frontiers in Psychology. 2017-04-12, 8: 1–8 [2017-06-08]. doi:10.3389/fpsyg.2017.00557. 
+^ 6.0 6.1 6.2 6.3 6.4 van Maanen L, van Rijn H, Borst JP. Stroop and picture-word interference are two sides of the same coin. Psychon Bull Rev. December 2009, 16 (6): 987–99. PMID 19966248. doi:10.3758/PBR.16.6.987. 
+^ Roberts KL, Hall DA. Examining a supramodal network for conflict processing: a systematic review and novel functional magnetic resonance imaging data for related visual and auditory stroop tasks. Journal of Cognitive Neuroscience. June 2008, 20 (6): 1063–78. PMID 18211237. doi:10.1162/jocn.2008.20074. 
+^ Rosselli M, Ardila A, Santisi MN, 等. Stroop effect in Spanish-English bilinguals. Journal of the International Neuropsychological Society : JINS. September 2002, 8 (6): 819–27. PMID 12240746. doi:10.1017/S1355617702860106. 
+^ Williams JM, Mathews A, MacLeod C. The emotional Stroop task and psychopathology. Psychol Bull. July 1996, 120 (1): 3–24. PMID 8711015. doi:10.1037/0033-2909.120.1.3. 
+^ 10.0 10.1 10.2 The Stroop Effect. Brainstorm Psychology. [2013-11-11]. 
+
+
+外部連結[编辑]
+
+ 维基学院中有關改良版斯特魯普效應實驗的學習材料
+
+
+Stroop效應小劇場（繁体中文）
+
+
+
+
+
+分类：认知测验知覺心理物理学隐藏分类：CS1英语来源 (en)含有英語的條目

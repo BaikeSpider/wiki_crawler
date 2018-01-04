@@ -1,0 +1,686 @@
+演化
+
+
+
+
+
+
+
+
+
+
+
+關於各種演化理論請見「演化論」。關於同名电子游戏，請見「进化 (游戏)」。其他以演化為名的條目請見「演化 (消歧義)」。
+
+
+
+
+演化與演化論
+
+
+
+
+现代生物分类群体从它们的
+共同祖先遗传分化的图示。
+
+
+
+關鍵議題
+
+
+
+進化論介紹（英语：Introduction to evolution）
+共同起源
+共同起源的證據
+
+
+
+機制與過程
+
+
+
+群体遗传学 · 遗传多样性
+突變 · 自然选择 · 適應
+遺傳漂變 · 基因流
+物種形成 · 輻射適應
+共同演化 · 趨異演化 · 趋同演化
+平行演化 · 绝灭
+
+
+
+研究與歷史
+
+
+
+證據
+歷史
+現代綜合理論
+社會影響
+
+
+
+演化生物學領域与应用
+
+
+
+社會生物學
+演化人類學
+生態遺傳學
+演化發育生物學
+演化語言學
+演化心理學
+人類演化
+分子演化
+種係發生學
+系统发生学
+人工選擇
+群體遺傳學
+系統分類學
+
+
+
+生物學主題
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+进化，又称演化（英语：evolution），指的是生物的可遺傳性狀在世代間的改變[1][2]，操作定義是種群內基因頻率的改變。基因在繁殖過程中，會經複製並傳遞到子代。而基因的突变可使性狀改變，進而造成個體之間的遺傳變異。新性狀又會因為物種迁徙或是物種之間的水平基因轉移，而隨著基因在族群中傳遞。當這些遺傳變異受到非隨機的自然选择或隨機的遺傳漂變影響，而在族群中變得較為普遍或稀有時，就是演化。演化會引起生物各個層次的多樣性，包括物種、生物個體和分子[3] 。
+地球上所有生命的共同起源，約35-38億年前出現[4]，其被稱為最後共同祖先[5][6][7]，但是2015年一項在西澳的古老岩石進行的研究中發現41億年前「生物曾經存在（英语：Biotic material）的行跡」[8][9]。
+新物種（物種形成）、種內的變化（前進演化（英语：Anagenesis））和物種的消失（絕種）在整個地球的生命進化史（英语：Evolutionary history of life）不斷發生，這被形態學和生化性狀證實，其中包括共同的DNA序列，這些共同性狀在物種之間更相似，因為它源於最近的共同祖先，並且可以作為進化關係的依據建立生命之樹(系统发生学)，其利用現有的物種和化石建立，化石記錄的事物包括由生物遺體轉變而成（英语：Biogenic substance）的石墨[10] 、微生物墊（英语：Microbial mat）[11][12][13]，以至多細胞生物的化石。生物多樣性的現有模式被物種形成和滅絕塑造[14]。據估計，曾經生活在地球上的物種99％以上已經滅絕[15][16]。地球目前的物種估計有1000萬至1400萬[17]。其中約120萬已被記錄[18]。
+物種是指一群可以互相進行繁殖行為的個體。當一個物種分離成各個交配行為受到阻礙的不同族群時，再加上突變、遺傳漂變，與不同環境對於不同性狀的青睞，會使變異逐代累積，進而產生新的物種[19]。生物之間的相似性顯示所有已知物種皆是從共同祖先或是祖先基因池逐漸分化產生[20]。
+以自然選擇為基礎的演化理論，最早是由查爾斯·達爾文與亞爾佛德·羅素·華萊士所提出，詳細闡述出現在達爾文出版於1859年的《物種起源》[21]。透过一些對較可能生存的後代觀測，證明以自然選擇演化的過程沿著三個有關種群的事實進行：1）關於形態學，生理學和行為的個體間性狀變化（表型變異）；2）不同性狀賦予生存和繁殖的不同速率（适应差异）；3）性狀可以世代傳遞(遗传力差异)[22]。因此，在連續幾个世代中父母的後代（英语：Offspring）能更好地適應生存狀況及在自然選擇的生态环境中繁殖。其目的是在自然選擇的過程中創造和保留那些適合他們所履行的生物功能（英语：Function (biology)）角色的特質[23]。自然選擇是適應的唯一已知的原因，但不是進化的唯一原因。微觀進化的非適應性原因包括基因突變和遺傳漂變[24]。
+1930年代，達爾文自然選擇與孟德爾遺傳合而為一，形成了現代綜合理論[25]。連結了演化的「單位」（基因）與演化的「機制」（自然選擇）。這種有力的解釋以及具預測性的理論成為現代生物學的中心原則，使地球上的生物多樣性得以作統一的解釋[26]。 自然選擇能使有利於生存與繁殖的遺傳性狀變得更為普遍，並使有害的性狀變得更稀有。這是因為帶有較有利性狀的個體，能將相同的性狀轉移到更多的後代[20][27]。經過了許多世代之後，性狀產生了連續、微小且隨機的變化，自然選擇則挑出了最適合所處環境的變異，使適應得以發生[25]。相對而言，遺傳漂變會使性狀在族群中的所佔比例產生一些隨機的變化，來自一些使個體能夠成功繁殖的偶然因素。此外，定向演化、進化主義（英语：evolutionism）、與生俱來的「進步」傾向中沒有最大規模的演化趨勢（英语：Largest-scale trends in evolution）等關於演化原有的概念，已經變得過時（英语：Superseded scientific theories）[28]。科學家們繼續提出和測試假說，以研究演化生物学的不同範疇，建構數理生物學和生物學理論，使用觀測得來的數據，並在生境和實驗室進行實驗。
+在實際應用方面，對演化的理解已經應用到眾多科學和工業領域，包括農業、人类、兽医学和生命科學的發展[29][30][31]。進化生物學的發現不只是影響生物學，而且對其他學科有不少影響，包括生物人類學、演化心理學。一个人工智能的分支，进化计算，是以達爾文的概念應用於計算機科學的結果。
+
+
+
+目录
+
+
+1 名詞起源
+
+1.1 英語
+1.2 不同的翻译
+
+
+2 演化思想史
+3 遺傳
+4 變異
+
+4.1 突變
+4.2 重組
+
+
+5 演化模型
+
+5.1 微觀演化與宏觀演化
+5.2 演化速率
+5.3 數學模式
+
+
+6 演化證據
+
+6.1 生物相似性和多元性
+6.2 演化歷史的證據
+6.3 演化論的預測和應用
+
+
+7 機制
+
+7.1 基因流
+7.2 遺傳漂變
+7.3 水平基因轉移
+7.4 自然選擇
+7.5 人工选择
+
+
+8 結果
+
+8.1 適應
+8.2 物种形成
+8.3 滅絕
+
+
+9 生命起源與演化歷程
+
+9.1 演化主要事件
+9.2 現今的研究與應用
+9.3 演化在社會行為研究領域的發展
+
+
+10 誤解
+
+10.1 進步、複雜化與退化
+10.2 物种形成
+10.3 熵與生命
+10.4 政治
+10.5 宗教
+10.6 伦理
+
+
+11 參看
+12 參考文獻
+13 外部連結
+
+
+
+名詞起源[编辑]
+英語[编辑]
+英文中的“evolution”一词，起源於拉丁文的“evolvere”，原本的意思是将一个卷在一起的东西打开，當今的解釋是在地球歷史上，不同種類的生物怎樣從早期的形式發展出來的一個過程[32]。當代英語字典也有「發展」、「從經歷中獲取」之義[33]。
+在1859年出版的《物種起源》第一版至1876年的第六版，達爾文也以「evolved」這個字結尾[34][35]。當時達爾文是使用「經過改變的繼承」（descent with modification）、「改變過程」（process of modification）或是「物種改變的原理」（doctrine of the modification of species）等。他曾在《物種起源》第7章中說，天擇的最後結果，包括了生物體的進步（advance）及退步（retrogression）兩種現象」，而總括來說，從地球有生物開始，是進步或退步的問題放在第10章討論，結論是現有的生物都是經過長時間的進步，到某程度而沒有違反天擇的，發展便停留下來。
+在《物種起源》最後第六版本，達爾文用了“Evolution”這個字多次，還很直接明顯地稱他的理論為“Theory of evolution”。達爾文在結語中說：
+
+從大自然的戰爭，從飢荒和死亡，我們有能力構想的最崇高目標，即產生高等動物，是直接結果。
+
+不同的翻译[编辑]
+物種起源的第一本中文版由馬君武翻譯，與較早期的日语版本同用現在通行的“進化”一詞，有學者認爲來源是和製漢語[36]。早於達爾文逝世不久，中文上用「進化論」是一致的，例如孫中山曾在著作中盛讚該論[37]。除了台灣之外，「進化」一詞沿用至今。台灣的學者[38]、政府機構[39]、教科書等[40]也仍有沿用「進化論」。
+近年[何时？]台湾教育部更改課本，以「演化論」代替[40]。根據台灣教育部所編輯的辭典，「進化」定義為生物由低級到高級、由簡單到複雜的發展過程，並將「退化」定義為進化的反義詞[41]。而「演化」則定義為生物物種為了因應時空的嬗變，而在形態和與行為上與遠祖有所差異的現象[42]。
+演化思想史[编辑]
+主条目：演化思想史
+
+
+
+
+卢克莱修
+
+
+
+1842年，查爾斯·達爾文寫出了物種起源的第一份草稿[43]。
+
+
+
+阿尔弗雷德·拉塞尔·华莱士
+
+
+
+早在古希臘時代，類似演化的思想已經出現，例如前蘇格拉底哲學家阿那克西曼德及恩培多克勒認為一種生物可以源於另一種生物[44]。這種思想一直延續到羅馬時代，繼恩培多克勒之後，盧克萊修在他的作品《物性論》中也提及類似演化的思想[45][46]。相對於這些唯物主義的思想，亞里士多德了解不僅是活的東西，對一切自然的東西而言，演化是對不同的自然可能性的一種不完美實現，如理型、理念、物种[47][48]。這是他理解大自然目的論的一部分：一切事物都在神聖的（英语：Divinity）宇宙秩序中發揮預期作用。在中世紀，這種思想的變體成為標準理解和被納入基督教的知識，但亞里士多德沒有要求生物體總是對應形而上一對一的形式和沒有就新生物的産生給出具體例子[49] 。
+在17世紀，現代科學的新方法反對亞里士多德的說法，它要求對自然現象的解釋在對所有看得見的事物上，其遵從的物理定律要相同，但這並沒有要求任何固定的自然属类或神聖的宇宙秩序需要存在。然而，這種新方法是在生物科學上緩慢紮根。约翰·雷，首次把更概括的術語「種」(species)應用於植物和動物種類上，但他嚴格地標識每類活著的東西為一種物種，建議每一個物種可以由一代延續一代的自身特點來定義[50]。他認為這些物種是上帝設計的，但表現出局部條件的差異。在卡爾·林奈於1735年引入的生物分類中，其明確承認種關係的分層特性，但根據「上帝的計劃」物種仍被視為不變[51]。
+同期的其他博物學家根據自然規律，推斷出物種会隨時間演變。1751年，皮埃爾·莫佩爾蒂寫道透过繁殖和多代累積的自然變更，会產生新的物種[52]。喬治-路易·勒克萊爾，布豐伯爵認為物種可以蛻化成不同的生物，伊拉斯謨斯·達爾文則提出所有恆溫動物可能是單一微生物的後裔[53]。1809年，拉马克提出第一個全面的進化機制，其猜想自然發生在具有固定的漸進趨勢的平行世系中不斷地把簡單的生命變為更複雜的生命，並推測在局部的層面，下一代会通過遺傳他們父母用進廢退的器官以適應環境[54][55]。（後一方法後來被稱為拉馬克主義[54][56][57][58]。）這些想法受博物學家譴責，因為這些推測缺乏實證支持。尤其喬治·居維葉堅持認為種是不相關的並不變，它們的相似只是反映了上帝為了其功能需求的設計。英國牧師威廉·佩利（英语：William Paley）把林奈的思想在《自然神学》（英语：Natural Theology or Evidences of the Existence and Attributes of the Deity）中進一步發展，其中提出複雜的適應度是上帝所設計，這亦是查爾斯·達爾文推崇的證據[59][60][61]。
+自然選擇理論是一个關鍵理念把不變類型學或生物類型的概念打破，這是達爾文部分受到馬爾薩斯的《人口論》影響而建立的理論，達爾文指出，人口增長會導致「生存鬥爭」，有利的變化佔了上風，其他的則死去。每代中，很多子女因有限的資源而在達至生殖年齡前無法生存，這可以解釋共同祖先透过自然法則以同樣方式對待所有有機體演化而來的植物和動物的多樣性[62][63][64][65]。從1838年起，達爾文逐步建立了他的「自然選擇」理論，在1858年，當華萊士給他發了一封理論幾乎相同的的信時，他正在編寫關於這个議題的「著作」。他們倆的共同論文「论物种形成变种的倾向；以及论这些变种和物种经由自然选择之手段而得以延续的方式（英语：On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection）」在1858年的倫敦林奈學會上發表[66]。在1859年年底，達爾文關於其「理論」的出版物《物種起源》詳細解釋自然選擇及其機制，造成日後漸為人接受的進化概念。托马斯·亨利·赫胥黎把達爾文的思想應用至人類，並利用古生物學和比較解剖學，去證明人類和類人猿有著共同的祖先。有些人對這種思想感到不安，因為它暗示人類在宇宙中並沒有特殊的地位[67]。
+生殖遺傳和新性狀起源的確切機制仍然是個謎，為此達爾文曾提出他的臨時學說泛生論[68]。1865年，孟德爾遺傳性狀是在可預測的方式，通過元素的自由組合(孟德爾第二法則)和分離遺傳(該元素後來被稱為基因)，孟德爾遺傳定律最終取代大部分達爾文的泛生學說[69]。奧古斯特·魏斯曼提出產生可產生配子的生殖细胞(如精子和卵子細胞)和身體的體細胞之間的重要區別，這表明遺傳只經生殖細胞系（英语：Germline）發生。许霍·德弗里斯把達爾文的泛生論連接至魏斯曼的發現並提出達爾文的泛生論應集中於細胞核，他表示細胞核可以移動到細胞質去改變細胞結構。德弗里斯也是令孟德爾的研究知名的研究人員之一，認為孟德爾性狀對應於沿種系的遺傳變異傳遞[70]。為了解釋新變種如何起源，德弗里斯制定了一個突變理論，導致與德弗里斯同陣的生物統計學派(Biometricians)及達爾文的進化論出現暫時性裂痕[55][71][72]。20世紀30年代，群体遺傳學領域的先驅如羅納德·費雪、生物學家萊特（Sewall Wright）與霍爾登（J. B. S. Haldane）把演化建基於健全的統計學理念上，因此，達爾文的學說、基因突變和孟德尔定律之間的偽矛盾被調和[73]。
+在20世紀20年代至30年代，出現了一个現代演化綜論，把自然選擇、基因突變理論、孟德爾遺傳定律連結起來，形成普遍適用於生物學任何分支的統一理論。現代演化綜論能夠通過古生物的過渡化石，以至在發育生物學中的複雜細胞機制，解釋在種群的不同物種所觀察到的模式[55][74]。由詹姆斯·沃森和弗朗西斯·克里克在1953年公佈的脱氧核糖核酸結構展示了遺傳的物理機制[75]。分子生物學提高了我們對基因型和表現型之間的關係的理解。進展也在譜系系統分類學中體現，在對比中繪製過渡 的性狀、经發佈的可測試框架、和使用演化樹[76][77]。1973年，演化生物學家費奧多西·多布然斯基在一篇文章寫下「生物學的一切都沒有道理，除非放在演化的光芒之下」，因為它令起初似乎不連貫的自然歷史聯繫起來，轉化成連貫的知識體系，形容並預測許多关於在這個星球上的生命所觀察到的事實[78]。
+此後，現代演化綜論得到了進一步的擴展，至解釋完整橫跨生物層級及綜合範圍的生物現象（英语：Biological organisation）：從基因至物種。此擴展，如演化發育生物學，或簡稱為演化發生學，強調世代之間的變化（進化）是如何影響生物個體的模式[79][80][81]。
+遺傳[编辑]
+
+
+
+
+DNA結構，鹼基位於中心，外側環繞著由磷酸根與糖類所形成的雙螺旋。
+
+
+参见：遺傳學和遺傳
+生物體的遺傳是發生在一些不連續性狀上，也就是生物的特定特徵。以人類為例，眼睛的色彩是一個是一項特徵，可遺傳自父母的其中一個[82]。遺傳性狀是由基因所控制，而在生物個體基因組中完整的一套基因，則成為基因型[83]。
+完整的一套可觀察性狀，可形成生物的構造或是行為，稱為表現型。這些性狀來自基因型與環境的交互作用[84]。因此生物體的表現型並非完全來自遺傳，例如皮膚的曬黑情況，是決定於個人的基因型與陽光的照射。每個人之所以對陽光有不同的反應，是因為基因型的差異，較顯著的例子是擁有白化性狀的個體，這類個體不會曬黑，且相當容易曬傷[85]。
+基因是DNA分子中一些含有遺傳訊息的區域[83]，DNA則是含有四種鹼基的長鏈分子。不同的基因具有不同的鹼基序列，這些序列以編碼形式形成遺傳訊息。細胞裡的DNA長鏈會與蛋白質聚集形成一種生為染色體的構造，染色體上的特定位置，則稱作基因座（locus）。有時基因座上的序列在不同個體之間有所差異，這些各式各樣變化型態稱為等位基因（allele）。突變可使基因序列改變，產生新的等位基因。當突變發生虞基因時，新形成的等位基因可能會影響此基因所控制的性狀，使表現型改變。不過單一等位基因對應單一性狀的情形較少，多數的性狀更為複雜，而且是由許多進行交互作用的基因來控制[86][87]。
+最近的研究結果證實，遺傳變化的重要例子不能被DNA的核苷酸序列改變來解釋。此類現象被分類為表觀遺傳系統[88]。DNA甲基化産生染色質，自我持續的代謝循環，通過RNA干擾導致基因表達沉默，蛋白質的三維構象(如朊毒體)的一些區域在部分个体中曾發現表觀遺傳系統[89][90] 。
+變異[编辑]
+突變[编辑]
+主条目：突变
+突變是指遺傳的物質發生改變。广义的突变包括染色體變异（分為染色體數目和結構變異）和基因突变。不過一般所說的突變，是核酸序列的改變，也就是基因突变。基因突變是產生遺傳變異的最根本原因，細胞中的遺傳物質（通常是脱氧核糖核酸或核糖核酸）能夠經由許多方式改變，例如細胞分裂時的複製錯誤、放射線的照射、化學物質的影響或是病毒感染。多細胞生物的基因突變，可依照發生的細胞種類分為兩種。生殖細胞突變能夠遺傳到下一代；體細胞突變則通常限制在個體中。
+基因突變可能對個體有害，也可能對個體有益，或是兩者兼具。有害的隱性基因因為不會出現症狀而被保留，當這些隱性基因配成對時，就可能使個體得到病變或是死亡。有一些基因雖然可能會造成病變，但是也可以使個體具有某些優勢，例如帶有一個鐮刀型紅血球疾病基因的人，對瘧疾更有抵抗力[91]。
+對生物個體無益也無害的突變稱為中性突變，在族群中的出現頻率主要受到突變機率影響。由於這些突變不影響個體的生存機會，因此大多數物種的基因組在沒有天擇的狀況下，依然會有穩定數量的的中性突變不斷發生。單一鹼基對的變換稱為點突變，當一個或多個鹼基對插入或是刪除時，通常會使基因失去作用[92]。
+轉座子（transposon）是生物的基因組片段，並且在基因組的演化上扮演重要角色。它們能夠移動並插入基因組中，或是取代原有的基因，產生演化上的變異和多樣性。DNA複製也被認為每百萬年間，会在動物的基因組中產生數十到數百的新基因[93]。
+重組[编辑]
+主条目：重組
+在無性生殖的過程中，染色體上的任何一對等位基因都會一起遺傳到下一代。但是對於行有性生殖的物種而言，親代同源染色體中的等位基因，在製造生殖細胞的減數分裂過程中，會發生基因重組。這是一種不同的脱氧核糖核酸段落斷裂並重新組合的過程。
+原核生物之間能夠透過接合等方式，直接交換彼此的基因，因此重組在原核生物中也比較常見。而較複雜的動物與植物，則通常是在製造生殖細胞的減數分裂時期，因為染色體的互換（crossover）而發生重組。減數分裂重組的發生頻率較低，而且排列位置較接近的等位基因，也較不易交換。因此可以由等位基因的重組率計算出基因的相對位置。
+此外有性生殖中的孟德爾遺傳規則，能夠使有害的突變被清除，有益的突變被保留。且因為具有這種清除有害突變效果，因此當一個等位基因無法進行基因重組的時候（例如孤立的Y染色體），便因為有害突變逐漸累積，而使族群的有效種群大小縮減，這種現象稱為希爾—羅伯森效應（英语：Hill–Robertson effect））。若是染色體逐漸退化，則稱為繆勒氏齒輪（英语：Muller's ratchet）[94]，這種現象比較容易出現在無性生殖的生物中。
+演化模型[编辑]
+微觀演化與宏觀演化[编辑]
+演化可以依據時間長短與差異程度，分成「微觀演化」（微演化）與「宏觀演化」（廣演化）。微觀演化指几個世代中，基因频率小范围的变化，例如現今世界各地人類的差異。宏觀演化指長時間的演化過程，例如人類與滅絕祖先的關係。宏觀演化的歷史中可能包括生物群在化石紀錄中的突然出現、丟失的環節、物種長期停滯等難以解釋的現象。例如寒武紀地層中保存大量化石的現象。
+演化速率[编辑]
+關於宏觀演化的過程，有許多不同的理論，主要是用來解釋化石紀錄中難以解釋的現象。傳統的觀念認為，許多微觀演化的累積，經歷足夠時間之後便形成新物種，這樣的理論稱為漸變論。而漸變論又有許多形式，例如由史蒂芬·古爾德與尼爾斯·艾崔奇在1972年提出的疾變平衡論[95]。這種理論認為生物的演化歷史是許多走走停停的過程，在大多數時間並沒有太大的變化。而某些個體中存在關鍵基因（如同源异形盒），可能導致新物種迅速形成並大量繁殖，之後再恢復平衡。如此便能夠合理的解釋化石紀錄不平均的問題。其實古爾德經常以批判漸變論的姿態出現在大眾媒體，但是道金斯認為，疾變平衡論只是漸變論的一種形式[96]。而極端的漸變論，認為演化過程是以等速進行，對於化石數量的不平均，則以「化石紀錄本身並不完整」來解釋。極端的漸變論，仍然經常使用在分子層次，並發展出分子時鐘的觀念。但是近年的研究發現，分子時鐘也並非等速進行，而是在不同物種或是不同年代具有不同的演化速度[97]。且不同的研究中，對分子演化速率的推算差異相當大[98]。
+另外有一種躍進論，認為物種只需要一個世代就能夠形成，且可能具有創造論與災變論等形式[96]。創造論與災變論都是源自宗教，如《創世紀》與大洪水，不過現在的災變論已將火山爆發、隕石撞擊等所有來自地球內外的影響包含在內[99]。
+數學模式[编辑]
+
+
+
+
+生殖成就空間一般會顯現出山峰與山谷，山峰顯示生物所能達到的最高生殖成就，山谷則顯示其區隔，解釋特徵差異的存在。生殖成就空間除了可以如此圖般以二維方式呈現，也可以三維方式表達。圖中直向為生殖成就，橫向為表現型變數。
+
+
+生物的變異可以量化為數字，因此也能夠建立出數學模型。較早的數值分類學（numerical taxonomy）將生物的特徵量化為數字，並且依照這些數字進行分類，藉此找出牠們的親緣關係。
+現在的科學家一般認為生物型體的演化，是源自於基因的變異（基因中心演化觀點）。而且由於基因突變具有一些規律性，因此複雜的演化過程，可以簡化成數學模型。早期的新達爾文主義科學家使用線性的模型，例如將為每一個對偶基因定下一個「天擇係數」，藉此估計此對偶基因在每一世代中的基因頻率。現今則多用非線性的方式分析，例如一種稱為生殖成就空間（fitness landscape）的曲面圖形，可以用來表達生物個體在繁殖上的能力，與其特徵之間的相關性。由圖形可以看出具有不同特徵的生物可能同時皆有較高的生殖成就。
+由於這些生物的變異可以化成許多種不同的變數，因此數學上用來處理多維空間的技巧，便可應用在生物關係的分析。此外這些數學方法的優點是計算過程上相當精確，缺點是其正確性取決於人為的判斷與假設[100]。
+
+演化證據[编辑]
+主条目：演化證據
+演化的證據可以在系統分類學、生物地理學、比較解剖學、比較胚胎學、古生物學、分子生物學等領域找到。另外演化也可以用來解釋抗藥性、反祖現象、癌症、馬島長喙天蛾等等。
+生物相似性和多元性[编辑]
+生物的多樣性和一致性是可以用演化論解釋，而智慧創造或直接神創則難以解釋這些現象。生物之間的同源特徵是演化的證據。因為所有的生物都有共同祖先，所以即使是外觀差異非常大的生物，仍然可以在分子生物學、比較胚胎學和比較解剖學上找到相似性。演化也可以解釋為什麼地球上會有這麼多種生物：適應不同棲位。在生物地理學上，相近區域的生物往往在分類學上非常相近，顯示出單一物種的輻射演化，而不同地點的生物也可能在類似的環境帶有類似的構造，顯示出趨同演化。[101]
+演化歷史的證據[编辑]
+雖然演化有很大部份發生在久遠的過去，但是經由痕跡器官、過渡化石、反祖現象和種系發生學重建一個種系或生物器官的演化歷史，可以證明過去的生物和現在的生物都經歷漸變的演化。
+演化論的預測和應用[编辑]
+演化論是可以用來預測或實際應用的，例如細菌的抗藥性演化、馬島長喙天蛾的發現都是演化論預測到的；癌症治療和基於流行病學的公共衛生政策也常用上演化論。這些預測和應用顯示演化論是正確的。
+機制[编辑]
+遺傳變異一方面經由生殖而傳遞到下一個世代（被称为垂直基因转移），另一方面也可以透過水平基因轉移（英语：horizontal gene transfer，简写：HGT），在物種之內或是物種之間傳遞。尤其是細菌經常使用這種方式交換基因，最近的研究更發現可能有跨物種的水平基因轉移存在[102]。基因流（gene flow）則是指基因在生物個體之間轉移。
+基因型（遺傳因子）是產生表現型（外在表現）的根本。而表現型本身也擁有表型可塑性（phenotypic plasticity），能夠在基因型未改變的狀況下有所變化，並且能夠遺傳到下一世代[103]。除了基因本身的改變，染色體的重新排列雖然不能改變基因，但是能夠產生生殖隔離，並使新物種形成。
+一般來說，選擇包括了“天擇”（自然選擇）與“性擇”（性選擇）。天擇的主要原因是物種所居住環境的改變，包括物種之間關係的變化；性擇則是物種在繁殖的需求下而產生的選擇。而這些性擇所留下的性狀，可能會有害於個體本身的生存能力。各種選擇的分類事實上並不明確，也有一些分類以天擇表示所有選擇作用，並分為生態選擇（ecological selection）與性擇。
+基因流[编辑]
+主条目：基因流
+基因流也稱為遷移（migration），當族群之間並未受到地理或是文化上的阻礙時，基因變異會經由一些個體的遷移，使基因在不同族群間擴散，這樣的情形稱為基因流。恩斯特·麥爾認為基因流類似一種均質化（homogenising）的過程，因此能夠抵銷選擇適應的作用。當基因流受到某種阻礙，例如染色體的數目或是地理的隔閡，便會產生生殖隔離，這是物種形成的條件之一。
+族群中等位基因的自由移動，也受到族群結構的阻礙，例如族群的大小或是地理分布。雖然理想狀態中族群的生殖對象完全自由且完全隨機，但是現實世界中並非如此，因此地理上的親近程度會對這些基因的移動造成龐大的影響。而且當遷移數量較少的時候，基因流對演化的影響也較低[104]。
+遺傳漂變[编辑]
+主条目：遺傳漂變
+基因漂變指的是族群中等位基因頻率在每一個世代之間的隨機的變化。這種變化能夠以數學表達，哈蒂－溫伯格平衡描述了理想狀態情況下（不考慮天擇等因素）的數學模型。在理想狀態中，後代的等位基因頻率將接近隨機分佈。當族群規模較大，基因漂變的機率會較低；當族群規模較小的時候，基因漂變的現象較為明顯。
+當一個少數族群從原先族群之中分離而出，且兩者的基因頻率有所不同，若是分離而出的少數族群與原先族群的基因無法繼續交流，則兩者的基因頻率將漸行漸遠。這種現象稱為奠基者效應。例如從德國遷移到美國賓夕法尼亞的阿米什人，起源大約仅有200人，且习惯族内通婚。這個族群的埃利偉氏症候群出現頻率較其他族群高[105]。
+水平基因轉移[编辑]
+主条目：水平基因轉移
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+以16SrRNA的基因序列所建立的種系發生樹，將生物演化歷程分為三域系統，包括細菌、古菌與真核生物。第一個提出這種分類的是卡爾·霍斯（Carl Woese）。由於水平基因轉移的存在，使生物的親源關係可能比圖片中所顯示的更為複雜許多
+
+
+水平基因轉移（英语：horizontal gene transfer，简写：HGT），是個體將遺傳物質傳遞到其他非本身後代個體的過程。這種機制使遺傳物質得以在無直系關係的個體之間產生基因流。
+水平基因轉移也可以經由抗原轉移（antigenic shift）、基因重整（reassortment）與雜交反應（hybridisation）等現象觀察。病毒能夠透過轉導作用（transduction）在物種間傳遞基因[106]。細菌則能夠與死亡的細菌合體、經由轉形作用（transformation），以及與活細菌進行接合（conjugation），而獲得新的基因。而新的基因則能夠以質體的形式，加入宿主細菌的基因組中[107]。雜交的現象在植物中最顯著[108]，此外目前已知還有10種以上的鳥類物種能夠雜交[109]。另外在哺乳動物與昆蟲中，也有雜交的例子[110]，只是通常雜交後代不具有生殖能力。HGT也是細菌傳遞抗藥性的方式之一[111]，而且有些發現表明HGT是原核生物與真核生物的演化重要機制[112][113]。
+由於HGT的存在，使種系發生學更加複雜，也使早期物種的演化過程出現一種隱藏關係（metaphor）。遺傳資訊在生殖作用之外，也能在物種之間傳遞。這使科學家必須在解釋演化關係的時候，表達出物種的隱藏關係，並且將不同的演化歷程組合[114]。
+自然選擇[编辑]
+
+
+
+
+孔雀顯眼又花枝招展的尾羽，是性擇的代表性例證，一方面使牠容易成為被獵食的目標，另一方面又能夠吸引雌性。
+
+
+主条目：自然選擇
+由於各種基因的變異，使同一個族群中，不同個體的生存方式和繁殖方式有所不同，當環境發生改變，便會產生天擇作用。之所以稱為天擇，是因為這種選擇並非如基因漂變或基因突變一樣隨機，當環境改變發生時，將只有某些帶有特定特徵的群體能夠通過這些考驗。天擇有一些特例，有時候被視為與天擇擁有相等地位的選擇方式。其中包括性擇、人擇等等。
+性擇指某個個體因為比起其他個體擁有較高的繁殖機會，因此牠們的基因會被保留，使後代繼續保有相同的優勢。人擇指人類為了本身的生存或是喜好而對不同的基因變異進行篩選，通常發生在農業、畜牧業或是寵物的育種上。此外，優生學則是人類對人類所進行的篩選行為。不過人類事實上只是自然界的一部分，因此人擇與天擇並沒有明確的分別。
+由於這些特殊的選擇機制，導致對於生物適應環境有益的特徵，並非在演化過程中一定會出現或是被保留。舉例而言，擁有更多的手指對人類的生活可能會更加方便，但是這種方便幾乎不會增加任何繁殖機會，甚至反而會減少。
+人工选择[编辑]
+主条目：人工选择
+狗通过人工选择从狼演化而来。
+結果[编辑]
+適應[编辑]
+在天擇的作用影響之後，生物能夠更加適應它們所處的環境。只要是能夠使個體擁有更大生存優勢的過程，都可以稱為適應。不過需要注意的是，適應並非放諸四海皆準，在一個環境中擁有優勢的特徵，可能會在另一個環境中成為缺陷，這種現象也能解釋為何演化並沒有任何預設方向和目的，只有適應或是不適應。
+即使“進步”在演化過程中並非必要，但是物種之間的競爭關係，仍能使物種在最基本的環境適應之外，進行更進一步的變化。這些競爭類似人類的軍備競賽，且能夠依照物種的關係而分成兩類。一種是不對稱竞争，指物種受到不同條件的選擇，如掠食者與獵物的關係；另一種是對稱竞争，指物種受到相同的條件選擇，如森林中樹木對陽光的爭取[96]。此外性擇也具有競爭的特性，有些物種在繁殖機會的競爭壓力之下，會逐漸發展出相當奇特的外觀或行為，例如鮮豔羽毛與吞食異性[115]。
+物种形成[编辑]
+主条目：物種形成
+
+
+
+
+四種物種形成過程的比較圖
+
+
+物種形成受到許多類型的機制影響，主要可以分成2種類型。一種是異域性物種形成（allopatric speciation），發生在族群受到地理隔離，而形成新物種的情況。例如大峽谷兩側的松鼠，由於峽谷地形的阻隔，形成兩個物種[116]。不過地理隔離並不一定會使物種分化，當兩個物種再度接近，有可能會產生雜交。例如台灣的白頭翁與烏頭翁，原本受到山脈阻隔而發展出不同型態，近年來純種烏頭翁卻逐漸與白頭翁交配而減少數量[117]。同域性物種形成（sympatric speciation），是指新物種與固有物種在相同地區生存，却因為繁殖或溝通等行為的差异而產生生殖隔離。例如，印尼一種蝙蝠由於聲音不同，而產生三個從未雜交的族群[118]。
+另外還有兩種較特殊的物種形成方式。近域性物種形成（peripatric speciation）介於異域性與同域性之間，指物種原先受地理隔離，之後因族群擴大而與固有物種接觸，卻已經形成兩個物種。邊域性物種形成是由恩斯特·麥爾所提出，這種理論同時支持了疾變平衡理論，且與奠基者效應有關，是小族群作為演化關鍵的例子。邻域性物種形成（parapatric speciation）指物種雖然生存在相連的區域，但是因為交流的困難而產生新物種。最著名的現象是環狀物種（ring species），例如北極圈周圍的黑脊鷗（Larus argentatus）[119]。
+滅絕[编辑]
+主条目：生物滅絕
+
+
+
+
+最知名的已滅絕動物之一，渡渡鳥
+
+
+滅絕指物種或是某個分類上的族群消失，並減少生物多樣性。某一物種的最後個體死亡，就是物種滅絕的時刻，即使滅絕前就已經失去了任何繁殖的可能。由於物種的潛在範圍可能相當大，因此確定物種滅絕時刻相當困難。
+地球上曾經有過多次大規模的滅絕，其原因大多是因為環境，尤其是氣候的大幅改變。其中最嚴重的5次[120]，分別是奧陶紀後期（4億4千萬年前）、泥盆紀後期（3億6千萬年前）、二疊紀後期（2億5千萬年前）、三疊紀後期（2億1千萬年前）與白堊紀末期（6千5百萬年前）。其中二疊紀後期的二疊紀滅絕事件，大約95%的海洋生物與70%的陸地動物消失。白堊紀末期的白堊紀滅絕事件，則因為恐龍的滅絕而著名。
+生命起源與演化歷程[编辑]
+主条目：生命演化歷程、地球歷史和演化樹
+
+
+
+
+位在美國冰川國家公園的前寒武紀疊層石（stromatolite），可能是已知最早的生命化石紀錄。
+
+
+對於最初始的生命起源，目前尚未明瞭。而且生物學的演化研究，通常不包括這段初始過程。因為這段過程牽涉到太陽系與地球的形成過程，所以對於生命起源的研究，許多是來自物理學與化學。例如1952年的米勒-尤里實驗中，史坦利·米勒與哈羅德·尤里以氨、甲烷、氫氣、氰酸與水等分子，模擬地球的原始狀態，並首次在實驗室中製造出生物的最基本物質[121]。而近年的研究發現，作為氨基酸原料的有機分子，有可能是來自太空中[122]，或是海底火山[121]。
+而關於包括遺傳物質在內的有機分子演化過程，現在科學家一般認為核糖核酸比蛋白質與脱氧核糖核酸更早出現，之後出現類似反轉錄酶的蛋白質，最後才有脱氧核糖核酸，不過這些理論的證據並不多[123]。脂肪酸的出現則構成了原始的細胞膜，之後經由內共生等過程，形成最早的單細胞生物。
+演化主要事件[编辑]
+在演化過程中，有許多關鍵性的生物分化，配合地質年代與演化歷程，能夠歸納出演化時間表。目前已知的化石紀錄中，最早生命遺跡是出現在約38億年前，原核單細胞生物則出現在33億年前。到了22億年前，才出現最早的真核單細胞生物，如藍綠菌。6億年前藻類與軟體無脊椎動物出現。再此之前的年代稱為前寒武紀[124]。
+古生代是由5億4千3百萬年前到5億1千萬年前所發生的寒武紀大爆發開始，此時大多數現代動物在分類上的門已經出現。之後海中藻類大量出現，而且植物與節肢動物開始登上陸地。最早的維管束植物在4億3千9百萬到4億9百萬年前出現。接著是硬骨魚類、兩棲類與昆蟲的出現。3億6千3百萬年前到2億9千萬年前，維管束植物開始發展成大型森林，同時最早的種子植物與爬蟲類出現，並由兩棲類支配地球。最後爬蟲類開始發展，並分化出類似哺乳類的爬蟲類，隨後發生二疊紀滅絕事件，古生代結束[124]。
+中生代開始於2億4千5百萬年前，這時以恐龍為主的爬蟲類與裸子植物逐漸支配地球。1億4千4百萬年前到6千5百萬年前，開花植物出現，最後中生代結束於白堊紀滅絕事件。
+6千5百萬年前之後則稱為新生代，哺乳類、鳥類與能夠爲開花植物授粉的昆蟲開始發展。開花植物與哺乳動物在這段時間取代了裸子植物與爬蟲類，成為支配地球的生物。可能是人類祖先的類人猿出現在360萬年前，直到10萬年前，現代人（学名：Homo sapiens）才誕生[125]。
+
+現今的研究與應用[编辑]
+主条目：演化生物學
+演化生物學是研究演化的主要學門，探討物種的起源和改變，以及物種之間的親緣關係。這些研究影響了傳統的分類學，並導致系統分類學的出現。演化發育生物學（evo-devo）比較不同動物在發育過程中的變化，由此探討它們之間的關係與演化過程。體質人類學專注於人類的起源與演化，並探討人種的差異，又稱為生物人類學。
+爲了更深入研究演化過程與機制的細節，許多相關的分支學門產生。例如生態遺傳、人類演化、分子演化與種系發生。由於生物學是奠基在其他更基礎的自然科學之上，因此數學、統計學、物理學與化學對於了解演化機制也相當重要。例如爲基因流、基因漂變等現象提供數學模式的群體遺傳學，研究在演化動力影響下，等位基因的分佈和改變。
+遺傳演算法則是應用演化與遺傳的各種機制，並結合電腦的運算能力來解決許多問題。應用的層面包含工程、設計與通訊科技等。
+演化在社會行為研究領域的發展[编辑]
+主条目：社會演化學、社會生物學和迷因
+有些演化研究專注在社會性生物上，稱為社會演化學。例如漢彌爾頓提出親屬選擇，解釋利他行為與邪惡的存在。不久之後，艾德華·威爾森出版的《社會生物學:新綜合》，解釋了社會性生物的各種行為，並在最後討論套用在人類行為的可能性。
+1976年，道金斯在《自私的基因》一書中，认为人类的文化也能以演化解釋。他根據基因（gene）这个词，將文化的演化单位称为迷因（meme、在中文也被音譯為迷米）。類似作為遺傳因子的基因，迷因為文化的遺傳因子，也經由複製（模仿）、變異與選擇的過程而演化[126]。
+社會演化學與迷因學的差異在於，社會演化仍然是一種基因中心觀點，以遺傳物質分子為天擇單位；而迷因學則是以非基因的文化為天擇單位。
+誤解[编辑]
+進步、複雜化與退化[编辑]
+有些物種（如人類），常被認為是比其他的物種更高級，甚至是演化的方向與目的所在。且認為演化的過程必定會使生物愈來愈複雜，或是進行與演化相反的退化。而現在的生物學家認為演化是沒有方向的過程，也沒有任何預先計畫的目標。雖然在已知的演化過程中，確實具有逐漸複雜的現象，但是依然有許多物種保持在較簡單的狀態，如細菌。因此複雜性可能增加也可能減少，或是維持不變，結果取決於天擇的機制[127]。
+物种形成[编辑]
+物種形成有時候被認為是無法直接觀察的現象，並得出演化是不科學的結論。但是科學的發現不僅是經由可重複的實驗，均變說（uniformitarianism）使科學家得以用經驗來推論事物的原因[128]。此外物種形成的例子也出現在植物[129]。還有刺魚（stickleback）的外胚葉發育不全（ectodysplasin）等位基因，被用來當作研究基因轉變與物種形成的模型[130]。有一種類似的觀點，認為微觀演化是可以觀察，而宏觀演化則無法觀察。但是由於宏觀演化的機制與微觀演化相同，所以宏觀演化事實上已經在微觀演化中被觀察[131]。而且物種之間基因序列的比較，也顯示少量的遺傳變異，就可以導致外表相當大的變化。
+熵與生命[编辑]
+有些觀點認為演化增加複雜性的情形，違反了熱力學第二定律。熵是物理學上的參量，這個定律是指在一個孤立系統中，熵只會增加或是維持不變，可以使用的自由能逐漸減少，最終反應逐漸趨於動態平衡。這種觀點忽略了生態系事實上並非閉合系統，所有生態系中生物所獲得的自由能，都是來自太空中，尤其是太陽。太陽、地球與太空的系統並不違反熱力學第二定律，因為太陽與地球輻射所產生的自由能，遠超過生物演化所需[132][133]。
+
+
+
+
+諷刺漫畫反映了早期人們對於「人類與猿類具有共同祖先」這個觀念的抵触。
+
+
+政治[编辑]
+許多政治或宗教領袖以為演化論在學界無共識、創造論和演化論一樣有效。如前總統里根曾在1980年的一場競選活動中表示：“演化是一個理論，只是一個科學理論，直到現在依然在科學界中受到挑戰，並且尚未被科學界認為絕對正確。”這類說法強調演化只是一個理論，所以並不是真實存在的事物。然而對科學家而言，理論並非與事實對立。事實是指經驗上所得的資料或數據，理論則是對事實的解釋與想法。里根更說，如果學校要教進化論，也要教聖經上對人類來源的解釋，「而近年來的發現，指出了進化論重大的破綻」[134]。這正與事實相反。2005年美國總統布希公開贊成學校同時教授智慧設計論與演化論。批評者說：「喬治·布什可以證明，受過哈佛和耶魯教育，也影響不了一個人的頑固。」[135]。
+2005年的美國賓州多佛學區案中，法官判決學校在2004年開始教授的智慧設計論違反法律，其它學區因爲避免官司而從此放棄教授此論。[136]。2010年，美國宗教學院定下指導方針，智慧設計論不應在科學課中教授，只可作爲文學或社會科學的課程。[137]
+宗教[编辑]
+主条目：創造論、智慧設計論和神導演化論
+自從《物種源起》出版之後，演化論在宗教的爭議就持續不斷。最大的爭議，便是關於人類演化的部分，與《聖經》中《創世紀》的衝突。
+演化論的出現，也導致一些以宗教觀點解讀演化論的理論出現。例如天主教，將其信仰與演化論調和為神導演化論。而除了傳統的創造論之外，也有一種稱為智慧設計的理論出現，是認為生物的出現必定受到某種智慧體的安排。
+伦理[编辑]
+另一種對於演化論的批評，對象則是社會達爾文主義，以及衍生而出的種族主義、優生學與生育控制等19世紀末與20世紀初的產物。這類思想主要是起源於哲學家與政治人物對達爾文主義的借用，例如最早提出類似理論的赫伯特·史賓賽。而演化學者中也有一些本身具有優生學與種族主義等思想，例如提出胚胎重演論的海克爾。
+
+參看[编辑]
+
+
+
+
+選擇壓力
+生殖隔離
+滅絕
+物種形成
+人類演化
+生命演化歷程
+人類演化歷程
+同源
+性選擇
+自然選擇
+適應
+孟德尔定律
+进化计算
+
+
+
+
+基因突變
+基因重組
+群體遺傳學
+演化發育生物學
+達爾文主義
+演化思想史
+種系發生學
+系統發生樹
+現代綜合理論
+物種起源
+生物多樣性
+遗传算法
+
+
+
+
+生物分類學
+生物學
+演化生物學
+遺傳學
+古生物學
+遺傳演算法
+系統發生學
+迷因
+社會生物學
+社會達爾文主義
+水平基因轉移
+
+
+
+
+參考文獻[编辑]
+
+
+^ Hall & Hallgrímsson 2008，第4–6页
+^ Evolution Resources. National Academies of Sciences, Engineering, and Medicine. 2016. 
+^ Hall & Hallgrímsson 2008，第3–5页
+^ Schopf, J. William; Kudryavtsev, Anatoliy B.; Czaja, Andrew D.; Tripathi, Abhishek B. Evidence of Archean life: Stromatolites and microfossils. Precambrian Research (Amsterdam, the Netherlands: Elsevier). 2007-10-05, 158 (3–4): 141–155. ISSN 0301-9268. doi:10.1016/j.precamres.2007.04.009. 
+^ Kampourakis 2014，第127–129页
+^ Doolittle, W. Ford. Uprooting the Tree of Life (PDF). Scientific American (Stuttgart: Georg von Holtzbrinck Publishing Group). February 2000, 282 (2): 90–95 [2015-04-05]. ISSN 0036-8733. PMID 10710791. doi:10.1038/scientificamerican0200-90. （原始内容 (PDF)存档于2006-09-07）. 
+^ Glansdorff, Nicolas; Ying Xu; Labedan, Bernard. The Last Universal Common Ancestor: emergence, constitution and genetic legacy of an elusive forerunner. Biology Direct (London: BioMed Central). 2008-07-09, 3: 29. ISSN 1745-6150. PMC 2478661. PMID 18613974. doi:10.1186/1745-6150-3-29. 
+^ Borenstein, Seth. Hints of life on what was thought to be desolate early Earth. Excite (Yonkers, NY: Mindspark Interactive Network). Associated Press. 2015-10-19 [2015-10-20]. 
+^ Bell, Elizabeth A.; Boehnike, Patrick; Harrison, T. Mark; 等. Potentially biogenic carbon preserved in a 4.1 billion-year-old zircon (PDF). Proc. Natl. Acad. Sci. U.S.A. (Washington, D.C.: National Academy of Sciences). 2015-11-24, 112 (47): 14518–14521 [2015-12-30]. ISSN 0027-8424. PMC 4664351. PMID 26483481. doi:10.1073/pnas.1517557112. 
+^ Ohtomo, Yoko; Kakegawa, Takeshi; Ishida, Akizumi; 等. Evidence for biogenic graphite in early Archaean Isua metasedimentary rocks. Nature Geoscience (London: Nature Publishing Group). January 2014, 7 (1): 25–28. Bibcode:2014NatGe...7...25O. ISSN 1752-0894. doi:10.1038/ngeo2025. 
+^ Borenstein, Seth. Oldest fossil found: Meet your microbial mom. Excite (Yonkers, NY: Mindspark Interactive Network). Associated Press. 2013-11-13 [2015-05-31]. 
+^ Pearlman, Jonathan. 'Oldest signs of life on Earth found'. The Daily Telegraph (London: Telegraph Media Group). 2013-11-13 [2014-12-15]. 
+^ Noffke, Nora; Christian, Daniel; Wacey, David; Hazen, Robert M. Microbially Induced Sedimentary Structures Recording an Ancient Ecosystem in the ca. 3.48 Billion-Year-Old Dresser Formation, Pilbara, Western Australia. Astrobiology (New Rochelle, NY: Mary Ann Liebert, Inc.). 2013-11-16, 13 (12): 1103–1124. Bibcode:2013AsBio..13.1103N. ISSN 1531-1074. PMC 3870916. PMID 24205812. doi:10.1089/ast.2013.1030. 
+^ Futuyma 2004，第33页
+^ Stearns & Stearns 1999，第x页
+^ Novacek, Michael J. Prehistory’s Brilliant Future. The New York Times (New York: The New York Times Company). 2014-11-08 [2014-12-25]. ISSN 0362-4331. 
+^ Miller & Spoolman 2012，第62页
+^ Mora, Camilo; Tittensor, Derek P.; Adl, Sina; 等. How Many Species Are There on Earth and in the Ocean?. PLOS Biology (San Francisco, CA: Public Library of Science). 2011-08-23, 9 (8): e1001127. ISSN 1545-7885. PMC 3160336. PMID 21886479. doi:10.1371/journal.pbio.1001127. 
+^ Gould, Stephen J. The Structure of Evolutionary Theory. Belknap Press. 2002. ISBN 0-674-00613-5. 
+^ 20.0 20.1 Futuyma, Douglas J. Evolution. Sunderland, Massachusetts: Sinauer Associates, Inc. 2005. ISBN 0-87893-187-2. 
+^ Darwin, Charles. On the Origin of Species 1st. London: John Murray. 1859: p. 1.  引文格式1维护：冗余文本 (link). Related earlier ideas were acknowledged in Darwin, Charles. On the Origin of Species 3rd. London: John Murray. 1861: p. xiii.  引文格式1维护：冗余文本 (link)
+^ Lewontin, R. C. The Units of Selection (PDF). Annual Review of Ecology and Systematics (Palo Alto, CA: Annual Reviews). November 1970, 1: 1–18. ISSN 1545-2069. JSTOR 2096764. doi:10.1146/annurev.es.01.110170.000245. 
+^ Darwin 1859，Chapter XIV
+^ Kimura, Motoo. The neutral theory of molecular evolution: a review of recent evidence. The Japanese Journal of Human Genetics (Mishima, Japan: Genetics Society of Japan). 1991, 66 (4): 367–386. ISSN 0021-504X. PMID 1954033. doi:10.1266/jjg.66.367. 
+^ 25.0 25.1 Mechanisms: the processes of evolution. Understanding Evolution. University of California, Berkeley. [2006-07-14]. 
+^ IAP Statement on the Teaching of Evolution (PDF). The Interacademy Panel on International Issues. 2006 [2007-04-25]. （原始内容 (PDF)存档于2007-09-27）. 
+*Statement on the Teaching of Evolution (PDF). 美國科學促進會. 2006 [2007-04-25]. （原始内容 (PDF)存档于2006-02-21）. 
+^ Lande R, Arnold SJ. The measurement of selection on correlated characters. Evolution. 1983, 37: 1210–26. doi:10.2307/2408842. 
+^ Provine 1988，第49–79页
+^ NAS 2008, pp. R11–R12
+^ Ayala & Avise 2014[页码请求]
+^ NAS 2008, p. 17
+^ evolution: definition of evolution in Oxford dictionary (American English) (US). [2016-08-19]. 
+^ 普林斯頓大學線上字典
+^ Etymology of Evolution. 
+^ Darwin, Charles. The origin of species by means of natural selection, or the preservation of favoured races in the struggle for life. London: John Murray. 1876 [2010-08-08]. 
+^ 王道環. 物種起源導讀. 《物種起源》. 台灣商務印書館. 2006. ISBN 957-05-1451-5 （中文（台灣）‎）. 
+^ 段雲章. 中山先生的世界觀. 秀威資訊科技股份有限公司. : 第四頁 [2010-08-08]. ISBN 9862213612. 
+^ 崔小茹. 碩士論文：清末民初的達爾文進化論. 國立清華大學. 1988 [2010-08-08]. 
+^ 楊芳燕. 進化論與近代中國的倫理思想 (PDF). 行政院國家科學委員會專題研究計畫成果報告. 2004 [2010-08-08]. 
+^ 40.0 40.1 陳恒安. 高中歷史課本中的達爾文及進化論 (PDF). 科學發展. 2009, (442): 第85頁. 
+^ 教育部國語辭典簡編本（網路版）：進化
+^ 教育部國語辭典簡編本（網路版）：演化
+^ Darwin 1909，第53页
+^ Kirk，Raven & Schofield（1983），第100–142, 280–321页
+^ Lucretius. Book V, lines 855–877. De Rerum Natura. Perseus Digital Library. Edited and translated by William Ellery Leonard (1916) (Medford/Somerville, MA: Tufts University). [2014-11-25]. OCLC 33233743. 
+^ Sedley, David. Lucretius and the New Empedocles (PDF). Leeds International Classical Studies (Leeds, West Yorkshire, England: Leeds International Classics Seminar). 2003, 2 (4) [2014-11-25]. ISSN 1477-3643. （原始内容 (PDF)存档于2014-08-23）. 
+^ Torrey, Harry Beal; Felin, Frances. Was Aristotle an Evolutionist?. The Quarterly Review of Biology. March 1937, 12 (1): 1–18. ISSN 0033-5770. JSTOR 2808399. doi:10.1086/394520. 
+^ Hull, David L. The Metaphysics of Evolution. The British Journal for the History of Science (Cambridge: Cambridge University Press). December 1967, 3 (4): 309–337. JSTOR 4024958. doi:10.1017/S0007087400002892. 
+^ Mason 1962，第43–44页
+^ Mayr 1982，第256–257页
+
+Ray 1686
+
+
+^ Waggoner, Ben. Carl Linnaeus (1707-1778). Evolution (Online exhibit). Berkeley, CA: University of California Museum of Paleontology. 2000-07-07 [2012-02-11]. 
+^ Bowler 2003，第73–75页
+^ Erasmus Darwin (1731-1802). Evolution (Online exhibit). Berkeley, CA: University of California Museum of Paleontology. 1995-10-04 [2012-02-11]. 
+^ 54.0 54.1 Nardon & Grenier 1991，第162页
+^ 55.0 55.1 55.2 Gould 2002[页码请求]
+^ Ghiselin, Michael T. The Imaginary Lamarck: A Look at Bogus 'History' in Schoolbooks. The Textbook Letter (Sausalito, CA: The Textbook League). September–October 1994 [2008-01-23]. OCLC 23228649. 
+^ Magner 2002[页码请求]
+^ Jablonka, Eva; Lamb, Marion J. Précis of Evolution in Four Dimensions. Behavioural and Brain Sciences (Cambridge: Cambridge University Press). August 2007, 30 (4): 353–365. ISSN 0140-525X. doi:10.1017/S0140525X07002221. 
+^ Burkhardt & Smith 1991
+
+Darwin, C. R. to Lubbock, John. Darwin Correspondence Project. Cambridge, UK: University of Cambridge. [2014-12-01].  Letter 2532, November 22, 1859.
+
+
+^ Sulloway, Frank J. Why Darwin rejected intelligent design. Journal of Biosciences (Bangalore: Indian Academy of Sciences). June 2009, 34 (2): 173–183. ISSN 0250-5991. PMID 19550032. doi:10.1007/s12038-009-0020-8. 
+^ Dawkins 1990[页码请求]
+^ Sober, Elliott. Did Darwin write the Origin backwards?. Proc. Natl. Acad. Sci. U.S.A. (Washington, D.C.: National Academy of Sciences). 2009-06-16, 106 (Suppl. 1): 10048–10055. Bibcode:2009PNAS..10610048S. ISSN 0027-8424. doi:10.1073/pnas.0901109106. 
+^ Mayr 2002，第165页
+^ Bowler 2003，第145–146页
+^ Sokal, Robert R.; Crovello, Theodore J. The Biological Species Concept: A Critical Evaluation. The American Naturalist (Chicago, IL: University of Chicago Press on behalf of the American Society of Naturalists). March–April 1970, 104 (936): 127–153. ISSN 0003-0147. JSTOR 2459191. doi:10.1086/282646. 
+^ Darwin, Charles; Wallace, Alfred. On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection. Journal of the Proceedings of the Linnean Society of London. Zoology. 1858-08-20, 3 (9): 45–62 [2007-05-13]. ISSN 1096-3642. doi:10.1111/j.1096-3642.1858.tb02500.x. 
+^ Desmond, Adrian J. Thomas Henry Huxley. Encyclopædia Britannica Online. Chicago, IL: Encyclopædia Britannica, Inc. 2014-07-17 [2014-12-02]. 
+^ Liu, Y. S.; Zhou, X. M.; Zhi, M. X.; Li, X. J.; Wang, Q. L. Darwin's contributions to genetics. Journal of Applied Genetics (Poznań: Institute of Plant Genetics, Polish Academy of Sciences). September 2009, 50 (3): 177–184. ISSN 1234-1983. PMID 19638672. doi:10.1007/BF03195671. 
+^ Weiling, Franz. Historical study: Johann Gregor Mendel 1822–1884. American Journal of Medical Genetics. July 1991, 40 (1): 1–25; discussion 26. PMID 1887835. doi:10.1002/ajmg.1320400103. 
+^ Wright 1984，第480页
+^ Provine 1971
+^ Stamhuis, Ida H.; Meijer, Onno G.; Zevenhuizen, Erik J. A. Hugo de Vries on Heredity, 1889-1903: Statistics, Mendelian Laws, Pangenes, Mutations. Isis (Chicago, IL: University of Chicago Press). June 1999, 90 (2): 238–267. ISSN 0021-1753. JSTOR 237050. PMID 10439561. doi:10.1086/384323. 
+^ Quammen 2006[页码请求]
+^ Bowler 1989[页码请求]
+^ Watson, J. D.; Crick, F. H. C. Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid (PDF). Nature (London: Nature Publishing Group). 1953-04-25, 171 (4356): 737–738 [2014-12-04]. Bibcode:1953Natur.171..737W. ISSN 0028-0836. PMID 13054692. doi:10.1038/171737a0. It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material. 
+^ Hennig 1999，第280页
+^ Wiley & Lieberman 2011[页码请求]
+^ Dobzhansky, Theodosius. Nothing in Biology Makes Sense Except in the Light of Evolution. The American Biology Teacher (McLean, VA: National Association of Biology Teachers). March 1973, 35 (3): 125–129. doi:10.2307/4444260. 
+^ Kutschera, Ulrich; Niklas, Karl J. The modern theory of biological evolution: an expanded synthesis. Naturwissenschaften (Heidelberg: Springer-Verlag Heidelberg). June 2004, 91 (6): 255–276. Bibcode:2004NW.....91..255K. ISSN 1432-1904. PMID 15241603. doi:10.1007/s00114-004-0515-y. 
+^ Cracraft & Bybee 2005[页码请求]
+^ Avise, John C.; Ayala, Francisco J. In the light of evolution IV: The human condition (PDF). Proc. Natl. Acad. Sci. U.S.A. (Washington, D.C.: National Academy of Sciences). 2010-05-11, 107 (Suppl. 2): 8897–8901 [2014-12-29]. ISSN 0027-8424. doi:10.1073/pnas.100321410. 
+^ Sturm RA, Frudakis TN. Eye colour: portals into pigmentation genes and ancestry. Trends Genet. 2004, 20 (8): 327–32. PMID 15262401. 
+^ 83.0 83.1 Pearson H. Genetics: what is a gene?. Nature. 2006, 441 (7092): 398–401. PMID 16724031. 
+^ Peaston AE, Whitelaw E. Epigenetics and phenotypic variation in mammals. Mamm. Genome. 2006, 17 (5): 365–74. PMID 16688527. 
+^ Oetting WS, Brilliant MH, King RA. The clinical spectrum of albinism in humans. Molecular medicine today. 1996, 2 (8): 330–35. PMID 8796918. 
+^ Mayeux R. Mapping the new frontier: complex genetic disorders. J. Clin. Invest. 2005, 115 (6): 1404–07. PMID 15931374. 
+^ Wu R, Lin M. Functional mapping - how to map and study the genetic architecture of dynamic complex traits. Nat. Rev. Genet. 2006, 7 (3): 229–37. PMID 16485021. 
+^ Jablonka, Eva; Raz, Gal. Transgenerational Epigenetic Inheritance: Prevalence, Mechanisms, and Implications for the Study of Heredity and Evolution. The Quarterly Review of Biology (Chicago, IL: University of Chicago Press). June 2009, 84 (2): 131–176. ISSN 0033-5770. PMID 19606595. doi:10.1086/598822. 
+^ Bossdorf, Oliver; Arcuri, Davide; Richards, Christina L.; Pigliucci, Massimo. Experimental alteration of DNA methylation affects the phenotypic plasticity of ecologically relevant traits in Arabidopsis thaliana. Evolutionary Ecology (Dordrecht, the Netherlands: Springer Netherlands). May 2010, 24 (3): 541–553. ISSN 0269-7653. doi:10.1007/s10682-010-9372-7. 
+^ Jablonka & Lamb 2005[页码请求]
+^ Drannis Dreyna。從突變造血緣。涂可欣，譯。《科學人》繁體中文版。遠流出版社。2005年11月。第45期，92-7。ISSN 1682-2811
+^ Snustad P & Simmons A. Principles of Genetics. 2nd edition. John Wiley and Sons Inc. 2000. ISBN 978-0-471-44180-9
+^ Carroll SB, Grenier JK, Weatherbee SD. From DNA to Diversity: Molecular Genetics and the Evolution of Animal Design.，第2版，Blackwell Publishing，2005年，ISBN 978-1-4051-1950-4
+^ Felsenstein J. The Evolutionary Advantage of Recombination. Genetics. 1974 Oct;78(2):737-56. PMID 4448362
+^ Eldredge N & Gould SJ. Punctuated equilibria:an alternative to phyletic gradualism. Models in paleobiology. Thomas J. M. Schopf. 1972. ISBN 978-0-87735-325-6
+^ 96.0 96.1 96.2 道金斯。《盲眼鐘錶匠》。王道還，譯。天下文化出版社。2002。ISBN 978-986-417-012-8
+^ Ho SY et al. Time Dependency of Molecular Rate Estimates and Systematic Overestimation of Recent Divergence Times. Mol Biol Evol. 2005 Jul;22(7):1561-8. PMID 15814826
+^ Botter DJ。小春蟲背後的演化秘密。姚若潔，譯。《科學人》繁體中文版。遠流出版社。2005年9月。第43期，34-7。ISSN 1682-2811
+^ Douglas Palmer。《史前地球圖解百科》。侯維之等，譯。協和國際多媒體出版。
+^ Ian Stewart。《生物世界的數學遊戲》（Life's Other Secret: The New Mathematics of the Living World）。蔡信行譯。ISBN 978-957-621-785-2
+^ Dobzhansky, Theodosius, Nothing in Biology Makes Sense Except in the Light of Evolution, American Biology Teacher, March 1973, 35 (3): 125–129, JSTOR 4444260 ; reprinted in Zetterberg, J. Peter (编), Evolution versus Creationism, Phoenix, AZ: ORYX Press, 1983 
+^ Scicape新聞報導 - 生物：發現甲蟲與細菌水平基因轉移的證據?
+^ Pigliucci M. Phenotypic Plasticity: Beyond Nature and Nurture.，约翰·霍普金斯大学出版社，2001年，ISBN 978-0-8018-6788-0
+^ 曲若竹等。群體遺傳結構中的基因流。《遺傳》（中國）。2004。第26卷3期，377-382。
+^ 遺傳疾病諮詢服務窗口 - 何謂「奠基者效應」? 互联网档案馆的存檔，存档日期2007-09-28.
+^ enmicro.pdf[失效連結]
+^ Pennisi_2003.pdf 互联网档案馆的存檔，存档日期2006-02-18.
+^ Rieseberg LH, et al. Major ecological transitions in wild sunflowers facilitated by hybridization. 2003 Aug;29;301(5637):1211-6. PMID 12907807
+^ Grant PR & Grant BR. Hybridization in bird species. Science. 1992 256;193-7
+^ Gompert Z, et al. Homoploid hybrid speciation in an extreme habitat. Science. 2006 Dec;22;314(5807):1923-5. PMID 17138866
+^ Dzidic S & Bedekovic V. Horizontal gene transfer-emerging multidrug resistance in hospital bacteria Acta pharmacologica Sinica. 2003 Jun;24(6):519-26. PMID 12791177
+^ Andersson JO. Lateral gene transfer in eukaryotes. Cellular and molecular life sciences. 2005 62:1182-97.
+^ Katz LA, Lateral gene transfers and the evolution of eukaryotes: theories and data. International journal of systematic and evolutionary microbiology. 2002 52:1893-900.
+^ Peter Gogarten - Evolutionary Theory
+^ Olivia Judson。《Dr. Tatiana給全球生物的性忠告》。潘勛，譯。麥田出版。2003。ISBN 978-986-7691-08-8
+^ Campbell NA & Reece JB. BIOLOGY 6th edition. Benjamin Cummimgs. 2002;469. ISBN 978-0-8053-6624-2
+^ 自由時報 - 白頭翁亂搞 烏頭翁變種？
+^ Sciscape新聞報導 - 生物：蝙蝠叫聲的種化契機
+^ Carl Zimmer。《演化-一個觀念的勝利》。唐嘉慧，譯。時報文化。2005。ISBN 978-957-13-4241-2
+^ Gaston KJ & Spicer IJ. Biodiversity. 2nd edition. Blackwell Pulishing. 2004;39. ISBN 978-1-4051-1857-6
+^ 121.0 121.1 倪簡白。生命的起源。《物理雙月刊》。2001年12月。第23卷6期，683-685。
+^ 甘魯生。生命起源的化學 互联网档案馆的存檔，存档日期2006-05-17.。《科學月刊》。1986年3月。第195期。
+^ Sciscape新聞報導 - 生物：先有脱氧核糖核酸或先有蛋白質？
+^ 124.0 124.1 Campbell NA & Reece JB. BIOLOGY 6th edition. Benjamin Cummimgs. 2002;487. ISBN 978-0-8053-6624-2
+^ 延陵科學綜合室 - 人類志
+^ Susan Blackmore。迷因：文化基因？。王道環，譯。《科學人》繁體中文版。遠流出版社。2005年11月。第45期，78-87。ISSN 1682-2811
+^ Scientific American - Biology: Is the human race evolving or devolving?
+^ 野外地質觀察 - 野外地質調查的理論與實務[失效連結]
+^ Kramer EM & Donohue K. Evolution. Traversing the adaptive landscape in snapdragons.，Science，2006年8月18日，313(5789):924-5. PMID 16917048
+^ Gibson G. Evolution. The synthesis and evolution of a supermodel.，Science，2005年3月25日，307(5717):1890-1. PMID 15790836
+^ Douglas Theobald. - 29+ Evidences for Macroevolution. TalkOrigins.
+^ Mark Isaak，Five Major Misconceptions about Evolution. TalkOrigins。
+^ 三思科学 - 对于进化的五个主要误解（翻譯自TalkOrigins） 互联网档案馆的存檔，存档日期2007-01-03.
+^ Douglas Dowie. Reagan favoring 'old time religion'. The Telegraph. 1980-08-23 [2012-10-05]. 
+^ 粟德金。美國政教分離，分而不離[失效連結]。《華盛頓觀察》週刊。2005年10月。第36期。
+^ Sciscape新聞報導 - 生物：演化大勝利——智慧設計論被判為偽科學 互联网档案馆的存檔，存档日期2006-06-18.
+^ American Academy of Religion on teaching creationism. National Center for Science Education. 2010-07-23 [2010-08-09]. 
+
+
+外部連結[编辑]
+
+生命經緯 - 基因突变
+生物科技面面觀 - 生命的開始
+地球科學 - 生命的起源與演化
+（英文）Understanding Evolution
+（英文）talk.origins Archive
+（英文）Darwin's complete published work online
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+科幻元素
+
+
+
+
+
+
+主題
+
+太空歌劇 · 宇宙戰爭 · 異世界 · 失落的世界 · 海洋 · 英雄 · 外星生命入侵 · 反乌托邦 · 第一次接觸 · 進化 · 赛博朋克 · 蒸汽朋克 · 世界末日 · 反攻人類 · 末日後的世界 · 統合危機 · 時光旅行 · 時間可逆的矛盾 · 平行世界 · 竄改歷史 · 轉生 · 復古未來主義
+
+
+
+
+
+
+宇宙
+
+宇宙空間 · 星 · 太陽系 · 太陽 · 銀河系 · 黑洞 · 星際物質 · 太空探索 · 火箭 · 太空飛行器 · 載人天空計劃 · 太空站 · 太空船 · 超光速航法 · 曲速飛行 · 宇宙移民 · 質量投射器 · 太空電梯 · 戴森球 · 外星生命 · 不明飛行物體
+
+
+
+
+
+
+生命
+
+突變 · 腦 · 魔法 · 意識 · 心靈潛水 · 多重人格 · 超能力 · 基因 · 长生不老 · 人工生命體 · 重現生命 · 克隆 · 生化危機 · 納米科技 · 未確定生物 · 怪物 · 病毒 · 未來生物 · 情報生命體 · 活屍
+
+
+
+
+
+
+科技
+
+機器人 · 仿生人 · 改造人 · 生化人 · 動力服 · 電腦 · 人工智能 · 互聯網 · 駭客 · 虛擬實境 · 光學武器 · 衛星武器 · 磁炮 · 坦克 · 戰鬥機 · 船艦 · 隱形 · 重力控制 · 防禦力場 · 失落的技術 · 擬似科學
+
+
+
+
+
+
+
+
+
+
+分类：演化演化生物學生物学理论生物学进化隐藏分类：含有英語的條目引文格式1维护：冗余文本未列明參考文獻頁碼的條目Webarchive模板wayback链接带有失效链接的条目使用ISBN魔术链接的页面使用PMID魔术链接的页面含有拉丁語的條目有非常模棱两可或者十分空泛语句的条目

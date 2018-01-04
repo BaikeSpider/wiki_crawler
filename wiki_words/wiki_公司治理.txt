@@ -1,0 +1,639 @@
+公司治理
+
+
+
+
+
+本條目已列出參考文獻，但因為沒有文內引註而使來源仍然不明。（2014年6月30日） 
+请通过加入合适的行内引用来改善这篇条目。 
+
+
+
+
+
+
+
+公司法
+
+
+公司 · 商業
+獨資商號
+合夥
+（普通 · 有限 · 有限責任）
+股份有限公司
+合作社
+
+
+中華人民共和國特有公司型態
+
+
+個體工業戶 · 個人獨資企業
+有限責任公司
+
+
+香港和英聯邦特有公司型態
+
+
+有限公司（私人 · 公眾）
+擔保有限公司
+社會公益公司
+
+
+中華民國特有公司型態
+
+
+無限公司 · 有限公司 · 兩合公司
+
+
+公司法學說
+
+
+公司治理
+有限責任 · 超越權限
+經營判斷法則
+揭開公司面紗
+
+
+相關領域
+
+
+契約 · 民事訴訟
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+商團治理，又名注册商團自我秩序打理機制、企業行為倫理自我規範和企業管理（簡稱企管），是一套程序、慣例、政策、法律及機構，影響著如何帶領、管理及控制公司。公司治理方法也包括公司內部利益相關人士及公司治理的眾多目標之間的關係。主要利益相關人士包括股東、管理人員和董事。其它利益相關人士包括僱員、供應商、顧客、銀行和其它貸款人、政府政策管理者、環境和整個社區。
+公司治理是一個多面向的主題。公司治理中有一個十分重要的部分是面對責任、受託責任、對股東和其他人的資料披露，審計及控制機制。公司治理的負責人應該遵守各方面的原則。另一個重要的焦點就是經濟效率，包括公司內部（譬如最佳的實踐指南）和公司外部（譬如全國制度體系）。依據這個“經濟觀點”，公司治理制度的設計應該針對優選結果及查出並防止欺騙而設計。也有一些看法認為企業應該不僅為股東的利益而行動，而是要為所有有關人士而行動。
+近來，社會上對現代公司如何實踐公司治理有很大的興趣，特別是自從安隆公司和世通公司等大型企業的崩潰之後，引起了社會的關注。
+
+
+
+目录
+
+
+1 定義
+2 參與企業管治的相關組織
+3 原則
+4 企業管治需注意的問題
+5 世界上企業管治的模型
+6 守則和指南
+7 企業管治與企業表現
+8 參見
+9 參考文獻
+10 延伸閱讀
+
+10.1 德文書籍
+
+
+11 外部連結
+
+
+
+定義[编辑]
+企業管治一詞意味着許多東西。它也許描述：
+
+公司受指揮和受控制的過程
+遵照公司法或有關守則行事（嚴守企業管治指南內所訂定的原則）
+有效掌控公司資源與技術（治理資金）
+在經濟方面它意味學習許多出現在分離所有權而引發的和公司控管避免淘空的問題。
+
+廣義的說，企業管治包含了規則、權責、關係、制度和程序，在這個框架之內由董事會或其他信託當局在公司中執行和控制。需要遵守的規則包括當地的法律和公司的內規。而關係則包括了所有關係人之間的關係，最重要是那些股東、經理人、董事會董事、政府管理當局、員工和整個社區。
+企業管治的結構即在明白解說在公司事務上決策的規則和方法。它並且提供公司目標制訂的機制，並監督目標的達成與手段。
+由於利益關係人會影響現代組織的控制，企業管治制度就是為了代表利益關係人來達到減少代理成本和資訊非對稱性的問題而實施的公司控制制度。企業管治用來監控結果是否與規劃相符；並且為了維護或修正組織活動，讓資訊在整個組織内充分流通。
+參與企業管治的相關組織[编辑]
+參與企業管治的相關組織包括了政府或管制組織如美國證券交易委員會、CEO、董事會、管理人員和股東。其他的利益有關人士也會參與，例如供應商、僱員、債權人、顧客及整個社區。
+在公司裡，主要的股東授權代理人（經理）為保障他們的利益而行動。這樣把控制權與擁有權分割，意味著股東對管理決定失去了有效的控制。最終導致企業管治的制度是為了協助保持股東與經理動機一致而設立的，而不給經理有自我滿足的機會。當金融機構投資者的產權持有量增大，擁有權不是那麼分散，這會為控制權與擁有權的割裂提供逆轉的機會。
+董事會常常在公司治理上扮演著一個重要的角色。它的責任就是支持公司策略、開展定向政策、任命，監督和酬賞高級董事和保證組織對它的所有者和當局負上責任。個體也許是多家公司的理事的成員。
+無論直接或間接地影響著公司的有效表現，參與企業管治的所有人士都持著一些利益。董事和管理階層要求獲得薪金、利益與名譽，而股東則要求獲得回報。顧客要求獲得產品和服務，供應商從他們的產品和服務而獲得補償。每位都以自然、人文、社會及其他方式提供價值。
+影響公司的個人決定的重要因素就是信任。他們會從公司的利益中得到公平的分成。如果某方比其他人得到地更多，這便会令公司崩潰。企業管治就是為了維持這種信任的重要機制。
+原則[编辑]
+企業管治的原則包含好幾個要素：誠實、信任、正直、開放、表現導向、責任感及可靠性、互相尊重及對組織的承諾。
+最重要的是董事與管理階層要如何建立治理的典範，作為公司其他參與者的依據，並且能夠定期評估它的有效程度。特別是，高階管理人員在面對利益衝突及透露財務報表的時候表現出的誠實與道德。
+常見的企業管治的原則包括：
+
+權利和股東的公平的對待：組織應該尊重股東的權利及透過有效溝通來幫助股東行使權利，讓股東更明白內容，鼓勵他們參與日常會議。
+其他利益關係者的利益：組織應該意識到他們對所有合法的利益相關者有法定和其他義務。
+董事會的角色和責任：董事會需要一系列的知識，才能應付各式各樣的商業問題，有能力去檢視及挑戰管理層的表現，對工作有適當程度的承擔。然而，董事長及CEO（或總經理）不能由同一人擔任，以便在制度上避免利益衝突的可能。另外，「執行董事」與「獨立非執行董事」的人數要有適當的比例，以建立獨立的監察作用。
+正直及道德行為：公司需要為董事及管理人員建立的道德操守的標準，並鼓勵決策時要有道德勇氣及責任感。
+透露及透明：公司應該澄清並讓公眾瞭解董事會的角色和責任。
+
+牽涉公司治理原則的問題：
+
+公司財政決算的準備的缺失
+內部控制和公司的審計員的獨立性
+總經理和其它高級主管薪酬的訂定
+董事會內職位的提名方法
+可以供給董事會運用的資源
+缺失及風險管理
+
+企業管治需注意的問題[编辑]
+對資訊需求的問題，因為處理資訊成本的問題，股東往往難以取得良好的資訊，對於小股東來說，情況更甚。對於這種問題，效率市場假說可以提供答案。這個假說認為市場是有效率的，市場上許多投資者是理性且追求最大利潤，所以建議小股東看重較大專業投資者的決定。
+在監察的成本方面，為了要影響董事，股東應該聯合其他股東組成有影響力的投票小組，促使在決議中或者在全體大會委任董事的時候產生真正的威脅。
+提供會計資料方面，各種財務帳目能夠讓股東了解資金的來源與流動，並且以此來監察董事的運作。財務報告過程中的瑕疵導致企業管治的有效性產生了瑕疵。最理想的情況，就是通過外部審計來改善問題。
+世界上企業管治的模型[编辑]
+世界上有很多不同企業管治的模型。這些不同於在資本主義的品種的差別。寬宏模型是常見於英美國家，傾向於以股東的權益來決定優先權。常見於歐洲大陸和日本的協調模型則確認工作者、經理、供應商、顧客，和社區的權益。兩者在不同方面都有不同的競爭優勢。寬宏模型鼓勵激烈的創新及成本上競爭，協調模型則促進漸進式的創新和品質上比拼。
+在美國，公司是由董事會治理。他們有權選擇行政主管，例如首席行政官。首席行政官在日常運作中，有更大權力來管理公司，但大型行動則需要得到董事會的同意。例如聘用直屬同事，籌募費用，收購其他公司，大型資本擴張及其他昂貴項目。董事會則要制定政策，下重要決定，監察管理成效或企業控制。董事會的董事是由股東所選的，並對股東負責。
+守則和指南[编辑]
+企業管治方法原則和守則在不同的國家被建立出來，並且由證券交易所、公司、金融機構投資者或董事協會和經理在政府和國際組織支持下所發布出來。概括來說，雖然與證券交易所上市規定有聯繫的手則也許有一個強制作用，但是法律並不強制要遵照這些被推薦的管治方法。
+企業管治與企業表現[编辑]
+在2002年的「全球投資意見調查」中，受訪對象超過200位機構投資者，麥肯錫顧問公司發現8成的機構投資者願意向管治妥善的公司支付溢價（Premium）。什麼是管治妥善的公司？就是公司會有多些外來的獨立董事，沒有與管理層有私人聯繫，對其它董事進行正規評估，對投資者的治理資料的要求作出迅速的反應。這個溢價（Premium）因市場而定，在加拿大，一般公司大概是11%，到前景不明朗的大概是40%。
+其它研究發現了公司質量的悟性與優越股票市場表現的聯繫。在《財富雜誌》的一個為期五年的「最敬佩的公司」的勘測中，Antunovich等人發現「最敬佩的公司」平均一年會報高達125%，然而「最不敬佩的公司」的年均會報只有80%。《商業週刊》的一個獨立研究指出，機構投資者及專家有助於分辨公司治理的好壞，得分越高回報越高。
+參見[编辑]
+
+商法
+會計
+公司
+治理
+關係人交易
+重大交易
+法律起源理論
+利害相關者
+代理理論
+商業道德
+公司罪行
+Cadbury報告
+企業社會責任
+金色降落傘
+
+參考文獻[编辑]
+
+Haidar, Jamal Ibrahim, 2009. "Investor protections and economic growth," Economics Letters, Elsevier, vol. 103(1), pages 1-4, April
+Becht, Marco, Patrick Bolton, Ailsa Röell, "Corporate Governance and Control" (October 2002; updated August 2004). ECGI - Finance Working Paper No. 02/2002. Full text available from : [1]
+Brickley, James A., William S. Klug and Jerold L. Zimmerman, Managerial Economics & Organizational Architecture, ISBN 978-0-07-282809-2
+Cadbury, Sir Adrian, "The Code of Best Practice", Report of the Committee on the Financial Aspects of Corporate Governance, Gee and Co Ltd, 1992. Available online from [2]
+Cadbury, Sir Adrian, "Corporate Governance : Brussels", Instituut voor Bestuurders, Brussels, 1996.
+Clarke, Thomas (ed.) (2004) "Theories of Corporate Governance: The Philosophical Foundations of Corporate Governance," London and New York: Routledge, ISBN 978-0-415-32307-9
+Clarke, Thomas (ed.) (2004) "Critical Perspectives on Business and Management: 5 Volume Series on Corporate Governance - Genesis, Anglo-American, European, Asian and Contemporary Corporate Governance" London and New York: Routledge, ISBN 978-0-415-32910-1
+Colley, J., Doyle, J., Logan, G., Stettinius, W., What is Corporate Governance ? (McGraw-Hill, December 2004) ISBN 978-0-07-144448-4
+Easterbrook, Frank H. and Daniel R. Fischel, The Economic Structure of Corporate Law, ISBN 978-0-674-23539-7
+Erturk, Ismail, Froud, Julie, Johal, Sukhdev and Williams, Karel (2004) Corporate Governance and Disappointment Review of International Political Economy, 11 (4): 677-713.
+Monks, Robert A.G. and Minow, Nell, Corporate Governance (Blackwell 2004) ISBN 978-1-4051-1698-5
+Monks, Robert A.G. and Minow, Nell, Power and Accountability (HarperBusiness 1991), full text available online
+New York Society of Securities Analysts, 2003, Corporate Governance Handbook, [3]
+OECD (1999, 2004) Principles of Corporate Governance Paris: OECD)
+Ozekmekci, Abdullah, Mert (2004) "The Correlation between Corporate Governance and Public Relations", Istanbul Bilgi University.
+Whittington, G. "Corporate Governance and the Regulation of Financial Reporting", Accounting and Business Research, Vol. 2, 1993, Corporate Governance Special Issue, pp. 311-319.
+
+延伸閱讀[编辑]
+德文書籍[编辑]
+
+Gerhard Schewe. Unternehmensverfassung. Corporate Governance im Spannungsfeld von Leitung, Kontrolle und Interessenvertretung. Berlin: Springer. 2005. ISBN 3-540-24517-0. 
+Michael Littger. Deutscher Corporate Governance Kodex - Funktion und Verwendungschancen. Eine interdisziplinäre Untersuchung mit Begründung einer Methodik zur Auswahl geeigneter Regelungsinstrumente. Baden-Baden: Nomos. 2006. ISBN 3-8329-1785-3. 
+Patricia Siebart. Corporate Governance von Nonprofit-Organisationen. Ausgewählte Aspekte der Organisation und Führung. Bern: Haupt. 2006. ISBN 3-258-07115-2. 
+Daniel G. Meister. Corporate Governance und Compliance-Management für Versicherungsunternehmen - Vor dem Hintergrund der Umsetzung von Solvency II. 2007. ISBN 978-3836433839. 
+Julia C. Helbeck. Internal Control System in der Praxis - Ein Umsetzungsleitfaden zur Steuerung operationeller Risiken in Geschäftsprozessen. Saarbrücken. 2008. ISBN 978-3836468817. 
+ZCG Zeitschrift für Corporate Governance. Berlin: Erich-Schmidt-Verlag. ISSN 1862-8702. 请检查|issn=值 (帮助). 
+Corporate Compliance Zeitschrift (CCZ). C.H. Beck Verlag. 
+
+外部連結[编辑]
+歐洲
+
+歐洲企業管治機構
+歐洲企業管治機構:企業管治手則、原則及建議
+俄羅斯獨立董事協會
+英國董事學會
+愛爾蘭董事學會
+（德文）Regierungskommission Deutscher Corporate-Governance-Kodex‘德國政府委員會:企業管治手則’
+（荷兰文）Commissie Corporate Governance‘企業管治委員會’
+（波兰文）Polskie Forum Corporate Governance‘波蘭企業管治論壇’
+（俄文）Сайт «Корпоративное управление в России»
+（俄文）Сайт Национального совета по корпоративному управлению
+
+美洲
+
+企業管治行動方案(在哈佛大學商學院)
+美國的國家公司董事協會
+企業管治及表現耶魯中心 （耶魯大學管理學院）
+商業道德研究傑克林中心 （賓州大學的渥頓學院）
+加拿大公司董事學會
+巴西企業管治學會
+
+亞洲、非洲及大洋洲
+
+亚洲公司治理协会
+中国董事学会(中國及香港)
+香港特許秘書公會(中國及香港)
+香港董事学院(中國及香港)
+香港董事學會(中國)
+澳洲公司董事學會
+雪梨科技大學企業管治中心 （澳洲悉尼科技大學）
+紐西蘭董事學會
+南非董事學會
+
+其他
+
+企業管治(corpgov.net)羅列了很多企業管治的定義
+公司圖書館
+全球企業管治論壇
+全球董事發展圈
+治理焦點 全球企業管治問題
+國際企業管治網絡
+管治入門網站
+開放遵從及倫理小組（Open Compliance and Ethics Group）
+社會科學研究網絡(SSRN)
+世界銀行企業管治的報告
+世界銀行企業管治的政策
+香港聯合交易所有限公司 《證券上市規則》第二冊，附錄十四《企業管治常規守則》
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+公司头衔与部门组成
+
+
+
+
+
+
+公司領導決策頭銜
+
+董事長  · 副董事長  · 股東大會  · 董事會  · 董事  · 執行董事  · 非執行董事 · 獨立董事（獨立非執行董事） · 監察人  · 總裁  · 副總裁  · 總經理  · 理事會  · 監事會  · 理事長 · 監事長／監事主席／監事會召集人  · 公司秘書／治理長(CGO)  · 法律總顧問 · 工會／工會主席（CLO）
+
+
+
+
+
+
+公司主管頭銜
+
+首席會計官／會計主管（CAO） · 首席行政官 · 首席分析官 · 首席品牌官（CBO） · 首席执行官（CEO） · 首席财务官（CFO） · 首席信息官（CIO） · 法務長（CLO） · 安全主管（CSO） · 開發總監（CDO） · 首席政府關係官（CGO） · 首席遊戲官  · 首席方針制定官 · 首席協調官／人力资源总监（CHO） · 知識總監（CKO） · 首席行销官（CMO） · 首席採購官 · 貨物計劃總監（CMPO） · 首席談判官／首席談判代表（CNO） · 首席运营官（COO） · 公關總監 · 首席隱私保密官（CPO） · 產品總監 · 首席創意長／創意總監（CD） · 首席質量官／品管總監（CQO） · 研究總監（CRO） · 首席商店官 · 首席系统官 · 首席技术官（CTO） · 客户總監（CUO） · 評估總監（CVO） · 發言人
+
+
+
+
+
+
+部門組成
+
+行政部  · 人事部  · 財務部  · 生產部  · 生產車間  · 質檢部  · 審計部  · 倉儲部  · 供應部  · 銷售部  · 市場部  · 業務部  · 研發中心  · 物流部  · 訊息中心
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+管理学
+
+
+
+
+
+
+
+
+
+商業管理學大綱（英语：Outline of business management）
+管理學文章列表（英语：Index of management articles）
+
+
+
+
+
+
+
+
+依照組織類別
+
+
+
+學術（英语：Academic administration）
+組織（英语：Association management）
+企業
+
+餐飲（英语：Restaurant management）
+
+
+醫療（英语：Health administration）
+軍旅（英语：Military administration）
+公共
+
+
+
+
+
+
+
+
+依照 (組織內部
+焦點)
+
+
+
+
+範圍
+
+
+
+
+策略
+
+
+
+能力（英语：Capability management）
+應變
+溝通（英语：Communications management）
+財務
+創新（英语：Innovation management）
+績效
+風險
+系統（英语：Systems management）
+
+
+
+
+
+
+
+
+部件
+
+
+
+設施
+產品（英语：Product management）
+
+生命周期
+品牌
+
+
+計畫（英语：Program management）
+專案
+
+營建工程
+
+
+
+
+
+
+
+
+
+
+
+
+
+活動或部門
+
+
+
+
+產線（英语：Line management）
+
+
+
+行銷
+營運（英语：Operations management）/生產（英语：Manufacturing process management）
+
+流程（英语：Process management）
+品質
+
+
+銷售（英语：Sales management）
+
+
+
+
+
+
+
+
+員工（英语：Staff management）
+
+
+
+會計（英语：Accounting management）
+辦公（英语：Office management）
+記錄（英语：Records management）
+
+
+
+
+
+
+
+
+
+
+
+方面或關係
+
+
+
+客戶
+工程
+物流
+感知（英语：Perception management）
+供應鏈
+人才（英语：Talent management）
+
+
+
+
+
+
+
+
+問題
+
+
+
+衝突（英语：Conflict management）
+危機
+壓力
+
+
+
+
+
+
+
+
+資源（英语：Resource management）
+
+
+
+環境
+人力
+資訊
+資訊科技
+知識
+土地
+材料（英语：Materials management）
+技能（英语：Skills management）
+庫存（英语：Stock management）
+技術（英语：Technology management）
+時間
+
+
+
+
+
+
+
+
+
+
+
+職位
+
+
+
+臨時
+干部
+主管
+
+
+
+
+
+
+
+
+方法
+
+
+
+靈活（英语：Adhocracy）
+協作（英语：Collaborative method）
+分散（英语：Distributed management）
+實獲值
+循證（英语：Evidence-based management）
+目標
+風格
+宏觀
+微觀
+科學
+公益
+團隊（英语：Team building）
+虛擬（英语：Virtual management）
+
+
+
+
+
+
+
+
+技巧
+
+
+
+決斷
+决策
+預測（英语：Forecasting）
+領導力
+
+
+
+
+
+
+
+
+先驅與學者
+
+
+
+彼得·德鲁克
+伊利雅胡·高德拉特
+奥利弗·威廉姆森
+
+
+
+
+
+
+
+
+教育
+
+
+
+商学院
+學位
+
+工商管理學士
+工商管理碩士
+博士（英语：PhD in management）
+
+
+組織研究（英语：Organizational studies）
+認證業務經理（英语：Certified Business Manager）
+特許管理學院（英语：Chartered Management Institute）
+重要管理研究（英语：Critical management studies）
+美國技術管理與應用工程協會（英语：Association of Technology, Management, and Applied Engineering）
+
+
+
+
+
+
+
+
+其他
+
+
+
+企业经济学
+管理心理学
+公司治理
+管理咨询
+管理主義
+組織發展理論
+合作
+控制（英语：Control (management)）
+管理發展（英语：Management development）
+管理系統（英语：Management system）
+管理經濟學（英语：Managerial economics）
+管理模控學（英语：Management cybernetics）
+組織行為學（英语：Organizational behavior management）
+管理風潮（英语：Management fad）
+呆伯特尖毛老闆（英语：Pointy-haired Boss）
+主管薪酬（英语：Executive compensation）
+威廉姆森的管理限度模型（英语：Williamson's model of managerial discretion）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：公司法企業管理经济政策公司管理及營運隐藏分类：自2014年6月缺少注脚的条目引文格式1错误：ISSN使用ISBN魔术链接的页面

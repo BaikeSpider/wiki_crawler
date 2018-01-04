@@ -1,0 +1,88 @@
+Scholarpedia
+
+Scholarpedia
+
+网站类型
+网络百科全书
+
+
+语言
+英语
+
+
+创始人
+Eugene M. Izhikevich
+
+
+标语
+The peer-reviewed open-access encyclopedia.
+
+
+网站
+www.scholarpedia.org
+
+
+商业性质
+非商业性
+
+
+注册
+非必须 (如果要进行编辑，则必须)
+
+
+推出时间
+2006年2月5日
+
+
+现状
+671条经过同行审阅的条目, 约1700条编辑中的条目(截止于2010年12月)
+
+
+Scholarpedia 是一个以英语撰写的基于Wiki的在线百科全书。同维基百科一样，它也使用MediaWiki软件；不同之处在于它更加注重与可开放获取的学术期刊之间的联系。
+Scholarpedia的条目均由邀请来的专家作者写成，并且经过同行评审之后再发表。[1] Scholarpedia列明每条条目的所有作者、管理员和编辑的真实姓名和所属的机构，而同行评审的过程则是匿名的。Scholarpedia在线储存它的条目信息，并且可以被传统的期刊文章所引用(Scholarpedia拥有自己的ISSN号码1941-6016)。Scholarpedia的引用系统同时支持使用修订号。
+Scholarpedia计划是在2006年2月由Eugene M. Izhikevich发起。当时他是位于美国加州圣地亚哥的神经科学研究所的一名研究员。Eugene M. Izhikevich现在是Scholarpedia的主编。
+
+
+
+目录
+
+
+1 涵盖领域及作者群体
+2 版权
+3 参见
+4 参考资料
+5 外部链接
+
+
+
+涵盖领域及作者群体[编辑]
+目前为止，Scholarpedia并不是一个综合性的百科全书；它主要涵盖计算神经科学，动力系统，计算智能, 物理学和天体物理等领域。[2]至2009年4月时，Scholarpedia拥有500条已发布条目和约1400条不同完成程度的未完工条目。2010年10月，这些数字分别达到了671和约1700。
+为了保证条目的作者是各自领域的专家，Scholarpedia只接受由主编或其他管理员邀请或经公众选举[失效連結]而产生的候选者作为编辑人员。例如，吉米·威尔士和拉里·桑格被提名作为Scholarpedia中“ 维基百科”条目的作者。 截止至2009年5月，作者的名单已经包括了四名菲尔兹奖获得者和十六名诺贝尔奖获得者。[3]Scholarpedia的注册用户需要提供他们的真实姓名并且要经过对其与学术机构的从属关系的验证。只有注册用户才可以编辑条目，而这些编辑需要经过管理员的审核才能生效。通常来说，一个条目的作者同时也兼任管理员的职位，但是这个职位也是可以被转让的。
+版权[编辑]
+Scholarpedia的文章可以被免费地用于非商业用途，但是不允许进行大量拷贝。每篇文章上也都有署名。
+2008年1月，Scholarpedia改变了它的关于许可证的政策。与早先接受作者直接给予的非排他性许可证不同的是，现在它也接受在GNU自由文档许可证和CC-BY-NC-ND3.0版许可证之下的文章了。[4][5]
+参见[编辑]
+
+维基百科和Nupedia
+大众百科
+在线百科全书列表
+
+参考资料[编辑]
+
+
+^ Scholarpedia: the free peer-reviewed encyclopedia. Society of Applied Neuroscience. 11 November 2006 [2007-03-27]. 
+^ Scholarpedia. The MIT Presslog. January 8, 2007 [2007-03-27]. 
+^ Editorial: Wouldn't you like to know?. Nature Physics. 2008, 4 (7): 505. doi:10.1038/nphys1012. 
+^ Comments on copyright and patents. Scholarpedia. Februari 15, 2008 [2009-10-12].  请检查|date=中的日期值 (帮助)
+^ Aims and policy. Main Page. Scholarpedia. [2009-11-02]. 
+
+
+外部链接[编辑]
+
+Scholarpedia
+
+
+
+
+
+分类：维基媒体工程Wiki社群维基百科在线百科全书隐藏分类：引文格式1错误：日期带有失效链接的条目条目有永久失效的外部链接

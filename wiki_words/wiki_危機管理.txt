@@ -1,0 +1,1368 @@
+危機管理
+危机管理（Crisis management）是一种組織或企业对待危害组织、股东和公共大众行为的重要事件的流程。工业和环境灾难危机管理研究始于1980年代。[1] 一般来说，危机有三种定义：(a)对于组织的威胁 (b)突发事件 (c)需要短时间决策的重要事件[2] Venette[3]另有一说"危机是让原有系统无法持续运营的流程"。因此，第四种定义为需要变化的流程。如果没有变化，则事件会演化为失败或事故。
+与风险管理不同，风险管理是发现潜在的威胁，找到应对的机制。危机管理是应对已经发生的威胁，涉及更广泛的管理学定义，涉及需要鉴定、评估、理解和应对严重情况的技能和科技。
+
+
+
+目录
+
+
+1 介绍
+2 危机的种类
+
+2.1 自然灾害
+2.2 科技危机
+2.3 对抗危机
+2.4 恶意破坏
+2.5 组织恶性行为
+
+2.5.1 管理者技能偏差
+2.5.2 欺骗
+2.5.3 管理层的错误行为
+
+
+2.6 工作地点暴力
+2.7 谣言
+
+
+3 危机领导力
+4 危机管理中的模型和理论
+
+4.1 危机管理模型
+4.2 管理危机计划
+4.3 紧急策划
+4.4 业务继续计划
+4.5 结构-功能系统理论
+4.6 创新扩散理论
+4.7 危机领导力
+4.8 社交媒体的危机管理
+4.9 危機管理三步驟
+
+
+5 危机管理成功案例
+
+5.1 泰诺事件 (强生公司)
+5.2 奥德瓦拉食品事件
+5.3 美泰公司
+5.4 百事公司
+5.5 危机对股东的影响
+
+
+6 公共领域的危机管理
+7 职业机构
+8 参见
+9 参考
+10 更多阅读
+11 外部链接
+
+
+
+介绍[编辑]
+危机管理包括
+
+应对危机现实和感官的方法
+建立机制，模拟出现的危机，以及后续需要的应对机制
+模拟在紧急情况出现时的沟通机制
+
+危机的种类[编辑]
+在危机管理流程中，需要确定危机的种类，不同的危机需要使用不同的危机管理策略。[4]在潜在危机很大的时候，危机无法分解处理。[4]
+Lerbinger[5]将危机划分为以下种类：
+
+自然灾害
+科技危机
+对抗
+恶意破坏
+组织恶性行为
+工作地点暴力
+谣言
+恐怖主义供给和人造困难
+
+自然灾害[编辑]
+
+例子: 2004年印度洋地震 (海啸)
+
+科技危机[编辑]
+
+例子: 切尔诺贝利核事故, 埃克森·瓦尔迪兹漏油事故
+
+对抗危机[编辑]
+
+例子: PUSH组织(人民联合服务人类组织) 耐克抵制
+
+恶意破坏[编辑]
+
+例子: 1982年芝加哥的泰诺事件
+
+组织恶性行为[编辑]
+管理层采取的可能危害组织和股东的行为。[4] Lerbinger[5]定义了三种行为类型：
+管理者技能偏差[编辑]
+管理者迎合短期的经济盈利，而忽视了更广泛的社会价值和股东利益。这种不平衡的价值观根植于传统的商业中，只注重股东的利益，而往往忽视其他股东，如客户、员工和社区的利益。
+
+例子: 西尔斯公司牺牲客户信任[來源請求]
+
+欺骗[编辑]
+管理层隐瞒或误导信息。
+
+例子: 美国道康宁硅胶隆胸事件
+
+管理层的错误行为[编辑]
+有些危机的爆发不是由于歪曲的价值观和欺骗，而是蓄意的非法和无道德行为。
+工作地点暴力[编辑]
+由于员工或前员工在工作地点引起的暴力。
+
+例子: 杜邦莱卡事件[來源請求]
+
+谣言[编辑]
+
+例子: 宝洁标志之争
+
+危机领导力[编辑]
+美国弗吉尼亚大学达顿商学院组织心理学家Erika Hayes James提出两种主要的组织危机。[6]他把组织危机定义为“任何一旦公布于众会引来负面反应，并潜在威胁企业财务利益、声誉、生存和企业业务的情感情况。”[7]
+
+
+突然危机
+掩盖危机
+
+危机管理中的模型和理论[编辑]
+危机管理模型[编辑]
+成功地处理危机需要了解如何处理危机。Gonzalez-Herrero和Pratt提出了危机管理的不同阶段，每场危机至少有三个阶段。
+
+即将发生的麻烦和风险出现信号
+选择市场的逆袭策略
+贯彻变革流程，进行监控
+
+管理危机计划[编辑]
+没有企业希望危机导致其生产停止，特别是带来大量媒体报道。公众的审视会发现更多财务、政治、法律和政府影响上的问题。危机管理计划涉及提供最佳的应对措施。[8]
+紧急策划[编辑]
+提前进行紧急预案是危机管理的一个重要部分，是保障组织采取正确措施的第一步。危机管理团队可以彩排可能发生的危机，以及不同的情况出现。计划应明确唯一指定的面对公众的发言人机制，例如公司统一发言人或者是项目的执行人。在危机爆发的头几个小时是至关重要的，所以必须有效率的工作，彩排可规定每个应答流程的时间和时效性。当进行公司外部和内部披露的时候，信息应该准确、有说服力。提供不准确的、经过修改的信息，有可能让公司躺着中枪，恶化形势。危机计划应该包含信息披露指导，让决策者不仅仅考虑短期结果，而且考虑长期的决策结果。[8]
+业务继续计划[编辑]
+危机无疑会导致企业业务的中断，业务继续计划可以最小程度上减少损失，首先，公司应确定保证企业运营的重要功能、流程，每个重要部门必须有自己独立的危机处理计划，以免导致全面失败。危机计划需要经过反复演练，保证其有效性，需要所有涉及人员都对情况保持敏感，尽最大可能处理危机，这才能让危机发生时所有团队成员更快、更有效地处理。[8]
+结构-功能系统理论[编辑]
+结构-功能理论提出，信息披露网络的精细性和企业披露信息的层面。结构-功能理论把企业的信息流分为“网络”和“链接”。信息在组织内的流动称为网络。[9]
+创新扩散理论[编辑]
+埃弗雷特·罗格斯的信息扩散理论说，创新是在一段时间内，通过一定的渠道进行沟通和扩散的。创新扩散发生在一个个人将新想法讲给其他人或几个人听的时候，作为最基本的方式，这个过程包括(1)有一个创新想法 (2)一个个体有使用或感知创新的经验 (3)另一个个体或其他单位还没有创新的知识 (4)一个沟通渠道将两个个体链接。
+危机领导力[编辑]
+James将危机发生后，企业重组过程中的领导力分为五个方面：
+
+建立信任环境
+改革企业思维
+发现明显、隐藏的企业脆弱点
+做出明智、快速的决定，以及有勇气的行为
+从危机中学习、分享经验
+
+社交媒体的危机管理[编辑]
+社交媒体加速了危机传播的速度，社交网络如推特等的病毒式传播，让企业相关者可以比传统媒体更快地发布信息，让危机管理更加困难。[10]但是可以通过正确的训练、正确的政策加以弥补，以及采取正确的社交媒体监控工作，来发现可能爆发的危机。[11]社交网络也让危机处理团队可以随时接触、公布信息，了解危机如何影响股东的情绪，以及其他相关社会内容。
+危機管理三步驟[编辑]
+
+預防：管理者採取行動，試圖預防危機發生，並偵測到潛在危機的警訊。此階段不可或缺的部分是要與利害關係人建立關係，開誠布公的溝通能使組織及其利害關係人更加了解彼此，也能幫助管理者在問題擴大之前，及早找出問題所在。
+準備：在問題發生時做出詳盡的規劃來加以應對。這樣的規劃過程應包含指派一組跨越各種功能的人士，在危機發生時採取行動。危機管理計畫(CMP)應該是一份詳盡的書面資料，明確規範在危機發生時誰應採取什麼步驟，還有一個重要的部分是通訊計畫，用來指派一個危機指揮中心，並設立完整的溝通與訊息傳遞系統。
+防堵：側重在組織對於一個真實危機的反應，以及所有後續動作，迅速反應是很重要的，除此之外，坦承也是重大的關鍵，且組織應該說法一致，避免眾說紛紜。
+
+危机管理成功案例[编辑]
+泰诺事件 (强生公司)[编辑]
+在1982年秋天，有人将65毫克氰化物加入商店的泰诺感冒药胶囊中，导致七人死亡。强生立即召回、销毁了3100万颗胶囊，总价值1亿美元，当时的CEO詹姆斯出现在电视广告和新闻发布会中，说明了公司采取的行动。公司立刻采取了防拆包装，泰诺的销量立刻恢复到危机前的水平。[12]
+奥德瓦拉食品事件[编辑]
+美国食品制造商奥德瓦拉公司的苹果汁被认为导致了大肠杆菌感染，公司丧失了三分之一市场份额。在1996年10月，大肠杆菌在美国华盛顿州爆发，溯源到一种没有经过巴氏灭菌法的苹果汁，来自于奥德瓦拉公司。报告了49个案例，包括儿童死亡。24小时内，奥德瓦拉向FDA和华盛顿健康署申报，建立了每天新闻披露机制，每天定时播出召回最新情况，表达同情、抱歉，并且对所有受害者承担责任，详述大肠杆菌的并发症，并向消费者解释如何处理感染商品。奥德瓦拉通过咨询公司的帮忙，建立了加热工序，在不损害食品味道的情况下，恢复了食品安全性。所有这些信息公布都是通过电视和报纸媒体。
+美泰公司[编辑]
+芭比娃娃制造商美泰公司在2007年夏天有28款产品面临召回，公司用尽了所有新闻发布手段，从消费者和零售商获得了高分。尽管形势攸关，他们都感谢公司的答复。美泰公司在联邦官员发出了召回通知后，立刻组成16人的公关小组，给40家最大的媒体打电话，通知他们注意收召回的最新情况邮件，邀请媒体参加电视会议，并且邀请了约20名记者进行采访。在当周结束时，美泰共答复了约300次美国境内媒体询问。[13]
+百事公司[编辑]
+百事集团在1993年遇到危机，在其百事可乐中发现了注射器。百事要求所有店面在调查前不要下架产品，从而逮捕一人，百事立即发出第一条新闻播报，展示了生产流程，说明工厂污染不可能发生。第二条新闻播报显示了被逮捕的人，第三条新闻显示了一家便利店的监控录像。公司同时和FDA公开合作，公司的话语应答机制完全透明，每一个百事员工都可以提供更多细节。[來源請求]这让整场危机中所有信息透明，在危机解决后，公司采取了一系列特殊的营销机制，例如优惠券等，弥补了进一步损失。[14][來源請求]
+危机对股东的影响[编辑]
+一项危机管理中最前沿的研究是危机如何影响企业的股价，这个研究系统性研究在危机发生后股价的变动，研究了股价恢复甚至超越了危机前的公司(恢复者)，和股价没有恢复的公司(未恢复者)。危机对股东价值的量化研究显示，恢复者提升了原有基础上5%的股价，所有危机转化为机遇后，甚至是一种积极的影响，未恢复者在发生危机的5到50天内没有收到太大影响，但是在一年后导致股价下跌近15。
+公共领域的危机管理[编辑]
+美国早就开始了公共领域的危机管理研究，不管是学校枪击事件，健康事件或恐怖袭击事件，都试图让公共心理尽快恢复。没有社会是对危机免疫的，在现实中，正确的危机管理策略、政策和实践都需要经过多次演练进行发展。
+职业机构[编辑]
+有很多职业机构提供相关的危机管理的应对、文书撰写、媒体联络、危机转化方面的研究和实践。
+1. Turnaround Management Society (欧洲主要机构，服务全球) 2. Institute for Turnaround (英国机构) 3. Turnaround Management Association (服务全球) 4. Institut für die Standardisierung von Unternehmenssanierungen (德国机构)
+参见[编辑]
+
+常用预警协议
+危机计划
+危机
+跨文化沟通
+危机服务
+紧急管理
+美国联邦紧急管理机构
+ISO/TC 223社会安全法
+管理
+例外管理
+风险管理
+社会责任
+
+参考[编辑]
+
+
+^ Shrivastava, P. Mitroff, I.I., Miller, D. and A. Miglani, " Understanding industrial crises".Journal of Management Studies, 1988, 25, 4, 285-304.
+^ Seeger, M. W.; Sellnow, T. L., & Ulmer, R. R. Communication, organization and crisis. Communication Yearbook. 1998, 21: 231–275.  引文使用过时参数coauthor (帮助)
+^ Venette, S. J. (2003). Risk communication in a High Reliability Organization: APHIS PPQ's inclusion of risk in decision making. Ann Arbor, MI: UMI Proquest Information and Learning.
+^ 4.0 4.1 4.2 Coombs, W. T. Ongoing crisis communication: Planning, managing, and responding. Thousand Oaks, CA: Sage. 1999. 
+^ 5.0 5.1 Lerbinger, O. The crisis manager: Facing risk and responsibility. Mahwah, NJ: Erlbaum. 1997. 
+^ Crisis Leadership. [2010-06-22]. 
+^ James, E. Leadership as (Un)usual: How to Display Competence InTimes of Crisis (PDF). Leadership Preview. Spring 2007 [2010-06-22]. （原始内容 (PDF)存档于2010-07-05）. 
+^ 8.0 8.1 8.2 Rigor and Relevance in Management. 12Manage.com. [2007-10-11]. 
+^ Infante, D.; Rancer, A., & Womack, D. Building communication theory 3rd. Prospect Heights, IL: Waveland Press. 1997.  引文使用过时参数coauthors (帮助)
+^ See http://issuu.com/steelhenge/docs/socialmedia_crisis?mode=window&backgroundColor=%23222222
+^ Lewis, Adam. How to manage a social media crisis. （原始内容存档于2012-02-04）. 
+^ Dezenhall, E. Dead link. USA Today. 2004-03-17 [2007-10-08]. [失效連結]
+^ Goldman, A.; Reckard, E. Dead link. LA Times. 2007 [2007-10-13].  引文使用过时参数coauthor (帮助)[失效連結]
+^ The Pepsi Product Tampering Scandal of 1993. [7 September 2009]. 
+
+
+
+更多阅读[编辑]
+
+Barton, L. Crisis leadership now: A real-world guide to preparing for threats, disaster, sabotage, and scandal. New York, NY: McGraw-Hill. 2007. 
+Borodzicz, Edward P. Risk, Crisis and Security Management. West Sussex, England: John Wiley and Sons Ltd. 2005. 
+Coombs, W. T. Code Red in the Boardroom: Crisis Management as Organizational DNA. Westport, CT: Praeger. 2006. 
+Office of Security and Risk Management Services. Crisis Management Workbook (PDF). Fairfax County Public Schools. October 2007. （原始内容 (PDF)存档于2007-12-02）. 
+Davidson, M.N. Ethics in Human Resource Management, in P.H. Werhane, R. E. Freeman (Eds.), Blackwell Encyclopedic Dictionary of Business Ethics. Malden, MA: Blackwell Publishing. 2005. 
+Davidson, M.N. Leading in Black and White: Working across the Racial Divide in Corporate America. Personnel Psychology. 2004, 75 (2). 
+Davidson, M.N. Here and There: A Conversation about Identity. Industrial-Organizational Psychologist. 2004, 41 (3). 
+Davidson, M.N. Diversity that matters. Batten Briefings. 2004, 3 (1). 
+Davidson, M.N. Making the Tough Calls: Negotiating Exclusion in Inclusive and Diverse Organizations. Industrial-Organizational Psychologist. 2003, 41 (1). 
+Davidson, M.N. Leveraging Difference for Organizational Excellence. Batten Briefings. 2003, 2 (1). 
+Davidson, M.N. Inclusion and Power: Reflections on Dominance and Subordination in Organizations. Industrial-Organizational Psychologist. 2002, 40 (1). 
+Davidson. Diversity and inclusion: What difference does it make?. Industrial-Organizational Psychologist. 2001, 39 (2). 
+Davidson, M.N. The impact of race on styles of dealing with conflict. Sex Roles. 2001, 45 (5/6). 
+Davidson, M.N. Mentoring in the preparation of ethnically diverse graduate students. Review of Educational Research. 2001, 71 (4). 
+Davidson, M.N. The role of emotion in negotiation: The impact of anger. In R.J. Bies, R.J. Lewicki, B.H. Sheppard, (Eds.), Research on Negotiation in Organizations. Greenwich, CT: JAI Press Inc. 1999. 
+Davidson, M.N. The value of being included: An examination of diversity change initiatives in organizations. Performance Improvement Quarterly. 1999, 12 (1). 
+Dezenhall, E. Nail 'em!: Confronting high-profile attacks on celebrities & businesses. Amherst, New York: Prometheus Books. 2003. 
+Dezenhall, E.; Weber, J. Damage control: Why everything you know about crisis management is wrong. Portfolio Hardcover. 2007.  引文使用过时参数coauthor (帮助)
+Erickson, Paul A. Emergency Response Planning for Corporate and Municipal Managers 2nd. Burlington, MA: Elsevier, Inc. 2006. 
+Feltus, Christophe; Djamel Khadraoui, Cedric Bonhomme. Electric Blackout Prevention: Toward a Computer-Mediated Weather Alert Broadcasting Solution. International Conference on Society and Information Technologies. April 6th-9th.  引文使用过时参数coauthors (帮助); 请检查|date=中的日期值 (帮助)
+Ferdman. Inclusion: What can I and my organization do about it?. Industrial-Organizational Psychologist. 2002, 39 (4). 
+Ferdman. Drawing the line: Are some differences too different?. Industrial-Organizational Psychologist. 2002, 39 (3). 
+Fink, S. Crisis management: Planning for the inevitable. Backinprint.com. 2007. 
+Friedman, R.A. Managing diversity and second-order conflict. Journal of Conflict Management. 2001, 12 (2). 
+Friedman, R.A. The role of emotion in negotiation: The impact of anger. In R.J. Bies, R.J. Lewicki, B.H. Sheppard, (Eds.), Research on Negotiation in Organizations. Greenwich, CT: JAI Press Inc. 1999. 
+Mitroff, Ian I.; Gus Anagnos. Managing Crises Before They Happen: What Every Executive Needs to Know About Crisis Management. New York: AMACOM. 2000.  引文使用过时参数coauthor (帮助)
+Mitroff, Ian I. Crisis Leadership: Planning for the Unthinkable. New York: John Wiley. 2003. 
+Mitroff, Ian I. Why Some Companies Emerge Stronger And Better From a Crisis: Seven Essential Lessons For Surviving Disaster. New York: AMACOM. 2005. 
+Contains a collection of articles on crisis management. Public Relations Review. 
+Department of Homeland Security, Federal Emergency Management Agency. National Response Plan. September 2007. （原始内容存档于2011-02-28）. 
+Shrivastava, Paul. Bhopal:Anatomy of a crisis. New York: Ballinger. 1987. 
+Smith, Larry; Dan Millar, PhD. Before Crisis Hits: Building a Strategic Crisis Plan. Washington, DC: AACC Community College Press. 2002.  引文使用过时参数coauthor (帮助)
+Smith, Larry; Dan Millar, PhD. Crisis Management and Communication; How to Gain and Maintain Control 2nd. San Francisco, CA: International Association of Business Communicators. 2002.  引文使用过时参数coauthor (帮助)
+Ulmer, R. R.; Sellnow, T. L., & Seeger, M. W. Effective crisis communication: Moving from crisis to opportunity. Thousand Oaks, CA: Sage Publications. 2006.  引文使用过时参数coauthor (帮助)
+
+外部链接[编辑]
+
+Crisis management and business continuity planning. 2007. United Kingdom Government Business Link.
+Crisis Manager Newsletter, a free collection of 600+ articles on crisis management-related topics.
+Crisis Management and Communication Entry Institute for Public Relations article
+CRISIS MANAGEMENT AND BUSINESS CONTINUITY A short program offered at MIT
+TURNAROUND MANAGEMENT ASSOCIATION Certifying Body for Certified Turnaround Professionals/Crisis Managers
+The International Research Group on Crisis Communication Publications and crisis institutions database
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+災害
+
+
+
+
+
+
+概論
+
+
+
+人為災害（英语：List of man-made disasters）
+意外事故
+交通事故
+工業災難
+火災
+海難
+空難
+戰爭
+恐怖活動
+食品安全
+災害列表
+事故與災害死亡人數列表（英语：List of accidents and disasters by death toll）
+災害財產損失列表（英语：List of disasters by cost）
+
+
+
+
+
+
+
+
+種類
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+自然灾害
+
+
+
+
+
+
+按現象分類
+
+
+
+
+
+
+氣象與氣候
+災害
+
+
+
+
+
+
+
+風災
+
+
+
+
+氣旋
+
+熱帶氣旋
+
+颱風
+
+
+副熱帶氣旋
+副溫帶氣旋
+溫帶氣旋
+
+
+龍捲風
+塵捲風
+沙尘暴
+塵捲風
+
+
+
+
+
+
+
+
+
+寒災
+
+
+
+
+寒潮
+雪暴
+
+
+
+
+
+
+
+
+
+火災
+
+
+
+
+山火
+
+
+
+
+
+
+
+
+
+旱災
+
+
+
+
+乾旱
+乾枯
+
+
+
+
+
+
+
+
+
+水災
+
+
+
+
+洪水
+
+
+
+
+
+
+
+雷、雷暴
+熱浪
+厄尔尼诺现象
+拉尼娜现象
+全球暖化
+冰雹
+雾害
+霾害
+
+
+
+
+
+
+
+
+
+地理災害
+
+
+
+
+
+
+地震學
+
+
+
+
+地震
+海嘯
+火山噴發
+湖底噴發
+板塊運動
+
+
+
+
+
+
+
+
+
+地質學
+
+
+
+
+崩壞作用
+
+雪崩
+山崩
+泥石流
+
+
+倒塌
+地層下陷
+水土流失
+
+
+
+
+
+
+
+
+
+
+
+
+生物災害
+
+
+
+
+傳染病
+流行病
+
+瘟疫
+
+
+病媒蚊
+
+蚊疫
+
+
+蝗災
+饑荒
+虫害
+鼠害
+
+
+
+
+
+
+
+
+
+水文災害
+
+
+
+
+洪災
+酸雨
+海冰
+凌汛
+赤潮
+风暴潮
+海洋災害
+鋒面雨
+
+梅雨
+
+
+對流雨
+
+
+
+
+
+
+
+
+
+天文災害
+
+
+
+
+撞擊事件
+伽瑪射線暴
+太陽耀斑
+超新星
+極超新星
+磁暴
+电商层扰动
+
+
+
+
+
+
+
+
+
+複合型災害
+
+
+
+
+氣旋
+
+熱帶氣旋
+副熱帶氣旋
+溫帶氣旋
+副溫帶氣旋
+
+
+鋒面雨
+
+梅雨
+
+
+對流雨
+地震
+火山噴發
+撞擊事件
+
+
+
+
+
+
+
+
+
+
+
+按物質分類
+
+
+
+
+
+地、石、塵
+
+
+
+
+地震
+山崩
+泥石流
+火山
+
+火山泥流
+
+
+沙尘暴
+塵捲風
+霾
+撞擊事件
+
+
+
+
+
+
+
+
+
+水
+
+
+
+
+
+
+液體
+
+
+
+
+洪水
+海嘯
+酸雨
+
+
+
+
+
+
+
+
+
+固體
+
+
+
+
+雪崩
+雪暴
+海冰
+冰雹
+
+
+
+
+
+
+
+
+
+氣體
+
+
+
+
+氣旋
+
+熱帶氣旋
+副熱帶氣旋
+溫帶氣旋
+副溫帶氣旋
+
+
+龍捲風
+雾
+湖底噴發
+雪暴
+
+
+
+
+
+
+
+
+
+
+
+
+火
+
+
+
+
+山火
+
+
+
+
+
+
+
+
+
+
+
+列表
+
+
+
+自然災害死亡人數列表（英语：List of natural disasters by death toll）
+洪災列表（英语：List of floods）
+火災列表
+
+山火列表（英语：List of wildfires）
+
+
+熱帶氣旋列表（英语：List of tropical cyclones）
+溫帶氣旋列表
+地震列表
+
+
+
+
+
+
+
+
+
+ 災害 ·  地球科學 ·  災害
+
+
+
+
+
+
+
+
+
+
+
+意外事故
+與
+人為災害
+
+
+
+
+
+
+
+運輸
+
+
+
+
+鐵路事故列表
+海難列表
+
+沉船列表（英语：Lists of shipwrecks）
+
+
+商業客機事故列表
+軍用飛機空難列表
+造成至少50人死亡的空难列表
+
+
+
+
+
+
+
+
+
+工業災難
+
+
+
+
+礦難列表
+結構性倒塌事故列表（英语：List of structural failures and collapses）
+大橋倒塌事故列表（英语：List of bridge failures）
+水壩潰決事故列表
+核事故列表
+核事故死亡人數列表（英语：List of nuclear and radiation accidents by death toll）
+民用輻射事故列表（英语：List of civilian radiation accidents）
+民用核事故列表（英语：List of civilian nuclear accidents）
+軍用核事故列表（英语：List of military nuclear accidents）
+漏油事故列表（英语：List of oil spills）
+堤防
+桅杆和塔樓事故列表（英语：List of catastrophic collapses of broadcast masts and towers）
+現代建築倒塌事故列表（英语：List of modern infrastructure failures）
+太空探索事故列表（英语：List of spaceflight-related accidents and incidents）
+
+
+
+
+
+
+
+
+
+健康
+
+
+
+
+飢荒列表
+流行病列表（英语：List of epidemics）
+醫療事故列表
+食品安全事故列表
+
+
+
+
+
+
+
+
+
+行為
+
+
+
+
+戰爭死亡人數列表（英语：List of wars and anthropogenic disasters by death toll）
+戰爭和暴力事件死亡人數列表（英语：List of battles and other violent events by death toll）
+環境災害列表（英语：List of environmental disasters）
+軍事災害（英语：List of military disasters）
+戰爭列表
+恐怖活動列表
+暴動列表（英语：List of riots）
+大屠殺列表
+革命和叛亂列表
+
+
+
+
+
+
+
+
+
+火災
+
+
+
+
+火災列表
+夜總會火災列表（英语：List of nightclub fires）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+對策
+
+
+
+荒政
+人道援助
+預警系統
+人口危險預警
+地震預警系統
+大規模撤離列表（英语：List of mass evacuations）
+災害管理
+危機管理
+颶風防備（英语：Hurricane preparedness）
+減災
+灾难医疗
+日本
+
+日本防灾警报列表
+緊急警報廣播
+緊急地震速報
+全国瞬时警报系统
+
+
+中华民国
+
+災防告警細胞廣播訊息系統
+強震即時警報
+中央氣象局颱風警報
+天然災害停止上班及上課作業辦法
+
+
+中华人民共和国
+
+国家突发公共事件应急响应机制
+突发气象灾害预警信号
+海洋灾害预警报标示符
+水情预警信号
+香港天文台警告信号系统
+澳门地球物理暨气象局警告信号系统
+国家地震烈度速报与预警工程
+ICL地震预警技术系统
+
+
+美國
+
+紧急广播系统
+紧急报警系统
+
+
+墨西哥
+
+墨西哥地震预警系统
+
+
+
+
+
+
+
+
+
+
+媒體
+
+
+
+災難片
+災難紀錄片（英语：Category:Documentary films about disasters）
+災難題材作品列表
+
+
+
+
+
+
+
+
+組織
+
+
+
+Global Risk Forum GRF Davos（英语：Global Risk Forum GRF Davos）
+災害管理國際協會（英语：International Association of Emergency Managers）
+國際減災會議（英语：International Disaster and Risk Conference）
+災害問責制計劃（英语：Disaster Accountability Project）
+國際災害緊急服務（英语：International Disaster Emergency Service）
+懲教緊急應變隊
+中华人民共和国
+
+国家防汛抗旱总指挥部
+国家森林防火指挥部
+国务院抗震救灾指挥部
+国务院安全生产委员会
+
+
+中华民国中央灾害应变中心
+美国太平洋海啸警报中心
+
+
+
+
+
+
+
+
+各地災害
+
+
+
+香港災害列表
+台灣災難列表
+
+
+
+
+
+
+
+
+
+
+
+灾难分類
+災害主題
+災害管理專題
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+管理学
+
+
+
+
+
+
+
+
+
+商業管理學大綱（英语：Outline of business management）
+管理學文章列表（英语：Index of management articles）
+
+
+
+
+
+
+
+
+依照組織類別
+
+
+
+學術（英语：Academic administration）
+組織（英语：Association management）
+企業
+
+餐飲（英语：Restaurant management）
+
+
+醫療（英语：Health administration）
+軍旅（英语：Military administration）
+公共
+
+
+
+
+
+
+
+
+依照 (組織內部
+焦點)
+
+
+
+
+範圍
+
+
+
+
+策略
+
+
+
+能力（英语：Capability management）
+應變
+溝通（英语：Communications management）
+財務
+創新（英语：Innovation management）
+績效
+風險
+系統（英语：Systems management）
+
+
+
+
+
+
+
+
+部件
+
+
+
+設施
+產品（英语：Product management）
+
+生命周期
+品牌
+
+
+計畫（英语：Program management）
+專案
+
+營建工程
+
+
+
+
+
+
+
+
+
+
+
+
+
+活動或部門
+
+
+
+
+產線（英语：Line management）
+
+
+
+行銷
+營運（英语：Operations management）/生產（英语：Manufacturing process management）
+
+流程（英语：Process management）
+品質
+
+
+銷售（英语：Sales management）
+
+
+
+
+
+
+
+
+員工（英语：Staff management）
+
+
+
+會計（英语：Accounting management）
+辦公（英语：Office management）
+記錄（英语：Records management）
+
+
+
+
+
+
+
+
+
+
+
+方面或關係
+
+
+
+客戶
+工程
+物流
+感知（英语：Perception management）
+供應鏈
+人才（英语：Talent management）
+
+
+
+
+
+
+
+
+問題
+
+
+
+衝突（英语：Conflict management）
+危機
+壓力
+
+
+
+
+
+
+
+
+資源（英语：Resource management）
+
+
+
+環境
+人力
+資訊
+資訊科技
+知識
+土地
+材料（英语：Materials management）
+技能（英语：Skills management）
+庫存（英语：Stock management）
+技術（英语：Technology management）
+時間
+
+
+
+
+
+
+
+
+
+
+
+職位
+
+
+
+臨時
+干部
+主管
+
+
+
+
+
+
+
+
+方法
+
+
+
+靈活（英语：Adhocracy）
+協作（英语：Collaborative method）
+分散（英语：Distributed management）
+實獲值
+循證（英语：Evidence-based management）
+目標
+風格
+宏觀
+微觀
+科學
+公益
+團隊（英语：Team building）
+虛擬（英语：Virtual management）
+
+
+
+
+
+
+
+
+技巧
+
+
+
+決斷
+决策
+預測（英语：Forecasting）
+領導力
+
+
+
+
+
+
+
+
+先驅與學者
+
+
+
+彼得·德鲁克
+伊利雅胡·高德拉特
+奥利弗·威廉姆森
+
+
+
+
+
+
+
+
+教育
+
+
+
+商学院
+學位
+
+工商管理學士
+工商管理碩士
+博士（英语：PhD in management）
+
+
+組織研究（英语：Organizational studies）
+認證業務經理（英语：Certified Business Manager）
+特許管理學院（英语：Chartered Management Institute）
+重要管理研究（英语：Critical management studies）
+美國技術管理與應用工程協會（英语：Association of Technology, Management, and Applied Engineering）
+
+
+
+
+
+
+
+
+其他
+
+
+
+企业经济学
+管理心理学
+公司治理
+管理咨询
+管理主義
+組織發展理論
+合作
+控制（英语：Control (management)）
+管理發展（英语：Management development）
+管理系統（英语：Management system）
+管理經濟學（英语：Managerial economics）
+管理模控學（英语：Management cybernetics）
+組織行為學（英语：Organizational behavior management）
+管理風潮（英语：Management fad）
+呆伯特尖毛老闆（英语：Pointy-haired Boss）
+主管薪酬（英语：Executive compensation）
+威廉姆森的管理限度模型（英语：Williamson's model of managerial discretion）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：危機管理政府隐藏分类：含有过时参数的引用的页面带有失效链接的条目调用重复模板参数的页面自2012年9月有未列明来源语句的条目有未列明来源语句的条目引文格式1错误：日期

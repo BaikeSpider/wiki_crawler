@@ -1,0 +1,293 @@
+食物鏈
+
+
+
+
+一個瑞典湖泊的食物鏈。由下而上：藻類、蚤狀鈎蝦、鮊魚、鱸魚、白斑狗魚、魚鷹。
+
+
+食物鏈是表示物種之間的食物組成關係，在生態學中能代表物質和能量在物種之間轉移流動的情況。
+雖然生態系統中的生物種類眾多，亦於生態系統分別扮演著不同的角色，但根據它們在能量和物質中所引起的作用，可以被分類為生產者、消費者和分解者三個類別。最底層是“生產者”，是以陽光來行使光合作用，自行用水和二氧化碳等無機物合成有機物的綠色植物；再上層是各級“消費者”，要依賴生產者供應物質和能量；當消費者死亡以後，“分解者”會以他們的屍體為食物。[1]
+而還有一個「清除者」，是一個生態系統中擔任清除性工作的生物。這些生物把生態系統中的「生產者」與「消費者」的遺體或排遺作為食物，具有「分解者」將大分子物質轉換為小分子物質的能力，卻又無法如「分解者」般將所攝食的有機物質轉變成無機物。與「生產者」可以將小分子無機物合成為大分子有機物的能力更是不相干。因此在某些定義中接近於「消費者」，卻又兼具有「分解者」的某些特質，因此在生態系統中被單獨歸為一類，被稱為「清除者」。換句話說「清除者」可視為「腐食性消費者」，這些生物將大分子有機物轉換為小分子有機物，例如禿鷹吃腐屍，螞蟻吞食昆蟲遺骸，而溪流、河口等水域生態系中的螃蟹、蝦子等攝食泥土中的有機質碎屑也是一例，這些有機質碎屑除了植物的枯枝落葉之外，還有許多經過其他動物消化過的小分子有機物。這些「清除者」無法清除的部分再交棒給「分解者」處理，減輕生態系統中「分解者」的工作量，加速生態環境中的能量與碳循環。若是所有的生物殘骸或排遺皆由「分解者」直接分解，生態系統中從有機物轉換為無機物的速率將遠小於有機物質的堆積，能量與物質無法順利傳遞循環，生態系統就會失去平衡。[2]
+
+
+
+目录
+
+
+1 食物链
+2 食物网
+3 参见
+4 註釋
+
+
+
+食物链[编辑]
+食物鏈（food chain）這個詞是英國動物學家查爾斯·艾爾頓於1927年首次提出的。食物鏈包括幾種類型：捕食性、寄生性、腐生性、碎食性等，不同營養層的物種組成一個鏈條。例如：
+浮游生物 → 軟體動物 → 魚類 → 烏賊 → 海豹 → 虎鯨
+食物网[编辑]
+但是各种生物未必只依赖一种食物为生，互相之间甚至还有互为食物的关系，例如民间根据观察曾经有“夏季蛇吃老鼠，冬季老鼠吃蛇”的说法，因为冬季冬眠的蛇无法反抗掘地的老鼠。这些复杂的关系往往不是一根链条能说明的，把各种关系联系起来就会组成一个“食物网”。
+
+
+
+
+
+乞沙比克灣水鳥的食物網。
+
+
+
+参见[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：食物鏈
+
+
+
+自养生物
+異營生物
+生態塔
+掠食者—獵物方程
+
+註釋[编辑]
+
+
+^ Briand, F.; Cohen, J. E. Environmental correlates of food chain length. (PDF). Science. 1987, (4829): 956–960. doi:10.1126/science.3672136. （原始内容 (PDF)存档于2012-04-25）. 
+^ Post, D. M.; Pace, M. L.; Haristis, A. M. Parasites dominate food web links (PDF). Proceedings of the National Academy of Sciences. 2006, 103 (30): 11211–11216. doi:10.1073/pnas.0604755103. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+模型化生态系统
+
+
+
+
+
+
+
+
+
+
+ 
+模型化生态系统 - 营养构成要素
+
+
+
+
+
+
+
+
+
+
+总论
+
+非生物因子 · 非生物压力（英语：Abiotic stress） · 行为生态学（英语：Behavioral ecology） · 生物地質化學循環 · 生物量 · 生物因子（英语：Biotic component） · 生物压力（英语：Biotic stress） · 环境承载力 · 竞争（英语：Competition (biology)） · 生态系统 · 生态系统生态学（英语：Ecosystem ecology） · 生態系統模型（英语：Ecosystem model） · 关键物种 · 摄食行为列表（英语：List of feeding behaviours） · 生态学代谢学说（英语：Metabolic theory of ecology） · 生态生产力（英语：Productivity (ecology)）
+
+
+
+
+
+
+
+
+
+生产者（英语：Primary producers）
+
+自养生物 · 化能合成 · 化能生物 · 基础物种（英语：Foundation species） · 混合营养生物（英语：Mixotroph） · 霉菌异养（英语：Myco-heterotrophy） · 菌根营养生物（英语：Mycotroph） · 有机营养生物（英语：Organotroph） · 光能异养生物（英语：Photoheterotroph） · 光合作用 · 光合效率（英语：Photosynthetic efficiency） · 光养生物 · 基本營養類型 · 初级生产
+
+
+
+
+
+
+消费者
+
+顶级掠食者 · 食细菌生物（英语：Bacterivore） · 食肉动物 · 化能有机营养生物 · 觅食（英语：Foraging） · 泛化种与特化种（英语：Generalist and specialist species） · Intraguild predation · 食草动物 · 異營生物 · 异养营养（英语：Heterotrophic nutrition） · 食虫类（英语：Insectivore） · 中间捕食者释放假说（英语：Mesopredator release hypothesis） · 雜食動物 · 最优觅食理论（英语：Optimal foraging theory） · 捕食 · 猎物转换（英语：Prey switching）
+
+
+
+
+
+
+分解者
+
+
+
+化能有机营养生物
+分解作用
+腐生营养
+有機碎屑（英语：Detritus）
+
+
+
+
+
+
+
+
+微生物
+
+古菌 · 噬菌体 · 微生物生態學 · 无机自养生物（英语：Lithoautotroph） · 无机营养生物（英语：Lithotrophy） · 微生物合作（英语：Microbial cooperation） · 微食物网（英语：Microbial food web） · 微生物智能（英语：Microbial intelligence） · 微食物环（英语：Microbial loop） · 微生物席（英语：Microbial mat） · 微生物代谢（英语：Microbial metabolism） · 噬菌体生态学（英语：Phage ecology）
+
+
+
+
+
+
+食物網
+
+生物放大作用 · 生態效率（英语：Ecological efficiency） · 生態塔 · 能量流（英语：Energy flow (ecology)） · 食物鏈 · 營養級
+
+
+
+
+
+
+食物網例子
+
+冷泉 · 海底熱泉 · 潮間帶（英语：Intertidal ecology） · 海藻林 · 湖泊 · 北太平洋副熱帶環流 · 河流 · 舊金山河口生態系統（英语：Ecology of the San Francisco Estuary） · 土壤食物網（英语：Soil food web） · 海潮水坑
+
+
+
+
+
+
+過程
+
+Ascendency · 生物累積 · 頂極群落 · 競爭排除原則 · Consumer-resource systems · Copiotrophs · 生態網絡（英语：Ecological network） · 生態演替 · 能質 · 能量系統語言（英语：Energy Systems Language） · f-ratio · 飼料轉化率（英语：Feed conversion ratio） · 大魚吃小魚 · Mesotrophic soil · 養分循環（英语：Nutrient cycle） · Oligotroph · 浮游生物的悖論（英语：Paradox of the plankton） · 营养级联（英语：Trophic cascade） · 营养互利共生（英语：Trophic mutualism） · 营养状态指数（英语：Trophic state index）
+
+
+
+
+
+
+防衞/對抗
+
+
+
+動物的色彩（英语：Animal coloration）
+反捕食適應（英语：Anti-predator adaptation）
+偽裝
+植物对食草动物的防御（英语：Plant defense against herbivory）
+擬態
+Predator avoidance in schooling fish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+模型化生态系统 - 其他構成要素
+
+
+
+
+
+
+
+
+
+
+種群生態學
+
+豐度（生態學）（英语：Abundance (ecology)） · 阿利效應（英语：Allee effect） · 逆補償作用（英语：Depensation） · 生態收益（英语：Ecological yield） ·  · 有效群體大小 · 種內競爭 · Logistic函数 · 馬爾薩斯增長模式 · 最大持續產量（英语：Maximum sustainable yield） · 野生動物個體數過剩（英语：Overpopulation in wild animals） · 過度開發 · 種群週期（英语：Population cycle） · 種群動態學（英语：Population dynamics） · 種群模型（英语：Population model） · 種群大小（英语：Population size） · 生態穩定性
+
+
+
+
+
+
+
+
+
+物種
+
+生物多樣性 · 密度制約  · 物種多樣性的生態學影響（英语：Ecological effects of biodiversity） · 生態滅絕（英语：Ecological extinction）  · 特有種  · 旗艦種  · 梯度分析（英语：Gradient analysis）  · 指示種（英语：Indicator species） · 外來種 · 入侵物種 · 物種多樣性與緯度（英语：Latitudinal gradients in species diversity） · 最小可生存種群（英语：Minimum viable population） · 中性理論 · 種群生存力分析（英语：Population viability analysis） · 優先效應 · 拉波波特法則（英语：Rapoport's rule） · 物種多樣性 · 物種同次性（英语：Species homogeneity） · 物種豐富度 · 物種分佈（英语：Species distribution） · 物種面積曲綫 · 傘護種
+
+
+
+
+
+
+種間關係
+
+抗生（英语：Antibiosis） · 種間關係 · 偏利共生 · 群落生態學（英语：Community (ecology)） · 種間競爭（英语：Interspecific competition） · 互利共生 · 存儲效應（英语：Storage effect）
+
+
+
+
+
+
+空間生態學（英语：Spatial ecology）
+
+生物地理學 · Cross-boundary subsidy · 生態差異 · 交錯群落 · 生態型（英语：Ecotype） · 擾亂（英语：Disturbance (ecology)） · 邊緣效應 · 福斯特法則 · 棲息地細碎化 · 理想自由分佈（英语：Ideal free distribution） · 中度干扰假说（英语：Intermediate Disturbance Hypothesis） · 島嶼生物地理學（英语：Island biogeography） · 景觀生態學 · 景觀流行病學 · 景觀湖沼學（英语：Landscape limnology） · 集合種群（英语：Metapopulation） · 缀块动态学（英语：Patch dynamics） · r/K選擇理論 · Source–sink dynamics
+
+
+
+
+
+
+生態位
+
+生態位 · 生態陷阱（英语：Ecological trap） · 生態系統工程師（英语：Ecosystem engineer） · Environmental niche modelling · Guild · 動物棲地 · 海洋動物棲地（英语：Marine habitats） · 極限相似性（英语：Limiting similarity） · Niche apportionment models · 生態位構建（英语：Niche construction） · 生態位分化（英语：Niche differentiation）
+
+
+
+
+
+
+非攝食類網絡（英语：Non-trophic networks）
+
+Assembly rules · 貝特曼原理 · 生物發光 · 生態崩潰（英语：Ecological collapse） · 生態負債（英语：Ecological debt） · 生態赤字 · 生態能量學（英语：Ecological energetics） · 生態指示生物（英语：Ecological indicator） · 生态阈值（英语：Ecological threshold） · 生態系統多樣性 · 突現 · Extinction debt · 克萊伯定律 · 萊比錫最少量率（英语：Liebig's law of the minimum） · 臨界值法則（英语：Marginal value theorem） · 托森法則（英语：Thorson's rule） · 旱生演替系列（英语：Xerosere）
+
+
+
+
+
+
+其他
+
+异速生长 · Alternative stable state · 生態平衡 · 生物學數據可眎化（英语：Biological data visualization） · 構造理論（英语：Constructal law） · 漸變群（英语：Cline (biology)） · 生態經濟學 · 生態足跡 · 生態預測（英语：Ecological forecasting） · Ecological humanities · 生态化学计量学（英语：Ecological stoichiometry） · Ecopath · Ecosystem based fisheries · 髓石 · 演化生態學（英语：Evolutionary ecology） · 功能生態學（英语：Functional ecology） · 工業生態學 · 宏生態學（英语：Macroecology） · 微生態系統（英语：Microecosystem） · 自然環境 · 系統生態學（英语：Systems ecology） · 理論生態學
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：营养生态学系統生態學

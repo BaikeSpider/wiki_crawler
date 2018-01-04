@@ -44,3 +44,651 @@ crawl failed 20 פאליסי – 意第绪语 https://yi.wikipedia.org/wiki/%D7%
 政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
 crawl failed 20 Chèng-chhek – Chinese (Min Nan) https://zh-min-nan.wikipedia.org/wiki/Ch%C3%A8ng-chhek
 政策 https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96
+crawl failed 120 en-User-Tim Shell https://en.wikipedia.org/wiki/User:Tim_Shell
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 120 en-User-Jason Richey https://en.wikipedia.org/wiki/User:Jason_Richey
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 123 Taw https://en.wikipedia.org/wiki/User:Taw
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 145 en-User-Mav https://en.wikipedia.org/wiki/User:Mav
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 150 24.150.61.63 https://en.wikipedia.org/wiki/User:24.150.61.63
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 188 ja-利用者-太田尚志 https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:%E5%A4%AA%E7%94%B0%E5%B0%9A%E5%BF%97
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 312 ja-利用者-Kasuga~jawiki https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Kasuga~jawiki
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 351 維基掃描器 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E6%8E%83%E6%8F%8F%E5%99%A8
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 418 en-User-Aude https://en.wikipedia.org/wiki/User:Aude
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 423 en-User-Ral315 https://en.wikipedia.org/wiki/User:Ral315
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 432 Mitarbeiter – Wikimedia Deutschland https://wikimedia.de/wiki/T3:11
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 432 HipHop_deployment https://www.mediawiki.org/wiki/HipHop_deployment
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 432 Extension-Lucene-search https://www.mediawiki.org/wiki/Extension:Lucene-search
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 433 Wikipedian Justice http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1346311&http://en.wikipedia.org/wiki/Wikipedia
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 445 en-User-Ppgardne https://en.wikipedia.org/wiki/User:Ppgardne
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 445 en-User-Alexbateman https://en.wikipedia.org/wiki/User:Alexbateman
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 449 MediaWiki.org https://www.mediawiki.org/wiki/MediaWiki
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 450 en-Outline of Wikipedia https://en.wikipedia.org/wiki/Outline_of_Wikipedia
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 452 en-Racial bias on Wikipedia https://en.wikipedia.org/wiki/Racial_bias_on_Wikipedia
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 452 ja-要出典 https://ja.wikipedia.org/wiki/%E8%A6%81%E5%87%BA%E5%85%B8
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 452 en-Health information on Wikipedia https://en.wikipedia.org/wiki/Health_information_on_Wikipedia
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 454 en-The Signpost https://en.wikipedia.org/wiki/The_Signpost
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 455 en-Art+Feminism https://en.wikipedia.org/wiki/Art%2BFeminism
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 455 en-Wikipedian in residence https://en.wikipedia.org/wiki/Wikipedian_in_residence
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 455 en-Wikipedian of the Year https://en.wikipedia.org/wiki/Wikipedian_of_the_Year
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 471 en-Oscar van Dillen https://en.wikipedia.org/wiki/Oscar_van_Dillen
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 481 en-Mike Godwin https://en.wikipedia.org/wiki/Mike_Godwin
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 489 en-Aaron Halfaker https://en.wikipedia.org/wiki/Aaron_Halfaker
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 489 en-Dariusz Jemielniak https://en.wikipedia.org/wiki/Dariusz_Jemielniak
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 489 en-Hampton Catlin https://en.wikipedia.org/wiki/Hampton_Catlin
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 489 en-Danese Cooper https://en.wikipedia.org/wiki/Danese_Cooper
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 489 en-Bishakha Datta https://en.wikipedia.org/wiki/Bishakha_Datta
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 489 en-Arnnon Geshuri https://en.wikipedia.org/wiki/Arnnon_Geshuri
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 489 en-Guy Kawasaki https://en.wikipedia.org/wiki/Guy_Kawasaki
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 489 en-Luis Villa https://en.wikipedia.org/wiki/Luis_Villa
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 490 id-Pemadaman Wikipedia bahasa Inggris https://id.wikipedia.org/wiki/Pemadaman_Wikipedia_bahasa_Inggris
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 490 ru-Забастовка русской Википедии https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B1%D0%B0%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 492 en-1Lib1Ref https://en.wikipedia.org/wiki/1Lib1Ref
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 493 en-Litigation involving the Wikimedia Foundation https://en.wikipedia.org/wiki/Litigation_involving_the_Wikimedia_Foundation
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 494 en-List of Wikipedia controversies https://en.wikipedia.org/wiki/List_of_Wikipedia_controversies
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 497 en-Henryk Batuta hoax https://en.wikipedia.org/wiki/Henryk_Batuta_hoax
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 497 en-Church of Scientology editing on Wikipedia https://en.wikipedia.org/wiki/Church_of_Scientology_editing_on_Wikipedia
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 497 en-Hillsborough Wikipedia posts https://en.wikipedia.org/wiki/Hillsborough_Wikipedia_posts
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 497 en-MyWikiBiz https://en.wikipedia.org/wiki/MyWikiBiz
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 497 en-Chris Benoit double-murder and suicide https://en.wikipedia.org/wiki/Chris_Benoit_double-murder_and_suicide
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 497 en-Committee for Accuracy in Middle East Reporting in America https://en.wikipedia.org/wiki/Committee_for_Accuracy_in_Middle_East_Reporting_in_America
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 499 ru-Блокирование Википедии в России https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 505 en-WikiNodes https://en.wikipedia.org/wiki/WikiNodes
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 506 en-Books LLC https://en.wikipedia.org/wiki/Books_LLC
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 508 en-WikiReader https://en.wikipedia.org/wiki/WikiReader
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 509 en-Quadriga (award) https://en.wikipedia.org/wiki/Quadriga_(award)
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 514 en-Wikipedia in culture https://en.wikipedia.org/wiki/Wikipedia_in_culture
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 514 en-Bibliography of Wikipedia https://en.wikipedia.org/wiki/Bibliography_of_Wikipedia
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 515 en-Academic studies about Wikipedia https://en.wikipedia.org/wiki/Academic_studies_about_Wikipedia
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 515 en-Wikipedia Review https://en.wikipedia.org/wiki/Wikipedia_Review
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 515 en-Wikipediocracy https://en.wikipedia.org/wiki/Wikipediocracy
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 515 en-Wiki-Watch https://en.wikipedia.org/wiki/Wiki-Watch
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 515 en-The Iraq War- A Historiography of Wikipedia Changelogs https://en.wikipedia.org/wiki/The_Iraq_War:_A_Historiography_of_Wikipedia_Changelogs
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 516 en-Magna Carta (An Embroidery) https://en.wikipedia.org/wiki/Magna_Carta_(An_Embroidery)
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 517 en-Interpedia https://en.wikipedia.org/wiki/Interpedia
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 517 en-Digital Universe https://en.wikipedia.org/wiki/Digital_Universe
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 518 it-Nonciclopedia https://it.wikipedia.org/wiki/Nonciclopedia
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 518 fr-Vikidia https://fr.wikipedia.org/wiki/Vikidia
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 518 en-Veropedia https://en.wikipedia.org/wiki/Veropedia
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 518 pt-WikiZnanie https://pt.wikipedia.org/wiki/WikiZnanie
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 518 ru-Луркоморье https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D1%80%D0%BA%D0%BE%D0%BC%D0%BE%D1%80%D1%8C%D0%B5
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 521 q- https://zh.wikiquote.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 523 en- https://en.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 524 ceb- https://ceb.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 525 sv- https://sv.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 525 de- https://de.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 525 fr- https://fr.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 525 nl- https://nl.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 525 ru- https://ru.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 526 it- https://it.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 527 es- https://es.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 528 war- https://war.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 528 pl- https://pl.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 529 vi- https://vi.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 529 ja- https://ja.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 530 pt- https://pt.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 531 uk- https://uk.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 532 fa- https://fa.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 534 ar- https://ar.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 535 no- https://no.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 536 sh- https://sh.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 537 fi- https://fi.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 538 hu- https://hu.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 539 id- https://id.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 540 ko- https://ko.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 541 cs- https://cs.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 542 ro- https://ro.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 543 sr- https://sr.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 544 ms- https://ms.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 545 tr- https://tr.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 546 eu- https://eu.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 546 eo- https://eo.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 547 bg- https://bg.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 548 hy- https://hy.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 549 da- https://da.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 550 zh-min-nan- https://zh-min-nan.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 551 sk- https://sk.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 551 min- https://min.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 552 kk- https://kk.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 552 he- https://he.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 553 lt- https://lt.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 554 hr- https://hr.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 555 et- https://et.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 556 ce- https://ce.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 557 sl- https://sl.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 558 be- https://be.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 558 gl- https://gl.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 559 el- https://el.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 560 nn- https://nn.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 561 simple- https://simple.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 562 az- https://az.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 563 uz- https://uz.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 564 la- https://la.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 565 ur- https://ur.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 566 hi- https://hi.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 567 th- https://th.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 567 vo- https://vo.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 567 ka- https://ka.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 568 ta- https://ta.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 568 ht- https://ht.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 569 mk- https://mk.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 569 new- https://new.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 569 oc- https://oc.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 569 pms- https://pms.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 569 roa-rup- https://roa-rup.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 569 te- https://te.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 569 tl- https://tl.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 569 af- https://af.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 570 als- https://als.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 570 am- https://am.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 570 an- https://an.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 570 arz- https://arz.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 570 ast- https://ast.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 570 ba- https://ba.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 570 bat-smg- https://bat-smg.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 570 be-tarask- https://be-x-old.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 571 bn- https://bn.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 571 bpy- https://bpy.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 571 br- https://br.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 572 bs- https://bs.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 572 bug- https://bug.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 572 ckb- https://ckb.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 572 cv- https://cv.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 572 cy- https://cy.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 572 diq- https://diq.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 572 fy- https://fy.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 572 ga- https://ga.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 572 gd- https://gd.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 572 gu- https://gu.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 572 ia- https://ia.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 573 io- https://io.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 574 is- https://is.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 574 jv- https://jv.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 574 kn- https://kn.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 574 ku- https://ku.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 574 ky- https://ky.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 575 lb- https://lb.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 575 lmo- https://lmo.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 575 lv- https://lv.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 575 map-bms- https://map-bms.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 575 mg- https://mg.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 576 ml- https://ml.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 576 mr- https://mr.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 576 my- https://my.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 576 mzn- https://mzn.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 576 nap- https://nap.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 576 nds- https://nds.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 576 ne- https://ne.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 576 pnb- https://pnb.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 576 qu- https://qu.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 576 scn- https://scn.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 576 sco- https://sco.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 577 sq- https://sq.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 577 su- https://su.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 578 sw- https://sw.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 579 tg- https://tg.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 580 tt- https://tt.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 580 wa- https://wa.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 580 yo- https://yo.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 581 zh-yue- https://zh-yue.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 581 gan- https://gan.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 581 wuu- https://wuu.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 581 zh-classical- https://zh-classical.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 581 hak- https://hak.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 581 cdo- https://cdo.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 581 ug- https://ug.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 581 bo- https://bo.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 582 mn- https://mn.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 582 za- https://za.wikipedia.org/wiki/
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 591 维基语录 https://zh.wikiquote.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+維基百科 https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91
+crawl failed 594 en-Subfields of psychology https://en.wikipedia.org/wiki/Subfields_of_psychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 594 en-Basic science (psychology) https://en.wikipedia.org/wiki/Basic_science_(psychology)
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 599 en-Cross-cultural psychology https://en.wikipedia.org/wiki/Cross-cultural_psychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 599 en-Cultural psychology https://en.wikipedia.org/wiki/Cultural_psychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 599 en-Differential psychology https://en.wikipedia.org/wiki/Differential_psychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 606 en-Quantitative psychology https://en.wikipedia.org/wiki/Quantitative_psychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 615 en-Environmental psychology https://en.wikipedia.org/wiki/Environmental_psychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 620 en-Ontological hermeneutics https://en.wikipedia.org/wiki/Ontological_hermeneutics
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 621 en-Medical psychology https://en.wikipedia.org/wiki/Medical_psychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 621 en-Military psychology https://en.wikipedia.org/wiki/Military_psychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 621 en-Music psychology https://en.wikipedia.org/wiki/Music_psychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 621 en-Occupational health psychology https://en.wikipedia.org/wiki/Occupational_health_psychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 623 en-School psychology https://en.wikipedia.org/wiki/School_psychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 626 en-List of psychology organizations https://en.wikipedia.org/wiki/List_of_psychology_organizations
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 627 en-List of psychotherapies https://en.wikipedia.org/wiki/List_of_psychotherapies
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 627 en-List of important publications in psychology https://en.wikipedia.org/wiki/List_of_important_publications_in_psychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 627 en-List of psychological research methods https://en.wikipedia.org/wiki/List_of_psychological_research_methods
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 628 en-Timeline of psychology https://en.wikipedia.org/wiki/Timeline_of_psychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 628 en-Index of psychology articles https://en.wikipedia.org/wiki/Index_of_psychology_articles
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 629 en-List of regions in the human brain https://en.wikipedia.org/wiki/List_of_regions_in_the_human_brain
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 629 en-Clinical neuropsychology https://en.wikipedia.org/wiki/Clinical_neuropsychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 629 en-Cognitive neuropsychology https://en.wikipedia.org/wiki/Cognitive_neuropsychology
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 634 en-Neuropsychological assessment https://en.wikipedia.org/wiki/Neuropsychological_assessment
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 634 en-Neuropsychological rehabilitation https://en.wikipedia.org/wiki/Neuropsychological_rehabilitation
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 634 en-Traumatic brain injury https://en.wikipedia.org/wiki/Traumatic_brain_injury
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 635 en-Arousal https://en.wikipedia.org/wiki/Arousal
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 646 en-Arthur L. Benton https://en.wikipedia.org/wiki/Arthur_L._Benton
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 647 en-Antonio Damasio https://en.wikipedia.org/wiki/Antonio_Damasio
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 648 en-Norman Geschwind https://en.wikipedia.org/wiki/Norman_Geschwind
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 648 en-Elkhonon Goldberg https://en.wikipedia.org/wiki/Elkhonon_Goldberg
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 648 en-Patricia Goldman Rakic https://en.wikipedia.org/wiki/Patricia_Goldman_Rakic
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 648 en-Pasko Rakic https://en.wikipedia.org/wiki/Pasko_Rakic
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 649 en-Kenneth Heilman https://en.wikipedia.org/wiki/Kenneth_Heilman
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 649 en-Edith Kaplan https://en.wikipedia.org/wiki/Edith_Kaplan
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 649 en-Muriel Lezak https://en.wikipedia.org/wiki/Muriel_Lezak
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 649 en-Benjamin Libet https://en.wikipedia.org/wiki/Benjamin_Libet
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 649 en-Rodolfo Llinás https://en.wikipedia.org/wiki/Rodolfo_Llin%C3%A1s
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 650 en-Brenda Milner https://en.wikipedia.org/wiki/Brenda_Milner
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 650 en-Karl H. Pribram https://en.wikipedia.org/wiki/Karl_H._Pribram
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 651 en-Mark Rosenzweig https://en.wikipedia.org/wiki/Mark_Rosenzweig
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 652 en-Hans-Lukas Teuber https://en.wikipedia.org/wiki/Hans-Lukas_Teuber
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 653 en-K.C. (patient) https://en.wikipedia.org/wiki/K.C._(patient)
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 653 en-Neuropsychological test https://en.wikipedia.org/wiki/Neuropsychological_test
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 653 en-Benton Visual Retention Test https://en.wikipedia.org/wiki/Benton_Visual_Retention_Test
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 653 en-Continuous Performance Task https://en.wikipedia.org/wiki/Continuous_Performance_Task
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 653 en-Halstead-Reitan Neuropsychological Battery https://en.wikipedia.org/wiki/Halstead-Reitan_Neuropsychological_Battery
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 653 en-Hayling and Brixton tests https://en.wikipedia.org/wiki/Hayling_and_Brixton_tests
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 653 en-Lexical decision task https://en.wikipedia.org/wiki/Lexical_decision_task
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 653 en-Luria-Nebraska Neuropsychological battery https://en.wikipedia.org/wiki/Luria-Nebraska_Neuropsychological_battery
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 654 en-Rey-Osterrieth Complex Figure https://en.wikipedia.org/wiki/Rey-Osterrieth_Complex_Figure
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 656 en-Wechsler Memory Scale https://en.wikipedia.org/wiki/Wechsler_Memory_Scale
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 656 en-Wisconsin Card Sorting Task https://en.wikipedia.org/wiki/Wisconsin_Card_Sorting_Task
+计划 https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92
+crawl failed 664 en-Political history https://en.wikipedia.org/wiki/Political_history
+政治 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB
+crawl failed 664 en-Political history of the world https://en.wikipedia.org/wiki/Political_history_of_the_world
+政治 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB
+crawl failed 669 en-Federacy https://en.wikipedia.org/wiki/Federacy
+政治 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB
+crawl failed 686 en-Adhocracy https://en.wikipedia.org/wiki/Adhocracy
+政治 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB
+crawl failed 686 en-Public policy doctrine https://en.wikipedia.org/wiki/Public_policy_doctrine
+政治 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB
+crawl failed 693 en-Theories of political behavior https://en.wikipedia.org/wiki/Theories_of_political_behavior
+政治 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB
+crawl failed 693 en-Biology and political orientation https://en.wikipedia.org/wiki/Biology_and_political_orientation
+政治 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB
+crawl failed 693 en-Political organisation https://en.wikipedia.org/wiki/Political_organisation
+政治 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB
+crawl failed 823 en-Pournelle chart https://en.wikipedia.org/wiki/Pournelle_chart
+政治 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB
+crawl failed 882 维基语录 https://zh.wikiquote.org/wiki/%E6%94%BF%E6%B2%BB
+政治 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB
+crawl failed 922 en-Mirrors for princes https://en.wikipedia.org/wiki/Mirrors_for_princes
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 968 en-Critical management studies https://en.wikipedia.org/wiki/Critical_management_studies
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 968 en-Anti-corporate activism https://en.wikipedia.org/wiki/Anti-corporate_activism
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 968 en-Workplace democracy https://en.wikipedia.org/wiki/Workplace_democracy
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 968 en-Command hierarchy https://en.wikipedia.org/wiki/Command_hierarchy
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 968 en-Manfred F.R. Kets de Vries https://en.wikipedia.org/wiki/Manfred_F.R._Kets_de_Vries
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1022 en-Outline of business management https://en.wikipedia.org/wiki/Outline_of_business_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1022 en-Index of management articles https://en.wikipedia.org/wiki/Index_of_management_articles
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1022 en-Academic administration https://en.wikipedia.org/wiki/Academic_administration
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1022 en-Association management https://en.wikipedia.org/wiki/Association_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1023 en-Restaurant management https://en.wikipedia.org/wiki/Restaurant_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1023 en-Health administration https://en.wikipedia.org/wiki/Health_administration
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1023 en-Military administration https://en.wikipedia.org/wiki/Military_administration
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1024 en-Capability management https://en.wikipedia.org/wiki/Capability_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1025 en-Communications management https://en.wikipedia.org/wiki/Communications_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1025 en-Innovation management https://en.wikipedia.org/wiki/Innovation_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1026 en-Systems management https://en.wikipedia.org/wiki/Systems_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1026 en-Product management https://en.wikipedia.org/wiki/Product_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1027 en-Program management https://en.wikipedia.org/wiki/Program_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1028 en-Line management https://en.wikipedia.org/wiki/Line_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1028 en-Operations management https://en.wikipedia.org/wiki/Operations_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1028 en-Manufacturing process management https://en.wikipedia.org/wiki/Manufacturing_process_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1028 en-Process management https://en.wikipedia.org/wiki/Process_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1029 en-Sales management https://en.wikipedia.org/wiki/Sales_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1029 en-Staff management https://en.wikipedia.org/wiki/Staff_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1029 en-Accounting management https://en.wikipedia.org/wiki/Accounting_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1029 en-Office management https://en.wikipedia.org/wiki/Office_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1029 en-Records management https://en.wikipedia.org/wiki/Records_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1031 en-Perception management https://en.wikipedia.org/wiki/Perception_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1032 en-Talent management https://en.wikipedia.org/wiki/Talent_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1032 en-Conflict management https://en.wikipedia.org/wiki/Conflict_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1034 en-Resource management https://en.wikipedia.org/wiki/Resource_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1039 en-Materials management https://en.wikipedia.org/wiki/Materials_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1039 en-Skills management https://en.wikipedia.org/wiki/Skills_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1039 en-Stock management https://en.wikipedia.org/wiki/Stock_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1039 en-Technology management https://en.wikipedia.org/wiki/Technology_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1042 en-Collaborative method https://en.wikipedia.org/wiki/Collaborative_method
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1042 en-Distributed management https://en.wikipedia.org/wiki/Distributed_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1043 en-Evidence-based management https://en.wikipedia.org/wiki/Evidence-based_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1047 en-Team building https://en.wikipedia.org/wiki/Team_building
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1047 en-Virtual management https://en.wikipedia.org/wiki/Virtual_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1048 en-Forecasting https://en.wikipedia.org/wiki/Forecasting
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1054 en-PhD in management https://en.wikipedia.org/wiki/PhD_in_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1054 en-Organizational studies https://en.wikipedia.org/wiki/Organizational_studies
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1054 en-Certified Business Manager https://en.wikipedia.org/wiki/Certified_Business_Manager
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1054 en-Chartered Management Institute https://en.wikipedia.org/wiki/Chartered_Management_Institute
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1054 en-Association of Technology, Management, and Applied Engineering https://en.wikipedia.org/wiki/Association_of_Technology,_Management,_and_Applied_Engineering
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1058 en-Control (management) https://en.wikipedia.org/wiki/Control_(management)
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1058 en-Management development https://en.wikipedia.org/wiki/Management_development
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1058 en-Management system https://en.wikipedia.org/wiki/Management_system
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1058 en-Managerial economics https://en.wikipedia.org/wiki/Managerial_economics
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1058 en-Management cybernetics https://en.wikipedia.org/wiki/Management_cybernetics
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1058 en-Organizational behavior management https://en.wikipedia.org/wiki/Organizational_behavior_management
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1058 en-Management fad https://en.wikipedia.org/wiki/Management_fad
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1058 en-Pointy-haired Boss https://en.wikipedia.org/wiki/Pointy-haired_Boss
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1058 en-Executive compensation https://en.wikipedia.org/wiki/Executive_compensation
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1058 en-Williamson's model of managerial discretion https://en.wikipedia.org/wiki/Williamson%27s_model_of_managerial_discretion
+管理 https://zh.wikipedia.org/wiki/%E7%AE%A1%E7%90%86
+crawl failed 1192 美元 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%85%83
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 1192 各国国内生产总值列表 (购买力平价) https://zh.wikipedia.org/wiki/%E5%90%84%E5%9B%BD%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC%E5%88%97%E8%A1%A8_(%E8%B4%AD%E4%B9%B0%E5%8A%9B%E5%B9%B3%E4%BB%B7)
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 1192 各国人均国内生产总值列表 (购买力平价) https://zh.wikipedia.org/wiki/%E5%90%84%E5%9B%BD%E4%BA%BA%E5%9D%87%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC%E5%88%97%E8%A1%A8_(%E8%B4%AD%E4%B9%B0%E5%8A%9B%E5%B9%B3%E4%BB%B7)
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 1192 各国国内生产总值列表 (国际汇率) https://zh.wikipedia.org/wiki/%E5%90%84%E5%9B%BD%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC%E5%88%97%E8%A1%A8_(%E5%9B%BD%E9%99%85%E6%B1%87%E7%8E%87)
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 1192 各国人均国内生产总值列表 (国际汇率) https://zh.wikipedia.org/wiki/%E5%90%84%E5%9B%BD%E4%BA%BA%E5%9D%87%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC%E5%88%97%E8%A1%A8_(%E5%9B%BD%E9%99%85%E6%B1%87%E7%8E%87)
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 1192 基尼系数 https://zh.wikipedia.org/wiki/%E5%9F%BA%E5%B0%BC%E7%B3%BB%E6%95%B0
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 1223 en-Carolinian language https://en.wikipedia.org/wiki/Carolinian_language
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 1901 en-Soul food https://en.wikipedia.org/wiki/Soul_food
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 1990 en-United States Federal Sentencing Guidelines https://en.wikipedia.org/wiki/United_States_Federal_Sentencing_Guidelines
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 1990 en-Drug policy of the United States https://en.wikipedia.org/wiki/Drug_policy_of_the_United_States
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B

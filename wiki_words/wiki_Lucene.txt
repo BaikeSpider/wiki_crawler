@@ -1,0 +1,402 @@
+Lucene
+
+
+
+
+
+
+Lucene
+
+
+
+
+開發者
+Apache Software Foundation
+
+
+穩定版本
+
+
+
+穩定版本
+
+6.3.0  / 2016年11月8日 (2016-11-08)
+
+
+
+開發狀態
+活跃
+
+
+编程语言
+Java
+
+
+操作系统
+Cross-platform
+
+
+类型
+搜索及全文检索
+
+
+许可协议
+Apache许可证 2.0
+
+
+網站
+lucene.apache.org
+
+
+Lucene是一套用于全文检索和搜尋的開放源碼程式庫，由Apache软件基金会支持和提供。Lucene提供了一個簡單卻強大的應用程式介面，能夠做全文索引和搜尋，在Java开发环境裡Lucene是一個成熟的免費開放原始碼工具；就其本身而論，Lucene是現在並且是這幾年，最受歡迎的免費Java資訊檢索程式庫。
+
+
+
+目录
+
+
+1 历史
+2 基於Lucene的項目
+3 參見
+4 外部連結
+
+
+
+历史[编辑]
+Lucene最初是由Doug Cutting所撰寫的，他是一位資深的全文索引及檢索專家，曾經是V-Twin搜索引擎的主要開發者，後來在Excite擔任高級系統架構設計師，目前從事於一些互联网底層架構的研究。他貢獻出Lucene的目標是為各種中小型應用程式加入全文檢索功能。
+基於Lucene的項目[编辑]
+
+Apache Nutch — 提供成熟可用的网络爬虫[1]
+Apache Solr — 基于Lucenne核心的高性能搜索服务器，提供JSON/Python/Ruby API[2]
+Elasticsearch —企业搜索平台，目的是组织数据并使其易于获取[3]
+DocFetcher — 跨平台的本机文件搜索桌面程序[來源請求][4]
+Lucene.NET — 提供给.Net平台用户的Lucene类库的封装[5]
+Swiftype — 基于Lucene的企业级搜索[6]
+Apache Lucy — 为动态语言提供全文搜索的能力，是Lucene Java 库的C接口[7]
+Luke — Java编写的用户界面用于编辑Lucene的索引，此项目已停止开发[8]
+
+參見[编辑]
+
+Solr － 使用Lucene的企業搜索伺服器，亦由Apache軟件基金會所研發。
+
+外部連結[编辑]
+
+
+您可以在維基教科書中查找此百科条目的相關電子教程：
+Lucene
+
+
+
+Lucene homepage
+Article "Behind the Scenes of the SourceForge.net Search System" by Chris Conrad
+Schmidt, Marco. Lucene Wikipedia indexer. 2005. （原始内容存档于2006-07-15）. Introductory article with Java code for search 
+Simple Lucene Examples
+Apache Lucene popular APIs in GitHub
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Apache软件基金会
+
+
+
+
+
+
+顶级项目
+
+
+
+Abdera（英语：Apache Abdera）
+Accumulo（英语：Apache Accumulo）
+ActiveMQ
+Ambari（英语：Apache Ambari）
+Ant
+Aries（英语：Apache Aries）
+Apache HTTP Server
+APR
+Avro
+Axis
+Axis2
+Bloodhound（英语：Apache Bloodhound）
+Apache Brooklyn（英语：Apache Brooklyn）
+Buildr（英语：Apache Buildr）
+Calcite（英语：Apache Calcite）
+Camel
+Cassandra
+Cayenne（英语：Apache Cayenne）
+Chemistry（英语：Apache Chemistry）
+CloudStack（英语：Apache CloudStack）
+Cocoon（英语：Apache Cocoon）
+Continuum（英语：Apache Continuum）
+Cordova
+CouchDB
+cTAKES（英语：cTAKES）
+CXF
+Deltacloud（英语：Deltacloud）
+Derby
+Directory（英语：Apache Directory Server）
+Drill（英语：Apache Drill）
+Empire-db（英语：Apache Empire-db）
+Felix（英语：Apache Felix）
+Flex
+Flink（英语：Apache Flink）
+Flume（英语：Apache Flume）
+Forrest（英语：Apache Forrest）
+Geronimo（英语：Apache Geronimo）
+Gora（英语：Apache Gora）
+Gump（英语：Apache Gump）
+Hadoop
+Hama（英语：Apache Hama）
+HBase
+Hive
+Jackrabbit（英语：Apache Jackrabbit）
+James（英语：Apache James）
+JMeter（英语：Apache JMeter）
+Kafka
+Karaf（英语：Apache Karaf）
+Kylin（英语：Apache Kylin）
+Lucene
+Lenya（英语：Apache Lenya）
+Mahout（英语：Apache Mahout）
+Marmotta（英语：Apache Marmotta）
+Maven
+MINA（英语：Apache MINA）
+mod_perl（英语：mod_perl）
+MyFaces（英语：Apache MyFaces）
+Nutch（英语：Apache Nutch）
+ODE（英语：Apache ODE）
+OFBiz（英语：Apache OFBiz）
+Oozie（英语：Oozie）
+OpenEJB（英语：Apache OpenEJB）
+OpenJPA（英语：Apache OpenJPA）
+OpenNLP
+OpenOffice
+PDFBox（英语：Apache PDFBox）
+Phoenix（英语：Apache Phoenix）
+POI
+Pig（英语：Pig (programming tool)）
+Pivot（英语：Apache Pivot）
+Qpid（英语：Apache Qpid）
+River（英语：Apache River）
+Roller（英语：Apache Roller）
+Samza（英语：Apache Samza）
+ServiceMix（英语：Apache ServiceMix）
+Shindig（英语：Apache Shindig）
+Shiro
+Sling（英语：Apache Sling）
+Spark
+Stanbol（英语：Apache Stanbol）
+Storm
+SpamAssassin
+Sqoop（英语：Sqoop）
+Apache C++标准库（英语：stdcxx）
+Struts
+Struts 2
+Subversion
+Tapestry
+Thrift
+Tiles（英语：Apache Tiles）
+Tika（英语：Apache Tika）
+Tomcat
+Trafficserver
+Turbine
+Tuscany
+UIMA
+Velocity
+Wave
+Wicket
+Wink（英语：Apache Wink）
+Xalan（英语：Xalan）
+Xerces（英语：Xerces）
+XMLBeans（英语：XMLBeans）
+ZooKeeper
+
+
+
+
+
+
+
+
+
+
+
+Commons项目
+
+
+
+Apache Commons Logging（英语：Apache Commons Logging）
+BCEL（英语：Byte Code Engineering Library）
+BSF（英语：Bean Scripting Framework）
+Commons Daemon（英语：Commons Daemon）
+Jelly（英语：Apache Jelly）
+
+
+
+
+
+
+
+
+Lucene项目
+
+
+
+Lucene Java
+Lucene.Net（英语：Lucene.Net）
+Nutch（英语：Nutch）
+Solr
+
+
+
+
+
+
+
+
+Hadoop项目
+
+
+
+HBase
+HDFS
+
+
+
+
+
+
+
+
+其他项目
+
+
+
+Batik
+Chainsaw（英语：Chainsaw (log file viewer)）
+FOP
+Log4j
+XAP（英语：Apache XAP）
+Log4Net
+Ivy（英语：Apache Ivy）
+
+
+
+
+
+
+
+
+Incubator项目
+
+
+
+XAP（英语：Apache XAP）
+Samza（英语：Apache Samza）
+Storm
+
+
+
+
+
+
+
+
+Apache Attic
+
+
+
+AxKit（英语：AxKit）
+Beehive（英语：Apache Beehive）
+Click（英语：Apache Click）
+Bluesky（英语：BlueSky Open Platform）
+Cactus（英语：Jakarta Cactus）
+Jakarta
+Excalibur（英语：Apache Excalibur）
+Harmony
+HiveMind（英语：Apache HiveMind）
+Lenya（英语：Apache Lenya）
+Slide（英语：Jakarta Slide）
+Shale（英语：Apache Shale）
+Shindig（英语：Apache Shindig）
+stdcxx（英语：Apache C++ Standard Library）
+iBATIS
+XMLBeans（英语：XMLBeans）
+
+
+
+
+
+
+
+
+许可证标准
+
+
+
+Apache许可证
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 维基共享
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4800725-0
+
+
+
+
+
+
+
+
+
+^ dev@Nutch.apache.org. Apache Nutch™ -. nutch.apache.org. [2016-11-29]. 
+^ What are the main differences between ElasticSearch, Apache Solr and SolrCloud? - Quora. quora.com. [23 September 2015]. 
+^ Elasticsearch: RESTful, Distributed Search & Analytics - Elastic. elastic.co. [23 September 2015]. 
+^ Quang, Tran Nam. DocFetcher - Fast Document Search. docfetcher.sourceforge.net. [2016-11-29]. 
+^ Apache Lucene.Net. lucenenet.apache.org. [2016-11-29]. 
+^ Swiftype - Site search and enterprise search. Swiftype. [2016-11-29]. 
+^ Apache Lucy. lucy.apache.org. [2016-11-29]. 
+^ luke. GitHub. [2016-11-29]. 
+
+
+
+
+
+分类：Apache软件基金会搜索Java隐藏分类：使用过时图像语法的页面有未列明来源语句的条目包含规范控制信息的维基百科条目

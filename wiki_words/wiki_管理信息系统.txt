@@ -1,0 +1,102 @@
+管理信息系统
+
+
+
+
+
+
+
+
+
+
+
+提示：本条目的主题不是信息管理系統。
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。（2015年12月14日） 
+請邀請適合的人士改善本条目。更多的細節與詳情請參见討論頁。 
+
+
+管理信息系统（Management Information System，MIS）是一个以人为主导的，利用计算机硬件、软件和网络设备，进行信息的收集、传递、存储、加工、整理的系统，以提高组织的经营效率。
+管理信息系統是有別於一般的信息系統，因為它們都是用來分析其它信息系統在組織的業務活動中的應用[1]。學術上，管理信息系统通常是用來指那些和決策自動化或支援決策者做決策有關的信息管理方法（例如決策支持系統，專家系統，和主管支援系統）的統稱[1]。
+
+
+
+目录
+
+
+1 定義
+2 與管理資訊系統成敗相關的重要因素
+3 参考文献
+4 參見
+
+
+
+定義[编辑]
+管理資訊系統（Management Information System, MIS）一門「研究組織如何有效的利用與管理『資訊科技』管理資訊（Management Information）來支援其『營運能力』達到提升『經營效率與策略目標』的學問」。 （林東清,2010） [2]
+與管理資訊系統成敗相關的重要因素[编辑]
+MIS的引進是一個牽涉構面多且彼此互相糾葛在一起的過程，因此，要成功引進是相當困難的，根據統計，引進能順利成功達成目的只有30%左右，可見其困難程度。影響MIS成功或失敗的主要構面可歸納歷年來多位學者研究的成果如下：（林東清,2010）
+
+1.使用者的因素（User Factor）：包括使用者的恐懼、抗拒、動機、認知、參與、滿意度等因素。
+2. 專案的因素（Project Factors）：包括專案的管理與專案團隊的管理规划、排程。
+3.資訊部門的因素（MIS Factors）：包括資訊部門的目標、定位、領導與內外部關係等。
+4. 組織的因素（Organizational Factors）：包括組織的結構、文化、策略等。
+5.技術的因素（Technical Factors）：包括資訊科技、系統架構、系統品質等。
+6. 管理的因素（Managerial Factors）：包括高階主管支持、文化與政治的管理等。
+7.工作流程的因素（Process Factors）：流程的合理化、企業再造工程（Bussiness Process Reengineering, BPR）與最佳化。
+8.外在環境的因素（Environmental Factors）：包括科技、法令、競爭者、客戶、上下游廠商等。 [2]
+参考文献[编辑]
+
+
+^ 1.0 1.1 O' Brien, J. Management Information Systems – Managing Information Technology in the Internetworked Enterprise. Boston: Irwin McGraw-Hill. 1999. ISBN 0071123733 （英语）.  参数|title=值左起第72位存在換行符 (帮助)
+^ 2.0 2.1 林東清，管理資訊系統， 林東清. 資訊管理：e化企業的核心競爭能力. 臺北市: 智勝文化. 2010: 13–13. ISBN 978-957-729-523-1.  引用错误：带有name属性“”的<ref>标签用不同内容定义了多次
+
+
+參見[编辑]
+
+商業智能（Business Intelligence）
+商務業績管理（Business Performance Management）
+数据挖掘（Data Mining）
+資訊科技監管（Information technology governance）
+知识库（Knowledge Base）
+管理学（Management）
+目標管理（Management by objectives）
+線上分析處理（Online analytical processing）
+商業法則（Business rules）
+
+預期分析（Predictive analytics）
+採購請求（Purchase order request）
+
+
+企業資訊系統（Enterprise Information System）
+企業架構（Enterprise Architecture）
+資訊科技管理（Information technology management）
+線上辦公室套裝軟體（Online office suite）
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4074518-1
+NDL: 01095492
+
+
+
+
+
+
+
+
+
+
+
+
+分类：管理信息系统資訊管理管理学跨學科領域隐藏分类：有参考文献错误的页面引文格式1错误：不可见字符CS1英语来源 (en)使用ISBN魔术链接的页面自2015年12月需要专业人士关注的页面包含规范控制信息的维基百科条目

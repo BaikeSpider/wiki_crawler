@@ -1,0 +1,1243 @@
+羅納德·愛爾默·費雪
+
+
+
+
+
+本条目部分链接不符合格式手冊規範。跨語言链接及章節標題等處的链接可能需要清理。（2015年12月11日） 
+請協助改善此條目。參見WP:LINKSTYLE、WP:MOSIW以了解細節。突出显示跨语言链接可以便于检查。 
+
+
+
+
+
+
+
+
+
+
+
+R·A·費雪
+
+
+
+
+
+出生
+1890年2月17日
+倫敦，東芬利奇
+
+
+逝世
+1962年7月29日
+澳大利亞，阿德雷得
+
+
+居住地
+ 英國、 澳大利亞
+
+
+国籍
+ 英國
+
+
+母校
+劍橋大學
+
+
+知名于
+最大似然估計
+費雪資訊（Fisher information）
+變異數分析（Analysis of variance）
+實驗設計（design of experiments）
+
+
+奖项
+1938年英國皇家學會獎章
+1946年盖伊奖章
+1955年科普利獎章
+1958年达尔文-华莱士奖章
+
+
+科学生涯
+
+
+研究領域
+數學、統計學、演化生物學、遺傳學
+
+
+机构
+羅森斯得實驗站
+倫敦大學學院
+劍橋大學
+科學暨工業研究組織（CSIRO）
+
+
+博士導師
+傑恩斯（Sir James Jeans）
+斯特拉頓（F.J.M. Stratton）
+
+
+博士生
+亞木普迪‧拉達克利西納‧勞（C. R. Rao）
+
+
+羅納德·愛爾默·費雪爵士，FRS（Sir Ronald Aylmer Fisher，1890年2月17日－1962年7月29日，英語發音[ˈɹɒnḷd ˈeɪlmə ˈfɪʃə]）為一名英國統計學家、演化生物學家與遺傳學家。他是現代統計學與現代演化論的奠基者之一。安德斯·哈爾德稱他是「一位幾乎獨自建立現代統計科學的天才」[1]，理查·道金斯則認為他是「達爾文最偉大的繼承者」[2]。
+
+
+
+目录
+
+
+1 生平與研究
+
+1.1 早年
+1.2 劍橋大學求學時期
+1.3 第一次世界大戰時期
+1.4 羅森斯得實驗站時期
+
+
+2 著作列表
+3 參考文獻
+
+
+
+生平與研究[编辑]
+早年[编辑]
+費雪出生於英國倫敦的東芬奇利（英语：East Finchley），是七位子女中的老幺[3]。父親喬治·費雪，是一位事業有成的藝術品商人，這使得他的童年生活相當順遂，受到其母親、三位姊姊與一位哥哥的溺愛。不過在他14歲時，母親卡蒂·費雪過世，18個月後，費雪的父親因幾次不明智的交易，而失去了事業[4]。
+費雪是一位早成的學生，16歲正在哈羅公學就讀的時候，就已經在一場稱為「尼爾德獎章」（Neeld Medal）的論文競賽中勝出。由於費雪的視力很差，當他學習數學的時候，並不使用紙筆等需要動用視覺的方法。例如面對幾何學問題的時候，並不將其視覺化，而是以代數操作方式處理。除了數學以外，他也對生物學很感興趣，尤其是演化論。
+劍橋大學求學時期[编辑]
+1909年，費雪獲得獎學金，使其能前往剑桥大学冈维尔与凯斯学院就讀，並主修農業[3]。在劍橋的期間，費雪學習到了孟德爾遺傳學。這個在1860年代發表的理論，原本早已被人們忽略了數十年，直到20世紀初，才重新被科學家們發現。
+費雪感受到生物統計與發展中的各種統計方法，具有一種潛力，能夠結合「不連續」的孟德爾定律（例如ABO血型）、「連續」的多基因遺傳（例如人類的膚色），以及「漸進式」的達爾文演化論。此外由於對統計學的興趣，費雪研讀了當時兩位著名的統計學家，卡尔·皮尔逊（Karl Pearson）與戈塞（William Gosset，筆名「Student」）所發表的論文[3]。
+當時流行的優生學思想，也是費雪所關注的議題。他更將社會上的人口問題，視為包含遺傳學與統計學在內的科學。1911年，他與當時的一些名人，如經濟學家凯恩斯、遺傳學家龐尼特（R. C. Punnett），以及工程師霍勒斯·達爾文（Horace Darwin，查爾斯·達爾文之子），一起建立了劍橋大學優生學學會（Eugenics Society）。這是一個活躍的團體，他們每個月開一次會，並在其他主流優生學組織發表演說。例如法蘭西斯·高爾登（Francis Galton）在1909年建立的優生學教育學會（Eugenics Education Society）[5]。
+1912年，費雪通過了數學學位考試，並且在隔年從劍橋大學畢業。
+第一次世界大戰時期[编辑]
+1914年，第一次世界大戰爆發。費雪和許多英國青年一樣，也希望能夠加入軍隊、投入沙場。不過因為他嚴重的視力問題，即使一試再試，依然無法通過健康檢查。由於從軍不成，接下來6年他便在倫敦市擔任統計員，同時也在幾所公立學校裡教授物理和數學。例如伯克夏（Berkshire）的布萊德菲爾德學院（Bradfield College）。此外，他也曾經搭上英國海軍的教學艦艇「渥徹斯特號」（HMS Worcester）。
+在英軍裡擔任少校的里奧納德·達爾文（Leonard Darwin，查爾斯·達爾文另一子）與另一位被費雪稱做古德魯那（Gudruna）的朋友，是他在這個時期的重要支柱，他們的支持使他得以度過困境。古德魯那的姊妹艾琳·蓋尼斯（Eileen Guinness），經由古德魯那的介紹與費雪相識。1917年，艾琳與費雪結婚，當時她只有17歲。此外費雪也受到自家姊妹們的幫助，建立並經營了一所稱為布萊德菲爾德莊園的農場，在那裡他們種植花圃與飼養動物。由於這座莊園的生計，他們在戰爭時期能夠不需要領取政府的食物配給[6]。
+第一次世界大戰期間，費雪開始為一本期刊《優生學評論》（Eugenic Review）撰寫一些複審文章，並在寫作期間逐加強對遺傳學與統計學研究的興趣。之後他自願為此期刊進行所有的複審工作。除此之外，費雪也在里奧納德·達爾文的雇用下，從事暫時性的工作。
+同時在這段期間，他也發表了許多與生物統計相關的論文，包括《孟德爾遺傳假定下的親戚之間的相關性》（The Correlation Between Relatives on the Supposition of Mendelian Inheritance）。這篇論文在1916年完成，並在1918年發表，它同時建立了以生物統計為基礎的遺傳學，以及著名的統計學分法變異數分析（analysis of variance，簡寫為ANOVA，也稱方差分析）。除了建立統計方法，這篇論文也顯示，一些具有連續性變異的遺傳特徵，可以符合孟德爾遺傳定律[7]。在此以前，兩者被科學家認為是互相違抗。
+羅森斯得實驗站時期[编辑]
+
+
+
+
+剑桥大学冈维尔与凯斯学院宴會廳裡的染色玻璃窗，上方的彩繪方格用以紀念拉丁方陣（Latin square），下方的白色文字則是為了紀念羅納德·費雪。
+
+
+1918年戰爭結束之後，原本卡尔·皮尔逊邀請他進入當時著名的高爾登實驗室（Galton Laboratory），但是由於費雪認為自己與皮尔逊之間的競爭關係是一種職業障礙，因此放棄了這個機會。直到1919年，費雪才選擇進入一所名為羅森斯得實驗站（Rothamsted Experimental Station）的農業試驗所。這間農業試驗所，位在英格蘭赫特福德郡（Hertfordshire）的哈平登（Harpenden）。費雪除了在其中擔任一名統計員之外，所長約翰·羅素（John Russell）也讓他設立了一個統計實驗室。
+之後費雪便開始對多年來所收集的大量資料進行深入研究，並且將成果寫成一系列題為《收成變異之研究》（Studies in Crop Variation）的論文。他的全盛時期也在這時候開始。
+接下來的幾年中，費雪開始構想新的統計方法，如實驗設計法（design of experiments）。1925年，他的第一本書出版，書名為《研究者的統計方法》（Statistical Methods for Research Workers）[8]。到了1935年，延續本書的《實驗設計》（The Design of Experiments）出版。兩本書建立了實驗設計法的基礎，並受到多次翻譯與再版。
+除了新的統計方法，費雪也將先前的變異數分析研究進行補強與修飾，因而發明出最大似然估計，並發展出充分性（sufficiency）、輔助統計、費雪線性判別（Fisher's linear discriminator）與費雪資訊（也译为费希尔信息，Fisher information）等統計概念。
+著作列表[编辑]
+
+《实验设计》1935年
+《统计方法与科学推断》1956年
+《科学研究的统计方法》
+《育种理论》1949年
+《统计学用表》1938年（与F. Yates合著）
+
+參考文獻[编辑]
+
+
+^ Hald, Anders. A History of Mathematical Statistics. New York: Wiley. 1998. 
+^ Dawkins, Richard. River out of Eden. 1995. 
+^ 3.0 3.1 3.2 實驗計畫法的開山祖師
+^ Box, R. A. Fisher, pp 8-16
+^ Box, R. A. Fisher, pp 17-34
+^ Box, R. A. Fisher, pp 35-50
+^ Box, R. A. Fisher, pp 50-61
+^ Box, R. A. Fisher, pp 93-166
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+皇家统计学会会长
+
+
+
+
+
+
+19世纪
+
+
+
+1834–1836 The Marquess of Lansdowne
+1836–1838 Sir Charles Lemon, Bt
+1838–1840 The Earl FitzWilliam
+1840–1842 Viscount Sandon
+1842–1843 The Marquess of Lansdowne
+1843–1845 Lord Ashley
+1845–1847 The Lord Monteagle of Brandon
+1847–1849 The Earl FitzWilliam
+1849–1851 The Earl of Harrowby
+1851–1853 The Lord Overstone
+1853–1855 The Earl FitzWilliam
+1855–1857 The Earl of Harrowby
+1857–1859 Lord Stanley
+1859–1861 第一代罗素伯爵约翰·罗素
+1861–1863 Sir John Pakington, Bt
+1863–1865 William Henry Sykes
+1865–1867 The Lord Houghton
+1867–1869 威廉·格莱斯顿
+1869–1871 William Newmarch
+1871–1873 William Farr
+1873–1875 威廉·盖伊
+1875–1877 James Heywood
+1877–1879 George Shaw-Lefevre
+1879–1880 Thomas Brassey
+1880–1882 James Caird
+1882–1884 罗伯特·吉芬
+1884–1886 Rawson W. Rawson
+1886–1888 乔治·戈申，第一代戈申子爵
+1888–1890 Thomas Graham Balfour
+1890–1892 Frederic J. Mouat
+1892–1894 Charles Booth
+1894–1896 The Lord Farrer
+1896–1897 John Biddulph Martin
+1897 Alfred Edmund Bateman
+1897–1899 Leonard Courtney
+1899–1900 Henry Fowler
+1900–1902 The Lord Avebury
+
+
+
+
+
+
+
+
+20世纪
+
+
+
+1902–1904 Patrick George Craigie
+1904–1905 Sir Francis Powell, Bt
+1905–1906 The Earl of Onslow
+1906–1907 Richard Martin
+1907–1909 Sir Charles Dilke, Bt
+1909–1910 Jervoise Athelstane Baines
+1910–1912 Lord George Hamilton
+1912–1914 Francis Ysidro Edgeworth
+1914–1915 The Lord Welby
+1915–1916 Lord George Hamilton
+1916–1918 Bernard Mallet, Registrar General
+1918–1920 Herbert Samuel
+1920–1922 R. Henry Rew
+1922–1924 The Lord Emmott
+1924–1926 Udny Yule
+1926–1928 The Viscount D'Abernon
+1928–1930 A. William Flux
+1930–1932 Sir Josiah Stamp
+1932–1934 The Lord Meston
+1934–1936 Major Greenwood
+1936–1938 The Lord Kennet
+1938–1940 Arthur Lyon Bowley
+1940–1941 Henry William Macrosty
+1941 Hector Leak
+1941–1943 威廉·贝弗里奇
+1943–1945 Charles Ernest Snow
+1945–1947 The Lord Woolton
+1947–1949 David Heron
+1949–1950 Sir Geoffrey Heyworth
+1950–1952 奥斯汀·布拉德福德·希尔
+1952–1954 罗纳德·费希尔
+1954–1955 The Lord Piercy
+1955–1957 埃贡·皮尔逊
+1957–1959 Harry Campion
+1959–1960 休·比佛
+1960–1962 Maurice Kendall
+1962–1964 Joseph Oscar Irwin
+1964–1965 Sir Paul Chambers
+1965–1966 L. H. C. Tippett
+1966–1967 M. S. Bartlett
+1967–1968 Frank Yates
+1968–1969 Arthur Cockfield
+1969–1970 R. G. D. Allen
+1970–1971 Bernard Benjamin
+1971–1972 George Alfred Barnard
+1972–1973 哈罗德·威尔逊
+1973–1974 D. J. Finney
+1974–1975 Henry Daniels
+1975–1977 Stella Cunliffe
+1977–1978 Henry Wynn
+1978–1980 Sir Claus Moser
+1980–1982 戴维·科克斯
+1982–1984 Peter Armitage
+1984–1985 Walter Bodmer
+1985–1986 John Nelder
+1986–1987 James Durbin
+1987–1989 John Kingman
+1989–1991 Peter G. Moore
+1991–1993 T. M. F. Smith
+1993–1995 D. J. Bartholomew
+1995–1997 Adrian Smith
+1997–1999 R. N. Curnow
+1999–2001 Denise Lievesley
+
+
+
+
+
+
+
+
+21世纪
+
+
+
+2001–2003 Peter Green
+2003–2005 Andy Grieve
+2005–2007 Tim Holt
+2008–2009 David Hand
+2010–2010 Bernard Silverman (2010年2月辞职，前任David Hand代替)
+2011–2012 Valerie Isham
+2013–John Pullinger
+
+
+
+
+
+
+
+
+
+
+
+ Category
+ List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+盖伊奖章获得者
+
+
+
+
+
+
+
+
+
+
+ 
+金质奖章获得者
+
+
+
+
+
+
+
+
+
+
+
+1890年代
+
+
+
+
+1892年：Charles Booth
+1894年：罗伯特·吉芬
+
+
+
+
+
+
+
+
+
+1900年代
+
+
+
+
+1900年：J. Athelstane Baines
+1907年：Francis Ysidro Edgeworth
+1908年：Patrick G. Craigie
+
+
+
+
+
+
+
+
+
+1910年代
+
+
+
+
+1911年：G. Udny Yule
+
+
+
+
+
+
+
+
+
+1920年代
+
+
+
+
+1920年：T.H.C. Stevenson
+
+
+
+
+
+
+
+
+
+1930年代
+
+
+
+
+1930年：A. William Flux
+1935年：A.L. Bowley
+
+
+
+
+
+
+
+
+
+1940年代
+
+
+
+
+1945年：Major Greenwood
+1946年：罗纳德·费希尔
+
+
+
+
+
+
+
+
+
+1950年代
+
+
+
+
+1953年：奥斯汀·布拉德福德·希尔
+1955年：埃贡·皮尔逊
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1960年：Frank Yates
+1962年：哈罗德·杰弗里斯
+1966年：耶日·内曼
+1968年：M.G. Kendall
+1969年：M.S. Bartlett
+
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+
+1972年：哈拉尔德·克拉梅尔
+1973年：戴维·科克斯
+1975年：G.A. Barnard
+1978年：Roy Allen
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1981年：D.G. Kendall
+1984年：Henry Daniels
+1986年：Bernard Benjamin
+1987年：Robin Plackett
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：Peter Armitage
+1993年：George E.P. Box
+1996年：Peter Whittle
+1999年：Michael Healy
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2002年：D.V. Lindley
+2005年：John Nelder
+2008年：James Durbin
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2011年：C. R. Rao
+2013年：John Kingman
+2014年：Bradley Efron
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+银质奖章获得者
+
+
+
+
+
+
+
+
+
+
+
+1890年代
+
+
+
+
+1893年：John Glover
+1894年：Augustus Sauerbeck
+1895年：A.L. Bowley
+1897年：F.J. Atkinson
+1899年：C.S. Loch
+
+
+
+
+
+
+
+
+
+1900年代
+
+
+
+
+1900年：Richard Crawford
+1901年：Thomas A. Welton
+1902年：R.H. Hooker
+1903年：Yves Guyot
+1904年：D.A. Thomas
+1905年：R.H. Rew
+1906年：W.H. Shaw
+1907年：N.A. Humphreys
+1909年：Edward Brabrook
+
+
+
+
+
+
+
+
+
+1910年代
+
+
+
+
+1910年：G.H. Wood
+1913年：R. Dudfield
+1914年：S. Rowson
+1915年：S.J. Chapman
+1918年：J. Shield Nicholson
+1919年：J.C. Stamp
+
+
+
+
+
+
+
+
+
+1920年代
+
+
+
+
+1921年：A.W. Flux
+1927年：H.W. Macrosty
+1928年：Ethel Newbold
+
+
+
+
+
+
+
+
+
+1930年代
+
+
+
+
+1930年：H.E. Soper
+1934年：J.H. Jones
+1935年：E.C. Snow
+1936年：R.G. Hawtrey
+1938年：E.C. Ramsbottom
+1939年：L. Isserlis
+
+
+
+
+
+
+
+
+
+1940年代
+
+
+
+
+1940年：H. Leak
+1945年：M.G. Kendall
+
+
+
+
+
+
+
+
+
+1950年代
+
+
+
+
+1950年：H. Campion
+1951年：F.A.A. Menzler
+1952年：M.S. Bartlett
+1953年：J.O. Irwin
+1954年：L.H.C. Tippett
+1955年：D.G. Kendall
+1957年：Henry Daniels
+1958年：G.A. Barnard
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1960年：E.C. Fieller
+1961年：戴维·科克斯
+1962年：P.V. Sukhatme
+1964年：George Box
+1965年：C.R. Rao
+1966年：Peter Whittle
+1968年：D.V. Lindley
+
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+
+1973年：Robin Plackett
+1976年：James Durbin
+1977年：John Nelder
+1978年：Peter Armitage
+1979年：Michael Healy
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1980年：M. Stone
+1981年：John Kingman
+1982年：H.P. Wynn
+1983年：J.E. Besag
+1984年：J.C. Gittins
+1985年：A. Bissell, W. Pridmore
+1986年：Richard Peto
+1987年：John Copas
+1988年：J. Aitchison
+1989年：F.P. Kelly
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：David Clayton
+1991年：R.L. Smith
+1992年：Robert Curnow
+1993年：A.F.M. Smith
+1994年：David Spiegelhalter
+1995年：B.W. Silverman
+1996年：Stephan Lauritzen
+1997年：Peter Diggle
+1998年：Harvey Goldstein
+1999年：Peter Green
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：Walter Gilks
+2001年：Philip Dawid
+2002年：David Hand
+2003年：Kanti Mardia
+2004年：Peter Donnelly
+2005年：Peter McCullagh
+2006年：Michael Titterington
+2007年：Howell Tong
+2008年：Gareth Roberts
+2009年：Sylvia Richardson
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2010年：Iain M. Johnstone
+2011年：P. G. Hall
+2012年：David Firth
+2013年：Brian Ripley
+2014年：范剑青
+2015年：Anthony Davison
+2016年：Nancy Reid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+铜质奖章获得者
+
+
+
+
+
+
+
+
+
+
+
+1930年代
+
+
+
+
+1936年：William Gemmell Cochran
+1938年：R.F. George
+
+
+
+
+
+
+
+
+
+1940年代
+
+
+
+
+1949年：W.J. Jennett
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1962年：Peter Armitage
+1966年：James Durbin
+1967年：F. Downton
+1968年：Robin Plackett
+1969年：M.C. Pike
+
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+
+1970年：P.G. Moore
+1971年：D.J. Bartholomew
+1974年：G.N. Wilkinson
+1975年：A.F. Bissell
+1976年：P.L. Goldsmith
+1977年：A.F.M. Smith
+1978年：Philip Dawid
+1979年：T.M.F. Smith
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1980年：A.J. Fox
+1982年：S.J. Pocock
+1983年：Peter McCullagh
+1984年：Bernard Silverman
+1985年：David Spiegelhalter
+1986年：D.F. Hendry
+1987年：Peter Green
+1988年：S.C. Darby
+1989年：S.M. Gore
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：V.S. Isham
+1991年：M.G. Kenward
+1992年：C. Jennison
+1993年：J.A. Tawn
+1994年：R.F.A. Poultney
+1995年：I. Johnstone
+1996年：J.N.S. Matthews
+1997年：G.O. Roberts
+1998年：D. Firth
+1999年：P.W.F. Smith, J. Forster
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：J. Wakefield
+2001年：Guy Nason
+2002年：Geert Molenberghs
+2003年：Peter Lynn
+2004年：Nicola Best
+2005年：Steve Brooks
+2006年：Matthew Stephens
+2007年：Paul Fearnhead
+2008年：Fiona Steele
+2009年：Chris Holmes
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2010年：Omiros Papaspiliopoulos
+2011年： Nicolai Meinshausen
+2012年：Richard Samworth
+2013年：Piotr Fryzlewicz
+2014年：袁明 (统计学家)
+2015年：Jinchi Lv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+1951年至2000年科普利奖章获得者
+
+
+
+
+
+
+1950年代
+
+
+
+1951年：大卫·凯林（英语：David Keilin）
+1952年：保羅·狄拉克
+1953年：阿尔伯特·克吕沃尔（英语：Albert Kluyver）
+1954年：E. T. 魏泰克（英语：E. T. Whittaker）
+1955年：罗纳德·费希尔
+1956年：帕特里克·布莱克特
+1957年：霍华德·弗洛里
+1958年：约翰·伊登斯尔·利特尔伍德
+1959年：弗兰克·麦克法兰·伯内特
+1960年：哈罗德·杰弗里
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+1961年：汉斯·阿道夫·克雷布斯
+1962年：西里尔·欣谢尔伍德
+1963年：保罗·法尔兹（英语：Paul Fildes）
+1964年：悉尼·查普曼
+1965年：艾伦·劳埃德·霍奇金
+1966年：威廉·劳伦斯·布拉格
+1967年：伯纳德·卡茨
+1968年：塔德乌什·赖希施泰因
+1969年：彼得·梅达沃
+1970年：亚历山大·罗伯图斯·托德
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+1971年：诺曼·皮里埃（英语：Norman Pirie）
+1972年：内维尔·莫特
+1973年：安德鲁·赫胥黎
+1974年：W. V. D. 霍奇（英语：W. V. D. Hodge）
+1975年：佛朗西斯·克里克
+1976年：多萝西·霍奇金
+1977年：弗雷德里克·桑格
+1978年：罗伯特·伯恩斯·伍德沃德
+1979年：马克斯·佩鲁茨
+1980年：德里克·巴顿
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+1981年：彼得·米切尔
+1982年：约翰·康福思
+1983年：罗德尼·罗伯特·波特
+1984年：苏布拉马尼扬·钱德拉塞卡
+1985年：阿龙·克卢格
+1986年：鲁道夫·佩尔斯
+1987年：罗宾·希尔（英语：Robin Hill (biochemist)）
+1988年：迈克尔·阿蒂亚
+1989年：色萨·米尔斯坦
+1990年：阿卜杜勒·萨拉姆
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+1991年：西德尼·布伦纳
+1992年：乔治·波特
+1993年：詹姆斯·杜威·沃森
+1994年：Frank, Frederick CharlesFrederick Charles·Frank
+1995年：Fenner, FrankFrank·Fenner
+1996年：Cottrell, AlanAlan·Cottrell
+1997年：Huxley, HughHugh·Huxley
+1998年：Lighthill, JamesJames·Lighthill
+1999年：约翰·梅纳德·史密斯（英语：John Maynard Smith）
+
+
+
+
+
+
+
+
+
+
+
+1731–1750
+1751–1800
+1801–1850
+1851–1900
+1901–1950
+1951–2000
+2001年至今
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 41900609
+LCCN: n79045333
+ISNI: 0000 0001 0891 3400
+GND: 11853355X
+SELIBR: 186957
+SUDOC: 031602843
+BNF: cb12278567t（数据）
+MGP: 46924
+NDL: 00439622
+
+
+
+
+
+
+
+
+
+
+
+
+分类：1890年出生1962年逝世英国数学家演化生物學家英國遺傳學家英国统计学家下級勳位爵士生物统计学家英国优生学家皇家统计学会会长科普利獎章獲得者隐藏分类：自2015年12月連結格式不正確的條目含有hCards的条目本地相关图片与维基数据相同使用未知科学家信息框参数的页面含有英語的條目包含规范控制信息的维基百科条目

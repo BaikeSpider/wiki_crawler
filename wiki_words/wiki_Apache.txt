@@ -1,0 +1,431 @@
+Apache HTTP Server
+
+
+
+
+
+
+
+
+
+
+
+
+
+本文介紹的是一种網頁伺服器。關於Apache的其他解釋，請見「阿帕奇」。
+
+
+
+Apache HTTP Server
+
+
+
+
+原作者
+Robert McCool
+
+
+開發者
+Apache软件基金会
+
+
+初始版本
+1995[1]
+
+
+穩定版本
+
+
+
+穩定版本
+
+2.4.29  / 2017年10月23日，​2個月前​（2017-10-23）
+
+
+
+開發狀態
+活躍
+
+
+编程语言
+C[2]
+
+
+操作系统
+跨平台
+
+
+语言
+英文
+
+
+类型
+網頁伺服器
+
+
+许可协议
+Apache許可證 2.0
+
+
+網站
+httpd.apache.org
+
+
+源代码库
+https://svn.apache.org/repos/asf/httpd/httpd、https://github.com/apache/httpd
+
+
+Apache HTTP Server（簡稱Apache）是Apache軟體基金會的一個開放源碼的網頁伺服器軟體，可以在大多數電腦作業系統中運行，由於其跨平台和安全性[註 1]。被廣泛使用，是最流行的Web伺服器軟體之一。它快速、可靠並且可通過簡單的API擴充，將Perl／Python等直譯器編譯到伺服器中。
+
+
+
+目录
+
+
+1 歷史
+2 命名
+3 特性
+4 2.x版本
+5 評價
+6 註釋
+7 参考文献
+8 外部連結
+
+
+
+歷史[编辑]
+Apache起初由伊利諾大學香檳分校的國家超級電腦應用中心（NCSA）開發。此後，Apache Httpd被開放原始碼團體的成員不斷的發展和加強。Apache Http網站伺服器擁有牢靠可信的美譽，已經在全球超過半數的網站中被使用－特別是幾乎所有最熱門和瀏覽量最大的網站。比方說，維基百科網站伺服器就是使用Apache的。
+剛開始發展時，Apache只是Netscape網頁伺服器（現在是Sun ONE（英语：Sun ONE））之外的開放原始碼選擇之一。慢慢地，它開始在功能和速度超越其他基於Unix的HTTP伺服器。到了Apache 2.x的時代，實際效率又比Apache 1.x更快，2.x比1.x能同時服務更多的網頁連線數。
+1996年4月以來，Apache一直是Internet上最流行的HTTP伺服器：1999年5月它在57%的網頁伺服器上運行，到了2005年7月這個比例上升到了69%。在2005年11月最風光的時候達到接近70%的市佔率，不過在部份擁有大量域名的主機域名商轉換為微軟IIS平台後，Apache市佔率近年來呈現些微下滑。同時搜尋引擎巨擘Google自己的網頁伺服器平台GWS推出後（也可說是一種修改版的Apache[3]），再加上nginx、Lighttpd等輕量化網頁伺服器軟體在市場上有一些能見度，這些因素都反應在整體網頁伺服器市佔率的消長，Apache的市佔率就隨之滑落。
+根據Netcraft（英语：Netcraft）在2009年12月的最新統計數據，Apache的市佔率已經降為53.67％，IIS降為18.26％，谷歌網頁伺服器13.53％，nginx 8.75％。儘管如此，Apache及其各种分支版本仍舊是當前網際網路市場上，市佔率最高的網頁伺服器軟體[4][5]。
+命名[编辑]
+作者宣称因为Apache这个名字好记，所以才在最初选择它，但是流传最广的解释是（也是最显而易见的）：这个名字来自於一个事实：当Apache在1995年初开发的时候，它是由当时最流行的HTTP服务器NCSA HTTPd 1.3的代码修改而成的，因此是「一个修补的（a patchy）」服务器。然而，在Apache服务器官方网站的FAQ中是这麽解释的：「Apache这个名字是为了纪念名为Apache的美洲原住民印第安人的一支，众所周知他们拥有高超的作战策略和无穷的耐性。」贝伦多夫说：「我选择阿帕奇这个名字是取其积极含义。阿帕奇族是最后一个屈服于美国政府的民族。当时我们担心大公司迟早会参与竞争并‘教化’这块最早的网络之地，所以在我看来，阿帕奇是个很好的名称，也有人说这个词一语双关-因为正如Apache（与"a patchy"谐音）的名字所表明的那样，他们确实是在给服务器打补丁。」[6]无论如何，Apache 2.x分支不包含任何NCSA的程序代码。
+特性[编辑]
+Apache支援許多特性，大部分通過編譯的模塊實現。這些特性從伺服器端的程式語言支援到身份認證方案。一些通用的语言接口支持Perl，Python，Tcl， 和PHP。流行的认证模块包括mod_access，mod_auth和mod_digest。其他的例子有SSL和TLS支持（mod_ssl），代理服务器（proxy）模块，很有用的URL重写（由mod_rewrite实现），定制日志文件（mod_log_config），以及过滤支持（mod_include和mod_ext_filter）。Apache日志可以通过网页浏览器使用免费的脚本AWStats或Visitors来进行分析。
+2.x版本[编辑]
+Apache的2.x版本核心在Apache 1.x版本之上作出了重要的加強。這包括：多執行緒，更好的支援非UNIX平台（例如Windows），MPM，新的Apache API，以及IPv6支援。
+評價[编辑]
+
+《PC Magazine（英语：PC Magazine）》2004年8月評出了近30年以來的10款最佳軟體產品。他們其中或者是有過最輝煌的歷史，或者是最具創意。其對Apache的評價是：第三名：Apache（1995年推出），目前已經演變成了「LAMP」，即Linux、Apache、MySQL和PHP的聯合體。這是一個開放原始碼軟體項目，已經對微軟的「.NET」戰略構成嚴重威脅。尤其是Apache網路伺服器，讓用戶充分體驗到開放原始碼軟體的穩定性、可靠性和可定製性。
+Apple.com評價Apache時說：Apache是伺服器軟體始終不斷進化的大型元件，它免費但又是無價之寶。Apache是在開源運動中出現的絕對珍品，因為不屬於個人專利而是對公共免費。一旦擁有這些原始碼，程序員能夠自由完成所想——能在其它程式員接替工作時被賦予同樣的權限來改變和修改自己的原始碼。
+
+註釋[编辑]
+
+
+^ 儘管不斷有新的漏洞被發現，但由於其開放原始碼的特點，漏洞總能被很快修補。因此總合來說，其安全性還是相當高的。
+
+
+参考文献[编辑]
+
+
+^ About the Apache HTTP Server Project. Apache Software Foundation. [2008-06-25]. （原始内容存档于2008年6月7日）. 
+^ Apache HTTP Server. Ohloh.net. 
+^ 存档副本. [2009-03-14]. （原始内容存档于2009-02-25）. 
+^ http://news.netcraft.com/archives/2009/12/24/december_2009_web_server_survey.html ，http://news.netcraft.com/archives/category/web-server-survey/
+^ http://news.netcraft.com/archives/2013/08/09/august-2013-web-server-survey.html ，http://news.netcraft.com/archives/category/web-server-survey/
+^ 《世界是平的》，托马斯·弗里德曼著
+
+
+外部連結[编辑]
+
+Apache伺服器官方網站
+Apache軟體基金會官方網站
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Apache软件基金会
+
+
+
+
+
+
+顶级项目
+
+
+
+Abdera（英语：Apache Abdera）
+Accumulo（英语：Apache Accumulo）
+ActiveMQ
+Ambari（英语：Apache Ambari）
+Ant
+Aries（英语：Apache Aries）
+Apache HTTP Server
+APR
+Avro
+Axis
+Axis2
+Bloodhound（英语：Apache Bloodhound）
+Apache Brooklyn（英语：Apache Brooklyn）
+Buildr（英语：Apache Buildr）
+Calcite（英语：Apache Calcite）
+Camel
+Cassandra
+Cayenne（英语：Apache Cayenne）
+Chemistry（英语：Apache Chemistry）
+CloudStack（英语：Apache CloudStack）
+Cocoon（英语：Apache Cocoon）
+Continuum（英语：Apache Continuum）
+Cordova
+CouchDB
+cTAKES（英语：cTAKES）
+CXF
+Deltacloud（英语：Deltacloud）
+Derby
+Directory（英语：Apache Directory Server）
+Drill（英语：Apache Drill）
+Empire-db（英语：Apache Empire-db）
+Felix（英语：Apache Felix）
+Flex
+Flink（英语：Apache Flink）
+Flume（英语：Apache Flume）
+Forrest（英语：Apache Forrest）
+Geronimo（英语：Apache Geronimo）
+Gora（英语：Apache Gora）
+Gump（英语：Apache Gump）
+Hadoop
+Hama（英语：Apache Hama）
+HBase
+Hive
+Jackrabbit（英语：Apache Jackrabbit）
+James（英语：Apache James）
+JMeter（英语：Apache JMeter）
+Kafka
+Karaf（英语：Apache Karaf）
+Kylin（英语：Apache Kylin）
+Lucene
+Lenya（英语：Apache Lenya）
+Mahout（英语：Apache Mahout）
+Marmotta（英语：Apache Marmotta）
+Maven
+MINA（英语：Apache MINA）
+mod_perl（英语：mod_perl）
+MyFaces（英语：Apache MyFaces）
+Nutch（英语：Apache Nutch）
+ODE（英语：Apache ODE）
+OFBiz（英语：Apache OFBiz）
+Oozie（英语：Oozie）
+OpenEJB（英语：Apache OpenEJB）
+OpenJPA（英语：Apache OpenJPA）
+OpenNLP
+OpenOffice
+PDFBox（英语：Apache PDFBox）
+Phoenix（英语：Apache Phoenix）
+POI
+Pig（英语：Pig (programming tool)）
+Pivot（英语：Apache Pivot）
+Qpid（英语：Apache Qpid）
+River（英语：Apache River）
+Roller（英语：Apache Roller）
+Samza（英语：Apache Samza）
+ServiceMix（英语：Apache ServiceMix）
+Shindig（英语：Apache Shindig）
+Shiro
+Sling（英语：Apache Sling）
+Spark
+Stanbol（英语：Apache Stanbol）
+Storm
+SpamAssassin
+Sqoop（英语：Sqoop）
+Apache C++标准库（英语：stdcxx）
+Struts
+Struts 2
+Subversion
+Tapestry
+Thrift
+Tiles（英语：Apache Tiles）
+Tika（英语：Apache Tika）
+Tomcat
+Trafficserver
+Turbine
+Tuscany
+UIMA
+Velocity
+Wave
+Wicket
+Wink（英语：Apache Wink）
+Xalan（英语：Xalan）
+Xerces（英语：Xerces）
+XMLBeans（英语：XMLBeans）
+ZooKeeper
+
+
+
+
+
+
+
+
+
+
+
+Commons项目
+
+
+
+Apache Commons Logging（英语：Apache Commons Logging）
+BCEL（英语：Byte Code Engineering Library）
+BSF（英语：Bean Scripting Framework）
+Commons Daemon（英语：Commons Daemon）
+Jelly（英语：Apache Jelly）
+
+
+
+
+
+
+
+
+Lucene项目
+
+
+
+Lucene Java
+Lucene.Net（英语：Lucene.Net）
+Nutch（英语：Nutch）
+Solr
+
+
+
+
+
+
+
+
+Hadoop项目
+
+
+
+HBase
+HDFS
+
+
+
+
+
+
+
+
+其他项目
+
+
+
+Batik
+Chainsaw（英语：Chainsaw (log file viewer)）
+FOP
+Log4j
+XAP（英语：Apache XAP）
+Log4Net
+Ivy（英语：Apache Ivy）
+
+
+
+
+
+
+
+
+Incubator项目
+
+
+
+XAP（英语：Apache XAP）
+Samza（英语：Apache Samza）
+Storm
+
+
+
+
+
+
+
+
+Apache Attic
+
+
+
+AxKit（英语：AxKit）
+Beehive（英语：Apache Beehive）
+Click（英语：Apache Click）
+Bluesky（英语：BlueSky Open Platform）
+Cactus（英语：Jakarta Cactus）
+Jakarta
+Excalibur（英语：Apache Excalibur）
+Harmony
+HiveMind（英语：Apache HiveMind）
+Lenya（英语：Apache Lenya）
+Slide（英语：Jakarta Slide）
+Shale（英语：Apache Shale）
+Shindig（英语：Apache Shindig）
+stdcxx（英语：Apache C++ Standard Library）
+iBATIS
+XMLBeans（英语：XMLBeans）
+
+
+
+
+
+
+
+
+许可证标准
+
+
+
+Apache许可证
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 维基共享
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4460947-4
+
+
+
+
+
+
+
+
+
+
+
+
+分类：LAMP1995年软件Apache软件基金会自由跨平台軟體用C編程的自由軟體自由网络服务器软件反向代理Unix网络相关软件Linux网络服务器软件隐藏分类：使用过时图像语法的页面包含规范控制信息的维基百科条目

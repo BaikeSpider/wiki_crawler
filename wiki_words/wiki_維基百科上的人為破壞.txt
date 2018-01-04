@@ -1,0 +1,477 @@
+维基百科的破坏
+
+
+ 关于维基百科关于破壞的方针页面，请见“维基百科:破坏”。
+
+
+
+
+
+
+维基百科的破坏的實例
+
+
+在網絡百科全書維基百科上，破壞是指一些惡意的破壞性行為，例如惡作劇，添加與事實不符或者侮辱性內容等。由於任何人都可以編輯維基百科，維基百科上經常出現破壞。[1]
+大多數人為破壞往往是一時衝動的而寫下的無聊內容。頻繁的破壞目標包括熱門的文章或有爭議的話題和時事[2][3]。有時，知名人物會被虛報為已死亡[4]。
+破壞的預防和處理[编辑]
+维基百科採取了各種措施以預防和修復破壞。這些措施包括：
+
+歷史功能：维基百科中的條目設有歷史記錄，保留了條目之前的所有版本，以便恢復文章到破壞發生之前的最後一個版本。這種恢復功能被稱為「回退」破壞[2][5]。大多數破壞都能被迅速回退[6]。通過以下幾種方式可以發現破壞行為：
+
+機器人：在很多情況下，破壞行為可以被機器人自動檢測出來並進行處理。破壞者會在無人干預的情況下被警告。
+最新更改巡查：維基百科有一個特殊的頁面，列出了所有最近更改。有些編者會監視這一頁面，以便從速修復破壞。[7]
+監視列表：已註冊用戶可以通過「監視列表」功能關注頁面的建立和修改，也可以用於監視對頁面的破壞行為。
+偶然發現：讀者如果恰好遇到破壞，也可以直接處理破壞。2008年的一份報告指出，這種「偶然發現」的稀少表明了其他破壞清理方法的功效。[7]
+
+
+頁面保護：部分頁面會被鎖定，只允許確認用戶進行編輯，在部分情況下會只允許管理員進行編輯[2][8]。「半保護」條目只允許被稱為「自動確認用戶」的用戶進行編輯。在中文維基百科，「自動確認用戶」需要註冊至少7天並做出至少50筆編輯。「全保護」條目只允許管理員進行編輯。保護通常在一個或多個編者在特別的頁面提出請求之後由管理員按照維基百科的保護方針來進行。
+封禁用戶：有些情況下，持續進行破壞的用戶會被封禁一段時間甚至永久封禁以阻止其進行編輯[2]。封禁破壞者不是出於懲罰，而是出於防止進一步破壞[9]。
+「防濫用過濾器」擴展：通過正規表達式來檢測常見的破壞內容[10]。
+
+在被封禁之前，編輯者通常會被警告。維基百科使用四個層次的警告，這些警告分別是：[11]
+
+第一層次的警告假設編者出於善意，以一種比較輕和的語氣來警告用戶；
+第二層次的警告不再假設編者出於善意，屬於事實上的警告；
+第三層次的警告假設編者出於惡意，並警告用戶如果繼續破壞會招致封禁；
+第四層次的警告是最後警告，表示繼續破壞會被立刻封禁。
+在此之後，其他用戶也可能會發出其他警告。實際上只有管理員能夠進行封禁。
+
+2005年，有人在英文維基百科中建立约翰·席根塔勒的條目，並称其与美国前总统约翰·肯尼迪及其弟罗伯特·肯尼迪之死有关。约翰·席根塔勒批評維基百科未能發現和更正錯誤而且允許匿名用戶進行編輯。之後英文維基百科為防止破壞，開始要求只有已註冊用戶才能建立新條目。[12]
+英文維基百科在一些條目尤其是在世人物條目中要求編輯內容被審核並被確認不屬於破壞之後才能通過。在一些情況下還要求檢查是否提供了精確的來源。[13][14]
+著名破坏[编辑]
+
+席根塔勒传记事件：2005年5月一位匿名用戶在英文维基百科发布了一篇涉及美国著名记者约翰·席根塔勒的恶搞条目，条目错误地指出席根塔勒有暗杀美国总统约翰·肯尼迪和司法部长罗伯特·肯尼迪的嫌疑[15]。这起恶作剧直到2005年9月才被发现并改正过来，之后席根塔勒在《今日美国》撰写了他的经历。这起事件引发对维基百科及其他缺乏传统纸媒和出版资料法律责任的用户生成内容网站可靠性的质疑[16]。
+於2006年，《滾石》雜誌一篇關於美國女演員荷爾·芭莉的報導錯誤引用维基百科上的惡作劇破坏內容。[17]
+2006至2007年，一名來自波蘭羅茲的用戶不斷在波蘭語維基百科上在政治人物及和天主教有關的條目上加上陰莖和肛門的圖片。[18]
+高爾夫球手福兹·佐勒尔曾經控告一家邁阿密公司在维基百科上增加關於他的負面內容。[來源請求]
+斯諾登在英語維基百科中的描述曾被修改為賣國賊，IP地址顯示修改者來自美國參議院。[19][20][21]
+
+參考資料[编辑]
+
+
+^ Wikipedia tightens online rules. BBC News. 6 December 2005. 
+^ 2.0 2.1 2.2 2.3 Kleeman, Jenny. Wikipedia fights vandalism. New Zealand Herald. 2 April 2007. 
+^ Martin, Lorna. Wikipedia fights off cyber vandals. The Guardian (London). 18 June 2006. 
+^ Vandals prompt Wikipedia to ponder editing changes. ABC News. 28 January 2009 [26 November 2011]. 
+^ Wikipedia the Missing Manual.. Sebastopol: O'Reilly Media, Inc. 2008. ISBN 9780596553777. 
+^ Hicks, Jesse. This machine kills trolls. The Verge. [18 February 2014]. 
+^ 7.0 7.1 Broughton, John. Wikipedia: the missing manual. 2008: 122. ISBN 0-596-51516-2. 
+^ Wiki任改唔嬲　錯處隨時有. 蘋果日報. 2013-08-09 [2013-08-17]. 
+^ Broughton, John. Wikipedia: the missing manual. 2008: 134. ISBN 0-596-51516-2. 
+^ Wikipedia:Abuse filter
+^ Broughton, John. Wikipedia: the missing manual. 2008: 130–31. ISBN 0-596-51516-2. 
+^ Wikipedia tightens editorial rules after complaint – 06 December 2005. New Scientist. [2012-06-07]. 
+^ Wikipedia Tests Approval System to Reduce Page Vandalism. Maximum PC. 19 July 2008 [2012-06-07]. 
+^ Wikipedia plans to enforce new editing policy to thwart vandals – eBrandz Search Marketing & Technology News. News.ebrandz.com. 27 August 2009 [2012-06-07]. 
+^ Seigenthaler, John. A false Wikipedia 'biography'. USA Today. 2005-11-29 [2013-10-27]. 
+^ The State of the News Media 2006. The Project for Excellence in Journalism. 2009-09-14. 
+^ Rolling Stone prints story based on Wikipedia vandalism – Wikinews, the free news source. En.wikinews.org. [2012-06-07]. 
+^ 2007-04-19: Wikipedia blokuje anonimowe edycje z łódzkiej Neostrady – Wikinews, wolne źródło informacji. Pl.wikinews.org. [2012-06-07]. 
+^ 斯諾登維基百科資料被改為賣國賊. 文匯報. 2013-08-05 [2013-08-17]. 
+^ 美參議院疑竄改維基百科資料 史諾登成叛徒. 2013-08-05 [2013-08-17]. 
+^ 參院圖改維基資料 斯諾登被屈「賣國賊」. 頭條日報. 2013-08-06 [2013-08-17]. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+維基百科
+
+
+
+
+
+
+百科概要（英语：Outline of Wikipedia）
+
+
+
+維基
+利益衝突編輯
+批評
+刪除主義和保留主義
+性別偏誤
+種族偏差（英语：Racial bias on Wikipedia）
+關注度
+可靠性
+來源請求（日语：要出典）
+破壞
+維基百科健康資訊（英语：Health information on Wikipedia）
+
+
+
+
+
+
+
+
+維基社群
+
+
+
+
+百科運作
+
+
+
+管理員
+仲裁委員會
+編輯松
+The Signpost（英语：The Signpost）
+維基愛古蹟
+Art+Feminism（英语：Art+Feminism）
+駐點維基人（英语：Wikipedian in residence）
+年度維基人（英语：Wikipedian of the Year）
+維基教育基金會
+
+
+
+
+
+
+
+
+運動夥伴
+
+
+
+維基媒體基金會
+維基媒體分會
+
+德國
+法國
+義大利
+荷蘭
+波蘭
+中華民國
+香港
+澳門
+Amical（加泰罗尼亚语：Amical Wikimedia）
+
+
+維基媒體計劃
+
+元維基
+維基百科
+維基詞典
+維基數據
+維基教科書
+維基共享資源
+維基新聞
+維基語錄
+維基文庫
+維基物種
+維基學院
+維基導遊
+
+
+維基媒體國際會議
+中文維基年會
+
+
+
+
+
+
+
+
+
+
+
+著名人物
+
+
+
+弗洛朗絲·德伍阿爾
+奧斯卡·范·迪倫（英语：Oscar van Dillen）
+蘇·加德納
+詹姆斯·海爾曼
+凱薩琳·馬赫
+馬格努斯·曼斯克
+埃里克·默勒
+拉里·桑格
+莉拉·崔迪科夫
+吉米·威爾斯
+安吉拉·貝絲蕾·斯塔林
+時昭
+許瑜真
+陳霆
+王鐘銘
+陳穎
+賈斯汀·納普
+提姆·謝爾
+麥可·斯諾
+邁克·戈德溫（英语：Mike Godwin）
+埃文·阿莫斯
+巴塞爾·哈爾塔比爾
+酈安治
+麥康瑞
+西蒙·普爾西斐
+亞倫·斯沃茨
+伊霍爾·柯斯登柯
+唐鳳
+加特·沃爾什
+雷米·馬蒂斯
+亞倫·哈爾費克（英语：Aaron Halfaker）
+達魯休·傑米爾尼亞克（英语：Dariusz Jemielniak）
+漢普頓·凱特林（英语：Hampton Catlin）
+達斯·庫珀（英语：Danese Cooper）
+比夏漢·達塔（英语：Bishakha Datta）
+亞倫·格斯里（英语：Arnnon Geshuri）
+蓋伊·川崎（英语：Guy Kawasaki）
+路爾斯·比利亞（英语：Luis Villa）
+
+
+
+
+
+
+
+
+百科歷史
+
+
+
+
+發展歷程
+
+
+
+Bomis
+Nupedia
+維基百科標誌
+義大利語維基百科大規模空白抗議
+反SOPA和PIPA抗議
+
+英語維基百科關站抗議（印尼语：Pemadaman Wikipedia bahasa Inggris）
+
+
+俄語維基百科關站抗議（俄语：Забастовка русской Википедии）
+皮埃爾敍奧特軍用無線電台事件
+維基百科也申遺
+1Lib1Ref（英语：1Lib1Ref）
+維基百科知識引擎
+涉及到維基媒體基金會的訴訟（英语：Litigation involving the Wikimedia Foundation）
+
+維基媒體基金會控告美國國家安全局案
+
+
+
+
+
+
+
+
+
+
+相關爭議（英语：List of Wikipedia controversies）
+
+
+
+美國國會職員的編輯
+Essjay事件
+席根塔勒傳記事件
+亨里克·巴圖塔惡作劇事件（英语：Henryk Batuta hoax）
+山達基教會的編輯（英语：Church of Scientology editing on Wikipedia）
+希爾斯堡慘劇編輯事件（英语：Hillsborough Wikipedia posts）
+MyWikiBiz（英语：MyWikiBiz）
+克里斯·班瓦謀殺事件（英语：Chris Benoit double-murder and suicide）
+美國中東新聞報導準確性委員會爭議（英语：Committee for Accuracy in Middle East Reporting in America）
+比喬利姆戰爭（加泰罗尼亚语：Bicholim conflict）
+
+
+
+
+
+
+
+
+審查封鎖
+
+
+
+網路觀察基金會審查
+中國大陸對維基媒體的封鎖
+俄羅斯對維基百科的封鎖（俄语：Блокирование Википедии в России）
+
+俄羅斯國家杜馬89417-6法案
+
+
+2017年土耳其封鎖維基百科事件
+
+
+
+
+
+
+
+
+
+
+
+相關技術
+
+
+
+
+網站技術
+
+
+
+Wiki
+MediaWiki
+维基可视化编辑器
+Lsjbot
+資訊框
+Wikiwand
+
+
+
+
+
+
+
+
+手機访问
+
+
+
+應用程式
+QRpedia
+Wapedia
+WikiNodes（英语：WikiNodes）
+維基百科零計劃
+
+
+
+
+
+
+
+
+內容使用
+
+
+
+Books LLC（英语：Books LLC）
+DBpedia
+Deletionpedia
+Kiwix
+WikiReader（英语：WikiReader）
+維基百科校園版
+維基掃描器
+
+
+
+
+
+
+
+
+
+
+
+獎勵紀念
+
+
+
+2008年勝利女神四馬戰車獎（英语：Quadriga (award)）
+2015年伊拉斯謨獎
+2015年阿斯圖里亞斯親王獎
+維基百科紀念雕像
+國際志願者日
+小行星274301
+
+
+
+
+
+
+
+
+造成影響
+
+
+
+文化領域（英语：Wikipedia in culture）
+相關書目（英语：Bibliography of Wikipedia）
+相關電影
+學術研究（英语：Academic studies about Wikipedia）
+Wikipedia Review（英语：Wikipedia Review）
+Wikipediocracy（英语：Wikipediocracy）
+Wiki-Watch（英语：Wiki-Watch）
+伊拉克戰爭：維基百科編輯歷史史學（英语：The Iraq War: A Historiography of Wikipedia Changelogs）
+列印維基百科
+大憲章（英语：Magna Carta (An Embroidery)）
+數字中的真相
+維基百科編輯手冊
+
+
+
+
+
+
+
+
+類似計畫
+
+
+
+Interpedia（英语：Interpedia）
+大眾百科
+自由百科
+Digital Universe（英语：Digital Universe）
+偽基百科
+Nonciclopedia（義大利語：Nonciclopedia）
+Vikidia（法语：Vikidia）
+Veropedia（英语：Veropedia）
+WikiZnanie（葡萄牙語：WikiZnanie）
+Lurkmore（俄语：Луркоморье）
+Wookieepedia
+Scholarpedia
+Wikia
+Wiki網站列表
+
+
+
+
+
+
+
+
+
+
+
+ 條目分類
+ 維基教科書
+ 維基數據
+ 維基共享資源
+ 維基新聞
+ 維基語錄
+ 維基文庫
+ 維基學院
+ 維基導遊
+ 維基辭典
+
+
+
+
+
+
+
+
+
+
+
+
+分类：维基百科隐藏分类：自2016年7月有未列明来源语句的条目

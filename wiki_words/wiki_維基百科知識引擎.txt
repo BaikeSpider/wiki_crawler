@@ -1,0 +1,112 @@
+維基百科知識引擎
+
+
+
+
+
+本条目當前標題「維基百科知識引擎」為暫定名稱，可能原創、不準確或者具爭議性。 
+請注意現時使用這個名稱並不代表對其認可，應先進行討論，待取得共識後，再考量是否維持原狀或更名（移動）至更適合的標題。 
+
+
+
+
+
+
+
+建議将此條目或章節併入維基媒体知識引擎。（討論）  
+
+
+
+
+
+
+維基百科知識引擎畫面(開發中，此為簡報時想像圖)
+
+
+維基百科知識引擎[註 1]（英语：Knowledge Engine by Wikipedia，縮寫为KE) ，是維基媒體基金會(WMF)在2015年起開始推展的一項計畫。該計畫預計花費六年時間與250萬美金，開發出一個能夠與Google等商業公司競爭，但卻是非盈利的搜尋引擎[1][2]。KE目的是要改變使用者的傳統搜索習慣[3]，讓讀者能停留在Wikipedia.org，與其它維基百科相關項目，而不是回到原搜尋引擎尋找更多資料[3]。基金會執行長莉拉·崔迪科夫因為一度否認此計畫的存在，遭到社群質疑，所以在2016年2月提出辭呈，任期至3月31日截止。
+根據WMF的說法，KE將致力於保護用戶隱私，並將透明化與公開其數據來源，且允許存取元数据[4]。在WMF向奈特基金會（英语：Knight Foundation）（Knight Foundation）提出的25萬美元撥款申請中，形容KE將作為一個非營利的資訊提供者：「商業搜尋引擎統治了互聯網搜索引擎的使用，他們使用專利技術，以控制在網上知識與資訊的瀏覽。」[5]這個計劃區分為四個階段，每個階段將需時18個月[6] KE計畫將維基百科相關項目的資料，與任何可搜索的公共資訊來源整合，例如美國人口調查局（U.S. Census Bureau），以成為一個「可信賴的公共信息系統」[5]。而從WMF內部流出的文件中稱：「維基百科知識引擎將成為網際網路上最可信，於媒體、新聞，以及資訊等方面的提供者，它會致力採取更易親近的搜索方式，且開放公眾策劃，它也將作為一個完全免費，不涉商業利益的開放數據引擎。我們的新網站將成為網際網路上第一個透明化的搜尋引擎，且這個第一將會提高維基百科和維基媒體基金會的聲譽。[1]」
+WMF聲稱，KE不會與Google Search等其他的搜尋引擎競爭[5]。
+注释[编辑]
+
+
+^ 目前並無官方中文名，此為直譯。
+
+
+参考文献[编辑]
+
+
+^ 1.0 1.1 Koebler, Jason. The Secret Search Engine Tearing Wikipedia Apart. Vice. February 16, 2016. 
+^ Mishra, Sudhir. Knowledge Engine – Wikipedia is working on a transparent search engine. techcresendo. February 17, 2016. 
+^ 3.0 3.1 McGee, Matt. Wikimedia Foundation Secures $250,000 Grant For Search Engine Development. Newsweek. 2016-02-15 [2016-06-03] （英语）. 
+^ Singh, Manish. Wikipedia's Upcoming Search Engine to Rival Google; Offer Full Transparency. Gadgets 360. February 16, 2016. 
+^ 5.0 5.1 5.2 Cuthbertson, Anthony. Wikipedia Takes on Google with New 'Transparent' Search Engine. Newsweek. February 16, 2016. 
+^ Crum, Chris. Wikimedia Works On Search Improvements, Says It's Not Competing with Google [Updated]. WebProNews. 2016-02-15 [2016-06-03] （英语）. 
+
+
+外部連結[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：維基百科知識引擎
+
+
+
+（英文）在MediaWiki.org的Wikimedia Discovery首頁
+
+
+
+
+
+維基媒體基金會的项目
+
+
+公眾项目
+
+
+
+维基百科（前往）
+
+維基詞典（前往）
+
+維基教科書（前往）
+
+維基語錄（前往）
+
+
+
+維基文庫（前往）
+
+維基共享資源（前往）
+
+維基物種（前往）
+
+維基新聞（前往）
+
+
+
+維基學院（前往）
+
+维基数据（前往）
+
+維基導遊（前往）
+
+MediaWiki（前往）
+
+
+內部项目
+
+
+
+元维基（前往）
+
+維基媒體國際會議（前往）
+
+維基孵育場（前往）
+
+
+
+
+
+
+
+分类：維基媒體基金會網路搜尋引擎2016年建立隐藏分类：CS1英语来源 (en)標題暫定的條目拒绝当选首页新条目推荐栏目的条目需要合併的條目

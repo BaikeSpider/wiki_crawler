@@ -1,0 +1,713 @@
+开源软件
+
+
+提示：本条目的主题不是自由软件。
+
+
+關於“开放源代码”的广义理念，請見“开放源代码”。
+
+
+
+
+
+
+
+本条目需要补充更多来源。（2015年4月27日） 
+请协助添加多方面可靠来源以改善这篇条目，无法查证的内容可能會因為异议提出而移除。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+开放源代码促进会（OSI）徽標
+
+
+开源软件（英语：open source software，英文缩写：OSS，中文也称：开放源代码软件）是一种源代码可以任意获取的计算机软件，这种软件的版权持有人在软件协议的规定之下保留一部分权利并允许用户学习、修改、增进提高这款软件的质量。开源协议通常符合開放原始碼的定義的要求。一些开源软件被发布到公有领域。开源软件常被公开和合作地开发。开源软件是开放源代码开发的最常见的例子，也经常与用户生成内容做比较[1]。 开源软件的英文“open-source software”一词出自自由软件的营销活动中[2]。
+开源软件同时也是一種軟體散佈模式。一般的軟體僅可取得已經過編譯的二進位可執行檔，通常只有軟體的作者或著作權所有者等擁有程式的原始碼。
+有些軟體的作者只將原始碼公開，卻不符合「開放原始碼」的定義及條件，因為作者可能設定公開原始碼的條件限制，諸如限制可閱讀原始碼的對象、限制衍生產品等，此稱之為公开源代码的免费软件（Freeware，例如知名的模擬器軟體MAME），因此公開原始碼的軟體並不一定可稱之為開放原始碼軟體。
+
+
+
+目录
+
+
+1 開放原始碼的定義
+2 開放原始碼與自由軟體
+3 歷史
+4 漏洞
+5 参考文献
+6 外部链接
+7 参见
+
+
+
+開放原始碼的定義[编辑]
+
+
+
+本章节需要扩充（2015-04-26）
+
+
+開放原始碼的定義由Bruce Perens（Debian的創始人之一）定義如下：
+
+自由再散布（Free Distribution）：允許獲得原始碼的人可自由再將此原始碼散佈。
+原始碼（Source Code）：程式的可執行檔在散佈時，必需以隨附完整原始碼或是可讓人方便的事後取得原始碼。
+衍生著作（Derived Works）：讓人可依此原始碼修改後，在依照同一授權條款的情形下再散佈。
+原創作者程式原始碼的完整性（Integrity of The Author’s Source Code）：意即修改後的版本，需以不同的版本號碼以與原始的程式碼做分別，保障原始的程式碼完整性。
+不得對任何人或團體有差別待遇（No Discrimination Against Persons or Groups）：開放原始碼軟體不得因性別、團體、國家、族群等設定限制，但若是因為法律規定的情形則為例外（如：美國政府限制高加密軟體的出口）。
+對程式在任何領域內的利用不得有差別待遇（No Discrimination Against Fields of Endeavor）：意即不得限制商業使用。
+散布授權條款（Distribution of License）：若軟體再散佈，必需以同一條款散佈之。
+授權條款不得專屬於特定產品（License Must Not Be Specific to a Product）：若多個程式組合成一套軟體，則當某一開放原始碼的程式單獨散佈時，也必需要符合開放原始碼的條件。
+授權條款不得限制其他軟體（License Must Not Restrict Other Software）：當某一開放原始碼軟體與其他非開放原始碼軟體一起散佈時（例如放在同一光碟片），不得限制其他軟體的授權條件也要遵照開放原始碼的授權。
+授權條款必須技術中立（License Must Be Technology-Neutral）：意即授權條款不得限制為電子格式才有效，若是紙本的授權條款也應視為有效。
+
+儘管一開始接受，[3]自由軟體基金會的理查·斯托曼現在斷然反對將「開源軟體」與「自由軟體」混為一談。雖然在法律上並未明確區分自由軟體與開源軟體，但斯托曼認為不宜濫用。[4]
+開放原始碼與自由軟體[编辑]
+許多人將開放原始碼與自由軟體（free Software）視為相同，但若以定義條件而言，自由軟體僅是開放原始碼的一種，也就是自由軟體的定義較開放原始碼更為嚴格，並非開放原始碼的軟體就可稱為自由軟體，要視該軟體的授權條件是否合乎自由軟體基金會對自由軟件所下的定義：
+
+自由軟體是在電腦為個人或為公共利益，而非私人公司或政府等企圖限制或監視我們工作時，我們在家、學校、公司使用時，我們具有其控制權。[5]
+
+开放源代码有时不仅仅指开放源代码软件，它同时也是一种软件开放模式的名称。使用开放源代码开放模式的软件代表就有Linux操作系统。
+严格地说来，开放源代码软件与自由软件是两个不同的概念，只要符合开源软件定义的软件就能被称为开放源代码软件（开源软件）。自由软件是一个比开源软件更严格的概念，因此所有自由软件都是开放源代码的，但不是所有的开源软件都能被称为“自由”。但在现实上，绝大多数开源软件也都符合自由软件的定义。比如，遵守GPL和BSD许可的软件都是开放的并且是自由的。
+「开放源代码软件运动」是一个主要由程序工程师及其它电脑用户参与的声势浩大的运动。它是自由软件运动的一个分支，但两者的差别并不明显。一般而言，自由软件运动是基于政治及哲学思想（有时被称为所谓黑客文化）的理想主义运动，而开放源代码运动则主要注重程序本身的质量提升。
+歷史[编辑]
+1997年，埃里克·雷蒙出版其著作《大教堂和市集》，探討黑客社群與自由軟體原則。1998年初，該論文受到極大的關注，為促成網景通訊公司將其受歡迎的網際網路套裝軟體《網景通訊家》釋放成為自由軟體的因素之一。這些程式碼即為今日大家熟悉的Mozilla Firefox與Thunderbird。
+網景的行動激起雷蒙及其伙伴深入研究如何將自由軟體基金會的自由軟體概念及優點帶入商業軟體產業。他們查覺基金會的社會活動不如网景等公司的行動來得吸引人，因而試圖重新包裝自由軟體運動，以強調分享與協作軟體原始碼的潛在商機。他們選用的新名稱為「開放原始碼」（open source），很快地布魯斯·佩倫斯、出版家提姆·奧萊理、林納斯·托瓦茲及其他人支持新名稱。開放原始碼促進會於1998年2月創建，以推動使用新名稱，並宣揚開放原始碼的原則。[6]
+漏洞[编辑]
+雖然开放源代碼的堡壘看似嚴謹，但其實大部份的程式開發員都弄不清各種許可證之間的差別，導致成為了小部份別有用心人士所利用的對象，較著名的例子有DivX，早期DivX雛形是一個LGPL的自由軟體，由大部份優秀的軟體高手義務地開發，但當軟體漸漸成形時，DivX的公司DXN利用LGPL的漏洞對DivX進行了閉源，大部分軟體愛好者都感到被出賣，所以著手開發了XviD。雖然XviD在軟體方面明顯比DivX優秀，但市場占有率卻不如DivX。
+参考文献[编辑]
+
+
+^ Verts, William T. Open source software. World Book Online Reference Center. 2008-01-13. （原始内容存档于2011-01-01）. 
+^ Frequently Asked Questions. Open Source Initiative. [2008-09-08]. （原始内容存档于2006-04-23）. 
+^ Tiemann, Michael. History of the OSI. Open Source Initiative. [13 May 2014]. （原始内容存档于2011年11月27日）. 
+^ Stallman, Richard. Why "Open Source" misses the point of Free Software. Philosophy of the GNU Project. Free Software Foundation. June 16, 2007 [July 23, 2007]. As the advocates of open source draw new users into our community, we free software activists have to work even more to bring the issue of freedom to those new users' attention. We have to say, 'It's free software and it gives you freedom!'—more and louder than ever. Every time you say 'free software' rather than 'open source,' you help our campaign. 
+^ [The Free Software Foundation (FSF) ]
+^ History of the OSI. Opensource.org. 
+
+
+外部链接[编辑]
+
+开放源代码促进会
+《开源软件文集》英文版
+中華民國中央研究院自由軟體鑄造場
+中国的LUPA开源社区供参考
+
+参见[编辑]
+
+
+自由軟體主题
+
+
+
+开放源代码
+自由软件
+万圣节文件
+内容开放
+开放法律
+开放源代码软件列表
+Sourceforge
+Github
+自由軟體鑄造場
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+知识产权激进主义
+
+
+
+
+
+
+问题和争论
+
+
+
+版权侵犯
+软件版权侵犯
+数字版权管理
+Gripe site（英语：Gripe site）
+音乐著作权的历史
+知识产权
+文件分享的合法性
+混制
+
+视频
+音乐
+
+
+专利权
+公有领域
+软件专利争论
+專利流氓
+
+
+
+
+
+
+
+
+概念
+
+
+
+All Rights Reversed
+Anti-版权 notice
+Copyleft
+版权属左的商业应用
+Commons-based peer production（英语：Commons-based peer production）
+自由内容
+自由软件许可
+信息无政府主义
+Libertarian positions（英语：Libertarian perspectives on intellectual property）
+开放内容
+开放设计
+开放音乐模式
+开放专利权
+开源硬件
+开源软件
+相同方式共享
+
+
+
+
+
+
+
+
+运动
+
+
+
+知识无界运动
+反版权
+文化环境
+自由文化运动
+自由软件运动
+
+
+
+
+
+
+
+
+组织
+
+
+
+创作共用
+
+电子前哨基金会
+自由软件基金会
+自由权利组织
+软件自由法律中心
+Organization for Transformative Works（英语：Organization for Transformative Works）
+海盗湾
+海盗署
+海盗党
+Students for Free Culture（英语：Students for Free Culture）
+
+
+
+
+
+
+
+
+人物
+
+
+
+李卡德·法克明炎
+勞倫斯·雷席格
+理查德·斯托曼
+
+
+
+
+
+
+
+
+文档
+
+
+
+幹走電影 (2006, 2007)
+正版盗版 (2007)
+混制宣言 (2008)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+软件发行形式与类型
+
+
+
+
+
+
+授權方式
+
+
+
+
+
+自由型
+
+
+
+
+自由软件
+开源软件
+自由及开源软件
+自由再发行软件（英语：Freely redistributable software）
+
+
+
+
+
+
+
+
+
+非自由型
+
+
+
+
+专有软件
+鴉片軟體
+
+
+
+
+
+
+
+
+
+另类型
+
+
+
+
+公有领域软件（英语：Public domain software）
+啤酒軟體
+
+
+
+
+
+
+
+
+
+
+
+报酬方式
+
+
+
+商业软件
+
+零售軟體（英语：Retail software）
+
+
+共享软件
+
+试用软件
+残废软件
+唠叨软件
+
+
+免費軟體
+
+廣告軟體
+捐赠软件
+
+
+群众筹资
+免费增值
+爱心软件（英语：Careware）
+自愿付费
+明信片软件
+
+
+
+
+
+
+
+
+發行方式
+
+
+
+数字发行
+文件分享
+本地部署软件（英语：On-premises software）
+預裝（英语：Pre-installed software）
+捆绑销售
+零售軟體（英语：Retail software）
+软件即服务（SaaS）
+
+
+
+
+
+
+
+
+欺骗/非法软件
+
+
+
+恶意软件
+
+特洛伊木马
+蠕虫
+间谍软件
+
+
+敲诈软件
+灰色軟件
+恐嚇軟體
+潛在附加軟體（PUP）
+霧件
+
+
+
+
+
+
+
+
+軟件版本週期
+
+老软件 · 產品壽命結束 · 長期支援 · 軟體維護 · 軟體維護者 · 軟體發行者（英语：Software publisher）
+
+
+
+
+
+
+複製保護（英语：Copy protection）
+
+数字版权管理 · 硬體鎖（英语：Software protection dongle） · 硬體限制（英语：Hardware restriction） · 授權管理（英语：License manager） · 产品激活  · 产品密钥 · 軟體著作權（英语：Software copyright） · 软件专利 · BT文件污染（英语：Torrent poisoning）
+
+
+
+
+
+
+其他
+
+軟體發行方式比較
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+自由及开放源代码软件
+
+
+
+
+
+
+概念
+
+Copyleft · 自由軟體 · 自由軟體定義 · 开放源代码软件 · 自由及开放源代码软件列表
+
+
+
+
+
+
+作業系統家族
+
+AROS · BSD · Darwin · FreeDOS · GNU · Haiku · Inferno · Linux · Mach · Minix · OpenSolaris · Symbian · Plan 9 · ReactOS
+
+
+
+
+
+
+開發（英语：Open-source software development）
+
+Eclipse · Free Pascal · GCC · Java · LLVM · Lua · Open64 · Perl · PHP · Python · ROSE · Ruby · Tcl
+
+
+
+
+
+
+歷史
+
+GNU · Haiku · Linux · Mozilla (Application Suite · Firefox · Thunderbird)
+
+
+
+
+
+
+組織
+
+Android开源项目 · Apache軟體基金會 · Blender基金會 · Eclipse基金會 · freedesktop.org · 自由軟體基金會 (歐洲 · 印度 · 拉丁美洲) · FSMI · GNOME基金會 · GNU Project · Google Code · KDE e.V. · Linux基金會 · Mozilla基金會 · 開源地理空間基金會 · 开放源代码促进会 · SourceForge · Symbian基金會 · VideoLAN组织 · 维基媒体基金会 · Xiph.Org基金會 · XMPP標準基金會（英语：XMPP Standards Foundation）  · X.Org基金會  · 文檔基金會 · 软件自由法律中心
+
+
+
+
+
+
+許可證
+
+Apache · Artistic · APSL · BSD · GNU GPL · GNU LGPL · Affero通用公共许可证  · ISC · MIT · MPL · 共享原始碼 · zlib · WTFPL · 自由及開放原始碼軟體許可證比較
+
+
+
+
+
+
+挑戰
+
+FUD · 擁抱、擴充功能再消滅 · 二進制blob（英语：Binary blob） · 數位版權管理 · 自由及開放原始碼顯示卡驅動程式（英语：Free and open-source graphics device driver） · 授權擴散（英语：License proliferation）  · Mozilla software rebranding · 專有軟體 · SCO-Linux爭議 · 安全性 · 軟體專利 · 硬體限制 · 可信计算 · 病毒許可證
+
+
+
+
+
+
+其他
+
+Alternative terms · 自由軟體社群 · Linux發行版 · 復刻 (軟體工程) · 自由軟體運動 · 微軟開放規範承諾（英语：Microsoft Open Specification Promise） · 操作系统革命 · 與封閉原始碼的比較（英语：Comparison of open source and closed source）
+
+
+
+
+
+
+
+ 分类 ·  维基共享资源 ·  主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+自由文化和开放源代码运动
+
+
+
+
+
+
+概念
+
+
+
+公众科学
+共有知识（英语：Knowledge commons）
+开放获取
+开放式协同合作
+开放内容
+开放交流（英语：Open communication）
+开放资料
+开放设计（英语：Open design）
+开放教育（英语：Open education）
+开放政府（英语：Open government）
+开放式创新
+开放知识（英语：Open knowledge）
+开放专利（英语：Open patent）
+开放研究（英语：Open research）
+开放科学
+开源架构（英语：Opensource Architecture）
+开源软件
+开源治理（英语：Open-source governance）
+开源新闻（英语：Open-source journalism）
+开源硬件
+开放标准
+开放式大学（英语：Open-door academic policy）
+
+入学
+
+
+开放Web
+
+
+
+
+
+
+
+
+工具
+
+
+
+自由及开放源代码软件
+开放教育资源
+开放音乐模型（英语：Open Music Model）
+开放科学笔记（英语：Open notebook science）
+
+
+
+
+
+
+
+
+组织
+
+
+
+知识共享
+DIYbio（英语：DIYbio）
+自由软件基金会
+开放架构网络（英语：Open Architecture Network）
+开放知识基金会（英语：Open Knowledge Foundation）
+开放权力集团（英语：Open Rights Group）
+开放源代码促进会
+软件自由法律中心
+公共科学图书馆（PLOS）
+学术出版与学术资源联盟（英语：Scholarly Publishing and Academic Resources Coalition）（SPARC）
+
+
+
+
+
+
+
+
+活动家
+
+
+
+亚伦·斯沃茨
+John Wilbanks（英语：John Wilbanks）
+劳伦斯·莱斯格
+Peter Murray-Rust（英语：Peter Murray-Rust）
+Peter Suber（英语：Peter Suber）
+理查德·斯托曼
+蒂姆·伯纳斯-李
+
+
+
+
+
+
+
+
+项目
+
+
+
+创作共用授权
+自由文化作品定义（英语：Definition of Free Cultural Works）
+自由文化运动
+自由软件运动
+开源生态学
+OpenCores（英语：OpenCores）
+OpenWetWare（英语：OpenWetWare）
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+NDL: 01148004
+
+
+
+
+
+
+
+
+
+
+
+
+分类：自2015-04-26扩充中的条目开放源代码知识产权开源软件隐藏分类：自2015年4月需补充来源的条目拒绝当选首页新条目推荐栏目的条目含有英語的條目模板中使用无效日期参数的条目所有扩充中的条目使用2號參數傳遞Portal模板圖像的頁面

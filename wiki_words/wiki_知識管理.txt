@@ -1,0 +1,757 @@
+知识管理
+
+
+提示：本条目的主题不是信息管理。
+
+
+
+
+
+本条目格式需要修正以符合格式手册。（2017年2月14日） 
+请协助添加相关的内部链接，并使用百科全书的语气来改善这篇条目。 
+
+
+
+
+
+
+
+此條目或章節內容可能是從某個來源處复制粘贴而来，並可能已經違反維基百科的版權方針。（2017年2月14日） 
+請協助移除任何非自由版權的文字內容。請確定本處所指的來源並非屬於任何维基百科拷贝网站。可以通过工具检查是否侵犯版权。 
+
+
+
+
+
+
+組織學習中知识管理的應用
+
+
+
+
+
+
+知識管理軟體的範例
+
+
+知识管理（英语：knowledge management，缩写为KM）包括一系列企业内部定义、创建、传播、采用新的知识和经验的战略和实践。这些知识和经验包括认识，可以是个人知识，以及组织中商业流程或实践。
+知識管理是一項在1990年代中期開始在全球崛起的學術與商業應用主題，針對個人及社群所擁有的显性知识和隱性知識的確認、創造、掌握、使用、分享及傳播進行積極及有效的管理。其主要涵蓋的固有理論及應用層面包括學習型組織、企業文化、資訊科技應用，及人事管理等。而由於知識管理的概念通常與企業的各種改善願景扯上關係，知識管理在現今企業上的實踐愈來愈受到重視，亦因此為顧問和科技公司帶來了不少商機。知識管理在非商業上的應用亦很廣泛，其中維基百科經常被指為互聯網上其中一個最成功的知識管理系統。
+根据1991年的学术规则列表，（参考Nonaka 1991），知识管理应用于商业管理、信息系统、管理学和图书馆、信息科学（Alavi & Leidner 1999）等领域。最近，其他领域也开始应用知识管理，包括信息和媒体、计算机科学、公共卫生和公共政策等。
+很多大型企业都有内部知识管理凭条，作为其战略管理、信息科技、人力资源管理等部门组成部分。（Addicott，McGivern & Ferlie 2006）很多咨询公司也有关于知识管理的建议。
+知识管理一般重视以改进效果、竞争优势、创新、分享知识学习、整合知识和持续改进为企业目标。知识管理与组织学习类似，但也有区别，更注重对知识作为战略资源的管理，鼓励分享知识，是企业学习的一种好方法。[1]
+
+
+
+目录
+
+
+1 概述
+2 知识管理的定義
+
+2.1 维度
+2.2 鼓励
+
+
+3 企業實施知識管理的原因
+4 知识管理的评估方法
+5 知识管理和內容管理的關係
+6 知识管理的作用
+7 知识管理的步驟
+8 知识管理的障碍
+9 知识管理的目的
+10 工具
+11 参考文献
+
+11.1 引用
+11.2 来源
+
+
+12 外部链接
+13 参见
+
+
+
+概述[编辑]
+250px
+知识的层級可分为资料、資訊、知识及智慧四個阶段，而知識的形成則是透过收集一些資料，再從資料中找出有用的資訊，利用這些資訊加上自己的想法及做法，最後產生出知識，而智慧則是以知識為基礎加上個人的應用能力并将其運用於生活上，舉例來說，我們製做一份報告時，會先收集大量的資料，在從這堆資料中找出可以運用在報告的資訊，配合自己的想法和做法去完成這份報告，當你完成這份報告後，從報告中所學習到的東西便會轉變成自己的知識。
+而把個人及群體得到的知识進行有效管理，則是知識管理的最根本目的。知識管理的第一步是把隐性知识转化成顯性知識，然後加以保存。而保存的形式，可以是文字、聲音或錄像。久而久之，保存了的顯性知識匯集成一個知識庫，而知識庫裡的東西需要不斷的更新以確保透過知識庫而進行持續而有效率的知識分享。與此同時，在人事培訓方面，需著重於員工資訊素養的提升以令知識庫能得到更有效的運用。另外，有時候知識庫的環節會被跳過，取而代之的是持續的社交性知識分享行為。
+要达到持續的分享，企業內部的学习氛围與個人的學習動力尤其重要，而企業文化及人事管理政策是左右企業內部的学习氛围的主要項目。良好的学习氛围與知識庫的應用，可提高組織的創新能力、反應能力、生產率以及技術技能。
+知识管理的定義[编辑]
+組織中構建一個量化與質化的知識系統，讓組織中的資訊與知識，透過獲得、創造、分享、整合、記錄、存取、更新、創造等過程，不斷的回饋到知識系統內，形成永不間斷的累積個人與組織的知識成為組織智慧的循環，在企業組織中成為管理與應用的智慧資本，有助於企業做出正確的決策，以應變市場的变化。
+21世紀企業的成功越來越依賴於企業所擁有知識的質与量，利用企業所擁有的知識為企業創造競爭優勢和持續競爭優勢對企業來說始終是一個挑戰。
+1.知識（knowledge） 通過學習、實踐或探索獲得的認識、判斷或技能。 注1：知識可以是顯性的，也可以是隱形的；可以是組織的，也可以是個人的。 注2：知識可以包括實施知識、原理知識、技能知識和人際知識。
+2.知識管理（knowledge management） 對知識、知識創造過程和知識的應用進行規劃和管理的活動。
+3.組織（organization） 職權、權限和相互關係得到安排的一組人員及設施。 示例：公司、集團、商行、企事業單位、研究機構、慈善機構、代理商、社團或上述組織的部份或組合。 注1：安排通常是有序的 注2：組織可以是公有的或私有的
+4.管理體系（management system） 建立方針和目標并實現這些目標的體系
+5.顯性知識（explicit knowledge） 以文字、符號、圖形等方式表達的知識
+6.隱形知識（tacit knowledge） 未以文字、符號、圖形等方式表達的知識，存在於人的大腦中
+维度[编辑]
+不同的区分不同知识的框架，其中一种是区分为隐性知识和显性知识。隐性知识包括一个人可能没有意识到的内在知识，例如完成某项任务。在象限的另一端，显性知识代表一个人头脑中明确认知的知识，可方便沟通给他人。[2] （Alavi & Leidner 2001）。同样地，Hayes和Walsham指出知识的内容和关系，把知识管理从知识论上分为两种。内容说是指知识很容易储存，因为可以进行编码。关系说是指知识具有背景性、关系性，让知识在特定组织外很难发展。[3]
+
+
+
+
+The Knowledge Spiral as described by Nonaka & Takeuchi.
+
+
+早期研究显示，成功的知识管理需要把内在知识转变为外在知识，让个人可以吸收，并且解读各种编码的知识。后来的研究显示，内在知识和外在知识具有差异，这样定义过于简单，外在知识有时自有矛盾。为了让知识成为外在知识，需要翻译为信息。(如头脑外的符号)（Serenko & Bontis 2004）。后来，日本的野中郁次郎提出一个SECI模型（社交、外在、结合、吸收），以螺旋之形表達外部知识和内部知识之間的互动。（Nonaka & Takeuchi 1995）在这个模型中，内在知识可以'提取'为外在知识，外在知识可以'重新吸收'为隐形知识。后来，他和Georg von Krogh共同推进了早期研究，试图推动知识转换的争论（Nonaka & von Krogh 2009）。
+知识管理的奖励措施包括积极管理知识（推动策略）。鼓励个人积极把知识编码为共享知识库，如数据库，或从中提取想要的知识[4]。
+另一种方式是个人随时就需要的知识向专家咨询（拉动策略），专家可提供知识给个人（Snowden 2002）。
+企业常用的知识管理包括：
+
+奖励（鼓励知识共享）
+讲故事（共享外在知识的方式）
+跨项目学习
+行动后检查
+知识图（全体职员可获得的知识概况图）
+案例库
+专家库（让知识寻求者可找到专家）
+最佳经验分享
+知识集会
+竞争力管理（系统性评估、计划组织内个人竞争的方法）
+基础设施建设（可方便或阻碍个人获取知识）
+师徒制度
+合作科技（群组软件）
+知识库（数据库、企业书签等）
+测量、报告智力资本（对企业知识量进行量化）
+知识中介（某些组织个人负责某一特别"领域"，收集相关主题）
+社会性软件（维基百科、社会书签、博客等）
+项目内知识分享
+
+鼓励[编辑]
+一系列鼓励知识管理的方法包括：[5]
+
+在新产品开发中逐渐加入知识
+更短的新产品开发循环
+管理创新和组织学习
+对组织内专家力量进行平衡
+增加组织内、外部人员社交网络连接性
+管理商业环境，允许员工获得相关知识和创意
+解决棘手问题、古怪问题
+管理智力资本、智力资产（专家、know-how等）
+
+
+很多知识管理不仅仅用到一种软件，这些知识管理软件工具，利用组织目前的科技设施。组织和商业决策运用了大量的资源，对最新科技大量投入，进行知识管理。但需要明确哪些投资有用，选用最合适的软件，结合知识管理措施。
+企業實施知識管理的原因[编辑]
+
+File:Nuclear Knowledge Management abstraction.jpg
+IAEA實行核能知識管理的專案
+
+
+
+竞争
+市场竞争越来越激烈，创新的速度加快，所以企业必须不断获得新知识，并利用新知识为企业和社会创造价值；
+顾客导向
+企业要为客户创造价值；
+工作流动性
+雇员的流动性加快，雇员倾向于提前退休，如果企业不能很好地保存这些雇员所获得的知识，企业有失去其知识基础的风险；
+环境不确定性
+环境的不确定性表现在由于竞争而导致的不确定性和由于模糊性而带来的不确定性，在动态的不确定环境下，技术更新速度加快，学习已成为企业得以生存的根本保证，组织成员获取知识和使用知识的能力成为组织的核心技能，知识已成为企业获取竞争优势的基础，成为企业重要的稀缺资产；
+全球化的影响
+全球化经营要求企业需具有较好的沟通能力以及知识获取、知识创造与知识转换的能力。知识创造、知识获取和知识转换依赖于企业的学习能力，学习是企业获得竞争优势与核心竞争力的关键。
+
+知识管理的评估方法[编辑]
+
+1.人力资本培训费用组织学习员工忠诚度管理经验
+2.创新资本研发费用从事创新的员工比率产品更新知识产权
+3.客户资本满意度服务质量合作的时间重复购买销售额
+4.知识识别阶段知识库中联系的数目知识库中主题的数目点击率生产力
+5.知识诱导阶段来自于知识库的新需求可达到的相关资源
+6.知识分发阶段推的方式分发拉的方式分发
+7.知识利用阶段知识聚集方式用户满意度知识利用过程中产生的商业机会
+知识管理和內容管理的關係[编辑]
+
+
+
+
+知识管理內容
+
+
+知识管理和内容管理究竟是什么关系呢？它们有什么样的区别和联系呢？我想我们有必要对两者作一个比较。让企业对二者有个清楚的认识，帮助企业选择到底是该知识管理还是内容管理，以及什么时候实施知识管理和内容管理。
+关注对象
+1、知识管理和内容管理的关注的对象不同
+针对知识管理和内容管理的具体概念，纵说纷纭。我们没有必要拘泥于知识管理和内容管理的概念到底是什么，但是从知识管理和内容管理关注的对象上还是可以看出它们的不同。知识管理关注的是对企业内外部的显性、隐性知识的管理，显性知识包括内外部的研究报告、标准规范、程序文档和数据等；而隐性知识包括隐藏在人的大脑中的经验，和隐含在企业业务中还没有被发现的知识或经验。内容管理中的"内容"实质上就是任何类型的数字信息的结合体，可以是文本、图形图象、Web页面、业务文档、数据库表单、视频、声音文件等。从这点上看内容管理主要是对显性知识的管理。同时知识管理还存在对知识活动的管理，即知识沉淀、共享、应用学习、创新等环节的管理，由此就会延伸到对人的知识行为的管理—管理制度、企业文化等方面。而内容管理只是针对静态的显性知识的一种管理，将分散混乱的数据、信息转化成有组织的内容和知识，实现知识的关联化。
+实践主体
+2、知识管理和内容管理目前的实践主体不同
+从目前知识管理和内容管理实践的企业或机构来说，它们还是存在很大的差异性。在内容管理领域，目前主要是政府、媒体、事业单位等，就实施的内容而言主要还是网站内容的管理；而知识管理主要还是面对企业，在寻求与企业现有管理架构，IT应用系统结合方面实现企业价值增值，在具体实施方面重点关注企业知识的梳理，知识和人的关联，人与人的关联以及和企业业务的融合。
+过程目的
+3、过程目的—必然的融合
+根据IDC研究报告指出，知识管理是未来企业提高工作效率和增加竞争力的关键。作为其不可或缺的核心基础—企业内容管理方案，便成为业界炙手可热的新议题。从上面的分析也可以看出，内容管理和知识管理并不是独立存在的，内容管理的目的还是为了达到知识管理，内容管理和知识管理好比一个是过程，一个是目的。在目前，内容管理和知识管理在各自关注的领域独立发展是有好处的，随着发展的深入，必然交叉融合，最后内容管理就会真正成为知识管理的一部分。
+知识管理的作用[编辑]
+ 1.提高组织智商；
+2.提升组织记忆；
+3.减少重复劳动
+把知识积累起来！
+构建企业知识库，对纷杂的知识内容（方案、策划、制度等）和格式（图片、word、excel、ppt、pdf等）分门别类管理。充分发动每个部门、员工，贡献自己所掌握的企业知识，积少成多，聚沙成塔。重视企业原有知识数据，进行批量导入，纳入管理范畴。帮助企业评估知识资产量、使用率、增长率。
+把知识管理起来！
+创建企业知识地图，清晰了解企业知识分布状况，提供管理决策依据。构建知识权限体系，对不同角色的员工开放不同级别的知识库，保证企业知识安全。注重版本管理，文件资料从初稿到最后一版，均有版本记录保存并可查。
+把知识应用起来！
+让知识查询调用更加简单，充分利用知识成果，提供工作效率，减少重复劳动。依据知识库构建各部门各岗位的学习培训计划，随时自我充电，成为“学习型团队”。提供知识问答模式，将一些知识库中缺少的经验性知识，从员工头脑中挖掘出来。支持异地协同，通过互联网获取知识库内容，为异地办公提供知识支持。
+知识管理的步驟[编辑]
+
+认知
+第一步：认知
+认知是企业实施知识管理的第一步，主要任务是统一企业对知识管理的认知，梳理知识管理对企业管理的意义，评估企业的知识管理现状。帮助企业认识是否需要知识管理，并确定知识管理实施的正确方向。主要工作包括：全面完整的认识知识管理，对企业中高层进行知识管理认知培训，特别是让企业高层认识知识管理；利用知识管理成熟度模型等评价工具多方位评估企业知识管理现状及通过调研分析企业管理的主要问题；评估知识管理为企业带来的长、短期效果；从而为是否推进知识管理实践提供决策支持；制定知识管理战略和推进方向等。
+规划
+第二步：规划
+知识管理的推进是一套系统工程，在充分认知企业需求的基础上，详细规划也是确保知识管理实施效果的重要环节。这个环节主要是通过对知识管理现状、知识类型的详细分析，并结合业务流程等多角度，进行知识管理规划。在规划中，切记知识管理只是过程，而不能为了知识管理而进行知识管理，把知识管理充分溶入企业管理之中，才能充分发挥知识管理的实施效果。主要工作包括：从策略、业务流程及職位来进行知识管理规划；企业管理现状与知识管理发展的真实性分析；制订知识管理相关策略目标和实施策略，并对流程进行合理化改造；知识管理落地的需求分析及规划；在企业全面建立知识管理的理论基础。
+试点
+第三步：试点
+此阶段是第二阶段的延续和实践，按照规划选取适当的部门和流程依照规划基础进行知识管理实践。并从短期效果来评估知识管理规划，同时结合试点中出现的问题进行修正。主要工作内容：每个企业都有不同的业务体系，包括：生产、研发、销售等，各不同业务体系的任务特性均不相同，其完成任务所需要的知识亦有不同，因此需要根据不同业务体系的任务特性和知识应用特点，拟订最合适、成本最低的知识管理方法，这称为知识管理模式分析KMPA。另外，考虑到一种业务体系下有多方面的知识，如何识别关键知识，并判断关键知识的现状，进而在KM模式的指导下采取有针对性的提升行为，这可以称为知识管理策略规划KSP。所以，此阶段的重点是结合企业业务模式进行知识体系梳理，并对知识梳理结果进行分析，以确定知识管理具体策略和提升行为。本阶段是知识管理从战略规划到落地实施的阶段，根据对企业试点部门的知识管理现状、需求和提升计划的分析，应该考虑引入支撑知识管理落地的知识管理IT系统。根据前几个阶段的规划和分析，选择适合企业现状的IT落地方法，如带知识管理功能的办公协同系统、知识管理系统、知识门户落地等等。可以说，本阶段在知识管理系统实施中难度最大，需要建立强有力的项目保障团队，做好业务部门、咨询公司、系统开发商等多方面协调工作。
+推广
+第四步：推广和支持
+在试点阶段不断修正知识管理规划的基础上，知识管理将大规模在企业推广，以全面实现其价值。推广内容：知识管理试点部门的实践，在企业中其他部门的复制；知识管理全面的溶入企业业务流程和价值链；知识管理制度初步建立；知识管理系统的全面运用；实现社群，学习型组织、腦力激盪等知识管理提升计划的全面运行，并将其制度化。
+难点：对全面推广造成的混乱进行控制和对知识管理实施全局的把握；知识管理融入业务流程和日常工作；文化、管理、技术的协调发展；知识管理对战略目标的支持；对诸如思想观念转变等人为因素的控制以及利益再分配；建立知识管理的有效激励机制和绩效体系。
+制度化
+第五步：制度化
+制度化阶段既是知识管理项目实施的结束，又是企业知识管理的一个新开端，同时也是一个自我完善的过程。要完成这一阶段，企业必须重新定义战略，并进行组织构架及业务流程的重组，准确评估知识管理在企业中实现的价值。
+知识管理的障碍[编辑]
+
+技术
+所有权/知识产权（取决于公众认为知识是公有的还是私有的）
+动机（如何让人们愿意分享知识）
+
+知识管理的目的[编辑]
+知识管理最先在企业内部产生，为了提高企业效益、增强竞争优势、创新、分享教训、持续发展。
+工具[编辑]
+
+Web2.0工具，包括blog、wiki、社會性網絡系統[1]，及分眾分類法，还有全球专家定位、Idea Generation
+知识管理系统瑞士Knowledge Tool股份公司的Uni Viadrina
+IBM公司的Life Sciences DiscoveryLink
+西门子公司的ShareNet
+叡揚資訊以企業社群、知識管理平台為核心理念開發出 Vitals ESP 知識管理系統
+蓝凌（中国知识管理领导品牌）的KMS专业知识管理平台
+中软公司的KMS
+泛微（一家在中国领先的管理咨询和软件公司）的协同知识管理系统
+阳光融通专业从事知识管理实施咨询和IT解决方案的高新技术企业、北京诺门科技的产品开发管理系统（PDMS）
+诺门科技。知识管理系统
+MindManager
+企业知识管理形式：在职讨论；正规学徒制；讨论峰会；企业。
+
+参考文献[编辑]
+引用[编辑]
+
+
+^ Sanchez, R (1996) Strategic Learning and Knowledge Management, Wiley, Chichester
+^ SSRN-Literature Review – Knowledge Management Research at the Organizational Level by David Bray. Papers.ssrn.com. [15 January 2010]. 
+^ Hayes, M.; Walsham, G. Knowledge sharing and ICTs: A relational perspective. (编) M. Easterby-Smith and M. A. Lyles. The Blackwell handbook of organizational learning and knowledge management. Malden, MA: Blackwell. 2003: 54–77. ISBN 978-0-631-22672-7. 
+^ Knowledge Management for Database Interoperability (PDF). [15 January 2010]. 
+^ http://tecom.cox.smu.edu/abasu/itom6032/kmlect.pdf
+
+
+来源[编辑]
+本條目部分或全部内容出自以GFDL授權發佈的《自由線上電腦詞典》（FOLDOC）。
+
+Addicott, Rachael; McGivern, Gerry; Ferlie, Ewan. Networks, Organizational Learning and Knowledge Management: NHS Cancer Networks. Public Money & Management. 2006, 26 (2): 87–94. doi:10.1111/j.1467-9302.2006.00506.x. 
+Alavi, Maryam; Leidner, Dorothy E. Knowledge management systems: issues, challenges, and benefits. Communications of the AIS. 1999, 1 (2). 
+Alavi, Maryam; Leidner, Dorothy E. Review: Knowledge Management and Knowledge Management Systems: Conceptual Foundations and Research Issues (PDF). MIS Quarterly. 2001, 25 (1): 107–136. JSTOR 3250961. doi:10.2307/3250961. 
+Andriessen, Daniel. Reconciling the rigor-relevance dilemma in intellectual capital research. The Learning Organization. 2004, 11 (4/5): 393–401. doi:10.1108/09696470410538288. 
+Andrus, D. Calvin. The Wiki and the Blog: Toward a Complex Adaptive Intelligence Community. Studies in Intelligence. 2005, 49 (3). SSRN 755904. 
+Benbasat, Izak; Zmud, Robert. Empirical research in information systems: The practice of relevance. MIS Quarterly. 1999, 23 (1): 3–16. JSTOR 249403. doi:10.2307/249403. 
+Bontis, Nick; Choo, Chun Wei. The Strategic Management of Intellectual Capital and Organizational Knowledge. New York:Oxford University Press. 2002. ISBN 0-19-513866-X. 
+Booker, Lorne; Bontis, Nick; Serenko, Alexander. The relevance of knowledge management and intellectual capital research (PDF). Knowledge and Process Management. 2008, 15 (4): 235–246. doi:10.1002/kpm.314. 
+Capozzi, Marla M. Knowledge Management Architectures Beyond Technology. First Monday. 2007, 12 (6). 
+Davenport, Tom. Enterprise 2.0: The New, New Knowledge Management?. Harvard Business Online, Feb. 19, 2008. 2008. （原始内容存档于2013-01-03）. 
+Ferguson, J. Bridging the gap between research and practice. Knowledge Management for Development Journal. 2005, 1 (3): 46–54. 
+Gupta, Jatinder; Sharma, Sushil. Creating Knowledge Based Organizations. Boston: Idea Group Publishing. 2004. ISBN 1-59140-163-1. 
+Lakhani, Karim R.; McAfee. Case study on deleting "Enterprise 2.0" article. Courseware #9-607-712, Harvard Business School. 2007. 
+Liebowitz, Jay. What they didn't tell you about knowledge management: 2–3. 2006. 
+McAdam, Rodney; McCreedy, Sandra. A Critique Of Knowledge Management: Using A Social Constructionist Model. New Technology, Work and Employment. 2000, 15 (2). 
+McAfee, Andrew P. Enterprise 2.0: The Dawn of Emergent Collaboration. Sloan Management Review. 2006, 47 (3): 21–28. 
+McInerney, Claire. Knowledge Management and the Dynamic Nature of Knowledge (PDF). Journal of the American Society for Information Science and Technology. 2002, 53 (12): 1009–1018. doi:10.1002/asi.10109. 
+Morey, Daryl; Maybury, Mark; Thuraisingham, Bhavani. Knowledge Management: Classic and Contemporary Works. Cambridge: MIT Press. 2002: 451. ISBN 0-262-13384-9. 
+Nanjappa, Aloka; Grant, Michael M. Constructing on constructivism: The role of technology (PDF). Electronic Journal for the Integration of Technology in Education. 2003, 2 (1). （原始内容 (PDF)存档于2008-12-17）. 
+Nonaka, Ikujiro. The knowledge creating company. Harvard Business Review. 1991, 69 (6 Nov–Dec): 96–104. （原始内容存档于2009-11-25）. 
+Nonaka, Ikujiro; Takeuchi, Hirotaka. The knowledge creating company: how Japanese companies create the dynamics of innovation. New York: Oxford University Press. 1995: 284. ISBN 978-0-19-509269-1. 
+Nonaka, Ikujiro; von Krogh, Georg. Tacit Knowledge and Knowledge Conversion: Controversy and Advancement in Organizational Knowledge Creation Theory (PDF). Organization Science. 2009, 20 (3): 635–652. doi:10.1287/orsc.1080.0412. 
+Sensky, Tom. Knowledge Management. Advances in Psychiatric Treatment. 2002, 8 (5): 387–395. doi:10.1192/apt.8.5.387. 
+Snowden, Dave. Complex Acts of Knowing – Paradox and Descriptive Self Awareness. Journal of Knowledge Management, Special Issue. 2002, 6 (2): 100–111. doi:10.1108/13673270210424639. 
+Spender, J.-C.; Scherer, Andreas Georg. The Philosophical Foundations of Knowledge Management: Editors' Introduction. Organization. 2007, 14 (1): 5–28. SSRN 958768. doi:10.1177/1350508407071858. 
+Serenko, Alexander; Bontis, Nick. Meta-review of knowledge management and intellectual capital literature: citation impact and research productivity rankings (PDF). Knowledge and Process Management. 2004, 11 (3): 185–198. doi:10.1002/kpm.203. （原始内容 (PDF)存档于2007-09-26）. 
+Serenko, Alexander; Bontis, Nick; Booker, Lorne; Sadeddin, Khaled; Hardie, Timothy. A scientometric analysis of knowledge management and intellectual capital academic literature（1994–2008） (PDF). Journal of Knowledge Management. 2010, 14 (1): 13–23. doi:10.1108/13673271011015534. 
+Thompson, Mark P. A.; Walsham, Geoff. Placing Knowledge Management in Context. Journal of Management Studies. 2004, 41 (5): 725–747. doi:10.1111/j.1467-6486.2004.00451.x. 
+Wenger, Etienne; McDermott, Richard; Synder, Richard. Cultivating Communities of Practice: A Guide to Managing Knowledge – Seven Principles for Cultivating Communities of Practice. Boston: Harvard Business School Press. 2002: 107–136. ISBN 1-57851-330-8. 
+Wilson, T.D. The nonsense of 'knowledge management'. Information Research. 2002, 8 (1). 
+Wright, Kirby. Personal knowledge management: supporting individual knowledge worker performance. Knowledge Management Research and Practice. 2005, 3 (3): 156–165. doi:10.1057/palgrave.kmrp.8500061. 
+Akscyn, Robert M., Donald L. McCracken and Elise A. Yoder (1988). "KMS: A distributed hypermedia system for managing knowledge in organizations". Communications of the ACM 31 (7): 820–835.
+Benbya, H (2008). Knowledge Management Systems Implementation: Lessons from the Silicon Valley. Oxford, Chandos Publishing.
+Langton, N & Robbins, S. (2006). Organizational Behaviour (Fourth Canadian Edition). Toronto, Ontario: Pearson Prentice Hall.
+Li, R.Y.M. & Poon, S.W. USING WEB 2.0 TO SHARE KNOWLEDGE OF CONSTRUCTION SAFETY: THE FABLE OF ECONOMIC ANIMALS Economic Affairs Volume 31, Issue 1, pages 73–79, March 2011
+Maier, R (2007): Knowledge Management Systems: Information And Communication Technologies for Knowledge Management. 3rd edition, Berlin: Springer.
+Rhetorical Structure Theory (assumed from the reference of RST Theory above) https://web.archive.org/web/20120325181330/http://acl.ldc.upenn.edu/W/W01/W01-1605.pdf
+Rosner, D.., Grote, B., Hartman, K, Hofling, B, Guericke, O. (1998) From natural language documents to sharable product knowledge: a knowledge engineering approach. in Borghoff Uwe M., and Pareschi, Remo (Eds.). Information technology for knowledge management. Springer Verlag, pp 35–51.
+The RST site at http://www.sfu.ca/rst/ run by Bill Mann
+Jennex, M. E. (2008). Knowledge Management: Concepts, Methodologies, Tools, and Applications (pp. 1–3808).
+
+外部链接[编辑]
+
+开放式目录计划中和Knowledge management相关的内容
+Knowledge@work community
+叡揚資訊產品 Vitals ESP 知識管理系統相關資訊
+
+参见[编辑]
+
+
+知识社会
+知识生态系统
+知识工程
+知识管理软件
+知识共享
+无知管理
+法律案例管理
+知识图
+知识模型
+
+
+
+国际期刊
+
+
+Electronic Journal of Knowledge Management
+Journal of Knowledge Management
+Journal of Knowledge Management Practice
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+知識管理
+
+
+
+
+
+
+主文
+
+
+
+個人知識管理（知識管理）（英语：Personal knowledge management）
+知識勞動者（英语：Knowledge worker）
+智慧資本
+首席知識官
+集體智慧
+
+
+
+
+
+
+
+
+相關資訊系統
+
+
+
+企業內容管理（英语：Enterprise content management）
+知識管理軟體（英语：Knowledge management software）
+
+
+
+
+
+
+
+
+其他相關
+
+
+
+實踐社群
+知識
+
+
+
+
+
+
+
+
+期刊
+
+
+
+知識管理與實踐（英语：Knowledge Management Research and Practice）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+管理学
+
+
+
+
+
+
+
+
+
+商業管理學大綱（英语：Outline of business management）
+管理學文章列表（英语：Index of management articles）
+
+
+
+
+
+
+
+
+依照組織類別
+
+
+
+學術（英语：Academic administration）
+組織（英语：Association management）
+企業
+
+餐飲（英语：Restaurant management）
+
+
+醫療（英语：Health administration）
+軍旅（英语：Military administration）
+公共
+
+
+
+
+
+
+
+
+依照 (組織內部
+焦點)
+
+
+
+
+範圍
+
+
+
+
+策略
+
+
+
+能力（英语：Capability management）
+應變
+溝通（英语：Communications management）
+財務
+創新（英语：Innovation management）
+績效
+風險
+系統（英语：Systems management）
+
+
+
+
+
+
+
+
+部件
+
+
+
+設施
+產品（英语：Product management）
+
+生命周期
+品牌
+
+
+計畫（英语：Program management）
+專案
+
+營建工程
+
+
+
+
+
+
+
+
+
+
+
+
+
+活動或部門
+
+
+
+
+產線（英语：Line management）
+
+
+
+行銷
+營運（英语：Operations management）/生產（英语：Manufacturing process management）
+
+流程（英语：Process management）
+品質
+
+
+銷售（英语：Sales management）
+
+
+
+
+
+
+
+
+員工（英语：Staff management）
+
+
+
+會計（英语：Accounting management）
+辦公（英语：Office management）
+記錄（英语：Records management）
+
+
+
+
+
+
+
+
+
+
+
+方面或關係
+
+
+
+客戶
+工程
+物流
+感知（英语：Perception management）
+供應鏈
+人才（英语：Talent management）
+
+
+
+
+
+
+
+
+問題
+
+
+
+衝突（英语：Conflict management）
+危機
+壓力
+
+
+
+
+
+
+
+
+資源（英语：Resource management）
+
+
+
+環境
+人力
+資訊
+資訊科技
+知識
+土地
+材料（英语：Materials management）
+技能（英语：Skills management）
+庫存（英语：Stock management）
+技術（英语：Technology management）
+時間
+
+
+
+
+
+
+
+
+
+
+
+職位
+
+
+
+臨時
+干部
+主管
+
+
+
+
+
+
+
+
+方法
+
+
+
+靈活（英语：Adhocracy）
+協作（英语：Collaborative method）
+分散（英语：Distributed management）
+實獲值
+循證（英语：Evidence-based management）
+目標
+風格
+宏觀
+微觀
+科學
+公益
+團隊（英语：Team building）
+虛擬（英语：Virtual management）
+
+
+
+
+
+
+
+
+技巧
+
+
+
+決斷
+决策
+預測（英语：Forecasting）
+領導力
+
+
+
+
+
+
+
+
+先驅與學者
+
+
+
+彼得·德鲁克
+伊利雅胡·高德拉特
+奥利弗·威廉姆森
+
+
+
+
+
+
+
+
+教育
+
+
+
+商学院
+學位
+
+工商管理學士
+工商管理碩士
+博士（英语：PhD in management）
+
+
+組織研究（英语：Organizational studies）
+認證業務經理（英语：Certified Business Manager）
+特許管理學院（英语：Chartered Management Institute）
+重要管理研究（英语：Critical management studies）
+美國技術管理與應用工程協會（英语：Association of Technology, Management, and Applied Engineering）
+
+
+
+
+
+
+
+
+其他
+
+
+
+企业经济学
+管理心理学
+公司治理
+管理咨询
+管理主義
+組織發展理論
+合作
+控制（英语：Control (management)）
+管理發展（英语：Management development）
+管理系統（英语：Management system）
+管理經濟學（英语：Managerial economics）
+管理模控學（英语：Management cybernetics）
+組織行為學（英语：Organizational behavior management）
+管理風潮（英语：Management fad）
+呆伯特尖毛老闆（英语：Pointy-haired Boss）
+主管薪酬（英语：Executive compensation）
+威廉姆森的管理限度模型（英语：Williamson's model of managerial discretion）
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4561842-2
+NDL: 00947301
+
+
+
+
+
+
+
+
+
+
+
+
+分类：管理学分支知识管理信息系统認知科學组群商業術語超文字隐藏分类：自2017年2月需要维基化的页面自2017年2月內容疑似拷貝後貼上的頁面內容疑似拷貝後貼上的頁面缺少文件的条目含有来自FOLDOC内容的维基百科条目包含规范控制信息的维基百科条目

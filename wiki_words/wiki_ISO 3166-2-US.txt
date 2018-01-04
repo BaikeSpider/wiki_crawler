@@ -1,0 +1,1255 @@
+ISO 3166-2:US
+
+
+
+
+
+主条目：ISO 3166-2
+ISO 3166-2:US是國際標準化組織訂定美國各行政區的代碼，屬於ISO 3166-2的子集，將美國分為57個行政區編碼。此碼下亦包含有六個子集定義島嶼地區及美國本土外小島嶼各地的行政區。
+代碼分為兩個部份。前兩碼為美國在ISO 3166-1的代碼「US」，後兩碼為美國各地的郵政縮寫，中間使用連接號做連接。
+
+
+
+目录
+
+
+1 代碼
+2 子集
+3 參見
+4 參考資料
+
+
+
+代碼[编辑]
+
+
+
+
+由ISO 3166-2编码的第二部分字母标识的美国地图。
+
+
+
+
+代碼
+中譯
+原文
+類別
+
+
+US-AK
+ 阿拉斯加州
+Alaska
+州
+
+
+US-AL
+ 亚拉巴马州
+Alabama
+州
+
+
+US-AR
+ 阿肯色州
+Arkansas
+州
+
+
+US-AS
+ 美属萨摩亚
+American Samoa
+屬地
+
+
+US-AZ
+ 亚利桑那州
+Arizona
+州
+
+
+US-CA
+ 加利福尼亚州
+California
+州
+
+
+US-CO
+ 科罗拉多州
+Colorado
+州
+
+
+US-CT
+ 康涅狄格州
+Connecticut
+州
+
+
+US-DC
+ 華盛頓哥倫比亞特區
+District of Columbia
+聯邦地區
+
+
+US-DE
+ 特拉华州
+Delaware
+州
+
+
+US-FL
+ 佛罗里达州
+Florida
+州
+
+
+US-GA
+ 喬治亞州
+Georgia
+州
+
+
+US-GU
+ 關島
+Guam
+屬地
+
+
+US-HI
+ 夏威夷州
+Hawaii
+州
+
+
+US-IA
+ 艾奥瓦州
+Iowa
+州
+
+
+US-ID
+ 爱达荷州
+Idaho
+州
+
+
+US-IL
+ 伊利诺伊州
+Illinois
+州
+
+
+US-IN
+ 印第安纳州
+Indiana
+州
+
+
+US-KS
+ 堪萨斯州
+Kansas
+州
+
+
+US-KY
+ 肯塔基州
+Kentucky
+州
+
+
+US-LA
+ 路易斯安那州
+Louisiana
+州
+
+
+US-MA
+ 马萨诸塞州
+Massachusetts
+州
+
+
+US-MD
+ 马里兰州
+Maryland
+州
+
+
+US-ME
+ 缅因州
+Maine
+州
+
+
+US-MI
+ 密西根州
+Michigan
+州
+
+
+US-MN
+ 明尼苏达州
+Minnesota
+州
+
+
+US-MO
+ 密苏里州
+Missouri
+州
+
+
+US-MP
+ 北馬里亞納群島
+Northern Mariana Islands
+屬地
+
+
+US-MS
+ 密西西比州
+Mississippi
+州
+
+
+US-MT
+ 蒙大拿州
+Montana
+州
+
+
+US-NC
+ 北卡罗来纳州
+North Carolina
+州
+
+
+US-ND
+ 北达科他州
+North Dakota
+州
+
+
+US-NE
+ 内布拉斯加州
+Nebraska
+州
+
+
+US-NH
+ 新罕布什尔州
+New Hampshire
+州
+
+
+US-NJ
+ 新泽西州
+New Jersey
+州
+
+
+US-NM
+ 新墨西哥州
+New Mexico
+州
+
+
+US-NV
+ 内华达州
+Nevada
+州
+
+
+US-NY
+ 纽约州
+New York
+州
+
+
+US-OH
+ 俄亥俄州
+Ohio
+州
+
+
+US-OK
+ 奧克拉荷馬州
+Oklahoma
+州
+
+
+US-OR
+ 俄勒冈州
+Oregon
+州
+
+
+US-PA
+ 宾夕法尼亚州
+Pennsylvania
+州
+
+
+US-PR
+ 波多黎各
+Puerto Rico
+屬地
+
+
+US-RI
+ 罗得岛州
+Rhode Island
+州
+
+
+US-SC
+ 南卡罗来纳州
+South Carolina
+州
+
+
+US-SD
+ 南达科他州
+South Dakota
+州
+
+
+US-TN
+ 田纳西州
+Tennessee
+州
+
+
+US-TX
+ 得克萨斯州
+Texas
+州
+
+
+US-UM
+ 美國本土外小島嶼
+United States Minor Outlying Islands
+屬地
+
+
+US-UT
+ 犹他州
+Utah
+州
+
+
+US-VA
+ 弗吉尼亚州
+Virginia
+州
+
+
+US-VI
+ 美屬維爾京群島
+Virgin Islands of the United States
+屬地
+
+
+US-VT
+ 佛蒙特州
+Vermont
+州
+
+
+US-WA
+ 华盛顿州
+Washington
+州
+
+
+US-WI
+ 威斯康星州
+Wisconsin
+州
+
+
+US-WV
+ 西弗吉尼亚州
+West Virginia
+州
+
+
+US-WY
+ 怀俄明州
+Wyoming
+州
+
+
+子集[编辑]
+
+
+代碼
+中譯
+原文
+子集
+
+
+US-AS
+ 美属萨摩亚
+American Samoa
+ISO 3166-2:AS
+
+
+US-GU
+ 關島
+Guam
+ISO 3166-2:GU
+
+
+US-MP
+ 北馬里亞納群島
+Northern Mariana Islands
+ISO 3166-2:MP
+
+
+US-PR
+ 波多黎各
+Puerto Rico
+ISO 3166-2:PR
+
+
+US-UM
+ 美國本土外小島嶼
+United States Minor Outlying Islands
+ISO 3166-2:UM
+
+
+US-VI
+ 美屬維爾京群島
+Virgin Islands of the United States
+ISO 3166-2:VI
+
+
+參見[编辑]
+
+ISO 3166-2
+美國行政區劃
+
+參考資料[编辑]
+
+States of the United States, Statoids.com
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ISO 3166：针对国家和地区编码的国际标准
+
+
+
+
+
+
+ISO 3166-1
+标准国家代码
+
+
+
+二位字母（英语：ISO 3166-1 alpha-2）
+三位字母（英语：ISO 3166-1 alpha-3）
+數字（英语：ISO 3166-1 numeric）
+
+
+
+
+
+
+
+
+ISO 3166-2
+主要行政区代码
+
+
+
+
+
+
+
+AD
+AE
+AF
+AG
+AI
+AL
+AM
+AO
+AQ
+AR
+AS
+AT
+AU
+AW
+AX
+AZ
+BA
+BB
+BD
+BE
+BF
+BG
+BH
+BI
+BJ
+BL
+BM
+BN
+BO
+BQ
+BR
+BS
+BT
+BV
+BW
+BY
+BZ
+CA
+CC
+CD
+CF
+CG
+CH
+CI
+CK
+CL
+CM
+CN
+CO
+CR
+CU
+CV
+CW
+CX
+CY
+CZ
+DE
+DJ
+DK
+DM
+DO
+DZ
+EC
+EE
+EG
+EH
+ER
+ES
+ET
+FI
+FJ
+FK
+FM
+FO
+FR
+GA
+GB
+GD
+GE
+GF
+GG
+GH
+GI
+GL
+GM
+GN
+GP
+GQ
+GR
+GS
+GT
+GU
+GW
+GY
+HK
+HM
+HN
+HR
+HT
+HU
+ID
+IE
+IL
+IM
+IN
+IO
+IQ
+IR
+IS
+IT
+JE
+JM
+JO
+JP
+KE
+KG
+KH
+KI
+KM
+KN
+KP
+KR
+KW
+KY
+KZ
+LA
+LB
+LC
+LI
+LK
+LR
+LS
+LT
+LU
+LV
+LY
+MA
+MC
+MD
+ME
+MF
+MG
+MH
+MK
+ML
+MM
+MN
+MO
+MP
+MQ
+MR
+MS
+MT
+MU
+MV
+MW
+MX
+MY
+MZ
+NA
+NC
+NE
+NF
+NG
+NI
+NL
+NO
+NP
+NR
+NU
+NZ
+OM
+PA
+PE
+PF
+PG
+PH
+PK
+PL
+PM
+PN
+PR
+PS
+PT
+PW
+PY
+QA
+RE
+RO
+RS
+RU
+RW
+SA
+SB
+SC
+SD
+SE
+SG
+SH
+SI
+SJ
+SK
+SL
+SM
+SN
+SO
+SR
+SS
+ST
+SV
+SX
+SY
+SZ
+TC
+TD
+TF
+TG
+TH
+TJ
+TK
+TLa
+TM
+TN
+TO
+TR
+TT
+TV
+TW
+TZ
+UA
+UG
+UM
+US
+UY
+UZ
+VA
+VC
+VE
+VG
+VI
+VN
+VU
+WF
+WS
+YE
+YT
+ZA
+ZM
+ZW
+
+
+
+
+
+
+
+
+刪除
+
+
+
+AN
+CSb
+
+
+
+
+
+
+
+
+
+
+
+
+
+ISO 3166-3
+舊有國家名稱編碼
+
+
+
+
+
+
+
+
+
+
+a 從TP更改
+b 從YU更改
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ISO標準
+
+
+
+
+
+
+
+
+
+列表
+国际标准化组织的标准列表（英语：List of International Organization for Standardization standards）
+国际标准化组织拉丁化方案列表
+国际电工委员会标准列表（英语：List of IEC standards）
+
+
+
+
+
+
+
+
+1–9999
+
+
+
+1
+2
+3（英语：Preferred number）
+4
+5
+6
+7（英语：ISO 7）
+9
+16
+31
+
+-0（英语：ISO 31-0）
+-1（英语：ISO 31-1）
+-2（英语：ISO 31-2）
+-3（英语：ISO 31-3）
+-4（英语：ISO 31-4）
+-5（英语：ISO 31-5）
+-6（英语：ISO 31-6）
+-7（英语：ISO 31-7）
+-8（英语：ISO 31-8）
+-9（英语：ISO 31-9）
+-10（英语：ISO 31-10）
+-11（英语：ISO 31-11）
+-12（英语：ISO 31-12）
+-13（英语：ISO 31-13）
+
+
+128
+216
+217（英语：ISO 217）
+226（英语：ISO 226）
+228（英语：British standard pipe thread）
+233
+259
+269
+302（英语：Kappa number）
+306（英语：Vicat softening point）
+428（英语：ISO 428）
+518
+519
+639
+
+-1
+-2
+-3
+-5
+-6
+
+
+646
+690
+732
+764（英语：Antimagnetic watch）
+843
+898（英语：ISO 898）
+965（英语：ISO 965）
+1000
+1004（英语：Magnetic ink character recognition）
+1007
+1073-1（英语：OCR-A font）
+1413（英语：ISO 1413）
+1538
+1745（英语：ISO 1745）
+1989
+2014（英语：ISO 2014）
+2015（英语：ISO 2015）
+2022
+2047（英语：ISO 2047）
+2108
+2145
+2146（英语：ISO 2146）
+2240
+2281（英语：Water Resistant mark）
+2709（英语：ISO 2709）
+2711（英语：ISO 2711）
+2788（英语：ISO 2788）
+2852（英语：ISO 2852）
+3029（英语：126 film）
+3103
+3166
+
+-1
+-2
+-3
+
+
+3297
+3307（英语：ISO 3307）
+3602
+3864（英语：ISO 3864）
+3901
+3977（英语：ISO 3977）
+4031（英语：ISO 4031）
+4157（英语：ISO 4157）
+4217
+4909（英语：ISO/IEC 4909）
+5218
+5428（英语：ISO 5428）
+5775（英语：ISO 5775）
+5776（英语：ISO 5776）
+5800
+5964（英语：ISO 5964）
+6166
+6344（英语：ISO 6344）
+6346（英语：ISO 6346）
+6385（英语：ISO 6385）
+6425（英语：Water Resistant mark）
+6429（英语：ANSI escape code）
+6438
+6523（英语：ISO 6523）
+6709
+7001（英语：ISO 7001）
+7002（英语：ISO 7002）
+7098
+7185
+7200（英语：ISO 7200）
+7498
+7736（英语：ISO 7736）
+7810
+7811（英语：ISO/IEC 7811）
+7812（英语：ISO/IEC 7812）
+7813（英语：ISO/IEC 7813）
+7816（英语：ISO/IEC 7816）
+8000（英语：ISO 8000）
+8178（英语：ISO 8178）
+8217
+8571（英语：FTAM）
+8583（英语：ISO 8583）
+8601
+8632
+8652（英语：ISO/IEC 8652）
+8691（英语：ISO 8691）
+8807（英语：Language Of Temporal Ordering Specification）
+8820-5（英语：ISO/IEC 8820-5）
+8859
+
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-8-I（英语：ISO-8859-8-I）
+-9
+-10
+-11
+-12
+-13
+-14
+-15
+-16
+
+
+8879
+9000/9001
+9075
+9126（英语：ISO/IEC 9126）
+9293
+9241（英语：ISO 9241）
+9362
+9407
+9506（英语：Manufacturing Message Specification）
+9529（英语：ISO 9529）
+9564（英语：ISO 9564）
+9594
+9660
+9897（英语：ISO 9897）
+9899
+9945
+9984
+9985
+9995
+
+
+
+
+
+
+
+
+10000–19999
+
+
+
+10005（英语：ISO 10005）
+10006（英语：ISO 10006）
+10007（英语：ISO 10007）
+10116（英语：ISO/IEC 10116）
+10118-3（英语：Whirlpool (cryptography)）
+10160（英语：ISO 10160）
+10161（英语：ISO 10161）
+10165（英语：Guidelines for the Definition of Managed Objects）
+10179（英语：Document Style Semantics and Specification Language）
+10206
+10218（英语：ISO 10218）
+10303
+
+-11（英语：EXPRESS (data modeling language)）
+-21
+-22（英语：ISO 10303-22）
+-28（英语：ISO 10303-28）
+-238（英语：STEP-NC）
+
+
+10383（英语：ISO 10383）
+10487（英语：ISO 10487）
+10585
+10589
+10646
+10664
+10746（英语：RM-ODP）
+10861（英语：Multibus）
+10957（英语：International Standard Music Number）
+10962（英语：ISO 10962）
+10967（英语：ISO/IEC 10967）
+11073（英语：ISO/IEEE 11073）
+11170（英语：ISO 11170）
+11179（英语：ISO/IEC 11179）
+11404（英语：ISO/IEC 11404）
+11544
+11783（英语：ISO 11783）
+11784（英语：ISO 11784 & 11785）
+11785（英语：ISO 11784 & 11785）
+11801
+11898
+11940 (-2（英语：ISO 11940-2）)
+11941（英语：ISO/TR 11941）
+11941 (TR)（英语：ISO/TR 11941）
+11992（英语：ISO 11992）
+12006（英语：ISO 12006）
+12182（英语：ISO/IEC TR 12182）
+12207（英语：ISO/IEC 12207）
+12234-2（英语：Tag Image File Format / Electronic Photography）
+13211
+
+-1
+-2
+
+
+13216（英语：Isofix）
+13250
+13399（英语：ISO 13399）
+13406-2（英语：ISO 13406-2）
+13450（英语：110 film）
+13485（英语：ISO 13485）
+13490（英语：ISO 13490）
+13567（英语：ISO 13567）
+13568（英语：Z notation）
+13584（英语：ISO 13584）
+13616
+14000
+14031
+14224（英语：ISO 14224）
+14289（英语：PDF/UA）
+14396
+14443
+14496
+
+-2（英语：MPEG-4 Part 2）
+-3（英语：MPEG-4 Part 3）
+-6（英语：Delivery Multimedia Integration Framework）
+-10
+-11（英语：MPEG-4 Part 11）
+-12（英语：MPEG-4 Part 12）
+-14
+-17
+-20
+
+
+14644（英语：ISO 14644）
+14649（英语：STEP-NC）
+14651（英语：ISO 14651）
+14698（英语：ISO 14698）
+14750（英语：ISO 14750）
+14764
+14882
+14971（英语：ISO 14971）
+15022（英语：ISO 15022）
+15189（英语：ISO 15189）
+15288（英语：ISO/IEC 15288）
+15291（英语：Ada Semantic Interface Specification）
+15292（英语：ISO 15292）
+15398（英语：ISO 15398）
+15408（英语：Common Criteria）
+15444
+
+-3（英语：Motion JPEG 2000）
+
+
+15445
+15438
+15504
+15511（英语：International Standard Identifier for Libraries and Related Organizations）
+15686（英语：ISO 15686）
+15693（英语：ISO/IEC 15693）
+15706
+
+-2（英语：ISO 15706-2）
+
+
+15707（英语：International Standard Musical Work Code）
+15897（英语：ISO 15897）
+15919
+15924
+15926（英语：ISO 15926）
+15926 WIP（英语：ISO 15926 WIP）
+15930（英语：PDF/X）
+16023（英语：MaxiCode）
+16262
+16612-2（英语：PDF/VT）
+16750（英语：ISO 16750）
+16949 (TS)（英语：ISO/TS 16949）
+17024（英语：ISO/IEC 17024）
+17025（英语：ISO/IEC 17025）
+17100（英语：ISO 17100:2015）
+17203
+17369（英语：SDMX）
+17442（英语：Legal Entity Identifier）
+17799
+18000（英语：ISO/IEC 18000）
+18004
+18014（英语：ISO/IEC 18014）
+18245（英语：ISO 18245）
+18629（英语：Process Specification Language）
+18916（英语：Photographic Activity Test）
+19005
+19011（英语：ISO 19011）
+19092 (-1（英语：ISO 19092-1）
+-2)（英语：ISO 19092-2）
+19114（英语：ISO 19114）
+19115（英语：ISO 19115）
+19125（英语：Simple feature access）
+19136
+19439（英语：ISO 19439）
+19500
+19501
+19502
+19503（英语：XML Metadata Interchange）
+19505
+19506（英语：Knowledge Discovery Metamodel）
+19507（英语：Object Constraint Language）
+19508
+19509（英语：XML Metadata Interchange）
+19510
+19600:2014（英语：ISO 19600:2014）
+19752（英语：ISO/IEC 19752）
+19757（英语：RELAX NG）
+19770（英语：ISO/IEC 19770）
+19775-1
+19794-5（英语：ISO/IEC 19794-5）
+19831（英语：Cloud Infrastructure Management Interface）
+
+
+
+
+
+
+
+
+20000+
+
+
+
+20000
+20022（英语：ISO 20022）
+20121（英语：ISO 20121）
+20400（英语：ISO 20400）
+21000
+21047（英语：International Standard Text Code）
+21500（英语：ISO 21500）
+21827:2002（英语：ISO/IEC 21827）
+22000（英语：ISO 22000）
+23270
+23271
+23360
+24517（英语：PDF/E）
+24613
+24617（英语：ISO-TimeML）
+24707（英语：Common Logic）
+25178（英语：ISO 25178）
+25964（英语：ISO 25964）
+26000（英语：ISO 26000）
+26300
+26324
+27000 series
+27000（英语：ISO/IEC 27000）
+27001:2005（英语：ISO/IEC 27001:2005）
+27001:2013（英语：ISO/IEC 27001:2013）
+27002
+27006（英语：ISO/IEC 27006）
+27729
+28000（英语：ISO/PAS 28000）
+29110（英语：ISO 29110）
+29148（英语：Requirements engineering）
+29199-2
+29500
+30170
+31000（英语：ISO 31000）
+32000
+38500（英语：ISO/IEC 38500）
+40500（英语：Web Content Accessibility Guidelines）
+42010（英语：ISO/IEC 42010）
+55000（英语：ISO 55000）
+80000
+
+-1（英语：ISO 80000-1）
+-2（英语：ISO 80000-2）
+-3（英语：ISO 80000-3）
+
+
+
+
+
+
+
+
+
+
+
+
+
+参见：
+ ISO标准
+所有前缀有“ISO”的页面
+
+
+
+
+
+
+
+
+
+
+
+
+分类：ISO 3166美國行政區劃美國縮寫列表

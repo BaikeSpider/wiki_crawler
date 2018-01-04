@@ -1,0 +1,175 @@
+自由內容
+
+
+
+
+
+本条目需要补充更多来源。（2016年11月8日） 
+请协助添加多方面可靠来源以改善这篇条目，无法查证的内容可能會因為异议提出而移除。 
+
+
+
+
+
+
+
+本条目可参照英語維基百科相應條目来扩充。 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+
+
+
+
+自由內容（英语：Free content），或自由資訊（Free information），指其內容沒有法律限制妨礙人們的使用、發佈、改善、與分享的有功能作品、藝術、或創作。重要的是，當自由內容受到更改、延伸、或在其它作品內納入時，成果作品必須可以，以同等或更狹窄的自由度，合法地發佈。不論它是免費或需付費，自由內容必須要可以更改才算。
+實際上，自由內容包含所有的公有領域作品與有其許可證有實踐與維持上述之自由的著作權作品。由於法律主動授予著作權所有者對他們的創作壟斷性的控制，著作權內容的自由必須要有明確地宣告，這通常藉由在作品內提及或包括許可證聲明。
+在公有領域的作品依定義它的著作權已過期或被放棄，因此它不能被授權。但是這樣的作品仍舊被認為是自由內容，這是因為它可以任意的使用。
+
+
+
+目录
+
+
+1 自由內容與開放內容
+2 自由內容許可證
+3 參見
+4 延伸閱讀
+5 外部連結
+
+
+
+自由內容與開放內容[编辑]
+一般上自由內容許可證與開放內容許可證的不同處在於他們要求提供內容的「源」（source）複本。舉例來說，自由內容出版者應該提供源檔案 （如InDesign或文書處理軟體檔案），與一個PDF文件，這可認定為作為的「物」（object）複本。有的自由內容許可證有更強制性的要求。舉例來講，GNU自由文檔許可證不只要求要提供內容的「源」複本，它並且要是「透明」（transparent）的文件格式，也就是說一個其規格為大眾所能取得的開放文件格式。
+自由內容許可證[编辑]
+自由內容許可證可以是copyleft，也就是對作品的更改必須要在原作的許可證下發佈，或者它們是非 copyleft，也就是說作品可以更改並用其它的許可證（甚至是限制較多的）發佈。
+大部份的自由內容許可證有條款規定衍生作品必須要給原作的作者創作榮譽或標示他們的名字，這要求促進智慧誠實與勸阻抄襲，同時不賦予太多限制使得許可證不能真正的自由。
+設計科學許可證（Design Science License (DSL)）與 GNU自由文檔許可證（GFDL）是copyleft許可證。FreeBSD Documentation License 是非copyleft許可證。GNU 通用公共許可證 (GPL) 可被用來做為自由內容的許可證。
+其它的自由內容許可證有创作共用所出版的一些對商業用途與衍生作品沒有限制的許可證（例如它的“姓名標示(cc by)”和“姓名標示-相同方式分享(cc by-sa)”條款），雖然它們沒有要求要提供許可證的本文。注意不是所有創作共用許可證都是這裡所定義的自由內容。
+參見[编辑]
+
+
+Copyleft
+创作共用
+自由軟體
+內容開放
+公有領域
+自由文化
+FSF GNU GPL LGPL 開源運動
+
+
+延伸閱讀[编辑]
+
+
+D. Atkins, J. S. Brown, A. L. Hammond. A Review of the Open Educational Resources (OER) Movement: Achievements, Challenges, and New Opportunities. (PDF). Report to The William and Flora Hewlett Foundation. February 2007. 
+OECD – Organisation for Economic Co-operation and Development: Giving Knowledge for free – The Emergence of Open Educational Resources. 2007, ISBN 978-92-64-03174-6.
+
+
+外部連結[编辑]
+
+Definition of Free Cultural Works – A definition of "free content" or "free cultural works" similar to the free software definition
+"Episodes of collective invention" (PDF) (Peter B. Meyer; August 4, 2003) – article on several U.S.-oriented historical examples of free content in technology
+Open Knowledge Definition – project under the aegis of the Open Knowledge Foundation which provides a definition of "open" suitable for content and data
+What is free content? on WikiEducator
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+創作共用授权
+
+
+
+
+
+
+作品及项目
+
+
+
+
+
+
+
+授权的作品及项目（英语：List of works available under a Creative Commons license）（Category:創作共用授权的作品（英语：Category:Creative Commons-licensed works））
+内容目录（英语：Creative Commons-licensed content directories）
+管辖区（英语：Creative Commons jurisdiction ports）
+
+
+
+
+
+
+
+
+
+主要项目
+
+
+
+
+共享創意
+ccMixter（英语：ccMixter）
+Ourmedia（英语：Ourmedia]]]）
+OpenGameArt.org（英语：OpenGameArt.org）
+Dogmazic（英语：Dogmazic）
+Jamendo
+Phlow（英语：Phlow）
+Electrobel（英语：Electrobel）
+Newgrounds音頻門戶（英语：Newgrounds#Audio portal）
+Scripped（英语：Scripped）
+Mininova（英语：Mininova）
+維基媒體 （共享資源）
+
+
+
+
+
+
+
+
+
+
+
+人物
+
+
+
+勞倫斯·雷席格
+伊藤穰一
+
+
+
+
+
+
+
+
+参见
+
+
+
+自由及开放内容
+自由文化运动
+
+
+
+
+
+
+
+
+
+
+
+
+分类：版权創作共用隐藏分类：自2016年11月需补充来源的条目拒绝当选首页新条目推荐栏目的条目需要從英語維基百科翻譯的條目需要清理Expand language旧式用法的页面含有英語的條目使用ISBN魔术链接的页面

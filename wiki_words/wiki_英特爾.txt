@@ -1,0 +1,2029 @@
+英特尔
+
+
+
+
+
+本条目需要更新。（2015年3月19日） 
+請更新本文以反映近況和新增内容。完成修改時，請移除本模板。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+英特爾股份有限公司
+
+
+Intel Corporation
+
+
+
+
+
+
+英特爾於聖克拉拉的公司總部
+
+
+
+公司類型
+上市公司
+
+
+股票代號
+NASDAQ：INTC
+港交所：4335
+道瓊斯工業平均指數組成股票
+納斯達克100指數成份股
+標準普爾500指數成分股
+
+
+成立
+1968年7月18日，​49年前​（1968-07-18）
+
+
+創辦人
+羅伯特·諾伊斯
+高登·摩爾
+安迪·葛洛夫
+
+
+代表人物
+高登·摩爾（名譽主席）
+Andy Bryant（英语：Andy Bryant）（主席）
+Brian Krzanich（英语：Brian Krzanich）（CEO）
+
+
+總部
+ 美國加州聖克拉拉
+
+
+標語口號
+1970年～1990年：
+"Intel Delivers"
+1990年～2006年：
+"intel inside"
+2006年～2009年：
+"Leap ahead"
+「超越未来」
+2009年～2013年：
+"Sponsors of Tomorrow"
+「与你共创明天」
+2013年～2015年：
+"Look Inside"
+「精彩，从芯开始」
+2015年～今：
+"Experience What's Inside"
+「精彩芯体验」
+
+
+業務範圍
+全球
+
+
+产业
+半導體
+
+
+產品
+中央處理器
+微控制器
+圖形處理器
+記憶體
+快閃記憶體
+固態硬碟及其主控
+主機板及其晶片組
+網路介面卡
+藍牙晶片
+行動電話數據機[1]
+晶圓代工服務[2]
+
+
+營業額
+▲ 593.8億美元（2016年）[3]
+
+
+息税前利润
+▼ 128.7億美元（2016年）[3]
+
+
+净利润
+▼ 103.1億美元（2016年）[3]
+
+
+總資產
+▲ 1,133億美元（2016年）[3]
+
+
+資產淨值
+▲ 662.2億美元（2016年）[3]
+
+
+員工人數
+106,000（2016年）[3]
+
+
+网站
+Intel.com
+
+
+英特爾公司（英语：Intel Corporation，NASDAQ：INTC、港交所：4335）是世界上最大的半導體公司[4]，也是第一家推出x86架構處理器的公司，總部位於美國加利福尼亞州聖克拉拉。由羅伯特·諾伊斯、高登·摩爾、安迪·葛洛夫，以“集成電子”（Integrated Electronics）之名在1968年7月18日共同創辦公司，將高階晶片設計能力與領導業界的製造能力結合在一起。英特爾也有開發主機板晶片組、網路卡、快閃記憶體、繪圖晶片、嵌入式處理器，與對通訊與運算相關的產品等。“Intel Inside”的廣告標語與Pentium系列處理器在1990年代間非常成功的打響英特爾的品牌名號。[5]
+英特爾早期在開發SRAM與DRAM的記憶體晶片，在1990年代之前這些記憶體晶片是英特爾的主要業務。[來源請求]在1990年代時，英特爾做了相當大的投資在新的微處理器設計上與培養快速崛起的PC工業。在這段期間英特爾成為PC微處理器的供應領導者，而且市場定位具有相當大的攻勢與有時令人爭議的行銷策略，就像是微軟公司一樣支配著PC工業的發展方向。[6][7]而Millward Brown Optimor發表的2007年在世界上最強大的品牌排名顯示出英特爾的品牌價值由第15名掉落了10個名次到第25名。[8]而主要競爭對手有AMD、NVIDIA及Samsung。
+
+
+
+目录
+
+
+1 企業歷史
+
+1.1 創辦起源
+1.2 名稱起源
+1.3 公司的進化史
+1.4 拍賣XScale處理器業務
+
+
+2 行銷歷史
+
+2.1 SRAM與微處理器
+2.2 從生產DRAM到處理器
+2.3 Intel，x86處理器，與IBM PC
+
+2.3.1 386處理器
+2.3.2 486、Pentium與Itanium
+2.3.3 Pentium處理器瑕疵
+2.3.4 Intel Inside、Intel系統部門與Intel架構實驗室
+
+
+2.4 多核心處理器與未來發展
+2.5 與蘋果公司的合作關係
+2.6 Core 2 Duo的廣告爭議
+
+
+3 企業事宜
+
+3.1 領導團隊與企業架構
+3.2 僱員
+
+3.2.1 多樣性
+
+
+3.3 財務
+3.4 摩爾定律
+3.5 廣告及品牌營銷
+
+3.5.1 intel inside
+3.5.2 Leap ahead
+3.5.3 聲波標誌
+3.5.4 Sponsors on Tomorrow
+3.5.5 Look Inside
+
+
+
+
+4 競爭對手
+
+4.1 訴訟官司
+4.2 監管機構的反競爭指控
+4.3 收購NVIDIA的傳聞
+
+
+5 處理器產品
+
+5.1 嵌入式
+5.2 桌上型
+5.3 筆記型
+5.4 伺服器
+
+
+6 晶片組
+7 参考文献
+8 外部連結
+9 參見
+
+
+
+企業歷史[编辑]
+創辦起源[编辑]
+
+
+
+
+1968年至2006年英特爾公司舊商標
+
+
+1955年，「電晶體之父」威廉·肖克利離開貝爾實驗室，創建肖克利半導體實驗室，並吸引了許多有才華的年輕科學家加入。但很快，肖克利的管理方法和怪異行為引起員工的不滿。其中，被肖克利稱為「八叛逆」的羅伯特·諾伊斯、高登·摩爾、朱利亞斯·布蘭克、尤金·克萊爾、金·赫爾尼、傑·拉斯特、謝爾頓·羅伯茨和維克多·格里尼克聯合辭職，並於1957年10月共同創辦了仙童半導體公司。安迪·葛洛夫於1963年在高登·摩爾的邀請下加入了仙童半導體公司。
+由於仙童半導體快速發展，導致內部組織管理與產品問題日益失衡。1968年7月，仙童半導體其中兩位共同創辦人羅伯特·諾伊斯、高登·摩爾請辭，並於同年7月16日以“集成电子”一名共同創辦英特尔公司。安迪·葛洛夫也志願跟隨高登·摩爾的腳步，成為英特爾第3位員工。
+在安迪·葛洛夫的口述自傳中表示，如果以「他是英特爾第3位員工」的角度來看，他是「英特爾創辦人之一」。但若以所有權來說，因未受邀1美元價格購股，所以是首位自願加入的員工。
+名稱起源[编辑]
+在剛創立新公司時，高登·摩爾與羅伯特·諾伊斯想要將新公司命名為「摩爾·諾宜斯」（Moore Noyce）。不過這個名稱卻像是「more noise」，不太適合用於電子公司。於是在決定以INTegrated ELectronics的字首組成的“Intel”之前，大約有一年的時間他們使用「NM電子」來做公司名稱。不過當時Intel的品牌已經被一家連鎖旅館註冊，所以當時他們就買下Intel商標才成為現今的Intel公司。[9]
+公司的進化史[编辑]
+Intel的成長史可以分為幾個明顯的區段。在剛創立的時候，Intel製造半導體的能力在當時而言是相當突出的，而當時他們主要的產品是SRAM的晶片。Intel在70年代時因為擴廠與升級製程的關係，能夠主導多種記憶體的生產，因而業務增長。
+同時Intel在1971年製造出第一顆處理器、1972年製造出第一台微電腦，[10][11]而在80年代初期他們的主要業務還是在DRAM晶片。不過，競爭力日益提升的日本半導體製造商在1983年大大的降低半導體市場的利潤，同时IBM 個人電腦的成功讓Intel的CEO Grove深信要將公司透過開發方向指向處理器，來改變業務模式的基本方向。而在80年代的這十年之中發現這個決定是相當正確的，造成Intel在這10年間空前增長，成為最主要（和最有利可圖）的在PC產業的硬體供應商。
+2000年之後高階處理器的需求成長在此時減緩，而且競爭者逐漸地獲得不小的市場份額，其支配地位就被削弱了。在2000年初時CEO克雷格·貝瑞特當時決定拓展公司在半導體產業之外的業務，不過最後少部分是成功的。
+2005年，CEO保羅·歐德寧要重新把業務重點放在處理器核心與各式平台的晶片組，僱用超過20000名員工將公司改組。不過由於利潤降低，在2006年9月Intel發佈重組計畫，導致在2006年7月有高達10%的員工被解僱，而在劍橋大學的研究實驗室也在2006年底關閉。
+2010年8月23日英特爾以每股48美元現金收購安全軟件公司McAfee，交易總值約76.8億美元
+
+2015年6月2日英特爾以每股54美元現金收購可程式化邏輯半導體公Altera，交易總值167億美元現金
+
+2017年3月13日英特爾以153億美元收購以色列自駕技術公司Mobileye
+拍賣XScale處理器業務[编辑]
+在2006年6月27日，Intel發佈售出XScale的技術。Intel同意以價值6億美元現金和承擔具體的法律責任售出XScale處理器的業務給邁威爾科技有限公司。這一步是Intel有意要讓業務重點更集中於x86核心架構與伺服器業務。而售出案於2006年11月9日完成。[12]
+行銷歷史[编辑]
+SRAM與微處理器[编辑]
+
+
+
+
+Intel 4004處理器
+
+
+Intel第一個主力銷售產品是移位暫存記憶體與隨機存取記憶體IC，而在70年代時Intel成為這三種競爭激烈的DRAM、SRAM與ROM市場中的領導廠商。就在此時，英特爾的幾位工程師，分別是Marcian Hoff、Federico Faggin、Stanley Mazor、Masatoshi Shima共同發明了第一顆微處理器Intel 4004。本來的發展是讓日本Busicom公司生產的計算器中替換一些應用導向積體電路，雖然微處理機直到80年代中期才成為Intel的營業核心，不過Intel 4004在1971年11月15日就在大眾市場推出了，比記憶體更早。
+從生產DRAM到處理器[编辑]
+在個人電腦領域在萌芽的1983年時，日本的記憶體晶片製造廠日益壓縮Intel的利潤，而當時的總裁安迪·葛洛夫計畫將公司帶領發展至微處理器的方向走。葛洛夫在他寫的一書「十倍數時代」（Only the Paranoid Survive）中對這次轉型的敘述。他的計劃中一個關鍵因素是觀念，接著是周全的考慮，想要讓8086微處理器由自己獨立生產。
+但是當時礙於積體電路的製程無法讓Intel獨立生產以應付消費者的需求，但格羅夫還是在三個不同位置的工廠開始生產處理器，並停止授權晶片設計給像是Zilog與AMD的競爭對手。當PC工業位於蓬勃發展的80年代與90年代時，Intel是其中最大的受益者。
+Intel，x86處理器，與IBM PC[编辑]
+儘管在英代爾處理器史多麼的重要，4004處理器與後繼的8008與8080在當時還不是Intel最主要的收入來源。而接下來於1978年設計完成的8086（以及削弱版的8088），英特爾展開了一項名為「征服運算」（Operation Crush）的大型市場推廣及銷售活動，有意的要儘可能的說服消費者去使用他的處理器。當時的活動導致IBM創立了IBM個人電腦事業部，雖然這一點的重要性在當時並沒有充分使用。
+而IBM在1981年發表他的個人電腦，而且迅速的大受歡迎。而在1982年，Intel推出80286微處理器，而這顆處理器在兩年後使用在IBM PC/AT上。而第一家IBM PC相容機製造廠商Compaq在1985年推出了搭載80286的桌上型電腦，而在1986年也很快的推出搭載80386的電腦，在PC相容系統的市場與IBM互相競爭，也確立了Intel為最大的重點組件供應者。
+而在1975年，公司開始了一項計畫去開發一個高度先進的32位元微處理器，最後在1981年時以Intel iPAX 432的名稱推出。而該計畫的要求過高而處理器始終無法滿足其性能指標，所以並沒有在市場上取得成功。此時Intel則是擴展x86架構到32位元。[13][14]
+386處理器[编辑]
+
+
+
+
+Intel 80386 DX-33處理器
+
+
+在這段期間安迪·葛洛夫大力將公司發展目標改變，結束很多DRAM的業務與將公司的資源指向微處理器的業務，不過也許比這件事情更重要的是他決定將獨自生產386處理器。在這之前，處理器製造廠是處於未成熟階段，而且由於製造過程的問題而常常降低產量或是停止生產中止提供給使用者。而為了要降低這種衝擊，就會迫使很多製造廠製造同款晶片來維持供需平衡。像是8080與8086系列的微處理器就有好幾家工廠共同生產，當時比較有名的製造廠則是Zilog與AMD。葛洛夫決定就不授權386的架構給其他製造廠，而在Intel自家在加州、奧勒岡州、亞歷桑納州等三處不同地方的工廠生產處理器，而讓買家相信不會供不應求。而在Compaq Deskpro 386成功確立了386處理器是好的CPU選擇，Intel也成功的達成了自身生產處理器的能力。而這樣利潤就能幫助更迅速的發展高性能晶片設計和高性能製造能力，讓Intel在1990年代早期能夠位於不被質疑的領導位置。
+486、Pentium與Itanium[编辑]
+
+
+
+
+後期的Intel Pentium III處理器
+
+
+Intel在1989年發表了486處理器，而且1990年時正式完成編組第二組設計團隊，由此團隊設計P5與P6處理器，而且要加速新型處理器的推出時間，從以往的4年以上改為2年推出。由於當時修法改為數字無法當作註冊商標，P5在1993年以Pentium的名稱推出。而P6在1995年以Pentium Pro的姿態推出，而更進步的Pentium II則是在1997年出現。而新的處理器架構是在加州的聖塔克拉拉與奧勒岡州的希爾斯柏勒交互推出的。
+聖塔克拉拉的設計團隊在1993年動手參與x86架構的後繼者，架構代號稱為P7。第一次嘗試被中止約一年的時間，但很快的經由與HP的工程師合作繼續開發。而開發成果是在2001年6月推出IA-64的64位元架構的Itanium。但是Itanium執行原先的x86應用程式的性能卻不如預期，而且它也無法有效的與最先AMD提出的64位元x86架構（AMD64，之後被Intel採納并包裝成EM64T）相互競爭。不過到目前為止，Intel還是持續開發與佈署Itanium處理器。
+而希爾斯柏勒的團隊設計出代號為P68的Willamette處理器，並以Pentium 4的名稱推出市場，而在後期加入了64位元的延伸集給部分的Pentium 4與Intel Core 2處理器。而既有晶片的改造團隊則幾乎都是在以色列的海法開發的。
+Pentium處理器瑕疵[编辑]
+主条目：Pentium FDIV bug
+在1994年6月，Intel的工程師在Pentium處理器的浮點運算部分發現一個瑕疵。只要以一個特定的浮點數字進行除法運算，就會在低位元處造成錯誤，而這個浮點運算的錯誤會造成之後運算數值的誤差越來越大。而Intel在未來推出的處理器上修正這個問題，不過之後則是拒絕透露更多有關這個瑕疵的問題。[來源請求]
+在1994年10月，林渠堡學院的Thomas Nicely教授發現這個bug之後立刻回報給Intel，但是始終沒有得到任何答覆，於是在10月30日將有關這個bug的訊息發佈到網路上。[15]而這則bug的訊息則是很快的在網路上傳開而被業界新聞採用發佈。由於很容易讓一般的使用者「體驗」到這個bug（只需要開啟計算機程式運算此數字即可「體驗」），而Intel針對此問題的聲明稿指出，這是製造過程中出現細微的輸入錯誤，而這則聲明稿不被許多電腦使用者接受。而在1994年的感恩節，紐約時報跑新聞的記者John Markoff聚焦在這個錯誤上作文章。這時Intel才改變態度而決定召回這批有問題的晶片。這個動作造成Intel在1994年少了5億美元的年營收。
+Intel Inside、Intel系統部門與Intel架構實驗室[编辑]
+在這段期間，Intel採用了兩種主要的方式讓該公司生產的處理器能夠在市場上廣泛接受。第一項是在1990年開始，而且眾人皆知的Intel Inside行銷以及「貼標籤」運動。這項運動讓Intel從一個默默無聞的PC組件供應商搖身成家喻戶曉的品牌。而第二項則是在90年代初期建立的Intel系統部門，該部門是在製造個人電腦的主機板，而且內附CPU及記憶體。不久之後，Intel開始製造已組裝完成的「白牌」系統提供給一些如雨後春筍般出現的小型PC組裝公司。於是在90年代中期的極盛時期，Intel製造了超過15%的個人電腦，躍居於第三大的PC提供者。而Intel為了讓小型的PC製造廠能夠與大型的PC製造廠競爭，更讓小型製造廠加速採用最新的處理器與架構，像是PCI匯流排、USB以及其他介面。這樣就能夠讓新的處理器加速普及率。[來源請求]
+
+
+
+
+VPro企業方案的台北論壇
+
+
+
+
+
+
+英特尔F1賽車模擬器
+
+
+而在90年代，Intel的架構實驗室（IAL）是很多硬體介面的推手，像是PCI匯流排、USB、藍芽，以及提供於多處理器伺服器的當代先進架構。IAL在軟體方面的努力在早期也有部分成果，但是後來軟體的趨勢則是往微軟的方向走。而Intel與微軟之間的競爭關係則是可以從IAL的副總裁史提芬·麥基迪與微軟的反托拉斯的訴訟中窺知一二。
+而另一項讓Intel的新款處理器得以迅速普及的是微軟的Windows作業系統的版本更新，理由是每次更新Windows作業系統就需要更強的處理器來達到最佳體驗。從Windows 95、Windows 98、Windows 2000，直到Windows XP甚至是Windows Vista都是與當代的硬體技術互相對補。
+多核心處理器與未來發展[编辑]
+2006年9月6日Intel宣佈重組架構及提出節流方案內容，在2007年中前裁員1萬5千人，把員工總人數裁減至9千2佰人。
+9月7日，英特爾公司宣佈推出博銳技術。[16]11月14日，英特爾公司宣佈推出面向伺服器的至強5300處理器和面向台式機的Core 2 Extreme Quad-Core CPU。[17]
+2007年，英特爾宣佈將會重返圖形芯片市場。第一款產品會命名為Larrabee。在ATI和3Dlabs的出售過程中，英特爾得到了大部分3Dlabs工程師和部分ATI的工程師，該產品就是由他們設計。有人擔心缺乏驅動程式的配搭，顯示卡效能不能有效發揮。[18]Larrabee能運行萬億次運算，在首發時可能會有24至32個核心，次年升級到48個。開發者可利用英特爾提供的Ct編程模式，去發揮Larrabee的功能。Ct編程模式建基於C語言和C++語言，會分配工作到不同的核心。[19]
+與蘋果公司的合作關係[编辑]
+在2005年6月6日、蘋果公司的CEO 史提夫·賈伯斯宣佈Apple會從長久使用的PowerPC架構轉移到Intel的x86架構，因為PowerPC的未來計畫並不是Apple需要的。而第一台配備Intel CPU的蘋果電腦將於2006年1月10日推出。而Apple起初宣佈在2007年底將旗下產品全部轉換為使用Intel的晶片，不過隨後發布轉移計畫會提前到2006年底完成[20]，不過Apple在2006年8月的時候就已經將所有旗下產品全部轉移至Intel平台了。而Apple的伺服器產品Xserve則是在2006年11月開始使用Intel Xeon處理器，提供的系統配置則是與Apple的Mac Pro相似。[21]
+Core 2 Duo的廣告爭議[编辑]
+在2007年，Intel發表了一份紙本的廣告，其廣告內容為一個辦公室內有6位非洲裔美國選手同時相向起跑，而站在他們之間為一位白人男性。這則廣告很容易引起黑人向白人鞠躬下跪的聯想，而被指出為種族歧視。不久Intel整合行銷副總南希·巴格特就此對外發佈聲明，指出這篇廣告是「冷漠且有汙辱性質」。[22]而這股風波則是在幾位英特爾主管在網站上作公開道歉而快速的平息。[23]
+企業事宜[编辑]
+領導團隊與企業架構[编辑]
+在1968年創立Intel的時候，當時的CEO是羅伯特·諾宜斯，在1975年則由高登·摩爾擔任CEO的位置。安迪·葛洛夫在1979年擔任公司總裁的位置，而摩爾在1987年坐上董事長的位置時，則是輔以CEO稱號給葛洛夫。在1997年葛洛夫接替摩爾擔任董事長，而貝瑞特則是接任總裁的位置。而歐德寧之前是公司總裁，而且對Intel的設計持續相容於IBM PC的重要推手，於是2005年5月18日時貝瑞特將該公司的大權轉移到保羅·歐德寧。而董事會推舉歐德寧擔任CEO的位置，且貝瑞特接替了葛洛夫董事長的位置。而葛洛夫雖然從董事長的位置下台，但Intel還是保留了特別顧問的位置給他。
+而目前Intel 董事會的成員包括：
+
+Craig Barrett
+查倫·巴爾舍夫斯基
+Susan Decker
+James Guzy
+Reed Hundt
+Paul Otellini
+James Plummer
+David Pottruck
+Jane Shaw
+John Thornton
+David Yoffie[24]
+
+僱員[编辑]
+Intel並不是典型的矽谷企業，它的企業文化並不會像Google或是昇陽那麼的隨性。它內部有相當嚴格的精英，能夠獲得豐富的工作酬勞，而且並不會長期看輕內部的僱員。[25][26]
+而這家公司之所以能夠遠近馳名，主要得力於它的執行團隊。Intel已抵制了走向「局外人」的行政總裁。保羅·歐德寧在Intel度過30年的老公司時擔任CEO的角色。他的所有高層幕僚都已經通過多年的考驗。在許多情況下，英特爾公司的高層管理人員已用他們的所有職場生涯奉獻於Intel，這在矽谷是一個非常罕見的事情。
+Intel有一條強制退休政策，只要執行長達到65歲時就強制退休，但其中只有一個CEO貝瑞特，是真正在65歲退休。以往的所有CEO的退休年齡都低於65歲；葛洛夫在62歲時退休，而羅伯特·諾伊斯和高登·摩爾都在58歲時退休。而57歲的歐德寧在長期生涯中都在一人之下萬人之上的位置，他有可能到65歲而退休的CEO。
+公司內沒有一個人有專屬的辦公室，甚至歐德寧也是在工作空間（一個開放式樓層使用各式隔板隔出空間）裡工作。採用這種工作空間的設計目的是使僱員們達成平等原則，但是有些新進員工卻難以適應這樣子的改變。在業界中Intel並不是唯一採用此方案的公司，HP其實也有相似概念的無辦公室設計。
+Intel也有製程設備在加州以外的地方，如中國、以色列、愛爾蘭、菲律賓、哥斯達黎加、俄羅斯等地。在美國的Intel僱用了比較多科羅拉多、麻州、亞利桑那、新墨西哥、奧勒岡、德克薩斯、華盛頓州，以及猶他的員工。[27]在奧勒岡的Intel僱用了超過16,000名員工，而這些員工主要來自Hillsboro。[28]而Intel在新墨西哥及亞歷桑納的分部也都超過10,000名員工。
+多樣性[编辑]
+Intel的有多樣化的員工群[29]。他們的員工群是以種族、國籍、性別認同和宗教自由為編群組。在1994年，Intel是最早擁有同性戀、雙性戀以及跨性別群組的其中一家公司，[30]而且也有穆斯林員工群，[31]還有猶太員工群，[32]以及以聖經為主的基督教員工群。[33][34]
+在2002年人權運動發表了第一份企業平等指數，英特爾得到了100%的評價。而且2003年與2004年的評比也都保持著優良的評價。此外，2005年的Working Mother雜誌評選的100個最好公司，Intel也名列其中。不過，Intel的工作做法仍會受到批評，最顯著的就屬前僱員Ken Hamidi的訴訟案，[35]他們一直受到來自Intel的多重失敗的訴訟。
+財務[编辑]
+Intel的公司市值為1534.2億美元（2007年10月31日時）。他以INTC的名稱公開的能夠在那斯達克上交易，而且也是下列股匯市指數的成員：道瓊工業指數、S&P 500、NASDAQ-100、費城半導體及GSTI Software Index。
+INTC是一個被廣泛持有的股票，幾乎58.5億。機構投資者和共同基金持有60%的股權，而公司內部人，包括高登·摩爾和安迪·葛洛夫，持有股份約只3%。Intel在目前的上市歷史中，最高收盤價是在2000年8月31日的74.87美元，而到2002年9月23日時的最低收盤價為14.62美元，而在2007年10月底，股價則是在25.50至26.50元波動。
+摩爾定律[编辑]
+1965年高登·摩爾在《電子學》雜誌（Electronics Magazine）第114頁發表了影響科技業至今的摩爾定律。
+廣告及品牌營銷[编辑]
+intel inside[编辑]
+
+
+
+
+1990年4月至2005年5月
+「內建英特爾」
+
+
+1989年4月，技術助理-丹尼斯·李·卡特認為英特爾的微處理器80386無法取代80286，主因是終端消費者不會想要80386所提供的強大運算能力，卡特認為必須直接說服80386微處理器才是終端消費者所需要的產品，之後再葛洛夫的支持下，卡特在丹佛市報紙廣告登上將286黑體字畫上紅色「X」，報紙下一版面即出現386並引用文字說明它的優點，此廣告隨後在全美報紙登出，並帶動80386銷售量。
+卡特認為:「我們希望處理器在電腦中佔有更顯眼的位置，她極為重要卻看不見，人們不知道微處理器的存在，它們不認識我們。」「英特爾需要一個品牌，品牌名稱不會是386或是486，數字不能登記為商標。」，卡特主張針對終端消費者提出完整行銷計畫-「intel inside」，他希望打大眾廣告也和電腦品牌合推廣告，也是就是說電腦商如果廣告中包含「intel inside」以及其生產的電腦中也貼有「intel inside」貼紙，英特爾願意分攤廣告成本。另外當廣告和電腦出現英特爾的品牌可能會造成資訊混亂，沖淡自身品牌價值，所以在「intel inside」中的intel寫的樣式和公司正式商標不同。此計畫於1990年4月展開，直到2005年5月，歐特裡尼擔任執行長調整組織架構及推動配套行銷再造工程為止。
+Leap ahead[编辑]
+聲波標誌[编辑]
+眾所皆知的「D♭  D♭  G♭  D♭  A♭ 」的聲響是由Walter Werzowa寫的。[36]
+Sponsors on Tomorrow[编辑]
+Look Inside[编辑]
+競爭對手[编辑]
+在1980年代時，英特爾在全球是前十大的半導體銷售的業者（1987年是第10名），而在1991年以後，英特爾達到了第一名的位置之後就沒有再變動了。而其次的半導體公司包括AMD、三星、德州儀器、東芝與意法半導體。
+在個人電腦晶片組方面的競爭對手包括威盛電子、矽統科技、AMD與NVIDIA。而在網路方面的競爭對手有飛思卡爾、英飛凌、博通、Marvell與AMCC、台灣積體電路公司，而Intel在快閃記憶體的競爭者則是飞索、三星、奇夢達、東芝、意法半導體與海力士。
+而唯一在x86處理器市場中能夠與Intel相抗衡的是AMD，在1976年的時候AMD與Intel有完整的交叉授權協議：雙方能夠在一定時間後使用對方的專利技術而不用遭受起訴。[37]但如果有其中一方破產或是被併吞，此交叉授權協議就會自動取消。[38]而像VIA或全美達這種比較小的競爭對手就生產應用於小型電腦或是可攜式組件的低耗能處理器。2010年第二季全球個人電腦中央處理器市場佔有率，Intel以80.7%位列第一，第二是AMD佔19.0%，VIA則佔0.3%。[39]
+訴訟官司[编辑]
+在2005年9月，英特爾向法院提交了針對AMD的訴訟（英）[40]，反駁AMD的指控，並聲明其商業行為是公平和合法的。在這次的反駁，Intel展開了合法辯護的基礎，像是解析AMD侵略性的策略以及指出AMD如今的市場定位，是由於拙劣的商業決策以及管理上的無能，包括製造業的基本能力，以及過分依賴承辦的晶片廠所導致的。[41]
+法律專家預測這場官司因為Intel的回應指出它們不太可能設法去清算AMD，而且很有可能會打好幾年。[42][43]
+在2006年10月，全美達提出了Intel侵害在電腦架構以及節能技術的專利訴訟。[44]而在2007年10月，全美達與英特爾的訴訟案已經宣告終結，對Intel判處第一年1.5億美元以及之後5年共2000萬美元的罰金。這兩家公司同意放棄起訴對方，而Intel已獲得一項永久的非專屬授權，能夠在10年內使用當前和今後全美達的專利技術在Intel晶片裡面。[45]
+監管機構的反競爭指控[编辑]
+而在2007年7月，歐盟委員會正式指控Intel多數針對主要競爭對手AMD的反競爭行為。[46]這項指控可以溯及2003年時，包括給予優惠的價格給電腦廠商，廠商獲得的大多數或全部 來自英特爾的CPU，同時電腦製造商就延遲或取消推出採用AMD晶片的產品，並提供低於成本的CPU晶片給政府和教育機構。[47]英特爾根據這項指控回應時表示，這些指控既毫無根據也很無稽，是為了對消費者釋出善意才會出現其市場行為。[48]而律師Bruce Sewell也回應說，委員會誤解了一些關於價格和製造成本事實的假設。[49]
+在2008年2月，公司發言人宣佈，Intel在慕尼黑的辦公室已被歐盟競爭監管機構為調查其經營手法而被「搜查」。Intel也報告說，他正在配合調查。[50]如果他們找到扼殺競爭的證據，英特爾最高會被罰款其年度收入的10%。[48]而Intel的競爭對手AMD隨後也會針對這些指控推出一個網站。[51][52]
+在2007年9月，南韓監管機構正式指控英特爾違反反托拉斯法。該調查始於2006年2月，南韓官員突擊檢查Intel的韓國辦事處。如果罪名成立，該公司有可能被罰款高達年銷售額的3%。[53]
+收購NVIDIA的傳聞[编辑]
+2009年12月，據國外媒體報導，自7月AMD收購ATI的交易公佈以來，就一直有傳聞稱英特爾將做出回應，收購ATI的主要競爭對手NVIDIA。
+按照股價計算，NVIDIA的市值已經超過100億美元，英特爾發言人拒絕就此發表評論，稱該公司不會就市場傳聞發表評論。另一方面，通過收購ATI，AMD進入了一個新市場——圖形芯片市場。但對於英特爾而言，收購NVIDIA無法帶來同樣的效果，因為該公司早已開始生產圖形芯片。此外，NVIDIA首席執行長黃仁勳目前還不太可能交出公司控制權。Pacific Growth Equities分析師塞特亞·西拉拉（Satya Chillara）表示：「從各個方面來看，這一交易都存在太多變數。」[54]
+消息人士稱，Intel正在與NVIDIA探討進一步合作。除了技術授權之外，Intel甚至有可能收購NVIDIA。
+消息人士稱，如果Intel收購NVIDIA，那麼NVIDIA CEO黄仁勳可能會担任Intel CEO。
+由於投資者對公司在移動领域的表現感到不滿，Intel董事會有史以來第一次考慮從外部選拔CEO。交接將在2013年5月完成，屆時現任CEO保羅·歐德寧（Paul Otellini）將退休。繼歐德寧後，Intel董事會正考慮從外部選拔CEO，黄仁勳会成為這一人選吗？消息人士暗示，Intel的這一舉動可能與它在移動業務方面欠缺實力有關。Intel若要收購NVIDIA，不僅會收購其移動處理器部門，也會將GeForce顯示卡業務一併收購。由於證券市場的保密規定限制，兩家公司都不能透露任何信息。此前，IntelSandy Bridge和Ivy Bridge處理器將採用GeForce顯示卡晶片的傳言流出後，NVIDIA予以了否認。[55]
+處理器產品[编辑]
+主条目：英特尔微处理器列表
+簡體中文譯名由英特爾官方網站提供
+嵌入式[编辑]
+
+80186
+
+桌上型[编辑]
+
+8086
+8088
+80286
+80386
+80486
+奔騰（Pentium）
+奔騰Pro（Pentium Pro）
+奔騰MMX（Pentium MMX）
+奔騰II（Pentium II）
+賽揚（Celeron）
+奔騰III（Pentium III）
+奔騰4（Pentium 4）
+奔騰D（Pentium D）
+賽揚D（Celeron D）
+酷睿2（Core 2）
+奔騰雙核（Pentium Dual-Core）
+賽揚雙核（Celeron Dual-Core）
+酷睿i3（Core i3）
+酷睿i5（Core i5）
+酷睿i7（Core i7）
+酷睿i9（Core i9）
+
+筆記型[编辑]
+
+奔騰III Mobile（Pentium III Mobile）
+奔騰4 Mobile（Pentium 4 Mobile）
+奔騰M（Pentium M）
+賽揚M（Celeron M）
+酷睿（Core）
+酷睿2（Core 2）
+凌動（Atom）
+
+
+酷睿i3（Core i3）
+酷睿i5（Core i5）
+酷睿i7（Core i7）
+
+伺服器[编辑]
+
+奔騰II至強（Pentium II Xeon）
+奔騰III至強（Pentium III Xeon）
+至強（Xeon）
+安騰（Itanium）
+安騰2（Itanium 2）
+
+晶片組[编辑]
+只列舉桌上型晶片組，不包含移動平臺，工作站與伺服器用晶片組。完整型號請至英特爾晶片組列表條目。
+
+430系列－是Intel早期的晶片組，該晶片組支援Socket 7的奔騰MMX處理器，支援PCI和ISA插槽。
+440系列－其中440BX是奔騰II時期的經典之作。
+810系列－這是Intel第一款款採用集成顯示卡的晶片組。不支援AGP，使得不能使用AGP顯示卡。
+815系列－搭配奔騰III處理器，其中的815EPT正式支持Tualatin核心的處理器。
+850系列－早期的850是為了配合奔騰4的倉促上市而設計的，採用不成熟的Socket 423插座並搭配昂貴的RDRAM內存使得它與Socket423的奔騰4同時被淘汰出局。新的850E後來作為工作站級別的芯片組上市。
+845系列－為了摒棄昂貴的RDRAM內存而設計的搭配SDRAM記憶體的晶片組。隨著DDR記憶體的上市，英特爾又推出了845D以及後續的845E、845G等芯片組。
+848／865／875系列－為全面支持含Hyper-Threading技術的奔騰4處理器而設計的芯片組，首度支持雙通道記憶體（848P為865系列的簡化版本，去掉了對雙通道記憶體的支持）、SATA硬碟、AGP8X和USB2.0等新技術。
+910／915／925系列－過渡產品，配合採用LGA 775封裝的處理器，支援最新的PCI Express與DDR 2內存，而915系列則保留了對Socket 478、AGP以及DDR內存的支援。只有925系列支持Pentium 4 Extreme Edition處理器。
+945／946／955系列－在原915／925芯片組的基礎上，增加了對奔騰D雙核心CPU的支持。其中955和975系列支持了Pentium Extreme Edition處理器。945GT Express芯片組更是支持了Core Duo處理器。使用VRM11的975系列主板更支援Intel Core 2系列處理器。
+963／965／975系列－加入對Core 2系列處理器的支援，另加入原生的雙通道DDR 2 800MHz的支援。採用新的命名方法，將標識英文字母前置。
+x3x（31／33／35／38）系列－於965系列的基礎上加入1333MHz外頻的支援，並於P35／X38等高階晶片組中加入DDR3支援。[56]採用新的命名方法，以第一個英文字母代表類型（如P35是獨立晶片組、G35是內建顯示功能的晶片組），及最尾的數字代表級別（如G35、G33、G31中以G35最高階）
+x4x（41／43／45／48）系列－x3x系列的改良版，將外頻提升到1600 MHz，並支援最新的PCI Express2.0。
+x5x（55／57／58）系列－支援LGA 1366與LGA 1156封裝的處理器Core i3／i5／i7的晶片組，高端型號採用QPI與處理器連接，中低端型號採用DMI與處理器連接，不設記憶體控制器——北桥，改為內建於處理器中。
+x6x（61／65／67／68）系列－支援LGA 1155封裝的處理器Core i3／i5／i7的晶片組。
+x7x（75／77／79）系列－支援LGA 2011與LGA 1155封裝的處理器Core i3／i5／i7的晶片組。Z77/H77/Z75是x6x系列的改良版，全系列支援最新的PCI Express3.0。
+x8x（81／85／87）系列－支援LGA 1150封裝的處理器Core i3／i5／i7的晶片組。优化了多项硬盘传输性能。
+x9x（97／99）系列－支持LGA 2011与LGA 1150封装的处理器Core i3／i5／i7的芯片组。Z97/H97是x8x系列的改良版。全系列增加对M.2接口的支持。X99是第一个支持DDR4内存的芯片组。
+x1x0（110/150/170）系列－支持LGA 1151封装的处理器Core i3／i5／i7的芯片组。全系列增加对SATA Express接口以及DDR4内存的支持。优化了PCI-E存储性能。
+x2x0（250/270/299）系列－支持LGA 2066与LGA 1151封装的处理器Core i3／i5／i7/i9的芯片组。Z270/H270/Q270/Q250/B250是x1x0系列的改良版。全系列增加对Intel Optane固态硬盘的支持。
+x3x0（370）系列－支持LGA 1151封装的处理器Core i3／i5／i7的芯片组。由於Coffee Lake-S CPU可能會在高端Z270主板上燒掉，因為某些針腳的（供電）壓力太大。所以intel增加此改良版，並只支持Coffee Lake-S系列CPU，且不可向下或向上相容
+
+参考文献[编辑]
+
+
+^ bolvor. 高通暗示丢了一个大客户订单，iPhone 7真的要用Intel基带. expreview.com. [2016-04-23].  「...Intel收购了英飞凌公司的基带业务，很早前英飞凌也给苹果iPhone供应过基带，随着Intel收购VIA公司的CDMA基带业务，现在Intel也能提供全网通LTE基带了...」，「...Intel现在的XMM 6360基带支持LTE Cat10网络，提供最高450Mbps下行和100Mbps上行速率...」
+^ 英特爾/三星難壯大　台積電穩居晶圓代工龍頭. 「...英特爾發揮14奈米(nm)三閘極(Tri-Gate)電晶體技術優勢，攜手Altera強攻超高效能FPGA...」
+^ 3.0 3.1 3.2 3.3 3.4 3.5 Intel Corporation 2016 Annual Report Form (10-K). EDGAR. United States Securities and Exchange Commission. February 27, 2016 [February 3, 2017]. 
+^ Intel 2007 Annual Report (PDF). Intel. 2007 [2011-07-06]. 
+^ Paul S. Otellini Bio
+^ Goodin, Dan. Microsoft's holy war on Java. news.com (CNET News.com). 1998-09-23 [2008-01-07]. 
+^ Graham, Lea. USA versus Microsoft: the fourth week. news.bbc.co.uk (The BBC). 1998-12-14 [2008-01-07]. 
+^ Brandz Ranking 2007. Millward Brown Optimor. 2007 [2007-07-28]. 
+^ Theo Valich. Secret of Intel name revealed. The Inquirer. 2007-09-19 [2007-09-19]. [失效連結]
+^ Silberhorn, Gottfried; Colin Douglas Howell. Intel Intellec Series. old-computers.com. OLD-COMPUTERS.COM. [2007-07-31].  引文使用过时参数coauthors (帮助)
+^ A chronological list of Intel products. The products are sorted by date. (PDF). Intel museum. Intel Corporation. 2005-07 [2007-07-31]. （原始内容 (PDF)存档于2007-08-09）. 
+^ Marvell buys Intel's handheld processor unit for $600 million. eetimes.com (CMP Media LLC.). 2006-06-27 [2007-07-12]. 
+^ Maliniak, Lisa. Ten Notable Flops: Learning From Mistakes. Electronic Design Online. 2002-10-21 [2007-11-27]. （原始内容存档于2008-12-16）. 
+^ Dvorak, John C. What Ever Happened to... Intel's Dream Chip?. February 1997 [2007-11-27]. 
+^ Nicely, Dr. Thomas R. Dr. Thomas Nicely's Pentium email. Vince Emery Productions. 1994-10-30 [2007-07-12]. 
+^ [1]
+^ [2]
+^ [3]
+^ [4]
+^ Apple to Use Intel Microprocessors Beginning in 2006. Apple press release. Apple Inc. 2005-06-06 [2007-07-12]. 
+^ Jobs: New Intel Macs are 'screamers' news.com
+^ Bhagat, Nancy. Views@Intel - Sprinter Ad (Blog post). blogs.intel.com. Intel Corporation. 2007-07-31 [2007-08-09]. 
+^ MacDonald, Don. Apologies from Intel for Sprinter Ad. intel.com. Intel Corporation. [2007-08-09]. 
+^ Intel Board of Directors. [2007-09-15]. 
+^ iWon company profiles: Intel. iWon.com. IAC Search & Media. [2007-07-28]. 
+^ Patrizio, Andy. Big Intel Layoffs Could Come Next Week. internetnews.com (Jupitermedia Corporation). 2006-08-31 [2007-07-28]. 
+^ Intel Communities. Intel. Retrieved on January 23 2008.
+^ Suh, Elizabeth. Home of Oregon's largest employer and much more. The Oregonian, October 28 2007.
+^ Jobs at Intel - Diversity. intel.com. Intel Corporation. [2007-07-28]. 
+^ Intel Gay, Lesbian, Bisexual or Transgender Employees Home Page
+^ Jobs at Intel - Diversity, Employee Groups (Intel Muslim Employee Group). intel.com. Intel Corporation. [2007-07-28]. 
+^ Jobs at Intel - Diversity, Employee Groups (Intel Jewish Community). intel.com. Intel Corporation. [2007-07-28]. 
+^ Jobs at Intel - Diversity, Employee Groups (Intel Bible-Based Christian Network). intel.com. Intel Corporation. [2007-07-28]. 
+^ Intel Bible-Based Christian Network (IBCN) website
+^ Hamidi, Ken. FACE Intel Index. faceintel.com. [2007-07-28]. 
+^ Paul Morley on the Intel Pentium ad jingle Guardian Online
+^ Fried, Ian. Intel, AMD sign new licensing deal. news.com.com (CNET Networks, Inc). 2001-04-04 [2007-07-28]. （原始内容存档于2012-12-16）. 
+^ Patent Cross License Agreement - Advanced Micro Devices Inc. and Intel Corp.. Findlaws, Inc. [2007-09-15]. 
+^ 2010年第二季處理器市佔報告. 
+^ Intel Files Response To AMD Complaint. intel.com (Press release) (Intel Corporation). 2005-09-01 [2007-07-28]. 
+^ Whelan, David. Intel's Legal Strategy Takes Shape. forbes.com (Forbes.com Inc). 2005-09-02 [2007-07-28]. 
+^ AMD, Intel Battle Wages On As EU Decision Nears (PDF). amd.com. Portfolio Media, Inc. 2006-03-20 [2008-01-07]. 
+^ Krazit, Tom. Update: Intel issues formal response to AMD's antitrust lawsuit. infoworld.com (IDG News Service). 2005-09-01 [2008-01-07]. 
+^ Transmeta Announces Patent Infringement Lawsuit Against Intel Corporation. investor.transmeta.com (Press release) (Transmeta Corporation). 2006-10-11 [2007-07-28]. （原始内容存档于2007-05-01）. 
+^ Transmeta settles patent suit with Intel. reuters.com (Reuters). 2007-10-24 [2007-10-25]. 
+^ Competition: Commission confirms sending of Statement of Objections to Intel. europa.eu (Press release). 2007-07-27 [2007-07-28]. 
+^ Lawsky, David. UPDATE 4-EU says Intel tried to squeeze out Advanced Micro Devices. reuters.com (Reuters). 2007-07-27 [2007-07-28]. 
+^ 48.0 48.1 EU outlines Intel 'market abuse'. news.bbc.co.uk (The BBC). 2007-07-27 [2007-07-28]. 
+^ Lawsky, David. Intel says EU made errors in antitrust charges. reuters.com (Reuters). 2007-07-27 [2007-07-28]. 
+^ EU regulator raids Intel offices. BBC News. 2008-02-12 [2008-02-12]. 
+^ Clarke, Peter. AMD sets up website to tell "the truth about Intel". eetimes.com (CMP Media LLC). 2007-08-08 [2007-08-09]. 
+^ AMD Break Free. breakfree.amd.com. Advanced Micro Devices, Inc. 2007-07-31 [2007-08-09]. （原始内容存档于2007-07-31）. 
+^ Intel facing antitrust complaint in Korea. iht.com (International Herald Tribune). 2007-09-11 [2007-09-13]. 
+^ 09年末驚天新聞：傳INTEL準備收購NVIDIA. it168.com. 2009-12-09 [2009-12-11]. 
+^ 惊！Intel或收购NVIDIA 黄仁勋任新CEO. 中关村在线. 2012-12-15. 
+^ [http:／／www3.intel.com／cd／products／services／apac／zht／chipsets／357786.htm Intel® P35高速晶片組]
+
+
+外部連結[编辑]
+
+英特爾
+
+英特爾中國
+英特爾台灣
+
+
+
+參見[编辑]
+
+全球二十大半導體廠商
+英特爾科學獎
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+英特爾
+
+
+
+
+
+
+人物
+
+
+
+高登·摩爾
+安迪·葛洛夫
+羅伯特·諾宜斯
+克雷格·貝瑞特
+保羅·歐德寧
+
+
+
+
+
+
+
+
+
+
+
+平台
+
+
+
+迅馳（Centrino）
+歡悅（Viiv）
+博銳（VPro）
+奔腾（Pentium）
+酷睿（Core）
+安騰（Itanium）
+賽揚（Celeron）
+
+
+
+
+
+
+
+
+Pentium系列
+
+
+
+Pentium
+Pentium Pro
+Pentium II
+Celeron
+Pentium III
+Pentium 4
+Pentium 4 Extreme Edition
+Pentium M
+Celeron D
+Pentium D
+Pentium Extreme Edition
+
+
+
+
+
+
+
+
+Core系列
+
+
+
+Core Duo/Core Solo
+Core 2 Duo/Core 2 Extreme/Core 2 Quad
+Core i3
+Core i5
+Core i7
+
+
+
+
+
+
+
+
+Xeon系列
+
+
+
+Pentium II Xeon
+Pentium III Xeon
+Xeon
+
+
+
+
+
+
+
+
+芯片组
+
+
+
+Intel晶片組列表
+
+
+
+
+
+
+
+
+技術
+
+
+
+MMX
+SSE
+IA-64
+超執行緒
+Clear Video
+
+
+
+
+
+
+
+
+顯示核心
+
+
+
+Intel740
+Intel752
+Intel754
+Extreme Graphics
+GMA
+HD Graphics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Intel處理器
+
+
+
+
+
+
+已停產
+
+
+
+
+
+x86前產品
+
+
+
+
+4004
+4040
+8008
+8080
+8085
+
+
+
+
+
+
+
+
+
+x87（外置浮點運算器）
+
+
+8/16位总线：8087
+
+16位总线：80187
+80287
+80387SX
+32位总线：80387DX
+80487
+
+
+
+
+
+
+
+
+
+x86-16（16位）
+
+
+
+
+8086
+8088
+80186
+80188
+80286
+
+
+
+
+
+
+
+
+
+x86-32/IA-32（32位）
+
+
+
+
+80386
+80486
+Pentium
+
+OverDrive
+Pro
+II
+III
+4
+M
+
+
+Celeron
+
+M
+D
+
+
+Core
+Atom
+
+
+
+
+
+
+
+
+
+x86-64/Intel 64（64位）
+
+
+
+
+Pentium
+
+4（部份型號）
+D
+EE
+
+
+Celeron D（部份型號）
+Core 2
+Atom
+
+
+
+
+
+
+
+
+
+EPIC/IA-64（64位）
+
+
+
+
+Itanium
+
+
+
+
+
+
+
+
+
+RISC
+
+
+
+
+i860
+i960
+StrongARM
+XScale
+
+
+
+
+
+
+
+
+
+微控制器
+
+
+
+
+8048
+8051
+MCS-96
+
+
+
+
+
+
+
+
+
+
+
+現有產品
+
+
+
+
+
+x86-32/IA-32
+
+
+
+
+EP80579
+A100
+
+
+
+
+
+
+
+
+
+x86-64/Intel 64
+
+
+
+
+Xeon
+
+E3
+E5
+E7
+Phi
+
+
+Celeron
+Pentium
+Core
+
+i3
+i5
+i7
+i9
+M
+
+
+Atom
+
+x3
+x5
+x7
+
+
+
+
+
+
+
+
+
+
+
+EPIC/IA-64
+
+
+
+
+Itanium 2
+
+
+
+
+
+
+
+
+
+
+
+未來產品
+
+
+
+Tukwila（英语：Tukwila (processor)）
+Moorestown
+
+
+
+
+
+
+
+
+平台
+
+
+
+Centrino
+Centrino2
+Centrino Duo
+Centrino Pro
+vPro
+Viiv
+MID
+
+
+
+
+
+
+
+
+微架構
+
+
+
+
+
+狀況未知或已取消
+
+
+
+
+Larrabee
+
+
+
+
+
+
+
+
+
+已完成
+
+
+
+
+P5
+P6
+NetBurst
+Core / Penryn
+Bonnell / Saltwell
+Nehalem / Westmere
+Sandy Bridge / Ivy Bridge
+Haswell / Broadwell
+Skylake / Kaby Lake
+Coffee Lake
+
+
+
+
+
+
+
+
+
+未來
+
+
+
+
+Cannonlake / Icelake / Tigerlake
+
+
+
+
+
+
+
+
+
+
+
+列表
+
+
+
+處理器插座
+處理器
+處理器代號
+PCH
+Atom
+Celeron
+Core
+
+2
+i3
+i5
+i7
+i9
+M
+
+
+Itanium
+Pentium
+
+II
+III
+4
+D
+Dual-Core
+M
+
+
+Xeon
+
+Phi
+
+
+
+
+
+
+
+
+
+
+相關
+
+
+
+晶片組
+PCH
+SCH（英语：System Controller Hub）
+ICH
+PIIX（英语：PCI IDE ISA Xcelerator）
+GPU comparison（英语：Comparison of Intel graphics processing units）
+Codenames（英语：List of Intel codenames）
+GMA
+HD Graphics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ 道琼斯工业平均指数成份股
+
+
+
+
+
+
+目前組成股票
+
+
+
+3M
+蘋果公司
+高盛
+美國運通
+Visa
+波音
+卡特彼勒
+雪佛龍
+思科系统
+可口可乐公司
+陶氏杜邦
+埃克森美孚
+通用电气
+耐克
+家得宝
+英特尔
+IBM
+强生
+摩根大通
+麦当劳
+默沙东
+微软
+輝瑞
+宝洁
+旅行家集團
+聯合健康集團
+联合技术
+威訊
+沃尔玛
+华特迪士尼
+
+
+
+
+
+
+
+
+前任組成股票
+
+
+
+奧馳亞集團
+卡夫食品
+美國國際集團
+美国烟草公司
+花旗集团
+杜邦
+通用汽车
+伊士曼柯达
+固特異
+霍尼韦尔
+國際紙業公司
+北美洲公司
+西爾斯羅巴克
+美國聯合碳化物
+美國橡膠公司
+美國鋁業
+惠普
+AT&T
+美國銀行
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ 納斯達克100指數成份股
+
+
+
+
+
+
+
+
+
+二十一世紀福斯
+动视暴雪
+Adobe Systems
+Akamai
+亞力兄制藥
+Alphabet
+亞馬遜公司
+American Airlines Group（英语：American Airlines Group）
+安进
+亚德诺半导体
+蘋果公司
+应用材料
+Autodesk
+Automatic Data Processing（英语：Automatic Data Processing）
+百度
+Biogen Idec
+BioMarin Pharmaceutical（英语：BioMarin Pharmaceutical）
+博通有限
+CA科技
+賽爾基因
+Cerner（英语：Cerner）
+Charter Communications（英语：Charter Communications）
+Check Point（英语：Check Point）
+Cintas（英语：Cintas）
+思科系统
+思杰系统
+高知特
+康卡斯特
+好市多
+CSX Corporation（英语：CSX Corporation）
+携程旅行网
+Dentsply Sirona（英语：Dentsply Sirona）
+探索傳播
+Dish Network
+Dollar Tree（英语：Dollar Tree）
+EBay
+艺电
+Expedia公司
+Express Scripts（英语：Express Scripts）
+Facebook
+Fastenal（英语：Fastenal）
+Fiserv（英语：Fiserv）
+Gilead Sciences（英语：Gilead Sciences）
+孩之寶
+Henry Schein（英语：Henry Schein）
+Hologic（英语：Hologic）
+Idexx Laboratories（英语：Idexx Laboratories）
+Illumina
+Incyte（英语：Incyte）
+英特尔
+Intuit
+Intuitive Surgical（英语：Intuitive Surgical）
+J. B. Hunt Transport Services（英语：J. B. Hunt Transport Services）
+京東商城
+KLA-Tencor（英语：KLA-Tencor）
+卡夫亨氏
+Lam Research（英语：Lam Research）
+Liberty Global（英语：Liberty Global）
+Liberty Interactive（英语：Liberty Interactive）
+萬豪國際
+美泰兒
+美信集成产品
+MercadoLibre（英语：MercadoLibre）
+微晶片科技
+美光科技
+微软
+亿滋国际
+Monster Beverage（英语：Monster Beverage）
+邁蘭
+网易
+Netflix
+挪威郵輪
+英伟达
+O'Reilly Auto Parts（英语：O'Reilly Auto Parts）
+Paccar
+Paychex（英语：Paychex）
+PayPal
+高通
+Regeneron（英语：Regeneron）
+Ross Stores（英语：Ross Stores）
+希捷科技
+Shire (pharmaceutical company)（英语：Shire (pharmaceutical company)）
+天狼星XM
+Skyworks Solutions（英语：Skyworks Solutions）
+星巴克
+赛门铁克
+T-Mobile US（英语：T-Mobile US）
+特斯拉汽車
+德州仪器
+Priceline集團
+Tractor Supply Company（英语：Tractor Supply Company）
+Ulta Beauty（英语：Ulta Beauty）
+Verisk Analytics（英语：Verisk Analytics）
+Vertex Pharmaceuticals（英语：Vertex Pharmaceuticals）
+維亞康姆
+沃达丰
+Walgreens Boots Alliance（英语：Walgreens Boots Alliance）
+威騰電子
+永利度假村
+赛灵思
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+全球主要信息技术公司
+
+
+
+
+
+
+
+
+
+最大的信息技术公司列表
+最大的網際網路公司列表
+最大的軟體公司列表
+全球二十大半導體廠商
+
+
+
+
+
+
+
+
+消費电子产品
+
+
+
+
+
+行動裝置[1]
+
+
+
+
+蘋果
+三星电子
+華為
+索尼移動通信
+宏达电
+華碩
+摩托罗拉移动
+小米
+LG電子
+TCL
+步步高电子（包括Vivo、OPPO以及OnePlus）
+中興
+魅族
+夏普
+富可視
+Micromax
+Tecno
+
+
+
+
+
+
+
+
+
+个人电脑[2]
+
+
+
+
+聯想
+惠普
+戴尔
+蘋果
+宏碁
+華碩
+微星
+东芝
+三星电子
+清华同方
+富士通
+
+
+
+
+
+
+
+
+
+組裝代工
+
+
+
+
+鴻海
+富智康
+廣達
+仁寶
+緯創
+英業達
+和碩
+偉創力
+Celestica
+Jabil
+Sanmina-SCI
+冠捷
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+诺基亚
+酷派
+黑莓
+日本電氣
+
+
+
+
+
+
+
+
+
+
+
+影像
+
+
+
+佳能
+三星
+尼康
+索尼
+徕卡
+奥林巴斯
+柯尼卡美能达
+柯达
+京瓷
+利盟
+理光
+精工愛普生
+惠普
+夏普
+东芝
+施乐
+大立光電
+
+
+
+
+
+
+
+
+数据保存
+
+
+
+
+
+硬盘[3]
+
+
+
+
+希捷科技
+威騰電子
+日立存储
+东芝
+三星
+
+
+
+
+
+
+
+戴尔
+易安信
+富士通
+惠普
+IBM
+威騰電子
+網路器械
+甲骨文
+
+
+
+
+
+
+
+
+咨询和外包服務
+
+
+
+埃森哲
+源訊
+博思艾伦汉密尔顿控股公司
+BT
+CACI
+凱捷
+CGI Group
+高知特
+CSC
+德勤
+戴尔
+神州数码
+富士通
+HCL Technologies
+日立
+EDS
+IBM
+Indra
+印孚瑟斯
+日本電氣
+NTT
+Orange Business Services
+TCS
+T-Systems
+Wipro
+
+
+
+
+
+
+
+
+大型计算机
+
+
+
+
+
+大型主機
+
+
+
+
+富士通
+IBM
+
+
+
+
+
+
+
+
+
+伺服器
+
+
+
+
+IBM
+甲骨文
+思科
+
+
+
+
+
+
+
+
+
+PoS系統
+
+
+
+
+NCR
+東芝
+
+
+
+
+
+
+
+
+
+
+
+網路設備（英语：Network equipment provider）
+
+
+
+阿爾卡特-朗訊
+亚美亚
+思科
+愛立信
+富士通
+惠普
+华为
+瞻博網路
+摩托罗拉解决方案
+日本電氣
+諾基亞通信
+三星
+中興
+
+
+
+
+
+
+
+
+半导体製造
+
+
+
+
+
+IC設計
+
+
+
+
+英特爾
+三星
+高通
+美光
+SK海力士
+東芝
+德州儀器
+博通
+意法半導體
+瑞薩
+超威
+英偉達
+華爲(海思半導體)
+聯發科
+飛思卡爾
+富士通
+索尼
+LG
+英飛凌
+邁威爾
+恩智浦
+松下
+安森美
+快捷
+LSI公司
+紫光集團
+安謀控股
+
+
+
+
+
+
+
+
+
+晶圓代工
+
+
+
+
+台積電
+聯華電子
+格羅方德
+中芯國際
+力晶科技
+
+
+
+
+
+
+
+
+
+
+
+互联网[4]
+
+
+
+
+
+电子商务
+
+
+
+
+阿里巴巴
+Amazon
+eBay
+Priceline集團
+京東商城
+Groupon
+Flipkart
+樂天
+貓途鷹
+Expedia
+唯品會
+攜程旅行網
+Lazada
+MercadoLibre
+
+
+
+
+
+
+
+
+
+搜索引擎
+
+
+
+
+Google
+百度
+微软
+雅虎
+Naver
+Yandex
+奇虎360
+搜狗
+
+
+
+
+
+
+
+
+
+社群網路
+
+
+
+
+Facebook
+騰訊
+Twitter
+領英
+新浪微博
+VKontakte
+
+
+
+
+
+
+
+
+
+入口网站
+
+
+
+
+网易
+Oath (Yahoo! 及 AOL)
+新浪
+
+
+
+
+
+
+
+
+
+
+
+軟體
+
+
+
+微软
+甲骨文
+SAP
+賽門鐵克
+VMware
+CA公司
+Adobe
+蘋果
+Google
+IBM
+惠普
+Intuit
+趨勢科技
+訊連科技
+華為
+海尔
+中興
+Salesforce.com
+
+
+
+
+
+
+
+
+电信服務
+
+
+
+
+
+十大电信运营商[5]
+
+
+
+
+AT&T
+威訊
+中国移动
+日本電信電話
+德國電信
+軟銀
+沃達豐
+美洲行動通訊（英语：América Móvil）
+中國電信
+西班牙電信
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+Orange
+中国联通
+KDDI
+英國電信
+義大利電信
+澳大利亞電信
+韩国电信
+世紀互聯（英语：CenturyLink）
+BCE公司（英语：BCE Inc.）
+挪威電信（英语：Telenor）
+威瑞森
+維旺迪
+中華電信
+荷蘭皇家電信
+NTT DOCOMO
+Reliance
+Sprint Nextel
+TeliaSonera
+3 (電訊)
+新加坡電信
+Etisalat
+TeliaSonera
+T-Mobile
+SK電訊
+電訊盈科
+
+
+
+
+
+
+
+
+
+
+
+电子游戏
+
+
+
+动视暴雪
+雅达利股份公司
+万代南梦宫娱乐
+卡普空‎
+艺电
+Epic Games
+LucasArts
+光荣特库摩
+科樂美
+NCsoft
+Nexon
+任天堂
+世嘉
+索尼
+史克威尔艾尼克斯
+Take-Two Interactive
+腾讯
+育碧
+華納兄弟
+
+
+
+
+
+
+
+
+数据来源
+
+
+
+^ TrendForce：2015年全球智慧型手機出貨12.93億支
+^ IDC：全球十大PC厂商将有两家退出市场2015年11月07日
+^ 全球硬盘市场大洗牌 仅存5家生产商
+^ 2015年全球互联网公司市值前20强排名
+^ The World’s Biggest Public Companies. Forbes. [2 June 2016] （英语）. 
+
+
+
+
+
+
+
+
+
+收錄標準：年營業收入超過30億美元；特例：組別5（主機）為10億美元，組別11（網際網路）為15億美元，組別13（電信）為200億美元。
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 154747966
+LCCN: n78020122
+ISNI: 0000 0001 0354 5207
+SUDOC: 145835014
+ULAN: 500333088
+
+
+
+
+
+
+
+
+
+
+美國主题
+電子學主题
+信息技術主题
+企業主题
+
+
+
+
+
+
+分类：納斯達克上市公司香港交易所上市公司道瓊斯工業平均指數成份股納斯達克100指數成分股美國電腦公司英特爾香港上市工業公司電腦硬件公司標準普爾500指數成分股半導體公司1968年成立的公司聖塔克拉拉公司隐藏分类：带有失效链接的条目含有过时参数的引用的页面CS1英语来源 (en)自2015年3月待更新条目含有英語的條目使用过时图像语法的页面自2007年7月有未列明来源语句的条目包含规范控制信息的维基百科条目

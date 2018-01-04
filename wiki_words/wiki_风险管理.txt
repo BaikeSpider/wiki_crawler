@@ -1,0 +1,527 @@
+风险管理
+
+
+
+
+國際太空站的小隕石撞擊風險管理圖，暖色的部位風險越大
+
+
+风险管理（risk management）是一个管理過程，包括對风险的定義、測量、评估和發展因應風險的策略。目的是將可避免的風險、成本及損失極小化。理想的风险管理，事先已排定优先次序，可以優先處理引發最大损失及發生機率最高的事件，其次再處理風險相對較低的事件。
+實際狀況中，因為風險與發生機率通常不一致，所以難以決定處理順序。故須衡量兩者比重，做出最合适的决定。
+因為牽涉到机会成本，风险管理同時也要面对如何運用有效资源的难题。把资源用于风险管理可能會減少運用在其他具有潛在報酬之活動的资源；理想的风险管理正是希望以最少的资源化解最大的危机。
+
+
+
+目录
+
+
+1 风险管理步骤
+
+1.1 风险的辨識
+1.2 风险的预测
+1.3 风险的处理
+
+
+2 风险管理的历史
+3 风险管理的分类
+4 风险管理研究方法
+5 风险管理的学说
+
+5.1 纯粹风险说
+5.2 企业全部风险说
+
+
+6 参见
+7 延伸閱讀
+
+7.1 英文書籍
+7.2 德文書籍
+
+
+
+
+
+风险管理步骤[编辑]
+對于现代企业而言，风险管理是透過辨識、衡量（含預測）、監控、報告來管理风险，採取有效方法設法降低成本；有计划地处理风险，以保障企业順利營運。這需要企业在经营过程中，辨識可能產生的风险，预测各种风险发生后对资源及營運造成的負面影响，以便使生产順利进行。由此可見，风险的辨識、预测和控制是企业风险管理的主要步骤。
+风险的辨識[编辑]
+风险辨識是风险管理的首要步驟。只有全盤了解各种风险，才能够预测可能造成的危害，進而选择处理风险的有效方法。
+风险识别方法有許多種，常见方法如下：
+
+生产流程分析法
+
+生产流程分析法是对企业整个生产经营过程进行全面分析，逐項分析各个环节可能遭遇的风险，找出各种潜在风险因素。生产流程分析法可分为风险列举法和流程图法。
+
+
+
+风险列举法指风险管理部门根据本身企业的生产流程，列举出各个生产环节的所有风险。
+流程图法指企业风险管理部门将整个企业生产过程一切环节系统化、顺序化，制成流程图，从而發現企业面临的风险。
+
+
+
+
+财务表格分析法
+
+财务表格分析法是藉由分析企业的资产负债表、损益表、营业报告书及其他相關资料，从而识别和发现企业现有的财产、負債等潛在风险。
+
+保险调查法
+
+利用保险调查法进行风险识别有两种形式：
+
+
+
+透过保险種類一览表，企业可以根据保险公司或者专门保险刊物的保险险种一览表，选择适合自己需要的险种。此方法僅能辨識可供保險之风险，無法辨識不得保險之风險。
+委托保险經紀人或保险咨询服务机构研究企業风险，找出各种财产和負債之存在风险。
+
+
+
+风险的预测[编辑]
+
+
+
+
+印度各地天災風險
+
+
+
+
+
+
+世界各國天災風險
+
+
+风险预测实际上就是估算、衡量风险，由风险管理人运用科学的方法，对其掌握的统计资料、风险信息及风险的性质进行系统分析和研究，进而确定各项风险的频度和强度，为选择适当的风险处理方法提供依据。风险的预测一般包括以下两个方面：
+
+预测风险的概率：透过资料积累和观察，发现造成损失的规律性。一个简单的例子：一个时期一万栋房屋中有十栋发生火灾，则风险发生的概率是1/1000。由此对概率高的风险进行重点防範。
+预测风险的强度：假设风险发生，导致企业的直接损失和间接损失。对于容易造成直接损失并且损失规模和程度大的风险应重点防範。一般分为4个等级，分别是：
+
+1、灾难性破坏 比方说会给企业带来摧毁性后果的因素。 2、重度破坏 可能会影响企业发展情况，影响公司声誉，虽然不至于摧毁公司，但是会导致企业面临裁员和重组的后果，让公司受到重创。 3、中度破坏 中度的破坏一般表现在资金周转上，对公司的声誉有短期的影响。 4、轻度影响 这个一般表现在对日常工作由影响，降低工作效率，影响系统的可靠性。 对企业来说，高程度破坏所带来的后果要严重的多，因此企业必须针对严重的情况做好预防，降低企业的损失率。
+风险的处理[编辑]
+风险的处理常见的方法有：
+
+避免风险：消极躲避风险。比如避免火灾可将房屋出售，避免航空事故可改用陆路运输等。因为存在以下问题，所以一般不采用。
+
+可能会带来另外的风险。比如航空运输改用陆路运输，虽然避免了航空事故，但是却面临着陆路运输工具事故的风险。
+会影响企业经营目标的实现。比如为避免生产事故而停止生产，则企业的收益目标无法实现。
+
+
+预防风险：采取措施消除或者减少风险发生的因素。例如为了防止水灾导致仓库进水，采取增加防洪门、加高防洪堤等，可大大减少因水灾导致的损失。
+自保风险：企业自己承担风险。途径有：
+
+小额损失纳入生产经营成本，损失发生时用企业的收益补偿。
+针对发生的频率和强度都大的风险建立意外损失基金，损失发生时用它补偿。带来的问题是挤占了企业的资金，降低了资金使用的效率。
+对于较大的企业，建立专业的自保公司。
+
+
+转移风险：在危险发生前，通过采取出售、转让、保险等方法，将风险转移出去。
+
+风险管理的历史[编辑]
+
+
+經濟學主题
+
+
+风险管理是一门新兴的管理学科。
+风险管理从1930年代开始萌芽。风险管理最早起源于美国，在1930年代，由于受到1929－1933年的世界性经济危机的影响，美国约有40％左右的银行和企业破产，经济倒退了约20年。美国企业为应对经营上的危机，许多大中型企业都在内部设立了保险管理部门，负责安排企业的各种保险项目。可见，当时的风险管理主要依赖保险手段。
+1938年以后，美国企业对风险管理开始采用科学的方法，并逐步积累了丰富的经验。1950年代风险管理發展成为一门学科，风险管理一词才形成。
+1970年代以后逐渐掀起了全球性的风险管理运动。1970年代以后，随着企业面临的风险复杂多样和风险费用的增加，法国从美国引进了风险管理并在法国国内传播开来。与法国同时，日本也开始了风险管理研究。
+近20年来，美国、英国、法国、德国、日本等国家先后建立起全国性和地区性的风险管理协会。1983年在美国召开的风险和保险管理协会年会上，世界各国专家学者云集纽约，共同讨论并通过了“101条风险管理准则”，它标志着风险管理的发展已进入了一个新的发展阶段。
+1986年，由欧洲11个国家共同成立的“欧洲风险研究会”将风险研究扩大到国际交流范围。1986年10月，风险管理国际学术讨论会在新加坡召开，风险管理已经由环大西洋地区向亚洲太平洋地区发展。
+中国对于风险管理的研究开始于1980年代。一些学者将风险管理和安全系统工程理论引入中国，在少数企业试用中感觉比较满意。中国大部分企业缺乏对风险管理的认识，也没有建立专门的风险管理机构。作为一门学科，风险管理学在中国仍旧处于起步阶段。
+进入到上世纪90年代，随着资产证券化在国际上兴起，风险证券化也被引入到风险管理的研究领域中。而最为成功的例子是瑞士再保险公司发行的巨灾债券，和由美国芝加哥期货交易所发行的PCS期权。
+风险管理的分类[编辑]
+风险管理主要分为两类：
+
+经营管理型风险管理主要研究政治、经济、社会变革等所有企业面临的风险的管理。
+保险型风险管理主要以可保风险作为风险管理的对象，将保险管理放在核心地位，将安全管理作为补充手段。
+
+风险管理研究方法[编辑]
+对风险管理研究的方法采用定性分析方法和定量分析方法。定性分析方法是通过对风险进行调查研究，做出逻辑判断的过程。定量分析方法一般采用系统论方法，将若干相互作用、相互依赖的风险因素组成一个系统，抽象成理论模型，运用概率论和数理统计等数学工具定量计算出最优的风险管理方案的方法。
+风险管理的学说[编辑]
+纯粹风险说[编辑]
+纯粹风险说以美国为代表。纯粹风险说将企业风险管理的对象放在企业静态风险的管理上，将风险的转嫁与保险密切联系起来。该学说认为风险管理的基本职能是将对威胁企业的纯粹风险的确认和分析，并通过分析在风险自保和进行保险之间选择最小成本获得最大保障的风险管理决策方案。该学说是保险型风险管理的理论基础。
+企业全部风险说[编辑]
+企业全部风险说以德国和英国为代表，该学说将企业风险管理的对象设定为企业的全部风险，包括了企业的静态风险（纯粹风险）和动态风险（投机风险），认为企业的风险管理不仅要把纯粹风险的不利性减小到最小，也要把投机风险的收益性达到最大。该学说认为风险管理的中心内容是与企业倒闭有关的风险的科学管理。企业全部风险说是经营管理型风险管理的理论基础。
+参见[编辑]
+
+风险
+保险
+公司治理
+防呆
+风险预测
+
+延伸閱讀[编辑]
+英文書籍[编辑]
+
+Alberts, Christopher; Audrey Dorofee, Lisa Marino. Mission Diagnostic Protocol, Version 1.0: A Risk-Based Approach for Assessing the Potential for Success. Software Engineering Institute. March 2008 [2008-05-26].  引文使用过时参数coauthors (帮助)
+Alexander, Carol and Sheedy, Elizabeth. The Professional Risk Managers' Handbook: A Comprehensive Guide to Current Theory and Best Practices. PRMIA Publications. 2005. ISBN 0-9766097-0-3. 
+Borodzicz, Edward. Risk, Crisis and Security Management. New York: Wiley. 2005. ISBN 0-470-86704-3. 
+Crockford, Neil. An Introduction to Risk Management (2nd ed.). Woodhead-Faulkner. 1986. ISBN 0-85941-332-2. 
+Flyvbjerg, Bent. From Nobel Prize to Project Management: Getting Risks Right (PDF). Project Management Journal (Project Management Institute). August 2006, 37 (3): 5–15 [2008-05-26]. 
+Gorrod, Martin. Risk Management Systems : Technology Trends (Finance and Capital Markets). Basingstoke: Palgrave Macmillan. 2004. ISBN 1-4039-1617-9. 
+Stoneburner, Gary; Goguen, Alice and Feringa, Alexis. Risk Management Guide for Information Technology Systems (PDF). Gaithersburg, MD: National Institute of Standards and Technology. July 2002.  引文使用过时参数coauthors (帮助)
+Ward, Dan; Quaid, Chris. The Pursuit of Courage, Judgment and Luck (PDF). Defense AT&L (Defense Acquisition University). March/April 2007: 28–30 [2008-05-26].  引文使用过时参数coauthors (帮助); 请检查|date=中的日期值 (帮助)
+United States Environmental Protection Agency. General Risk Management Program Guidance. United State Environmental Protection Agency. April 2004. 
+Standards Association of Australia. Risk management. North Sydney, N.S.W: Standards Association of Australia. 1999. ISBN 0-7337-2647-X. 
+IRM/AIRMIC/ALARM. A Risk Management Standard. London: Institute of Risk Management. 2002. 
+John Moteff. Risk Management and Critical Infrastructure Protection: Assessing, Integrating, and Managing Threats, Vulnerabilities and Consequences. Washington DC: Congressional Research Service. 2005. 
+
+德文書籍[编辑]
+
+Diederichs, Marc. Risikomanagement und Risikocontrolling : Risikocontrolling - ein integrierter Bestandteil einer modernen Risikomanagement-Konzeption.. München: Vahlen. 2004 (Controlling Praxis). ISBN 3800630842.  请检查|date=中的日期值 (帮助)
+Tom DeMarco, Timothy Lister. Bärentango. ISBN 3-446-22333-9. 
+Roland Erben, Frank Romeike. Allein auf stürmischer See.. Wiley-VCH. 2004. ISBN 3-527-50073-1. 
+W. Gleißner, Frank Romeike. Risikomanagement – Umsetzung, Werkzeuge, Risikobewertung. Haufe. 2005. ISBN 3-448-06209-X. 
+Detlef Keitsch. Risikomanagement. Schäffer-Poeschel. 2004. ISBN 3-7910-2295-4. 
+Koller. Wissensrisiken – Risiken aus Sicht des Wissensmanagements. 
+Locher, Mehlau, Hackenberg, Wild. Risikomanagement in Finanzwirtschaft und Industrie. 
+Frank Romeike, R. Finke（Hrsg.）. Erfolgsfaktor Risiko-Management. Gabler-Verlag. 2003. ISBN 3-409-12200-1. 
+Worst Case. Zwischen Angst, Alarm und Gelassenheit. Themenheft der Schweizer Monatshefte. Ausgabe September/Oktober 2006.  请检查|date=中的日期值 (帮助)
+Christoph Gebler. Risikomanagement und Rating für Unternehmer. Beuth. 2005. ISBN 3-410-16110-4. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+管理学
+
+
+
+
+
+
+
+
+
+商業管理學大綱（英语：Outline of business management）
+管理學文章列表（英语：Index of management articles）
+
+
+
+
+
+
+
+
+依照組織類別
+
+
+
+學術（英语：Academic administration）
+組織（英语：Association management）
+企業
+
+餐飲（英语：Restaurant management）
+
+
+醫療（英语：Health administration）
+軍旅（英语：Military administration）
+公共
+
+
+
+
+
+
+
+
+依照 (組織內部
+焦點)
+
+
+
+
+範圍
+
+
+
+
+策略
+
+
+
+能力（英语：Capability management）
+應變
+溝通（英语：Communications management）
+財務
+創新（英语：Innovation management）
+績效
+風險
+系統（英语：Systems management）
+
+
+
+
+
+
+
+
+部件
+
+
+
+設施
+產品（英语：Product management）
+
+生命周期
+品牌
+
+
+計畫（英语：Program management）
+專案
+
+營建工程
+
+
+
+
+
+
+
+
+
+
+
+
+
+活動或部門
+
+
+
+
+產線（英语：Line management）
+
+
+
+行銷
+營運（英语：Operations management）/生產（英语：Manufacturing process management）
+
+流程（英语：Process management）
+品質
+
+
+銷售（英语：Sales management）
+
+
+
+
+
+
+
+
+員工（英语：Staff management）
+
+
+
+會計（英语：Accounting management）
+辦公（英语：Office management）
+記錄（英语：Records management）
+
+
+
+
+
+
+
+
+
+
+
+方面或關係
+
+
+
+客戶
+工程
+物流
+感知（英语：Perception management）
+供應鏈
+人才（英语：Talent management）
+
+
+
+
+
+
+
+
+問題
+
+
+
+衝突（英语：Conflict management）
+危機
+壓力
+
+
+
+
+
+
+
+
+資源（英语：Resource management）
+
+
+
+環境
+人力
+資訊
+資訊科技
+知識
+土地
+材料（英语：Materials management）
+技能（英语：Skills management）
+庫存（英语：Stock management）
+技術（英语：Technology management）
+時間
+
+
+
+
+
+
+
+
+
+
+
+職位
+
+
+
+臨時
+干部
+主管
+
+
+
+
+
+
+
+
+方法
+
+
+
+靈活（英语：Adhocracy）
+協作（英语：Collaborative method）
+分散（英语：Distributed management）
+實獲值
+循證（英语：Evidence-based management）
+目標
+風格
+宏觀
+微觀
+科學
+公益
+團隊（英语：Team building）
+虛擬（英语：Virtual management）
+
+
+
+
+
+
+
+
+技巧
+
+
+
+決斷
+决策
+預測（英语：Forecasting）
+領導力
+
+
+
+
+
+
+
+
+先驅與學者
+
+
+
+彼得·德鲁克
+伊利雅胡·高德拉特
+奥利弗·威廉姆森
+
+
+
+
+
+
+
+
+教育
+
+
+
+商学院
+學位
+
+工商管理學士
+工商管理碩士
+博士（英语：PhD in management）
+
+
+組織研究（英语：Organizational studies）
+認證業務經理（英语：Certified Business Manager）
+特許管理學院（英语：Chartered Management Institute）
+重要管理研究（英语：Critical management studies）
+美國技術管理與應用工程協會（英语：Association of Technology, Management, and Applied Engineering）
+
+
+
+
+
+
+
+
+其他
+
+
+
+企业经济学
+管理心理学
+公司治理
+管理咨询
+管理主義
+組織發展理論
+合作
+控制（英语：Control (management)）
+管理發展（英语：Management development）
+管理系統（英语：Management system）
+管理經濟學（英语：Managerial economics）
+管理模控學（英语：Management cybernetics）
+組織行為學（英语：Organizational behavior management）
+管理風潮（英语：Management fad）
+呆伯特尖毛老闆（英语：Pointy-haired Boss）
+主管薪酬（英语：Executive compensation）
+威廉姆森的管理限度模型（英语：Williamson's model of managerial discretion）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：项目管理保险学風險風險管理學金融工程学隐藏分类：含有英語的條目使用2號參數傳遞Portal模板圖像的頁面含有过时参数的引用的页面引文格式1错误：日期

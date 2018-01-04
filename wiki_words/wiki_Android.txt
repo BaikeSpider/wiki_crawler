@@ -1,0 +1,2612 @@
+Android
+ 本文介绍的是移动操作系统。
+
+关于“android”的英文意思，请见“人形机器人”。
+关于东方神起的单曲，请见“机械人类”。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Android
+
+
+
+
+
+
+Android 8.1.0 Google即時桌面（Pixel）界面
+
+
+
+开发者
+Google、Open Handset Alliance
+
+
+编程语言
+C（内核）[1]、C++（部分第三方软件）、Java（使用者介面）[2]、Python
+
+
+運作狀態
+開發中
+
+
+源码模式
+開放原始碼[3]與部份專有元件[4]
+
+
+初始版本
+Android 1.0 beta（2007年11月5日，​10年前​（2007-11-05））
+
+
+最新版本
+8.1.0（2017年12月5日，​29天前​（2017-12-05））
+
+
+支援平台
+ARM、MIPS、Power Architecture、x86、x86-64
+
+
+内核类别
+整塊性核心（Linux核心）
+
+
+默认用户界面
+圖形使用者介面
+
+
+许可证
+Apache许可证2.0、GPL v2（修改的Linux内核）[5]
+
+
+官方網站
+www.android.com
+
+
+Android（讀音：英：['ændrɔɪd]，美：[ˈænˌdrɔɪd]），常見的非官方中文名称为安卓，是一個基於Linux核心的開放原始碼行動作業系統，由Google成立的Open Handset Alliance（OHA，開放手機聯盟）持續領導與開發，主要設計用於觸控螢幕行動裝置如智慧型手機和平板電腦與其他可攜式裝置。
+Android最初由安迪·鲁宾等人開發製作[6]，最初開發這個系統的目的是創建一個數位相機的先進作業系統；但是後來發現市場需求不夠大，加上智慧型手機市場快速成長，於是Android成為一款面向智慧型手機的作業系統。於2005年7月11日被美國科技企業Google收購[7] [8]。2007年11月，Google與84家硬體製造商、軟體開發商及電信營運商成立開放手機聯盟來共同研發改良Android，隨後，Google以Apache免費開放原始碼許可證的授權方式，發佈了Android的原始碼[9]，開放原始碼加速了Android普及，讓生產商推出搭載Android的智慧型手機[10][11][12][13]，Android後來更逐漸拓展到平板電腦及其他領域上[14]。
+2010年末數據顯示，僅正式推出兩年的Android作業系統在市場佔有率上已經超越稱霸逾十年的諾基亞Symbian系統[15][16]，成為全球第一大智慧型手機作業系統[17]。
+在2014年Google I/O開發者大會上Google宣布過去30天裡有10億台活跃的安卓设备，相較於2013年6月則是5.38億[18]。
+2017年3月，Android全球網路流量和設備超越Microsoft Windows，正式成為全球第一大作業系統[19]。
+2017年8月，Android O发布。
+
+
+
+目录
+
+
+1 Android命名由來
+2 Android標誌
+3 歷史
+
+3.1 成立
+3.2 Google的收購及發展
+3.3 成立開放手持裝置聯盟
+3.4 許可證
+
+
+4 系統設計
+
+4.1 Linux核心
+4.2 特點
+
+
+5 系统架构
+
+5.1 應用程式
+5.2 中介软件
+5.3 硬體抽像層（HAL）
+5.4 程式語言
+
+
+6 硬件支持
+7 分支平台
+
+7.1 Android Wear
+7.2 Android TV
+7.3 Android Auto
+
+
+8 應用程序
+
+8.1 Google Play
+8.2 程序開發
+8.3 移植到Chrome OS
+8.4 應用程式安全機制
+
+8.4.1 惡意程式與病毒
+8.4.2 SEAndroid
+
+
+8.5 盜版問題
+8.6 在中国大陆的情况
+
+
+9 Android发行版本
+10 市場使用情況
+
+10.1 市場份額
+10.2 平板電腦各作業系統比例
+10.3 用户使用系統版本比例
+
+
+11 專利糾紛
+
+11.1 与甲骨文公司的Java纠纷
+
+
+12 參見
+13 注释
+14 參考文獻
+15 外部链接
+
+
+
+Android命名由來[编辑]
+Android一詞最早出現於法國作家利尔亚当（Auguste Villiers de l'Isle-Adam）在1886年發表的科幻小說《未來夏娃》（L'Ève future）中。他將外表像人的機器人取名為Android。
+Android標誌[编辑]
+Android是一個全身綠色的機器人，顏色採用了PMS 376C和RGB中十六進制的#A4C639來繪製，這是Android作業系統的品牌象徵[20]。有時候，它會以純文字的標誌展示。[21]
+Android的標誌是由Ascender公司設計的，其中的文字使用了Ascender公司專門製作的稱之為“Google Droid”的字型[22]。
+歷史[编辑]
+
+
+
+
+埃里克·施密特、安迪·鲁宾和雨果·巴拉在Google Nexus 7平板电脑发布会上
+
+
+成立[编辑]
+2003年10月，有“Android之父”之称的安迪·鲁宾（Andy Rubin）[23]在美國加利福尼亞州帕洛阿尔托建立了Android科技公司（Android Inc.），並與利奇·米纳尔（Rich Miner）[24]、尼克·席尔斯（Nick Sears）[25]、克里斯·怀特（Chris White）[26]共同發展這家公司。談到建立Android科技公司的原因，魯賓說：“聰明的流動裝置能更好的意識到用戶的愛好和要求。”[27]儘管Android科技公司的創始人和員工過去都具有各自的科技成就，但是Android科技公司的經營只顯露出它在智慧型手機軟體的方面。
+同年，魯賓為Android科技公司花光所有錢。就在這時，史蒂夫·帕尔曼（Steve Perlman）遞給了魯賓一個信封，在裡面裝有1萬美元的現金；帕爾曼並不是以投資的方式給魯賓這筆錢，因為他拒絕了魯賓給他的股份。[28]
+Google的收購及發展[编辑]
+2005年7月11日，Google收購了Android科技公司，Android科技公司成為Google旗下的一部分。包括利奇·米纳尔、克里斯·怀特等所擁有的全資子公司，所有Android科技公司的員工都被併入Google。當時沒有人知道Google為什麼作出這項收購，有許多的猜測，後來證明Google正是借助此次收購正式進入移动領域。
+在Google，魯賓領導着一個負責開發基於Linux核心行動作業系統的團隊，這個開發項目便是Android作業系統。Google的合作平台為Android提供了廣闊的市場，Google給予各大硬件製造商、軟體開發商一個靈活可靠的系統升級承諾，並保證將給予它們最新版本的作業系統。
+2006年12月，《華爾街日報》和英國廣播公司（BBC）報導了Google有可能進入流動領域的傳聞，Google有可能推廣行動領域下的各種Google服務，並且將推出一款名為Google電話的自有品牌智慧型手機。另有傳聞指出，按照Google的作風，將有可能呈現出新的智慧型手機製造商和運營商模式。
+2007年9月，Google提交了多項行動領域的專利申請。但並沒有人知道，Google將會推出的是一款名為Android的智慧型手機作業系統。更多的猜測是，Google會推出一款像iPhone一樣的自有品牌智慧型手機系列。[29][30][31]
+成立開放手持裝置聯盟[编辑]
+主条目：开放手持设备联盟
+
+
+
+
+市場上第一款採用Android作業系統的智能手機HTC T-Mobile G1
+
+
+2007年11月5日，在Google的領導下，成立開放手持裝置聯盟（Open Handset Alliance），最早的一批成員包括Broadcom、HTC、Intel、LG、Marvell、Samsung等公司。開放手持裝置聯盟的建立目的是為了創建一個更加開放自由的行動電話環境。而在開放手持裝置聯盟創建的同一日，聯盟對外展示了他們的第一個產品：一部搭載了以Linux 2.6為核心基礎的Android作業系統的智慧型手機。2008年12月9日，新一批成員加入開放手持裝置聯盟，包括ARM、華為、索尼、小米等公司。[32][33]
+同時，一個負責持續發展Android作業系統的開源代码專案成立了AOSP（Android Open Source Project）。[34]除了開放手持裝置聯盟之外，Android還擁有全球各地開發人員組成的開源社群來專門負責開發Android應用程式和第三方Android作業系統來延長和擴展Android的功能和性能。[35][36]
+許可證[编辑]
+Android作業系統使用開放免費程式碼許可證，一切程式碼為公開免費[37]的。Google将Android的大部分以Apache開源條款2.0发布，剩下的Linux内核部分则继承GPLv2许可，[38][39][40][41]AOSP包括了智慧型手機网络和电话协议栈等智慧型手機所必需的功能。Google也不斷發布問卷和開放修改清單、更新情況和程式碼來讓任何人看到並且提出他們的意見和評論，以便按照用戶的要求改進Android作業系統。
+Android作業系統是完全免費開源的，任何廠商都不須經過Google和開放手持設備聯盟的授權隨意使用Android作業系統；但是製造商不能在未授權下在產品上使用Google的標誌和應用程序，例如Google Play等。除非Google證明其生產的產品裝置符合Google兼容性定義文件（CDD），這才能在智慧型手機上預裝Google Play Store、Gmail等Google的私有應用程式，並且獲得CDD，此外，智慧型手機廠商也可以在其生產的智慧型手機上印上“With Google”的標誌[42]。
+系統設計[编辑]
+
+
+
+
+Android的系统架构图示
+
+
+
+
+
+
+舊版本Android的儲存空間分成「程式」和「數據」，如果下載大型遊戲，便很容易用盡。
+
+
+
+
+
+
+通知可以通过从屏幕顶端向下滑动显示；部分通知可以通过滑动消失，并有可能包含附加操作（如图中的“未接电话”）。
+
+
+Linux核心[编辑]
+Android作業系統的核心屬於Linux核心的一個分支，具有典型的Linux排程和功能，[43]除此之外，Google為了能讓Linux在行動裝置上良好的運行，對其進行了修改和擴充。Android去除了Linux中的本地X Window System，也不支持標準的GNU庫，這使得Linux平台上的應用程式移植到Android平台上變得困難[44]。2008年，Patrick Brady于Google I/O演讲“Anatomy & Physiology of an Android”，并提出的Android HAL架构图。HAL以*.so档的形式存在，可以把Android framework与Linux kernel隔开，這種中介層的方式使得Android能在移动设备上獲得更高的執行效率。這種獨特的系統結構被Linux内核开发者Greg Kroah-Hartman和其他核心維護者稱讚。Google還在Android的核心中加入了自己開發製作的一個名為“wakelocks”的移動設備电源管理功能，該功能用於管理流動裝置的電池性能，但是該功能並沒有被加入到Linux核心的主線開放和維護中，因為Linux核心維護者認為Google沒有向他們展示這個功能的意圖和代碼。
+2010年2月3日，由於Google在Android核心開發方面和Linux社群方面開發的不同步，Linux内核开发者Greg Kroah-Hartman将Android的驱动程序从Linux内核“状态树”（“staging tree”）上除去。[45]2010年4月，Google宣布將派遣2名開發人員加入Linux核心社群，以便重返Linux核心。2010年9月，Linux核心開發者Rafael J. Wysocki添加了一個修復程序，使得Android的“wakelocks”可以輕鬆地與主線Linux核心合併。2011年，Linus Torvalds說：“Android的核心和Linux的核心將最終回歸到一起，但可能不會是4-5年。”在Linux 3.3中大部分代码的整合完成。[46]
+特點[编辑]
+目前的Android作業系統具有以下幾個功能：
+
+顯示佈局
+Android作業系統支持更大的分辨率，VGA，2D顯示，3D顯示都給予OpenGL ES 3.0標準規格（4.3版本開始支援OpenGL ES 3.0），並且支持傳統的智慧型手機。
+
+
+數據存儲
+Android作業系統內置SQLite小型关联式资料库管理系统來負責存儲數據。
+
+
+網路
+Android作業系統支援所有的網絡制式，包括GSM/EDGE、IDEN、CDMA、TD-SCDMA 、EV-DO、UMTS、Bluetooth、Wi-Fi、LTE、NFC和WiMAX。
+
+
+信息
+作為原设计给智慧型手機使用的作業系統，Android作業系統原生支援短信和郵件，並且支援所有的雲端信息和伺服器信息。
+
+
+語言
+Android作業系統支持多語言。
+
+
+瀏覽器
+Android作業系統中內建的網頁瀏覽器基於WebKit核心，並且採用了Chrome V8引擎。在Android 4.0內置的瀏覽器測試中，HTML5和Acid3故障處理中均獲得了滿分，並且于2.2版至4.0版之前能原生支援Flash，4.4版本後去除對Flash的支援。
+
+
+支援Java
+雖然Android作業系統中的應用程式大部分都是由Java編寫的，但是Android卻是以轉換為Dalvik executables的文件在Dalvik虛擬機上執行的。由於Android中並不自帶Java虛擬機，因此無法直接執行Java程序。不過Android平台上提供了多個Java虛擬機供用戶下載使用，安裝了Java虛擬機的Android系統可以執行Java_ME的程式。5.0版（Lolipop）開始以Android Runtime（ART）取代Dalvik虛擬機。
+
+
+媒體支援
+Android作業系統本身支持以下格式的音频/視訊/圖片媒體：WebM、H.263, H.264（in 3GP or MP4 container）、MPEG-4 SP、AMR, AMR-WB（in 3GP container）、AAC, HE-AAC（in MP4 or 3GP container）、MP3、MIDI、Ogg Vorbis、FLAC、WAV、JPEG、PNG、GIF、BMP。如果用戶需要播放更多格式的媒體，可以安裝其他第三方應用程式。
+
+
+流媒體支援
+Android作業系統支援RTP/RTSP（3GPP PSS, ISMA）的流媒體以及（HTML5 <video>）的流媒體，同時還支持Adobe的Flash，在安裝了RealPlayer之後，還支持蘋果公司的流媒體。
+
+
+硬體支持
+Android作業系統支持識別並且使用視訊/照片攝像鏡頭，多點電容/電阻觸控螢幕，GPS，加速計，陀螺儀，氣壓計，磁力儀(高斯計)，鍵盤，滑鼠，USB Disk，專用的遊戲控制器，體感控制器，遊戲手把，藍牙裝置，無線設備，感應和壓力感測器，溫度計，加速2D位位塊傳輸（硬體方向，縮放，像素格式轉換）和3D圖形加速。
+
+
+多點觸控
+Android支持原生的多點觸控，在最初的HTC Hero智慧型手機上即有這個功能。該功能是内核級別（為了避免對蘋果公司的觸控螢幕技術造成侵權）。
+
+
+藍牙
+Android支持A2DP，AVRCP，發送文件（OPP），訪問電話簿（PBAP），語音撥號和方送智慧型手機之間的聯繫。同時支援鍵盤，滑鼠和搖桿（HID）。
+
+
+多工處理
+Android作業系統支援原生的多工處理。
+
+
+語音功能
+除了支援普通的電話通話之外，Android作業系統從最初的版本開始就支持使用語音操作來使用Google進行網頁搜尋等功能。而從Android 2.2開始，語音功能還可以用來輸入文字、語音導航等功能。
+
+
+無線共享功能
+Android作業系統支持用戶使用本機充當“無線路由器”，並且將本機的網絡共享給其他智慧型手機，其他機器只需要通過WiFi尋找到共享的無線熱點，就可以上網。而在Android 2.2之前的作業系統則需要通過第三方應用或者其他定製版系統來實現這個功能。
+
+
+截圖功能
+從Android 4.0開始，Android作業系統便支援截圖功能，該功能允許用戶直接抓取智慧型手機螢幕上的任何畫面，用戶還可以通過編輯功能對截圖進行處理，還可以通過藍牙/E-mail/共享等方式發送給其他用戶或者上傳到網絡上，也可以拷貝到電腦中。
+
+系统架构[编辑]
+應用程式[编辑]
+更多信息：APK
+Android系統是基於Linux核心開發，使用Java作编程语言，使介面到功能，都有層出不窮的变化，其中Activity等同于J2ME的MIDlet，一个Activity类别负责建立视窗，一个活动中的Activity就是在foreground（前景）模式，背景执行的程序叫做Service。两者之间透过由ServiceConnection和AIDL连结，达到複数程序同时执行的效果。如果执行中的Activity全部画面被其他Activity取代时，该Activity便被停止，甚至被系统清除。
+View等同于J2ME的Displayable，程式人员可以透过View类别与“XML layout”档将UI放置在视窗上，並可以利用View打造出所谓的Widgets，其实Widget只是View的一种，所以可以使用xml来设计layout。至于ViewGroup是各种layout的基础抽象类别，ViewGroup之内还可以有ViewGroup。View的构造函数不需要在Activity中调用，但是Displayable的是必须的，在Activity中，要通过findViewById()来从XML中取得View，Android的View类的显示很大程度上是从XML中读取的。View与事件息息相关，两者之间透过Listener结合在一起，每一个View都可以注册event listener，例如：当View要处理使用者触碰的事件时，就要向Android框架注册View.OnClickListener。另外还有Image等同于J2ME的BitMap。
+中介软件[编辑]
+作業系統与應用程式的沟通桥樑，并用分為两层：函式层和虚拟机器。 Bionic是Android改良libc的版本。Android包含了Chrome浏览器引擎。Surface flinger是就2D或3D的内容显示到萤幕上。Android使用工具链為Google自制的Bionic Libc。
+Android采用OpenCORE作為基础多媒体框架。OpenCORE可分7大块：PVPlayer、PVAuthor、Codec、PacketVideo Multimedia Framework（PVMF）、Operating System Compatibility Library（OSCL）、Common、OpenMAX。
+Android使用Skia為核心图形引擎，搭配OpenGL/ES。Skia与Linux Cairo功能相当，但相较于Linux Cairo，Skia功能还只是阳春型的。2005年Skia公司被Google收购，2007年初，Skia GL源码被公开，目前Skia也是Google Chrome的图形引擎。
+Android的多媒体资料库采用SQLite资料库系统。资料库又分為共用资料库及私用资料库。使用者可透过ContentProvider类别取得共用资料库。
+Android的中间层多以Java實作，4.4版之前使用特殊的Dalvik虚拟机器。Dalvik虚拟机器是一种“暂存器型态”的Java虚拟机器，变数皆存放于暂存器中，虚拟机器的指令相对减少。5.0版起改用Android Runtime（ART）。
+Dalvik虚拟机器可以有多个实例，每个Android應用程式都用一个自属的Dalvik虚拟机器来执行，让系统在执行程式时可达到最佳化。Dalvik虚拟机器并非执行Java字节码，而是执行一种称為.dex格式的档案。
+硬體抽像層（HAL）[编辑]
+Android的硬體抽像層是能以封闭源码形式提供硬體驅動模組。HAL的目的是為了把Android framework与Linux kernel隔开，让Android不至过度依赖Linux kernel，以达成“内核独立”（kernel independent）的概念，也让Android framework的开发能在不考量驅動程式實作的前提下进行发展，以達到壟斷GPU市場的目的。
+HAL stub是一种代理人的概念，stub是以*.so档的形式存在。Stub向HAL“提供”操作函数，并由Android runtime向HAL取得stub的操作，再回调这些操作函数。HAL里包含了许多的stub（代理人）。Runtime只要说明“类型”，即module ID，就可以取得操作函数。
+程式語言[编辑]
+Android是执行于Linux kernel之上，但并不是GNU/Linux。因為在一般GNU/Linux裏支持的功能，Android大都没有支援，包括Cairo、X11、Alsa、FFmpeg、GTK、Pango及Glibc等都被移除掉了。Android又以bionic取代Glibc、以Skia取代Cairo、再以opencore取代FFmpeg等等。Android為了达到商业应用，必须移除被GNU GPL授权证所约束的部份，Android並沒有用户层驱动（user space driver）這種東西。所有的驱动還是在内核空间中，並以HAL隔開版權問題。bionic/libc/kernel/ 并非标準的内核头文件（kernel header files）。Android的内核头文件是利用工具由Linux内核的头文件所产生的，这样做是為了保留常数、资料结构与巨集。
+Android的核心基於Linux，除了核心之外，則是中介層、資料庫元和用C/C++編寫的API以及應用程式框架。Android的應用程序通常以Java資料庫元為基礎編寫，運行程序時，應用程式的代碼會被即時轉變為Dalvik dex-code（Dalvik Executable），然後Android作業系統通過使用即時編譯的Dalvik虛擬機來將其運行。[47]
+目前Android的Linux kernel控制包括安全、記憶體管理、进程管理、网络堆叠、驅動程式模型等。下载Android源码之前，先要安装其构建工具Repo来初始化源码。Repo是Android用来辅助Git工作的一个工具。
+硬件支持[编辑]
+主页面：Wikipedia:Android專題/Android裝置列表
+由於Android作業系統的開放性和可移植性，它可以被用在大部分電子產品上。包括：智慧型手機、上網本、平板電腦、個人電腦、筆記本電腦、電視、機頂盒、电子书阅读器、MP3播放器、MP4播放器、掌上遊戲機、家用遊戲機、電子手錶、電子收音機、耳機、汽車設備、導航儀、DVD機以及其他設備。
+Android作業系統大多搭載在使用了ARM架構的硬件設備上。但是同樣也有支持X86架構的Android作業系統，比如Google的Google TV就是使用一個特別定製的X86架構版本的Android作業系統。
+華碩曾推出一系列使用x86 cpu的android手機，但相容性較差、小問題較多；而華碩的android手機中，採用arm指令集者就比較穩定。[來源請求]
+同樣，蘋果公司的iOS設備，比如iPhone、iPod Touch以及iPad產品(iOS 4以前，需越獄) 都可以安裝Android作業系統，並且可以通過雙系統啟動工具OpeniBoot或者iDroid來運行Android作業系統。微軟的Windows Mobile、Windows Phone產品也一樣可以。另外Android亦已成功移植到搭载WebOS系统HP TouchPad以及搭载Meego系统的Nokia N9等设备。
+世界上第一部真正意義上使用Android作業系統的設備是2008年10月22日發布的HTC Dream。
+Android可以像用电脑上网一样，使用任何服务[48]。Android对手主要有苹果公司的iOS作業系統，Microsoft的Windows Phone操作系统及RIM使用的BlackBerry OS系统。[49]
+分支平台[编辑]
+Android Wear[编辑]
+主条目：Android Wear
+Android Wear是專為智慧型手表等可穿戴式設備所設計的一個Android系統分支。
+Android TV[编辑]
+主条目：Android TV
+Android TV是專為家用電視所設計的一個Android系統分支。
+Android Auto[编辑]
+主条目：Android Auto
+Android Auto是專為汽車所設計的一個Android系統功能。
+應用程序[编辑]
+Google Play[编辑]
+主条目：Google Play
+Google透過前身為Android Market的網上商店平台Google Play，提供應用程式和遊戲供用戶下載，截至2013年7月，Google Play官方認證應用程式数量突破100万，超过苹果App Store成为全球最大应用商店[50][51]。
+Google Play軟件的中文為Play 商店，因Google Play的圖示像菜市场用的袋子，所以部分中国用户又称之为“菜市场”。
+2009年2月，Google推出Android Market线上應用程式商店，用户可在该平台网页寻找、购买、下载及评级使用智慧型手機应用程序及其他内容[52]。第三方軟體開發商和自由開發者則可以通過Android Market發布其開發的應用程序。在2011年12月，Android Market上的應用程序下載量超過100億次。同時，全球已有1億3千萬部Android設備在Android Market即現在的Google Play上下載過軟體。
+只有通過Google許可並且認證的廠家才能在其產品設備上安裝Google服務框架和Google Play。同時受到部分地區和國家的政策影響，Google根據部分地區和國家的政策對Google Play上的內容進行了過濾，因此各地區和國家看到的內容不一樣。此外，受到部分地區和國家的電信運營商的影響，Google Play在部分地區和國家可能不可使用。
+Google Play內的付費程序在許多國家與地區內提供，如美國、英國、瑞典、德國、斯里蘭卡、泰國、越南、香港、台湾[a]等[53]。由於受到Google退出中國事件影響，目前Google Play的服務還沒有擴展到中國大陸地區，但大陸用戶仍可通過國際信用卡和相關的免費軟體來完成購買。需要注意的是，通過這種方法購買的軟體可能不會得到當地承認的發票。
+除了Google的Google Play之外，還有其他公司的應用程式市場，如亞馬遜公司的Amazon Appstore，三星公司的三星应用商店，Fetch，AppBrian，与中国国内的酷安、豌豆荚等[54]。
+此外，Google Play还提供在Android系统后台对安装的应用程序进行验证的服务，以最大程度防范恶意软件的侵害[55]。 2014年11月，Google已表示将支持中国开发者开发Google Play应用。
+程序開發[编辑]
+在早期的Android應用程序開發中，通常通過在Android SDK（Android軟體開發包）中使用Java作為編程語言來開發應用程序。開發者亦可以通過在Android NDK（Android Native開發包）中使用C語言或者C++語言來作為編程語言開發應用程序。同時Google還推出了適合初學者編程使用的Simple語言，該語言類似微軟公司的Visual Basic語言。此外，Google還推出了Google App Inventor開發工具，該開發工具可以快速地構建應用程式，方便新手開發者。
+移植到Chrome OS[编辑]
+主条目：Chrome OS
+2016年5月20日，Google在 Google I/O 上表示，將會把 Google Play 商店 和 Android App 帶到 Chrome OS 中，使Chrome OS可以執行Android APP增加推行Chromebook和Chromebox的動力，解決該平台應用程式不足的問題；此外Chromebook在美國市場出貨量已經超越蘋果Mac[56]。
+Google把Android應用程式整合進Chrome OS 有市場傳言Google的目的是想將兩者合併，但Android、Chrome OS 與 Google Play 部門的資深副總裁 Hiroshi Lockheimer 在專訪中駁斥外界傳言，稱並不會將兩者合併，Chrome OS更像是一台電腦，以桌面、檔案管理、鼠標和鍵盤為基礎，再搭配 App，而 Android 則是以觸控 App 為核心，兩者的市場模式不同並不會嘗試合併[57]。
+應用程式安全機制[编辑]
+
+
+
+
+权限用于控制一部分应用程序对系统功能的访问。
+
+
+Android作業系統使用了沙箱（sandbox）機制，所有的應用程式都會先被簡單地解壓縮到沙箱中進行檢查，並且將應用程序所需的權限提交給系統，並且將其所需權限以列表的形式展現出來，供用戶查看。例如一個第三方瀏覽器需要“連接網絡”的權限，或者一些軟體需要撥打電話，發送簡訊等權限。用戶可以根據權限來考慮自己是否需要安裝，用戶只有在同意了應用程式權限之後，才能進行安裝[58]。
+由于开发的开放性和权限使用的“一刀切”，普通用户只能在应用程序安装时确认并肯定允许程序申请相应权限以继续安装或拒绝安装；应用程序开发商也会可能申请程序并不必需的权限，或者申请使用涉及用户隐私的权限并暗中收集、使用、发送用户隐私数据回开发商服务器用于信息收集；高端用户可以通过获得root权限加装控制程序或修改程序安装文件，来细化限制程序权限或涉及的数据的使用。[59]而只能在安装时“全部同意或全部拒绝”权限申请的管理模式也被人们诟病。直到Android 6.0，系统启用原生应用程序权限控制，允许程序安装后仍能对特定类别的权限使用进行启闭，如果应用程序的某组权限使用被关闭并准备访问相应权限控制对应的方法时系统会询问用户是否允许。[60]
+惡意程式與病毒[编辑]
+由於Android作業系統的開放和自由性，一些惡意程式和病毒也隨之出現。2010年8月，卡巴斯基病毒實驗室報告稱發現了Android作業系統上首個木馬程序，並將其命名為“Trojan-SMS.AndroidOS.FakePlayer.a”[61]，這是一個通過簡訊方式感染智慧型手機的木馬，並且已經感染了一定數量的Android設備。除了簡訊感染方式，這些Android木馬還可以偽裝成一些主流的應用程式，並且還可以隱藏在一些正規的應用程式之中[62][63]。
+儘管Google通過定期的檢查撤除這些存在於Google Play上的惡意程式和病毒，但是這並不能完全阻止其他病毒通過第三方網路的方式產生並且傳播[64]。
+目前Android作業系統上已經擁有防毒軟體來防止設備中毒，例如Avast、F-Secure、Kaspersky、Trend Micro、Symantec、金山毒霸等防護軟體也已經發布了Android版本。
+某些病毒，目前經過Cross-Compile的測試，證實在Linux上它們無法正常運作。
+SEAndroid[编辑]
+美國國家安全局在2012年1月發布SE Android（Security Enhanced Android，后改名为SE for Android，Security Enhancements for Android[65]）開放原始碼專案和程式碼，使Android系統支援強制存取控制（Mandatory Access Control）以增加系統安全性[66][67]。
+盜版問題[编辑]
+由於第三方市場流行，部份Android用戶不願意付費購買應用，轉而直接下載已被駭客破解的軟體檔。2010年8月，有遊戲開發者針對其作品的調查指出，97%亞洲玩家、70%歐洲玩家及47%北美玩家都下載盜版[68]。
+在中国大陆的情况[编辑]
+
+
+
+
+三星Galaxy Note 3（N9009，中国电信双卡双待定制行货版）上的菜单，所有Google应用程序全部删除，并替换成功能类似或者相同的应用。
+
+
+在中国大陆生产并售卖，或在境外生产并由当地代理商入口，在中国大陆售卖的的裝有Android作業系統的智慧型手機（俗称行货），均把Android附帶的部分Google应用程式删除，替换为中国大陆功能相同或相似的应用，即使這些裝置已獲得Google相容性認證及使用授權（CTS及GMS）。[69][70]中國大陸用户需要自行重新安裝程式才能使用Google相关的应用服务（但部分品牌除外，例如在中国大陆销售的华为手机预装了不完整的Google Play服务）。但通過非正式渠道流入中國大陸販售市場的Android裝置（俗稱水貨），則基本不受此影響（但部分裝置的Android系統內則被一些非正規供貨商額外預裝了某些應用程式，可能會精簡Google服務框架等組件[71]）。而在中国大陆生产（尤其是大部分国产品牌），并在境外销售的裝有Android作業系統的智慧型手機，亦不受此影响，但少数裝有Android作業系統的智慧型手機（例如在台湾销售的美图手机2），仍然需要自行重新安裝程式才能使用Google相关的应用服务[72]。
+Android发行版本[编辑]
+主条目：Android歷史版本
+
+
+1.5
+(Cupcake)
+基於Linux Kernel 2.6.27
+2009年4月30日，Google釋出Android 1.5（Cupcake 紙杯蛋糕）。主要更新如下：[73][74]
+
+Android 1.5相比之前的Android 1.1版本增加了對虛擬鍵盤的支持度。此版系統可以像iPhone那樣直接在屏幕上的虛擬鍵盤中輸入。這也是為沒有內建QWERTY鍵盤的Android手機作出的重大改進。
+之前的版本僅支持拍照，此版增加了影像錄製功能，同時也將拍照時的啟動速度做了優化，還可以將拍攝的內容發佈到Youtube。
+支援Widget功能，用戶可以自行加入音樂播放器和文件夾快捷方式等。
+改進了GPS功能，定位庫使用了A-GPS技術，搜尋速度大幅提高。
+增加了Voice Search的語音識別功能，但是僅限於英文。
+支援A2DP藍牙立體聲，但仍然不能傳輸文件。
+內置的重力加速感應器增加了自動探測方向的功能。
+內置的Google Chrome Lite瀏覽器更新了Webkit核心，升級了Squirellfish及更快的JavaScript處理，瀏覽網頁更為迅捷。
+用戶界面細節大幅改进改善，在Gmail、Calendar、Message等組件的外觀都有改進。另外在程序菜單的背景出現花紋。
+中文顯示和中文輸入的支持；Android 1.1除了英語以外，只能支持德語，而Android 1.5的國際化有了更進一步的發展，支持包括中文在內的十幾種語言。
+支持来电照片显示[75]
+
+
+
+
+
+
+
+Android 1.5 界面
+
+
+
+
+
+1.6
+(Donut)
+基于Linux Kernel 2.6.29
+2009年9月15日，Google釋出Android 1.6（Donut甜甜圈）。主要更新如下：[76][77]
+
+重新设计的Android Market。
+手勢操控支援。
+支援CDMA網路。
+文字转语音系统（Text-to-Speech）。
+快速搜索框。
+全新的拍照介面。
+可查看应用程序耗电量。
+支援虚拟私人网络（VPN）。
+更高的屏幕分辨率。
+支援OpenCore2媒体引擎。
+新增對视觉及听觉困难人士的服務[78]
+
+
+
+
+
+2.0/2.0.1/2.1
+(Eclair)
+基于Linux Kernel 2.6.29
+2009年10月26日，Google釋出Android 2.0（Eclair松饼）。主要更新如下:[79][80]
+
+优化硬件速度。
+｢Car Home｣程序。
+支援更高的屏幕解析度。
+改良的用户界面。
+新的浏览器的用户介面，並支持HTML5。
+新的联络人名单。
+更好的白色/黑色背景比率。
+改进Google Maps 3.1.2。
+支援Microsoft Exchange。
+支援内置相机闪光灯。
+支援数位变焦。
+改良的虚拟键盘。
+支援蓝牙2.1。
+支援动态桌面。
+
+
+
+
+
+
+
+Android 2.0 介面
+
+
+
+
+
+2.2/2.2.1
+(Froyo)
+基于Linux Kernel 2.6.32
+2010年5月20日，Google釋出Android 2.2（Froyo霜凍優格）。主要更新如下:[81]
+
+支援将软件安装至記憶卡[82]
+支援Adobe Flash 10.1[83]
+加强软件即时编译的速度[84]
+支援快速启动功能至電話和瀏覽器[85]
+USB分享器和WiFi热点功能[86]
+支援浏览器上传档案[87]
+更新Market中的批次及自动更新[88]
+增加对Microsoft Exchange的支援（安全政策, auto-discovery, GAL look-up）
+整合Chrome的V8 JavaScript引擎
+加强了快速搜索小工具。
+更多软件能透过Market更新，类似2.0/2.1中的Map更新。
+速度和性能最佳化[88]
+
+注：部分标称為2.2的固件仍然在使用2.6.29的核心。这种固件雖然可以实现大部分2.2的功能（比如flash），但性能上与2.6.32有一定差距。
+
+
+
+
+
+
+Android 2.2 界面
+
+
+
+
+
+2.3
+(Gingerbread)
+基于Linux Kernel 2.6.35
+2010年12月7日，Google釋出Android 2.3（Gingerbread姜饼）。主要更新如下：[89]
+
+修补UI[90]
+支援更大的屏幕尺寸和解析度（WXGA及更高）。
+重新设计的多点触控屏幕键盘。
+支援多镜头（用于视频通话等）和更多感應器（陀螺仪、气压计等）。
+电话整合Internet Call功能。
+支援近场通信（NFC）。
+强化电源、應用程式管理功能。
+新增下载管理员。
+最佳化遊戏开发支援。
+多媒体音效强化。
+从YAFFS转换到ext4文件系统。
+支援屏幕截图功能。
+对黑色及白色的还原更加真实。
+支援Google Talk视讯功能。
+
+
+
+
+
+
+
+Android 2.3 介面
+
+
+
+
+
+3.0.1/3.1/3.2
+(Honeycomb)
+基于Linux Kernel 2.6.36
+2011年2月2日，Google釋出Android 3.0（Honeycomb蜂巢）發布。主要更新如下：
+
+专為平板电脑设计。
+支援Google eBooks。
+支援平板电脑大萤幕、高解析度。
+改良的Gmail外觀。
+支援3D加速处理。
+新的通知功能。
+专為平板电脑设计的用户界面（重新設計的通知列與系統列）。
+加強多工處理的介面。
+重新設計適用大螢幕的鍵盤及複製貼上功能。
+多個標籤的瀏覽器以及私密瀏覽模式。
+快速切換各種功能的相機。
+增強的圖庫與快速捲動的聯絡人介面。
+更有效率的Email介面。
+支援多核心處理器。
+3.2最佳化7吋平板顯示。
+部分3.0版本的應用程式以2.3版本的方式呈現（如Market），為其缺點。
+
+
+
+
+
+
+
+Android 3.0 介面
+
+
+
+
+
+4.0
+(Ice Cream Sandwich)
+基于Linux Kernel 3.0.1
+2011年10月19日，Google釋出Android 4.0（Ice Cream Sandwich冰淇淋三明治）。主要更新如下：
+
+Android Design及Holo主題（Google推荐第三方应用使用Android Design及Holo主题并将官方应用全部改写为Android Design，但仍兼容原来的Android应用视觉样式）。
+相機內建全景（Panorama）模式。
+改良的Gmail外觀。
+改動用戶界面，新版系統的Home畫面右下角有類似Tray的圖示，內有多個程式可運行。
+Google Search Bar會設置在最上方。
+Apps/Widgets類似Honeycomb模樣。
+系統字型由原先的Droid Sans變更為Roboto。
+
+
+
+
+
+
+
+Android 4.0 界面
+
+
+
+
+
+4.1/4.2/4.3
+(Jelly Bean)
+基于Linux Kernel 3.4.0
+2012年6月28日，Google釋出Android 4.1（JellyBean 雷根糖）。主要更新如下：
+
+基於Android 4.0改善。
+「黄油」计划（Project Butter），號稱可以讓 Jelly Bean 的體驗像「黄油般順滑」（提昇使用者頁面的速度與流暢性，但對低硬體條件的裝置效果不大）
+「Google Now」可在 Google 日曆內加入活動舉辦時間、地點，系統就會在判斷當地路況後，提前在適當的出門時間給予通知。
+離線語音輸入。
+Expandable notifications：通知中心顯示更多訊息，如支援拉開以檢視詳細圖片（如截屏）。
+更多平板種類的最佳化。
+Google Now：整合性助理。類似Apple的Siri、Microsoft的Cortana。
+Google Play 增加電視影片與電影。
+提昇反應速度。
+強化預設鍵盤。
+大幅改變使用者介面設計。
+更多Google的雲端整合。
+取消內建 Flash Player。
+
+2012年10月30日，Google 釋出 Android 4.2（JellyBean 雷根糖）。主要更新如下：
+
+支援多用户登录，一部设备上可有多个帐号。
+通知中心內新增了設定鍵。
+Photo Sphere（球形全景拍攝）。
+Google Now 更新，除了搜尋外，也可查看 Gmail 與飛機航班等資料，更提供使用者購買票卷，股票漲跌及新聞等信息。
+支援手勢輸入。
+支援多媒體無線傳輸 Miracast。
+螢幕鎖定時可顯示Widget，唯支援的Widget十分有限（基於開發者有無加入此功能）。
+增加｢Daydream（白日夢）｣功能,其功能類似於螢幕保護。
+
+2013年7月25日，Google釋出Android 4.3（JellyBean雷根糖）。主要更新如下:
+
+“蓝牙低功耗”功能（蓝牙4.0），开启蓝牙后，耗电量相比之前大幅降低。
+支援OpenGL ES 3.0，为Android游戏带来更出色的视觉体验。
+支援DRM APIs，提供数字版权加密技术支援。
+支援4K，並加入对640PPI（XXXHDPI）的支持。
+提高了全景相机的校准和缝合，並优化曝光修正。
+支援TRIM指令，使得內存不會越用越慢。
+內含app ops ，可讓使用者控制app權限的功能，限制裝載app時受予過多不必要的隱私權限。(此功能為隱藏，可裝PDroid Manager 使用)。
+支援RTL語言。
+
+2013年10月5日，Google釋出Android 4.3.1（JellyBean 雷根糖）。主要更新如下：
+
+改進系統效能和穩定性。
+
+
+
+
+
+
+
+Android 4.1 介面
+
+
+
+
+
+4.4/4.4.1/4.4.2/4.4.3/4.4.4
+(KitKat)
+基于Linux Kernel 3.4.0
+2013年10月31日，Google釋出Android 4.4（奇巧Kitkat）。主要更新如下：
+
+
+支援語音開啟Google Now (在主畫面說出「OK,Google」)。
+在閱讀電子書、玩遊戲、看電影時支援全螢幕模式（Immersive Mode)。
+優化記憶體使用，在多工處理時有更佳的工作表現。
+新的電話通訊功能。
+舊有的SMS應用程式整合至Hangouts。
+Emoji Keyboard 整合至 Google 鍵盤。
+支援 Google Cloud Print 服務，讓用户可以利用家中或辦公室中連接至Cloud Print的印表機，印出檔案。
+支援 Office 應用程式直接打開及儲存用户在 Google Drive 內的檔案，即時同步更新檔案。
+支援低電耗音樂播放。
+全新的計步器。
+全新的 NFC 整合。
+全新的 Java 虛擬機器執行環境 ART（Android Runtime）。
+支援 Message Access Profile（MAP）。
+支援 Chromecast 及新的 Chrome 功能。
+支援隱藏式字幕。
+完全封鎖 Adobe Flash player 功能。
+
+2013年12月5日 Google 釋出Android 4.4.1（Kitkat）。主要更新如下：
+
+修正 Nexus 5 的對焦、白平衡等相機問題。
+
+2013年12月9日 Google 釋出 Android 4.4.2（Kitkat）。主要更新如下：
+
+修正 Android 4.4.1 中的 Bug。
+
+2014年6月2日 Google 釋出 Android 4.4.3（Kitkat）。主要更新如下：
+
+重新設計撥號介面。
+WebView 版本升級至 version 33。
+
+2014年6月20日 Google 釋出 Android 4.4.4（Kitkat）。主要更新如下：
+
+修復了此前曝光的OpenSSL漏洞有關，同時對WebView、Chromium做出了相應調整，並修復了些許Bug。
+
+
+
+
+
+
+
+Android 4.4.2 界面
+
+
+
+
+
+5.0/5.0.1/5.0.2
+(Lollipop)
+基于Linux Kernel 3.4.0
+2014年6月25日，Google於I/O大會上展示Android L的開發者預覽版本，並開放下載。
+2014年10月16日，Google釋出Android 5.0（棒棒糖Lollipop）。主要更新如下：
+
+支援64位元處理器。
+支援藍牙4.1。
+相機可存副檔名為*.dng的raw檔。
+採用全新Material Design介面。
+全面由 Dalvik 虚拟机轉用 Android RunTime（ART）编译虚拟机。官方宣称新的虚拟机相较于旧虚拟机，性能可提昇四倍。
+改良的通知介面及新增Priority Mode。
+預載省電及充電預測功能。
+新增自動內容加密功能。
+新增多人裝置分享功能，可在其他裝置登入自己帳號，並取得用戶的聯絡人、日曆等Google雲端資料。
+強化網路及傳輸連接性，包括Wi-Fi、藍芽及NFC。
+強化多媒體功能，例如支援RAW格式拍攝。
+強化「OK, Google」功能。
+改善Android TV的支援。
+提供低視力的設定，以協助色弱人士。
+改善Google Now功能。
+
+2014年12月4日Google釋出Android 5.0.1（棒棒糖Lollipop）。主要更新如下：
+
+修復開啟ADB偵錯後裝置無法啟動。
+修復恢復出廠設定後鎖屏時輕觸輸入有偏差。
+修復存取特定Wi-Fi AP時的握手協定問題。
+修復重新開機後代理伺服器失效等。
+
+2014年12月21日Google釋出Android 5.0.2（棒棒糖Lollipop）。主要更新如下：
+
+修復4處Wi-Fi版本BUG。
+修復兩處GSM版本BUG。
+更新預編譯內核。
+更新四執行緒模擬SD卡。
+改進互動式載入。
+改進fstrim應用。
+
+
+
+
+
+
+
+Android 5.0 界面
+
+
+
+
+
+5.1/5.1.1
+(Lollipop)
+基于Linux Kernel 3.4.0
+2015年3月10日，Google釋出Android 5.1（棒棒糖Lollipop）。主要更新如下：
+
+對多卡和高畫質語音的支援。
+快速設定Wi-Fi和藍芽。
+通過「裝置保護」功能帶來更好的安全性。
+最佳化音量調節。
+
+2015年4月22日Google釋出Android 5.1.1（棒棒糖Lollipop）。主要更新如下：
+
+修復記憶體泄漏(memory leak)的問題。
+
+
+
+
+
+
+
+Android 5.1 界面
+
+
+
+
+
+6.0/6.0.1
+(Marshmallow)
+基于Linux Kernel 3.4.0
+2015年5月29日，Google於I/O大會上展示Android M的開發者預覽版本，並開放下載。
+2015年10月5日，Google釋出Android 6.0（棉花糖Marshmallow）。 主要更新如下：
+
+限制App存取權限。
+增加Chrome Custom Tab功能。
+增加Android Pay付費功能。
+原生系統支援指紋識別功能，用於裝置解鎖及在Play商店代替輸入密碼。
+新增Doze功能，可視環境調整裝置效能，而減少電源的消耗(Google宣稱能比之前的版本的Nexus 5和Nexus 6省電30％)。
+支援USB Type C，可進行更快速的充電。
+簡化音量控制的操作。
+其它細節改善。
+
+2015年12月7日，Google釋出Android 6.0.1（棉花糖Marshmallow）。 主要更新如下：
+
+加入 200 個表情符號。
+「零打擾」模式中，讓「直到下次鬧鈴響時重新啟動」的選項回歸。
+修復系統錯誤。
+
+
+
+
+
+
+
+Android 6.0 界面
+
+
+
+
+
+7.0/7.1.1/7.1.2
+(Android Nougat)
+基于Linux Kernel 3.4.0
+2016年3月9日，Google發布Android N的開發者預覽版本，並開放下載。
+2016年8月22日，Google釋出Android 7.0（牛軋糖Nougat）。 主要更新如下：
+
+支援多視窗模式
+加入應用在 Android Wear 上的 RemoteInput notification API
+強化Doze 的省電功能
+加入暗色主題
+強化Smart Lock 功能
+Recent App 加入全部清除
+加入新版 Emoji
+支援 Vulkan
+更新App Folder
+
+2016年12月5日，Google釋出Android 7.1.1（牛軋糖Nougat）。 主要更新如下：
+
+增加了對其「圖像鍵盤」的支持
+增加了更多emoji表情符號
+增加了應用程式快捷操作
+
+2017年4月4日，Google釋出Android 7.1.2（牛軋糖Nougat）。 主要更新如下：
+
+修復系統錯誤
+提升系統效能
+
+
+
+
+
+
+
+Android 7.0 界面
+
+
+
+
+
+8.0
+(Android Oreo)
+基于Linux Kernel 3.4.0
+2017年3月21日，Google發布Android O的開發者預覽版本。
+2017年8月21日，Google釋出Android 8.0（奧利奧Oreo）。 主要更新如下：
+
+強化與用戶互動之性能
+提高電池使用壽命
+通知列表
+應用圖示的通知
+子母畫面
+支援 Google Assistant 的智慧型選字工具
+後台 App 的運行限制
+自適應圖示
+改進的 MediaRecorder API
+模組化的系統 Project Treble
+多種商務功能
+
+
+
+
+
+
+
+Android 8.1 界面
+
+
+
+
+
+市場使用情況[编辑]
+市場份額[编辑]
+
+
+
+
+三星Galaxy系列為目前銷量和市佔率最高的Android智能手機
+
+
+2009年第二季度，根據市場研究公司Canalys的數據顯示，Android佔據全球智慧型手機作業系統市場2.8%的份額[91]，這個數字在2010年第四季度的全球份額中增長到了33%，Android作業系統也因此擊敗了諾基亞的Symbian系統成為了全球第一大智慧型手機作業系統。2012年5月，根據市場調查公司的數據顯示，Android作業系統在全球智慧型手機作業系統中的份額已經過半，達到了60%，全球有一半的智慧型手機使用Android作業系統[92]。
+2010年5月的數據顯示，Android作業系統在2010年第一季度的銷量超過了對手iOS平台，成為美國最大的智慧型手機作業系統。
+根據本土市場研究公司ComScore的數據顯示，2009年11月時，Android在美國的智慧型手機作業系統市場的佔有率為5.2%[93]，在2010年2月時，這個數字變成了9.0%，而在2010年第三季度末時，Android已經佔據了美國市場的21.4%的份額[94]。截止至2011年6月，Google表示，每日通過Google伺服器激活的Android設備達到了55萬部[95]，並且以每週4.4%的速度增長[96]。2011年8月1日，Canalys的數據顯示，Android已佔據美國48%的智慧型手機市場份額[97]。2011年10月13日，Google表示，全球市場上有1.9億部Android設備通過Google認證[98]，而在2011年11月16日，全球市場上已有2億部Android設備通過Google認證[99]。但是，搭載Android作業系統的平板電腦在所有Android裝置中佔的比例卻只有1.8%的份額，只有380萬Android蜂巢平板被賣出，遠遠低於蘋果公司的iPad的銷量。[100] 2012年6月，Google在2012 Google I/O大會上表示全球市場上有4億部Android設備被啟動，每日啟動約一百萬部。另一方面Android系統的平板電腦的市占率為45.8%，相較之下iOS的市占率為52.8%。[101]
+2013年5月，Android在中国的占有率有71.5%，超过其主要竞争对手苹果公司约50%。世界占有率亦有近70%。[102]而2013年裝載Android系統的平板電腦市占率達61.9%，超過iOS的36%。[101]
+平板電腦各作業系統比例[编辑]
+
+
+作業系統
+2013銷售量
+2013市佔率
+2012銷售量
+2012市佔率
+
+
+Android
+120,961,445
+61.9%
+53,341,250
+45.8%
+
+
+iOS
+70,400,159
+36.0%
+61,465,632
+52.8%
+
+
+Windows
+4,031,802
+2.1%
+1,162,435
+1.0%
+
+
+Other
+41,598
+0.1%
+379,000
+0.3%
+
+
+用户使用系統版本比例[编辑]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Oreo (0.5%)
+  Nougat (23.3%)
+  Marshmallow (29.7%)
+  Lollipop (26.3%)
+  KitKat (13.4%)
+  Jelly Bean (5.9%)
+  Ice Cream Sandwich (0.5%)
+  Gingerbread (0.4%)
+
+
+
+截止至2017年12月11日，不同的Android作業系統版本的用戶比例。[103]
+
+
+版本
+代号
+API
+用戶分佈
+
+
+8.0
+Oreo 奧利奧
+26
+0.5%
+
+
+7.1
+Nougat 牛軋糖
+25
+4.0%
+
+
+7.0
+24
+19.3%
+
+
+6.0
+Marshmallow 棉花糖
+23
+29.7%
+
+
+5.1
+Lollipop 棒棒糖
+22
+20.2%
+
+
+5.0
+21
+6.1%
+
+
+4.4
+KitKat 奇巧巧克力
+19
+13.4%
+
+
+4.3
+Jelly Bean 雷根糖
+18
+0.9%
+
+
+4.2.x
+17
+3.0%
+
+
+4.1.x
+16
+2.0%
+
+
+4.0.3-4.0.4
+Ice Cream Sandwich 冰淇淋三明治
+15
+0.5%
+
+
+2.3.3-2.3.7
+Gingerbread 薑餅
+10
+0.4%
+
+
+專利糾紛[编辑]
+《PC世界》杂志网站2011年9月22日报道，Android卷入1000多件专利诉讼中。
+2011年8月，Google斥资125亿美元收购摩托罗拉移动（Motorola Mobility）及其拥有的约2.45万份专利组合[104]。
+与甲骨文公司的Java纠纷[编辑]
+关于甲骨文公司就Android所使用的开发语言平台Java为最引人关注的权利纠纷事件。
+2010年8月，甲骨文公司就开始对Google无授权使用Java语言实现侵犯了公司的专利在美国加州北区地方法院提起控诉，[105]要求高达90亿美元的赔偿，其中牵涉了原供职于Sun公司的Java开发人员在转职Google开发Android的Java实现使用了原公司的实现，[106]API接口的实现是否具有专利版权性，Android的Java实现是否对甲骨文公司的Java移动平台系列产品做成冲击而形成不正当垄断等问题。
+2012年5月的诉讼结果为陪审团支持Google的诉求，认为API只是系统或操作的方法，不受版权保护。2012年10月甲骨文公司上诉，2014年5月，美国联邦巡回上诉法院认为API属于“计算机程序”仍受版权保护，判决Android侵犯了甲骨文公司Java的版权，但并不排除谷歌对其拥有合理使用性的权利。[107][108]2014年10月Google向美国最高法院申请调卷令，请求最高院介入。2015年6月29日调卷令被拒绝，发往旧金山联邦法院进行审理。[109][105]
+2016年5月，旧金山联邦法院陪审团认定Android实现Java的API命名结构属于合理使用，不构成侵权，最终判Google胜诉。[110]
+2016年8月22日，Google在Android 7.0 Nougat中，將專利的JDK替換成開源方案的OpenJDK，以徹底解決Java的專利問題。[111]
+參見[编辑]
+
+Android歷史版本
+Google Play
+美国甲骨文诉Google案（英语：Oracle_America,_Inc._v._Google,_Inc.）
+LIMEIME
+
+
+
+Android主题
+Google主题
+自由软件主题
+
+
+注释[编辑]
+
+
+^ 因Google與台北市政府間對於軟體是否適用7日鑑賞期的消費者保護法規存在爭議，2011年7月起暫停了台灣的付費軟體下載，直到2013年2月才重新開放。
+
+
+參考文獻[编辑]
+
+
+^ Lextrait, Vincent. The Programming Languages Beacon, v10.0. 2010-01 [5 January 2010]. 
+^ Android Code Analysis. [2012-06-01]. 
+^ Philosophy and Goals. Android Open Source Project. Google. [2012-04-21]. 
+^ Google’s iron grip on Android: Controlling open source by any means necessary. Ars Technica. [2013-12-08]. 
+^ Licenses. Android Open Source Project. Open Handset Alliance. [2010-06-10]. 
+^ Android之父Andy Rubin：生而Geek作者：Wuzhimin本文來自《程式員》雜誌2010年9期
+^ Google Buys Android for Its Mobile Arsenal. Businessweek.com. 2005-08-17 [2010-10-29]. 
+^ Google 收购 Android 十周年. romzj.com. [2015-07-14]. 
+^ Android Overview. Open andset Alliance. [2008-09-23]. 
+^ Open Handset Alliance. Open Handset Alliance. [2010-06-10]. 
+^ Jackson, Rob. Sony Ericsson, HTC Androids Set For Summer 2009. Android Phone Fans. 10 December 2008 [2009-09-03]. 
+^ Industry Leaders Announce Open Platform for Mobile Devices (新闻稿). Open Handset Alliance. 2007-11-05 [2007-11-05]. 
+^ FAQ (新闻稿). Open Handset Alliance. [2010-11-15]. 
+^ [1] developerWorks IBM 2009年6月08日
+^ Tarmo Virki and Sinead Carew. Google topples Symbian from smartphones top spot. Reuters. 2011-01-31 [1 February 2011]. 
+^ Google's Android becomes the world's leading smart phone platform (Canalys research release: r2011013). Canalys. 31 January 2011 [1 February 2011]. 
+^ Android市場份額已達48%Canalys數據2011/02/01
+^ Android過去1個月啟用裝置達10億台Android數據2014/06/25
+^ Android overtakes Windows for first time
+^ Brand Guidelines. Android. 23 March 2009 [2009-10-30]. 
+^ Android Brand Guidelines. Android. 23 March 2009 [2010-04-10]. 
+^ Woyke, Elizabeth. Android's Very Own Font. Forbes. 26 September 2008. （原始内容存档于29 June 2012）. 
+^ Markoff, John. I, Robot: The Man Behind the Google Phone. The New York Times. 2007-11-04 [2008-10-14]. 
+^ Kirsner, Scott. Introducing the Google Phone. The Boston Globe. 2007-09-02 [2008-10-24]. （原始内容存档于January 4, 2010）. 
+^ T-Mobile Brings Unlimited Multiplayer Gaming to US Market with First Launch of Nokia N-Gage Game Deck (新闻稿). Nokia. 23 September 2003 [2009-04-05]. 
+^ Elgin, Ben. Google Buys Android for Its Mobile Arsenal. BusinessWeek. 17 August 2005 [2009-04-23]. 
+^ Elgin, Ben. Google Buys Android for Its Mobile Arsenal. businessweek.com. Bloomberg L.P. 2005-08-17 [2011-02-24]. （原始内容存档于2011-02-24）. In what could be a key move in its nascent wireless strategy, Google (GOOG) has quietly acquired startup Android Inc.... 
+^ Vance, Ashlee. A Thousand Times Yes. Bloomberg BusinessWeek. 2011-08-07 [2011-11-09]. 
+^ Block, Ryan. Google is working on a mobile OS, and it's due out shortly. Engadget. 2007-08-28 [2007-11-06]. 
+^ Sharma, Amol; Delaney, Kevin J. Google Pushes Tailored Phones To Win Lucrative Ad Market. The Wall Street Journal. 2007-08-02 [2007-11-06]. 
+^ Google admits to mobile phone plan. directtraffic.org. Google News. 2007-03-20 [2007-11-06]. 
+^ Martinez, Jennifer. Corrected: Update 2: More mobile phone makers back Google's Android. Reuters (Thomson Reuters). 2008-12-10 [2008-12-13]. 
+^ Kharif, Olga. Google's Android Gains More Powerful Followers. BusinessWeek. McGraw-Hill. 2008-12-09 [2008-12-13]. 
+^ About the Android Open Source Project. [2010-11-15]. 
+^ Shankland, Stephen. Google's Android parts ways with Java industry group. CNET News. 12 November 2007. 
+^ Google将Android 4.0.4源代码送交AOSP开源项目ENGADGET中国版2012
+^ Boulton, Clint. Google Open-Sources Android on Eve of G1 Launch. eWeek. 21 October 2008 [2009-09-03]. 
+^ Bort, Dave. Android is now available as open source. Android Open Source Project. 21 October 2008 [2009-09-03]. . Mirror link.
+^ Licenses: Android Open Source. Android Open Source Project. [25 October 2011]. 
+^ Ryan Paul. Why Google chose the Apache Software License over GPLv2 for Android. Ars Technica. 2008 [25 October 2011]. 
+^ Android issues reviewed. Code.google.com. [2011-08-08]. 
+^ Android Open Source Project Frequently Asked Questions: Compatibility. source.android.com. [13 March 2011]. 
+^ Androidology – Part 1 of 3 – Architecture Overview (Video). YouTube. 2008-09-06 [2007-11-07]. 
+^ Paul, Ryan. Dream(sheep++): A developer's introduction to Google Android. Ars Technica. 23 February 2009 [2009-03-07]. 
+^ 新浪科技. GoogleAndroid被Linux内核除名. 2010年2日4 [2010年4月9日] （中文（简体）‎）.  请检查|date=中的日期值 (帮助)
+^ http://elinux.org/Android_Mainlining_Project#Patch.2FFeature_Status_Chart
+^ Tim Bray. What Android Is. ongoing by Tim Bray. 24 November 2010 [27 October 2011]. 
+^ Google智慧型手機亮相苹果日报2008年2月12日
+^ Android称王扳倒不败诺基亚联合新闻网2011/02/01
+^ Android Market reaches 500,000 app mark. www.t3.com. 2011-10-23 [2011-10-23]. 
+^ Christina Bonnington. Google’s 10 Billion Android App Downloads: By the Numbers. wired.com. 8 December 2011 [12 December 2011]. 
+^ Google推出Anroid Market在线软件平台新浪科技2008年8月29日09:31
+^ Paid App Availability (In English) Google Inc. 2011
+^ Ganapati, Priya. Independent App Stores Take On Google’s Android Market. Wired News. June 11, 2010 [2011-02-02]. 
+^ Google Play Services更新 大幅提高安全性cnBeta2014-03-02 10:12:37
+^ 進一步整合？Android App及Play Store可執行在Chrome OS上
+^ Google 高層：Android 不會與 Chrome OS 合併，而 Pixel 是為了打擊 iPhone - TechNews 科技新報
+^ Android Security Overview. Android Open Source Project. [23 October 2011]. 
+^ 五种控制Android应用的权限的方法_天极网. 
+^ 运行时权限 - Android 6.0 变更 - Android Developers. 
+^ First SMS Trojan detected for smartphones running Android. Kaspersky Lab. [2010-10-18]. 
+^ Aaron Gingrich. The Mother Of All Android Malware Has Arrived: Stolen Apps Released To The Market That Root Your Phone, Steal Your Data, And Open Backdoor. Android Police. 2011-03-01. 
+^ Perez, Sarah. Android Vulnerability So Dangerous, Owners Warned Not to Use Phone's Web Browser. Readwriteweb.com. 2009-02-12 [2011-08-08]. 
+^ Tech Crunch. Google Responds To Android Malware, Will Fix Infected Devices And‘Remote Kill’Malicious Apps. TechCrunch. March 6, 2011. 
+^ SELinux Related Work - NSA/CSS. National Security Agency. Security Enhancements for Android provides a reference implementation of how to enable and apply SELinux in Android. 
+^ SE for Android, SELinux Wiki
+^ The Case for SE Android
+^ http://articles.businessinsider.com/2010-08-02/tech/30055327_1_android-piracy-google
+^ Benedict Evans. Chinese App Platforms. （英文）
+^ Google Inc. 支援的裝置 - Android 開發人員說明. Google Inc. ，列表中不僅有大量在中國大陸發售的機型，當中還有非常多在中國大陸本土廠商研發製造的裝置。目前支援列表需要下載。
+^ 南方日报. 揭秘手机软件预装乱象 渠道商二次“刷机”毒害大. 人民网. 
+^ 台灣正式代理美圖手機2 之 開箱啦~. 3Cin援團. [2015年1月26日] （中文（台灣）‎）. （见内图）
+^ Ducrohet, Xavier. Android 1.5 is here!. Android Developers Blog. 27 April 2009 [2009-09-03]. 
+^ Rob, Jackson. CONFIRMED: Official Cupcake Update Underway for T-Mobile G1 USA & UK!. Android Phone Fans. 30 April 2009 [2009-09-03]. 
+^ Android 1.5 Platform Highlights. Android Developers. April 2009 [2009-09-03]. 
+^ Ducrohet, Xavier. Android 1.6 SDK is here. Android Developers Blog. 15 September 2009 [2009-10-01]. 
+^ Ryan, Paul. Google releases Android 1.6; Palm unleashes WebOS 1.2. ars technica. 1 October 2009 [2009-10-01]. 
+^ Android 1.6 Platform Highlights. Android Developers. September 2009 [2009-10-01]. 
+^ Android 2.0, Release 1. Android Developers. [27 October 2009]. 
+^ Android 2.0 Platform Highlights. Android Developers. [27 October 2009]. 
+^ Savov, Vladislav. Next Android version will be called Froyo, says Erick Tseng. Engadget.com. 16 January 2010 [2010-01-16]. 
+^ Android support for memory card app storage is finally "coming soon". Google Code. [1 May 2010]. 
+^ Google's Andy Rubin on Everything Android. NY Times. [20 May 2010]. 
+^ Nexus One Is Running Android 2.2 Froyo. How Fast Is It Compared To 2.1? Oh, Only About 450% Faster. androidpolice. [13 May 2010]. 
+^ A Video Of An Adobe Evangelist Showcasing Flash 10.1 Smoothly Running On A Nexus One With Android 2.2 Froyo. androidpolice. [13 May 2010]. 
+^ Exclusive: Google To Add Tethering, Wifi Hotspot To Android 2.2 Froyo. TechCrunch. 13 May 2010 [13 May 2010]. 
+^ Browser support for file upload field is coming in Froyo. Google Code. [13 May 2010]. 
+^ 88.0 88.1 Unofficially Confirmed Froyo Features, Post-Day-1 Of Google I/O. Android Police. [20 May 2010]. 
+^ Android 2.3 Gingerbread正式登场、新功能全面睇！. 
+^ Android Team“Laser Focused”On The User Experience For Next Release. 
+^ Canalys: iPhone outsold all Windows Mobile phones in Q2 2009. AppleInsider. 2009-08-21 [2009-09-21]. 
+^ Gartner Says Sales of Mobile Devices Grew 5.6 Percent in Third Quarter of 2011; Smartphone Sales Increased 42 Percent. 15 November 2011 [16 November 2011]. 
+^ comScore Reports February 2010 U.S. Mobile Subscriber Market Share. Comscore.com. 5 April 2010 [24 December 2010]. RIM, 42.1%; Apple, 25.4%; Microsoft, 15.1%; Google (Android), 9.0%; Palm, 5.4%; others, 3.0% 
+^ comScore Reports September 2010 U.S. Mobile Subscriber Market Share. Comscore.com. 3 November 2010 [24 December 2010]. 
+^ Google activates 500,000 Android devices a day, may reach 1 million in October. Yahoo News. 28 June 2011. 
+^ Kumparak, Greg. Android Now Seeing 550,000 Activations Per Day. Techcrunch. 14 July 2011. 
+^ Android takes almost 50% share of worldwide smart phone market. 1 August 2011 [2011-08-05]. 
+^ Erick Schonfeld. Larry Page: Mobile Revenues At $2.5 Billion Run-Rate, 190 Million Android Devices. TechCrunch. 13 October 2011 [24 October 2011]. 
+^ Lance Whitney. Google: 200 million Android devices now active worldwide. CNET News. 2011-11-17 [2011-11-27]. 
+^ Charlie Sorrel. Only 3.8 Million Honeycomb Tablets Sold So Far. Wired.com. 2011-11-17 [2011-11-27]. 
+^ 101.0 101.1 Gartner Says Worldwide Tablet Sales Grew 68 Percent in 2013, With Android Capturing 62 Percent of the Market. Gartner. 2014-03-03 [2014-03-04]. 
+^ http://techcrunch.com/2013/07/01/android-led-by-samsung-continues-to-storm-the-smartphone-market-pushing-a-global-70-market-share/
+^ Android Dashboard - Platform Versions. [2017-12-11]. 
+^ 最近比较烦?细数Android成长之烦恼王彦恩中关村在线2011年9月29日
+^ 105.0 105.1 谷歌甲骨文大战Java： 开源软件争议“合理使用”_新浪财经_新浪网. 
+^ 甲骨文起诉Android侵犯Java专利权来龙去脉 -搜狐IT. 
+^ 谷歌惹麻烦：被判侵犯甲骨文Java版权
+^ Java专利侵权案：甲骨文赢得对谷歌的上诉
+^ 谷歌要求重审Android侵犯甲骨文版权案_Oracle Java_cnBeta.COM. 
+^ 甲骨文控告谷歌Android非法使用Java败诉_天极网. 
+^ 下一版Android將以OpenJDK取代甲骨文的Java APIs－iThome. 
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：Android
+
+
+
+官方网站（英文）
+
+Android开源計劃（英文）
+Android Developers（英文）
+Android-x86（英文）
+
+
+Google Projects for Android - Google Code（中文）
+YouTube上的Sergey Brin introduces the Android platform
+开放式目录计划中和Android相关的内容
+Android Studio 中文開發者社群
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Android
+
+
+
+
+
+
+開發
+
+
+
+ART
+Android软件开发
+Android Studio
+APK
+App Inventor
+Dalvik
+OpenBinder（英语：OpenBinder）
+Android Developer Challenge（英语：Android Developer Challenge）
+Android Developer Lab（英语：Android Developer Lab）
+Eclipse
+Google Developers
+Google I/O
+Renderscript
+
+
+
+
+
+
+
+
+
+
+
+发行版本
+
+
+
+Android版本歷史
+KitKat (4.4)
+Lollipop (5)
+Marshmallow (6)
+Nougat (7.0)
+Oreo (8.0)
+
+
+
+
+
+
+
+
+衍生平台
+
+
+
+Android Auto
+Android TV
+Android Wear
+
+
+
+
+
+
+
+
+Pixel设备
+
+
+
+Pixel/Pixel XL
+Pixel C
+Pixel 2/Pixel 2 XL
+
+
+
+
+
+
+
+
+Nexus设备
+
+
+
+HTC Nexus One
+Samsung Nexus S
+Samsung Galaxy Nexus
+LG Nexus 4
+LG Nexus 5
+LG Nexus 5X
+Motorola Nexus 6
+Huawei Nexus 6P
+Asus Nexus 7(2012)
+Asus Nexus 7(2013)
+HTC Nexus 9
+Samsung Nexus 10
+Nexus Q
+Nexus Player
+
+
+
+
+
+
+
+
+Google Play Edition
+
+
+
+HTC One (M7)
+HTC One (M8)
+LG G Pad 8.3（英语：LG G Pad 8.3）
+Motorola Moto G（英语：Motorola Moto G）
+Samsung Galaxy S4
+Sony Xperia Z Ultra
+
+
+
+
+
+
+
+
+分支版本、替代用户界面
+
+
+
+AOKP（英语：AOKP）
+Baidu Yi
+Barnes & Noble Nook
+CyanogenMod
+LineageOS
+Resurrection Remix OS
+Fire OS（英语：Fire OS）
+Flyme OS
+LeWa OS
+MIUI（米柚）
+MoKee（魔趣）
+OmniROM
+OPhone
+Replicant
+XobotOS
+YunOS
+Smartisan OS
+Zen UI
+Hive UI（英语：Hive UI）
+HTC Sense
+LG Optimus UI（英语：Optimus UI）
+三星TouchWiz
+华为EMUI
+Nokia X Software Platform（英语：Nokia X Software Platform）
+氢OS & Oxygen OS
+ColorOS
+Funtouch OS
+360OS
+
+
+
+
+
+
+
+
+應用程式
+
+
+
+地球
+Gmail
+Chrome
+Goggles
+环聊
+地图
+Play
+
+图书
+音乐
+书报摊
+
+
+Pay
+星空地图
+健身
+
+
+
+
+
+
+
+
+API
+
+
+
+Google云消息传递
+Google地图
+Google Play服务
+Google搜索
+
+
+
+
+
+
+
+
+其他
+
+
+
+Root
+
+
+
+
+
+
+
+
+相關
+
+
+
+Androidland（英语：Androidland）
+Android One
+Google
+Google Cardboard
+Material Design
+XDA Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+移动操作系统
+
+
+
+
+
+
+Linux内核
+
+
+
+
+Android
+
+
+
+CyanogenMod
+CopperheadOS（英语：CopperheadOS）
+Fira OS（英语：Fira OS）
+Fire OS（英语：Fire OS）
+Hive UI（英语：Hive UI）
+Indus OS（英语：Indus OS）
+LineageOS
+Resurrection Remix OS
+OPhone
+Replicant
+Ubuntu for Android
+諾基亞X平台（英语：Nokia X platform）
+百度雲OS
+MIUI
+YunOS
+
+
+
+
+
+
+
+
+SHR（英语：SHR (operating system)）
+
+
+
+OpenEmbedded
+
+Familiar Linux
+OpenZaurus（英语：OpenZaurus）
+KaeilOS（英语：KaeilOS）
+
+
+Openmoko Linux
+
+Qt Extended
+Ångström Linux-based
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+Access Linux
+Bada (操作系统)
+EZX Linux（英语：EZX Linux）
+Firefox OS
+LuneOS（英语：LuneOS）
+MeeGo
+MotoMagx
+Sailfish OS
+Tizen
+Ubuntu Touch
+webOS
+
+
+
+
+
+
+
+
+
+
+
+XNU
+
+
+
+iOS
+
+
+
+
+
+
+
+
+QNX
+
+
+
+BlackBerry 10
+BlackBerry PlayBook OS
+
+
+
+
+
+
+
+
+Windows
+
+
+
+Windows Mobile
+Windows Phone
+Windows XP Tablet PC Edition
+Windows RT
+Windows 8.1 with Bing
+Windows 10移动版
+
+
+
+
+
+
+
+
+其他
+
+
+
+BlackBerry OS
+EPOC
+GEOS（英语：GEOS (16-bit operating system)）
+任天堂DSi
+任天堂3DS
+S30
+S30+（英语：Series 30+）
+S40
+诺基亚Asha平台（英语：Nokia Asha platform）
+DR-DOS
+Palm OS
+PSP
+PS Vita
+Symbian
+
+MOAP（英语：MOAP）(S)
+UIQ
+S60
+S80
+S90
+
+
+
+
+
+
+
+
+
+
+相關
+平臺
+
+
+
+无线二进制运行环境（BREW）
+Java ME
+JavaFX Mobile
+
+
+
+
+
+
+
+
+
+
+
+移动操作系统比较
+行動軟體發行平台列表
+開放手機聯盟
+開放移動聯盟
+流動應用程式開發（英语：Mobile application development）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Linux
+
+
+
+
+
+
+Linux内核
+
+
+
+历史
+内核
+林纳斯定律
+Linux-libre
+Linux启动过程
+Linux内核oops
+Tux
+更多…
+
+
+
+
+
+
+
+
+争议
+
+
+
+GNU/Linux命名争议
+塔能鲍姆-托瓦兹辩论
+SCO与Linux
+
+
+
+
+
+
+
+
+Linux发行版
+
+
+
+一般比较
+发行版列表
+上网本版比较（英语：Comparison of netbook-oriented Linux distributions）
+从RAM运行的Linux发行版
+轻量级Linux发行版
+Linux专有软件（英语：List of proprietary software for Linux）
+软件包管理系统
+
+Linux软件包格式
+软件包管理系统列表（英语：List of software package management systems）
+
+
+
+
+
+
+
+
+
+
+组织
+
+
+
+Linux基金会
+Linux商标协会（英语：Linux Mark Institute）
+Linux用户组（LUG）
+Linux文档计划
+LinuxChix（英语：LinuxChix）
+Linux Counter（英语：Linux Counter）
+
+
+
+
+
+
+
+
+采用
+
+
+
+对Linux的批评（英语：Criticism of Linux）
+对桌面Linux的批评
+桌面
+嵌入式
+游戏
+Linux使用范围（英语：Linux range of use）
+Linux采用者列表（英语：List of Linux adopters）
+
+
+
+
+
+
+
+
+媒体
+
+
+
+自由软件杂志（英语：Free Software Magazine）
+Linux.com
+Linux Format（英语：Linux Format）
+Open Source For You（英语：Open Source For You）
+Linux Gazette（英语：Linux Gazette）
+Linux Journal（英语：Linux Journal）
+Linux Magazine（英语：Linux Magazine）
+LinuxUser（英语：LinuxUser）
+
+Ubuntu User（英语：Ubuntu User）
+
+
+Linux Outlaws（英语：Linux Outlaws）
+Linux Voice（英语：Linux Voice）
+LugRadio（英语：LugRadio）
+LWN.net（英语：LWN.net）
+Phoronix
+《操作系统革命》
+《代码》（2001年电影）
+
+
+
+
+
+
+
+
+人物
+
+
+
+艾倫·考克斯
+艾利森·兰德尔（英语：Allison Randal）
+安德鲁·莫顿
+本杰明·马可·希尔（英语：Benjamin Mako Hill）
+布拉德利·库恩（英语：Bradley M. Kuhn）
+布鲁斯·佩伦斯
+丹尼尔·罗宾斯（英语：Daniel Robbins (computer programmer)）
+大卫·米勒
+葛雷格·克羅哈曼
+伊恩·默多克
+乔恩·霍尔（英语：Jon Hall (programmer)）
+乔纳·贝肯（英语：Jono Bacon）
+卡伦·桑德勒
+林纳斯·托瓦兹
+埃里克·雷蒙
+马克·沙特尔沃思
+帕米拉·琼斯（英语：Pamela Jones）
+帕特里克·沃尔克丁（英语：Patrick Volkerding）
+理查德·斯托曼
+曹子德
+威廉·约翰·沙利文（英语：William John Sullivan）
+
+
+
+
+
+
+
+
+
+
+
+ Linux
+ Linux内核功能
+ Linux主題
+共享资源
+ Linux专题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Unix及类Unix操作系统
+
+
+
+
+
+
+
+
+
+A/UX
+AIX
+Android
+BlackBerry 10
+BSD
+
+386BSD（英语：386BSD）
+DragonFly BSD
+FreeBSD
+NetBSD
+OpenBSD
+
+
+Coherent（英语：Coherent_(operating_system)）
+Chrome OS
+ezgo
+GNU
+HP-UX
+iOS
+IRIX
+Linux
+LynxOS
+MINIX
+NeXTSTEP
+macOS
+
+Darwin
+
+
+Plan 9
+QNX
+Research Unix
+SCO OpenServer
+Solaris
+SunOS
+System III
+System V
+Tru64 UNIX（英语：Tru64 UNIX）
+Ultrix（英语：Ultrix）
+UnixWare（英语：UnixWare）
+Xenix
+更多...（英语：List_of_Unix_systems）
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 共享资源
+ 教科书
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+概述
+
+
+
+历史（英语：History of Google）
+公司收购列表
+产品列表
+对Google的批评
+审查
+玩笑和复活节彩蛋列表
+不做恶原则
+公開報告
+
+
+
+
+
+
+
+
+广告
+
+
+
+AdMob
+Adscape
+AdSense
+AdWords
+分析
+广告专家认证
+DoubleClick
+DoubleClick for Publishers（英语：DoubleClick for Publishers）
+电子钱包
+
+
+
+
+
+
+
+
+通讯
+
+
+
+Allo
+快讯（英语：Google Alerts）
+Apps Script（英语：Google Apps Script）
+Duo
+日历
+通讯录
+朋友群
+Gmail
+Google+
+网上论坛
+环聊
+Inbox
+同步（英语：Google Sync）
+Text-to-Speech（英语：Google Text-to-Speech）
+翻译（神經機器翻譯系統）
+Transliteration（英语：Google transliteration）
+Voice
+Project Fi
+
+
+
+
+
+
+
+
+软件
+
+
+
+Chrome
+
+Chromium
+网上应用店
+
+
+云打印
+地球
+
+星空
+月球
+火星
+
+
+Gadgets（英语：Google Gadgets）
+Goggles
+输入法
+
+拼音
+粤语
+注音
+日文
+
+
+相册
+Keep
+新闻与天气
+即时
+
+即时桌面
+
+
+Picasa
+OpenRefine（英语：OpenRefine）
+工具栏
+
+
+
+
+
+
+
+
+平台
+
+
+
+账户
+Android
+
+历史版本
+Auto
+TV
+Wear
+Pay
+
+
+软件引擎
+Apps for Work
+
+教室（英语：Google Classroom）
+
+
+身份验证器
+BigTable
+Body
+图书
+
+图书馆计划
+
+
+Caja（英语：Caja project）
+Cardboard
+Chromecast
+Chrome OS
+
+Chromium OS
+Chromebit（英语：Chromebit）
+Chromebook
+Chromebox
+Chrome Zone（英语：Chrome Zone）
+
+
+计算引擎（英语：Google Compute Engine）
+Contact Lens（英语：Google Contact Lens）
+自定义搜索
+Dart
+Daydream
+地图引擎
+Fit
+眼镜
+Go
+文件系统
+Marketplace（英语：Google Apps Marketplace）
+Native Client
+Nexus
+OpenSocial
+Pixel
+Play
+
+音乐
+圖書
+
+
+商店
+Public DNS
+问答
+电子钱包
+
+
+
+
+
+
+
+
+开发工具
+
+
+
+AJAX APIs（英语：Google APIs）
+应用开发者
+Closure Tools（英语：Google Closure Tools）
+代码（Google Gson）
+Gadgets API（英语：Google Gadgets API）
+GData（英语：GData）
+Googlebot（英语：Googlebot）
+Guava（英语：Google Guava）
+Guice（英语：Google Guice）
+KML
+Kythe（英语：Google Kythe）
+MapReduce
+Sitemaps（英语：Sitemaps）
+Storage（英语：Google Storage）
+夏日程式碼大賽
+Web Toolkit
+网站管理员工具
+Website Optimizer（英语：Google Website Optimizer）
+Swiffy
+
+
+
+
+
+
+
+
+出版
+
+
+
+Blogger
+书签
+云端硬盘
+
+文档
+繪圖（英语：Google Drawings）
+我的地图
+协作平台
+Fusion Tables（英语：Google Fusion Tables）
+
+
+Domains（英语：Google Domains）
+FeedBurner
+Map Maker
+Panoramio
+Picasa网络相册
+YouTube
+
+Vevo
+
+
+Zagat（英语：Zagat）
+
+
+
+
+
+
+
+
+搜索
+
+
+
+Appliance
+Audio
+博客搜索（英语：Google Blog Search）
+图书
+财经
+航班（英语：Google Flights）
+图片
+地图
+
+
+街景
+
+
+新闻
+
+新闻档案
+
+
+专利
+学术
+购物
+网上论坛
+
+
+
+
+算法
+
+
+
+PageRank
+Panda（英语：Google Panda）
+Penguin（英语：Google Penguin）
+Hummingbird（英语：Google Hummingbird）
+
+
+
+
+
+
+
+
+特征
+
+
+
+搜索历史
+个性化搜索
+实时搜索
+即搜即得
+安全搜索
+语音搜索
+
+
+
+
+
+
+
+
+分析
+
+
+
+搜索解析
+趋势
+知识图谱
+Knowledge Vault
+
+
+
+
+
+
+
+
+
+
+
+停止开发
+
+
+
+Aardvark（英语：Aardvark (search engine)）
+Answers
+Ara
+浏览器同步（英语：Google Browser Sync）
+Google Base（英语：Google Base）
+Buzz
+Checkout
+浏览器內嵌框架
+Reader
+Click-to-Call
+云端连接
+代码搜索
+潮流同步
+桌面
+词典（英语：Google Dictionary）
+Dodgeball
+Fast Flip（英语：Google Fast Flip）
+Gears
+GOOG-411
+Google TV
+Jaiku
+Knol
+健康（英语：Google Health）
+iGoogle
+Image Labeler（英语：Google Image Labeler）
+实验室
+纵横
+Lively
+混搭编辑器
+笔记本
+Offers（英语：Google Offers）
+Orkut
+软件精选
+Page Creator
+Picnik
+PowerMeter（英语：Google PowerMeter）
+脚本转换器（英语：Google Script Converter）
+SearchWiki
+网页注解
+Slide（英语：Slide.com）
+Squared
+Talk
+更新器
+Urchin（英语：Urchin）
+视频
+视频市场
+Wave
+网际加速器
+
+
+
+
+
+
+
+
+人物
+
+
+
+埃里克·施密特
+艾伦·尤斯塔斯（英语：Alan Eustace）
+约翰·杜尔
+约翰·轩尼诗
+雷蒙德·库茨魏尔
+安·马瑟（英语：Ann Mather）
+保罗·奥特利尼
+罗恩·康韦（英语：Ram Shriram）
+雪莉·蒂尔曼
+阿尔·戈尔
+拉基恩·西斯（英语：Rajen Sheth）
+文頓·瑟夫
+艾伦·穆拉利
+大卫·德拉蒙德（英语：David Drummond (Google)）
+帕特里克·皮谢特（英语：Patrick Pichette）
+阿米特·辛格尔
+杰夫·迪恩
+奥米德·科蒂斯坦尼（英语：Omid Kordestani）
+雷切尔·惠特斯通（英语：Rachel Whetstone）
+撒拉·卡曼加（英语：Salar Kamangar）
+桑德尔·皮蔡
+苏珊·沃西基
+乌尔斯·霍尔茨勒（英语：Urs Hölzle）
+
+
+
+
+创始人
+
+
+
+拉里·佩奇
+谢尔盖·布林
+
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+Alphabet Inc.
+Art Project
+Calico
+Current（英语：Google Current）
+Chrome实验（英语：Google Chrome Experiments）
+Code-In
+Code Jam
+开发者日
+商业小组（英语：Google Business Groups）
+Data Liberation（英语：Google Data Liberation Front）
+
+Takeout（英语：Google Takeout）
+
+
+Developer Expert（英语：Google Developer Expert）
+Google Enterprise（英语：Google Enterprise）
+无人车
+
+光纤
+Express（英语：Google Express）
+Google化
+Grants（英语：Google Grants）
+Google.org
+商标
+涂鸦
+
+列表
+
+
+月球X大奖
+Material design
+先進科技與計劃部門
+Ventures
+WiFi
+X
+
+
+
+
+活动
+
+
+
+Science Fair
+Searchology（英语：Google Searchology）
+I/O
+开发者日
+演讲
+Code Jam
+Highly Open Participation Contest（英语：Google Highly Open Participation Contest）
+Code-in
+Google EYE Program
+
+
+
+
+
+
+
+
+项目
+
+
+
+Loon
+Tango
+Zero
+
+
+
+
+
+
+
+
+房地产
+
+
+
+111 Eighth Avenue（英语：111 Eighth Avenue）
+Googleplex
+Google台灣資料中心
+
+
+
+
+
+
+
+
+谷歌中国
+
+
+
+谷歌时惠
+谷歌音乐
+谷歌金山词霸
+265上网导航
+谷歌涉黄事件
+谷歌退出中国大陆事件
+Google审查
+Google香港
+2014年中国大陆屏蔽谷歌服务事件
+
+
+
+
+
+
+
+
+
+
+
+相关
+
+
+
+AI Challenge（英语：AI Challenge）
+轰炸
+谷姐网
+Monopoly City Streets
+Unity
+
+
+
+
+
+
+
+
+
+
+
+ 主题页面
+ 相关分类
+ 共享资源
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 316754250
+LCCN: n2009043077
+GND: 7635475-1
+BNF: cb16174153f（数据）
+BNE: XX4178968
+
+
+
+
+
+
+
+
+
+
+
+
+分类：AndroidLinux开放源代码行動作業系統嵌入式操作系统嵌入式Linux發行版隐藏分类：引文格式1错误：日期CS1含有外文文本含有英語的條目使用过时图像语法的页面含有法語的條目有未列明来源语句的条目包含规范控制信息的维基百科条目

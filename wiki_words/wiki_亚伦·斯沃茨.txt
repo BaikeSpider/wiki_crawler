@@ -1,0 +1,873 @@
+亚伦·斯沃茨
+
+
+
+
+
+当前條目的内容正在依照Aaron Swartz的内容进行翻译。（2017年12月30日）
+如果您熟知条目内容并擅长翻译，欢迎协助改善或校对这篇條目，长期闲置的非中文内容可能会被移除。目前的翻译进度为：
+
+
+
+
+
+
+
+
+
+
+10%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+亚伦·斯沃茨
+
+
+
+亚伦·斯沃茨在创作共用会议上
+（摄于2008年12月13日）
+
+
+
+原文名
+Aaron Swartz
+
+
+性别
+男
+
+
+出生
+亚伦·希勒尔·斯沃茨
+Aaron Hillel Swartz[1]
+(1986-11-08)1986年11月8日
+美国伊利诺伊州高地公园[2]
+
+
+逝世
+2013年1月11日(2013-01-11)（26歲）
+美国纽约州纽约市布鲁克林区
+
+
+死因
+投缳自杀
+
+
+国籍
+ 美國
+
+
+母校
+斯坦福大学
+
+
+职业
+软件开发者、作家、互联网活动家
+
+
+头衔
+哈佛埃德蒙·萨夫拉伦理研究中心（英语：Edmond J. Safra Center for Ethics）学者
+
+
+奖项
+
+
+
+美国图书馆协会麦迪逊奖（追授）
+2013年度EFF先锋奖（追授）
+2013年度互联网名人堂（追授）
+
+
+
+
+
+网站
+www.aaronsw.com
+
+
+亚伦·希勒尔·斯沃茨（英语：Aaron Hillel Swartz，1986年11月8日－2013年1月11日）是美国一名电脑程序员、企业家、作家、政治组织者和互联网黑客主义者（英语：Hacktivism）。他参与了网上信息源发布格式RSS[3] 和Markdown[4] 的开发，还是知识共享的组织者，[5] 也是网站框架web.py的设计者，[6] 同时他在社交媒体Reddit收购其公司Infogami后成为它的合伙人。[i]
+亚伦·斯沃茨的工作也侧重于公民意识与行动。[7][8] 他在2009年协助成立了渐进社会变革活动委员会（英语：Progressive Change Campaign Committee），以更多地了解有效的互联网运动（英语：Internet activism）。2009年，他成为哈佛大学埃德蒙·萨夫拉伦理研究中心（英语：Edmond J. Safra Center for Ethics）的学者，在劳伦斯·莱斯格的领导下进行研究。[9][10] 他成立了网络组织求进会（英语：Demand Progress），因其反对禁止网络盗版法案的宗旨而闻名。
+2011年1月6日，亚伦·斯沃茨通过一台放置在麻省理工学院公共系（英语：Massachusetts Institute of Technology Police Department）内没有标记并没有上锁的壁橱的电脑连接上麻省理工学院的网络，并通过这网络下载JSTOR上的学术期刊；然后通过网络将这些内容传回至他的账号。[11][12] 联邦检察官提起2项网络欺诈和11项违反《电脑欺诈和滥用法（英语：Computer Fraud and Abuse Act）》行为诉讼，[13] 如果胜诉，亚伦·斯沃茨最高将面临35年刑期并处100万美元罚金及没收财产、归还失窃物品和监外看管。[14]
+亚伦·斯沃茨在联邦决定以涉嫌电脑犯罪起诉他之后自杀。[15] 亚伦·斯沃茨拒绝了联邦检察官提议在联邦监狱服刑6个月的认罪协商。在斯沃茨拒绝协商两天后，他被发现死于其在布鲁克林区的住所内，死因为自缢。[15][16]
+2013年8月，亚伦·斯沃茨被追授进入互联网名人堂。[17]
+
+
+
+目录
+
+
+1 生平与工作
+2 软件开发
+3 JSTOR案
+4 自杀、葬礼及追悼活动
+5 身后余波
+6 出版作品
+7 Publications
+8 参考资料
+
+8.1 脚注
+8.2 出典
+
+
+9 延伸阅读
+10 外部链接
+
+
+
+生平与工作[编辑]
+软件开发[编辑]
+JSTOR案[编辑]
+自杀、葬礼及追悼活动[编辑]
+身后余波[编辑]
+出版作品[编辑]
+Publications[编辑]
+
+Swartz, Aaron; Lucchese, Adriano, Raw Thought, Raw Nerve: Inside the Mind of Aaron Swartz ( PDF/ePub), New York City: Discovery Publisher, November 2014 .
+Swartz, Aaron; Hendler, James, The Semantic Web: A network of content for the digital city, Proceedings of the Second Annual Digital Cities Workshop, Kyoto, JP: Blogspace, October 2001 .
+Swartz, Aaron. MusicBrainz: A Semantic Web service (PDF). IEEE Intelligent Systems (UMBC). January–February 2002, 17 (1): 76–77. ISSN 1541-1672. doi:10.1109/5254.988466. 
+Gruber, John; Swartz, Aaron, Markdown definition, Daring Fireball, December 2004, （原始内容存档于April 2, 2004） .
+Swartz, Aaron. Guerilla Open Access Manifesto. July 2008. 
+Swartz, Aaron; James Hendler. Building programmable Web sites. S.F.: Morgan & Claypool. 2009. ISBN 1-59829-920-4. 
+Swartz, Aaron (Interviewee). We can change the world (Video). YouTube. 
+Swartz, Aaron (Speaker). Keynote address at Freedom To Connect 2012: How we stopped SOPA (Video). D.C.: YouTube. May 21, 2012. 
+Swartz, Aaron. Aaron Swartz's A programmable Web: An unfinished work ( PDF). San Francisco: Morgan & Claypool. February 2013 [2009]. Lay summary. To Dan Connolly, who not only created the Web but found time to teach it to me. 
+Swartz, Aaron. The Boy Who Could Change the World: The Writings of Aaron Swartz. The New Press. January 2016. 
+
+参考资料[编辑]
+脚注[编辑]
+
+^ Swartz has been identified as a cofounder of Reddit, but the title is a source of controversy. With the merger of Infogami and Reddit, Swartz became a co-owner and director of parent company Not A Bug, Inc., along with Reddit cofounders Steve Huffman and Alexis Ohanian.[18] Swartz has been referred to as "cofounder" in the press and by investor Paul Graham (who recommended the merger); Ohanian describes him as "co-owner".[19][20]
+^ The MIT network administration office told MIT police that "approximately 70 gigabytes of data had been downloaded, 98% of which was from JSTOR."[12] The first federal indictment alleged "approximately 4.8 million articles", "1.7 million" of which "were made available by independent publishers for purchase through JSTOR's Publisher Sales Service."[13] The subsequent DOJ press release alleged "over four million articles". The superseding indictment removed the estimates and instead characterized the amount as "a major portion of the total archive in which JSTOR had invested."[13]
+
+出典[编辑]
+
+
+
+^ 引用错误：没有为名为yearwood的参考文献提供内容
+^ Skaggs, Paula. Aaron Swartz Remembered as Internet Activist who Changed the World. Patch. 2013-01-16. 
+^ RSS creator Aaron Swartz dead at 26. Harvard Magazine. 2013-01-14. Swartz helped create RSS—a family of Web feed formats used to publish frequently updated works (blog entries, news headlines, ...) in a standardized format—at the age of 14. 
+^ Markdown. Aaron Swartz: The Weblog. 2004-03-19. 
+^ Lessig, Lawrence. Remembering Aaron Swartz. Creative Commons. 2013-01-12. Aaron was one of the early architects of Creative Commons. As a teenager, he helped design the code layer to our licenses... 
+^ Grehan, Rick. Pillars of Python: Web.py Web framework. InfoWorld. 2011-08-10. Web.py, the brainchild of Aaron Swartz, who developed it while working at Reddit.com, describes itself as a 'minimalist's framework.' ... Test Center Scorecard: Capability 7; Ease of Development 9; Documentation 7; ...; Overall Score 7.6, Good. 
+^ Swartz, Aaron. Sociology or Anthropology. Raw Thought. [2013-01-16]. 
+^ Swartz, Aaron. Simplistic Sociological Functionalism. Raw Thought. 2008-05-13 [2013-01-16]. 
+^ Seidman, Bianca. Internet activist charged with hacking into MIT network. Arlington, Va.: Public Broadcasting Service. 2011-07-22. [Swartz] was in the middle of a fellowship at Harvard's Edmond J. Safra Center for Ethics, in its Lab on Institutional Corruption 
+^ 引用错误：没有为名为safra的参考文献提供内容
+^ Gerstein, Josh. MIT also pressing charges against hacking suspect. Politico. 2011-07-22. [Swartz's] alleged use of MIT facilities and Web connections to access the JSTOR database ... resulted in two state felony charges for breaking into a ‘depository' and breaking & entering in the daytime, according to local prosecutors. 
+^ 12.0 12.1 Commonwealth v. Swartz, 11-52CR73 & 11-52CR75, MIT Police Incident Report 11-351 (Massachusetts District Court 2011-12-16). “Captain Albert P[...] and Special Agent Pickett were able to apprehend the suspect at 24 Lee Street.... He was arrested for two counts of Breaking and Entering in the daytime with the intent to commit a felony....”
+^ 13.0 13.1 13.2 引用错误：没有为名为Indictment的参考文献提供内容
+^ 引用错误：没有为名为SwartzAaronPR的参考文献提供内容
+^ 15.0 15.1 Aaron Swartz, Tech Prodigy and Internet Activist, Is Dead at 26. Time. 2013-01-13 [2013-01-13]. 
+^ Aaron Swartz, internet freedom activist, dies aged 26. BBC News. 2013-01-13 [2013-01-13]. 
+^ Internet Hall of Fame Announces 2013 Inductees. 互联网名人堂. 2013-06-26 [2013-08-03]. 
+^ Not A Bug, Inc.: Private company information. Bloomberg Business. 2006-10-31 [2015-05-30]. The company owns and operates portals that allow users to post contents and create Websites.... As of October 31, 2006, [it] is a subsidiary of CondéNet, Inc.... Key Executives for Not A Bug, Inc.: ... Huffman, President and Director; ... Swartz, Treasurer and Director; ... Ohanian, Secretary and Director. 
+^ 引用错误：没有为名为Wired-arrest的参考文献提供内容
+^ There was a third 'co-founder' of reddit, Today I Learned, Reddit, 2010-10-18, Aaron isn't a founder of reddit. 
+
+
+
+延伸阅读[编辑]
+
+外部视频链接
+
+ 《理想主义者》演讲视频
+演讲者：Justin Peter
+演讲时间：2016年6月11日
+出品方：C-SPAN
+
+
+ 互联网之子－亚伦·斯沃茨的故事
+导演：Brian Knappenberger
+制片：Luminant Media
+发行：The Documentary Network
+发行时间：2014年6月29日
+
+
+
+Nanos, Janelle. Losing Aaron. 波士顿（英语：Boston (magazine)）. 2014-01. 
+
+
+Peters, Justin. The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet. Charles Scribner's Sons. 2016. ISBN 978-1476767727.  Biography of Swartz.
+
+
+Poulsen, Kevin. "MIT Moves to Intervene in Release of Aaron Swartz's Secret Service File." 连线. 2013-07-18.
+
+
+杀戮开关：与互联网控制的战斗（英语：Killswitch (film)）：Ali Akbarzadeh执导；Akorn Entertainment出品
+
+外部链接[编辑]
+
+
+
+从维基百科的姊妹计划
+了解更多有关
+“亚伦·斯沃茨”的内容
+
+
+
+
+维基共享资源上的多媒体资源
+
+
+
+维基新闻上的新闻
+
+
+
+维基语录上的名言
+
+
+
+维基文库上的原始文献
+
+
+
+官方网站（英文）
+亚伦·斯沃茨在维基百科的用户页
+亚伦·斯沃茨在GitHub上的用户页
+亚伦·斯沃茨的Twitter帳戶 
+悼念亚伦·斯沃茨（由亚伦·斯沃茨父母和家人设立）
+亚伦·斯沃茨藏品在互联网档案馆
+ 维基文库中有關Guerilla Open Access Manifesto的完整文本
+亚伦·斯沃茨在互聯網電影數據庫（IMDb）上的資料（英文）
+关于亚伦·斯沃茨为维基贡献者的日志在The Wikipedian
+案件摘要：美国诉斯沃茨
+向校长报告：加州理工学院与亚伦·斯沃茨被诉事件
+JSTOR所提供的“美国诉斯沃茨案”证据（从JSTOR角度搜集文件及事件。他们向政府提供了数百份有关此案的邮件及文件。）
+关于亚伦·斯沃茨的联邦执法文件（依据《信息自由法》公布）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+自由文化和开放源代码运动
+
+
+
+
+
+
+概念
+
+
+
+公众科学
+共有知识（英语：Knowledge commons）
+开放获取
+开放式协同合作
+开放内容
+开放交流（英语：Open communication）
+开放资料
+开放设计（英语：Open design）
+开放教育（英语：Open education）
+开放政府（英语：Open government）
+开放式创新
+开放知识（英语：Open knowledge）
+开放专利（英语：Open patent）
+开放研究（英语：Open research）
+开放科学
+开源架构（英语：Opensource Architecture）
+开源软件
+开源治理（英语：Open-source governance）
+开源新闻（英语：Open-source journalism）
+开源硬件
+开放标准
+开放式大学（英语：Open-door academic policy）
+
+入学
+
+
+开放Web
+
+
+
+
+
+
+
+
+工具
+
+
+
+自由及开放源代码软件
+开放教育资源
+开放音乐模型（英语：Open Music Model）
+开放科学笔记（英语：Open notebook science）
+
+
+
+
+
+
+
+
+组织
+
+
+
+知识共享
+DIYbio（英语：DIYbio）
+自由软件基金会
+开放架构网络（英语：Open Architecture Network）
+开放知识基金会（英语：Open Knowledge Foundation）
+开放权力集团（英语：Open Rights Group）
+开放源代码促进会
+软件自由法律中心
+公共科学图书馆（PLOS）
+学术出版与学术资源联盟（英语：Scholarly Publishing and Academic Resources Coalition）（SPARC）
+
+
+
+
+
+
+
+
+活动家
+
+
+
+亚伦·斯沃茨
+John Wilbanks（英语：John Wilbanks）
+劳伦斯·莱斯格
+Peter Murray-Rust（英语：Peter Murray-Rust）
+Peter Suber（英语：Peter Suber）
+理查德·斯托曼
+蒂姆·伯纳斯-李
+
+
+
+
+
+
+
+
+项目
+
+
+
+创作共用授权
+自由文化作品定义（英语：Definition of Free Cultural Works）
+自由文化运动
+自由软件运动
+开源生态学
+OpenCores（英语：OpenCores）
+OpenWetWare（英语：OpenWetWare）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+網際網路名人堂
+
+
+
+
+
+
+
+
+
+
+ 
+先驅
+
+
+
+
+
+
+
+
+
+
+
+2012年
+
+
+
+
+保羅·巴蘭†
+文頓·瑟夫
+丹尼·科恩（英语：Danny Cohen (engineer)）
+史蒂芬·克羅克
+唐納德·戴維斯（英语：Donald Davies）†
+伊麗莎白·芬勒（英语：Elizabeth J. Feinler）
+查爾斯·赫茨菲爾德（英语：Charles Herzfeld）
+羅伯特·卡恩
+彼得·柯爾斯坦（英语：Peter T. Kirstein）
+萊昂納多·克萊洛克
+約翰·克萊辛（英语：John Klensin）
+喬恩·波斯特爾†
+路易斯·普贊
+勞倫斯·羅伯茲（英语：Lawrence Roberts (scientist)）
+
+
+
+
+
+
+
+
+
+2013年
+
+
+
+
+大衛·克拉克（英语：David D. Clark）
+大衛·法布爾（英语：David Farber）
+法蘭克·霍華德
+肯查娜·肯查娜蘇
+里克萊德（英语：J. C. R. Licklider）†
+羅伯特·梅特卡夫
+村井純（英语：Jun Murai）
+基斯·尼格斯（英语：Kees Neggers）
+尼·奎諾（英语：Nii Quaynor）
+格倫·利卡特（英语：Glenn Ricart）
+羅伯特·泰勒（英语：Robert Taylor (computer scientist)）
+斯蒂芬·沃爾夫（英语：Stephen Wolff）
+維爾納·措恩
+
+
+
+
+
+
+
+
+
+2014年
+
+
+
+
+道格拉斯·恩格爾巴特†
+蘇珊·埃斯特拉達（英语：Susan Estrada）
+法蘭克·哈特
+丹尼斯·詹寧斯（英语：Dennis Jennings (Internet pioneer)）
+羅爾夫·諾德哈根（英语：Rolf Nordhagen (physicist)）†
+拉迪亞·珀爾曼（英语：Radia Perlman）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+全球性貢獻
+
+
+
+
+
+
+
+
+
+
+
+2012年
+
+
+
+
+蘭迪·布什（英语：Randy Bush (scientist)）
+全吉南
+阿尔·戈尔
+南希·海芙金（英语：Nancy Hafkin）
+傑夫·休斯頓
+布魯斯特·卡利
+丹尼爾·卡倫伯格（法语：Daniel Karrenberg）
+高橋徹（日语：高橋徹 (ネットワーク研究者)）
+陳定煒
+
+
+
+
+
+
+
+
+
+2013年
+
+
+
+
+卡倫·班卡斯（英语：Karen Banks）
+吉昂·迪亞斯
+安麗耶特·艾斯特灰森
+史蒂夫·戈爾茨坦
+提斯·哈根
+艾達·霍爾茲（西班牙语：Ida Holz）
+胡啟恆
+石田晴久（日语：石田晴久）†
+巴里·雷納†
+喬治·薩多斯基（英语：George Sadowsky）
+
+
+
+
+
+
+
+
+
+2014年
+
+
+
+
+德米·蓋奇科（葡萄牙語：Demi Getschko）
+平原正樹†
+埃里克·霍茲
+史蒂芬·亨特
+阿拜亞·因杜鲁瓦（英语：Abhaya Induruwa）
+多卡斯·穆瑟尼（英语：Dorcas Muthoni）
+馬哈比爾·潘（英语：Mahabir Pun）
+斯里尼瓦桑·拉馬尼
+邁克爾·羅伯茨
+本·西格爾（英语：Judah Segal）
+道格拉斯·范豪韋林
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+創新
+
+
+
+
+
+
+
+
+
+
+
+2012年
+
+
+
+
+米切爾·貝克
+蒂姆·伯纳斯-李
+羅伯特·卡里奧
+范·雅各布森
+勞倫斯·蘭德韋伯（英语：Lawrence Landweber）
+保羅·莫卡派喬斯
+克雷格·紐馬克（英语：Craig Newmark）
+雷·湯姆林森
+林納斯·托瓦茲
+菲爾·齊默爾曼
+
+
+
+
+
+
+
+
+
+2013年
+
+
+
+
+馬克·安德森
+約翰·佩里·巴洛
+弗朗索瓦·弗拉基杰（英语：François Flückiger）
+斯蒂芬·肯特
+安妮-瑪麗·埃克倫-洛溫德（英语：Anne-Marie Eklund Löwinder）
+亨寧·舒茨萊寧（英语：Henning Schulzrinne）
+理查·斯托曼
+亞倫·斯沃茨†
+吉米·威爾斯
+
+
+
+
+
+
+
+
+
+2014年
+
+
+
+
+埃里克·奧爾曼（英语：Eric Allman）
+埃里克·比納
+卡爾海因茨·勃蘭登堡（英语：Karlheinz Brandenburg）
+約翰·奇歐菲（英语：John Cioffi）
+錢華林
+保羅·維克西（英语：Paul Vixie）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+知识产权激进主义
+
+
+
+
+
+
+问题和争论
+
+
+
+版权侵犯
+软件版权侵犯
+数字版权管理
+Gripe site（英语：Gripe site）
+音乐著作权的历史
+知识产权
+文件分享的合法性
+混制
+
+视频
+音乐
+
+
+专利权
+公有领域
+软件专利争论
+專利流氓
+
+
+
+
+
+
+
+
+概念
+
+
+
+All Rights Reversed
+Anti-版权 notice
+Copyleft
+版权属左的商业应用
+Commons-based peer production（英语：Commons-based peer production）
+自由内容
+自由软件许可
+信息无政府主义
+Libertarian positions（英语：Libertarian perspectives on intellectual property）
+开放内容
+开放设计
+开放音乐模式
+开放专利权
+开源硬件
+开源软件
+相同方式共享
+
+
+
+
+
+
+
+
+运动
+
+
+
+知识无界运动
+反版权
+文化环境
+自由文化运动
+自由软件运动
+
+
+
+
+
+
+
+
+组织
+
+
+
+创作共用
+
+电子前哨基金会
+自由软件基金会
+自由权利组织
+软件自由法律中心
+Organization for Transformative Works（英语：Organization for Transformative Works）
+海盗湾
+海盗署
+海盗党
+Students for Free Culture（英语：Students for Free Culture）
+
+
+
+
+
+
+
+
+人物
+
+
+
+李卡德·法克明炎
+勞倫斯·雷席格
+理查德·斯托曼
+
+
+
+
+
+
+
+
+文档
+
+
+
+幹走電影 (2006, 2007)
+正版盗版 (2007)
+混制宣言 (2008)
+
+
+
+
+
+
+
+
+
+
+人物主题
+互联网主题
+美国主题
+法律主题
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 296671122
+LCCN: no2013012100
+ISNI: 0000 0004 0183 9430
+GND: 104371300X
+SUDOC: 181263181
+BIBSYS: 1470399605852
+MusicBrainz: 26467fed-1c0b-4039-926a-b5879da6ea90
+NKC: jo2017947426
+
+
+
+
+
+
+
+
+
+
+
+
+分类：1986年出生2013年逝世美国企业家美国维权人士美國部落客美國男作家美国社会活动家自杀社会活动家自殺企業家自殺作家自缢身亡者美国自杀人物伊利諾州人紐約市人史丹佛大學校友美国程序员電腦軟件企業家开源社区贡献者隐藏分类：有参考文献错误的页面自2017年12月正在翻譯的條目正在翻譯的條目含有英語的條目含有hCards的条目本地相关图片与维基数据不同包含规范控制信息的维基百科条目
