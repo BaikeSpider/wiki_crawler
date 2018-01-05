@@ -1,0 +1,717 @@
+煞車
+
+
+本條目介紹的是制动系统。關於《变形金刚》中的角色，請見“刹车 (变形金刚)”。
+
+
+
+
+
+
+
+本条目論述以汽車剎車為主，未必具有普世通用的觀點。（2015年1月25日） 
+請協助補充內容以避免偏頗，或討論本文的問題。 
+
+
+
+
+
+
+
+本条目没有列出任何参考或来源。（2015年1月25日） 
+維基百科所有的內容都應該可供查證。请协助添加来自可靠来源的引用以改善这篇条目。无法查证的内容可能被提出异议而移除。 
+
+
+
+
+
+
+
+
+
+
+
+車用碟煞系統近照。
+
+
+
+
+
+
+車用碟煞常裝在輪上。
+
+
+
+File:K287 K288上的制动开关2012-05-02 05-43-52.jpg
+旅客列车上的手制动
+
+
+
+
+
+
+
+煞車是指一種令交通工具從前進中停止下來的制動系統，透過使车辆車輪的轉動減慢來停車。一般來說，都是透過以生鐵或複合陶瓷（材料有：碳、二氧化硅或Kevlar纤维等）制成的煞車碟，連接到車軸上，與煞車片來產生摩擦力而使汽車停止。另外，對於大型車輛及鐵路車輛，有使用液壓、空氣制動或電阻制動等其他刹停車輛的方法。
+
+
+
+目录
+
+
+1 歷史
+2 煞車的種類
+3 碟式刹车与鼓式刹车优缺点比较
+
+3.1 鼓式刹车
+
+3.1.1 优点
+3.1.2 缺点
+
+
+3.2 碟式刹车
+
+3.2.1 优点
+3.2.2 缺点
+
+
+
+
+4 與煞車相關的系統
+5 外部連結
+
+
+
+歷史[编辑]
+煞車的機制從1890年在英國開始發展，並於1902年在伯明翰取得專利，並大量生產。
+煞車的種類[编辑]
+
+
+
+鼓煞
+鼓式制动由制动鼓和制动蹄片组成。制动鼓的外形像脸盆，由散热性能好的金属制成，随同车轮一同旋转。制动蹄片安装在固定不动的刹车底板上，两片弧形的制动蹄片组成一个直径略小于制动鼓的圆，伸进制动鼓之中。踩刹车时，驱动机构将圆形的制动蹄片张开，具有高摩擦性能的制动蹄片与制动鼓的内表面发生剧烈摩擦，迫使旋转中的制动鼓逐渐减速直至停止旋转。相互摩擦的过程中，刹车鼓的动能被转化成热能，使车辆减速至停止。
+
+
+
+
+
+
+碟煞
+盘式制动由制动盘和制动钳组成。制动盘形状像旋转餐桌的薄片转盘，也是由金属制成，与车轮同轴旋转。制动钳是固定不转的，它横跨在制动盘的两侧形成“钳式”。制动过程中，驱动机构促使制动钳夹住制动盘的两侧盘面，钳上镶嵌的摩擦片剧烈地摩擦制动盘，迫使其转速降低直至停止。
+
+
+
+碟式刹车与鼓式刹车优缺点比较[编辑]
+鼓式刹车[编辑]
+优点[编辑]
+
+自刹作用：鼓式刹车有良好的自刹作用，由于刹车来令片外张，车轮旋转连带着外张的刹车鼓扭曲一个角度（当然不会大到让人很容易看出来）刹车来令片外张力（刹车制动力）越大，则情形就越明显，因此，一般大型车辆还是使用鼓式刹车，除了成本较低外，大型车与小型车的鼓刹，差别可能只有大型使用气动辅助，而小型车采用真空辅助来帮助刹车。
+成本较低：鼓式刹车制造技术层次较低，也最先用于刹车系统，因此制造成本要比碟式刹车低。
+
+缺点[编辑]
+
+由于鼓式刹车刹车来令片密封于刹车鼓内，造成刹车来令片磨损后的碎屑无法散去，影响刹车鼓与来令片的接触面而影响刹车性能。散热性能較碟式刹车差，在制动过程中会聚集大量的热量。制动蹄片和轮鼓在高温影响下较易发生极为复杂的变形，容易产生制动衰退和振抖现象，引起制动效率下降。
+
+碟式刹车[编辑]
+优点[编辑]
+
+由于刹车系统没有密封，因此刹车磨损的细削不到于沉积在刹车上，碟式刹车的离心力可以将一切水、灰尘等污染向外抛出，以维持一定的清洁。此外由于碟式刹车零件独立在外，要比鼓式刹车更易于维修。散热快，重量轻，构造简单，调整方便。高负载时耐高温性能好，制动效果稳定，而且不怕泥水侵袭，在冬季和恶劣路况下行车，盘式制动比鼓式制动更容易在较短的时间内令车停下。需要更高散热效率时，制动盘会开许多小孔，加速通风散热提高制动效率。
+
+缺点[编辑]
+
+对制动器和制动管路的制造要求较高，摩擦片的耗损量较大，成本贵，而且由于摩擦片的面积小，相对摩擦的工作面也较小，需要的制动液压高，必须要有助力装置的车辆才能使用，所以只能适用于轻型车上。除了成本较高，基本上皆优于鼓式刹车。
+
+與煞車相關的系統[编辑]
+
+防鎖死煞車系統（Anti-lock Braking System；簡稱ABS）
+牽引力控制系統或循跡控制系統（Traction Control System；簡稱TCS）
+
+Traction在車輛工程上是指車輪在路面上產生最大摩擦力但又不打滑，當汽車的車輪即將打滑時，這時車輪有最大的牽引力，電腦可透過控制煞車力道或降低引擎轉速來避免車輪打滑，讓車輪保持在打滑邊緣也就是循跡能力最好的時候，若給不同驅動輪不同的煞車力道，有助於左右兩個車輪分別位在乾燥和濕滑路面時保持車輛穩定。
+
+
+煞車優先系統（Brake Overide System）
+
+當行車電腦在同時收到煞車及油門訊號時，會優先處理煞車訊號，避免因為油門訊號導致車輛暴衝。
+
+
+HAC上坡輔助系統
+
+為搭載HAC上坡輔助系統之車輛在斜坡起步時，往往由於駕駛從煞車到油門時間差而造成車輛下滑，配備HAV上坡輔助系統之車輛則能在電腦系統偵測車輛下滑或傾向時，主動施以煞車，以提供駕駛充裕時間的踩油門並提供順暢起步
+
+
+BAS煞車輔助系統
+
+根據踩踏煞車踏板力道及速度主動經由車載電腦系統判斷情況與否，提供最強大的制動力避免事故發生
+
+
+
+外部連結[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：煞車
+
+
+
+Using Ceramics, Brakes Are Light but Cost Is Heavy
+Disc brake pads Free video content from CDX eTextbook
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+汽車內裝配件
+
+
+
+
+
+
+
+Part of a series of articles on cars
+
+
+
+
+
+
+
+車內
+設備
+
+
+
+
+
+
+儀器
+
+
+
+
+汽车导航系统（英语：Automotive navigation system）
+
+全球定位系統
+
+
+汽車夜視系統（英语：Automotive night vision）
+倒车摄像头（英语：Backup camera）
+盲點偵測系統
+蜂鳴器
+Carputer
+Check engine light
+里程錶
+車速錶
+轉速表
+Boost gauge
+油量錶
+电子儀表组（日语：デジタルメーター）
+抬頭顯示器
+激光雷达探测器（英语：Lidar detector）
+倒車雷達
+雷達偵測器（英语：Radar detector）
+車載資訊系統
+Idiot light
+旅程電腦（英语：Trip computer）
+
+
+
+
+
+
+
+
+
+控制件
+
+
+
+
+Bowden cable
+煞車
+
+手煞車桿（英语：Parking brake）
+腳剎車（粵文：腳掣 (車)）
+
+
+巡航定速
+电子节气门控制（英语：Electronic throttle control）
+排檔桿（粵文：波棍）
+Manettino dial
+动力转向（英语：Power steering）
+方向盤
+節流閥
+
+
+
+
+
+
+
+
+
+防盗
+
+
+
+
+Automatic vehicle location
+汽车警报器（英语：Car alarm）
+發動機防盜鎖止系統
+电动门锁（英语：Power door locks）
+无钥匙遥控系统（英语：Remote keyless system）
+智能钥匙（英语：Smart key）
+VIN etching
+
+
+
+
+
+
+
+
+
+
+
+
+安全
+座椅
+
+
+
+
+
+
+
+安全氣囊
+扶手箱（英语：Armrest）
+安全帶
+长凳座位（英语：Bench seat）
+Bucket seat
+儿童安全锁（英语：Child safety lock）
+後視鏡
+Rumble seat
+
+
+
+
+
+
+
+
+
+其他元素
+
+
+
+
+空氣調節
+汽车配件电源（英语：Automobile accessory power）
+中控台（英语：Center console (automobile)）
+儀表板
+手套箱
+遮阳板（英语：Sun visor）
+
+
+
+
+
+
+
+
+
+便利性
+
+
+
+
+汽車電話（英语：Car phone）
+點菸器
+杯架（英语：Cup holder）
+汽車音響（英语：Vehicle audio）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 分類
+ Commons
+ Portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+汽車的零件與附件
+
+
+
+
+
+
+車身
+
+
+
+
+結構
+
+大樑、副樑（Subframe）、保險桿、底盤、撞擊緩衝區（Crumple zone）、擋泥板（Fender）、葉子板（Fender skirts）、水箱罩（Grille）、引擎蓋（Hood）、引擎蓋進氣口（Hood scoop）、車柱（Pillar）、尾翼
+
+
+
+
+
+
+隔間
+
+行李廂（Trunk）、引擎蓋（Hood）
+
+
+
+
+
+
+車門
+
+蝴蝶車門、鷗翼車門、鍘刀車門、雙門對開車門
+
+
+
+
+
+
+玻璃
+
+天窗、遮陽板（Sun visor）、擋風玻璃、雨刷、擋風玻璃清潔液
+
+
+
+
+
+
+後視鏡
+
+後視鏡、電動後視鏡（Power mirrors）
+
+
+
+
+
+
+其他
+
+保險桿貼紙（Bumper sticker）、引擎蓋標誌（Hood ornament）
+
+
+
+
+
+
+
+
+
+外部設備
+
+
+
+
+車燈
+
+大燈（Head lamp）、霧燈（Fog lamp）、方向燈、尾燈（Taillight）、日間行車燈（Daytime running lamp）
+
+
+
+
+
+
+其他
+
+氣體放電式電燈、大燈水平自動調整組（Auto Leveling）、故障指示燈（Malfunction Indicator Lamp；MIL）、車距传感器（Distance sensor）、停車传感器（Park sensor）
+
+
+
+
+
+
+
+
+
+引擎
+
+
+
+
+進氣
+
+進氣口（Air intake）、空氣濾清器、節氣門（Throttle）、歧管（Manifold）、歧管真空（Manifold vacuum）、流量感知器（Mass flow sensor）、增壓（Boost）、增压式進氣（Ram-air intake）、短增压式進氣（Short ram air intake）、自然進氣引擎（Naturally-aspirated engine）、電子節气門控制（Electronic Throttle Control；ETC）、可變汽門正時
+
+
+
+
+
+
+燃料
+
+燃油濾清器（Fuel Filter）、增壓控制（Boost controller）、洩壓閥（Blow off valve）、蝶閥（Butterfly valve）、化油器、離心式機械增壓器（Centrifugal-type supercharger）、渦卷式機械增壓器（Scroll-type supercharger）、電子控制元件（Electronic Control Unit；ECU）、发动机控制器、燃油噴射、燃油泵浦（Fuel pump）、油箱（Fuel tank）、機械增壓器、渦輪增壓器、汽油直接噴射、柴油直接噴射（Diesel Direct Injection；DDI）、渦輪增壓直接噴射（Turbocharged Direct Injection；TDI）、可變幾何渦輪增壓（Variable Geometry Turbocharger；VGT）、渦輪性能自動控制（Automatic Performance Control；APC）、雙渦輪（Twin-turbo）
+
+
+
+
+
+
+排氣
+
+排氣管（Exhaust pipe）、消音器、催化转换器、含氧感測器（Oxygen sensor）
+
+
+
+
+
+
+冷卻
+
+空氣冷卻（Air cooling）、防凍劑、水箱（Radiator）、自動調溫器、中央冷卻器（Intercooler）、乙二醇（Ethylene glycol）
+
+
+
+
+
+
+起動
+
+起動（Starter）、火星塞、點火線圈（Ignition coil）、電池、铅酸蓄电池、燃料电池、分電盤（Distributor）、白金接點（Breaker points）、點火順序（Firing order）、火星塞點火（Spark-ignition）、電子安定器（Electrical ballast）
+
+
+
+
+
+
+其他
+
+平衡軸（Balance shaft）、加熱器（Block heater）、曲軸、曲軸箱（Crank Case）、曲軸箱蓋（Crankcase Cover）、汽門、汽門座（Valve Seat）、汽門導管（Valve Guide）、凸輪、凸輪軸、活塞連桿（Connecting rod）、燃燒室（Combustion chamber）、曲軸銷（Crank pin）、引擎爆震、壓縮比、曲軸感知器（Crank sensor）、气缸、汽缸體（Cylinder Block）、汽缸蓋、汽缸套（Cylinder Sleeve）、汽缸墊片（Cylinder gasket）、汽缸蓋墊片（Cylinder Head gasket）、墊片（Gasket）、機油濾清器（Oil filter）、稀薄燃燒、汽門挺桿式（Over Head Valve；OHV）、頂上凸輪軸式、頂上雙凸輪軸式、活塞、活塞環（Piston ring）、活塞銷（Piston Pin）、搖臂（Rocker arm）、旁道閥（Bypass Valve）、機油、油泥（Oil sludge）、合成油（Synthetic oil）、礦物油、全合成油（Full-Synthetic Oil）、挺桿（Tappet）、正時皮帶（Timing belt）、正時記號（Timing mark）、積極式曲軸箱通風（Positive Crankcase Ventilation；PCV）、汽油蒸發器控制（Evaporative Emission Control；舊稱EEC；現稱EVAP）、排氣再循環（Exhaust Gas Recirculation;EGR）
+
+
+
+
+
+
+
+
+
+內部設備
+
+
+
+
+儀表
+
+油錶（Fuel gauge）、時速錶（Speedometer）、轉速錶（Tachometer）、里程錶（Odometer）、全球定位系統、抬頭顯示器
+
+
+
+
+
+
+控制
+
+方向盤、排擋桿（Gear stick）、手煞車（Hand brake）、節汽門（Throttle）
+
+
+
+
+
+
+防盜
+
+鎖、鑰匙、喇叭
+
+
+
+
+
+
+座位
+
+扶手（Armrest）、長型座椅（Bench seat）、桶型座椅（Bucket seat）、兒童安全座椅
+
+
+
+
+
+
+安全
+
+安全气囊、座位安全带、兒童安全鎖（Child safety lock）
+
+
+
+
+
+
+其他
+
+空氣調節、汽車音響（Car audio）、太阳能天窗（solar window）、汽车防盗装置（antithief）、車用電話（Car phone）、中控台（Center console）、儀表板、置物箱（Glove compartment）、電動窗（Power window）、點煙器
+
+
+
+
+
+
+
+
+
+傳動
+
+
+
+
+車輪
+
+車輪蓋（Hubcap）、鋼絲輪圈（Steel wheels）、合金輪圈（Alloy wheels）、鋁合金輪圈（Aluminium alloy wheel）、鎂合金輪圈（Magnesium alloy wheel）
+
+
+
+
+
+
+輪胎
+
+輻射層輪胎（Radial-ply Tire）、斜紋層輪胎（Bias-ply Tire）、斜向交織層輪胎（Bias Belted Tire）、防爆輪胎（Run-flat tire）、光頭輪胎（Slick tire）、胎壓偵測系統（Tire Pressure Monitoring System；TPMS）、内胎（Inner Tube）、雪胎、雪链
+
+
+
+
+
+
+变速器
+
+变速器、自动变速器、手動變速器、手自排變速箱、半自動變速箱、離合器、萬向接頭、差速器、傳動軸（Driveshaft）、排擋桿（Gear stick）、扭力轉換器（Torque converter）、太陽齒輪（Sun Gear）、行星齒輪、環形齒輪（Ring Gear）、鎖定差速器（Locking differential）、限滑差速器（Limited Slip Differential；LSD）、無段自動變速箱、變速箱控制單元（Transmission Control Unit；TCU）
+
+
+
+
+
+
+轉向
+
+阿克曼轉向幾何、防鎖死煞車系統、牽引力控制系統（Traction Control System；TCS）、外傾角、後傾角、內傾角、前束角（Toe angle）、轉向前展（Toe-out on Turn）、扭力轉向（Torque steering）、轉向過度、轉向不足、齒條齒輪式（Rack and pinion）、循環滾珠式（Recirclulating Ball and Nut）、動力方向盤
+
+
+
+
+
+
+懸吊
+
+輪軸、彈簧、圈狀彈簧（Coil spring）、片狀彈簧（Leaf spring）、雙A臂懸吊系統、电子稳定程序（Active Stability Control；ASC）、獨立懸吊系統、液壓懸吊系統（hydrolastic suspension）、麥花臣懸吊系統（MacPherson suspension）、多連桿懸吊系統（Multi-link suspension）、半拖曳懸吊系統（Semi-trailing arm suspension）、扭力軸懸吊系統（Torsion beam suspension）、大王銷（Kingpin）、橫拉桿（Panhard rod）、減震筒（Shock absorber）、防傾桿（Stabilizer bar）、差速器、拖曳臂（Trailing arm）、非彈簧負荷重量（Unsprung weight）
+
+
+
+
+
+
+刹车
+
+防鎖死煞車系統、电子制动力分配系统、煞车力道輔助系統（Brake Assist System；BAS）、碟式煞车、鼓式煞车、液壓煞车（Hydraulic Brake）、空氣煞车（Air Brake）、動力煞车（Power Brake）、引擎煞车（Engine Brake）、行車煞车（Service Brake）、驻車煞车（Parking Brakes）、緊急煞车（Emergency Brake）、手煞车（Hand Brake）、煞车片、煞车油（Brake Fluid）
+
+
+
+
+
+
+
+
+
+配件與百貨
+
+
+
+
+外部裝飾
+
+警示桿、裝飾天線、貼紙、防撞條、side mouldings、
+
+
+
+
+
+
+內部裝飾
+
+眼鏡夾（glassess holder）、零錢夾（coin holder）、指南球（compass）、杯架（drink holder）、手機架（phone holder）、面紙套（tissue holder）、化妝鏡、駕駛座遮陽板、駕駛座收納、萬用袋、車用地墊（Mats）、避光墊、窗簾、靜電貼、前座遮陽擋、椅墊、椅套、寵物用椅套、護腰枕、頭枕、手套箱
+
+
+
+
+
+
+電裝品
+
+水溫錶、油溫錶、電壓錶、點菸器、抬頭顯示器（HUD）、行車紀錄器、事故資料紀錄器、車用吸塵器、車用多孔電源插頭、車用電源變壓器、
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4008148-5
+NDL: 00561068
+
+
+
+
+
+
+
+
+
+
+
+
+分类：汽车工程技术汽車制動科技隐藏分类：自2015年1月部分地区的观点拒绝当选首页新条目推荐栏目的条目自2015年1月缺少来源的条目缺少文件的条目本地链接的维基共享资源分类与Wikidata不同包含规范控制信息的维基百科条目

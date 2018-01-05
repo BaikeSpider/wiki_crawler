@@ -692,3 +692,127 @@ crawl failed 1990 en-United States Federal Sentencing Guidelines https://en.wiki
 美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
 crawl failed 1990 en-Drug policy of the United States https://en.wikipedia.org/wiki/Drug_policy_of_the_United_States
 美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2298 en-Political status of Puerto Rico https://en.wikipedia.org/wiki/Political_status_of_Puerto_Rico
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2299 en-Purple America https://en.wikipedia.org/wiki/Purple_America
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2306 en-Agriculture in the United States https://en.wikipedia.org/wiki/Agriculture_in_the_United_States
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2306 en-United States federal budget https://en.wikipedia.org/wiki/United_States_federal_budget
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2307 en-Social programs in the United States https://en.wikipedia.org/wiki/Social_programs_in_the_United_States
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2308 en-Taxation in the United States https://en.wikipedia.org/wiki/Taxation_in_the_United_States
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2310 en-Unemployment in the United States https://en.wikipedia.org/wiki/Unemployment_in_the_United_States
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2405 en-United Nations Military Observer https://en.wikipedia.org/wiki/United_Nations_Military_Observer
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2405 en-Peacebuilding Commission https://en.wikipedia.org/wiki/Peacebuilding_Commission
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2405 en-United Nations Security Council Counter-Terrorism Committee https://en.wikipedia.org/wiki/United_Nations_Security_Council_Counter-Terrorism_Committee
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2405 en-History of United Nations peacekeeping https://en.wikipedia.org/wiki/History_of_United_Nations_peacekeeping
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2406 en-Unified Task Force https://en.wikipedia.org/wiki/Unified_Task_Force
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2425 en-NATO summit https://en.wikipedia.org/wiki/NATO_summit
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2425 en-NATO Operations https://en.wikipedia.org/wiki/NATO_Operations
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2426 en-North Atlantic Council https://en.wikipedia.org/wiki/North_Atlantic_Council
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2427 en-Allied Command Transformation https://en.wikipedia.org/wiki/Allied_Command_Transformation
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2427 en-NATO Parliamentary Assembly https://en.wikipedia.org/wiki/NATO_Parliamentary_Assembly
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2428 en-Chairman of the NATO Military Committee https://en.wikipedia.org/wiki/Chairman_of_the_NATO_Military_Committee
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2429 en-Supreme Allied Commander Transformation https://en.wikipedia.org/wiki/Supreme_Allied_Commander_Transformation
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2433 en-Army of the Czech Republic https://en.wikipedia.org/wiki/Army_of_the_Czech_Republic
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2434 en-Estonia Defence Forces https://en.wikipedia.org/wiki/Estonia_Defence_Forces
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2436 en-Military of Iceland https://en.wikipedia.org/wiki/Military_of_Iceland
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2436 en-Latvian National Armed Forces https://en.wikipedia.org/wiki/Latvian_National_Armed_Forces
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2436 en-Lithuanian Armed Forces https://en.wikipedia.org/wiki/Lithuanian_Armed_Forces
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2441 en-Slovak Armed Forces https://en.wikipedia.org/wiki/Slovak_Armed_Forces
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2441 en-Slovenian Armed Forces https://en.wikipedia.org/wiki/Slovenian_Armed_Forces
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2441 en-Military of Montenegro https://en.wikipedia.org/wiki/Military_of_Montenegro
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2441 en-Foreign relations of NATO https://en.wikipedia.org/wiki/Foreign_relations_of_NATO
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2441 en-Atlantic Treaty Association https://en.wikipedia.org/wiki/Atlantic_Treaty_Association
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2441 en-Euro-Atlantic Partnership Council https://en.wikipedia.org/wiki/Euro-Atlantic_Partnership_Council
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2442 en-Mediterranean Dialogue https://en.wikipedia.org/wiki/Mediterranean_Dialogue
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2442 en-Istanbul Cooperation Initiative https://en.wikipedia.org/wiki/Istanbul_Cooperation_Initiative
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2549 维基语录 https://zh.wikiquote.org/wiki/%E7%BE%8E%E5%9B%BD
+美國 https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B
+crawl failed 2561 en-List of U.S. states by elevation https://en.wikipedia.org/wiki/List_of_U.S._states_by_elevation
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2566 en-List of Governors of California https://en.wikipedia.org/wiki/List_of_Governors_of_California
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2567 en-List of lieutenant governors of California https://en.wikipedia.org/wiki/List_of_lieutenant_governors_of_California
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2571 en-List of United States Senators from California https://en.wikipedia.org/wiki/List_of_United_States_Senators_from_California
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2573 en-United States congressional delegations from California https://en.wikipedia.org/wiki/United_States_congressional_delegations_from_California
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2580 en-List of largest California cities by population https://en.wikipedia.org/wiki/List_of_largest_California_cities_by_population
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2582 en-List of the most populous counties in the United States https://en.wikipedia.org/wiki/List_of_the_most_populous_counties_in_the_United_States
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2605 en-John D. Sloat https://en.wikipedia.org/wiki/John_D._Sloat
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2614 en-Lieutenant Governor of California https://en.wikipedia.org/wiki/Lieutenant_Governor_of_California
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2614 en-Secretary of State of California https://en.wikipedia.org/wiki/Secretary_of_State_of_California
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2614 en-California Attorney General https://en.wikipedia.org/wiki/California_Attorney_General
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2615 en-California State Treasurer https://en.wikipedia.org/wiki/California_State_Treasurer
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2615 en-California Insurance Commissioner https://en.wikipedia.org/wiki/California_Insurance_Commissioner
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2615 en-California State Superintendent of Public Instruction https://en.wikipedia.org/wiki/California_State_Superintendent_of_Public_Instruction
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2630 en-Geography of California https://en.wikipedia.org/wiki/Geography_of_California
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2638 en-Owens Valley https://en.wikipedia.org/wiki/Owens_Valley
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2655 en-Economy of California https://en.wikipedia.org/wiki/Economy_of_California
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2710 en-Naval Postgraduate School https://en.wikipedia.org/wiki/Naval_Postgraduate_School
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2750 en-Claremont Colleges https://en.wikipedia.org/wiki/Claremont_Colleges
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2750 en-Claremont Graduate University https://en.wikipedia.org/wiki/Claremont_Graduate_University
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2752 en-Claremont McKenna College https://en.wikipedia.org/wiki/Claremont_McKenna_College
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2753 en-Scripps College https://en.wikipedia.org/wiki/Scripps_College
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2753 en-Pitzer College https://en.wikipedia.org/wiki/Pitzer_College
+加州 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E
+crawl failed 2920 en-hybrid electric vehicle https://en.wikipedia.org/wiki/hybrid_electric_vehicle
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 2929 en-Hybrid electric vehicle https://en.wikipedia.org/wiki/Hybrid_electric_vehicle
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 2935 de-Lohner-Porsche https://de.wikipedia.org/wiki/Lohner-Porsche
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 2938 de-Établissements Pieper https://de.wikipedia.org/wiki/%C3%89tablissements_Pieper
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 2946 en-Compressed air car https://en.wikipedia.org/wiki/Compressed_air_car
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 2995 功率 https://zh.wikipedia.org/wiki/%E5%8A%9F%E7%8E%87
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
