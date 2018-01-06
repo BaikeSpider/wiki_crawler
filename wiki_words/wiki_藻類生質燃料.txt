@@ -1,0 +1,327 @@
+藻類生質燃料
+
+
+
+
+
+本条目部分链接不符合格式手冊規範。跨語言链接及章節標題等處的链接可能需要清理。（2015年12月12日） 
+請協助改善此條目。參見WP:LINKSTYLE、WP:MOSIW以了解細節。突出显示跨语言链接可以便于检查。 
+
+
+
+
+
+
+
+
+本條目存在以下問題，請協助改善本條目或在討論頁針對議題發表看法。
+
+
+
+
+
+
+本条目可参照外語維基百科相應條目来扩充。（2013年3月26日） 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+
+
+
+
+沒有或很少條目链入本條目。（2013年3月26日） 
+請根据格式指引，在其他相關條目加入本條目的內部連結，來建構維基百科內部網絡。 
+
+
+
+
+
+
+
+
+
+
+
+錐形瓶中的“綠色”噴射機燃油是藻類製成的。
+
+
+藻類生質燃料（Algal biofuel）是以藻（Algae）作原料制成可以替代石化燃料的生質燃料。多國政府及私人公司已經投入資金研究減少其成本以使其能作商業應用。藻類燃料在燃燒時與石化燃料一樣會產生二氧化碳，但藻類在生長期間已在自然界吸收了二氧化碳，所以能達至減排二氧化碳的效果。
+
+
+
+目录
+
+
+1 優點及缺點
+2 燃料用途
+
+2.1 生質柴油
+2.2 生質丁醇
+2.3 航空燃料
+
+
+3 藻類養殖
+
+3.1 光生物反应器
+3.2 闭环系统
+3.3 开放池塘
+
+
+4 各国的藻類生質燃料
+
+4.1 欧盟
+4.2 美国
+4.3 其他国家
+
+
+5 参见
+6 參考資料
+
+
+
+優點及缺點[编辑]
+藻類生質燃料本身固然能達至減排二氧化碳的效果，而且能被生物降解，對環境影響相當少。就算相比其他生質燃料，藻類生質燃料也有不少好處。藻類的生產不會佔用適合耕作的地方，所需水資源非常少，[1][2]所用的水可以是海水又或廢水。生產所需的土地面積相當少，美國能源部估計，如果以藻類生質燃料替代石化燃料，只需要39,000km2的土地作生產用就能足夠全美國使用，只佔全美國0.42％面積，[3]又或小於全美國1/7面積的玉米農地。[4]而且藻類生質燃料的用途相當廣泛，可以取代相當多的石化燃料的用途。
+但藻類生質燃料的成本相當高，約是其他生質燃料的10-1000倍。
+燃料用途[编辑]
+藻類的脂類及油性部份在提取後可以經過轉化程序變成生質柴油，而餘下的碳水化合物成份可經發酵過程制成乙醇和生物丁醇。[5]
+生質柴油[编辑]
+美國能源部在1978年－1996年曾經進行一個名為水生物種計畫（英语：Aquatic Species Program）與微生藻類相關的研究，結論是生質柴油是目前唯一的方法能夠產生足夠的燃料以取代柴油滿足全球的需求。[6]而相對其他生產生質燃的方法，藻類生質燃料是較為可行的方法。因為藻類浮在營養劑生長，無需生長出結構性的組織（如纖維）以作支撐用，又吸收營養較快生長速度非常高，而且能被轉化成燃料的質量比例也高不少（藻類達60%，而大豆只得2－3%），[7]藻類的產量可達每年每km24M7 m3，（烏桕也只得650 m3）。而微藻類能被大量高速生產，其生成的油份可轉化成為生質柴油給汽車用。
+生質丁醇[编辑]
+以太陽能作能源的生物煉製能生產藻類或矽藻類，從而可轉化出丁醇。這種燃料的能量度只比汽油低10%，大於乙醇或甲醇。大部份的汽油內燃機都可以在沒有修改的情況下直接以丁醇作燃料。若與汽油混合一起使用，可得到比變性乙醇或E85（英语：E85）乙醇汽油（乙醇85%與15%汽油混合）更好的性能及耐腐蝕性。
+航空燃料[编辑]
+由於航空業用的燃料，航空燃料的價格上升，迫使業界對以藻類生質燃料作航空用燃料作研究，例如IATA國際航空運輸協會支持研究、發展及推廣使用藻類生質燃油，[8]期望在2017年其會員中藻類生質燃料能佔10%用量。 荷蘭航空、新西蘭航空[9]、漢莎及維珍航空[10]四間航空公司已在試驗性使用。
+美國的國防高等研究計劃署（DARPA）在2010年宣佈美軍快將大量採用由藻類轉化而成的航空燃料，成本為每加侖小於3美元。期望在2013年產量能達至每年5千萬加侖，進而使得成本能降至石化燃料的水平。生產計劃由SAIC及General Atomics兩家公司執行。[11]
+藻類養殖[编辑]
+参见：微藻的培養孵化場
+藻類在每單位面積相比较于傳統的作物，如油菜、棕櫚、大豆和麻風樹等，可以產生高達300倍以上的油。由於藻類平均收穫週期為1到10天，它們的養殖允許在很短的時間框架内，和每年作物相關的收成（Chisti 2007）相比，这是不同的策略考量。
+藻類可以生長在不適合於其他作物的陸地上，例如，乾燥的土地，土地過度鹽漬土，遭受乾旱的土地。這最大限度地減少占用種植糧食作物的土地問題（Schenk et al. 2008），藻類比糧食作物可以生長快20至30倍。[12]
+光生物反应器[编辑]
+大部分的公司追求藻類生質燃料，都是采用把含有营养丰富的水泵入通过塑料或玻璃试管（称为“生物反应器”），暴露在阳光下（所谓的光生物反应器（英语：Photobioreactors）或PBR）。
+闭环系统[编辑]
+
+
+
+本章节需要扩充（2014年10月31日）
+
+
+开放池塘[编辑]
+
+
+
+本章节需要扩充（2014年10月31日）
+
+
+各国的藻類生質燃料[编辑]
+参见：en:List of algal fuel producers
+欧盟[编辑]
+美国[编辑]
+参见：en:Algae fuel in the United States
+其他国家[编辑]
+参见[编辑]
+
+
+可再生能源主题
+能源主题
+环境主题
+
+
+
+生物柴油
+海水溫差發電
+藻类学
+浮游植物
+碳中和
+Acetone-butanol-ethanol fermentation
+
+參考資料[编辑]
+
+
+^ Yang, Jia; Ming Xu, Xuezhi Zhang, Qiang Hu, Milton Sommerfeld, YongShen Chen. Life-cycle analysis on biodiesel production from microalgae: Water footprint and nutrients balance (PDF). Bioresources Technology. 2010, 10: 1016. （原始内容 (PDF)存档于2012-02-27）.  引文使用过时参数coauthors (帮助)
+^ Cornell, Clayton B. First Algae Biodiesel Plant Goes Online: 1 April 2008. Gas 2.0. 29 March 2008 [10 June 2008]. 
+^ Hartman, Eviana. A Promising Oil Alternative: Algae Energy. The Washington Post. 6 January 2008 [10 June 2008]. 
+^ Dyer, Gwynne. A replacement for oil. The Chatham Daily News. 17 June 2008 [18 June 2008]. 
+^ Biofuels from industrial/domestic wastewater. [11 June 2008]. 
+^ Biodiesel Production from Algae (PDF). Department of Energy Aquatic Species Program, National Renewable Energy Laboratory. [29 August 2006]. （原始内容 (PDF)存档于26 九月 2006）.  请检查|archive-date=中的日期值 (帮助)
+^ Tornabene, et al (1983), Lipid composition of nitrogen starved, green Neochloris oleoabundans
+^ Alternative Fuels. 
+^ Black, Richard. Biofuel trial flight set for 747. BBC News. 28 September 2007 [28 September 2007]. （原始内容存档于29 十月 2007）.  请检查|archive-date=中的日期值 (帮助)
+^ First biofuel flight touches down. BBC News. 24 February 2008 [24 February 2008]. （原始内容存档于29 二月 2008）.  请检查|archive-date=中的日期值 (帮助)
+^ Suzanne Goldenberg. Algae to solve the Pentagon's jet fuel problem. The Guardian (London). 13 February 2010. 
+^ McDill, Stuart. Can algae save the world – again?. Reuters. 10 February 2009 [10 February 2009]. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+生物能源
+
+
+
+
+
+
+生物燃料
+
+
+
+醇
+藻類生質燃料
+甘蔗渣（英语：Bagasse）
+巴巴苏棕榈油（英语：Babassu oil）
+丁醇燃料
+生物柴油
+生物氣體
+生物汽油（英语：Biogasoline）
+乙醇燃料
+
+纤维素
+混合（英语：Common ethanol fuel mixtures）
+
+
+玉米芯（英语：Stover）
+甲醇燃料（英语：Methanol fuel）
+秸秆
+木煤气
+已烹煮食用油
+
+食用植物油燃料（英语：Vegetable oil fuel）
+黃油脂膏
+回鍋油
+地沟油
+
+
+凤眼蓝
+
+
+
+
+
+
+
+
+
+
+
+食物能源作物
+
+
+
+大麦
+木薯
+葡萄
+麻
+玉米
+燕麦
+土豆
+油菜籽
+大米
+高粱
+大豆
+甘蔗
+糖用甜菜
+向日葵
+小麦
+甘薯
+
+
+
+
+
+
+
+
+非食物能源作物
+
+
+
+芦竹
+须芒草
+亚麻荠
+烏桕
+浮萍
+桐油树
+水黄皮
+巨芒（英语：Miscanthus giganteus）
+柳枝稷
+木柴
+
+
+
+
+
+
+
+
+技术
+
+
+
+生物转换（英语：Bioconversion of biomass to mixed alcohol fuels）
+生物质供热系统（英语：Biomass heating system）
+生物炼制（英语：Biorefinery）
+费托合成（F-T合成）
+工业生物技术
+颗粒燃料
+
+颗粒机（英语：Pellet mill）
+颗粒炉（英语：Pellet stove）
+
+
+热解聚（英语：Thermal depolymerization）
+
+
+
+
+
+
+
+
+概念
+
+
+
+纤维素乙醇商业化（英语：Cellulosic ethanol commercialization）
+生物燃料的能源含量（英语：Energy content of biofuel）
+能源作物（英语：Energy crop）
+能源森林业（英语：Energy forestry）
+能源投资收益（EROEI）（英语：Energy returned on energy invested）
+食物与燃料之争
+可持续生物燃料（英语：Sustainable biofuel）
+
+
+
+
+
+
+
+
+
+
+
+生物能分类
+能源主題
+可再生能源主題
+
+
+
+
+
+
+
+
+
+
+
+
+分类：生物燃料藻類可再生能源替代能源隐藏分类：含有过时参数的引用的页面引文格式1错误：日期自2015年12月連結格式不正確的條目自2013年3月需要從外語維基百科翻譯的條目需要從外語維基百科翻譯的條目自2013年3月缺少链入页面的条目含有多个问题的条目自2014年10月扩充中的条目所有扩充中的条目拒绝当选首页新条目推荐栏目的条目

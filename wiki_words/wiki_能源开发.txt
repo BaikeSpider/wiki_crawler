@@ -1,0 +1,551 @@
+能源發展
+
+
+
+
+
+本条目部分链接不符合格式手冊規範。跨語言链接及章節標題等處的链接可能需要清理。（2015年12月12日） 
+請協助改善此條目。參見WP:LINKSTYLE、WP:MOSIW以了解細節。突出显示跨语言链接可以便于检查。 
+
+
+
+
+
+
+
+
+本條目存在以下問題，請協助改善本條目或在討論頁針對議題發表看法。
+
+
+
+
+
+
+本条目需要擴充。（2013年8月14日） 
+请協助改善这篇條目，更進一步的信息可能會在討論頁或扩充请求中找到。请在擴充條目後將此模板移除。 
+
+
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。（2013年8月14日） 
+請邀請適合的人士改善本条目。更多的細節與詳情請參见討論頁。 
+
+
+
+
+
+
+
+
+
+能源開發
+
+
+
+
+
+
+
+
+在2010年全球能源示意圖
+來源: REN21: Renewables 2012 Global Status Report
+
+合計:      化石燃料;      可再生能源;      核能
+
+可再生能源:
+
+
+     生物質熱（英语：Biomass heating system）;      太陽熱能;      地熱能;      水力;      乙醇;
+
+
+     生物柴油;      生物质;      風能;      Geo-electric;
+
+
+     Solar PV;      Solar CSP;      海洋能
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+Total world primary energy production (quadrillion Btu)
+來源: International Energy Statistics
+
+
+
+     美國;      中國;      歐洲;      俄羅斯;      非洲;
+     中美洲和南美洲
+
+
+
+
+
+
+
+
+
+Estimated US Energy Use/Flow in 2011: 97.3 quads. Energy flow charts show the relative size of primary energy resources and end uses in the United States, with fuels compared on a common energy unit basis. (2012-10)
+(Lawrence Livermore National Laboratory. flowcharts; source)
+
+
+
+Compounds and Radiant Energy:
+     太陽;      核能;      水力;      風;      地熱;      天然氣;
+
+
+     煤炭;      生物質;      石油
+
+
+
+Producing Electrical Currents:
+     Electricity Generation
+Utilizing Effects Transmitted:
+     Residential, Commercial, Industrial, transportation
+     Rejected energy[note 1]      Energy Services
+
+
+
+
+
+
+
+能源开发（英语：Energy development）是为满足文明的各种需求而不断努力提供足够一次能源和二次能源的能量形式的过程。能源开发不但涉及到成熟技术的采用，同时也包括建立新的能源相关技术。在能源规划当中，主要的考虑事项包括资源枯竭、供应产量高峰（英语：Supply production peaks）、供应的安全性、成本、对于空气污染和水污染的影响以及相应的能源是否属于可再生能源。
+
+
+
+目录
+
+
+1 可再生能源
+2 化石燃料
+3 核能
+
+3.1 核裂變
+3.2 核聚變
+
+
+4 各種來源的成本
+5 可提高能源的利用效率
+6 能源傳輸
+7 能源儲存
+8 可持續性
+9 能源彈性
+10 能源未來
+11 参见
+12 註
+13 參考資料
+14 外部链接
+
+
+
+可再生能源[编辑]
+主条目：可再生能源和可再生能源商業化
+可再生能源通常被定义为能量来源于在人类时间量度里它们让大自然补充的能源，例如太阳光，风，雨，潮汐，波浪，地热等。[1]可再生能源取代了四个不同领域的传统燃料：发电，热水/供暖，汽车燃料和乡村（离网）电力服务。[2]
+化石燃料[编辑]
+主条目：化石燃料和哈伯特顶点
+化石燃料（主要的不可再生的化石）来源燃烧煤或烃类燃料，这是植物和动物的分解的遗体。有三种主要类型的化石燃料：煤炭，石油，和天然气。
+核能[编辑]
+主条目：核動力和en:Peak uranium
+核裂變[编辑]
+核聚變[编辑]
+各種來源的成本[编辑]
+可提高能源的利用效率[编辑]
+能源傳輸[编辑]
+能源儲存[编辑]
+主条目：储能技术
+可持續性[编辑]
+能源彈性[编辑]
+能源未來[编辑]
+参见[编辑]
+
+
+能源主题
+可再生能源主题
+核技术主题
+
+
+
+资源
+
+
+
+
+能源
+
+
+
+
+一次能源
+二次能源
+
+
+
+
+
+
+資源回收
+原材料
+材料科学
+背景輻射
+
+註[编辑]
+
+^ Also known as heat loss inefficiency
+
+參考資料[编辑]
+
+
+^ The myth of renewable energy | Bulletin of the Atomic Scientists. Thebulletin.org. 2011-11-22 [2013-10-03]. 
+^ REN21 (2010). Renewables 2010 Global Status Report 互联网档案馆的存檔，存档日期2010-11-16. p. 15.
+
+
+外部链接[编辑]
+
+（英文） RECaBS REcalculator 交互式可再生能量计算器 — 将可再生能源与传统能源进行比较
+（英文） 免费在线查阅美国能源部的300多份研讨会幻灯片：未来的替代能源（Alternative Future Energy）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+環境科技
+
+
+
+
+
+
+
+
+
+適用技術
+環境設計
+环境影响评价
+可持續發展
+永續設計
+
+
+
+
+
+
+
+
+
+
+
+污染
+
+
+
+空氣污染（排放標準（英语：Emission standard）、擴散模式）
+工業生態學
+固體廢物處理（英语：List of solid waste treatment technologies）
+污染物排放控制技术
+水（農業廢水處理（英语：Agricultural wastewater treatment）、工業廢水處理（英语：Industrial wastewater treatment）、污水處理、廢水處理技術、水淨化、截流站）
+
+
+
+
+
+
+
+
+可再生能源
+
+
+
+替代能源
+能源有效利用（英语：Efficient energy use）
+能源开发
+能量回收（英语：Energy recovery）
+燃料（替代燃料、生物燃料、碳中性燃料（英语：Carbon neutral fuel）、氫技術（英语：hydrogen technologies））
+可再生能源（商業化）
+可持續能源
+交通（電動載具、混合動力車輛）
+
+
+
+
+
+
+
+
+保育
+
+
+
+生育控制
+建築（綠色、自然、可持續建築（英语：Sustainable architecture）、新都市主義）
+保育生物學
+保育倫理
+生態林業（英语：Ecoforestry）
+環境維護
+環境補救（英语：Environmental remediation）
+綠色計算
+樸門
+資源回收
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+供電
+
+
+
+
+
+
+電學
+
+
+
+電功率
+高壓電
+直流電
+交流電（單相電
+三相電）
+功率因數
+电压源
+电流源
+電壓
+电流
+容量因子
+額定容量
+三相
+
+
+
+
+
+
+
+
+來源
+
+
+
+
+
+不可再生能源
+
+
+
+
+化石燃料發電
+
+煤
+天然氣
+石油
+油頁岩（页岩油、页岩气）
+
+
+核能
+可燃冰
+
+
+
+
+
+
+
+
+
+可再生能源
+
+
+
+
+水能
+風能
+太阳能
+地熱能
+海洋能（潮汐能、波浪能、海流能、海水溫差發電、海水鹽差能）
+生物質能
+
+
+
+
+
+
+
+
+
+
+
+技術
+
+
+
+
+
+發電
+
+
+
+
+发电机
+感應發電機（英语：Induction generator）
+微型發電
+热电联产（微型热电联产）
+虛擬電廠（英语：Virtual power plant）
+基本負載發電廠
+尖峰負載發電廠
+
+
+
+
+
+
+
+
+
+儲能
+
+
+
+
+抽水蓄能電站
+超級電容器
+儲氫（英语：Hydrogen storage）與燃料电池
+液流電池
+電網儲能
+飞轮储能
+壓縮空氣儲能（英语：Compressed air energy storage）
+儲熱（英语：Thermal energy storage）（低溫儲能（英语：Cryogenic energy storage））
+超導磁儲能
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+联合循环
+冷卻塔
+電力線通信
+智慧型電表
+朗肯循环
+超導體
+
+
+
+
+
+
+
+
+
+
+
+輸電
+
+
+
+輸電網路
+輸電塔（英语：Transmission tower）
+高壓直流輸電
+智慧電網
+超級電網
+變電所
+变压器
+电线杆
+分散式發電
+電壓驟降
+停電（分區輪流供電（英语：Rolling blackout））
+
+
+
+
+
+
+
+
+政策
+
+
+
+生態稅
+能源補貼（英语：Energy subsidies）
+可再生能源比例標準
+可再生能源証書
+可再生能源商业化
+化石燃料淘汰
+節約能源
+淨計量電價
+上網電價補貼政策
+潔淨電力計畫（英语：Clean Power Plan）
+
+
+
+
+
+
+
+
+
+
+
+主題：能源
+可再生能源
+可持續發展
+分類：電力分配
+發電方式
+發電站技術
+
+
+
+
+
+
+
+
+
+
+
+
+分类：能源科学能源政策能源开发技术开发隐藏分类：Webarchive模板wayback链接自2015年12月連結格式不正確的條目自2013年8月扩充中的条目自2013年8月需要专业人士关注的页面含有多个问题的条目

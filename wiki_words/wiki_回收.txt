@@ -1,0 +1,1342 @@
+資源回收
+
+
+「垃圾回收」重定向至此。關於計算機科學中的記憶體管理機制，詳見「垃圾回收 (計算機科學)」。
+
+
+
+
+
+
+資源回收再利用國際標誌，有时加注环保3R
+
+
+资源回收再利用（或循环再造）是指收集本来要废弃的材料，分解再制成新产品，或者是收集用过的产品，清洁、处理之后再出售。相对于“传统”垃圾遗弃，回收可以节省资源、降低温室气体排放（如对比塑料生产[1][2]）。资源回收能预防浪费有潜在利用价值的资源、削减原料消耗，由此减少：能量消耗、空气污染（自垃圾焚烧）和水污染（自堆填）。
+现代废物处理中，回收是一关键成分，是环保3R“Reduce, Reuse, and Recycle”中的最后一个。
+回收有一些ISO标准，如塑料废品的ISO 15270:2008、回收作业环境管理控制的ISO 14001:2004等。
+可回收材料包括许多玻璃、纸、铝、柏油、金属、塑料、轮胎、织物和电子产品。这些材料的来源可以分为事业废弃物与一般废弃物。可降解或其它生物降解垃圾有厨余等都可以回收。[2]可回收材料既可以送到回收站，或是放到路边，然后整理清洁，送入指定地点在加工。
+从严格意义上讲，所回收的材料应该可以供应同样的材料，如用过的办公纸张可以做成新的办公纸张，用过的聚苯乙烯泡沫可以做成新的聚苯乙烯泡沫。然而，这通常费钱费力（相对于从原料或其它材料制作而言）。因此许多“回收”物品或材料会再利用，制作不同的材料（如纸板）。其它回收形式包括根据价值萃取某种材料（如从电池里取铅、从印制电路板里取黄金） 或根据危险污染提取某种材料（如从温度计或自动调温器里取汞）。
+
+
+
+目录
+
+
+1 历史
+
+1.1 起源
+1.2 第二次世界大战
+1.3 战后
+
+
+2 立法
+
+2.1 供给
+2.2 指令
+
+
+3 回收品
+
+3.1 质量
+
+
+4 消费废品回收
+
+4.1 收集
+
+4.1.1 路边
+4.1.2 收购站
+
+
+4.2 分拣
+
+
+5 工业废品回收
+
+5.1 电子废品回收
+5.2 塑料回收
+
+
+6 回收编码
+7 经济影响
+
+7.1 成本效益分析
+7.2 交易
+
+
+8 公共参与率
+9 各地政策概要與發展
+
+9.1 台灣
+9.2 香港
+9.3 澳門
+
+
+10 批评
+
+10.1 能源与材料流动
+10.2 成本
+10.3 工作环境
+10.4 环境影响
+10.5 可能的收入损失与社会成本
+
+
+11 資源回收分類
+12 参考文献
+13 更多阅读
+14 外部連結
+15 参見
+
+
+
+历史[编辑]
+
+
+
+
+美国二战时期倡导回收的海报
+
+
+起源[编辑]
+回收是人类历史上常见的活动，早在公元前400年就有关于柏拉图倡导的记录。考古研究发现古时资源稀缺时，居家垃圾会变少（如灰烬、破损工具和陶器），暗示在新材料不足时更多废品被回收。[3]
+欧洲在工业革命前已经从事废铜和其它金属的回收，经过再冶炼后重新使用。[4]有关纸张回收的最早记录出现在1031年，此时日本商店出售再生纸张。[5][6]在不列颠，燃烧木材和煤炭的灰尘由 “垃圾收集员”回收，进行下降性循环再利用，用于制砖底料。这种回收的主要动力是经济利益（使用回收来的炉料代替新进的原料）以及人口不断稠密的地区缺乏公共废品处理所致。[3]1813年，本杰明·劳尔（Benjamin Law）在约克郡巴特利研发了将破布做成再制呢绒过程。该材料结合了回收纤维和新羊毛。西约克郡巴特利和迪斯伯里粗呢工业从十九世纪早期持续到1914年左右。
+工业革命刺激人们寻求便宜的材料。除了破布，废旧金属也能够再造，比买新原料便宜。十九世纪，铁路买卖废旧金属，二十世纪早期的钢铁和汽车工业也购买废旧金属。小摊贩收集城市街头巷尾的废旧极其、锅碗瓢盆，从二手货中收集金属售出。第二次世界大战时，数以千计的小贩穿梭在美国城市街头，利用市场经济回收产品，进行工业再生产。[7]
+1800年左右，不列颠和爱尔兰的一些饮料厂商对回收来的瓶子给予补偿，如怡泉汽水。[8]1884年，瑞典官方回收系统对旧瓶子立法予以补偿，铝制瓶子为1982年。法律要求根据类型不同，饮料瓶子回收率要在84-99%左右，玻璃瓶子平均可以在用20次。
+
+
+
+
+二战不列颠海报
+
+
+第二次世界大战[编辑]
+十九世纪末新兴的化工业发明了新材料（如1907年人造树胶），能变废为宝。常言道，巧妇难为无米之炊，但1921年美国的Arhur D. Little出版了《无米难不倒巧妇》，用研究证实“化学普遍应用，进入商业，产生了新价值。达到目标有更新更好的路了。”[9]
+在整个二战期间，回收都十分重要。战时，财政紧缺，重要材料不足，各国不得不反复利用物资，回收材料。[10]由世界大战和其它巨变导致的资源紧缺极大地刺激了回收事业。[11]战争的残酷卷走了大多数可用资源，老百姓那里所剩无几。[10]大多数家庭不得不回收垃圾，寻求一切可寻求的物资。回收材料意味着更多补给，意味着离胜利又近了一步。[10]各国政府大规模动员，推出了二战家庭前线，敦促人民以爱国之名捐献金属和衣物。
+战后[编辑]
+由于能耗成本上升，对回收的投资在七十年代大增。[12]废铝回收所需能耗只有开采新矿的5%；玻璃、纸张和其它金属的相对能耗也很低。[13]
+虽然电子消费品，如电视在二十年代开始流行，但直到1991年初才听说有回收这一事。[14]瑞士首次对电子产品进行回收，从最初的旧冰箱到后来的包罗万象。[15]许多国家没有能力应对电子废品的技术或是该电子产品有毒有害。他们随即将这些问题转嫁给没有环境保护法的发展中国家。这样做是图便宜，比如在美国回收电脑显示器的成本比在中国的高10倍。在发现回收电子废品能提取铜、银、铁、硅、镍、黄金后，亚洲对电子废品的需求增加了。[16]2000年，电子设备的销量和废品量持续增长：2002年，欧盟电子废品增长最快。[17]这导致现代化自动化设施投资兴建以应对多余设备，在2003年严厉法律颁布后尤是。[18][19][20][21]
+2014年，欧盟废品回收工业占据世界的一半，超过60,000家公司和500,000名雇员产生的营业额达240亿欧元。[22]一些国家回收率为最低五成，最高为65%左右，2013年欧盟平均为39%。[23]
+立法[编辑]
+
+
+
+
+歐洲的回收機，丟入瓶子可以領錢
+
+
+供给[编辑]
+要使回收事业运转，就必须供应大量稳定的可回收物品。提供这样的供给有三种立法可选：强制性回收指令、瓶子法案和禁令。强制性回收法律为城市订立回收目标，形式通常是定时从城市垃圾中按比率回收某种材料。城市负责完成计划。[2]
+瓶子法案包括收购某种瓶子，常为塑料、玻璃和金属。当以这类瓶子为容器的产品售出时，会额外收一点押金。如果消费者将瓶子送回制定地点，就能得到返还。这个办法很成功，能达到八成回收率。[24]虽然效果不错，将收集成本从地方政府转嫁到产业和消费者身上在某些地方遇到强烈抵制。[2]另一种办法是制造方负责回收。在欧盟，WEEE要求消费电子生产方为回收方报销。[25]
+另一种增加回收品供给的办法是禁止遗弃某些物品，通常由用过的油、旧电池、轮胎等。这种方式的一个目的是禁止某项产品来创造经济。回收服务必须有足够配套，否则就是鼓励非法遗弃。[2]
+指令[编辑]
+保持并增进回收材料的需求可以立法辅助。方法有四种：最低回收量、利用率、收购政策和产品标注。[2]
+最低回收量和利用率通过强迫生产方在运营时使用回收品来直接刺激需求。成分指令明确要求新产品在一定比例上必须使用回收材料。利用率则更有弹性：厂商允许在运营某一过程中达到回收目标，甚至可以买卖回收品来换取信用额。反对意见认为两种方式都让人难以接受、上交报告注水并令行业失去必要的活力。[2][26]
+政府使用自己的购买力来增进回收需求，即“收购政策”。这些政策要么是“储备”，即将一定的开销单独用于回收，或“价格偏好”，即为回收提供政府预算。额外管理可以设立各个具体目标：如在美国，环保局负责收购废油、纸张、轮胎和建筑尾料。[2]
+最后的监管刺激办法是要求环保标注。当标注产品中回收品占比时，消费者就能做出更明智的选择。有足够议价能力的消费者能够选择更环保的产品，刺激生产者使用回收材料，间接推动环保需求。标准化环保标注若写明产品是如何回收的，则可对回收品供给产生积极效应。[2]
+回收品[编辑]
+
+
+
+
+碾碎某种啤酒瓶后回收的玻璃
+
+
+回收品是送入废品回收站或处理厂的原料，并将生产新产品。[27]这些物品用各种方式收集得到，送入厂房进行在加工以便生产新材料或产品。例如，收集来的塑料瓶可以再次使用，做成新的塑料颗粒。[28]
+质量[编辑]
+就长远的绿色经济和零排放来说，回收品质量是达到这一目标的主要挑战。大体上来说，回收品质量指的是收集来的原料中目标材料与非目标材料及其它不可回收材料的比率。[29]只有目标材料才可能被回收，大量的非目标材料和不可回收材料会降低回收品质量。[29]高比率的非目标和不可回收材料为“高质量”再生过程增加难度。如果回收品质量不佳，就更可能会降级回收，转入其它回收渠道，或者干脆填埋不要。[29]例如，再造透明玻璃产品严格禁止有色玻璃进入再熔炼过程。
+回收品质量不单有助于提升过程品质，也很有利于环保，减少消耗再利用，不让产品用过即堆填。[29]高品质回收也有助于经济增长，从收集来的废品中再萃取最大价值。[29]高质量回收品销售增收对地方政府、家庭和企业大大有利。[29]追求回收高质量可以增进消费者和企业对废品资源管理部分的信心，鼓励投资。
+回收供给链上的很多环节能影响回收品材质。[30]首先，废品制造者会在收集过程加入非目标或不可回收废品。这会影响回收过程最终质量，需要更多功夫来分类清理。[30]不同的收集系统会导致不同的污染水平。根据材质不同，需要不同的花费来分类，降低最终质量。[30]运输和压缩为分类增添难度。虽然技术进步、质量提升，但分类也不是百分百有效，还是会打折扣。[30]户外材料储藏可能会变潮，带来问题。再加工设施或许需要进一步减少非目标和不可回收材料。[30]回收过程中的每一步都会影响质量。
+消费废品回收[编辑]
+收集[编辑]
+
+
+
+
+香港的三色分类回收桶
+
+
+就来自公共废品流的回收品而言，有一系列不同的系统可以用于收集。这些系统处在公共便利相对政府便利与开支的取舍权衡之间。三种主要收集方式有“投放中心”、“收购中心”和“路边收集”。[2]
+路边[编辑]
+路边收集囊括了各色系统，主要区别在于回收品在何处分拣清理。主流为混合收集、单流收集和分拣。[2]废品通常由垃圾车搬运。
+
+
+
+
+澳大利亚堪培拉垃圾车收垃圾桶
+
+
+就混合收集而言，所有的回收品都和废品混在一起，然后在中心分拣厂分拣清洗。这导致废品数量庞大，而纸张则因受潮而难以处理。好处是城市不需要分类收集，不需要教育公众。回收品收集方便，因为中心处理厂会进行分拣。[2]
+就单流收集系统而言，所有回收品都混在一起，但与其它废品隔离。这大幅度降低了随后的清理，但需要教育公众哪些物品可以回收。[2][4]
+另一极端是分拣回收，每一材料在回收前都被清理分拣。这种方式在随后的分拣中要求最少，产生的回收品最纯，但需要额外的营运成本来分拣材料。同时，配套的公共教育要求很高，以便避免回收品污染混杂。[2]
+分类回收是常用的方式，以避免分拣时产生的高额成本。先进的分拣技术能够降低开支，使得一些地区采取了混合分类收集方式。[4]
+收购站[编辑]
+收购站的不同之处在于付费收购干净的回收品，对供给提供激励。处理后的材料会被出售。如果效益不错，就能降低温室气体排放。如果效益不好，就会增加温室气体排放。政府补助很重要。1993年，据美国废品回收协会调查，处理一吨材料平均成本为50美元，销售价格仅为30美元。[2]
+在美国，混合回收品每吨价格为2011年180美元、2015年80美元、2017年100美元。[31]
+投放中心需要丢废品人将回收品带到那里，投放中心可以是固定地点、临时地点或是处理厂。这是最简便的收集站，但收集数量不足，欠缺稳定性。
+分拣[编辑]
+
+
+播放媒体
+
+
+回收分拣处理厂
+
+
+当混合回收品收集好，就会送入回收厂，不同的材料必须再被分拣。一系列的过程涵盖自动处理，比如将整车材料一个小时内分拣完毕。[4]现在，一些厂子可以自动分拣材料，即单流回收。在厂房里，各种材料，如纸张、各种塑料、金属、食物残渣、电池会被分门别类。[32]这些厂子能使附近地区回收率提高三成。[33]
+首先，混合回收品会从车上卸载，送入传送带。大型瓦通纸和塑料袋会被手动分拣，以防堵塞机器[4]
+
+
+
+
+预先分拣的玻璃和塑料瓶，波兰
+
+
+随后，自动机械，如圆盘筛和空气分级器按重量分拣回收品，将较轻的纸张塑料从较重的玻璃金属中分拣出来。纸板被分离取出，常见的塑料，如PET（#1）和高密度聚乙烯（#2）被收集。这种分离过程通常是人工操作，但在一些分拣中心改为机器自动化：光谱扫描仪根据吸收波长来区分不同种类的纸张和塑料，并将各个材料送入响应渠道。[4]
+高强磁铁则用来分拣含铁金属，如钢铁和罐头。 有色金属则由涡电流射出，即旋转的磁场在铝罐周围引导出电流，在罐子里生成涡电流。这个涡电流被大磁场推射出去，将罐子从回收品里排出来。[4]
+最后，玻璃依照颜色分拣：棕色、褐色、绿色或无色。这既可手动人工，[4]或通过自动机器分辨颜色。小于10毫米（0.39英寸）的玻璃碎片不能自动分拣，而是归为“玻璃精粒”。[34]
+食品包装袋不应含有任何有机物质（若有，应该归入生物降解垃圾或进行填埋[35]）。就其中的残余，一些包装袋需要进行清洗。[36]
+工业废品回收[编辑]
+
+
+
+
+等待处理的橡胶轮胎碎片
+
+
+虽然许多政府项目专注于家庭废品回收，但不列颠64%的废品来自工业。[37]工业上许多回收项目为成本效率回收。无处不在的纸板包装使得纸板成为常见的回收品，如零售店、仓库及批发店常常会用到包装箱。其它行业则根据废品材质应对某一专项回收。
+玻璃、木材、木浆和造纸都直接面对回收材料；然而废旧轮胎也可以由独立轮胎销售商收集回收盈利。
+金属回收比率不高。2010年，联合国环境署国际资源专家委员会出版报告，分析社会金属库存[38]及回收率。[38]委员会报告称在二十和二十一世纪金属用量增加，导致金属存量从地下转为地上社会中的各种用品。例如，美国铜使用量从1932年的每人73千克增至1999年的每人238千克。
+报告作者们发现，金属能够回收，这样社会上使用的金属就可以视为地上矿山（"城市采矿"一词由此而来[39]）。然而，他们发现许多金属回收率很低。报告提醒道许多稀有金属被用于如手机、混合动力汽车的电池组、燃料电池等，因回收率太低将无法满足未来技术供给。
+军队也回收一些金属。美国海军舰船废弃项目会拆船来回收钢材。舰船也可以沉下去做人工鱼礁。铀是十分致密的金属，在军事和工业上比铅和钛都要好。核武器及核反应堆中用过的铀叫做贫铀，被美国军队各部门使用，加在破甲弹上。
+建筑工业也可以回收混凝土和老旧道路，销售废品盈利。
+一些行业，特别是可再生能源和太阳能光伏技术，会抢在废品成堆前积极设立回收方案，预期未来需求将会大幅增长。[40]
+塑料回收更加困难，大多数方案达不到质量要求。回收聚氯乙烯常为下降性循环，即回收材料只能做出相对低等级的产品。新的方式能够维持质量，并在2012年伦敦奥运会之后使用。[41]
+电子废品回收[编辑]
+主条目：废电脑回收技术
+
+
+
+
+回收芯片
+
+
+电子垃圾问题越来越严重，据美国国家环境保护局数据，全球每年有2000-5000万吨电子垃圾。电子垃圾也是欧盟增长最快的废品流。[17]许多回收方并不积极。运货驳船可汗海号（Khian Sea）曾将1.4万吨有毒垃圾倒在海地，巴塞尔公约随后禁止向欠发达国家输送有毒废品。他们创立了e-Stewards证书来确保回收方对环境负最高责任，帮助消费者进行识别。这些努力与欧盟的废电子电机设备指令及美国全美电脑回收法一道阻止有毒化学品进入水域和大气。
+在回收过程中，电视、显示器、手机和电脑常常进行检测，以便重复使用或修复。如果不能再用且劳动力足够便宜，就会拆解有价值零部件。其它零部件则会粉碎到10厘米（3.9英寸）左右大小，并人工分拣有毒电池和电容。剩余部件会进一步粉碎到10毫米（0.39英寸）大小颗粒，在磁场下收取含铁金属。涡电流排出有色金属，由离心机或振荡板按密度分拣。贵金属可以用酸来分拣，熔炼成锭。其余的玻璃和塑料碎片按密度分拣再处理。电视机和显示器必须人工分解，从CRT上去除铅、从LCD上去除汞。[42][43][44]
+塑料回收[编辑]
+塑料回收是将塑料碎片或废品再生的过程，将其再加工成有用的产品，有时与原先的完全不同。例如，塑料饮料瓶可以熔化做成椅子或桌子等。[45]
+有时，塑料可以再熔化成为新的塑料材料。例如，PET水瓶可以转化为聚酯来做衣服。缺点是聚合物分子重量会变，每次熔化都会使杂质增多。
+一些聚合物可以转化为单体。例如，PET可以用醇和催化剂处理，生成二烷基酯。对苯二甲酸酯可以和乙二醇生成新的聚酯。
+另一种裂解聚方式可以将各种聚合物转化为石油。这种方式几乎囊括所有聚合物，包括热固性聚合物，如硫化橡胶轮胎和羽毛中的生物聚合物及其它农业废料。类似自然石油，这种化学产物可以用作燃料或炉料。美国密苏里州加拉太有厂房使用RESEM技术[46]，将火鸡废料作为原料。气化过程也有相似之处，但不会生成聚合物，技术上不算回收。
+塑料裂解可以转化为石油基废液。如下是适合裂解的塑料原料：
+
+混合塑料（高密度聚乙烯、低密度聚乙烯、聚乙烯、聚丙烯、尼龙、聚四氟乙烯、聚苯乙烯、ABS树脂、纤维增强塑料等）
+来自废纸厂混合的塑料
+多层塑料
+
+回收编码[编辑]
+主条目：国际通用资源回收编码
+
+
+
+
+产品上的回收编码
+
+
+回收编码系统的开发是为了满足回收方需求，为厂方提供统一系统。1988年，塑料行业通过其协会开发了塑料回收编码[47]由于市政回收系统通常回收如瓶子罐子等包装，塑膠分類標誌在居家常见的瓶子罐子上进行标识。[48]
+塑料产品上印有数字1-7来区分种类。第1种是聚对苯二甲酸乙二酯，常见于汽水瓶。第2种是高密度聚乙烯，常见于硬塑料，如奶瓶、洗衣液桶和塑料盘子。第3种是聚氯乙烯，包括洗发水瓶、浴帘、呼啦圈、信用卡、线套、医疗用具、护墙板和管道。第4种是低密度聚乙烯，常见于购物袋、可压缩瓶子、大手提包、衣物、家具和地毯。第5种是聚丙烯，有糖浆瓶子、吸管、特百惠和一些汽车零件。第6种是聚苯乙烯，有盛肉托盘、鸡蛋盒、蛤壳包装和光盘盒。第7种为其余类别，包括防弹材料，大桶水瓶和墨镜。[49]标注回收编码并不意味着材料可以回收，而是解释材料是什么。回收第1、2种塑料最为常见。
+经济影响[编辑]
+就回收的经济与环境净收益对比成本上，批评者之间存在争议，认为回收支持者常因确认偏误而搞砸事情。具体来说，批评者认为许多成本和能耗花在了收集和运输上，虽然生产上有所节省，但毕竟打了折扣，甚至入不敷出。同样，回收工业创造的岗位不如伐木、采矿和其它生产岗位。像纸浆等材料只能回收数次，随后材料降解，不能再回收利用。[50]
+2015年5月，国家废物回收协会报告称回收和废品对俄亥俄州的经济影响为67亿美元，雇佣1.4万人。[51]
+成本效益分析[编辑]
+
+回收对环保的影响[52]
+
+材料
+节省能源
+减少空气污染
+
+
+铝
+95%[2][13]
+95%[2][53]
+
+
+纸板
+24%
+ —
+
+
+玻璃
+5–30%
+20%
+
+
+纸张
+40%[13]
+73%[54]
+
+
+塑料
+70%[13]
+ —
+
+
+钢铁
+60%[4]
+ —
+
+
+就回收的经济效率而言存有争议。据称[誰說的？]将1万吨废品填埋能创造6份工作，但回收1万吨废品会创造36份工作。然而，额外创造出的工作在成本效率上没有考证。据美国回收经济信息研究，美国有超过5万个回收部门，共雇佣了100多万人。[55]纽约市称回收项目会“耗尽城市”，但两年后纽约市领导意识到有效的回收系统能节省2000多万美元。[56]地方政府常常关注回收项目的财政好处，主要对应的是降低堆填成本。[57]据《经济学人》称，丹麦技术大学的一项研究发现83%的案例中回收是处理家庭垃圾最高效的方式。 [4][13]然而，丹麦环境评估研究院2004年的一份评估却认为处理饮料容器，甚至是铝制品的最有效方式是焚烧。[58]
+财政效率与经济效率分开来算。对回收的经济分析没有囊括经济外部性，即个体在交易之外积累的无法估算的成本和效益。例子有降低空气污染和焚烧时温室气体排放、减少堆填时渗出的有害废物、减少能源和资源消耗，从而减少采矿和伐木时对环境的破坏。在已知4,000多种矿藏中，常见的只有几百种。[59]以目前的消耗速度来看，已知的磷储备将在下一百年内耗尽。[60][61]若没有如税收或补贴等方式将外部性内化，商业会继续无视这些社会成本。[來源請求]为了使这些非财政效益纳入经济考虑，有人倡导立法来增加回收材料的需求。[2]美国国家环境保护局赞成回收，称回收能够在2005年时有效降低全美二氧化碳排放净4900万吨。[4]在大不列颠，废品及资源项目称大不列颠的回收努力每年减少二氧化碳排放1000-1500万吨。[4]在人口密度高，有规模经济的地区里，回收更加有效。[2]
+回收若要在经济上可行、环保上有效，就得满足一些条件。这包括足够的回收品、从废品流中搜集回收品的系统、附近能够进行处理工厂及对再生产品的潜在需求。后两个条件常常被忽视：没有工厂和市场，回收不圆满，充其量不过是“收集”罢了。[2]
+自由市场经济学家朱利安·西门（Julian Simon）称：“社会有三种办法组织废品处理：一、指令；二、税收和补贴；三、个人与市场”。今天，经济思想亦是三种办法的延续。[62]
+弗兰克·阿克曼（Frank Ackerman）赞成政府干预并提供回收服务。他认为回收效益无法由传统的放任经济量化。艾伦·赫斯考维茨（Allen Hershkowitz）支持干预，称公共服务等同于教育和政策。他认为制造方应该在废物处理上承担更多责任。[62]
+保罗·卡尔克特（Paul Calcott）和玛格丽特·沃尔斯（Margaret Walls）提倡第二种方式。押金回退和小额补偿能够刺激回收，不至于无节制地倾弃。托马斯·C·凯纳曼（Thomas C. Kinnaman）认为堆填税能够刺激消费者、公司或组织更多回收。[62]
+大多数自由市场思想家对补贴和干预不屑一顾，认为这不过是浪费资源。特里·安德森（Terry L. Anderson）和唐纳德·李尔（Donald Leal）认为所有的回收项目应该交由个体运作，这样只有当回收剩下的钱超过成本时才值得去做。丹尼尔·本杰明（Daniel K. Benjamin）称不过是浪费个人资源，降低社会财富。[62]
+交易[编辑]
+
+
+
+
+准备再熔炼的破车
+
+
+一些国家对未经处理的回收品买来买去。有抱怨称这些卖出去的回收品最终命运不得而知，可能是一埋了事。据报道，美国五之八成电脑本该回收，但其实没有。[63][64]报道称废品被非法卖入中国，拆解回收不过是为了挣钱，完全不顾工人的健康或环境的破坏。虽然中国政府对此禁止，但却无法根除。[65]2008年，回收废品价格下跌，在随后的2009年反弹。纸板在2004–2008年间平均价格为53英镑/吨，下跌至19英镑/吨，在2009年5月反弹至59英镑/吨。PET塑料平均价格为156英镑/吨，跌至75英镑/吨，尔后在2009年5月反弹至195英镑/吨。[66]
+有些地区难以利用或出口回收来的材料。这个问题在玻璃上最为普遍：英美两国进口大量绿色玻璃的酒瓶。虽然大量玻璃被回收，但在美国中西部以外并没有足够的红酒能够用掉再生材料。剩下的只能降级为建筑材料或是送入普通废料中去。[2][4]
+美国西北部也类似，由于当地和临近亚洲市场上的制浆厂太多，找不到回收报纸的市场。美国其它地方对旧报纸的需求则由波动。[2]
+美国一些州的项目叫回收银行（RecycleBank），付钱让人回收，并以减少堆填土地为由从当地政府领钱。项目使用单流过程，所有材料自动分拣。[67]
+公共参与率[编辑]
+能够增进回收率的改变包括：
+
+单流回收
+廢物徵費
+
+“在1960至2000年间，世界塑料树脂产量增加了25倍，但回收不足5%。”[68]:131许多研究专注于回收行为和策略以鼓励社区参与。但有意见称[69]回收行为并不自然，因为这需要专注，从长计议，而人类更多时候只关心眼前的事。要克服这样的惰性，最好采用社会压力来驱使。但最近的研究认为社会压力难以立足。[70]一个原因是社会压力对于50-150个体的小范围人群效果不错（游牧社会常见），但对如今数以千万的大社会就不好用了。另一原因是个人回收被公众淹没无视了。
+社会心理学家肖恩·伯恩的一份研究发现[71]社区内邻里接触是增进回收最有效的方式。在研究中，他派了10人劝说邻里回收，对比组则发传单。结果有人员接触组回收率大大提升。肖恩·伯恩据此认为对于小范围人群来说个人接触很重要。斯图尔特·奥斯坎普则研究[72]邻里朋友之间的影响，发现回收也有近朱者赤、近墨者黑的现象。
+许多学校开展回收教育活动，提升学生相关意识。它们相信这些活动不但会促进学生在校回收，而且在家也能做到。
+各地政策概要與發展[编辑]
+台灣[编辑]
+
+
+
+
+台灣的回收標誌
+
+
+参见：行政院環境保護署
+民國七十七年（西元1988年）11月11日由總統公布的《廢棄物清理法》，增訂第十條之一及第二十三條之一，皆是規範資源回收的條文。民國七十八年六月訂頒《廢寶特瓶回收清除處理辦法》。環保署為了推動廢棄物回收工作此計畫為「惜福計畫」。八十三年四月訂頒《廢一般容器回收清除處理辦法》，公告回收項目和辦法。成立新的共同組織「一清基金會」推動四合一」資源回收計畫。環保署長宣佈自八十六年元月一日起將實施「四合一」資源回收改革計畫。環保署在八十四年五月十八日，討論通過《廢棄物清理法》修正草案，將全部條文增加至六十五條，不但規範廢棄物的清理，而且規範資源回收。八十四年十月底，環保署完成《資源回收再利用法》草案初稿。2001年，《廢棄物清理法》[73]進行第七次大幅修法，廢棄物由本來的清除、清理開始轉向考慮再生再利用等「資源化管理」，並且增加了中央主管機關的權責。2002年，則公布了《資源回收再利用法》[74]，規定中央主管機關為環保署與各級地方政府，以及「中央目的事業主管機關」為經濟部，而此二機關要負責制定施行減少廢棄物與促進資源回收再利用的法令。
+香港[编辑]
+参见：環境保護署 (香港)
+環境保護署：1998年，環保署開始在屋苑推廣廢物回收，並在每座大廈外設置三色分類回收桶收集廢紙、鋁罐和膠樽。並於2005年1月起在全港推行「家居廢物源頭分類計劃」[75]，鼓勵屋苑/住宅樓宇於樓層設置廢物分類設施，及擴大可回收物料的種類，以增加家居廢物回收量及減少所需棄置的廢物。
+澳門[编辑]
+参见：環境保護局 (澳門)
+澳門特區政府於全澳各街道設置廢紙箱，以收集行人的小型垃圾。同時，還於多個地點設置了資源回收桶，以回收市民、學校、機構及社團的紙張、金屬及塑膠、玻璃瓶等物資。
+環境保護局並推出「環保Fun」積分計劃[76]，透過民間收集換取代金券形式，鼓勵市民持續實踐各種環保行為，並養成習慣。
+批评[编辑]
+
+
+
+
+資源回收場
+
+
+不少问题在于大多数产品在设计之初并没有考虑到回收。建筑师威廉·麥唐納和化学家迈克尔·布朗嘉特在著作《从摇篮到摇篮:循环经济设计之探索》给出可持续设计观，旨在解决这一问题。他们提议所有产品及包装都应该为各个部件设计完全的"闭合回路"，即每个部件要么在自然生态系统中生物降解或是可以无限回收。[4]
+
+从实践角度讲，完全回收是不可能的。总体来说，替代和回收策略只是在延续不可再生材料储量，并为实现真正有力的可持续性争取时间。在基于可再生资源的经济上，可持续性才是终极保障。[77]:21
+——M. H. Huesemann, 2003
+
+虽然回收从堆填物中挽救了不少材料，目前仍有不少散耗部件被漏掉了。完全回收实际上是做不到的，高度分散的废物大大稀释，极大地增加回收能耗。“例如，全球无数氯代有机碳氢化合物已经累积在动物和人体内，铜分散在杀菌剂里，铅被用在涂料里，汽车轮胎中的氧化锌磨损后随着橡胶粉飞逝，该如何才能将它们回收呢？”[78]:260
+就环境经济学而言，成本和效益必须统筹兼顾。例如，包装食品的纸板比大多数塑料更容易回收，但运输起来更重，更容易糟蹋。[79]
+能源与材料流动[编辑]
+
+
+
+
+准备送往熔炼厂的碎钢粉大包
+
+
+回收所节省的能量是基于材料和所需能量计算的。节省能源正确评估可以配合生命週期評估使用实际能量值。另外，可用能（exergy）是度量可利用的有用能量。总之，生产每单位质量的回收材料所需能耗相比同样的原生材料会大大减少。[80][81][82]
+一些学者用能值（emergy）分析，如将某物做成或转变为另一种产品或服务所需能量（有效能）的预算。能值计算不仅是物理结果，还需考虑经济。用能值生命周期分析，研究员发现需要大量精炼成本的材料，潜在的回收效益最高。而且，材料制作时考虑到回收再造，有相应的再利用系统配套，材料能够回收生成别的产品，副产品再利用系统能够使用零部件制造全新的产品；这样的材料回收系统积累的能值效率最高。[83]
+美国能源信息管理局在其网站上称“造纸厂用回收纸比新木料节省四成能耗。”[84]一些评论人认为生产回收品比传统堆填耗能更多，因为路边收集常常需要垃圾车。但回收支持者指出垃圾车省下了伐木车，所以净能耗一样。就能值生命周期分析来看，回收飞灰、铝、水泥、塑料和钢铁效率最高，而回收木材效率最低。因此，回收特质、方式方法及产品种类影响着节能预算。[83]
+从广义生态角度来看，在废品倾倒处理过程中能量消耗或制造数量难以度量，因果关系弥散在复杂的材料能量流网络当中。例如：“城市不会遵守所有生态系统发展政策。生物地球化学之路直通野外生态系统，回收不足导致大波垃圾和低下的能源效率总额。相对来说，在野外生态系统，某一物种的废品是另一物种的资源，使得资源演替高效运转。然而，即便是现代化城市依然处在演替的初期，可能需要数百年甚至数千年来完全实现。”[85]:720回收所需能源取决于所回收的材料和处理过程。一般来说，回收铝所需能耗远低于开采冶炼。美国环保局称：“例如，回收铝罐比从原材料铝土矿提炼节能95%。”[86][87]2009年，超过一半的铝罐是通过回收生产的。[88]
+
+每年，数以百万吨的材料从地球表面掠走，加工成为消费品和资本。在几十年几百年后，这些材料大多数都“没了”。除了少许艺术或宗教纪念品外，它们都不再参与消费过程。它们哪里去了？回收不过是这些材料的中间解，不过是延长它们在人类圈的逗留时间。从热力学角度来看，回收不能解决它们最终被抛弃的命运。[89]:1
+——布鲁纳（P. H. Brunner）
+
+经济学家史蒂文·兰兹伯格认为减少堆填空间唯一的好处被所需能源和回收过程产生的污染夸大。[90]其他人则通过产品生命周期计算，认为相对于伐木、造浆、处理、运输来说，回收废纸能够减少能耗和用水。[91] 如果废纸回收减少，就需要额外能源来植树造林、浇水施肥，直到树木长大成材。
+不可再生原料枯竭使得可持续发展难以为继，其它研究显示回收本身不足以让这样的经济发展“退耦”。[92]国际运输或回收材料流动经由“三个国家不同的贸易网络，导致不同的流动、衰变率、潜在的回收收益。”[93]:1随着全球自然资源消费不断增长，枯竭已不可避免。回收最多不过延缓，不可再生材料达到百分百闭合循环是不可能的，少量散入环境的材料能够对地球生态系统造成严重伤害。[94][95][96]从历史上来看，这好比卡尔·马克思的新陈代谢裂缝：能源与养分不公平地从农村流入城市，产生垃圾，腐化生态资本，如土壤养分流失。[97][98]能源节约也会导致杰文斯悖论，即改善能耗会降低生产成本，导致消费率反弹，经济进一步增长。[96][99]
+成本[编辑]
+回收实际省下的钱取决于回收项目的效率。地方自给研究所（Institute for Local Self-Reliance）认为回收成本取决于各种因素，如堆填费用、社区废品回收等。它认为当社区将回收品视为传统废物系统的替代品而非附加品时就能省钱，并且要“重新设计收集班表及垃圾车。”[100]
+在某些案例中，回收材料成本超过原材料成本。新塑料树脂成本比回收树脂的低四成。[101]另外，美国环保局的一份研究追踪1991年7月15日至8月2日透明玻璃价格，发现每吨平均成本在40至60美元左右，[102]而美國地質調查局一份报告显示1993至1997年间原沙料每吨成本在17.33至18.1美元左右。[103]
+在对比回收材料市场成本和新原料成本时，常常忽视的是经济外部性，即没有纳入市场计算的成本。例如，制作新塑料会造成更多污染，相对于回收类似塑料来说缺乏可持续性，但这些因素没有纳入市场成本计算中。生命週期評估可以用于确定外部性水平，决定回收是否有益。另外，法律途径（如碳税）可以用于将外部性纳入市场，使得材料市场成本更加切合实际。
+工作环境[编辑]
+
+
+
+
+巴西以拾荒为生的人
+
+
+中国和印度在回收电气电子设备时造成大量污染。在这些国家里，非正式回收是个地下经济，造成环境和健康恶果。高浓度铅、多溴二苯醚、多氯二苯并二恶英和呋喃以及多溴代二恶英和呋喃混合物弥漫在空气中，底灰、灰尘、泥土、污水等堆积在这些回收站左右。[104]
+环境影响[编辑]
+《我为什么不是环境保护主义者》作者是经济学家史蒂文·兰兹伯格[105]，他称纸张回收实际上减少了树木数量。他认为造纸公司希望林木再生，对纸张的大量需求会刺激大规模植树造林，但减少纸张需求导致植树造林减少。[106]
+当伐木公司砍伐森林时，会在原址植树造林。大多数纸张产业从纸浆林那里获取原料。[107][108][109] 许多环境保护主义者指出，植树造林比原始森林逊色许多。新树林不能很好地固定土壤，导致大面积的土壤侵蚀，常常需求大量肥料来维持，在生物多样性上大大降低。[110]另外，新树比老树小得多，增进“植树造林”的观点对于护林人来说没有卖点。
+具体来说，热带雨林因其异质性很少用于造纸。[111]据联合国气候变化框架公约秘书长，导致森林砍伐的主要直接原因是自给农业（砍伐48%）和商业农业（砍伐32%），目的是提供食物，而非造纸。[112]
+可能的收入损失与社会成本[编辑]
+在一些国家里，回收是由穷人来做的，如扎布林、拾荒者或收破烂的人等。当大型合法回收组织成立并盈利或形成规模经济时，[113][114]穷人很可能被挤出回收行业或再加工市场。为了补偿收入减少，社会可能需要创立额外项目来扶贫济困。[115]类似破窗效应，如果社会想要人为地在回收上取利，如立法等，对穷人甚至整个社会来说反而会造成净亏损。不过，在巴西和阿根廷，拾荒者及非正式回收者与当局及团体组织合作，给予非正式回收合法地位，成为有偿公共服务。[116]
+由于社会补偿常常低于穷人在拾荒上的损失，穷人很可能会与大型回收组织产生冲突。[117][118]就某些废品是否值得回收，这意味着决策人变少了。相对于回收者的贫穷而言，他们的效率其实不低，因为每个人都能做主，盘算什么才算是“废品”。[115]
+在未能充分利用的废品中，电子和计算机废品回收为劳动密集型。由于这种废品可能还能用，许多低收入者那里有需求，再次售出比回收效率更高。
+一些回收倡导者认为自由放任式的个体回收不能涵盖所有的社会需求。因此，这并不足以对有组织回收项目进行否定。[115]
+資源回收分類[编辑]
+
+事業廢棄物
+一般廢棄物
+
+参考文献[编辑]
+
+
+^ M's advisor hails recycling as climate change action.. Letsrecycle.com. November 8, 2006 [April 15, 2014]. （原始内容存档于11 August 2007）. 
+^ 2.00 2.01 2.02 2.03 2.04 2.05 2.06 2.07 2.08 2.09 2.10 2.11 2.12 2.13 2.14 2.15 2.16 2.17 2.18 2.19 2.20 2.21 The League of Women Voters. The Garbage Primer. New York: Lyons & Burford. 1993: 35–72. ISBN 1-55821-250-7. 
+^ 3.0 3.1 Black Dog Publishing. Recycle : a source book. London, UK: Black Dog Publishing. 2006. ISBN 1-904772-36-6. 
+^ 4.00 4.01 4.02 4.03 4.04 4.05 4.06 4.07 4.08 4.09 4.10 4.11 4.12 4.13 The truth about recycling. The Economist. June 7, 2007. 
+^ Cleveland, Cutler J.; Morris, Christopher G. Handbook of Energy: Chronologies, Top Ten Lists, and Word Clouds. Elsevier. November 15, 2013: 461. ISBN 978-0-12-417019-3. 
+^ Dadd-Redalia, Debra. Sustaining the earth: choosing consumer products that are safe for you, your family, and the earth. New York: Hearst Books. January 1, 1994: 103. ISBN 978-0-688-12335-2. 
+^ Carl A. Zimring. Cash for Your Trash: Scrap Recycling in America. New Brunswick, NJ: Rutgers University Press. 2005. ISBN 0-8135-4694-X. 
+^ sd_shire (PDF). [October 27, 2012]. （原始内容 (PDF)存档于14 October 2012）.  已忽略未知参数|df= (帮助)
+^ Report: "On the Making of Silk Purses from Sows' Ears," 1921: Exhibits: Institute Archives & Special Collections: MIT. mit.edu. [July 7, 2016]. 
+^ 10.0 10.1 10.2 Public Broadcasting System (2007). The War Episode 2: Rationing and Recycling. [2016-07-07]. 
+^ Out of the Garbage-Pail into the Fire: fuel bricks now added to the list of things salvaged by science from the nation's waste, Popular Science monthly, February 1919, page 50-51, Scanned by Google Books: https://books.google.com/books?id=7igDAAAAMBAJ&pg=PA50
+^ Recycling through the ages: 1970s. Plastic Expert. Plastic Expert. July 30, 2014 [March 7, 2015]. 
+^ 13.0 13.1 13.2 13.3 13.4 The price of virtue. The Economist. June 7, 2007. 
+^ CRC History – Computer Recycling Center. www.crc.org. [July 29, 2015]. 
+^ About us – Swico Recycling. www.swicorecycling.ch. [July 29, 2015]. 
+^ Where does e-waste end up?. www.greenpeace.org/. Greenpeace. February 24, 2009 [July 29, 2015]. 
+^ 17.0 17.1 Kinver, Mark. Mechanics of e-waste recycling. BBC. July 3, 2007 [July 29, 2015]. 
+^ Bulgaria opens largest WEEE recycling factory in Eastern Europe. www.ask-eu.com. WtERT Germany GmbH. July 12, 2010 [July 29, 2015]. 
+^ EnvironCom opens largest WEEE recycling facility / waste & recycling news. www.greenwisebusiness.co.uk. The Sixty Mile Publishing Company. March 4, 2010 [July 29, 2015]. （原始内容存档于五月 15, 2016）.  请检查|archive-date=中的日期值 (帮助)
+^ Goodman, Peter S. Where Gadgets Go To Die: E-Waste Recycler Opens New Plant In Las Vegas. The Huffington Post. January 11, 2012 [July 29, 2015]. 
+^ Moses, Asher. New plant tackles our electronic leftovers – BizTech – Technology – smh.com.au. www.smh.com.au. November 19, 2008 [July 29, 2015]. 
+^ European Commission, Recycling 互联网档案馆的存檔，存档日期3 February 2014..
+^ Recycling rates in Europe, European Environment Agency.
+^ A Beverage Container Deposit Law for Hawaii. www.opala.org. City & County of Honolulu, Department of Environmental Services. Oct 2002 [July 31, 2015]. 
+^ European Council. The Producer Responsibility Principle of the WEEE Directive (PDF). [2016-07-07]. 
+^ Regulatory Policy Center — Property Matters — James V. DeLong. [February 28, 2008]. （原始内容存档于14 April 2008）. 
+^ Web-Dictionary.com (2013). Recyclate. 
+^ Freudenrich, C. (2014). How Plastics Work. [2016-07-07]. 
+^ 29.0 29.1 29.2 29.3 29.4 29.5 DEFRA (2013). Quality Action Plan Proposals to Promote High Quality Recycling of Dry Recyclates (PDF). 
+^ 30.0 30.1 30.2 30.3 30.4 The Scottish Government (2012). Recylate Quality Action Plan – Consultation Paper. 
+^ Singer, Paul. Recycling market in a heap of trouble. USA Today (Melbourne, Florida). April 21, 2017: 1B, 2B [April 21, 2017]. 
+^ None, None. Common Recyclable Materials (PDF). United States Environmental Protection Agency. [February 2, 2013]. 
+^ ScienceDaily. (2007). Recycling Without Sorting Engineers Create Recycling Plant That Removes The Need To Sort.
+^ None, None. What Happens to My Recycling?. www.1coast.com.au. [July 21, 2014]. （原始内容存档于11 August 2014）. 
+^ Pleasant, Barbara. Trench Composting Your Kitchen Waste. www.growveg.com. Growing Interactive Ltd. September 26, 2013 [July 31, 2015]. 
+^ Daisy Simmons. Rinsing food packaging. EcoMyths. 
+^ UK statistics on waste – 2010 to 2012 (PDF). UK Government. UK Government: 2 and 6. September 25, 2014 [March 7, 2015]. 
+^ 38.0 38.1 Publications – International Resource Panel. unep.org. [July 7, 2016]. （原始内容存档于11 十一月 2012）.  请检查|archive-date=中的日期值 (帮助)
+^ How Urban Mining Works. [August 9, 2013]. 
+^ N.C. McDonald and J. M. Pearce, "Producer Responsibility and Recycling Solar Photovoltaic Modules", Energy Policy 38, pp. 7041–7047(2010). Open access available
+^ London 2012 seeks sustainable solutions for temporary venues. ODA. [August 20, 2012]. （原始内容存档于八月 27, 2012）.  请检查|archive-date=中的日期值 (帮助)
+^ Hogye, Thomas Q. The Anatomy of a Computer Recycling Process (PDF). California Department of Resources Recycling and Recovery. [October 13, 2014]. （原始内容 (PDF)存档于九月 23, 2015）.  请检查|archive-date=中的日期值 (帮助)
+^ Sweeep Kuusakoski – Resources – BBC Documentary. www.sweeepkuusakoski.co.uk. [July 31, 2015]. 
+^ Sweeep Kuusakoski – Glass Recycling – BBC filming of CRT furnace. www.sweeepkuusakoski.co.uk. [July 31, 2015]. 
+^ Layton, Julia. "Eco"-plastic: recycled plastic. Science.howstuffworks.com. April 22, 2009 [June 9, 2014]. 
+^ RESEM A Leading Pyrolysis Plant Manufacturer. RESEM Pyrolysis Plant. [August 20, 2012]. 
+^ Plastic Recycling codes 互联网档案馆的存檔，存档日期21 July 2011., American Chemistry
+^ About resin identification codes 互联网档案馆的存檔，存档日期19 October 2010. American Chemistry
+^ Recycling Symbols on Plastics – What Do Recycling Codes on Plastics Mean. The Daily Green. [February 29, 2012]. 
+^ Lynn R. Kahle; Eda Gurel-Atay (编). Communicating Sustainability for the Green Economy. New York: M.E. Sharpe. 2014. ISBN 978-0-7656-3680-5. 
+^ RecyclingToday. Recycling and waste have $6.7 billion economic impact in Ohio. May 14, 2015. （原始内容存档于18 May 2015）. 
+^ Unless otherwise indicated, this data is taken from The League of Women Voters. The Garbage Primer. New York: Lyons & Burford. 1993: 35–72. ISBN 1-55821-250-7. , which attributes, "Garbage Solutions: A Public Officials Guide to Recycling and Alternative Solid Waste Management Technologies, as cited in Energy Savings from Recycling, January/February 1989; and Worldwatch 76 Mining Urban Wastes: The Potential for Recycling, April 1987."
+^ Recycling metals — aluminium and steel. [November 1, 2007]. （原始内容存档于十月 16, 2007）.  请检查|archive-date=中的日期值 (帮助)
+^ UCO: Recycling. [October 22, 2015]. 
+^ No Author, No Author. Recycling Benefits to the Economy. www.all-recycling-facts.com. [February 1, 2013]. 
+^ No Author, No Author. A Recycling Revolution. www.recycling-revolution.com. [February 1, 2013]. 
+^ Lavee D. (2007). Is Municipal Solid Waste Recycling Economically Efficient? Environmental Management.
+^ Vigso, Dorte. Deposits on single use containers — a social cost–benefit analysis of the Danish deposit system for single use drink containers. Waste Management & Research. 2004, 22 (6): 477–87. PMID 15666450. doi:10.1177/0734242X04049252. 
+^ "Minerals and Forensic Science" (PDF). University of Massachusetts Lowell, Department of Environmental, Earth, & Atmospheric Sciences.
+^ "Phosphorus Famine: The Threat to Our Food Supply". Scientific American. June 2009
+^ "Peak Everything?". Reason Magazine. April 27, 2010.
+^ 62.0 62.1 62.2 62.3 Gunter, Matthew. Do Economists Reach a Conclusion on Household and Municipal Recycling?. Econ Journal Watch. January 1, 2007, 4 (1): 83–111. （原始内容存档于July 31, 2015）. 
+^ Much toxic computer waste lands in Third World. Usatoday.com. February 25, 2002 [November 6, 2012]. 
+^ Environmental and health damage in China. Web.archive.org. November 9, 2003 [November 6, 2012]. （原始内容存档于9 November 2003）. 
+^ Illegal dumping and damage to health and environment. [November 6, 2012]. （原始内容存档于9 November 2012）. 
+^ Hogg M. Waste outshines gold as prices surge. Financial Times.
+^ Bonnie DeSimone. (2006). Rewarding Recyclers, and Finding Gold in the Garbage. New York Times.
+^ Moore, C. J. Synthetic polymers in the marine environment: A rapidly increasing, long-term threat. Environmental Research. 2008, 108 (2): 131–139. PMID 18949831. doi:10.1016/j.envres.2008.07.025. 
+^ [Schackelford, T.K. (2006) "Recycling, evolution and the structure of human personality". Personality and Individual Differences 41 1551–1556 ]
+^ Pratarelli, M.E. (2010) "Social pressure and recycling: a brief review, commentary and extensions". S.A.P.I.EN.S. 3 (1). Sapiens.revues.org. [November 6, 2012]. 
+^ Burn, Shawn. "Social Psychology and the Stimulation of Recycling Behaviors: The Block Leader Approach." Journal of Applied Social Psychology 21.8 (2006): 611–629.
+^ Oskamp, Stuart. "Resource Conservation and Recycling: Behavior and Policy." Journal of Social Issues 51.4 (1995): 157–177. Print.
+^ 廢棄物清理法
+^ 資源回收再利用法
+^ 家居廢物源頭分類計劃
+^ [1]
+^ Huesemann, M. H. The limits of technological solutions to sustainable development (PDF). Clean Techn Environ Policy. 2003, 5: 21–34. doi:10.1007/s10098-002-0173-8 (不活跃 2017-01-24). （原始内容 (PDF)存档于28 September 2011）. 
+^ Huesemann, M. H. Recognizing the limits of environmental science and technology (PDF). Environ. Sci. Technol. 2003, 37 (13): 259–261. Bibcode:2003EnST...37..259H. doi:10.1021/es032493o. 
+^ Tierney, John. Recycling Is Garbage. New York: New York Times. June 30, 1996: 3 [February 28, 2008]. 
+^ Morris, J. (2005). Comparative LCAs for curbside recycling versus either landfilling or incineration with energy recovery (12 pp). The International Journal of Life Cycle Assessment, 10(4), 273-284.
+^ Oskamp, S. (1995). Resource conservation and recycling: Behavior and policy. Journal of Social Issues, 51(4), 157-177.
+^ Pimenteira, C.A.P., Pereira, A.S.; Oliveira, L.B.; Rosa, L.P.; Reis, M.M.;Henriques, R.M. Energy Conservation and CO2 Emission Reductions due to Recycling in Brazil;Waste Manage.2004,24,889-897.[2]
+^ 83.0 83.1 Brown, M. T.; Buranakarn, V. Emergy indices and ratios for sustainable material cycles and recycle options (PDF). Resources, Conservation and Recycling. 2003, 38 (1): 1–22. doi:10.1016/S0921-3449(02)00093-9. （原始内容 (PDF)存档于2012-03-13）. 
+^ Energy Information Administration Recycling Paper & Glass. Retrieved October 18, 2006.
+^ Decker, Ethan H.; Elliott, Scott; Smith, Felisa A.; Blake, Donald R.; Rowland, F. Sherwood. Energy and Material flow through the urban Ecosystem. Annual Review of Energy and the Environment (Palo Alto, CA, USA: Annual Reviews). November 2000, 25 (1): 685–740 [August 4, 2012]. ISSN 1056-3466. OCLC 42674488. doi:10.1146/annurev.energy.25.1.685. （原始内容存档 (PDF)于May 20, 2005）. [失效連結] (Archive is ).
+^ Environmental Protection Agency Frequently Asked Questions about Recycling and Waste Management 互联网档案馆的存檔，存档日期27 September 2006.. Retrieved October 18, 2006.
+^ ITP Aluminum: Energy and Environmental Profile of the U.S. Aluminum Industry (PDF). [November 6, 2012]. （原始内容 (PDF)存档于11 August 2011）. 
+^ The Recycling of Aluminum Cans Versus Plastic. [October 21, 2011]. 
+^ Brunner, P. H. In search of the final sink. Environ. Sci. & Pollut. Res. 1999, 6 (1): 1. doi:10.1007/bf02987111. 
+^ Landsburg, Steven E. The Armchair Economist. p. 86.
+^ Selke 116
+^ Grosse, F. Is recycling 'part of the solution'? The role of recycling in an expanding society and a world of finite resources. S.a.p.i.e.n.s. 2010, 3 (1): 1–17. 
+^ Sahni, S.; Gutowski, T. G. Your scrap, my scrap! The flow of scrap materials through international trade (PDF). IEEE International Symposium on Sustainable Systems and Technology (ISSST). 2011: 1–6. ISBN 978-1-61284-394-0. doi:10.1109/ISSST.2011.5936853. 
+^ Steffen, L. Resource recovery and material flow in the city: Zero waste and sustainable consumption as paradigms in urban development. Sustain. Dev. Law Policy. 2010, XI: 28–38. 
+^ Zaman, A. U.; Lehmann, S. Challenges and opportunities in transforming a city into a "Zero Waste City". Challenges. 2011, 2 (4): 73–93. doi:10.3390/challe2040073. 
+^ 96.0 96.1 Huesemann, M.; Huesemann, J. Techno-fix: Why Technology Won't Save Us or the Environment. New Society Publishers. 2011: 464 [2016-07-07]. ISBN 978-0-86571-704-6. 
+^ Clark, B.; Foster, J. B. Ecological imperialism and the global metabolic rift : Unequal exchange and the guano/nitrates trade (PDF). International Journal of Comparative Sociology. 2009, 50 (3–4): 311–334. doi:10.1177/0020715209105144. （原始内容 (PDF)存档于27 April 2012）. 
+^ Foster, J. B.; Clark, B. The Ecological Rift: Capitalisms War on the Earth. Monthly Review Press. 2011: 544. ISBN 1-58367-218-4. 
+^ Alcott, B. Jevons' paradox (PDF). Ecological Economics. 2005, 54: 9– 21. doi:10.1016/j.ecolecon.2005.03.020. （原始内容 (PDF)存档于2 六月 2013）.  请检查|archive-date=中的日期值 (帮助)
+^ Waste to Wealth The Five Most Dangerous Myths About Recycling 互联网档案馆的存檔，存档日期29 May 2009.. Retrieved October 18, 2006.
+^ United States Department of Energy Conserving Energy – Recycling Plastics. Retrieved November 10, 2006.
+^ Environmental Protection Agency Markets for Recovered Glass.
+^ United States Geological Survey Mineral Commodity Summaries. Retrieved November 10, 2006.
+^ Sepúlveda, A.; Schluep, M.; Renaud, F. G.; Streicher, M.; Kuehr, R.; Hagelüken, C.; 等. A review of the environmental fate and effects of hazardous substances released from electrical and electronic equipments during recycling: Examples from China and India (PDF). Environmental Impact Assessment Review. 2010, 30: 28–41. doi:10.1016/j.eiar.2009.04.001. 
+^ Steven E. Landsburg. Why I Am Not An Environmentalist: The Science of Economics Versus the Religion of Ecology Excerpt from The Armchair Economist: Economics & Everyday Life (PDF) (PDF). [July 6, 2016]. 
+^ Landsburg, Steven A. The Armchair Economist. p. 81.
+^ The Free Market Don't Recycle: Throw It Away!. Retrieved November 4, 2006.
+^ Regulatory Policy Center WASTING AWAY: Mismanaging Municipal Solid Waste 互联网档案馆的存檔，存档日期14 April 2008.. Retrieved November 4, 2006.
+^ Jewish World Review The waste of recycling. Retrieved November 4, 2006.
+^ Baird, Colin (2004) Environmental Chemistry (3rd ed.) W. H. Freeman ISBN 0-7167-4877-0.
+^ de Jesus, Simeon. How to make paper in the tropics. Unasylva. 1975, 27 (3). 
+^ UNFCCC. Investment and financial flows to address climate change (PDF). unfccc.int. UNFCCC: 81. 2007 [2016-07-07]. 
+^ Too Good To Throw Away – Appendix A. NRDC. June 30, 1996 [November 6, 2012]. 
+^ Mission Police Station 互联网档案馆的存檔，存档日期13 May 2012.
+^ 115.0 115.1 115.2 PBS NewsHour, February 16, 2010. Report on the Zabaleen
+^ Medina, M. Scavenger cooperatives in Asia and Latin America.. Resources. 2000, 31: 51–69. doi:10.1016/s0921-3449(00)00071-9. 
+^ The News-Herald – Scrap metal a steal. Zwire.com. [November 6, 2012]. 
+^ Raids On Recycling Bins Costly To Bay Area. NPR. July 19, 2008 [November 6, 2012]. 
+
+
+更多阅读[编辑]
+
+Ackerman, Frank. (1997). Why Do We Recycle?: Markets, Values, and Public Policy. Island Press. ISBN 1-55963-504-5, ISBN 978-1-55963-504-2
+Ayres, R.U. (1994). "Industrial Metabolism: Theory and Policy", In: Allenby, B.R., and D.J. Richards, The Greening of Industrial Ecosystems. National Academy Press, Washington, DC, pp. 23–37.
+Braungart, M., and W. McDonough (2002). Cradle to Cradle: Remaking the Way We Make Things. North Point Press, ISBN 0-86547-587-3.
+Huesemann, Michael H., and Joyce A. Huesemann (2011).Technofix: Why Technology Won't Save Us or the Environment, "Challenge #3: Complete Recycling of Non-Renewable Materials and Wastes", New Society Publishers, Gabriola Island, British Columbia, Canada, ISBN 0-86571-704-4, pp. 135–137.
+Porter, Richard C. (2002). The Economics of Waste. Resources for the Future. ISBN 1-891853-42-2, ISBN 978-1-891853-42-5
+Tierney, John. The Reign of Recycling. The New York Times. October 3, 2015. 
+Sheffield, Hazel. Sweden’s recycling is so revolutionary, the country has run out of rubbish (December 2016), The Independent (UK)
+
+外部連結[编辑]
+
+（繁体中文）環保法規中心提供之資源回收再利用法
+（繁体中文）行政院環保署資源回收基管會資源回收網。提供一般民眾回收物質資訊，回收技巧，以及回收商資訊。
+（繁体中文）回收管道查詢（不太容易接觸的網頁），其中包括民間回收商資訊。
+（繁体中文）行政院經濟部工業局資源化工業網。提供所謂「資源化產業」資訊。
+
+参見[编辑]
+
+
+生态主题
+环境主题
+可持续发展主题
+
+
+
+
+國際通用資源回收編碼
+可回收垃圾
+不可回收垃圾
+垃圾分類
+分類回收桶
+資源化產業
+廢電腦回收技術
+寶特瓶回收技術
+下腳
+廢物再利用
+廢棄食用油回收
+拾荒
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+污染
+
+
+
+
+
+
+污染種類
+
+
+
+
+空氣污染
+
+酸雨 · 碱雨 · 北极雾霾 · 大氣擴散模式 · 全球黯化 · 蚱蜢效應 · 全球变暖 · 臭氧层空洞 · 氯氟碳化合物 · 懸浮粒子 · 煙霧（霾） · 气胶
+
+
+
+
+
+
+水污染
+
+富营养化 · 海洋廢棄物 · 油外洩 · 熱污染 · 城市径流 · 水質 · 死水 · 生活污水 · 地表逕流 · 懸浮固體
+
+
+
+
+
+
+土地污染
+
+生物修復 · 植物修复（英语：Phytoremediation） · 除草剂 · 农药 · 重金属 · 肥害
+
+
+
+
+
+
+放射性污染
+
+核裂变产物 · 放射性落下灰 · 急性辐射综合症
+
+
+
+
+
+
+其他污染
+
+熱島現象 · 光害 · 噪音污染 · 基因污染 · 工業污染 · 船舶污染
+
+
+
+
+
+
+
+
+
+其它污染物
+
+垃圾 · 持久性有機污染物 · 內分泌干擾素 · 環境雌激素
+
+
+
+
+
+
+污染控制技術‎
+
+环境监测 · 資源回收 · 垃圾分類 · 污染物排放控制技術 · 環境污染控制 · 活性污泥法 · SBR污水处理工艺 · 生物膜法 · 厌氧法 · 上流式厌氧污泥床 · 污水妥善處理率 · 污水處理 · 旋風分離 · 工業發酵 · 填埋 · 垃圾焚烧 · 固体废弃物的处理与处置 · 水污染控制
+
+
+
+
+
+
+對生物的影響
+
+生物放大作用 · 生物累積性 · 生物濃縮性
+
+
+
+
+
+
+事故
+
+{{亞洲污染}} · 水污染事故列表 · 台塑仁武廠汙染事件 · 湖南省兒童鉛中毒案 · 日本四大公害病 · 阿拉斯加港灣漏油事件 · 阿瑪斯號貨輪油污事件 · 林園事件 · 2010年墨西哥灣漏油事件 · 2010年大連新港輸油管道爆炸 · 2011年中海油康菲渤海湾油田溢油事故
+
+
+
+
+
+
+國際公約
+
+巴塞爾公約 · 蒙特利尔议定书 · 京都议定书 · 斯德哥爾摩公約 · 防止船舶汙染國際公約  · 巴黎協議 · 水俁公約
+
+
+
+
+
+
+政策
+
+污染者自付原則 · 控制污染物排放政策 · 污染源監測
+
+
+
+
+
+
+主要組織
+
+美國環保局 · 歐洲環境署 · 日本環境省 · 台灣環保署 · 中國環保部（香港環保署） · 绿色和平 · 綠黨
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+環境科技
+
+
+
+
+
+
+
+
+
+適用技術
+環境設計
+环境影响评价
+可持續發展
+永續設計
+
+
+
+
+
+
+
+
+
+
+
+污染
+
+
+
+空氣污染（排放標準（英语：Emission standard）、擴散模式）
+工業生態學
+固體廢物處理（英语：List of solid waste treatment technologies）
+污染物排放控制技术
+水（農業廢水處理（英语：Agricultural wastewater treatment）、工業廢水處理（英语：Industrial wastewater treatment）、污水處理、廢水處理技術、水淨化、截流站）
+
+
+
+
+
+
+
+
+可再生能源
+
+
+
+替代能源
+能源有效利用（英语：Efficient energy use）
+能源开发
+能量回收（英语：Energy recovery）
+燃料（替代燃料、生物燃料、碳中性燃料（英语：Carbon neutral fuel）、氫技術（英语：hydrogen technologies））
+可再生能源（商業化）
+可持續能源
+交通（電動載具、混合動力車輛）
+
+
+
+
+
+
+
+
+保育
+
+
+
+生育控制
+建築（綠色、自然、可持續建築（英语：Sustainable architecture）、新都市主義）
+保育生物學
+保育倫理
+生態林業（英语：Ecoforestry）
+環境維護
+環境補救（英语：Environmental remediation）
+綠色計算
+樸門
+資源回收
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+可持续性
+
+
+
+
+
+
+定義
+與哲學
+
+
+
+綠色生活環境友善
+環境保護主義
+環境倫理
+里約環境與發展宣言
+生態現代化
+可持續發展
+
+
+
+
+
+
+
+
+人口
+
+
+
+生育控制
+計劃生育
+人口過多
+人口控制
+人口零成長
+
+
+
+
+
+
+
+
+消費
+
+
+
+反消費主義
+生態足跡
+良知消費
+過度消耗
+公地悲劇
+
+
+
+
+
+
+
+
+科技
+
+
+
+适用技术
+環境科技
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+資源使用與保存
+
+
+
+
+
+
+糧食
+
+
+
+糧食安全
+本土糧食（英语：Local food）
+樸門
+永續農業
+永續漁業（英语：Sustainable fishery）
+都市園藝（英语：Urban horticulture）
+
+
+
+
+
+
+
+
+水
+
+
+
+水足跡
+水危機
+省水效率
+節約用水
+
+
+
+
+
+
+
+
+能源
+
+
+
+生質燃料
+碳足跡
+排污交易
+節約能源
+能源下降（英语：Energy descent）
+哈伯特頂點
+可再生能源
+可持續能源
+太陽能
+風能
+海洋能
+
+
+
+
+
+
+
+
+材料
+
+
+
+工業生態學
+資源回收
+垃圾
+零廢棄
+
+
+
+
+
+
+
+
+生物
+多樣性
+
+
+
+生物保全
+生物圈
+保育生物學
+瀕危物種
+全新世滅絕事件
+入侵物種
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+永續性責任與應用
+
+
+
+
+
+
+責任
+
+
+
+永續科學
+永續性量度
+可維持產量
+
+
+
+
+
+
+
+
+應用
+
+
+
+永續宣傳
+永續建築
+永續藝術
+永續商業
+生態城
+
+公共建設
+排水系統
+
+
+永續社區
+永續設計
+永續發展教育
+永續時尚
+永續園藝
+永續地景建築
+綠色生活
+永續工業
+永續包裝
+永續採購
+可持續性報告
+永續觀光
+永續運輸
+
+
+
+
+
+
+
+
+管理
+
+
+
+環境資源管理
+漁業管理
+地球管理
+永續森林管理
+
+
+
+
+
+
+
+
+環境
+
+
+
+環境生物科技學
+環境化學
+環境設計
+環境經濟學
+環境工程
+環境倫理
+環境史
+環境法
+環境心理學
+環境科學
+環境社會學
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+國際報告與協定
+
+
+
+
+
+
+
+
+
+1972  聯合國人類環境宣言
+1983  布倫特蘭委員會報告
+1987  我們共同的未來
+1992  地球高峰會
+1992  21世紀議程
+1992  生物多樣性公約
+1994  ICPD行動計畫
+地球憲章
+里斯本信條
+2000  聯合國千禧年宣言
+2000  千禧年生態系統評估
+2016  坎昆宣言
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+可持續性分類
+可持續發展主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+回收
+
+
+
+
+
+
+回收利用的材料
+
+
+
+铝回收（英语：Aluminium recycling）
+沥青回收（英语：Asphalt concrete）
+Concrete recycling（英语：Concrete recycling）
+铜回收（英语：Copper recycling）
+棉花回收（英语：Cotton recycling）
+能源回收（英语：Energy recycling）
+黑色金屬
+玻璃回收（英语：Glass recycling）
+Gypsum recycling（英语：Gypsum recycling）
+纸回收（英语：Paper recycling）
+塑料回收（英语：Plastic recycling）
+Refrigerant reclamation（英语：Refrigerant reclamation）
+Scrap（英语：Scrap）
+木材回收（英语：Timber recycling）
+植物油回收（英语：Vegetable oil recycling）
+中水
+
+
+
+
+
+
+
+
+
+
+
+回收利用的產品
+
+
+
+电器（英语：Appliance recycling）
+Automotive oil recycling（英语：Automotive oil）
+電池
+瓶子
+聚对苯二甲酸乙二酯
+電腦
+螢光燈
+木材
+行動電話
+塗料
+船
+紡織品
+輪胎
+載具
+
+
+
+
+
+
+
+
+回收設備
+
+
+
+分類回收桶
+Blue bag（英语：Blue bag）
+Blue box recycling system（英语：Blue boxes）
+國際通用資源回收編碼
+Kerbside collection（英语：Collection）
+Materials recovery facility（英语：Materials recovery facility）
+垃圾分類
+
+
+
+
+
+
+
+
+國家
+
+
+
+Recycling in Brazil（英语：Recycling in Brazil）
+Recycling in Canada（英语：Recycling in Canada）
+Recycling in the Republic of Ireland（英语：Recycling in the Republic of Ireland）
+Recycling in Japan（英语：Recycling in Japan）
+Recycling in the Netherlands（英语：Recycling in the Netherlands）
+Recycling in the United Kingdom（英语：Recycling in the United Kingdom）
+Recycling in Northern Ireland（英语：Recycling in Northern Ireland）
+Recycling in the United States（英语：Recycling in the United States）
+
+
+
+
+
+
+
+
+概念
+
+
+
+Dematerialization (products)（英语：Dematerialization）
+Downcycling（英语：Downcycling）
+生態工業園
+Ecodesign
+Extended producer responsibility（英语：Extended producer responsibility）
+Freecycling（英语：Freecycling）
+工業生態學
+Industrial metabolism（英语：Industrial metabolism）
+Land recycling（英语：Land recycling）
+Material flow analysis（英语：Material flow analysis）
+Precycling（英语：Precycling）
+Product stewardship（英语：Product stewardship）
+Recursive recycling（英语：Recursive recycling）
+Nutrient cycle（英语：Recycling (ecological)）
+Resource recovery（英语：Resource recovery）
+Repurposing（英语：Repurposing）
+重複使用
+Upcycling
+Urban lumberjacking
+環保3R
+Waste minimisation（英语：Waste minimisation）
+拾荒
+Zero waste（英语：Zero waste）
+
+
+
+
+
+
+
+
+另請參閱
+
+
+
+熱電聯產
+蚯蚓糞
+Container deposit legislation（英语：Container deposit legislation）
+垃圾搜尋
+良知消費
+免費素食主義
+簡單生活
+垃圾
+Waste-to-energy（英语：Waste-to-energy）
+垃圾收集
+Waste legislation（英语：Waste legislation）
+污染物排放控制技術
+List of waste management concepts（英语：Waste management concepts）
+
+
+
+
+
+
+
+
+
+
+
+ 環境
+ 循環再造
+by country
+by material
+by product
+organizations
+Index
+ 循環再造
+
+
+
+
+
+
+
+
+
+
+
+
+分类：Pages with DOIs inactive since 2017循環再造环境保护垃圾廢物處理隐藏分类：含有未知参数的引用的页面引文格式1错误：日期Webarchive模板wayback链接带有失效链接的条目含有連結內容需訂閱查看的頁面使用ISBN魔术链接的页面缺少主语或者主语不够具体的语句有未列明来源语句的条目

@@ -1,0 +1,562 @@
+社会神经科学
+
+
+心理学
+
+
+
+
+
+
+
+心理學大綱
+心理學史
+心理學的子領域（英语：Subfields of psychology）
+
+
+
+
+心理學基礎（英语：Basic science (psychology)）
+
+
+
+
+
+異常心理學
+行为遗传學
+生物心理學
+認知心理學
+比較心理學
+跨文化心理學（英语：Cross-cultural psychology）
+文化心理學（英语：Cultural psychology）
+差異心理學（英语：Differential psychology）
+發展心理學
+演化心理學
+實驗心理學
+數學心理學
+神經心理學
+人格心理學
+正面心理學
+定量心理學（英语：Quantitative psychology）
+社會心理學
+
+
+
+
+
+應用心理學
+
+
+
+
+
+應用行為分析
+臨床心理學
+社區心理學
+消費行為
+諮商心理學
+批判社區心理學
+教育心理學
+環境心理學（英语：Environmental psychology）
+人因工程學
+法庭心理學
+健康心理學
+人本主义心理學
+工業與組織心理學
+本體解釋學（英语：Ontological hermeneutics）
+法律心理學
+醫學心理學（英语：Medical psychology）
+軍事心理學（英语：Military psychology）
+音樂心理學（英语：Music psychology）
+職業健康心理學（英语：Occupational health psychology）
+政治心理學
+宗教心理學
+學校心理學（英语：School psychology）
+運動心理學
+交通心理學
+
+
+
+
+
+心理學列表
+
+
+
+
+
+心理學學科列表
+心理學組織列表（英语：List of psychology organizations）
+心理學家
+心理治療列表（英语：List of psychotherapies）
+重要著作列表（英语：List of important publications in psychology）
+重要研究列表（英语：List of psychological research methods）
+心理學學派列表
+心理學的時間表（英语：Timeline of psychology）
+心理學文章索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+ 心理學主题  神經科學主题  醫學主题  社會主题
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+社会神经科学（英语：Social neuroscience）是一门新兴的交叉学科，它的研究目标是了解社会过程和社会行为的生物学机制并且利用生物学的概念和方法来启发和完善社会过程和行为的理论。从根本上来说，人类是一种社会动物。作为一种社会动物，人类创造出了很多个体以外的涌现性组织，即诸如二元关系、家庭、集体、城市、文明和文化这样一些社会结构。这些涌现性组织的产生和发展与支持它们的神经和内分泌机制的产生和发展紧密相连的。其原因在于这些涌现性组织所导致的社会行为帮助个体成功地生存、繁衍和养育后代，所以这些涌现性组织本身能够得以保存并不断繁衍。“社会神经科学”一词的产生可以追溯到 John Cacioppo 和Gary Berntson 于1992年在《美国心理学家》杂志上发表的一篇文章[1]。作为一门年轻的学科，社会神经科学所关注的是大脑如何介导社会交互，并且由于它与情绪神经科学以及认知神经科学有着紧密的联系。
+
+
+
+目录
+
+
+1 概要
+2 劝说的社会神经科学
+3 参见
+4 社会神经科学领域的学术杂志
+5 重要文献
+6 参考文献
+
+
+
+概要[编辑]
+社会神经科学探索的是社会过程和社会行为的生物学机制。这个问题被普遍认为是21世纪神经科学所面临的重大挑战之一。社会神经科学利用生物学的概念和方法来推动社会行为科学中有关社会过程及行为的理论的发展。一方面，社会神经科学借助生物学的研究成果来启发和完善社会行为的理论；另一方面，它又通过社会行为科学中的构建和数据来启发和完善神经组织和功能的理论[2]。
+在20世纪的大部分时间内，社会解释和生物解释被认为是相互矛盾的两种观点。但是今年来科学技术的发展催生了一个新的整合社会科学和生物科学新领域，即社会神经科学。这一年轻领域认为纵贯社会和生物两大领域的不同水平的组织（例如分子水平、细胞水平、系统水平、个体水平、关系水平、集体水平、社会水平等）之间是相互补充的；并且它强调使用多水平分析来促进对人类心智和行为的背后机制的理解。
+社会神经科学用于探索神经过程和社会过程的汇集点的方法包括功能磁共振、跨颅磁刺激、事件相关电位、心电仪、肌电仪、皮肤电导以及局部性脑损伤病人。
+劝说的社会神经科学[编辑]
+态度和劝说是社会行为研究中所关注的两个中心问题。一个始终没能完全解决的关键问题就是在什么情况下可以通过态度来预测行为。早先研究成果暗示着左前额叶的选择性激活有可能提高态度和行为之间的一致性。通过单侧注意操作，这一观点得到了支持[3]。
+早期的一篇研究文章表明前额叶前部的脑电波不对称性可以预测劝说是否能够成功。研究中被试阅读了一些支持他们先前态度的论证以及反对他们先前态度的论证。那些左前额叶活动较为强烈的被试称他们关注的是支持自己态度的论证；而那些右前额叶活动较为强烈的被试则称他们关注的是反对自己态度的论证[4]。这是一个非常经典的防御性抑制的例子。所谓防御性抑制就是回避或遗忘不愉快的信息。研究还表明防御性抑制的特质是与左前额叶的活动相关的[5]。此外，当把负性词语和正性词语呈现给被试时，功能磁共振显示，与负性词相比正性词选择性的激活了左前额叶[6]。
+从上述研究可以推出提高劝说成功率的一个办法就是选择性的激活右前额叶。这可以通过对侧单耳刺激很容易地实现。很显然，其效果依赖于选择性注意而不仅仅是刺激的来源。这一操作的导致了预期的结果：来自左边的信息更能够说服人[7]。
+参见[编辑]
+
+社會生物學
+演化神經科學
+情绪神经科学
+生物心理学
+认知神经心理学
+认知神经科学
+情绪
+运动认知
+神经经济学
+精神病学
+社会认知
+社会心理学
+
+社会神经科学领域的学术杂志[编辑]
+
+《社会神经科学》 - 新杂志，首期发行时间是2006年3月。
+《社会认知和情绪神经科学》 新杂志，首期发行时间是2006年6月。
+《人格与社会心理学杂志》 (JPSP)在2003年10月号上刊登了一个 社会神经科学专栏。
+《神经心理学》 在2003年发表了一期关于社会神经科学的特刊
+《认知神经科学杂志》 会不定期地刊登有关社会神经科学的文章，其中包括了在2004年10月发行的一期社会神经科学的特刊。
+《神经成像》 在2005年12月号上刊登一个published a 社会神经专栏 。
+《神经生理学》 发表了很多有关社会神经科学的文章。
+《生物心理学》会定期的发表社会神经科学的研究。
+
+重要文献[编辑]
+
+Brune, M., Ribbert, H., & Schiefenhovel, W. (2003). The social brain: Evolution and pathology. Hoboken, NJ: Wiley & Sons Ltd.
+Cacioppo, J.T. (2002). "Social neuroscience: Understanding the pieces fosters understanding the whole and vice versa." American Psychologist, 57, 819-831.
+Cacioppo, J. T., & Berntson, G. G. (1992). Social psychological contributions to the decade of the brain: Doctrine of multilevel analysis. American Psychologist, 47, 1019-1028.
+Cacioppo, J.T., Berntson, G.G., Sheridan, J.F., & McClintock, M.K. (2000). "Multilevel integrative analyses of human behavior: social neuroscience and the complementing nature of social and biological approaches." Psychological Bulletin, 126, 829-843.
+Cacioppo, John T.; Gary G. Berntson. Social Neuroscience: Key Readings,. Psychology Press. 2004. ISBN 978-1-84169-099-5.  引文使用过时参数coauthors (帮助); 外部链接存在于|publisher=, |title= (帮助)
+Cacioppo, John T.; Penny S. Visser, Cynthia L. Pickett (eds.). Social Neuroscience: People Thinking about Thinking People. MIT Press. 2005. ISBN 0-262-03335-6.  引文使用过时参数coauthors (帮助)
+Harmon-Jones, E.; P. Winkielman. Social Neuroscience: Integrating Biological and Psychological Explanations of Social Behavior. Guilford Press. 2007. ISBN 978-1-59385-404-1.  引文使用过时参数coauthors (帮助)
+van Lange, P.A.M. (2006). "Bridging Social Psychology: Benefits of Transdisciplinary Approaches." Mahwah, NJ: Lawrence Erlbaum Associates.
+
+参考文献[编辑]
+
+
+^ Cacioppo, J. T., & Berntson, G. G. (1992). Social psychological contributions to the decade of the brain: Doctrine of multilevel analysis. American Psychologist, 47, 1019-1028.
+^ Cacioppo, J.T. et al. (2007). Social neuroscience: progress and implications for mental health. Perspectives on Psychological Science, 2, 99-123.
+^ Drake, R. A., & Sobrero, A. P. (1987). Lateral orientation effects upon trait behavior and attitude behavior consistency. Journal of Social Psychology, 127, 639-651.
+^ Cacioppo, J. T., Petty, R. E., & Quintanar, L. R. (1982). Individual differences in relative hemispheric alpha abundance and cognitive responses to persuasive communications. Journal of Personality and Social Psychology, 43, 623-636.
+^ Tomarken, A. J., & Davidson, R. J. (1994). Frontal brain activity in repressors and nonrepressors. Journal of Abnormal Psychology, 103, 339-349.
+^ Herrington, J. D., Mohanty, A., Koven, N. S., Fisher, J. E., Stewart, J. L., Banich, M. T., et al. (2005). Emotion-modulated performance and activity in left dorsolateral prefrontal cortex. Emotion, 5, 200-207.
+^ Drake, R. A., & Bingham, B. R. (1985). Induced lateral orientation and persuasibility. Brain and Cognition, 4, 156-164.
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+神经科学
+
+
+
+
+
+
+基础科学
+
+
+
+行为表观遗传学（英语：Behavioral epigenetics）
+行为神经病学
+行为遗传学
+脑机接口
+细胞神经科学
+計算神經科學
+连接组学
+进化神经科学（英语：Evolutionary neuroscience）
+成像遗传学（英语：Imaging genetics）
+整合神经科学（英语：Integrative neuroscience）
+分子神经科学（英语：Molecular neuroscience）
+神经发育
+神经工程
+神经网络（人工的以及生物的）
+神经信号处理
+神经组织再生
+神经生物工程学
+神经生命学
+神经心脏病学
+神經化學
+神经芯片
+神經多樣性
+胚胎学
+神经内分泌学
+神经行为学
+神经遗传学
+神经免疫学
+神经信息学
+神经测量学
+神经调制
+神经功能监测
+神经物理学
+神经生理学
+神经可塑性
+神经机器人学（英语：Neurorobotics）
+神经技术（英语：Neurotechnology）
+神經毒素
+神经递质
+
+
+
+
+
+
+
+
+
+
+
+临床神经科学（英语：Clinical neuroscience）
+
+
+
+行为神经学
+临床神经生理学（英语：Clinical neurophysiology）
+神经退行性疾病
+神经发育疾病
+神经成像
+神經內科
+神经流行病学
+神经眼科学
+神经解剖学
+神经胃肠病学
+神经重症护理
+神經學
+神经肿瘤学
+神经病理学（英语：Neuropathology）
+神经义肢技术
+神经药理学（英语：Neuropharmacology）
+Neuroradiology（英语：Neuroradiology）
+Neurorehabilitation（英语：Neurorehabilitation）
+神經外科
+神经病毒学（英语：Neurovirology）
+精神病学
+神经精神病学
+神经耳科学
+古神经病学（英语：Paleoneurology）
+
+
+
+
+
+
+
+
+认知神经科学
+
+
+
+情感神经科学（英语：Affective Neuroscience）
+行为神经科学
+時間生物學
+文化神经科学（英语：Cultural neuroscience）
+教育神经科学（英语：Educational neuroscience）
+分子细胞认知（英语：Molecular cellular cognition）
+神经语言学
+生物心理学
+神经心理学
+Sensory neuroscience（英语：感官神经科学）
+社会神经科学
+Systems neuroscience（英语：系统神经科学）
+
+
+
+
+
+
+
+
+非科学
+
+
+
+神经经济学
+神经语言学
+神经哲学（英语：Neurophilosoph）
+神经伦理学
+神经社会学（英语：Neuro-sociology）
+神经神学（英语：Neurotheology）
+
+
+
+
+
+
+
+
+
+
+
+ 书籍
+ 神經科學的條目分類
+ 共享資源
+ 神經科學主題
+ 專題
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+神经科学
+
+
+
+
+
+
+
+神經科學概要（英语：Outline of neuroscience）
+
+
+
+
+
+
+基础科学
+
+
+
+行為的遺傳訊息學（英语：Behavioral epigenetics）
+行为遗传学
+細胞神經科學（英语：Cellular neuroscience）
+計算神經科學
+连接组学
+影像遺傳學（英语：Imaging genetics）
+整合性神經科學（英语：Integrative neuroscience）
+分子神經科學（英语：Molecular neuroscience）
+神经工程
+神經解剖（構造）學
+神經化學
+神經內分泌學（英语：Neuroendocrinology）
+神經基因學（英语：Neurogenetics）
+神经信息学
+神經測量學（英语：Neurometrics）
+神經科學與生物形態學（英语：Neuromorphology）
+神經物理（英语：Neurophysics）
+神经生理学
+
+
+
+
+
+
+
+
+
+
+
+臨床神經科學（英语：Clinical neuroscience）
+
+
+
+行為神經學
+臨床神經生理學（英语：Clinical neurophysiology）
+神經心臟學（英语：Neurocardiology）
+神經流行病學（英语：Neuroepidemiology）
+神經與消化系統學（英语：Neurogastroenterology）
+神經免疫學（英语：Neuroimmunology）
+神經重症學
+神經內科
+神經腫瘤學（英语：Neurooncology）
+神经眼科学
+神經病理學（英语：Neuropathology）
+神經藥學（英语：Neuropharmacology）
+神经假体
+神經與精神病學（英语：Neuropsychiatry）
+神經放射學（英语：Neuroradiology）
+神經復健學（英语：Neurorehabilitation）
+神經外科
+神經病毒學（英语：Neurotology）
+神經病毒學（英语：Neurovirology）
+營養與神經科學（英语：Nutritional neuroscience）
+精神病学
+
+
+
+
+
+
+
+
+認知神經科學
+
+
+
+情感神經科學（英语：Affective neuroscience）
+生物心理学
+時間生物學
+分子細胞的認知（英语：Molecular cellular cognition）
+肌肉運動的/運動神經的控制（英语：Motor control）
+神经语言学
+神经心理学
+感知神經科學（英语：Sensory neuroscience）
+社会神经科学
+系統神經科學（英语：Systems neuroscience）
+
+
+
+
+
+
+
+
+跨領域
+
+
+
+消費性神經科學（英语：Consumer neuroscience）
+文化的神經科學（英语：Cultural neuroscience）
+教育的神經科學（英语：Educational neuroscience）
+Evolutionary neuroscience（英语：Evolutionary neuroscience）
+神經人類學（英语：Neuroanthropology）
+神經生物工程（英语：Neurobioengineering）
+神經與生態學（英语：Neurobiotics）
+神經科學與犯罪學（英语：Neurocriminology）
+神經經濟學
+神經科學與哲學的認識理論（英语：Neuroepistemology）
+Neuroesthetics（英语：Neuroesthetics）
+神經科學與倫理道德（英语：Neuroethics）
+神经行为学
+神經科學與歷史學（英语：Neurohistory）
+神經科學與法律（英语：Neurolaw）
+神經科學與行銷學（英语：Neuromarketing）
+神經科學與現象學
+神經科學與哲學（英语：Neurophilosophy）
+神經科學與政治學（英语：Neuropolitics）
+神經科學與機器人（英语：Neurorobotics）
+神經科學與社會學（英语：Neurosociology）
+神經科學與宗教學（英语：Neurotheology）
+神經科學與古生物學（英语：Paleoneurology）
+
+
+
+
+
+
+
+
+概念
+
+
+
+腦機介面
+神經發展（英语：Neural development）
+人工神经网络
+生物神经网络
+信号检测理论
+多執行之神經生理監測（英语：Intraoperative neurophysiological monitoring）
+神經晶片（英语：Neurochip）
+神经退行性疾病
+神經發展及疾患（英语：Neurodevelopmental disorder）
+神經多樣性（英语：Neurodiversity）
+神经发生
+神经成像
+神經免疫系統（英语：Neuroimmune system）
+神經管理（英语：Neuromanagement）
+神經調節
+神经可塑性
+神經科技（英语：Neurotechnology）
+神經毒素
+
+
+
+
+
+
+
+
+
+
+
+ 相關書籍（英语：Book:Neuroscience）
+ 神經科學的條目分類
+ 共享資源
+ 神經科學主題
+ 專題
+
+
+
+
+
+
+
+
+
+
+
+
+分类：神經科學生物心理学认知神经科学神经心理学社会科学認知科學心理學分支社會心理學隐藏分类：含有过时参数的引用的页面引文格式1错误：外部链接

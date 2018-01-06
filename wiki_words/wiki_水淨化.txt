@@ -1,0 +1,199 @@
+水淨化
+水淨化（英语：Water purification），是指從原水中除去污染物的淨化過程，其目的是以特定的程序達到把水淨化的效果，並用水作不同的用途；大多數的水都是提供人類飲用的。淨化水亦可作很多其他不同的用途如醫學、藥理學、化學及工業之用。
+大部分地區在進行水質消毒時，都會使用消毒劑(傳統的氯氣或氯胺)。在消毒的過程中，低含量的消毒副產物在消毒劑與水中的有機物相遇時而作出化學反應而產生。而消毒副產物有機會是一種致癌物質，水淨化可以是去除消毒副產物和水中帶的沙、有機質的懸浮微粒、寄生蟲、籃氏賈第鞭毛蟲、隱孢子蟲、細菌、藻類、病毒及真菌等等，及礦物如鈣、二氧化矽及鎂等等，和一些有毒性的金屬如鉛、銅及鉻等等。
+
+
+
+目录
+
+
+1 淨化的方式
+2 參考來源
+3 外部連結
+4 參看
+
+
+
+淨化的方式[编辑]
+
+去除懸浮物
+
+
+過濾（使用活性炭、離子交換樹脂……等作為濾心）
+沉澱（使用明矾加速沉澱）
+超声波霧化、冷凝
+
+
+去除離子和其他溶解物質
+
+
+曝氣、然後沉澱、過濾
+逆滲透、超濾
+硬水軟化
+去離子
+
+
+消毒
+
+
+氯化（自來水常用的消毒方式）
+二氧化氯
+紫外線
+臭氧
+沸騰
+
+參考來源[编辑]
+
+Masters, Gilbert M. Introduction to Environmental Engineering. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1998.
+United States EPA Ground and Drinking Water Homepage. EPA Ground and Drinking Water Homepage Visited 12/13/05
+Viessman, Warren, and Mark J. Hammer. Water Supply and Pollution Control. 7th ed. Upper Saddle River, NJ: Prentice Hall, 2005.
+
+外部連結[编辑]
+
+水淨化的技術歷史
+American Water Works Association
+National Safety Foundation
+Code of Federal Register - CFR Title 21 Part 129 Helpful information and water tank installation instructions
+Consumer report and advice on home water purification
+家居淨水消除消毒副產物
+
+參看[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：水淨化
+
+
+
+懸浮固體
+廢水處理技術列表
+微量過濾
+污水
+污水處理
+節約用水
+中水
+水處理
+水自净
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+環境科技
+
+
+
+
+
+
+
+
+
+適用技術
+環境設計
+环境影响评价
+可持續發展
+永續設計
+
+
+
+
+
+
+
+
+
+
+
+污染
+
+
+
+空氣污染（排放標準（英语：Emission standard）、擴散模式）
+工業生態學
+固體廢物處理（英语：List of solid waste treatment technologies）
+污染物排放控制技术
+水（農業廢水處理（英语：Agricultural wastewater treatment）、工業廢水處理（英语：Industrial wastewater treatment）、污水處理、廢水處理技術、水淨化、截流站）
+
+
+
+
+
+
+
+
+可再生能源
+
+
+
+替代能源
+能源有效利用（英语：Efficient energy use）
+能源开发
+能量回收（英语：Energy recovery）
+燃料（替代燃料、生物燃料、碳中性燃料（英语：Carbon neutral fuel）、氫技術（英语：hydrogen technologies））
+可再生能源（商業化）
+可持續能源
+交通（電動載具、混合動力車輛）
+
+
+
+
+
+
+
+
+保育
+
+
+
+生育控制
+建築（綠色、自然、可持續建築（英语：Sustainable architecture）、新都市主義）
+保育生物學
+保育倫理
+生態林業（英语：Ecoforestry）
+環境維護
+環境補救（英语：Environmental remediation）
+綠色計算
+樸門
+資源回收
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4064698-1
+NDL: 00932173
+
+
+
+
+
+
+
+
+
+
+
+
+分类：飲用水水水处理水污染資源回收再利用隐藏分类：包含规范控制信息的维基百科条目

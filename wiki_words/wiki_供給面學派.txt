@@ -1,0 +1,372 @@
+供給面學派
+
+
+
+
+
+
+
+
+供給面學派（英语：Supply-side economics）是宏觀經濟思想[1][2]的一種，認為可以由降低生產（供應）商品和服務的障礙來有效地創造經濟增長。根據供給學派的看法，消費者會從中受益，生產者以更低的價格提供更多的商品和服務；并且，投资和业务扩张会增加对雇员的需求从而创造就业。供給面學派具有代表性的建議是降低邊際稅率和放松管制。[3]
+“供给面学派”一词有一段时间被认为是记者裘德·万尼斯基（Jude Wanniski）1975年所创，但根据罗伯特·D·阿特金森（Robert D. Atkinson）的《供给面的愚蠢》，[4] “供给面”一词（“供给面财政主义者”）最早是由尼克松总统的前经济顾问赫伯特·斯坦（Herbert Stein）使用，一年后的1976年由裘德·万尼斯基重复。它的使用隐含着经济学家罗伯特·蒙代尔（Robert Mundell）和阿瑟·拉弗（Arthur Laffer）的思想。供给面学派被评论家喻为涓滴经济学理论，[5][6][7] 然而实际上涓滴经济学理论可能并没有得到任何一位经济学家的真正支持。[8][9]
+拉弗曲线说明了供给学派经济学的核心理论，即降低税率可能带来更多的税收收入，这是相对于预期在低税率下可能得到的收入而言的。因为摆脱过高的税收体系会产生更多的经济活动，这将带来税收收入增长的机会。[10][11] 不过，拉弗曲线只衡量税率，而不是税收负担，税收负担才是税法变化是否促进或抑制经济的一个更强的预测指标。[12] 此外，有研究显示，美国过去几十年的减税很少能抵偿财政收入损失，且对GDP增长的影响极小。[13]
+
+
+
+目录
+
+
+1 历史渊源
+2 拉弗曲线
+3 财政政策理论
+4 对税收收入的影响
+5 美国货币和财政经验
+
+5.1 里根经济学
+5.2 2000年以来的研究
+
+5.2.1 布什减税
+
+
+
+
+6 批评
+7 参见
+8 注释和参考
+9 外部链接
+
+
+
+历史渊源[编辑]
+
+
+
+
+罗伯特·蒙代尔
+
+
+1970年代供给面经济学对应于凯恩斯主义经济政策发展起来，尤其是在1970年代的滞胀中以稳定经济为目的的需求管理遭遇失败时。[14] 它吸取了一系列非凯恩斯主义经济思想，特别是芝加哥学派和新古典主义学派。[15][16] 布鲁斯·巴特利特（1970年代的滞胀中）是供给面经济学的倡导者，将这一学派的思想追溯到哲学家伊本·哈勒敦和大卫·休谟、讽刺作家乔纳森·斯威夫特、政治经济学家亚当·斯密，甚至是美国开国元勋亚历山大·汉密尔顿。[17]
+然而，供给面经济学作为一种现代现象的独特之处在于其提供了支持低税率的论据，且该论据主要基于共同且明显的工薪阶层原因，而不是传统的意识形态理由。古典自由主义者反对税收，因为他们反对管制，税收是最明显的管制形式。他们的主张是每个人对自己和自己的财产拥有权利，因此税收是不道德的且合法基础存在问题的。[18] 另一方面，供给面学派的经济学家认为所谓的共同利益（即就业机会）为减税提供了主要的动力。
+如同古典经济学，供给面学派提出，生产或供给是经济繁荣的关键，消费或需求仅仅是次要的结果。这种想法早已在经济学的萨伊定律被总结为：“一件商品不早不晚，正是在它被创造出那一瞬间，使其他商品的市场能够负担起这件商品充分的自身价值。”约翰·梅纳德·凯恩斯，凯恩斯主义的创始人，将萨伊定律总结为“供给创造自己的需求。”1930年代他颠倒萨伊定律，宣称需求创造自己的供给。[19]
+1978年，裘德·万尼斯基发表了《世界运行的方式》（The Way the World Works），他阐述了供给面学派的中心议题，描述1970年代尼克松任内高税率累进所得税制度和美国货币政策的失败。
+1983年，阿瑟·拉弗的追随者经济学家维克托·坎托（Victor Canto）出版了《供给面经济学基础》。[20] 该理论侧重边际税率对工作激励和储蓄的影响，这也会影响到“供给面”或凯恩斯主义者所说的潜在产出的增长。
+拉弗曲线[编辑]
+
+
+
+
+拉弗曲线：t* 代表能产生最大税收收入的税率。该曲线由亚瑟·拉弗绘制，[21] 不过，曲线不需要是单峰、对称的，或者峰在50%的位置上。
+
+
+拉弗曲线体现了供给面经济学的基本信条：政府税收收入在税率100%和0%时是相同的（都是零），两者之间存在一个最大化税收收入的税率。[22] 供给面学派受到拉弗曲线思想的强烈影响，其宣称税率和税收收入是有区别的，税率过高或过低都会导致税收收入低于最大值。供给面学派认为在高税率的情况下，降低税率将导致税收收入增加，或者税收收入损失小于只依赖之前税基的静态预测值。[23]
+这导致了供给面学派支持大幅度降低边际收入和资本利得税率，以鼓励资产配置到投资中，从而带来更多供给。裘德·万尼斯基和其他许多人主张零资本利得税。[24][25] 总供给增加会导致总需求增加，“供给面经济学”得名于此。
+而且，在应对通胀，供给面学派支持指数化的边际所得税率，因为通货膨胀在边际所得税等级不变时会把工薪阶层推入更高的纳税等级；也就是说，因为工资与价格增加以保持购买力不变，所得税税级没有相应调整，因而工薪阶层会被推入更高的所得税等级，但这可能并非税收政策的意图。[14]
+根据拉弗中心的研究，“起始税率越高，减税带来的供给面刺激就会越大。”[23] 肯尼迪曾将最高边际税率从91%减至65%。[26] 里根曾经将最高边际税率从50%减到28%，[27] 而且其任期内的政府财政收入有所增加。[28] 里根政府与肯尼迪政府用一句古语来解释这种社会经济变化，“潮涨众船高（a rising tide lifts all boats）。”[29]
+拉弗曲线仅与实际税收收入相关，并不会做出税收收入占GDP百分比的预测。拉弗曲线表明若税率过高，降低税率会使以美元计的总税收收入可能在短暂下跌后变得更高。因为经济活动有所增加。税收收入也有可能降低，或者不变。[23]
+财政政策理论[编辑]
+
+
+
+
+供给面经济学提出税收减少可能带来经济增长。然而，历史数据表明较低的最高边际税率与GDP增长率之间没有显著的相关性。[30]
+
+
+供给面经济学认为税收增加会减少一国之内经济参与者之间的经济活动，并且阻碍投资。税收起到了一种贸易壁垒或关税的作用，导致经济参与者采取更低效率的手段满足自己的需求。因此，较高的税收会导致降低专业化水平和经济效率。据说拉弗曲线表达了这一想法。 (Case & Fair, 1999: 780, 781).
+对于供给面理论而言至关重要的是扩大自由贸易和资本的自由流动。自由的资本流动加上古典理论中的比较优势，往往能使经济扩张。降低税收对贸易的壁垒为国内经济提供了来自低关税壁垒的国际经济优势。
+供给面学派的经济学家很少提及减税对财政赤字的影响，有时会引用罗伯特·巴罗指出理性的经济人将购买足够数额的债券以降低长期利率。[31] 反之，批评者认为标准汇率理论预测高财政赤字国家的货币会贬值，并最终“挤出”私人投资。
+蒙代尔认为“财政纪律是习得的行为。”换一种说法就是，持续财政赤字导致的不利结果最终会迫使政府减少支出，使之与收入水平相符。这一观点也被维克多·坎托（Victor Canto）所提倡。
+核心问题在于降低投资部门的流动性收益的那一点：是否存在这样一点能使额外的货币去“ 推绳子 ”（pushing on a string）？对于供给面学派的经济学家来说，资源从消费转移到私人投资，特别是从公共投资到私人投资的重新配置，总能带来更好的经济结果。
+但是，在标准的货币主义和凯恩斯理论中，存在一点，在此处资产价格上涨将不会带来新增供给。投资需求超过潜在的投资供给会导致资产价格膨胀，或者说泡沫。这一点存在与否以及其应存在于何处，是供给面经济学功效的重要问题。
+对税收收入的影响[编辑]
+
+
+
+
+美国联邦政府的税收收入占GDP百分比，从1945年至2015年（注意2010至2015年数据为估算）。
+
+
+许多供给面学派的早期支持者认为，经济增长的幅度将会足够显著，以至于从一个高速增长的经济中得来的政府收入增加，足以完全补偿减税的短期成本，而且减税事实上有可能使总收入增加。[22] 然而一些经济学家指出事实上财政收入占GDP的比例在里根任期内有所下降。[32]
+虽然“供给面经济学”可能是后来得名的，这种想法却在1920年代进行过实验。所得税率在20年代初被削减过几次，总体上将平均税率减少近半。虽然主张减税者声称减税将增加税收收入，但这并没有发生。所得税收入没有达到甚至接近过1920年的水平，直到1941年税率恢复到1920年水平。[33][34]
+一些当代经济学家并不认为供给面经济学是站得住脚的经济理论，艾伦·布林德（Alan Blinder）在2006年的教科书中称它是“命运多舛”而且可能有些“愚蠢的”学派。 [35] 格里高利·曼昆，乔治·W·布什总统的经济顾问委员会前主席，在他经济学入门教科书的早期版本中同样对该学派进行了尖锐的批评。[36] 在1992年哈佛国际评论的文章里，詹姆斯·托宾（James Tobin）写道：“减税政策实际上会增加税收收入的想法应该被嘲笑......”[37]
+
+供给面经济学的极端承诺没有实现。里根总统认为，由于拉弗曲线描绘的效果，政府能够维持开支，降低税率，并且平衡预算。情况并非如此。政府收入比起没有减税时所能获得的收入大幅下滑。
+– Karl Case & Ray Fair, Principles of Economics (2007), p. 695.[38]
+
+供给面学派的支持者 Trabandt 和 Uhlig 认为，“静态评价会高估削减劳动和资本税收导致的税收收入损失”，[39] 而“动态评价”是减税效果更好的评价指标。为了应对这些批评，2003年国会预算办公室进行了由供给面学派倡导者主张的对于减税的动态评价分析；研究使用的九个模型中有两个预测未来十年内减税会使财政赤字大为改善，而其他七个模型没有得出这一结论。[40]
+美国货币和财政经验[编辑]
+供给面学派经济学家寻求降低资本形成的边际税率和经济增长之间的因果关系。1960年以来供给面经济学的历史具有以下关键转折点：
+里根经济学[编辑]
+主条目：雷根经济学
+
+
+
+
+1981年7月里根在椭圆形办公室发表电视讲话，概述其减税计划。
+
+
+罗纳德·里根使供给面经济学成为家喻户晓的短语，并承诺全面削减所得税率以及更大幅度地减少资本利得税率。(Case & Fair, 1999: 781, 782)
+在1980年共和党总统候选人提名的竞争中，老布什将里根的供给面政策嘲弄为“巫术经济学”。不过，后来他似乎也口头承诺过这些政策以获得1988年共和党提名，一些人推测他在1992年竞选连任中失败是因为允许税收增加。（见：“听好了，不加税”。）
+在美国，评论者经常将供给面经济学与里根经济学等而视之。罗纳德·里根的财政政策主要基于供给面经济学。里根1980年的总统竞选中，核心的经济问题在于两位数的通胀，里根将之形容为“过多的美元追逐过少的商品”。货币紧缩、经济衰退和裁员等治理方法会带来生产和财富的损失。比起那些常用方法，他承诺以渐进且无痛的方式来对抗通胀，即“生产出我们的出路”（producing our way out of it）。[41]
+美联储主席保罗·沃尔克从早期的货币主义政策开始转向紧缩货币的政策，降低经济体系内货币供应增速来改变通胀心理和消除通胀预期。[42] 因此，供给面学派认为，“里根经济学”只是部分基于供给面经济学。然而，里根任内国会通过一项五年内减税7490亿的计划。其结果是，杰森·希莫威茨（Jason Hymowitz）将里根——和杰克·肯普（Jack Kemp）一起——称为供给面经济学的伟大倡导者，不断称赞他的领导。[43]
+对“里根经济学”的批评称它的收益并没有供给面学派承诺的那样夸张。克鲁格曼后来总结了这种情况：“当罗纳德·里根当选，供给面学派获得机会尝试自己的想法。不幸的是，他们失败了。”虽然他赞扬供给面经济学比他所称的“让经济变成废墟”的货币主义更成功，他还是表示供给面经济学产生的结果远远小于它所承诺的，将供给面理论描述为“免费午餐”。[44]
+克鲁格曼和其他批评者指出里根政府财政赤字的增加，正是拉弗曲线错误的证明。供给面学派的倡导者声称，税收收入增加，但支出增长更快。他们通常指的是总税收收入，[45] 虽然所得税率被削减但其他税收，特别是工资税却明显上升。[46] 该表也没有考虑通货膨胀。例如，税收收入从1984年的6006亿增加到1984年的6665亿，有260亿是由于通货膨胀，183亿来自企业税和214亿来自社会保险收入（主要是FICA税）。[47]
+以不变美元计算的所得税收入那一年减少了27.7亿美元。供给面学派没有合理地扣除​​FICA税税收收入的增加，因为在1983年FICA税税率从6.7%提高到7%，上限增加了2100美元。对于个体经营者，FICA税率从9.35%增加到14%。[48] FICA税率在整个里根任期上升，1988年升至7.51%，上限在里根的两届总统任期里提高了61%。对工薪阶层的增税，加上通货膨胀，是1980年代初收入增长的来源。[49]
+一些供给面学派的批评者声称，降低税收来增加税收收入的观点是用来“耗尽”政府收入的幌子，是希望减税带来政府支出的相应下降。然而，支出方面的状况并非如此；保罗·萨缪尔森称这种观点为“绦虫理论——认为去掉绦虫的办法是刺伤你病人的胃”。[50]
+供给面学派支持者如万尼斯基反驳说，因为这一理由支持供给面学派税收政策的社会和财政保守主义者是被误导并且没有理解拉弗曲线。[51]
+“供给面经济学”一词的意义经常在两种含义之间出现混淆，前者是拉弗曲线的相关理念，后者是降低税率可以增加税收的想法。但是，许多供给面经济学家怀疑后者，但依然支持减税的总方针。经济学家格雷戈里·曼昆在其教科书《宏观经济学原理》第三版“骗子与怪人”部分中，用“昙花一现经济学”（fad economics）一词形容削减税率能增加税收的想法：
+
+昙花一现经济学的一个例子发生在1980年，一小群经济学家劝说总统候选人罗纳德·里根，说全面削减所得税率将增加税收收入。他们认为如果人们能保留其收入的较高比例，就会工作更加努力，以赚取更多的收入。尽管税率较低，税收收入将增加。几乎所有职业经济学家，包括大多数支持里根提议的学者，都认为这一结果太过乐观了。较低的税率可能鼓励人们更努力地工作，这额外的努力将一定程度上抵消降低税率的直接影响，但没有可信的证据表明，工作努力会上升得足够大，以导致低税率下税收收入的增加。……那些尝试流行的节食计划的人损害自己的健康，却很少能实现他们所期望永久减轻体重。同样，当政客依靠骗子和怪人的建议，他们也很少能得到他们期待的良好效果。里根当选后，国会批准了里根倡导的削减税率，但减税没有导致税收收入上升。[52][53]
+
+2000年以来的研究[编辑]
+
+
+
+
+供给面经济学提出减税导致就业增长。美国历史状态数据表明结果是异质的。
+
+
+2003年，艾伦·穆雷（Alan Murray）是CNBC华盛顿分部主管和电视节目资本报告的合作主持人。当时国会预算办公室（CBO）进行了广泛的建模预测显示具体减税产生的收入增加效果，用他的话说，会“相对较小”。此后他宣布对供给面经济学的辩论已经“伴随着呜咽声”结束。[40] 穆雷还暗示， 丹·克里平（Dan Crippen）可能已经失去再次被任命为CBO动态评分问题负责人的机会。
+
+
+
+
+对高收入者（前10%）的减税与就业增长不相关，不过对税低收入者（后90%）的减税与就业增长相关。[54]
+
+
+在布什总统签署2003年减税政策之前，对经济政策研究所 （Economic Policy Institute，EPI）发布十位诺贝尔奖得主签署的声明，“经济学家反对布什减税声明”，其中指出：
+
+批准这些减税措施将恶化长期预算前景，增加这个国家的预期长期的赤字。财政状况恶化将降低政府为社会保险、医疗保障以及学校、卫生、基础设施和基础研究投资进行融资的能力。而且，提议的减税政策将产生更严重的税后收入不平等。[55]
+
+诺贝尔经济学奖得主米尔顿·弗里德曼承认减税措施将减少税收收入，并导致难以忍受的赤字，但他支持减税作为一种约束联邦开支的手段。[56] 弗里德曼将减少政府税收描述为“削减他们的津贴”。
+布什减税[编辑]
+经济政策研究所后来对布什减税政策的分析称，布什减税没能促进增长，因为所有宏观经济增长指标，除了房地产市场，都远低于2001到2005年经济周期的平均水平。这些批评者认为，布什减税仅仅是剥夺政府收入，增加赤字，恶化税后收入差距而已。[57] 不过EPI报告的发布之后，增长依然强劲，新的数据使报告结论出现争议。布什政府指出，GDP和整体就业数字的持续增长周期，增加了个人收入和减少了政府赤字。[58] 然而，布什政府的观点发表于2008年金融危机前夕。
+2012的美国纳税人救助法（American Taxpayer Relief Act，ATRA）推出之前，CBO估计布什减税的到期相比于目前政策将使收入提高8230亿美元，还本付息时会节省9500亿美元（占GDP的0.5%）。ATRA永久性延长了布什对收入低于400,000美元家庭的减税。[59]
+美国2001年和2003年减税政策的结果是喜忧参半。结果表明税收收入暂时下降，后来由于经济增长而恢复。在这种分析中，很难辨别税收收入减少的原因，因为2001年互联网泡沫破灭。2000财年联邦总收入为2.025万亿美元（通货膨胀调整后美元）。[60]
+2001年，布什总统签署了2001年经济增长与税收减免协调法案。没有等到新财年开始，所得税率的降低开始于2001年7月1日。此外，退税支票被送到每一个10月1日前提交2000年所得税纳税申报表的人那里，10月1日新财年开始。[61] 2001财政年度联邦收入为1.946万亿美元，比2000财年低790亿美元。更多的2001年税收减免在2002财年初生效，包括房地产、退休和教育储蓄减税。[62] 2002财年联邦收入为1.777万亿美元，比2000财年低2470亿美元。
+2003年，布什总统签署了2003年就业和增长减税调节法案。迅速降低了所得税率，并发出退税支票（没有等到新财年）。 [63] 2003财年联邦收入为1.665万亿美元，比2000财年低3600亿美元。2004财年联邦收入为1.707万亿，比2000财年低3180亿。2005财年联邦收入为1.888万亿，比2000财年低1370亿，但到2006年收入已经完全恢复（以通胀调整后美元计算），收入为2.037万亿，比2000财年高120亿。2001-2005财年联邦收入累计比2000财年低1.142万亿美元，这一金额预计到2011年恢复，2012年收入预计超过2000年4000亿。
+来自不同税收的联邦收入被削减、持平或增加。例如，社会安全保险税率保持不变，而适用该税的最高收入每年都在提高，导致那些更高收入的人比以前纳税更多。[64] 社会保障税收入逐年增加。一些税种的税率保持不变或增加，计算时将之包括在内的税收会掩盖税率下降的税种收入的下降幅度。所得税率降低，2001到2005年所得税收入与2000财年水平相比逐年减少，收入累计减少6400亿（按名义美元计算）。
+但是，到2006年，收入超过2000年水平。同样企业所得税率被削减，2001到2004财年收入均低于2000财年水平。但是，到2005年，通胀调整后的收入超过2000年收入的20%，到2006年高出近50%。由于减税发生在股市暴跌后，其影响也与经济衰退和9·11事件处于同一时代，还不清楚政府收入的暂时减少是减税的结果，还是影响经济的其他因素所导致。
+2006年，CBO发布一项题为“总统减税永久延长的动态分析”的研究。[65] 这项研究发现，在可能的最佳情况下，永久减税将使经济“长期内”增长0.7%。因为“长期”未被定义，一些评论家[66] 建议应采用20年，这会使全年最佳情况下的GDP增长等于0.04%。最佳情况下的增长仍不足以抵消减税的成本。之前CBO官方估计减税成本是等价于GDP的1.4%的税收收入。根据这项研究，在最佳的增长情况下，减税成本仍与GDP的1.27%相当。[66]
+这项研究受到许多经济学家批评，包括哈佛大学经济学教授格里高利·曼昆，其指出CBO使用的收入加权补偿劳动供给弹性很低。[67] 在发表于公共经济学期刊的论文中，曼昆和Matthew Weinzierl指出，目前的经济研究对劳动供给弹性适宜的取值在0.5左右，[68] 但曼昆博士也表示，“很不幸，关于这一问题的学术文献还远远没有定论。”
+国际货币基金组织（International Monetary Fund，IMF）2008年的一篇工作论文表示“劳动供给的极小变化会使拉弗曲线上升”但“劳动供给变化不会导致拉弗效应”。[69] 这与拉弗曲线的解释相反，拉弗曲线中税收收入增加被认为是劳动供给增加的结果。[70] 相反，他们提出拉弗效应的作用机制是“税率降低通过改善税收遵从来增加收入。”该研究特别检验了逃税率相对较高的俄罗斯的情况。这个案例中他们的税收遵从模型带来了显著收入增加：
+
+以俄罗斯为例说明减税对税收收入的潜在效果。俄罗斯推出统一为13%的个人所得税税率，以取代之前12%、20%和30%的三级税率（详情见Ivanova, Keen and Klemm, 2005）。免税收入也有所增加，进一步降低了税负。同时社会税改革实施，针对大多数纳税人的税率被大幅削减。但是，个人所得税（PIT）收入显著上升：在第二年名义收入上升26%，实际收入上升46%。更有意思的PIT收入已从占GDP的比例从2.4%上升到2.9%——相对于GDP增加了20%以上。第二年PIT的收入持续提高到3.3%，相对于GDP上涨14%。[69]
+
+2003年，有一项国会预算办公室的研究旨在预测目前提出的减税政策能否增加收入。该研究采用供给面学派支持的动态评价模型，并由供给面学派支持者进行。大多数应用模型预测提出的减税措施将不会增加收入。[40]
+批评[编辑]
+
+
+
+
+供给面经济学一直被批评使高收入者受益。图表显示了18个OECD国家1975-9到2004-8前1%收入份额变化与最高所得税率变动之间的关系。收入不平等的加剧和最高所得税率减少具有很强的相关性。[71]
+
+
+大卫·哈珀声称，一些经济学家将该理论斥为“没有什么特别新颖或具有争议的，只是古典经济学的最新观点。”[72]
+在2012年，大多数接受调查的经济学家拒绝将拉弗曲线的观点应用于当时中期的美国联邦所得税，观点假定通过削减税率会增加税收收入。当被问及“现在削减联邦所得税率能否带来足够的税收收入以使总税收收入五年内高于不减税时”，受调查的芝加哥大学经济学家无一人同意。35%赞同“现在削减美国的联邦所得税税率五年内会使GDP比不减税时更高。”[73]
+对供给面政策的批评强调联邦财政赤字和经常账户赤字增加，收入不平等加剧和促进经济增长政策的失败。[74]
+2006年华盛顿邮报的塞巴斯蒂安·马拉比（Sebastian Mallaby）引述乔治·W·布什、迪克·切尼、比爾·弗利斯特、查克·葛雷斯利和里克·桑托勒姆对布什政府减税政策影响的错误表述。[75] 2007年1月3日，布什写了一篇文章称“我们的减税已经促成了强劲的经济增长和创纪录的财政收入，这也是事实。” [76] 2003至2004年担任布什经济顾问委员会首席经济学家的 Andrew Samwick 对此回应称：
+
+你是聪明人。你知道这些减税没有促成创纪录的财政收入。你知道如何才能建立因果关系。你知道减税最初效果是降低税收收入。我们都同意税收收入的减少最终会比最初影响小，因为较低的税率鼓励更多的经济活动，从而扩大税基。没有哪个仔细考虑过的人相信这种抵消会大过减税的最初效果。没有一个会。[77]
+
+在国会预算办公室 （CBO）估计，将布什2001-2003年减税政策的延长到2010年会在未来十年增加1.8万亿美元的赤字。 [78] 2005年国会预算办公室还完成了一项研究，假定减少10%的所得税进行分析，结论认为在不同情况下会存在极小的对收入损失的抵消。换言之，赤字最初五年的增量会与减税额几乎相同，此后反馈收入有限。[79]
+偶尔会有政客宣称，减税会增加政府收入（例如2010年7月的 Mitch McConnell [80]），但批评者反驳说，拉弗曲线只是反映了这样一个假设，只有在税率峰值的右边削减税率才会增加收入，在税率峰值的左边削减税率会减少收入。因此，他们认为，从减税（见上段）引起的赤字增加表明过去的税率处于峰值的左侧。[80]
+税收制度的范式是奖励投资而非消费，这一点为各政治派别所接受，自1982年以来没有基于供给面经济学的计划有任何机会获得通过而成为法律（1993年的克林顿增税除外）。1986年，税收改革开始起草，蒙代尔称之为“供给面革命的完成”。它包含增加工资税，降低最高边际税率，以及增加资本利得税。它与抵押贷款利息扣除以及州税的累退效果相结合，产生了接近单一税的效果。蒙代尔和拉弗等支持者指出股市大幅上涨是减税成效的标志，但他们也评论资本利得的高涨带来的麻烦可能超出它的价值。
+削减边际税率也被视为使富人受益，如保罗·克鲁格曼的评论者认为这是由政治非经济动机所驱动。[81]
+
+这套独特的愚蠢想法名为“供给面经济学”，是一种古怪信条，如果其不受编辑和富人的青睐就不会有任何影响。[82]
+
+经济学家约翰·肯尼思·加尔布雷思写道，“戴维·斯托克曼先生曾说，供给面经济学仅仅是涓滴式经济政策的伪装——古老且欠优雅的一代称之为马和麻雀理论：如果你喂给马足够多的燕麦，有些燕麦就会掉在路面上给麻雀吃。（If you feed the horse enough oats there is more chance that some will pass through to the road for the sparrows.）”[83]
+参见[编辑]
+
+需求面经济学
+财政保守主义
+金本位
+货币主义
+撒切尔主义
+
+注释和参考[编辑]
+
+
+^ Neva Goodwin; Jonathan M. Harris; Julie A. Nelson; Brian Roach; Mariano Torras. Principles of Economics in Context. Routledge. 4 March 2015: 286. ISBN 978-1-317-46217-0. supply-side-economics: the macroeconomic theory [...] 
+^ Dwivedi. Macroeconomics, 3E. Tata McGraw-Hill Education. 2010: 372. ISBN 978-0-07-009145-0. The supply-side economics is the most recent macroeconomic thought. 
+^ Wanniski, Jude. The Way the World Works: How Economies Fail—and Succeed. New York: Basic Books. 1978. ISBN 0-465-09095-8. 
+^ Atkinson, Robert D. Supply-side Follies: Why Conservative Economics Fails, Liberal Economics Falters, and Innovation Economics Is the Answer. Lanham: Rowman & Littlefield, 2006. p. 50. Print.
+^ Martin, Douglas. Jude Wanniski, 69, Journalist Who Coined the Term 'Supply-Side Economics,' Dies. New York Times. 2005-08-31. 
+^ Amadeo, Kimberly. Trickle-Down Economics and Its Effects. IAC/Interactive Corp. [12 November 2012]. 
+^ Duncan Watts. Dictionary of American Government and Politics. Edinburgh University Press. 31 January 2010: 299. ISBN 978-0-7486-3502-3. Trickle-down economics refers to the economics theory which states [...] 
+^ Why attack ‘trickle-down economics?’ It doesn’t exist – and never has done. 
+^ Sowell, Thomas. "Trickle Down" Theory and "Tax Cuts for the Rich". Hoover Institution Press. Sep 20, 2012. （原始内容 (PDF)存档于Sep 24, 2012）. [footnote two says:] Some years ago, in my syndicated column, I challenged anyone to name any economist, of any school of thought, who had actually advocated a 'trickle down' theory. No one quoted any economist, politician or person in any other walk of life who had ever advocated such a theory, even though many readers named someone who claimed that someone else had advocated it, without being able to quote anything actually said by that someone else. 
+^ Papava, Vladimer. Theoretical Foundations of the Laffer Curve (PDF). Bulletin of the Georgian National Academy of Sciences. October 2008, 2 (4): 164 [7 October 2015]. 
+^ "The Laffer Curve," The Laffer Center, laffercenter.com
+^ Holter; 等. How Does Tax Progressivity and Household Heterogeneity Affect Laffer Curves? (PDF). Penn Institute for Economic Research. Centre for Economic Policy Research. November 2014 [29 July 2015]. 
+^ A review of the economic research on the effects of raising ordinary income tax rates 
+Do Tax Cuts Increase Revenue? 
+Tax Cuts: Myths and Realities 
+Treasury Dynamic Scoring Analysis Refutes Claims by Supporters of the Tax Cuts 
+Tax Cuts Still Don’t Pay for Themselves 
+Effects of Income Tax Changes on Economic Growth (PDF) 
+^ 14.0 14.1 Case, Karl E. & Fair, Ray C. (1999). Principles of Economics (5th ed.), p. 780. Prentice-Hall. ISBN 0-13-961905-4.
+^ https://books.google.co.uk/books?id=-zVTD8v_qlsC&pg=PA105&lpg=PA105&dq=supply+side+economics+chicago+school&source=bl&ots=SxMHIDvdL4&sig=5yhDLep2Qo701UChGMkscp0pcFk&hl=en&sa=X&ved=0CFYQ6AEwCGoVChMIqKvE0OfbyAIVQmsUCh1IVAgr#v=onepage&q=supply%20side%20economics%20chicago%20school&f=false
+^ https://books.google.co.uk/books?id=s8SEaWZrSEQC&pg=PA5&lpg=PA5&dq=neoclassical+supply+side+economics&source=bl&ots=xxp_fFF4kZ&sig=gHOR2-fqEuVdz-dKT3afaRuTjmY&hl=en&sa=X&ved=0CEkQ6AEwBmoVChMI1bPa-OfbyAIVgr8UCh156wWK#v=onepage&q=neoclassical%20supply%20side%20economics&f=false
+^ Bartlett, Bruce. Supply-Side Economics: "Voodoo Economics" or Lasting Contribution? (PDF). Laffer Associates: Supply-Side Investment Research. [2008-11-17]. 
+^ Gray, pp. 26–27 Liberalism. Minneapolis: University of Minnesota Press, 1995. ISBN 0-8166-2801-7
+^ Malabre, Jr., Alfred L. (1994). Lost Prophets: An Insider's History of the Modern Economists, p. 182. Harvard Business School Press. ISBN 0-87584-441-3.
+^ Canto, Victor. The Foundations of Supply-Side Economics. 1983. [失效連結]
+^ Laffer, Arthur. The Laffer Curve, Past, Present and Future.. Heritage Foundation. 2004-06-01 [2007-12-11]. 
+^ 22.0 22.1 Bartlett, Bruce. How Supply-Side Economics Trickled Down. New York Times. 2007-04-06. 
+^ 23.0 23.1 23.2 The Laffer Curve The Laffer Center
+^ Wanniski, Jude "Taxing Capital Gains"
+^ Alan Reynolds. Capital gains tax: Analysis of reform options for Australia (PDF). Hudson Institute. July 1999. 
+^ Jesse Gordon. OnTheIssues FactCheck: JFK lowered top income tax rate from 91% to 65%. OnTheIssues.org. Dec 2012 [2013-11-18]. 
+^ Jesse Gordon. OnTheIssues citation of "For the Record", by Donald Regan, p.284-285. OnTheIssues.org. May 1988 [2013-11-18]. 
+^ GPO, US Government Printing Office, Federal revenue, Table 2.1 - Receipts by Source: 1934–2016 https://web.archive.org/web/20141213012920/http://www.gpo.gov/fdsys/pkg/BUDGET-2012-TAB/xls/BUDGET-2012-TAB-2-1.xls. [September 26, 2014]. （原始内容存档于December 13, 2014）.  缺少或|title=为空 (帮助)
+^ Bouchard, Mike. A Rising Tide Lifts all Boats. townhall.com. 12 September 2006. 
+^ Taxes and the Economy: An Economic Analysis of the Top Tax Rates Since 1945 (PDF). The Wall Street Journal. 
+^ Reynolds, Alan. The "Conventional" Hypothesis: Deficit Estimates, Savings Rates, Twin Deficits and Yield Curves (PDF). Cato Institute. [2010-10-19]. （原始内容 (PDF)存档于August 6, 2009）. 
+^ Chait, J. The Big Con: How Washington Got Hoodwinked and Hijacked by Crackpot Economics. Boston: Houghton Mifflin. 2007. ISBN 0-618-68540-5. 
+^ Time Series Chart of Federal Income Taxes 1910-2010
+^ Ninety Years of Individual Income and Tax Statistics, 1916-2005
+^ Blinder, A. S. Can fiscal policy improve macro-stabilization. (编) Kopcke, E.; Tootell, G. M. B.; Triest, R. K. The macroeconomics of fiscal policy. Cambridge, MA: MIT Press. 2006: 23–62. ISBN 0-262-11295-7. 
+^ Quote from Mankiw with source in Bartels, L. M. Unequal democracy: The political-economy of the new gilded age. Princeton, NJ: Princeton University Press. 2008. ISBN 978-0-691-13663-9. 
+^ Tobin, J. Voodoo curse. Harvard International Review. 1992, 14 (4): 10. 
+^ Case, K. E.; Fair, R. C. Principles of Economics 8th. Upper Saddle Rive, NJ: Prentice Hall. 2007. ISBN 0-13-228914-8. 
+^ Microsoft Word – SFB DP Frontpage.doc
+^ 40.0 40.1 40.2 `Dynamic' Scoring Finally Ends Debate On Taxes, Revenue. By Alan Murray. Wall Street Journal. (Eastern edition). New York, N.Y.: April 1, 2003. pg. A.4
+^ Case & Fair, p. 781, 782.
+^ Malabre, Jr., pp. 170–171.
+^ Malabre, Jr., p. 188.
+^ Malabre, Jr., p. 195.
+^ Table 1, Historical budget data (PDF). Congressional Budget Office. （原始内容 (PDF)存档于November 1, 2007）. 
+^ Tax simplification simplified. Tax Policy Centre. （原始内容存档于October 24, 2007）. 
+^ Federal Government Finances and Employment 1990 – US Census Bureau
+^ Annual maximum taxable earnings and contribution rates – Social Security Administration
+^ The Reagan Tax Cuts: Lessons for Tax Reform – Joint Economic Committee
+^ Malabre, Jr., pp. 197–198.
+^ Stoking the Beast – Jonathan Rauch
+^ Scheiber, Noam. Can Greg Mankiw Survive Politics?. The New Republic. 2004-04-08. 
+^ Moore, Stephen. Think Twice About Gregory Mankiw. National Review. 2003-02-28. 
+^ Tax Cuts for Job Creators. The New York Times. 2012-10-19. 
+^ Economists' statement opposing the Bush tax cuts (2003)
+^ "What Every American Wants" by Milton Friedman
+^ The boom that wasn't
+^ Fact Sheet: October 2007 Marks Record 50th Consecutive Month of Job Growth
+^ http://www.epi.org/publication/raising-income-taxes/
+^ Historical Budget Tables, Budget of the United States Government, Fiscal Year 2008(page 26)
+^ Overview of the Tax Cut
+^ The 2001 Tax Cut
+^ Details of the Bush 2003 Tax Cut Plan
+^ Contribution and Benefit Base
+^ Microsoft Word – treasury dyn anal report jul 24 10am II FINAL.doc
+^ 66.0 66.1 Treasury Dynamic Scoring Analysis Refutes Claims by Supporters of the Tax Cuts, revised 8/24/06
+^ Greg Mankiw's Blog: CBO on Supply-side Economics
+^ Journal of Public Economics : Dynamic scoring: A back-of-the-envelope guide. ScienceDirect. [2009-12-03]. 
+^ 69.0 69.1 Papp, TK & Takáts, E. Tax rate cuts and tax compliance—the Laffer curve revisited (PDF). IMF Working Paper. 
+^ See p. 5: "Contradicting the traditional labor supply based explanation of the Laffer effect, measures of labor supply remained mostly unchanged."
+^ Optimal Taxation of Top Labor Incomes: A Tale of Three Elasticities Thomas Piketty, Emmanuel Saez, Stefanie Stantcheva, NBER, Nov., 2011
+^ Harper, David. Understanding Supply-Side Economics. 
+^ Laffer Curve. IMG Forum. University of Chicago Booth School of Business. [15 June 2015]. 
+^ Gale, W. G. & Orszag, P. R. Bush's Tax Plan Slashes Growth. The Brookings Institution. 2003-05-09 [2007-10-23]. 
+^ Mallaby, Sebastian. The Return Of Voodoo Economics. Washington Post. 2006-05-15. 
+^ Bush, George W. What the Congress Can Do for America. Wall Street Journal. 2007-01-03. 
+^ Vox Baby: A New Year's Plea. 
+^ Analysis of President's Budget Table 1-3 Page 6
+^ CBO Study Grey Box Page 1
+^ 80.0 80.1 Montopoli, Brian. GOP Argues Tax Cuts Increase Government Revenue. CBS News. 2010-07-14. 
+^ Krugman, Paul. The Tax Cut Zombies. New York Times. 2005-12-23. 
+^ Krugman, Paul R. The Return Of Depression Economics And The Crisis Of 2008. W.W. Norton ISBN 978-0-393-07101-6. 2009: 192. 
+^ Galbraith, John Kenneth. Recession Economics. New York Review of Books. 1982-02-04. 
+
+
+外部链接[编辑]
+
+Gwartney, James D. Supply-Side Economics. (编) David R. Henderson. Concise Encyclopedia of Economics 2nd. Indianapolis: Library of Economics and Liberty. 2008. ISBN 978-0865976658. OCLC 237794267. 
+The Logic of the Laffer Curve
+Portion of Mundell's Nobel Prize Lecture (awarded for unrelated work in optimum currency area) claiming that Supply Side Economics was responsible for growth, price stability and the collapse of the Soviet Union.
+Supply Side Library. A collection of essays and studies by Robert Mundell, Paul Craig Roberts, Stephen Entin and Alan Reynolds.
+SSU Summer Session Lesson #8 A Supply-Side History from wanniski.com
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+经济思想史
+
+
+
+
+
+
+前现代
+
+
+
+古代经济思想（英语：Ancient economic thought）
+伊斯兰经济
+经院哲学
+
+
+
+
+
+
+
+
+早期现代
+
+官房学派 · 重商主义 · 重农主义 · 薩拉曼卡學派
+
+
+
+
+
+
+现代
+
+美国学派 · 无政府主义经济学（英语：Anarchist economics） · 伯明翰学派（英语：Birmingham School (economics)） · 古典主义经济学 · 英国经济历史学派 · 法国自由学派 · 德国经济历史学派 · 经济历史学派 · 洛桑学派 · 马尔萨斯主义 · 曼彻斯特学派 · 马克思主义政治经济学 · 新重商主义 · 李嘉图经济学 · 国有社会主义 · 新重商主义
+
+
+
+
+
+
+20与21世纪
+
+奧地利經濟學派 · 能力方法 · 卡内基经济学派（英语：Carnegie School） · 芝加哥經濟學派 · 制度经济学 · 演化经济学 · 弗赖堡学派 · 货币主义 · 新制度经济学 · 参与型经济 · 斯德哥尔摩学派 · 公共选择理论 · 供给主义经济学 · 热经济学 · 新马克思主义经济学（英语：Neo-Marxian economics） · 第一代新古典主义经济学 · 第二代新古典主义经济学 · 凯恩斯主义经济学 · 第一代新凯恩斯主义经济学 · 第二代新凯恩斯主义经济学 · 后凯恩斯主义经济学
+
+
+
+
+
+
+有关
+
+
+
+经济学
+经济思想史
+主流經濟學
+非主流經濟學
+经济体系
+世界體系理論
+
+
+
+
+
+
+
+
+
+
+
+
+分类：經濟理論隐藏分类：带有失效链接的条目含有缺少标题的引用的页面含有裸露网址的引用的页面使用ISBN魔术链接的页面

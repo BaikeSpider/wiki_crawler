@@ -1,0 +1,658 @@
+污水處理
+
+
+
+
+污水处理的目的是生产不会对周围环境造成危害的一种一次性流出物，并防止污染。[1]
+
+
+
+
+
+
+滴濾池
+
+
+污水處理是處理水污染的重要過程。采用物理、生物及化学的方法主要对生活污水以及工业废水进行处理以分离水中的固体污染物并降低水中的有机污染物和富营养物（主要为氮、磷化合物），从而减轻污水对环境的污染。它的目标是生产环境安全的液体废物流（或经处理的污水）和固体废物（或污泥处理），适用于处理或再利用（通常为农场的肥料）。
+
+
+公共設施
+
+
+
+
+
+公共建築及設施
+
+
+
+
+機場
+橋
+寬頻
+運河
+維生管線
+水坝
+電能
+能源
+有害廢料處理（英语：Hazardous waste）
+醫院
+堤
+灯塔
+公園
+港口
+公共交通
+公共房屋
+公立學校
+公共空間
+鐵路
+道路
+固體廢物
+电信
+公用事业
+水管理
+
+供水
+排水
+下水道
+污水處理
+
+
+
+
+
+
+概念
+
+
+
+
+資產管理（英语：Infrastructure Asset Management）
+撥款（英语：Appropriation (law)）
+林達爾稅（英语：Lindahl tax）
+BOT模式
+设计-建造
+直接撥款
+固定成本
+工程合約
+外部性
+公债
+生命週期評估
+維修（英语：Maintenance, repair, and operations）
+自然垄断
+物業稅
+公私營合作
+投資（英语：Public capital）
+財政
+資產
+公共部門（英语：Public sector）
+整建
+改善（提升）
+溢出效應（英语：Spillover effect）
+供应链
+稅收
+
+
+
+
+問題和解決方案
+
+
+
+
+航空交通管制
+棕地
+碳足印
+貨櫃運輸（英语：Containerization）
+交通擠塞收費（英语：Congestion pricing）
+乙醇燃料
+燃油稅
+地下水
+高速鐵路
+混合動力車輛
+土地規劃（英语：Land-use planning）
+移动数据终端（英语：Mobile data terminal）
+政治分肥
+巴士系统
+資源回收
+可再生資源（英语：Renewable resource）
+逆滲透
+智慧電網
+明智開發
+暴風雨水（英语：Stormwater）
+城市蔓延
+交通堵塞
+TOD开发模式
+汽車效能（英语：Vehicle efficiency）
+垃圾轉化能源（英语：Waste-to-energy）
+極端天氣預防（英语：Weatherization）
+無線通訊
+
+
+
+
+研究領域
+
+
+
+
+建筑
+土木工程
+電機工程
+机械工程
+公共經濟學
+公共政策
+城市规划
+
+
+
+
+
+
+實例
+
+明石海峡大桥
+縱貫阿拉斯加管道
+德國高速公路
+巴西能源独立（英语：Energy policy of Brazil）
+布魯克林大橋
+英法海底隧道
+芝加哥污水回收系統（英语：Metropolitan Water Reclamation District of Greater Chicago）
+中国高速铁路
+巴西RIT巴士系統（英语：Rede Integrada de Transporte）
+丹麥的風力發電（英语：Wind power in Denmark）
+英國的離岸風力發電場（英语：List of offshore wind farms in the United Kingdom）
+法国核能利用情况
+德國太陽能使用情況（英语：Solar power in Germany）
+胡佛水壩
+香港國際機場
+城际特快列车
+州際公路系統
+印度賈姆訥格爾煉油廠（英语：Reliance Petroleum#Jamnagar Refinery）
+关西国际机场
+巴拿马运河
+上海港
+舊金山海灣大橋
+三峽大壩
+新幹線
+西班牙高速鐵道
+法国高速列车
+西班牙高速公路（英语：Highways in Spain）
+越洲鐵路
+美國輸電系統
+
+
+
+
+
+公共設施主題（英语：Portal:Infrastructure）
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+在广义上，污水处理也被定义为废水处理——包括工业废水的净化处理。在大部分城市中，一部分含有有机污染物和富营养物的工业废水会通过污水处理厂进行二次处理来减少有机污染物排放量。
+
+
+
+目录
+
+
+1 来源
+
+1.1 城市径流污水
+1.2 工业废水
+
+
+2 過程
+
+2.1 概况
+
+
+3 处理后的污水再利用
+4 各地污水处理情况
+
+4.1 臺灣
+4.2 香港
+
+
+5 參考文獻
+6 参见
+7 外部連結
+
+
+
+来源[编辑]
+污水主要来源于生活、生产及工业设施，包含由厕所、厨房、浴室等产生的生活污水，有的地区也包括工业污水、医疗污水及农业污水。
+如今，在发达国家及部分发展中国家，人们开始广泛的使用分离处理生活污水中黑水及灰水的设施。被处理过的灰水一般被再次收集来灌溉农田及冲洗马桶。
+城市径流污水[编辑]
+主条目：下水道
+城市径流污水包括雨水径流和城市径流，一般称同时处理污水和雨水的下水道系统为合流式下水道系统。自19世纪末期到20世纪早期第一个城市下水道系统建立以来，合流式下水道系统开始被广泛的使用。
+起初，设计合流式下水道是为了在干旱期间，使废水进入处理设施；在暴雨期间，使过量的水不经过处理，直接排入河流、小溪或湖泊。但实际上，暴雨会与未经处理的污水混合。因此，现代设计并不鼓励使用合流式下水道，并将原有的合流式下水道系统逐渐修缮为分流式下水道系统。[2]
+工业废水[编辑]
+主条目：工业废水处理
+工业废水处理是处理工业废水的一项重要措施。它在工业废水排入下水道之前对其进行的再次回收和处理，并以此减少工业废水中污染物含量，使其不容易腐臭。在高度规范的发达国家，这项技术得到了广泛运用。但在许多发展中国家，工业废水在不经过二次处理的情况下直接排入下水道或海洋、湖泊、河流等（称为受纳水体）。[3]
+過程[编辑]
+概况[编辑]
+污水收集和处理通常是受制于地方的，州的和联邦的法规和标准。污水工业源往往需要专门的治疗过程（见工业废水处理（英语：Industrial wastewater treatment））。
+污水处理通常包括三个阶段，稱為一级，二级和三级处理。
+
+一級處理：將污水中的固體垃圾、油、沙、硬粒以及其他可沉澱的物質清除。整個過程純粹為機械運作。
+
+過濾
+沉降：沉降池內的污泥可以用來發酵，製造甲烷，發酵後的污泥可作肥料。
+羽化：加入石灰與磷反應，以免它們成為海中藻類的養份。
+
+
+二級處理：將污水中的有機化合物分解為無機物。
+
+滴濾池（英语：Trickling filter）：水經過生物薄膜，分解水中的有機物
+曝氣：水會加入大量氧氣，幫助水中的細菌和真菌進行有氧分解。
+
+
+消毒：加入氯氣或臭氧，或經紫外光照射。
+三級處理
+
+沙濾
+經過活性碳，化解毒素。
+利用微藻（英语：Microphyte）生物清除重金屬。
+
+
+
+
+典型的生活污水处理厂常包含两级处理过程，即一、二级处理。污水经市政管网收集进入处理厂，由隔栅过滤去除其中较大的固体物，如泥沙、纸张、塑料等，然后进入第一级沉淀池（称为预沉池、一沉池）。污水在预沉池中停留数小时，待其中固体污染物沉降后，进入二级生物化学处理反应池。视采用处理手段的不同，反应池可以为好氧型曝气池、或厌氧型生物滤池（滴滤池）等。一般来说，好氧反应的处理量大，适合大中型城市采用。在曝气池中大量通入空气以促进好氧细菌生长。细菌以水中有机污染物为食，大量增长后形成污泥状悬浮物。此时将污水引入第二级沉淀池，将细菌和其他微生物为主的污泥沉降。运营良好的二级生化污水处理厂，处理后的污水在视觉、嗅觉上可以达到与清水相近。
+
+
+
+
+
+通过潜流人工湿地的典型处理厂（SFCW）的工艺流程图（英语：Process flow diagram）。
+
+
+
+处理后的污水再利用[编辑]
+主条目：中水
+中水（Reclaimed water），也叫再生水、再造水或回收水，是经过处理的污水回收再用。因为城市建设中将供水称为“上水”，污水排放称为“下水”，所以中水取其两者之间的意思。随着人类生产生活用水量的加大，而淡水资源的进一步枯竭和被污染，中水利用已经成为全世界关注的焦点。
+使用合适的技术，有可能重新使用（或重用）的污水为饮用水，尽管这通常仅发生有限的水供应的地方，例如温得和克和新加坡地完成。[4]
+在以色列，农业用水的50％左右（总使用量为10亿立方米，2008年）是通过回收下水道的水提供。未来的计划要求增加使用处理污水，以及更多的海水淡化厂。[5]
+各地污水处理情况[编辑]
+臺灣[编辑]
+
+A.數據
+
+
+
+
+
+污水處理廠
+
+
+根據臺灣內政部營建署，至2012年9月的污水統計數據為[6]：
+
+
+公共汙水下水道普及率
+31.42%
+
+
+專用汙水下水道普及率
+15.00%
+
+
+建築物汙水設施設置率
+15.22%
+
+
+汙水處理率合計
+61.64%
+
+
+
+B.辦法、處理案例
+
+需要進行放流水的業者得申請許可證、規劃相關的環境管理人員。[7]
+高雄市政府建立針對相關事業的放流水規範：事業廢水管制、臨海工業區水污染源管制、污水下水道系統廢(污)水管制、建築物污水管制、逕流廢水管制、加油站地下水管制[8]
+中壢工業區污水處理廠，分三期建造，第一期為前處理，第二期微生物處理設施，第三期為純氧生物處理法，建造至今目前平均進廠水量 24,364CMD(94年1–3月平均值)。[9]
+
+
+
+香港[编辑]
+
+
+
+
+沙田污水處理廠是香港目前最大規模的二級污水處理廠
+
+
+参见：渠務署
+香港的污水處理是由發展局屬下的部門渠務署所負責。根據渠務署2009-2010年報資料，渠務署管理277所污水處理設施，當中包括66所污水處理廠和211所泵房。每日平均處理約268萬立方米污水[10]。
+參考文獻[编辑]
+
+
+^ Khopkar, S. M. Environmental Pollution Monitoring And Control. New Delhi: New Age International. 2004: 299. ISBN 81-224-1507-5. 
+^ [1]环境工程概论
+^ 环境工程概论. 
+^ PUB (Singapore National Water Agency)(2011). "NEWater: History." 互联网档案馆的存檔，存档日期2013-06-10.
+^ Martin, Andrew. Farming in Israel, without a drop to spare. New York Times. 2008-08-10. 
+^ 全國污水下水道用戶接管普及率及整體污水處理率統計表 內政部營建署
+^ 事業廢水管理辦法法規名稱：事業廢水管理辦法 廢止時間：中華民國083年07月13日
+^ 高雄市政府環境保護局土壤及水污染防治科水污染管制
+^ 經濟部工業局中壢工業區服務中心--汙水處理
+^ 渠務署年報2009-2010. 渠務署網站. 2011 [2011-07-25]. 
+
+
+参见[编辑]
+
+
+环境主题
+
+
+
+水处理
+水净化
+污水
+废水处理技术列表
+
+外部連結[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：污水處理
+
+
+
+（英文）废水处理的交互图 - “顺其自然” – 水环境联合会（提供英文和西班牙文和法文）。
+（英文）Improved Modelling of Wastewater Treatment Primary Clarifier Using Hybrid Anns
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+環境科技
+
+
+
+
+
+
+
+
+
+適用技術
+環境設計
+环境影响评价
+可持續發展
+永續設計
+
+
+
+
+
+
+
+
+
+
+
+污染
+
+
+
+空氣污染（排放標準（英语：Emission standard）、擴散模式）
+工業生態學
+固體廢物處理（英语：List of solid waste treatment technologies）
+污染物排放控制技术
+水（農業廢水處理（英语：Agricultural wastewater treatment）、工業廢水處理（英语：Industrial wastewater treatment）、污水處理、廢水處理技術、水淨化、截流站）
+
+
+
+
+
+
+
+
+可再生能源
+
+
+
+替代能源
+能源有效利用（英语：Efficient energy use）
+能源开发
+能量回收（英语：Energy recovery）
+燃料（替代燃料、生物燃料、碳中性燃料（英语：Carbon neutral fuel）、氫技術（英语：hydrogen technologies））
+可再生能源（商業化）
+可持續能源
+交通（電動載具、混合動力車輛）
+
+
+
+
+
+
+
+
+保育
+
+
+
+生育控制
+建築（綠色、自然、可持續建築（英语：Sustainable architecture）、新都市主義）
+保育生物學
+保育倫理
+生態林業（英语：Ecoforestry）
+環境維護
+環境補救（英语：Environmental remediation）
+綠色計算
+樸門
+資源回收
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+垃圾及廢棄物管理
+
+
+
+
+
+
+主要分類
+
+
+
+農業廢水（英语：Agricultural wastewater treatment）
+化學廢料
+建築廢料（英语：Construction waste）
+建築拆卸廢物（英语：Demolition waste）
+電子垃圾
+
+以國家分類（英语：Electronic waste by country）
+
+
+食物廢棄物
+綠色垃圾（英语：Green waste）
+有害廢物（英语：Hazardous waste）
+廢熱
+工業廢料（事業廢棄物）
+隨處抛棄垃圾（英语：Litter）
+海洋廢棄物
+醫療廢物
+採礦廢棄物（英语：Tailings）
+都市固體廢物
+「用後廢料（英语：Post-consumer waste）」
+放射性废料
+人工污水
+有毒廢料（英语：Toxic waste）
+液體廢物（英语：Liquid waste）
+工業廢水
+
+
+
+
+
+
+
+
+
+
+
+處理方式
+
+
+
+厭氧消化
+生物降解
+蚯蚓糞
+非法處置（英语：Fly-tipping）
+垃圾焚化
+堆填
+重新開發堆填區（英语：Landfill mining）
+機械生物處理（英语：Mechanical biological treatment）
+機器分類（英语：Materials recovery facility）
+資源回收
+資源復收（英语：Resource recovery）
+污水处理
+垃圾收集
+拾荒
+垃圾分類（回鍋油、廚餘、餿水油）
+垃圾處理（英语：Waste treatment）
+垃圾轉化能源（英语：Waste-to-energy）（生物柴油）
+
+
+
+
+
+
+
+
+國家（英语：Waste by country）
+
+
+
+亞美尼亞（英语：Waste management in Armenia）
+孟加拉（英语：Waste management in Bangladesh）
+巴西（英语：Environmental issues in Brazil#Waste）
+香港（英语：Waste management in Hong Kong）
+印度（英语：Solid waste policy in India）
+紐西蘭（英语：Waste in New Zealand）
+俄羅斯（英语：Waste management in Russia）
+瑞士（英语：Waste management in Switzerland）
+英國（英语：Waste in the United Kingdom）
+美國（英语：Waste in the United States）
+
+
+
+
+
+
+
+
+協議
+
+
+
+巴馬科公約（英语：Bamako Convention）
+巴塞爾公約
+歐聯指令
+
+電池（英语：Battery Directive）
+堆填區（英语：Landfill Directive）
+危害性物質
+框架（英语：Waste Framework Directive）
+焚化（英语：Waste Incineration Directive）
+污水（英语：Urban Waste Water Directive）
+廢棄電子設備
+
+
+倫敦公約
+奧斯陸公約（英语：Oslo Dumping Convention）
+OSPAR公約（英语：OSPAR Convention）
+
+
+
+
+
+
+
+
+其他主題
+
+
+
+升級再造
+降级回收（英语：Downcycling）
+生态工业园
+擴大生産者責任制（英语：Extended producer responsibility）
+高水平放射性廢物管理（英语：High-level radioactive waste management）
+廢棄物管理史（英语：History of waste management）
+污水控制和管理（英语：Sewage regulation and administration）
+環保3R
+廢棄物的行政立法（英语：Waste legislation）
+廢物縮減（英语：Waste minimisation）
+零廢棄（英语：Zero waste）
+
+
+
+
+
+
+
+
+
+
+
+ 環境主題
+ 分類
+ 共享資源
+概念（英语：List of waste management concepts）
+廢物處理條目目錄（英语：Index of waste management articles）
+廢物管理期刊（英语：:Category:Waste management journals）
+廢物相關列表（英语：:Category:Waste-related lists）
+廢物關注組織（英语：:Category:Waste rganisations）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：污水处理隐藏分类：Webarchive模板wayback链接本地链接的维基共享资源分类与Wikidata不同

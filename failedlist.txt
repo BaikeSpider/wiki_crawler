@@ -816,3 +816,51 @@ crawl failed 2946 en-Compressed air car https://en.wikipedia.org/wiki/Compressed
 混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
 crawl failed 2995 功率 https://zh.wikipedia.org/wiki/%E5%8A%9F%E7%8E%87
 混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 3029 en-Volvo B5L https://en.wikipedia.org/wiki/Volvo_B5L
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 3127 en-Emission standard https://en.wikipedia.org/wiki/Emission_standard
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 3129 en-List of solid waste treatment technologies https://en.wikipedia.org/wiki/List_of_solid_waste_treatment_technologies
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 3130 en-Agricultural wastewater treatment https://en.wikipedia.org/wiki/Agricultural_wastewater_treatment
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 3130 en-Industrial wastewater treatment https://en.wikipedia.org/wiki/Industrial_wastewater_treatment
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 3135 en-Efficient energy use https://en.wikipedia.org/wiki/Efficient_energy_use
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 3136 en-Energy recovery https://en.wikipedia.org/wiki/Energy_recovery
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 3138 en-Carbon neutral fuel https://en.wikipedia.org/wiki/Carbon_neutral_fuel
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 3138 en-hydrogen technologies https://en.wikipedia.org/wiki/hydrogen_technologies
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 3145 en-Sustainable architecture https://en.wikipedia.org/wiki/Sustainable_architecture
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 3148 en-Ecoforestry https://en.wikipedia.org/wiki/Ecoforestry
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 3149 en-Environmental remediation https://en.wikipedia.org/wiki/Environmental_remediation
+混合動力車輛 https://zh.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E5%8B%95%E5%8A%9B%E8%BB%8A%E8%BC%9B
+crawl failed 3282 en-Community studies https://en.wikipedia.org/wiki/Community_studies
+政治學 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%AD%B8
+crawl failed 3283 en-Development studies https://en.wikipedia.org/wiki/Development_studies
+政治學 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%AD%B8
+crawl failed 3284 en-Environmental social science https://en.wikipedia.org/wiki/Environmental_social_science
+政治學 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%AD%B8
+crawl failed 3284 en-Environmental studies https://en.wikipedia.org/wiki/Environmental_studies
+政治學 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%AD%B8
+crawl failed 3294 en-Philosophy of social science https://en.wikipedia.org/wiki/Philosophy_of_social_science
+政治學 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%AD%B8
+crawl failed 3294 en-Land-use planning https://en.wikipedia.org/wiki/Land-use_planning
+政治學 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%AD%B8
+crawl failed 3300 en-Geisteswissenschaft https://en.wikipedia.org/wiki/Geisteswissenschaft
+政治學 https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%AD%B8
+crawl failed 3412 en-List of public policy topics by country https://en.wikipedia.org/wiki/List_of_public_policy_topics_by_country
+公共政策 https://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%B1%E6%94%BF%E7%AD%96
+crawl failed 3483 en-Royal United Services Institute https://en.wikipedia.org/wiki/Royal_United_Services_Institute
+智庫 https://zh.wikipedia.org/wiki/%E6%99%BA%E5%BA%AB
+crawl failed 3490 en-Institut français des relations internationales https://en.wikipedia.org/wiki/Institut_fran%C3%A7ais_des_relations_internationales
+智庫 https://zh.wikipedia.org/wiki/%E6%99%BA%E5%BA%AB
+crawl failed 3492 en-Friedrich Ebert Foundation https://en.wikipedia.org/wiki/Friedrich_Ebert_Foundation
+智庫 https://zh.wikipedia.org/wiki/%E6%99%BA%E5%BA%AB
+crawl failed 3501 ja-総合研究開発機構 https://ja.wikipedia.org/wiki/%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B
+智庫 https://zh.wikipedia.org/wiki/%E6%99%BA%E5%BA%AB

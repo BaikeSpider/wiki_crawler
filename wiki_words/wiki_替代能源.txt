@@ -1,0 +1,511 @@
+替代能源
+
+
+
+
+图为在哥本哈根附近的近海风力涡轮机
+
+
+
+
+「新能源」重定向至此。關於与本條目同名之其他主题，詳見「新加坡能源有限公司」。
+
+
+替代能源（英语：alternative energy）指的是所有能够代替化石燃料的能源资源。这些替代能源能够解决人们对化石燃料的诸多顾虑。
+随着时间的推移，替代能源的构成以及有关能源使用的诸多争议都发生了很大变化。如今，伴随着可选择能源的增加以及能源使用目的的多样性，人们在是否将一种能源划分为替代能源上产生了很大分歧。[1]
+但总体来说，现在所说的替代能源是在生产或回收（英语：Energy recovery）过程中，不会像化石燃料那样产生不良后果的能源。这些不良后果尤其指會造成全球变暖的一个重要原因——高二氧化碳（温室气体）排放。
+
+
+
+目录
+
+
+1 定义
+2 发展历程
+
+2.1 煤炭替代木材
+2.2 石油替代鲸油
+2.3 乙醇替代化石燃料
+2.4 气化煤替代石油
+
+
+3 常见的替代能源类型
+4 使能技术
+5 可再生能源与不可再生能源的竞争
+
+5.1 生态友好型替代能源
+
+
+6 关于替代能源的新概念
+
+6.1 碳中性以及碳负性燃料
+6.2 藻類生質燃料
+6.3 生物质成型燃料
+
+6.3.1 沼气发酵
+
+
+6.4 生物制氢
+6.5 海上风能
+6.6 海洋流体能源
+6.7 钍
+
+
+7 对替代能源的投资
+
+7.1 替代能源在交通运输方面的应用
+
+
+8 让替代能源成为主流
+9 相关研究
+
+9.1 太阳能
+9.2 风能
+9.3 生物质
+9.4 乙醇生物燃料
+9.5 其他生物燃料
+9.6 地热能
+9.7 氢能
+
+
+10 弊端
+11 参见
+12 注释
+13 参考文献
+14 延伸阅读
+
+
+
+定义[编辑]
+
+
+來源
+定義（原為英文）
+
+
+牛津词典
+以不耗盡天然資源或危害環境的方式作為燃料的能源。[2]
+
+
+普林斯顿WordNet
+源自不耗盡天然資源或危害環境的資源的能源。[3]
+
+
+2007年应对气候变化大会
+源自非傳統資源的能源（例如壓縮天然氣、太陽、水力發電、風）。[4]
+
+
+美國自然資源保護委員會
+不被普遍使用並往往有利環境的能源，例如太陽能、風能（相對於化石燃料）。[5]
+
+
+材料管理服务
+源自化石燃料以外的燃料資源，一般又可稱作可再生能源。例子有風、太陽、生物量、浪、潮汐能。[6]
+
+
+托里奇地区委员会
+从化石燃料的替代品中产生的能源，不一定是可再生能源。[7]
+
+
+发展历程[编辑]
+经济历史学家已经观察到了替代能源使用的关键性过渡期，并认为其对今后的重大经济变革具有关键性的影响[8][9][10]。当替代能源即将取代当时的主导能源时，主导能源的供应就会变得不稳定，同时还伴有能源价格的快速上涨。
+煤炭替代木材[编辑]
+历史学家Norman F. Cantor（英语：Norman F. Cantor）描述了中世纪后期煤炭作为当时的替代能源，把整个社会从对木材过度消耗的危机中拯救了出来：
+
+“在中世纪的前几个世纪，欧洲人居住在广袤的森林中。1250年后，他们大肆砍伐森林，到了1500年，用于做饭和取暖的木材已经十分缺乏了。截止到1500年，欧洲正处于能源和营养危机的边缘，直到16世纪烟煤的发现以及玉米和马铃薯种植才化解了这场灾难。”[11]
+
+石油替代鲸油[编辑]
+19世纪早期，鲸油（英语：Whale oil）是当时主要的润滑油和照明燃料，到19世纪中期，人类对鲸鱼的大量捕杀（英语：History of whaling）导致鲸鱼数量急剧减少，鲸油价格扶摇直上，但也为石油的引进提供了时机，首批商品化的石油出现在1859年的宾夕法尼亚州（英语：Titusville, Pennsylvania）[12]。
+乙醇替代化石燃料[编辑]
+主条目：燃料乙醇
+1917年，亚历山大·格拉汉姆·贝尔提倡使用从玉米、小麦和其他农作物中提取的乙醇作为煤和石油的替代能源，并声称人类离化石燃料用尽的那一天已经不远了。在贝尔看来，需要替代能源是因为现有的主要能源再生能力都不强[13]。从20世纪70年代开始，巴西就制定了乙醇燃料项目（英语：Ethanol fuel in Brazil），并成为仅次于美国的世界第二大乙醇生产国和世界上最大的乙醇出口国[14]。在该项目中，巴西使用现代化的生产设备，将廉价的糖蔗（英语：sugar cane）作为原料，把剩下的蔗渣（英语：bagasse）用来供热和发电[15]，此后，巴西的街道上再也没有完全依靠石油驱动的轻型车。到2008年底，巴西全国至少配有一个乙醇燃油加油泵的加油站已有35000家[16]。
+纖維素乙醇能从众多原料中生产出来，并且能提高农作物的利用率。由于产出的有用原料增多，而一些养分密集型肥料和杀菌剂的使用量保持不变，所以这种新的方法能够提升农作物总产量，并减少碳足迹[17][18]。2008年，美国已有九家在建或已投入生产的商用纤维素乙醇工厂（英语：cellulosic ethanol commercialization）[19]。
+第二代生物燃料（英语：Second-generation biofuels）技术能够从非食用生物中生产燃料，因此能够尽量避免将食物变为燃料[20]。截至2010年7月，丹麦已有一家第二代（2G）商用乙醇燃料工厂（因必肯（英语：Inbicon）生物炼油厂）在运行生产[21]。
+气化煤替代石油[编辑]
+20世纪70年代，吉米·卡特总统的政府提倡用煤的气化（英语：coal gasification）气化煤代替昂贵的进口石油，但是80年代的石油价格急剧下跌让该计划宣告破产，同时遭殃的还有人造燃料公司（英语：Synthetic Fuels Corporation）（一家政府出资成立的新能源开发公司），实际上，气化煤的碳排放量和造成的环境污染也是不容小觑的。[來源請求]
+常见的替代能源类型[编辑]
+
+水力發電可以捕捉来自下落的水的能量。
+核能是利用核裂变来释放能量储存起来。
+風能是利用风力发电。
+太阳能是对阳光的利用，能够将阳光转化成热能和电能。
+地熱能是利用地球内部的热量来烧水，为建筑供热以及发电。
+生物燃料和乙醇燃油是从植物中提取的取代汽油的汽车动力燃油。
+氢可以从许多技术中生产出来作为能量传递的介质。
+
+使能技术[编辑]
+热泵和热能存储（英语：Thermal energy storage）都要求使用一些非常规能源。热泵能从一些低质的能源（如海水或湖水，不论是地面的还是空气中的）中吸收额外的能量来产生电能（在一些条件下也可以是机械能或热能）。
+热能存储技术能够让温度在几天甚至几个月内保持不变，不论是保热还是保冷（英语：interseasonal）， 而且还能储存显热（英语：sensible energy）（通过改变介质的温度）或潜热（通过改变物体的状态，也就是从固态向液态转变或逆向转换， 比如说从水到冰水混合物或到冰）。能量来源可以是自然能源（通过太阳能集热板吸收热量或干式冷却塔来收集冬天的低温）和废料能源（比如来自暖通空调系统、工业生产过程或者发电厂）或者过剩能源（比如由于水力发电的季节性或风力 发电的间歇性而产生的）。加拿大阿尔伯特省的德雷特-兰丁太阳能社区（英语：Drake Landing Solar Community）就是一个很好的例子。地孔热能存储器（英语：Borehole thermal energy storage）通过车库屋顶上的太阳能收集器为该社区提供一年中所需热量的97%， 其中大部分热量都是在夏天收集的[22][23]。存储器可以是保温储罐，以碎石子到基岩等各种石材为构成的钻孔群， 或者排列整齐能够保温的浅坑。其中有些应用需要热泵技术。
+可再生能源与不可再生能源的竞争[编辑]
+主条目：可再生能源
+可再生能源是指来自自然资源， 例如太阳光[註 1]、风、雨、潮汐、地热等自然资源，这些资源有可再生性（可以自动再生）。可再生能源与化石燃料释放能量的过程有着一些本质上的区别。石油、煤炭或者天然气燃料的生产是一项复杂艰难的过程， 需要大量的复杂设备和一系列的化学和物理反应；但相比之下，替代能源的生产只需要一些基础设备和简单的自然反应就可以实现。木材作为可再生能力最强，分布最广泛的替代能源， 燃烧时所产生的碳与自然降解时释放的碳是等量的。
+生态友好型替代能源[编辑]
+一些如生物质这样的可再生能源被看做是对生态有害的化石能源的替代品， 但可再生能源并不是一开始就被当做替代能源的。比如说，荷兰曾是把棕榈油当做生物燃料使用的大国，但现在却取消了所有对棕榈油的补助，因为有科学证据表明棕榈油的使用有时可能会对环境产生比化石燃料还要大的危害[24]。目前， 为了给民众一个交代，荷兰政府和一些环保组织正在努力追踪进口棕榈油的来源，以查清这种燃油是怎么生产出来的[24]。至于用农作物生产生物燃料的方法，现实情况是，就算把全美国收获的所有谷物物都用来生产生物燃油，结果也仅能满足16%的汽车用油需求。为了生产生物燃料，巴西能够吸收大量CO2的热带雨林已经遭到极大破坏，这些无疑是让粮食市场与能源市场竞争，其结果必然是食品价格上涨，对一些环境问题，如全球变暖也是百害而无一利，还会提高本国对外国能源的依赖性[25]。最近，人们陆续发现了一些能够取代这些名声不太好的可持续燃料的能源，如可用于商业用途的纤维素乙醇。
+关于替代能源的新概念[编辑]
+碳中性以及碳负性燃料[编辑]
+主条目：碳中性燃料和甲醇经济
+碳中性燃料是一种利用氢化反应废料、发电厂排放气体（英语：flue-gas emissions from fossil-fuel combustion）中的二氧化碳、汽车尾气以及海水中的碳酸来生产的合成燃料包括甲烷、汽油、柴油、航空煤油或者氨[26][27]。一些商用合成燃料公司表示，如果油价超过55美元每桶，那么合成燃料生产的成本就会低于石油生产成本[28]。可再生甲醇（RM）是由氢和二氧化碳在氢化反应下生成的一种燃料，并且氢是从水电解中得到的。这种燃油可以掺在运输燃料中或者用作化工原料来加工[29]。
+冰岛格林达维克国际碳回收公司（英语：Carbon Recycling International）旗下的乔治·欧拉二氧化碳回收工厂从2011年起每年都能从Savrtsengi发电厂（英语：Svartsengi Power Station）排放的废气中生产出200万升车用甲醇燃油[30]，它的年产量可达到500万升[31]。 在德国的巴登-符腾堡州，由太阳能与氢能研究中心和弗劳恩霍夫协会共同建造的一个250千瓦的甲醇合成燃料工厂在2010年开始生产，目前正在向千万瓦级扩建，预计将于2012年秋完成[32][33]。奥迪公司也在德国埃姆斯兰县的Werlte镇建造了一家碳中和液化天然气（LNG）厂[34]，旨在生产出能够抵消它们的A3跑车克特隆型车所消耗的液化天然气的车用燃油。按照该工厂最初的生产力，它每年可减少2800公吨的CO2排放量[35]。在南卡罗莱纳州的哥伦比亚[36]、加利福尼亚州的卡马里奥[37]和英格兰的达灵顿等地也出现了类似的加工工厂[38]。
+
+
+一系列中的一部分，关于
+
+
+环境经济学
+
+
+概念
+
+
+
+
+绿色会计（英语：Green accounting）
+绿色经济（英语：Green economy）
+绿色贸易
+生态商务（英语：Eco commerce）
+绿色工作（英语：Green job）
+环境企业（英语：Environmental enterprise）
+财政环保（英语：Fiscal environmentalism）
+环境金融（英语：Environmental finance）
+可再生能源
+
+
+
+
+政策
+
+
+
+
+可持续旅游（英语：Sustainable tourism）
+生態稅
+環保關稅
+净计量电价
+环境价格改革（英语：Environmental pricing reform）
+庇古税（英语：Pigovian tax）
+
+
+
+
+动态
+
+
+
+
+可再生能源商业化
+边际减排成本（英语：Marginal abatement cost）
+绿色悖论（英语：Green paradox）
+綠色政治
+污染避难所假说（英语：Pollution haven hypothesis）
+
+
+
+
+碳相关
+
+
+
+
+低碳經濟
+碳中性燃料（英语：Carbon neutral fuel）
+碳中和
+碳定价（英语：Carbon pricing）
+排放交易
+碳信用额
+碳补偿（英语：Carbon offset）
+碳排放贸易（英语：Carbon emission trading）
+个人碳贸易（英语：Personal carbon trading）
+碳税
+碳金融（英语：Carbon finance）
+上网电价补贴政策
+碳節食
+食物里程（英语：Food miles）
+2000瓦特社会（英语：2000-watt society）
+碳足印
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+这些能源被看做是碳中性能源，因为它们不会导致温室气体含量的净增加[39]。就合成燃料代替化石燃料来说，或者从它们以废弃的碳或海水中碳酸为原料[40]以及它们的氧化要依赖排气管中的“碳捕捉”来看，碳中性燃料能够减少二氧化碳排放（英语：negative carbon dioxide emission）及大气中二氧化碳的净含量，因此有望成为温室气体修复（英语：greenhouse gas remediation）的新方法[41]。
+这些可再生能源减少了对进口化石燃料的支出和依赖，并且无需将交通工具电动化或求助于氢转化及其他燃料，让相应的大众交通工具得以继续发展[42]。碳中性燃料的存储成本相对较低，能够减轻风能和太阳能的间歇性（英语：intermittency）问题，还能将风能、水能、太阳能通过现有的天然气管道输送出去[42]。
+夜间风力发电厂被认为是进行燃料合成最经济的能源形式，因为负荷曲线（英语：load curve）会在一天中最温暖的时候急剧上升至顶峰，然而夜间风力通常会比白天的风力稍强一点，所以夜间风力发电厂的生产成本比任何替代能源的生产成本都要低[42]。德国已经建造了一个250千瓦的合成燃料工厂，目前正在扩建为10000千瓦[32][33][43]。
+藻類生質燃料[编辑]
+藻類生質燃料是从海藻中得到的生物燃料。在光合作用时，海藻与其他光合生物将吸收的二氧化碳和阳光转化为氧气和生物质能。藻类生质燃料的好处在于它可以进行工业生产，因此可以避免占用耕地和使用粮食作物（比如大豆、棕榈、油菜等），而且同其他的生物燃料资源相比，它的产油量也更高。
+生物质成型燃料[编辑]
+生物质成型燃料（英语：Biomass briquettes）在发展中国家是作为木炭的替代品来开发的。该技术能将几乎所有的植物转变为压缩型煤，其中所含的热值通常是木炭的70%。世界很少有大规模生产生物质成型燃料的例子，刚果民主共和国东部的基伍省便是其中一个，那里的人们为了生产木炭毁坏了大量森林，对山地大猩猩的生存环境构成了极大威胁。維龍加國家公園的工作人员已经成功培训并部署了超过3500名员工来生产生物质成型燃料，以此来取代公园内非法制造的木炭，同时也为受冲突影响而生活极端贫困的人们提供了工作机会。[44]
+沼气发酵[编辑]
+沼气发酵利用的是废料分解时释放的甲烷气体，这种气体能够在垃圾或下水道中收集。沼气池能利用细菌在厌氧环境下分解生物质产生甲烷[45]。沼气经过收集和提炼后，可以作为多种产品的能量来源。
+生物制氢[编辑]
+氢气是一种完全意义上的清洁能源；它的唯一副产品就是水[46]。和其他燃料相比，由于它的化学结构独特，它所含的能量也相对较多[47]。
+2H2 + O2 → 2H2O + 大量能量
+大量能量 + 2H2O → 2H2 + O2
+由此可见，此过程需要大量的能量输入，使得商业制氢效率低下[48]。如果使用生物媒介分解水来生产氢的话，那么唯一的能量消耗就是太阳辐射了。生物媒介包括细菌，或者更常用的海藻，该过程就是通常所说的生物制氢[49]，其中需要使用单细胞生物通过发酵来产生氢气。在没有氧气参与的情况下，即厌氧环境中，植物有规律的呼吸作用被抑制，取而代之的是一种发酵过程。该过程的主要产物就是氢气。如果我们能大规模应用该技术的话，就可以利用阳光、养分和水来制造氢气，将其作为一种主要能源[50]。大规模生物制氢被证明是困难的，直到1999年才通过硫剥离技术创造了厌氧环境[51]。但由于发酵实质上是一种在高压状态下发生的进化上的倒退，细胞在几天后就会死亡。2000年，研究人员开发了一个两阶段的工艺，能够将细胞放入厌氧环境中并及时拿出，因此细胞可以保持活性[52]。在过去的10年里，研究目标主要是找到将该过程推广使用的方法。在大规模推广使用之前，为了确保其生产效率，一些细致的工作正在进行中，但是，一旦该机制形成，这种生产方式将解决我们的能源需求问题[53]。
+海上风能[编辑]
+海上风电场和普通的风力发电厂相似，但前者是处在海洋中。海上风电场能够被放在40米（130英尺）深的水中，浮式风力涡轮机也会相应放在700米（2,300英尺）深的水中[54]。浮式海洋风力发电厂的优点在于它能利用来自宽阔海面的海风。没有了山坡、树木和建筑物的阻挡，海风的速度能够达到海岸地区风速的两倍[54][55]。
+海上风能（英语：offshore wind energy）已经对欧洲和亚洲的电力供应做出了极大贡献，如今美国第一个海上风力发电厂也已在规划当中。虽然海上风力发电在过去几十年间发展迅猛，特别是在欧洲，但是这些风电厂的修建和运行是否对海洋生物和海洋环境存在影响，还有很大的不确定性。
+传统的海上风力发电机是放在近海环境浅水区的海床上，随着海洋风力发电技术的不断成熟，一些悬浮装置开始装备在蕴藏有更多风能的深水区。[56]
+海洋流体能源[编辑]
+海洋流体能源（MHK）或者海海洋能在美国及国际海域的开发项目使用以下设备：
+
+宽阔近海大风地区的波浪能转换器；
+江河入海口的潮汐涡轮机；
+流速较快水域中的水下汽轮机；
+洋流强烈水域的洋流涡轮机；
+赤道深水区的海洋热能转换器。[56]
+
+钍[编辑]
+
+
+
+
+橡树岭国家实验室的早期（1960年代）钍基“熔盐堆”（MSR）核反应堆
+
+
+主条目：钍燃料循环
+钍是一种可核裂变物质，用于钍燃料发电。钍反应堆的支持者声称其比铀燃料循环有几个潜在的优点，例如如：钍比铀更丰富，能更好地避免核武器扩散[57][58][59]，并能减少钚和其他锕系元素的生产[59]。钍反应堆可以被改造用来产生铀-233，然后可以加工成高浓缩铀；该技术已在低产量武器中测试[60]，但尚未在商业规模上得以验证[61][62]。
+对替代能源的投资[编辑]
+作为一个新兴的经济增长部门，民众却没有多少投资替代能源的机会。民众可以从股市上购买能源公司的股票，但是其收益却极不稳定。“太阳城”直到最近才上市就证明了该领域还处在开始阶段，但在几周之内，它的市值就飙升到替代能源领域的第二位。[63]
+投资者可以选择投资追踪相关替代能源指数的交易所交易基金（ETF），比如WilderHill新能源指数[64]。此外，一些共同基金如Calvert全球替代能源基金[65]能让你在选择投资方式时比别人更快一步。
+最近，Mosaic搭建了一个能让加利福尼亚州和纽约州居民直接投资太阳能的网络平台[66]。之前对太阳能项目的投资仅局限在一些有资信的投资者[67]和小数量的银行间。
+在过去的三年内，一些上市替代能源公司的经营状况一直处于不稳定的状态：一些公司在2007年的收益超过了100%；一些公司到了2008年的收益便下降了90%甚至更多，2009年收益的峰谷比值再次超过了100%[來源請求]。“替代”能源投资总体上有三个方向：太阳能、风能和混合动力车。和当下能源相比，碳排放更少，并且免费、可再生的替代能源是风能、太阳能、地热能和生物燃料，这四个领域所面临的技术和资金问题都各有不同。
+比如说，光伏太阳能技术需要依赖半导体工艺，并且相应地，从微处理器行业中实现的成本削减（通过扩大应用范围，提高模块效率，升级加工工艺）中获利，光伏太阳能发电可能是唯一一种能在未来五年内将其成本降低一半甚至更多的发电技术。一些更好且更有效率的生产过程以及像高阶薄膜太阳能电池这样的新技术，就是减少业界成本的典范。[68]
+太阳能光伏发电市场受硅的价格影响很大，甚至一些依靠其他原料的公司（如第一太阳能公司）都会受到硅市场供求平衡的影响[來源請求]。 而且，由于一些公司向市场销售太阳能成品电池，（比如Q-Cells），使得另一些公司很轻易就能制造出太阳能组件电池，而这反过来会形成一个不合理的价格环境。
+相反，由于人类利用风能的时间已经超过了一个世纪，所以相关的技术相对比较稳定。风能的效益主要是取决于选址（也就是风力的大小和电网投资）和钢材价格（风力涡轮中使用最多的原材料）以及上好的复合材料（用来制造风车的叶轮）。由于现有风车高度大多超过100米，物流管理和全球生产平台成为影响竞争力的主要因素。桑福德•伯恩斯坦公司对其中的问题曾进行过研究，并得出很多重要结论。[69]
+替代能源在交通运输方面的应用[编辑]
+2008年，由于油价持续攀升，导致当年美国每加仑普通无铅汽油的平均价格曾一度超过了4美元[70]，因此一些公司一直致力于为顾客开发出更多种更高效的替代燃料车（英语：alternative fuel vehicle）。结果，一些小公司迅速加大对完全采用不同方式驱动汽车的研究开发。混合动力（英语：Hybrid electric vehicle）和电动汽车如今已经进入商业化阶段，所占市场份额正在逐步扩大，也越来越得到世界范围内民众的认可[71]。
+比如说，日产美国首次批量生产了电动汽车“日产聆风”[72]；一款可充电混合动力车—“雪佛兰沃蓝达”也已经被研发出来，该车使用电动马达驱动，配有一个小型四汽缸引擎来产生额外的电能[73]。
+让替代能源成为主流[编辑]
+要想让替代能源成为主导能源就必须解决几个关键问题：首先，要提高人们对替代能源运作的理解，以及替代能源有哪些好处；然后，相关系统元件的可用性需要提高；最后，投资回收周期应该被缩短。
+举例来说，電動載具（EV）和插电式混合动力汽车（PHEV）的数量在不断增加。这些交通工具需要依赖诸如“智能电网”这样的高效充电设施来让电力成为未来交通工具的主导能源。[74][來源可靠？]
+相关研究[编辑]
+在学术界、政府和商业部门中，许多组织都在替代能源领域进行大规模尖端研究。这些研究涵盖了替代能源领域的几个主要部门，大部分研究都旨在提高能源效率和增加能源产量[75]。
+近年来，许多政府资助的研究机构已经将替代能源作为研究重点。其中成就最突出的两个研究机构就是桑迪亚国家实验室和国家可再生能源实验室（英语：National Renewable Energy Laboratory）（NREL），两者都由美國能源部出资建立，还有多家公司为其提供资金支持[76]。桑迪亚国家实验室的总预算为24亿美元[77]，而国家可再生能源实验室（NREL）则有3.75亿美元的预算[78]。
+太阳能[编辑]
+主条目：太阳能
+太阳能可用来加热、冷却以及发电。
+太阳能供热在主动（英语：Active solar heating）和被动（英语：Passive solar building design）供热建筑以及区域供热系统中早有使用。后者的实例包括加拿大亚伯达省的德雷克太阳能社区（英语：Drake Landing Solar Community）以及在丹麦[79]和德国[80]的许多区域能源系统。在欧洲有两个太阳能供热项目：“太阳能分区供热”（SDH）[81]以及國際能源署的“太阳能加热与冷却”项目（SHC）[82]。
+太阳能还未能被广泛应用的原因就在于现在的太阳能技术效率低而且花费高。目前的光伏板只能将所接收阳光的16%转变为电能[83]。
+桑迪亚国家实验室和国家可再生能源实验室（英语：National Renewable Energy Laboratory）（NREL）都对太阳能研究项目给予了大量资金支持。NREL在太阳能项目上的预算是7500万美元左右[84]，并且在光伏技术、太阳热能、太阳辐射等领域也设有研究课题[85]。桑迪亚太阳能研究部的预算还不清楚，但可以肯定的是，在整个实验室24亿美元的预算中，该项目占有很大比重[86]。
+近年来，一些学术项目将太阳能视作重点研究对象。北卡罗来纳州州立大学（UNC）太阳能研究中心（SERC）的唯一目标就是研发出更加高效的太阳能技术。2008年，麻省理工学院的研究人员通过使用太阳能从水中生产氢气燃料来储存太阳能[87]。这些研究意在解开阻碍太阳能发展的有关夜晚无阳光时太阳能储存的相关问题。
+2012年2月，德国西门子公司在北卡罗来纳州的一家太阳能开发公司Semprius宣布他们已经研发出世界上效率最高的太阳能板。该公司宣称他们所造的原型太阳能板能够将所接收到阳光的33.9%转化为电能，这比以前最高的转化率高出了两倍多[88]。
+风能[编辑]
+主条目：风能
+风能的相关研究可以追溯到上世纪70年代，当时NASA设计了一款分析模型来预测强风情况下风力涡轮机的发电量[89]。如今，桑迪亚国家实验室和国家可再生能源实验室（英语：National Renewable Energy Laboratory）都设有专门的风能研究项目[90]。桑迪亚的实验室注重材料科技进步、空气动力学和传感器。而NREL则将重点放在提高风力发电量、减少资金投入以及如何让风能的成本效率更高等方面[91]。
+加州理工學院的“优化风能现场实验室”（FLOWE）成立的目的就是研究出可能减少当下风电成本，占地面积及环境影响的新技术[92]。
+风能、太阳能、生物质能和地热能等可再生能源相结合，在2013年提供了全球最终能源消费量的1.3％[93]。
+生物质[编辑]
+
+
+
+
+巴西的甘蔗种植基地，用于生产燃料乙醇
+
+
+
+法国的一个热电联产厂，使用废木头供应3万户人家所需的能源
+
+
+
+主条目：生物质和生物气体
+生物质（生物质量，biomass），也即来源于活的或者最近活的生物体的生物物质（某种意义上的生物材料）。它通常是指植物或植物衍生物质，此类物质被特别地称作木质纤维素生物质（英语：lignocellulosic biomass）[94]。生物质作为一种能量来源，既可以直接通过燃烧产生热量，也可以间接将其转化为各种形式的生物燃料。生物质转化为生物燃料的过程，可以由不同的方法实现，大致分为：热的，化学的和生物化学的。木头至今仍然是最大的生物质能源[95]；例子包括森林残留物（如枯死的树木或树枝、树桩），庭院修剪物，木屑，甚至城市的固体垃圾。另一方面，生物质包括多种植物或动物物质，这些物质可以转化成纤维或其他工业化学品，包括生物燃料。工业上，生物质可以通过种植各种植物而得到，包括[96]芒草、柳枝稷、麻、玉米、杨树、柳树、高粱、甘蔗、竹子，和各种各样的树种，从桉树到油棕（棕榈油）。
+生物质、生物（沼）气和生物燃料，通过燃烧产生热量和动力，也同时会危害环境。污染物如硫氧化物（SOx），氮氧化物（NOx），和颗粒物（PM）都会从燃烧中产生。世界卫生组织估计，每年有700万人的过早死亡是由空气污染造成的[97]，而其中生物质燃烧是一个主要贡献者[97][98][99]。如果使用时间跨度够长，生物质的燃烧是零碳排放的，但其他方面则类似化石燃料的燃烧。
+乙醇生物燃料[编辑]
+乙醇作为北美洲的主要生物燃料形式，许多机构已经在该领域展开研究。政府方面，美国农业部在美国进行了大量关于乙醇生产的研究，其中大部分都是围绕乙醇生产对国内农产品市场的影响[100]。
+国家可再生能源实验室（英语：National Renewable Energy Laboratory）对乙醇项目展开了大量研究，尤其是在纖維素乙醇领域[101]。同传统的以玉米为原料生产的乙醇相比，纖維素乙醇具有更多优势。因为纤维素乙醇可以从树木、杂草或其他植物身上不可食用的部分中生产，所以不必挪用农作物甚至直接与粮食供给竞争[102]。而且，一些研究表明，纤维素乙醇和玉米乙醇相比成本效益更高，经济可持续性更强[103]。桑迪亚国家实验室则开展了内部纤维素乙醇研究[104]，它同时也是联合生物能源研究所（英语：Joint BioEnergy Institute）（JBEI ）的成员之一，该研究所由美國能源部创建，其目标是开发出纤维素生物燃料[105]。
+其他生物燃料[编辑]
+主条目：生物燃料
+从1978年到1996年，国家可再生能源实验室（英语：National Renewable Energy Laboratory）在“水生物种计划（英语：Aquatic Species Program）”中将海藻作为生物燃料进行实验[來源請求]。Michael Brigges在新罕布什爾大學生物燃料研究小组中自行出版的文章中估计，今后所有机动车燃油都将被从含油量超过50%的海藻中生产的生物燃料所取代，而这些海藻，Briggs表示，可以在污水处理厂里的海藻池中培养[來源請求]。这种含油量丰富的海藻可以从该系统中提取出来加工成生物燃料，干化的剩余部分还可以被重复利用来生产乙醇。
+利用海藻生产生物燃料所需原油的技术还未能进行商业推广，但是相关可行性研究正在进行中，使产量尽力达到预期产量的最大值。除了高产之外，由于生产过程不需要土地和淡水，藻产业不会像其他以农作物为原料的生物燃油那样引起农作物产量的减少。出于各种原因，多家公司目前正在开发海藻生物反应物，其中就包括将生物燃料的产量扩大到商业范畴[106][107]。
+来自不同部门的几个小组正在研究麻风树，一种类似灌木的有毒树种，许多人认为其种子可被当做生物燃料原料油的来源[108]。许多研究都力图通过基因技术、土壤科学和园艺学来提高麻风树总体的亩产量。圣地亚哥的一家麻风树开发商SG生物燃料公司（英语：SG Biofuels）已经利用分子育种和生物科技生产出高产的杂交麻风树种，其产量比第一代的变体产量要高很多[109]。“可持续能源农业中心”（CfSEF）是一家位于洛杉矶的非盈利性研究机构，它致力于在农业科学、农业经济学和园艺学领域内研究麻风树。在这些学科指导下探索的目标是：在接下来的10年内将麻风树种产量提高到原来的两到三倍[110]。
+地热能[编辑]
+主条目：地热发电
+地熱能是通过开发地球内部产生和储存的热能而生产的。它被看做是可持续能源的原因在于其热能总能自动补充[111]。但是，与地热能相关的科技还不成熟，在经济上的可行性也还不强。一些机构，如国家可再生能源实验室（英语：National Renewable Energy Laboratory）[112]和桑迪亚国家实验室[113]的一些研究正在试图建立一门以地热能为核心的科学。德国的一家地球科学研究机构“国际地热研究中心”（IGC）主要就是研究地热能的开发利用[114]。
+氢能[编辑]
+主条目：氢燃料
+美国联邦政府在氢燃料的研究和开发上已经投入超过10亿美元[115]。美国国家可再生能源实验室（英语：National Renewable Energy Laboratory）[116]和桑迪亚国家实验室[117]都设有针对氢的研究部门。
+弊端[编辑]
+这些有望取代化石燃料、改变全球气候变化的替代能源有可能会对环境产生极大的不良影响。比如说，生物燃料生产要提高7倍才能满足如今一些最基本的能源需求，而根据经济和能源增长的预测，到2100年将是40倍[118]。人类在世界范围内已经占用了光合作用固定碳的30%到40%，这预示着额外生物量的收获很可能会给生态系统带来压力，在一些情况下会夺走某些物种的食物来源，从而导致生物物种的急剧下降乃至灭亡[119][120]。在美国，每年植物的能量获取总额在58库德（61.5EJ）左右，其中的一半已经作为农作物和木材被收获了，余下的生物质会用来维持生态系统的正常运作及其多样性[121]。美国人民一年消耗的能量约为100库德，生物质能只能提供其中很小的一部分。要想单纯依靠生物质成型燃料来满足当下全球能源需求的话，那么则需要牺牲全球超过10%的土地，而这相当于全球所有的农业用地（150亿公顷），由于当下的饥饿问题，将来所种植的植物是用来产油还是生产粮食作物，这个问题势必会引起一场道德冲突，而这将使未来生物质燃料的推广困难重重[122][123]。
+一些由开发水电修建大坝而造成的环境问题（如鱼类洄游、对敏感水生态系统的破坏等等）已经阻碍了美国水电站（英语：hydropower in the United States）的近一步扩展。而为了取代化石能源大规模部署风力发电的话，那么民众很可能会坚决抵制。如果全美的用电量都由风力发电供应的话，8000万公顷（比全美可耕种土地的40%还多）的土地将被大型风车（轮毂高度为50米，间距为250米到500米之间）所淹没[124]。因此不难理解风力发电对环境的影响（英语：environmental impact of wind power）主要是与土地利用有关，而与野生动物的（鸟类、蝙蝠等）死亡联系不是很大。除非只是一小部分电量靠风力发电产生，并且是在偏远地区，否则公众是不可能忍受风力发电带来的噪音和美观问题的[125][126]。
+在向替代能源转变的过程中还会引起其他问题。“加大天然气发电的力度会对经济发展产生与预期相反的后果”，尤其是“现在天然气价格是煤炭价格的四倍”[127][过时信息]。而且，如果现在大规模地由煤炭发电转为天然气发电的话，一些国家对外国能源供应的依赖度会持续增加。另外，“大规模能源转型需要扩充管道容量和存储能力，而这需要持续的资金投入，还要修建新的中转站来处理进口的天然气”[127]。
+如何处理现有的燃煤工厂也是个问题，是将其加以改造还是修建新的工厂呢？“要想利用现有的煤炭工厂燃烧天然气，需要有配套的管道线路来满足工厂能源供应的需求”[127]，同时也需要“州际和州内管道线路的扩张来运输日益增多的天然气”[127]。总之，修建新的天然气工厂比沿用老的燃煤工厂要更具可行性，成本也较低。
+参见[编辑]
+
+可持續能源
+替代能源指标（英语：Alternative energy indexes）
+節約能源
+能源發展
+
+燃料电池
+费托合成
+收集雷电能量（英语：Harvesting lightning energy）
+氢经济
+
+
+可再生能源商业化
+Greasestock（英语：Greasestock）
+自然桥国家纪念区太阳能动力系统（英语：Natural Bridges National Monument Solar Power System）
+釷燃料發電
+
+注释[编辑]
+
+
+^ 包括太阳能和辐射能
+
+
+参考文献[编辑]
+
+
+^ Zehner, Ozzie. Green Illusions. Lincoln and London: University of Nebraska Press. 2012: 1–169, 331–42. 
+^ Concise OED Alternative Energy. Accessed May 2, 2008.
+^ WordNet. Alternative Energy entry[失效連結].
+^ RICC 2007. Term Glossary 互联网档案馆的存檔，存档日期2016-04-10..
+^ NRDC. Glossary.
+^ MMS. Definitions 互联网档案馆的存檔，存档日期2010-07-05..
+^ Torridge District Council. TDLP Part 1 - Glossary 互联网档案馆的存檔，存档日期2009-07-27..
+^ Gregory Clark (University of California, Davis, Economics); David Jacks (Simon Fraser University, Economics). Coal and the Industrial Revolution, 1700-1869 (pdf). European Review of Economic History (European Historical Economics Society). April 2010 [2008-12-14]. （原始内容存档 (PDF)于2008年12月17日）. Lay summary.  Clark and Jacks specifically refer to 18th century "alternative energy"
+^ Dr Roger White, Institute of Archaeology and Antiquity, University of Birmingham. Trees and Woods: Myths and Realities. Lecture: The Essential Role of Forests and Wood in the Age of Iron (Commonwealth Forestry Association). 2006-05-13 [2008-12-14]. （原始内容 (doc)存档于2008年12月17日）.  Note: Dr. White specifically refers to coal as a 17th-century alternative fuel in this paper.
+^ Dr. Douglas B. Reynolds (economics). Energy Grades and Historic Economic Growth (doc). Hubbert Peak of Oil Production website. [2008-12-14]. （原始内容存档于2008年12月22日）. 
+^ Norman F. Cantor. The Civilization of the Middle Ages: The Life and death of a Civilization. Harper Collins. 1993: 564. ISBN 978-0-06-092553-6. 
+^ The City's Evolution–From Old Dartmouth to New Bedford, Whaling Metropolis of the World. Old Dartmouth Historical Society. [2015-01-30]. 
+^ Alexander Graham Bell. Prizes for the Inventor: Some of the Problems Awaiting Solution. The National Geographic Magazine (National Geographic Society). 1917: 133 [2008-12-14]. Lay summary. In relation to coal and oil, the world's annual consumption has become so enormous that we are now actually within measurable distance of the end of the supply. What shall we do when we have no more coal or oil! .... There is, however, one other source of fuel supply which may perhaps this problem of the future. Alcohol makes a beautiful, clean and efficient fuel, and where not intended for human consumption can be manufactured very cheaply from corn stalks and in fact from almost any vegetable matter capable of fermentation. 
+^ Industry Statistics: Annual World Ethanol Production by Country. Renewable Fuels Association. [2008-05-02]. （原始内容存档于2008-04-08）. 
+^ Macedo Isaias, M. Lima Verde Leal and J. Azevedo Ramos da Silva. Assessment of greenhouse gas emissions in the production and use of fuel ethanol in Brazil (PDF). Secretariat of the Environment, Government of the State of São Paulo. 2004 [2008-05-09]. （原始内容 (PDF)存档于2008年5月28日）. 
+^ Daniel Budny and Paulo Sotero, editor. Brazil Institute Special Report: The Global Dynamics of Biofuels (PDF). Brazil Institute of the Woodrow Wilson Center. April 2007 [2008-05-03]. （原始内容存档 (PDF)于2008年5月28日）. 
+^ Biofuels look to the next generation
+^ Cellulosic Ethanol: Not Just Any Liquid Fuel 互联网档案馆的存檔，存档日期2008-10-23.
+^ Building Cellulose
+^ bioenergywiki.net:Second-generation biofuels
+^ Inbicon - about the plant 互联网档案馆的存檔，存档日期2014-02-21.
+^ Wong, Bill (June 28, 2011), "Drake Landing Solar Community" 互联网档案馆的存檔，存档日期2016-03-04., IDEA/CDEA District Energy/CHP 2011 Conference, Toronto, pp. 1–30, retrieved 21 April 2013
+^ Wong B., Thornton J. (2013). Integrating Solar & Heat Pumps. Renewable Heat Workshop.
+^ 24.0 24.1 Elisabeth Rosenthal. Once a Dream Fuel, Palm Oil May Be an Eco-Nightmare. New York Times. 2007-01-31 [2008-12-14]. （原始内容存档于2008年12月10日）. 
+^ Lester R. Brown. Biofuels Blunder:Massive Diversion of U.S. Grain to Fuel Cars is Raising World Food Prices, Risking Political Instability. Testimony before U.S. Senate Committee on Environment and Public Works. 2007-06-13 [2008-12-20]. （原始内容存档于2009-04-04）. 
+^ Leighty and Holbrook (2012) "Running the World on Renewables: Alternatives for Transmission and Low-cost Firming Storage of Stranded Renewables as Hydrogen and Ammonia Fuels via Underground Pipelines" Proceedings of the ASME 2012 International Mechanical Engineering Congress & Exposition November 9–15, 2012, Houston, Texas
+^ Graves, Christopher; Ebbesen, Sune D.; Mogensen, Mogens; Lackner, Klaus S. Sustainable hydrocarbon fuels by recycling CO2 and H2O with renewable or nuclear energy. Renewable and Sustainable Energy Reviews. 2011, 15 (1): 1–23 [September 7, 2012]. doi:10.1016/j.rser.2010.07.014.  (Review.)
+^ Holte, Laura L.; Doty, Glenn N.; McCree, David L.; Doty, Judy M.; Doty, F. David. Sustainable Transportation Fuels From Off-peak Wind Energy, CO2 and Water (PDF). 4th International Conference on Energy Sustainability, May 17–22, 2010. Phoenix, Arizona: American Society of Mechanical Engineers. 2010 [September 7, 2012]. 
+^ First Commercial Plant. Carbon Recycling International. [11 July 2012]. （原始内容存档于2013年7月3日）. 
+^ "George Olah CO2 to Renewable Methanol Plant, Reykjanes, Iceland" (Chemicals-Technology.com)
+^ "First Commercial Plant" 互联网档案馆的存檔，存档日期2016-02-04. (Carbon Recycling International)
+^ 32.0 32.1 Center for Solar Energy and Hydrogen Research Baden-Württemberg. Verbundprojekt 'Power-to-Gas'. zsw-bw.de. 2011 [September 9, 2012]. （原始内容存档于2013年2月16日） （German）.  引文格式1维护：未识别语文类型 (link)
+^ 33.0 33.1 Center for Solar Energy and Hydrogen Research. Bundesumweltminister Altmaier und Ministerpräsident Kretschmann zeigen sich beeindruckt von Power-to-Gas-Anlage des ZSW. zsw-bw.de. July 24, 2012 [September 9, 2012]. （原始内容存档于2013年9月27日） （德语）. 
+^ Okulski, Travis. Audi's Carbon Neutral E-Gas Is Real And They're Actually Making It. Jalopnik (Gawker Media). June 26, 2012 [29 July 2013]. 
+^ Rousseau, Steve. Audi's New E-Gas Plant Will Make Carbon-Neutral Fuel. Popular Mechanics. June 25, 2013 [29 July 2013]. 
+^ Doty Windfuels. Windfuels.com. [2012-11-01]. 
+^ CoolPlanet Energy Systems. Coolplanetbiofuels.com. 2012-10-24 [2012-11-01]. 
+^ Air Fuel Synthesis, Ltd. Airfuelsynthesis.com. [2012-11-01]. 
+^ Lackner, Klaus S.; 等. The urgency of the development of CO2 capture from ambient air. Proceedings of the National Academy of Sciences of the United States of America. 2012, 109 (33): 13156–62 [September 7, 2012]. Bibcode:2012PNAS..10913156L. PMID 22843674. doi:10.1073/pnas.1108765109. 
+^ Eisaman, Matthew D.; 等. CO2 extraction from seawater using bipolar membrane electrodialysis (PDF). Energy and Environmental Science. 2012, 5 (6): 7346–52 [July 6, 2013]. doi:10.1039/C2EE03393C. 
+^ Goeppert, Alain; Czaun, Miklos; Prakash, G.K. Surya; Olah, George A. Air as the renewable carbon source of the future: an overview of CO2 capture from the atmosphere. Energy and Environmental Science. 2012, 5 (7): 7833–53 [September 7, 2012]. doi:10.1039/C2EE21586A.  (Review.)
+^ 42.0 42.1 42.2 Pearson, R.J.; Eisaman, M.D.; 等. Energy Storage via Carbon-Neutral Fuels Made From CO2, Water, and Renewable Energy. Proceedings of the IEEE. 2012, 100 (2): 440–60 [September 7, 2012]. doi:10.1109/JPROC.2011.2168369. 
+^ Fraunhofer-Gesellschaft. Storing green electricity as natural gas. fraunhofer.de. May 5, 2010 [September 9, 2012]. 
+^ Biomass Briquettes. 27 August 2009 [19 February 2009]. 
+^ Biogas Technology. 27 March 2009 [24 June 2009]. （原始内容存档于2009年5月25日）. 
+^ Hijikata, Tsuneo. 2001. Research and Development of International Clean Energy Network Using Hydrogen Energy. International Journal of Hydrogen Energy; 27: 115-129
+^ P. 12, BMW Group Clean Energy ZEV Symposium, September 2006
+^ Ghirardi ML, Togasaki RK, Seibert M. Oxygen Sensitivity of Algal H2-Production. Applied Biochemistry and Biotechnology. 1997, 63 (1): 141–51. PMID 18576077. doi:10.1007/BF02920420. 
+^ Radmer R, Kok B. Photosynthesis: Limited Yields, Unlimited Dreams. BioScience. 1977, 29 (9): 599–605. doi:10.2307/1297655. 
+^ Gaffron H, Rubin J. Fermentative and Photochemical Production of Hydrogen in Algae. Journal of General Physiology. 1942, 26 (2): 219–240. PMC 2142062. PMID 19873339. doi:10.1085/jgp.26.2.219. 
+^ Melis A, Neidhardt J, Benemann JR. Dunaliella salina (Chlorophyta) with Small Chlorophyll Antenna Sizes Exhibit Higher Photosynthetic Productivities and Photon Use Efficiencies Than Normally Pigmented Cells. Journal of Applied Physiology. 1999, 10: 515–52. 
+^ Melis A, Happe T. Hydrogen Production — Green Algae as a Source of Energy. Plant Physiology. 2001, 127 (3): 740–8. PMC 1540156. PMID 11706159. doi:10.1104/pp.010498. 
+^ Doebbe A, Rupprecht J, Beckmann J, Mussgnug JH, Hallmann A, Hankamer B, Kruse O. Functional Integration of the HUP1 Hexose Symporter Gene into the Genome of C. reinhardtii: Impacts on Biological H2 Production. Journal of Biotechnology. 2007, 131 (1): 27–33. PMID 17624461. doi:10.1016/j.jbiotec.2007.05.017. 
+^ 54.0 54.1 Horton, Jennifer. 5 Wacky Forms of Alternative Energy. 19 August 2008 [15 June 2009]. （原始内容存档于2009年6月22日）. 
+^ Hywind by Statoil. 11 February 2009 [24 June 2009]. 
+^ 56.0 56.1 Tethys. 
+^ Kang, J.; Von Hippel, F. N. U‐232 and the proliferation‐resistance of U‐233 in spent fuel (PDF). Science & Global Security. 2001, 9: 1. doi:10.1080/08929880108426485. （原始内容 (PDF)存档于2014-12-03）. 
+^ Nuclear Materials FAQ
+^ 59.0 59.1 Robert Hargraves; Ralph Moir. Liquid Fuel Nuclear Reactors. American Physical Society Forum on Physics & Society. January 2011 [31 May 2012]. 
+^ McKenna, Paul. Is the "Superfuel" Thorium Riskier Than We Thought?. Popular Mechanics. 5 December 2012 [2 March 2015]. 
+^ Rees, Eifion. Don't believe the spin on thorium being a greener nuclear option. Guardian. 23 June 2011 [2 March 2015]. 
+^ Forsberg CW; Lewis LC. ORNL-6952, Uses For Uranium-233: What Should Be Kept for Future Needs? -- see index of papers on <moltensalt.org>
+^ SolarCity Stock Market Cap Makes It No. 2 Solar Firm. 
+^ WilderHill New Energy Global Innovation Index. 
+^ Calvert Global Alternative Energy Fund (CGAEX). （原始内容存档于2014-11-06）. 
+^ Solar Mosaic fully crowd funds its new solar projects in less than 24 hours. 
+^ Konrad, Tom. New Ways to Invest in Solar Like Buffett. Forbes. 2013-01-08. 
+^ Is solar energy really ready to rumble? - Electronic Design. Archive.is的存檔，存档日期2012-06-04
+^ Bruce Upbin. Greenhouse Stocks. Forbes. 2007-12-24 [2007-12-24]. （原始内容存档于2007年12月11日）. 
+^ Gas Prices post third straight record, CNN Money
+^ Foster, Peter. China takes on America in electric car race... London: Telegraph Media Group Limited. 24 Mar 2009 [2009-05-11]. （原始内容存档于2009年3月27日）. 
+^ Nissan LEAF® Electric Car: 100% Electric. 100% Fun.
+^ Transform Your Drive. 
+^ electric vehicles the smart grid's moving target
+^ S.C.E. Jupe, A. Michiorri, P.C. Taylor. Increasing the energy yield of generation from new and renewable energy sources. Renewable Energy. 2007, 14 (2): 37–62. 
+^ Defense-scale supercomputing comes to alternative energy research. Sandia National Laboratories. [2012-04-16]. 
+^ Sandia National Laboratories (PDF). Sandia National Laboratories. [2012-04-16]. 
+^ *Chakrabarty, Gargi, April 16th, 2009. "Stimulus leaves NREL in cold" Denver Post"
+^ Holm L. (2012). Long Term Experiences with Solar District Heating in Denmark[失效連結]. Presentation. European Sustainable Energy Week, Brussels. 18–22 June 2012.
+^ Pauschinger T. (2012). Solar District Heating with Seasonal Thermal Energy Storage in Germany. Presentation. European Sustainable Energy Week, Brussels. 18–22 June 2012.
+^ Solar District Heating (SDH) platform website. Europe.
+^ Solar Heating and Cooling programme, of the International Energy Agency. website.
+^ Improvement of efficiency for solar photovoltaic cell application (PDF). BRAC University. [2012-04-16]. 
+^ Chakrabarty, Gargi. Stimulus leaves NREL in cold. Denver Post. [2012-04-16]. 
+^ Solar Research. NREL. [2012-04-16]. 
+^ Photovoltaics. Sandia. [2012-04-16]. 
+^ 'Major discovery' from MIT primed to unleash solar revolution. MIT News. [2012-04-17]. 
+^ Breakthrough: World’s most efficient solar panel. SmartPlanet. [2012-04-17]. 
+^ Wind energy research reaps rewards. NASA. [2012-04-17]. 
+^ Wind energy. Sandia. [2012-04-17]. 
+^ Wind research. NREL. [2012-04-17]. 
+^ Wind resource evaluation at the Caltech Field Laboratory for Optimized Wind Energy (FLOWE) (PDF). Caltech. [2012-04-17]. 
+^ GSR2015 Onlinebook page 27. 互联网档案馆的存檔，存档日期2015-07-21.
+^ Biomass Energy Center. Biomassenergycentre.org.uk. Retrieved on 28 February 2012.
+^ Wood-Fired Plants Generate Violations - Wall Street Journals. Retrieved on 12 April 2012.
+^ T.A. Volk, L.P. Abrahamson. Developing a Willow Biomass Crop Enterprise for Bioenergy and Bioproducts in the United States. North East Regional Biomass Program. January 2000 [4 June 2015]. 
+^ 97.0 97.1 7 million premature deaths annually linked to air pollution - WHO, 2014-03-25.
+^ Ambient (outdoor) air quality and health - Fact sheet No. 313, WHO, 2014 March.
+^ Household air pollution and health - Fact Sheet No. 292, WHO, 2014 March.
+^ American Coalition for Ethanol. Responses to Questions from Senator Bingaman (PDF). American Coalition for Ethanol. 2008-06-02 [2012-04-02]. （原始内容 (PDF)存档于2011-10-04）. 
+^ National Renewable Energy Laboratory. Research Advantages: Cellulosic Ethanol (PDF). National Renewable Energy Laboratory. 2007-03-02 [2012-04-02]. （原始内容 (PDF)存档于2012-01-25）. 
+^ M.R. Schmer, K.P. Vogel, R.B. Mitchell, R.K. Perrin. Net energy of cellulosic ethanol from switchgrass. Proceedings of the National Academy of Sciences of the United States of America. 2008, 105 (2): 464–469. PMID 18180449. doi:10.1073/pnas.0704767105. 
+^ Charles E. Wyman. What is (and is not) vital to advancing cellulosic ethanol. Trends in Biotechnology. 2007, 25 (4): 153–157. PMID 17320227. doi:10.1016/j.tibtech.2007.02.009. 
+^ Sandia National Laboratories. Biomass. Sandia National Laboratories. [2012-04-17]. （原始内容存档于2012-05-10）. 
+^ Joint BioEnergy Initiative. About JBEI. Sandia National Laboratories. [2012-04-17]. （原始内容存档于2012-05-25）. 
+^ Valcent Products Inc. Develops "Clean Green" Vertical Bio-Reactor. Valcent Products. [2008-07-09]. （原始内容存档于2008年6月18日）. 
+^ Technology: High Yield Carbon Recycling. GreenFuel Technologies Corporation. [2008-07-09]. （原始内容存档于2007-08-21）. 
+^ B.N. Divakara, H.D. Upadhyaya, S.P. Wani, C.L. Laxmipathi Gowda. Biology and genetic improvement of Jatropha curcas L.: A review. Applied Energy. 2010, 87 (3): 732–742. doi:10.1016/j.apenergy.2009.07.013. 
+^ Biofuels Digest. Jatropha blooms again: SG Biofuels secures 250K acres for hybrids. Biofuels Digest. 2011-05-16 [2012-03-08]. 
+^ Biofuels Magazine. Energy Farming Methods Mature, Improve. Biofuels Magazine. 2011-04-11 [2012-03-08]. 
+^ L. Ryback. Geothermal Sustainability. GHC Bulletin. 2007: 2–6. 
+^ Geothermal Technologies. NREL. [2012-04-17]. 
+^ Geothermal. Sandia. [2012-04-17]. 
+^ International Centre for Geothermal Research. GFZ Helmholtz Center Potsdam. [2012-04-17]. 
+^ Jeff Wise. The Truth about hydrogen. Popular Mechanics. [2012-04-17]. 
+^ NREL. Hydrogen. NREL. [2012-04-17]. 
+^ Sandia. Hydrogen. Sandia. [2012-04-17]. 
+^ Huesemann, Michael H., and Joyce A. Huesemann (2011). Technofix: Why Technology Won’t Save Us or the Environment, “Challenge #1: Serious Environmental Impacts of Large-scale Renewable Energy Generation”, New Society Publishers, ISBN 0865717044, pp. 125-133.
+^ Rojstaczer, S.; Sterling, S.M.; Moore, N.J. Human appropriation of photosynthesis products. Science. 2001, 294: 2549–2552. doi:10.1126/science.1064375. 
+^ Vitousek, P.M.; Ehrlich, P.R.; Ehrlich, A.H.; Matson, P.A. Human appropriation of the products of photosynthesis. BioScience. 1986, 36 (6): 368–373. doi:10.2307/1310258. 
+^ Pimentel, D.; 等. Achieving a secure energy future: environmental and economic issues. Ecological Economics. 1994, 9: 201–219. doi:10.1016/0921-8009(94)90078-7.  引文格式1维护：显式使用等标签 (link)
+^ Hoffert, M.I.; 等. Advanced technology paths to global climate change stability: energy for a greenhouse planet. Science. 2002, 298: 981–987. doi:10.1126/science.1072357.  引文格式1维护：显式使用等标签 (link)
+^ Nakicenovic, N., A. Gruebler, and A. McDonald (1998). Global Energy Perspective, Cambridge University Press
+^ Elliott, D.L., L.L. Wendell, and G.L. Gower (1992), "Wind energy potential in the United States considering environmental and land use exclusions", In: Proceedings of the Biennial Congress of the International Solar Energy Society – Solar World Congress in Denver, Colorado, edited by M.E. Ardan, S.M.A. Burley, and M. Coleman, Pergamon, Oxford, UK.
+^ Elliott, D., (1997). Energy, Society, and Environment – Technology for a Sustainable Future, Chapter 11, "Case Study: Public Reaction of UK Windfarms", Routledge
+^ Wuestenhagen, R.; Welsink, M.; Buerer, M.J. Social acceptance of renewable energy innovations – an introduction to the concept. Energy Policy. 2007, 35: 2683–2691. doi:10.1016/j.enpol.2006.12.001. 
+^ 127.0 127.1 127.2 127.3 The US Senate and House of Representatives. (2008). "Economic and Other Implications of Switching from Coal to Natural Gas at the Capitol Power Plant and at Electricity-Generating Units Nationwide". United States Government Accountability Office. Washington, DC
+
+
+延伸阅读[编辑]
+
+NREL Publication Database A list of publications from the National Renewable Energy Laboratory
+Unintended Consequences of Green Technologies A concise University of California, Berkeley summary of the unintended consequences of alternative energy technologies
+"A Skeptic Looks at Alternative Energy," by Vaclav Smil, IEEE Spectrum, July 2012
+"Rethinking the world's power: alternative energy sources" by Wilson da Silva Cosmos (magazine), April 2012
+Tethys An online knowledge management system that provides the marine and hydrokinetic (MHK) and offshore wind (OSW) energy communities with access to information and scientific literature on environmental effects of MHK and OSW developments.
+GA Mansoori, N Enayati, LB Agyarko (2016), Energy: Sources, Utilization, Legislation, Sustainability, Illinois as Model State
+
+
+
+
+
+分类：替代能源隐藏分类：带有失效链接的条目条目有永久失效的外部链接Webarchive模板wayback链接引文格式1维护：未识别语文类型CS1德语来源 (de)Webarchive模板archiveis链接引文格式1维护：显式使用等标签使用ISBN魔术链接的页面有未列明来源语句的条目自2010年9月有未列明来源语句的条目含有英語的條目细节待更新条目

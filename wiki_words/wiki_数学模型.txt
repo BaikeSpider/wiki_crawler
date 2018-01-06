@@ -1,0 +1,360 @@
+数学模型
+
+
+
+
+
+
+
+
+
+提示：本条目的主题不是模型論（数理逻辑的一个分支）中的相同术语。用来说明一种数学思想的人工制品也会被称作数学模型，该用法与本文中解释的意思相反。
+
+
+
+數學模型是使用數學概念和語言來对一個系統的描述。建立数学模型的过程叫做数学建模。數學模型不只用在自然科學（如物理、生物學、地球科學、大氣科學）和工程学科（如计算机科学，人工智能）上，也用在社會科學（如經濟學、心理學、社會學和政治科學）上；其中，物理學家、工程師、统计学家、運籌學分析家和經濟學家們最常使用數學模型。模型会帮助解释一个系统，研究不同组成部分的影响，以及对行为做出预测。
+Eykhoff定義「數學模型」為「對一個現存（或被建構的）系統本質的表述，以能以有用的形式表示出此系統的知識來。」[1]
+數學模型可以有許多種的形式，不只限定在動態系統、概率模型、微分方程或賽局模型而已。不同的模型可能有相同的形式，同一個模型也可能包含了不同的抽象結構。
+
+
+
+目录
+
+
+1 数学模型的分类
+2 在自然科学中的重要性
+3 先验信息
+4 例子
+5 参见
+6 延伸阅读
+
+6.1 书籍
+6.2 具体应用
+
+
+7 参考资料
+
+
+
+数学模型的分类[编辑]
+数学模型通常由关系与变量组成。关系可用算符描述，例如代数算符、函数、微分算符等。变量是关注的可量化的系统参数的抽象形式。算符可以与变量相结合发挥作用，也不可以不与变量结合。[2] 通常情况下，数学模型可被分为以下几类：
+
+线性与非线性：在数学模型中，如果所有变量表现出線性關係，由此产生的数学模型为线性模型。否则，就为非线性模型。对线性与非线性的定义取决于具体数据，线性相关模型中也可能含有非线性表达式。例如，在一个线性统计模型（英语：Linear model）中，假定参数之间的关系是线性的，但预测变量可能是非线性的。同理，如果一个微分方程定义为线性微分方程，指的是它可以写成线性微分算子的形式，但其中仍可能有非线性的表达式。在数学规划模型中，如果目标函数和约束条件都完全可以由线性方程表示，那么模型为线性模型。如果一个或多个目标函数或约束表示为非線性方程，那么模型是一个非线性模型。
+即使在相对简单的系统中，非线性也往往与混沌和不可逆性等现象有关。虽然也有例外，非线性系统和模型往往比线性研究起来更加困难。解决非线性问题的一个常见方法是线性化（英语：linearization），但在尝试用来研究对非线性依赖性很强的不可逆性等方面时就会出现问题[3]。
+静态与动态：动态模型对系统状态随时间变化情况起作用，而静态（或稳态）模型是在系统保持平稳状态下进行计算的，因而与时间无关。动态模型通常用微分方程描述。
+显式与隐式：如果整体模型的所有输入参数都已知，且输出参数可以由有限次计算求得（称为线性规划，不要与上面描述的线性模型相混淆），该模型称作显式模型。但有时输出参数未知，相应的输入必须通过迭代过程求解，如牛顿法（如果是线性模型）或布洛登法（英语：Broyden's method）（如是非线性模型）。例如喷气发动机物理特性如涡轮和喷管喉道面积，可以在给定特定飞行条件和功率设置的热力学循环（空气和燃油的流量、压力、温度）的情况下显式计算出来，但不能用物理性质常量显式计算出其他飞行条件和功率设置下发动机的工作周期。
+离散与连续：离散模型（英语：Discrete modelling）将对象视作离散的，例如分子模型中的微粒，又如概率模型中的状态。而连续模型（英语：Continuous modelling）则由连续的对象所描述，例如管道中流体的速度场，固体中的温度和压力，电场中连续作用于整个模型的点电荷等。
+确定性与概率性（随机性）：确定性模型是所有变量集合的状态都能由模型参数和这些变量的先前状态唯一确定的一种模型；因此，在一组给定的初始条件下确定性模型总会表现相同。相反，在随机模型（通常成为“概率模型”）中存在随机性，而且变量状态并不能用唯一值来描述，而用概率分布来描述。
+演绎，归纳与漂移：演绎模型是建立在理论上的一种逻辑结构。归纳模型由实证研究及演绎模型推广而得。漂移模型则既不依赖于理论，也不依赖于观察，而仅仅是对预期结构的调用。[4] 当数学应用在经济学以外的社会科学时，此类模型一直被批评为毫无根据的模型。科学中在突变理论（英语：Catastrophe theory）的应用已被定性为漂移模型。[5]
+
+在自然科学中的重要性[编辑]
+数学模型在自然科学中非常重要的，特别是在物理学中。物理理論几乎无一例外是利用数学模型表示的[6]。
+纵观历史，许多越来越准确的数学模型得到发展。牛顿运动定律准确地描述了许多日常现象，但在必须使用相对论和量子力学的某些限制下，这些定律甚至对所有情况都不能适用，而需要进一步细化[7]。可以在适当限制下得到较不准确的模型，例如在速度远小于光速时相对论力学就会成为牛顿力学。在量子数较高的时候，量子力学就会成为经典物理。比如网球的德布罗意波长非常小，所以在这种情况下使用经典物理学是一个很好的近似[8]。
+在物理学中，使用理想化模型来简化事物是很常见的。物理中用到的若干简化模型就包括无质量的绳子、点粒子、理想氣體以及無限深方形阱[9]。用简单方程表示的物理定律有牛顿定律、馬克士威方程組和薛定谔方程等[10]。这些定律都是建立在实际情况的数学模型基础上的。许多实际情况是非常复杂的，因此要用电脑进行模拟，计算可行的模型是建立在基本定律或基本定律吧的近似模型上的。例如，分子可以用薛定谔方程的近似解分子轨道模型进行模拟。在工程中，物理模型通常运用的数学方法如有限元分析[11]。
+不同数学模型使用不同的几何学，但所使用的不一定是描述宇宙最准确的几何学。欧几里得几何多用在经典物理学中，而狭义相对论和廣義相對論都是不使用欧几里得几何的理论[12]。
+先验信息[编辑]
+
+白箱模型：指那些内部规律比较清楚的模型。如力学、热学、电学以及相关的工程技术问题[13]。
+灰箱模型：指那些内部规律尚不十分清楚，在建立和改善模型方面都还不同程度地有许多工作要做的问题。如气象学、生态学、经济学等领域的模型[14]。
+黑箱模型：指一些其内部规律还很少为人们所知的现象。如生命科学、社会科学等方面的问题。但由于因素众多、关系复杂，也可简化为灰箱模型来研究[15]。
+
+例子[编辑]
+
+
+
+
+一个状态图
+
+
+
+计算机科学中的一个常见模型是各种自动机，如用抽象数学概念定义的确定有限状态自动机（DFA），但是由于DFA的确定性性质，可以用硬件或软件来实现以解决各种具体问题。
+许多日常活动都暗含着数学模型的运用。把地球的一个区域投影在小的地图平面上就是一个模型，[16] 该模型可以用来规划旅行。
+人口成長：一個簡單（但粗略）的人口成長模型為馬爾薩斯成長模型（英语：Malthusian growth model）；另一個較理想且被大量使用的人口成長模型為邏輯函數和其延伸[13]。
+位能場中的粒子模型：在此模型中，粒子被視為一個質量為m的點，其軌跡為一將時間映射至其空間座標的函數x : R → R3，位能場由一函數V:R3 → R給定，則其軌跡為如下微分方程的解：
+
+
+
+
+
+
+
+
+−
+
+
+
+
+
+d
+
+
+2
+
+
+
+r
+
+(
+t
+)
+
+
+
+d
+
+
+t
+
+2
+
+
+
+
+
+m
+=
+
+
+
+∂
+V
+[
+
+r
+
+(
+t
+)
+]
+
+
+∂
+x
+
+
+
+
+
+
+x
+^
+
+
+
++
+
+
+
+∂
+V
+[
+
+r
+
+(
+t
+)
+]
+
+
+∂
+y
+
+
+
+
+
+
+y
+^
+
+
+
++
+
+
+
+∂
+V
+[
+
+r
+
+(
+t
+)
+]
+
+
+∂
+z
+
+
+
+
+
+
+z
+^
+
+
+
+,
+
+
+{\displaystyle -{\frac {\mathrm {d} ^{2}\mathbf {r} (t)}{\mathrm {d} t^{2}}}m={\frac {\partial V[\mathbf {r} (t)]}{\partial x}}\mathbf {\hat {x}} +{\frac {\partial V[\mathbf {r} (t)]}{\partial y}}\mathbf {\hat {y}} +{\frac {\partial V[\mathbf {r} (t)]}{\partial z}}\mathbf {\hat {z}} ,}
+
+
+
+
+也可以写作
+
+
+
+
+
+m
+
+
+
+
+
+d
+
+
+2
+
+
+
+r
+
+(
+t
+)
+
+
+
+d
+
+
+t
+
+2
+
+
+
+
+
+=
+−
+∇
+V
+[
+
+r
+
+(
+t
+)
+]
+.
+
+
+{\displaystyle m{\frac {\mathrm {d} ^{2}\mathbf {r} (t)}{\mathrm {d} t^{2}}}=-\nabla V[\mathbf {r} (t)].}
+
+
+
+
+需注意此模型假定粒子為一質點，但這在許多情形之下是錯誤的，如行星運動的模型之類。
+
+
+邻居遥感模型（英语：Neighbour-sensing model）解释了从最初的混沌真菌网络形成蘑菇的过程。
+计算机科学：计算机网络模型，数据模型，表面模型等。
+力学：火箭模型运动等。
+
+建模需要在现实世界中情况的相关方面选择和鉴别。
+参见[编辑]
+
+
+数学主题
+
+
+
+
+数学建模
+个体为本模型
+历史动力学（英语：Cliodynamics）
+计算机模拟
+概念模型
+决策工程（英语：Decision engineering）
+灰箱模型
+數理生物學
+数学图表（英语：Mathematical diagram）
+数学心理学
+数理社会学
+微观模型和宏观模型（英语：Microscale and macroscale models）
+概率模型
+系统辨识（英语：System identification）
+TK Solver（英语：TK Solver） - 基于规则的建模
+
+
+延伸阅读[编辑]
+书籍[编辑]
+
+Aris, Rutherford [ 1978 ] ( 1994 ). Mathematical Modelling Techniques, New York: Dover. ISBN 978-0-486-68131-3
+Bender, E.A. [ 1978 ] ( 2000 ). An Introduction to Mathematical Modeling, New York: Dover. ISBN 978-0-486-41180-4
+Gershenfeld, N. (1998) The Nature of Mathematical Modeling, Cambridge University Press ISBN 978-0-521-57095-4 .
+Lin, C.C. & Segel, L.A. ( 1988 ). Mathematics Applied to Deterministic Problems in the Natural Sciences, Philadelphia: SIAM. ISBN 978-0-89871-229-2
+
+具体应用[编辑]
+
+Korotayev A., Malkov A., Khaltourina D. (2006). Introduction to Social Macrodynamics: Compact Macromodels of the World System Growth. Moscow: Editorial URSS ISBN 978-5-484-00414-0 .
+doi:10.1080/00107518008210938
+本引用來源將會在數十分鐘後自動完成。您可以检查英文对应模板或手動擴充
+An Introduction to Infectious Disease Modelling by Emilia Vynnycky and Richard G White.
+
+参考资料[编辑]
+
+
+^ Eykhoff, Pieter System Identification: Parameter and State Estimation, Wiley & Sons, （1974）. ISBN 978-0-471-24980-1
+^ Functions with no parameters
+^ 张尧庭. 线性模型与广义线性模型. 统计教育. 1995, 4. 7 （中文（中国大陆）‎）. 
+^ Andreski, Stanislav. Social Sciences as Sorcery. St. Martin’s Press. 1972. ISBN 0-14-021816-5. 
+^ Truesdell, Clifford. An Idiot’s Fugitive Essays on Science. Springer. 1984: 121–7. ISBN 3-540-90703-3. 
+^ Rosinger, Elemer E. Mathematical Models in Physics : a Quest for Clarity. 2008. arXiv:0804.0877 [physics.gen-ph].  不支持的参数使用了arXiv (帮助)
+^ Rabinowitz, Mario. Is Quantum Mechanics Incompatible with Newton's First Law. 2008. arXiv:0705.4455v3 [physics.gen-ph].  引文使用过时参数version (帮助); 不支持的参数使用了arXiv (帮助)
+^ Richard Fitzpatrick. Quantum statistics in the classical limit. 2006-02-02 [2015-05-06]. 
+^ Mansoor Niaz, The Role of Idealization in Science and Its Implications for Science Education, Journal of Science Education and Technology, Vol. 8, No. 2, 1999, pp. 145–150.
+^ Griffiths, David J., Introduction to Quantum Mechanics (2nd ed.), Prentice Hall, 2004, ISBN 0-13-111892-7 
+^ Zienkiewicz, O.C.; Taylor, R.L.; Zhu, J.Z. The Finite Element Method: Its Basis and Fundamentals Sixth. Butterworth-Heinemann. 2005. ISBN 0750663200. 
+^ Sean M. Carroll. Spacetime and Geometry: An Introduction to General Relativity. Addison Wesley. 2004: 22. ISBN 0-8053-8732-3. 
+^ 13.0 13.1 A white-box model of population growth - PeerJ
+^ Grey-Box Modelling for Nonlinear Systems - KLUEDO
+^ N.H.M. Nasir, B.S.K.K. Ibrahim, and M.K.I. Ahmad. COMPARATIVE STUDY ON MATHEMATICAL AND BLACK BOX MODELLING APPROACHES OF MUSCULOSKELETAL SYSTEM (PDF). UTHM. 2011 [2015-05-06]. 
+^ landinfo.com, definition of map projection
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4114528-8
+NDL: 01157664
+
+
+
+
+
+
+
+
+
+
+
+
+分类：應用數學科学建模数学模型隐藏分类：引文格式1错误：arXiv含有过时参数的引用的页面使用ISBN魔术链接的页面包含未完成DOI引用來源的頁面包含规范控制信息的维基百科条目
