@@ -85,7 +85,7 @@ def conertit(filename) :
 
 if __name__=='__main__':
     ii = 0;
-    path = "G:/Python/Baidu-Spider/Encyclopedia_Poject/New"
+    path = "G:/Python/Baidu-Spider/severs/wiki_crawler/xlsx"
     node_group = os.listdir(path)
     old_node = set()
     while ii<len(node_group):
