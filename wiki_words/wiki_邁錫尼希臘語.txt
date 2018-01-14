@@ -1,0 +1,713 @@
+邁錫尼希臘語
+
+
+邁錫尼希臘語
+
+
+区域
+南巴爾幹／克里特島
+
+
+語言滅亡
+公元前12世紀
+
+
+語系
+
+印歐語系
+
+希臘語族
+
+古希臘語
+
+邁錫尼希臘語
+
+
+
+
+
+
+
+
+
+文字
+綫形文字B
+
+
+語言代碼
+
+
+ISO 639-2
+ine
+
+
+ISO 639-3
+gmy
+
+
+
+
+
+
+綫形文字B泥板。
+
+
+邁錫尼希臘語是希臘語的已知最古老的形式，多利亞人入侵前，在邁錫尼時期（公元前16至前12世紀）使用於希臘大陸和克里特島上。它保存在綫形文字B寫的題字中，這種文字是公元前14世紀前在克里特島上發明的。這種題字的多數實例都在克里特島中部的克诺索斯和伯羅奔尼撒半島西南部的Pylos所發現的泥板上。這種語言以首次發掘出來的地方邁錫尼命名。
+這些泥板長時間無法破解，所有可能的語言都嘗試過了，直至迈克尔·文特里斯等在1953年通過證明這門語言是希臘語的早期形式的證據優勢而破解了這種文字。
+在泥板上文本多數是列表和清單。沒有幸存的散文敘述，更少有神話和詩歌。但從這些記錄中仍可瞥見關於使用它們的人和在所謂希臘黑暗時代前夕的邁錫尼時代的很多事情。
+
+
+
+目录
+
+
+1 正寫法
+2 音節表
+
+2.1 已識別的特殊符號
+
+
+3 語音系統
+4 構詞
+5 希臘語特征
+
+5.1 語音變更
+5.2 構詞變更
+5.3 詞匯項
+
+
+6 腳注
+7 引用
+8 外部連結
+
+
+
+正寫法[编辑]
+邁錫尼語保存於綫形文字B書寫中，它由大約200個音節符號和語素符號組成。因為綫形文字B是從綫形文字A演化來的，它是可能與希臘語無關的未破解的米諾斯語的文字，因而不能完全反映邁錫尼語的語音。在本質上，有限數目的音節符號必須表示更多數目的產生出的音節，它們用字母表中字母做音素表示會更好。因此必須做正寫法簡化。主要有:[1]
+
+除了齒音 d, t 之外，對希臘語的音位范疇濁音和送氣音不做區分。e-ko 可以是要么 egō 要么 ekhō。
+任何在輔音前的 m 和 n 和任何音節尾出現的 l, m, n, r, s 都省略。pa-ta 是 panta; ka-ko 是 khalkos。
+輔音叢必須在正寫法上被解散，建立明顯的元音。po-to-li-ne 是 ptolin。
+r 和 l 不區分。pa-si-re-u 是 basileus。
+初始的送氣音不指示。a-ni-ja 是 hāniai。
+元音長度不標記。
+z 用於 *dy, 初始的 *y, *ky, *gy。[2]
+q- 是唇化軟腭音 kʷ 或 gʷ 和某些名字中的 ghʷ。[2] qo-u-ko-ro 是 gʷoukoloi、古典希臘語的 boukoloi。
+在輔音前的初始 s 不書寫。ta-to-mo 是 stathmos。
+雙輔音不表示。ko-no-so 是 Knōsos、古典希臘語的 Knossos。
+
+除了這些拼寫規則之外，一個符號不能表示多於一個聲音，有時一個聲音可以用多於一個符號來表示，但不是“真正的同音字”而是“交疊音值”。[3] 長單詞可以省略中間或最后的符號。
+音節表[编辑]
+主条目：綫形文字B
+
+顯示綫形文字B和其他一些古文字可以安裝字體Aegean.otf。
+
+
+
+
+
+識別了的 V、CV 形式的音節符號[4]
+
+
+
+-a
+-e
+-i
+-o
+-u
+
+
+
+
+a
+
+e
+
+i
+
+o
+
+u
+
+
+d-
+
+da
+
+de
+
+di
+
+do
+
+du
+
+
+j-
+
+ja
+
+je
+
+
+jo
+
+
+
+k-
+
+ka
+
+ke
+
+ki
+
+ko
+
+ku
+
+
+m-
+
+ma
+
+me
+
+mi
+
+mo
+
+mu
+
+
+n-
+
+na
+
+ne
+
+ni
+
+no
+
+nu
+
+
+p-
+
+pa
+
+pe
+
+pi
+
+po
+
+pu
+
+
+q-
+
+qa
+
+qe
+
+qi
+
+qo
+
+
+
+r-
+
+ra
+
+re
+
+ri
+
+ro
+
+ru
+
+
+s-
+
+sa
+
+se
+
+si
+
+so
+
+su
+
+
+t-
+
+ta
+
+te
+
+ti
+
+to
+
+tu
+
+
+w-
+
+wa
+
+we
+
+wi
+
+wo
+
+
+
+z-
+
+za
+
+ze
+
+
+zo
+
+
+
+
+
+已識別的特殊符號[编辑]
+
+
+
+
+特殊音值
+
+
+字符
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+抄錄
+a2 (ha)
+a3 (ai)
+au
+dwe
+dwo
+nwa
+pte
+pu2 (phu)
+ra2 (rya)
+ra3 (rai)
+ro2 (ryo)
+ta2 (tya)
+twe
+two
+
+
+
+
+語音系統[编辑]
+
+
+
+唇音
+齒音
+軟腭音
+硬顎音
+唇顎音
+聲門音
+
+
+鼻音
+m
+n
+
+
+
+
+
+
+塞音
+濁音
+b
+d
+dz?
+ɡ
+gʷ
+
+
+
+清音
+p
+t
+ts?
+k
+kʷ
+
+
+
+送氣
+pʰ
+tʰ
+
+kʰ
+kʷʰ
+
+
+
+擦音
+
+s
+
+
+
+h
+
+
+近音
+
+
+j
+
+w
+
+
+
+顫音
+
+r
+
+
+
+
+
+
+邊音
+
+l
+
+
+
+
+
+
+綫形文字B區分五個元音音質 a、e、i、o、u，半元音 w 和 j（也抄錄為 y），三個響音 m、n、r（也同樣表示 l），一個噝擦音 s 和六個塞音 p、t、d、k、q(通常抄錄所有的唇化軟顎音)和 z(它包括后來變成希臘字母 ζ 的 [kʲ]、 [gʲ] 和 [dʲ] 音素。)
+邁錫尼語還保留了 /w/，它在某些希臘方言中幸存為字母 Ϝ（wau），直到它和元音間 /h/ 后來一起消失。
+邁錫尼形式的希臘語保存了它的印歐語言傳統的一些古老特征，比如在幾百年后希臘字母書寫時代遭受上下文依賴語音變化的唇化軟顎音。
+構詞[编辑]
+不像后來的希臘語變體，邁錫尼希臘語可能有七個語法格，主格、屬格、賓格、與格、工具格、方位格和呼格。工具格和方位格在古希臘語和現代希臘語中脫離了使用，現代只有主格、賓格、屬格和呼格保留。[5]
+希臘語特征[编辑]
+主条目：原始希臘語
+邁錫尼語已經經歷了如下確立希臘語的語音變更并因此是希臘語。[6]
+語音變更[编辑]
+
+詞首和元音間 *s 消失。
+詞首 *j 消失或替代為 ζ。
+濁送氣音被清化。
+*kj 和 *tj 在元音前變為 s。
+*gj 和 *dj 變為 ζ。
+音節主音流音和鼻音變為 a 或 o。
+
+構詞變更[编辑]
+
+使用 -eus 來生成施事者(agent)名詞。
+第三人稱單數結尾於 -ei。
+不定詞結尾於 -ein。
+
+詞匯項[编辑]
+
+獨有的希臘詞；比如 anax、basileus、elaion。
+在其他語言中已知的詞的希臘形式；比如 theos、tripos、khalkos。
+
+腳注[编辑]
+
+
+^ Ventris and Chadwick (1973) pages 42-48.
+^ 2.0 2.1 Ventris and Chadwick (1973) page 389.
+^ Ventris & Chadwick (1973) page 390.
+^ In linguistics C and V in this type of context stand for consonant and vowel.
+^ Andrew Garrett, "Convergence in the formation of Indo-European subgroups: Phylogeny and chronology", in Phylogenetic methods and the prehistory of languages, ed. Peter Forster and Colin Renfrew (Cambridge: McDonald Institute for Archaeological Research), 2006, p. 140, citing Ivo Hajnal, Studien zum mykenischen Kasussystem. Berlin, 1995, with the proviso that "the Mycenaean case system is still controversial in part".
+^ Ventris & Chadwick (1973) page 68.
+
+
+引用[编辑]
+
+
+Chadwick, John. The Decipherment of Linear B. Second edition (1990). Cambridge UP. 1958. ISBN 0521398304. 
+Chadwick, John. The Mycenaean World. Cambridge UP. 1976. ISBN 0521290376. 
+Ventris, Michael. Evidence for Greek dialect in the Mycenaean archives. Journal of Hellenic Studies. 1953, 73: 84–103. doi:10.2307/628239. 
+Ventris, Michael and Chadwick, John. Documents in Mycenaean Greek. Second edition (1973). Cambridge UP. 1956. ISBN 0521085586. 
+Bartoněk, Antonin. Handbuch des mykenischen Griechisch. Universitätsverlag C. Winter. 2003. ISBN 3825314359. 
+
+
+外部連結[编辑]
+
+Jeremy B. Rutter, "Bibliography: The Linear B Tablets and Mycenaean Social, Political, and Economic Organization"[失效連結]
+The writing of the Mycenaeans (contains an image of the Kafkania pebble)
+Program in Aegean Scripts and Prehistory (PASP)
+Markos Gavalas, MYCENAEAN (Linear B) - ENGLISH Dictionary (explorecrete.com)
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+希腊语分期
+
+
+
+
+
+
+
+
+
+
+约公元前2000年 
+约公元前1600年–前1100年 
+约公元前800年–前300年 
+约公元前300年–公元330年 
+约公元330年–1453年 
+公元1453年以后
+
+
+
+
+
+
+
+原始希腊语
+
+
+
+
+迈锡尼希腊语
+
+
+
+
+古典希腊语
+
+
+
+
+通用希腊语
+
+
+
+
+中古希腊语
+
+
+
+
+现代希腊语
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+古希腊
+
+
+
+
+
+
+歷史
+
+
+
+
+
+爱琴文明
+
+
+基克拉泽斯文明 · 米诺斯文明 · 迈锡尼文明
+
+
+
+
+
+
+
+古希腊
+
+
+黑暗时代 · 古風時期 · 古典時期 · 希臘化時代 · 希腊的罗马时期
+
+
+
+
+
+
+
+
+
+地理
+
+爱琴海 · 達達尼爾海峽 · 馬其頓王國 · 斯巴达 · 古雅典 · 科林斯 · 古底比斯 · 溫泉關 · 爱奥尼亚海 · 愛奧尼亞 · 埃奧利斯 · 小亞細亞多利安六城 · 安提阿 · 亚历山大港 · 帕加马 · 米利都 · 以弗所 · 拜占庭 · 德尔斐 · 提洛岛 · 奥林匹亚 · 特洛伊 · 罗得岛 · 克里特 · 伯罗奔尼撒 · 伊庇魯斯 · 賽普勒斯 · 本都 · 大希腊 · 古希臘殖民地
+
+
+
+
+
+
+生活
+
+農業 · 饮食文化 · 雅典式民主 · 經濟 · 教育 · 雅典節日 · 法律 · 賣淫業 · 宗教 · 英雄崇拜 · 奴隶制度 · 古代奥林匹克运动会 · 哲学 · 戰爭 · 葡萄酒 · 同性戀（少年愛） · 丧葬
+
+
+
+
+
+
+人物
+
+
+
+
+
+哲學家
+
+
+阿那克萨哥拉 · 阿那克西曼德 · 阿那克西美尼 · 安提西尼 · 亚里士多德 · 德谟克利特 · 锡诺普的第欧根尼 · 伊壁鸠鲁 · 恩培多克勒 · 赫拉克利特 · 留基伯 · 高爾吉亞 · 巴门尼德 · 柏拉图 · 普罗泰戈拉 · 毕达哥拉斯 · 苏格拉底 · 泰勒斯 · 季蒂昂的芝诺
+
+
+
+
+
+
+
+作家
+
+
+埃斯库罗斯 · 伊索 · 阿里斯托芬 · 欧里庇得斯 · 希羅多德 · 赫西俄德 · 荷马 · 琉善 · 米南德 · 品达 · 普魯塔克 · 波利比奥斯 · 莎孚 · 索福克勒斯 · 修昔底德 · 泰奥格尼斯 · 提谟克勒翁 · 提尔泰奥斯 · 色诺芬
+
+
+
+
+
+
+
+其他
+
+
+亚历山大大帝 · 阿尔西比亚德斯 · 阿基米德 · 阿斯帕齊婭 · 狄摩西尼 · 欧几里得 · 喜帕恰斯 · 希波克拉底 · 列奥尼达一世 · 來古格士 · 克罗托那的米罗‎ · 伯里克利 · 托勒密 · 梭伦 · 地米斯托克利
+
+
+
+
+
+
+
+
+
+建築
+
+古希臘神廟 · 帕德嫩神廟 · 阿尔忒弥斯神庙 · 雅典衛城 · 古阿哥拉 · 宙斯神廟 · 赫菲斯托斯神廟 · 薩摩色雷斯廟宇群 · 古希臘神廟列表
+
+
+
+
+
+
+藝術
+
+建築 · 貨幣 · 文學 · 音樂 · 陶器 · 雕刻 · 戲劇 · 史學
+
+
+
+
+
+
+科學
+
+天文學 · 數學 · 醫學 · 技術
+
+
+
+
+
+
+語言
+
+原始希臘語 · 邁錫尼希臘語 · 荷馬式希臘語 · 古希臘方言 （伊歐里斯 · 阿卡迪亞-塞浦路斯 · 雅典希臘語 · 多利斯 · 愛奧尼亞 · 洛克里 · 馬其頓 · 旁非利亞） · 通用希臘語
+
+
+
+
+
+
+書寫系統
+
+线形文字A · 線形文字B · 塞浦路斯音節文字 · 希腊字母 · 優卑亞字母
+
+
+
+
+
+
+
+
+ « 史前歐洲
+中世紀 » 
+
+
+
+
+
+
+
+
+
+
+
+分类：ISO 639-2代码的语言各种古希腊语隐藏分类：含有希臘語的條目带有失效链接的条目

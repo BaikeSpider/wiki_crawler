@@ -1,0 +1,701 @@
+卡尔达肖夫指数
+卡尔达肖夫指數（英语：Kardashev Scale）是根據一個文明所能夠利用的能源量級，來量度文明層次及技術先進程度的一種假说。1964年苏联天文学家尼古拉·卡尔达肖夫首先提出用能量级把文明分成三个等级级：I型、II型和III型。I型文明使用在它的故鄉行星所有可用的能量，II型文明利用它的行星所围绕的恆星所有的能量，III型文明則利用它所處星系的所有能量。一般认为人类文明现在接近但尚未达到I型文明。
+
+
+
+目录
+
+
+1 定義
+2 人類文明的現狀
+3 參考文献
+4 延伸閱讀
+5 外部链接
+6 参见
+
+
+
+定義[编辑]
+在1964年由苏联天文学家尼古拉·卡尔达肖夫首先提出定義文明的三個層次，根據各個文明使用能源功率數量的量級：
+
+I型 — 文明對行星可以驾驭的能量大約是1016 W。實際的數字是有很多變數的，地球的特定變數為 1.74×1017 W。（此处存疑）卡爾達肖夫指數原定義為 4×1016 W。[1]
+
+
+II型 — 文明對一个恒星所可以驾驭的能量大約是 1026 W。同樣地，實際的數字是有很多變數的，太陽輸出的指數約為3.86×1026 W。卡爾達肖夫指數原定義為 4×1026 W。[1]
+
+
+III型 — 文明對一個星系所驾驭的能量大約是 1036 W。這個數字是有極多變數的，因為星系的體積在變化中。卡爾達肖夫指數原定義為 4×1037 W。
+
+（W，瓦特=J/s，焦耳每秒，即I型文明在一秒即可输出亿亿焦耳的能量，相当于两百万吨TNT当量——大型核弹）
+在現階段，上述文明類別純為假定。但是卡尔达肖夫指數被搜寻地外文明计划研究人員、科幻小說作家和預言家用來作理論基礎。
+
+
+
+
+
+卡尔达肖夫指數的能源消耗估计三种类型文明的定义
+
+
+
+人類文明的現狀[编辑]
+主条目：世界能源消耗量
+
+
+
+
+世界的全年初级能源消耗的总量。
+
+
+加來道雄認為，人類可能在100〜200年左右達到I型狀態，在幾千年後達到II型狀態，而約在10萬至100萬年後達到III型狀態。[2]
+卡爾·薩根建議定義中間值（不考慮在卡尔达肖夫的原指数），由類型I（1016 W），類型II（1026 W）和類型III（1036 W）的值來做內插和外插，得出下面的公式：
+
+
+
+
+
+K
+=
+
+
+
+
+log
+
+10
+
+
+⁡
+P
+−
+6
+
+10
+
+
+
+
+{\displaystyle K={\frac {\log _{10}P-6}{10}}}
+
+,
+
+其中的K是一個文明的卡尔达肖夫指数，和 P 是它使用的電力，以瓦特爲單位。他計算出人類文明類型指數（在1973年）是0.7左右，用外推法（顯然1970年代人類使用了10太瓦（TW）的數值）。[3]
+2012年，總世界能源消耗量量為553艾焦（553×1018 J=153,661 TWh），相當於平均功耗為17.54太瓦（1.504×1013 W ，或0.724上的卡尔达肖夫指数）。[4]
+地球的總光合生產力（英语：Photosynthetic_efficiency#Worldwide_figures）是大約1500至2250TW之間，或每年47,300-71,000艾焦（EJ），相當於0.9卡尔达肖夫指数。
+參考文献[编辑]
+
+
+^ 1.0 1.1 Lemarchand, Guillermo A. Detectability of Extraterrestrial Technological Activities. Coseti. .
+^ Kaku, Michio. The Physics of Interstellar Travel: To one day, reach the stars.. 2010 [2010-08-29]. 
+^ Sagan, Carl. Jerome Agel, 编. Cosmic Connection: An Extraterrestrial Perspective. Freeman J. Dyson, David Morrison. Cambridge Press. October 2000 [1973] [2008-01-01]. ISBN 0-521-78303-8. 
+^ Primary Energy Consumption 2008-2012' Total Primary Energy Consumption 2008-2012 请检查|url=值 (帮助) (cfm). Statistical Review of World Energy 2008-2012. 
+
+
+延伸閱讀[编辑]
+
+
+Dyson, Freeman J. Energy in the Universe Article in September 1971 Scientific American magazine (Special September Issue on Energy)
+Rusinek, Marvin. Energy Consumption of Europe. The Physics Factbook. 1998. 
+Wind Powering America
+Clean Energy for Planetary Survival: International Development Research Centre
+LBL Scientists Research Global Warming
+E³ Handbook
+Clarke H2 energy systems
+Holdren, John P.; Carl Kaysen. Environmental Change and the Human Condition (PDF). Bulletin Fall: 24–31. 2003 [2006-08-10]. 
+Dordrecht, D. Exponential Expansion: Galactic Destiny or Technological Hubris?. (编) B. R. Finney, M. D. Papagiannis. The Search for Extraterrestrial Life: Recent Developments. Reidel Publ. Co. 1985: 465–463. 
+Shkadov Thruster
+Korotayev, A.; Malkov, A.; Khaltourina, D. Introduction to Social Macrodynamics: Compact Macromodels of the World System Growth. Moscow: URSS. 2006. ISBN 5-484-00414-4. 
+Kardashev, Nikolai. Cosmology and Civilizations. Astrophysics and Space Science. March 1997, 252: 25. doi:10.1023/A:1000837427320. 
+Supercivilizations as Possible Products of the Progressive Evolution of Matter: also by Kardashev
+Search for Artificial Stellar Sources of Infrared Radiation, by Freeman J. Dyson
+The Radio Search For Intelligent Extraterrestral Life, by Frank Drake
+Freitas Jr., Robert A. Energy and Culture (chapter 15). 
+Griffin, John. Operation TOGA: Type One Go Ahead. ISBN 1-4502-0702-2. 
+
+
+外部链接[编辑]
+
+Kardashev civilizations
+Astrobiology: The Living Universe
+Detectability of Extraterrestrial Technological Activities
+Flash Animation on Civilizations
+After Kardashev: Farewell to Super Civilizations
+Exotic Civilizations: Beyond Kardashev
+Description of civilization types from Dr. Michio Kaku
+Search for Type III civilizations
+
+参见[编辑]
+
+
+天文学主题
+能源主题
+
+
+
+克拉克基本定律
+德雷克公式
+戴森球
+卡尔·萨根
+加來道雄
+数量级 (能量)
+可持續性
+技术奇异点
+世界能源消耗（英语：World energy consumption）
+KIC 8462852
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+外星生命
+
+
+
+
+
+
+事件和物體
+
+
+
+艾伦丘陵陨石84001 · 平流层中的活细胞（英语：Chandra_Wickramasinghe#Detection_of_living_cells_in_the_stratosphere） · CI1陨石（英语：CI1 fossils） · 默奇森陨石 · 奈克拉陨石（英语：Nakhla meteorite） · 波隆纳鲁瓦陨石 · 喀拉拉紅雨 · 休格地隕石 · 海盗号的生物学实验 · 雅马拓陨石593（英语：Yamato 000593） · 藍道申森林事件 · 羅斯威爾飛碟墜毀事件等
+
+
+
+
+
+
+
+
+误认或可疑的信号
+
+
+
+CTA-102（英语：CTA-102）（类星体） · PSR B1919+21（脉冲星） · LGM-1（脉冲星） · Wow!訊號 · KIC 8462852（不寻常的光波动） · EPIC 204278916（不寻常的光波动） · SHGb02+14a无线电信号 · HD 164595（强大的无线电信号）
+
+
+
+
+
+
+
+
+地外行星體
+
+
+
+
+
+太阳系
+
+
+
+
+木卫二（歐羅巴星） · 火星 · 土衛六（泰坦星） · 土衛二
+
+
+
+
+
+
+
+
+
+太陽系外
+
+
+
+
+潜在适居太阳系外行星列表  · 葛利斯163c  · 格利泽581g  · 格利澤581d  · 格利泽667Cc  · 格利泽667Ce  · 格利泽667Cf  · HD 40307 g  · HD 85512 b  · 克卜勒22b  · 克卜勒61b  · 克卜勒62e  · 克卜勒62f  · 克卜勒186f  · KOI-1686.01  · PH2 b  · 鯨魚座τe  · 鯨魚座τf
+
+
+
+
+
+
+
+
+
+
+
+行星适居性
+
+
+
+红矮星系统适居性（英语：Habitability of red dwarf systems） · 適居帶 · 地球相似指數 · 行星适居性 · 天然卫星适居性（英语：Habitability of natural satellites） · 潜在适居行星 · 地外液态水 · 適居恆星表 · 地球模拟（英语：Earth analog） · 类地行星  · 星系適居帶（英语：Galactic habitable zone）  · 雙星系統適居性（英语：Habitability of binary star systems）
+
+
+
+
+
+
+
+
+太空飛行任務
+
+
+
+達爾文計畫（英语：Darwin (spacecraft)） · ExoMars · 光子太空船3號（英语：Foton-M） · 生命星際飛行試驗（英语：Living Interplanetary Flight Experiment） · 火星生物探測車  · 火星樣本取回任務 · 火星科学实验室
+
+
+
+
+
+
+
+
+聯絡
+
+
+
+主动搜寻地外文明计划 · 艾倫望遠鏡陣列 · 阿雷西博信息 · 阿雷西博天文台 · 布魯斯威爾探測器 · 與地外文明通訊 · 高斯勾股定理建议 · 星際通訊 · 宇宙语言 · 宇宙语言学 · 先驅者鍍金鋁板 · 獨眼巨人計畫 · 奥兹玛计划 · 凤凰计划 · 搜寻来自近地外智慧生命群落的无线电波计划 · 搜寻地外文明计划 · SETI@home · setiQuest · 旅行者金唱片 · 水坑
+
+
+
+
+
+
+
+
+相關主題
+
+
+
+天體生物學 · 天體生態學 · 生命印記 · 布魯金斯報告 · 星際政治 · 生态神学 · 外星人 · 嗜極生物 · 假定型生物化学 · 火星生命 · 金星生命  · 心理发生 · 行星防衛 · 圣马力诺指数 · 薛莫最後法則 · 黑暗森林假说 · 外星考古學 · 外星生物創造論 · 人與外星生物接觸 · 麦田圈
+
+
+
+
+
+
+
+
+理論
+
+
+
+古代太空人 · 海月及藍月 · 宇宙多元論 · 定向泛種論 · 德雷克公式 · 外星人假说 · 费米悖论 · 返回污染 · 星际污染 · 大过滤理论 · 卡尔达肖夫指数 · 平庸原理 · 新災變理論 · 泛種論 · 天象儀假說 · 地球殊異假說 · 感覺商數 · 动物园假说
+
+
+
+
+
+
+
+
+组织
+
+
+
+SETI协会 ·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+技术
+
+
+
+
+
+
+領域
+
+
+
+
+農業
+
+
+
+农业工程
+水產養殖
+水产学
+食品化学
+食品工程
+营养学
+食品技术
+食品微生物学（英语：Food microbiology）
+遺傳利用限制技術（英语：Genetic use restriction technology）
+
+
+
+
+
+
+
+
+生物医学（英语：Biomedical technology）
+
+
+
+生物信息学
+生物医学工程
+生物工程学
+生物技术
+健康科学
+生化檢驗
+药理学
+神经科学
+组织工程学
+基因工程
+纳米医学
+化学信息学
+
+
+
+
+
+
+
+
+水利/土木建築
+
+
+
+水利工程
+土木工程
+建築工程
+建築設備
+消防工程
+安全工程
+結構工程
+
+
+
+
+
+
+
+
+教育技术
+
+
+
+在线学习
+教育技术学
+教育软件（英语：Educational software）
+虚拟校园（英语：Virtual campus）
+
+
+
+
+
+
+
+
+能源
+
+
+
+核工程
+核技术
+储能技术
+石油工程（英语：Petroleum engineering）
+
+
+
+
+
+
+
+
+军事
+
+
+
+彈藥
+炸彈
+軍事技术
+電子作戰
+低可偵測性技術
+工兵
+军事通信（英语：Military communications）
+
+
+
+
+
+
+
+
+信息
+
+
+
+人工智能
+計算機工程
+计算机科学
+音乐工艺
+通信工程
+通信
+图形
+信息技术
+軟件工程
+音乐
+语音识别
+可视化技术
+系统分类学
+本体工程
+信息学
+
+
+
+
+
+
+
+
+工业（英语：Industrial technology）
+
+
+
+纳米科技
+音频工程
+生物工程
+生化工程
+陶瓷工程
+化学工程
+控制工程
+低温学
+電機工程學
+电子工程
+工程技术
+工程学
+工业工程学
+企业工程
+水力学
+机械工程
+機械電子學
+冶金工程
+海洋工程
+光学工程
+系统工程
+运输工程
+电动机械学
+金融工程学
+制造
+机械
+采矿业
+自动化技术
+冶金学
+
+
+
+
+
+
+
+
+交通
+
+
+
+航空航天
+航空航天工程
+空间技术
+机动车
+車輛工程
+交通工程
+流量工程
+
+
+
+
+
+
+
+
+環境科技
+
+
+
+綠色建築
+可再生能源
+永續設計
+环境工程
+生態工程
+潔淨科技（英语：Clean technology）
+生態技術（英语：Ecotechnology）
+環境工程科學（英语：Environmental engineering science）
+
+
+
+
+
+
+
+
+应用科学
+
+
+
+考古
+电子学
+光学
+半导体物理学
+环境科学
+材料科学
+微系统
+微技术
+纳米技术
+
+
+
+
+
+
+
+
+其他领域
+
+
+
+机器人学
+机械电子学
+蛋白质工程
+系统工程
+聚合物工程（英语：Polymer engineering）
+
+
+
+
+
+
+
+
+
+
+
+組件
+
+
+
+基礎設施
+發明
+发明年表
+知識
+機器
+技能
+工艺
+工具
+
+
+
+
+
+
+
+
+技術史
+
+
+
+新石器革命
+工業革命
+第二次工業革命
+數字化革命
+第三次工業革命
+信息時代
+史前技术（英语：Outline of prehistoric technology）
+古代技術（英语：Ancient technology）
+中世紀技術（英语：Medieval technology）
+文藝復興技術（英语：Renaissance technology）
+噴氣時代（英语：Jet Age）
+
+
+
+
+
+
+
+
+理論（英语：Theories of technology）
+和概念
+
+
+
+適用技術
+破壞性創新
+高科技
+技术成熟度曲线
+专家统治
+技术决定论
+技術官僚
+技术奇异点
+技术接受模型
+超人类主义
+軍民兩用技術（英语：Dual-use technology）
+技术伦理（英语：Ethics of technology）
+
+
+
+
+
+
+
+
+其他
+
+
+
+新興技術列表
+卡尔达肖夫指数
+Category:各国科技
+Category:科技公司
+Category:技术大学和学院
+技术传播者
+技术新闻学
+
+
+
+
+
+
+
+
+
+
+
+ Category:技術
+ commons:Category:技術
+ Portal:技術
+
+
+
+
+
+
+
+
+
+
+
+
+分类：能源开发外星生命虛構技術未來學标度技术时间表科幻主题SETI隐藏分类：含有网址格式错误的引用的页面

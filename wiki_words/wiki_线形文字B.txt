@@ -1,0 +1,2723 @@
+线形文字B
+
+
+線形文字B
+
+
+
+
+
+类型
+音節文字帶有額外的表意符號
+
+
+语言
+邁錫尼希臘語
+
+
+使用时期
+青銅時代晚期
+
+
+状态
+滅亡
+
+
+母书写系统
+
+線形文字A
+
+線形文字B
+
+
+
+
+
+姊妹书写系统
+塞浦路斯-米諾斯音節文字
+
+
+ISO 15924
+Linb、401
+
+
+书写方向
+从左到右
+
+
+Unicode范围
+U+10000–U+1007F 音節符號
+U+10080–U+100FF 表意符號
+
+
+注意：本页可能包含Unicode的国际音标。
+
+
+注意：本条目含有Unicode 第一辅助平面用字。如果你的电脑不支持，有关字元会被错误显示成空格、问号或者方格等。
+线形文字B是希腊迈锡尼文明时期的一种音节文字。线形文字B出现于青铜时代晚期，早于希腊字母（约公元前15世纪）数个世纪，随着迈锡尼文明的衰落而消逝。写有线形文字B的泥板大部分发现于克诺索斯、科多尼亚、皮洛斯、底比斯、迈锡尼等地。后继的希腊黑暗时代，目前尚未发现线形文字B的实物。
+1952年，迈克尔·文特里斯成功释读线形文字B。线形文字B主要在克里特岛和希腊本土南部地区使用，时间大约为前1500年-前1200年。 线形文字B似乎与更早的线形文字A有某种联系。
+
+
+
+目录
+
+
+1 文字
+
+1.1 音節符號
+1.2 特殊和未知符號
+1.3 表意符号
+1.4 线形文字B的Unicode编码
+
+
+2 參見
+3 註釋
+4 參考文獻
+5 外部連結
+
+
+
+文字[编辑]
+音節符號[编辑]
+
+
+已经释读的文字符号(元音、辅音+元音)
+
+
+
+-a
+-e
+-i
+-o
+-u
+
+
+
+𐀀 
+a
+
+08
+
+
+𐀁 
+e
+
+38
+
+
+𐀂 
+i
+
+28
+
+
+𐀃 
+o
+
+61
+
+
+𐀄 
+u
+
+10
+
+
+
+
+d-
+𐀅 
+da
+
+01
+
+
+𐀆 
+de
+
+45
+
+
+𐀇 
+di
+
+07
+
+
+𐀈 
+do
+
+14
+
+
+𐀉 
+du
+
+51
+
+
+
+
+j-
+𐀊 
+ja
+
+57
+
+
+𐀋 
+je
+
+46
+
+
+
+𐀍 
+jo
+
+36
+
+
+
+
+
+k-
+𐀏 
+ka
+
+77
+
+
+𐀐 
+ke
+
+44
+
+
+𐀑 
+ki
+
+67
+
+
+𐀒 
+ko
+
+70
+
+
+𐀓 
+ku
+
+81
+
+
+
+
+m-
+𐀔 
+ma
+
+80
+
+
+𐀕 
+me
+
+13
+
+
+𐀖 
+mi
+
+73
+
+
+𐀗 
+mo
+
+15
+
+
+𐀘 
+mu
+
+23
+
+
+
+
+n-
+𐀙 
+na
+
+06
+
+
+𐀚 
+ne
+
+24
+
+
+𐀛 
+ni
+
+30
+
+
+𐀜 
+no
+
+52
+
+
+𐀝 
+nu
+
+55
+
+
+
+
+p-
+𐀞 
+pa
+
+03
+
+
+𐀟 
+pe
+
+72
+
+
+𐀠 
+pi
+
+39
+
+
+𐀡 
+po
+
+11
+
+
+𐀢 
+pu
+
+50
+
+
+
+
+q-
+𐀣 
+qa
+
+16
+
+
+𐀤 
+qe
+
+78
+
+
+𐀥 
+qi
+
+21
+
+
+𐀦 
+qo
+
+32
+
+
+
+
+
+r-
+𐀨 
+ra
+
+60
+
+
+𐀩 
+re
+
+27
+
+
+𐀪 
+ri
+
+53
+
+
+𐀫 
+ro
+
+02
+
+
+𐀬 
+ru
+
+26
+
+
+
+
+s-
+𐀭 
+sa
+
+31
+
+
+𐀮 
+se
+
+09
+
+
+𐀯 
+si
+
+41
+
+
+𐀰 
+so
+
+12
+
+
+𐀱 
+su
+
+58
+
+
+
+
+t-
+𐀲 
+ta
+
+59
+
+
+𐀳 
+te
+
+04
+
+
+𐀴 
+ti
+
+37
+
+
+𐀵 
+to
+
+05
+
+
+𐀶 
+tu
+
+69
+
+
+
+
+w-
+𐀷 
+wa
+
+54
+
+
+𐀸 
+we
+
+75
+
+
+𐀹 
+wi
+
+40
+
+
+𐀺 
+wo
+
+42
+
+
+
+
+
+z-
+𐀼 
+za
+
+17
+
+
+𐀽 
+ze
+
+74
+
+
+
+𐀿 
+zo
+
+20
+
+
+
+
+
+特殊和未知符號[编辑]
+
+
+特殊音值
+
+
+字符
+𐁀 
+𐁁 
+𐁂 
+𐁃 
+𐁄 
+𐁅 
+𐁇 
+𐁆 
+𐁈 
+𐁉 
+𐁊 
+𐁋 
+𐁌
+
+𐁍 
+
+
+轉寫
+a2 (ha)
+a3 (ai)
+au
+dwe
+dwo
+nwa
+pte
+pu2 (phu)
+ra2 (rya)
+ra3 (rai)
+ro2 (ryo)
+ta2 (tya)
+twe
+two
+
+
+Bennett編碼
+*25
+*43
+*85
+*71
+*90
+*48
+*62
+*29
+*76
+*33
+*68
+*66
+*87
+*91
+
+
+
+
+未轉寫和未確定的音值
+
+
+字符
+𐁐
+
+𐁑
+
+𐁒
+
+𐁓
+
+
+𐁔
+
+𐁕
+
+𐁖
+
+𐁗
+
+𐁘
+
+𐀎
+
+𐁙
+
+𐁚
+
+𐁛
+
+𐁜
+
+𐁝
+
+
+
+轉寫
+*18
+*19
+*22
+*34
+*35
+*47
+*49
+pa3?
+*63
+swi?
+ju?
+zu?
+swa?
+*83
+*86
+*89
+
+
+Bennett編碼
+*18
+*19
+*22
+*34
+*35
+*47
+*49
+*56
+*63
+*64
+*65
+*79
+*82
+*83
+*86
+*89
+
+
+表意符号[编辑]
+
+表意符號
+
+字符
+编码
+贝内特编码
+CIPEM
+含義
+
+
+人和動物
+
+
+
+U+10080
+100[1] A-
+VIR
+vir
+人
+
+
+
+U+10081
+102 A-
+MUL
+mulier
+女人
+
+
+
+U+10082
+104 Cn
+CERV
+cervus
+鹿
+
+
+𐂃
+U+10083
+105 Ca S-
+EQU
+equus
+马
+
+
+𐂄
+U+10084
+105 Ca
+EQUf
+母马[2]
+
+
+𐂅
+U+10085
+105 Ca
+EQUm
+公马
+
+
+𐀥
+U+10025
+106
+QI
+*21
+OVIS
+ovis
+羊
+
+
+𐀥
+
+
+WE
+*75
+we-ka-ta
+Bous ergatēs
+"Adjunct to ox" (1973)[3]
+
+
+𐂆
+U+10086
+106b C- D-
+母羊f
+EWE
+
+
+𐂇
+U+10087
+106a C- D-
+绵羊m
+RAM
+
+
+𐁒
+U+10052
+107
+RA
+*22
+CAP
+capra
+山羊
+
+
+𐂈
+U+10088
+107b C- Mc
+CAPf
+母山羊
+
+
+𐂉
+U+10089
+107a C-
+CAPm
+公山羊
+
+
+𐁂
+U+10042
+108
+AU
+*85 C-
+SUS
+sūs
+猪
+
+
+𐂊
+U+1008A
+108b C-
+SUSf
+母猪
+
+
+𐂋
+U+1008B
+108a C-
+SUSm
+公猪
+
+
+𐀘
+U+10018
+109
+MU
+*23 C-
+BOS
+bōs
+牛
+
+
+𐂌
+U+1008C
+109b C-
+BOSf
+奶牛
+
+
+𐂍
+U+1008D
+109a C-
+BOSm
+公牛
+
+
+度量單位
+
+
+
+
+110
+Z
+kotylai
+体积单位
+杯[4]
+
+
+
+
+111
+V
+khoinikes
+体积单位
+
+
+
+
+112
+T
+干量
+
+
+
+
+113
+S
+液量单位
+
+
+
+
+114
+
+重量
+
+
+
+
+*21
+
+重量
+
+
+
+
+*2
+
+重量
+
+
+
+
+115
+P
+重量
+
+
+
+
+116
+N
+重量
+
+
+
+
+117
+M
+dimnaion[5]
+重量
+
+
+
+
+118
+L
+talanton
+TALENT
+
+
+
+
+*72 G-
+
+Bunch?
+
+
+
+
+*74 S-
+
+双
+
+
+
+
+*15 S-
+
+单个
+
+
+
+
+*61
+
+Deficit
+
+
+按乾物測量
+
+
+𐂎
+U+1008E
+120 E- F-
+GRA
+grānum
+小麦
+
+
+𐂏
+U+1008F
+121 F-
+HORD
+hordeum
+大麦
+
+
+𐂐
+U+10090
+122 F- U-
+OLIV
+olīva
+橄榄
+
+
+𐀛
+U+1001B
+NI
+*30 F
+FICUS
+无花果
+
+
+𐀎
+U+1000E
+*65
+FARINA
+面粉
+"某种谷物"[6]
+
+
+𐂑
+U+10091
+123 G- Un
+AROM
+arōma
+佐料
+
+
+
+
+KO
+*70 G-
+
+芫荽
+
+
+𐀭
+U+1002D
+SA
+*31 G-
+
+芝麻
+
+
+
+
+KU
+*81 G-
+
+孜然芹
+
+
+
+
+SE
+*9 G-
+
+芹菜
+
+
+
+
+MA
+*80 G-
+
+茴香
+
+
+
+
+124 G-
+PYC
+莎草
+
+
+𐂒
+U+10092
+125 F-
+CYP
+莎草?
+
+
+
+
+126 F-
+CYP+KU
+莎草+ku
+
+
+𐂓
+U+10093
+127 Un
+KAPO
+水果?
+
+
+𐂔
+U+10094
+128 G-
+KANAKO
+红花
+
+
+按液體測量
+
+
+按重量
+
+
+按重量或按單位
+
+
+按單位計數
+
+
+容器[7]
+
+
+𐃟
+U+100DF
+200
+
+sartāgo
+蒸煮锅
+
+
+𐃠
+U+100E0
+201
+TRI
+tripūs
+三足大锅
+
+
+𐃡
+U+100E1
+202
+
+pōculum
+GOBLET?
+
+
+𐃢
+U+100E2
+203
+
+urceus
+酒罐?
+
+
+𐃣
+U+100E3
+204 Ta
+
+hirnea
+大口水壶
+
+
+𐃤
+U+100E4
+205 K Tn
+
+hirnula
+水壶
+
+
+𐃥
+U+100E5
+206
+HYD
+hydria
+提水罐
+
+
+𐃦
+U+100E6
+207
+
+三足双耳瓶
+
+
+𐃧
+U+100E7
+208
+PAT
+patera
+碗
+
+
+𐃨
+U+100E8
+209
+AMPH
+amphora
+双耳瓶
+
+
+𐃩
+U+100E9
+210
+
+STIRRIP JAR
+
+
+𐃪
+U+100EA
+211
+
+水箱?
+
+
+𐃫
+U+100EB
+212
+SIT
+situla
+水罐?
+
+
+𐃬
+U+100EC
+213
+LANX
+lanx
+烹饪碗
+
+
+家具
+
+
+𐃄
+U+100C4
+220 Ta
+
+scamnum
+脚凳
+
+
+𐃅
+U+100C5
+225
+ALV
+alveus
+
+
+
+武器
+
+
+𐃆
+U+100C6
+230 R
+HAS
+hasta
+矛
+
+
+𐃇
+U+100C7
+231 R
+SAG
+sagitta
+箭
+
+
+𐃈
+U+100C8
+232 Ta
+*232
+ ?
+
+
+𐃉
+U+100C9
+233 Ra
+
+短剑
+
+
+𐃊
+U+100CA
+234
+GLA
+gladius
+弓
+
+
+車輛
+
+
+𐃌
+U+100CC
+240 Sc
+BIG
+biga
+轮式车
+
+
+𐃍
+U+100CD
+241 Sd Se
+CUR
+currus
+无轮车
+
+
+𐃎
+U+100CE
+242 Sf Sg
+CAPS
+capsus
+轮式车车架
+
+
+𐃏
+U+100CF
+243 Sa So
+ROTA
+rota
+车轮
+
+
+线形文字B的Unicode编码[编辑]
+Unicode4.0之后的为线形文字B提供了编码码位，其中音节符号码位为10000–1007F，表意符号码位为10080–100FF。
+
+
+線形文字B音節符號
+Unicode.org chart (PDF)
+
+
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+
+
+U+1000x
+𐀀
+𐀁
+𐀂
+𐀃
+𐀄
+𐀅
+𐀆
+𐀇
+𐀈
+𐀉
+𐀊
+𐀋
+ 
+𐀍
+𐀎
+𐀏
+
+
+U+1001x
+𐀐
+𐀑
+𐀒
+𐀓
+𐀔
+𐀕
+𐀖
+𐀗
+𐀘
+𐀙
+𐀚
+𐀛
+𐀜
+𐀝
+𐀞
+𐀟
+
+
+U+1002x
+𐀠
+𐀡
+𐀢
+𐀣
+𐀤
+𐀥
+𐀦
+ 
+𐀨
+𐀩
+𐀪
+𐀫
+𐀬
+𐀭
+𐀮
+𐀯
+
+
+U+1003x
+𐀰
+𐀱
+𐀲
+𐀳
+𐀴
+𐀵
+𐀶
+𐀷
+𐀸
+𐀹
+𐀺
+ 
+𐀼
+𐀽
+ 
+𐀿
+
+
+U+1004x
+𐁀
+𐁁
+𐁂
+𐁃
+𐁄
+𐁅
+𐁆
+𐁇
+𐁈
+𐁉
+𐁊
+𐁋
+𐁌
+𐁍
+ 
+ 
+
+
+U+1005x
+𐁐
+𐁑
+𐁒
+𐁓
+𐁔
+𐁕
+𐁖
+𐁗
+𐁘
+𐁙
+𐁚
+𐁛
+𐁜
+𐁝
+ 
+ 
+
+
+U+1006x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+U+1007x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+線形文字B表意符號
+Unicode.org chart (PDF)
+
+
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+
+
+U+1008x
+𐂀
+𐂁
+𐂂
+𐂃
+𐂄
+𐂅
+𐂆
+𐂇
+𐂈
+𐂉
+𐂊
+𐂋
+𐂌
+𐂍
+𐂎
+𐂏
+
+
+U+1009x
+𐂐
+𐂑
+𐂒
+𐂓
+𐂔
+𐂕
+𐂖
+𐂗
+𐂘
+𐂙
+𐂚
+𐂛
+𐂜
+𐂝
+𐂞
+𐂟
+
+
+U+100Ax
+𐂠
+𐂡
+𐂢
+𐂣
+𐂤
+𐂥
+𐂦
+𐂧
+𐂨
+𐂩
+𐂪
+𐂫
+𐂬
+𐂭
+𐂮
+𐂯
+
+
+U+100Bx
+𐂰
+𐂱
+𐂲
+𐂳
+𐂴
+𐂵
+𐂶
+𐂷
+𐂸
+𐂹
+𐂺
+𐂻
+𐂼
+𐂽
+𐂾
+𐂿
+
+
+U+100Cx
+𐃀
+𐃁
+𐃂
+𐃃
+𐃄
+𐃅
+𐃆
+𐃇
+𐃈
+𐃉
+𐃊
+𐃋
+𐃌
+𐃍
+𐃎
+𐃏
+
+
+U+100Dx
+𐃐
+𐃑
+𐃒
+𐃓
+𐃔
+𐃕
+𐃖
+𐃗
+𐃘
+𐃙
+𐃚
+𐃛
+𐃜
+𐃝
+𐃞
+𐃟
+
+
+U+100Ex
+𐃠
+𐃡
+𐃢
+𐃣
+𐃤
+𐃥
+𐃦
+𐃧
+𐃨
+𐃩
+𐃪
+𐃫
+𐃬
+𐃭
+𐃮
+𐃯
+
+
+U+100Fx
+𐃰
+𐃱
+𐃲
+𐃳
+𐃴
+𐃵
+𐃶
+𐃷
+𐃸
+𐃹
+𐃺
+ 
+ 
+ 
+ 
+ 
+
+
+參見[编辑]
+
+线形文字A
+塞浦路斯音節文字
+
+註釋[编辑]
+
+
+^ Ventris and Chadwick (1973) page 391: "100 MAN is now used for all forms of the ideogram, so that 101 and 103 are now suppressed."
+^ Ventris & Chadwick either edition do not follow the Wingspread Convention here but have 105a as a HE-ASS and 105c as a FOAL.
+^ The 1956 edition has "Kind of sheep"
+^ Chadwick (1976) page 105.
+^ "Double mina", Chadwick (1976) page 102.
+^ Ventris & Chadwick (1973) page 392.
+^ Ventris and Chadwick (1973) page 324 has a separate table.
+
+
+參考文獻[编辑]
+
+
+Carpenter, Rhys, (1957) "Linear B", Phoenix, Vol. 11, No. 2 (Summer, 1957), pp. 47–62
+Chadwick, John（英语：John Chadwick）. The Decipherment of Linear B. Second edition (1990). Cambridge UP. 1958. ISBN 0-521-39830-4. 
+Chadwick, John（英语：John Chadwick）. The Mycenaean World. Cambridge UP. 1976. ISBN 0-521-29037-6. 
+Chadwick, John（英语：John Chadwick）. Linear B and Related Scripts; "Reading the Past". Third impression (1997). University of California Press（英语：University of California Press）/British Museum. 1987. ISBN 0-520-06019-9.  has the Enkomi（英语：Enkomi） clay tablet, circa 1500 BCE., examples of Linear B tablets, and translated, the basic Linear B syllabary, the Cypriot syllabary and discussions thereof, and short sections on Linear A, and the Phaistos Disk.
+Fox, Margalit（英语：Margalit Fox）. The Riddle of the Labyrinth: The Quest to Crack an Ancient Code. Ecco（英语：Ecco Press）. 2013. ISBN 978-0062228833. 
+Levin, Saul（英语：Saul Levin）. The Linear B Decipherment Controversy Re-examined. State University of New York Press（英语：State University of New York Press）. 1964. OCLC 288842. 
+McDorman, Richard E. Language and the Ancient Greeks and On the Decipherment of Linear B (A Pair of Essays). 2010. ISBN 978-0-9839112-3-4. 
+Palaima, Thomas G.（英语：Thomas G. Palaima）, "Unlocking the Secrets of Ancient Writing: The Parallel Lives of Michael Ventris and Linda Schele and the Decipherment of Mycenaean and Mayan Writing", University of Texas at Austin, Eleventh International Mycenological Colloquium, 2000.
+Robinson, Andrew（英语：Andrew Robinson (author)）. The Story of Writing. Paperback edition (1999). Thames and Hudson（英语：Thames and Hudson）. 1995. ISBN 0-500-28156-4.  Chapter 6, Linear B, pp 108–119: discusses Arthur Evans, his work, the Cypriot clues, the syllabary, Alice Kober, the "Grid", and a sample tablet transliterated, and translated into English.
+Robinson, Andrew The Man Who Deciphered Linear B: the story of Michael Ventris (2002) Thames & Hudson ISBN 0500510776
+Singh, Simon（英语：Simon Singh）. The Code Book（英语：The Code Book）. Anchor. 2000. ISBN 0-385-49532-3.  for a general outline of the Linear B deciphering story, from Schliemann to Chadwick.
+Ventris, Michael. Work notes on Minoan language research and other unedited papers. Edizioni dell'Ateneo 1988 Roma. 1988. 
+Ventris, Michael; Chadwick, John. Documents in Mycenaean Greek Second. Cambridge: Cambridge University Press. 1973. ISBN 0-521-08558-6. 
+Ventris, Michael; Chadwick, John (1953) "Evidence for Greek Dialect in the Mycenaean Archives", The Journal of Hellenic Studies, Vol. 73, (1953), pp. 84–103.
+
+
+外部連結[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：线形文字B
+
+
+
+
+
+於維基詞典中查詢Category:Mycenaean Greek nouns。
+
+
+
+
+Ager, Simon. Linear B. Omniglot. 1998–2009 [2009-01-06]. 
+Clark, Curtis. TrueType Fonts: Ancient alphabets and mythic symbols: Linear B. Curtis Clark. 1992–1998. 
+Gavalas, Markos. MYCENAEAN (Linear B) - ENGLISH Dictionary (PDF). explorecrete.com. [2009-01-11]. 
+开放式目录计划中和线形文字B相关的内容
+Lo, Lawrence. Linear B. AncientScripts.com. 1996–2005 [2009-01-05]. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+古希腊
+
+
+
+
+
+
+歷史
+
+
+
+
+
+爱琴文明
+
+
+基克拉泽斯文明 · 米诺斯文明 · 迈锡尼文明
+
+
+
+
+
+
+
+古希腊
+
+
+黑暗时代 · 古風時期 · 古典時期 · 希臘化時代 · 希腊的罗马时期
+
+
+
+
+
+
+
+
+
+地理
+
+爱琴海 · 達達尼爾海峽 · 馬其頓王國 · 斯巴达 · 古雅典 · 科林斯 · 古底比斯 · 溫泉關 · 爱奥尼亚海 · 愛奧尼亞 · 埃奧利斯 · 小亞細亞多利安六城 · 安提阿 · 亚历山大港 · 帕加马 · 米利都 · 以弗所 · 拜占庭 · 德尔斐 · 提洛岛 · 奥林匹亚 · 特洛伊 · 罗得岛 · 克里特 · 伯罗奔尼撒 · 伊庇魯斯 · 賽普勒斯 · 本都 · 大希腊 · 古希臘殖民地
+
+
+
+
+
+
+生活
+
+農業 · 饮食文化 · 雅典式民主 · 經濟 · 教育 · 雅典節日 · 法律 · 賣淫業 · 宗教 · 英雄崇拜 · 奴隶制度 · 古代奥林匹克运动会 · 哲学 · 戰爭 · 葡萄酒 · 同性戀（少年愛） · 丧葬
+
+
+
+
+
+
+人物
+
+
+
+
+
+哲學家
+
+
+阿那克萨哥拉 · 阿那克西曼德 · 阿那克西美尼 · 安提西尼 · 亚里士多德 · 德谟克利特 · 锡诺普的第欧根尼 · 伊壁鸠鲁 · 恩培多克勒 · 赫拉克利特 · 留基伯 · 高爾吉亞 · 巴门尼德 · 柏拉图 · 普罗泰戈拉 · 毕达哥拉斯 · 苏格拉底 · 泰勒斯 · 季蒂昂的芝诺
+
+
+
+
+
+
+
+作家
+
+
+埃斯库罗斯 · 伊索 · 阿里斯托芬 · 欧里庇得斯 · 希羅多德 · 赫西俄德 · 荷马 · 琉善 · 米南德 · 品达 · 普魯塔克 · 波利比奥斯 · 莎孚 · 索福克勒斯 · 修昔底德 · 泰奥格尼斯 · 提谟克勒翁 · 提尔泰奥斯 · 色诺芬
+
+
+
+
+
+
+
+其他
+
+
+亚历山大大帝 · 阿尔西比亚德斯 · 阿基米德 · 阿斯帕齊婭 · 狄摩西尼 · 欧几里得 · 喜帕恰斯 · 希波克拉底 · 列奥尼达一世 · 來古格士 · 克罗托那的米罗‎ · 伯里克利 · 托勒密 · 梭伦 · 地米斯托克利
+
+
+
+
+
+
+
+
+
+建築
+
+古希臘神廟 · 帕德嫩神廟 · 阿尔忒弥斯神庙 · 雅典衛城 · 古阿哥拉 · 宙斯神廟 · 赫菲斯托斯神廟 · 薩摩色雷斯廟宇群 · 古希臘神廟列表
+
+
+
+
+
+
+藝術
+
+建築 · 貨幣 · 文學 · 音樂 · 陶器 · 雕刻 · 戲劇 · 史學
+
+
+
+
+
+
+科學
+
+天文學 · 數學 · 醫學 · 技術
+
+
+
+
+
+
+語言
+
+原始希臘語 · 邁錫尼希臘語 · 荷馬式希臘語 · 古希臘方言 （伊歐里斯 · 阿卡迪亞-塞浦路斯 · 雅典希臘語 · 多利斯 · 愛奧尼亞 · 洛克里 · 馬其頓 · 旁非利亞） · 通用希臘語
+
+
+
+
+
+
+書寫系統
+
+线形文字A · 線形文字B · 塞浦路斯音節文字 · 希腊字母 · 優卑亞字母
+
+
+
+
+
+
+
+
+ « 史前歐洲
+中世紀 » 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+書寫文字列表
+
+
+
+
+
+
+
+
+
+
+概觀
+
+
+
+文字史
+字位
+
+
+
+
+
+
+
+
+列表
+
+
+
+文字列表
+
+未解读文字
+文字發明者（英语：List of inventors of writing systems）
+
+
+諸語言書寫系統列表（英语：List of languages by writing system） / 第一次書寫記錄列表（英语：List of languages by first written accounts）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+辅音音素文字
+
+
+
+
+
+
+
+
+
+辅音音素文字之數字（英语：Abjad numerals）
+古柏柏爾字母（英语：Ancient Berber alphabet）
+阿拉米字母
+阿拉伯語字母
+彼得曼速寫（英语：Pitman shorthand）
+愛林覓字母（英语：Elymaic abjad）
+漢尼非文字（英语：Hanifi script）
+希伯来字母
+
+阿斯許利字母（英语：Ashuri alphabet）
+希伯來語草寫（英语：Cursive Hebrew）
+拉什文字（英语：Rashi script）
+
+
+爪夷文
+提非納文字
+摩尼教字母
+納巴泰字母
+巴拉維字母（英语：Pahlavi scripts）
+古希伯來字母
+皮貢語（英语：Pegon (language)）
+腓尼基字母
+原始迦南字母
+詩篇字母（英语：Psalter alphabet）
+腓尼基字母
+薩巴王國字母（英语：Sabaean alphabet）
+撒瑪利亞文字（英语：Samaritan script）
+南阿拉伯字母
+
+宰逋爾字母
+麥斯納字母
+
+
+粟特字母
+敘利亞字母
+
+愛斯坦字母
+穗他字母
+瑪哈亞字母
+
+
+蒂兰速记
+泰穆迪文字（英语：Thalmudic script）
+乌加里特字母
+雅茲迪字母（英语：Yazidi alphabet）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+元音附标文字
+
+
+
+
+
+
+
+
+
+
+婆罗米系文字
+
+
+
+阿洪姆文
+阿卡文字（英语：Akkha script）
+安加梨皮文字（英语：Anga Lipi）
+阿汗拿加利文字（英语：Ardhanagari）
+阿沙字母（英语：AssaArdhanagarimese alphabet）
+巴特加字母（英语：Badaga alphabet）
+巴厘島字母
+巴塔克字母（英语：Batak alphabet）
+
+巴塔克西馬倫根字母（英语：Batak Simalungun alphabet）
+大利巴塔克字母（英语：Dairi Batak alphabet）
+卡羅巴塔克字母（英语：Karo Batak alphabet）
+曼德令巴塔克字母（英语：Mandaling Batak alphabet）
+鳥羽巴塔克字母表的（英语：Toba Batak alphabet）
+
+
+比比賢文字（英语：Baybayin）
+孟加拉文
+Bhaiksuki（英语：Bhaiksuki alphabet）
+Bhattiprolu（英语：Bhattiprolu alphabet）
+Bhujimol（英语：Bhujimol）
+婆罗米文
+布希德文
+缅文
+加拿大原住民音節文字
+Chakma（英语：Chakma alphabet）
+占語字母
+Chameali（英语：Chameali script）
+Chipewyan（英语：Chipewyan syllabics）
+Chis（英语：Chis script）
+Chong（英语：Chong script）
+Coorgi（英语：Coorgi-Cox alphabet）
+Damili（英语：Tamil-Brahmi）
+Dehong Dai（英语：Dehong Dai alphabet）
+Deodhai（英语：Deodhai script）
+天城文
+Dhimal（英语：Dhimal alphabet）
+Dhives Akuru（英语：Dhives Akuru）
+Dīvī Grantha（英语：Maldivian writing systems）
+Duota（英语：Duota script）
+Eastern Nagari（英语：Eastern Nagari script）
+Evēla Akuru（英语：Evēla Akuru）
+Gangga Malayu（英语：Gangga Malayu alphabet）
+Garay
+Golmol（英语：Golmol script）
+Gondi（英语：Gondi script）
+Goykanadi（英语：Goykanadi）
+Grantha
+古吉拉特文
+笈多文
+古木基文
+Gurung（英语：Gurung script）
+哈努诺文（英语：Hanunó'o alphabet）
+Hinmol（英语：Hinmol script）
+Idu azobra（英语：Idu azobra script）
+日本悉昙文（英语：Japanese Siddham）
+爪哇字母
+Kadamba（英语：Kadamba alphabet）
+凱提文
+Kalinga（英语：Kalinga alphabet）
+Kamtapura（英语：Kamtapura script）
+卡納達文
+卡维文（英语：Kawi script）
+Kayah Li（英语：Kayah Li alphabet）
+Khambu Rai（英语：Khambu Rai）
+Khema Tamu Phri（英语：Khema Tamu Phri）
+高棉文
+
+Âksâr chriĕng（英语：Âksâr chriĕng）
+Âksâr chhôr（英语：Âksâr chhôr）
+Âksâr khâm（英语：Âksâr khâm）
+Âksâr mul（英语：Âksâr mul）
+
+
+Khojki（英语：Khojki）
+Khrom（英语：Khrom script）
+Khudabadi（英语：Khudabadi alphabet）
+Kirat Rai（英语：Kirat Rai alphabet）
+Kolezhuthu（英语：Kolezhuthu）
+Koloma（英语：Koloma）
+Kulitan
+Kunmol（英语：Kunmol script）
+Kutila（英语：Kutila script）
+Kwenmol（英语：Kwenmol script）
+Lampung（英语：Lampung script）
+兰达文（英语：Laṇḍā scripts）
+Langdi（英语：Langdi）
+老傣文
+寮文字
+Leke（英语：Leke script）
+雷布查文（英语：Lepcha alphabet）
+Lik Tai Mao（英语：Lik Tai Mao）
+Lik Hto Ngouk（英语：Lik Hto Ngouk）
+Lik To Yao（英语：Lik To Yao）
+Limbu alphabet
+Litumol（英语：Litumol script）
+龙塔拉文（英语：Lontara alphabet）
+Mahajani（英语：Mahajani）
+馬拉雅拉姆文
+Malwari（英语：Malwari script）
+Mangyan（英语：Mangyan alphabet）
+Marchen
+Marchung（英语：Marchung script）
+Meitei Mayek（英语：Meitei Mayek alphabet）
+Mithilakshar（英语：Tirhuta）
+莫迪文（英语：Modi alphabet）
+Mol
+孟文
+Multani（英语：Multani script）
+Muriya（英语：Muriya script）
+Nagar Barap（英语：Nagar Barap）
+城文
+Nandinagari（英语：Nandinagari）
+Old Bimanese（英语：Old Bimanese script）
+古卡纳达文（英语：Old Kannada alphabet）
+古卡维文（英语：Kawi alphabet）
+古高棉文（英语：Old Khmer script）
+奧里亞文
+Pachumol（英语：Pachumol script）
+帕拉瓦文
+八思巴文
+Prachalit Nepal（英语：Prachalit Nepal alphabet）
+Pranagari（英语：Pranagari script）
+Pyu
+
+Pyu Pali（英语：Pyu Pali）
+Pyu Tircul（英语：Pyu Tircul）
+
+
+蘭札文
+
+Lanydza（英语：Lanydza）
+
+
+Rejang（英语：Rejang alphabet）
+
+Bengkulu（英语：Bengkulu script）
+Lembak（英语：Lembak script）
+Lintang（英语：Lintang script）
+Kaganga（英语：Kaganga script）
+Lampung（英语：Lampung script）
+Lebong（英语：Lebong script）
+Serawai（英语：Serawai script）
+
+
+Rencong（英语：Rencong alphabet）
+Saindhu（英语：Saindhu script）
+夏拉達文
+Saurashtra（英语：Saurashtra alphabet）
+Shan
+僧伽羅文
+悉曇文字
+Sorang Sompeng
+Soyombo
+巽他字母（英语：Sundanese alphabet）
+Syloti Nagri（英语：Syloti Nagri）
+塔格板瓦文（英语：Tagbanwa alphabet）
+傣哪文
+Tai Laing（英语：Tai Laing script）
+Tai Noy（英语：Tai Noy script）
+傣擔語
+Takri（英语：Takri alphabet）
+Tam Yig（英语：Tam Yig）
+泰米爾文
+Tanchangya（英语：Tanchangya alphabet）
+泰卢固文
+泰文字
+藏文字
+
+有頭體
+無頭體
+Bamyik（英语：Bamyik script）
+Joyig（英语：Joyig script）
+Monyig（英语：Monyig script）
+Lhoyig（英语：Lhoyig script）
+
+
+Tikamuli（英语：Tikamuli script）
+Tocharian
+Tua Tham
+Tulu（英语：Tulu alphabet）
+Varang Kshiti（英语：Varang Kshiti）
+Vatteluttu（英语：Vatteluttu alphabet）
+Visayan（英语：Visayan alphabet）
+Xäwtää Dörböljin（英语：Xäwtää Dörböljin）
+Zolai（英语：Zou script）
+
+
+
+
+
+
+
+
+其他書寫系統
+
+
+
+Boyd's syllabic shorthand（英语：Boyd's syllabic shorthand）
+吉茲字母
+日本盲文
+佉卢文
+Mandombe（英语：Mandombe script）
+麥羅埃文
+柏格理苗文
+Mwangwego（英语：Mwangwego alphabet）
+Pahawh Hmong（英语：Pahawh Hmong）
+Thomas Natural Shorthand（英语：Thomas Natural Shorthand）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+全音素文字
+
+
+
+
+
+
+
+
+
+
+線性文字系統
+
+
+
+阿布哈兹字母
+Anglo-Saxon（英语：Anglo-Saxon runes）
+Ariyaka alphabet（英语：Ariyaka）
+亞美尼亞字母
+阿维斯陀字母（英语：Avestan alphabet）
+Avoiuli（英语：Avoiuli）
+Bassa Vah（英语：Bassa alphabet）
+博拉馬字母
+布里亞特字母
+Camunian（英语：Camunian alphabet）
+Carian（英语：Carian alphabet）
+Caucasian Albanian（英语：Caucasian Albanian alphabet）
+科普特字母
+西里尔字母
+Dalecarlian runes（英语：Dalecarlian runes）
+Deseret（英语：Deseret alphabet）
+Duployan shorthand（英语：Duployan shorthand）
+早期西里尔字母
+Eclectic shorthand（英语：Eclectic shorthand）
+Elbasan（英语：Elbasan script）
+Elder Futhark（英语：Elder Futhark）
+鄂温克字母
+Faliscan（英语：Faliscan alphabet）
+老傈僳文
+Fula Ba（英语：Fula Ba）
+Fula Dita（英语：Fula Dita）
+Gabelsberger shorthand
+格鲁吉亚字母
+
+Asomtavruli
+Nuskhuri
+Mkhedruli
+
+
+格拉哥里字母
+哥德字母
+Gregg shorthand（英语：Gregg shorthand）
+希腊字母
+希臘—伊比利亞字母
+Gurung Khe Phri（英语：Gurung Khe Phri）
+IPA
+Jenticha（英语：Jenticha script）
+Kaddare（英语：Kaddare script）
+拉丁字母(拉丁文)
+
+Beneventan（英语：Beneventan script）
+Blackletter
+Carolingian minuscule（英语：Carolingian minuscule）
+Fraktur
+Gaelic（英语：Gaelic type）
+Insular（英语：Insular script）
+Kurrent（英语：Kurrent）
+Merovingian（英语：Merovingian script）
+聚特林書寫體
+Visigothic（英语：Visigothic script）
+
+
+Lemnian（英语：Lemnian alphabet）
+Lycian（英语：Lycian alphabet）
+Lydian（英语：Lydian alphabet）
+满文
+曼达字母（英语：Mandaic alphabet）
+盧恩字母
+Medieval runes（英语：Medieval runes）
+Molodtsov（英语：Molodtsov alphabet）
+蒙古字母
+Mro（英语：Mro script）
+新提非納文字
+西双版纳傣文
+N'Ko（英语：N'Ko script）
+Numidian（英语：Numidian alphabet）
+歐甘字母
+托忒蒙古文
+Ol Chiki（英语：Ol Chiki script）
+古匈牙利字母
+古意大利字母
+
+Camunic（英语：Camunic alphabet）
+Etruscan
+Faliscan（英语：Faliscan alphabet）
+Lepontic
+Magrè（英语：Magrè alphabet）
+Marsiliana（英语：Marsiliana alphabet）
+Messapic（英语：Messapic alphabet）
+North Picene（英语：North Picene alphabet）
+Nucerian（英语：Nucerian alphabet）
+Oscan
+Sanzeno（英语：Sanzeno alphabet）
+South Picene（英语：South Picene alphabet）
+Umbrian（英语：Umbrian alphabet）
+古意大利字母
+
+
+古彼爾姆文
+古突厥文
+回鹘字母
+奧斯曼亞字母
+Palmyrene（英语：Palmyrene alphabet）
+Pau Cin Hau（英语：Pau Cin Hau alphabet）
+Pisidian（英语：Pisidian alphabet）
+盧恩字母
+Salifou Hausa（英语：Salifou Hausa alphabet）
+Satavahana（英语：Satavahana script）
+Sidetic（英语：Sidetic script）
+Shavian
+Somali（英语：Somali ancient script）
+Staveless runes（英语：Staveless runes）
+Tafi（英语：Tafi alphabet）
+提非納文字
+Todhri（英语：Todhri alphabet）
+Tolong Siki（英语：Tolong Siki）
+Visible Speech（英语：Visible Speech）
+Vithkuqi（英语：Vithkuqi alphabet）
+沃洛夫語
+Younger Futhark（英语：Younger Futhark）
+Zaghawa（英语：Zaghawa alphabet）
+
+
+
+
+
+
+
+
+非線性文字系統
+
+
+
+它拿字母
+諺文
+小兒經
+老維文
+盲文
+
+希伯来盲文（英语：Hebrew Braille）
+韩国盲文（英语：Korean braille）
+
+
+國際信號旗
+摩尔斯电码
+New York Point（英语：New York Point）
+Semaphore line（英语：Semaphore line）
+旗語
+Moon type（英语：Moon type）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+形意文字/象形文字
+
+
+
+
+
+
+
+
+
+Adinkra（英语：Adinkra symbols）
+阿茲特克文字
+Blissymbol
+东巴文
+爾蘇沙巴文
+繪文字
+IConji（英语：IConji）
+Isotype
+Kaidā（英语：Kaidā glyphs）
+Míkmaq（英语：Mi'kmaq hieroglyphic writing）
+Mixtec（英语：Mixtec writing）
+New Epoch Notation Painting（英语：New Epoch Notation Painting）
+Nsibidi（英语：Nsibidi）
+Ojibwe Hieroglyphs（英语：Ojibwe_writing_systems#Ojibwe_"hieroglyphs"）
+Siglas poveiras（英语：Siglas poveiras）
+SignWriting（英语：SignWriting）
+Testerian（英语：Testerian）
+耶基斯語
+Zapotec（英语：Zapotec script）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+语素文字
+
+
+
+
+
+
+
+
+
+
+汉字
+
+
+
+正體中文
+简化字
+朝鮮漢字
+口诀
+吏讀
+乡札
+日本汉字
+琉球汉字
+喃字
+岱喃字
+僰文
+方块壮字
+古布依文
+方块侗字
+
+
+
+
+
+
+
+
+受漢字影響的
+
+
+
+女真文
+契丹大字
+西夏文
+
+
+
+
+
+
+
+
+楔形的
+
+
+
+Akkadian
+Assyrian
+Eblaite（英语：Eblaite cuneiform）
+Elamite（英语：Elamite cuneiform）
+Hattic（英语：Hattic cuneiform）
+Hittite
+Hurrian（英语：Hurrian cuneiform）
+Luwian
+蘇美文字
+Urartic（英语：Urartic cuneiform）
+
+
+
+
+
+
+
+
+其他標示音節文字
+
+
+
+Anatolian（英语：Anatolian hieroglyphs）
+Cretan（英语：Cretan hieroglyphs）
+楔形文字
+印度河文字
+Isthmian（英语：Isthmian script）
+Kaidā（英语：Kaidā glyphs）
+瑪雅象形文字
+原始埃蘭文字
+水书
+Urartic（英语：Urartic hieroglyphs）
+彝文
+
+
+
+
+
+
+
+
+標示輔音
+
+
+
+埃及语世俗體
+埃及语僧侶體
+埃及语圣书体
+
+
+
+
+
+
+
+
+數字
+
+
+
+印度-阿拉伯数字系统
+Abjad
+Attic（希臘）（英语：Attic numerals）
+罗马数字
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+半音節文字
+
+
+
+
+
+
+
+
+
+
+完全型式
+
+
+
+Celtiberian（英语：Celtiberian script）
+Northeastern Iberian
+Southeastern Iberian（英语：Southeastern Iberian script）
+Khom（英语：Khom script）
+
+
+
+
+
+
+
+
+加贅型式
+
+
+
+Espanca（英语：Espanca script）
+Pahawh Hmong（英语：Pahawh Hmong）
+契丹小字
+Southwest Paleohispanic（英语：Southwest Paleohispanic script）
+注音符號
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+音節文字
+
+
+
+
+
+
+
+
+
+
+無規律符號型式
+
+
+
+Afaka（英语：Afaka syllabary）
+Bamum
+Bété（英语：Bété syllabary）
+Blackfoot（英语：Blackfoot syllabary）
+Byblos（英语：Byblos syllabary）
+切羅基語
+塞浦路斯音節文字
+Cypro-Minoan（英语：Cypro-Minoan syllabary）
+Déné（英语：Carrier syllabics）
+Eskayan（英语：Eskayan syllabary）
+哥巴文
+Kikakui（英语：Mende script）
+Kpelle（英语：Kpelle syllabary）
+线形文字B
+Linear Elamite（英语：Linear Elamite）
+傈僳竹书
+Loma（英语：Loma syllabary）
+萬葉假名
+女书
+古波斯楔形文字
+Tani Lipi（英语：Tani Lipi）
+瓦伊語
+Woleai（英语：Woleai script）
+現代彝文
+Yugtun（英语：Yugtun script）
+
+
+
+
+
+
+
+
+元音定向型式
+
+
+
+加拿大原住民音節文字
+
+
+
+
+
+
+
+
+濁音附標型式
+
+
+
+日語書寫系統
+
+平假名
+片假名
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：有 ISO 15924 四字母編碼的文字青銅時代文字古希腊音節文字隐藏分类：有蓝链却未移除内部链接助手模板的页面使用ISBN魔术链接的页面

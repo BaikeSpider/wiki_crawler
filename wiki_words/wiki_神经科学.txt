@@ -1,0 +1,1234 @@
+神经科学
+
+
+
+
+
+醫學
+
+
+
+
+
+
+
+
+基礎醫學
+
+
+人體解剖學 - 人體生理學
+組織學 - 胚胎學
+人體寄生蟲學 - 免疫學
+病理學 - 病理生理學
+細胞學 - 營養學
+流行病學 -
+藥理學 - 毒理學
+
+
+
+
+
+其他基础学科参见生物学模板
+
+
+
+
+
+
+
+
+內科學
+
+
+耳鼻喉科學 - 眼科學
+心臟病學 - 胸腔醫學
+消化病學 胃腸病學
+腎臟學 - 肝臟學
+血液病學 - 神經病學
+傳染病學 - 腫瘤學
+內分泌學 - 風濕病學
+兒童醫學 - 老人醫學
+皮膚病學 - 神经眼科学
+
+
+
+
+
+
+
+
+外科學
+
+
+普通外科學 - 神經外科學
+胸腔外科學 - 心臟外科學
+肝膽外科學 - 胃腸外科學
+泌尿外科學 - 血管外科學
+器官移植學 - 腫瘤外科學
+骨科學 - 整型外科學
+小兒外科學
+
+
+
+
+
+
+
+
+
+
+
+其他專門醫學
+
+
+婦產科學：
+婦科學 - 產科學
+牙醫學 - 解剖學
+預防醫學 - 臨床醫學
+急診學 - 麻醉學
+安寧緩和醫學 - 精神醫學
+環境及職業病學 - 復健科學
+綜合醫學 - 家庭醫學
+旅遊醫學
+
+
+
+
+
+
+
+
+傳統醫學
+
+
+中醫學 - 寿命吠陀
+韓醫學 - 日本漢方醫學
+藏醫學 - 蒙醫學
+順勢療法 - 草藥學
+代替醫療
+
+
+
+
+
+
+
+
+醫學診斷
+
+
+檢驗醫學 - 影像醫學
+病理醫學 - 神經生理學
+核医学
+
+
+
+
+
+
+
+
+相關學科
+
+
+心理學 - 法醫學
+生物數學 - 医学信息学
+社會醫學 - 生物醫學工程
+
+
+
+
+
+
+
+
+健康議題
+
+
+症狀 - 症候群
+亞健康 - 老化
+病人安全
+
+
+
+
+
+
+
+
+醫事人員
+
+
+專科醫生 - 家庭醫學科醫師
+麻醉科醫生 - 外科醫生
+護理人員 - 醫事檢驗師
+藥劑師 - 物理治療師
+職能治療師 - 呼吸治療師
+營養師 - 助產師
+醫事放射師 - 臨床心理師
+諮商心理師
+
+
+
+
+
+
+
+
+醫療行為
+
+
+藥物治療 - 外科手術
+化學療法 - 心理治療
+物理治療 - 職能治療
+
+
+
+
+
+
+
+
+主題與專題
+
+
+醫學主題 - 心理学主題
+新陈代谢主題
+
+医学专题 - 药学专题
+药物专题
+
+
+
+
+
+
+
+
+其他
+
+
+生物與醫學詞彙譯名表
+Wikipedia:医学专题/资源
+Wikipedia:医学专题/工具
+醫學史 醫學倫理學
+醫學警告模板
+
+
+
+
+
+神經科學（英语：neuroscience），又稱神經生物學，是專門研究神經系統的結構、功能、发育、演化、遗传学、生物化學、生理學、藥理學及病理學的一门科学。對行為及學習的研究都是神經科學的分支。
+對人腦研究是個跨領域的範疇，當中涉及分子層面、細胞層面、神經小組、大型神經系統，如視覺神經系統、腦幹、腦皮層。
+最高層次的研究就是結合認知科學成為認知神經科學，其專家被稱為認知心理學家。一些研究人員相信認知神經科學提供對思維及知覺的全面了解，甚至可以代替心理學。
+神经科学致力于科学地研究神经系统。尽管神经科学学会成立于1969年，但是对于大脑的研究很早就已经开始。传统的神经科学是生物科学的一个分支。其研究范围包括对神经系统的结构，功能，进化史，发育，遗传，生理学，药理学和病理学研究，近年来神经科学的研究深度有了突破性成長，开始与其他学科有了越来越多的交叉与融合，如认知和神经心理学，精神疾病學，计算机科学，生物信息学，计算神经生物学，统计学，物理学，生物化学，犯罪學，医学科学和哲学陸續加入研究行列。
+
+
+
+
+人類大腦分析圖
+
+
+暫時最關心的課題是：　
+
+神經突觸的神經信號傳遞者
+學習在生物層面的操作原理
+基因在胚胎時期對神經系統的發育
+其他生物的簡單神經系統的操作
+應用於感官、記憶及語言的複雜神經系統的結構及功能
+
+最近研究进展：近年来，在量化分析大脑处理信息运作过程方面有了一些新的进展，如近年发表的《大脑处理信息量化模型和细节综合报告》、《基于量化模型的对大脑高效可靠处理信息实现机制的分析》、《基于大脑处理信息量化模型的对若干认知问题的分析》等所介绍的一系列论文综合整理分析已有的各层面的知识，建立有坚实解剖学基础、能联系各层面、量化描述大脑信息处理过程的模型和框架，提出血液循环在大脑处理信息过程中有时序控制作用，用量化模型结合结构风险最小化相关理论分析说明时序控制作用对大脑高效可靠处理信息的意义；汇总介绍量化模型中的细节；分析了大脑能正确而高效处理信息，使智力能够诞生的原因；分析了理论建立和应用过程的神经生理学原理、只能有相对真理的神经生理学原因；还建立和介绍了另外一种量化分析方案；等。
+
+
+
+目录
+
+
+1 神經科學的分支
+2 參考文獻
+
+2.1 引用
+2.2 教科書
+2.3 著名文獻
+
+
+3 外部連結
+4 參見
+5 外部链接
+
+
+
+神經科學的分支[编辑]
+
+神经生物发展科学
+情感神經科學（Affective Neuroscience（英语：Affective Neuroscience））
+行為神經科學（Behavioural Neuroscience（英语：Behavioural Neuroscience））
+臨床神經科學（Clinical Neuroscience（英语：Clinical Neuroscience））- 包括神經學、神經外科、精神醫學及神經放射醫學（Neuroradiology（英语：Neuroradiology））等
+認知神經科學
+計算神經科學
+神經系統的發育（Developmental Neuroscience（英语：Developmental Neuroscience））
+演化神經科學（Evolutionary Neuroscience（英语：Evolutionary Neuroscience））
+基因影像学（Imaging Genetics（英语：Imaging Genetics））
+分子神經科學（Molecular Neuroscience（英语：Molecular Neuroscience））
+神經工程學
+神經解剖學
+疾病的神經生物學（Neurobiology of disease）
+神經化學
+神經經濟學
+神經胚胎學（Neuroembryology）
+神經內分泌學（Neuroendocrinology（英语：Neuroendocrinology））
+神經流行病學（Neuroepidemiology（英语：Neuroepidemiology））
+神經工效學（Neuroergonomics（英语：Neuroergonomics））
+神經行為學
+神經遺傳學（Neurogenetics（英语：Neurogenetics））
+神經免疫學（Neuroimmunology（英语：Neuroimmunology））
+神經病理學（Neuropathology（英语：Neuropathology））
+神經藥理學（Neuropharmacology（英语：Neuropharmacology））
+神經物理學（Neurophysics（英语：Neurophysics））
+神經生理學
+神經生物學
+神經毒理學（Neurotoxicology）
+感官神經科學（Sensory Neuroscience（英语：Sensory Neuroscience））
+系統神經科學（Systems Neuroscience（英语：Systems Neuroscience））
+
+參考文獻[编辑]
+引用[编辑]
+
+教科書[编辑]
+
+Bear, M. F. et. al. Eds. (1995). Neuroscience: Exploring The Brain. Baltimore, Maryland, Williams and Wilkins. ISBN 0781739446
+Kandel, Eric, James Schwartz, and Thomas Jessel. 2000. Principles of Neural Science. 4th ed. McGraw-Hill, New York ISBN 0838577016
+
+著名文獻[编辑]
+
+Damasio, A. R. (1994). Descarte's Error: Emotion, Reason, and the Human Brain. New York, Avon Books. ISBN 0399138943 (Hardcover) ISBN 0380726475 (Paperback)
+Andreason, N. C. (2001). Brave New Brain: Conquering Mental Illness in the Age of the Genome. Oxford, Oxford University Press. ISBN 0195145097 (Hardcover) ISBN 0195167287 (Paperback)
+Gardner, H. (1976). The Shattered Mind: The Person After Brain Damage. New York, Vintage Books, 1976 ISBN 0394719468
+Goldstein, K. (2000). The Organism. New York, Zone Books. ISBN 0942299965 (Hardcover) ISBN 0942299973 (Paperback)
+Luria, A. R. (1997). The Man with a Shattered World: The History of a Brain Wound. Cambridge, Massachusetts, Harvard University Press. ISBN 0224007920 (Hardcover) ISBN 0674546253 (Paperback)
+Luria, A. R. (1998). The Mind of a Mnemonist: A Little Book About A Vast Memory. New York, Basic Books, Inc. ISBN 0674576225
+Sacks, O. The Man Who Mistook His Wife for a Hat. Summit Books ISBN 0671554719 (Hardcover) ISBN 0060970790 (Paperback)
+Sacks, O. (1990). Awakenings. New York, Vintage Books. (See also Oliver Sacks) ISBN 0671648349 (Hardcover) ISBN 0060973684 (Paperback)
+
+外部連結[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：神经科学
+
+
+
+High-Resolution Cytoarchitectural Primate Brain Atlases
+Society for Neuroscience
+American Society for Neurochemistry
+Neurotransmitter.netNeuroscience resources and news
+BrainMetaA community site
+Neuroanatomy & Neuropathology on the InternetHigh quality links
+Neuroscience. 2nd ed. by Purves et al (online textbook)
+Neuroscience for Kids
+NeuroWiki, a wiki website for Neuroscience related topics. All content (unless explicitly proclaimed otherwise) is published to the public domain thus can be relocated to the Wikipedia.
+Dana.org for information about brain research, immunology and arts education
+
+參見[编辑]
+
+精神控制
+
+外部链接[编辑]
+
+
+
+維基學院中的相關學習資源：
+
+神经科学
+
+
+
+
+
+
+您可以在維基教科書中查找此百科条目的相關電子教程：
+Neuroscience
+
+
+
+
+
+於維基詞典中查詢neuroscience。
+
+
+
+
+
+维基共享资源中相关的多媒体资源：神经科学
+
+
+
+
+Neuroscience，In Our Time (BBC Radio 4)（英语：BBC Radio 4）的《In Our Time》節目。(現在聆聽)
+（英文）Neuroscience Information Framework (NIF)
+开放式目录计划中和Neurobiology相关的内容
+American Society for Neurochemistry
+Neuroscience Online (electronic neuroscience textbook)
+Faculty for Undergraduate Neuroscience (FUN)
+Neuroscience for Kids
+Neuroscience Discussion Group in ResearchGate
+Neuroscience Discussion Forum
+HHMI Neuroscience lecture series - Making Your Mind: Molecules, Motion, and Memory
+（法文）Société des Neurosciences
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+神经科学
+
+
+
+
+
+
+基础科学
+
+
+
+行为表观遗传学（英语：Behavioral epigenetics）
+行为神经病学
+行为遗传学
+脑机接口
+细胞神经科学
+計算神經科學
+连接组学
+进化神经科学（英语：Evolutionary neuroscience）
+成像遗传学（英语：Imaging genetics）
+整合神经科学（英语：Integrative neuroscience）
+分子神经科学（英语：Molecular neuroscience）
+神经发育
+神经工程
+神经网络（人工的以及生物的）
+神经信号处理
+神经组织再生
+神经生物工程学
+神经生命学
+神经心脏病学
+神經化學
+神经芯片
+神經多樣性
+胚胎学
+神经内分泌学
+神经行为学
+神经遗传学
+神经免疫学
+神经信息学
+神经测量学
+神经调制
+神经功能监测
+神经物理学
+神经生理学
+神经可塑性
+神经机器人学（英语：Neurorobotics）
+神经技术（英语：Neurotechnology）
+神經毒素
+神经递质
+
+
+
+
+
+
+
+
+
+
+
+临床神经科学（英语：Clinical neuroscience）
+
+
+
+行为神经学
+临床神经生理学（英语：Clinical neurophysiology）
+神经退行性疾病
+神经发育疾病
+神经成像
+神經內科
+神经流行病学
+神经眼科学
+神经解剖学
+神经胃肠病学
+神经重症护理
+神經學
+神经肿瘤学
+神经病理学（英语：Neuropathology）
+神经义肢技术
+神经药理学（英语：Neuropharmacology）
+Neuroradiology（英语：Neuroradiology）
+Neurorehabilitation（英语：Neurorehabilitation）
+神經外科
+神经病毒学（英语：Neurovirology）
+精神病学
+神经精神病学
+神经耳科学
+古神经病学（英语：Paleoneurology）
+
+
+
+
+
+
+
+
+认知神经科学
+
+
+
+情感神经科学（英语：Affective Neuroscience）
+行为神经科学
+時間生物學
+文化神经科学（英语：Cultural neuroscience）
+教育神经科学（英语：Educational neuroscience）
+分子细胞认知（英语：Molecular cellular cognition）
+神经语言学
+生物心理学
+神经心理学
+Sensory neuroscience（英语：感官神经科学）
+社会神经科学
+Systems neuroscience（英语：系统神经科学）
+
+
+
+
+
+
+
+
+非科学
+
+
+
+神经经济学
+神经语言学
+神经哲学（英语：Neurophilosoph）
+神经伦理学
+神经社会学（英语：Neuro-sociology）
+神经神学（英语：Neurotheology）
+
+
+
+
+
+
+
+
+
+
+
+ 书籍
+ 神經科學的條目分類
+ 共享資源
+ 神經科學主題
+ 專題
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+神经科学
+
+
+
+
+
+
+
+神經科學概要（英语：Outline of neuroscience）
+
+
+
+
+
+
+基础科学
+
+
+
+行為的遺傳訊息學（英语：Behavioral epigenetics）
+行为遗传学
+細胞神經科學（英语：Cellular neuroscience）
+計算神經科學
+连接组学
+影像遺傳學（英语：Imaging genetics）
+整合性神經科學（英语：Integrative neuroscience）
+分子神經科學（英语：Molecular neuroscience）
+神经工程
+神經解剖（構造）學
+神經化學
+神經內分泌學（英语：Neuroendocrinology）
+神經基因學（英语：Neurogenetics）
+神经信息学
+神經測量學（英语：Neurometrics）
+神經科學與生物形態學（英语：Neuromorphology）
+神經物理（英语：Neurophysics）
+神经生理学
+
+
+
+
+
+
+
+
+
+
+
+臨床神經科學（英语：Clinical neuroscience）
+
+
+
+行為神經學
+臨床神經生理學（英语：Clinical neurophysiology）
+神經心臟學（英语：Neurocardiology）
+神經流行病學（英语：Neuroepidemiology）
+神經與消化系統學（英语：Neurogastroenterology）
+神經免疫學（英语：Neuroimmunology）
+神經重症學
+神經內科
+神經腫瘤學（英语：Neurooncology）
+神经眼科学
+神經病理學（英语：Neuropathology）
+神經藥學（英语：Neuropharmacology）
+神经假体
+神經與精神病學（英语：Neuropsychiatry）
+神經放射學（英语：Neuroradiology）
+神經復健學（英语：Neurorehabilitation）
+神經外科
+神經病毒學（英语：Neurotology）
+神經病毒學（英语：Neurovirology）
+營養與神經科學（英语：Nutritional neuroscience）
+精神病学
+
+
+
+
+
+
+
+
+認知神經科學
+
+
+
+情感神經科學（英语：Affective neuroscience）
+生物心理学
+時間生物學
+分子細胞的認知（英语：Molecular cellular cognition）
+肌肉運動的/運動神經的控制（英语：Motor control）
+神经语言学
+神经心理学
+感知神經科學（英语：Sensory neuroscience）
+社会神经科学
+系統神經科學（英语：Systems neuroscience）
+
+
+
+
+
+
+
+
+跨領域
+
+
+
+消費性神經科學（英语：Consumer neuroscience）
+文化的神經科學（英语：Cultural neuroscience）
+教育的神經科學（英语：Educational neuroscience）
+Evolutionary neuroscience（英语：Evolutionary neuroscience）
+神經人類學（英语：Neuroanthropology）
+神經生物工程（英语：Neurobioengineering）
+神經與生態學（英语：Neurobiotics）
+神經科學與犯罪學（英语：Neurocriminology）
+神經經濟學
+神經科學與哲學的認識理論（英语：Neuroepistemology）
+Neuroesthetics（英语：Neuroesthetics）
+神經科學與倫理道德（英语：Neuroethics）
+神经行为学
+神經科學與歷史學（英语：Neurohistory）
+神經科學與法律（英语：Neurolaw）
+神經科學與行銷學（英语：Neuromarketing）
+神經科學與現象學
+神經科學與哲學（英语：Neurophilosophy）
+神經科學與政治學（英语：Neuropolitics）
+神經科學與機器人（英语：Neurorobotics）
+神經科學與社會學（英语：Neurosociology）
+神經科學與宗教學（英语：Neurotheology）
+神經科學與古生物學（英语：Paleoneurology）
+
+
+
+
+
+
+
+
+概念
+
+
+
+腦機介面
+神經發展（英语：Neural development）
+人工神经网络
+生物神经网络
+信号检测理论
+多執行之神經生理監測（英语：Intraoperative neurophysiological monitoring）
+神經晶片（英语：Neurochip）
+神经退行性疾病
+神經發展及疾患（英语：Neurodevelopmental disorder）
+神經多樣性（英语：Neurodiversity）
+神经发生
+神经成像
+神經免疫系統（英语：Neuroimmune system）
+神經管理（英语：Neuromanagement）
+神經調節
+神经可塑性
+神經科技（英语：Neurotechnology）
+神經毒素
+
+
+
+
+
+
+
+
+
+
+
+ 相關書籍（英语：Book:Neuroscience）
+ 神經科學的條目分類
+ 共享資源
+ 神經科學主題
+ 專題
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+生命科学和生物学的主要子域
+
+
+
+
+
+
+
+
+
+解剖学
+天体生物学
+生物化学
+生物地理学
+生物力学
+生物物理学
+生物信息学
+生物统计学
+植物学
+细胞生物学
+细胞微生物学（英语：Cellular microbiology）
+化学生物学
+时间生物学
+保护生物学
+发育生物学
+生态学
+流行病学
+表观遗传学
+演化生物学
+遗传学
+基因组学
+组织学
+人体生物学（英语：Human biology）
+免疫学
+海洋生物学
+生物数学
+微生物学
+分子生物学
+真菌学
+神经科学
+营养学
+生命起源
+古生物学
+寄生虫学
+病理学
+药理学
+生理学
+量子生物学
+社會生物学
+合成生物学
+结构生物学
+系统生物学
+生物分类学
+病毒学
+毒理学
+动物学
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+技术
+
+
+
+
+
+
+領域
+
+
+
+
+農業
+
+
+
+农业工程
+水產養殖
+水产学
+食品化学
+食品工程
+营养学
+食品技术
+食品微生物学（英语：Food microbiology）
+遺傳利用限制技術（英语：Genetic use restriction technology）
+
+
+
+
+
+
+
+
+生物医学（英语：Biomedical technology）
+
+
+
+生物信息学
+生物医学工程
+生物工程学
+生物技术
+健康科学
+生化檢驗
+药理学
+神经科学
+组织工程学
+基因工程
+纳米医学
+化学信息学
+
+
+
+
+
+
+
+
+水利/土木建築
+
+
+
+水利工程
+土木工程
+建築工程
+建築設備
+消防工程
+安全工程
+結構工程
+
+
+
+
+
+
+
+
+教育技术
+
+
+
+在线学习
+教育技术学
+教育软件（英语：Educational software）
+虚拟校园（英语：Virtual campus）
+
+
+
+
+
+
+
+
+能源
+
+
+
+核工程
+核技术
+储能技术
+石油工程（英语：Petroleum engineering）
+
+
+
+
+
+
+
+
+军事
+
+
+
+彈藥
+炸彈
+軍事技术
+電子作戰
+低可偵測性技術
+工兵
+军事通信（英语：Military communications）
+
+
+
+
+
+
+
+
+信息
+
+
+
+人工智能
+計算機工程
+计算机科学
+音乐工艺
+通信工程
+通信
+图形
+信息技术
+軟件工程
+音乐
+语音识别
+可视化技术
+系统分类学
+本体工程
+信息学
+
+
+
+
+
+
+
+
+工业（英语：Industrial technology）
+
+
+
+纳米科技
+音频工程
+生物工程
+生化工程
+陶瓷工程
+化学工程
+控制工程
+低温学
+電機工程學
+电子工程
+工程技术
+工程学
+工业工程学
+企业工程
+水力学
+机械工程
+機械電子學
+冶金工程
+海洋工程
+光学工程
+系统工程
+运输工程
+电动机械学
+金融工程学
+制造
+机械
+采矿业
+自动化技术
+冶金学
+
+
+
+
+
+
+
+
+交通
+
+
+
+航空航天
+航空航天工程
+空间技术
+机动车
+車輛工程
+交通工程
+流量工程
+
+
+
+
+
+
+
+
+環境科技
+
+
+
+綠色建築
+可再生能源
+永續設計
+环境工程
+生態工程
+潔淨科技（英语：Clean technology）
+生態技術（英语：Ecotechnology）
+環境工程科學（英语：Environmental engineering science）
+
+
+
+
+
+
+
+
+应用科学
+
+
+
+考古
+电子学
+光学
+半导体物理学
+环境科学
+材料科学
+微系统
+微技术
+纳米技术
+
+
+
+
+
+
+
+
+其他领域
+
+
+
+机器人学
+机械电子学
+蛋白质工程
+系统工程
+聚合物工程（英语：Polymer engineering）
+
+
+
+
+
+
+
+
+
+
+
+組件
+
+
+
+基礎設施
+發明
+发明年表
+知識
+機器
+技能
+工艺
+工具
+
+
+
+
+
+
+
+
+技術史
+
+
+
+新石器革命
+工業革命
+第二次工業革命
+數字化革命
+第三次工業革命
+信息時代
+史前技术（英语：Outline of prehistoric technology）
+古代技術（英语：Ancient technology）
+中世紀技術（英语：Medieval technology）
+文藝復興技術（英语：Renaissance technology）
+噴氣時代（英语：Jet Age）
+
+
+
+
+
+
+
+
+理論（英语：Theories of technology）
+和概念
+
+
+
+適用技術
+破壞性創新
+高科技
+技术成熟度曲线
+专家统治
+技术决定论
+技術官僚
+技术奇异点
+技术接受模型
+超人类主义
+軍民兩用技術（英语：Dual-use technology）
+技术伦理（英语：Ethics of technology）
+
+
+
+
+
+
+
+
+其他
+
+
+
+新興技術列表
+卡尔达肖夫指数
+Category:各国科技
+Category:科技公司
+Category:技术大学和学院
+技术传播者
+技术新闻学
+
+
+
+
+
+
+
+
+
+
+
+ Category:技術
+ commons:Category:技術
+ Portal:技術
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh91006099
+GND: 7555119-6
+NDL: 001137240
+
+
+
+
+
+
+
+
+
+
+
+
+分类：神經科學跨學科領域隐藏分类：本地链接的维基共享资源分类与Wikidata不同包含规范控制信息的维基百科条目使用ISBN魔术链接的页面

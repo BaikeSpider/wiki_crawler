@@ -1,0 +1,1884 @@
+極限 (數列)
+
+
+系列條目
+
+
+微积分学
+
+
+
+
+
+函数
+导数
+微分
+积分
+
+
+
+
+基本定理
+
+
+
+
+函數極限
+連續函數
+
+
+
+
+均值定理
+羅爾定理
+
+
+
+
+
+
+
+基础概念
+
+
+
+函数 · 數列 · 級數 · 极限
+初等函数 · 無窮小量 · 收敛数列
+收斂性 · 夹挤定理
+连续 · 一致连续 · 间断点
+
+
+
+
+
+
+
+
+
+一元微分
+
+
+
+导数 · 高阶导数 · 介值定理 · 中值定理（罗尔定理 · 拉格朗日中值定理 · 柯西中值定理） · 泰勒公式 · 求导法则（乘法定则 · 除法定则 · 倒数定则 · 链式法则） · 洛必达法则 · 导数列表 · 导数的函数应用（单调性 · 极值 · 驻点 · 拐点 · 凹凸性 · 曲率）
+
+
+
+
+
+
+
+
+
+一元积分
+
+
+
+不定积分 · 定积分 · 积分的定义（黎曼积分 · 达布积分 · 勒贝格积分） · 积分表 · 求积分的技巧（吸納积分法 · 换元积分法 · 分部积分法 · 三角换元法 · 降次积分法 · 部分分式积分法） · 牛顿-莱布尼茨公式 · 广义积分 · 主值 · 柯西主值 · Β函数 · Γ函数 · 数值积分 · 牛顿-寇次公式 · 近似积分法（矩形法 · 梯形法 · 辛普森积分法）
+
+
+
+
+
+
+
+
+
+多元微积分
+
+
+
+多元函数 · 偏导数 · 隐函数 · 全微分 · 方向導數 · 梯度 · 泰勒公式 · 拉格朗日乘数 · 多元函数积分 · 多重积分 · 广义多重积分 · 曲线积分 · 曲面积分 · 格林公式 · 高斯公式 · 斯托克斯公式 · 散度 · 旋度
+
+
+
+
+
+
+
+
+
+微分方程
+
+
+
+常微分方程 · 分离变数法 · 积分因子 · 欧拉方法 · 柯西-欧拉方程 · 伯努利微分方程 · 克莱罗方程 · 全微分方程 · 线性微分方程 · 差分方程 · 拉普拉斯变换法 · 偏微分方程 · 拉普拉斯方程
+
+
+
+
+
+
+
+
+
+相关数学家
+
+
+牛顿 · 莱布尼兹 · 柯西 · 黎曼
+拉格朗日 · 拉普拉斯 · 欧拉
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+極限，即為一個數列
+
+
+
+{
+
+a
+
+n
+
+
+}
+
+
+{\displaystyle \{a_{n}\}}
+
+，使得
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+a
+
+n
+
+
+=
+L
+
+
+{\displaystyle \lim _{n\to \infty }a_{n}=L}
+
+，其中
+
+
+
+L
+
+
+{\displaystyle L}
+
+為一確定的常數，亦即數列
+
+
+
+{
+
+a
+
+n
+
+
+}
+
+
+{\displaystyle \{a_{n}\}}
+
+隨著
+
+
+
+n
+
+
+{\displaystyle n}
+
+的增加而趨近於
+
+
+
+L
+
+
+{\displaystyle L}
+
+。
+
+
+
+目录
+
+
+1 定義
+2 收斂數列
+3 數列極限的性質
+4 數列的四則運算
+5 參看
+
+
+
+定義[编辑]
+设一數列
+
+
+
+{
+
+x
+
+n
+
+
+}
+,
+ 
+
+x
+
+n
+
+
+∈
+
+R
+
+,
+ 
+n
+∈
+
+N
+
+,
+ 
+L
+∈
+
+R
+
+
+
+{\displaystyle \{x_{n}\},\ x_{n}\in \mathbb {R} ,\ n\in \mathbb {N} ,\ L\in \mathbb {R} }
+
+，
+若对于任意的正实数
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+，存在自然数
+
+
+
+N
+
+
+{\displaystyle N}
+
+，使得對所有
+
+
+
+n
+>
+N
+
+
+{\displaystyle n>N}
+
+，有 
+
+
+
+
+|
+
+
+x
+
+n
+
+
+−
+L
+
+|
+
+<
+ϵ
+
+
+{\displaystyle |x_{n}-L|<\epsilon }
+
+，
+用符号来表示即 
+
+
+
+∀
+ϵ
+>
+0
+,
+ 
+∃
+N
+∈
+
+N
+
+,
+ 
+∀
+n
+>
+N
+,
+ 
+
+|
+
+
+x
+
+n
+
+
+−
+L
+
+|
+
+<
+ϵ
+
+
+{\displaystyle \forall \epsilon >0,\ \exists N\in \mathbb {N} ,\ \forall n>N,\ |x_{n}-L|<\epsilon }
+
+
+则称数列
+
+
+
+{
+
+x
+
+n
+
+
+}
+
+
+{\displaystyle \{x_{n}\}}
+
+收敛于
+
+
+
+L
+
+
+{\displaystyle L}
+
+，记作
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+x
+
+n
+
+
+=
+L
+
+
+{\displaystyle \lim _{n\to \infty }x_{n}=L}
+
+。
+收斂數列[编辑]
+其中一個判斷數列是否收斂的定理，称为单调收敛定理，和實數完備性相關：單調有界數列必收斂，即是說，有上界的單調遞增數列，或是有下界的單調遞減數列，必然收斂。
+數列極限的性質[编辑]
+定理1（唯一性）若數列
+
+
+
+
+{
+
+
+x
+
+n
+
+
+
+}
+
+
+
+{\displaystyle \left\{{x_{n}}\right\}}
+
+的極限存在，則極限是唯一的。
+
+   證：設數列
+  
+    
+      
+        
+          {
+          
+            
+              x
+              
+                n
+              
+            
+          
+          }
+        
+      
+    
+    {\displaystyle \left\{{x_{n}}\right\}}
+  
+有兩個不相等的極限值
+  
+    
+      
+        a
+        ,
+         
+        b
+      
+    
+    {\displaystyle a,\ b}
+  
+，則對應於
+  
+    
+      
+        d
+        =
+        
+          |
+        
+        a
+        −
+        b
+        
+          |
+        
+        >
+        0
+      
+    
+    {\displaystyle d=|a-b|>0}
+  
+，並且可找到正數
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+，使
+  
+    
+      
+        n
+        >
+        N
+      
+    
+    {\displaystyle n>N}
+  
+時，恆有
+   
+  
+    
+      
+        
+          |
+        
+        
+          x
+          
+            n
+          
+        
+        −
+        a
+        
+          |
+        
+        <
+        
+          
+            d
+            2
+          
+        
+        ,
+        
+        
+          |
+        
+        
+          x
+          
+            n
+          
+        
+        −
+        b
+        
+          |
+        
+        <
+        
+          
+            d
+            2
+          
+        
+      
+    
+    {\displaystyle |x_{n}-a|<{\frac {d}{2}},\quad |x_{n}-b|<{\frac {d}{2}}}
+  
+，
+   從而
+  
+    
+      
+        
+          |
+        
+        a
+        −
+        b
+        
+          |
+        
+        =
+        
+          |
+        
+        (
+        a
+        −
+        
+          x
+          
+            n
+          
+        
+        )
+        −
+        (
+        b
+        −
+        
+          x
+          
+            n
+          
+        
+        )
+        
+          |
+        
+        ≤
+        
+          |
+        
+        a
+        −
+        
+          x
+          
+            n
+          
+        
+        
+          |
+        
+        +
+        
+          |
+        
+        b
+        −
+        
+          x
+          
+            n
+          
+        
+        
+          |
+        
+        <
+        d
+      
+    
+    {\displaystyle |a-b|=|(a-x_{n})-(b-x_{n})|\leq |a-x_{n}|+|b-x_{n}|<d}
+  
+，
+   這與假設
+  
+    
+      
+        d
+        =
+        
+          |
+        
+        a
+        −
+        b
+        
+          |
+        
+      
+    
+    {\displaystyle d=|a-b|}
+  
+不符，
+   故
+  
+    
+      
+        {
+        
+          x
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{x_{n}\}}
+  
+不可能以兩個不相等的數為極限。
+
+定理2（有界性）若數列
+
+
+
+{
+
+x
+
+n
+
+
+}
+
+
+{\displaystyle \{x_{n}\}}
+
+有極限，則
+
+
+
+{
+
+x
+
+n
+
+
+}
+
+
+{\displaystyle \{x_{n}\}}
+
+有界，即
+
+
+
+∃
+M
+>
+0
+
+
+{\displaystyle \exists M>0}
+
+，使得
+
+
+
+∀
+n
+∈
+
+N
+
+
+
+{\displaystyle \forall n\in \mathbb {N} }
+
+，有
+
+
+
+
+|
+
+
+x
+
+n
+
+
+
+|
+
+≤
+M
+
+
+{\displaystyle |x_{n}|\leq M}
+
+.
+
+   證：因為
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          x
+          
+            n
+          
+        
+        =
+        L
+      
+    
+    {\displaystyle \lim _{n\to \infty }x_{n}=L}
+  
+，所以對於
+  
+    
+      
+        ε
+        =
+        1
+      
+    
+    {\displaystyle \varepsilon =1}
+  
+，
+  
+    
+      
+        ∃
+        N
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle \exists N\in \mathbb {N} }
+  
+，使得當
+  
+    
+      
+        n
+        >
+        N
+      
+    
+    {\displaystyle n>N}
+  
+時有
+  
+    
+      
+        
+          |
+        
+        
+          x
+          
+            n
+          
+        
+        −
+        L
+        
+          |
+        
+        <
+        ε
+        =
+        1
+      
+    
+    {\displaystyle |x_{n}-L|<\varepsilon =1}
+  
+，
+   從而
+  
+    
+      
+        
+          |
+        
+        
+          x
+          
+            n
+          
+        
+        
+          |
+        
+        =
+        
+          |
+        
+        (
+        
+          x
+          
+            n
+          
+        
+        −
+        L
+        )
+        +
+        L
+        
+          |
+        
+        ≤
+        
+          |
+        
+        
+          x
+          
+            n
+          
+        
+        −
+        L
+        
+          |
+        
+        +
+        
+          |
+        
+        L
+        
+          |
+        
+        <
+        1
+        +
+        
+          |
+        
+        L
+        
+          |
+        
+      
+    
+    {\displaystyle |x_{n}|=|(x_{n}-L)+L|\leq |x_{n}-L|+|L|<1+|L|}
+  
+，
+   令
+  
+    
+      
+        M
+        =
+        max
+        (
+        
+          |
+        
+        
+          x
+          
+            1
+          
+        
+        
+          |
+        
+        ,
+         
+        
+          |
+        
+        
+          x
+          
+            2
+          
+        
+        
+          |
+        
+        ,
+        ⋯
+        ,
+         
+        
+          |
+        
+        
+          x
+          
+            N
+          
+        
+        
+          |
+        
+        ,
+         
+        1
+        +
+        
+          |
+        
+        L
+        
+          |
+        
+        )
+      
+    
+    {\displaystyle M=\max(|x_{1}|,\ |x_{2}|,\cdots ,\ |x_{N}|,\ 1+|L|)}
+  
+，於是
+  
+    
+      
+        ∀
+        n
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle \forall n\in \mathbb {N} }
+  
+，有
+  
+    
+      
+        
+          |
+        
+        
+          x
+          
+            n
+          
+        
+        
+          |
+        
+        ≤
+        M
+      
+    
+    {\displaystyle |x_{n}|\leq M}
+  
+，即
+  
+    
+      
+        {
+        
+          x
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{x_{n}\}}
+  
+有界。
+
+注意有界數列不一定有極限，如數列
+
+
+
+
+1
+,
+ 
+0
+,
+ 
+1
+,
+ 
+0
+,
+⋯
+,
+ 
+
+
+
+1
+−
+(
+−
+1
+
+)
+
+n
+
+
+
+2
+
+
+,
+⋯
+
+
+{\displaystyle 1,\ 0,\ 1,\ 0,\cdots ,\ {\frac {1-(-1)^{n}}{2}},\cdots }
+
+
+有界，但無極限。
+如數列無界，則數列發散。
+定理3（保序性）若
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+x
+
+n
+
+
+=
+a
+
+
+{\displaystyle \lim _{n\to \infty }x_{n}=a}
+
+，
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+y
+
+n
+
+
+=
+b
+
+
+{\displaystyle \lim _{n\to \infty }y_{n}=b}
+
+，且
+
+
+
+a
+>
+b
+
+
+{\displaystyle a>b}
+
+，則
+
+
+
+∃
+N
+∈
+
+N
+
+
+
+{\displaystyle \exists N\in \mathbb {N} }
+
+，使得
+
+
+
+∀
+n
+>
+N
+
+
+{\displaystyle \forall n>N}
+
+，有
+
+
+
+
+x
+
+n
+
+
+>
+
+y
+
+n
+
+
+
+
+{\displaystyle x_{n}>y_{n}}
+
+.
+
+   證：已知
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          x
+          
+            n
+          
+        
+        =
+        a
+      
+    
+    {\displaystyle \lim _{n\to \infty }x_{n}=a}
+  
+，
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          y
+          
+            n
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle \lim _{n\to \infty }y_{n}=b}
+  
+，且
+  
+    
+      
+        a
+        >
+        b
+      
+    
+    {\displaystyle a>b}
+  
+。取
+  
+    
+      
+        ε
+        =
+        
+          
+            
+              a
+              −
+              b
+            
+            2
+          
+        
+        >
+        0
+      
+    
+    {\displaystyle \varepsilon ={\frac {a-b}{2}}>0}
+  
+，由極限定義知：
+   
+  
+    
+      
+        ∃
+        
+          N
+          
+            1
+          
+        
+        ∈
+        
+          N
+        
+        ,
+        ∀
+        n
+        >
+        
+          N
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \exists N_{1}\in \mathbb {N} ,\forall n>N_{1}}
+  
+，有
+                                     
+  
+    
+      
+        
+          |
+        
+        
+          x
+          
+            n
+          
+        
+        −
+        a
+        
+          |
+        
+        <
+        
+          
+            
+              a
+              −
+              b
+            
+            2
+          
+        
+      
+    
+    {\displaystyle |x_{n}-a|<{\frac {a-b}{2}}}
+  
+，
+   從而
+                                     
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+        >
+        a
+        −
+        
+          
+            
+              a
+              −
+              b
+            
+            2
+          
+        
+        =
+        
+          
+            
+              a
+              +
+              b
+            
+            2
+          
+        
+      
+    
+    {\displaystyle x_{n}>a-{\frac {a-b}{2}}={\frac {a+b}{2}}}
+  
+。
+   
+  
+    
+      
+        ∃
+        
+          N
+          
+            2
+          
+        
+        ∈
+        
+          N
+        
+        ,
+        ∀
+        n
+        >
+        
+          N
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \exists N_{2}\in \mathbb {N} ,\forall n>N_{2}}
+  
+，有
+                                     
+  
+    
+      
+        
+          |
+        
+        
+          y
+          
+            n
+          
+        
+        −
+        b
+        
+          |
+        
+        <
+        
+          
+            
+              a
+              −
+              b
+            
+            2
+          
+        
+      
+    
+    {\displaystyle |y_{n}-b|<{\frac {a-b}{2}}}
+  
+，
+   從而
+                                     
+  
+    
+      
+        
+          y
+          
+            n
+          
+        
+        <
+        b
+        +
+        
+          
+            
+              a
+              −
+              b
+            
+            2
+          
+        
+        =
+        
+          
+            
+              a
+              +
+              b
+            
+            2
+          
+        
+      
+    
+    {\displaystyle y_{n}<b+{\frac {a-b}{2}}={\frac {a+b}{2}}}
+  
+。
+   所以當
+  
+    
+      
+        n
+        >
+        N
+        =
+        max
+        (
+        
+          N
+          
+            1
+          
+        
+        ,
+         
+        
+          N
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle n>N=\max(N_{1},\ N_{2})}
+  
+時，有
+                                     
+  
+    
+      
+        
+          y
+          
+            n
+          
+        
+        <
+        
+          
+            
+              a
+              +
+              b
+            
+            2
+          
+        
+        <
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle y_{n}<{\frac {a+b}{2}}<x_{n}}
+  
+，
+   即                                
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+        >
+        
+          y
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x_{n}>y_{n}}
+  
+。
+
+數列的四則運算[编辑]
+設
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+x
+
+n
+
+
+=
+a
+
+
+{\displaystyle \lim _{n\to \infty }x_{n}=a}
+
+，
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+y
+
+n
+
+
+=
+b
+
+
+{\displaystyle \lim _{n\to \infty }y_{n}=b}
+
+，則
+（1）
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+(
+
+
+
+x
+
+n
+
+
+
+±
+
+
+y
+
+n
+
+
+
+
+)
+
+=
+
+lim
+
+n
+→
+∞
+
+
+
+
+x
+
+n
+
+
+
+±
+
+lim
+
+n
+→
+∞
+
+
+
+
+y
+
+n
+
+
+
+
+
+{\displaystyle \lim _{n\to \infty }\left({{x_{n}}\pm {y_{n}}}\right)=\lim _{n\to \infty }{x_{n}}\pm \lim _{n\to \infty }{y_{n}}}
+
+；
+（2）
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+
+x
+
+n
+
+
+
+⋅
+
+
+y
+
+n
+
+
+
+=
+
+lim
+
+n
+→
+∞
+
+
+
+
+x
+
+n
+
+
+
+⋅
+
+lim
+
+n
+→
+∞
+
+
+
+
+y
+
+n
+
+
+
+
+
+{\displaystyle \lim _{n\to \infty }{x_{n}}\cdot {y_{n}}=\lim _{n\to \infty }{x_{n}}\cdot \lim _{n\to \infty }{y_{n}}}
+
+；
+（3）若
+
+
+
+b
+≠
+0
+,
+
+
+y
+
+n
+
+
+
+≠
+0
+
+
+{\displaystyle b\neq 0,{y_{n}}\neq 0}
+
+,則
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+
+
+x
+
+n
+
+
+
+y
+
+n
+
+
+
+
+=
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+
+x
+
+n
+
+
+
+
+
+
+lim
+
+n
+→
+∞
+
+
+
+
+y
+
+n
+
+
+
+
+
+
+
+
+{\displaystyle \lim _{n\to \infty }{\frac {x_{n}}{y_{n}}}={\frac {\lim _{n\to \infty }{x_{n}}}{\lim _{n\to \infty }{y_{n}}}}}
+
+.
+參看[编辑]
+
+级数
+極限
+
+
+
+
+
+分类：微积分序列

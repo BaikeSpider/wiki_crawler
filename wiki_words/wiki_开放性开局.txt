@@ -1,0 +1,218 @@
+开放性开局
+
+本條目使用代數記譜法來描述國際象棋棋子的走法。
+
+
+開放性開局
+(Open Game)
+
+
+
+
+
+
+
+a
+b
+c
+d
+e
+f
+g
+h
+
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+
+7
+7
+
+
+6
+6
+
+
+5
+5
+
+
+4
+4
+
+
+3
+3
+
+
+2
+2
+
+
+1
+1
+
+
+
+a
+b
+c
+d
+e
+f
+g
+h
+
+
+
+
+
+
+
+
+走法
+1.e4 e5
+
+
+編號
+C20–C99
+
+
+母局
+王兵開局
+
+
+別名
+雙王兵開局
+雙王兵棋局
+
+
+Chessgames.com opening explorer
+
+
+开放性开局，又名“双王前兵开局”，以1.e4 e5 开始。
+
+
+
+目录
+
+
+1 常见的开放性开局
+2 参阅
+3 參考文獻
+4 延伸閱讀
+
+
+
+常见的开放性开局[编辑]
+
+西班牙开局（the Ruy Lopez, the Spanish game）(C60-99)
+
+
+1.e4 e5 2 Nf3 Nc6 3 Bb5
+
+
+王翼弃兵（the King's Gambit）(C30-39)
+
+
+1.e4 e5 2 f4
+
+
+双马防御 (the Two Knights Defense)
+
+（C55-C59）
+
+1.e4 e5 2 Nf3 Nc6 3 Bc4 Nf6
+
+
+瑞高钢琴 (the Giuoco Piano)（C50, C53-C55）
+
+
+1.e4 e5 2 Nf3 Nc6 3 Bc4 Bc5
+
+
+伊文斯弃兵 (Evans Gambit) (C51-52)
+
+
+1.e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4
+
+
+俄羅斯防禦
+飞象開局
+菲利多爾防禦
+蘇格蘭開局
+維也納開局
+匈牙利防禦
+意大利開局
+中心开局
+
+参阅[编辑]
+
+半开放性开局
+封闭性开局
+印度防御
+国际象棋
+
+參考文獻[编辑]
+
+
+Hooper, David; Whyld, Kenneth, The Oxford Companion to Chess 2nd, Oxford University Press, 1992, ISBN 0-19-866164-9 
+Watson, John, Mastering the Chess Openings, vol 1, Gambit, 2006, ISBN 978-1-904600-60-2 
+
+
+延伸閱讀[编辑]
+
+
+
+您可以在維基教科書中查找此百科条目的相關電子教程：
+1. e4/1...e5
+
+
+
+Djuric, Stefan; Komarov, Dimitri; Pantaleoni, Claudio, Chess Opening Essentials, vol 1: the complete 1.e4, New in Chess, 2008, ISBN 978-90-5691-203-1 
+Flear, Glenn, Starting Out: Open Games, Everyman Chess, 2010, ISBN 978-1-85744-630-2 {refend}}
+
+
+
+
+
+
+分类：国际象棋开局開放性開局隐藏分类：调用重复模板参数的页面含有英語的條目

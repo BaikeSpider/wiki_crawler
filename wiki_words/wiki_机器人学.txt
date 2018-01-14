@@ -1,0 +1,407 @@
+机器人学
+
+
+
+
+機器影手（英语：Shadow robot hand）系統
+
+
+機器人學（英语：robotics）是一項涵蓋了機器人的設計、建造、運作、以及應用的跨領域科技[1]，就如同電腦系統之控制、感測回授、以及資訊處理。這些科技催生出能夠取代人力的自動化機器，在危險境或製造工廠運作，或塑造成外表、行為、心智的仿人機器人。如今許多的機器人受到自然界的啟發，貢獻於生物啟發的機器人學的領域。
+創造可自動運轉的機器的概念可追溯至古典時代，但是直到20世紀以前，機器人的功能和潛在應用開發及研究沒有持續地成長[2]。縱觀歷史，機器人常見於模仿人類行為，且常以類似的方法管理事務。時至今日，機器人學成為一個快速成長的領域，同時先進技術持續地研發、設計、以及建造用來達成各種實用目的新款機器人，例如家庭用機器人（英语：Domestic robot）、工業機器人或軍用機器人。許多機器人從事對人類來講非常危險的工作，如拆除炸彈、地雷、探索沉船等。机器人学还被用于STEM教育(科学Science, 技术Technology, 工程Engineering, 和数学Mathematics) 作为教学辅助。
+
+
+
+目录
+
+
+1 語源
+2 歷史
+3 部件
+
+3.1 動力源
+3.2 驅動
+3.3 感應
+
+3.3.1 觸覺
+3.3.2 視覺
+3.3.3 其他
+
+
+3.4 處理
+
+
+4 就業
+5 參看
+6 參考文獻
+7 外部連結
+
+
+
+語源[编辑]
+機器人學（robotics）源自於機器人一詞，而機器人一詞最早被一位捷克的作家卡雷爾·恰佩克（Karel Čapek）在他的舞台劇作品R.U.R.羅梭的萬能工人中提出並發表於1920年[3]。該劇開始於一個用有機合成物製造人造人的工廠，那些人造人被稱「機器人」（robots）。卡雷爾稱是其兄弟約瑟夫·恰佩克發明了該詞[3]。
+根據牛津英語詞典，機器人學（robotics）一詞第一次被使用在艾萨克·阿西莫夫的短篇科幻小說Liar，初次出版在1941年五月的《超級科學故事》（Analog Science Fiction and Fact（英语：Astounding Science Fiction））雜誌上。
+歷史[编辑]
+西元1927年，一個由德國演員布里居·海默（Brigitte Helm）演示、女性人形的機械式人類（德語：Maschinenmensch），第一次在弗里茨·朗執導的德國科幻電影《大都會》（德語：Metropolis）中出現。
+1942年，科幻作家以撒·艾西莫夫（英语：Isaac Asimov）勾勒出他的機器人學三大法則。
+1948年，以撒·艾西莫夫提出了模控學原理，成為日後機器人學的基礎。
+直至20世紀中才出現了全自動的機器人。第一個可數位操控及可程式化的機器人：通用機械手（英语：Unimate），於1961年建立，功能為從壓鑄機中舉起高熱的金屬片並推疊起來。今日商業及工業機器人已被廣泛地應用在可以比人工更廉價、或更精確可靠的工作上。機器人也被雇用於骯髒、危險或令人感到乏味的工作。關於機器人的廣泛應用還有：製造、組裝、封裝及包裝、運輸、地球及太空探索、外科手術、武器、實驗研究、保全，以及消費性和工業產品的大量生產。[4]
+部件[编辑]
+動力源[编辑]
+更多信息：電源供應和储能技术
+電源目前主要是（鉛酸）電池。機器人还可以使用許多不同類型的電池作為電源。它們的範圍從安全和保質期相對較長，但比較重的鉛酸電池，到容量要小得多，目前昂貴得多的銀鎘電池。設計一個電池供電的機器人需要考慮到安全性，循環壽命和重量等因素。發電機，經常有一些类型的內燃機，也可以被使用。然而，這樣的設計通常是機械複雜，需要的燃料，需要散熱，是比較重的。把機器人繫繩連接到電源，將從機器人身上完全卸下電源。這具有節約重量和空間的優點是通過把所有發電和存儲組件移動其他地方。然而，這樣的設計需要把不断的電纜一直連接到機器人，其缺點是難以管理。[5]潛在的動力源可以是：
+
+氣動（壓縮氣體）
+液壓（液體）
+飞轮能量储存（flywheel energy storage, or FES）
+有機垃圾（通過厭氧消化）
+糞便（人類，動物）;可能在軍事方面的能源需求有兴趣，小戰鬥小組的糞便可以再利用提供动力给機器人助理（見DEKA項目的Slingshot Stirling engine發動機系統如何運作的）
+
+驅動[编辑]
+
+
+
+
+一个採用氣動人工肌肉（英语：Pneumatic artificial muscles）的機器人腿。
+
+
+更多信息：執行器
+驅動器就像一個機器人的"肌肉"，可將儲存的能量轉化成移動。到目前為止，最常被使用的驅動器為轉動輪子或齒輪的電動馬達，以及控制在工廠中的工業用機器人的線性驅動器。然而，近期有一些不同型態的先進驅動器，其動力來源可為電力、化學反應、或壓縮空氣。
+感應[编辑]
+主要條目：機器感應（英语：Robotic sensing）
+感應器使得機器人能夠接收關於一些環境或內部元件的量測資訊。感測能力是機器人執行任務以及基於任何環境變化來動作以計算適當的反應的基本條件。感測器提供各種不同形式的量測，如給機器人安全警報或故障訊號，以及提供工作執行狀況的即時資訊。
+觸覺[编辑]
+主要條目：觸覺感測器（英语：Tactile sensor）
+目前的機器手及義肢能接收的體感或觸覺資訊遠少於人類的手。近期的研究已開發出一個觸覺感測陣列，可模仿人類手指的機械特性以及接觸感受器 [6][7]。此感應陣列由裝載導電液的合成橡膠皮，環繞在一個硬體核心周圍來構成。多個電極裝置在硬核的表面並連接至硬體核內部的阻抗量測裝置。當人工外皮接觸一個物件，電極周遭的電解液路徑被變形，因而產生相應於來自此物件外力的阻抗變化。研究學者們期望這樣的人工手指的重要功能，將可以調整機器人拿起物件時的握力程度。
+視覺[编辑]
+主条目：計算機視覺
+計算機視覺是让機器可以看见的科技。作為一門學科，計算機視覺關注人造系統背後的從圖像中提取信息的理論。圖像數據可以採取許多形式，如來自攝像機的影像畫面序列和圖片。
+在最實用的計算機視覺應用中，計算機是基於被預先編程的方法來解決特定的任務，但是，基於學習的方法在現在變得越來越普遍。
+其他[编辑]
+其他常見的機器人感應形式使用激光雷達（LIDAR），雷達和聲納。[來源請求]
+處理[编辑]
+
+
+
+
+庫卡（KUKA）工業機器人在一個鑄工廠（英语：Foundry）運作
+
+
+
+
+更多信息： Mobile manipulator
+
+
+機器人需要操作物件：拾起、修改、銷毀、或是產生其他的效應。當機器人的操作處理器被視為"臂"時[8]，機器末端作用器（英语：Robot end effector）則被視為機器人的"手"[9]。大部分機器人手臂擁有可置換的作用器，每一個作用器可以執行一些範圍的工作。一些機器人有固定不可置換的操作處理器，同時也有少數有非常通用性質的操作器，例如人形手臂。
+就業[编辑]
+主条目：en:Technological unemployment
+機器人學是在許多現代製造環境的重要組成部分。隨著工廠增加其機器人的使用，機器人技術相關的工作數量增長並且已經觀察到穩步上升。[10]
+參看[编辑]
+
+
+机器人学主题
+
+
+
+
+人工智能
+机械电子学
+控制論
+無人航空載具（俗稱無人飛機，Unmanned Aerial Vehicle）
+认知科学
+動力服
+個人電腦
+超级计算机
+互联网
+机器人三定律（Three Laws of Robotics）
+
+
+參考文獻[编辑]
+
+
+^ robotics. Oxford Dictionaries. [4 February 2011]. 
+^ Nocks, Lisa. The robot : the life story of a technology. Westport, CT: Greenwood Publishing Group. 2007.  使用|accessdate=需要含有|url= (帮助)
+^ 3.0 3.1 Zunt, Dominik. Who did actually invent the word "robot" and what does it mean?. The Karel Čapek website. [2007-09-11]. （原始内容存档于2012-02-04）. 
+^ Robotics: About the Exhibition. The Tech Museum of Innovation. [2008-09-15]. （原始内容存档于2008-09-13）. 
+^ Dowling, Kevin. Power Sources for Small Robots (PDF). Carnegie Mellon University. [11 May 2012]. 
+^ Syntouch LLC: BioTac (R)Biomimetic Tactile Sensor Array. [2009-08-10]. 
+^ Wettels, N; Santos, VJ; Johansson, RS; Loeb, Gerald E.; 等. Biomimetic tactile sensor array. Advanced Robotics. 2008, 22 (8): 829–849. doi:10.1163/156855308X314533.  引文格式1维护：显式使用等标签 (link)
+^ Crane, Carl D.; Joseph Duffy. Kinematic Analysis of Robot Manipulators. Cambridge University Press. 1998-03 [2007-10-16]. ISBN 0-521-57063-8.  引文使用过时参数coauthors (帮助)
+^ What is a robotic end-effector?. ATI Industrial Automation. 2007 [2007-10-16]. 
+^ Toy, Tommy. Outlook for robotics and Automation for 2011 and beyond are excellent says expert. PBT Consulting. June 29, 2011 [2012-01-27]. 
+
+
+外部連結[编辑]
+
+
+
+从维基百科的姊妹计划
+了解更多有关
+“机器人学”的内容
+
+
+
+
+维基词典上的字词解释
+
+
+
+维基共享资源上的多媒体资源
+
+
+
+维基教科书上的教科书和手册
+
+
+
+维基学院上的學習资源
+
+
+
+开放式目录计划中和机器人学相关的内容
+Robotics Portal
+Harvard Graduate School of Design, Design Robotics Group
+Robotics Academy of Iran
+The Robotics Institute at Carnegie Mellon University
+Design and Manufacture of Robotics Control Systems
+Biologically Inspired Robotics Lab, Case Western Reserve University
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+机器人学
+
+
+
+
+
+
+主要文章
+
+
+
+纲要（英语：Outline of robotics）
+术语（英语：Glossary of robotics）
+索引（英语：Index of robotics articles）
+历史（英语：History of robots）
+未来
+世界机器人学（英语：Robotics worldwide）
+机器人名人堂（英语：Robot Hall of Fame）
+机械伦理学
+机器人法律
+人类与机器人的互动
+人工智能竞赛和奖项（英语：Competitions and prizes in artificial intelligence）
+机器人列表（英语：List of robots）
+虚构机器人列表（英语：List of fictional robots and androids）
+
+
+
+
+
+
+
+
+
+
+
+类型
+
+
+
+
+
+依外型
+
+
+
+
+類人型
+人型
+女性
+改造人
+六足（英语：Hexapod (robotics)）
+关节（英语：Articulated robot）（機械手臂）
+BEAM
+仿生
+微型（英语：Microbotics）
+纳米
+
+
+
+
+
+
+
+
+
+依用途
+
+
+
+
+家用（英语：Domestic robot）
+娱乐（英语：Entertainment robot）
+军用
+医疗
+服务（英语：Service robot）
+残疾（英语：Disability robot）
+假肢
+农业
+餐馆（英语：Automated restaurant）
+工业
+社交
+
+
+
+
+
+
+
+
+
+依使用環境
+
+
+
+
+固定
+地面
+水下
+空中
+太空
+移動機器人（英语：Mobile robots）
+极地机器人（英语：Mobile robots#Classification）
+
+
+
+
+
+
+
+
+
+依移動方式
+
+
+
+
+步行
+輪子
+履带
+
+
+
+
+
+
+
+
+
+依运动行為
+
+
+
+
+跑步
+游泳
+機器人攀登（英语：Climber (BEAM)）
+机器人跳跃（英语：Robot locomotion#Hopping）
+爬行
+機器人擺臂（英语：Robot locomotion#Brachiating）
+
+
+
+
+
+
+
+
+
+
+
+部件
+
+
+
+動力源
+驅動
+感應
+
+
+
+
+
+
+
+
+导航（英语：Mobile robot navigation）
+
+
+
+手动遥控（英语：Mobile robot#Manual remote or tele-op）、遥控操作（英语：Remote operation）或远控自主（英语：Telerobotics）
+避障遥控（英语：Mobile robot#Guarded tele-op）
+线控机器人（英语：Mobile robot#Line-following robot）
+自主随机机器人（英语：Mobile robot#Autonomously randomized robot）
+自动引导机器人（英语：Mobile robot#Autonomously guided robot）
+滑动自主（英语：Mobile robot#Sliding autonomy）
+
+
+
+
+
+
+
+
+研究
+
+
+
+机器人学家
+机器人的领域（英语：Areas of robotics）
+机器人演化（英语：Evolutionary robotics）
+机器人工具组（英语：Robot kit）
+机器人模拟器（英语：Robotics simulator）
+Suite（英语：Robotics suite）
+开源（英语：Open-source robotics）
+软件（英语：Robot software）
+适应性（英语：Adaptable robotics）
+开发（英语：Developmental robotics）
+范式（英语：Robotic paradigms）
+普适（英语：Ubiquitous robot）
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 共享资源
+ 主题
+ 专题
+
+
+
+
+
+
+
+
+
+
+
+
+分类：机器人学隐藏分类：含有访问日期但无网址的引用的页面引文格式1维护：显式使用等标签含有过时参数的引用的页面含有捷克語的條目有未列明来源语句的条目含有英語的條目

@@ -1,0 +1,257 @@
+洗牌
+
+
+本文介紹的是有關牌類遊戲的洗牌。關於麻將的洗牌，請見「洗牌 (麻將)」。
+
+
+
+
+
+
+對切法洗牌
+
+
+洗牌（英语：Shuffling）是一種牌類遊戲的專用術語，是指將遊戲牌的排列順序打亂，使紙牌充分的混合[1]，使每一張牌被抽到的機率都相等的過程，以便開始遊戲或進行下一個牌局。洗牌一般會伴隨著切牌以幫助確保洗牌的過程中沒有人為操作的結果。
+
+
+
+目录
+
+
+1 洗牌方法
+
+1.1 人工洗牌
+
+1.1.1 交疊法
+1.1.2 側切法
+1.1.3 對切法
+1.1.4 印度洗牌法
+
+
+1.2 花式洗牌
+1.3 撲克自動洗牌機
+
+
+2 參見
+3 參考文獻
+4 外部連結
+
+
+
+洗牌方法[编辑]
+洗牌方法可以分為人工洗牌和機械洗牌，一般情況是人工洗牌，而機械洗牌為使用洗牌機等工具進行洗牌，一般在賭場最常見，另外有些紙牌，如UNO會附洗牌或發牌之機器。人工洗牌公平性較機械洗牌差，因為人工洗牌可能包含作弊的疑慮，或次數不足導致牌無法充分混合，又或者人工洗牌甚至能被洗牌者控制牌的位置，如魔術洗牌手法，可依洗牌者的意願排列紙牌順序。
+人工洗牌[编辑]
+人工洗牌是較常見的一種洗牌方法，不需要器具或工具，只須靠雙手即可完成。最常見的洗牌法是交疊法與對切法。
+交疊法[编辑]
+
+
+
+
+側切洗牌法，可以視為交疊法的一種
+
+
+交疊法是最常見且很簡單的洗牌方法。其流程為右手先握緊牌，左手將下半部的牌抽出，然後疊在上面那層牌之上，右手抓住左手拿的牌的上半部，左手再將下半部抽出，交疊與右手拿的牌的上方，重複以上動作直至牌疊完，亦可以改為左手拿牌。此種洗牌法簡單方便，但是對於一副新的撲克牌或是玩過排七或接龍的牌或是照順序排列的牌則可能無法徹底洗乾淨，可能還會存在少量連續的牌。
+側切法[编辑]
+側切法與交疊法作法一樣，差別在於交疊法是縱向洗牌，側切法是橫向洗牌。
+對切法[编辑]
+
+
+
+
+在對切洗牌之後，將牌彎回去的動作
+
+
+對切法，又稱為交錯式洗牌（英语：riffle）或燕尾洗牌法（英语：dovetail shuffle），是一種常見的洗牌方法，主要流程為先將牌分成兩半，以姆指扣緊牌，使牌彎曲，姆指逐漸鬆開向內撥牌，使兩疊牌交錯疊在一起，形成所謂的橋，再將它反向彎曲，使牌回到原位則完成一次洗牌。然而這種方法是比較困難的，因此通常在娛樂場中使用，因為它最小化了洗牌期間暴露牌卡的風險。這種洗牌方式雖然確實能洗得非常乾淨，但也有因為過度彎曲而損壞牌公平性的疑慮，因此在賭場中會經常替換牌，以防有人利用洗牌時造成牌彎曲程度不同而得到了優勢。
+吉爾伯特 - 杉農 - 里德模型 提供了對切洗牌法隨機結果的數學模型，已被實驗證明是一個很好適合人類洗牌法[2]，根據該模型形成的基礎，建議使用該洗牌法洗七次，能夠得到分佈最均勻的牌，徹底使它們均勻混合[3]。
+印度洗牌法[编辑]
+印度洗牌法（英语：Indian shuffle）也被稱為“Kattar”或“Kenchi”或“Kutti Shuffle”（印度文的剪刀），是交疊洗牌法的一種。印度洗牌法是一種很古老的洗牌方法，起源於印度，洗牌時將牌面朝下，用中指和拇指扣住牌，另一隻手將半疊牌抓住拉出，並使它掉到手掌上，重複該動作，直至所有的牌都已在另一隻手上。印度洗牌與一般的交疊法或側切法不同在於印度洗牌法是去上半疊，所有的操作都是在手上取牌。這種洗牌法是在亞洲和世界其他地區的最常見的洗牌手法，而交疊洗牌主要用於西方國家。
+花式洗牌[编辑]
+撲克自動洗牌機[编辑]
+撲克自動洗牌機（英语：Shuffling_machine）的歷史相當久，1878年Henry Ash即提出過自動洗牌機的設計，可一次放入多副撲克牌，提高洗牌的速度與降低作弊的可能性，洗牌機還可設定每付牌連續洗的次數，且每次都重新洗牌可有效杜絕廿一點算牌的問題。電動洗牌機剛發明時單價較高，主要使用於各大職業賭場，現已普及到各種娛樂場所及個人使用。
+參見[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：洗牌
+
+
+
+卡片遊戲
+
+參考文獻[编辑]
+
+
+
+^ 李萬傑 撲克牌魔術 撲克牌基本知識:洗牌 p13 益群書店出版 ISBN 957-552-020-3
+^ Diaconis, Persi, Group representations in probability and statistics, Institute of Mathematical Statistics Lecture Notes—Monograph Series, 11, Hayward, CA: Institute of Mathematical Statistics, 1988, ISBN 0-940600-14-5, MR 964069 .
+^ Kolata, Gina, In Shuffling Cards, 7 Is Winning Number, New York Times, January 9, 1990 .
+
+
+
+Aldous, David; Diaconis, Persi (1986). "Shuffling Cards and Stopping Times". American Mathematical Monthly 93 (5): 333–348. doi:10.2307/2323590. JSTOR 2323590.
+doi:10.1214/aoap/1177005705
+本引用來源將會在數十分鐘後自動完成。您可以检查英文对应模板或手動擴充
+Diaconis, Persi, Group Representations in Probability and Statistics (Lecture Notes Vol 11), Institute of Mathematical Statistics: 77–84, 1988, ISBN 978-0-940600-14-0 
+Diaconis, Persi, Mathematical Developments from the Analysis of Riffle Shuffling, Technical Report 2002-16 (PDF), Technical Reports 2002 (Stanford University Department of Statistics), 2002, （原始内容 (PDF)存档于2010-08-04） 
+doi:10.1016/0196-8858(83)90009-X
+本引用來源將會在數十分鐘後自動完成。您可以检查英文对应模板或手動擴充
+Mann, Brad, How many times should you shuffle a deck of cards?, UMAP Journal (Undergraduate Mathematics and Its Applications) (COMAP (Consortium for Mathematics and Its Applications)), Winter 1994, 15 (4): 303–332mirrored at Dartmouth College Chance Project: Teaching Aids: Articles, "How many times do you have to shuffle a deck of cards?"  请检查|year=, |year= / |date= mismatch中的日期值 (帮助)
+doi:10.1098/rspa.2000.0625
+本引用來源將會在數十分鐘後自動完成。您可以检查英文对应模板或手動擴充
+doi:10.1017/S0269964804183034
+本引用來源將會在數十分鐘後自動完成。您可以检查英文对应模板或手動擴充
+
+
+外部連結[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：洗牌
+
+
+Physical card shuffling:
+
+Illustrated guide to several shuffling methods
+Magicians tool with lots of shuffling simulation
+
+Mathematics of shuffling:
+
+Real World Shuffling In Practice
+Shuffle - MathWorld - Wolfram Research
+Ivars Peterson's MathTrek: Card Shuffling Shenanigans
+
+Real world (historical) application:
+
+How We Learned to Cheat at Online Poker: A Study in Software Security
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+紙牌遊戲
+
+
+
+
+
+
+術語
+
+
+
+卡片遊戲
+遊戲牌（撲克牌）
+洗牌
+切牌
+
+
+
+
+
+
+
+
+類型
+
+
+
+
+
+撲克牌
+
+
+
+
+撲克
+橋牌
+抽鬼牌
+排七
+大富豪
+廿一點
+锄大D
+红5
+梭哈
+十點半
+德州撲克
+吹牛
+妞妞
+九九
+傷心小棧
+撿紅點
+鬥地主
+升级
+殺手遊戲
+
+
+
+
+
+
+
+
+
+專用卡片遊戲
+
+
+
+
+四色牌
+歌留多
+花札
+UNO
+水瓶座
+種豆
+Bang!
+誰是牛頭王
+三國殺
+Victory 3
+大富翁Deal
+風聲
+神奇形色牌
+皇輿爭霸
+冷戰熱斗
+
+
+
+
+
+
+
+
+
+
+
+獎項
+
+
+
+Deutscher Spiele Preis
+Essen Feather
+Meeples' Choice Award
+門薩首選
+Origins Award
+德國年度遊戲獎
+Games 100
+Golden Geek Award
+
+
+
+
+
+
+
+
+
+
+
+
+分类：牌類遊戲隐藏分类：使用ISBN魔术链接的页面包含未完成DOI引用來源的頁面引文格式1错误：日期

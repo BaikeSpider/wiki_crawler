@@ -1,0 +1,1148 @@
+國際標準化組織
+
+
+「ISO」重定向至此。關於与此名称相似的其他条目，詳見「ISO (消歧义)」。
+
+
+
+國際標準化組織
+
+
+
+
+
+
+
+
+ISO成员国
+
+
+
+
+原名
+International Organization for Standardization（英文）
+Organisation internationale de normalisation（法文）
+Международная организация по стандартизации（俄文）[1]
+
+
+簡稱
+ISO
+
+
+成立時間
+1947年2月23日
+
+
+類型
+非政府组织
+
+
+目標
+制定國際標準
+
+
+總部
+瑞士日内瓦
+
+
+
+會員
+
+163个国家[2]
+
+
+
+官方語言s
+
+
+
+
+英语
+法语
+俄语[3]
+
+
+
+
+
+網站
+www.iso.org
+
+
+國際標準化組織（英语：International Organization for Standardization；法语：Organisation internationale de normalisation；俄语：Международная организация по стандартизации；简称：ISO[註 1]）成立於1947年2月23日，制定全世界工商業國際標準的國際標準建立機構。
+ISO總部設於瑞士日內瓦，成員包括162個會員國。該組織定義為非政府組織，官方語言是英語、法語和俄語。參加者包括各會員國的國家標準機構和主要公司。
+
+
+
+
+ISO會員分佈圖：藍色是會員（members），黑色是非會員，黃色是通訊會員（correspondent members），紅色是預定加入會員（subscriber members）
+
+
+ISO與負責電子設備標準的國際電工委員會密切合作。
+ISO的國際標準以數字表示，例如：「ISO 11180:1993」的「11180」是標準號碼，而「1993」是出版年份。
+
+
+
+目录
+
+
+1 历史
+2 部份國際標準列表
+3 注釋
+4 参考文献
+5 外部链接
+6 参见
+
+
+
+历史[编辑]
+今日被称为ISO的组织始于1926年国际标准化协会（International Federation of the National Standardizing Associations，簡稱ISA）。它在1942年第二次世界大战停止运作，战后ISA找上初成立的联合国标准协调委员会（United Nations Standards Coordinating Committee，簡稱UNSCC）提议成立一个新的全球标准团体。1946年10月，ISA和UNSCC的自25个国家代表齐聚伦敦，同意联合起来创建新的国际标准组织（ISO），1947年2月正式开始运作。
+中華人民共和國在1978年9月1日以中國標準化協會的名義參加ISO，並在1982年9月當選並連任理事國（1983年～1994年）。1985年和1989年，分別改由國家標準局和國家技術監督局參加。2001年起，在ISO代表中華人民共和國會籍的會員機構是國家標準化管理委員會。2013年9月21日，中國標準化專家委員會委員、國際鋼鐵協會副主席張曉剛，當選國際標準化組織主席，是ISO自1947年成立以來首次由中國人任主席。ISO是國際經貿活動的重要規則。
+香港和澳門均是ISO通訊成員（correspondent members）。
+中華民國原是ISO創始國之一，雖然目前中華民國已經不是ISO成員，但《中華民國國家標準》（CNS）通常參考ISO標準。
+部份國際標準列表[编辑]
+更多信息：ISO標準列表
+因為中文不是ISO的官方語言，所以ISO標準沒有正式中文名稱。
+
+
+國際標準號
+英文名稱
+類似的中華民國國家標準（CNS）總號及名稱
+類似的中華人民共和國國家標準（GB）號和名稱
+
+
+ISO 31-0
+Quantities and units -- Part 0: General principles
+CNS 11296量、單位及符號之總則
+GB 3101有關量、單位和符號的一般原則
+
+
+ISO 216
+Writing paper and certain classes of printed matter -- Trimmed sizes -- A and B series
+CNS 5紙張尺度（裁切後）
+GB/T 148-1997印刷、書寫和繪圖紙幅面尺寸
+
+
+ISO 639
+Codes for the representation of names of languages
+CNS 13188 語言名稱代碼表示法
+GB/T 4880語種名稱代碼
+
+
+ISO/IEC 646
+Information technology -- ISO 7-bit coded character set for information interchange
+CNS 5205資訊技術–資訊交換用七位元碼字元集
+GB/T 1988信息技術信息交換用七位編碼字符集（參看美國信息互換標準代碼（ASCII））
+
+
+ISO 690
+Documentation -- Bibliographic references -- Content, form and structure
+CNS 13611學術論著參考書目格式
+
+
+
+ISO 1000
+SI units and recommendations for the use of their multiples and of certain other units
+CNS 10987 國際單位制（SI）
+GB 3100 國際單位制及其應用
+
+
+ISO/IEC 2022
+Information technology -- Character code structure and extension techniques
+CNS 7654資訊技術-字元碼結構及延伸技術
+GB/T 2311信息技術字符代碼結構與擴充技術
+
+
+ISO 2108
+Information and documentation -- International standard book numbering（ISBN）
+CNS 12864國際標準書號
+GB/T 5795中國標準書號（與ISO 2108國際標準書號（ISBN）等效採用，而不是等同採用）
+
+
+ISO 2145
+
+
+
+
+
+ISO 3166
+Codes for the representation of names of countries and their subdivisions
+CNS 12842 國家名稱代碼表示法
+GB/T 2659世界各國和地區名稱代碼
+
+
+ISO 4217
+Codes for the representation of currencies and funds
+CNS 12873 貨幣及基金代碼之表示法
+GB/T 12406-1996表示貨幣和資金的代碼
+
+
+ISO/IEC 4873
+Information processing - ISO 8-bit code for information interchange - Structure and rules for implementation
+CNS 7656資訊技術-資訊交換用八位元碼-實作結構及規則
+GB/T 11383-89信息處理信息交換用八位代碼結構和編碼規則
+
+
+ISO 5218
+Information interchange -- Representation of human sexes
+CNS 8381資訊交換-人類性別表示法
+GB/T 2261-1980人的性別代碼（與國際標準無採用關係）
+
+
+ISO 6709
+Standard representation of latitude, longitude and altitude for geographic point locations
+CNS 13524地理點位置之經度緯度及海拔高度之標準表示法
+GB/T 16831-1997地理點位置的緯度、經度和高程的標準表示法
+
+
+ISO 7001
+Public Information Symbols
+
+GB 10001-94公共信息標誌用圖形符號（與國際標準為非等效採用）
+
+
+ISO 7098
+Information and documentation -- Romanization of Chinese
+（中文羅馬字母拼寫法）
+
+
+
+ISO 7816
+
+電子識別卡標準（特別是智慧卡）
+
+
+ISO 8601
+Data elements and interchange formats -- Information interchange -- Representation of dates and times
+CNS 7648資料元及交換格式–資訊交換–日期及時間的表示法
+GB/T 7408-94數據元和交換格式信息交換日期和時間表示法
+
+
+ISO/IEC 8859-1
+Information technology -- 8-bit single-byte coded graphic character sets - Part 1: Latin alphabet No. 1
+CNS 13246資訊處理–8位元單一位元組碼化圖形字元集（第1部：拉丁字母第一號）
+GB/T 15273.1-94信息處理八位單字節編碼圖形字符集第一部分：拉丁字母一
+
+
+ISO/IEC 8859-2
+Information technology -- 8-bit single-byte coded graphic character sets - Part 2: Latin alphabet No. 2
+CNS 13247資訊處理–8位元單一位元組碼化圖形字元集（第2部：拉丁字母第二號）
+GB/T 15273.2-1995信息處理八位單字節編碼圖形字符集第二部分：拉丁字母二
+
+
+ISO/IEC 8859-3
+Information technology -- 8-bit single-byte coded graphic character sets - Part 3: Latin alphabet No. 3
+CNS 13325資訊處理–8位元單一位元組碼化圖形字元集（第3部：拉丁字母第三號）
+GB/T 15273.3-1995信息處理八位單字節編碼圖形字符集第三部分：拉丁字母三
+
+
+ISO/IEC 8859-4
+Information technology -- 8-bit single-byte coded graphic character sets - Part 4: Latin alphabet No. 4
+CNS 13326資訊處理–8位元單一位元組碼化圖形字元集（第4部：拉丁字母第四號）
+GB/T 15273.4-1995信息處理八位單字節編碼圖形字符集第四部分：拉丁字母四
+
+
+ISO/IEC 8859-5
+Information technology -- 8-bit single-byte coded graphic character sets - Part 5: Latin / Cyrillic alphabet
+CNS 13327資訊處理–8位元單一位元組碼化圖形字元集（第5部：拉丁／斯拉夫字母）
+
+
+
+ISO/IEC 8859-6
+Information technology -- 8-bit single-byte coded graphic character sets - Part 6: Latin / Arabic alphabet
+CNS 13384資訊處理–8位元單一位元組碼化圖形字元集（第6部：拉丁／阿拉伯字母）
+
+
+
+ISO/IEC 8859-7
+Information technology -- 8-bit single-byte coded graphic character sets - Part 7: Latin / Greek alphabet
+CNS 13385資訊處理–8位元單一位元組碼化圖形字元集（第7部：拉丁／希臘字母）
+GB/T 15273.7-1996信息處理八位單字節編碼圖形字符集第7部分：拉丁/希臘字母
+
+
+ISO/IEC 8859-8
+Information technology -- 8-bit single-byte coded graphic character sets - Part 8: Latin / Hebrew alphabet
+CNS 13386資訊處理–8位元單一位元組碼化圖形字元集（第8部：拉丁／希伯來字母）
+
+
+
+ISO/IEC 8859-9
+Information technology -- 8-bit single-byte coded graphic character sets - Part 9: Latin alphabet No. 5
+CNS 13328資訊處理–8位元單一位元組碼化圖形字元集（第9部：拉丁字母第五號）
+
+
+
+ISO 9000
+Quality management systems -- Fundamentals and vocabulary
+CNS 12680 品質管理系統-基本原理與詞彙
+GB/T 19000 質量管理體系基礎和術語
+
+
+ISO/IEC 10646
+Information technology -- Universal Multiple-Octet Coded Character Set（UCS）
+CNS 14649資訊技術-廣用多八位元編碼字元集（UCS）
+GB 13000信息技術通用多八位編碼字符集（參看Unicode）
+
+
+ISO 11180
+Postal addressing
+（郵政地址書寫）
+（郵政地址書寫）
+
+
+ISO 14001
+Environmental management systems -- Specification with guidance for use
+CNS 14001 環境管理系統-附使用指引之規範
+GB/T 24001-1996 環境管理體系規範及使用指南
+
+
+ISO 27000
+Information technology -- Security techniques -- Information security management systems -- Overview and vocabulary
+
+
+
+
+ISO/IEC 27001:2013
+Information technology -- Security techniques -- Information security management systems --Requirements
+CNS 27001資訊技術-安全技術-資訊安全管理系統-要求事項
+
+
+
+ISO/IEC 27002:2013
+Information technology -- Security techniques -- Code of practice for information security management
+CNS 27002資訊技術-安全技術-資訊安全管理之作業規範
+
+
+
+ISO 27799:2008
+Health informatics—Information security management in health using ISO/IEC 27002
+
+
+
+
+ISO/IEC 80000
+各種物理單位的國際標準（舊的標準為ISO 31與部份的IEC 60027）
+
+
+
+
+ISO/IEC 25051:2014
+Software engineering -- Systems and software Quality Requirements and Evaluation (SQuaRE) -- Requirements for quality of Ready to Use Software Product (RUSP) and instructions for testing
+
+
+
+
+注釋[编辑]
+
+
+^ 国际标准化组织的简称“ISO”源於希腊语isos，有「同一」之意。并非其英语或法语名称的缩写。
+
+
+参考文献[编辑]
+
+
+^ 国际标准化组织的三个正式全名可以在PDF文档的开头序言处找到：ISO/IEC Guide 2:2004 Standardization and related activities — General vocabulary (PDF). （原始内容存档 (PDF)于2011年7月21日）. 
+^ ISO members. International Organization for Standardization. （原始内容存档于2015-02-09）. 
+^ How to use the ISO Catalogue. ISO.org. （原始内容存档于4 October 2007）. 
+
+
+外部链接[编辑]
+
+官方网站（法文）（英文）（俄文）
+
+ISO英文官方网站：[1]
+ISO的歷史（法文）：[2]
+ISO 9000 [3]
+ISO 14000 [4]
+ISO 22000 [5]
+
+
+
+参见[编辑]
+
+
+国际关系主题
+技术主题
+
+
+
+国际标准
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ISO標準
+
+
+
+
+
+
+
+
+
+列表
+国际标准化组织的标准列表（英语：List of International Organization for Standardization standards）
+国际标准化组织拉丁化方案列表
+国际电工委员会标准列表（英语：List of IEC standards）
+
+
+
+
+
+
+
+
+1–9999
+
+
+
+1
+2
+3（英语：Preferred number）
+4
+5
+6
+7（英语：ISO 7）
+9
+16
+31
+
+-0（英语：ISO 31-0）
+-1（英语：ISO 31-1）
+-2（英语：ISO 31-2）
+-3（英语：ISO 31-3）
+-4（英语：ISO 31-4）
+-5（英语：ISO 31-5）
+-6（英语：ISO 31-6）
+-7（英语：ISO 31-7）
+-8（英语：ISO 31-8）
+-9（英语：ISO 31-9）
+-10（英语：ISO 31-10）
+-11（英语：ISO 31-11）
+-12（英语：ISO 31-12）
+-13（英语：ISO 31-13）
+
+
+128
+216
+217（英语：ISO 217）
+226（英语：ISO 226）
+228（英语：British standard pipe thread）
+233
+259
+269
+302（英语：Kappa number）
+306（英语：Vicat softening point）
+428（英语：ISO 428）
+518
+519
+639
+
+-1
+-2
+-3
+-5
+-6
+
+
+646
+690
+732
+764（英语：Antimagnetic watch）
+843
+898（英语：ISO 898）
+965（英语：ISO 965）
+1000
+1004（英语：Magnetic ink character recognition）
+1007
+1073-1（英语：OCR-A font）
+1413（英语：ISO 1413）
+1538
+1745（英语：ISO 1745）
+1989
+2014（英语：ISO 2014）
+2015（英语：ISO 2015）
+2022
+2047（英语：ISO 2047）
+2108
+2145
+2146（英语：ISO 2146）
+2240
+2281（英语：Water Resistant mark）
+2709（英语：ISO 2709）
+2711（英语：ISO 2711）
+2788（英语：ISO 2788）
+2852（英语：ISO 2852）
+3029（英语：126 film）
+3103
+3166
+
+-1
+-2
+-3
+
+
+3297
+3307（英语：ISO 3307）
+3602
+3864（英语：ISO 3864）
+3901
+3977（英语：ISO 3977）
+4031（英语：ISO 4031）
+4157（英语：ISO 4157）
+4217
+4909（英语：ISO/IEC 4909）
+5218
+5428（英语：ISO 5428）
+5775（英语：ISO 5775）
+5776（英语：ISO 5776）
+5800
+5964（英语：ISO 5964）
+6166
+6344（英语：ISO 6344）
+6346（英语：ISO 6346）
+6385（英语：ISO 6385）
+6425（英语：Water Resistant mark）
+6429（英语：ANSI escape code）
+6438
+6523（英语：ISO 6523）
+6709
+7001（英语：ISO 7001）
+7002（英语：ISO 7002）
+7098
+7185
+7200（英语：ISO 7200）
+7498
+7736（英语：ISO 7736）
+7810
+7811（英语：ISO/IEC 7811）
+7812（英语：ISO/IEC 7812）
+7813（英语：ISO/IEC 7813）
+7816（英语：ISO/IEC 7816）
+8000（英语：ISO 8000）
+8178（英语：ISO 8178）
+8217
+8571（英语：FTAM）
+8583（英语：ISO 8583）
+8601
+8632
+8652（英语：ISO/IEC 8652）
+8691（英语：ISO 8691）
+8807（英语：Language Of Temporal Ordering Specification）
+8820-5（英语：ISO/IEC 8820-5）
+8859
+
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-8-I（英语：ISO-8859-8-I）
+-9
+-10
+-11
+-12
+-13
+-14
+-15
+-16
+
+
+8879
+9000/9001
+9075
+9126（英语：ISO/IEC 9126）
+9293
+9241（英语：ISO 9241）
+9362
+9407
+9506（英语：Manufacturing Message Specification）
+9529（英语：ISO 9529）
+9564（英语：ISO 9564）
+9594
+9660
+9897（英语：ISO 9897）
+9899
+9945
+9984
+9985
+9995
+
+
+
+
+
+
+
+
+10000–19999
+
+
+
+10005（英语：ISO 10005）
+10006（英语：ISO 10006）
+10007（英语：ISO 10007）
+10116（英语：ISO/IEC 10116）
+10118-3（英语：Whirlpool (cryptography)）
+10160（英语：ISO 10160）
+10161（英语：ISO 10161）
+10165（英语：Guidelines for the Definition of Managed Objects）
+10179（英语：Document Style Semantics and Specification Language）
+10206
+10218（英语：ISO 10218）
+10303
+
+-11（英语：EXPRESS (data modeling language)）
+-21
+-22（英语：ISO 10303-22）
+-28（英语：ISO 10303-28）
+-238（英语：STEP-NC）
+
+
+10383（英语：ISO 10383）
+10487（英语：ISO 10487）
+10585
+10589
+10646
+10664
+10746（英语：RM-ODP）
+10861（英语：Multibus）
+10957（英语：International Standard Music Number）
+10962（英语：ISO 10962）
+10967（英语：ISO/IEC 10967）
+11073（英语：ISO/IEEE 11073）
+11170（英语：ISO 11170）
+11179（英语：ISO/IEC 11179）
+11404（英语：ISO/IEC 11404）
+11544
+11783（英语：ISO 11783）
+11784（英语：ISO 11784 & 11785）
+11785（英语：ISO 11784 & 11785）
+11801
+11898
+11940 (-2（英语：ISO 11940-2）)
+11941（英语：ISO/TR 11941）
+11941 (TR)（英语：ISO/TR 11941）
+11992（英语：ISO 11992）
+12006（英语：ISO 12006）
+12182（英语：ISO/IEC TR 12182）
+12207（英语：ISO/IEC 12207）
+12234-2（英语：Tag Image File Format / Electronic Photography）
+13211
+
+-1
+-2
+
+
+13216（英语：Isofix）
+13250
+13399（英语：ISO 13399）
+13406-2（英语：ISO 13406-2）
+13450（英语：110 film）
+13485（英语：ISO 13485）
+13490（英语：ISO 13490）
+13567（英语：ISO 13567）
+13568（英语：Z notation）
+13584（英语：ISO 13584）
+13616
+14000
+14031
+14224（英语：ISO 14224）
+14289（英语：PDF/UA）
+14396
+14443
+14496
+
+-2（英语：MPEG-4 Part 2）
+-3（英语：MPEG-4 Part 3）
+-6（英语：Delivery Multimedia Integration Framework）
+-10
+-11（英语：MPEG-4 Part 11）
+-12（英语：MPEG-4 Part 12）
+-14
+-17
+-20
+
+
+14644（英语：ISO 14644）
+14649（英语：STEP-NC）
+14651（英语：ISO 14651）
+14698（英语：ISO 14698）
+14750（英语：ISO 14750）
+14764
+14882
+14971（英语：ISO 14971）
+15022（英语：ISO 15022）
+15189（英语：ISO 15189）
+15288（英语：ISO/IEC 15288）
+15291（英语：Ada Semantic Interface Specification）
+15292（英语：ISO 15292）
+15398（英语：ISO 15398）
+15408（英语：Common Criteria）
+15444
+
+-3（英语：Motion JPEG 2000）
+
+
+15445
+15438
+15504
+15511（英语：International Standard Identifier for Libraries and Related Organizations）
+15686（英语：ISO 15686）
+15693（英语：ISO/IEC 15693）
+15706
+
+-2（英语：ISO 15706-2）
+
+
+15707（英语：International Standard Musical Work Code）
+15897（英语：ISO 15897）
+15919
+15924
+15926（英语：ISO 15926）
+15926 WIP（英语：ISO 15926 WIP）
+15930（英语：PDF/X）
+16023（英语：MaxiCode）
+16262
+16612-2（英语：PDF/VT）
+16750（英语：ISO 16750）
+16949 (TS)（英语：ISO/TS 16949）
+17024（英语：ISO/IEC 17024）
+17025（英语：ISO/IEC 17025）
+17100（英语：ISO 17100:2015）
+17203
+17369（英语：SDMX）
+17442（英语：Legal Entity Identifier）
+17799
+18000（英语：ISO/IEC 18000）
+18004
+18014（英语：ISO/IEC 18014）
+18245（英语：ISO 18245）
+18629（英语：Process Specification Language）
+18916（英语：Photographic Activity Test）
+19005
+19011（英语：ISO 19011）
+19092 (-1（英语：ISO 19092-1）
+-2)（英语：ISO 19092-2）
+19114（英语：ISO 19114）
+19115（英语：ISO 19115）
+19125（英语：Simple feature access）
+19136
+19439（英语：ISO 19439）
+19500
+19501
+19502
+19503（英语：XML Metadata Interchange）
+19505
+19506（英语：Knowledge Discovery Metamodel）
+19507（英语：Object Constraint Language）
+19508
+19509（英语：XML Metadata Interchange）
+19510
+19600:2014（英语：ISO 19600:2014）
+19752（英语：ISO/IEC 19752）
+19757（英语：RELAX NG）
+19770（英语：ISO/IEC 19770）
+19775-1
+19794-5（英语：ISO/IEC 19794-5）
+19831（英语：Cloud Infrastructure Management Interface）
+
+
+
+
+
+
+
+
+20000+
+
+
+
+20000
+20022（英语：ISO 20022）
+20121（英语：ISO 20121）
+20400（英语：ISO 20400）
+21000
+21047（英语：International Standard Text Code）
+21500（英语：ISO 21500）
+21827:2002（英语：ISO/IEC 21827）
+22000（英语：ISO 22000）
+23270
+23271
+23360
+24517（英语：PDF/E）
+24613
+24617（英语：ISO-TimeML）
+24707（英语：Common Logic）
+25178（英语：ISO 25178）
+25964（英语：ISO 25964）
+26000（英语：ISO 26000）
+26300
+26324
+27000 series
+27000（英语：ISO/IEC 27000）
+27001:2005（英语：ISO/IEC 27001:2005）
+27001:2013（英语：ISO/IEC 27001:2013）
+27002
+27006（英语：ISO/IEC 27006）
+27729
+28000（英语：ISO/PAS 28000）
+29110（英语：ISO 29110）
+29148（英语：Requirements engineering）
+29199-2
+29500
+30170
+31000（英语：ISO 31000）
+32000
+38500（英语：ISO/IEC 38500）
+40500（英语：Web Content Accessibility Guidelines）
+42010（英语：ISO/IEC 42010）
+55000（英语：ISO 55000）
+80000
+
+-1（英语：ISO 80000-1）
+-2（英语：ISO 80000-2）
+-3（英语：ISO 80000-3）
+
+
+
+
+
+
+
+
+
+
+
+
+
+参见：
+ ISO标准
+所有前缀有“ISO”的页面
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+世界主义和世界政府
+
+
+
+
+
+
+理论
+
+
+
+超国家主义
+联邦主义
+邦联
+政府间主义
+反民族主义
+全球化
+民主和平論
+價值觀外交
+全球帝國
+世界主义
+超国家联盟
+世界和平
+联邦
+全球主義
+
+
+
+
+
+
+
+
+主要国际组织
+
+
+
+联合国（UN）
+红十字国际委员会（ICRC）
+红十字会与红新月会国际联合会（IFRC）
+世界贸易组织（WTO）
+世界银行（WBG）
+国际货币基金组织（IMF）
+国际刑警组织（ICPO）
+国际标准化组织（ISO）
+二十国集团（G20）
+
+
+
+
+
+
+
+
+国际议会组织
+
+
+
+各国议会联盟
+联合国大会
+欧洲议会
+阿拉伯议会
+突厥议会
+非洲议会
+拉丁美洲议会
+南美洲议会
+
+
+
+
+
+
+
+
+国际司法机构
+
+
+
+常设仲裁法院
+国际法院
+国际刑事法院
+
+
+
+
+
+特設國際刑事庭
+
+
+
+
+欧洲国际军事法庭
+远东国际军事法庭
+前南刑庭
+卢旺达刑庭
+柬埔寨法院特别法庭
+东帝汶国际法庭
+联合国黎巴嫩特别法庭
+塞拉利昂特别法庭
+
+
+
+
+
+
+
+
+區域性法庭
+
+
+
+
+美洲国家人权法庭
+欧洲法院
+欧洲人权法院
+非洲法庭
+加勒比法庭
+
+
+
+
+
+
+
+
+
+
+
+區域性组织
+
+亚洲太平洋经济合作组织（APEC）
+
+东南亚国家联盟（ASEAN）
+太平洋共同体（SPC）
+太平洋岛国论坛（PIF）
+上海合作组织（SCO）
+英联邦
+西非国家经济共同体（CEDEAO）
+中部非洲国家经济共同体（CEEAC）
+法语圈国际组织（La Francophonie）
+北大西洋公约组织（NATO）
+集体安全条约组织（CSTO）
+欧洲委员会（CoE）（非欧盟机构）
+欧洲联盟（EU）
+拉丁语联盟（LU）
+非洲联盟（AU）
+阿拉伯国家联盟（AL）
+伊斯兰会议组织（OIC）
+南亚区域合作联盟（SAARC）
+东非共同体（EAC）
+加勒比國家聯盟（ACS）
+中美洲统合体（SICA）
+南美洲国家联盟（USAN）
+美洲国家组织（OAS）
+獨立國家聯合體（CIS）
+南方共同市場（Mercosur）
+亚洲基础设施投资银行（AIIB）
+
+
+
+
+
+
+
+
+法律和条约
+
+
+
+国际法
+国际人道法
+国际私法
+超国家法
+日内瓦公约
+联合国宪章
+国际刑事法院罗马规约
+京都议定书
+欧洲联盟基本条约
+欧盟法律
+巴黎協議
+
+
+
+
+
+
+
+
+历史
+
+
+
+国际联盟
+華沙公约组织
+共产国际
+大東亞共榮圈
+经济互助委员会
+大英帝国
+
+
+
+
+
+
+
+
+建议和观念
+
+
+
+世界政府
+联合国议会大会
+非洲合众国
+中亚联盟
+太平洋同盟
+北美洲联盟
+欧洲合众国
+東亞共同體（EAC）
+中華聯邦
+
+
+
+
+
+
+
+
+国际运动
+
+
+
+国际红十字与红新月运动
+世界联邦运动
+全球公民运动
+世界公民
+
+
+
+
+
+
+
+
+文化
+
+
+
+巴哈伊信仰
+国际辅助语
+世界语
+逻辑语
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 149705257
+LCCN: n79034445
+ISNI: 0000 0001 2182 7734
+GND: 1008314-5
+SUDOC: 026467984
+BNF: cb118710878（数据）
+NLA: 35232591
+NDL: 00288472
+NKC: ko2003181181
+
+
+
+
+
+
+
+
+
+
+
+
+分类：ISO非政府间国际组织标准制订机构社会责任组织1947年建立的組織隐藏分类：含有英語的條目含有法語的條目含有俄語的條目含有拉丁語的條目维基百科和维基数据上的官方网站不同包含规范控制信息的维基百科条目

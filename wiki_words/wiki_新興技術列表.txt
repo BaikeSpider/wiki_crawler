@@ -1,0 +1,1722 @@
+新興技術列表
+
+
+
+
+
+
+本條目存在以下問題，請協助改善本條目或在討論頁針對議題發表看法。
+
+
+
+
+
+
+本条目需要擴充。（2013年6月22日） 
+请協助改善这篇條目，更進一步的信息可能會在討論頁或扩充请求中找到。请在擴充條目後將此模板移除。 
+
+
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。（2013年6月22日） 
+請邀請適合的人士改善本条目。更多的細節與詳情請參见討論頁。 
+
+
+
+
+
+
+
+这是一個动态的未完成列表，内容可能随时出现变动，所以这个列表可能永远也不会補充完整。歡迎您隨時修改并列明来源。
+新興技術列表，泛指當科技日新月異，在未來可能實用化或對人類造成重大影響的新興技術。
+
+
+
+目录
+
+
+1 农业
+2 能源技術
+3 交通
+4 資訊技術
+5 生物技術，生物信息學
+6 機器人與應用力學
+7 材料科學
+8 其他
+9 參考文獻
+
+9.1 引用
+9.2 来源
+
+
+10 外部連結
+
+
+
+农业[编辑]
+
+
+新興技術
+狀態
+可能導致過時的技術
+可能應用於
+相關
+
+
+农业机器人[1]
+研究发展阶段，实验项目
+
+
+
+
+
+封闭生态系统[2][3][4]
+研究发展阶段， 演示（如生物圈二号）
+农业科学
+农业，科学研究，太空移民
+温室, 生物圈二号, 伊甸園計畫, 生物温室, 海水温室, 永久收获温室系统
+
+
+人工肉肉
+研究发展阶段[5][6]
+畜牧业, 渔业[6]
+更人道、健康、便宜的肉[6]
+新收获
+
+
+精准农业
+研究发展扩散阶段
+
+
+
+
+
+垂直农法
+研究发展试验扩散阶段[7][8][9]
+精耕细作
+粮食肉类产量
+
+
+
+能源技術[编辑]
+
+
+新興技術
+狀況
+要取代的技術
+可能應用於
+相關
+
+
+核聚变/核融合
+理論與實驗超過50年
+化石燃料、可再生能源、核裂變
+發電、太空運輸
+ITER、NIF、W7-X、EAST、KSTAR
+
+
+生質燃料
+擴散
+化石燃料
+能源儲存，特別是交通運輸
+
+
+
+氫經濟
+擴散（氫燃料電池）；以理論和實驗減低成本
+其它能源儲存技術（常規電池、化石燃料）
+能源儲存
+
+
+
+纳米线电池
+工作原型中
+其它能源儲存技術（氫、常規電池及在某些情況下的化石燃料）
+手提電腦、手機及大容量的電動車。為電網存儲電力
+
+
+
+双电层电容器
+擴散及持續開發中
+常規電池
+再生制動；一般的快速充電，更持久、更靈活或綠色儲能技術
+
+
+
+无线能量传输
+工作原型中／擴散及短距離消費產品
+电池
+無線供電設備（手提電腦及手機等）
+WiTricity、共振能量傳輸
+
+
+交通[编辑]
+
+
+新興技術
+狀態
+可能導致過時的技術
+可能應用於
+相關
+
+
+電動車
+小型生產, 基礎設施投資
+内燃机,作行車動力之用的石油產品
+可持續運輸
+雪佛蘭伏特, Better Place, Riversimple, 特斯拉汽車, Nissan Leaf
+
+
+个人快速運輸系统
+工作原型中
+傳統鐵路/巴士的公共交通; 減少一人一車的需要
+可持續運輸
+
+
+
+個人航空器（英语：Personal air vehicle）
+商業化生產
+商業航空公司
+
+
+
+
+预冷喷气发动机
+實驗室驗證預冷器
+亚音速喷气发动机
+高速及長途的空中或太空旅行
+Reaction Engines A2, Reaction Engines Skylon, ATREX
+
+
+超音速燃烧冲压发动机
+工作原型中
+超高音速喷气发动机, 火箭發動機
+高速的空中旅行
+
+
+
+非火箭航天发射
+
+发射环
+Lightcraft
+質量投射器
+太空槍
+太空電梯
+太空噴泉
+
+
+理論和部分實驗
+火箭
+太空殖民, 大眾太空旅行, 處置放射性廢料
+
+
+
+資訊技術[编辑]
+
+
+新興技術
+狀態
+可能導致過時的技術
+可能應用於
+相關
+
+
+人工智能
+理論和實驗; 有限的專業領域應用
+人類決策, 分析等
+創建智能機器
+人工智能的应用
+
+
+5G通訊
+研究开发中
+4G，LTE
+普適計算
+手機寬頻, 手機電視, 互動電視, 3D-TV
+
+
+机器翻译
+樣品及研究中
+人手自然語言翻譯, 誤解非關鍵的字和語言變得形式化
+更簡單的跨文化交際
+
+
+
+机器视觉
+樣品及研究中
+生物視覺, 人類的視覺感知
+計量及控制過程(如無人車及自动导向搬运车), 檢測事件(如監控), interaction(如人機交互), 機械人視覺
+计算机视觉, 模式識別, 數位影像處理
+
+
+機器增強認知/exocortices
+原始擴增的擴散; 更多工作原型; 理論和實驗大量擴增
+圖書館, 學校, 訓練, 口袋計算機
+
+
+
+
+语义网 或 回答機器
+樣品及研究中, 如
+搜索引擎
+
+
+
+
+通用图形处理器
+非標準化方法的擴散
+CPU的一些特殊應用
+
+
+
+
+固态硬盘
+擴散; 大容量開發中
+硬盘
+不易破碎, 低質量(更輕的laptop comput和便攜式電子產品), 更快, 更靜, 低耗電存儲
+
+
+
+三維光學數據存儲 或 全息存储
+樣品及研究中
+所有其他光學數據存儲解決方案, 磁帶數據存儲, 及其它大容量存儲設備
+以住的存儲和存檔的數據被擦除
+Holographic Disc Ultra HD ,Sony及其它大型公司對這技術感興趣
+
+
+自旋電子學
+工作原型中
+機械磁性固態硬盤
+數據存儲
+MRAM
+
+
+光学计算机
+理論及實驗 - 部分集成電路的部件已經開發成功
+許多集成電路和其它電子設備
+更小, 更快, 更低耗電
+
+
+
+量子计算机
+理論及實驗
+计算机, 光学计算机
+對於部分的問題有更快的计算, 如化學模型, 新材料的編程性能, 高溫超導體及超流體的理論
+
+
+
+量子密碼學
+商業化
+
+通信安全
+
+
+
+無線通信
+擴散
+有線通信
+無處不在的網絡連接
+
+
+
+無螢幕顯示
+理論及實驗
+顯示器
+擴增實境, 虛擬現實
+虛擬現實顯示, 自動適應光學
+
+
+三維顯示
+理論及實驗, 商業化
+CRT, LCD, 及其它顯示技術
+電視, 電腦介面, 電影院a
+Autostereoscopic display, stereoscopic display, volumetric display, 全息顯示, 任天堂3DS
+
+
+有机发光半导体
+首部OLED TV於2008年發佈, Sony XEL-1
+LCD及負離子顯示
+顯示器; 燈光
+显示技术的比较
+
+
+干涉調製顯示
+商業化及開發中
+阴极射线管, LCD, 等離子電視, 電子紙及其他相關科技
+不發光的顯示器在所有顯示技術中有有快速反應時間及最逼真的色彩
+干涉調製顯示器, 显示技术的比较
+
+
+雷射顯示
+首部雷射電視於2008年發佈, Mitsubishi LaserVue TV
+LCD及等離子電視
+顯示器具有非常廣泛的色域
+雷射電視, 显示技术的比较
+
+
+Phased array optics
+理論
+商業化的顯示設備(如電視)
+大規模生產的三維圖像y
+
+
+
+全息摄影
+擴散
+显示技术
+
+
+
+
+憶阻器
+即將上市
+部分目前的集成電路, 大部分其它電子設備
+更小, 更快, 低耗電存儲, 模拟集成电路, 人工智能
+3D XPoint memory
+
+
+立體打印
+商業化生產中
+
+快速原型和生產, 打印對象不僅限於塑料, 包括多種材料, 有可能成為顯著的個人消費定制產品
+RepRap项目
+
+
+Thermal copper pillar bump
+分立器中的工作原型
+傳統的散熱解決方案, 散熱片, bulk thermoelectrics
+電路冷卻; 微流體驅動器; 小型電熱發電設備
+
+
+
+浸入式虛擬現實
+商業化擴散中
+consensus reality
+一個人造環境中，用戶感覺就像他們沉浸在現實中
+浸入式技術, simulated reality, 全息成像台 (虛構)
+
+
+生物技術，生物信息學[编辑]
+
+
+科技
+目前進展
+可能取代的技術
+潛在應用
+
+
+人工子宮
+假說，研究（動物試驗進行中）
+保溫箱、試管嬰兒
+長途太空旅行、體外懷孕、同性生殖
+
+
+體內植入物、義肢
+動物實驗（大腦植入物）、臨床實驗（胰島素泵）、商業生產（心律及調節器、人工關結）
+許多醫學技術、軍事科技
+義肢、半機器人
+
+
+人體冷凍技術
+假說、研究、商業化（屍體冰存）
+墓園
+生命延長
+
+
+去滅絕
+研究、發展、實驗
+
+畜牧業、寵物、動物園、生物保育
+
+
+遺傳工程
+實驗、發展、商業化[10][11]
+各種醫學技術、育種、農藥
+治療遺傳疾病、基改作物、超人類、優生學
+
+
+冬眠
+研究、發展、動物實驗[12]
+麻醉
+器官移植、長途太空旅行、長時間手術、緊急照護
+
+
+機器人與應用力學[编辑]
+
+
+新興技術
+狀態
+可能導致過時的技術
+可能應用於
+相關
+
+
+Swarm robotics
+理論與實驗
+分佈式計算
+自主建設, 空間建設
+
+
+
+分子納米技術, 納米機器人
+理論與實驗
+小產品和部件
+
+
+
+
+動力服
+原型和擴散, 研究和開發, 商業化 [13]
+電動輪椅車, forklifts
+Heavy lifting, 癱瘓,肌肉相關疾病,戰爭,建設
+
+
+
+Hi MEMS
+樣機, 研究和開發 [14]
+國防研究, Biorobotics
+隱形機器人,自主防禦系統
+
+
+
+材料科學[编辑]
+
+
+新興技術
+狀態
+可能導致過時的技術
+可能應用於
+相關
+
+
+高溫超導
+低溫接收機前端 (CRFE) 無線電頻率和微波濾波器（英语：RF and microwave filter）系統的移動電話基站; 在乾冰中的工作原型; 理論與實驗在更高溫中
+銅線
+無損失導體, 無摩擦軸承, 磁懸浮, 無損大容量蓄電池, 電動車
+
+
+
+高溫超流
+超流陀螺儀已經存在，但需在非常低的溫度下工作
+機械陀螺儀
+高精度重力測量, 導航和機動設備。 潛在制度產生重力磁場的設備, 無摩擦的機械設備
+
+
+
+納米材料: 納米碳管
+擴散, 理論, 偶爾在使用中和實驗
+鋼和鋁的結構
+更強,更輕,更智能的材料, 太空電梯
+
+
+
+超材料
+擴散
+傳統光學
+顯微鏡, 相機, 隱形裝置
+
+
+
+自我修復材料
+實驗演示
+大部分複合材料
+自我健康監測, 自我癒合, 變形
+
+
+
+可編程物質
+理論與實驗
+鍍膜, 催化劑
+Claytronics（英语：Claytronics）, 合成生物學
+
+
+
+量子點
+研究與實驗, 工作原型
+LCD, LED
+量子點激光的未來可結合使用可編程物質在顯示技術中 (電視, 投影機), 光學數據通信 (高速數據傳輸), 醫學 (激光手術刀)
+
+
+
+其他[编辑]
+
+
+新興技術
+狀態
+可能導致過時的技術
+可能應用於
+相關
+
+
+LED照明
+擴散
+白熾燈和熒光燈
+照明
+
+
+
+力場
+理論與實驗
+盔甲
+軍事與執法,太空旅行
+Plasma window（英语：Plasma window）
+
+
+參考文獻[编辑]
+引用[编辑]
+
+
+^ A review of automation and robotics for the bio-industry. Journal of Biomechatronics Engineering Vol. 1, No. 1, (2008) 37-54
+^ NASA - Investigation of a Closed Ecological System. nasa.gov
+^ Ben Armentrout, and Heidi Kappes. Studies in Closed Ecological Systems: Biosphere in a Bottle
+^ Frieda B. Taub Annual Review of Ecology and Systematics Vol. 5, (1974), pp. 139-160
+^ Is in vitro meat the future?. The Times. 9 May 2008 [7 December 2012]. 
+^ 6.0 6.1 6.2 Artificial meat: Hamburger junction. The Economist. 25 February 2012 [3 March 2012]. 
+^ Vertical farming - Does it really stack up?. Te Economist. 9 December 2010 [18 November 2011]. 
+^ Vertical Farming - Can Urban Agriculture Feed a Hungry World?. Spiegel. 22 July 2011 [18 November 2011]. 
+^ Vertical Harvest of Jackson Hole Will Grow Organic Produce Even in Winter. Inhabitat. 6 June 2012 [29 August 2013]. 
+^ A giant leap into the unknown: GM salmon that grows and grows. The Independent. 22 September 2010 [5 May 2011]. 
+^ Gene therapy is cure for 'boy in the bubble' syndrome. The Telegraph. 24 August 2011 [18 November 2011]. 
+^ Patients to be frozen into state of suspended animation for surgery. The Telegraph. 26 September 2010 [21 April 2011]. 
+^ Christopher Mims. Exoskeletons Give New Life to Legs. Scientific American. 2009 [2009-04-21]. 
+^ http://www.technologyreview.com/computing/22039/
+
+
+来源[编辑]
+
+IEEE International Conference on Emerging Technologies and Factory Automation, & Fuertes, J. M. (1999). 1999 7th IEEE International Conference on Emerging Technologies and Factory Automation proceedings, ETFA'99, October 18-21, 1999, UPC, Barcelona, Catalonia, Spain. Piscataway, N.J.: Institute of Electrical and Electronics Engineers.
+Jones-Garmil, K. (1997). The wired museum: Emerging technology and changing paradigms. Washington, DC: American Association of Museums.
+Giersch, H. (1982). Emerging technologies: Consequences for economic growth, structural change, and employment : symposium 1981. Tübingen: Mohr.
+
+外部連結[编辑]
+
+Special Reports 10 Emerging Technologies. Technology Review.
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+技术
+
+
+
+
+
+
+領域
+
+
+
+
+農業
+
+
+
+农业工程
+水產養殖
+水产学
+食品化学
+食品工程
+营养学
+食品技术
+食品微生物学（英语：Food microbiology）
+遺傳利用限制技術（英语：Genetic use restriction technology）
+
+
+
+
+
+
+
+
+生物医学（英语：Biomedical technology）
+
+
+
+生物信息学
+生物医学工程
+生物工程学
+生物技术
+健康科学
+生化檢驗
+药理学
+神经科学
+组织工程学
+基因工程
+纳米医学
+化学信息学
+
+
+
+
+
+
+
+
+水利/土木建築
+
+
+
+水利工程
+土木工程
+建築工程
+建築設備
+消防工程
+安全工程
+結構工程
+
+
+
+
+
+
+
+
+教育技术
+
+
+
+在线学习
+教育技术学
+教育软件（英语：Educational software）
+虚拟校园（英语：Virtual campus）
+
+
+
+
+
+
+
+
+能源
+
+
+
+核工程
+核技术
+储能技术
+石油工程（英语：Petroleum engineering）
+
+
+
+
+
+
+
+
+军事
+
+
+
+彈藥
+炸彈
+軍事技术
+電子作戰
+低可偵測性技術
+工兵
+军事通信（英语：Military communications）
+
+
+
+
+
+
+
+
+信息
+
+
+
+人工智能
+計算機工程
+计算机科学
+音乐工艺
+通信工程
+通信
+图形
+信息技术
+軟件工程
+音乐
+语音识别
+可视化技术
+系统分类学
+本体工程
+信息学
+
+
+
+
+
+
+
+
+工业（英语：Industrial technology）
+
+
+
+纳米科技
+音频工程
+生物工程
+生化工程
+陶瓷工程
+化学工程
+控制工程
+低温学
+電機工程學
+电子工程
+工程技术
+工程学
+工业工程学
+企业工程
+水力学
+机械工程
+機械電子學
+冶金工程
+海洋工程
+光学工程
+系统工程
+运输工程
+电动机械学
+金融工程学
+制造
+机械
+采矿业
+自动化技术
+冶金学
+
+
+
+
+
+
+
+
+交通
+
+
+
+航空航天
+航空航天工程
+空间技术
+机动车
+車輛工程
+交通工程
+流量工程
+
+
+
+
+
+
+
+
+環境科技
+
+
+
+綠色建築
+可再生能源
+永續設計
+环境工程
+生態工程
+潔淨科技（英语：Clean technology）
+生態技術（英语：Ecotechnology）
+環境工程科學（英语：Environmental engineering science）
+
+
+
+
+
+
+
+
+应用科学
+
+
+
+考古
+电子学
+光学
+半导体物理学
+环境科学
+材料科学
+微系统
+微技术
+纳米技术
+
+
+
+
+
+
+
+
+其他领域
+
+
+
+机器人学
+机械电子学
+蛋白质工程
+系统工程
+聚合物工程（英语：Polymer engineering）
+
+
+
+
+
+
+
+
+
+
+
+組件
+
+
+
+基礎設施
+發明
+发明年表
+知識
+機器
+技能
+工艺
+工具
+
+
+
+
+
+
+
+
+技術史
+
+
+
+新石器革命
+工業革命
+第二次工業革命
+數字化革命
+第三次工業革命
+信息時代
+史前技术（英语：Outline of prehistoric technology）
+古代技術（英语：Ancient technology）
+中世紀技術（英语：Medieval technology）
+文藝復興技術（英语：Renaissance technology）
+噴氣時代（英语：Jet Age）
+
+
+
+
+
+
+
+
+理論（英语：Theories of technology）
+和概念
+
+
+
+適用技術
+破壞性創新
+高科技
+技术成熟度曲线
+专家统治
+技术决定论
+技術官僚
+技术奇异点
+技术接受模型
+超人类主义
+軍民兩用技術（英语：Dual-use technology）
+技术伦理（英语：Ethics of technology）
+
+
+
+
+
+
+
+
+其他
+
+
+
+新興技術列表
+卡尔达肖夫指数
+Category:各国科技
+Category:科技公司
+Category:技术大学和学院
+技术传播者
+技术新闻学
+
+
+
+
+
+
+
+
+
+
+
+ Category:技術
+ commons:Category:技術
+ Portal:技術
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+新兴技术
+
+
+
+
+
+
+
+技术
+
+
+
+
+
+
+领域
+
+
+
+
+农业
+
+
+
+农业机器人
+封闭生态系统
+試管肉
+基因改造食品
+精准农业
+垂直農法
+
+
+
+
+
+
+
+
+建筑
+
+
+
+生态建筑学（英语：Arcology）
+建筑打印（英语：Building printing）
+
+Contour crafting（英语：Contour crafting）
+D-Shape（英语：D-Shape）
+
+
+圆顶城市（英语：Domed city）
+
+
+
+
+
+
+
+
+生物医学技术（英语：Biomedical technology）
+
+
+
+人造子宫（英语：Artificial uterus）
+Ampakine（英语：Ampakine）
+脑部移植
+人體冷凍技術
+
+冷冻保护剂（英语：Cryoprotectant）
+深低溫保存
+玻璃化（英语：Vitrification）
+暫停生命
+
+
+去滅絕
+基因工程
+
+基因治療
+
+
+头部移植
+孤立腦
+生命延續
+
+掌控可忽略衰老
+
+
+纳米医学
+纳米传感器（英语：Nanosensor）
+个体化医疗（英语：Personalized medicine）
+再生醫學
+
+干细胞治疗（英语：Stem-cell therapy）
+组织工程学
+
+
+机器人辅助手术（英语：Robot-assisted surgery）
+合成生物学
+
+合成基因组学（英语：Synthetic genomics）
+
+
+病毒疗法（英语：Virotherapy）
+
+溶瘤病毒（英语：Oncolytic virus）
+
+
+Tricorder（英语：Medical tricorder）
+全基因组测序（英语：Whole genome sequencing）
+
+
+
+
+
+
+
+
+显示器
+
+
+
+
+次世代（英语：Next generation of display technology）
+
+
+
+FED
+FLCD（英语：Ferro Liquid Crystal Display）
+iMoD（英语：Interferometric modulator display）
+Laser（英语：Laser video display）
+LPD（英语：Laser-powered phosphor display）
+OLED
+OLET
+QD-LED
+SED
+TPD
+TDEL
+TMOS（英语：Time-multiplexed optical shutter）
+
+
+
+
+
+
+
+
+去屏幕（英语：Screenless）
+
+
+
+仿生隐形眼镜（英语：Bionic contact lens）
+頭戴式顯示器
+抬頭顯示器
+光学头戴式显示器（英语：Optical head-mounted display）
+虚拟视网膜显示器（英语：Virtual retinal display）
+
+
+
+
+
+
+
+
+其他
+
+
+
+裸眼3D（英语：Autostereoscopy）
+柔性显示器（英语：Flexible display）
+全息显示器（英语：Holographic display）
+
+计算机生成全息（英语：Computer-generated holography）
+
+
+多原色顯示技術
+Ultra HD
+体积显示器（英语：Volumetric display）
+
+
+
+
+
+
+
+
+
+
+
+电子产品
+
+
+
+电子鼻（英语：Electronic nose）
+电子纺织品（英语：E-textiles）
+柔性印刷电路板
+分子电子学（英语：Molecular electronics）
+纳机电系统
+憶阻器
+自旋電子學
+Thermal copper pillar bump（英语：Thermal copper pillar bump）
+
+
+
+
+
+
+
+
+能源
+
+
+
+
+生产
+
+
+
+高空風力發電機
+人工光合作用（英语：Artificial photosynthesis）
+生物燃料
+碳中性燃料（英语：Carbon-neutral fuel）
+聚光太阳能热发电
+聚变能
+家用燃料电池（英语：Home fuel cell）
+氢经济
+甲醇经济
+熔盐堆
+光学整流天线（英语：Nantenna）
+光伏路面（英语：Photovoltaic pavement）
+太空太陽能
+涡流发动机（英语：Vortex engine）
+
+
+
+
+
+
+
+
+存储
+
+
+
+磷酸铁锂电池（英语：Lithium iron phosphate battery）
+压缩空气能源存储（英语：Compressed air energy storage）
+飞轮储能
+电网能源存储（英语：Grid energy storage）
+鋰空氣電池
+熔盐电池（英语：Molten salt battery）
+纳米线电池
+锂离子电池研究（英语：Research in lithium-ion batteries）
+硅气电池（英语：Silicon–air battery）
+热能储存（英语：Thermal energy storage）
+超级电容
+
+
+
+
+
+
+
+
+其他
+
+
+
+智慧電網
+无线供电
+
+
+
+
+
+
+
+
+
+
+
+
+信息及通信技术
+
+
+
+
+环境智能
+
+物联网
+
+
+人工智能
+
+人工智能的应用（英语：Applications of artificial intelligence）
+人工智能的进展（英语：Progress in artificial intelligence）
+机器翻译
+机器视觉
+语义网
+语音识别
+
+
+原子电子学（英语：Atomtronics）
+碳纳米管场效应晶体管（英语：Carbon nanotube field-effect transistor）
+Cybermethodology
+第四代光盘
+
+3D光学数据存储（英语：3D optical data storage）
+全息存储
+
+
+GPGPU
+内存
+
+CBRAM
+FRAM
+Millipede
+MRAM
+NRAM
+PRAM
+賽道記憶體
+RRAM
+SONOS
+
+
+光學電腦
+量子计算机
+量子密碼學
+RFID
+
+无芯片RFID（英语：Chipless RFID）
+
+
+软件无线电
+三維晶片
+
+
+
+
+
+
+
+
+制造
+
+
+
+3D打印
+电子粘土（英语：Claytronics）
+分子汇编器（英语：Molecular assembler）
+实用雾（英语：Utility fog）
+
+
+
+
+
+
+
+
+材料科学
+
+
+
+气凝胶
+非晶态金属
+人造肌肉（英语：Artificial muscle）
+導電聚合物
+Femtotechnology（英语：Femtotechnology）
+富勒烯
+石墨烯
+高溫超導
+高温超流体
+线性炔碳
+超材料
+
+超材料隐形（英语：Metamaterial cloaking）
+
+
+金属泡沫（英语：Metal foam）
+多功能结构（英语：Multi-function structure）
+纳米技术
+
+碳纳米管
+分子纳米技术（英语：Molecular nanotechnology）
+纳米材料
+
+
+Picotechnology（英语：Picotechnology）
+可编程物质（英语：Programmable matter）
+量子点
+硅烯
+高温合金
+合成鑽石
+
+
+
+
+
+
+
+
+军事技术与装备
+
+
+
+反物质武器
+無殼彈
+定向能量武器（英语：Directed-energy weapon）
+
+激光
+激微波
+粒子束武器
+声波武器
+線圈砲
+磁軌砲
+
+
+等离子武器
+纯聚变武器（英语：Pure fusion weapon）
+低可偵測性技術
+涡环枪（英语：Vortex ring gun）
+
+
+
+
+
+
+
+
+神经科学
+
+
+
+人造脑（英语：Artificial brain）
+
+藍腦計畫
+
+
+脑机接口
+腦電圖
+意识上传
+
+读脑（英语：Brain-reading）
+神经信息学
+
+
+Neuroprosthetics
+
+仿生眼
+脑植入（英语：Brain implant）
+外部皮层
+视网膜植入（英语：Retinal implant）
+
+
+
+
+
+
+
+
+
+
+机器人学
+
+
+
+家庭自动化
+纳米机器人
+動力服
+自重构模块化机器人（英语：Self-reconfiguring modular robot）
+群体机器人（英语：Swarm robotics）
+無人機
+
+
+
+
+
+
+
+
+空间科学
+
+
+
+
+发射（英语：Space launch）
+
+
+
+Fusion rocket
+非火箭航天发射
+
+質量投射器
+轨道环（英语：Orbital ring）
+太空電梯
+空间喷泉（英语：Space fountain）
+太空纜索
+
+
+可重用发射系统（英语：Reusable launch system）
+
+
+
+
+
+
+
+
+航天器推进
+
+
+
+光束推进（英语：Beam-powered propulsion）
+离子推力器
+激光推进（英语：Laser propulsion）
+電漿推進發動機
+
+螺旋雙層推進器（英语：Helicon double-layer thruster）
+可变比冲磁等离子体火箭
+
+
+猎户座项目（英语：Project Orion）
+核脉冲推进
+太阳帆
+
+
+
+
+
+
+
+
+其他
+
+
+
+恆星際旅行
+推进剂库（英语：Propellant depot）
+
+
+
+
+
+
+
+
+
+
+
+运输（英语：Outline of transport）
+
+
+
+
+航空
+
+
+
+自适应柔性变形机翼（英语：Adaptive compliant wing）
+Aeroscraft（英语：Worldwide Aeros Corp）
+背包直升机（英语：Backpack helicopter）
+送货无人机（英语：Delivery drone）
+飞行车
+高空平台（英语：High-altitude platform）
+喷气式飞行包
+脉冲爆震引擎（英语：Pulse detonation engine）
+超音速燃烧冲压发动机
+太空飛機
+
+云霄塔
+
+
+超音速客機
+
+
+
+
+
+
+
+
+陆路运输（英语：Land transport）
+
+
+
+无气轮胎（英语：Airless tire）
+
+Tweel（英语：Tweel）
+
+
+替代燃料车（英语：Alternative fuel vehicle）
+
+氫動力汽車
+
+
+自動駕駛汽車
+地面效应列车（英语：Ground effect train）
+磁懸浮列車
+个人快速运输系统
+真空管道高速交通
+
+ET3全球联盟（英语：ET3 Global Alliance）
+超迴路列車
+
+
+车载通信系统（英语：Vehicular communication systems）
+
+
+
+
+
+
+
+
+管道
+
+
+
+气动运输（英语：Pneumatic tube）
+
+自动化真空收集（英语：Automated vacuum collection）
+Foodtubes（英语：Foodtubes）
+
+
+
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+反重力
+隐身斗篷（英语：Cloak of invisibility）
+数字香水技术（英语：Digital scent technology）
+力场 (小说)（英语：Force field (fiction)）
+
+等离子窗（英语：Plasma window）
+
+
+沉浸 (虚拟现实)（英语：Immersion (virtual reality)）
+
+VirtuSphere（英语：VirtuSphere）
+
+
+磁性制冷（英语：Magnetic refrigeration）
+相控阵光学（英语：Phased-array optics）
+量子技术（英语：Quantum technology）
+
+量子隱形傳態
+
+
+
+
+
+
+
+
+
+
+
+
+
+理念
+
+
+
+科林格里奇困境（英语：Collingridge dilemma）
+差异化技术开发（英语：Differential technological development）
+Ephemeralization（英语：Ephemeralization）
+探索性工程（英语：Exploratory engineering）
+虚构科技（英语：Fictional technology）
+行事原则（英语：Proactionary principle）
+技术革新
+
+技术失业（英语：Technological unemployment）
+
+
+技术融合
+技术演进（英语：Technological evolution）
+技术范例（英语：Technological paradigm）
+科技預測
+
+加速变化（英语：Accelerating change）
+摩尔定律
+技术奇异点
+Technology scouting（英语：Technology scouting）
+
+
+技术就绪指数
+技术路线
+超人类主义
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 列表
+
+
+
+
+
+
+
+
+
+
+
+
+分类：新兴技术隐藏分类：自2013年6月扩充中的条目自2013年6月需要专业人士关注的页面含有多个问题的条目动态列表

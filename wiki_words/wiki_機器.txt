@@ -1,0 +1,252 @@
+机器
+
+
+
+
+
+
+本條目存在以下問題，請協助改善本條目或在討論頁針對議題發表看法。
+
+
+
+
+
+
+本条目可参照外語維基百科相應條目来扩充。 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。 
+請邀請適合的人士改善本条目。更多的細節與詳情請參见討論頁。 
+
+
+
+
+
+
+
+本条目需要擴充。（2015年3月27日） 
+请協助改善这篇條目，更進一步的信息可能會在討論頁或扩充请求中找到。请在擴充條目後將此模板移除。 
+
+
+
+
+
+
+
+
+
+本條目介紹的是执行任务的设备。關於机械，請見“机械”。
+
+
+
+
+
+
+James Albert Bonsack發明的捲煙機，在1880年發明，在1881年申請專利
+
+
+機器是一件利用能量達到一特定目的的工具、裝置或者設備，一般用來變換或傳遞能量，物料和信息，執行機械運動。機器的動力來源會是機械能、熱能（熱機）、電能（電機）、磁能或是化學能等。以往機器的定義中需要有可動件，由於電子學的進展，已經可以在沒有可動件的情形下傳遞能量[1]。
+簡單機械是單純轉換力的方向或量值的設備，也有許多更複雜的機器，例如車輛、電機系統（如馬達、發電機等）、分子機器、電腦、電視及收音機等。
+
+
+
+目录
+
+
+1 歷史
+2 分類
+
+2.1 機械類機器
+
+2.1.1 簡單機械
+2.1.2 引擎
+
+
+2.2 電機與電子
+
+2.2.1 電機
+2.2.2 電子電路
+2.2.3 計算機器
+
+
+2.3 分子機器
+
+
+3 機器元件（機件）
+
+3.1 機器結構（機構）
+3.2 控制器
+
+
+4 相關條目
+5 參考資料
+
+
+
+歷史[编辑]
+
+
+
+
+溫彻斯特發現的燧石手斧
+
+
+手斧可能是第一個由人類制造的机器，其作法是將切割燧石來產生的楔，楔是簡單機械的一種，可以將縱向的位移和力轉變為橫向將物體切開力及位移。
+簡單機械的概念來自西元前三世紀的阿基米德，他提出的簡單機械包括槓桿、滑輪及螺旋[2][3]，并研究了槓桿的力学原理（英语：mechanical advantage）[4][5]。
+亞歷山卓的希羅（Heron of Alexandria）在其著作《力学》中列出了五種「可以使重物移動」的機械，包括槓桿、轮轴、滑輪、楔及螺旋[3]，並且描述其用途及潤滑方式[6]。中國古代在香爐中應用了能永保水平位置的十字轉架等機件。以上這些反映了當時人類對古典機械的了解只限制在簡單機械的靜力學上，只考慮力的平衡，不考慮機械的動力學，也不考慮在力和位移之間的取捨，以及功的概念。
+文藝復興時期的学者開始研究簡單機械的動力學，產生了機械功的概念。1586年時佛兰芒工程师西蒙·斯蒂文推導出斜面的機械利益，因此斜面也被列在簡單機械中。簡單機械的完整動力學理論是由義大利科學家伽利略·伽利莱在1600年的《力學》中提出[7][8]。伽利略是第一個了解簡單機械不會創造能量，只會轉換能量的人[7]。
+機械中滑動摩擦的古典定律是由達文西（1452–1519）發明，但只留在他的筆記本中沒有發表。後來紀曉姆·阿蒙頓（英语：Guillaume Amontons）（1699）再次發現摩擦力的定律，後來夏爾·奧古斯丁·庫侖（1785）又作了進一步的發展[9]。
+分類[编辑]
+
+機器種類及相關零件
+
+分類
+機器
+
+
+簡單機械
+斜面、輪軸、槓桿、滑輪、楔、螺旋
+
+
+機械零件
+軸、軸承、帶、工作斗（英语：Bucket (machine part)）、緊固件、齿轮、鍵（英语：Key (engineering)）、滾子鏈、齿轮齿条副、繩、油封、弹簧、輪
+
+
+時鐘
+原子鐘、手錶、擺鐘、石英鐘
+
+
+压缩机和泵
+阿基米德式螺旋抽水機、唧筒、水力活塞（英语：Hydraulic ram）、泵、真空泵
+
+
+熱機
+外燃機
+蒸汽引擎、史特林引擎
+
+
+內燃機
+往复式发动机、燃氣渦輪發動機
+
+
+熱泵
+吸附式制冷、热电冷却（英语：Thermoelectric cooling）、回熱冷卻（英语：Regenerative cooling）
+
+
+連杆機構
+縮圖器（英语：Pantograph）、凸轮、Peaucellier-Lipkin 連桿（英语：Peaucellier-Lipkin linkage）
+
+
+渦輪發動機
+燃氣渦輪發動機、喷气发动机、蒸汽渦輪發動機、水轮机、風力發動機、風車
+
+
+翼型
+帆、翼、舵、副翼、螺旋槳
+
+
+電子設備
+真空管、電晶體、二極體、電阻器、電容器、電感器、憶阻器、半導體、電腦
+
+
+機器人
+执行器、伺服馬達、伺服機構、步進馬達、電腦
+
+
+其他
+自動販賣機、風洞、檢重秤（英语：Check weigher）、铆接机（英语：Riveting machines）
+
+
+機械類機器[编辑]
+主条目：機械和機械工程
+機械類機器一般是指產生力學能或是利用力學能進行特定任務的機器。
+簡單機械[编辑]
+主条目：簡單機械
+
+
+
+
+1728年百科全書；或藝術與科學通用字典中簡單機械的圖表[10]。簡單機械是許多複雜機械構成的基礎
+
+
+亞里斯多德提出了將機械分類為一些簡單零件的概念，他定義了槓桿、滑輪及螺旋為簡單機械，後來在文藝復興時期又加入輪軸、楔和斜面。
+引擎[编辑]
+主条目：引擎
+引擎或馬達是將能量轉換為可應用的機械運動的機器[11][12]。熱機是指一些可以將機械能轉換為熱能的設備，包括內燃機和外燃機，利用燃燒燃料來棧產生熱能，再利用熱能轉換為動能，電動機利用電能使機器運動，氣動馬達的能量來源是壓縮空氣，發條玩具（英语：Wind-up toy）則是利用彈性能，在生物系統中，肌肉中的分子馬達（例如肌球蛋白）可以利來化學能來運動。
+電機與電子[编辑]
+電機[编辑]
+主条目：電機
+電機是指一些可以將機械能轉換為電能，將電能轉換為機械能，或是改變直流電電壓或交流電電壓的電氣設備，可分為電動機、發電機及變壓器三大類。
+電子電路[编辑]
+主条目：電子學
+電子學集合物理、工程及技術，主要處理有像真空管、電晶體、二極體、積體電路等主動元件的電路，以及配合的被動元件。主動元件由於其非線性特性以及可以控制電子流動的能力，因此可以將弱電訊號放大，常應用在資訊處理及信號處理上。而電子元件類似數字開關的動作也可以用在資訊處理上。像印刷電路板、封裝及各種通訊基礎架構等技術使電路板的機能完整，可以將這許多的零件變成一個可工作的系統。
+計算機器[编辑]
+電腦儲存電荷，並處理電子的流動，而儲存及處理的過程也就是資料的處理，參見有限狀態機及圖靈機。
+查爾斯·巴貝奇在1837年就設計了許多機器，可以計算對數及其他函數，他的差分機是第一台機械式的計算器。這台機器被視為是現在電腦的先驅，不過在查爾斯·巴貝奇有生之年就還無法看到它們問世。
+分子機器[编辑]
+分子和蛋白質是生物機能的基礎，而相關的研究也引發了分子機器的概念。例如驅動蛋白分子在細胞內運送囊泡，而肌球蛋白使肌肉收縮，這些分子都是由化學物質剌激而有對應的反應。
+現在的奈米機械類似傳統的機械，設計來執行特定的任務，和上述驅動蛋白或肌球蛋白的特性也有不同。奈米科技的研究者正在設法創建分子，可以受某一特定的刺激而反應。
+機器元件（機件）[编辑]
+機器是由許多標準化的零件所構成，有些是控制運動方式的零件，例如齒輪組、皮帶傳動或鏈條傳動（英语：chain drive）、連桿、凸輪、剎車及離合器等，有些則是結構件，例如：框架機件、緊固件或是鍵（英语：Key (Machinery)），也有一些是可以減少摩擦，增加潤滑有關的零件，如：軸承、油封等。
+一些工業機械會有感測器、致動器及控制器，有些機械會進行工业设计，決定其外殼材質及顏色，以及使用者使用機械的人機界面。
+機器結構（機構）[编辑]
+機器中控制運動的零件組立稱為機構[13][14]。機構一般可以分為齒輪及齒輪組、凸輪及凸轮随动件（英语：cam follower）機構、連桿機構、皮帶傳動機構或鏈條傳動機構，也有些特殊的機構，像是索引機構，或是剎車及離合器等用到摩擦力的機構。
+控制器[编辑]
+控制器利用感測器、控制邏輯和致動器來控制機器中特定零件的性能，像蒸氣機的離心式調速器就是一個例子。控制器的範圍很廣，從在溫度上昇時開啟冷水閥門的溫控器，到車輛的巡航控制系統都可以算是控制器。傳統的控制器可能會用許多的繼電器組成，但已經被可编程逻辑控制器取代，有些系統會用伺服馬達作為致動器，接受電氣命令而動作，因此可以作為機器人系統使用。
+相關條目[编辑]
+
+技术史
+技术
+自動機
+
+參考資料[编辑]
+
+
+^ The American Heritage Dictionary, Second College Edition. Houghton Mifflin Co., 1985.
+^ Asimov, Isaac, Understanding Physics, New York, New York, USA: Barnes & Noble: 88, 1988, ISBN 0-88029-251-2. 
+^ 3.0 3.1 Chiu, Y. C., An introduction to the History of Project Management, Delft: Eburon Academic Publishers: 42, 2010, ISBN 90-5972-437-2 
+^ Ostdiek, Vern; Bord, Donald. Inquiry into Physics. Thompson Brooks/Cole. 2005: 123 [2008-05-22]. ISBN 0-534-49168-5.  引文使用过时参数coauthors (帮助)
+^ Usher, Abbott Payson. A History of Mechanical Inventions. USA: Courier Dover Publications. 1988: 98. ISBN 0-486-25593-X. 
+^ Strizhak, Viktor; Igor Penkov, Toivo Pappel. Evolution of design, use, and strength calculations of screw threads and threaded joints. HMM2004 International Symposium on History of Machines and Mechanisms. Kluwer Academic publishers: 245. 2004 [2008-05-21]. ISBN 1-4020-2203-4.  引文使用过时参数coauthors (帮助)
+^ 7.0 7.1 Krebs, Robert E. Groundbreaking Experiments, Inventions, and Discoveries of the Middle Ages. Greenwood Publishing Group. 2004: 163 [2008-05-21]. ISBN 0-313-32433-6. 
+^ Stephen, Donald; Lowell Cardwell. Wheels, clocks, and rockets: a history of technology. USA: W. W. Norton & Company. 2001: 85–87. ISBN 0-393-32175-4.  引文使用过时参数coauthors (帮助)
+^ Armstrong-Hélouvry, Brian. Control of machines with friction. USA: Springer. 1991: 10. ISBN 0-7923-9133-0. 
+^ Chambers, Ephraim, Table of Mechanicks, Cyclopaedia, A Useful Dictionary of Arts and Sciences (London, England), 1728,, Volume 2: 528, Plate 11 
+^ Motor. Dictionary.reference.com. [2011-05-09]. a person or thing that imparts motion, esp. a contrivance, as a steam engine, that receives and modifies energy from some natural source in order to utilize it in driving machinery. 
+^ Dictionary.com: (World heritage) "3. any device that converts another form of energy into mechanical energy to produce motion"
+^ Reuleaux, F., 1876 The Kinematics of Machinery, (trans. and annotated by A. B. W. Kennedy), reprinted by Dover, New York (1963)
+^ J. J. Uicker, G. R. Pennock, and J. E. Shigley, 2003, Theory of Machines and Mechanisms, Oxford University Press, New York.
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh85079362
+GND: 4037786-6
+BNF: cb131626829（数据）
+NDL: 00565740
+
+
+
+
+
+
+
+
+
+
+
+
+分类：机械工程隐藏分类：含有过时参数的引用的页面使用ISBN魔术链接的页面需要從外語維基百科翻譯的條目需要专业人士关注的页面自2015年3月扩充中的条目含有多个问题的条目包含规范控制信息的维基百科条目

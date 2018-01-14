@@ -1,0 +1,394 @@
+足球经理系列
+
+
+「足球经理人」重定向至此。關於現實中的足球经理，詳見「主教练」。
+
+
+
+
+
+
+
+本条目需要更新。（2013年6月23日） 
+請更新本文以反映近況和新增内容。完成修改時，請移除本模板。 
+
+
+
+
+
+
+
+足球經理人（英语：Football Manager）是一款在多種平台上發售的足球模拟经营类游戏，最初於1984年由Addictive Game首次發行，直至1990年代。[1]由2004年起，足球經理人由Sports Interactive（英语：Sports Interactive）製作，由世嘉發行。
+在足球經理人這遊戲出現前，製作商曾經制作一款知名的模擬經營球會遊戲冠军足球经理，於03/04版本，製作商和發行商Eidos不再合作，商議過後，冠軍足球經理名稱的版權交給Eidos，而程序的版權則給了Sports Interactive。因此後者不能夠再以冠軍足球經理這名稱發行遊戲。
+其後Sports Interactive帶着原有遊戲的程序轉投世嘉，製作以Sports Interactive系列為基礎的同類遊戲──足球經理人。現在足球經理人最新的版本為《足球经理2017》。
+
+
+
+目录
+
+
+1 主系列
+
+1.1 最初的足球经理系列
+1.2 Football Manager 2005
+1.3 Football Manager 2006
+1.4 Football Manager 2006 Xbox 360 版本
+1.5 Football Manager 2007
+1.6 Football Manager 2008
+1.7 Football Manager 2009
+1.8 Football Manager 2010
+1.9 Football Manager 2011
+1.10 Football Manager 2012
+1.11 Football Manager 2013
+1.12 Football Manager 2014
+1.13 Football Manager 2015
+1.14 Football Manager 2016
+1.15 Football Manager 2017
+
+
+2 延伸系列
+
+2.1 Football Manager 便携版
+
+
+3 鼓勵慈善
+4 相关
+5 参考
+6 外部链接
+
+6.1 官方網站
+
+
+
+
+
+主系列[编辑]
+最初的足球经理系列[编辑]
+足球经理 (Football Manager) 最初是由Kevin Toms在1984年开发于ZX Spectrum平台上的游戏，同时他开创了一种新的游戏类型：足球模拟经营游戏，也堪称是史上最早的足球经理游戏。并随后发行在了其他平台上，其中包括 Amstrad CPC，Commodore 64，BBC Micro和Commodore Amiga。其中发行在Amiga平台上的版本创新地使用了语音技术用于播报比赛结果。 该游戏系列的之后几款续作包括: 足球经理2 (Football Manager 2)(1988年)[2]以及 世界杯足球经理 （Football Manager World Cup Edition）(1990年)[3]，他们均是由Kevin Toms所开发。但是最终版本足球经理3[4]（Football Manager 3）(1993年)的开发Kevin Toms却没有参与其中，而在Football Manager 3之后，该系列没有发行任何续作，初代的足球经理人便在93年后告一段落。
+Football Manager 2005[编辑]
+2003年9月，以开发冠军足球经理（Championship Manager）系列而闻名的Sports Interactive小组与发行商Eidos宣布在合作完成冠军足球经理03-04之后分手，2004年2月12日, 两家终于正式分手，4月SI转入新发行商SEGA的怀抱。Championship Manager这个商标本属于Eidos，所以SI宣布他们将发布一款全新的足球经理游戏 "足球经理人(Football Manager)" 选择了新的商标：Football Manager。这也是自93年以后该品牌的再次启用。 此后，SI以新商标开发的第一款游戏便于2004年11月5日诞生了,它被命名为Football Manager 2005，一般称之为 FM 2005。而本应于同期上市的CM5却大大得推迟了其发行计划，以致于次年3月才得以发行，原因便是SI带走了游戏的核心成分以至于 CM的发行商Eidos新请来的开发小组Beautiful Game Studios只能白手起家，于是进度推迟。
+Football Manager 2005 包含了一些全新的特性，比如升级过的用户界面全新的游戏引擎、重新定义的游戏引擎、一些竞赛规则的更新、升级过的数据和比赛规则、更详细的赛前和赛后的信息、国家队球员新闻、杯赛综述新闻、来自于经纪人的2D片断、教练关于阵容的报告、教练关于阵容的报告、工作人员的职业中心、共同终止合同、加强的球员租借选项、主教练间的心理战等。 Football Manager 2005 于2004年11月4日在英国率先发售，随后在世界其他地方陆续发售。此后也发行了FM2005的Mac版。
+中國文化部查禁《足球經理2005》，理由是該款遊戲「含有危害中國主權和領土完整的內容」，將台灣及港澳當作獨立國家[5]
+Football Manager 2006[编辑]
+Football Manager 2006 [6]的PC和Mac版在2005年10月21日发售（比预定上市日期11月4日提早了两周。上市的同一天也发布了一个补丁用于修正测试版所发现的几个问题。在它的第一个发售周，便成为了英国销售速度第2快的PC游戏[7] 从本质上来说FM2006仅仅是FM2005的一个升级版本，但其中也加入了不少小的调整和一些新特性新要素。这些调整包括比赛谈话，简化了训练，和一些游戏帮助信息。与游戏引擎上的调整相对应的便是数据库的调整，数据库里包含着大量的球队和球员资料，这些资料的收集和调整都是在SI的游戏数据收集员的帮助下（基本都是该游戏在各国的某些玩家义务协作）完成的，数据库通常会在一个赛季内调整两次，第一次便是国际足联夏季转会窗口关闭后的10月份，每年游戏发售时所附带的数据库便是使用的是这个资料，而其第2次调整则是在国际足联冬季转会窗口关闭后的2月份完成。
+Football Manager 2006 Xbox 360 版本[编辑]
+FM2006的Xbox 360版本于2006年4月13日发售[8]，这是Football Manager游戏系列的第一个游戏机平台版本。其中包括了50个可玩的联赛，以及超过250000名球员的数据库（接近PC版），但由于需要存放巨大的游戏存档，Xbox硬盘成为了必须的配置。
+Football Manager 2007[编辑]
+在GOLDEN DEMO（一个测试版）提供公开测试后的半个月，Football Manager 2007于2006年10月18日发售[9]。据开发者SI介绍，于FM2006相比游戏提供了100多条新特性，其中球探系统和教练经验系统的改善被认为是其中较为重要的几个改进。FM2007的Mac版,Intel Mac版和Xbox360版之后也陆续发售。 每年的SI公司都会根据用户反馈的BUG而发放补丁进行完善，FM2007目前的最终补丁系列号是7.0.2 94768。
+Football Manager 2008[编辑]
+2007年7月27日FM系列的发行商SEGA欧洲发表新闻称，FM2008的PC版和MAC版将于2007年圣诞节前上架销售。据介绍，该游戏将5000支来自50国家的队伍可供选择，同时有超过100项新特性 [10]，诸如完全改革的国家队管理和新的比赛循环系统，此外新的财政系统、球迷日、再生的球员照片等等。
+Football Manager 2009[编辑]
+主条目：Football Manager 2009
+
+
+Football Manager 2009
+
+
+类型
+体育游戏，模拟游戏
+
+
+平台
+PC, Mac/Apple–Intel
+
+
+开发
+Sports Interactive
+
+
+发行
+Sega
+
+
+模式
+单人模式, 多人模式
+
+
+发行日
+EUR 2008年11月14日
+[11]
+
+
+2008年8月3日, 世嘉放出了一个游戏预览，并称他们将在11月14日发售新版本的Football Manager系列作品。 本作与前作相比最大的不同就是第一次采用了3D比赛引擎。同时增加了女性教练和职员, 新的记者招待会系统, 更真实的助理教练反应和转会系统。
+Football Manager 2010[编辑]
+Football Manager 2011[编辑]
+採用了三維引擎，使到比賽過程的畫面更加立體。
+Football Manager 2012[编辑]
+Football Manager 2013[编辑]
+Football Manager 2014[编辑]
+Football Manager 2015[编辑]
+Football Manager 2016[编辑]
+Football Manager 2017[编辑]
+主条目：足球经理2017
+延伸系列[编辑]
+Football Manager 便携版[编辑]
+第一款FM便携版（Football Manager Handheld，简称FMH）[12]于2006年4月13日发售，这同样是制作小组Sports Interactive的一个里程碑。该游戏首系列次发行在了掌机平台上，该平台就是PSP，FMH2006游戏包括了7个国家共19个可选联赛。2010年的FM便携版支持了IOS设备。目前最新的便携版版本是FMH2014。
+2012年的FM便携版支持了安卓设备，安卓设备上的版本与IOS设备的版本非常相像。 以下是2006年版可选国家和联赛的列表：
+
+英格兰 - 英超（Premiership），英冠（Championship），英甲（League One）， 英乙 (League Two)， 国家联赛(Conference National )
+法国 - 法甲 （Ligue 1），法乙 (Ligue 2)
+德国 - 德甲 (Bundesliga 1)，德乙 (Bundesliga 2)
+荷兰 - 荷甲 (Eredivisie)，荷乙 Eerste Divisie
+意大利 - 意甲 (Serie A)， 意乙 (Serie B)
+苏格兰 - 苏超 (PremierLeague)，苏甲 (First Division)，苏乙 （Second Division），苏丙 （Third Division）
+西班牙 - 西甲 (Primera División)，西乙 （Segunda División）
+
+鼓勵慈善[编辑]
+自Football Manager 2004開始，玩家進入遊戲起始畫面必須要經過數個慈善廣告，包括WarChild，反饥饿同盟等
+相关[编辑]
+
+冠军足球经理──Sports Interactive所开发的Football Manager系列的前身。由于著名的冠军足球经理游戏的开发团队SIgames与发行商Eidos于2003年分手，结束合作，而SIGames取得了原作的数据库、Eidos取得了原作的名称和品牌，所以冠军足球经理遂与足球经理人成为两款不同的游戏。从2004年起，SIGames与SEGA合作开发Football Manager系列游戏，而Eidos则与Beautiful Games Studios开发团队沿用CM的名称品牌合作开发Championship Manager系列游戏。
+
+参考[编辑]
+
+
+^ http://www.gamespot.com/cpc/sports/footballmanager/index.html
+^ http://www.gamespot.com/cpc/sports/footballmanager2/index.html?tag=result;title;1
+^ http://www.gamespot.com/cpc/sports/footballmanagerworldcupedition/index.html?tag=result;title;1
+^ http://www.gamespot.com/cpc/sports/footballmanager3/index.html?tag=result;title;0
+^ 《戰地4》虛擬政變 陸封殺
+^ EuroGamer.net 网站关于Football Manager 2006的报道
+^ 发售情况介绍 互联网档案馆的存檔，存档日期2006-04-30.
+^ http://www.gamespot.com/xbox360/sports/footballmanager2006/index.html?tag=result;title;5
+^ FM2007的相关介绍
+^ FM08的新特性介绍
+^ FM2009 & FMH2009 (video announcement)
+^ Pocket Gamer对于Football Manager Handheld的报道
+
+
+外部链接[编辑]
+官方網站[编辑]
+
+足球經理人官方網站
+歐洲世嘉網站
+Sports Interactive網站
+Sports Interactive 製作人日誌
+足球經理人官方論壇
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+世嘉飒美控股系列
+
+
+
+
+
+
+第一方团队
+
+
+
+
+
+消费者研发第一部
+
+
+
+
+涂鸦小小子
+铁甲飞龙
+超级猴子球
+如龙
+
+
+
+
+
+
+
+
+
+消费者研发第二部
+
+
+
+
+Feel the Magic
+飛天幽夢
+梦幻之星
+魔法氣泡
+刺猬索尼克
+太空5频道
+
+
+
+
+
+
+
+
+
+消费者研发第三部
+
+
+
+
+Alex Kidd
+钟表骑士
+圣龙战记
+櫻花大戰
+忍
+怒之鐵拳
+戰場女武神
+
+
+
+
+
+
+
+
+
+街机软件研发部
+
+
+
+
+冲破火网
+疯狂出租车
+梦游美国
+德比赛马俱乐部
+古代王者 恐龍王
+格斗之蛇
+战斧
+Hang-On
+死亡之屋
+Love and Berry
+甲蟲王者
+Out Run
+三國志大戰
+世嘉钓鱼高手
+世嘉GT
+世嘉拉力
+莎木
+太空哈利
+StarHorse
+VR戰警
+VR快打
+VR射手
+虚拟网球
+Virtual On
+国际足球冠军俱乐部
+
+
+
+
+
+
+
+
+
+
+
+第二、三方团队
+
+
+
+
+
+Atlus
+
+
+
+
+女神轉生
+
+女神異聞錄
+
+
+世界樹迷宮
+豪血寺一族
+超执刀
+
+
+
+
+
+
+
+
+
+白金工作室
+
+
+
+
+猎天使魔女
+瘋狂世界
+
+
+
+
+
+
+
+
+
+Treasure
+
+
+
+
+守护英雄
+銀河快槍手
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+第七龙神
+Bug!
+Columns
+英雄连
+死刑犯
+海豚历险记
+武士道之王
+幻想地带
+足球经理
+全能赛车
+初音未来 歌姬计划
+Headhunter
+Oasis
+斗鱼格斗
+人面鱼
+世嘉全明星
+光明與黑暗
+全面战争
+Vectorman
+Wonder Boy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：2004年首发的电子游戏系列世嘉电子游戏系列经营模拟游戏足球游戏電子遊戲系列隐藏分类：Webarchive模板wayback链接自2013年6月待更新条目

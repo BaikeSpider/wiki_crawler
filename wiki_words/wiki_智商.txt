@@ -1,0 +1,142 @@
+智商
+
+
+智商
+
+
+诊断技术
+
+
+
+瑞文氏标准推理测验的試題
+
+
+
+ICD-9-CM
+94.01
+
+
+MedlinePlus
+001912
+
+
+智力商數（德語：Intelligenzquotient），簡稱智商（德語：IQ），是用标准测试测量人在其年龄段的认知能力（“智力”）的得分。人的智商呈正态分布，目前主流的智力測驗(包含最常被使用的「韦克斯勒成人智力量表」)，都採用「離差智商」(deviant IQ scores)的定義。亦即，個體的IQ分數，會和個體所屬的常模(例如:和相同年齡、國家的人們)相比較。這個常模的IQ分數的平均值為100分，標準差為15分。即68.2%的人的智商在85-115之间，即95.4%的人的智商在70-130之间, 即99.6%的人的智商在55-145之间。
+最新的研究表明，智商有可能不单是与遗传因素有关，例如智商降低或和精神分裂症风险基因直接相关，还与生活环境有关。即智商的高低可能与遗传因素和生活环境有关，例如純母乳餵養六個月以上的嬰兒智商較配方奶餵養的嬰兒高約7點[1]，飲食缺乏碘則會造成兒童智商下降約12點，許多第三世界國家在消除缺碘和缺微量元素的環境後，民眾智商會急劇增加。
+「比率智商（ratio IQ scores）」计算公式：
+
+
+
+
+IQ
+
+=
+100
+×
+
+
+MA
+CA
+
+
+
+
+{\displaystyle {\text{IQ}}=100\times {\frac {\text{MA}}{\text{CA}}}}
+
+，
+
+IQ = 智商；
+MA = 心智年龄；
+CA = 生理年龄。
+
+如果MA比CA大，就即是IQ比正常高，相反MA比CA少，就即是IQ比正常低。 不過需要注意，上述的智商計算公式─比率智商（ratio IQ scores），已經普遍被當代的心理學界與教育學界拋棄。
+现代人平均智商在逐渐增加，被称为弗林效应，但不了解其原因是智力的实际增长还是测量的误差、有個卡通叫神腦一班是類似的例子
+
+
+
+目录
+
+
+1 历史
+2 現代測試
+3 效度
+4 智力與年齡
+5 組別差異
+
+5.1 性別
+5.2 種族
+5.3 分析
+
+
+6 参考文献
+7 相關條目
+8 外部連結
+
+
+
+历史[编辑]
+測量智能而且予以量化的想法源自於十九世紀的英國人高爾頓（Francis Galton, 1822-1911），但是這位優生學之父卻找錯方向，他試圖藉由測量人的體能和感官靈敏程度來得出智力，卻終究徒勞無功。其後，另闢新徑，建立智力測驗原型的是法國人比奈。他的研究長期被冷落，直到二十世紀初，因為實施國民義務教育政策，需要區分正常學童和智能不足的學童，他的研究才找到用途。
+數年後，比奈的測驗被引入美國。在此出現第一次重大變化，亦即和優生學的觀念結合起來，智力測驗被用來篩選移民。後來，被判定為智能不足者更有可能被送進收容所，甚至被強迫施行絕育手術（所謂「消極的優生學」）[來源請求]。另一方面，美國由於參加第一次世界大戰，軍方需要有方法來快速鑑別新兵的能力，於是原來只是用於特殊教育、一對一實施的測驗，就變成針對一般人、集體進行，用來把所有的人排出等級的測驗。經過戰爭的全面推廣，接納智力測驗的社會環境已經成熟，它不只是用於找出有學習障礙的學童，也用來挑選資優生，以便積極栽培（所謂「積極的優生學」）。人人都可以被標上一個IQ值，也樂於互相品評優劣。至此，IQ的勢力遍及智能分布的每個區段。
+現代測試[编辑]
+知名的智商測試包括瑞文氏标准推理测验、韦克斯勒成人智力量表、韦克斯勒儿童智力量表、斯坦福-比奈智力量表、伍德考克-約翰遜認知能力測驗和考夫曼兒童智力測驗。
+智商測試一種順序量錶。[2][3][4][5]智商測試並不是百分數，即意味著智商50的人的並不是有智商100的人的一半。
+智商測試與成績測試之間的相關性約是0.7。[6]
+效度[编辑]
+不同智商測試得到的結果不同，同時其結果並不一定準確，現代智商測試的测量标准误約是三點，即真實智商一般在測量所得值上下各三點的範圍內浮動。也有人認為測量結果有95%的幾率在四到五點測量標準誤下浮動。臨床心理學家認為這已足夠對多數臨床目標產生效力。[7][8]
+智力與年齡[编辑]
+在整個兒童期，智力可能都是不斷變化的。[9] 但是這之間也有一定的關係。以前一直認為成年之後智力就會開始有衰退趨勢，但是後來這個現象被認為與弗林效應及同輩效應有關。
+在韦克斯勒智力量表開始研究成人不同群體的智商后，大量相關研究也開始湧現。現在的一般觀點是流動智力在成年初有輕微的衰退，而固定智力不變。同輩效應和練習效應（不斷練習同樣的智商測試）一定要嚴格控制，否則會影響測試結果。[10]
+流動智力和固定智力的峰值很難確定，代表性研究顯示流動智力在相對年輕時較高，長期來看智力到中年及稍後時期也都還很穩定。[11]
+組別差異[编辑]
+智商研究的許多有爭議問題都是關於智商在性別与种族间的變化的，其存在與否及所謂的“原因”都還待定。
+性別[编辑]
+主条目：數學能力及性別
+大多數智商測試顯示男女之間並沒有太大區別。[12][13] 一些常用的智力量錶也沒有顯示出二者有所差異。[14] 2002年國際智商研究協會（International Society for Intelligence Research）表示這實際上是因為測試設計者及教育系統刻意抹消了實際存在的男女差別以避免爭議，該協會指出實際上確實存在“真正的性別”差異。[15]性別智商差異與種族智商差異一樣，涉及先天與後天的問題，需要考慮到環境因素。
+種族[编辑]
+主条目：種族與智商
+1996年，美國心理學協會資助的智商調查活動顯示不同種族之間的智力差距十分顯著，這涉及一個先天與後天的問題。包括艾倫·S·考夫曼[16] 、南森·布羅迪[17] 在內的心理學家和包括伯尼·德夫林在內的統計學家[18] 認為這要考慮到遺傳問題，而另外一些學者，例如理查德·尼斯貝特認為環境因素可以解決一切的組別差異。[19]
+分析[编辑]
+二十世纪以来，對於平均智商結果也較因當地教育方式而異，亞洲人通常重視數理、忽略文史，並大規模採用測驗題考試，不強調推論或分析，只強調迅速運算或解題情況下，較能對應智商測驗的方式，至於非洲人平均低智商，除了因為教育不普及，更有可能是智力測驗的缺失與僵化。
+参考文献[编辑]
+
+
+^ Kramer: Breastfeeding and Child Cognitive Development. JAMA Psiychiatry, 2008.
+^ Mussen, Paul Henry. Psychology: An Introduction. Lexington (MA): Heath. 1973: 363. ISBN 0-669-61382-7. The I.Q. is essentially a rank; there are no true "units" of intellectual ability. 
+^ Truch, Steve. The WISC-III Companion: A Guide to Interpretation and Educational Intervention. Austin (TX): Pro-Ed. 1993: 35. ISBN 0-89079-585-1. An IQ score is not an equal-interval score, as is evident in Table A.4 in the WISC-III manual. 
+^ Bartholomew, David J. Measuring Intelligence: Facts and Fallacies. Cambridge: Cambridge University Press. 2004: 50. ISBN 978-0-521-54478-8. Lay summary (27 July 2010). When we come to quantities like IQ or g, as we are presently able to measure them, we shall see later that we have an even lower level of measurement—an ordinal level. This means that the numbers we assign to individuals can only be used to rank them—the number tells us where the individual comes in the rank order and nothing else. 
+^ Mackintosh, N. J. IQ and Human Intelligence. Oxford: Oxford University Press. 1998: 30–31. ISBN 0-19-852367-X. In the jargon of psychological measurement theory, IQ is an ordinal scale, where we are simply rank-ordering people. . . . It is not even appropriate to claim that the 10-point difference between IQ scores of 110 and 100 is the same as the 10-point difference between IQs of 160 and 150 
+^ doi:10.1177/073428290302100302
+本引用來源將會在數十分鐘後自動完成。您可以检查英文对应模板或手動擴充
+^ Terman, Lewis Madison; Merrill, MaudeA. Measuring intelligence: A guide to the administration of the new revised Stanford-Binet tests of intelligence. Riverside textbooks in education. Boston (MA): Houghton Mifflin. 1937: 44. 
+^ Anastasi, Anne; Urbina, Susana. Psychological Testing Seventh. Upper Saddle River (NJ): Prentice Hall. 1997: 326–327. ISBN 978-0-02-303085-7. Lay summary (28 July 2010). 
+^ Kaufman, Alan S. IQ Testing 101. New York: Springer Publishing. 2009: 220–222. ISBN 978-0-8261-0629-2. Lay summary (10 August 2010). 
+^ Kaufman, Alan S. IQ Testing 101. New York: Springer Publishing. 2009. Chapter 8. ISBN 978-0-8261-0629-2. Lay summary (10 August 2010). [页码请求]
+^ Desjardins, Richard; Warnke, Arne Jonas. Ageing and Skills. OECD Education Working Papers. 2012. ISSN 1993-9019. doi:10.1787/5k9csvw87ckh-en. 
+^ doi:10.1037/0003-066X.51.2.77
+本引用來源將會在數十分鐘後自動完成。您可以检查英文对应模板或手動擴充
+^ doi:10.1037/a0026699
+本引用來源將會在數十分鐘後自動完成。您可以检查英文对应模板或手動擴充
+^ Jensen, A. (1998) The g Factor: The Science of Mental Ability (p. 531)
+^ Jackson, D. N. (2002, December 5–7). Evaluating g in the SAT: Implications for the sex differences and interpretations of verbal and quantitative aptitude. Paper presented at the International Society for Intelligence Research, Nashville, TN."
+^ Kaufman, Alan S. IQ Testing 101. New York: Springer Publishing. 2009: 173. ISBN 978-0-8261-0629-2. Lay summary (10 August 2010). 
+^ Brody, Nathan. To g or Not to g—That Is the Question. (编) Wilhelm, Oliver & Engle, Randall W. (Eds.). Handbook of Understanding and Measuring Intelligence. Thousand Oaks (CA): SAGE Publications. 2005. 
+^ Bernie Devlin, Stephen E. Fienberg, Daniel P. Resnick & Kathryn Roeder (编). Intelligence, Genes, and Success: Scientists Respond to the Bell Curve. New York (NY): Springer Verlag. 1997. ISBN 0-387-98234-5. [页码请求]
+^ Nisbett, Richard E. Intelligence and How to Get It: Why Schools and Cultures Count. New York (NY): W. W. Norton. 2009. ISBN 978-0-393-06505-3. Lay summary (28 June 2010). [页码请求]
+
+
+相關條目[编辑]
+
+情緒商數
+門薩學會
+香港門薩學會
+斯坦福-比奈智力量表
+《智商與國民財富》
+金雄鎔
+瑪麗蓮·沃斯·莎凡特
+威廉·詹姆斯·席德斯
+
+外部連結[编辑]
+
+
+
+
+分类：智力隐藏分类：包含未完成DOI引用來源的頁面未列明參考文獻頁碼的條目含有德語的條目含有英語的條目有未列明来源语句的条目

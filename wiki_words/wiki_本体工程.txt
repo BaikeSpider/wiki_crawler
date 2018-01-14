@@ -1,0 +1,700 @@
+本体工程
+
+
+
+
+示例：基于名义视图集合（英语：View model#Nominal set of views）所构建的一部MBED顶层本体[1]
+
+
+本体工程，又称为本体论工程、本体论设计或本体设计，是计算机科学与信息科学当中的一个新兴领域，旨在研究用于构建本体的方法和方法学。本体工程乃是一个新兴的研究和应用领域，关注的是本体开发过程、本体生命周期、用于构建本体的方法和方法学以及那些用于支持这些方面的工具套装和语言[2][3]。
+
+
+
+目录
+
+
+1 概述
+2 本体工程主题
+
+2.1 本体
+2.2 语义多重性
+2.3 过程规范语言
+2.4 语义建模
+
+
+3 本体语言
+4 本体工程工具
+5 参见
+6 参考文献
+7 延伸阅读
+8 外部链接
+
+
+
+概述[编辑]
+本体提供的是某一领域的公共词表，并采用不同水平的形式化程度，对术语的含义以及术语之间的关系加以界定。在过去的十年时间里，人们对于各种本体的关注日益增强。如今，本体已广泛应用于知识工程（英语：Knowledge engineering）、人工智能以及计算机科学领域；同时，本体还广泛应用于知识管理、自然语言处理、电子商务、智能信息集成、生物信息学和教育等方面以及语义网之类的新兴领域。本体工程旨在明确特定领域的那些隐含在软件应用程序以及企业机构和业务过程当中的知识。本体工程为解决各种语义障碍所造成的互操作性问题提供了一个前进的方向。其中，语义障碍指的也就是那些与业务术语和软件类的定义相关的障碍和问题。本体工程是一套与特定领域之本体开发工作相关的任务[4]。
+本体工程主题[编辑]
+本体[编辑]
+主条目：本体 (信息科学)
+本体就是由若干概念及其在某种逻辑理论（如一阶谓词演算）支持下的定义所构成的一种分类法[4]。有人已经为本体提出的定义就是，本体是一种对于某种概念体系（概念表达、概念化、概念化体系或者说概念化过程）的明确而又详细的说明[5]。对于特定一个领域而言，本体表达的是其那套术语、实体、对象、类、属性及其之间的关系，提供的是形式化的定义和公理，用来约束对于这些术语的解释[6]。本体允许使用一系列丰富的结构关系和非结构关系，如泛化、继承、聚合和实例化，并且可以为软件应用程序提供精确的领域模型[7]。例如，本体可以为传统软件提供面向对象型系统的对象模式（object schema），以及类的定义[8]。
+语义多重性[编辑]
+在整个生产制造生命周期里面，过程规划、过程建模、排程调度、工作流程以及模拟之类的软件应用程序，都会利用过程信息来描述生产活动当中所涉及到的活动、资源需求、订单关系以及时间约束。尽管一个应用程序的输出数据和过程可能会参与构成另一应用程序的输入，但这些应用程序通常情况下彼此之间并不进行互操作。对于每个应用程序和厂商来说，若要想实现数据和过程的共享，就必须编写某种转换程序[4] 。
+然而，这些过程的定义并不明确清晰，其间必然会碰到因为同义词问题所造成的不兼容性以及语义多重性（Semantic plurality）所引起的不一致问题。当采用不同的名称或字符串来命名两个功能相同的对象或类的时候，就会出现同义词问题。对于机器之间的通讯来说，汽车（应用程序甲）＝机动车辆（应用程序乙），并非显而易见的问题。当同样的名称在两个应用程序之中具有两种不同含义的时候，就会发生语义多重性问题。例如，资源（应用程序甲）＝耗材类资源，而资源（应用程序乙）＝机械工具。从传统上来说，点对点转换程序一直就是为解决此类问题而设计的。但是，当需要参与互操作的应用程序有很多的时候，所需编写的转换程序的数量就会呈指数方式增长，从而实现互操作性的成本与代价也会出现同样方式的提高[4]。
+过程规范语言[编辑]
+过程规范语言（英语：Process Specification Language）（Process Specification Language，PSL）由美国国家标准与技术研究院（National Institute of Standards and Technology，NIST）制定[9]。PSL在互操作性应用程序的开发方面采用的是一种不同的方法。PSL的这种方法就是要开发一部为那些与生产制造活动相关的概念提供明确定义的本体，并且建立种种用于支持应用程序之间定义转换的机制。PSL致力于创建一种用于建立过程规约的标准语言，用于明确而又详细地说明过程或过程流及其辅助参数，并且将其作为不同生产制造过程之间的一种公共交换语言[10]。
+PSL是一种稳健的交换技术，用于成就不同的生产制造应用程序之间的分布式协作。上述施莱诺夫等人的这篇论文阐述了，当PSL应用于生产制造过程的时候，PSL究竟是如何来解决那些与语义问题相关的问题。同时，作者在此文之中还针对如何对PSL加以改编，以便将其用于生产制造企业集成方面的基于智能体的系统（agent-based systems），提出了一些初步的想法[4]。
+语义建模[编辑]
+PSL之中对于概念的定义是采用知识交换格式（Knowledge Interchange Format，KIF）来表达的[11]，并且采用形式逻辑来定义它们的语义。采用KIF的好处就是能够证明定义和公理的一致性和完整性。PSL本体具有可扩展性，且建立在一种由公理和扩展所构成的核心（即PSL核心本体）的基础之上[4]。
+PSL本体之中存在着三种基本实体（活动、对象和时间点）以及四种基本关系（参与“participates_in”、之前于“before”,、是……的开始“begin_of”和是……的结束“end_of”）。关于PSL核心本体和扩展的详细论述，可参见其他资料[10] [12][13]。
+当前，PSL之中收录有大约300个分散于31个模块之中的概念。现在，其中已经表达有过程建模、排程调度以及模拟方面的固有概念。为了对作为一种交换语言的PSL加以验证，目前已经成功实现了首个过程信息交换试点实施项目；该试点项目是在基于IDEF3（英语：IDEF3）的业务过程建模工具与一种C++调度程序之间进行的[14]。
+本体语言[编辑]
+主条目：本体语言
+本体一般都是采用本体语言来编制的。本体语言，又称为“本体论语言”，是一种用于编制本体的形式化语言。目前，存在着许许多多此类的本体语言，既包括专有的，也包括基于标准的：
+
+普通逻辑（英语：Common logic）（Common logic）就是ISO标准24707；这是关于一种本体语言家族的技术规范，其中的本体语言彼此之间可以准确地相互转换[15]。
+Cyc项目有其自己的，基于一阶谓词演算，且具有某些高阶扩展的本体语言（即CycL（英语：CycL））[16]。
+Gellish（英语：Gellish）语言之中包括了关于自身扩展的规则，因而集成了一部本体和一种本体语言[17]。
+IDEF5（英语：IDEF5）是一种用于编制和维护准确的，具有可复用性的领域本体的软件工程方法[18]。
+知识交换格式（Knowledge Interchange Format，KIF）是基于S-表达式的一种一阶逻辑语法[19]。
+规则交换格式（Rule Interchange Format，RIF）与F-逻辑（英语：F-Logic）（F-Logic）可将各种本体和规则结合起来[20]。
+OWL（Web Ontology Language）是一种用于编写本体声明（ontological statements）的语言。OWL的发展继承了RDF和RDFS以及一些早期的本体语言项目，包括本体推理层（英语：Ontology Inference Layer）（Ontology Inference Layer，OIL）、DARPA智能体标记语言（英语：DARPA Agent Markup Language）（DARPA Agent Markup Language，DAML）以及DAMLplusOIL（英语：DAMLplusOIL）。OWL旨在应用于万维网之上；而且，其构成要素（类、属性和个体）均被定义为RDF资源，并采用URI加以标识[21]。
+
+本体工程工具[编辑]
+
+
+
+
+DogmaModeler建模程序的屏幕快照
+
+
+
+DOGMA（英语：DOGMA）
+DogmaModeler（英语：DogmaModeler）
+KAON（英语：KAON）
+OntoClean（英语：OntoClean）
+OnToContent（英语：OnToContent）
+
+参见[编辑]
+
+本体双重表述（英语：Ontology double articulation）
+模块化
+
+参考文献[编辑]
+
+
+^ （英文） Peter Shames, Joseph Skipper. "Toward a Framework for Modeling Space Systems Architectures" 互联网档案馆的存檔，存档日期2009-02-27.. NASA, JPL.
+^ （英文） Asunción Gómez-Pérez, Mariano Fernández-López, Oscar Corcho (2004). Ontological Engineering: With Examples from the Areas of Knowledge Management, E-commerce and the Semantic Web. Springer, 2004.
+^ （英文） A. De Nicola, M. Missikoff, R. Navigli (2009). "A Software Engineering Approach to Ontology Building". Information Systems, 34(2), Elsevier, 2009, pp. 258-275.
+^ 4.0 4.1 4.2 4.3 4.4 4.5 （英文） Line Pouchard, Nenad Ivezic and Craig Schlenoff (2000) "Onotology Engineering for Distributed Collaboration in Manufacturing" to appear in the Proceedings of the AIS2000 conference, March 2000.
+^ （英文）Tom Gruber (1993). "A Translation Approach to Portable Ontology Specifications". In: Knowledge Acquisitions 5, (May): 199-220.
+^ （英文）Gomez-Perez, A. 1998. "Knowledge Sharing and Re-Use". In: The Handbook of Applied Expert Systems. J. Liebowitz, (ed.) Boca Raton, 10:1-10:36.
+^ （英文）Hunhs, M. N. and M. P. Singh (1997). "Ontologies for Agents". In: IEEE-Internet Computing 1, no. 6 (Nov.- Dec. 1997). pp. 81-83.
+^ （英文）Fikes, R. and A. Farquahr. (1999). "Distributed Repositories of Highly Expressive Reusable Ontologies". In: IEEE Intelligent Systems and their Applications. 14, no.2 (March-Apr.). pp. 73-79.
+^ （英文）NIST (1999). "Process Specification Language". National Institute of Standards and Technology.
+^ 10.0 10.1 （英文）Schlenoff, C.; M. Gruninger; and M. Ciocoiu (1999). "The Essence of the Process Specification Language". In: Transactions of the Society for Computer Simulation International. Special Issue on Modeling and Simulation of Manufacturing Systems.
+^ （英文）Genesereth, M. and R.E. Fikes (1992). "Knowledge Interchange Format, Version 3.0. Reference Manual." Technical Report Logic-92-1. Computer Science Department, Stanford University, Stanford, CA.
+^ （英文）Schlenoff, C.; R. Ivester; and A. Knutilla. (1998). "A Robust Process Ontology for Manufacturing Systems Integration". In: Proceedings of the 2nd International Conference on Engineering Design and Automation. (Maui, HI, Aug. 7-14).
+^ （英文）Knutilla, A.; C. Schlenoff; S. Ray et al. (1997). "Process Specification Language: Analysis of Existing Representations". NISTIR 6133. National Institute of Standards and Technology, Gaithersburgh, MD, (Sept.)
+^ （英文）Schlenoff, C.; M. Gruninger; M. Ciocoiu; and D. Libes. (1999). "Process Specification Language (PSL): Results of the first Pilot Implementation." In: Proceedings of IMECE: International Mechanical Engineering Congress and Exposition. (Nashville, TN, Nov. 14-19).
+^ Common Logic Working Group Documents. [2009-03-08] （英语）. 
+^ OpenCyc FAQ. [2009-03-08] （英语）. 
+^ SourceForge.net: Gellish - A Product Modeling Language. [2009-03-08] （英语）. 
+^ （英文） Perakath C. Benjamin et al. (1994). IDEF5 Method Report. Knowledge Based Systems, Inc.
+^ Knowledge Interchange Format. [2009-03-08] （英语）. 
+^ Rule Interchange Format (RIF) Working Group - RIF. [2009-03-08] （英语）. 
+^ OWL Web Ontology Language Overview. [2009-03-08] （英语）. 
+
+
+
+注：本条目之中吸纳了来自美国国家标准与技术研究院（National Institute of Standards and Technology，NIST）的一份出版物当中的内容。该出版物是属于公有领域范围内的美国联邦政府出版物。来源：美国国家标准与技术研究院网站。
+
+延伸阅读[编辑]
+
+
+（英文）John Davies (Ed.) (2006). Larger ImageSemantic Web Technologies: Trends and Research in Ontology-based Systems. Wiley. ISBN 978-0-470-02596-3
+（英文）Asunción Gómez-Pérez, Mariano Fernández-López, Oscar Corcho (2004). Ontological Engineering: With Examples from the Areas of Knowledge Management, E-commerce and the Semantic Web. Springer, 2004.
+（英文）Jarrar M. (2006). "Towards the notion of gloss, and the adoption of linguistic resources in formal ontology engineering". In: Proceedings of the WWW'06. 497-503. ACM.
+（英文）Mustafa Jarrar and Robert Meersman (2008). "Ontology Engineering -The DOGMA Approach". Book Chapter (Chapter 3). In Advances in Web Semantics I. Volume LNCS 4891, Springer.
+（英文）Riichiro Mizoguchi and Mitsuru Ikeda (1996). "Towards Ontology Engineering". Technical Report AI-TR-96-1, I.S.I.R., Osaka Univ.
+（英文）Pouchard, L., Schlenoff, C., Ivezic, N. (2000), "Ontology Engineering for Distributed Collaboration in Manufacturing," In: Proceedings of the AIS2000 Artificial Intelligence and Simulation Conference, Tucson, AZ, March 2000.
+（英文）Elena Paslaru Bontas Simperl and Christoph Tempich (2006). "Ontology Engineering: A Reality Check"
+
+
+外部链接[编辑]
+
+（英文）Metadata? Thesauri? Taxonomies? Topic Maps!
+（英文）Process Specification Language (PSL)
+（中文）理解本体[失效連結] : 作者:丛子杰
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+语义网
+
+
+
+
+
+
+背景
+
+
+
+知识
+万维网
+因特网
+数据库
+语义网络
+本体工程
+本体
+
+
+
+
+
+
+
+
+分主题
+
+
+
+数据网（英语：Data Web）
+数据空间（英语：Dataspaces）
+Dereferenceable URIs
+Hyperdata
+鍵連資料
+本体
+规则库
+
+
+
+
+
+
+
+
+应用
+
+语义维基（英语：Semantic wiki） · 语义发布（英语：Semantic publishing） · 语义搜索 · 语义宣传（英语：Semantic advertising） · 语义推理程序（英语：Semantic reasoner） · 语义匹配（英语：Semantic matching） · 语义映射程序（英语：Semantic mapper） · 语义代理程序（英语：Semantic broker） · 语义分析方法（英语：Semantic analytics） · 面向语义服务型架构（英语：Semantic service oriented architecture） · 语义检索
+
+
+
+
+
+
+相关主题
+
+
+
+集体智慧
+描述逻辑
+信息架构
+知识管理
+知识表示
+图书馆2.0
+元数据
+引用
+Web 2.0
+Plain Old Semantic HTML
+搜索引擎优化
+开放数据库连接(ODBC)
+主题地图
+心智图
+XML
+描述逻辑
+分众分类法
+
+
+
+
+
+
+
+
+人物
+
+蒂姆·伯纳斯-李 · James Hendler（英语：James Hendler） · Ora Lassila · Nigel Shadbolt · Wendy Hall
+
+
+
+
+
+
+关键的语义网组织
+
+W3C · WSRI · MIT · OpenLink软件 · Talis工作组 · ClearForest · 南安普敦大学 · DERI
+
+
+
+
+
+
+标准
+
+
+
+
+语法及支持技术
+
+
+
+HTTP
+IRI（英语：Internationalized resource identifier）
+
+URI
+
+
+资源描述框架(RDF)
+
+Notation 3（英语：Notation 3）
+Turtle (语法)（英语：Turtle (syntax)）
+JSON-LD（英语：JSON-LD）
+N-Triples（英语：N-Triples）
+
+
+SPARQL
+XML
+
+
+
+
+
+
+
+
+模式、本体和规则
+
+RDFS · OWL · 规则交换格式 · 语义网规则语言
+
+
+
+
+
+
+语义标注
+
+RDFa · eRDF · GRDDL · 微格式
+
+
+
+
+
+
+公共词表
+
+FOAF · SIOC · Dublin Core · SKOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+技术
+
+
+
+
+
+
+領域
+
+
+
+
+農業
+
+
+
+农业工程
+水產養殖
+水产学
+食品化学
+食品工程
+营养学
+食品技术
+食品微生物学（英语：Food microbiology）
+遺傳利用限制技術（英语：Genetic use restriction technology）
+
+
+
+
+
+
+
+
+生物医学（英语：Biomedical technology）
+
+
+
+生物信息学
+生物医学工程
+生物工程学
+生物技术
+健康科学
+生化檢驗
+药理学
+神经科学
+组织工程学
+基因工程
+纳米医学
+化学信息学
+
+
+
+
+
+
+
+
+水利/土木建築
+
+
+
+水利工程
+土木工程
+建築工程
+建築設備
+消防工程
+安全工程
+結構工程
+
+
+
+
+
+
+
+
+教育技术
+
+
+
+在线学习
+教育技术学
+教育软件（英语：Educational software）
+虚拟校园（英语：Virtual campus）
+
+
+
+
+
+
+
+
+能源
+
+
+
+核工程
+核技术
+储能技术
+石油工程（英语：Petroleum engineering）
+
+
+
+
+
+
+
+
+军事
+
+
+
+彈藥
+炸彈
+軍事技术
+電子作戰
+低可偵測性技術
+工兵
+军事通信（英语：Military communications）
+
+
+
+
+
+
+
+
+信息
+
+
+
+人工智能
+計算機工程
+计算机科学
+音乐工艺
+通信工程
+通信
+图形
+信息技术
+軟件工程
+音乐
+语音识别
+可视化技术
+系统分类学
+本体工程
+信息学
+
+
+
+
+
+
+
+
+工业（英语：Industrial technology）
+
+
+
+纳米科技
+音频工程
+生物工程
+生化工程
+陶瓷工程
+化学工程
+控制工程
+低温学
+電機工程學
+电子工程
+工程技术
+工程学
+工业工程学
+企业工程
+水力学
+机械工程
+機械電子學
+冶金工程
+海洋工程
+光学工程
+系统工程
+运输工程
+电动机械学
+金融工程学
+制造
+机械
+采矿业
+自动化技术
+冶金学
+
+
+
+
+
+
+
+
+交通
+
+
+
+航空航天
+航空航天工程
+空间技术
+机动车
+車輛工程
+交通工程
+流量工程
+
+
+
+
+
+
+
+
+環境科技
+
+
+
+綠色建築
+可再生能源
+永續設計
+环境工程
+生態工程
+潔淨科技（英语：Clean technology）
+生態技術（英语：Ecotechnology）
+環境工程科學（英语：Environmental engineering science）
+
+
+
+
+
+
+
+
+应用科学
+
+
+
+考古
+电子学
+光学
+半导体物理学
+环境科学
+材料科学
+微系统
+微技术
+纳米技术
+
+
+
+
+
+
+
+
+其他领域
+
+
+
+机器人学
+机械电子学
+蛋白质工程
+系统工程
+聚合物工程（英语：Polymer engineering）
+
+
+
+
+
+
+
+
+
+
+
+組件
+
+
+
+基礎設施
+發明
+发明年表
+知識
+機器
+技能
+工艺
+工具
+
+
+
+
+
+
+
+
+技術史
+
+
+
+新石器革命
+工業革命
+第二次工業革命
+數字化革命
+第三次工業革命
+信息時代
+史前技术（英语：Outline of prehistoric technology）
+古代技術（英语：Ancient technology）
+中世紀技術（英语：Medieval technology）
+文藝復興技術（英语：Renaissance technology）
+噴氣時代（英语：Jet Age）
+
+
+
+
+
+
+
+
+理論（英语：Theories of technology）
+和概念
+
+
+
+適用技術
+破壞性創新
+高科技
+技术成熟度曲线
+专家统治
+技术决定论
+技術官僚
+技术奇异点
+技术接受模型
+超人类主义
+軍民兩用技術（英语：Dual-use technology）
+技术伦理（英语：Ethics of technology）
+
+
+
+
+
+
+
+
+其他
+
+
+
+新興技術列表
+卡尔达肖夫指数
+Category:各国科技
+Category:科技公司
+Category:技术大学和学院
+技术传播者
+技术新闻学
+
+
+
+
+
+
+
+
+
+
+
+ Category:技術
+ commons:Category:技術
+ Portal:技術
+
+
+
+
+
+
+
+
+
+
+
+
+分类：知识工程技術通信資訊科學语义网本體 (電腦科學)隐藏分类：Webarchive模板wayback链接CS1英语来源 (en)含有英語的條目带有失效链接的条目条目有永久失效的外部链接使用ISBN魔术链接的页面

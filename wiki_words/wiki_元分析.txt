@@ -1,0 +1,442 @@
+元分析
+統計學上來說，元分析（meta-analysis，或譯作後設分析、整合分析、綜合分析、薈萃分析）是指將多個研究結果整合在一起的統計方法。就用途而言，它是文獻回顧的新方法。
+文獻回顧的傳統方法是敘事式的，由作者自行挑選覺得重要的前人研究，當各研究結論衝突時，由作者自行判斷哪一種結論較具價值。反之，後設分析採用系統化的資料收集和數值分析，讓文獻回顧更具客觀性與證據力。[1] 這些組合後的結果會有助於以更加全面性的證據觀察來支持或拒絕某一主題研究的假設，發現該主題迄今研究的不足處，發現各種可能影響效应量的中介因素。
+世上首個後設分析是由皮爾生在1904年進行，其目的是解決樣本數細小的研究統計考驗力減低的問題，而整合多個研究結果可更準確分析數據。[2] 以後設分析方法（但醫學上稱之為系統化的回顧 (systematic review)）研究醫學治療研究的論文要到1955年材首次發表。牛津英文字典指出meta-analysis這個英文字首次使用為1976年，是來自心理學界的研究。1970年代末到1980年代末，心理學界、教育研究界的學者發展出更加複雜的統計方法。到了1990年代，後設分析已成為許多人文科學、社會科學、自然科學領域最先進的文獻回顧方法。 而後設分析的統計理論，Nambury S. Raju, Larry V. Hedges, Ingram Olkin, John E. Hunter, Harris Cooper 和 Frank L. Schmidt 等人的貢獻很大。
+現代醫學的應用[编辑]
+收集主題相同的研究，再將每個研究的結果運算為統一的效果量，再將不同研究的效果量以統計方法結合。由於每個研究的本質都有所不同，可引致結果出現異質性。具有異質性後設分析，可用隨機效果模型（英语：Random effects model）分析數據。 後設分析的結果，除了整合的效果量數值，也常用森林圖（英语：forest plot）表現。
+個別研究品質的影響[编辑]
+後設分析的統計方法並不在乎收集到研究的品質；若以品質差的研究進行後設分析，只會合計出差勁的結果，即所謂垃圾進，垃圾出。所以在進行統計分析之前會先評價收集研究的品質，排除不良的研究後再就剩下可用的研究進行結合。
+後設分析的另一個缺點，是收集的研究多數以搜查文獻資料庫（如PubMed、Web of Knowledge（英语：Web of Knowledge））獲得，但這些資料庫只會收錄已經發表的研究，因此，後設分析很少整合未發表的研究。有證據證明未發表的研究不能被期刊接受的原因，是該研究發現研究結果不顯著[3]；而發現研究結果顯著的研究卻能發表及收錄在元分析，這會令後設分析結果出現統計上的偏誤（bias）。然而這個缺點也正是後設分析的優點：在後設分析的標準步驟中，包含了已發表研究之偏誤的分析（publication bias analysis）。相反地，在傳統敘事式的文獻回顧中，缺乏系統化的方法以檢視已發表研究之偏誤。
+參考文獻[编辑]
+
+
+^ Jones DR. Meta-analysis: weighing the evidence.. Stat Med. 1995, 14: 137–149. 
+^ Pearson K. Report on certain enteric fever inoculation statistics.. BMJ. 1904, 3: 1243–1246. 
+^ Dickersin, K.; Chan, S.; Chalmersx, T.C.; Sacks, H.S.; Smith, H. Publication bias and clinical trials. Controlled Clinical Trials: 343–353. doi:10.1016/0197-2456(87)90155-3. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+生物醫學研究：臨床研究設計 / 试验设计
+
+
+
+
+
+
+概觀
+
+
+
+臨床試驗
+
+Trial protocols（英语：Clinical trial protocol）
+
+
+Academic clinical trials（英语：Academic clinical trials）
+Clinical study design（英语：Clinical study design）
+
+
+
+
+
+
+
+
+對照實驗
+(EBM I to II-1; A to B)
+
+
+
+随机对照试验 (雙盲, Open-label trial（英语：Open-label trial）)
+
+
+
+
+
+
+
+
+觀察性研究
+(EBM II-2 to II-3; B to C)
+
+
+
+Cross-sectional study（英语：Cross-sectional study） vs. Longitudinal study（英语：Longitudinal study）, Ecological study（英语：Ecological study）
+队列研究
+
+Retrospective（英语：Retrospective cohort study）
+Prospective
+
+
+病例對照研究 (Nested case-control study（英语：Nested case-control study）)
+Case series（英语：Case series）
+Case study（英语：Case study）
+Case report（英语：Case report）
+
+
+
+
+
+
+
+
+流行病学/
+研究法
+
+
+
+occurrence（英语：Epidemiological_methods#Measures_of_occurrence）： 發病率（累积发病率）
+Prevalence
+
+Point
+Period
+
+
+
+
+相关： 絕對關係（Absolute risk reduction（英语：Absolute risk reduction）、Attributable risk（英语：Attributable risk）、Attributable risk percent（英语：Attributable risk percent））
+相對關係（相對風險、Odds ratio（英语：Odds ratio）、风险比)
+
+
+其它（英语：Epidemiological_methods#Other_measures）： End point of clinical trials（英语：End point of clinical trials）
+Virulence
+病毒性
+死亡率
+病發率
+病死率
+靈敏度和特異度
+Likelihood-ratios（英语：Likelihood ratios in diagnostic testing）
+Pre/post-test probability（英语：Pre- and post-test probability）
+
+
+
+
+
+
+
+
+試驗/測試類型
+
+
+
+In vitro
+In vivo
+Animal testing
+Animal testing on non-human primates（英语：Animal testing on non-human primates）
+First-in-man study（英语：First-in-man study）
+Multicenter trial（英语：Multicenter trial）
+Seeding trial（英语：Seeding trial）
+Vaccine trial（英语：Vaccine trial）
+
+
+
+
+
+
+
+
+臨床試驗分析
+
+
+
+Risk–benefit analysis（英语：Risk–benefit analysis）
+系統綜述
+元分析
+
+
+
+
+
+
+
+
+對結果的解釋
+
+
+
+Selection bias（英语：Selection bias）
+相關不蘊涵因果
+Null result（英语：Null result）
+
+
+
+
+
+
+
+
+
+
+
+臨床研究分類
+詞彙
+主題列表
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+統計學
+
+
+
+
+
+
+描述統計學
+
+
+
+
+
+连续概率
+
+
+
+
+
+
+集中趋势
+
+
+平均數（平方 · 算術 · 幾何 · 調和 · 算术-几何 · 几何-调和 · 希羅|平均數不等式） · 中位數 · 眾數
+
+
+
+
+
+
+
+离散程度
+
+
+全距 · 標準差 · 變異係數 · 百分位數 · 四分差 · 四分位数 · 方差 · 標準分數 · 切比雪夫不等式
+
+
+
+
+
+
+
+分布形态（英语：Shape of the distribution）
+
+
+偏態 · 峰態
+
+
+
+
+
+
+
+
+
+
+离散概率
+
+
+次數（英语：Count data） · 列聯表（英语：Contingency table）
+
+
+
+
+
+
+
+
+
+
+
+
+推論統計學
+和 假設檢定
+
+
+
+
+
+推論統計學
+
+
+置信区间 · 區間估計（英语：Interval estimation） · 顯著性差異 · 元分析 · 貝氏推論
+
+
+
+
+
+
+
+实验设计
+
+
+统计总量 · 抽样 · 重复（英语：Replication (statistics)） · 阻碍 · 特敏度 · 區集（英语：Blocking (statistics)）
+
+
+
+
+
+
+
+样本量（英语：Sample size）
+
+
+统计功效 · 效应值 · 标准误 · 虛無假設 · 對立假設（英语：Alternative hypothesis） · 第一型和第二型誤差 · 統計檢定力
+
+
+
+
+
+
+
+常规估计
+
+
+贝叶斯推论 · 區間估計（英语：Interval estimation） · 最大似然估計 · 最小距離估計（英语：Minimum distance estimation） · 矩量法 · 最大间距
+
+
+
+
+
+
+
+特效检验
+
+
+Z检验 · 學生t檢驗 · F检验 · 卡方检验 · Wald检验（英语：Wald test） · 曼-惠特尼检验（英语：Mann–Whitney U test） · 秩和检验
+
+
+
+
+
+
+
+生存分析
+
+
+生存函數 · 乘積極限估計量 · 對數秩和檢定 · 失效率 · 危險比例模式
+
+
+
+
+
+
+
+
+
+相关及
+回归分析
+
+
+
+
+
+相关性
+
+
+混淆變項（英语：Confounding） · 皮爾森積差相關係數 · 等級相關（英语：Rank correlation） (史匹曼等級相關係數 · 肯德等級相關係數（英语：Kendall tau rank correlation coefficient）)
+
+
+
+
+
+
+
+线性回归
+
+
+線性模式（英语：Linear model） · 一般線性模式 · 廣義線性模式 · 方差分析 · 協方差分析（英语：Analysis of covariance）
+
+
+
+
+
+
+
+非线性回归（英语：Nonlinear regression）
+
+
+非参数回归模型（英语：Nonparametric regression） · 半参数回归模型（英语：Semiparametric regression） · Logit模型
+
+
+
+
+
+
+
+
+
+統計圖形
+
+饼图 · 条形图 · 雙標圖 · 箱形圖 · 管制圖 · 森林圖（英语：Forest plot） · 直方圖 · QQ圖 · 趋势图 · 散佈圖（英语：Scatter plot） · 莖葉圖（英语：Stem-and-leaf display） · 雷达图（英语：Radar chart） · 示意地圖
+
+
+
+
+
+
+
+
+
+分类
+主题
+共享资源
+ 专题
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4169552-5
+
+
+
+
+
+
+
+
+
+
+
+
+分类：流行病学研究方法評價方法社會學方法論社會科學方法論教育心理学循证实践元分析隐藏分类：包含规范控制信息的维基百科条目

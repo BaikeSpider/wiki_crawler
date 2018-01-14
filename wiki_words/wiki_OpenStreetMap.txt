@@ -1,0 +1,639 @@
+開放街圖
+
+
+
+
+
+本条目翻譯品質不佳。 
+翻譯者可能不熟悉中文或原文語言，也可能使用了機器翻譯，請協助翻譯本條目或重新編寫。明顯拙劣的機器翻譯請改掛{{Delete|G13}}提交刪除。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OpenStreetMap
+
+
+
+
+
+上海的OpenStreetMap地圖
+
+
+
+网站类型
+網上地圖地圖協作計劃（英语：Collaborative mapping）wiki
+
+
+语言
+操作介面超過140個語言，可以有無限組的地圖資料語言[1]
+
+
+持有者
+OpenStreetMap社群，由OpenStreetMap基金會
+英语：OpenStreetMap Foundation維運[2]
+
+
+创始人
+史蒂夫·克斯特（Steve Coast）
+
+
+标语
+自由的Wiki式世界地图
+英语：The Free Wiki World Map
+
+
+网站
+https://www.openstreetmap.org
+
+
+商业性质
+否
+
+
+注册
+贡献者需要注册
+
+
+用户
+1734310[3]
+
+
+推出时间
+2004年7月1日，​13年前​（2004-07-01）
+
+
+內容許可
+ODbL
+
+
+开放街道地图（英语：OpenStreetMap，缩写为OSM）[註 1]是一個建構自由內容之網上地圖協作計劃，目標是創造一個內容自由且能讓所有人編輯的世界地圖，並且讓一般便宜的行動裝置有方便的導航方案。[4][5]
+OSM計畫由英國人史蒂夫·克斯特（Steve Coast）創立，概念啟發自維基百科網站，以及英國與其他地區私有地圖資料佔盡優勢的状况[6]。OSM已有超過两百萬名註冊用戶[7]。一如維基百科等網站，OSM網站地圖頁有「編輯」按鈕，亦有记录修訂歷史。經註冊的用戶可上載GPS路徑，及可編輯地圖的向量數據，包括使用OSM網站的編輯器或其他自由地理信息系统軟件，如JOSM。
+OSM的地圖由用戶根據手持GPS裝置、航空攝影照片、衛星影像、其他自由內容以至單靠用户由於對有關區域的熟悉而具有的本地知識繪製。地圖的向量數據以開放資料庫授權（英语：Open Database License）方式授權[6]。OSM網站由英國非營利組織OpenStreetMap基金會贊助維運[5]。
+
+
+
+目录
+
+
+1 歷史
+2 授權
+3 OpenStreetMap年會－State of the Map
+4 地圖
+
+4.1 編輯地圖的軟體
+4.2 OSM的貢獻者
+4.3 地面資料調查和個人當地知識
+4.4 政府數據
+
+
+5 使用地圖
+
+5.1 使用地圖的軟體
+5.2 人道主義援助
+
+
+6 法律層面
+
+6.1 許可條款
+6.2 商業資料
+
+
+7 OSM作業
+
+7.1 資料格式
+7.2 商業服務
+
+
+8 类似项目
+9 注释
+10 参考文献
+11 外部連結
+
+
+
+歷史[编辑]
+
+
+
+
+史蒂夫·克斯特（2009）
+
+
+OpenStreetMap在2004年7月由史蒂夫·克斯特始創。2006年4月，OpenStreetMap基金會成立，鼓勵自由地理數據的增長，發展和分布，並向所有人提供地理數據以供使用及分享。2006年12月雅虎允許OpenStreetMap使用其航空攝影相片，作為編輯的根據[8]，有關安排已於2011年9月13日雅虎地圖API關閉而結束[9]。
+2007年7月第一屆國際The State of the Map會議舉行，當時OSM有9,000名註冊用戶。會議的贊助商包括谷歌，雅虎及Multimap。2007年12月，牛津大學成為第一家在其主網頁採用OSM資料的大型機構。[10]
+2008年1月，OSM地圖資料已可下載至GPS裝置，供單車用者使用。[11]於同年3月，兩名創立者包括史蒂夫·克斯特宣布，獲創業投資基金投資240萬歐元，創立CloudMade，一間使用OSM資料的商業機構。[12]
+2010年11月24日，微軟宣布，開放Bing Maps航空攝影圖給OSM的貢獻者編輯地圖，並公布該公司聘用史蒂夫·克斯特（Steve Coast）為Bing Mobile的專任設計工程師[13]。
+授權[编辑]
+OSM原以共享創意姓名標示-相同方式分享2.0授權[14]，目的是為促進以商業或非商業方式，使用及分發OSM的地圖資料。2012年9月12日，授權方式改為Open Data Commons的開放資料庫授權（Open Database License, ODbL），OSM基金會認為有關方式較適合用於地圖資料。[15]
+在更改授權方式的過程中，部分地圖資料須被移除，包括未有同意新授權條款的註冊用戶所加入或編輯的資料，而基於上述資料的隨後編輯，亦會受到影響。移除程序於2012年7月進行，最終有超過99%的資料得以保留，惟部份國家如澳洲及波蘭，地圖資料受到較嚴重的影響[16]。
+OpenStreetMap年會－State of the Map[编辑]
+自從2007年，OpenStreetMap社群開始舉辦國際年會，State Of The Map。曾舉辦年會的地方如下：
+
+2007：英國曼徹斯特[17]
+2008：愛爾蘭利默里克[18]
+2009：荷蘭阿姆斯特丹[19]
+2010：西班牙赫羅納[20]
+2011：美國丹佛[21]
+2012：日本東京[22]
+2013：英國伯明罕[23]
+2014：阿根廷布宜諾斯艾利斯[24]
+2016：比利时布鲁塞尔[25]
+2017：日本会津若松
+
+地圖[编辑]
+在OSM剛起步的時候，地圖中的資料都是由志愿者使用GPS和筆記型電腦，數位相機，或者錄音機，在實地探查中採集的。在資料採集後，每一筆資料就會被輸入開放街圖的資料庫。
+随着时间的推移，渐渐普及的航空摄影数据和其它来自商业机构或政府机关的数据也成为了重要的数据来源，这些数据可供手工编辑使用或是进行自动导入。这大大了增加了資料採集的速度，同時也讓土地使用資料能更有效率和精確地被數位化。当前情况下，数据常常需要经过特殊的流程进行处理，以便于对自动导入过程进行控制，同时避免出现法律和技术上的问题。[26]
+編輯地圖的軟體[编辑]
+
+iD：瀏覽器內嵌的編輯器，也是当前网站的默认编辑器。它使用d3.js，由Mapbox編寫。[27]
+Potlatch 2：比較早期的地圖編輯軟體，基于Flash，同样内嵌于网页中。面向中階使用者。
+JOSM：編輯功能比較強大的桌面軟體，使用Java编写。比較適合進階使用者。
+
+
+
+
+在地面資料收集後，使用JOSM做地圖編輯
+
+
+
+
+除上述三个主要编辑器外，也存在一些其它编辑器。例如，为GNOME桌面环境开发的、运行在许多Linux操作系统上的GNOME Maps应用程序将在3.20版添加对OpenStreetMap地图的编辑功能。OpenStreetMap的编辑器页面对各类地图编辑软件有较为详细的介绍。
+OSM的貢獻者[编辑]
+
+
+
+
+對OSM提供資料的用戶 (月份爲單位)
+
+
+
+
+
+
+已註冊OSM的成員
+
+
+OSM有廣大不同區域的使用者，由於着重在收集更當地的資料和實地資料收集，早期就有很多提供OSM資料的自願者用腳踏車來進行路道資料的收集。[28]除此之外，有些精通於GIS的專家都通過Esri工具向OSM提供地圖資料。[29]
+OSM使用率的增長
+
+2008年8月：（二次The State of the Map會議結束之後），已有50,000名使用者。
+2009年3月：數目超出100,000名。
+2009年12月：幾乎接近200,000名。
+2012年4月：使用者600,000名。[30]
+2013年1月：使用者達到一百萬名[31]，其中約30%的用戶至少都在OSM中提供了一個準確的地點。[32]
+
+地面資料調查和個人當地知識[编辑]
+
+
+
+
+正在使用定位器檢查路線
+
+
+地面道路資料調查是由地圖編輯者進行收集的，他們使用的交通工具包括步行，腳踏車，轎車，機車或者船。地圖上的看見的資料通常都是用GPS收集（不強制），但也有部分是使用衛星繪圖所制。
+當一條道路的資料（或者一個地點）被收集完整後，它就會被上轉到OSM的網站，然後被導入到OSM資料庫中。在這個時刻，這筆資料無法顯示它是哪一類的地圖資料，比如說它可以是機車道，房子或者一條運河，所以在接下來就需要使用OSM地圖編輯器（e.g. JOSM）來編輯已上傳的資料。這兩個資料採集的步驟通常都是同一個地圖資料採集者完成，或者第二筆資料是後期被其他編輯者補上。
+因爲資料的收集和編輯可以是兩個分開的項目，所以就算沒有GPS，也能在OSM上添加任何地圖資料。還有一點就是類似學校，醫院，酒吧，公車站等的地點，就需要依靠編輯者的個人當地知識的瞭解。
+在OSM地圖資料的貢獻中，有些熱忱的地圖編輯者會認領完成整個小鎮或者是一個城市在OSM中標記，也有一些成員會組織地圖編輯會，集和大家的力量來完成一個區域在OSM中的標記。相對之下比較大部分的OSM使用者都分散對區域性較小的資料除錯工作做出貢獻。
+政府數據[编辑]
+一些政府机构会以适当的授权发布的官方数据，从而可被OpenStreetMap所使用。其中有相当一部分来源于美国，因为美国联邦政府的作品均处于公有领域中。[33]
+在美國，OSM使用的衛星圖像來自Landsat 7，NOAA的Prototype Global Shoreline和Census的TIGER。在英國，OSM使用了一些Ordance Survey的開放資料，而在加拿大，OSM使用的是NRCan的Canvec中的地圖向量資料，然後使用GeoBase來提供土地區域和街道。
+不受版權保護而資料並沒有太大變動的地圖均可以成爲OSM中的良好資料來源，被版权保护的资料则情况不一。例如，英國的Crown Copyright（英语：Crown Copyright）有50年的版權期限，因此20世纪60年代以前的英国地形测量局地图均可被OSM合法使用。英国自20世纪40年代晚期至50年代早期的完整的1英寸/英里地图已被收集、扫描并上传而在线可用，供地图贡献者们使用。
+使用地圖[编辑]
+使用地圖的軟體[编辑]
+
+
+
+
+倫敦街道在OSM的Mapnik層中顯示
+
+
+
+
+
+
+OSM在Mapbox圖中顯示倫敦街道層
+
+
+
+瀏覽器
+使用OSM最普遍的軟體，現代的瀏覽器都能通過HTTP協議來使用OSM。
+
+
+GNOME Maps
+前端由Javascript所編寫，推出的時候被包含在GNOME 3.10裏。目前它主要的服務是通過GeoClude的技術，查詢地圖用戶的所在地，而對於大量的的查詢，它也能返回各個相對的可能地址。
+
+
+Marble
+被OSM所維護。
+
+
+FoxtrotGPS
+FoxtrotGPS是一個GTK+界面的地圖觀看器，比較適用於平板上的手指點擊。[34]目前在SHR和Debian的軟體庫都能找到。[35]
+
+
+Emerillon
+另一個GTK+界面的地圖查看器。[36][37]
+
+OpenStreetMap網站的地圖界面是基於Javascript庫中的Leaflet界面所開發，叫做Slippy Map（Slippy Map之前的界面開發是基於Open Layers）。Slippy Map地圖中的顯示的區塊是使用Mapnik引擎所繪製，而有些區塊的繪製則是來自不同的引擎，包括OpenCycleMap.org或者MapQuestOpen。如果預先下載好需要的地圖資料，Mapnik也能提供離線地圖的使用。[38]
+OpenStreetMap有維護在線和離線路線選擇引擎的名單，比如說Open Source Routing Machine。[39]而OSM資料對於路由的路線選擇的學者們非常熱門，當然也提供給開源專案或者是商業公司來構建路線選擇的應用（或者其他不同的應用）。
+人道主義援助[编辑]
+参见：Crisis mapping、聰明行動族和Ushahidi
+在2010海地大地震後，OSM樹立了一個讓非政府組織和國際組織合作的一個榜樣。在短短兩天內OpenStreetMap和Crisis Commons的自願者，使用了衛星映像在OSM完成了標記海地Port-au Price區域的道路，建築物，避難營，後來使OSM成爲“最齊全的海地數位地圖”。[40] [41]
+在海地地圖建構完成後，不少來自世界各地的組織開始使用OSM的海地地圖來進行援助工作，這些組織有世界銀行，歐洲聯合佣金研究中心，聯合國指揮部，聯合國救援隊等其他組織。[42][43][44][45]
+OSM人道主義團隊（Humanitarian OpenStreetMap Team）也和類似非政府組織救災隊（USAID等）合作，從幾乎是空白的OSM地圖開始標記海地不同的區域和其他國家的區域，幫助原先地圖是空白的地區建立圖資。[46]各個組織同時也參與了海地避難營的建設。
+在海地災情過後，OSM也在後來的發生災難的地區產生了重大的作用。馬利（2013年1月）[47]，菲律賓的海燕（2013年11月）[48][49]，還有西非的伊波拉（2014年3月）[50]，再次顯現了各個不同的國際組織即使通過互聯網，也能從標記OSM地圖中來幫助人道主義組織進行援助。
+OSM人道主義團隊（Humanitarian OpenStreetMap）扮演着OSM社區和人道主義組織的一道溝通的橋樑。
+隨着災情結束，OSM人道主義團隊和紅十字會，世界銀行，和其他人道主義組織，聯手獻力於建構風險模型給各個不同的國家比如烏干達等作為應災措施。[51][52]
+法律層面[编辑]
+許可條款[编辑]
+
+
+
+
+OSM在歐洲使用的密度
+
+
+OSM的資料版權一開始是創作共用授權條款，它的用意是在讓大衆免費使用或者重新發佈OSM所提供的地圖資料。在2012年9月，資料的版權從開放資料庫許可（ODbL）被更換成開放共同資料許可（ODC），因爲這樣更能清楚地定義OSM所擁有的地圖資料更着重於收集和整理資料而不是資料的呈現。[53]
+其中有些地圖的資料就在上述地圖版權的轉換中被移除了。當中被移除的這些資料，有部分是由於資料貢獻者不贊同新版權中的法律條規，也有些是因爲資料來源無法在新版權法下使用。OSM估計版權轉換後能保留97%以上的所有資料，當然這對一些區域時會有影響的，比如說澳洲在不同的地圖資料物件中，能保留的資料從24%到84%，資料流失量因資料物件類型而定。[54]不過在完成許可證轉換後，OSM計算出保留的資料超過99%，但是論地圖資料的流失，還是屬澳洲和波蘭最爲嚴重。[55]
+目前開放數據庫許可證（ODL）都要求所有要加入OSM的地圖資料都需要遵守在ODL版權法的規定下，比如已逾期版權資料（Out-of-copyright），公有領域資料或者其他能遵守ODL版權法的數據，當中也牽涉去驗證政府機關的資料來確定資料的對OSM的合法性。
+用于生产、展示OpenStreetMap数据的软件来源于许多不同的项目，且具有各自的使用许可。例如，现在供用户访问以编辑地图、查看编辑历史的应用程序是基于Ruby on Rails开发的。它同时使用PostgreSQL作为存储用户数据和编辑元数据的数据库。OSM网站上的默认地图使用Mapnik渲染，存储于PostGIS中，并由Apache的mod_tile模块进行驱动。某些特定的软件，例如地图编辑软件Potlatch2，已经成为公有领域中的软件。[56]
+商業資料[编辑]
+有部分OSM地圖資料是由比較偏好自由軟體的公司提供，不管是實際收集的地圖資料或者是衛星影像，都讓OSM的使用者能辨識地圖道路等其他用途。
+值得一提的是，Automotive Navigation Data提供了一整套完整的荷蘭道路資料還有中國和印度大卡車道的地圖資料。在2006年12月，雅虎確定讓OSM使用它的垂直航空影像，之後讓OSM地圖編輯軟體中使用它來做地圖上的覆蓋物，使得OSM使用者能製作以向量地圖，並以自由和開放許可證發佈。[57]不過到了2011年9月13日，雅虎把它地圖API關閉後，這項技術就無法再使用了。[9]在2010年11月，微軟公佈OSM社羣在編輯地圖時能使用Bing的垂直空中影像作爲地圖的底層。[58]就在2009年到2011年，NearMap Pty Ltd利用了OSM的地圖資料（通過CC-BY-SA版權法）製成了澳洲的高清晰圖像地圖（目前主要有澳洲主要城市和少部分郊區）。[59]
+OSM作業[编辑]
+雖然OSM的成立主要是成爲一個中央的地圖資料庫，但是在地圖的繪製和呈現上它也有不凡的水準，其中地圖設計有些突顯出地圖資料中不同的元素或者着重設計和地圖的效能。
+資料格式[编辑]
+OSM使用的資料格式是地形資料結構，當中由四個核心的元素（也稱爲原始資料）。
+
+節點：儲存經緯度，但不儲存節點在地圖上的實際大小，比如說一個景點或者山峯。
+道路：有序排列的節點，以折線的形式呈現，如果是封閉圈的話，那麼可能是以多邊形的方式呈現。這類原始資料大多用來呈現爲街道，河流，一個區塊，比如說森林，公園，停車場或者是一面湖。
+關係：有排序的節點，道路和關係（三種原始資料在這裏統稱“成員”），在這裏每個成員選擇性擁有一個"角色"（字串）。關係是用來表示各個原始資料（節點：節點，節點：道路，道路：道路）的關係，比如說道路與道路的拐彎限制，一條道路分叉出來的各種小道路，或者一個區域中的一個洞，這時"角色"字串就能用來形容它們之間的關係。
+標籤：鍵值對（key-value pairs，鍵值都是字串），用來儲存地圖上物件的元數據（物件的類型，名字和物理特性）。標籤無法獨立存在，它們必須依附在一個以存在的原始資料，比如說一個節點，道路和關係。地圖中物件映射的關係（本體）和標籤在OSM的wiki上有比較詳細的介紹。
+
+LinkedGeoData資料集是由來自莱比锡大学的Agile Knowledge Engineering and Semantic Web研究羣組的研究成果，他們之前以DBpedia聞名。DBpedia使用GeoSPARQL和well-known text（WKT）RDF的詞彙來表示OSM的地圖資料。
+商業服務[编辑]
+
+
+
+
+OpenStreetMap.org的首頁
+
+
+有很多熱門的應用服務都使用了地理定位和地圖資料中的元件，比較值得一提的有：
+2012年3月7日，蘋果公司出奇地把OSM嵌入iOS的iPhoto中，但是發佈iPhoto時並沒有宣告地圖資料來源，後來在1.0.1版的時候才做了版權宣告的修正。雖然蘋果公司擁有地圖，但是其中的地圖資料來源是OSM，但是更大部分的資料提供爲TomTom。
+Flickr使用OSM的地圖資料跨越了很多個國家，包括巴格達、北京、喀布尔、聖地亞哥、悉尼和東京。[60][61][62]在2012年，Flickr選擇轉換使用諾基亞提供爲主的資料來源，當商用資料無法在一些區域作用的時候，OSM的資料才做爲輔助。[63]
+2010年MapQuest發佈了一項基於OSM的服務，這項服務就是後來的MapQuest Open。[64]
+2013年2月29日，Foursquare通過MapBox的繪製和架構來使用OSM。[65]Craiglist也在2012年轉換使用OSM，使用OSM的地圖資料來繪製屬於自己的地圖。[66]
+2009年，著名遊戲生產商Hasbro，多人線上遊戲大富翁Monopoly City Street中使用谷歌地圖來作爲顯示，可是底層的地圖資料來源卻是OSM。[67]該遊戲能讓玩家虛擬購買街道和房地產發展自己的物業，但是它是個期間限定遊戲，在2010年1月結束後關閉。[68]
+Moovit是個手機應用程式使用OSM的資料來作爲免費公共交通的導航。[69]
+Pictometry在網站中使用OSM爲預設地圖，顯示自己特有的三維空中影像。[來源請求]
+維基百科使用OSM的資料來繪製各個不同文章所使用的地圖。不少語言都被包括在WIWOSM專案裏（Wikipedia Where in OSM），目的是把OSM用SlippyMap顯示在文章上。[70]Wikivoyage把OSM，顯示城市和一些旅遊的景點。
+Ballardia（都柏林的一個遊戲開發者），在2013年10月發佈了遊戲World of the Living Dead，遊戲引擎中也有使用OSM地圖資料。[71]遊戲地圖覆蓋整個洛杉磯，面積爲14,000平方公里。這款遊戲在之前是使用谷歌地圖，但由於無法負擔多人在線遊戲高負荷，所以在2013年關閉了谷歌地圖版本並地圖引擎使用的資料轉換爲OSM資料。[72][73]
+Geotab公司的MyGeotab，使用OSM來來追蹤交通工具的所在地。[74]
+类似项目[编辑]
+
+EEmap
+Google Earth
+Placeopedia
+WikiMapia
+Windows Live Local
+World Wind
+
+
+
+
+
+COSCUP 2016上的台湾OpenStreetMap社群摊位
+
+
+注释[编辑]
+
+
+^ 目前，OpenStreetMap社群對OSM的中文名稱尚無共識，台灣用戶使用「開放街圖」一名，而中國大陸、香港用戶則沿用英文原名「OpenStreetMap」。
+
+
+参考文献[编辑]
+
+
+^ Translating OpenStreetMap. [2014-08-09]. 
+^ FAQ. OpenStreetMap Wiki. [2014-08-09] （英语）. 
+^ OSMstats - Statistics of the free wiki world map. altogetherlost.com. Aug, 09th 2014 1:03 am CET [2014-08-09] （英语）.  请检查|date=中的日期值 (帮助)
+^ Anderson, Mark. Global Positioning Tech Inspires Do-It-Yourself Mapping Project. National Geographic News. October 2006-10-18 [2014-08-09] （英语）.  请检查|date=中的日期值 (帮助)
+^ 5.0 5.1 OpenStreetMap為數以百計的網站、行動app與硬體設備，提供地圖資料. [2014-08-08] （中文（台灣）‎）. 
+^ 6.0 6.1 Frederick Ramm, Jochen Topf, Steve Chilton. OpenStreetMap: Using and Enhancing the Free Map of the World. UIT Cambridge. 2011 （英语）. 
+^ Neis, Pascal; Zipf, Alexander. Analyzing the Contributor Activity of a Volunteered Geographic Information Project — The Case of OpenStreetMap. ISPRS Int. J. Geo-Inf. 2012, 1 (2): 146–165. doi:10.3390/ijgi1020146 （英语）.  引文格式1维护：显示－作者 (link)
+^ 存档副本. [2009-06-15]. （原始内容存档于2009-03-30）. 
+^ 9.0 9.1 Mata, Raj. Yahoo! Maps APIs Service Closure Announcement – New Maps Offerings Coming Soon!. Yahoo! Developer Network. 2011-06-13 [2012-02-25]. （原始内容存档于22011-06-23） （英语）.  请检查|archive-date=中的日期值 (帮助)
+^ Batty, Peter. Oxford University using OpenStreetMap data. Geothought. 2007-12-03 [2011-04-16] （英语）. 
+^ Fairhurst, Richard. Cycle map on your GPS. Système D. 2008-01-13 [2011-04-16] （英语）. 
+^ We're funded!. CloudMade. 2008-03-17 [2011-04-16]. （原始内容存档于15 二月 2012） （英语）.  请检查|archive-date=中的日期值 (帮助)
+^ Technology News, Analysis, Comments and Product Reviews for IT Professionals. ZDNet. 2014-07-31 [2014-08-09] （英语）. 
+^ Richard Fairhurst. The licence: where we are, where we’re going. OpenStreetMap blog. 2008-01-07 [2014-08-09] （英语）. 
+^ 林誠夏. 從開源軟體到開放資料－論Open Database License v1.0. 2012-10-20 [2013-03-21] （中文（台灣）‎）. 
+^ Harry Wood. Automated redactions complete. [1 October 2012]. 
+^ State Of The Map 2007. OpenStreetMap. [2014-08-09]. 
+^ State Of The Map 2008. OpenStreetMap. [2014-08-09]. 
+^ State Of The Map 2009. OpenStreetMap. [2014-08-09]. 
+^ State Of The Map 2010. OpenStreetMap. [2014-08-09]. 
+^ State Of The Map 2011. OpenStreetMap. [2014-08-09]. 
+^ State Of The Map 2012. OpenStreetMap. [2014-08-09]. 
+^ State Of The Map 2013. OpenStreetMap. [2014-08-09]. 
+^ State Of The Map 2014. OpenStreetMap. [2014-08-09]. 
+^ State Of The Map 2016. OpenStreetMap. [2015-10-11]. 
+^ Import/Guidelines. OpenStreetMap. [23 March 2015] （英语）. The import guidelines, along with the Automated Edits code of conduct, should be followed when importing data into the OpenStreetMap database as they embody many lessons learned throughout the history of OpenStreetMap. Imports should be planned and executed with more care and sensitive than other edits, because poor imports can have significant impacts on both existing data and local mapping community. 
+^ Saman Bemel Benrud. A New Editor for OpenStreetMap: iD. Mapbox. 31 January 2013-01-31 [2014-12-14] （英语）.  请检查|date=中的日期值 (帮助)
+^ Key and More Info. OpenCycleMap. [2014-12-14] （英语）. 
+^ Vines, Emily. Esri Releases ArcGIS Editor for OpenStreetMap. Esri. 2010-07-06 [2014-12-14] （英语）. 
+^ Stats. OpenStreetMap Wiki. [25 May 2014]. 
+^ Wood, Harry. 1 million OpenStreetMappers. OpenGeoData. [2014-12-12] （英语）. 
+^ Neis, Pascal. The OpenStreetMap Contributors Map aka Who's around me?. 2013-01-06 [2014-12-14] （英语）. 
+^ 参见美国政府作品版权。
+^ FoxtrotGPS hompage. [2014-12-12] （英语）. 
+^ FoxtrotGPS in Debian. [2014-12-12] （英语）. 
+^ Emerillon in Debian repositories. [2014-12-12] （英语）. 
+^ Emerillon homepage. [2014-12-12] （英语）. 
+^ opencyclemap.org
+^ Filney, Klint. Out in the Open: How to Get Google Maps Directions Without Google. Wired. 2013-11-11 [2014-12-12] （英语）. 
+^ Digital Help for Haiti. The New York Times. 2010-01-27 [2014-04-15] （英语）. 
+^ Forrest, Brady. Technology Saves Lives In Haiti. Forbes.com. 2010-02-01 [2014-12-12] （英语）. 
+^ Turner, Andrew. World Bank Haiti Situation Room – featuring OSM. 2010-02-03 [2014-12-12] （英语）. 
+^ Haiti Earthquakes: Infrastructure Port-au-Prince 15/01/2010 (PDF). 2010-01-15 [2014-12-12] （英语）.  Authors list列表中的|first1=缺少|last1= (帮助)
+^ Batty, Peter. OpenStreetMap in Haiti – video. 2010-02-14 [2014-12-12] （英语）. 
+^ WikiProject Haiti. OpenStreetMap Wiki. [2010-02-05] （英语）. 
+^ OSM Marks the SpotHaitians use a crowdsourced map to chart their own country, and its development. medium.com. 
+^ OSM 2012 Mali Crisis wiki page. [2014-12-12] （英语）. 
+^ Social media helps aid efforts after typhoon Haiyan. November 12, 2013 [2014-12-12] （英语）.  Authors list列表中的|first1=缺少|last1= (帮助)
+^ How Online Mapmakers Are Helping the Red Cross Save Lives in the Philippines. 2013-11-12 [2014-12-12] （英语）.  Authors list列表中的|first1=缺少|last1= (帮助)
+^ How the Internet is Stopping the Ebola Outbreak, One Street Map at a Time. [2014-12-12] （英语）.  Authors list列表中的|first1=缺少|last1= (帮助)
+^ Out and about in Yogyakarta, Indonesia: An OSM workshop sponsored by the World Bank. [2014-12-12] （英语）. 
+^ Preventative Mapping in Uganda with the Red Cross. Humanitarian OpenStreetMap Team. [2014-12-12] （英语）. 
+^ Fairhurst, Richard. The licence: where we are, where we're going. OpenGeoData. 7 January 2008 [2014-12-12] （英语）. 
+^ Simon Poole. OSM V1 Objects ODbL acceptance statistics. [2014-12-12] （英语）. 
+^ Harry Wood. Automated redactions complete. 2012-07-26 [2014-12-12] （英语）. 
+^ Legal FAQ. OpenStreetMap Wiki. [2014-12-12] （英语）. Several contributors additionally make their code available under different licences 
+^ Coast, Steve. Yahoo! aerial imagery in OSM. OpenGeoData. 2006-12-04 [2014-12-14] （英语）. 
+^ Coast, Steve. Microsoft Imagery details. OpenGeoData. 2010-11-30 [2014-12-14] （英语）. 
+^ Community licence. NearMap. [2014-12-14] （英语）. 
+^ Around the world and back again. blog-flickr.net. [7 November 2008]. 
+^ More cities. blog-flickr.net. 2008-10-30 [2014-12-14] （英语）. 
+^ Waters, Tim. Japanese progress in osm. Amazing stuff!. thinkwhere. 2008-09-16 [2012-02-25]. （原始内容存档于2011-07-22）. 
+^ Ingraham, Nathan. Flickr is Now Using Nokia Maps. The Verge. 2012-06-29 [2014-12-14] （英语）. 
+^ MapQuest. [2014-12-14] （英语）. 
+^ Foursquare Blog. Blog.foursquare.com. 2012-02-29 [2014-12-14]. （原始内容存档于2013-09-12） （英语）. 
+^ Cooper, Daniel. Craigslist quietly switching to OpenStreetMap data. Engadget. 2012-08-28 [2014-12-14] （英语）. 
+^ Raphael, JR. 'Monopoly City Streets' Online Game: Will Buying Park Place Be Any Easier?. PC World. 2009-09-08 [2014-12-14] （英语）. 
+^ Monopoly game launches on Google. BBC Online. 2009-09-09 [2014-12-14] （英语）. 
+^ Moovit online trip planner. Moovit.com. [2014-12-14] （英语）. 
+^ WIWOSM. [2014-12-14] （英语）. 
+^ World of the Living Dead Resurrection Expands Closed Beta. StrategyInformer.com. [2014-12-14] （英语）. 
+^ Sometimes you have to kill something to bring it back to life. World of the Living Dead Developer Blog. [2014-12-14] （英语）. 
+^ Mapping the zombocalypse: from Google to Open Street Maps. World of the Living Dead Developer Blog. [2014-12-14] （英语）. 
+^ Maria S. Smarter Fleet Management with Geotab’s Posted Road Speed Information. Geotab. 2013-10-08 [2014-12-14] （英语）. 
+
+
+外部連結[编辑]
+
+
+
+从维基百科的姊妹计划
+了解更多有关
+“開放街圖”的内容
+
+
+
+
+维基共享资源上的多媒体资源
+
+
+
+维基数据上的数据项
+
+
+
+openstreetmap.org
+OpenStreetMap臺灣（繁体中文）
+OpenStreetMap基金會（英文）
+Project Wiki （英文）
+香港OSM社群（繁体中文）
+台灣OSM社群（繁体中文）
+大陆OSM社群（简体中文）
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+地球-有关议题
+
+
+
+
+
+
+歷史
+
+
+
+地球的年齡
+生命进化史（英语：Evolutionary history of life）
+弱阳吊诡（英语：Faint young Sun paradox）
+太阳系的形成与演化
+地球的未來
+地质年代
+地球地質歷史（英语：Geological history of Earth）
+地球歷史
+生命演化历程
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+地理學
+地質學
+
+
+
+
+
+
+克萊羅定理
+洲
+地震
+赤道隆起（英语：Equatorial bulge）
+地球極點（英语：Extremes on Earth）
+太陽系類地行星地質歷史（英语：Geology of solar terrestrial planets）
+地球物理学
+板块构造论
+地球構造
+時區
+
+
+
+
+
+
+
+
+生態學
+
+
+
+世界地球日
+全球暖化
+人类对环境的影响（英语：Human impact on the environment）
+
+
+
+
+
+
+
+
+數值製圖
+
+
+
+苹果地图
+百度地图
+梵文地球（英语：Bhuvan）
+Bing Maps
+地球地圖（英语：Global Map）
+Google地图
+Google地球
+NASA World Wind
+Here地图
+開放街圖
+WikiMapia
+遥感
+雅虎地圖
+
+
+
+
+
+
+
+
+
+
+
+藝術
+文化
+社会
+
+
+
+
+
+
+文化中的地球（英语：Earth in culture）
+科幻小说中的地球（英语：Earth in science fiction）
+“地球”的辞源
+世界歷史
+國際法
+景觀藝術
+國家列表
+世界經濟
+
+
+
+
+
+
+
+
+其他议题
+
+
+
+生物圈
+地球轨道
+黄道
+地球之旗
+地球引力
+地磁场
+月球
+地球的其他卫星
+2006 RH120
+柯迪莱夫斯基云
+太阳系
+地球在宇宙中的位置
+忒伊亚
+
+
+
+
+
+
+
+
+
+
+
+ 地球科學分类
+ 地球科學主題頁
+ 太陽系主題頁
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 184588430
+LCCN: no2011015016
+GND: 1067339671
+BNF: cb16993444v（数据）
+NKC: pna2017938689
+
+
+
+
+
+
+
+
+
+
+
+
+分类：開放街圖电子地图2004年建立的网站Web 2.0协作网站多語言網站内容开放虛擬社群2004年英國建立隐藏分类：CS1英语来源 (en)引文格式1错误：日期引文格式1维护：显示－作者引文格式1错误：缺少作者或编者粗劣翻译含有英語的條目使用过时图像语法的页面有未列明来源语句的条目包含规范控制信息的维基百科条目

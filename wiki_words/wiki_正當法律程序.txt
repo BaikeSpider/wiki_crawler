@@ -1,0 +1,117 @@
+正當法律程序
+正當法律程序（due process或due process of law）為一個重要的法律原則，其主要源自於英美法系的國家，其內容為，政府必須要尊重任何依據國內法賦予給人民的法律上之權利，而非僅尊重其中一部分或大部分的權利。在美國，隨著案例法的逐漸發展，本原則給予了個人相當大的能力在對抗政府或機關暴力以實現個人權利，而此原則通常不會被拿來對抗其他個人。
+正當法律程序也常被用來解釋為實體法或程序法上的限制，用以規律法官“司法權”（而非國會“立法權”）界定和保障平等權、自由權這些人民的基本權利。不過此種解釋具有一定的爭議性，且其與自然正義法則以及程序正義這兩個被用於其他法域的概念相類似。
+
+
+
+目录
+
+
+1 歷史
+2 憲法條文
+
+2.1 美國憲法
+2.2 中華民國憲法
+
+
+3 發展歷史
+
+3.1 英國
+3.2 美國
+
+
+4 參照
+5 相關條目
+6 相關資料
+7 外部連結
+
+
+
+歷史[编辑]
+正當法律程序，最早起源於英國的大憲章，之後移植到美國，在美國憲法修正案中具體呈現。
+憲法條文[编辑]
+美國憲法[编辑]
+美國憲法修正第五條及第十四條，規定了除經過正當法定程序，不得剝奪任何人之生命、自由或財產。前者適用於聯邦，後者則拘束各州。但是在美國憲法中，並沒有明文規則何謂「正當法律程序」，而是交由聯邦法院，於具體案件發生時，根據其不同情事，做出判決。
+美國憲法第五修正案規定：
+
+
+“
+No person shall be ... deprived of life, liberty, or property, without due process of law ....
+”
+
+
+
+譯文：未經正當法律程序，不得剝奪任何人的生命、自由或財產。
+
+美國憲法第十四修正案規定：
+
+
+“
+nor shall any State deprive any person of life, liberty, or property, without due process of law ...
+”
+
+
+
+譯文：亦不得未經正當法律手續使任何人喪失其生命、自由或財產...
+
+中華民國憲法[编辑]
+在台灣，學者湯德宗認為中華民國憲法第8條便是關於正當法律程序所做出的規定，不過就此仍存在有一定的爭議[1]，其規定：
+
+
+“
+人民身體之自由應予保障。除現行犯之逮捕由法律另定外，非經司法或警察機關依法定程序，不得逮捕拘禁。非由法院依法定程序，不得審問處罰。非依法定程序之逮捕、拘禁、審問、處罰，得拒絕之。
+”
+
+
+發展歷史[编辑]
+「正當法律程序」一詞在其於1791年年被訂進美國憲法以前便已存在許久。而這個詞在英國及美國皆有一段很長的歷史可以溯及：
+英國[编辑]
+「正當法律程序」這個概念的產生可以被回溯自西元1215年的大憲章。在大憲章的第39章中，英國國王約翰做出了以下的承諾：「任何自由人不得被捉拿、拘囚、剝奪產業，放逐或受任何損害。除非受同等人之合法判決及國法所允許，我們亦不會自己充當軍隊或派軍攻擊他。（No free man shall be taken or imprisoned or disseised of his Freehold, or Liberties, or free Customs, or be outlawed, or exiled, or any other wise destroyed, nor will we go upon him nor send upon him, except by the lawful judgment of his peers or by the law of the land.）」[2]而大憲章本身馬上就成為「國法」的一部分，大憲章第61章授權給被選舉出來的25人男爵團當國王觸犯了任何人皆須受到保障的權利時，以多數決糾正之[2]。因此，大憲章藉由要求王室必須要服從法律，同時也限制王室如何變更國法，而在英國創設了法治（rule of law）。然而，必須要注意的是，在13世紀時，這些規定的效力可能僅及於地主的權利，而不包含一般的農民或鄉村居民在內[3]。
+較精簡版的大憲章之後由英國國王簽署，而大憲章第39條的人數則被改為29人[4]。而「正當法律程序」（due process of law）這個詞，首見於西元1354年愛德華三世統治時，關於大憲章的法令：「任何人非經正當法律程序，不得剝奪其土地或住所，不得將其逮捕或監禁，亦不得剝奪其繼承權或將其處死。」（No man of what state or condition he be, shall be put out of his lands or tenements nor taken, nor disinherited, nor put to death, without he be brought to answer by due process of law.）[5]
+1608年時，英國法學家愛德華·柯克（Edward Coke）所寫的專論中，便有討論到大憲章的定義。柯克解釋認為，其中的「國法」（the law of the land），是指「判例法、成文法或英格蘭的傳統...（一言以蔽之）即正當的程序以及法定的程序...」[6]。
+美國[编辑]
+在美国法律体系中，正当程序有着重要的位置。它规定以下两条：
+
+在公民被控告和索赔之前，必须给予公民通知。
+在剥夺公民人身自由和所有财产之前，必须给予公民机会反驳控告和索赔。
+
+參照[编辑]
+
+
+^ 翁岳生編，行政法（下），臺北：元照，2006年，98。.
+^ 2.0 2.1 1215年大憲章全文（原文）、1215年大憲章翻譯文——輔仁大學副教授雷敦龢（Edmund Ryden）先生　釋譯 互联网档案馆的存檔，存档日期2014-10-12.
+^ McKechnie, William Sharp. Magna Carta: A Commentary on the Great Charter of King John. Glasgow: Robert MacLehose and Co., Ltd. 1905: 136–37. : "The question must be considered an open one; but much might be said in favor of the opinion that 'freeman' as used in the Charter is synonymous with 'freeholder'...."
+^ The Text of Magna Carta (1297)
+^ 28 Edw. 3, c. 3
+^ 2 Institutes of the Laws of England 46（1608）
+
+
+相關條目[编辑]
+
+憲法
+自由權
+平等權
+
+相關資料[编辑]
+
+U.S. Constitution: Fifth Amendment. Findlaw. 
+Breyer, Stephen. Active Liberty: Interpreting Our Democratic Constitution. New York: Knopf. 2005. ISBN 0307263134. 
+Friendly, Henry J. Some Kind of Hearing. University of Pennsylvania Law Review. 1975, 123 (6): 1267–1317. doi:10.2307/3311426. 
+Hawkins, Brian. The Glucksberg Renaissance: Substantive Due Process since Lawrence v. Texas (PDF). Michigan Law Review. 2006, 105 (2): 409. （原始内容 (PDF)存档于2007-06-15）. 
+Hyman, Andrew. The Little Word ‘Due’. Akron Law Review. 2005, 38: 1. 
+Kadish, Sanford H. Methodology and Criteria in Due Process Adjudication—A Survey and Criticism. Yale Law Journal. 1957, 66 (3): 319–363. doi:10.2307/3311426. 
+Madison, P. A. A Dummies Guide to Understanding the Fourteenth Amendment. FederalistBlog.us. 2008. 
+Ring, Kevin. Scalia Dissents: Writings of the Supreme Court's Wittiest, Most Outspoken Justice. Washington: Regnery. 2004. ISBN 0895260530. 
+Yoshino, Kenji. The Pressure to Cover: The New Civil Rights. New York Times Magazine. 2006.  → discussing potential of liberty rights to overtake equality rights.
+
+外部連結[编辑]
+
+A Substantive Due Process Challenge to the War on Drugs.
+Civil Rights, Congress's Power, and the New Federalism, Video from American Constitution Society for Law and Policy
+Kuwaiti Family Committee is a site about Kuwaiti detainees' due process arguments.
+
+
+
+
+
+分类：法律原則宪法学法律术语隐藏分类：Webarchive模板wayback链接

@@ -1,0 +1,1144 @@
+新兴技术
+
+
+
+
+
+本条目不符合維基百科的质量标准，需要完全重寫。（2015年12月14日） 
+請在討論頁中討論相關議題，並參考更优秀条目写作指南。 
+
+
+在技术史上，新兴技术是指21世纪发展的一系列最尖端的技术，技术融合是其得特点，原先不同的技术逐渐共享资源来完成类似的工作，如原来的语音、数据、视频技术互相交互影响，创造更有效率的新技术。
+英文缩写[编辑]
+NBIC分别为Nanotechnology, Biotechnology, Information technology和Cognitive science的英文缩写。GNR为Genetics, Nanotechnology和Robotics。GRIN为Genetic, Robotic, Information，和Nano processes。GRAIN为Genetics, Robotics, Artificial Intelligence，和Nanotechnology。BANG为Bits, Atoms, Neurons, Genes。
+參考文献[编辑]
+
+参见[编辑]
+
+新興技術列表
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+新兴技术
+
+
+
+
+
+
+
+技术
+
+
+
+
+
+
+领域
+
+
+
+
+农业
+
+
+
+农业机器人
+封闭生态系统
+試管肉
+基因改造食品
+精准农业
+垂直農法
+
+
+
+
+
+
+
+
+建筑
+
+
+
+生态建筑学（英语：Arcology）
+建筑打印（英语：Building printing）
+
+Contour crafting（英语：Contour crafting）
+D-Shape（英语：D-Shape）
+
+
+圆顶城市（英语：Domed city）
+
+
+
+
+
+
+
+
+生物医学技术（英语：Biomedical technology）
+
+
+
+人造子宫（英语：Artificial uterus）
+Ampakine（英语：Ampakine）
+脑部移植
+人體冷凍技術
+
+冷冻保护剂（英语：Cryoprotectant）
+深低溫保存
+玻璃化（英语：Vitrification）
+暫停生命
+
+
+去滅絕
+基因工程
+
+基因治療
+
+
+头部移植
+孤立腦
+生命延續
+
+掌控可忽略衰老
+
+
+纳米医学
+纳米传感器（英语：Nanosensor）
+个体化医疗（英语：Personalized medicine）
+再生醫學
+
+干细胞治疗（英语：Stem-cell therapy）
+组织工程学
+
+
+机器人辅助手术（英语：Robot-assisted surgery）
+合成生物学
+
+合成基因组学（英语：Synthetic genomics）
+
+
+病毒疗法（英语：Virotherapy）
+
+溶瘤病毒（英语：Oncolytic virus）
+
+
+Tricorder（英语：Medical tricorder）
+全基因组测序（英语：Whole genome sequencing）
+
+
+
+
+
+
+
+
+显示器
+
+
+
+
+次世代（英语：Next generation of display technology）
+
+
+
+FED
+FLCD（英语：Ferro Liquid Crystal Display）
+iMoD（英语：Interferometric modulator display）
+Laser（英语：Laser video display）
+LPD（英语：Laser-powered phosphor display）
+OLED
+OLET
+QD-LED
+SED
+TPD
+TDEL
+TMOS（英语：Time-multiplexed optical shutter）
+
+
+
+
+
+
+
+
+去屏幕（英语：Screenless）
+
+
+
+仿生隐形眼镜（英语：Bionic contact lens）
+頭戴式顯示器
+抬頭顯示器
+光学头戴式显示器（英语：Optical head-mounted display）
+虚拟视网膜显示器（英语：Virtual retinal display）
+
+
+
+
+
+
+
+
+其他
+
+
+
+裸眼3D（英语：Autostereoscopy）
+柔性显示器（英语：Flexible display）
+全息显示器（英语：Holographic display）
+
+计算机生成全息（英语：Computer-generated holography）
+
+
+多原色顯示技術
+Ultra HD
+体积显示器（英语：Volumetric display）
+
+
+
+
+
+
+
+
+
+
+
+电子产品
+
+
+
+电子鼻（英语：Electronic nose）
+电子纺织品（英语：E-textiles）
+柔性印刷电路板
+分子电子学（英语：Molecular electronics）
+纳机电系统
+憶阻器
+自旋電子學
+Thermal copper pillar bump（英语：Thermal copper pillar bump）
+
+
+
+
+
+
+
+
+能源
+
+
+
+
+生产
+
+
+
+高空風力發電機
+人工光合作用（英语：Artificial photosynthesis）
+生物燃料
+碳中性燃料（英语：Carbon-neutral fuel）
+聚光太阳能热发电
+聚变能
+家用燃料电池（英语：Home fuel cell）
+氢经济
+甲醇经济
+熔盐堆
+光学整流天线（英语：Nantenna）
+光伏路面（英语：Photovoltaic pavement）
+太空太陽能
+涡流发动机（英语：Vortex engine）
+
+
+
+
+
+
+
+
+存储
+
+
+
+磷酸铁锂电池（英语：Lithium iron phosphate battery）
+压缩空气能源存储（英语：Compressed air energy storage）
+飞轮储能
+电网能源存储（英语：Grid energy storage）
+鋰空氣電池
+熔盐电池（英语：Molten salt battery）
+纳米线电池
+锂离子电池研究（英语：Research in lithium-ion batteries）
+硅气电池（英语：Silicon–air battery）
+热能储存（英语：Thermal energy storage）
+超级电容
+
+
+
+
+
+
+
+
+其他
+
+
+
+智慧電網
+无线供电
+
+
+
+
+
+
+
+
+
+
+
+
+信息及通信技术
+
+
+
+
+环境智能
+
+物联网
+
+
+人工智能
+
+人工智能的应用（英语：Applications of artificial intelligence）
+人工智能的进展（英语：Progress in artificial intelligence）
+机器翻译
+机器视觉
+语义网
+语音识别
+
+
+原子电子学（英语：Atomtronics）
+碳纳米管场效应晶体管（英语：Carbon nanotube field-effect transistor）
+Cybermethodology
+第四代光盘
+
+3D光学数据存储（英语：3D optical data storage）
+全息存储
+
+
+GPGPU
+内存
+
+CBRAM
+FRAM
+Millipede
+MRAM
+NRAM
+PRAM
+賽道記憶體
+RRAM
+SONOS
+
+
+光學電腦
+量子计算机
+量子密碼學
+RFID
+
+无芯片RFID（英语：Chipless RFID）
+
+
+软件无线电
+三維晶片
+
+
+
+
+
+
+
+
+制造
+
+
+
+3D打印
+电子粘土（英语：Claytronics）
+分子汇编器（英语：Molecular assembler）
+实用雾（英语：Utility fog）
+
+
+
+
+
+
+
+
+材料科学
+
+
+
+气凝胶
+非晶态金属
+人造肌肉（英语：Artificial muscle）
+導電聚合物
+Femtotechnology（英语：Femtotechnology）
+富勒烯
+石墨烯
+高溫超導
+高温超流体
+线性炔碳
+超材料
+
+超材料隐形（英语：Metamaterial cloaking）
+
+
+金属泡沫（英语：Metal foam）
+多功能结构（英语：Multi-function structure）
+纳米技术
+
+碳纳米管
+分子纳米技术（英语：Molecular nanotechnology）
+纳米材料
+
+
+Picotechnology（英语：Picotechnology）
+可编程物质（英语：Programmable matter）
+量子点
+硅烯
+高温合金
+合成鑽石
+
+
+
+
+
+
+
+
+军事技术与装备
+
+
+
+反物质武器
+無殼彈
+定向能量武器（英语：Directed-energy weapon）
+
+激光
+激微波
+粒子束武器
+声波武器
+線圈砲
+磁軌砲
+
+
+等离子武器
+纯聚变武器（英语：Pure fusion weapon）
+低可偵測性技術
+涡环枪（英语：Vortex ring gun）
+
+
+
+
+
+
+
+
+神经科学
+
+
+
+人造脑（英语：Artificial brain）
+
+藍腦計畫
+
+
+脑机接口
+腦電圖
+意识上传
+
+读脑（英语：Brain-reading）
+神经信息学
+
+
+Neuroprosthetics
+
+仿生眼
+脑植入（英语：Brain implant）
+外部皮层
+视网膜植入（英语：Retinal implant）
+
+
+
+
+
+
+
+
+
+
+机器人学
+
+
+
+家庭自动化
+纳米机器人
+動力服
+自重构模块化机器人（英语：Self-reconfiguring modular robot）
+群体机器人（英语：Swarm robotics）
+無人機
+
+
+
+
+
+
+
+
+空间科学
+
+
+
+
+发射（英语：Space launch）
+
+
+
+Fusion rocket
+非火箭航天发射
+
+質量投射器
+轨道环（英语：Orbital ring）
+太空電梯
+空间喷泉（英语：Space fountain）
+太空纜索
+
+
+可重用发射系统（英语：Reusable launch system）
+
+
+
+
+
+
+
+
+航天器推进
+
+
+
+光束推进（英语：Beam-powered propulsion）
+离子推力器
+激光推进（英语：Laser propulsion）
+電漿推進發動機
+
+螺旋雙層推進器（英语：Helicon double-layer thruster）
+可变比冲磁等离子体火箭
+
+
+猎户座项目（英语：Project Orion）
+核脉冲推进
+太阳帆
+
+
+
+
+
+
+
+
+其他
+
+
+
+恆星際旅行
+推进剂库（英语：Propellant depot）
+
+
+
+
+
+
+
+
+
+
+
+运输（英语：Outline of transport）
+
+
+
+
+航空
+
+
+
+自适应柔性变形机翼（英语：Adaptive compliant wing）
+Aeroscraft（英语：Worldwide Aeros Corp）
+背包直升机（英语：Backpack helicopter）
+送货无人机（英语：Delivery drone）
+飞行车
+高空平台（英语：High-altitude platform）
+喷气式飞行包
+脉冲爆震引擎（英语：Pulse detonation engine）
+超音速燃烧冲压发动机
+太空飛機
+
+云霄塔
+
+
+超音速客機
+
+
+
+
+
+
+
+
+陆路运输（英语：Land transport）
+
+
+
+无气轮胎（英语：Airless tire）
+
+Tweel（英语：Tweel）
+
+
+替代燃料车（英语：Alternative fuel vehicle）
+
+氫動力汽車
+
+
+自動駕駛汽車
+地面效应列车（英语：Ground effect train）
+磁懸浮列車
+个人快速运输系统
+真空管道高速交通
+
+ET3全球联盟（英语：ET3 Global Alliance）
+超迴路列車
+
+
+车载通信系统（英语：Vehicular communication systems）
+
+
+
+
+
+
+
+
+管道
+
+
+
+气动运输（英语：Pneumatic tube）
+
+自动化真空收集（英语：Automated vacuum collection）
+Foodtubes（英语：Foodtubes）
+
+
+
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+反重力
+隐身斗篷（英语：Cloak of invisibility）
+数字香水技术（英语：Digital scent technology）
+力场 (小说)（英语：Force field (fiction)）
+
+等离子窗（英语：Plasma window）
+
+
+沉浸 (虚拟现实)（英语：Immersion (virtual reality)）
+
+VirtuSphere（英语：VirtuSphere）
+
+
+磁性制冷（英语：Magnetic refrigeration）
+相控阵光学（英语：Phased-array optics）
+量子技术（英语：Quantum technology）
+
+量子隱形傳態
+
+
+
+
+
+
+
+
+
+
+
+
+
+理念
+
+
+
+科林格里奇困境（英语：Collingridge dilemma）
+差异化技术开发（英语：Differential technological development）
+Ephemeralization（英语：Ephemeralization）
+探索性工程（英语：Exploratory engineering）
+虚构科技（英语：Fictional technology）
+行事原则（英语：Proactionary principle）
+技术革新
+
+技术失业（英语：Technological unemployment）
+
+
+技术融合
+技术演进（英语：Technological evolution）
+技术范例（英语：Technological paradigm）
+科技預測
+
+加速变化（英语：Accelerating change）
+摩尔定律
+技术奇异点
+Technology scouting（英语：Technology scouting）
+
+
+技术就绪指数
+技术路线
+超人类主义
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 列表
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+技术
+
+
+
+
+
+
+領域
+
+
+
+
+農業
+
+
+
+农业工程
+水產養殖
+水产学
+食品化学
+食品工程
+营养学
+食品技术
+食品微生物学（英语：Food microbiology）
+遺傳利用限制技術（英语：Genetic use restriction technology）
+
+
+
+
+
+
+
+
+生物医学（英语：Biomedical technology）
+
+
+
+生物信息学
+生物医学工程
+生物工程学
+生物技术
+健康科学
+生化檢驗
+药理学
+神经科学
+组织工程学
+基因工程
+纳米医学
+化学信息学
+
+
+
+
+
+
+
+
+水利/土木建築
+
+
+
+水利工程
+土木工程
+建築工程
+建築設備
+消防工程
+安全工程
+結構工程
+
+
+
+
+
+
+
+
+教育技术
+
+
+
+在线学习
+教育技术学
+教育软件（英语：Educational software）
+虚拟校园（英语：Virtual campus）
+
+
+
+
+
+
+
+
+能源
+
+
+
+核工程
+核技术
+储能技术
+石油工程（英语：Petroleum engineering）
+
+
+
+
+
+
+
+
+军事
+
+
+
+彈藥
+炸彈
+軍事技术
+電子作戰
+低可偵測性技術
+工兵
+军事通信（英语：Military communications）
+
+
+
+
+
+
+
+
+信息
+
+
+
+人工智能
+計算機工程
+计算机科学
+音乐工艺
+通信工程
+通信
+图形
+信息技术
+軟件工程
+音乐
+语音识别
+可视化技术
+系统分类学
+本体工程
+信息学
+
+
+
+
+
+
+
+
+工业（英语：Industrial technology）
+
+
+
+纳米科技
+音频工程
+生物工程
+生化工程
+陶瓷工程
+化学工程
+控制工程
+低温学
+電機工程學
+电子工程
+工程技术
+工程学
+工业工程学
+企业工程
+水力学
+机械工程
+機械電子學
+冶金工程
+海洋工程
+光学工程
+系统工程
+运输工程
+电动机械学
+金融工程学
+制造
+机械
+采矿业
+自动化技术
+冶金学
+
+
+
+
+
+
+
+
+交通
+
+
+
+航空航天
+航空航天工程
+空间技术
+机动车
+車輛工程
+交通工程
+流量工程
+
+
+
+
+
+
+
+
+環境科技
+
+
+
+綠色建築
+可再生能源
+永續設計
+环境工程
+生態工程
+潔淨科技（英语：Clean technology）
+生態技術（英语：Ecotechnology）
+環境工程科學（英语：Environmental engineering science）
+
+
+
+
+
+
+
+
+应用科学
+
+
+
+考古
+电子学
+光学
+半导体物理学
+环境科学
+材料科学
+微系统
+微技术
+纳米技术
+
+
+
+
+
+
+
+
+其他领域
+
+
+
+机器人学
+机械电子学
+蛋白质工程
+系统工程
+聚合物工程（英语：Polymer engineering）
+
+
+
+
+
+
+
+
+
+
+
+組件
+
+
+
+基礎設施
+發明
+发明年表
+知識
+機器
+技能
+工艺
+工具
+
+
+
+
+
+
+
+
+技術史
+
+
+
+新石器革命
+工業革命
+第二次工業革命
+數字化革命
+第三次工業革命
+信息時代
+史前技术（英语：Outline of prehistoric technology）
+古代技術（英语：Ancient technology）
+中世紀技術（英语：Medieval technology）
+文藝復興技術（英语：Renaissance technology）
+噴氣時代（英语：Jet Age）
+
+
+
+
+
+
+
+
+理論（英语：Theories of technology）
+和概念
+
+
+
+適用技術
+破壞性創新
+高科技
+技术成熟度曲线
+专家统治
+技术决定论
+技術官僚
+技术奇异点
+技术接受模型
+超人类主义
+軍民兩用技術（英语：Dual-use technology）
+技术伦理（英语：Ethics of technology）
+
+
+
+
+
+
+
+
+其他
+
+
+
+新興技術列表
+卡尔达肖夫指数
+Category:各国科技
+Category:科技公司
+Category:技术大学和学院
+技术传播者
+技术新闻学
+
+
+
+
+
+
+
+
+
+
+
+ Category:技術
+ commons:Category:技術
+ Portal:技術
+
+
+
+
+
+
+
+
+
+
+
+
+分类：新兴技术超人类主义未來學生物倫理學隐藏分类：自2015年12月维基百科需要重写的条目

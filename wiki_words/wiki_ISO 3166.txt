@@ -1,0 +1,503 @@
+ISO 3166
+
+
+
+
+
+本条目没有列出任何参考或来源。（2015年6月4日） 
+維基百科所有的內容都應該可供查證。请协助添加来自可靠来源的引用以改善这篇条目。无法查证的内容可能被提出异议而移除。 
+
+
+國際標準化組織的ISO 3166國際標準針對國家和地區編代碼，有三部份：
+
+ISO 3166-1有國際標準化組織（ISO）的標準國家代碼。有二位字母代碼、三位字母代碼、以及三位數字代碼。1974年首次出版。
+ISO 3166-2定義國家或地區的主要行政區代碼。
+ISO 3166-3定義被取代的ISO 3166-1代碼的代碼。1998年首次出版。
+
+ISO 4217標準貨幣三位字母代碼的左邊二位字母代碼一般依據ISO 3166-1的二位字母代碼。
+参考文献[编辑]
+
+外部連結[编辑]
+
+ISO 3166 Maintenance Agency, International Organization for Standardization (ISO)
+https://web.archive.org/web/20040923013951/http://www.iso.org/iso/en/prods-services/iso3166ma/index.html （英文）
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ISO標準
+
+
+
+
+
+
+
+
+
+列表
+国际标准化组织的标准列表（英语：List of International Organization for Standardization standards）
+国际标准化组织拉丁化方案列表
+国际电工委员会标准列表（英语：List of IEC standards）
+
+
+
+
+
+
+
+
+1–9999
+
+
+
+1
+2
+3（英语：Preferred number）
+4
+5
+6
+7（英语：ISO 7）
+9
+16
+31
+
+-0（英语：ISO 31-0）
+-1（英语：ISO 31-1）
+-2（英语：ISO 31-2）
+-3（英语：ISO 31-3）
+-4（英语：ISO 31-4）
+-5（英语：ISO 31-5）
+-6（英语：ISO 31-6）
+-7（英语：ISO 31-7）
+-8（英语：ISO 31-8）
+-9（英语：ISO 31-9）
+-10（英语：ISO 31-10）
+-11（英语：ISO 31-11）
+-12（英语：ISO 31-12）
+-13（英语：ISO 31-13）
+
+
+128
+216
+217（英语：ISO 217）
+226（英语：ISO 226）
+228（英语：British standard pipe thread）
+233
+259
+269
+302（英语：Kappa number）
+306（英语：Vicat softening point）
+428（英语：ISO 428）
+518
+519
+639
+
+-1
+-2
+-3
+-5
+-6
+
+
+646
+690
+732
+764（英语：Antimagnetic watch）
+843
+898（英语：ISO 898）
+965（英语：ISO 965）
+1000
+1004（英语：Magnetic ink character recognition）
+1007
+1073-1（英语：OCR-A font）
+1413（英语：ISO 1413）
+1538
+1745（英语：ISO 1745）
+1989
+2014（英语：ISO 2014）
+2015（英语：ISO 2015）
+2022
+2047（英语：ISO 2047）
+2108
+2145
+2146（英语：ISO 2146）
+2240
+2281（英语：Water Resistant mark）
+2709（英语：ISO 2709）
+2711（英语：ISO 2711）
+2788（英语：ISO 2788）
+2852（英语：ISO 2852）
+3029（英语：126 film）
+3103
+3166
+
+-1
+-2
+-3
+
+
+3297
+3307（英语：ISO 3307）
+3602
+3864（英语：ISO 3864）
+3901
+3977（英语：ISO 3977）
+4031（英语：ISO 4031）
+4157（英语：ISO 4157）
+4217
+4909（英语：ISO/IEC 4909）
+5218
+5428（英语：ISO 5428）
+5775（英语：ISO 5775）
+5776（英语：ISO 5776）
+5800
+5964（英语：ISO 5964）
+6166
+6344（英语：ISO 6344）
+6346（英语：ISO 6346）
+6385（英语：ISO 6385）
+6425（英语：Water Resistant mark）
+6429（英语：ANSI escape code）
+6438
+6523（英语：ISO 6523）
+6709
+7001（英语：ISO 7001）
+7002（英语：ISO 7002）
+7098
+7185
+7200（英语：ISO 7200）
+7498
+7736（英语：ISO 7736）
+7810
+7811（英语：ISO/IEC 7811）
+7812（英语：ISO/IEC 7812）
+7813（英语：ISO/IEC 7813）
+7816（英语：ISO/IEC 7816）
+8000（英语：ISO 8000）
+8178（英语：ISO 8178）
+8217
+8571（英语：FTAM）
+8583（英语：ISO 8583）
+8601
+8632
+8652（英语：ISO/IEC 8652）
+8691（英语：ISO 8691）
+8807（英语：Language Of Temporal Ordering Specification）
+8820-5（英语：ISO/IEC 8820-5）
+8859
+
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-8-I（英语：ISO-8859-8-I）
+-9
+-10
+-11
+-12
+-13
+-14
+-15
+-16
+
+
+8879
+9000/9001
+9075
+9126（英语：ISO/IEC 9126）
+9293
+9241（英语：ISO 9241）
+9362
+9407
+9506（英语：Manufacturing Message Specification）
+9529（英语：ISO 9529）
+9564（英语：ISO 9564）
+9594
+9660
+9897（英语：ISO 9897）
+9899
+9945
+9984
+9985
+9995
+
+
+
+
+
+
+
+
+10000–19999
+
+
+
+10005（英语：ISO 10005）
+10006（英语：ISO 10006）
+10007（英语：ISO 10007）
+10116（英语：ISO/IEC 10116）
+10118-3（英语：Whirlpool (cryptography)）
+10160（英语：ISO 10160）
+10161（英语：ISO 10161）
+10165（英语：Guidelines for the Definition of Managed Objects）
+10179（英语：Document Style Semantics and Specification Language）
+10206
+10218（英语：ISO 10218）
+10303
+
+-11（英语：EXPRESS (data modeling language)）
+-21
+-22（英语：ISO 10303-22）
+-28（英语：ISO 10303-28）
+-238（英语：STEP-NC）
+
+
+10383（英语：ISO 10383）
+10487（英语：ISO 10487）
+10585
+10589
+10646
+10664
+10746（英语：RM-ODP）
+10861（英语：Multibus）
+10957（英语：International Standard Music Number）
+10962（英语：ISO 10962）
+10967（英语：ISO/IEC 10967）
+11073（英语：ISO/IEEE 11073）
+11170（英语：ISO 11170）
+11179（英语：ISO/IEC 11179）
+11404（英语：ISO/IEC 11404）
+11544
+11783（英语：ISO 11783）
+11784（英语：ISO 11784 & 11785）
+11785（英语：ISO 11784 & 11785）
+11801
+11898
+11940 (-2（英语：ISO 11940-2）)
+11941（英语：ISO/TR 11941）
+11941 (TR)（英语：ISO/TR 11941）
+11992（英语：ISO 11992）
+12006（英语：ISO 12006）
+12182（英语：ISO/IEC TR 12182）
+12207（英语：ISO/IEC 12207）
+12234-2（英语：Tag Image File Format / Electronic Photography）
+13211
+
+-1
+-2
+
+
+13216（英语：Isofix）
+13250
+13399（英语：ISO 13399）
+13406-2（英语：ISO 13406-2）
+13450（英语：110 film）
+13485（英语：ISO 13485）
+13490（英语：ISO 13490）
+13567（英语：ISO 13567）
+13568（英语：Z notation）
+13584（英语：ISO 13584）
+13616
+14000
+14031
+14224（英语：ISO 14224）
+14289（英语：PDF/UA）
+14396
+14443
+14496
+
+-2（英语：MPEG-4 Part 2）
+-3（英语：MPEG-4 Part 3）
+-6（英语：Delivery Multimedia Integration Framework）
+-10
+-11（英语：MPEG-4 Part 11）
+-12（英语：MPEG-4 Part 12）
+-14
+-17
+-20
+
+
+14644（英语：ISO 14644）
+14649（英语：STEP-NC）
+14651（英语：ISO 14651）
+14698（英语：ISO 14698）
+14750（英语：ISO 14750）
+14764
+14882
+14971（英语：ISO 14971）
+15022（英语：ISO 15022）
+15189（英语：ISO 15189）
+15288（英语：ISO/IEC 15288）
+15291（英语：Ada Semantic Interface Specification）
+15292（英语：ISO 15292）
+15398（英语：ISO 15398）
+15408（英语：Common Criteria）
+15444
+
+-3（英语：Motion JPEG 2000）
+
+
+15445
+15438
+15504
+15511（英语：International Standard Identifier for Libraries and Related Organizations）
+15686（英语：ISO 15686）
+15693（英语：ISO/IEC 15693）
+15706
+
+-2（英语：ISO 15706-2）
+
+
+15707（英语：International Standard Musical Work Code）
+15897（英语：ISO 15897）
+15919
+15924
+15926（英语：ISO 15926）
+15926 WIP（英语：ISO 15926 WIP）
+15930（英语：PDF/X）
+16023（英语：MaxiCode）
+16262
+16612-2（英语：PDF/VT）
+16750（英语：ISO 16750）
+16949 (TS)（英语：ISO/TS 16949）
+17024（英语：ISO/IEC 17024）
+17025（英语：ISO/IEC 17025）
+17100（英语：ISO 17100:2015）
+17203
+17369（英语：SDMX）
+17442（英语：Legal Entity Identifier）
+17799
+18000（英语：ISO/IEC 18000）
+18004
+18014（英语：ISO/IEC 18014）
+18245（英语：ISO 18245）
+18629（英语：Process Specification Language）
+18916（英语：Photographic Activity Test）
+19005
+19011（英语：ISO 19011）
+19092 (-1（英语：ISO 19092-1）
+-2)（英语：ISO 19092-2）
+19114（英语：ISO 19114）
+19115（英语：ISO 19115）
+19125（英语：Simple feature access）
+19136
+19439（英语：ISO 19439）
+19500
+19501
+19502
+19503（英语：XML Metadata Interchange）
+19505
+19506（英语：Knowledge Discovery Metamodel）
+19507（英语：Object Constraint Language）
+19508
+19509（英语：XML Metadata Interchange）
+19510
+19600:2014（英语：ISO 19600:2014）
+19752（英语：ISO/IEC 19752）
+19757（英语：RELAX NG）
+19770（英语：ISO/IEC 19770）
+19775-1
+19794-5（英语：ISO/IEC 19794-5）
+19831（英语：Cloud Infrastructure Management Interface）
+
+
+
+
+
+
+
+
+20000+
+
+
+
+20000
+20022（英语：ISO 20022）
+20121（英语：ISO 20121）
+20400（英语：ISO 20400）
+21000
+21047（英语：International Standard Text Code）
+21500（英语：ISO 21500）
+21827:2002（英语：ISO/IEC 21827）
+22000（英语：ISO 22000）
+23270
+23271
+23360
+24517（英语：PDF/E）
+24613
+24617（英语：ISO-TimeML）
+24707（英语：Common Logic）
+25178（英语：ISO 25178）
+25964（英语：ISO 25964）
+26000（英语：ISO 26000）
+26300
+26324
+27000 series
+27000（英语：ISO/IEC 27000）
+27001:2005（英语：ISO/IEC 27001:2005）
+27001:2013（英语：ISO/IEC 27001:2013）
+27002
+27006（英语：ISO/IEC 27006）
+27729
+28000（英语：ISO/PAS 28000）
+29110（英语：ISO 29110）
+29148（英语：Requirements engineering）
+29199-2
+29500
+30170
+31000（英语：ISO 31000）
+32000
+38500（英语：ISO/IEC 38500）
+40500（英语：Web Content Accessibility Guidelines）
+42010（英语：ISO/IEC 42010）
+55000（英语：ISO 55000）
+80000
+
+-1（英语：ISO 80000-1）
+-2（英语：ISO 80000-2）
+-3（英语：ISO 80000-3）
+
+
+
+
+
+
+
+
+
+
+
+
+
+参见：
+ ISO标准
+所有前缀有“ISO”的页面
+
+
+
+
+
+
+
+
+
+
+
+
+分类：ISO標準ISO 3166行政区划代码隐藏分类：自2015年6月缺少来源的条目

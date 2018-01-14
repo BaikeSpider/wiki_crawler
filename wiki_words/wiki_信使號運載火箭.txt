@@ -1,0 +1,180 @@
+信使運載火箭
+
+
+本文介紹的是伊朗的火箭。關於美國的火箭，請見「信使號」。
+
+
+
+信使號
+
+用途
+低地球軌道運載火箭
+
+
+製造商
+伊朗太空總署
+
+
+製造國家
+ 伊朗
+
+
+外型及質量參數
+
+
+高度
+22 公尺 (72ft)
+
+
+直徑
+1.25 公尺 (4.10ft)
+
+
+質量
+26,000 公斤
+
+
+级数
+2
+
+
+酬載量
+
+
+有效載荷-LEO
+50公斤（110英磅）[1]
+
+
+相關火箭
+
+
+系列火箭
+流星
+
+
+發射歷史
+
+
+現況
+現役
+
+
+發射場
+伊朗太空總署
+
+
+總發射次數
+軌道：6[2]
+
+
+成功次數
+軌道：4[2]
+
+
+失敗次數
+2[2]
+
+
+首次發射
+亞軌道： 軌道：2008-08-17
+
+
+信使號（英语：Safir，波斯語：سفیر‎，"使節"之意）是伊朗第一種能將衛星送入軌道的一次性使用運載系統。[3] 信使號發射系統在2009年2月2日發射，並成功將希望號衛星衛星送入軌道。[4][5]
+
+
+
+目录
+
+
+1 Kavoshgar
+2 運作記錄
+
+2.1 信使號-1
+
+2.1.1 發射失敗的傳聞
+
+
+2.2 發射希望號衛星
+2.3 往後的發射
+
+2.3.1 未證實的失敗記錄
+
+
+
+
+3 相關條目
+4 參考資料
+5 外部連結
+
+
+
+Kavoshgar[编辑]
+2008年2月4日，命名為Kavoshgar-1 (波斯語：کاوشگر ۱‎, "Explorer-1")的亞軌道測試在國營電視臺公開。 2007年2月25日進行的飛行測試可能也具有相同的性質。 首次飛行負載了測量高空大氣的儀器。據伊朗通訊社，2008年2月4日發射的火箭以液態推進劑驅動，可能是衍生自流星-3的設計。火箭到達離地約200–250 km的太空，並成功傳回科學數據。
+2008年2月19日，伊朗提供有關信使號的相關新資料，並且公開Kavoshgar-1使用的是兩節火箭。[6] 第一節火箭在升空100 秒後脫離，並乘降落傘回到地面。第二節繼續飛行到離地約200 公里。不過此次飛行並未試圖到達軌道速度。
+伊朗國營電視臺早期的報告提出，Kavoshgar-1使用三節火箭，第一節在90 秒之後分離，最後火箭進入離地200-250公里的軌道。[7][8]
+早在2007年2月25日，伊朗就已成功開發且發射一個探空火箭。不過無法得知此火箭與2008年2月4日發射的火箭是否為同一類型。
+運作記錄[编辑]
+信使號-1[编辑]
+2008年8月17日，伊朗官方宣布成功發射一臺無負載的信使號火箭。這是伊朗為了發射首個自產的衛星希望號所做的準備。[9] 伊朗航空組織的領導Reza Taghizadeh透過國家電視台發言：「信使號運載火箭已在今日發射，我們首次將一顆替代的假衛星送入軌道。」[10] 根據伊朗公布的資料，這顆替代的假衛星被送入離地650 km的近地軌道，每24小時通過伊朗上空6次。[11][12]
+發射失敗的傳聞[编辑]
+據美國官方所述：「火箭在升空後不久就失敗了，所以根本無法抵達預定位置。」[13] 不過伊朗國家電視臺在幾分鐘後就播出了火箭升空的過程。[14] 伊朗官方嚴厲抨擊上述的指控，並且聲明希望號衛星將在不久後發射。[15] 約6個月後，伊朗確實在2009年2月2日發射了衛星。
+發射希望號衛星[编辑]
+2009年2月2日，一個信使號火箭載運希望號衛星進行了伊朗的首次軌道飛行。[16] 信使號-2是一個兩級運載火箭，長22 m、直徑1.25 m、重約26噸。希望號衛星27公斤重，被送入近地點245.5 km、遠地點381.2 km的橢圓軌道。[4][17] 信使號-2 顯然比前機型更先進有力。[18]
+往後的發射[编辑]
+伊朗已經開始發展計畫中的Block-II Safir的推進器，試圖加倍其負載量，並在2010年運作。第一節增加兩個捆綁式固體引擎推進器（來自流星-3C），可能還在原有的火箭上增加了第三節固體發動機，信使號獲得更多負載能力。
+伊朗總統馬哈茂德·艾哈邁迪內賈德在2009年4月14日宣布開始此推進器的研發。此推進器可將衛星送入700-公里（430-英里）高的軌道或者加倍原本的負載量。已知伊朗在2010年結合液態推進劑與固體發動機技術，開發出兩倍於現在信使號推進器的Safir block-II class space booster。伊朗正在開發一個幾乎以固體為推進劑的推進器，能以330kg的負載進入進地軌道。[19] 信使號-B火箭的處女航位在塞姆南省，載運伊朗的第三個本土衛星Rasad 1，在2011年6月15日09:14 UTC升空後，這個重15.3 kg的衛星於數分鐘後成功進入軌道。
+2012年2月3日，升級後的的信使號增加20%推力，載運50 kg的Navid衛星進入太空。火箭的第二節比舊款的更寬。[1]
+2015年2月3日，信使號載運一個50 kg的Fajr衛星發射升空。[2]
+未證實的失敗記錄[编辑]
+Fajr地球成像衛星在2012年5月23日、9月22日以及2013年2月17日在塞姆南航天發射場發射失敗。伊朗並未公布這三次發射失敗的記錄。[20][2]
+相關條目[编辑]
+
+伊朗航天局
+希望號
+流星-1
+流星-2
+流星-3
+流星-4
+
+參考資料[编辑]
+
+
+^ 1.0 1.1 http://jamejamonline.ir/newstext.aspx?newsnum=100803210565
+^ 2.0 2.1 2.2 2.3 2.4 Stephen Clark. Iranian satellite successfully placed in orbit. Spaceflight Now. 2 February 2015 [2 February 2015]. 
+^ Parisa Hafezi. Iran launches first home-made satellite into space. Reuters. 2008-08-17 [2008-08-17]. 
+^ 4.0 4.1 OMID Spacecraft - Trajectory Details. NASA NSSDC. 
+^ The Threat. US Missile Defense Agency. [失效連結]
+^ Iran provides space launch info. Press TV. 2008 [2009-01-11]. （原始内容存档于2008-09-30）. 
+^ Ali Akbar Dareini. Iran to Launch 2 More Research Rockets Before Placing Satellite into Orbit This Summer. Space.com. 2008 [2009-01-11]. （原始内容存档于2009-02-08）. 
+^ Iran's Research Rocket Beams Back Science Data. Associated Press. 2008 [2009-01-11]. 
+^ Iran launches satellite carrier. BBC News. 2008-08-17 [2008-08-17]. 
+^ Iran says it has put first dummy satellite in orbit. Reuters. [2008-08-18]. [失效連結]
+^ 伊朗将于下周发射自主生产的卫星. 伊通社. 2008-08-16 [August 18, 2008]. （原始内容存档于2008年9月12日）. 
+^ Iran Sends First Satellite into Orbit 互联网档案馆的存檔，存档日期2013-06-01.
+^ Iran satellite launch a failure: U.S. official. Reuters. 2008-08-19. 
+^ YouTube - Iran launches rocket into space
+^ Press TV
+^ McDowell, Jonathan. Issue 606. Jonathan's Space Report. [2009-02-03]. 
+^ OMID Satellite Launch Report (PDF). Iranian Space Agency. 9 February 2009 [2009-03-15]. 
+^ Shiga, David. Is Iran's space programme more advanced than thought?. New Scientist. 2009-02-09 [2009-04-13]. 
+^ Safir IRILV Block-II
+^ Hansen, Nick. Rocket science - Iran's rocket programme. Jane's Intelligence Review. October 1, 2012, 24 (10).  使用|accessdate=需要含有|url= (帮助)
+
+
+外部連結[编辑]
+
+Iran's Research Rocket Beams Back Science Data, Space.com
+Iran Launches Rocket, Unveils Space Center, Space.com
+Iran's Sputnik, SpaceRef.com
+Iran rocket claim raises tension, BBC
+Iran: Rocket Launch Another Show Of Prowess, RadioFreeEurope RadioLiberty
+Iran claims space rocket launch, AlJazeera
+Iranians inaugurate space project, BBC
+Iran to Launch 2 More Research Rockets Before Placing Satellite into Orbit This Summer, on Space.com
+Iran Launches Indigenous Carrier Rocket
+
+
+
+
+
+分类：运载火箭化学火箭一次性火箭隐藏分类：带有失效链接的条目条目有永久失效的外部链接Webarchive模板wayback链接含有访问日期但无网址的引用的页面含有波斯語的條目

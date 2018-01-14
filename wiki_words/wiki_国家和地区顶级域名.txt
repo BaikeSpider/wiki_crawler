@@ -1,0 +1,238 @@
+國家和地區頂級域
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。（2014年1月29日） 
+請邀請適合的人士改善本条目。更多的細節與詳情請參见討論頁。 
+
+
+
+
+
+國家和地區頂級域名（Country code top-level domain，英语：ccTLD），简称国家顶级域[1][2][3]，又譯國碼域名[4][5]、頂級國碼域名[6]、國碼頂級網域名稱[7][8]，或頂級國碼網域名稱[8][9]，是用兩字母的國家或地區名縮寫代稱的頂級域[10]，其域名的指定及分配，政治因素考量凌駕在技術和商業因素之上[11]。
+這些頂級域均由兩個字母組成，大部份使用ISO 3166-1標準。2002年時共有243個國家及地區頂級域。[12]2010年起，網際網路號碼分配局開始分配國際化國家及地區頂級域，這項改變使得國碼域名可以使用當地文字，例如增加了中文國碼域名（.中国及.中國、.香港、.台湾及.台灣），國際化國碼域名也不限於兩個字（例如.新加坡是三個字）。到2016年4月為止，共有303個國家及地區頂級域。[13]
+其中有兩個島國圖瓦盧及科科斯（基林）群島，與VeriSign旗下公司達成協議，向全世界開放其國碼域名，分別是.tv及.cc。
+参考文献[编辑]
+
+
+^ 电子商务概论. 北京: 清华大学出版社有限公司. 2004 [31 January 2014]. ISBN 978-7-81082-353-1 （中文（中国大陆）‎）. 
+^ 高校图书馆工作. 湖南大学出版社. 1999 [31 January 2014] （中文（中国大陆）‎）. 
+^ 知识产权文丛Intellectual Property Collections 第6卷. 中国方正出版社. 2001. ISBN 978-7-80107-463-8 （中文（中国大陆）‎）. 
+^ 國碼域名屬於誰?ICANN與主權國家的角力. 中華國際法與超國界法評論. 2008, (200812 (4:2期)): 477–524 （中文（台灣）‎）. 
+^ 公共行政學報：Journal of public administration. 國立政治大學，公共行政學系. 2008 [31 January 2014] （中文（台灣）‎）. 即是否需要推動經營國碼域名的國際標準呈現正反意見，但是，在建議文件有關國碼域名的說明，卻只強調在地控制作爲國碼域名的準則 
+^ .htc .acer新網域名年底啟用向全球行銷北市府也申請.taipei
+^ 部落格站長群. 站長親授！WordPress 3.0部落格架站十堂課. 電腦人. 19 October 2010: 29–. ISBN 978-986-199-235-8 （中文（台灣）‎）. 
+^ 8.0 8.1 財團法人台灣網路資訊中心. 台灣網域名稱爭議案例精選. 台北: 秀威資訊科技股份有限公司. 2009-11-16: 16– [31 January 2014]. ISBN 978-986-80910-5-4 （中文（台灣）‎）. 
+^ 國家通訊傳播委員會. 95年通訊傳播績效報告. 中華民國政府出版品. : 150–. ISBN 978-986-01-3270-0 （中文（台灣）‎）. 
+^ 兰少华; 杨余旺; 吕建勇. TCP/IP网络与协议. 清华大学出版社有限公司. 2006: 148– [29 January 2014]. ISBN 978-7-302-11840-4 （中文（中国大陆）‎）. 
+^ Milton Mueller. Ruling the Root: Internet Governance and the Taming of Cyberspace. MIT Press. 2004: 244 [29 January 2014]. ISBN 978-0-262-26379-5 （英语）. But political factors have overridden technical and business facts in this case. The GAC has lobbied to make sure that ccTLD delegations are exclusive by warning ICANN not to delegate any new TLDs with the names of countries or that use the three-letter country codes. The director-general of the European Commission, Robert Verrue, expressed support for the idea of giving governments the opportunity to register or assign in advance the two-letter and three-letter ISO country codes in the new TLDs. In its second process WIPO proposed to exclude all two-letter country codes from the second level of all new generic TLDs. 
+^ Intellectual Property on the Internet: A Survey of Issues. WIPO. 2002年: 60. ISBN 978-92-805-1143-7. 
+^ Root Zone Database. IANA. 按頁面Type欄country-code出現的次數計算。
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+國家和地區頂級域名
+
+
+
+
+
+
+
+
+
+
+ 
+ISO 3166-1
+
+
+
+
+
+
+
+
+
+A .ac .ad .ae .af .ag .ai .al .am .ao .aq .ar .as .asia .at .au .aw .ax .az    B .ba .bb .bd .be .bf .bg .bh .bi .bj .bm .bn .bo .br .bs .bt .bw .by .bz    C .ca .cc .cd .cf .cg .ch .ci .ck .cl .cm .cn .co .cr .cu .cv .cw .cx .cy .cz    D .de .dj .dk .dm .do .dz   E .ec .ee .eg .er .es .et .eu    F .fi .fj .fk .fm .fo .fr    G .ga .gd .ge .gf .gg .gh .gi .gl .gm .gn .gp .gq .gr .gs .gt .gu .gw .gy    H .hk .hm .hn .hr .ht .hu    I .id .ie .il .im .in .io .iq .ir .is .it    J .je .jm .jo .jp    K .ke .kg .kh .ki .km .kn .kp .kr .kw .ky .kz    L .la .lb .lc .li .lk .lr .ls .lt .lu .lv .ly    M .ma .mc .md .me .mg .mh .mk .ml .mm .mn .mo .mp .mq .mr .ms .mt .mu .mv .mw .mx .my .mz    N .na .nc .ne .nf .ng .ni .nl .no .np .nr .nu .nz    O .om    P .pa .pe .pf .pg .ph .pk .pl .pm .pn .pr .ps .pt .pw .py    Q .qa    R .re .ro .rs .ru .rw    S .sa .sb .sc .sd .se .sg .sh .si .sk .sl .sm .sn .so .sr .ss .st .su .sv .sx .sy .sz    T .tc .td .tf .tg .th .tj .tk .tl .tm .tn .to .tr .tt .tv .tw .tz    U .ua .ug .uk .us .uy .uz    V .va .vc .ve .vg .vi .vn .vu    W .wf .ws    Y .ye .yt    Z .za .zm .zw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+IDN ccTLD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+西里尔字母
+阿拉伯文字
+婆罗米系文字
+汉字
+其他文字
+
+
+
+
+
+
+
+
+.мон（.mon，蒙古国）
+.қаз（.qaz，哈萨克斯坦）
+.рф（.rf，俄罗斯）
+.срб（.srb，塞尔维亚）
+.укр（.ukr，乌克兰）
+
+
+
+
+
+
+الجزائر.（al-Jazā’ir，阿尔及利亚）
+مصر.（masr，埃及）
+بھارت.（bharat，印度）
+ایران.（伊朗）
+الاردن.（al-urdun，约旦）
+فلسطين.（filastin，巴勒斯坦）
+پاکستان.（pakstan，巴基斯坦）
+قطر.（qatar，卡塔尔）
+السعودية.（al-saudiah，沙特阿拉伯）
+سوريا.（sūryā，叙利亚）
+تونس.（tunis，突尼西亞）
+امارات.（emarat，阿拉伯联合酋长国）
+.om（阿曼）
+.my（maleesya，马来西亚）
+.ma（almahgrib，摩洛哥）
+.sd（苏丹共和国）
+.ye（alyemen，也门）
+
+
+
+
+
+
+.বাংলা（bangla，孟加拉国）
+.ভারত（bharôt，印度）
+.भारत（bharat，印度）
+.భారత్（bharat，印度）
+.ભારત（bharat，印度）
+.ਭਾਰਤ（bharat，印度）
+.இந்தியா（inthiyaa，印度）
+.ලංකා（lanka，斯里蘭卡）
+.இலங்கை（ilangai，斯里蘭卡）
+.ไทย（thai，泰国）
+.சிங்கப்பூர்（cinkappūr，新加坡）
+
+
+
+
+
+
+.中国（Zhōngguó，中国）
+.香港（香港）
+.澳門 （Àomén/Ou3mun4, 澳门）
+.澳门 （Àomén/Ou3mun4, 澳门）
+.台灣（台湾）
+.台湾 (Táiwān,台湾)
+.新加坡（Xīnjiāpō/Sin-ka-po，新加坡）
+.新加坡 （Xīnjiāpō, 新加坡）
+
+
+
+
+
+
+.հայ （hay，亚美尼亚）
+.გე（ge，格鲁吉亚）
+.ελ （el, 希腊）
+.한국（Hanguk，大韩民国）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+其他
+
+
+
+
+
+
+
+ 提議： .бг（保加利亞）  ישראל.（以色列）     保留/未分配： .bl  .bq  .cw  .eh  .sx  .um      已分配/未使用： .bv  .gb  .sj  .mf      被取代： .tp     剔除/撤消： .bu  .cs  .dd  .yu  .zr    国家解体，但仍有使用，并可注册： .su
+
+
+
+
+
+
+
+
+
+
+另見：通用頂級域
+
+
+
+
+
+
+
+
+
+
+分类：國家及地區頂級域頂級域隐藏分类：CS1英语来源 (en)自2014年1月需要专业人士关注的页面含有明確引用中文的條目

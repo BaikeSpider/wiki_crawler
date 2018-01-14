@@ -1,0 +1,230 @@
+活性位点
+
+
+
+
+
+活性位点（英语：Active site），又称活化位置，是指一個酵素中具有催化能力與結合位置的部位。其結構與化學性質可供辨識受質，並與受質結合。活化位置通常是酵素表面上一個類似口袋的區域，內部含有可與特定受質發生反應的殘基。
+
+
+
+目录
+
+
+1 結合
+
+1.1 酵素鎖鑰假說
+1.2 誘導契合假說
+
+
+2 化學性質
+3 輔因子
+4 抑制劑
+5 藥物的發展
+6 異位結合位
+7 參見
+8 參考文獻
+
+
+
+結合[编辑]
+大部分酵素只會有一個活性位點，只對應一種受質。酵素的變性作用，通常是因為高溫或者是極端的PH值，造成酵素活性位點形狀的改變。
+以下有兩種酵素結合的假說
+酵素鎖鑰假說[编辑]
+
+
+
+
+
+
+
+
+
+
+由Emil Fischer提出的，他的假設是說酵素的活性位點和受質可以很完美的結合，當兩者結合，受質的修飾就開始了。
+誘導契合假說[编辑]
+
+
+
+
+
+
+
+
+
+
+由Daniel Koshland提出的，它是鎖鑰理論的延伸，但它主張活性位點和受質不會完美結合，且活性位點是可以形狀改變到和受質完美結合的狀態；當受質接上後，誘導形狀改變，當受質離開後，酵素回到它原本的樣子。
+化學性質[编辑]
+受質和酵素結合，透過氫鍵、疏水交互作用或兩者都有。活性位點上的殘基作為質子或其他受質化學基團的接受者或提供者，進而降低反應活化能，加快反應速率。當酵素和受質間的作用完後，產物在活性位點會相當的不穩定，進而離開酵素。
+輔因子[编辑]
+酵素會運用輔因子來幫忙與受質的結合；輔酶也是輔因子的一種，在受質和酵素發生化學反應時，就會離開。例如：金屬物質。
+抑制劑[编辑]
+抑制劑會阻擾受質和酵素的交互作用，進而降低反應速率。抑制劑有幾種不同的種類，分別有可逆和不可逆、競爭和非競爭；競爭型，一種和受質很像的物質，會和受質競爭酵素；非競爭型，一種會結合在非活性位點的物質，會影響受質和酵素的結合率。
+
+
+
+例子
+和活性位點結合?
+降低反應速率?
+
+
+競爭可逆型
+HIV蛋白酶抑制劑
+會
+會
+
+
+非競爭可逆型
+重金屬
+不會
+會
+
+
+不可逆型
+氰化物
+會
+會
+
+
+藥物的發展[编辑]
+辨認活性位點，在藥學上很重要；藉由辨認出活性位點，設計出受質(藥物)，可以阻斷它和受質結合；其中一個重要的因子在藥物設計，是抑制劑和酵素結合的強度。 例如AIDS
+異位結合位[编辑]
+異位結合位顧名思義和活性位點是不同的位置在酵素上，異位修飾通常發生在超過一個次單元的蛋白質，也常常參與代謝反應。
+參見[编辑]
+
+
+分子生物学主题
+细胞生物学主题
+
+
+
+别构调节 (Allosteric regulation)
+酶促反应
+酶抑制剂
+
+參考文獻[编辑]
+
+
+http://en.wikipedia.org/wiki/Active_site
+^ Alberts, B (2010). Essential Cell Biology. Garland Science. p. 91.
+^ Campbell, P (2006). Biochemistry Illustrated. Elsevier. pp. 83–85.
+^ Kool ET (1984). "Active site tightness and substrate fit in DNA replication". Annual Review of Biochemistry 71: 191–219. doi:10.1146/annurev.biochem.71.110601.135453.
+^ a b Sullivan SM (2008). "Enzymes with lid-gated active sites must operate by an induced fit mechanism instead of conformational selection". Proceedings of the National Academy of Sciences of the United States of America 105: 13829–13834. doi:10.1073/pnas.0805364105.
+^ a b Schechter I (2005). "Mapping of the active site of proteases in the 1960s and rational design of inhibitors/drugs in the 1990s". Current Protein and Peptide Science 6: 501–512. doi:10.2174/138920305774933286.
+^ a b c DeDecker BS (2000). "Allosteric drugs: thinking outside the active-site box". Chemistry and Biology 7: 103–107. doi:10.1016/S1074-5521(00)00115-0.
+^ Zuercher M (2008). "Structure-Based Drug Design: Exploring the Proper Filling of Apolar Pockets at Enzyme Active Sites". Journal of Organic Chemistry 73: 4345–4361. doi:10.1021/jo800527n.
+^ Powers R (2006). "Comparison of protein active site structures for functional annotation of proteins and drug design". Proteins - Structure, Function and Bioinformatics 65: 124–135. doi:10.1002/prot.21092.
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+酶
+
+
+
+
+
+
+活性
+
+
+
+活性位点
+结合位点（英语：Binding site）
+催化三联体
+Oxyanion hole（英语：Oxyanion hole）
+酶催化混杂（英语：Enzyme promiscuity）
+催化最适酶（英语：Catalytically perfect enzyme）
+辅因子
+辅酶
+酶促反应
+
+
+
+
+
+
+
+
+调节
+
+
+
+别构调节
+协同性（英语：Cooperativity）
+酶抑制剂
+
+
+
+
+
+
+
+
+分类
+
+
+
+EC編號
+蛋白质超家族（英语：Protein superfamily）
+蛋白质家族
+酶列表
+
+
+
+
+
+
+
+
+动力学
+
+
+
+酶动力学
+伊迪-霍夫斯蒂图（英语：Eadie–Hofstee diagram）
+哈尼斯-伍尔夫图（英语：Hanes–Woolf plot）
+双倒数图
+米氏动力学
+
+
+
+
+
+
+
+
+类型
+
+
+
+EC1 氧化还原酶（列表（英语：List of EC numbers (EC 1)））
+EC2 转移酶（列表（英语：List of EC numbers (EC 2)））
+EC3 水解酶（列表（英语：List of EC numbers (EC 3)））
+EC4 裂合酶（列表（英语：List of EC numbers (EC 4)））
+EC5 异构酶（列表（英语：List of EC numbers (EC 5)））
+EC6 连接酶（列表（英语：List of EC numbers (EC 6)））
+
+
+
+
+
+
+
+
+
+
+
+
+分类：酶催化

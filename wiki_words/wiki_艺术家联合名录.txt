@@ -1,0 +1,83 @@
+艺术家联合名录
+
+
+
+
+
+本条目的內容翻译自其他語言維基百科，需要校对翻译。 
+如果您熟知條目內容及來源語言，並且中文流暢，歡迎您積極參與校對與修訂。 
+
+
+
+
+
+
+
+本条目需要补充更多来源。（2017年6月1日） 
+请协助添加多方面可靠来源以改善这篇条目，无法查证的内容可能會因為异议提出而移除。 
+
+
+艺术家联合名录（英语：The Union List of Artist Names，缩写ULAN）是一个使用受控词表的在线数据库（英语：Online database），目前约有293,000个艺术家的名字和其他信息。ULAN中的名称可能包括姓名、笔名、变体拼写、各语言中的名称，以及随时间变化的姓名（例如婚后姓名）。在这些名称中，其中一个被标为首选名称。
+该名录也名：艺术家人名规范档、藝術家人名權威檔、藝術家姓名聯合目錄、盖蒂联盟艺术家名称表。
+
+
+
+目录
+
+
+1 简介
+2 词汇表
+3 设计
+4 脚注
+5 参见
+6 外部链接
+
+
+
+简介[编辑]
+虽然它称为一个列表，但ULAN的实际构造是一个词库（英语：Thesaurus (information retrieval)），符合ISO和NISO对词典构造的标准；它包含分层、等价和关联关系。
+每个ULAN记录着重于一名艺术家。目前ULAN记录有大约12万名艺术家。数据库中的每个艺术家记录（此手册中也称“主题”）都由一个唯一的数字ID标识。与每个艺术家记录相关联的是名称、相关艺术家、数据来源和备注。ULAN的覆盖范围从古至今，范围为全球性。
+ULAN包含有关艺术家的准确名称和相关信息。艺术家可以为个人或合作团体。ULAN中的艺术家通常表示参与了视觉艺术和建筑学概念或制作的创作者。一些表演艺术家（但通常不是演员、舞蹈家或其他表演艺术家）也在其中。
+
+一些未翻譯的非現代漢語已進行隐藏，歡迎參與翻譯。
+Repositories and some donors are included as well.
+
+[1]
+词汇表[编辑]
+ULAN是一个包含约12万条记录的结构化词汇表，其中包含有关于艺术家和建筑师的293,000个名称、传记和书目信息，这也包括丰富的变种名称、笔名和语言变种。
+设计[编辑]
+即使结构相对平坦，ULAN的构造是一个分层数据库。它的树从一个称为ULAN层次顶层的根分支（Subject_ID：500000001）开始。目前有两个公开平面：人、企业机构。“人”平面的实体通常没有子项。企业机构平面的实体可能有子树。可能存在的多个更广泛的上下文使得ULAN结构多层次化。除了层次关系之外，ULAN还具有等价和关联关系。
+脚注[编辑]
+
+
+^ About ULAN
+
+
+参见[编辑]
+
+Art and Architecture Thesaurus（英语：Art and Architecture Thesaurus）（AAT）
+Getty Thesaurus of Geographic Names（英语：Getty Thesaurus of Geographic Names）（TGN）
+Cultural Objects Name Authority（英语：Cultural Objects Name Authority）（CONA）
+Categories for the Description of Works of Art（英语：Categories for the Description of Works of Art）（CDWA）
+Cataloging Cultural Objects（英语：Cataloging Cultural Objects）（CCO）
+Getty Vocabulary Program（英语：Getty Vocabulary Program）
+
+外部链接[编辑]
+
+
+
+參見維基數據有有關P245的屬性，艺术家联合名录（參見用法）
+
+
+
+Union List of Artist Names Online（英文），在线免费搜索ULAN
+About the Getty Vocabularies（英文）
+About ULAN（英文）
+Getty Vocabulary Editorial Guidelines（英文）
+Training materials and presentations created by the Getty Vocabulary Program（英文）
+
+
+
+
+
+分类：圖書分類法索引典受控词表保罗·盖蒂信托基金博物馆图书艺术数据库在线人物数据库隐藏分类：需要校對的翻譯頁面自2017年6月需补充来源的条目拒绝当选首页新条目推荐栏目的条目正在翻譯的條目

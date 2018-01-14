@@ -1,0 +1,484 @@
+高血壓
+ 维基百科中的醫療相关内容仅供参考，詳見醫學聲明。如需专业意见请咨询专业人士。
+
+
+高血壓
+Hypertension
+
+
+同義詞
+動脈高血壓
+
+
+
+
+
+自动臂式血压计显示动脉的高血压（显示的收缩压为158 mmHg，舒张压99 mmHg以及心率为80次/分）。
+
+
+醫學專科
+心臟病學
+
+
+症状
+無[1]
+
+
+併發症
+冠狀動脈疾病、中風、心臟衰竭、周邊動脈阻塞、視力受損、慢性肾脏病[2][3]
+
+
+肇因
+生活形態以遺傳因素[4][5]
+
+
+風險因子（英语：Risk factor）
+吃太鹹的食物、體重過重、吸烟、喝酒[1][4]
+
+
+診斷方法
+休息血壓 > 140/90 mmHg[4]
+
+
+治療
+生活形態調整、藥物治療[6]
+
+
+盛行率
+全球約16–37%[4]
+
+
+死亡數
+9400萬 / 18%（2010年）[7]
+
+
+
+[编辑维基数据]
+
+
+
+高血压（英语：Hypertension (HTN)或high blood pressure），全稱动脉高血压（Arterial hypertension），是一种动脉血压升高的慢性病。血压的升高使心脏推动血液在血管内循环时的负担增大。血压有两种，收缩压和舒张压，分别为心脏跳动时肌肉收缩（systole）或舒张（diastole）时的测量值。正常静息血压范围为收缩压90–139mmHg（最高读数）和舒张压60–89mmHg（最低读数）。血压持续等于或高于140/90毫米汞柱mmHg时则为高血压。
+高血压分为原发性高血压（英语：Essential hypertension）或继发性高血压（英语：Secondary hypertension）。约90–95%的病例为"原发性高血压"，即没有明显病因的高血压。[5]其余5–10%的病例由影响肾脏、血管、心脏或内分泌系统的其它病症引发（继发性高血压）。
+高血压是中风、心肌梗塞（心梗）、心衰竭、动脉瘤（如主动脉瘤）及外周动脉疾病等重症的主要危险因素（英语：Risk factor）之一，也是慢性肾病的起因之一。即使轻度的动脉血压升高也能缩短期待寿命。改变饮食及生活方式可以改善对血压的控制并减少相关的健康风险。但如果生活方式改变没有起效或效用不佳则这些患者常需要使用药物治疗[谁？]。
+高血壓類性疾病名列中華民國十大死因之一。
+
+
+
+目录
+
+
+1 分类
+
+1.1 成人
+1.2 新生儿及婴儿
+1.3 儿童及青少年
+
+
+2 症状与体徵
+
+2.1 自發性高血壓
+2.2 继发性高血压
+2.3 高血压危象
+2.4 妊娠
+2.5 婴儿与儿童
+
+
+3 并发症
+4 病因
+
+4.1 原发性高血压
+4.2 继发性高血压
+
+
+5 病理生理
+6 诊断
+7 最新高血压标准
+8 预防
+9 治疗
+
+9.1 生活方式的改变
+9.2 药物
+
+9.2.1 药物联用
+
+
+9.3 老年人
+9.4 顽固性高血压
+
+
+10 患病率
+
+10.1 儿童
+
+
+11 历史
+
+11.1 量測
+11.2 治療
+
+
+12 社会和文化
+
+12.1 认知
+12.2 经济
+
+
+13 近年來的研究
+14 參見
+15 参考目录
+16 外部連結
+
+
+
+分类[编辑]
+
+
+分类（JNC7）[8]
+收缩压
+舒张压
+
+
+mmHg
+kPa
+mmHg
+kPa
+
+
+正常
+90–119
+12–15.9
+60–79
+8–10.5
+
+
+临界高血压
+120–139
+16–18.5
+80–89
+10.7–11.9
+
+
+高血压一期
+140–159
+18.7–21.2
+90–99
+12–13.2
+
+
+高血压二期
+≥160
+≥21.3
+≥100
+≥13.3
+
+
+单纯收缩
+高血压（英语：systolic hypertension）
+≥140
+≥18.7
+<90
+<12
+
+
+成人[编辑]
+对18岁及以上人群的高血压的定义为收缩压和／或舒张压值持续高于公认的正常值（目前此值为收缩压139mmHg毫米汞柱、舒张压89mmHg毫米汞柱：请参见分类表（JNC7））。如果使用24小时血压监测数值及家庭自测数值时，则应使用较低的阈值（收缩压135mmHg或舒张压85mmHg）.[9]最近的国际高血压指南也对高血压范围之下的血压情况进行了分类，以指出在正常血压范围内的较高血压亦存在的风险。JNC7（2003）[8]将收缩压在120–139 mmHg和/或舒张压在80–89 mmHg的范围定义为临界高血压，而ESH-ESC指南（2007）[10]及BHS IV（2004）[11]以最佳、正常及正常高值细分收缩压低于140 mmHg及舒张压低于90 mmHg的组别。高血压也有如下分类：JNC7将高血压分为高血压一期、高血压二期和单纯收缩期高血压。单纯收缩期高血压指收缩压升高而舒张压正常，在老年人中常见。[8] ESH-ESC指南（2007）[10]和BHS IV（2004），[11]将收缩压超过179mmHg或舒张压超过109mmHg的患者定义为高血压三期。如果药无法将血压降低到正常水平，则此高血压为耐药性高血压。[8]
+新生儿及婴儿[编辑]
+新生儿的高血压很罕见，可见于约0.2－3%的新生儿；健康新生儿的常规检查不包括测量血压。[12]在高危新生儿中高血压则较为多见。在决定新生儿血压是否正常时应考虑多种因素，如胎龄（英语：Gestational age），受孕龄和出生体重（英语：Birth weight）等。[12]
+儿童及青少年[编辑]
+高血压在儿童及青少年中十分常见（按年龄、性别及种族不同，分别为2–9%）[13]并被认为在长期可带来其它疾病的风险。[14]目前的建议为三岁以上的儿童在进行常规医疗检查或治疗时应进行血压测量。应该在重复门诊测量确诊高血压后才定位儿童的高血压。[14]儿童的血压随年龄升高，儿童的高血压诊断标准为三次以上不同时间门诊测量的平均结果等于或高于此儿童相应性别、年龄及身高的95百分位血压。儿童高血压前期的定义为平均收缩压或舒张压大于或等于90百分位，但小于95百分位。[14] 青少年的高血压和高血压前期诊断及分类建议使用成人标准。[14]
+症状与体徵[编辑]
+高血压很少显示症状，因此通常是通过筛查（英语：Screening_(medicine)）或者寻求解决其它健康问题时发现。一些高血压患者有头痛（尤其是后脑勺痛及早上头痛），并有头晕、眩晕、耳鸣（耳中嗡嗡声或咝咝声）、视觉改变或晕倒发作。[15]
+用体检眼底镜检查（英语：Ophthalmoscopy）检查眼底（英语：Fundus (eye)）时如检测到高血压性视网膜病变（英语：Hypertensive retinopathy），则应怀疑患有高血压。[16]高血压性视网膜病变的严重程度传统上一般分为一期到四期，但程度较轻的分期之间可能很难互相区别。[16]眼底镜检查结果也可以推断患者患高血压的时间长短。[15]
+自發性高血壓[编辑]
+高血壓可以發生於任何年齡，但發現大多數是越過四十歲，約百分之八十五至九十屬於自發性高血壓，其引起原因並不清楚，可能與遺傳和環境因素有關。
+继发性高血压[编辑]
+一些其它的症状及体征可以将诊断指向继发性高血压（英语：Secondary hypertension），即由可确定的病因如肾脏疾病或内分泌疾病（英语：Endocrine disease）等引起的高血压。如胸腹部肥胖、葡萄糖不耐受（英语：mpaired_glucose_tolerance）、满月脸（英语：moon face）、＂水牛背＂及紫色皮纹（英语：Stretch marks）为库欣氏综合症的症状。[17]甲状腺疾病（英语：Thyroid disease）及肢端肥大症也可以引起高血压，它们各有其特殊的症状和体征。[17]腹部动脉杂音（英语：Bruit）可能表明肾动脉狭窄（肾脏的供血动脉变狭窄）。腿部血压降低或股动脉脉冲的延迟或缺失可能表明主动脉缩窄（英语：Coarctation of the aorta）（距离心脏很近的主动脉狭窄）。具有变化很大的头痛、心悸、脸色苍白和出汗的高血压应马上及时怀疑是否患有嗜铬细胞瘤（英语：pheochromocytoma）。[17]
+高血压危象[编辑]
+极严重的血压升高（收缩压等于或大于180或舒张压等于或大于110，有时称为恶性或急进性高血压）称为「高血压危象（英语：Hypertensive crisis）」。血压达到这些数值之上表明并发症的风险很高。血压在此范围内的患者不一定有症状表现，但相较一般人群有较多出现（22%的病例）头痛[18]及头晕。[15]其它高血压危象的表现有心衰引起的视觉下降或呼吸困难，又或肾衰引起的感觉不适。[17]大部分高血压危象患者已患有血压升高，但其它触发因素可能引起了突然的血压升高。[19]
+当严重的血压升高引起了一个或多个器官的直接损害时则为「高血压急症（英语：hypertensive emergency）」（以前称为「恶性高血压」）。损害可以包括高血压脑病（英语：Hypertensive encephalopathy），即由脑部肿大和功能障碍引起的头痛和意识状态改变（英语：Altered level of consciousness）（意识模糊或嗜睡）。视网膜视神经乳头水肿、眼底出血和渗出是靶器官损害的另一迹象。胸痛可能表明心脏肌肉损伤（可以进展为心肌梗塞），有时进展为主动脉剥离，即主动脉内壁撕裂）、气促、咳嗽、咳血痰都是肺水肿（英语：Pulmonary edema）的典型迹象。此病症的肺组织肿胀由左心室衰竭引起，即心脏左心室不能充分将血液从肺部泵入动脉系统。[19]肾功能的急速退化（急性肾损伤）和微血管溶血性贫血（英语：Hemolytic anemia）（血液细胞的破坏）也可能出现。[19]在这些情况，快速降低血压的目的是要停止正在进行的器官损害。[19]相反在高血压急症没有出现靶器官损害迹象时，没有证据表明必须要迅速地降低血压。过度降低血压并不是没有风险的。[17]在高血压急症时建议使用口服药物在24至48小时内逐渐降低血压。[19]
+妊娠[编辑]
+罹患妊娠高血压的孕妇约占怀孕孕妇的8–10%。[17]患有妊娠高血压的女人，大多数在怀孕前就有原发性高血压。妊娠高血压可能是先兆子痫的预兆，这是一种发生于妊娠后期和生产后几个礼拜的严重症状。[17]先兆子痫的诊断可包括血压增高和尿蛋白。[17]懷孕婦女約有5%機率會發生先兆子痫，而且约造成全球16%孕产妇死亡。[17]先兆子痫亦使宝宝的死亡风险提高两倍。[17]先兆子痫通常没有症状，而且是由例行筛检检查出来。当发生先兆子痫的症状，最常见的就是头痛、视觉障碍（通常是出现闪光）、呕吐、上腹部疼痛和水肿（肿胀）。先兆子痫有时会演变为称之为子痫的致命病况。子痫是一种急性高血压（英语：Hypertensive emergency），并且有数种严重的并发症。这些并发症包括丧失视力、脑水肿、癫痫发作或惊厥、肾衰竭、肺水肿（英语：Pulmonary edema）和弥散性血管内凝血（一种血液凝固功能障碍）。[17][20]
+婴儿与儿童[编辑]
+發育遲緩（英语：Failure to thrive）、癫痫发作、焦躁不安、缺乏活力（英语：Lethargy）和呼吸困难[21]都与新生儿至三个月大的婴儿高血压有关。在三个月以上婴儿和儿童当中，高血压可引起头痛，不明的焦躁不安，疲倦、發育遲緩（英语：Failure to thrive）、视力模糊（英语：Blurred vision）、流鼻血和面部神经麻痹。[12][21]
+并发症[编辑]
+
+
+
+
+如图示为持续性高血压主要并发症。
+
+
+高血压是全世界过早死亡最重要的可预防因素。[22]高血压增加罹患缺血性心脏病、[23] 中风、[17] 外周血管病变、[24]和其它心脏疾病的风险，包括心脏衰竭、主动脉瘤、廣泛性动脉粥样硬化和肺栓塞。[17]高血压同时也是罹患认知障碍（英语：Cognitive disorder）、痴呆和慢性肾脏病的高风险因素。[17] 其它并发症包括：
+
+高血压性视网膜病变（英语：Hypertensive retinopathy）
+高血压肾病[25]
+
+病因[编辑]
+原发性高血压[编辑]
+原发性（特发性）高血压是最常见高血压，占所有高血压病例90–95%。[5]在几乎所有当代社会中，血压會随着年齡而升高，而晚年罹患高压的风险也相当高。[26]基因和环境因素可导致高血压。人们已发现许多对血压造成微小影响的常见基因，[27]还有一些对血压造成重大影响的罕见基因，[28]但是对基因如何导致高血压，仍缺乏了解。有些环境因素也会影响血压。有助于降低血压的生活方式因素包括减少饮食中的食鹽摄取，[29]多吃水果和低脂产品（也就是高血压防治饮食，例如DASH饮食（英语：DASH diet））。运动、[30]减轻体重[31]和减少饮用含酒精饮料亦有助于降低血压。[32]其它可能造成高血压的因素，例如压力、[30]摄取咖啡因，[33]以及维他命D不足，[34]则并未显示出与高血压有直接关系。肥胖常见的胰岛素抵抗，是X综合症（或称代谢综合症）的致病因子之一，也被认为可造成高血压恶化。[35]近期研究亦指出，幼年时期发生的情况（例如出生体重过轻、母亲怀孕时抽烟和缺乏哺育母乳）是成年原发性高血压的危险因子。[36]然而成人高血压的致病机制仍尚不明。[36]
+继发性高血压[编辑]
+继发性高血压是由明确的病因所致。肾脏疾病是继发性高血压最常见的病因。[17]而库欣综合征、甲状腺亢进、甲状腺功能低下、肢端肥大症、康恩氏综合症或醛固酮增多症（英语：Hyperaldosteronism）等内分泌疾病，也可导致高血压。[17][37]其它病因则包括肥胖、睡眠呼吸暂停症、怀孕、主动脉缩窄（英语：Coarctation of the aorta）、过度摄取甘草和某些处方药、草药疗方和非法药物。[17][38]
+病理生理[编辑]
+
+
+
+
+影响动脉压因素的图表
+
+
+大部份患有确立特发性（原发性）高血压的人，血流阻力（外周总阻力（英语：total peripheral resistance））都因高血压而增加，而心排血量（英语：cardiac output）却维持正常。[39]有证据表明为何有些年轻人患有高血压或“临界高血压”而具有高心排血量，即心率加快，却有正常的外周血管阻力。这种症状被称为运动功能亢进临界性高血压。[40]这些人的心脏输出随着年纪的增长而降低，但外周阻力却随之上升，在老年时期发展成确立特发性高血压的典型症状。[40]这是否是最后演变成高血压的人的典型模式尚无定论。[41]确诊罹患高血压的患者其外周血管阻力增加，主要是由于小动脉和微动脉的缩窄。[42]微血管数量或密度的降低亦可使外周阻力增高。[43]高血压也与外周血管弹性的减低有关，[44]外周血管弹性减低会增加回流心脏的血量、增加心脏前负荷（英语：Preload (cardiology)），最后导致心脏功能失常（英语：diastolic dysfunction）。发生的血管收缩是否为造成严重原发性高血压的原因之一，仍有待确定。[45]
+患有高血压的年长者其脉压（英语：Pulse pressure）（心脏收缩和心脏舒张血压之间的差值）会越来越大。这种状况可能与心脏收缩压异常高但心脏舒张压却正常或异常低有关。这种状况就称为单纯收缩期高血压（英语：isolated systolic hypertension）。[46]患高血压或单纯收缩期高血压的年长者会有高脉压，可归因于动脉硬化程度增高。这是种常见的老年并发症，而且可能会因高血压而加剧。[47]
+高血压的动脉系统所见的血流阻力现象，有诸多致病机制予以解释。大多数证据指向下列两个病因或其中之一：
+
+肾脏的盐和水调节紊乱，特别是肾内肾素血管紧张素系统异常。[48]
+交感神经系统异常[49]这些致病机制并不会彼此排斥，而是可能两者都在某种程度上造成大多数原发性高血压病例。人们也推测，內皮細胞功能受損（血管内皮功能受损）和血管炎症，也可能使高血压里的外周阻力增加和血管损坏加剧。[50][51]
+
+诊断[编辑]
+
+诊断高血压通常要做的检验
+
+系统
+检验
+
+
+肾脏
+显微镜尿液分析、蛋白尿、血清BUN (血尿素氮)和/或肌酐
+
+
+内分泌
+血清钠、钾、钙、TSH (促甲状腺激素)
+
+
+代谢
+空腹血糖（英语：Glucose test）、总胆固醇、HDL和LDL胆固醇、甘油三酯
+
+
+其它
+血细胞比容、心电图和胸部X光检查（英语：chest radiograph）
+
+
+Sources: Harrison's principles of internal medicine[52]其它[53][54][55][56][57]
+
+
+当患者的血压持续过高时，就会诊断为患有高血压。传统的做法是[9]，需要每隔一个月对患者进行一次血压计测量，并重复三次，才能做出诊断。[58]对高血压患者的初始评估包括一个完整的历史和体检。随着24小时动态血压（英语：Ambulatory Blood Pressure）监控和家用血压器的出现，为避免对患有白大褂恐惧性高血压的患者做出错误诊断，诊断程序随之发生了变化。英国目前的典范做法是，当临床上量到过一次血压高指标之后，马上要做动态测量随访。用七天的家庭血压监测方法进行随访也是可以的，但效果不是太理想。[9]
+一旦诊断为高血压，医生就会设法根据风险因素和其它存在的症状，找出发病的根本原因。继发性高血压（英语：Secondary hypertension）多见于青春期前的儿童，而大多数病例是由肾病引起的。原发性高血压多见于青少年，有多种危险因素，包括肥胖症和高血压家族史。[59]也可以通过实验室化验，找出导致继发性高血压的可能原因，并确定高血压是否已经对心脏、眼睛和肾脏造成损害。另外还可做其它针对糖尿病和高胆固醇指标的化验，因为这些疾病都是引发心脏病的风险因素，并可能需要治疗。[5]
+测定血清肌酐可以确定是否有肾脏疾病。肾病既可能是导致高血压的原因，也可能是高血压引发的后果。可是单用血清肌酐值有可能会过高估计肾小球滤过率。最近的指导原则提倡使用诸如肾脏病饮食改良（MDRD）公式预测肾小球滤过率（eGFR）。[60]预测肾小球滤过率eGFR还可以提供肾功能的其它基线指标，这些指标可以用来监控某些抗高血压药物对肾功能产生的副作用。用尿液样本测试蛋白也被用作肾脏疾病的一个次要的标志。还可以做心电图（EKG/ECG）测试，以检查是否有迹象表明心脏由于高血压而变得过度疲劳。它也可以显示心肌的增厚（左心室肥厚（英语：Left ventricular hypertrophy））或心脏以前是否出现过较小异常，如无症状心脏病发作。也可以通过做胸部X光检查（英语：chest radiograph）或超声心动图来寻找心脏扩大或损坏的迹象。[17]
+最新高血压标准[编辑]
+根据新版指南，最新血压类别共有5个，分别：正常血压 （小于120/80毫米汞柱）；血压升高（收缩压介于120至129毫米汞柱，舒张压小于80毫米汞柱）；高血压1级（收缩压介于130至139毫米汞柱，舒张压介于80至89毫米汞柱）；高血压2级（大于140/90毫米汞柱）；高血压危象（收缩压达到180毫米汞柱 和/或 舒张压达到120毫米汞柱）。[1] 对此而言，最大的变化在于以前的高血压前期调整为"血压升高"和"高血压1级" 两类别，尤其时高血压1级成为人们的关注重点。
+预防[编辑]
+患有高血压但没有意识到自己有这一疾病的人为数众多。[61]要减少高血压造成的后果，并尽量减少对抗高血压药物治疗的需要，我们必须有一些针对全民而制定的措施。在开始药物治疗前，建议患者改变生活方式以降低血压。2004年的“英国高血压学会”指南[61]提出了以下生活方式的改变，这和2002年美国高血压教育计划[62]所列出的预防高血压的主要措施指南是一致的：
+
+保持正常体重（如身体质量指数20-25公斤/米;2).
+将饮食中钠的摄入量减少至<100毫摩尔/天（每天<6克氯化钠或<2.4克的钠）。
+定期从事有氧运动，如快走（在一周的大多数日子里，每天≥30分钟）。
+限制饮酒，男性每天不超过3个单位，妇女每天不超过2个单位。
+每天的饮食中含丰富的水果和蔬菜（例如，每天至少五份）。通过有效的生活方式改变能降低的血压几乎可以和服用一种降压药物所能降低的血压水平媲美。改变两项或更多项生活方式甚至可以达到更佳的效果。[61]
+
+治疗[编辑]
+主条目：高血壓的治療與管理
+生活方式的改变[编辑]
+高血压的第一种治疗方法同上面建议的为预防高血壓而进行的生活方式改变是相同的，[63]包括饮食模式的变化，[64]即体育锻炼和减轻体重。这些改变都已经被证明具有显著的降低高血压患者血压的功效。[65]即使血压高到足以需要立即使用药物的时候，我们仍然建议患者进行生活方式的改变。一些不同的为减轻心理压力而设制的计划，如生物反馈、放松术或打坐都被宣传说能降低高血压，然而，科学研究总的来说都还没能证明这些方法的疗效，因为这些研究的质量一般都比较低。.[66][67][68]
+进行诸如低钠盐饮食（英语：Low sodium diet）之类的饮食变化是非常有益的。长期（4周以上）的低钠盐饮食在白种人中能有效地降低血压，无论他们是患有高血压还是血压正常的人。[69]此外，降血压饮食法（英语：DASH diet），一种含丰富的坚果、全谷类、鱼类、家禽、水果和蔬菜并备受国家心脏、肺和血液研究所（英语：National Heart, Lung, and Blood Institute）推崇的饮食法，也能降低血压。该饮食计划的主要特点之一就是限制含钠盐類的摄入量，尽管此饮食中也包含丰富的钾、镁、钙和蛋白质。[70]
+药物[编辑]
+几种药物统称为抗高血压药，主要用于治疗高血压等疾病。开药方时，医师会考虑到病人的心血管危险（包括心衰与中风危险）及血压读数。[71]如果开始执行药物治疗，美国心脏、肺和血液研究院关于高血压的第七次联合会议[60]建议医师监督药物治疗的反应并评估任何由此药物引起的不良反应。血压降低5 mmHg可以减少34%的中风危险及21%局部缺血性心脏病的危险。血压降低也可以降低由心血管疾病引起的痴呆、心力衰竭和死亡率。[72]治疗的目的是要将大多数人的血压降低至140/90 mmHg，并降低患有糖尿病和肾病病人的高血压。有些医务人员建议将血压水平保持在120/80 mmHg以下。.[71][73]如果没有达到血压目标，则需进一步治疗。[74]
+药物选择的指南及如何制定各种亚组的最佳治疗方法会随着时间更改，且在不同的国家之间也有区别。专家们尚未在最佳药物上取得一致意见。[75]科克伦协作组织、世界卫生组织和美国指南支持低剂量的以噻嗪为基础的利尿剂并将其视为首选初期治疗方法。[76][75]英国指南重点强调对于55岁以上的人群或祖籍为非洲或加勒比海的人群采用钙通道阻滞剂（CCB）。指南还建议年轻一点的人群采用血管紧张肽I转化酶抑制剂（ACEI）作为首选初期治疗方法。[77]在日本，治疗初期可使用的6类药物包括：CCB，ACEI/ARB、噻嗪类利尿剂、贝塔受体阻滞剂和阿尔法受体阻滞剂（英语：Alpha blocker），这些药物都被视为合理的。在加拿大，除了阿尔法受体阻滞剂外，所有其它药物都可能被当作第一选择。[75]
+药物联用[编辑]
+多数人需要使用多种药物控制高血压。JNC7[60] a和ESH-ESC指南[10]支持在初期治疗阶段，当心脏收缩压超过目标值20 mmHg或心脏舒张压超过目标值10 mmHg时，使用两种药物。首选的组合为肾素-血管紧张素系统抑制剂和钙通道阻滞剂，或肾素-血管紧张素系统抑制剂和利尿剂。.[78]二线选择方案如下：
+
+钙通道阻滞剂配合利尿剂
+贝塔受体阻滞剂配合利尿剂
+二氢吡啶通道阻滞剂配合贝塔受体阻滞剂
+二氢吡啶通道阻滞剂配合维拉帕米或地尔硫卓之一
+
+不推荐联合方案如下：
+
+非二氢吡啶钙通道阻滞剂（如维拉帕米或地尔硫卓）配合贝塔受体阻滞剂
+双重肾素-血管紧张素系统阻滞剂（例如血管紧张素转化酶抑制剂+血管紧张素受体拮抗剂）
+肾素-血管紧张素系统阻滞剂和贝塔受体阻滞剂
+贝塔受体阻滞剂和抗肾上腺素药[78]
+
+由于存在急性肾衰竭的高风险，务必要避免将血管紧张素转化酶抑制剂或血管紧张素II受体拮抗剂，与一种利尿剂及一种非甾体抗炎药（包括选择性环氧合酶和非处方药物，如布洛芬）联合使用。这一形式的药物联用在澳大利亚医药文献中俗称“三重打击（triple whammy）”。[63]现已有包含两种固定类型药物联合的片剂。虽然这些药物较为方便，但最好限于已确定需使用各成份的人群使用。[79]
+老年人[编辑]
+对于超过60岁和以上的人群，治疗中等和严重高血压会降低死亡率和心血管病副作用。[80]对80岁以上的人群，之前的治疗方法虽不能大幅将低死亡率但会减低心脏病危险。[80] 噻嗪类利尿剂是美国的首选药物，建议的血压目标为低于140/90 mm Hg。.[81]在修订的英国指南中，钙通道阻滞剂被视为首选治疗方法，目标门诊血压读数低于150/90 mmHg，或动态血压检测或家庭血压检测低于145/85 mmHg。[77]
+顽固性高血压[编辑]
+顽固性高血压是指即使一次性服用属于不同类型的三种抗高血压剂后，始终保持在目标值之上的高血压。治疗顽固性高血压的指南已经在英国[82]和美国出版。[83]
+患病率[编辑]
+至2000年，有近十亿人或近于26%的成年人患有高血压。[84]该病在发达国家（330,000,000）和发展中国家（639,000,000）均相当普遍。[84]然而，不同地区的发病率差距颇大，在印度农村低至3.4%（男性）和6.8%（女性），在波兰却高达68.9%（男性）和72.5%（女性）。[85] 1995年在美国，估计约约四千三百万人患有高血压或服用抗高血压药。这一数字占了美国成年人数的几乎24%。.[86]美国患有高血压的人群比率一直在增长，并于2004年达到了29%。[87][88]至2006年，美国高血压人数达到了七千六百万（占总人口的34%），且非籍美国成年人以44%的比率成为全球高血压发病率最高的人群。[89]该病在美洲土著人中很常见而在美国白人和墨西哥裔美国人中不是很常见。此发病率随着年龄的增长而升高，而在美国东南部较高。跟女性相比，高血压在男性中更常见（尽管更年期趋于降低这种差距），在社会经济状况较差的地区也较为普遍。[5]
+儿童[编辑]
+儿童患高血压的比率也在增高。[90]多数儿童高血压，尤其在青春期前，继发于潜在的疾病。除了肥胖外，肾疾病是儿童时期高血压病的最常见原因（60-70%）。青少年通常患原发性高血压，占比约85－95%。[91]
+历史[编辑]
+量測[编辑]
+
+
+
+
+静脉图，摘自哈维的著作Exercitatio anatomica de motu cordis et sanguinis in animalibus《动物心血运动解剖论》
+
+
+现代人对心血管系统的认知始于英國醫生威廉·哈维（William Harvey，1578–1657）医生的这部医学著作《心血运动》（De otu ordis）。哈维在著作中描述了血液的循环。1733年英国牧师斯蒂芬·海尔斯（英语：Stephen Hales）（Stephen Hales）第一次公布了血压测量结果。[92][93] 1808年托马斯·杨认为高血压是一种疾病，1836年理查德·布莱特（英语：Richard_Bright_(physician)）（Richard Bright）也把高血压描述为一种疾病，等等。[92] 弗雷德里克·阿克巴·默罕默德（英语：Frederick Akbar Mahomed）（Frederick Akbar Mahomed，1849–1884）首次报告了一例没有肾病症状的血压升高。[94] 然而，直到1896年希皮奥内·里瓦罗西（英语：Scipione Riva-Rocci）（Scipione Riva-Rocci）发明了袖套法血压计之后，高血压才成为临床病症。[95]这项发明使得人们可以在临床上测量血压。1905年尼古拉·柯罗特科夫（英语：Nikolai Korotkoff）（Nikolai Korotkoff）改进了血压测量技术，提出了柯氏音（英语：Korotkoff sounds）概念，即血压计袖套放气时听诊器所听到的的动脉声音。[93]
+治療[编辑]
+历史上对所谓的“硬脉疾病”的治疗方法主要是通过放血或者采用水蛭减少血量。[92]中国的黄帝、凯尔苏斯、盖伦、以及希波克拉底都主张放血。[92] 19世纪和20世纪，在有效的高血压药物治疗方法问世以前，有三种高血压治疗方法，都有很多副作用。这些方法包括严格的钠限制（例如米饭饮食[92]）、交感神经切除术（英语：Sympathectomy）（外科手术切除部分交感神经系统）、以及热原质治疗（注射引起发热的物质，间接降低血压）。[92][96]最早治疗高血压的化学药物硫氰酸钠在1900年投入使用，但副作用很多，没有得到广泛应用。[92] 第二次世界大战之后又开发出了几种其它药物。最流行且有效的有四甲基氯化铵（英语：Tetramethylammonium chloride）及其衍生产品六甲铵（英语：Hexamethonium）、肼屈嗪和利血平（来源于药用植物“蛇根木”）。第一种耐受良好的口服药物的发现使高血压治疗出现重大突破。这种药物是氯噻嗪（英语：Chlorothiazide），它是第一种噻嗪化物利尿剂，来源于抗生素磺胺并于1958年问世。[92][97]它既能防止液体潴留，又增加盐代谢。退伍军人管理局主办的一次随机对照试验对比了氢氯噻嗪加上利血平再加上肼酞嗪与安慰剂治疗高血压。试验因未接受治疗的一部分病人出现了大量的并发症，因此认为使他们无法接受治疗是不人道的行为，从而提前终止了试验。试验在较低血压的人群中继续进行，结果显示，即使是轻微高血压病人，该治疗也使得心血管病死亡的风险降低了一半。[98] 1975年，发明氯噻嗪的研究小组获得了拉斯克公共卫生特别奖。[96]这些研究的成果促进了公共卫生项目，增强了公众对高血压的认知，普及了高血压的测量和治疗。这些举措为1972-1994年间中风和缺血性心脏病发病率下降50%做出了一定的贡献。[96]
+社会和文化[编辑]
+认知[编辑]
+
+
+
+
+图表显示对于高血压的认知普遍性、治疗和控制，源于NHANES的四项研究[87]
+
+
+世界卫生组织已经确认高血压为导致心血管病死亡率的主要原因。世界高血压联盟（英语：The World Hypertension League）是85个国家高血压社团和联盟的联盟组织，该组织认为，世界范围内50%以上的高血压患者不了解自身的情况。[99]为强调这一问题，WHL在2005年发起了一场全球性高血压认知运动，并把每年的5月17日定为世界高血压日（英语：World_Hypertension_Day）。过去三年以来，更多的国家社团参与了世界高血压日WHD，并且通过其创新活动向公众传递有关高血压的信息。2007年，47个WHL成员国家参与了这一活动。在WHD所在的那个星期，所有这些国家与地方政府、学术团体、非政府组织、以及私人企业合作，促进高血压认知，通过几个媒体和公众集会进行宣传。他们采用的大众传播媒体包括互联网和电视，信息受众超过2.5亿人。随着发展势头的逐年壮大，WHL有信心把信息基本上传递到所预测的15亿血压升高人群。[100]
+经济[编辑]
+在美国，高血压是一种最为常见的慢性医学问题，使得人们需要经常去找初级医疗服务人员。美国心脏学会估计，2010年高血压的直接和间接治疗费用为766亿美元。[89]在美国，80%的高血压人群了解他们自己的状况，其中71%服用治疗高血压药物。然而，这些认识到自身状况的人中，仅48%的高血压得到了充分的控制。[89]高血压的诊断，治疗或控制的缺陷不利于高血压的管理。[101]医疗服务人员（英语：Health professional）在控制高血压方面也面临着许多困难，包括病人对服用多种药物来达到控制血压水平的抵触情绪。人们同时也面对坚持服药以及改变生活方式的挑战。尽管如此，实现血压控制目标仍然是可行的。降低血压可以显著减少现代医疗保健方面的费用。[102][103]
+近年來的研究[编辑]
+美國一項大規模研究試圖回答一個困擾醫界多年的問題：血壓要多高才算是高血壓？聯邦政府衛生部上星期宣布喊停這項研究，但原因並不是研究出了問題，而是結論已經呼之欲出，而且非常重要，必須提前公布：120 mmHg（毫米汞柱）。
+SPRINT研究的受試者是9300多位50歲以上、心臟病或腎臟病高風險男女，隨機分為兩組，一組的血壓控制目標是120，另一組是140。研究本來要進行到2017年，但由於結果已經已經呼之欲出，而且對於公眾健康至關重要，因此國家心肺血液研究所（NHLBI）2015年9月11日直接宣布應將標準降至120，相關論文將在近期內發表。[104]
+參見[编辑]
+
+原發性高血壓（英语：Essential hypertension）
+白大衣高血压
+
+参考目录[编辑]
+
+
+^ 1.0 1.1 High Blood Pressure Fact Sheet. CDC. February 19, 2015 [6 March 2016]. （原始内容存档于6 March 2016）.  已忽略未知参数|df= (帮助)
+^ Lackland, DT; Weber, MA. Global burden of cardiovascular disease and stroke: hypertension at the core.. The Canadian journal of cardiology. May 2015, 31 (5): 569–71. PMID 25795106. doi:10.1016/j.cjca.2015.01.009. 
+^ Mendis, Shanthi; Puska, Pekka; Norrving, Bo. Global atlas on cardiovascular disease prevention and control (PDF) 1st. Geneva: World Health Organization in collaboration with the World Heart Federation and the World Stroke Organization. 2011: 38. ISBN 9789241564373. （原始内容存档 (PDF)于17 August 2014）.  已忽略未知参数|df= (帮助)
+^ 4.0 4.1 4.2 4.3 Poulter, NR; Prabhakaran, D; Caulfield, M. Hypertension.. Lancet. 22 August 2015, 386 (9995): 801–12. PMID 25832858. doi:10.1016/s0140-6736(14)61468-9. 
+^ 5.0 5.1 5.2 5.3 5.4 Carretero OA, Oparil S. Essential hypertension. Part I: Definition and etiology. Circulation. January 2000, 101 (3): 329–35. PMID 10645931. doi:10.1161/01.CIR.101.3.329. 
+^ How Is High Blood Pressure Treated?. National Heart, Lung, and Blood Institute. September 10, 2015 [6 March 2016]. （原始内容存档于6 April 2016）.  已忽略未知参数|df= (帮助)
+^ Campbell, NR; Lackland, DT; Lisheng, L; Niebylski, ML; Nilsson, PM; Zhang, XH. Using the Global Burden of Disease study to assist development of nation-specific fact sheets to promote prevention and control of hypertension and reduction in dietary salt: a resource from the World Hypertension League.. Journal of clinical hypertension (Greenwich, Conn.). March 2015, 17 (3): 165–67. PMID 25644474. doi:10.1111/jch.12479. 
+^ 8.0 8.1 8.2 8.3 Chobanian AV, Bakris GL, Black HR; 等. Seventh report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure. Hypertension. December 2003, 42 (6): 1206–52. PMID 14656957. doi:10.1161/01.HYP.0000107251.49515.c2.  引文格式1维护：显式使用等标签 (link)
+^ 9.0 9.1 9.2 National Clinical Guidance Centre. 7 Diagnosis of Hypertension, 7.5 Link from evidence to recommendations. org. uk/nicemedia/live/13561/56007/56007. pdf Hypertension (NICE CG 127) 请检查|url=值 (帮助). National Institute for Health and Clinical Excellence. August 2011: 102 [2011-12-22]. 
+^ 10.0 10.1 10.2 Mancia G, De Backer G, Dominiczak A; 等. 2007 ESH-ESC Practice Guidelines for the Management of Arterial Hypertension: ESH-ESC Task Force on the Management of Arterial Hypertension. J. Hypertens. September 2007, 25 (9): 1751–62. PMID 17762635. doi:10.1097/HJH.0b013e3282f0580f.  引文格式1维护：显式使用等标签 (link)
+^ 11.0 11.1 Williams B, Poulter NR, Brown MJ; 等. Guidelines for management of hypertension: report of the fourth working party of the British Hypertension Society, 2004-BHS IV. J Hum Hypertens. March 2004, 18 (3): 139–85. PMID 14973512. doi:10.1038/sj.jhh.1001683.  引文格式1维护：显式使用等标签 (link)
+^ 12.0 12.1 12.2 Dionne JM, Abitbol CL, Flynn JT. Hypertension in infancy: diagnosis, management and outcome. Pediatr. Nephrol. January 2012, 27 (1): 17–32. PMID 21258818. doi:10.1007/s00467-010-1755-z. 
+^ Din-Dzietham R, Liu Y, Bielo MV, Shamsa F. High blood pressure trends in children and adolescents in national surveys, 1963 to 2002. Circulation. September 2007, 116 (13): 1488–96. PMID 17846287. doi:10.1161/CIRCULATIONAHA.106. 683243 请检查|doi=值 (帮助). 
+^ 14.0 14.1 14.2 14.3 The fourth report on the diagnosis, evaluation, and treatment of high blood pressure in children and adolescents. Pediatrics. August 2004, 114 (2 Suppl 4th Report): 555–76. PMID 15286277. 
+^ 15.0 15.1 15.2 Fisher ND, Williams GH. Hypertensive vascular disease. (编) Kasper DL, Braunwald E, Fauci AS; 等. Harrison's Principles of Internal Medicine 16th. New York, NY: McGraw-Hill. 2005: 1463–81. ISBN 0-07-139140-1.  引文格式1维护：显式使用等标签 (link)
+^ 16.0 16.1 Wong T, Mitchell P. The eye in hypertension. Lancet. February 2007, 369 (9559): 425–35. PMID 17276782. doi:10.1016/S0140-6736(07)60198-6. 
+^ 17.00 17.01 17.02 17.03 17.04 17.05 17.06 17.07 17.08 17.09 17.10 17.11 17.12 17.13 17.14 17.15 17.16 17.17 O'Brien, Eoin; Beevers, D. G.; Lip, Gregory Y. H. ABC of hypertension. London: BMJ Books. 2007. ISBN 1-4051-3061-X. 
+^ Papadopoulos DP, Mourouzis I, Thomopoulos C, Makris T, Papademetriou V. Hypertension crisis. Blood Press. December 2010, 19 (6): 328–36. PMID 20504242. doi:10.3109/08037051.2010.488052. 
+^ 19.0 19.1 19.2 19.3 19.4 Marik PE, Varon J. Hypertensive crises: challenges and management. Chest. June 2007, 131 (6): 1949–62. PMID 17565029. doi:10.1378/chest.06-2490. [失效連結]
+^ Gibson, Paul. Hypertension and Pregnancy. eMedicine Obstetrics and Gynecology. Medscape. July 30, 2009 [2009-06-16]. 
+^ 21.0 21.1 Rodriguez-Cruz, Edwin; Ettinger, Leigh M. Hypertension. eMedicine Pediatrics: Cardiac Disease and Critical Care Medicine. Medscape. April 6, 2010 [2009-06-16].  引文使用过时参数coauthors (帮助)
+^ Global health risks: mortality and burden of disease attributable to selected major risks. (PDF). World Health Organization. 2009 [10 February 2012]. 
+^ Lewington S, Clarke R, Qizilbash N, Peto R, Collins R. Age-specific relevance of usual blood pressure to vascular mortality: a meta-analysis of individual data for one million adults in 61 prospective studies. Lancet. December 2002, 360 (9349): 1903–13. PMID 12493255. doi:10.1016/S0140-6736(02)11911-8. 
+^ Singer DR, Kite A. Management of hypertension in peripheral arterial disease: does the choice of drugs matter?. European Journal of Vascular and Endovascular Surgery. June 2008, 35 (6): 701–8. PMID 18375152. doi:10.1016/j.ejvs.2008.01.007. 
+^ Zeng C, Villar VA, Yu P, Zhou L, Jose PA. Reactive oxygen species and dopamine receptor function in essential hypertension. Clinical and Experimental Hypertension. April 2009, 31 (2): 156–78. PMID 19330604. doi:10.1080/10641960802621283. 
+^ Vasan, RS; Beiser, A, Seshadri, S, Larson, MG, Kannel, WB, D'Agostino, RB, Levy, D. Residual lifetime risk for developing hypertension in middle-aged women and men: The Framingham Heart Study.. JAMA: the journal of the American Medical Association. 2002 Feb 27, 287 (8): 1003–10. PMID 11866648.  引文使用过时参数coauthors (帮助); 请检查|date=中的日期值 (帮助)
+^ The International Consortium for Blood Pressure Genome-Wide Association Studies. Genetic variants in novel pathways influence blood pressure and cardiovascular disease risk. Nature 2011; 478: 103–109 doi:10.1038/nature10405
+^ Lifton, RP; Gharavi, AG, Geller, DS. Molecular mechanisms of human hypertension.. Cell. 2001 Feb 23, 104 (4): 545–56. PMID 11239411.  引文使用过时参数coauthors (帮助); 请检查|date=中的日期值 (帮助)
+^ He, FJ; MacGregor, GA. A comprehensive review on salt and health and current experience of worldwide salt reduction programmes.. Journal of human hypertension. 2009 Jun, 23 (6): 363–84. PMID 19110538.  引文使用过时参数coauthors (帮助); 请检查|date=中的日期值 (帮助)
+^ 30.0 30.1 Dickinson HO, Mason JM, Nicolson DJ, Campbell F, Beyer FR, Cook JV, Williams B, Ford GA. Lifestyle interventions to reduce raised blood pressure: a systematic review of randomized controlled trials. J Hypertens. 2006;24:215-33.
+^ Haslam DW, James WP. Obesity. Lancet. 2005, 366 (9492): 1197–209. PMID 16198769. doi:10.1016/S0140-6736(05)67483-1. 
+^ Whelton PK, He J, Appel LJ, Cutler JA, Havas S, Kotchen TA; 等. Primary prevention of hypertension: Clinical and public health advisory from The National High Blood Pressure Education Program. JAMA. 2002, 288 (15): 1882–8. PMID 12377087. doi:10.1001/jama.288.15.1882.  引文格式1维护：显式使用等标签 (link)
+^ Mesas AE, Leon-Muñoz LM, Rodriguez-Artalejo F, Lopez-Garcia E. The effect of coffee on blood pressure and cardiovascular disease in hypertensive individuals: A systematic review and meta-analysis. Am J Clin Nutr. 2011;94:1113–26.
+^ Vaidya A, Forman JP. Vitamin D and hypertension: current evidence and future directions. Hypertension. November 2010, 56 (5): 774–9. PMID 20937970. doi:10.1161/HYPERTENSIONAHA.109.140160. 
+^ Sorof J, Daniels S. Obesity hypertension in children: a problem of epidemic proportions. Hypertension. October 2002, 40 (4): 441–447 [2009-06-03]. PMID 12364344. doi:10.1161/01.HYP.0000032940.33466.12. 
+^ 36.0 36.1 Lawlor, DA; Smith, GD. Early life determinants of adult blood pressure.. Current opinion in nephrology and hypertension. 2005 May, 14 (3): 259–64. PMID 15821420.  引文使用过时参数coauthors (帮助); 请检查|date=中的日期值 (帮助)
+^ Dluhy RG, Williams GH. Endocrine hypertension. In: Wilson JD, Foster DW, Kronenberg HM, eds. Williams Textbook of Endocrinology. 9th ed. Philadelphia, Pa: WB Saunders; 1998:729-49.
+^ Grossman E, Messerli FH. Drug-induced Hypertension: An Unappreciated Cause of Secondary Hypertension. Am. J. Med. January 2012, 125 (1): 14–22. PMID 22195528. doi:10.1016/j.amjmed.2011.05.024. 
+^ Conway J. Hemodynamic aspects of essential hypertension in humans. Physiol. Rev. April 1984, 64 (2): 617–60. PMID 6369352. 
+^ 40.0 40.1 Palatini P, Julius S. The role of cardiac autonomic function in hypertension and cardiovascular disease. Curr. Hypertens. Rep. June 2009, 11 (3): 199–205. PMID 19442329. 
+^ Andersson OK, Lingman M, Himmelmann A, Sivertsson R, Widgren BR. Prediction of future hypertension by casual blood pressure or invasive hemodynamics? A 30-year follow-up study. Blood Press. 2004, 13 (6): 350–4. PMID 15771219. 
+^ Folkow B. Physiological aspects of primary hypertension. Physiol. Rev. April 1982, 62 (2): 347–504. PMID 6461865. 
+^ Struijker Boudier HA, le Noble JL, Messing MW, Huijberts MS, le Noble FA, van Essen H. The microcirculation and hypertension. J Hypertens Suppl. December 1992, 10 (7): S147–56. PMID 1291649. 
+^ Safar ME, London GM. Arterial and venous compliance in sustained essential hypertension. Hypertension. August 1987, 10 (2): 133–9. PMID 3301662. 
+^ Schiffrin EL. Reactivity of small blood vessels in hypertension: relation with structural changes. State of the art lecture. Hypertension. February 1992, 19 (2 Suppl): II1–9. PMID 1735561. 
+^ Chobanian AV. Clinical practice. Isolated systolic hypertension in the elderly. N. Engl. J. Med. August 2007, 357 (8): 789–96. PMID 17715411. doi:10.1056/NEJMcp071137. 
+^ Zieman SJ, Melenovsky V, Kass DA. Mechanisms, pathophysiology, and therapy of arterial stiffness. Arterioscler. Thromb. Vasc. Biol. May 2005, 25 (5): 932–43. PMID 15731494. doi:10.1161/01.ATV.0000160548.78317.29. 
+^ Navar LG. Counterpoint: Activation of the intrarenal renin-angiotensin system is the dominant contributor to systemic hypertension. J. Appl. Physiol. December 2010, 109 (6): 1998–2000; discussion 2015. PMC 3006411. PMID 21148349. doi:10.1152/japplphysiol.00182.2010a. 
+^ Esler M, Lambert E, Schlaich M. Point: Chronic activation of the sympathetic nervous system is the dominant contributor to systemic hypertension. J. Appl. Physiol. December 2010, 109 (6): 1996–8; discussion 2016. PMID 20185633. doi:10.1152/japplphysiol.00182.2010. 
+^ Versari D, Daghini E, Virdis A, Ghiadoni L, Taddei S. Endothelium-dependent contractions and endothelial dysfunction in human hypertension. Br. J. Pharmacol. June 2009, 157 (4): 527–36. PMC 2707964. PMID 19630832. doi:10.1111/j.1476-5381.2009.00240.x. 
+^ Marchesi C, Paradis P, Schiffrin EL. Role of the renin-angiotensin system in vascular inflammation. Trends Pharmacol. Sci. July 2008, 29 (7): 367–74. PMID 18579222. doi:10.1016/j.tips.2008.05.003. 
+^ Loscalzo, Joseph; Fauci, Anthony S.; Braunwald, Eugene; Dennis L. Kasper; Hauser, Stephen L; Longo, Dan L. Harrison's principles of internal medicine. McGraw-Hill Medical. 2008. ISBN 0-07-147691-1. 
+^ Padwal RS; Hemmelgarn BR; Khan NA; 等. The 2009 Canadian Hypertension Education Program recommendations for the management of hypertension: Part 1 – blood pressure measurement, diagnosis and assessment of risk. Canadian Journal of Cardiology. May 2009, 25 (5): 279–86. PMC 2707176. PMID 19417858. doi:10.1016/S0828-282X(09)70491-X.  已忽略未知参数|author-separator= (帮助)
+^ Padwal RJ; Hemmelgarn BR; Khan NA; 等. The 2008 Canadian Hypertension Education Program recommendations for the management of hypertension: Part 1 – blood pressure measurement, diagnosis and assessment of risk. Canadian Journal of Cardiology. June 2008, 24 (6): 455–63. PMC 2643189. PMID 18548142. doi:10.1016/S0828-282X(08)70619-6.  已忽略未知参数|author-separator= (帮助)
+^ Padwal RS; Hemmelgarn BR; McAlister FA; 等. The 2007 Canadian Hypertension Education Program recommendations for the management of hypertension: Part 1 – blood pressure measurement, diagnosis and assessment of risk. Canadian Journal of Cardiology. May 2007, 23 (7): 529–38. PMC 2650756. PMID 17534459. doi:10.1016/S0828-282X(07)70797-3.  已忽略未知参数|author-separator= (帮助)
+^ Hemmelgarn BR; McAlister FA; Grover S; 等. The 2006 Canadian Hypertension Education Program recommendations for the management of hypertension: Part I – Blood pressure measurement, diagnosis and assessment of risk. Canadian Journal of Cardiology. May 2006, 22 (7): 573–81. PMC 2560864. PMID 16755312. doi:10.1016/S0828-282X(06)70279-3.  已忽略未知参数|author-separator= (帮助)
+^ Hemmelgarn BR; McAllister FA; Myers MG; 等. The 2005 Canadian Hypertension Education Program recommendations for the management of hypertension: part 1- blood pressure measurement, diagnosis and assessment of risk. Canadian Journal of Cardiology. June 2005, 21 (8): 645–56. PMID 16003448.  已忽略未知参数|author-separator= (帮助)
+^ North of England Hypertension Guideline Development Group. Frequency of measurements. Essential hypertension (NICE CG18). National Institute for Health and Clinical Excellence. 1 August 2004: 53 [2011-12-22]. 
+^ Luma GB, Spiotta RT. Hypertension in children and adolescents. Am Fam Physician. 2006, 73 (9): 1558–68. PMID 16719248.  已忽略未知参数|month=（建议使用|date=） (帮助)
+^ 60.0 60.1 60.2 Chobanian AV, Bakris GL, Black R; 等. Seventh report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure. Hypertension. December 2003, 42 (6): 1206–C52. PMID 14656957. doi:10.1161/1.HYP.0000107251.49515.c2.  引文格式1维护：显式使用等标签 (link)
+^ 61.0 61.1 61.2 Williams, B; Poulter, NR, Brown, MJ, Davis, M, McInnes, GT, Potter, JF, Sever, PS, McG Thom, S, British Hypertension, Society. Guidelines for management of hypertension: report of the fourth working party of the British Hypertension Society, 2004-BHS IV.. Journal of human hypertension. 2004 Mar, 18 (3): 139–85. PMID 14973512.  引文使用过时参数coauthors (帮助); 请检查|date=中的日期值 (帮助)
+^ Whelton PK; 等. Primary prevention of hypertension. Clinical and public health advisory from the National High Blood Pressure Education Program. JAMA. 2002, 288 (15): 1882–1888. PMID 12377087. doi:10.1001/jama.288.15.1882.  引文格式1维护：显式使用等标签 (link)
+^ 63.0 63.1 NPS Prescribing Practice Review 52: Treating hypertension. NPS Medicines Wise. September 1, 2010 [November 5, 2010]. （原始内容存档于二月 22, 2011）.  请检查|archive-date=中的日期值 (帮助)
+^ Siebenhofer, A; Jeitler, K, Berghold, A, Waltering, A, Hemkens, LG, Semlitsch, T, Pachler, C, Strametz, R, Horvath, K. Siebenhofer, Andrea, 编. Long-term effects of weight-reducing diets in hypertensive patients. Cochrane database of systematic reviews (Online). 2011-09-07, 9: CD008274. PMID 21901719. doi:10.1002/14651858.CD008274.pub2.  引文使用过时参数coauthors (帮助)
+^ Blumenthal JA; Babyak MA; Hinderliter A; 等. Effects of the DASH diet alone and in combination with exercise and weight loss on blood pressure and cardiovascular biomarkers in men and women with high blood pressure: the ENCORE study. Arch. Intern. Med. January 2010, 170 (2): 126–35. PMID 20101007. doi:10.1001/archinternmed.2009.470.  已忽略未知参数|author-separator= (帮助)
+^ Greenhalgh J, Dickson R, Dundar Y. The effects of biofeedback for the treatment of essential hypertension: a systematic review. Health Technol Assess. October 2009, 13 (46): 1–104. PMID 19822104. doi:10.3310/hta13460 (不活跃 2010-08-21). 
+^ Rainforth MV, Schneider RH, Nidich SI, Gaylord-King C, Salerno JW, Anderson JW. Stress Reduction Programs in Patients with Elevated Blood Pressure: A Systematic Review and Meta-analysis. Curr. Hypertens. Rep. December 2007, 9 (6): 520–8. PMC 2268875. PMID 18350109. doi:10.1007/s11906-007-0094-3. 
+^ Ospina MB; Bond K; Karkhaneh M; 等. Meditation practices for health: state of the research. Evid Rep Technol Assess (Full Rep). June 2007, (155): 1–263. PMID 17764203.  已忽略未知参数|author-separator= (帮助)
+^ He, FJ; MacGregor, GA. Effect of longer-term modest salt reduction on blood pressure.. Cochrane database of systematic reviews (Online). 2004, (3): CD004937. PMID 15266549.  引文使用过时参数coauthors (帮助)
+^ Your Guide To Lowering Your Blood Pressure With DASH (PDF). [2009-06-08]. 
+^ 71.0 71.1 Nelson, Mark. Drug treatment of elevated blood pressure. Australian Prescriber: 108–C112. [August 11, 2010]. （原始内容存档于八月 26, 2010）.  请检查|archive-date=中的日期值 (帮助)
+^ Law M, Wald N, Morris J. Lowering blood pressure to prevent myocardial infarction and stroke: a new preventive strategy (PDF). Health Technol Assess. 2003, 7 (31): 1–C94. PMID 14604498. 
+^ Shaw, Gina. Prehypertension: Early-stage High Blood Pressure. WebMD. 2009-03-07 [2009-07-03]. 
+^ Eni C. Okonofua; Kit N. Simpson; Ammar Jesri; Shakaib U. Rehman; Valerie L. Durkalski; Brent M. Egan. Therapeutic Inertia Is an Impediment to Achieving the Healthy People 2010 Blood Pressure Control Goals. Hypertension. January 23, 2006, 47 (2006;47:345): 345–C51 [2009-11-22]. PMID 1643045. doi:10.1161/01.HYP.0000200702.76436.4b. 
+^ 75.0 75.1 75.2 Klarenbach, SW; McAlister, FA, Johansen, H, Tu, K, Hazel, M, Walker, R, Zarnke, KB, Campbell, NR, Canadian Hypertension Education, Program. Identification of factors driving differences in cost effectiveness of first-line pharmacological therapy for uncomplicated hypertension.. The Canadian journal of cardiology. 2010 May, 26 (5): e158–63. PMID 20485695.  引文使用过时参数coauthors (帮助); 请检查|date=中的日期值 (帮助)
+^ Wright JM, Musini VM. Wright, James M, 编. First-line drugs for hypertension. Cochrane Database Syst Rev. 2009, (3): CD001841. PMID 19588327. doi:10.1002/14651858.CD001841.pub2. 
+^ 77.0 77.1 National Institute Clinical Excellence. 1.5 Initiating and monitoring antihypertensive drug treatment, including blood pressure targets. GC127 Hypertension: Clinical management of primary hypertension in adults. August 2011 [2011-12-23]. （原始内容存档于2012-01-10）. 
+^ 78.0 78.1 Sever PS, MesserliH. Hypertension management 2011: optimal combination therapy. Eur. Heart J. October 2011, 32 (20): 2499–C506. PMID 21697169. doi:10.1093/eurheartj/ehr177. 
+^ 2.5.5.1 Angiotensin-converting enzyme inhibitors. British National Formulary No. 62. September 2011 [2011-12-22]. 
+^ 80.0 80.1 Musini VM, Tejani AM, Bassett K, Wright JM. Musini, Vijaya M, 编. Pharmacotherapy for hypertension in the elderly. Cochrane Database Syst Rev. 2009, (4): CD000028. PMID 19821263. doi:10.1002/14651858.CD000028.pub2. 
+^ Aronow WS, Fleg JL, Pepine CJ; 等. ACCF/AHA 2011 expert consensus document on hypertension in the elderly: a report of the American College of Cardiology Foundation Task Force on Clinical Expert Consensus documents developed in collaboration with the American Academy of Neurology, American Geriatrics Society, American Society for Preventive Cardiology, American Society of Hypertension, American Society of Nephrology, Association of Black Cardiologists, and European Society of Hypertension. J. Am. Coll. Cardiol. May 2011, 57 (20): 2037–C114. PMID 21524875. doi:10.1016/j.jacc.2011.01.008.  引文格式1维护：显式使用等标签 (link)
+^ CG34 Hypertension - quick reference guide (PDF). National Institute for Health and Clinical Excellence. 28 June 2006 [2009-03-04]. 
+^ Calhoun DA; Jones D; Textor S; 等. Resistant hypertension: diagnosis, evaluation, and treatment. A scientific statement from the American Heart Association Professional Education Committee of the Council for High Blood Pressure Research. Hypertension. June 2008, 51 (6): 1403–C19. PMID 18391085. doi:10.1161/HYPERTENSIONAHA.108.189141.  已忽略未知参数|author-separator= (帮助)
+^ 84.0 84.1 Kearney PM, Whelton M, Reynolds K, Muntner P, Whelton PK, He J. Global burden of hypertension: analysis of worldwide data. Lancet. 2005, 365 (9455): 217–C23. PMID 15652604. doi:10.1016/S0140-6736(05)17741-1. 
+^ Kearney PM, Whelton M, Reynolds K, Whelton PK, He J. Worldwide prevalence of hypertension: a systematic review. J. Hypertens. January 2004, 22 (1): 11–C9. PMID 15106785. 
+^ Burt VL; Whelton P; Roccella EJ; 等. Prevalence of hypertension in the US adult population. Results from the Third National Health and Nutrition Examination Survey, 1988–C1991. Hypertension. March 1995, 25 (3): 30–¨C13 [2009-06-05]. PMID 7875754.  已忽略未知参数|author-separator= (帮助)
+^ 87.0 87.1 Burt VL; Cutler JA; Higgins M; 等. Trends in the prevalence, awareness, treatment, and control of hypertension in the adult US population. Data from the health examination surveys, 1960 to 1991. Hypertension. July 1995, 26 (1): 60–9 [2009-06-05]. PMID 7607734.  已忽略未知参数|author-separator= (帮助)
+^ Ostchega Y, Dillon CF, Hughes JP, Carroll M, Yoon S. Trends in hypertension prevalence, awareness, treatment, and control in older U.S. adults: data from the National Health and Nutrition Examination Survey 1988 to 2004. Journal of the American Geriatrics Society. July 2007, 55 (7): 1056–C65. PMID 17608879. doi:10.1111/j.1532-5415.2007.01215.x. 
+^ 89.0 89.1 89.2 Lloyd-Jones D, Adams RJ, Brown TM; 等. Heart disease and stroke statistics--2010 update: a report from the American Heart Association. Circulation. February 2010, 121 (7): e46–e215. PMID 20019324. doi:10.1161/CIRCULATIONAHA.109.192667.  引文格式1维护：显式使用等标签 (link)
+^ Falkner B. Hypertension in children and adolescents: epidemiology and natural history. Pediatr. Nephrol. May 2009, 25 (7): 1219–C24. PMC 2874036. PMID 19421783. doi:10.1007/s00467-009-1200-3. 
+^ Luma GB, Spiotta RT. Hypertension in children and adolescents. Am Fam Phsician. May 2006, 73 (9): 1558–C68. PMID 16719248. 
+^ 92.0 92.1 92.2 92.3 92.4 92.5 92.6 92.7 Esunge PM. From blood pressure to hypertension: the history of research. J R Soc Med. October 1991, 84 (10): 621. PMC 1295564. PMID 1744849. 
+^ 93.0 93.1 Kotchen TA. Historical trends and milestones in hypertension research: a model of the process of translational research. Hypertension. October 2011, 58 (4): 522–38. PMID 21859967. doi:10.1161/HYPERTENSIONAHA.111.177766. 
+^ Swales JD (编). Manual of hypertension. Oxford: Blackwell Science. 1995: xiii. ISBN 0-86542-861-1. 
+^ Postel-Vinay N (编). A century of arterial hypertension 1896–1996. Chichester: Wiley. 1996: 213. ISBN 0-471-96788-2. 
+^ 96.0 96.1 96.2 Dustan HP, Roccella EJ, Garrison HH. Controlling hypertension. A research success story. Arch. Intern. Med. September 1996, 156 (17): 1926–35. PMID 8823146. doi:10.1001/archinte.156.17.1926. 
+^ Novello FC, Sprague JM. Benzothiadiazine dioxides as novel diuretics. J. Am. Chem. Soc. 1957, 79 (8): 2028. doi:10.1021/ja01565a079. 
+^ Freis ED. The Veterans Administration Cooperative Study on Antihypertensive Agents. Implications for Stroke Prevention (PDF). Stroke. 1974, 5 (1): 76–77. PMID 4811316. doi:10.1161/01.STR.5.1.76. 
+^ Chockalingam A. Impact of World Hypertension Day. Canadian Journal of Cardiology. May 2007, 23 (7): 517–9. PMC 2650754. PMID 17534457. doi:10.1016/S0828-282X(07)70795-X. 
+^ Chockalingam A. World Hypertension Day and global awareness. Canadian Journal of Cardiology. June 2008, 24 (6): 441–4. PMC 2643187. PMID 18548140. doi:10.1016/S0828-282X(08)70617-2. 
+^ Alcocer L, Cueto L. Hypertension, a health economics perspective. Therapeutic Advances in Cardiovascular Disease. June 2008, 2 (3): 147–55 [2009-06-20]. PMID 19124418. doi:10.1177/1753944708090572. 
+^ William J. Elliott. The Economic Impact of Hypertension. The Journal of Clinical Hypertension. October 2003, 5 (4): 3–13. PMID 12826765. doi:10.1111/j.1524-6175.2003.02463.x. 
+^ Coca A. Economic benefits of treating high-risk hypertension with angiotensin II receptor antagonists (blockers). Clinical Drug Investigation. 2008, 28 (4): 211–20. PMID 18345711. doi:10.2165/00044011-200828040-00002. 
+^ 風傳媒：小小改變搶救無數人命到底多高才算高血壓？美國最新研究給出答案
+
+
+外部連結[编辑]
+
+The Framingham Heart Study
+Video showing how to measure blood pressure
+开放式目录计划中和高血壓相关的内容
+High Blood Pressure from the Heart and Stroke Foundation of Canada
+High Blood Pressure from MedlinePlus
+A guide to lowering high blood pressure from the National Heart, Lung, and Blood Institute
+High Blood Pressure（from the American Heart Association）
+Pulmonary Hypertension from Cleveland Clinic Online Medical Reference
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh85063723
+NDL: 00566266
+
+
+
+
+
+
+
+
+
+
+
+
+分类：Pages with DOIs inactive since 2010血管系统疾病隐藏分类：含有未知参数的引用的页面引文格式1维护：显式使用等标签含有网址格式错误的引用的页面引文格式1错误：DOI带有失效链接的条目含有过时参数的引用的页面引文格式1错误：日期含有英語的條目缺少主语或者主语不够具体的语句包含规范控制信息的维基百科条目

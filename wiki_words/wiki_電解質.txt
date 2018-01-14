@@ -1,0 +1,305 @@
+电解质
+电解质（英语：electrolyte[註 1]）是指在水溶液或熔融状态可以产生自由离子而导电的化合物。通常指在溶液中导电的物质，但熔融态及固态下导电的电解质也存在。这包括大多数可溶性盐、酸和碱。一些气体，例如氯化氢，在高温或低压的条件下也可以作为电解质。电解质通常分为强电解质和弱电解质。
+
+
+
+目录
+
+
+1 历史
+2 形成
+3 应用
+
+3.1 生理学
+3.2 电化学
+3.3 金属制品
+
+
+4 分类
+
+4.1 强电解质
+4.2 弱电解质
+
+
+5 注释
+6 参考资料
+7 参见
+8 外部链接
+
+
+
+历史[编辑]
+
+
+
+
+斯凡特·奥古斯特·阿伦尼乌斯
+
+
+自1881年起，斯凡特·奥古斯特·阿伦尼乌斯开始在埃里克·艾德隆德的指导下进行电解质的相关研究。1884年，他向乌普萨拉大学提交了一篇长约150页的博士毕业论文，首次提出了“固体结晶盐在溶解时会分解成成对的带电粒子”这一观点，并通过离子的概念解释了电解质溶液的导电机理。他因此获得了1903年的诺贝尔化学奖。[1][2][3][4]
+根据阿伦尼乌斯的观点，盐在形成溶液时会分解成一种带电粒子，这种粒子在很多年前便被麥可·法拉第命名为“离子”。麥可·法拉第认为离子是在电解时产生的，但阿伦尼乌斯认为即使在没有电流的情况下盐溶液也含有离子，所以溶液中的化学反应便是离子之间的反应。[5][6][7]
+形成[编辑]
+当盐被置于溶剂中时往往会形成电解质溶液，在溶劑化时水和各个组分便会由于溶剂和溶质分子之间的热力学相互作用而离解。举个例子，根据离解反应，当氯化钠（NaCl）[註 2]置于水中时，固态盐会溶解成其成分中的离子[8]：
+
+NaCl(s) → Na+(aq) + Cl−(aq)
+
+物质还可能与水反应并产生离子。例如，二氧化碳气体在水中溶解后会得到含有水合氢离子、碳酸根离子和碳酸氢根离子的溶液。
+熔融盐也可以变为电解质。例如，氯化钠熔融时，液体导电。尤其是离子液体，它是一种熔点低于100℃的低温熔融盐[9]、高导电性的非水电解质，也正因此，它得以在各种电池中被越来越广泛的利用。[10]
+应用[编辑]
+生理学[编辑]
+参见：電解質不平衡
+在生理学中，电解质的主要离子有钠（Na+）、钾（K+）、钙（Ca2+）、镁（Mg2+）、氯化物（Cl−）、磷酸（HPO42−）和碳酸氢盐 （HCO3−）。电荷符号正（+）和负（ - ） 表明物质其实是具有离子性的，其电子的分布也并不平衡，而这正是化学离解的结果。钠离子是细胞外液的主要电解质，约占外液陽離子总量的92%；钾离子是细胞内液的主要电解质，约占內液陽離子总量的98%[11]。两者都是人体中最为重要的电解质[12]，涉及到了體液平衡（英语：fluid balance）和血压控制。肌肉组织和神经元都被认作是人体中的电组织。
+当患者长期呕吐或腹泻时需要补充电解质。电解质的监测在厌食或食欲过盛的治疗中也是非常重要的。
+电化学[编辑]
+参见：电解
+当电极置于电解质中并有电压被施加时，电解质将导电。单个电子通常不能通过电解质。在阴极处发生的化学反应会向电解质提供电子；而另一个反应在阳极发生，会消耗电解质中的电子。结果，阴极周围的电解质中产生了负电荷云，而阳极周围则形成了正电荷。电解质中的离子会中和这些电荷，从而使电子保持流动、反应继续进行。
+例如：
+
+2H2O + 2e− → 2OH− + H2
+
+氢气将会以气泡的形式浮上来，其阴极反应为：
+
+2NaCl → 2 Na+ + Cl2 + 2e−
+
+氯气也会在反应中生成。带正电的钠离子Na +将向阴极反应，中和OH - 的负电荷；带负电的氢氧根离子OH-将朝向阳极反应，中和Na +的正电荷。
+金属制品[编辑]
+在电池中，两种电子亲和力不同的材料可被用作电极；电子从电池外部的一个电极流向另一个电极，而在电池的内部，电路由于电解质的离子而关闭。这实际上是化学能转换成电能的过程。[13]在一些燃料电池中，固体电解质或质子导体会与導電板连接，此时的氢气和氧气燃料气体也会处于分离状态[14]。在电镀槽中设置好电极并加入电解质的溶液后将会发生电解，这在电镀、电铸、电切削、电浸蚀等领域得以广泛应用[15]。
+分类[编辑]
+强电解质[编辑]
+强电解质指的能完全或基本完全解离成为离子的化合物。通常包含三类物质：[16]
+
+强酸[17]：如硫酸、硝酸等
+强碱[17]：如氢氧化钡[16]、氢氧化钠、氢氧化钾
+大多数盐：如氯化鈉[16]、氯化钾[18]
+
+
+注：是否是强电解质与溶解性无关。如硫酸钡和氯化银，虽为难溶物，但其溶于水的部分完全解离了，所以将其划分为强电解质。
+
+弱电解质[编辑]
+
+
+
+
+硅酸便是一种弱酸
+
+
+弱电解质指的是能部分解离成为离子的化合物。通常包含四类物质：[16]
+
+弱酸：如、硅酸
+弱碱：如一水合氨、氢氧化铜。但氢氧化镁为强电解质
+極少數鹽：如醋酸鉛[19][20]、氯化亞汞[21]、氯化汞[22][21]
+水[23]
+
+
+注：水属于极弱电解质[23]。
+
+注释[编辑]
+
+^ 电解质的英文单词electrolyte源自希腊的lytós一词，大意是“能够解开或松开”。
+^ 俗称食盐
+
+参考资料[编辑]
+
+
+^ The Nobel Prize in Chemistry 1903. Nobel Media. [5 January 2017] （英语）. 
+^ Harris, William; Levey, Judith (编). The New Columbia Encyclopedia 4th. New York City: Columbia University. 1975: 155. ISBN 0-231035-721 （英语）. 
+^ McHenry, Charles (编). The New Encyclopedia Britannica 1 15. Chicago: Encyclopedia Britannica, Inc. 1992: 587. ISBN 085-229553-7 （英语）. 
+^ Cillispie, Charles (编). Dictionary of Scientific Biography 1. New York City: Charles Scribner's Sons. 1970: 296–302. ISBN 0-684101-122 （英语）. 
+^ Harris, William; Levey, Judith (编). The New Columbia Encyclopedia 4th. New York City: Columbia University. 1975: 155. ISBN 0-231035-721 （英语）. 
+^ McHenry, Charles (编). The New Encyclopedia Britannica 1 15. Chicago: Encyclopedia Britannica, Inc. 1992: 587. ISBN 085-229553-7 （英语）. 
+^ Cillispie, Charles (编). Dictionary of Scientific Biography 1. New York City: Charles Scribner's Sons. 1970: 296–302. ISBN 0-684101-122 （英语）. 
+^ Kotz, John C.; Treichel, Paul M.; Townsend, John. Chemistry and Chemical Reactivity 8. Cengage Learning. 2012: 127 [2017-02-27]. ISBN 9781133420071 （英语）. 
+^ 石家华; 孙逊; 杨春和; 高青雨; 李永舫. 离子液体研究进展 (PDF). 化学通报 (北京). 2002, (4): 243 [2017-03-01]. ISSN 0441-3776 （中文）. 
+^ Jiangshui Luo; Jin Hu; Wolfgang Saak; Rüdiger Beckhaus; Gunther Wittstock; Ivo F. J. Vankelecom; Carsten Agert; Olaf Conrad. Protic ionic liquid and ionic melts prepared from methanesulfonic acid and 1H-1,2,4-triazole as high temperature PEMFC electrolytes. 材料化学杂志（Journal of Materials Chemistry）. 2011, 21: 10426–10436. doi:10.1039/C0JM04306K （英语）. 
+^ 叶胜龙; 汤钊猷. 细胞膜钠泵及其临床意义. 上海医学. 1986, (1): 1 （中文）. 
+^ 涂志全. 张定昌. 电解质紊乱对晚期肿瘤的治疗影响. 中华中西医杂志. 2004, (10) （中文）. 在正常人体内，钠离子占细胞外液阳离子总量的92%，钾离子占细胞内液阳离子总量的98%左右。钠、钾离子的相对平衡，维持着整个细胞的功能和结构的完整。钠、钾是人体内最主要的电解质成分... 
+^ Kamil Perzyna; Regina Borkowska; Jaroslaw Syzdek; Aldona Zalewska; Wladyslaw Wieczorek. The effect of additive of Lewis acid type on lithium–gel electrolyte characteristics. Electrochimica Acta. 2011, 57: 58–65. doi:10.1016/j.electacta.2011.06.014 （英语）. 
+^ Jiangshui Luo; Annemette H. Jensen; Neil R. Brooks; Jeroen Sniekers; Martin Knipper; David Aili; Qingfeng Li; Bram Vanroy; Michael Wübbenhorst; Feng Yan; Luc Van Meervelt; Zhigang Shao; Jianhua Fang; Zheng-Hong Luo; Dirk E. De Vos; Koen Binnemans; Jan Fransaer. 1,2,4-Triazolium perfluorobutanesulfonate as an archetypal pure protic organic ionic plastic crystal electrolyte for all-solid-state fuel cells. 能源与环境科学（Energy & Environmental Science）. 2015, 8. doi:10.1039/C4EE02280G （英语）. 
+^ 黄岳. 铁屑电解法在电镀污水处理中的应用. 化学世界. 1981, (8): 246 [2017-03-04]. ISSN 0367-6358 （中文）. 
+^ 16.0 16.1 16.2 16.3 罗天美. 强、弱电解质的辨析. 四川文理学院学报. 2007, 17 (S1): 149 [2017-03-03]. ISSN 1674-5248 （中文）. 
+^ 17.0 17.1 严宣申 (编). 电解质. 中国大百科全书. 28（化学卷）. 中国大百科全书出版社: 155 （中文）. 
+^ 王丙利. 电解质氯化钾的临床应用. 中国医学导报. 2005, 2 (17). ISSN 1673-7210. doi:10.3969/j.issn.1673-7210.2005.17.049 （中文）.  使用|accessdate=需要含有|url= (帮助)
+^ 李鸿. 也谈醋酸铅是弱电解质的实验证明. 化学教学. 1999, (7): 46 [2017-02-28] （中文）. 
+^ 周金祥. 醋酸铅是强电解质吗. 化学教学. 1998, (10) [2017-02-28] （中文）. 一、醋酸铅尽管易溶于水，但属弱电解质，在溶液中以分子状... 
+^ 21.0 21.1 周兴伟. 有关电解质溶液的几点疑问解析. 中学化学. 2014, 0 (7): 15 （中文）. 
+^ 潘杰; 晏乃强; 瞿赞; 徐浩淼; 马永鹏; 陈万苗; 黄文君; 赵松建. 湿法脱硫浆液中石膏与汞的结合特性模拟研究. 环境科学学报 (上海). 2015, 35 (3): 665. ISSN 0253-2468 （中文）. 
+^ 23.0 23.1 刘斌. 电解食盐水的电极反应式该怎么写. 江苏教育. 1989, (10): 1. ISSN 1005-6009 （中文）.  使用|accessdate=需要含有|url= (帮助)
+
+
+参见[编辑]
+
+化合物
+非电解质
+离子化合物
+共价化合物
+高分子电解质
+
+外部链接[编辑]
+
+electrolyte mixtures
+multicomponent electrolyte diffusion
+viscosity of strong electrolytes
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+電池（伽凡尼電池，即化學電池）
+
+
+
+
+
+
+
+列表
+
+
+
+
+
+
+電池类型
+
+
+
+伏打電堆
+電池（液流电池）
+濃差電池
+燃料電池
+
+
+
+
+
+
+
+
+
+
+
+
+原電池
+（非充電型）
+
+
+
+
+鋅銅電池
+鹼性電池
+铝空气电池
+氫氧電池
+水銀電池（鋅汞電池）
+氧化銀電池
+鋰電池
+
+鋰二氧化錳電池
+鋰亞硫醯氯電池
+
+
+韦斯顿电池
+锌空气电池
+碳锌电池
+
+
+
+
+
+
+
+
+
+蓄電池
+（充電型）
+
+
+
+
+鉛酸蓄電池
+鎳鎘電池
+鎳鐵電池
+鎳氫電池（低自放電鎳氫電池）
+鎳鋰電池（英语：Nickel–lithium battery）
+鎳鋅電池（英语：Nickel–zinc battery）
+鋰空氣電池
+鋰離子電池
+
+鋰離子聚合物電池
+磷酸锂铁电池（英语：Lithium iron phosphate battery）
+鋰钛電池（英语：Lithium–titanate battery）
+
+
+鋰硫電池（英语：Lithium–sulfur battery）
+纳米线電池
+钾离子电池（英语：Potassium-ion battery）
+钠离子电池
+全釩氧化還原液流電池
+钠硫电池
+锌溴电池（英语：Zinc–bromine battery）
+鋅鈰電池（英语：Zinc–cerium battery）
+铝离子电池
+
+
+
+
+
+
+
+
+電池部件
+
+
+
+阳极
+阴极
+催化劑
+电极
+電解質
+半電池
+离子
+鹽橋
+半透膜
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh85042157
+GND: 4151826-3
+BNF: cb11949132r（数据）
+NDL: 00561314
+BNE: XX533910
+
+
+
+
+
+
+
+
+
+
+
+
+分类：电解质验血验尿物理化学酸碱生理学隐藏分类：CS1英语来源 (en)含有访问日期但无网址的引用的页面包含规范控制信息的维基百科条目

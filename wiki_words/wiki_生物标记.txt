@@ -1,0 +1,50 @@
+生物标记
+生物标记 (英语：Biomarker)，是医学指标下的一个大的子类，指的是可在病人或被研究者体外观测到的客观指标。通常情况下，相应的测量方法应当是精准且可被重复的。与医学症状不同的是，医学指标是客观的测量结果，而医学症状受限于病人对于健康或疾病的主观感受。
+
+
+
+目录
+
+
+1 定义
+2 分类和作用
+
+2.1 环境暴露生物标记
+2.2 疾病生物标记
+
+
+3 相关条目
+
+
+
+定义[编辑]
+在许多文献中都有对生物标记的精确定义，通常这些定义都是相似的或高度重合的。1998年，美国国立卫生研究院（英语：National Institute of Health，缩写：NIH）将生物标记定义为“对正常生物学过程，致病过程，或治疗干预造成的药物反应进行测量得到的特征指标”[1]。由世界卫生组织领导，并与联合国及国际劳工组织合作的国际化学品安全规划署（英语：International Programme on Chemical Safety，缩写：IPCS）将生物标记定义为“任何可用于测量并预测可能导致的结果或可能的疾病的化学物质，生物结构或生物过程”[2]。而在更广泛的定义中，生物标记还可用于对治疗或干预的效果，甚至对环境暴露（例如化学物或摄入营养等）的结果进行测量。
+分类和作用[编辑]
+佩雷拉和温斯坦将生物标记按照从环境暴露到致病的发生顺序进行分类，分为：环境暴露生物标记和疾病生物标记[3]。虽然生物标记多用于流行病学研究，但也可以用于研究对象的环境暴露史以及疾病预后。舒尔特将生物标记的用途分为以下几类[4]：
+
+解释环境与疾病之间的联系
+研究药物反应
+鉴定环境暴露史中的早期事件
+鉴定环境因素的致病机制
+筛减致病环境风险因素的错误分类
+增强对个体或群体的风险分析能力
+
+环境暴露生物标记[编辑]
+疾病生物标记[编辑]
+相关条目[编辑]
+
+生物標記 (醫學)
+
+
+
+
+^ Biomarkers Definitions Working Group. Biomarkers and surrogate endpoints: Preferred definitions and conceptual framework. Clinical Pharmacology & Therapeutics. 2001-03-01, 69 (3): 89–95. ISSN 1532-6535. doi:10.1067/mcp.2001.113989 （英语）. 
+^ Biomarkers In Risk Assessment: Validity And Validation (EHC 222, 2001). www.inchem.org. [2016-09-20]. 
+^ Perera, F. P.; Weinstein, I. B. Molecular epidemiology: recent advances and future directions. Carcinogenesis. 2000-03-01, 21 (3): 517–524. ISSN 0143-3334. PMID 10688872. 
+^ Schulte, Paul. A conceptual and historical framework for molecular epidemiology. Academic Press. 1998: 3. ISBN 978-0126323467. 
+
+
+
+
+
+分类：分子生物学隐藏分类：CS1英语来源 (en)

@@ -1,0 +1,53 @@
+LIBRIS
+LIBRIS是LIBRary Information System的縮寫，意為圖書館資訊系統，是一個瑞典的全國聯合目錄，由位於斯德哥爾摩的瑞典皇家圖書館維護[1]。全國大約650萬個書目，可供自由搜尋[2]。
+除了書目紀錄，對於每本書或出版物，LIBRIS都包含一個關於人物的作者檔案。每一個人物都有一筆紀錄，把名稱、出生日期和職業連繫到一個獨一無二的標識符。[來源請求]
+這個瑞典聯合目錄的MARC Code是SE-LIBR，正常化：selibr[3]。
+LIBRIS的發展可以追溯至1960年代中期[4]。正當整合各圖書館是一個自二戰後困擾了二十年的問題時，1965年一個政府委員會出版一份報告，有關應用電腦於研究圖書館[5]。1965年的政府預算產生了一個研究圖書館議會（瑞典語：Forskningsbiblioteksrådet，FBR）[6]。一份初步設計文件Biblioteksadministrativt Information System (BAIS)在1970年5月出版，而LIBRIS這個從Library Information System而來的縮寫，則用於一個始於1970年7月1日的技術委員會小組[7]。自從1972年起，最新消息通訊LIBRIS-meddelanden（ISSN 0348-1891）開始發行[8]，自從1997年起上線[9]。
+參考文獻[编辑]
+
+
+^ LIBRIS. Nationalencyklopedin. [27 July 2010] （瑞典语）.  
+^ LIBRIS database contents. National Library of Sweden. [27 July 2010]. 
+^ Library of Congress Network Development and MARC Standards Office. Search the MARC Code List for Organizations Database. Library of Congress. 5 April 2011 [22 August 2012]. 
+^ Lena Olsson, Det datoriserade biblioteket. Maskindrömmar på 70-talet (1995), PhD dissertation from Linköping University, Linköping Studies in Arts and Science 121, ISSN 0282-9800, ISBN 91-7871-492-3, Abstract online
+^ Databehandling i forskningsbibliotek (1965; in LIBRIS), cited in Olsson (1995), p. 51.
+^ Olsson (1995), p. 55.
+^ Olsson (1995), p. 103.
+^ Olsson (1995), p. 31.
+^ LIBRIS-meddelanden 互联网档案馆的存檔，存档日期2012-01-15.
+
+
+外部連結[编辑]
+
+
+
+參見維基數據有有關P906的屬性，LIBRIS（參見用法）
+
+
+
+National Library of Sweden: LIBRIS (select "In English" from the top menu, default language is Swedish)
+Open Data, Information about LIBRIS bibliographic records and authority file as open data, 3 April 2012.
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4501169-2
+
+
+
+
+
+
+
+
+
+
+
+
+分类：瑞典图书馆圖書分類法隐藏分类：CS1瑞典语来源 (sv)含有連結內容需訂閱查看的頁面Webarchive模板wayback链接使用ISBN魔术链接的页面含有英語的條目有未列明来源语句的条目含有瑞典語的條目包含规范控制信息的维基百科条目

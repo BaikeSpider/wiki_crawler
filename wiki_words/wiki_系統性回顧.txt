@@ -1,0 +1,21 @@
+系統綜述
+系統綜述（英语：systematic review）是文獻探討（英语：Literature review）一種，為研究有關一特定主題所有高質素的報告，並將之識別，評論並集合。
+有關隨機對照試驗（RCT）的系統綜述為循證醫藥中最重要的一環。[1]對系統綜述的認識及實際使用已成医疗卫生專業中不可或缺的部分。除了醫療措施外，它亦適用於臨床測試，公共衛生措施，社會措施，不良反應和經濟評估。[2][3] 系統綜述不局限於醫學，於科學其他領域亦常見，對判定研究方法的質素有幫助。[4]其他應用到系統綜述的領域包括心理學、護理學、牙醫學、公共健康、職能治療、言語治療、物理治療、教育研究、社會學、商業管理、環境管理和保育生物學。[5]
+由于商业研究与自然科学相比具有不同的特点，所以上述方法步骤不容易应用于商业研究。 Tranfield et al. (2003)早期试图将程序从医学转向商业研究。[6] Durach et al. (2017)开发了一个循序渐进的方法：根据他们在自己的学科中所取得的经验，这些作者已经调整了方法学步骤，并制定了一个在商业研究中进行系统的文献综述的标准程序。[7]
+参考文献[编辑]
+
+
+^ What is EBM?. Centre for Evidence Based Medicine. 2009-11-20 [2011-06-17]. （原始内容存档于2011-04-06）. 
+^ Systematic reviews: CRD's guidance for undertaking reviews in health care. York: University of York, Centre for Reviews and Dissemination, 2008. ISBN 978-1-900640-47-3. Retrieved 2011-06-17.[页码请求]
+^ Petticrew M, Roberts H. Systematic reviews in the social sciences. Wiley Blackwell, 2006.
+^ Herman J. Ader; Gideon J. Mellenbergh; with contributions by David J. Hand. Methodological quality (chapter 3) in Advising on Research Methods: A consultant's companion. Johannes van Kessel Publishing. 2008. ISBN 978-90-79418-02-2. [页码请求]
+^ Collaboration for Environmental Evidence - Home. Environmentalevidence.org. 2012-10-10 [2013-08-29]. 
+^ Tranfield, D., Denyer, D. & Smart, P. (2003). Towards a methodology for developing evidence-informed management knowledge by means of systematic review. British Journal of Management, 14, 207–222.
+^ Durach, C.F., Kembro, J. & Wieland, A. (2017). A New Paradigm for Systematic Literature Reviews in Supply Chain Management. Journal of Supply Chain Management, 53 (4), 67–85.
+
+
+
+
+
+
+分类：系统综述综述期刊循证实践資訊科學元分析医学研究隐藏分类：未列明參考文獻頁碼的條目使用ISBN魔术链接的页面

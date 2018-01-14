@@ -1,0 +1,602 @@
+波斯语
+
+
+
+
+
+
+本條目存在以下問題，請協助改善本條目或在討論頁針對議題發表看法。
+
+
+
+
+
+
+本条目需要擴充。（2016年12月4日） 
+请協助改善这篇條目，更進一步的信息可能會在討論頁或扩充请求中找到。请在擴充條目後將此模板移除。 
+
+
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。（2016年12月4日） 
+請邀請適合的人士改善本条目。更多的細節與詳情請參见討論頁。 
+
+
+
+
+
+
+
+本条目使用外部链接的方式可能不符合维基百科的方针或指引，或致使內文成為链接農場。（2016年12月4日） 
+請協助清理過度與不適當的外部連結，并将有用的链接移到参考文献中。 
+
+
+
+
+
+
+
+
+
+本文介紹的是伊朗的官方语言。關於伊朗语支西伊朗语组的语言，請見「波斯语 (消歧义)」。
+
+
+
+
+波斯语
+
+
+فارسی‎ / پارسی‎
+
+
+
+波斯体书法的Fârsî”
+
+
+
+发音
+[fɒːɾˈsiː]
+
+
+母语国家和地区
+
+
+
+伊朗[1]
+阿富汗[1]（达利语）
+塔吉克斯坦[1]（塔吉克语）
+乌兹别克斯坦
+伊拉克[2]
+俄罗斯[3][4]
+阿塞拜疆[5]
+
+
+
+
+
+母语使用人数
+7000万（2011年）[5]
+（共1.1亿）[5]
+
+
+
+語系
+
+印欧语系
+
+印度-伊朗语族
+
+伊朗语支
+
+西伊朗语组（英语：Western Iranian languages）
+
+西南伊朗次语组
+
+波斯语
+
+
+
+
+
+
+
+
+
+
+
+
+
+早期形式
+
+古波斯语
+
+中古波斯语
+
+波斯语
+
+
+
+
+
+
+
+方言
+
+
+
+西波斯语（英语：Western Persian）
+东波斯语
+中亚波斯语（塔吉克）
+布哈拉语（英语：Bukhori dialect）
+帕拉瓦尼语
+哈扎拉吉语
+艾马克语（英语：Aimaq dialect）
+犹太-波斯语（英语：Judæo-Persian）
+德瓦里语
+犹太-塔特语（英语：Judeo-Tat）[5]
+高加索塔特语（英语：Tat language (Caucasus)）[5]
+亚美尼亚塔特语（英语：Armeno-Tat）[5]
+
+
+
+
+
+文字
+
+
+
+波斯-阿拉伯字母
+西里尔字母（塔吉克字母（英语：Tajik alphabet））
+
+
+
+希伯来字母
+波斯语盲文（英语：Persian Braille）
+
+
+
+
+
+
+
+
+官方地位
+
+
+作为官方语言
+ 伊朗
+ 阿富汗
+ 塔吉克斯坦
+
+
+語言代碼
+
+
+ISO 639-1
+fa
+
+
+ISO 639-2
+per （B）
+fas （T）
+
+
+ISO 639-3
+fas——囊括代码（英语：ISO 639 macrolanguage）
+各项代码：
+pes－西波斯语
+prs－东波斯语
+tgk－塔吉克语
+aiq－艾马克语
+bhh－布哈拉语
+haz－哈扎拉吉语
+jpr－犹太-波斯语
+phv－帕拉瓦尼语
+deh－德瓦里语
+jdt－犹太-塔特语
+ttt－高加索塔特语
+
+
+Glottolog
+fars1254[6]
+
+
+語言瞭望站
+
+58-AAC（普遍）
+ > 58-AAC-c（中部）
+
+
+
+
+波斯语使用者数量显著的地区（包括方言）。
+
+
+
+
+
+  波斯语为官方语言的国家。
+
+
+
+
+本条目包含国际音标符号。部分操作系统及浏览器需要特殊字母与符号支持才能正確显示，否则可能显示为乱码、问号、空格等其它符号。
+
+
+波斯语（波斯語：فارسی / Fârsî；阿拉伯语：لغة فارسية）屬於印欧语系印度-伊朗語族伊朗语支，是一种形成于8至9世纪间的文学语言。是今天伊朗的官方语言，作为其分支的达利语和塔吉克语分别是阿富汗和塔吉克斯坦的官方语言。
+由于历史与宗教的原因，现代波斯语中，有近60%的词汇来自属于闪含语系的阿拉伯语。波斯语用波斯-阿拉伯字母拼写。
+
+
+
+目录
+
+
+1 音系
+
+1.1 元音
+1.2 輔音
+
+
+2 语法
+
+2.1 構詞
+2.2 句法
+
+
+3 字母
+4 範例
+5 相關條目
+6 引用
+7 外部链接
+8 参见
+
+
+
+音系[编辑]
+伊朗波斯語有六個元音和二十三個輔音，包括兩個塞擦音 /tʃ/ (ch) 和 /dʒ/ (j)。
+元音[编辑]
+歷史上，波斯語區分元音長度: 長元音 /iː/, /uː/, /ɒː/ 分別對比於短元音 /e/, /o/, /æ/。波斯語方言和變種在元音上有所區別而非輔音。
+
+
+
+
+波斯語的元音音位
+
+
+輔音[编辑]
+
+
+
+唇音
+齒齦音
+齦後音
+硬腭音
+軟腭音
+小舌音
+聲門音
+
+
+鼻音
+m
+n
+
+
+[ŋ]
+
+
+
+
+塞音
+p b
+t d
+
+
+k ɡ
+[q ɢ]
+[ʔ]
+
+
+塞擦音
+
+
+tʃ dʒ
+
+
+
+
+
+
+擦音
+f v
+s z
+ʃ ʒ
+
+x ɣ
+
+h
+
+
+閃音
+
+ɾ
+
+
+
+
+
+
+
+顫音
+
+[r]
+
+
+
+
+
+
+
+近音
+
+l
+
+j
+
+
+
+
+
+(在成對出現的符號中，右側的表示濁音。同位異音在方括號中。)
+语法[编辑]
+構詞[编辑]
+后綴支配著波斯語構詞，儘管有少量的前綴。[7] 動詞可以表達時態和體貌，并且它們在人稱和數上一致於主語。[8] 在波斯語中沒有性，對代詞也不標記自然的性。
+句法[编辑]
+一般直陳句子構造為“(S) (PP) (O) V”。這意味句子可以包括可選的主語，前置短語，和賓語，跟隨需要的動詞。如果指定了賓語，則這個賓語跟隨著詞 rɑ: 和前置短語:“(S) (O + "rɑ:") (PP) V”。[8]
+字母[编辑]
+主条目：波斯-阿拉伯字母系統
+現代伊朗波斯語及阿富汗波斯語都是用一種阿拉伯字母的變體為其书写符号，其中用到一些在阿拉伯文中沒有的發音以及字母。在塔吉克使用的塔吉克波斯語，其字母系統是用一種西里爾字母的變體，也有其他波斯字母的羅馬化系統（英语：Romanization of Persian）。在伊斯蘭對波斯的征服後，波斯語慢慢開始阿拉伯字母來取代原來舊的字母，花了150年的時間。以前曾使用二種不同的字母系統，Pahlavi字母（英语：Pahlavi scripts）主要用在波斯中部，阿維斯陀字母（英语：Avestan scripts）是用在宗教上，主要是配合阿維斯陀語使用。
+範例[编辑]
+以下的文字是世界人權宣言的第一條
+
+
+伊朗波斯文
+國際波斯字母（UniPers）
+Ironik
+
+
+همه ی افراد بشر آزاد به دنیا می‌آیند و حیثیت و حقوقشان با هم برابر است، همه اندیشه و وجدان دارند و باید در برابر یکدیگر با روح برادری رفتار کنند.
+Hameye afrâde bašar âzâd be donyâ miâyando heysiyato hoquqešan bâ ham barâbar ast, hame andiševo vejdân dârand va bâyad dar barâbare yekdigar bâ ruhe barâdari raftâr konand.
+hama-ye afrod-e bacar ozod be dunyo mi-oyand u haysiyat u huqwq-econ bo ham barobar ast, Hama-yecon andica u vejdon dorand u boyad dar barobar-e yakdigar bo rwh-e barodari raftor kunand
+
+
+國際音標
+塔吉克波斯文
+英文
+
+
+[hæmeje æfrɒde bæʃær ɒzɒd be donjɒ miɒjænd o hejsijæt o hoɢuɢe ʃɒn bɒ hæm bærɒbær æst hæme ʃɒn ændiʃe o vedʒdɒn dɒrænd o bɒjæd dær bærɒbære jekdiɡær bɒ ruhe bærɒdæri ræftɒr konænd]
+Ҳамаи афроди башар озод ба дунё меоянд ва ҳайсияту ҳуқуқашон бо ҳам баробар аст, ҳамаашон андешаву виҷдон доранд ва бояд дар баробари якдигар бо рӯҳи бародарӣ рафтор кунанд.
+All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+
+相關條目[编辑]
+
+
+印歐語系詞
+波斯语言和文学学院（英语：Academy of Persian Language and Literature）
+達利語
+英語中的波斯語借詞列表
+法語中的波斯語借詞列表（英语：List of French loanwords in Persian）
+波斯-阿拉伯字母系統
+波斯文點字（英语：Persian Braille）
+波斯文文法（英语：Persian grammar）
+波斯文姓名（英语：Persian name）
+波斯語發音學（英语：Persian phonology）
+波斯文罗马字（英语：Romanization of Persian）
+西伊朗語言（英语：Western Iranian languages）
+古波斯語
+中古波斯语
+
+
+引用[编辑]
+
+
+^ 1.0 1.1 1.2 Samadi, Habibeh; Nick Perkins. Martin Ball, David Crystal, Paul Fletcher, 编. Assessing Grammar: The Languages of Lars. Multilingual Matters. 2012: 169. ISBN 978-1-84769-637-3. 
+^ IRAQ. [2014-11-07]. 
+^ H. Pilkington,"Islam in Post-Soviet Russia",Psychology Press, 2002-11-27. p. 27: "Among other indigenous peoples of Iranian origin were the Tats, the Talishes and the Kurds"
+^ T. M. Masti︠u︡gina, Lev Perepelkin, Vitaliĭ Vi͡a︡cheslavovich Naumkin, "An Ethnic History of Russia: Pre-Revolutionary Times to the Present",Greenwood Publishing Group, 1996 . p. 80:""The Iranian Peoples (Ossetians, Tajiks, Tats, Mountain Judaists)"
+^ 5.0 5.1 5.2 5.3 5.4 5.5 Windfuhr, Gernot: The Iranian Languages, Routledge 2009, p. 418.
+^ Hammarström, Harald; Forkel, Robert; Haspelmath, Martin; Bank, Sebastian (编). 波斯语. Glottolog 2.7. Jena: Max Planck Institute for the Science of Human History. 2016. 
+^ Megerdoomian, Karine. Persian computational morphology: A unification-based approach (PDF). Memoranda in Computer and Cognitive Science: MCCS-00-320: 1. 2000. 
+^ 8.0 8.1 Mahootian, Shahrzad. Persian. London: Routledge. 1997. ISBN 0-415-02311-4. 
+
+
+外部链接[编辑]
+
+
+
+維基百科有此種語言版本：
+波斯语维基百科
+
+
+
+
+
+维基文库有此种语言版本：
+
+波斯语维基文库
+
+
+
+
+
+
+
+於維基詞典中查詢波斯语。
+
+
+
+
+
+關於一系列與波斯语有關的詞語，參見維基詞典上波斯语的詞語目錄
+
+
+
+
+
+維基導遊上的相關旅行指南：
+波斯语（英文）
+
+
+
+网上学习波斯语
+Ethnologue report for Western Persian
+Easypersian.com
+BBC波斯語
+NHK波斯語(Persian)廣播
+
+参见[编辑]
+
+波斯语
+古波斯语
+中古波斯语
+达利语
+塔吉克语
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+伊朗语支
+
+
+
+
+
+
+古代
+
+
+
+
+
+東部
+
+
+阿維斯陀語 · 古西徐亞語（英语：Scythian languages）
+
+
+
+
+
+
+
+西部
+
+
+米底語（英语：Median language） · 古波斯語
+
+
+
+
+
+
+
+
+
+中古
+
+
+
+
+
+東部
+
+
+巴克特里亚语（大夏語） · 花剌子模语 · 奧塞梯語 · 塞語(于阗语) · 圖木舒克語 · 西徐亞語（英语：Scythian languages） · 粟特语
+
+
+
+
+
+
+
+西部
+
+
+巴底亞語 · 中古波斯语
+
+
+
+
+
+
+
+
+
+現代
+
+
+
+
+
+东伊朗次语支
+
+
+巴尔塘吉语 · 帕米爾语（英语：Pamir languages） · 库菲语 · 门机语 · 奥罗索里语 · 奥尔穆里语 · 奧塞提亞語 · 帕拉基语 · 普什图语 · 鲁沙尼语 · 搡格勒基语 · 色勒库尔语 · 舒格南语（識匿語） · 瓦罕语 · 碗吉语 · 雅格諾比語 · 宜扎语 · 亚斯谷拉秘语 · 择巴克语
+
+
+
+
+
+
+
+西伊朗次语支
+
+
+古亚扎里语 · 俾路支语 · 巴示卡迪语 · 低拉米语 · 塔里什語（英语：Talysh language） · 构拉尼语 · 吉拉克語 · 马赞德兰语（塔巴里语） · 庫爾德語（中 · 北 · 南） · 拉科语（英语：Laki dialect） · 盧爾語（英语：Luri language） · 巴克提爾利語 · 桑萨里语 · 波斯語（東波斯語 · 塔吉克語 · 達利語 · 哈扎拉吉語） · 塔特語 (亞塞拜然) · 塔特語 (伊朗) · 扎扎其語 · 波斯方言
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4065403-5
+
+
+
+
+
+
+
+
+
+
+
+
+分类：ISO 639-2代码的语言ISO 639-1代码的语言伊朗語言伊朗语支波斯語巴基斯坦語言隐藏分类：自2016年12月扩充中的条目自2016年12月需要专业人士关注的页面自2016年12月需要清理外部連結的條目含有多个问题的条目含有波斯語的條目没有语系配色的语言包含规范控制信息的维基百科条目

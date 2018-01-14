@@ -1,0 +1,1710 @@
+贅生物
+
+
+
+
+
+本文或章節需要更多可靠的醫學來源來查證，或過於依賴第一手資料。 
+請協助覆核本文的內容並且添加適當的來源。相關討論可能在討論頁中被找到。不可靠的來源或未添加來源的部分可能會被質疑並移除。 
+
+
+
+
+
+
+
+
+
+
+本条目需要擴充关于英語對應條目的内容。（2017年5月23日） 
+请協助改善这篇條目，更進一步的信息可能會在討論頁或扩充请求中找到。请在擴充條目後將此模板移除。 
+
+
+
+
+贅生物
+Neoplasm
+
+
+同义词
+tumour, carcinocytes、腫瘤
+
+
+
+
+
+Colectomy specimen containing a malignant neoplasm, namely an invasive colorectal cancer (the crater-like, reddish, irregularly shaped tumor)
+
+
+分类和外部资源
+
+
+醫學專科
+Oncology
+
+
+ICD-10
+C00 -D48
+
+
+ICD-9-CM
+140-239.99
+
+
+DiseasesDB
+28841
+
+
+MedlinePlus
+001310.
+
+
+MeSH
+D009369
+
+
+
+[编辑此条目的维基数据]
+
+
+
+ 维基百科中的醫療相关内容仅供参考，詳見醫學聲明。如需专业意见请咨询专业人士。
+
+
+提示：本条目的主题不是肉瘤或sarcoma。
+
+
+細胞發育(-plasia/-trophy)
+
+
+
+-plasia：細胞、組織數量改變
+
+退行發育(Anaplasia) (組織的分化性喪失)
+發育不全(Aplasia)（英语：Aplasia） (器官或部分的器官遺失)
+發育不全(Hypoplasia)（英语：Hypoplasia） (先天細胞數量過低)
+組織增生(Hyperplasia)（英语：Hyperplasia） (細胞分裂新生)
+贅生(Neoplasia) (異常的細胞增生)
+異生(Dysplasia) (細胞或組織的生長、分化異常)
+化生(Metaplasia)（英语：Metaplasia） (細胞型態改變)
+進行性化生(Prosoplasia)（英语：Prosoplasia） (細胞分化為更高等的細胞)
+結締組織增生(Desmoplasia)（英语：Desmoplasia）
+
+
+
+
+
+-trophy：細胞、組織體積改變
+
+萎縮(Atrophy) (器官的細胞數量減少，功能不全)
+細胞肥大(Hypertrophy) (細胞體積增加)
+細胞萎縮(Hypotrophy)（英语：Hypotrophy） (細胞體積減少)
+營養性衰竭(Abiotrophy)（英语：Abiotrophy） (組織或器官的死亡)
+失養(Dystrophy)（英语：Dystrophy） (營養缺陷造成的退化性失調)
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+新生物、息肉或贅生物（英语：neoplasm），是指身體細胞組織不正常的增生，當生長的數量龐大，便會成為腫瘤（英语：tumour）[1][2]。而腫瘤亦可以是良性或惡性的。
+肿瘤（英語：tumor或tumour）在医学上是指细胞的异常病变，而不一定是身体上面的肿块。这一种病变，使身体部分细胞有不受控制的增生，許多時会集结成为肿块。肿瘤分为良性肿瘤、恶性肿瘤。
+良性肿瘤生长速度缓慢，表面较光滑。并不侵入邻近的正常组织内。瘤体周围常形成包膜，因此与正常组织分界明显。除非长在要害部位，良性肿瘤一般不会致命，大多数可被完全切除，很少有复发。癌症即是最常见的恶性肿瘤。恶性肿瘤分为上皮源性的“癌”和间质源性的“肉瘤”。在恶性肿瘤中，这一些增生的细胞，除了会集结成为肿块，还会扩散至其他部位增生。
+肿瘤细胞与正常细胞相比，有结构、功能和代谢的异常，它们具有超过正常的增生能力，这种增生和机体不相协调。非肿瘤性增生和肿瘤性增生不同，前者常有明显的刺激性因素，且增生限于一定的程度和时间，一旦此因素消除，即不再增生，但如超越一定的限度，发生质变，则也可变为肿瘤性增生。
+
+
+
+目录
+
+
+1 病因
+2 扩散
+3 治疗
+4 分期
+5 參看
+6 參考資料
+7 外部連結
+8 参考文献
+
+
+
+病因[编辑]
+
+15%的人类肿瘤是病毒引起的，比较明确的有乙肝病毒与原发性肝癌，人乳头瘤病毒与宫颈癌等。一般分为DNA、RNA肿瘤病毒；病毒还可通过整合其DNA、RNA到宿主细胞的DNA上发挥作用，使细胞恶化。
+核工业、核医学等人为使用的核素大大的增加了电离辐射的强度。
+长期接触煤烟、煤焦油、沥青等多环芳烃类致癌物质；作为合成染料中间体，作为润滑油的抗氧化剂等的芳香胺类具致癌性。人体的炎症、氧化应激反应、营养或激素失调、反复的组织损伤等，也可产生氧自由基等致癌物质。大多化学致癌物可形成亲电子的衍生物，极易与亲核的DNA反应，导致基因突变，诱发癌变。
+大约3%的恶性肿瘤是遗传的，遗传获得基因突变，导致、加速癌变的发生。
+
+扩散[编辑]
+当实体瘤发展到一定程度时，瘤细胞粘附力降低，瘤细胞易脱离瘤体；相反瘤细胞与周围基质、细胞粘附增强。当瘤细胞伸出伪足与靶细胞接触后，开始向细胞间隙运动。
+
+瘤细胞侵袭血管壁，破坏基底膜进入血管腔，存活的瘤细胞运行到适宜部位，与血管内皮细胞、基底膜粘附；释放降解酶，溶解基底膜，穿出与实质器官细胞粘附，增殖形成与原发部位相同的继发瘤。
+瘤细胞从输入淋巴管进入淋巴结的边缘窦，滞留或继续向前运动，穿出进入其他淋巴结。一旦瘤细胞在边缘窦与窦内皮细胞作用后，增殖形成继发瘤，继续向中间窦、髓窦发展，占据整个淋巴结。
+
+治疗[编辑]
+良性肿瘤、癌症早期一般以手术切除为主；生长在特殊部位的肿瘤（如垂体瘤），可放射治疗；除原发肿瘤外，应将淋巴结一并切除；癌症合并手术、放疗、化疗，效果较好。骨肉瘤、小细胞肺癌等扩散明显的肿瘤，应先化疗，后手术。化疗对绒毛膜癌、睾丸肿瘤、恶性淋巴瘤等，已取得高治愈率；但是化疗对肿瘤细胞选择作用不强、全身用毒性较大。
+分期[编辑]
+癌症分期與其期程特徵大致上可由下表表示：
+
+
+第一期癌症
+腫瘤較小且尚未擴散/轉移（癌細胞可被定位，不需借助循環全身的化學藥物治療）
+
+
+第二期癌症
+腫瘤較大但尚未擴散（癌細胞尚可被定位，可能不需借助循環全身的化學藥物治療）
+
+
+第三期癌症
+不斷增生的癌細胞撐破腫瘤，癌細胞因而擴散至腫瘤周遭的組織及鄰近的淋巴結甚至更遠處。此時癌細胞流竄於原始病灶附近，必需借助循環全身的化學治療藥物治療。
+
+
+第四期癌症
+癌細胞擴散至距離原始腫瘤遙遠的器官及組織。此時癌細胞流竄於全身，必需借助循環全身的化學治療藥物治療。安寧照護將是治療選項之一。
+
+
+註解：癌細胞將於所到之處繼續失控的繁殖。舉例：若肺癌細胞擴散到肝臟，則肝臟將出現不斷增生的肺部細胞（不具肺功能），且此細胞具有入侵正常肝臟細胞的能力，導致肝功能不斷降低；不具入侵能力但失控繁殖的細胞，稱為良性腫瘤。 [3]
+參看[编辑]
+
+ICD-10 第二章：腫瘤
+International Classification of Diseases for Oncology（英语：International Classification of Diseases for Oncology）
+褐藻素
+消化系統的息肉
+
+參考資料[编辑]
+
+
+^ Cooper GM. Elements of human cancer. Boston: Jones and Bartlett Publishers. 1992: 16. ISBN 978-0-86720-191-8. 
+^ Taylor, Elizabeth J. Dorland's Illustrated medical dictionary. 29th. Philadelphia: Saunders. 2000: 1184. ISBN 0721662544. 
+^ Type, Cancer. incidence, survival, mortality. Cancer Research UK. 2015-01-16 [2017-05-10]. 
+
+
+外部連結[编辑]
+参考文献[编辑]
+
+
+生物主题
+医学主题
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+医学：病理学
+
+
+
+
+
+
+病理學原理
+
+
+
+疾病
+
+感染
+贅生物
+病原學
+發病機制（英语：Pathogenesis）
+
+
+血流動力學（英语：Hemodynamics）
+
+缺血
+
+
+炎症
+細胞損傷（英语：Cell damage）
+傷口癒合
+
+
+細胞適應（英语：Cellular adaptation）(代償性變化)
+萎縮
+肥大
+增生
+異型增生(發育異常)
+組織化生（英语：Metaplasia）
+
+鱗狀上皮化生（英语：Squamous metaplasia）
+腺性化生（英语：Glandular metaplasia）
+
+
+
+
+细胞死亡
+壞死
+
+凝固性壞死（英语：Coagulative necrosis）
+液化性壞死（英语：Liquefactive necrosis）
+壞疽性壞死
+乾酪樣壞死（英语：Caseous necrosis）
+脂肪性壞死（英语：Fat necrosis）
+纖維素樣壞死（英语：Fibrinoid necrosis）
+
+
+细胞程序性死亡
+
+细胞凋亡
+
+
+固缩
+核碎裂
+核溶解
+
+
+積累性
+色素
+
+含鐵血黃素（英语：Hemosiderin）
+脂色素（英语：Lipochrome）/脂褐素
+黑色素
+
+
+脂肪變性（英语：Steatosis）(皮脂腺病)
+
+
+
+
+
+
+
+
+病理解剖學（英语：Anatomical pathology）
+
+
+
+外科病理學（英语：Surgical pathology）
+細胞病理學（英语：Cytopathology）
+驗屍
+分子病理學（英语：Molecular pathology）
+法醫病理學
+口腔頜面病理學（英语：Oral and maxillofacial pathology）
+
+
+肉眼檢查（英语：Gross examination）
+組織病理學（英语：Histopathology）
+免疫組織化學
+电子显微镜
+熒光免疫檢驗法（英语：Immunofluorescence）(免疫螢光法)
+熒光原位雜交(FISH)
+
+
+
+
+
+
+
+
+臨床病理學（英语：Clinical pathology）
+
+
+
+临床化学
+血液病理學（英语：Hematopathology）
+輸血醫學（英语：Transfusion medicine）
+醫學微生物學
+免疫診斷學（英语：Immunoassay）
+免疫病理學（英语：Immunopathology）
+
+
+酶活性分析（英语：Enzyme assay）(酶測定)
+质谱法
+色谱法
+流式細胞術
+血庫（英语：Blood bank）(血液銀行)
+微生物培養鑑定（英语：Microbiological culture）
+血清学
+
+
+
+
+
+
+
+
+特殊情況
+
+
+
+心肌梗死病理時間軸（英语：Timeline of myocardial infarction pathology）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+肿瘤、癌症和肿瘤学（C00–D48, 140–239）
+
+
+
+
+
+
+腫瘤狀況
+
+
+
+
+良性肿瘤
+
+
+
+增生
+囊腫
+假性囊肿（英语：Pseudocyst）
+错构瘤（英语：Hamartoma）
+
+
+
+
+
+
+
+
+惡性進展
+
+
+
+发育异常
+原位癌
+癌症
+遠端轉移
+
+
+
+
+
+
+
+
+分布位置
+
+
+
+头颈癌（口腔癌、鼻咽癌）
+消化系统肿瘤
+呼吸道肿瘤
+骨肿瘤（英语：Bone tumor）
+皮肤癌
+白血病
+泌尿生殖肿瘤
+神经系统肿瘤（英语：Nervous system neoplasm）
+内分泌腺肿瘤（英语：Endocrine gland neoplasm）
+
+
+
+
+
+
+
+
+组织学
+
+
+
+癌
+肉瘤
+胚细胞瘤（英语：Blastoma）
+乳头状瘤（英语：Papilloma）
+腺瘤
+
+
+
+
+
+
+
+
+其他
+
+
+
+癌前症状（英语：Precancerous condition）
+腫瘤伴隨症候群
+
+
+
+
+
+
+
+
+
+
+
+癌症分期/级别
+
+
+
+TNM（英语：TNM staging system）
+安娜堡分期系统（英语：Ann Arbor staging）
+前列腺癌分期（英语：Prostate cancer staging）
+格里森分级系统（英语：Gleason Grading System）
+杜克斯分类法
+
+
+
+
+
+
+
+
+癌变
+
+
+
+癌细胞
+致癌物質
+肿瘤抑制基因/癌基因
+无性系传染性癌症（英语：Clonally transmissible cancer）
+致癌病毒（英语：Oncovirus）
+癌症细菌（英语：Cancer bacteria）
+
+
+
+
+
+
+
+
+其他
+
+
+
+癌症研究（英语：Cancer research）
+肿瘤学相关名称列表（英语：List of oncology-related terms）
+癌症历史（英语：History of cancer）
+癌症疼痛（英语：Cancer pain）
+癌症恶心（英语：Cancer and nausea）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+医学导航: 肿瘤
+
+
+
+
+基因/标志
+
+
+
+
+肿瘤/同名/附瘤
+
+
+
+
+药物 (L1i/1e/V03)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+致癌物質
+
+
+
+
+
+
+
+
+
+癌症
+癌細胞
+
+
+
+
+
+
+
+
+顯著對人類致癌的物質
+
+
+
+乙醛
+砷
+石棉
+细菌
+
+幽門螺桿菌
+
+
+苯並［a］芘
+酚甲烷
+丁二烯
+己烯雌酚
+甲醛
+游離輻射
+煙草
+紫外线
+病毒
+
+人類疱疹病毒第四型
+乙型肝炎病毒
+C型肝炎
+人類乳突病毒
+
+
+
+
+
+
+
+
+
+
+国际癌症研究机构的致癌物列表
+
+
+
+1类致癌物
+2A类致癌物
+2B類致癌物
+3類致癌物（英语：List of IARC Group 3 carcinogens）
+己内酰胺（第4类）
+
+
+
+
+
+
+
+
+
+
+
+
+#世卫基本药物（WHO-EM）
+‡从市场撤回
+臨床試驗：
+
+†第三階段
+§未到第三階段
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+医学：病理学
+
+
+
+
+
+
+病理學原理
+
+
+
+疾病
+
+感染
+贅生物
+病原學
+發病機制（英语：Pathogenesis）
+
+
+血流動力學（英语：Hemodynamics）
+
+缺血
+
+
+炎症
+細胞損傷（英语：Cell damage）
+傷口癒合
+
+
+細胞適應（英语：Cellular adaptation）(代償性變化)
+萎縮
+肥大
+增生
+異型增生(發育異常)
+組織化生（英语：Metaplasia）
+
+鱗狀上皮化生（英语：Squamous metaplasia）
+腺性化生（英语：Glandular metaplasia）
+
+
+
+
+细胞死亡
+壞死
+
+凝固性壞死（英语：Coagulative necrosis）
+液化性壞死（英语：Liquefactive necrosis）
+壞疽性壞死
+乾酪樣壞死（英语：Caseous necrosis）
+脂肪性壞死（英语：Fat necrosis）
+纖維素樣壞死（英语：Fibrinoid necrosis）
+
+
+细胞程序性死亡
+
+细胞凋亡
+
+
+固缩
+核碎裂
+核溶解
+
+
+積累性
+色素
+
+含鐵血黃素（英语：Hemosiderin）
+脂色素（英语：Lipochrome）/脂褐素
+黑色素
+
+
+脂肪變性（英语：Steatosis）(皮脂腺病)
+
+
+
+
+
+
+
+
+病理解剖學（英语：Anatomical pathology）
+
+
+
+外科病理學（英语：Surgical pathology）
+細胞病理學（英语：Cytopathology）
+驗屍
+分子病理學（英语：Molecular pathology）
+法醫病理學
+口腔頜面病理學（英语：Oral and maxillofacial pathology）
+
+
+肉眼檢查（英语：Gross examination）
+組織病理學（英语：Histopathology）
+免疫組織化學
+电子显微镜
+熒光免疫檢驗法（英语：Immunofluorescence）(免疫螢光法)
+熒光原位雜交(FISH)
+
+
+
+
+
+
+
+
+臨床病理學（英语：Clinical pathology）
+
+
+
+临床化学
+血液病理學（英语：Hematopathology）
+輸血醫學（英语：Transfusion medicine）
+醫學微生物學
+免疫診斷學（英语：Immunoassay）
+免疫病理學（英语：Immunopathology）
+
+
+酶活性分析（英语：Enzyme assay）(酶測定)
+质谱法
+色谱法
+流式細胞術
+血庫（英语：Blood bank）(血液銀行)
+微生物培養鑑定（英语：Microbiological culture）
+血清学
+
+
+
+
+
+
+
+
+特殊情況
+
+
+
+心肌梗死病理時間軸（英语：Timeline of myocardial infarction pathology）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+腫瘤：內分泌腺腫瘤(C73–C75/D34–D35、193–194/226–227（英语：List of ICD-9 codes 140–239: neoplasms#Malignant neoplasm of other and unspecified sites (190–199)）)
+
+
+
+
+
+
+胰脏
+
+
+
+胰腺癌
+胰腺神經內分泌腫瘤(PanNETs,)
+α: 胰高血糖素瘤
+β: 胰島素瘤
+δ: 生長抑素瘤
+G: 胃泌素瘤
+血管活性腸肽瘤
+
+
+
+
+
+
+
+
+垂體疾病
+
+
+
+垂體腺瘤：泌乳素瘤
+垂體促腎上腺皮質激素腺瘤
+肢端肥大症
+颅咽管瘤
+垂體細胞瘤
+
+
+
+
+
+
+
+
+甲狀腺腫瘤
+
+
+
+甲狀腺癌(惡性)：甲狀腺濾泡細胞 腫瘤
+
+乳突性甲狀腺癌
+濾泡性甲狀腺癌/何氏細胞(嗜酸性濾泡細胞)
+
+
+濾泡旁細胞
+
+甲狀腺髓質癌(MTC)
+
+
+甲狀腺未分化癌(ATC)
+甲狀腺淋巴瘤
+甲狀腺鱗狀細胞癌(SCTC)
+良性
+
+甲狀腺腺瘤
+卵巢甲状腺瘤
+
+
+
+
+
+
+
+
+
+
+腎上腺腫瘤
+
+
+
+腎上腺皮質
+
+腎上腺皮質腺瘤
+腎上腺皮質癌(ACC)
+
+
+腎上腺髓質
+
+腎上腺嗜鉻細胞瘤(PCC)
+成神經細胞瘤(NB)
+
+
+副神經節瘤
+
+
+
+
+
+
+
+
+副甲狀腺
+
+
+
+甲狀腺瘤
+甲狀旁腺腺瘤
+甲狀旁腺腺癌
+
+
+
+
+
+
+
+
+松果體
+
+
+
+松果體瘤
+成松果體細胞瘤
+松果體細胞瘤
+
+
+
+
+
+
+
+
+MEN
+
+
+
+1(MEN-1)
+2A(MEN2)
+2B(MEN2B)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+病理学：醫療條件和ICD碼
+
+
+
+
+
+
+
+（疾病 / 失調 / 症候群 / 序列、症狀 / 醫學徵象、創傷等）
+
+
+
+
+
+
+（A/B, 001–139）
+
+
+
+傳染病/感染：細菌性疾病
+
+G+
+G-
+
+
+病毒性疾病（英语：Viral disease）
+寄生虫病
+
+原虫传染（英语：Protozoan infection）
+蠕虫病（英语：Helminthiasis）
+外寄生虫感染（英语：Ectoparasitic infestation）
+
+
+真菌病
+人畜共通傳染病
+
+
+
+
+
+
+
+
+（C/D,
+140–239 &
+279–289）
+
+
+
+
+癌症（C00–D48, 140–239）
+
+
+
+肿瘤
+
+
+
+
+
+
+
+
+髓血液病（D50–D77, 280–289）
+
+
+
+贫血
+凝血病（英语：Coagulopathy）
+
+
+
+
+
+
+
+
+淋巴免疫 (D80–D89, 279)
+
+
+
+免疫缺陷
+免疫增生性紊乱（英语：Immunoproliferative disorder）
+超敏反應
+
+
+
+
+
+
+
+
+
+
+
+（E, 240–278）
+
+
+
+内分泌疾病（英语：Endocrine disease）
+营养失调
+遗传性代谢缺陷
+
+
+
+
+
+
+
+
+（F, 290–319）
+
+
+
+精神病
+
+
+
+
+
+
+
+
+（G, 320–359）
+
+
+
+神经系统疾病（英语：Nervous system disease）
+
+CNS（英语：Central nervous system disease）
+PNS
+
+
+神经肌肉疾病（英语：Neuromuscular disease）
+
+
+
+
+
+
+
+
+（H, 360–389）
+
+
+
+眼部疾病（英语：Eye disease）
+耳部疾病（英语：Ear disease）
+
+
+
+
+
+
+
+
+（I, 390–459）
+
+
+
+心血管疾病
+
+心臟疾病
+血管疾病（英语：Vascular disease）
+
+
+
+
+
+
+
+
+
+
+（J, 460–519）
+
+
+
+呼吸系统疾病
+
+阻塞性肺病（英语：Obstructive lung disease）
+限制性肺病（英语：Restrictive lung disease）
+肺炎
+
+
+
+
+
+
+
+
+
+
+（K, 520–579）
+
+
+
+Oral and maxillofacial pathology
+
+Tooth disease
+salivary gland disease
+tongue disease
+
+
+Digestive disease
+
+Esophageal
+Stomach
+Enteropathy
+Liver
+Pancreatic
+
+
+
+
+
+
+
+
+
+
+（L, 680–709）
+
+
+
+皮膚狀況
+skin appendages
+
+Nail disease
+Hair disease
+汗腺疾病
+
+
+
+
+
+
+
+
+
+
+（M, 710–739）
+
+
+
+Musculoskeletal disorders: Myopathy
+Arthropathy
+Osteochondropathy
+
+Osteopathy
+Chondropathy
+
+
+
+
+
+
+
+
+
+
+（N, 580–629）
+
+
+
+Urologic disease
+
+腎病變
+Urinary bladder disease
+
+
+Male genital disease
+Breast disease
+Female genital disease
+
+
+
+
+
+
+
+
+（O, 630–679）
+
+
+
+Complications of pregnancy
+Obstetric labor complication
+Puerperal disorder
+
+
+
+
+
+
+
+
+（P, 760–779）
+
+
+
+Fetal disease
+
+
+
+
+
+
+
+
+（Q, 740–759）
+
+
+
+Congenital disorder
+
+Congenital abnormality
+
+
+
+
+
+
+
+
+
+
+（R, 780–799）
+
+
+
+症候群
+醫學徵象
+
+Eponymous
+
+
+
+
+
+
+
+
+
+
+（S/T, 800–999）
+
+
+
+骨折
+脫臼
+Sprain
+Strain
+Subluxation
+頭部外傷
+胸部创伤（英语：Chest trauma）
+毒物
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+肿瘤：消化系统肿瘤形成（C15–C26/D12–D13，150–159/211）
+
+
+
+
+
+
+消化道
+
+
+
+
+上消化道
+
+
+
+
+食道
+
+
+
+鳞状细胞癌
+腺癌（英语：Adenocarcinoma）
+
+
+
+
+
+
+
+
+胃
+
+
+
+胃癌
+印戒细胞癌(SRCC)
+胃淋巴瘤（英语：Gastric lymphoma）
+
+MALT淋巴瘤（英语：MALT lymphoma）
+
+
+革囊胃
+
+
+
+
+
+
+
+
+
+
+
+下消化道
+
+
+
+
+小肠
+
+
+
+十二指肠癌（英语：Duodenal cancer）
+
+腺癌（英语：Adenocarcinoma）
+
+
+
+
+
+
+
+
+
+
+阑尾（英语：Appendix cancer）
+
+
+
+类癌
+腹膜假性粘液瘤（英语：Pseudomyxoma peritonei）
+
+
+
+
+
+
+
+
+结肠/直肠
+
+
+
+大肠息肉（英语：colorectal polyp）： 珀茨－杰格斯综合征
+幼年性息肉病综合征（英语：Juvenile polyposis syndrome）
+家族性腺瘤性息肉病（英语：Familial adenomatous polyposis）/Gardner综合征（英语：Gardner's syndrome）
+Cronkhite–Canada综合征（英语：Cronkhite–Canada syndrome）
+
+
+肿瘤：腺癌（英语：Adenocarcinoma）
+家族性腺瘤性息肉病（英语：Familial adenomatous polyposis）
+遗传性非息肉病性大肠癌（英语：Hereditary nonpolyposis colorectal cancer）
+
+
+
+
+
+
+
+
+肛门
+
+
+
+鳞状细胞癌
+
+
+
+
+
+
+
+
+
+
+
+上 及/或 下消化道
+
+
+
+胃腸道基質腫瘤
+Krukenberg肿瘤 (转移性)
+
+
+
+
+
+
+
+
+
+
+
+附属消化腺
+
+
+
+
+肝
+
+
+
+恶性（英语：malignant）：原发性肝细胞癌
+
+纤维板层样（英语：Fibrolamellar hepatocellular carcinoma）
+
+
+肝母细胞瘤（英语：Hepatoblastoma）
+
+
+良性：肝细胞腺瘤（英语：Hepatocellular adenoma）
+海绵状血管瘤（英语：Cavernous hemangioma）
+
+
+增生：局灶性结节性增生（英语：Focal nodular hyperplasia）
+结节性再生性增生（英语：Nodular regenerative hyperplasia）
+
+
+
+
+
+
+
+
+胆道
+
+
+
+膽管：胆管癌
+Klatskin瘤（英语：Klatskin tumor）
+
+
+胆囊：膽癌
+
+
+
+
+
+
+
+
+胰腺
+
+
+
+外分泌腺：腺癌（英语：腺癌）
+胰腺癌
+
+
+囊性肿瘤: 浆液性微囊性腺癌（英语：Serous microcystic adenoma）
+胰腺导管内乳头状黏液肿瘤（英语：Intraductal papillary mucinous neoplasm）
+粘液性囊性肿瘤（英语：pancreatic mucinous cystic neoplasm）
+胰腺实性假乳头状肿瘤（英语：Solid pseudopapillary neoplasm）
+
+
+胰母细胞瘤（英语：Pancreatoblastoma）
+
+
+
+
+
+
+
+
+
+
+
+腹腔
+
+
+
+原发性腹膜癌（英语：Primary peritoneal carcinoma）
+腹膜间皮瘤（英语：Peritoneal mesothelioma）
+促纤维增生性小圆细胞瘤（英语：Desmoplastic small round cell tumor）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+消化系統索引
+
+
+
+
+
+
+描述
+
+
+
+解剖
+
+消化道
+消化腺
+其他
+
+
+生理
+
+酵素
+
+
+發育
+
+
+
+
+
+
+
+
+疾病
+
+
+
+先天
+腫瘤
+腸炎（英语：Template:Crohn's disease and ulcerative colitis）
+穀蛋白過敏（英语：Template:Gluten sensitivity）
+其他
+症狀
+
+齊名（英语：Template:Eponymous medical signs for digestive system and general abdominal signs）
+
+
+血檢
+
+
+
+
+
+
+
+
+治療
+
+
+
+治療過程
+藥物
+
+合成代谢类固醇
+抗酸药
+腹瀉及感染
+肝胆病治療
+功能性胃腸疾病
+轻泻药
+消化道潰瘍和胃食管反流病治療
+止吐
+其他
+
+
+手術
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：需要更多醫學可靠來源的條目肿瘤学病理学隐藏分类：所有還需要參考資料的條目自2017年5月扩充中的条目擁有貢獻者連結的條目

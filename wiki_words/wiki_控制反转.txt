@@ -1,0 +1,334 @@
+控制反转
+
+
+
+
+
+本条目部分链接不符合格式手冊規範。跨語言链接及章節標題等處的链接可能需要清理。（2016年10月31日） 
+請協助改善此條目。參見WP:LINKSTYLE、WP:MOSIW以了解細節。突出显示跨语言链接可以便于检查。 
+
+
+
+
+
+
+
+控制反转（Inversion of Control，缩写为IoC），是面向对象编程中的一种设计原则，可以用来减低计算机代码之间的耦合度。其中最常见的方式叫做依赖注入（Dependency Injection，简称DI），还有一种方式叫“依赖查找”（Dependency Lookup）。通过控制反转，对象在被创建的时候，由一个调控系统内所有对象的外界实体，将其所依赖的对象的引用传递给它。也可以说，依赖被注入到对象中。
+
+
+
+目录
+
+
+1 起源
+2 技术描述
+3 实现方法
+
+3.1 依赖注入
+3.2 依赖查找
+
+
+4 控制反转应用实例
+
+4.1 C++
+4.2 Java
+4.3 .NET
+4.4 PHP
+
+
+5 参考文档
+6 外部链接
+7 參考文獻
+
+
+
+起源[编辑]
+早在2004年，Martin Fowler就提出了“哪些方面的控制被反转了？”这个问题。他总结出是依赖对象的获得被反转了，因为大多数应用程序都是由两个或是更多的类通过彼此的合作来实现企業逻辑，这使得每个对象都需要获取与其合作的对象（也就是它所依赖的对象）的引用。如果这个获取过程要靠自身实现，那么这将导致代码高度耦合并且难以维护和调试。
+技术描述[编辑]
+Class A中用到了Class B的对象b，一般情况下，需要在A的代码中显式的new一个B的对象。
+采用依赖注入技术之后，A的代码只需要定义一个私有的B对象，不需要直接new来获得这个对象，而是通过相关的容器控制程序来将B对象在外部new出来并注入到A类里的引用中。而具体获取的方法、对象被获取时的状态由配置文件（如XML）来指定。
+实现方法[编辑]
+实现控制反转主要有两种方式：依赖注入和依赖查找。两者的区别在于，前者是被动的接收对象，在类A的实例创建过程中即创建了依赖的B对象，通过类型或名称来判断将不同的对象注入到不同的属性中，而后者是主动索取相应类型的对象，获得依赖对象的时间也可以在代码中自由控制。
+依赖注入[编辑]
+依赖注入有如下实现方式：
+
+基于接口。实现特定接口以供外部容器注入所依赖类型的对象。
+基于 set 方法。实现特定属性的public set方法，来让外部容器调用传入所依赖类型的对象。
+基於构造函数。实现特定参数的构造函数，在新建对象时传入所依赖类型的对象。
+基于注解。基于Java的注解功能，在私有变量前加“@Autowired”等注解，不需要显式的定义以上三种代码，便可以让外部容器传入对应的对象。该方案相当于定义了public的set方法，但是因为没有真正的set方法，从而不会为了实现依赖注入导致暴露了不该暴露的接口（因为set方法只想让容器访问来注入而并不希望其他依赖此类的对象访问）。
+
+依赖查找[编辑]
+依赖查找更加主动，在需要的时候通过调用框架提供的方法来获取对象，获取时需要提供相关的配置文件路径、key等信息来确定获取对象的状态
+控制反转应用实例[编辑]
+C++[编辑]
+
+PocoCapsule IoC and DSM framework LGPL开源的，支持完全非侵入C++的控制反转（IoC）及领域特定建模（DSM）容器
+hypodermic MIT开源协议，Hypodermic是一个基于C++11开发的控制反转（IoC）容器，它为你的C++对象协作提供依赖注入。Hypodermic灵感来自著名的.NET IoC项目Autofac。
+
+Java[编辑]
+使用Java語言寫成的程式在控制反轉容器（Inversion of Control Container）裡應用了控制反轉(Martin 2004)。軟體需要一個來自容器的物件，而容器自行建構物件和它的附屬物。ATG 的 Dynamo 應用程式伺服器是第一個利用這途徑的環境之一，近來關於這些容器的例子包含了 HiveMind、PicoContainer[失效連結]、Spring Framework（注意 Spring 是一個完整的企業平台，而非 IOC容器）、Apache Excalibur、Seasar 和 DPML Metro.
+.NET[编辑]
+
+Ninject
+Spring.NET
+ObjectBuilder
+Structuremap
+CastleProject
+Seasar
+
+PHP[编辑]
+
+Phalcon PHP 框架中应用了依赖注入：DI in Phalcon
+
+参考文档[编辑]
+
+^ Robert Cecil Martin. Agile Software Development: Principles, Patterns and Practices. Pearson Education. 2002. ISBN 978-0-13-597444-5. 
+^ Robert Cecil Martin. The Dependency Inversion Principle (PDF). [2005-11-15]. （原始内容 (PDF)存档于2004-12-21）. 
+^ Martin Fowler. Inversion of Control Containers and the Dependency Injection Pattern. 2004 [2005-11-15]. 
+^ Sony Mathew. Examining the Validity of Inversion of Control. 2005 [2005-11-16]. 
+^ Ke Jin. Domain Specific Modeling (DSM) in IoC frameworks. 2007 [2007-11-13]. 
+
+外部链接[编辑]
+
+Another description of IOC
+A list of "Open Source Inversion of Control Containers"
+A simple demo of Inversion of Control (using Spring framework)
+Inversion of Control Containers and the Dependency Injection pattern by Martin Fowler
+Needle, a dependency injection (inversion of control) container for Ruby
+Drip IoC, a dependency injection (inversion of control) container for PHP4
+PyContainer, a dependency injection (inversion of control) container for Python
+Qt Ioc Container, a dependency injection (inversion of control) container for C++
+Introducing Castle, explains the problems that Inversion of control containers try to solve (using Castle Project)
+PocoCapsule An open source IoC and DSM framework for C++
+Domain Specific Modeling (DSM) in IoC frameworks
+
+參考文獻[编辑]
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+软件设计模式
+
+
+
+
+
+
+“四人帮”设计模式
+
+
+
+
+
+创建型
+
+
+
+
+抽象工厂
+生成器
+工厂方法
+原型
+单例
+
+
+
+
+
+
+
+
+
+结构型
+
+
+
+
+适配器
+桥接
+Composite（英语：Composite pattern）
+修饰
+外观
+享元
+代理
+
+
+
+
+
+
+
+
+
+行为型
+
+
+
+
+责任链
+命令
+Interpreter（英语：Interpreter pattern）
+迭代器
+Mediator（英语：Mediator pattern）
+Memento（英语：Memento pattern）
+观察者
+State（英语：State pattern）
+策略
+模板方法
+访问者
+
+
+
+
+
+
+
+
+
+
+
+并行模式
+
+
+
+Active object（英语：Active object）
+Balking（英语：Balking pattern）
+Binding properties（英语：Binding properties pattern）
+双重检查锁定模式
+异步方法调用
+Guarded suspension（英语：Guarded suspension）
+Join（英语：Join-pattern）
+锁
+监视器
+Proactor（英语：Proactor pattern）
+反应器
+读写锁
+调度
+线程池
+Thread-local storage（英语：Thread-local storage）
+
+
+
+
+
+
+
+
+架构模式
+
+
+
+Front controller（英语：Front controller）
+Interceptor（英语：Interceptor pattern）
+MVC
+n-tier（英语：Multitier architecture）
+Specification（英语：Specification pattern）
+发布/订阅
+Naked objects（英语：Naked objects）
+Service locator（英语：Service locator pattern）
+Active Record
+Identity map（英语：Identity map pattern）
+DAO
+Data transfer object（英语：Data transfer object）
+ADR（英语：Action–Domain–Responder）
+控制反转
+
+
+
+
+
+
+
+
+其他模式
+
+
+
+Blackboard（英语：Blackboard design pattern）
+Business delegate（英语：Business delegate pattern）
+Composite entity（英语：Composite entity pattern）
+依赖注入
+Intercepting filter（英语：Intercepting filter pattern）
+惰性载入
+模拟对象
+空对象
+对象池
+Servant（英语：Servant (design pattern)）
+Twin（英语：Twin pattern）
+Type tunnel（英语：Type Tunnel pattern）
+Method chaining（英语：Method chaining）
+
+
+
+
+
+
+
+
+书籍
+
+
+
+设计模式：可复用面向对象软件的基础
+企业集成模式（英语：Enterprise Integration Patterns）
+
+
+
+
+
+
+
+
+人物
+
+
+
+克里斯托佛·亚历山大
+埃里希·伽瑪
+Ralph Johnson（英语：Ralph Johnson (computer scientist)）
+John Vlissides（英语：John Vlissides）
+葛來迪·布區
+肯特·貝克
+沃德·坎宁安
+马丁·福勒
+Robert Martin（英语：Robert Cecil Martin）
+Jim Coplien（英语：Jim Coplien）
+Douglas Schmidt（英语：Douglas C. Schmidt）
+Linda Rising（英语：Linda Rising）
+
+
+
+
+
+
+
+
+社区
+
+
+
+The Hillside Group（英语：The Hillside Group）
+The Portland Pattern Repository（英语：Portland Pattern Repository）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：软件设计模式面向对象的程序设计基于组件的软件工程隐藏分类：自2016年10月連結格式不正確的條目带有失效链接的条目条目有永久失效的外部链接使用ISBN魔术链接的页面

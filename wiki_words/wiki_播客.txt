@@ -1,0 +1,337 @@
+播客
+
+
+
+
+
+
+
+
+
+數碼音訊播放器正播放「Serial（英语：Serial (podcast)）」播客
+
+
+
+
+
+
+經iTunes訂閱播客，並在播客發佈後收聽（反播）
+
+
+
+
+互联网
+
+
+
+Opte项目（英语：Opte Project）互联网一部分的路由路径可视化
+
+
+
+
+
+概况
+
+
+
+存取
+审查
+民主
+数位落差
+数字权利
+信息自由
+互联网历史
+网络爆红
+网络中立性
+先驱者（英语：List of Internet pioneers）
+隐私
+社会学
+使用
+
+
+
+
+
+
+
+
+
+治理（英语：Internet governance）
+
+
+
+互联网名称与数字地址分配机构 (ICANN)
+
+互联网工程任务组
+
+互联网治理论坛（英语：Internet Governance Forum） (IGF)
+互联网协会(ISOC)
+
+
+
+
+
+
+
+
+
+协议
+
+
+
+域名系统(DNS)
+超文本传输协议(HTTP)
+互联网交换点（英语：Internet exchange point）(IXP)
+网际协议(IP)
+TCP/IP协议族(IPS)
+互联网服务供应商(ISP)
+IP地址
+IMAP
+简单邮件传输协议(SMTP)
+
+
+
+
+
+
+
+
+
+服务
+
+
+
+網誌(Blog)
+
+微博
+
+
+电子邮件(Email)
+传真
+文件共享
+文件传输（英语：File transfer）
+游戏
+即時通訊
+播客(Podcast)
+购物
+电视
+網際協議通話技術(VoIP)
+万维网
+
+搜索
+
+
+
+
+
+
+
+
+
+
+
+指南
+
+
+
+ 书
+ 索引（英语：Index of Internet-related articles）
+纲要（英语：Outline of the Internet）
+
+
+
+
+
+
+
+ 互联网主题
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+播客（台灣和香港[1]直接稱為「Podcasting」）是一種數碼媒體，指一系列的音訊、影片、電子電台（英语：digital radio）或文字檔以列表形式經互聯網發佈，然後聽眾經由電子裝置訂閱該列表以下載或串流當中的電子檔案，從而接收內容[2]。英語「Podcast」一詞是「iPod」和「broadcast」（廣播）的混成詞。由於英文中的Podcast、Podcaster（播客錄製者）及Podcasting等詞語相關，所以在中文中被統稱為「播客」。
+播客的分發者在他們的伺服器中把一系列的音訊檔或影片檔在RSS消息來源列出，或把新的集數放進列表中。然後，聽眾或觀眾則透過客戶端軟件存取該列表檢查更新，以下載系列中新的集數收聽。下載後的媒體檔則儲存在用戶的電腦或其他裝置內，以便在離線時聆聽或觀看[3][4]，與在線收聽或收看的網上直播或串流不同。
+名稱[编辑]
+英語「Podcast」一詞是「iPod」和「broadcast」（廣播）的混成詞[5]，但播客可以於任何可播放多媒體檔案電腦播出，而非限於數碼音訊播放器。「Podcast」一詞的使用在iPod或iTunes支援播客前已有使用[6]。
+其他用作稱呼播客的名稱包括「net cast」，以除去名稱中與蘋果iPod的關連。TWiT.tv網絡中的播客均使用此名稱。[7]
+參考資料[编辑]
+
+
+^ Podcasts. 香港電台. [2016-05-03]. 
+^ Podcast - Definition and More from the Free Merriam-Webster Dictionary. Merriam-webster.com. 2012-08-31 [2014-06-29]. 
+^ Podcast Production. President and Fellows of Harvard College. [2009-08-21]. （原始内容存档于2012-07-10）. episodes of a particular podcast 
+^ Podcast Production. apollopodcast.com. [2011-10-24]. 
+^ Oxford Dictionaries Online — podcast. oxforddictionaries.com. [2013-02-24]. 
+^ Apple adds podcasting to iTunes. BBC News. 28 June 2005. 
+^ The Official TWiT Wiki. 
+
+
+外部链接[编辑]
+
+
+
+
+ 維基教科書中有關Podcasting的文本
+ 維基詞典中與podcast有關的條目
+ 維基共享資源中有關播客的多媒體資源
+
+
+
+
+Apple中国：播客（简体中文）
+Apple台灣：podcasting（繁体中文）
+Chinese Podcasts：List of Chinese Podcasts（英文）
+Apple香港：Podcasting（繁体中文）
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+媒體播放器
+
+
+
+
+
+
+Windows
+
+
+
+
+商用
+
+Connect Player · CD 播放程式 · CrystalPlayer · Daum PotPlayer · DBpoweramp · Dell MediaDirect · DVD Player · High Definition Compatible Digital · Iriver plus 3 · Media Center · Media Player · PowerDVD · Adobe Shockwave · SonicStage · Sonique · The Core Media Player · The KMPlayer · TTPlayer · WinDVD · WinPlay3 · Winamp · Windows Media Center · Windows Media Player · Yahoo! Music Jukebox · Zune
+
+
+
+
+
+
+非商用
+
+Adobe Media Player · AIMP · ATunes · foobar2000 · GOM Player · InterActual Player · MadCat Media Browser · Media Go · Media Player Classic（MPC-HC） · MediaMonkey · Mod4Win · MusicBee · Musicmatch Jukebox · QuickPlayer · Quintessential Player · SNESAmp · MusikCube · Xiph QuickTime Components ·
+
+
+
+
+
+
+
+
+
+Mac OS X
+
+
+
+
+商用
+
+Centerstage · Chroma · DVD播放程式 · Front Row · Peel · Plexapp · Adobe Shockwave · Windows Media Components for QuickTime ·
+
+
+
+
+
+
+非商用
+
+Audion · Cog · ITheater · Perian · Xiph QuickTime Components
+
+
+
+
+
+
+
+
+
+Linux
+
+Amarok · Audacious Media Player · Baudline · Beep Media Player · Cmus · Decibel Audio Player · Exaile · Gnome Music Player Client · Helix · JuK · Kaffeine · LinuxMCE · Lsongs · Miro · Mpg123 · Muine · Music Player Daemon · Music on Console · Noatun · Ogle DVD Player · Rhythmbox · Totem · Unix Amiga Delitracker Emulator · Xine · XMMS · XMMS2
+
+
+
+
+
+
+跨平台
+
+Adobe Flash Player · Banshee · Boxee · CoreAVC CorePlayer · DivX Player · Core Pocket Media Player · ffplay · ITunes · Miro · MPlayer · QuickTime · VLC多媒體播放器 · RealPlayer · SMPlayer · Songbird · Kodi · Zinf
+
+
+
+
+
+
+技術
+
+編解碼器 · 影片檔案格式 · Demultiplexer · 網絡電台 · 網絡電視 · Playlist · Media resource locator · Music visualization · Podcast · 影像编解码器 · Category:音频编解码器
+
+
+
+
+
+
+相關條目
+
+Comparison of video player software · Comparison of audio player software · Video player · HD media player · Media center · 可攜式媒體播放器
+
+
+
+
+
+
+
+媒体播放器列表
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 7527248-9
+NDL: 01086590
+
+
+
+
+
+
+
+
+
+
+
+
+分类：网络技术广播技術新詞隐藏分类：包含规范控制信息的维基百科条目

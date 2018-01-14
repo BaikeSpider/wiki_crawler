@@ -1,0 +1,1499 @@
+技术奇异点
+
+
+
+
+
+
+本條目存在以下問題，請協助改善本條目或在討論頁針對議題發表看法。
+
+
+
+
+
+
+本条目部分链接不符合格式手冊規範。跨語言链接及章節標題等處的链接可能需要清理。（2015年12月11日） 
+請協助改善此條目。參見WP:LINKSTYLE、WP:MOSIW以了解細節。突出显示跨语言链接可以便于检查。 
+
+
+
+
+
+
+
+本条目需要补充更多来源。（2012年6月12日） 
+请协助添加多方面可靠来源以改善这篇条目，无法查证的内容可能會因為异议提出而移除。 
+
+
+
+
+
+
+
+本条目可能包含原创研究或未查证内容。（2009年7月30日） 
+请协助添加参考资料以改善这篇条目。详细情况请参见讨论页。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+技术奇点（英语：Technological Singularity），又稱科技奇點，出自奇點理論，一个根据技术发展史总结出的观点，认为未来将要发生一件不可避免的事件──技术發展将会在很短的时间内发生极大而接近于无限的进步。当此轉捩點来临的时候，旧的社会模式将一去不复返，新的规则开始主宰这个世界。而后人类时代的智能和技术我们根本无法理解，就像金鱼无法理解人类的文明一样。
+一般设想技术奇异点將由超越现今人类并且可以自我进化的机器智能、或者其它形式的超级智能的出现所引发。由于其智能远超今天的人类，因此技术的发展会完全超乎全人类的理解能力，甚至无法预警其发生。
+之所以被称为奇异点，因為它是一个临界点。当我们越来越接近这个临界点，它会对人类的事物产生越来越大的影响，直到它成为人类的共识。但当它最终来临的时候，也许仍会出人意料并且难以想象。就好比物理学上引力接近无穷大时产生的黑洞的物理属性一样，已经不在一般正常模型所能预测的范围之内。
+
+
+
+目录
+
+
+1 智能与创造力的大爆炸
+2 加速度发展
+3 发生时间与可能性
+
+3.1 发生的可能途径
+3.2 来临的条件
+3.3 智能扩大的发展方向
+3.4 技术奇异点的前景——强人工智能
+3.5 可能阻止技术奇异点来临的因素
+
+
+4 数学模型的现实解释
+5 事件的意义与影响
+6 对外星人的推测
+7 关于时间
+8 已经发明的技术
+9 社团组织
+10 相关文学及影视作品
+
+10.1 文学
+10.2 電影及電視節目
+
+
+11 相關
+12 註腳
+13 參考文獻
+
+
+
+智能与创造力的大爆炸[编辑]
+
+
+“
+我们的未来不是再经历进化，而是要经历爆炸。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——瑞·库茨维尔
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+”
+
+
+最早意识到人类技术发展速度加快的是波兰数学家斯塔尼斯拉夫·乌拉姆，于1958年和计算机科学家冯·诺伊曼的一次对话中。而统计学家I.J. Good（英语：I. J. Good）于1965年提出技术奇异点的必要条件──“智能爆炸”概念：
+
+
+“
+让我们将超级智能机器定义为一种能够远远超过任何人的所有智力活动的机器。如果说设计机器是这些智力活动的一种，那么超级智能机器肯定能够设计出更加优良的机器；
+毫无疑问，随后必将出现一场“智能爆炸”，人类的智能会被远远抛在后面。因此，第一台超级智能机器是人类需要完成的最后一项发明，前提是这台机器足够听话，会告诉我们如何控制它。…… 在二十世纪之内，超级智能机器将很有可能被制造出来，而它会是人类需要进行的最后一项发明。
+
+”
+
+
+1982年，弗诺·文奇在卡内基梅隆大学召开的美国人工智能协会年会上首次提出“技术奇异点”这一概念。1993年，弗诺·文奇在美国国家航空航天局路易斯研究中心举行的一次讨论会上发表了论文《技术奇异点即将来临：后人类时代生存指南》（《The Coming Technological Singularity》）再次简述了这个观点，论文同年刊载于《全地球评论》（《Whole Earth Review》）杂志上。在这篇论文中，弗诺·文奇系统地阐述了自己的“技术奇异点”的理论，并声称超越人类智能的计算器将在50年之內问世，并把这次变化好比200万年以前人类的出现一样重大。
+1999年，美国哲學家，麻省理工学院博士瑞·库茨维尔发表的《心靈機器時代 —當電腦超越人腦》（The Age of Spiritual machines）一书，阐明了未来互联网将把全人类乃至其他生命和非生命体汇集成一个完整意识体的概念，在美国学术界激起一片浪潮。2001年，他提出摩尔定律的扩展定理，即库茨维尔定理（Kurzweil's Law of Accelerated Return）。该定理指出，人类出现以来所有技术發展都是以指数增长。也就是说，一开始技术發展是小的，但是一旦信息和经验积累到一定的基础，發展开始快速增长，以指数的形式，然后是以指数的指数形式增长。瑞·库茨维尔将同样的概念引入到生物进化和宇宙诞生以来的变化裡，并导出了同样的指数增长的公式。根据数学模型，在未来的某个时间内，技术發展将接近于无限大。2005年，瑞·库茨维尔发表了500多页的巨著《奇點迫近》，再次系统的介绍了这个概念的数学模型、基因工程的发展、纳米技术的展望和超越光速的可能性，该书成为美国网络书店亚马逊上2005年科普十大畅销书之一，同时成为网上博客热谈的一个话题之一。
+加速度发展[编辑]
+
+
+
+
+瑞·库茨维尔认为，随着範式轉移的加快，计算机以几何级数的形势发展，从打卡式机械计算机，到电磁继电式计算机，到真空管计算机，到晶体管计算机，到早期集成电路计算机，到现代超大规模集成电路计算机，计算机设计与技术的範式轉移所需的时间越来越短，此即摩尔定律。
+
+
+一些技术奇异点的拥护者依据对历史数据的总结与归纳得出技术奇异点必将不可避免的到来的结论。波兰数学家Stanislaw Ulam于1945年和计算机科学家冯·诺伊曼的一次关于科技加速度发展的对话[1]中第一次把「奇异点」这个词置于科技发展的上下文裡：
+
+
+“
+我们的对话集中讨论了不断加速的科技进步，以及其对人类生活模式带来的改变，这些发展及改变，似乎把人类带到了一个可以被称之为人类历史的奇异点的阶段，在这个阶段过后，我们目前所熟知的人类的社会、艺术和生活模式，将不复存在。
+”
+
+
+与此同时，中国科学家李四光在他的短文《人类的出现》[2]裡写到：
+
+
+“
+人类文化的发展，经过新人阶段的旧石器时代晚期以后，先后进入新石器时代及金属时代。愈到后来发展愈为迅猛。从新石器时代的开始到现在至多不过一万年左右，金属时代的开始到现在不过数千年，人们开始利用电能到现在不过一百多年，原子能的利用则仅是最近几十年的事；而新石器时代以前的发展阶段，则动辄以数十万年到千百万年计。由此可见，人类的发展不是等速度运动，而是类似一种加速度运动，即愈到后来前进的速度愈是成倍地增加。
+”
+
+
+大部分人用電腦只是十多年，而使用互聯網的時間更加短，而使用智能手機的時間更只是數年。
+霍金认为使世界产生不可逆转的範式轉移发生的频率越来越高，速度越来越快[3]。作为例子，霍金指出从现代数学的发现到计算机的发明所用的时间远小于从文字被发明到现代数学被发现所用的时间。
+瑞·库茨维尔对于科技历史所做出的分析让他得出了关于科技的增长以几何级数进行的结论，他把这个结论称作「加速度回报定律」。这个定律把摩尔定律扩展到了许多積體電路科技以外的科技领域中去。
+发生时间与可能性[编辑]
+大部分相信这个理论的科学家认为这件事情将会在2005年到2100年之间发生。发展会非常迅速，以至大部分人還没有意识到事件就已经发生了。
+
+
+
+
+孫正義預測奇點將發生於2018年
+
+
+发生的可能途径[编辑]
+
+某种先进的电脑也许会“甦醒”，并拥有超人智能。
+大型电脑网络（以及和网络相连的用户）也可能“甦醒”过来，成为超人智能的实体。
+人类与计算机结合使操纵计算机的用户可能被视为超人智能实体，也就是“智能扩大”。
+生物科学将有可能大大提升人类的智能。
+
+来临的条件[编辑]
+技术奇异点来临的条件是超级智能的产生。超级智能产生方式可能是人工智能（AI）和智能扩大（IA）。
+智能扩大的发展方向[编辑]
+
+人机小组自动化控制。
+用于艺术创作的人机共同体。
+允许人机联合团队参加棋类比赛。
+发展不需要人类待在某个固定的地方才能使用的人机界面和网络接口。
+发展更对称的决策系统。
+利用本地网络让人类小组更高效地工作。
+开发世界性的互联网，使其成为人机结合的工具。
+
+技术奇异点的前景——强人工智能[编辑]
+弱人工智能的特点：依靠快速思维取胜的超级智能。
+强人工智能的特点：通过不同带宽交流的能力，包括高于语言和文字信息的交流方式。
+可能阻止技术奇异点来临的因素[编辑]
+
+大规模的灾难，最可能发生的是国家之间相互毁灭的核战。
+无论计算机硬件发展到多么先进的程度，我们都无法让其“甦醒”。
+我们大大低估了人类大脑的计算能力，这将使得计算机超越人脑的时间大大延迟。
+艺术对于人类的阻碍，以及人类的艺术不能让机器人明白。反对者认为技术发展到一定的时候会停止下来。但是，瑞·库茨维尔强调：範式轉移会用更大、更优良的方法解决以往技术无法跨越的门槛。他更强调思維轉換发生的时间间隔越来越短，同时会越来越频繁。
+
+技术奇异点的论证并非严密。仅仅从技术正在加速度发展，就得出技术奇异点的发生，推理上不严密。
+数学模型的现实解释[编辑]
+在数学模型到达奇异点的意义可以通过进化模式阶梯（Evolutionary Paradigm Hierarchy）来解释。这个阶梯强调数学是最宏观的集合，而物理是数学的一个子集，而化学则是物理的一个子集，生物则是化学的子集，生物圈则是生物的子集。接下来，人类不同地区的文化是生物圈定义出的子集，而政治又是以文化为基础指法规，最后人类的经济活动是由政府的法规所规定。
+这个阶梯强调从宇宙诞生以来，筛选就不断的进行，能量首先以三维空间的形式出现，定义了宇宙的数学基础，而万有引力、强相互作用、弱相互作用、电磁力，还有其他未知的物理常数在三维空间的基础上定义了能量在宇宙中的物理属性，而通过这些物理属性，化学产生了一百多种元素，而在这些元素中，只有少数几种像碳原子这样的原子构造了生物学，在几亿年的生物进化中才造就出人类。又由于每个人类文明所处在的生物圈不同，从而产生了不同的文化和技术进步的速度。而人类的技术进步速度增快的意义则是人对这个阶梯上越来越宏观集合上的掌握。第一步是发现更为宏观项上基本定理，即牛顿的万有引力、達爾文的进化论，第二步是开始有足够的实力去改变自然界原有的定理。所以，可以把人类历史的发展看成是发现的时代和创造跟改变的时代两阶段。自工业革命以来，我们其实已经进入第二个阶段。
+该理论的有趣论证是，在一定的时间内有些事情一定会发生。也就是说，人类或早或晚都会发现基本的定理，不管是否由历史上已经出现的伟人们完成。进入第二个阶段以后，发现仍然继续，但是发明创造成为更为重要的活动。而发明的总的步伐会是倒着往回爬阶梯。在后工业时代，人类已经基本上征服和控制生物圈，甚至已经在破坏，全球气温变暖就是一个非常好的例子。接下来，人类或人类发明的机器逐渐掌控生物本身，基因科学的发展成为一个很好的例子，然后是化学、物理和数学。最后，人类的技术有可能突破到三维空间以外的地方以其他的方式表达能量的存在。甚至，能量本身是否作为最基本的表现形式也值得怀疑，可能能量本身也是某些东西的一种表现形式而已。但是阶梯的概念描述了未来人类的发展方向、技术在人类生活中扮演的越来越重要的角色，以及每一次控制能力升级以后所带来的极大的对更小子集掌控与优化。
+事件的意义与影响[编辑]
+如果必定发生，技术奇点的意义将非常深远。人类与宇宙的关系似乎要重新定义。如果技术奇点发生，那么一些科学幻想中的技术像人脑意识的数字化，无限的生命，甚至超越光速都将成为现实。人类智能将以光速速度在宇宙中殖民和扩散开来，直到充满整个宇宙。瑞·库茨维尔强调人类将和机器融合，而机器部分将在2150年左右达到现代人类智能的几十亿倍以上。
+对外星人的推测[编辑]
+如果宇宙中大部分适合生命居住的星球产生了类似人类智能的環境，大都应该在很短的时间内达到技术奇点。那么，人类先寻找外星人似乎是徒劳无功的。因为到达技术奇点以后，人类所创造的智能已经能够了解到宇宙的全部可能性，寻找外星人似乎变得没有意义。
+关于时间[编辑]
+如果把技术描述成一种不断突破各种世界中存在的限制的机制的话，而接近最顶端的数学限制又是建立在逻辑基础之上，那么逻辑本身也就是一种限制。也就是说时间本身也是一种限制。如果，能够突破时间的逻辑限制，那么我们应该生活在未来人类创造的世界里。话说回来，我们是未来人类的始祖，但是未来人类又是我们的创造者。或者说，最初制造宇宙大爆炸的前因和突破时间限制而可以看到过去、现在和将来所有可能的未来无限技术进步的智能是同一个人，或者说我们无法区分开来他们。有趣的是，如果时间机器确实在未来被制造出来，我们为什么无法在现在遇见他们？这是霍金已经提出过的问题。但是，事实上，如果技术奇异点发生，那么未来人类早在宇宙诞生时就在观察宇宙的进化。他们无须也没有兴趣去看望某一个时段人类。因为一切像剧本一样被事先排列好了。而我们现在的存在则证明了技术奇异点在未来发生。甚至可以说，未来的人类为了屏蔽与古代智能的交流而制造了时间，而时间在任何的参照系中都不能看到未来，从而躲避古代人类的追问。所以，我们甚至可以说，我们自己就是未来智能所创造的活化石。
+技术奇点的出现似乎预测时间将会终止。在技术奇点到来前的几秒钟时间内，所有可发现的东西都将被发现和利用。无限接近技术奇点的时候，似乎所有能够用来调动的能量将被调用完。以计算机自动机理论的论点来说，这个智能可能会控制所有能量的变换，停止计算。但可能仍然在高维空间计算能量变化。甚至在无理数维度上计算能量，所以时间仍然在某些空间中运行。通过这个观点，可以把宇宙想象成一个能量逐渐被整理成绝对优化的一个过程。
+已经发明的技术[编辑]
+
+
+
+
+
+本章节可能包含原创研究或未查证内容。（2017年12月31日） 
+请协助添加参考资料以改善这篇条目。详细情况请参见讨论页。 
+
+
+
+前1,500,000年－最早的石器（环境限制的突破）
+前300,000年－火（环境限制的突破）
+前70,000年－绘画（环境限制的突破）
+前45,000年－贸易系统（环境限制的突破）
+前40,000年－木船（环境限制的突破）
+前10,000年－农业革命（环境限制的突破）
+前5000年－车轮（环境限制的突破）
+前4000年－青銅時代（文化限制的突破）
+前3000年－楔形文字（文化限制的突破）
+前2400年－法律（法典，文化限制的突破）
+前1000年－铁器时代（文化限制的突破）
+前500年－指南针（环境限制的突破）
+前300年－風車 (動力機)（环境限制的突破）
+前100年－造纸术（文化限制的突破）
+600年－雕版印刷、火药（文化限制的突破）
+1100年－活字印刷（文化限制的突破）
+1400年－远洋帆船（环境限制的突破）
+1609年－望远镜（环境限制的突破）
+1644年－显微镜（环境限制的突破）
+1770年－蒸汽机（环境限制的突破）
+1783年－氣球（环境限制的突破）
+1826年－照相技术（环境限制的突破）
+1832年－电报机（环境限制的突破）
+1840年－化肥（环境限制的突破）
+1876年－电话（环境限制的突破）
+1877年－錄音機（环境限制的突破）
+1880年－灯泡（环境限制的突破）
+1886年－汽車（环境限制的突破）
+1898年－阿斯匹靈（环境限制的突破）
+1903年－飞机（环境限制的突破）
+1906年－廣播（环境限制的突破）
+1935年－尼龍（环境限制的突破）
+1938年－抗細菌藥（生物限制的突破）
+1941年－聚酯纖維（环境限制的突破）
+1945年－原子弹、计算机（环境限制的突破）
+1950年代－性别激素/变性技术（生物限制的突破）
+1957年－人造卫星（环境限制的突破）
+1964年－高速鐵路（环境限制的突破）
+1969年－计算机网络（环境限制的突破）、登陸月球（环境限制的突破）
+1970年－磁浮列車（环境限制的突破）
+1980年－试管婴儿（生物限制的突破）
+1981年－奈米科技（环境限制的突破）
+1983年－基因改造（生物限制的突破）
+1996年－生物複製（生物限制的突破）
+1997年－無線網路（环境限制的突破）
+2005年—人类基因图谱（生物限制的突破）
+2007年－DNA端粒延长（生物限制的突破）
+2011年—人造干细胞（生物限制的突破）
+2015年—回收火箭（环境限制的突破）
+
+
+
+
+端粒酶可以激活提炼物cycloastrogenol提高保护DNA末尾端粒的反转录能力，从而延长细胞分裂次数，推迟海佛烈克极限的到来，但是由于端粒酶激活也常常出现于癌变细胞之中，故也需要增加p16和p53细胞分裂周期里对分裂细胞信息完整度的检测蛋白质的浓度来完成踩油门也踩刹车的双重作用，由于人类还无法完全了解自我身体的运作的每个环节，死亡只能延迟却无法去除。
+2004年已完成人类基因图谱的95%，科学家已发现50到60种影响人类衰老的基因。科学家已经通过动物实验让线虫的生命延长6倍老鼠2倍果蝇5倍。科学家估计2020年左右人类基本可以掌握衰老基因的每个环节。本世纪中期人类延长自然寿命可以至150岁左右甚至更长。科学家Aubrey de grey预测2030－2045年左右人类通过掌握可忽略衰老治疗可以征服自然衰老和衰老病发症造成的死亡。2013年Google成立医疗公司旨在延长人类寿命。
+
+
+
+社团组织[编辑]
+目前全世界最权威的两家技术奇异点研究中心Singularity Institute for Artificial Intelligence和Acceleration Studies Foundation都设在美国。Singularity Institute for Artificial Intelligence于2000年宣告成立，吸收了瑞·库茨维尔为荣誉会长，目标是研制出第一个种子人工智能（遞歸自我完善/Seed AI）。而全世界第一次技术奇异点会议于2006年5月于斯坦福大学举行。
+相关文学及影视作品[编辑]
+文学[编辑]
+
+《书呆子快跑》（《类比》，弗诺·文奇，1966）
+《真名实姓》（True Name，弗诺·文奇，1981）
+《为和平而战》（The Peace War，弗诺·文奇，1984）
+《实时放逐》（Marooned in Realtime，弗诺·文奇，1986）
+《深渊上的火》（A Fire Upon the Deep，弗诺·文奇，1992）
+《天渊》（A Deepness in the sky，1999，弗诺·文奇，1999）
+《领悟》（Understand [美]特德·姜Ted Chiang）
+《人类科学之演变》（The Evolution of Human Science [美]特德·姜Ted Chiang）
+
+電影及電視節目[编辑]
+
+《巨人：福宾计划》
+“终结者”系列
+“駭客任務”系列
+“西方極樂園”
+《机械公敌》
+《攻壳机动队》
+《全面進化》
+《乐园追放》
+
+相關[编辑]
+
+
+技术主题
+
+
+
+強人工智慧（Strong AI）
+末世论
+摩爾定律
+馬太效應
+
+註腳[编辑]
+
+
+^ Ulam, Stanislaw (May 1958), "Tribute to John von Neumann", Bulletin of the American Mathematical Society 64（nr 3, part 2）: 1-49
+^ 李四光，《人类的出现》，节选自《天文、地质、古生物资料摘要》，高级中学课本──语文，第二册，第216－217页，人民教育出版社，1995年6月第2版，1996年10月第1次印刷，ISBN7-107-01134-0/G·2401（课）
+^ Hawkins, Gerald S.（1983）, Mindsteps to the Cosmos, HarperCollins
+
+
+參考文獻[编辑]
+
+
+《The Coming Technological Singularity》，弗诺·文奇，1993，出自《Whole Earth Review》。
+《弗诺·文奇的幻想世界》，Mick，出自《科幻世界译文版》，2008.11下半月版，104-108页。
+《弗诺·文奇访谈》，Mick，出自《科幻世界译文版》，2008.11下半月版，118-120页。
+《技术奇异点即将来临：后人类时代生存指南》，弗诺·文奇，出自《科幻世界译文版》，2008.11下半月版，124-130页。
+科技想要什麼
+Acceleration Studies Foundation, ASF: About the Foundation, 2007 [2007-11-13] 
+Anonymous, More blades good, The Economist (London), 18 March 2006, 378 (8469): 85 
+Bell, James John, Technotopia and the Death of Nature: Clones, Supercomputers, and Robots, Earth Island Journal (first published in the November/December 2001 issue of the Earth First! Journal), 2002 [2007-08-07] 
+Bell, James John, Exploring The "Singularity", The Futurist (World Future Society (mindfully.org)), 1 May 2003 [2007-08-07] 
+Berglas, Anthony, Artificial Intelligence will Kill our Grandchildren, 2008 [2008-06-13] 
+Broderick, Damien, The Spike: How Our Lives Are Being Transformed by Rapidly Advancing Technologies, New York: Forge, 2001, ISBN 0-312-87781-1 
+Bostrom, Nick, Existential Risks, Journal of Evolution and Technology, 2002, 9 [2007-08-07] 
+Bostrom, Nick, Ethical Issues in Advanced Artificial Intelligence, Cognitive, Emotive and Ethical Aspects of Decision Making in Humans and in Artificial Intelligence, 2003, 2: 12–17 [2007-08-07] 
+Dreyfus, Hubert L.; Dreyfus, Stuart E., Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer 1, New York: Free Press, 1 March 2000, ISBN 0-7432-0551-0 
+Ford, Martin, The Lights in the Tunnel: Automation, Accelerating Technology and the Economy of the Future, CreateSpace, 2009, ISBN 978-1-4486-5981-4. 
+Good, I. J., Franz L. Alt and Morris Rubinoff, 编, Speculations Concerning the First Ultraintelligent Machine, Advances in Computers, Advances in Computers (Academic Press), 1965, 6: 31–88 [2007-08-07], ISBN 9780120121069, doi:10.1016/S0065-2458(08)60418-0, （原始内容存档于2001-05-27） 
+Hanson, Robin, Some Skepticism, Robin Hanson, 1998 [2009-06-19], （原始内容存档于2009-08-28） 
+Hanson, Robin, Economics of the Singularity, IEEE Spectrum, June 2008 
+Hawking, Stephen, Science in the Next Millennium: Remarks by Stephen Hawking, 1998 [2007-11-13] 
+Hawkins, Gerald S., Mindsteps to the Cosmos, HarperCollins, August 1983, ISBN 0-06-015156-0 
+Heylighen, Francis, Accelerating Socio-Technological Evolution: from ephemeralization and stigmergy to the global brain (PDF), (编) Modelski, G.; Devezas, T.; Thompson, W., Globalization as an Evolutionary Process: Modeling Global Change, London: Routledge, 2007, ISBN 978-0-415-77361-4 
+Hibbard, Bill. Ethical Artificial Intelligence. 5 November 2014. arXiv:1411.1373 [cs.AI]. 
+Johansen, Anders; Sornette, Didier, Finite-time singularity in the dynamics of the world population, economic and financial indices (PDF), Physica A, 25 January 2001, 294 (3–4): 465–502 [2007-10-30], Bibcode:2001PhyA..294..465J, arXiv:cond-mat/0002075, doi:10.1016/S0378-4371(01)00105-4, （原始内容 (PDF)存档于29 十一月 2007）  请检查|archive-date=中的日期值 (帮助)
+Joy, Bill, Why the future doesn't need us, Wired Magazine (Viking Adult), April 2000, (8.04) [2007-08-07], ISBN 0-670-03249-2 
+Kurzweil, Raymond, The Law of Accelerating Returns, Nature Physics (Lifeboat Foundation), 2001, 4 (7): 507 [2007-08-07], Bibcode:2008NatPh...4..507B, doi:10.1038/nphys1010 
+Kurzweil, Raymond, The Singularity Is Near, New York: Viking, 2005, ISBN 0-670-03384-7 
+Moravec, Hans, Pigs in Cyberspace, On the Cosmology and Ecology of Cyberspace, January 1992 [2007-11-21] 
+Mahmud, Ashik, Post/Human Beings & Techno-salvation: Exploring Artificial Intelligence in Selected Science Fictions, Socrates Journal, June 2015 [2015-06-26], doi:10.7910/DVN/VAELLN 
+Schmidhuber, Jürgen. New Millennium AI and the Convergence of History. 29 June 2006. arXiv:cs/0606081 [cs.AI]. 
+Singularity Institute for Artificial Intelligence, Why Artificial Intelligence?, 2002, （原始内容存档于2006-10-04） 
+Singularity Institute for Artificial Intelligence, 3 Laws Unsafe, 2004 [2007-08-07], （原始内容存档于2011-03-23） 
+Singularity Institute for Artificial Intelligence, What is the Singularity?, 2007 [2008-01-04], （原始内容存档于2007-12-30） 
+Smart, John, On Huebner Innovation, Acceleration Studies Foundation, September 2005 [2007-08-07] 
+Ulam, Stanislaw, Tribute to John von Neumann, Bulletin of the American Mathematical Society, May 1958, 64 (nr 3, part 2): 1–49, doi:10.1090/S0002-9904-1958-10189-5 
+Vinge, Vernor, The Coming Technological Singularity, Vision-21: Interdisciplinary Science & Engineering in the Era of CyberSpace, proceedings of a Symposium held at NASA Lewis Research Center (NASA Conference Publication CP-10129), 30–31 March 1993 [2007-08-07] . See also this HTML version, retrieved on 2009-03-29.
+Warwick, Kevin, March of The Machines, University of Illinois Press, 2004, ISBN 978-0-252-07223-9 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+技术
+
+
+
+
+
+
+領域
+
+
+
+
+農業
+
+
+
+农业工程
+水產養殖
+水产学
+食品化学
+食品工程
+营养学
+食品技术
+食品微生物学（英语：Food microbiology）
+遺傳利用限制技術（英语：Genetic use restriction technology）
+
+
+
+
+
+
+
+
+生物医学（英语：Biomedical technology）
+
+
+
+生物信息学
+生物医学工程
+生物工程学
+生物技术
+健康科学
+生化檢驗
+药理学
+神经科学
+组织工程学
+基因工程
+纳米医学
+化学信息学
+
+
+
+
+
+
+
+
+水利/土木建築
+
+
+
+水利工程
+土木工程
+建築工程
+建築設備
+消防工程
+安全工程
+結構工程
+
+
+
+
+
+
+
+
+教育技术
+
+
+
+在线学习
+教育技术学
+教育软件（英语：Educational software）
+虚拟校园（英语：Virtual campus）
+
+
+
+
+
+
+
+
+能源
+
+
+
+核工程
+核技术
+储能技术
+石油工程（英语：Petroleum engineering）
+
+
+
+
+
+
+
+
+军事
+
+
+
+彈藥
+炸彈
+軍事技术
+電子作戰
+低可偵測性技術
+工兵
+军事通信（英语：Military communications）
+
+
+
+
+
+
+
+
+信息
+
+
+
+人工智能
+計算機工程
+计算机科学
+音乐工艺
+通信工程
+通信
+图形
+信息技术
+軟件工程
+音乐
+语音识别
+可视化技术
+系统分类学
+本体工程
+信息学
+
+
+
+
+
+
+
+
+工业（英语：Industrial technology）
+
+
+
+纳米科技
+音频工程
+生物工程
+生化工程
+陶瓷工程
+化学工程
+控制工程
+低温学
+電機工程學
+电子工程
+工程技术
+工程学
+工业工程学
+企业工程
+水力学
+机械工程
+機械電子學
+冶金工程
+海洋工程
+光学工程
+系统工程
+运输工程
+电动机械学
+金融工程学
+制造
+机械
+采矿业
+自动化技术
+冶金学
+
+
+
+
+
+
+
+
+交通
+
+
+
+航空航天
+航空航天工程
+空间技术
+机动车
+車輛工程
+交通工程
+流量工程
+
+
+
+
+
+
+
+
+環境科技
+
+
+
+綠色建築
+可再生能源
+永續設計
+环境工程
+生態工程
+潔淨科技（英语：Clean technology）
+生態技術（英语：Ecotechnology）
+環境工程科學（英语：Environmental engineering science）
+
+
+
+
+
+
+
+
+应用科学
+
+
+
+考古
+电子学
+光学
+半导体物理学
+环境科学
+材料科学
+微系统
+微技术
+纳米技术
+
+
+
+
+
+
+
+
+其他领域
+
+
+
+机器人学
+机械电子学
+蛋白质工程
+系统工程
+聚合物工程（英语：Polymer engineering）
+
+
+
+
+
+
+
+
+
+
+
+組件
+
+
+
+基礎設施
+發明
+发明年表
+知識
+機器
+技能
+工艺
+工具
+
+
+
+
+
+
+
+
+技術史
+
+
+
+新石器革命
+工業革命
+第二次工業革命
+數字化革命
+第三次工業革命
+信息時代
+史前技术（英语：Outline of prehistoric technology）
+古代技術（英语：Ancient technology）
+中世紀技術（英语：Medieval technology）
+文藝復興技術（英语：Renaissance technology）
+噴氣時代（英语：Jet Age）
+
+
+
+
+
+
+
+
+理論（英语：Theories of technology）
+和概念
+
+
+
+適用技術
+破壞性創新
+高科技
+技术成熟度曲线
+专家统治
+技术决定论
+技術官僚
+技术奇异点
+技术接受模型
+超人类主义
+軍民兩用技術（英语：Dual-use technology）
+技术伦理（英语：Ethics of technology）
+
+
+
+
+
+
+
+
+其他
+
+
+
+新興技術列表
+卡尔达肖夫指数
+Category:各国科技
+Category:科技公司
+Category:技术大学和学院
+技术传播者
+技术新闻学
+
+
+
+
+
+
+
+
+
+
+
+ Category:技術
+ commons:Category:技術
+ Portal:技術
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+新兴技术
+
+
+
+
+
+
+
+技术
+
+
+
+
+
+
+领域
+
+
+
+
+农业
+
+
+
+农业机器人
+封闭生态系统
+試管肉
+基因改造食品
+精准农业
+垂直農法
+
+
+
+
+
+
+
+
+建筑
+
+
+
+生态建筑学（英语：Arcology）
+建筑打印（英语：Building printing）
+
+Contour crafting（英语：Contour crafting）
+D-Shape（英语：D-Shape）
+
+
+圆顶城市（英语：Domed city）
+
+
+
+
+
+
+
+
+生物医学技术（英语：Biomedical technology）
+
+
+
+人造子宫（英语：Artificial uterus）
+Ampakine（英语：Ampakine）
+脑部移植
+人體冷凍技術
+
+冷冻保护剂（英语：Cryoprotectant）
+深低溫保存
+玻璃化（英语：Vitrification）
+暫停生命
+
+
+去滅絕
+基因工程
+
+基因治療
+
+
+头部移植
+孤立腦
+生命延續
+
+掌控可忽略衰老
+
+
+纳米医学
+纳米传感器（英语：Nanosensor）
+个体化医疗（英语：Personalized medicine）
+再生醫學
+
+干细胞治疗（英语：Stem-cell therapy）
+组织工程学
+
+
+机器人辅助手术（英语：Robot-assisted surgery）
+合成生物学
+
+合成基因组学（英语：Synthetic genomics）
+
+
+病毒疗法（英语：Virotherapy）
+
+溶瘤病毒（英语：Oncolytic virus）
+
+
+Tricorder（英语：Medical tricorder）
+全基因组测序（英语：Whole genome sequencing）
+
+
+
+
+
+
+
+
+显示器
+
+
+
+
+次世代（英语：Next generation of display technology）
+
+
+
+FED
+FLCD（英语：Ferro Liquid Crystal Display）
+iMoD（英语：Interferometric modulator display）
+Laser（英语：Laser video display）
+LPD（英语：Laser-powered phosphor display）
+OLED
+OLET
+QD-LED
+SED
+TPD
+TDEL
+TMOS（英语：Time-multiplexed optical shutter）
+
+
+
+
+
+
+
+
+去屏幕（英语：Screenless）
+
+
+
+仿生隐形眼镜（英语：Bionic contact lens）
+頭戴式顯示器
+抬頭顯示器
+光学头戴式显示器（英语：Optical head-mounted display）
+虚拟视网膜显示器（英语：Virtual retinal display）
+
+
+
+
+
+
+
+
+其他
+
+
+
+裸眼3D（英语：Autostereoscopy）
+柔性显示器（英语：Flexible display）
+全息显示器（英语：Holographic display）
+
+计算机生成全息（英语：Computer-generated holography）
+
+
+多原色顯示技術
+Ultra HD
+体积显示器（英语：Volumetric display）
+
+
+
+
+
+
+
+
+
+
+
+电子产品
+
+
+
+电子鼻（英语：Electronic nose）
+电子纺织品（英语：E-textiles）
+柔性印刷电路板
+分子电子学（英语：Molecular electronics）
+纳机电系统
+憶阻器
+自旋電子學
+Thermal copper pillar bump（英语：Thermal copper pillar bump）
+
+
+
+
+
+
+
+
+能源
+
+
+
+
+生产
+
+
+
+高空風力發電機
+人工光合作用（英语：Artificial photosynthesis）
+生物燃料
+碳中性燃料（英语：Carbon-neutral fuel）
+聚光太阳能热发电
+聚变能
+家用燃料电池（英语：Home fuel cell）
+氢经济
+甲醇经济
+熔盐堆
+光学整流天线（英语：Nantenna）
+光伏路面（英语：Photovoltaic pavement）
+太空太陽能
+涡流发动机（英语：Vortex engine）
+
+
+
+
+
+
+
+
+存储
+
+
+
+磷酸铁锂电池（英语：Lithium iron phosphate battery）
+压缩空气能源存储（英语：Compressed air energy storage）
+飞轮储能
+电网能源存储（英语：Grid energy storage）
+鋰空氣電池
+熔盐电池（英语：Molten salt battery）
+纳米线电池
+锂离子电池研究（英语：Research in lithium-ion batteries）
+硅气电池（英语：Silicon–air battery）
+热能储存（英语：Thermal energy storage）
+超级电容
+
+
+
+
+
+
+
+
+其他
+
+
+
+智慧電網
+无线供电
+
+
+
+
+
+
+
+
+
+
+
+
+信息及通信技术
+
+
+
+
+环境智能
+
+物联网
+
+
+人工智能
+
+人工智能的应用（英语：Applications of artificial intelligence）
+人工智能的进展（英语：Progress in artificial intelligence）
+机器翻译
+机器视觉
+语义网
+语音识别
+
+
+原子电子学（英语：Atomtronics）
+碳纳米管场效应晶体管（英语：Carbon nanotube field-effect transistor）
+Cybermethodology
+第四代光盘
+
+3D光学数据存储（英语：3D optical data storage）
+全息存储
+
+
+GPGPU
+内存
+
+CBRAM
+FRAM
+Millipede
+MRAM
+NRAM
+PRAM
+賽道記憶體
+RRAM
+SONOS
+
+
+光學電腦
+量子计算机
+量子密碼學
+RFID
+
+无芯片RFID（英语：Chipless RFID）
+
+
+软件无线电
+三維晶片
+
+
+
+
+
+
+
+
+制造
+
+
+
+3D打印
+电子粘土（英语：Claytronics）
+分子汇编器（英语：Molecular assembler）
+实用雾（英语：Utility fog）
+
+
+
+
+
+
+
+
+材料科学
+
+
+
+气凝胶
+非晶态金属
+人造肌肉（英语：Artificial muscle）
+導電聚合物
+Femtotechnology（英语：Femtotechnology）
+富勒烯
+石墨烯
+高溫超導
+高温超流体
+线性炔碳
+超材料
+
+超材料隐形（英语：Metamaterial cloaking）
+
+
+金属泡沫（英语：Metal foam）
+多功能结构（英语：Multi-function structure）
+纳米技术
+
+碳纳米管
+分子纳米技术（英语：Molecular nanotechnology）
+纳米材料
+
+
+Picotechnology（英语：Picotechnology）
+可编程物质（英语：Programmable matter）
+量子点
+硅烯
+高温合金
+合成鑽石
+
+
+
+
+
+
+
+
+军事技术与装备
+
+
+
+反物质武器
+無殼彈
+定向能量武器（英语：Directed-energy weapon）
+
+激光
+激微波
+粒子束武器
+声波武器
+線圈砲
+磁軌砲
+
+
+等离子武器
+纯聚变武器（英语：Pure fusion weapon）
+低可偵測性技術
+涡环枪（英语：Vortex ring gun）
+
+
+
+
+
+
+
+
+神经科学
+
+
+
+人造脑（英语：Artificial brain）
+
+藍腦計畫
+
+
+脑机接口
+腦電圖
+意识上传
+
+读脑（英语：Brain-reading）
+神经信息学
+
+
+Neuroprosthetics
+
+仿生眼
+脑植入（英语：Brain implant）
+外部皮层
+视网膜植入（英语：Retinal implant）
+
+
+
+
+
+
+
+
+
+
+机器人学
+
+
+
+家庭自动化
+纳米机器人
+動力服
+自重构模块化机器人（英语：Self-reconfiguring modular robot）
+群体机器人（英语：Swarm robotics）
+無人機
+
+
+
+
+
+
+
+
+空间科学
+
+
+
+
+发射（英语：Space launch）
+
+
+
+Fusion rocket
+非火箭航天发射
+
+質量投射器
+轨道环（英语：Orbital ring）
+太空電梯
+空间喷泉（英语：Space fountain）
+太空纜索
+
+
+可重用发射系统（英语：Reusable launch system）
+
+
+
+
+
+
+
+
+航天器推进
+
+
+
+光束推进（英语：Beam-powered propulsion）
+离子推力器
+激光推进（英语：Laser propulsion）
+電漿推進發動機
+
+螺旋雙層推進器（英语：Helicon double-layer thruster）
+可变比冲磁等离子体火箭
+
+
+猎户座项目（英语：Project Orion）
+核脉冲推进
+太阳帆
+
+
+
+
+
+
+
+
+其他
+
+
+
+恆星際旅行
+推进剂库（英语：Propellant depot）
+
+
+
+
+
+
+
+
+
+
+
+运输（英语：Outline of transport）
+
+
+
+
+航空
+
+
+
+自适应柔性变形机翼（英语：Adaptive compliant wing）
+Aeroscraft（英语：Worldwide Aeros Corp）
+背包直升机（英语：Backpack helicopter）
+送货无人机（英语：Delivery drone）
+飞行车
+高空平台（英语：High-altitude platform）
+喷气式飞行包
+脉冲爆震引擎（英语：Pulse detonation engine）
+超音速燃烧冲压发动机
+太空飛機
+
+云霄塔
+
+
+超音速客機
+
+
+
+
+
+
+
+
+陆路运输（英语：Land transport）
+
+
+
+无气轮胎（英语：Airless tire）
+
+Tweel（英语：Tweel）
+
+
+替代燃料车（英语：Alternative fuel vehicle）
+
+氫動力汽車
+
+
+自動駕駛汽車
+地面效应列车（英语：Ground effect train）
+磁懸浮列車
+个人快速运输系统
+真空管道高速交通
+
+ET3全球联盟（英语：ET3 Global Alliance）
+超迴路列車
+
+
+车载通信系统（英语：Vehicular communication systems）
+
+
+
+
+
+
+
+
+管道
+
+
+
+气动运输（英语：Pneumatic tube）
+
+自动化真空收集（英语：Automated vacuum collection）
+Foodtubes（英语：Foodtubes）
+
+
+
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+反重力
+隐身斗篷（英语：Cloak of invisibility）
+数字香水技术（英语：Digital scent technology）
+力场 (小说)（英语：Force field (fiction)）
+
+等离子窗（英语：Plasma window）
+
+
+沉浸 (虚拟现实)（英语：Immersion (virtual reality)）
+
+VirtuSphere（英语：VirtuSphere）
+
+
+磁性制冷（英语：Magnetic refrigeration）
+相控阵光学（英语：Phased-array optics）
+量子技术（英语：Quantum technology）
+
+量子隱形傳態
+
+
+
+
+
+
+
+
+
+
+
+
+
+理念
+
+
+
+科林格里奇困境（英语：Collingridge dilemma）
+差异化技术开发（英语：Differential technological development）
+Ephemeralization（英语：Ephemeralization）
+探索性工程（英语：Exploratory engineering）
+虚构科技（英语：Fictional technology）
+行事原则（英语：Proactionary principle）
+技术革新
+
+技术失业（英语：Technological unemployment）
+
+
+技术融合
+技术演进（英语：Technological evolution）
+技术范例（英语：Technological paradigm）
+科技預測
+
+加速变化（英语：Accelerating change）
+摩尔定律
+技术奇异点
+Technology scouting（英语：Technology scouting）
+
+
+技术就绪指数
+技术路线
+超人类主义
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 列表
+
+
+
+
+
+
+
+
+
+
+
+
+分类：未來學技術預測机器人学隐藏分类：自2015年12月連結格式不正確的條目自2012年6月需补充来源的条目拒绝当选首页新条目推荐栏目的条目自2009年7月可能带有原创研究的条目含有多个问题的条目自2017年12月可能带有原创研究的条目引文格式1错误：日期

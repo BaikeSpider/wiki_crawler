@@ -1,0 +1,1144 @@
+紅血球生成素
+
+
+
+
+
+
+
+[促]红细胞生成素
+
+
+
+
+
+
+
+
+有效结构
+
+
+PDB
+直系同源检索：PDBe, RCSB
+
+
+
+
+
+PDB查询代码列表
+
+
+
+1BUY, 1CN4, 1EER
+
+
+
+
+
+
+
+
+
+标识
+
+
+代号
+EPO; EP; MGC138142; MVCD2
+
+
+扩展标识
+遗传学：133170 鼠基因：95407 同源基因：624 GeneCards: EPO Gene
+
+
+
+
+
+基因本体论描述
+
+
+分子功能
+· erythropoietin receptor binding
+· hormone activity
+· protein binding
+· eukaryotic cell surface binding
+
+
+细胞成分
+· extracellular region
+· extracellular space
+
+
+生物过程
+· response to hypoxia
+· regulation of transcription from RNA polymerase II promoter
+· signal transduction
+· embryo implantation
+· aging
+· response to nutrient
+· blood circulation
+· positive regulation of cell proliferation
+· response to salt stress
+· negative regulation of sodium ion transport
+· erythrocyte differentiation
+· negative regulation of ion transmembrane transporter activity
+· response to lipopolysaccharide
+· response to vitamin A
+· response to testosterone stimulus
+· positive regulation of tyrosine phosphorylation of Stat5 protein
+· hemoglobin biosynthetic process
+· negative regulation of apoptosis
+· erythrocyte maturation
+· neuroprotection
+· response to estrogen stimulus
+· positive regulation of neuron differentiation
+· positive regulation of DNA replication
+· positive regulation of transcription, DNA-dependent
+· positive regulation of Ras protein signal transduction
+· response to axon injury
+· response to electrical stimulus
+· response to hyperoxia
+· response to interleukin-1
+· cellular hyperosmotic response
+
+
+Sources: Amigo / QuickGO
+
+
+
+
+
+RNA表达模式
+
+
+
+
+
+
+
+
+更多表达数据
+
+
+直系同源体
+
+
+物种
+人类
+小鼠
+
+
+Entrez
+2056
+13856
+
+
+Ensembl
+ENSG00000130427
+ENSMUSG00000029711
+
+
+UniProt
+P01588
+Q0VED9
+
+
+mRNA序列
+NM_000799.2
+NM_007942.2
+
+
+蛋白序列
+NP_000790.2
+NP_031968.1
+
+
+基因位置
+Chr 7:
+100.32 – 100.32 Mb
+Chr 5:
+137.92 – 137.97 Mb
+
+
+PubMed查询
+[2]
+[3]
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+红细胞生成素（英语：Erythropoietin，简称EPO），或称促紅血球生成素，是一種糖蛋白激素，其控制紅血球生成，或紅血球的產生。在骨髓中它是紅血球前體細胞的一種細胞因子（蛋白質信號傳導分子）。人類促紅細胞生成素有34kDa的分子量。人体的促红细胞生成素由肝脏和肾合成分泌。婴幼儿时期主要由肝脏合成，成年后主要由肾脏合成。它同时具有其他的生物功能。例如对大脑对神经受损的反应其重要作用，同时也参与伤口愈合过程。
+促红细胞生成素因为层出不穷的禁药事件而为公众所知。注射人工合成的紅血球生成激素刺激剂（ESA）可以提高运动员的成绩。这种药物与人体自身合成的促红细胞生成素有微小的差别，比较容易被检测出。
+
+
+
+目录
+
+
+1 历史
+2 调节血红细胞
+3 临床使用
+
+3.1 慢性肾病所导致的贫血症
+3.2 治療癌症所导致的贫血症
+3.3 危重病人的贫血症
+
+
+4 副作用
+5 作为兴奋剂使用
+6 相关条目
+7 相关图象
+8 參考資料
+9 延伸閱讀
+10 外部連結
+
+
+
+历史[编辑]
+血液学家 Dr. John Adamson 和肾脏专家Dr. Joseph W. Eschbach在1970年代，研究了绵羊和其它动物的许多肾衰竭例子和紅血球生成激素在血红细胞形成所扮演的角色。这两个科学家建立了这一原则“在骨髓中紅血球生成激素刺激血红细胞的制造”，根据这个发现为治疗人类贫血症奠定了基础。
+在1980年代，Adamson, Eschbach和其他科学家在美国西北肾脏中心进行了Epogen(由Amgen公司通过遗传工程人工合成的紅血球生成激素)的临床试验。这个试验非常成功，其结果被发表在1987年1月底新英格蘭醫學期刊。
+1989年，美国食品药品监督管理局（FDA）批准了Epogen在临床上的使用。
+调节血红细胞[编辑]
+EPO是由肾皮质的成纤维细胞生成的。其调节被认为是依赖于血氧的反馈机制。EPO的转录因子，缺氧诱导因子（HIFs）在有氧状态下被羟基化且被蛋白酶所分解。[1]
+临床使用[编辑]
+被用于治疗的EPO是通过DNA重组技术在哺乳动物细胞的细胞培养下产生的。它被用来治疗由于慢性肾病所导致的，或者由于放疗和化疗治疗癌症所导致的贫血症。
+慢性肾病所导致的贫血症[编辑]
+在进行透析治疗（第5期慢性肾病的患者在进行EPO治疗时需要补充铁质。[2]在美国透析病人大多会给Epogen，其他国家会给不同品牌的紅血球生成激素。
+除了透析患者，EPO也被用来治疗没有做透析治疗的慢性肾病所导致的贫血(第3，4期慢性肾病和做工肾移植的患者)。有两类（3个品牌的）EPO用于慢性肾病（无透析）贫血症的治疗，他们是：
+
+epoetin (Procrit(also known as Eprex), NeoRecormon)
+darbepoetin (Aranesp).
+PDpoetin(an erythropoietin produced in Iran by Pooyesh Darou Pharmaceuticals)
+
+美国市场品牌:
+
+epoetin (Procrit and Epogen)
+
+治療癌症所导致的贫血症[编辑]
+2008年3月，美国食品药品监督管理局（FDA）的顾问团支持为了癌症患者而在市場上保留Amgen公司和强生公司的紅血球生成激素刺激剂（ESA）。这是由于FDA认为一些研究结果显示，服用抗贫血药物的化疗病人有增加死亡和肿瘤生长的危险。根据FDA的数据，各类癌症都有增加，包括乳腺癌，淋巴癌，宫颈癌，头，颈，和非小细胞的肺癌。[3]
+危重病人的贫血症[编辑]
+市场上有2种EPO（3个品牌）可以用于危重病人的贫血症治疗。它们是
+
+epoetin (Procrit(also known as Eprex), NeoRecormon)
+darbepoetin (Aranesp).
+PDpoetin(an erythropoietin produced in Iran by Pooyesh Darou pharmaceuticals)
+
+最近的随机对照临床试验[4]显示EPO并不改变危重病人的输血次数。令人吃惊的是接受EPO治疗的危重病人有较低的死亡率。统计显示，这个结果在29天有了显著性差异但是这种差异在140天后就不是很显著了。由于外伤而入住重症监护病房（ICU）的病人的死亡率有最为显著的变化。作者们对这种死亡率的降低的可能性的病原学的原因提出了几种猜测。血栓的增加，外伤病人的死亡率的降低，以及外科病人不明显的死亡率的降低，可能是EPO的促凝血效果导致的。无论如何，这个研究建议将来的研究方向是哪种危重病人能够受益于EPO的治疗，如果EPO的治疗真能够给危重病人带来益处的话，因为在大量的临床试验中，EPO导致血栓的发生非常的明显，这使得EPO的治疗大打折扣。总之，在EPO治疗时应该认真权衡其益处和坏处，再有针对性的治疗。
+副作用[编辑]
+由于EPO影响了红细胞的数量，健康者使用会导致心脏负担加重，从而增加了心脏衰竭的风险
+作为兴奋剂使用[编辑]
+作为兴奋剂，紅血球生成激素刺激剂（ESA）长久以来被用于耐力性比赛，如赛马、拳击、自行车、划船、长跑、竞走、雪鞋行走、越野滑雪、冬季两项、三项全能等运动项目。因为在这些项目中红血球输氧量往往决定了成绩好坏。服用该禁药後，可為肌肉输送更多的氧气，从而增强耐力。在该禁药合成之前，有人會将自己的血液提前抽出，处理后待比赛前1-7天将红细胞输回体内，但这样既麻烦亦危险，故1990年代逐渐被禁药替代。服用该禁药除了违反体育精神外，也因为红细胞增多，血液更粘稠，而導致高血压，提高栓塞和中风的风险。
+1990年代该禁药据信被广泛使用，但一时找不到检测的方法。在世界反兴奋剂组织的支持下，法国反兴奋剂实验室的科学家研发出检测手段，可以通过尿检分辨出合成药物与人体自身分泌物质的微小差别。2002年盐湖城冬奥会首次有该药物在大赛中被检出。该兴奋剂的使用终于得到遏制。然而，有些口服药物可以稳定可以活化缺氧促红细胞生成素基因的缺氧诱导因子（英语：hypoxia-inducible transcription factors），从而刺激内源促红细胞生成素分泌，这些药物目前尚无法检测。
+相关条目[编辑]
+
+贫血
+慢性肾病
+红细胞生成
+兴奋剂
+
+相关图象[编辑]
+
+
+
+
+
+
+
+EPO hematopoiesis (German)
+
+
+
+
+
+
+
+
+
+JAK-STAT signaling pathway
+
+
+
+
+
+
+
+
+
+EPO structure
+
+
+
+
+
+
+
+
+
+EPO sales
+
+
+
+
+
+
+
+
+
+Epo blotting
+
+
+
+
+參考資料[编辑]
+
+
+^ Jelkmann, W. Erythropoietin after a century of research: younger than ever. Eur J Haematol. 2007, 78 (3): 183–205. PMID 17253966. doi:10.1111/j.1600-0609.2007.00818.x. 
+^ Macdougall IC, Tucker B, Thompson J, Tomson CR, Baker LR, Raine AE. A randomized controlled study of iron supplementation in patients treated with erythropoietin. Kidney Int. 1996, 50 (5): 1694–9. PMID 8914038. doi:10.1038/ki.1996.487. 
+^ [1]CNN Money article
+^ Howard L. Corwin et al., “Efficacy and Safety of Epoetin Alfa in Critically Ill Patients,” N Engl J Med 357, no. 10 (September 6, 2007): 965-976, http://content.nejm.org/cgi/content/abstract/357/10/965 (accessed September 6, 2007).
+
+
+延伸閱讀[编辑]
+
+
+Takeuchi M, Kobata A. Structures and functional roles of the sugar chains of human erythropoietins.. Glycobiology. 1992, 1 (4): 337–46. PMID 1820196. doi:10.1093/glycob/1.4.337. 
+Semba RD, Juul SE. Erythropoietin in human milk: physiology and role in infant health.. Journal of human lactation : official journal of International Lactation Consultant Association. 2002, 18 (3): 252–61. PMID 12192960. 
+Ratcliffe PJ. From erythropoietin to oxygen: hypoxia-inducible factor hydroxylases and the hypoxia signal pathway.. Blood Purif. 2003, 20 (5): 445–50. PMID 12207089. doi:10.1159/000065201. 
+Westenfelder C. Unexpected renal actions of erythropoietin.. Exp. Nephrol. 2003, 10 (5-6): 294–8. PMID 12381912. doi:10.1159/000065304. 
+Becerra SP, Amaral J. Erythropoietin--an endogenous retinal survival factor.. N. Engl. J. Med. 2002, 347 (24): 1968–70. PMID 12477950. doi:10.1056/NEJMcibr022629. 
+Genc S, Koroglu TF, Genc K. Erythropoietin and the nervous system.. Brain Res. 2004, 1000 (1-2): 19–31. PMID 15053948. doi:10.1016/j.brainres.2003.12.037. 
+Fandrey J. Oxygen-dependent and tissue-specific regulation of erythropoietin gene expression.. Am. J. Physiol. Regul. Integr. Comp. Physiol. 2004, 286 (6): R977–88. PMID 15142852. doi:10.1152/ajpregu.00577.2003. 
+Juul S. Recombinant erythropoietin as a neuroprotective treatment: in vitro and in vivo models.. Clinics in perinatology. 2004, 31 (1): 129–42. PMID 15183662. doi:10.1016/j.clp.2004.03.004. 
+Buemi M, Caccamo C, Nostro L; 等. Brain and cancer: the protective role of erythropoietin.. Med Res Rev. 2005, 25 (2): 245–59. PMID 15389732. doi:10.1002/med.20012.  引文格式1维护：显式使用等标签 (link)
+Sytkowski AJ. Does erythropoietin have a dark side? Epo signaling and cancer cells.. Sci. STKE. 2007, 2007 (395): pe38. PMID 17636183. doi:10.1126/stke.3952007pe38. 
+
+
+外部連結[编辑]
+
+NYT 1987 announcement of Epogen's clinical success
+Patient information on Epogen
+Patient information on Aranesp
+Patient information on Procrit
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+内分泌系统：激素/内分泌腺（肽类激素、甾体激素）
+
+
+
+
+
+
+内分泌腺
+
+
+
+
+
+下丘脑-垂体
+
+
+
+
+
+
+下丘脑
+
+
+GnRH、TRH、多巴胺、CRH、GHRH/體抑素、黑色素浓集激素
+
+
+
+
+
+
+
+垂体后叶
+
+
+抗利尿激素、催產素
+
+
+
+
+
+
+
+垂体前叶
+
+
+糖蛋白激素α亚基（FSH FSHB、LH LHB、TSH TSHB）、催乳素、 POMC（CLIP、ACTH、MSH、内啡肽、促脂解素）、生长激素
+
+
+
+
+
+
+
+
+
+
+性腺轴
+
+
+
+
+
+
+睾丸
+
+
+睾酮、AMH、抑制素
+
+
+
+
+
+
+
+卵巢
+
+
+雌二醇、黄体素、抑制素/激活素、松弛素
+
+
+
+
+
+
+
+胎盘
+
+
+hCG、 HPL、 雌激素、 黄体素
+
+
+
+
+
+
+
+
+
+
+肾上腺轴
+
+
+肾上腺髓质： 肾上腺素、去甲肾上腺素 － 肾上腺皮质： 醛固酮、皮质醇、脱氢表雄酮
+
+
+
+
+
+
+
+甲状腺轴
+
+
+甲状腺： 甲狀腺激素（T3和T4） － 降钙素 － 甲状旁腺： 甲状旁腺素
+
+
+
+
+
+
+
+胰脏
+
+
+胰高血糖素、胰岛素、胰淀素、生长抑素、胰多肽
+
+
+
+
+
+
+
+松果体
+
+
+褪黑素
+
+
+
+
+
+
+
+
+
+非内分泌腺
+
+
+
+
+
+消化系统
+
+
+
+
+
+
+胃
+
+
+胃泌素、 胃饥饿激素
+
+
+
+
+
+
+
+十二指肠
+
+
+CCK、 肠泌素（GIP、GLP-1）、促胰液素、胃动素、VIP
+
+
+
+
+
+
+
+回肠
+
+
+肠高血糖素、酪酪肽
+
+
+
+
+
+
+
+肝脏/其它
+
+
+胰岛素样生长因子 (IGF-1、 IGF-2)
+
+
+
+
+
+
+
+
+
+
+循环系统
+
+
+
+
+
+
+肾
+
+
+球旁器（肾素）、 管周细胞（紅血球生成激素）、 骨化三醇、 前列腺素
+
+
+
+
+
+
+
+心脏
+
+
+利鈉肽（ANP、BNP）
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+
+
+脂肪组织
+
+
+肥胖荷尔蒙、 脂联素、 抵抗素
+
+
+
+
+
+
+
+胸腺
+
+
+胸腺肽（α1、β）、促胸腺生成素、胸腺九肽
+
+
+
+
+
+
+
+骨骼
+
+
+骨钙素
+
+
+
+
+
+
+
+
+
+
+
+
+靶源性
+
+NGF、 BDNF、 神经营养素-3
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+內分泌系統索引
+
+
+
+
+
+
+描述
+
+
+
+腺體
+激素
+
+甲狀腺
+
+中間物
+代謝物
+
+
+礦物性皮質素
+
+
+生理
+發育
+
+
+
+
+
+
+
+
+疾病
+
+
+
+糖尿病
+先天
+腫瘤
+其他
+症狀
+
+
+
+
+
+
+
+
+治療
+
+
+
+程序
+藥物
+
+鈣平衡
+皮质类固醇
+口服降血糖藥物
+腦下垂體及下視丘
+甲狀腺
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+泌尿系統生理學: 腎生理學與酸鹼穩態
+
+
+
+
+
+
+过滤
+
+
+
+腎血流量(RBF)
+超濾作用
+逆流交換
+濾過分數
+
+
+
+
+
+
+
+
+激素的影響
+過濾
+
+
+
+抗利尿激素(ADH)
+醛固酮
+心房利鈉肽(ANP)
+
+
+
+
+
+
+
+
+分泌 /
+清除率
+
+
+
+药代动力学
+藥物清除率
+尿流率
+
+
+
+
+
+
+
+
+重吸收
+
+
+
+溶劑牽拉作用
+Na+
+Cl−
+urea
+尿素
+寡肽
+蛋白
+
+
+
+
+
+
+
+
+內分泌
+
+
+
+肾素
+紅細胞生成素(EPO)
+骨化三醇(活性维生素D)
+前列腺素類
+
+
+
+
+
+
+
+
+評估
+腎功能/透析充分性
+
+
+
+腎小球濾過率(GFR)
+肌酸酐清除率(CCr)
+腎清除率
+尿素降低率(URR)
+Kt/V
+標準化Kt/V
+血液透析產物
+PAH清除率 (有效腎血漿流量
+提取比例)
+
+
+
+
+
+
+
+
+酸鹼平衡
+
+
+
+液體平衡
+達羅雅內特圖
+
+體內水分: 細胞內液/胞液
+
+细胞外液
+(组织液
+血浆
+跨細胞液)
+
+
+鹼過剩
+達文波特圖
+陰離子間隙
+動脈血氣
+溫特公式
+
+
+
+
+
+
+
+
+緩衝/
+代償
+
+
+
+碳酸氫鹽緩衝系統
+呼吸性代償
+腎性代償
+
+
+
+
+
+
+
+
+其它
+
+
+
+鈉排泄分數
+BUN-肌酸酐比值
+腎小管球間反饋
+尿鈉排泄
+尿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+医学导航：泌尿系统
+
+
+
+
+解剖／生理／发育／细胞
+
+
+
+
+病理／酸碱／先天／肿瘤、症状／齐名、尿液
+
+
+
+
+手术／注射、药物（G4B）、血检、尿检
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+其他血液制剂
+
+
+
+
+
+
+抗贫血药（B03）
+
+
+
+紅血球生成素（Darbepoetin alfa, Methoxy polyethylene glycol-epoetin beta, Peginesatide）
+抗坏血酸亚铁
+门冬氨酸亚铁
+碳酸亚铁
+氯化亚铁
+富马酸亚铁
+葡萄糖酸亚铁
+硫酸甘氨酸亚铁
+碘化亚铁
+琥珀酸亚铁
+硫酸亚铁
+酒石酸亚铁
+
+
+
+
+
+
+
+
+换血及灌注液（B05）
+
+
+
+右旋糖酐
+明胶
+Hemoglobin crosfumaril
+Hemoglobin raffimer
+羟乙基淀粉
+艾考糊精
+白蛋白
+山梨醇
+
+
+
+
+
+
+
+
+酶（B06AA）
+
+
+
+菠萝蛋白酶
+胰凝乳蛋白酶
+脱氧核糖核酸酶
+纤维蛋白溶酶
+透明质酸酶
+链激酶
+胰蛋白酶
+
+
+
+
+
+
+
+
+遗传性血管性水肿药物（B06AC）
+
+
+
+C1抑制剂
+Conestat alfa
+艾卡拉肽
+艾替班特
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+骨髓來源細胞索引
+
+
+
+
+
+
+描述
+
+
+
+免疫系統（英语：Template:Myeloid innate immune system）
+細胞
+生理學
+
+凝結（英语：Template:Coagulation）
+蛋白質
+細粒內容物
+株落刺激（英语：Template:Colony-stimulating factors）
+血基質和卟啉
+
+代謝（英语：Template:Porphyrin metabolism enzymes）
+代谢中间产物
+
+
+
+
+
+
+
+
+
+
+
+
+疾病
+
+
+
+紅血球
+單核球和顆粒球（英语：Template:Monocyte and granulocyte disease）
+腫瘤與癌症
+組織細胞增多症（英语：Template:Histiocytosis）
+症狀和體徵
+
+同名（英语：Template:Eponymous medical signs for hematology）
+
+
+驗血
+
+發現
+
+
+
+
+
+
+
+
+
+
+治療
+
+
+
+輸血
+藥物
+
+血栓形成
+流血
+其他
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：人类蛋白质生长因子肾脏激素安进公司体育用药抗贫血制剂红细胞生成促进剂隐藏分类：引文格式1维护：显式使用等标签使用醫學導航子模板的文章
