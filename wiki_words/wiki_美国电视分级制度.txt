@@ -1,0 +1,109 @@
+美国电视分级制度
+電視家長指引（TV Parental Guidelines）是美國的一種電視內容分級制度。由於社會大眾對於電視節目中日漸增加的性、暴力和強烈粗俗用語內容有所顧慮[1]，在1996年12月19日首度由美國國會、電視業界和聯邦通訊委員會（FCC）共同提案此一分級制度，並於1997年1月1日於大多數主要的無線和有線電視網開始實施。
+此分級制度廣泛適用於大多數的電視影集、電視電影和經過剪輯後在電視上播出的一般電影；有時在美國電影協會並未指定電影分級的情況下，或當頻道播出未分級版本的電影作品時，付費電視台也會對頻道上播出的部分電影指定分級。
+美國電視分級制度是特別為了與V-chip技術配合使用而設計，所有在美國銷售的電視機自2000年起需強制內建該技術，但分級制度本身並無法律強制力，也不適用於體育、新聞節目和電視廣告。許多網路電視服務和數位影片商店也使用了此分級制度，包括Hulu、Amazon Video、Netflix、iTunes Store和Google Play。
+
+
+
+目录
+
+
+1 指引的發展
+2 分级
+
+2.1 TV-Y
+2.2 TV-Y7
+2.3 TV-G
+2.4 TV-PG
+2.5 TV-14
+2.6 TV-MA
+2.7 內容標示
+
+
+3 設計
+4 參見
+5 参考文献
+6 外部連結
+
+
+
+指引的發展[编辑]
+《1996年美國電信法》中要求美國國會必須在一年內召集娛樂產業業者，建立一套自願性的電視分級系統，提供家長關於電視節目內容是否適合兒童的詳細資訊。此一分級系統將會與「V-chip」裝置配合使用，該裝置內建於電視機中，可讓家長封鎖不適當的電視節目。[2]
+1996年2月29日，所有娛樂產業的代表，在全美廣播事業者聯盟（NAB）、國家有線電視和通訊協會（NCTA），以及美國電影協會（MPAA）的主導下，共同自願性的承諾參與分級制度的建立。由於每日有超過2,000小時的電視節目需要被評級，他們同意這項分級制度將由各無線和有線電視網自行實施。此一分級制度將適用於除了新聞、體育和廣告以外的所有節目，並依據各集的內容來分級。[2]
+1996年12月19日，娛樂產業宣布「電視家長指引」正式建立，為一種自願性的分級系統，提供關於電視節目內容的資訊，以讓家長能對孩子觀看的節目能做出更有依據性的選擇。此一指引是參考美國電影協會在1968年推出的電影分級系統。電視業者同意在所有接受分級的節目開始撥出時，在畫面上插入顯示分級圖示，並將指引編碼以配合V-chip使用。[3]電視業者也成立了監督委員會，由電視產業專家組成，以確保分級制度的準確性、一致性和連續性，並處理大眾對於特定節目分級的問題。[2]電視家長指引自1997年1月1日開始正式使用。[3]
+為了回應在分級系統中提供更多內容資訊的要求[4]，在1997年8月1日，電視產業以及來自兒童和醫療倡導團體的代表合作，宣布分級系統的修正版本。在此一修正後的系統下，電視節目將會維持現有的6種分級（TV-Y、TV-Y7、TV-G、TV-PG、TV-14和TV-MA），但依個別節目或單集中主觀性認定的內容種類，可適時加入內容標示，包括：D（暗示性對話）、L（粗俗語言）、S（性相關內容）、V（暴力）和FV（虛構暴力，僅限使用於TV-Y7分級）。[5]
+此外，修改提案中也載明，在所有已分級的節目開始播出時，分級圖示和內容標示將會於畫面上顯示15秒，圖示的尺寸也會放大。[6][7]這份修改後的指引受到主要的家庭和兒童權益倡導團體的支持，而電視播送業者、有線系統和電視網，以及電視製作公司也同樣表達支持。最後，修改後的指引也要求來自倡導團體社群的五位代表加入監督委員會。1998年3月12日，聯邦通訊委員會接受了商業影片節目分級系統[8]，並採納了V-chip的技術規格需求。[9]
+分级[编辑]
+TV-Y[编辑]
+
+本節目適合所有兒童觀看。[10]
+分級為TV-Y的節目適合所有年齡的兒童觀看。此分級節目中表現的主題性元素是特別為了低年齡觀眾而設計，包括2至6歲的兒童。根據美國聯邦通訊委員會，節目「不會驚嚇幼童。」[10]
+TV-Y7[编辑]
+
+本節目是為了7歲以上的幼童設計。[10]
+分級為TV-Y7的節目是為了7歲以上的兒童設計。聯邦通訊委員會表示節目「可能更適合已有能分辨虛構和現實發展性技巧的兒童。」[10]此分級節目中表現的主題性元素可能包含「喜劇性的暴力」，或不適合低於7歲兒童的內容。
+被加上「FV」內容標示的節目內容包含了較多的「虛構暴力」[10]，比起TV-Y7分級的其他節目有更多刺激性或打鬥性的內容。
+TV-G[编辑]
+
+大多數的家長會認為此節目適合所有年齡。[10]
+分級為TV-G的節目普遍的適合所有年齡觀眾收看。聯邦通訊委員會表示「此分級不表示該節目是特別為了兒童設計，大多數的家長可讓較年幼的兒童獨自觀看該節目。」[10]此分級節目中表現的主題性元素可能不含或僅有少許暴力內容，且不含或僅有少許與性相關的對話或情境。[11]
+TV-PG[编辑]
+
+本节目可能会让部分家长感到不适合8岁以下儿童观看，极少部分片段可能会有轻度惊吓，轻度暴力，或轻度性暗示，但大部分内容适合儿童观看
+TV-14[编辑]
+
+本節目包含家長可能認為不適合年齡低於14歲兒童的內容。[10]
+分級為TV-14的節目可能包含有家長或監護人可能認為不適合年齡低於14歲兒童的內容。聯邦通訊委員會警告「建議家長對注意該節目內容，並建議家長避免讓年齡低於14歲的兒童獨自觀看該節目」。[10]
+TV-MA[编辑]
+
+本節目是特別為了成年觀眾而製作，因此可能不適合年齡低於16歲的兒童。[10]
+可能些內容可能不適合年齡低於16歲的兒童觀看。在1997年8月宣布調整分級系統前，此分級原為「TV-M」，但由於註冊商標的爭議，以及避免和娛樂軟體分級委員會（ESRB）的電子遊戲「M for Mature」分級混淆，因而改為「TV-MA」。[12]全國電視網和地方電視台很少使用此一分級，這是由於聯邦通訊委員會對於這些機構的節目內容有所限制。但TV-MA分級經常適用於特定有線頻道（尤其是額外付費的頻道）和串流頻道播出的主流節目和軟性色情片。此一分級的節目通常會包含強烈和頻繁的性色情內容、激烈暴力，或兩者皆有。
+內容標示[编辑]
+根據聯邦通訊委員會，某些節目主題性內容「可能需要家長的指引，或節目可能包含以下次分級中的一種或多種內容」，這些次分級以單一英文字母標示：
+
+D – 暗示性對話（鮮少和TV-MA分級同時使用[13]）
+L – 粗俗語言
+S – 性相關情境
+V – 暴力
+FV – 虛構暴力（僅限TV-Y7分級使用）
+
+除了分級以外，依據節目內容的不同，最多可加註4個內容標示。其中代表虛構暴力的「FV」標示僅限TV-Y7的節目使用（部分兒童節目可能包含此內容標示），而TV-Y7的節目也不可加註「FV」以外的內容標示。隨著各分級所適用年齡的增長，內容標示所指的元素可能在節目裡會有更顯著的表現。這些內容標示可與6種分級搭配為44種不同的組合。[14]「暗示性對話」內容標示通常僅會用於TV-PG和TV-14的節目，雖然部分電視網可能會選擇將旗下TV-MA分級的節目加上此標示。[15]直到在1997年新增了「FV」內容標示前，TV-Y7分級的節目是使用「V」作為標示。[16]
+設計[编辑]
+每個長度在30分鐘以下並接受分級的節目播出時，在畫面的左上角會顯示大型的分級圖示。直到2005年6月前，圖示的尺寸較小，並僅會維持顯示7.5秒。長度超過1小時的節目播出時，每隔30分鐘需要於畫面左上角顯示分級圖示。自2005年6月起，除了節目開始播放時，許多電視網也會在每個廣告時段結束後顯示分級圖示。
+當電視網使用16:9寬螢幕播出時，幾乎所有的分級圖示都會標示在4:3的安全顯示範圍內。
+參見[编辑]
+
+電視分級制度
+美国电影分级制度
+
+参考文献[编辑]
+
+
+^ Katz, Richard. Cable agrees to monitor violence. Multichannel News (NewBay Media). 1994-01-17 [2013-03-11].  
+^ 2.0 2.1 2.2 Jack Valenti; 等. Letter to William F. Caton of the FCC from the television industry establishing a voluntary system of parental guidelines for rating television programming (PDF). 1997-01-17 [2013-07-24]. 
+^ 3.0 3.1 TV Networks Ring in the Ratings to Start the New Year. Albany Times Union. 1997-01-02 [2013-07-24].  
+^ Parents Do Not Find New Television Ratings System Helpful, Study Says. Business News. Chicago Tribune. Knight Ridder. 1998-09-25 [2013-07-24].  
+^ Commission Seeks Comment on Revised Industry Proposal for Rating Video Programming (CS Docket No. 97-55). Public Notice. Federal Communications Commission. 1997-09-09 [2013-07-24]. 
+^ Jack Valenti et. al. Revised Industry Proposal for Rating Video Programming. Publication from the television industry. [2013-07-24]. 
+^ Notice of proposed rulemaking on technical requirements to enable blocking of programs based on program ratings (FCC 97-340, ET Docket No. 97-206) (PDF). Federal Communications Commission. 1997-09-25 [2013-07-24]. 
+^ Implementation of Section 551 of the Telecommunications Act of 1996 Video Programming Ratings (FCC 98-35, CS Docket No. 97-55). Federal Communications Commission. 1998-03-13 [2013-07-24]. 
+^ Technical Requirements to Enable Blocking of Video Programming based on Program Ratings (FCC 98-36, ET Docket No. 97-206). Federal Communications Commission. 1998-03-13 [2013-07-24]. 
+^ 10.0 10.1 10.2 10.3 10.4 10.5 10.6 10.7 10.8 10.9 V-chip: Viewing Television Responsibly. FCC V-chip. Federal Communications Commission. 2000 [2013-07-23]. 
+^ Understanding the TV Ratings. The TV Parental Guidelines. Federal Communications Commission. 2010-01-22 [2013-07-24]. 
+^ Aversa, Jeannine. Trademark Problem: TV-M To Become TV-MA. The Seattle Times. 1997-03-13. 
+^ Understanding the TV Ratings. The TV Parental Guidelines. 
+^ TV Ratings. KSAS-TV. 2013-06-10 [2013-07-24]. In all there are 44 combinations of symbols for the TV Parental Guideline system. 
+^ 此一聯邦通訊委員會的文件包含了所有「D」內容標示的使用情形：The V-Chip: Putting Restrictions on What Your Children Watch (PDF). Consumer Guide. Federal Communications Commission: 2. 25 June 2013 [31 July 2013]. 
+^ Mifflin, Lawrie. Impasse Snags Proposed TV Rating System. The Ledger Lakeland (Lakeland, Florida). 1997-06-25: A1, A4 [2014-02-13]. 
+
+
+外部連結[编辑]
+
+TV Parental Guidelines – 官方網站
+transition.fcc.gov/vchip/ V-Chip - 聯邦通訊委員會網站上關於 V-Chip 的資訊
+
+
+
+
+
+分类：美國電視媒体内容分级制度隐藏分类：含有連結內容需訂閱查看的頁面

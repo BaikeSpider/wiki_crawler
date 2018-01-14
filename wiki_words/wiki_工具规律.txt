@@ -1,0 +1,49 @@
+工具规律
+这种概念也被称作 工具定律，马斯洛的锤子，小木槌或者金锤子，表现为对一个熟悉的工具过度的依赖。亚伯拉罕·马斯洛在1966年提到：“我认为假设你所拥有的工具只有一个锤子时，你把所有的事物当作钉子来对待是很有吸引力的。”[1]
+
+
+
+目录
+
+
+1 历史
+2 相关概念
+3 参见
+4 引用
+
+
+
+历史[编辑]
+该概念由Abraham Kaplan（英语：Abraham Kaplan）在1964年，第一次有记录的情况下提出：“我把它称为工具定律，它可以这样具体的表述：给一个小男孩一个锤子，然后他会发现所有他遇到的事物都需要敲打。”[2]
+“马斯洛的锤子”的一个耳熟能详的说法是“如果你有的只是一个锤子，那么所有的东西看起来都像一个钉子”以及一些由此转化的说法，是来自于亚伯拉罕·马斯洛1966年发行的《科學的心理學》一书。[1]
+它也被称作“锤子定律”，[3] 同时被马斯洛[4] 和Kaplan[5] 所提出。
+锤子和钉子的比喻最初可能并不是来自于Kaplan或马斯洛。英文表达方式"a Birmingham screwdriver"的意思是一个锤子，引申为一种对所有目的都是用一种工具的习惯，这个表达方式在Kaplan和马斯洛至少一个世纪之前就存在了。[6]该观点同样也为认为是由马克·吐温提出的，尽管在马克·吐温发表的写物中没有任何文档可以表明这种起源[7]。
+在“巴鲁克观察”的名义下，该观点同样又股市观察家及作家伯纳德·巴鲁克（英语：Bernard Baruch）所提出[8]。
+相关概念[编辑]
+其他一些狭义上的工具主义形式包括：déformation professionnelle，一个法语中的术语意思为“从一个人所专的角度去看待事物”，以及regulatory capture（英语：regulatory capture），管理者会产生一种从他们专长的管理角度去看待事物的趋势。
+“金锤子”或者“把一个熟悉的技术或理念强迫的应用于大量的软件问题上”的概念已经被认为是一种反模式，一种编程时应该避免的实践，并且引入到了信息科技一书中在1998年。[9]
+除了一些常见的平实的例子（在这些案例中使用“金锤子”的解决方法可能是“针对工作使用正确的工具”），这种思维模式的反义词是总是存在不止一种方式去装饰一只猫。
+参见[编辑]
+
+确认偏误
+萬能藥
+
+引用[编辑]
+
+
+^ 1.0 1.1 Abraham H. Maslow. The Psychology of Science. 1966: 15. 
+^ Abraham Kaplan. The Conduct of Inquiry: Methodology for Behavioral Science. San Francisco: Chandler Publishing Co. 1964: 28. 
+^ Richard W. Brislin. Cross-Cultural Research Methods: Strategies, Problems, Applications. (编) Irwin Altman, Amos Rapoport, and Joachim F. Wohlwill. Environment and Culture. Springer. 1980: 73. ISBN 978-0-306-40367-5. 
+^ Bruce Klatt. The ultimate training workshop handbook. McGraw-Hill Professional. 1999: 4. ISBN 978-0-07-038201-5. 
+^ Timothy J. Cartwright. The management of human settlements in developing countries: case studies in the application of microcomputers. Taylor & Francis. 1990: 230. ISBN 978-0-415-03124-0. 
+^ Green, Jonathon. Dictionary of Slang. Cassell. 1998. 
+^ Thomas J. McQuade. Science and Markets as Adaptive Classifying Systems. (编) Elisabeth Krecké, Carine Krecké, and Roger Koppl. Cognition and Economics. Emerald Group Publishing. 2006: 77. ISBN 978-0-7623-1378-5. 
+^ [1]
+^ William J. Brown, Raphael C. Malveau, Hays W. "Skip" McCormick, and Thomas J. Mowbray. AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis. Wiley. 1998: 111. ISBN 978-0-471-19713-3. 
+
+
+
+
+
+
+分类：反模式

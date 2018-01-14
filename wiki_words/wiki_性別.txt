@@ -1,0 +1,673 @@
+性别
+
+
+本條目介紹的是生物学上的性別。關於“性别”的其他意思，請見“性別 (消歧義)”。關於“性”的其他意思，請見“性”。關於社會性別，請見“性別 (文化)”。關於心理性別，請見“性別認同”。
+
+
+
+
+提示：本条目的主题不是性或性別 (文化)。
+
+
+
+
+雄配子（精子）受精於雌配子（卵子）
+
+
+生理性別又稱生殖性別或生物性別、生物中有許多物種可以劃分成雄性及雌性，這稱之為性別（sex）[1] ，不過也有些會是間性。有性生殖是指雄性和雌性生物將其基因特質混合重組，繁衍後代的過程。配子是一種特殊的細胞，其中有生物的部份基因，雄性和雌性的配子結合後會產生後代。有些生物兩性的配子在外形及功能上都相同同形配子接合（英语：isogamy），但大部份的生物的兩性配子會有明顯不同的外形（异型配子接合（英语：anisogamy））。
+對於人類和其他的哺乳類動物，雄性會有XY染色體，而雌性會有XX染色體，這屬於XY性別決定系統，其他動物也有其性別決定系統，例如鳥類的 ZW性別決定系統（英语：ZW sex-determination system）及昆蟲的X0性別決定系統（英语：X0 sex-determination system）。
+生物體產生的配子由其性別決定，雄性產生雄配子（動物的精子或是植物的花粉），雌性產生雌配子（卵母細胞或是卵細胞），若一生物可以產生雄配子，也可以產生雌配子，稱為雌雄同體。常常同一種生物的外形會因為其性別而有明顯的不同，這稱為两性异形，而性選擇及生物擇偶（英语：mate choice）也會加速兩性外形上的差異化。
+
+
+
+目录
+
+
+1 簡介
+2 演化
+3 两性异形
+4 参考文献
+5 延伸閱讀與外部連結
+6 參見
+
+
+
+簡介[编辑]
+
+
+
+
+雄配子（精子）和雌配子（卵子）結合
+
+
+生殖是生命的基本特質之一，也就是產生新個體的能力，性就是和生殖有關的一個概念。生命從簡單的型式演化成複雜的型式，因此生殖機制也變的複雜。一開始的生殖只是一個複製的過程，產生一個新個體，其基因完全和原來個體相同，這種生殖稱為無性生殖，許多單細胞生物仍用此方式繁衍後代，這也是一些多細胞生物繁殖的方式之一[2]。另一種生殖方式稱為有性生殖，其後代的基因是來自二個不同的個體，不過也有些生物的生殖方式介於兩者之間，例如細菌是有無性生殖，但某個細菌的基因可以轉移到另一個細菌體內[3]
+若不考慮介於有性生殖和無性生殖之間的形態，有性生殖和無性生殖之間的基本差異在於繁衍後代所需基因物質產生的方式。一般而言，細胞會在無性分裂之前複製其基因，然後分裂，這種細胞稱為有丝分裂。若是有性生殖，會有另一種的細胞分裂，但其中間沒有基因複製的過程，稱為減數分裂，分裂後的細胞只有一半的染色體，稱為配子。配子就是生物體用來進行有性生殖的細胞[4]。配子之間可以進行有性生殖，而且隨著生殖系統一直演變，由相近形態的雄雌配子到不同形態的雄雌配子，例如體積較大的雌配子（卵子）及體積較小的雄配子（精子）[5]
+在較複雜的生物體中，性器官會在有性生殖中製造配子，並且交換配子。許多物種（特別是動物）會有兩性的分化，因此為分為雄性及雌性的。不過也有一些物種沒有兩性的分化，在同一個生物體中可能同時有雄性及雌性的生殖器官，稱為雌雄間性，這在植物中相當常見[6]。
+演化[编辑]
+
+
+
+
+不同形式的异型配子（英语：anisogamy）：
+A)活動細胞的异型配子, B)卵式生殖（卵細胞及精細胞）, C) 不動細胞的异型配子（卵細胞及不動精子）
+
+
+
+不同形式的同型配合：
+A)活動細胞的同型配子, B) 不動細胞的同型配子, C) 綴合
+
+
+
+
+有性生殖在十億年前就已出現在單細胞的真核生物[7]。性別演化的原因，以及為何性別會一直延續到現在，仍然是在爭論中的議題。其中有許多可能的原因，包括：性可以創造子代中的變化，性有助於有利性狀的散播，可以消除不利的性狀，以及促進種系DNA的修復的。
+有性生殖是真核生物（細胞中有細胞核及粒線體的生物）有的現象。除了動物、植物及真菌外，原生生物（例如疟疾病原體）也會進行有性生殖。有些細菌利用接合來在細胞之間轉換基因，雖然和有性生殖不同，不過這也有助於基因性狀的混合。
+真核生物中有性生殖的一項特別是其配子之間的差異以及其受精方式的二元性差異。一個物體之中多樣的配子種類仍視為是一種有性生殖，不過目前尚未找到有任一個多細胞生物存在三種不同的配子[8][9][10]
+性的發展是在原核生物或真核生物早期的階段[11]，不過性別決定系統的起源在真核生物相當早期時就已經出現。鸟、鱼及部份甲壳亚门的性別是ZW性別決定系統（英语：ZW sex-determination system）。大部份的哺乳類則是XY性別決定系統[12]，有些昆蟲[13]及植物（Silene latifolia）也是XY性別決定系統[14]。另外有些昆虫則是X0性別決定系統（英语：X0 sex-determination system）。
+鳥類的ZW性別決定系統和哺乳類的XY性別決定系統中，沒有共同的基因[15]，從雞和人的比較中可以看出差異，Z基因類似人類的第九號常染色體，和X染色體及Y染色體都不同，因此推論ZW性別決定系統及XY性別決定系統沒有共同的的起源，而性染色體是由鳥類及哺乳類共同起源的常染色體演化而來。有一篇2004年的論文比較雞的Z染色體和鸭嘴兽的X染色體，推論這兩個系統有關係[16]。
+两性异形[编辑]
+主条目：两性异形
+
+
+
+
+雌雄雉鸡在體型和外貌上有明顯差異
+
+
+許多動物及一些植物的雌雄個體在大小及外貌上有明顯差異，這個現象稱為两性异形。一般而言人类的性别差异（英语：Sex differences in humans）有這些：男性的體型較女性要大，體毛較女性要多、女性有較明顯的乳房、較寬的臀部、較高的體脂肪百分比。在其他物種中，兩性的差異可能更加明顯，例如表示在顏色及體重上。
+動物的两性异形常常和性選擇有關，也就是個體之間要和異性交配而產生的競爭[17]。例如公鹿會在繁殖季節彼此用鹿角爭鬥，獲勝者 才得以和母鹿交配。許多物種的雄性明顯要比雌性要大。哺乳類中若雄性的體型明顯的大於雌性，比較傾向會有一夫多妻制的交配系統，可能是因為雄性之間種內競爭的選擇造成的，例如象海豹属。有些例子指出是雌性個體的喜好造成两性异形，例如突眼蠅（英语：stalk-eyed fly）的例子[18]。
+其他的動物，像是大部份的昆蟲及許多的魚類，其雌性個體會比雄性要大，這可能是因為要產生卵細胞比產生精子需要更多的能量有關，體型越大的雌性個體可以產生越多的卵細胞[19]。例如母黑寡婦蜘蛛的身長一般會是公蜘蛛身長的兩倍[20]。有時两性之間會有很大的差異，例如公的鮟鱇魚是以寄生方式依賴母鮟鱇魚生存。有些植物也有两性异形，雌株會明顯的大於雄株，例如曲尾蘚屬（英语：Dicranum）[21]及Sphaerocarpos（英语：Sphaerocarpos）[22]。有些證據指出在這裡物種身上的两性异形和性染色體[22][23]，或是和雌株產生的化學信號有關[24]。
+在鳥類中，公鳥的顏色（英语：Animal coloration）較母鳥鮮艷，也有較明顯突出的外觀（例如公孔雀的尾羽），似乎會讓公鳥比較容易被被捕食者發現，似乎反而是處在某種劣勢中。有一種有關這類現象的解釋，稱為障礙原則（英语：handicap principle）[25]，這種假說認為雄性藉此表示他們在這様的障礙下仍可以存活，因此有較高的適應度，而這様的遺傳會影響公的和母的後代，不過母的後代不會受到這種「障礙」的影響。
+参考文献[编辑]
+
+
+^ sex. CollinsDictionary.com. Collins English Dictionary—Complete & Unabridged 11th Edition. Retrieved 3 December 2012.
+^ Raven, P. H.; 等. Biology of Plants 7 th. NY: Freeman and Company Publishers. 
+^ Holmes, R. K.; 等. Genetics: Conjugation 4 th. University of Texas. 1996. 
+^ Freeman, Scott. Biological Science 3rd. Pearson Prentice Hall. 2005. 
+^ Dusenbery, David B. Living at Micro Scale. Cambridge, Mass: Harvard University Press. 2009. 
+^ Beukeboom, L., and other. The Evolution of Sex Determination. Oxford University Press. 2014. 
+^ Book Review for Life: A Natural History of the First Four Billion Years of Life on Earth. Jupiter Scientific. [2008-04-07]. 
+^ Schaffer, Amanda (updated 27 September 2007) "Pas de Deux: Why Are There Only Two Sexes?", Slate.
+^ Hurst, Laurence D. Why are There Only Two Sexes?. Proceedings: Biological Sciences. 1996, 263 (1369): 415–422. JSTOR 50723. doi:10.1098/rspb.1996.0063. 
+^ Haag, E. S. Why two sexes? Sex determination in multicellular organisms and protistan mating types. Seminars in Cell and Developmental Biology. 2007, 18 (3): 348–9. PMID 17644371. doi:10.1016/j.semcdb.2007.05.009. 
+^ Bernstein H and Bernstein C (2013). Evolutionary Origin and Adaptive Function of Meiosis. In Meiosis: Bernstein C and Bernstein H, editors. Chapter 3: pages 41-75 ISBN 978-953-51-1197-9, InTech, http://www.intechopen.com/books/meiosis/evolutionary-origin-and-adaptive-function-of-meiosis
+^ Wallis MC, Waters PD, Graves JA. Sex determination in mammals--before and after the evolution of SRY. Cell. Mol. Life Sci. 2008, 65 (20): 3182–95. PMID 18581056. doi:10.1007/s00018-008-8109-z. 
+^ Kaiser VB, Bachtrog D. Evolution of sex chromosomes in insects. Annu. Rev. Genet. 2010, 44: 91–112. PMC 4105922. PMID 21047257. doi:10.1146/annurev-genet-102209-163600. 
+^ Guttman DS, Charlesworth D. An X-linked gene with a degenerate Y-linked homologue in a dioecious plant. Nature. 1998, 393 (6682): 263–6. PMID 9607762. doi:10.1038/30492. 
+^ Stiglec, R.; Ezaz, T; Graves, J. A. A new look at the evolution of avian sex chromosomes. Cytogenet. Genome Res. 2007, 117 (1–4): 103–109. PMID 17675850. doi:10.1159/000103170. 
+^ Grützner, F.; Rens, W.; Tsend-Ayush, E.; El-Mogharbel, N.; O'Brien, P. C. M.; Jones, R. C.; Ferguson-Smith, M. A.; Marshall, J. A. In the platypus a meiotic chain of ten sex chromosomes shares genes with the bird Z and mammal X chromosomes. Nature. 2004, 432 (7019): 913–917. PMID 15502814. doi:10.1038/nature03021. 
+^ Darwin, C. The Descent of Man. Murray, London. 1871. ISBN 0-8014-2085-7. 
+^ Wilkinson, G. S.; Reillo, P. R. Female choice response to artificial selection on an exaggerated male trait in a stalk-eyed fly. Proceedings of the Royal Society B. 22 January 1994, 225 (1342): 1–6. doi:10.1098/rspb.1994.0001. 
+^ Stuart-Smith, J.; Swain, R.; Stuart-Smith, R.; Wapstra, E. Is fecundity the ultimate cause of female-biased size dimorphism in a dragon lizard?. Journal of Zoology. 2007, 273 (3): 266–272. doi:10.1111/j.1469-7998.2007.00324.x. 
+^ Southern black widow spider. Insects.tamu.edu. [2012-08-08]. （原始内容存档于2003-08-31）. 
+^ Shaw, A. Jonathan. Population ecology, population genetics, and microevolution. (编) A. Jonathan Shaw & Bernard Goffinet (eds.). Bryophyte Biology. Cambridge: Cambridge University Press. 2000: 379–380. ISBN 0-521-66097-1. 
+^ 22.0 22.1 Schuster, Rudolf M. Comparative Anatomy and Morphology of the Hepaticae. New Manual of Bryology 2. Nichinan, Miyazaki, Japan: The Hattori botanical Laboratory. 1984: 891. 
+^ Crum, Howard A.; Anderson, Lewis E. Mosses of Eastern North America 1. New York: Columbia University Press. 1980: 196. ISBN 0-231-04516-6. 
+^ Briggs, D. A. Experimental taxonomy of some British species of genus Dicranum. New Phytologist. 1965, 64 (3): 366–386. doi:10.1111/j.1469-8137.1965.tb07546.x. 
+^ Zahavi, Amotz; Zahavi, Avishag. The handicap principle: a missing piece of Darwin's puzzle. Oxford University Press. 1997. ISBN 0-19-510035-2. 
+
+
+延伸閱讀與外部連結[编辑]
+
+Francoeur, Robert T.（Ed.）, "The International Encyclopedia of Sexuality" [full text]
+Raymond J. Noonan, Robert T. Francoeur, and Martha Cornog, "Continuum Complete International Encyclopedia of Sexuality". Continuum, August 2003, ISBN 0-8264-1488-5
+Human Sexual Differentiation by P. C. Sizonenko
+Sex Tutorial
+Famous Quotes on Sex
+Sex Dictionary
+New Scientist article on Sex chromosomes in the platypus
+
+參見[编辑]
+
+
+性主题
+生物学主题
+
+
+
+性别 (文化)
+多元性別
+跨性別者
+雙性人
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+性
+
+
+
+
+
+
+生物學
+
+
+
+性別
+
+女性
+男性
+雙性
+
+
+勃起
+潮吹
+射精
+受精
+授精
+妊娠
+性慾
+性衝動
+性喚起
+性高潮
+尿道球腺液
+陰道分泌液
+
+
+
+
+
+
+
+
+心理學
+
+
+
+身份
+性身份
+性取向
+性別認同
+性別二元
+性別氣質
+性別角色
+
+
+
+
+
+
+
+
+健康教育
+
+
+
+性學
+性教育
+
+性成熟
+身體意象
+生育控制
+性感染疾病
+避孕套
+安全性行為
+
+
+生殖健康
+生殖醫學
+
+婦產科
+男科學
+泌尿外科
+
+
+性醫學
+性功能障礙（性慾停滯（英语：Hypoactive sexual desire disorder）
+性慾亢進
+勃起功能障礙）
+性治療
+
+性代理人
+
+
+性成瘾
+性強迫症
+被愛妄想症
+
+
+
+
+
+
+
+
+性與法律
+
+
+
+最低合法性交年齡
+傳播艾滋病罪
+性侵犯
+
+强奸
+性騷擾
+性虐待
+性暴力
+非法暴露（英语：Indecent exposure）
+
+
+
+
+
+
+
+
+
+
+性與歷史（英语：History of human sexuality）
+
+
+
+自慰史
+情色描寫史
+1960年代反文化運動
+
+性革命
+色情黃金時代（英语：Golden Age of Porn）
+藍色電影（英语：Blue Movie）
+女性主義衝突（英语：Feminist Sex Wars）
+
+
+
+
+
+
+
+
+
+
+社會關係
+
+
+
+親密關係
+開放式關係
+三角關係
+三角家庭
+性伙伴
+性倫理
+性派對
+愛
+愛情
+調情
+一夜情
+多邊戀
+浪漫
+濫交
+禁慾主義
+性禁慾
+計劃生育
+婚姻
+婚前性行為
+援助交際
+性資本（英语：Sexual capital）
+性物化（英语：Sexual objectification）
+無政府主義與性愛有關的問題（英语：Anarchism and issues related to love and sex）
+
+
+
+
+
+
+
+
+性活動
+
+
+
+自慰
+
+自我舔陰
+自我吮陽
+
+
+前戲
+后戲
+性交
+群交
+
+三人性行為
+四人性行為
+
+
+插入式性行為
+
+指交
+拳交
+手交
+足交
+肛交
+口交
+
+舐陰
+咂陽
+69式
+舔肛
+
+
+尿道交
+
+
+非插入式性行為
+
+乳交
+股交
+女陰摩擦
+陰莖摩擦
+感官按摩
+乳頭刺激
+
+
+經期性行為
+叫床
+愛撫
+下流話
+性體位
+顏射
+戀物
+BDSM
+傳統性愛
+短促性愛
+保留性交
+無套性交
+虛擬性交
+
+網絡性交
+電話性交
+
+
+性高潮控制
+体外排精
+性偏好
+性偏離
+交換配偶
+
+
+
+
+
+
+
+
+性產業
+
+
+
+情色
+色情
+
+色情演員
+网络色情
+
+
+性交易
+性玩具
+性玩偶
+性商店
+性旅遊
+
+女性
+兒童
+
+
+性工作者
+性博物馆
+成人網站
+成人视频
+成人圖書
+
+成人雜誌
+
+
+成人文学
+
+情色文学
+
+色情文学
+
+
+
+
+成人漫畫
+成人動畫
+成人電影
+
+色情電影
+
+
+成人遊戲
+
+成人電子遊戲
+
+
+春宮圖
+紅燈區
+脫衣舞俱樂部
+網絡攝像模特（英语：Webcam model）
+
+
+
+
+
+
+
+
+各國
+
+
+
+日本
+中國
+韓國（英语：Sexuality in South Korea）
+菲律賓（英语：Sexuality in the Philippines）
+美國青少年（英语：Adolescent sexuality in the United States）
+
+
+
+
+
+
+
+
+宗教與性（英语：Religion and sexuality）
+
+
+
+性魔術（英语：Sex magic）
+佛教與性（英语：Buddhism and sexuality）
+基督教魔學的性（英语：Sexuality in Christian demonology）
+伊斯蘭教性法學（英语：Islamic sexual jurisprudence）
+房中术
+性與摩爾門教（英语：Sexuality and Mormonism）
+
+
+
+
+
+
+
+
+
+
+
+ 主題首頁－主題話題
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+性别
+
+
+
+
+
+
+生物學術語
+
+
+
+两性异形
+
+雄性
+雌性
+
+
+Sexual differentiation
+
+雌性化
+Virilization
+
+
+性別決定系統
+
+XY
+ZW
+XO
+Temperature-dependent
+半倍數性（英语：Haplodiploidy）
+
+
+性染色體
+
+X染色體
+Y染色體
+
+
+SRY基因
+雌雄間性
+
+Sequential hermaphroditism
+
+
+雙性人
+
+
+
+
+
+
+
+
+有性生殖
+
+
+
+有性生殖的演化
+
+Anisogamy
+Isogamy
+
+
+生殖细胞
+生殖系统
+生殖器
+减数分裂
+Gametogenesis
+
+精子发生
+Oogenesis
+
+
+配子
+
+精子
+卵细胞
+
+
+受精
+
+體外受精
+體內受精（英语：Internal fertilization）
+
+
+性選擇
+植物繁殖
+Fungal reproduction
+有性生殖
+
+性交
+Human reproduction
+
+
+
+
+
+
+
+
+
+
+人类的性
+
+
+
+Plant sexuality
+Animal sexuality
+人类的性
+
+Mechanics
+Differentiation
+人类性行为
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4020547-2
+
+
+
+
+
+
+
+
+
+
+
+
+分类：性別性學日語借詞隐藏分类：使用ISBN魔术链接的页面包含规范控制信息的维基百科条目

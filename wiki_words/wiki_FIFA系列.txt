@@ -1,0 +1,544 @@
+FIFA系列
+
+
+
+
+
+本条目需要更新。（2013年12月14日） 
+請更新本文以反映近況和新增内容。完成修改時，請移除本模板。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIFA系列
+
+
+类型
+体育游戏（SPG）
+
+
+开发
+EA Sports
+
+
+发行
+艺电（EA）
+
+
+平台
+
+现在：
+Microsoft Windows、Xbox 360、Xbox 360 Kinect、PS3、PSP、PS2、Wii、Wii U、Nintendo 3DS、PSV、Mobile Phone、iOS、Android
+主要旧平台：
+Mega Drive、SNES、PlayStation、Nintendo GameCube、Game Boy Advance、Sega Saturn、Nintendo 64、Game Boy、Game Boy Color、Nintendo DS、3DO、Sega 32X、Sega Game Gear、Sega Master System、Sega CD、Amiga、Nokia N-gage、Gizmondo、DOS、Xbox
+
+
+首作
+FIFA International Soccer
+1993年7月15日，​24年前​（1993-07-15）
+
+
+最新作
+FIFA 17
+2016年9月22日，​15個月前​（2016-09-22）
+
+
+FIFA（英语：FIFA）是一个非常流行的足球类电子游戏系列，由美国艺电（Electronic Arts，简称EA）旗下的EA Sports发行。自1993年末发行第一个版本《FIFA 94》以来，EA Sports每年都会在欧洲各国联赛开始前发行新版本，逢有世界杯和欧锦赛的年份，还会发行世界杯和欧锦赛游戏。与EA Sports的其他游戏，如《NFL》系列和《NHL》系列等不同的是，《FIFA》系列是它所在的游戏领域的后来者。《FIFA 94》刚发行时，足球游戏市场中已经有了Sensible Soccer、Kick Off和Matchday Soccer等自1980年代后期就开始占据市场的知名游戏。不过在此时，EA Sports已经意识到了《FIFA》系列将会成为他们的又一个摇钱树。
+
+
+
+目录
+
+
+1 歷史
+2 游戏系列
+
+2.1 FIFA国际足球（FIFA International Soccer）
+2.2 FIFA 95
+2.3 FIFA 96
+2.4 FIFA 97
+2.5 FIFA 98世界杯之路（FIFA: Road to World Cup 98）
+2.6 FIFA 99
+2.7 FIFA 2000
+2.8 FIFA 2001
+2.9 FIFA 2002
+2.10 FIFA 2003
+2.11 FIFA 2004
+2.12 FIFA 2005
+2.13 FIFA 06
+2.14 FIFA 07
+2.15 FIFA 08
+2.16 FIFA 09
+2.17 FIFA 10
+2.18 FIFA 11
+2.19 FIFA 12
+
+2.19.1 欧洲杯2012（UEFA EURO 2012）
+
+
+2.20 FIFA 13
+2.21 FIFA 14
+2.22 FIFA 15
+2.23 FIFA 16
+2.24 FIFA 17
+2.25 FIFA 18
+
+
+3 参考文献
+4 参见
+5 外部链接
+
+
+
+歷史[编辑]
+電子藝界（EA）對遊戲的大規模宣傳著重於場地的等角投影視角（當時其他同類遊戲使用俯視、側視或鳥瞰的視角），細緻的圖像和動作，當然還有国际足联（FIFA）的認可（雖然它沒有使用真實球員的名字）。遊戲在1993年的聖誕節上市，命名為《FIFA國際足球》（FIFA International Soccer），並在當時的主流平臺發行。
+《FIFA 95》僅僅添加了俱樂部比賽項目，而《FIFA 96》則大有創新。個人電腦、世嘉32位機和世嘉土星版本的遊戲首次使用真實球員的名字和電子藝界的虛擬球場引擎，創造了2D的球員和3D的球場。《FIFA 97》開始用粗糙的多角模型製作球員並添加了室內比賽項目，但真正的成功是由《FIFA98：通住世界盃之路》創造的。《FIFA98》擁有改進的圖像、帶有資格賽的完整的世界盃賽程（包括了在国际足联註冊的所有國家隊）和改良的遊戲性。幾個月過後，《98世界盃》，作為EA公司官方認可首個聯賽遊戲，改進了對Direct3D的支持，給每支隊伍配備了各自的工具箱，打破了1986年US Gold公司的《世界盃嘉年華》到Gremlin公司的《96歐洲杯》所沿襲的聯賽遊戲的次序。
+接下來幾年的遊戲發行遭到了不同程度的批評：玩家開始抱怨遊戲中的AI，從沒被更正過的程序缺陷，售後服務質量及對遊戲上一代的太少的改進。所有這些使遊戲的受歡迎度下降不少，但是支持者每年仍然願意給EA公司“tabula rasa”的稱號。隨著模擬器和遊戲平臺市場的擴展，《FIFA》遭到了其它品牌遊戲的衝擊，例如科乐美（Konami）公司的《職業進化足球》（Pro Evolution Soccer，简称PES）——在美國和日本被稱為《勝利十一人》（Winning Eleven）。EA公司決心致力於《FIFA 2003》的製作，一年之後，新遊戲包括了Football Fusion模式，使玩家能夠使用《TCM 2004》（同樣使用了FIFA的引擎）中的球隊來進行遊戲。隨著科乐美公司宣佈《PES3》將會發行PC版本，EA公司開始加倍努力進行《FIFA》系列的復興計劃。
+近年，《FIFA》系列在系統上的大幅進步和《職業進化足球》的停滯不前下，《FIFA》系列基本上已經取代《職業進化足球》成為家用遊戲機上最受歡迎的足球遊戲。
+游戏系列[编辑]
+FIFA国际足球（FIFA International Soccer）[编辑]
+FIFA 95[编辑]
+FIFA 96[编辑]
+FIFA 97[编辑]
+FIFA 98世界杯之路（FIFA: Road to World Cup 98）[编辑]
+
+其他语言的名称：Rumbo a la Copa Mundial（西班牙语）、En Route Pour La Coupe du Monde（法语）、Die WM-Qualifikation（德语）
+宣传语：“你的唯一目标：晋级”
+封面：游戏的包装有多个封面，封面人物有：贝克汉姆，穆勒，劳尔·冈萨雷斯及吉诺拉。
+平台：SNES and Sega Mega Drive（仅用于PAL模式）, Windows，Sega Saturn，PSX，Nintendo 64。
+
+此款游戏被许多人认为是《FIFA》系列中最优秀的一款。它拥有优化过的图形引擎，用户定制球员、球队的选项，16座真实的体育场，更高的AI以及受欢迎的“世界杯之路”模式和所有在国际足联注册的国家队。
+英国乐队Blur为这个游戏创作了著名歌曲《Song 2》。游戏开场音乐选用了英国乐队Chumbawamba的歌曲《Tubthumping》。
+FIFA 99[编辑]
+遊戲開場音樂選用了英國電子音樂大師Fatboy Slim（流線胖小子）的知名歌曲《The Rockafeller Skank》‏。
+FIFA 2000[编辑]
+FIFA 2001[编辑]
+FIFA 2002[编辑]
+
+
+
+
+FIFA 2002游戏界面
+
+
+
+封面人物：蒂埃里·亨利（英超）、杰拉德·阿萨莫阿（德甲）、西布西索·祖马（南非）
+适用平台：Windows、PlayStation、PS2、GameCube、GBA
+
+由于科乐美（Konami）在行业上的领先地位，电子艺界决定推出在射门和传球增加力量槽来改善游戏。但是，很多玩家注意到本游戏似乎在难度较高时预先设定比赛结果。《FIFA》的这个版本也不再使用原来的以颜色条代替队徽，而首次得到了全部球队的正式队徽。力量槽也可以根据玩家喜好来调整。
+
+
+
+
+均以得到的所有奖项
+
+
+电子艺界从意大利贴纸公司Panini（英语：Panini Group）购得版权，在玩家赢得某些奖项（欧洲冠军杯，欧洲联盟杯，世界杯欧洲区、南美洲区、中北美洲区、亚洲区预选赛以及后来分别激活欧锦赛、美洲杯、美洲金盃，以及亚洲杯，以及赢得以上所有奖项时激活的联合会杯）时，游戏将会颁发一张卡片，上有一位球员的照片。关于这个奖励系统经常被提出的问题就是赢得各种奖励对游戏的可玩性并没有什么改善。
+并且，已经晋级世界杯的法国（上届冠军）、日本和韩国（东道主）国家队也可以参加各自大洲的世界杯预选赛，并通过预选赛或者友谊赛来改变本国家队在国际足联的排名。
+球迷们期待着的国家队比赛模式中包括了所有的国家队和选择大名单的权利。但是，许多国家队的版权都没有得到，个别足联（比如非洲）的球队名单甚至都不完整。游戏中也没有非洲杯这项赛事。很多球迷非常愤怒，对电子艺界的信心也有所减弱。
+另外，《FIFA 2002》和前后版本的另一区别在于没有内置的世界杯模式，而是由电子艺界另外发行的。
+FIFA 2003[编辑]
+
+封面人物：卡洛斯、吉格斯、埃德加·戴维斯（主要），多诺万（美加市场）
+使用平台：Windows、PSX、PS2、GameCube、Xbox、Game Boy Advance
+
+FIFA 2004[编辑]
+
+封面：皮耶罗、亨利、罗纳尔迪尼奥
+适用平台：Windows、PS2、GameCube、Xbox、GBA
+
+本版《FIFA》除了增加了游戏的流畅性以外，并未对游戏引擎做太多修改。最大的新特性是增加了世界范围内的二级联赛。也就是说允许玩家使用一支二流乃至三流球队参加世界顶级联赛和欧洲冠军联赛。游戏有一个被称做“离球控制一”，即在某些情况下需要玩家同时操纵两个球员以完成一些花样。虽然理论上这个概念看起来很诱人，但由于操作太烦琐，玩家很难将它运用得很好。如果没有带方向杆的手柄，这样的操作甚至根本没办法完成。
+FIFA 2005[编辑]
+主条目：FIFA 2005
+
+封面人物：韋拉、摩連迪斯、舒夫真高
+适用平台：Windows、PS2、GameCube、Xbox、GBA、PSP、N-gage
+
+此款《FIFA》足球游戏改进了生涯模式。《FIFA 2005》在推出之前做了大量的宣传，并且比以往《FIFA》系列发行的日期十月下旬提早了很多发行，以避免和Pro Evolution Soccer 4以及EA的新作《FIFA街头足球》（FIFA Street）的发行撞车。大多数评论家都认为，FIFA系列的游戏性不如科乐美的实况足球系列。但得到公认的是，自从《FIFA 2003》以来，《FIFA》系列已经有很大改善，并且更易于上手，更有利于在线游戏以及新手游戏。此款游戏的特色是重新引入了创造球员的模式，并且改进了生涯模式。
+FIFA 06[编辑]
+主条目：FIFA 06
+FIFA 07[编辑]
+主条目：FIFA 07
+
+封面人物：罗纳尔迪尼奥（全部）、多诺万（北美）、鲁尼（英国）、卡卡（巴西）
+适用平台：：Windows、PS2、GameCube、Xbox、GBA、PSP、NDS
+
+《FIFA 07》中包括来自20个国家的27个联赛，510余支球队各有其精确真实的球衣和徽章。玩家可以参加 EA SPORTS™互动联赛，在网上用一支的俱乐部对抗各路对手，每周包括用户访谈在内的会播客宣传将玩家的胜绩。EA设计了全新的障碍比赛系统。此作强化了经理模式：使事物都接近真实。真实的资金、青年球员的成长、媒体和球迷的反应，令玩家全身心地沉浸在足球经理的世界中。人群会根据你的表现作出反应。进球和控球将会令球迷发出震耳的欢呼，赛事不利则会让他们垂头丧气。视角会集中在那些情绪特别明显的球员身上。玩家还可以创建你自己的俱乐部。
+《FIFA 07》同样有技术上的改进。使用左摇杆可以控制足球旋转，作出更具创造性的定位球和射门。游戏设置了更复杂的射门机制和更精确的操控。以及更高级的智能守门员，使得守门员的智能更真实，有着逼真的反应以及各种躲闪和救球动作。
+FIFA 08[编辑]
+主条目：FIFA 08
+FIFA 09[编辑]
+FIFA 09是美国EA公司旗下由EA Canada小组负责开发的FIFA系列电子游戏，于2008年10月登陆Windows、任天堂DS、PlayStation 2、PlayStation 3、PlayStation Portable、Wii、Xbox 360和Zeebo平台，同年11月，登陆N-Gage 2.0和移动电话平台。游戏标语为“Let's FIFA 09”。
+FIFA 10[编辑]
+主条目：FIFA 10
+FIFA 11[编辑]
+主条目：FIFA 11
+FIFA 12[编辑]
+主条目：FIFA 12
+
+宣传语：“爱足球，玩足球”
+宣传片音乐：《孩子们》（Kids），演唱：雪橇铃乐队（Sleigh Bells）
+适用平台：Xbox 360、PlayStation 3、Wii、Windows、Mac OS X、PlayStation 2、Nintendo 3DS、PSP、iOS、Mobile Phone
+发行日期：2011年9月27日（美国）、2011年9月30日（欧洲）
+
+欧洲杯2012（UEFA EURO 2012）[编辑]
+主条目：欧洲杯2012 (游戏)
+《UEFA EURO 2012》无正式中文名称，通常称《欧洲杯2012》，是EA为2012年欧足联在波兰、乌克兰举办的欧洲杯所专门制作的一款基于《FIFA 12》的DLC。这是EA首次将重大国际足球赛事的游戏版以DLC而非单独游戏的形式发售。《欧洲杯2012》最早于2012年4月24日发售。
+EA宣稱，雖然《歐洲杯2012》是DLC的形式，但它可不僅僅是DLC。從增加的內容來看的確如此：除傳統的Tournament賽會奪​​杯模式以及Challenges挑戰模式以外，這次增加的Expedition征戰模式將“地域制壓”這一SLG遊戲中的常見要素首次引入到《FIFA》系列遊戲中。在此模式下，玩家可以在歐足聯旗下53個國家所屬的諸多球員中挑選一名作為自己隊伍的隊長，隊長以外的隊員隨機抽取，隊名由玩家自己決定。遊戲開始後就和SLG畫面相差無幾——在歐洲地圖上顯示可以進攻的地域，選擇某個地域並贏得勝利之後可獲得獎勵隊員以及解鎖新的地域等成就，輸掉比賽也有對應的懲罰。從這點來看，《歐洲杯2012》的確比一般的DLC要豐富不少。
+FIFA 13[编辑]
+主条目：FIFA 13
+《FIFA13》于2012年9月25日在北美区上市。梅西擔任此部作品的代言人。遊戲加入新的傳球、進球慶祝動作以及新的守門員撲救等動作或方式。同时在《FIFA 12》原有的30个联赛的基础中，新增了沙特职业足球联赛。FIFA 13中共有46支国家队。捷克和巴拉圭回到了游戏当中，印度、玻利维亚和委内瑞拉在自FIFA Football 2002以来的11年间断后也重返主系列。而克罗地亚则被去掉了。[1]
+FIFA 14[编辑]
+主条目：FIFA 14
+《FIFA14》在2013年9月下旬上市，梅西继续担任此部作品的代言人。支持的平台有PlayStation 2， PlayStation 3，PlayStation 4，PSP，PlayStation Vita，Xbox 360，Xbox One，Wii，Nintendo 3DS 和 Microsoft Windows，.同样放出了适合手机的版本，支持iOS，并且重新支持Android操作系统。在PlayStation 4和Xbox One上本作采用了全新的Ignite引擎， Ignite引擎融合了EA的全新的技术，通过全新的渲染，实时物理，动画，智能，运动和网上系统，构成了一个全新的、强力的引擎。EA表示，该引擎能够赋予游戏中运动员“类人的智慧”，玩家会体验到真正的运动员一样的变速和转向的敏捷性。[2]
+FIFA 15[编辑]
+主条目：FIFA 15
+《FIFA 15》在2014年9月23日上市，梅西仍然是本作的主要代言人。支持的平台包括PlayStation 3、PlayStation 4、PlayStation Vita、Xbox 360、Xbox One、Wii、Nintendo 3DS、Microsoft Windows、iOS、Android和Windows Phone。其中iOS，Android和Windows Phone等移動版僅支持ultimate team模式而已。除了PlayStation 4和Xbox One以外，這次的PC平台也會採用Ignite引擎。此外《FIFA 15》是系列首次中文化。
+FIFA 16[编辑]
+《FIFA 16》首次加入女子足球隊 , 梅西仍然是本作的主要代言人。
+FIFA 17[编辑]
+《FIFA 17》马高·列奥斯担任此部作品的代言人。在PlayStation 4和Xbox One上本作采用了全新的引擎寒霜引擎（Frostbite Engine，即《Battlefield 4》引擎）开发，Frostbite引擎融合了EA的全新的技术，通过全新的渲染，实时物理，动画，智能，运动和网上系统，构成了一个全新的、强力的引擎。EA表示，该引擎能够赋予游戏中运动员“类人的智慧”，玩家会体验到真正的运动员一样的变速和转向的敏捷性。《FIFA 17》更加入了类似《NBA 2K16》「My Career」的剧情模式「The Journey」。在此模式下，玩家可以自创或使用现实既有的球员，去体验一次他们的球员生涯，从球场到球场外的生活应有尽有。
+FIFA 18[编辑]
+《FIFA 18》C朗拿度担任此部作品的代言人。將會在 Xbox One、PS4 及 PC 平台上繼續採用「Frostbite」寒霜引擎 ，而新加入的 Nintendo Switch 則採用其他引擎開發。今年《FIFA 18》擁有更逼真的臨場氣氛、球場及球員的細緻度均有所提高，而且更引入新玩家控制模式及新的團隊風格，增強了遊戲的可玩性。此外，廠方指出球員的人物特性將更進一步，透過找來球星們進行度身的 motion capture，像 C朗標誌性奔跑、史達寧獨特的轉身或基士文的特別都能夠如實還原出來，不論控球在腳或是無球走動時均會更加真實。
+《FIFA 17》加入的剧情模式「The Journey」來到《FIFA 18》，緊接上集 「The Journey」 故事贏得 FA CUP 之後亦來到續集: The Journey 2 : Hunter Returns。玩家將會繼續使用 Alex Hunter 在職業生涯中尋找更多機會，拍其進行重大的轉會決定、比賽、訓練等。而且今集更可以替主角轉換髮型、顏色、紋身等等，讓玩家可以像 BE A PRO 般自訂球員外形! 值得一提，在 FIFA 18 玩家可以和朋友一起進行 Local 主機上的多人遊戲，玩法更加靈活。 FIFA FUT ICON 一直是最受玩家歡迎的遊戲模式之一，而今集更加入多位超級經典球星坐陣，包括:巴西的朗拿度、比利，阿根廷的馬勒當拿、法國的亨利、以及超經典、被喻為史上最強門將「八爪魚」耶辛等等。除此之外，Ultimate Team、開球模式、地方賽季、職業生涯、在線賽季、錦標賽、女子世界盃和技能挑戰在內的模式均可以在 FIFA 18 中找到，滿足不同足球粉絲的口味。
+参考文献[编辑]
+
+
+^ FIFA 13 Leagues List. EA.com. September 6, 2012 [September 6, 2012]. 
+^ ignite Engine. easports. 
+
+
+参见[编辑]
+
+美国艺电
+职业进化足球
+FIFA Online 2
+
+外部链接[编辑]
+
+官方网站
+EA Sports 足球
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+FIFA系列
+
+
+
+
+
+
+FIFA系列
+
+
+
+FIFA国际足球
+95
+96
+97
+98
+99
+2000（英语：FIFA 2000）
+2001
+2002（英语：FIFA Football 2002）
+2003（英语：FIFA Football 2003）
+2004（英语：FIFA Football 2004）
+2005（英语：FIFA Football 2005）
+06（英语：FIFA 06）
+
+世界杯之路（英语：FIFA 06: Road to FIFA World Cup）
+
+
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+
+
+
+
+
+
+
+FIFA世界杯系列
+
+
+
+世界杯98
+2002 FIFA 世界杯
+2006 FIFA 世界杯
+2010年南非世界杯
+2014年巴西世界杯
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+艺电
+
+
+
+
+
+
+雇员
+
+
+
+
+
+创始人
+
+
+
+
+特里普·霍金斯
+
+
+
+
+
+
+
+
+
+目前
+
+
+
+
+拉里·珀斯特（英语：Larry Probst）（主席）
+安德鲁·威尔逊（英语：Andrew Wilson (businessman)） (CEO)
+威爾·萊特
+乔·亚巴莱（英语：Joe Ybarra）
+捷德·雷蒙德
+
+
+
+
+
+
+
+
+
+前雇员
+
+
+
+
+比英·高登（英语：Bing Gordon）
+唐·马特里克（英语：Don Mattrick）
+杰夫·格林（英语：Jeff Green (writer)）
+拉尔夫·古根海姆（英语：Ralph Guggenheim）
+罗宾·汉妮卡（英语：Robin Hunicke）
+彼得·摩尔
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+子公司
+
+
+
+
+
+现存
+
+
+
+
+BioWare
+Criterion Games
+EA加拿大
+EA Digital Illusions CE
+EA Mobile
+EA Montreal
+EA Salt Lake
+EA Singapore
+EA Sports
+EA Tiburon
+European Integration Studio
+火猴工作室
+Ghost Games
+Maxis
+Motive Studios（英语：Motive Studios）
+寶開遊戲
+Respawn Entertainment
+The Sims Studio
+
+
+
+
+
+
+
+
+
+关闭
+
+
+
+
+牛蛙制作
+Danger Close Games
+EA Black Box
+EA Bright Light
+EA Chicago
+EA Phenomic
+EA UK
+Kesmai
+Mythic Entertainment
+Origin Systems
+Pandemic Studios
+Playfish
+胜利游戏
+維瑟羅遊戲
+西木工作室
+EA Pacific
+
+
+
+
+
+
+
+
+
+
+
+作品系列
+
+
+
+無間特攻
+戰地風雲
+火爆狂飙（英语：Burnout (series)）
+終極動員令
+
+红色警戒
+
+
+孤岛危机
+死亡空间
+龙腾世纪（英语：Dragon Age）
+FIFA
+麦登橄榄球
+质量效应
+榮譽勳章
+镜之边缘
+NBA Live
+NCAA橄榄球
+极品飞车
+NHL
+PGA巡回赛（英语：PGA Tour (video game series)）
+植物大战僵尸
+摇滚乐队（英语：Rock Band）
+模擬城市系列
+孢子
+SSX
+模拟人生
+
+
+
+
+
+
+
+
+相关条目
+
+
+
+EA Access（英语：EA Access）
+Origin
+Pogo.com
+艺电收购列表（英语：List of acquisitions by Electronic Arts）
+艺电游戏列表（英语：List of Electronic Arts games）
+
+
+
+
+
+
+
+
+
+
+
+分类
+
+
+
+
+
+
+
+
+
+
+
+
+分类：FIFA系列電子遊戲系列艺电游戏隐藏分类：自2013年12月待更新条目

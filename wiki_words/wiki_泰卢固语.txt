@@ -1,0 +1,396 @@
+泰卢固语
+
+
+泰卢固语
+
+
+తెలుగు
+
+
+母语国家和地区
+印度
+
+
+区域
+安得拉邦和邻近区域
+
+
+母语使用人数
+7千万为母语，总数8千万（日期不详）
+
+
+語系
+
+达罗毗荼语系
+
+中南达罗毗荼语族
+
+泰卢固语
+
+
+
+
+
+
+
+文字
+泰盧固文
+
+
+官方地位
+
+
+作为官方语言
+印度
+
+
+語言代碼
+
+
+ISO 639-1
+te
+
+
+ISO 639-2
+tel
+
+
+ISO 639-3
+tel
+
+
+泰卢固语（తెలుగు）是印度安得拉邦的官方语言，属于达罗毗荼语系。泰卢固语是印度安得拉邦泰卢固人的语言，印度宪法承认的语言之一。属达罗毗荼语系中部语族。使用人口超过4000万，居同语系各语言之首。
+
+
+
+目录
+
+
+1 音系
+
+1.1 元音
+1.2 辅音
+
+
+2 语法
+
+2.1 屈折变化
+
+
+3 书写系统
+
+3.1 数字系统
+3.2 字母
+
+
+4 引用
+5 參考文獻
+6 外部連結
+
+
+
+音系[编辑]
+元音[编辑]
+泰卢固语存在 元音和谐[1][need illustrations]
+
+
+元音– అచ్చులు acchulu
+
+
+ఇ i
+ఈ iː
+
+
+ఉ u
+ఊ uː
+
+
+ఎ e
+ఏ eː
+
+
+ఒ o
+ఓ oː
+
+
+
+æː
+అ a
+ఆ aː
+
+
+
+
+/æː/ 只出现在外来语中。 泰卢固语有两个双元音 ఐ [ai] and ఔ [au].
+辅音[编辑]
+
+泰卢固语辅音表
+
+
+双唇音
+唇齿音
+齿音
+卷舌音
+塞擦音
+软腭音
+
+
+塞音
+不送氣清音
+/p/ ప pa
+
+/t̪/ త ta
+/ʈ/ ట ṭa
+/t͡ʃ/ చ ca
+/k/ క ka
+
+
+不送气浊音
+/b/ బ ba
+
+/d̪/ ద da
+/ɖ/ డ ḍa
+/d͡ʒ/ జ ja
+/ɡ/ గ ga
+
+
+送气清音*
+/pʰ/ ఫ pha
+
+/t̪ʰ/ థ "tha"
+/ʈʰ/ ఠ ṭha
+/t͡ʃʰ/ ఛ cha
+/kʰ/ ఖ kha
+
+
+送气浊音*
+/bʱ/ భ bha
+
+/d̪ʱ/ ధ dha
+/ɖʱ/ ఢ ḍha
+/d͡ʒʱ/ ఝ jha
+/ɡʱ/ ఘ gha
+
+
+鼻音
+/m/ మ ma
+
+/n̪/ న na
+/ɳ/ ణ ṇa
+
+
+
+
+擦音
+
+/f/
+/s̪/ స sa
+/ʂ/ ష ṣa
+/ɕ/ శ śa
+/x/ హ ha
+
+
+近音
+中央近音
+
+/ʋ/ వ va
+
+
+/j/ య ya
+
+
+
+边近音
+
+
+/l̪/ ల la
+/ɭ/ ళ ḷa
+
+
+
+
+闪音
+
+
+/r̪/
+
+
+
+
+
+语法[编辑]
+泰卢固语语法被称作 vyākaranam (వ్యాకరణం).
+
+
+句子
+రాము బడికి వెళ్తాడు.
+
+
+单词
+రాము
+బడికి
+వెళ్తాడు.
+
+
+转写
+rāmu
+baḍiki
+veḷtāḍu
+
+
+意思
+Ramu（人名）
+学校
+去
+
+
+语法作用
+主语
+宾语
+谓语动词
+
+
+翻译
+Ramu去学校。
+
+
+这句话也可以根据上下文翻译成 'Ramu（要）去学校' ，但这不影响主谓宾顺序。
+屈折变化[编辑]
+泰卢固语名词有数（单数、复数）、性（阳性、阴性、中性）和格 （主格、对格、造格、与格、夺格和属格）的变化。[2]
+书写系统[编辑]
+
+
+
+
+用泰卢固文书写的 泰卢固
+
+
+与其他印度文字一样，泰卢固文从左向右书写。句末使用竖线 । (“purna viramam”) 或者双竖线 ॥ (“deergha viramam”)。传统的手写里是不分词的。现代标点（逗号，分号等）是印刷术出现之后才引入的。[3] 泰卢固文在 Unicode 的码位区间是 0C00-0C7F (3072–3199)。[4]
+数字系统[编辑]
+泰卢固文有自己的一套 数字如下，但不常用。
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+0
+౧
+౨
+౩
+౪
+౫
+౬
+౭
+౮
+౯
+
+
+sunna (源自梵文 śūnyam)
+okati
+rendu
+muudu
+naalugu
+aidu
+aaru
+eedu
+enimidi
+tommidi
+
+
+字母[编辑]
+泰卢固文字母表包括60个符号，其中有 16 个元音，3 个元音指示和 41 个付印。梵文和泰卢固文非常类似且可以一一对应。 [5] Some of them are introduced to express fine shades of difference in sounds.[5]
+泰卢固文有一个圆圈 (随韵) ( ం ), 半圆 ( 仰月点) (ఁ) 和双点（止韵） ( ః ) 等附加符号，区分 la 和 La, ra 和 Ra.[5]。泰卢固文中还有梵文里所没有的 .CH 和 .JH；而 S, SH, 和 KSH 也是泰米尔文中所没有的。[5]
+Telugu Gunintalu:
+క కా కి కీ కు కూ కృ కౄ కె కే కై కొ కో కౌ క్ కం కః
+ఖ ఖా ఖి ఖీ ఖు ఖూ ఖృ ఖౄ ఖె ఖే ఖై ఖొ ఖో ఖౌ ఖ్ ఖం ఖః
+引用[编辑]
+
+
+^ Wilkinson (1974:251)
+^ Charles Philip Brown. A grammar of the Telugu language 2. Christian Knowledge Society's Press. 1857. 
+^ Brown, Charles Philip. A Grammar of the Telugu Language. London: W. H. Allen & Co. 1857: 5. ISBN 81-206-0041-X. 
+^ United Nations Group of Experts on Geographical Names; United Nations Statistical Division. Technical Reference Manual for the Standardization of Geographical Names. United Nations Publications. 2007: 110. ISBN 92-1-161500-3.  引文使用过时参数coauthors (帮助)
+^ 5.0 5.1 5.2 5.3 Chenchiah, P.; Rao, Raja Bhujanga. A History of Telugu Literature. Asian Educational Services. 1988: 18. ISBN 81-206-0313-3.  引文使用过时参数coauthors (帮助)
+
+
+參考文獻[编辑]
+
+
+Albert Henry Arden, A Progressive Grammar of the Telugu Language (1873).
+Charles Philip Brown, English–Telugu dictionary (1852; revised ed. 1903; online edition)
+Charles Philip Brown, A Grammar of the Telugu Language (1857)
+P. Percival, Telugu–English dictionary: with the Telugu words printed in the Roman as well as in the Telugu Character (1862, google books edition)
+Gwynn, J. P. L. (John Peter Lucius). A Telugu–English Dictionary Delhi; New York: Oxford University Press (1991; online edition).
+Uwe Gustafsson, An Adiwasi Oriya–Telugu–English dictionary, Central Institute of Indian Languages Dictionary Series, 6. Mysore: Central Institute of Indian Language (1989).
+Vēlcēru Nārāyaṇarāvu, David Dean Shulman, Velcheru Narayana Rao, Classical Telugu Poetry: An Anthology (2002).
+Callā Rādhākr̥ṣṇaśarma, Landmarks in Telugu Literature: A Short Survey of Telugu Literature (1975).
+Wilkinson, Robert W. Tense/lax vowel harmony in Telugu: The influence of derived contrast on rule application. Linguistic Inquiry. 1974, 5 (2): 251–270 
+
+
+外部連結[编辑]
+
+
+
+維基百科有此種語言版本：
+泰卢固语维基百科
+
+
+
+
+您可以在維基教科書中查找此百科条目的相關電子教程：
+Telugu
+
+
+
+
+
+查询維基詞典中的Telugu。
+
+
+
+
+
+维基共享资源中相关的多媒体资源：泰卢固语
+
+
+
+Hints and resources for learning Telugu
+English to Telugu online dictionary
+'Telugu to English' & 'English to Telugu' Dictionary
+Dictionary of mixed Telugu By Charles Philip Brown
+Origins of Telugu Script
+Online English - Telugu dictionary portal which includes many popular dictionaries
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4120355-0
+NDL: 00572905
+
+
+
+
+
+
+
+
+
+
+
+
+分类：ISO 639-2代码的语言ISO 639-1代码的语言泰卢固语印度語言達羅毗荼語系元音和諧語言隐藏分类：含有过时参数的引用的页面含有泰盧固語的條目语言使用人数没有注明日期的条目含有不被支持信息框字段的语言类条目信息框没有参考资料字段的语言类条目使用過時參數的語言類條目参考文献格式不符的条目包含规范控制信息的维基百科条目

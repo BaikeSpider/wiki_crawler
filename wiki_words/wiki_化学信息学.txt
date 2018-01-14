@@ -1,0 +1,511 @@
+化学信息学
+化学信息学（Cheminformatics）是使用计算机和信息技术应用于化学领域的一系列问题。这些计算机（In silico）技术被用于在制药公司的药物发现过程中。这些方法也可以以各种其他形式用于化学和相关行业。
+
+
+
+目录
+
+
+1 历史
+2 基础
+3 应用
+
+3.1 存储和检索
+
+3.1.1 文件格式
+
+
+3.2 虚拟图书馆
+3.3 定量构效关系（QSAR）
+
+
+4 参阅
+5 参考资料
+6 外部链接
+
+
+
+历史[编辑]
+术语化学信息学（Cheminformatics）是1998年被F.K. 布朗[1][2]定义的：
+
+化学信息学是这些信息资源的混合，将数据转化为信息和信息转化为知识，以便在药物导向识别和优化领域更快地做出更好的决策。
+
+从那时起，两种拼写已被使用，有些已经演变为化学信息学（Cheminformatics）[3]，而欧洲学术研究会于2006年设立为化学信息学[4]，最近成立的《化学信息学学报（英语：Journal of Cheminformatics）》（Journal of Cheminformatics）是对较短变体的强力推动。
+基础[编辑]
+化学信息学将化学，计算机科学和信息科学的科学工作领域结合在化学空间（英语：Chemical space）中的拓扑（英语：Topology_(chemistry)），化学图论，信息检索和数据挖掘领域[5][6][7][8]。化学信息学也可以应用于各种行业，如纸张和纸浆，染料和相关行业的数据分析。
+应用[编辑]
+存储和检索[编辑]
+主条目：化学数据库
+化学信息学的主要应用是存储，索引和搜索与化合物有关的信息。这种存储信息的有效搜索包括计算机科学中作为数据挖掘，信息检索，信息抽取和机器学习的主题。相关研究课题包括：
+
+非结构化数据（英语：Unstructured data）
+
+信息检索
+信息抽取
+
+
+结构化数据挖掘（英语：Structure mining）和挖掘结构化数据
+
+数据库挖掘（英语：Structure mining）
+图形挖掘（英语：Structure mining）
+分子挖掘
+序列模式挖掘（英语：Sequential pattern mining）
+树挖掘（英语：Structure mining）
+
+
+数字图书馆
+
+文件格式[编辑]
+化学结构的计算机表示使用专门的格式，例如基于XML的化学标记语言或简化分子线性输入规范（SMILES）。 这些表征通常用于存储在大型化学数据库中。 虽然一些格式适用于2或3维的视觉表示，但其他格式更适合于研究物理相互作用，建模和对接研究。
+虚拟图书馆[编辑]
+化学数据可以涉及真实或虚拟分子。可以以各种方式产生化合物的虚拟图书馆以探索化学空间,并假设具有所需性质的全新的化合物。
+最近使用FOG（片段优化生长）算法生成化合物类（药物，天然产物，多样性合成产品）的虚拟文库[9] 。这是通过使用化学信息工具来训练马可夫链在真实化合物类别上的转变概率，然后使用马尔可夫链产生类似于训练数据库的全新化合物。
+定量构效关系（QSAR）[编辑]
+主条目：定量构效关系
+这是定量结构-活性关系和定量结构性质关系值的计算，用于预测其结构中化合物的活性。在这种情况下，化学计量学也和它有很强的关系。化学专家系统也是相关的，因为它们代表化学知识的一部分，作为计算机(In silico)表示。有一个相对较新的匹配分子对分析（英语：Matched molecular pair analysis）或预测驱动的MMPA的概念，它与QSAR模型相结合，以便识别活动悬崖[10]。
+参阅[编辑]
+
+
+生物信息学
+《化学信息学学报（英语：Journal of Cheminformatics）》（Journal of Cheminformatics）
+计算化学
+数据分析
+分子建模
+制药工程
+科学可视化
+统计学
+
+
+参考资料[编辑]
+
+
+^ F.K. Brown. Chapter 35. Chemoinformatics: What is it and How does it Impact Drug Discovery. Annual Reports in Med. Chem. Annual Reports in Medicinal Chemistry. 1998, 33: 375. ISBN 978-0-12-040533-6. doi:10.1016/S0065-7743(08)61100-8. 
+^ Brown, Frank. Editorial Opinion: Chemoinformatics – a ten year update. Current Opinion in Drug Discovery & Development. 2005, 8 (3): 296–302. 
+^ Cheminformatics or Chemoinformatics ?
+^ Obernai Declaration
+^ Gasteiger J.(Editor), Engel T.(Editor): Chemoinformatics : A Textbook. John Wiley & Sons, 2004, ISBN 3-527-30681-1
+^ A.R. Leach, V.J. Gillet: An Introduction to Chemoinformatics. Springer, 2003, ISBN 1-4020-1347-7
+^ Alexandre Varnek and Igor Baskin. Chemoinformatics as a Theoretical Chemistry Discipline. Molecular Informatics. 2011, 30 (1): 20–32. doi:10.1002/minf.201000100. 
+^ Barry A. Bunin (Author), Brian Siesel (Author), Guillermo Morales (Author), Jürgen Bajorath (Author): Chemoinformatics: Theory, Practice, & Products. Springer, 2006, ISBN 978-1402050008
+^ Kutchukian, Peter; Lou, David; Shakhnovich, Eugene. FOG: Fragment Optimized Growth Algorithm for the de Novo Generation of Molecules occupying Druglike Chemical. Journal of Chemical Information and Modeling. 2009, 49 (7): 1630–1642. PMID 19527020. doi:10.1021/ci9000458. 
+^ Sushko, Yurii; Novotarskyi, Sergii; Körner, Robert; Vogt, Joachim; Abdelaziz, Ahmed; Tetko, Igor V. Prediction-driven matched molecular pairs to interpret QSARs and aid the molecular optimization process. Journal of Cheminformatics: 48. 2014-12-11. doi:10.1186/s13321-014-0048-0 （英语）. 
+
+
+外部链接[编辑]
+
+（英文）印第安纳化学信息学教育门户网站
+（英文）化学信息学学报（Journal of Cheminformatics）
+（英文）OEChem化学信息学编程工具包
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+技术
+
+
+
+
+
+
+領域
+
+
+
+
+農業
+
+
+
+农业工程
+水產養殖
+水产学
+食品化学
+食品工程
+营养学
+食品技术
+食品微生物学（英语：Food microbiology）
+遺傳利用限制技術（英语：Genetic use restriction technology）
+
+
+
+
+
+
+
+
+生物医学（英语：Biomedical technology）
+
+
+
+生物信息学
+生物医学工程
+生物工程学
+生物技术
+健康科学
+生化檢驗
+药理学
+神经科学
+组织工程学
+基因工程
+纳米医学
+化学信息学
+
+
+
+
+
+
+
+
+水利/土木建築
+
+
+
+水利工程
+土木工程
+建築工程
+建築設備
+消防工程
+安全工程
+結構工程
+
+
+
+
+
+
+
+
+教育技术
+
+
+
+在线学习
+教育技术学
+教育软件（英语：Educational software）
+虚拟校园（英语：Virtual campus）
+
+
+
+
+
+
+
+
+能源
+
+
+
+核工程
+核技术
+储能技术
+石油工程（英语：Petroleum engineering）
+
+
+
+
+
+
+
+
+军事
+
+
+
+彈藥
+炸彈
+軍事技术
+電子作戰
+低可偵測性技術
+工兵
+军事通信（英语：Military communications）
+
+
+
+
+
+
+
+
+信息
+
+
+
+人工智能
+計算機工程
+计算机科学
+音乐工艺
+通信工程
+通信
+图形
+信息技术
+軟件工程
+音乐
+语音识别
+可视化技术
+系统分类学
+本体工程
+信息学
+
+
+
+
+
+
+
+
+工业（英语：Industrial technology）
+
+
+
+纳米科技
+音频工程
+生物工程
+生化工程
+陶瓷工程
+化学工程
+控制工程
+低温学
+電機工程學
+电子工程
+工程技术
+工程学
+工业工程学
+企业工程
+水力学
+机械工程
+機械電子學
+冶金工程
+海洋工程
+光学工程
+系统工程
+运输工程
+电动机械学
+金融工程学
+制造
+机械
+采矿业
+自动化技术
+冶金学
+
+
+
+
+
+
+
+
+交通
+
+
+
+航空航天
+航空航天工程
+空间技术
+机动车
+車輛工程
+交通工程
+流量工程
+
+
+
+
+
+
+
+
+環境科技
+
+
+
+綠色建築
+可再生能源
+永續設計
+环境工程
+生態工程
+潔淨科技（英语：Clean technology）
+生態技術（英语：Ecotechnology）
+環境工程科學（英语：Environmental engineering science）
+
+
+
+
+
+
+
+
+应用科学
+
+
+
+考古
+电子学
+光学
+半导体物理学
+环境科学
+材料科学
+微系统
+微技术
+纳米技术
+
+
+
+
+
+
+
+
+其他领域
+
+
+
+机器人学
+机械电子学
+蛋白质工程
+系统工程
+聚合物工程（英语：Polymer engineering）
+
+
+
+
+
+
+
+
+
+
+
+組件
+
+
+
+基礎設施
+發明
+发明年表
+知識
+機器
+技能
+工艺
+工具
+
+
+
+
+
+
+
+
+技術史
+
+
+
+新石器革命
+工業革命
+第二次工業革命
+數字化革命
+第三次工業革命
+信息時代
+史前技术（英语：Outline of prehistoric technology）
+古代技術（英语：Ancient technology）
+中世紀技術（英语：Medieval technology）
+文藝復興技術（英语：Renaissance technology）
+噴氣時代（英语：Jet Age）
+
+
+
+
+
+
+
+
+理論（英语：Theories of technology）
+和概念
+
+
+
+適用技術
+破壞性創新
+高科技
+技术成熟度曲线
+专家统治
+技术决定论
+技術官僚
+技术奇异点
+技术接受模型
+超人类主义
+軍民兩用技術（英语：Dual-use technology）
+技术伦理（英语：Ethics of technology）
+
+
+
+
+
+
+
+
+其他
+
+
+
+新興技術列表
+卡尔达肖夫指数
+Category:各国科技
+Category:科技公司
+Category:技术大学和学院
+技术传播者
+技术新闻学
+
+
+
+
+
+
+
+
+
+
+
+ Category:技術
+ commons:Category:技術
+ Portal:技術
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4290091-8
+
+
+
+
+
+
+
+
+
+
+
+
+分类：化学信息学计算化学統計學應用領域药物发现隐藏分类：CS1英语来源 (en)含有英語的條目包含规范控制信息的维基百科条目

@@ -1,0 +1,394 @@
+原始印歐語
+
+
+
+
+
+
+
+
+於維基詞典中查詢附录:原始印欧语词根或者原始印欧语词根列表（中文）。
+
+
+
+
+原始印欧語
+
+
+区域
+黑海和里海北方的乾草原
+
+
+語系
+
+印欧语系的祖语
+
+
+
+語言代碼
+
+
+ISO 639-3
+–
+
+
+原始印歐語（英语：Proto-Indo-European, PIE）是後世語言學家根據現時印歐語系諸語的特色，透過比較語言學的方法而所倒推出來的假想語言。這種假想語言被認為是現時印歐語系諸語的共同祖先。雖然原始印歐語沒有得到直接證實，但其基本的發音和辭彙都通過比照法重構了出來。
+標準慣例是將未證實的形式用星號標記岀來：*ṷódōr（“水”，比較英語的water）、*ḱṷon（“狗”，比較英語的hound）、*treḭes（“三”，陽性，比較今日英語沒有詞性的three）等。現代印歐語的很多詞都是從這些“原始詞”經過有規律的語音變化發展而來（比如格林定律）。
+所有的印歐語都是屈折語，不過很多現代印歐語（包括近代英語），都已經失去了大多數屈折變化。通過比較重建法，有很大可能後期的原始印歐語是屈折語（後綴比前綴多）。然而，經過詞內重建和分析那些重建後看起來最古老詞的各種形態，最近語言學者發現早期原始印歐語很有可能是詞根屈折語，像原始閃米特語一樣。
+其他一些學者認為，高加索語系和印歐語系是最近的近親，尤其是在格鲁吉亚和土耳其使用的西北高加索語言。雖然列出一些事實證據，但這種假設並沒有得到廣泛的認同。
+
+
+
+目录
+
+
+1 發展歷程
+2 音系
+3 原始印欧语的构拟
+4 主要定律
+5 參考文獻
+
+5.1 導引工作
+5.2 原始印歐語的主要技術手冊M
+5.3 對延續語言和原始印歐語主要技術工作
+5.4 在延續語言等主要技術工程
+5.5 其它
+
+
+6 外部链接
+
+
+
+發展歷程[编辑]
+从17世纪至18世纪末，印欧语系的概念逐渐成型。最早提出这个假设的是荷兰人Marcus Zuerius von Boxhorn。当时的学者发现欧洲的语言虽然跟阿拉伯语、希伯来语有明显区别，却和印度的语言很相近。他们设想印度和欧洲的语言源于同一个的原始语。这种原始语随着年代的变迁，演变成古典语言拉丁语，希腊语，梵语和现代的语言。很多人认为19世纪语言学最显赫的成绩是印欧语的构拟。
+19世纪初，德国的葆扑（Franz Bopp）是第一个对印欧语进行深入研究的学者，他针对几个主要语言的名词和动词形态进行比较，并且试图探测原始语的形态，但是他始终没有提出语音构拟的标准。后来涌现了一批出色的学者，他们依次对印欧语的语音演变进行了精确的研究。
+音系[编辑]
+主条目：原始印歐音系
+
+原始印歐輔音
+
+
+唇音
+舌冠音
+舌背音
+喉音
+
+
+硬腭化
+正常
+唇音化
+
+
+鼻音
+m
+n
+
+
+
+
+
+
+塞音
+
+清音
+
+p
+t
+ḱ
+k
+kʷ
+ 
+
+
+濁音
+b
+d
+ǵ
+g
+gʷ
+ 
+
+
+送氣音
+bʰ
+dʰ
+ǵʰ
+gʰ
+gʷʰ
+ 
+
+
+擦音
+
+s
+
+
+
+h₁, h₂, h₃
+
+
+流音
+
+r, l
+
+
+
+
+
+
+半元音
+
+
+j
+
+w
+
+
+
+
+短元音 a, e, i, o, u。
+長元音 ā, ē, ō; 有時用冒號 (:) 替代長音號來指示元音長度 (a:, e:, o:)。
+雙元音 ai, au, āi, āu, ei, eu, ēi, ēu, oi, ou, ōi, ōu
+輔音音位的元音同位異音: u, i, r̥, l̥, m̥, n̥。
+其他長元音可能已經通過補償延長出現在原始語言中: ī, ū, r̥̄, l̥̄, m̥̄, n̥̄。
+音位 h₁, h₂, h₃ 和普適符號 H(或 ə₁, ə₂, ə₃ 和 ə) 表示了三個“喉音”音位：中性喉音、a-音色喉音和 o-音色喉音。
+
+原始印欧语的构拟[编辑]
+用历史比较法和内部拟测只能构拟出语言的一部分特征，主要是语音系统、词汇和构词法。最近也有人试图发现印欧语系古语言在句法和写诗技巧上的共同点，但是曾未获得理想的结果。
+因为构拟形式只是一种假设，不能确定其实际的发音，必须在所有构拟形式之前加个*符号，来和实际的语言形式区分开来。 例如，在原始印欧语中，“太阳”被构拟成 *sắṷel- 或者 *sāṷol-、 *suṷél-、*sṷel-、*sūl-、等等。
+在不同的语言中，这个原始形式演变成许多迥然不同的形式：
+
+阿維斯陀語 (Avestan)：huuarǝ
+梵語：
+
+《吠陀经》：svàr स्व॑र्, súvar सुव॑र्, sū́rya- सूर्य॑
+古典：sū́ra- सूर॑
+
+
+哥特语：sauil �����, sunnō �����
+古英语：sunne、英语：sun
+古德语：sunna、德语：Sonne
+荷兰语：zon
+冰岛语：sól
+丹麦语、挪威语、瑞典语：sol
+希腊语：
+
+荷马史诗：ἡέλιος hēélios 和 ἠέλιος ēélios
+克里特方言、旁非利亞方言: ἀβέλιος abélios
+阿提卡方言：ἥλιος hḗlios
+书面多利安方言：ἀέλιος haélios 和 ἅλιος hálios
+阿卡迪亚方言：ἀέλιος aélios
+列斯堡方言：ἀϝέλιος awélios
+
+
+立陶宛语：sáulė
+古斯拉夫语：slǔnǐce слъньце
+俄语：solnce солнце
+波兰语：słońce
+捷克语：slunce
+南斯拉夫语：sunce сунце
+古爱尔兰语：súil “眼睛”
+威尔士语：haul
+布列塔尼语：heol
+拉丁语：sōl：
+
+西班牙语、加泰罗尼亚语、葡萄牙语：sol
+意大利语：sole
+奥克语 (奥弗涅方言 Auvergne)：solèlh, soleu (郎多克语), 法语：soleil (来自拉丁文 soliculum)
+罗马尼亚语：soare
+
+
+卢维亚语 (Luwian)：seḫuu̯al(a)
+
+主要定律[编辑]
+通用：
+
+格拉斯曼定律
+
+日耳曼語族：
+
+格里姆定律
+维尔纳定律
+
+參考文獻[编辑]
+
+導引工作[编辑]
+
+Beekes, Robert SP, Comparative Indo-European Linguistics: An Introduction, Amsterdam: John Benjamins, 1995, ISBN 90-272-2150-2  (Europe), ISBN 978-1-55619-504-4 (US)
+Clackson, James, Indo-European Linguistics: An Introduction, Cambridge Textbooks in Linguistics, Cambridge: Cambridge University Press, 2007, ISBN 0-521-65313-4 
+Fortson, Benjamin W., IV, Indo-European Language and Culture, Blackwell Publishing, 2004, ISBN 1-4051-0316-7 .
+Lehmann, Winfred, Theoretical Bases of Indo-European Linguistics new, Routledge, 1996 [1993], ISBN 0-415-13850-7 
+Mallory, JP; Adams, DQ, The Oxford Introduction to Proto-Indo-European and the Proto-Indo-European World, Oxford: Oxford University Press, 2006, ISBN 9780199296682 
+Meier-Brügger, Michael, Indo-European Linguistics, New York: de Gruyter, 2003, ISBN 3-11-017433-2 
+Szemerényi, Oswald, Introduction to Indo-European Linguistics, Oxford, 1996 
+
+原始印歐語的主要技術手冊M[编辑]
+
+Mayrhofer, Manfred, Indogermanische Grammatik, i/2: Lautlehre, Heidelberg: Winter, 1986 
+Pokorny, Julius, Indogermanisches etymologisches Wörterbuch 5, Francke, 2005 [1948–59], ISBN 3-7720-0947-6 
+Rix, Helmut, Lexikon der indogermanischen Verben 2, Dr. Ludwig Reichert Verlag, 2001, ISBN 3-89500-219-4 
+
+對延續語言和原始印歐語主要技術工作[编辑]
+
+Ringe, Don, From Proto-Indo-European to Proto-Germanic, Oxford University Press, 2006, ISBN 978-0-19-955229-0 
+Sihler, Andrew L, New Comparative Grammar of Greek and Latin, Oxford: Oxford University Press, 1995, ISBN 0-19-508345-8 
+
+在延續語言等主要技術工程[编辑]
+
+Buck, Carl Darling. Comparative Grammar of Greek and Latin. Chicago: University of Chicago Press. 1933. ISBN 0-226-07931-7. 
+Hoffner, Harry A., Jr.; Melchert, H. Craig. A Grammar of the Hittite Language, 1: Reference Grammar. Eisenbrauns. 2008. ISBN 1-57506-119-8. 
+Thurneysen, Rudolf. A Grammar of Old Irish Rev Enl Re. Colton Book Imports. 1990 (1946). ISBN 1-85500-161-6.  请检查|date=中的日期值 (帮助)
+Whitney, William Dwight. Sanskrit Grammar. Harvard University Press. 1889. ISBN 0-486-43136-3.  (India ISBN 978-81-208-0621-4)
+
+其它[编辑]
+
+Bouckaert, Remco; Lemey, P; Dunn, M; Greenhill, SJ; Alekseyenko, AV; Drummond, AJ; Gray, RD; Suchard, MA; 等, Mapping the Origins and Expansion of the Indo-European Language Family, Science, Aug 24, 2012, 337 (6097): 957–60, doi:10.1126/science.1219669  引文格式1维护：显式使用等标签 (link) 引文格式1维护：日期与年 (link).
+Ivanov, Vyacheslav V; Gamkrelidze, Thomas. The Early History of Indo-European Languages. Scientific American. March 1990, 262 (N3): 110–16. 
+Lehmann, Winfred P; Zgusta, L. Schleicher's tale after a century. (编) Brogyanyi, B. Festschrift for Oswald Szemerényi on the Occasion of his 65th Birthday. Amsterdam: 455–66. 1979. 
+Mallory, JP. In Search of the Indo-Europeans. London: Thames & Hudson. 1989. ISBN 0-500-27616-1. 
+Remys, Edmund. General distinguishing features of various Indo-European languages and their relationship to Lithuanian. Indogermanische Forschungen 112. Berlin, New York: Walter de Gruyter. 2007. 
+Renfrew, Colin. Archaeology & Language. The Puzzle of the Indo-European Origins. London: Jonathan Cape. 1987. ISBN 0-224-02495-7. 
+
+
+外部链接[编辑]
+
+原始印歐語词典(Julius Pokorny)
+原始印歐語词典(Gerhard Köbler)
+Indo-European 詞源字典（萊頓大學）
+印歐語言詞根
+印歐文獻中心（德州大學）
+原始印歐語簡介（傑弗瑞·散普森所著）
+原始印歐語語法
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+原始印欧语
+
+
+
+
+
+
+音韵学
+
+
+
+重音
+颚－咝音同言线
+声门音理论
+喉音理論
+飄忽s-
+语音定律
+
+boukólos rule
+kʷetwóres rule
+格拉斯曼定律
+Osthoff's
+Pinault's
+Siebs'
+Sievers'
+Stang's
+Szemerényi's
+
+
+
+
+
+
+
+
+
+
+词态学
+
+
+
+元音變換
+Caland system
+h₂e-conjugation
+Nasal infix
+词根
+元音詞幹
+Narten present
+
+
+
+
+
+
+
+
+词性
+
+
+
+名词性词（包括名词和形容词）
+數詞
+小品詞
+代詞
+動詞
+
+系詞
+
+
+词汇表
+
+
+
+
+
+
+
+
+另见
+
+
+
+原始印欧人宗教（英语：Proto-Indo-European religion）
+原始印欧人社会（英语：Proto-Indo-European society）
+印欧学
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4120204-1
+SUDOC: 028035224
+BNF: cb11995173d（数据）
+BNE: XX545099
+
+
+
+
+
+
+
+
+
+
+
+
+分类：原始印歐語祖語隐藏分类：沒有使用者人數的語言類條目没有语言代码的语言类条目引文格式1错误：日期引文格式1维护：显式使用等标签引文格式1维护：日期与年包含规范控制信息的维基百科条目使用ISBN魔术链接的页面

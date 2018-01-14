@@ -1,0 +1,505 @@
+羅馬道路
+
+
+
+
+
+本条目部分链接不符合格式手冊規範。跨語言链接及章節標題等處的链接可能需要清理。（2015年12月12日） 
+請協助改善此條目。參見WP:LINKSTYLE、WP:MOSIW以了解細節。突出显示跨语言链接可以便于检查。 
+
+
+
+
+
+
+意大利古城庞贝上一條羅馬街道
+
+
+羅馬道路（拉丁語：viae，單數為via）是古羅馬的重要基礎建設，由公元前500年開始，並隨羅馬共和國及羅馬帝國版國的擴大而延伸[1]這些羅馬道路為羅馬軍隊、官員及平民帶來便捷的交通路徑，更促進陸上通訊及貿易。[2]這些道路由地方小路，連接上廣闊、長距離的公路，連接各主要市鎮及軍事基地。羅馬道路是主要由石頭鋪成，部份混入金屬材料。道路由弧形的石頭組成，這些石頭形式和高於路面的行人道以方便排水，而道路兩旁除有行人道外，還有马道和排水沟渠。羅馬道路的建設有賴於精確的測量工序，包括透過切割山坡，用橋連接河流和沟壑，濕滑的地面部份用木樁作地基支撐。[3][4]
+當羅馬國力達到最頂盛時期，有超過29條大型軍事公路由首都羅馬以輻射式向外擴散，接上羅馬帝國內113個省份372條大道，[3]總長超過40萬公里，其中8萬5百公里的道路已經鋪石。[5][6]單在高盧，有超過2萬1千公里道路，在不列顛也有至少4,000公里的羅馬道路。[3]
+
+
+
+目录
+
+
+1 羅馬制度
+2 法律與傳統
+3 道路種類
+4 管治及財政
+5 建築技術
+
+5.1 材質
+5.2 跨越障礙
+
+
+6 軍用及民事用途
+
+6.1 里程碑和標記
+6.2 行程地圖和海圖
+6.3 交通工具
+6.4 路站和旅館
+6.5 郵政服務
+
+
+7 地域分佈
+
+7.1 意大利地區
+
+
+8 參考文獻
+
+8.1 資料來源
+8.2 其他參考來源
+8.3 一手資料
+
+
+9 外部連結
+
+
+
+羅馬制度[编辑]
+
+
+
+羅馬帝國的非凡偉大可從水道、鋪石道路和排水系統中體現。（The extraordinary greatness of the Roman Empire manifests itself above all in three things: the aqueducts, the paved roads, and the construction of the drains.）
+
+
+哈利卡納蘇斯的狄奧尼修斯, Ant. Rom. 3.67.5[7]
+蒂托·李维提及一些羅馬附近著名的道路以及在上的里程碑，較亞壁古道建成前早。[8]除非這些的典故有簡單的時代錯誤問題。[8]因此，巴薩斯丁道（Via Gabina，拉斯·波希納）在公開前500年提及。拉丁道（Via Latina，科利奧蘭納斯時代）在近公元前290年；而諾門蒂娜道（Via Nomentana）或在公元前449年；利嘉娜道（Via Labicana）在公元前421年；西拉娜道（Via Salaria）則在公元前361年建成。[8]
+根據安多寧的旅程（Itinerary of Antoninus）形容凱撒及奧古斯都時期的羅馬道路：
+
+隨了一些偏遠部分例外，如英國在長城以北、達契亞（Dacia）、幼發拉底河以東若干省份，整個帝國滲透這些道路路線（iter）。幾乎是一個區都有覆蓋，我們可能會想到羅馬官員到被發送，無論是民用或軍用，他們到達的哈德良牆，沿萊茵、多瑙河及幼發拉底河運行著服務。[8]
+
+網絡也覆蓋帝國的內陸省份，但超越國界就沒有羅馬道路。然而，仍有些行人路和污垢道路的密集網絡允許對外通行。[8][8]
+法律與傳統[编辑]
+公元前約450年十二铜表法（The laws of the Twelve Tables）指明道路需為8呎（2.45米）闊，而彎路則需有16呎（4.90米）。[9]十二铜表法指出當道路失修時，過路人有權通過其他私人土地。因此，興建不須經常維修的道路，避免他人進入自己的土地，成為羅馬人的潛意識，為節省物料成本，道路建設得又直又窄。
+羅馬法及傳統上禁止在市區使用交通工具，除特定情況外，只有已婚婦人及管理商業的官員可以使用交通工具。朱利亚城市法（Lex Iulia Municipalis）限制商業手拉車夜間只有在城市內的道路和城牆外一里內行駛。
+道路種類[编辑]
+道路（Road）這詞對應的拉丁语的詞源是via，眾數詞則是viae。羅馬道路由最原木路（英语：Corduroy road）到材質鋪設路，都有夯實碎石作基床以保障路面乾燥，避免石頭與碎石與黏土結石成泥漿。
+這些道路又可分為：[8]
+
+公共/軍事/管治道路（Viae publicae, consulares, praetoriage, militares），是公眾主要的道路，用公帑建設及維護，在國家土地上建設。[8]
+私人/農業道路（Viae privatae, rusticae, glareae, agrariae），由私人建設，或供公共使用[8]
+鄉村道路（Viae vicinales）[8]，在鄉村建設的公共或私人道路[8]
+
+管治及財政[编辑]
+當羅馬征服意大利時，道路由羅馬及其腹地向外擴展，把舊有的道路覆蓋。建設道路是軍事責任，因此受羅馬的執政官管轄，軍事名稱為固治道（viam munire），各地城市也有責任築建他們的道路。美麗和壯觀的道路可能會令我們相信，任何羅馬公民可以自由使用，但這種情況並非如此。徵收通行費的收費站在道路上比比皆是，特別是在橋樑。通常情況下，過路費在城門口收集，貨運會被收取較重的進出口稅。
+雖然資助興建道路是羅馬政府的責任，但維修的費用往往由省政府從稅項中收取以承擔。官員有責任籌得足夠款項支持道路的興建及維護，包括高級官員的 慷慨捐款，而主管公共工程的檢查官，需要自行掏錢維修道路。
+羅馬道路在連接兩座城市，中間穿過郊野，公共道路的建設和照顧，無論是在羅馬、在意大利、各省份，在羅馬歷史的各個時期，被認為是一個函數的最大重量和重要性，被認為是一個功能的最大比重和重要性。檢查員，作為最古老的羅馬地方法官，有最早的至高無上的權力，建造及修理在所有的公路和街道。事實上，除皇帝外，檢查員也有權監察及管轄該道路的權利。[8]市政官和檢查員利用羅馬附近卡比托利歐山（Clivus Capitolinus）噴出的熔岩及城市外的碎石建造道路和行人路。[8]
+建築技術[编辑]
+
+
+
+
+圖拉真柱的道路建設
+
+
+羅馬道路實際寬度在3.6英尺（1.1米）至超過23英尺（7米）。雖然石頭凹凸不平造成顛簸的路段，但這做法可抵禦雨水、結冰及洪，也會採用直的路線以減少維修需要。[8]
+材質[编辑]
+
+地表路（Via terrena）：地面已平整的泥路
+砂礫路（Via glareata）：砂礫道路。
+標準路（Via munita）：常規的羅馬道路，用矩形石塊鋪成的，或與多邊形塊熔岩。
+
+跨越障礙[编辑]
+羅馬人首選設計解決障礙的方案，而不是避開它們。將溝壑、丘陵或山區的石頭切開，以建隧道通過。為跨越河流，羅馬人會用石頭或木建拱型橋樑；若是小溪則鋪上石磚跨越，堤道建在沼澤的地面。
+軍用及民事用途[编辑]
+羅馬公共道路系統背後有明顯軍事目的，[8]道路建設可團結羅馬受統治的人民及鞏固被征服區的統治。
+里程碑和標記[编辑]
+道路上建有里程碑，先有一個在公元前250年分隔了亞壁古道，另一個也建在公元前125年許多大道上，現代詞彙英里或哩（mile）由拉丁語詞彙milia passuum，4,841英尺（1,480米）。里程碑有堅實的矩形底座，設置超過2英尺（60厘米）到地面，站在高5英尺（1.50米），直徑20英寸（50厘米），圓形柱達2噸以上。碑上在眼睛的高度位置有面板塊，標明與羅馬廣場的距離、那位官員製造、修理道路及其他各種信息。
+行程地圖和海圖[编辑]
+
+
+
+
+波伊廷格古地圖（Tabula Peutingeriana，正中部份為南部意大利）
+
+
+結合地形和標有道路的地圖存放在某些羅馬圖書館，但由於成本昂貴、難以複雜故不流動作用。[10]
+交通工具[编辑]
+
+
+
+
+羅馬馬車（重製）
+
+
+牛車是羅馬道路上常見的交通工具，也有日行40至50公里（25至30英里）的馬車，較步行快一倍。[11]
+路站和旅館[编辑]
+非軍方官員及為政府服務的人沒有營地給他們使用，他們需持有護照以茲識別，羅馬道路每隔15至18碼英里（25至30公里），便有旅行洋房，附近會有軍營給軍團使用。也有私營旅館，但有些已聲名狼藉，因為經被小偷光顧的，也有妓女當作賣淫場作，這些遺址的牆壁被塗鴉覆蓋。另外，每隔12至18英里（即20至30公里）有路站給作交通運貨工具的動物休息。[12][13]
+郵政服務[编辑]
+羅馬帝國內有公營和私營郵政服務。奧古斯都創立的公共郵政（Cursus publicus），透過羅馬道路系統收發及派送郵件，利用戰車上裝有的箱子盛載郵件。在緊急或特別情況下，會使用驛馬和騎士運送郵件，驛馬每日可傳遞信件至800公里外，該騎士會戴有一頂獨特的皮製郵帽識別是郵差。但郵差在古羅馬時期是種危險的職業，常遭土匪和羅馬的敵人侵擾。
+這些羅馬道路的開通，也促進私營郵遞業興起，例如tabellarii，是家聘用奴隸送信的郵遞業務經營者。
+地域分佈[编辑]
+
+
+
+
+
+哈德良（公元117年至138年在位）在位時的主要羅馬道路
+
+
+
+意大利地區[编辑]
+
+
+
+
+古羅馬時期意大利和西西里的道路
+
+
+
+主要公路
+
+
+艾米利亚大道，由里米尼至皮亞琴察
+亚壁古道（公年前312年），由羅馬至普利亞
+奧里利亞古道（Via Aurelia，公元前241年），由羅馬至法國
+卡斯亞道（Via Cassia），由羅馬至托斯卡納
+弗拉米尼亚大道（公元前220年），由羅馬里米尼
+拉鐵娜大道（Via Raetia），由维罗纳北橫過布倫納通道（Brenner Pass＿
+沙維娜大道（Via Salaria），由罜馬至亞得里亞海（馬爾凱）
+
+參考文獻[编辑]
+資料來源[编辑]
+
+
+^ Forbes, Robert James. Studies in ancient technology, Volume 2. Brill. 1993: 146. ISBN 978-90-04-00622-5. 
+^ Kaszynski, William. The American Highway: The History and Culture of Roads in the United States. Jefferson, N.C.: McFarland, 2000. Page 9
+^ 3.0 3.1 3.2 Bailey, L. H., and Wilhelm Miller. Cyclopedia of American Horticulture, Comprising Suggestions for Cultivation of Horticultural Plants, Descriptions of the Species of Fruits, Vegetables, Flowers, and Ornamental Plants Sold in the United States and Canada, Together with Geographical and Biographical Sketches. New York [etc.]: The Macmillan Co, 1900. Page 320.
+^ Corbishley, Mike: "The Roman World", page 50. Warwick Press, 1986.
+^ Gabriel, Richard A. The Great Armies of Antiquity. Westport, Conn: Praeger, 2002. Page 9.
+^ Michael Grant, History of Rome（New York: Charles Scribner, 1978）, 264.
+^ Quilici, Lorenzo (2008): "Land Transport, Part 1: Roads and Bridges", in: Oleson, John Peter（ed.）: The Oxford Handbook of Engineering and Technology in the Classical World, Oxford University Press, New York, ISBN 978-0-19-518731-1, pp.551–579（552）
+^ 8.00 8.01 8.02 8.03 8.04 8.05 8.06 8.07 8.08 8.09 8.10 8.11 8.12 8.13 8.14 Smith (1890).
+^ Laurence, Ray. The roads of Roman Italy: mobility and cultural change. Routedge. 1999: 58–59. ISBN 978-0-415-16616-4. 
+^ Jaś Elsner, "The Itinerarium Burdigalense: politics and salvation in the geography of Constantine's Empire" The Journal of Roman Studies （2000）, pp. 181–195, p. 184.
+^ Travel in the Ancient World, Lionel Casson, p. 189
+^ Naturalis Historia by Gaius Plinius Secundus, Liber VII, 84.
+^ The General History of the Highways by Nicolas Bergier, page 156.
+
+
+其他參考來源[编辑]
+
+
+Laurence, Ray (1999). The roads of Roman Italy: mobility and cultural change. Routledge.
+Von Hagen, Victor W.（1967）. The Roads That Led to Rome. The World Publishing Company, Cleveland and New York.
+Codrington, Thomas (1905). Roman Roads in Britain. London [etc.]: Society for promoting Christian knowledge.
+Forbes, Urquhart A., and Arnold C. Burmester (1904). Our Roman Highways. London: F.E. Robinson & co.
+Roby, Henry John (1902). Roman Private Law in the Times of Cicero and of the Antonines. Cambridge: C.U.P.
+Smith, William, William Wayte, and G. E. Marindin (1890). A Dictionary of Greek and Roman Antiquities. London: J. Murray. Page 946–954.
+Smith, William (1858). A School Dictionary of Greek and Roman Antiquities; Abridged from the Larger Dictionary by William Smith, with Corrections and Improvements by Charles Anthon. N.Y.: [s.n.]. Page 354–355
+Cresy, Edward (1847). An Encyclopædia of Civil Engineering, Historical, Theoretical, and Practical. London: printed for Longman, Brown, Green, and Longmans, Paternoster-Row.
+
+
+一手資料[编辑]
+
+
+
+
+Siculus Flaccus, De condicionibus agrorum cap. XIX
+Isidori Hispalensis Episcopi Etymologiarum sive Originum Liber XV, 15–16
+Codex Theodosianus:
+
+8.5 De cursu publico angariis et parangariis;
+15.3 De itinere muniendo
+
+
+
+
+
+
+民法大全
+
+C.12.50 De cursu publico angariis et parangariis
+D.8.3.0 De servitutibus praediorum rusticorum.
+D.8.6.2
+D.43.7 De locis et itineribus publicis
+D.43.8 Ne quid in loco publico vel itinere fiat.
+D.43.10 De via publica et si quid in ea factum esse dicatur.
+D.43.11 De via publica et itinere publico reficiendo.
+D.43.19 De itinere actuque privato.
+
+
+
+
+
+
+外部連結[编辑]
+
+
+
+从维基百科的姊妹计划
+了解更多有关
+“羅馬道路”的内容
+
+
+
+
+维基词典上的字词解释
+
+
+
+维基共享资源上的多媒体资源
+
+
+
+维基新闻上的新闻
+
+
+
+维基语录上的名言
+
+
+
+维基文库上的原始文献
+
+
+
+维基教科书上的教科书和手册
+
+
+
+维基学院上的學習资源
+
+
+
+地圖
+
+
+
+Orbis maps of the Roman world
+
+
+
+道路介紹
+
+
+
+Roman Roads
+Omnes Viae: Roman route planner based on Tabula Peutingeriana
+Viae Romanae
+Road Map
+"Viae"—article by William Ramsay
+Traianus: Technical investigation of Roman public works
+Roman Roads in the Mediterranean
+Vias Romanas em Portugal (in Portuguese)
+Itineraires Romains en France (in French)
+Augustine's Africa
+Pictures of Roman roads in the province of Raetia (German captions)
+
+
+
+羅馬法、公法及私法
+
+
+
+Servitutes
+
+
+
+道路建設
+
+
+
+Roman Road Construction
+Construction of Roman Roads
+Design and Construction of Roman Roads
+Roman Road Construction
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+古罗马
+
+
+
+
+
+
+
+年表
+
+
+
+
+
+
+时期
+
+建国 · 君主制 · 共和国 · 帝国（元首制 / 第一公民 / 主宰（英语：Dominate） / 衰落） · 西帝国 · 东帝国
+
+
+
+
+
+
+
+
+
+宪政
+
+宪政史（英语：History of the Roman Constitution） · 王国宪政（英语：Constitution of the Roman Kingdom） · 共和国宪政（英语：Constitution of the Roman Republic） · 帝国宪政（英语：Constitution of the Roman Empire） · 晚期帝国宪政（英语：Constitution of the Late Roman Empire） · 元老院 · 人民代表会议（区会议 / 百人队会议（英语：Century Assembly） / 平民会议（英语：Plebeian Council） / 部族会议） · 政务官
+
+
+
+
+
+
+政府
+
+教廷 · 公共集会场所（英语：Forum (Roman)） · 晋升体系 · 共治 · 皇帝 · 使者 · 总督（英语：Dux） · 職事（英语：Officium (Ancient Rome)） · 提督（英语：Prefect#Ancient_Rome） · 代理官（英语：Vicarius） · 二十六人团 · 刀斧手 · 总司令（英语：Magister militum） · 凯旋将军 · 首席元老 · 大祭司 · 凯撒 · 奥古斯都 · 四帝共治制 · 行省 · 罗马建城纪年
+
+
+
+
+
+
+政务官
+
+
+
+
+
+普通
+
+
+保民官 · 财务官 · 市政官 · 裁判官 · 执政官 · 监察官 · 资深长官（英语：Promagistrate） · 总督
+
+
+
+
+
+
+
+特别
+
+
+独裁官 · 骑士统领 · 十人委员会 · 執政護民官（英语：Tribuni militum consulari potestate） · 三頭政治 · 罗马国王 · 臨時攝政者（英语：Interrex）
+
+
+
+
+
+
+
+
+
+法律
+
+十二铜表法 · 祖宗大法（英语：Mos maiorum） · 罗马公民 · 準可（英语：Auctoritas） · 帝权（英语：Imperium） · 法律状况（英语：Status in Roman legal system） · 诉讼（英语：Roman litigation）
+
+
+
+
+
+
+社会阶层（英语：Social class in ancient Rome）
+
+贵族 · 平民 · 阶级斗争（英语：Conflict of the Orders） · 平民的脱离运动（英语：平民的脱离运动 (古罗马)） · 罗马骑士阶级 · 家庭（英语：Gens） · 部族 · 古罗马人命名习俗 · 妇女（英语：Women in ancient Rome） · 婚姻 · 收养 · 同性戀 · 奴隶（英语：Slavery in ancient Rome） · 巴高达（英语：Bagaudae）
+
+
+
+
+
+
+軍事
+
+军事史（战役史 · 军事科技史（英语：古罗马军事科技史） · 军事政治史（英语：Political history of the Roman military）） · 边境 · 军队的建立（英语：Military establishment of the Roman Republic） · 军队结构（英语：Structural history of the Roman military） · 前沿和防御工事（英语：Roman military frontiers and fortifications） · Castra · 战略 · 工程（英语：古罗马军事工程） · 陆军（军团 / 步兵战术 / 单兵装备（英语：Roman military personal equipment） · 攻城器械） · 海军 · 辅助设备（英语：Auxiliaries (Roman military)） · 嘉奖与处罚（英语：Roman military decorations and punishments）
+
+
+
+
+
+
+对外关系
+
+中国 · 印度（英语：Indo-Roman relations） · 爱尔兰（英语：Hiberno-Roman relations） · 北欧（英语：Germanic-Roman contacts） · 美洲？ · 索马里 · 撒哈拉以南非洲（英语：European exploration of Africa）
+
+
+
+
+
+
+文化
+
+戏剧 · 教育 · 学校 · 文学 · 艺术 · 音乐 · 建筑 · 宗教（丧葬（英语：Roman funerals and burial） / 迫害 / 帝国邪教） · 神话 · 发式（英语：Roman hairstyles） · 公共浴场 · 公共集会场所（英语：Forum (Roman)） · SPQR · 服装 · 节日 · 露天圆形竞技场（英语：Circus (building)） · 葡萄酒 · 卖淫业（英语：Prostitution in ancient Rome） · 森林砍伐（英语：Deforestation during the Roman period） · 拉丁化 · 化妆品 · 飲食
+
+
+
+
+
+
+科技（英语：Roman technology）
+
+数字 · 算术 · 珠算（英语：Roman abacus） · 土木工程（英语：Roman engineering） · 军事工程（英语：Roman military engineering） · 军事技术（英语：Technological history of the Roman military） · 道路 · 桥梁（英语：Roman bridge） · 渡槽（英语：Roman aqueducts） · 冶金（英语：Roman metallurgy） · 混凝土（英语：Roman concrete） · 卫生
+
+
+
+
+
+
+經濟（英语：Roman economy）
+
+农场 · 农业 · 商业（英语：Roman commerce） · 财政（英语：Roman finance） · 货币 · 共和国货币 · 帝国货币
+
+
+
+
+
+
+语言
+
+拉丁语历史（英语：History of Latin） · 拉丁字母 · 罗曼语族 · 旧拉丁语（英语：Old Latin） · 古典 · 通俗 · 晚期（英语：Late Latin） · 中世纪 · 文艺复兴时期的拉丁语 · 新拉丁语 · 近代拉丁语（英语：Recent Latin） · 教会
+
+
+
+
+
+
+作家
+
+阿普列乌斯 · 卡图卢斯 · 西塞罗 · 昆图斯·恩纽斯 · 贺拉斯 · 恺撒 · 尤维纳利斯 · 蒂托·李维 · 盧坎 · 卢克莱修 · 马提亚尔 · 奥维德 · 佩特羅尼烏斯 · 普劳图斯 · 老普林尼 · 小普林尼 · 普罗佩提乌斯 · 昆提利安 · 萨卢斯特 · 塞内卡 · 斯塔提乌斯 · 苏埃托尼乌斯 · 塔西陀 · 泰伦提乌斯 · 提布鲁斯 · 瓦罗 · 维吉尔 · 维特鲁威
+
+
+
+
+
+
+列表（英语：Category:Ancient Rome-related lists）
+
+主题（英语：List of topics related to ancient Rome） · 战争 · 战役 · 将军（英语：List of Roman generals） · 军团 · 皇帝 · 机构 · 法律 · 执政官 · 杰出女性（英语：List of Roman women）
+
+
+
+
+
+
+
+古罗马主题
+ « 史前歐洲
+中世纪 » 
+
+
+
+
+
+
+
+
+
+
+
+分类：古道古羅馬欧洲道路亚洲道路非洲道路隐藏分类：使用ISBN魔术链接的页面自2015年12月連結格式不正確的條目含有英語的條目含有拉丁語的條目

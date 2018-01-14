@@ -417,7 +417,7 @@
 
 
 
-民主（希腊文：dìmokratía），其本义是“人民的统治”，即“主权在民”，是一种现代的国家制度，国家权力由公民直接或间接行使。民主有时被称为“多数的统治”，与独裁统治或寡头政治相对立。狭义的民主一词经常被使用于描述国家的政治，民主的原则也适用于其他有着统治行为存在的领域。平常所说的民主作风、民主原则、言论自由等民主权利，都从民主之含义派生而来[1]。广义的民主应该是人民当家做主，既在一个完整的民主的社会里人们从一出生就平等，人们不仅对社会生产资料有共同的占有权的同时人们对社会也负有相应的责任与义务，也就是“各尽所能、各取所需”的社会框架的基础上，再建立起社会的法律法规以及对政权控制的选举权与被选举权等等。
+民主（希腊语：δημοκρατία，轉寫：dìmokratía），其本义是“人民的统治”，即“主权在民”，是一种现代的国家制度，国家权力由公民直接或间接行使。民主有时被称为“多数的统治”，与極權統治或独裁统治或寡头政治相对立。狭义的民主一词经常被使用于描述国家的政治，民主的原则也适用于其他有着统治行为存在的领域。平常所说的民主作风、民主原则、言論自由等民主权利，都从民主之含义派生而来[1]。广义的民主应该是人民当家做主，既在一个完整的民主的社会里人们从一出生就平等，人们不仅对社会生产资料有共同的占有权的同时人们对社会也负有相应的责任与义务，也就是“各尽所能、各取所需”的社会框架的基础上，再建立起社会的法律法规以及对政权控制的选举权与被选举权等等。
 拉里·戴蒙德（Larry Diamond）指出，民主包括四个关键要素：（1）通过自由和公正的选举产生政府; （2）作为公民积极参与政治和公民生活; （3）保护所有公民的人权;（4）法律和程序同样适用于所有公民。
 
 
@@ -842,15 +842,15 @@
 ^ 希羅多德《歷史》：「我對於歐塔尼斯表示要廢除獨裁制度一事沒有任何意見，但對於將主權委託給人民這件事，我認為並非最佳良策。沒有什麼是比毫無用處的大眾更加愚昧低劣與滑頭。因此若為了要免除獨裁者的暴虐，而讓其陷入狂暴民眾的暴戾手段，是讓人絕對無法忍受之事。一個是當在執行事物時，知道自己執行的理由而採取行動，若是變成另外一種體制，則是連這個自覺都沒有。原本就未被教導什麼才是正當之事、連自己領悟能力都沒有的人，當然就不可能會擁有那種自覺。就如同奔流的河川，只會毫無思考，一昧蠻幹，促使國家大事前進。因此，若是對波斯有二心的人，就採取民主體制吧！」
 ^ 希羅多德《歷史》：「當惡意蔓延在公共事務時，在壞人之間會產生的不是敵對關係，反而是堅定的友誼。自然應該如此，因為要對國家做壞事的人會結盟合作。當這樣的事發生時，就會有某個人出現，站在國民最前方，並將壞人置之死地。其結果就是這個男人會成為國民稱讚目標，讚美的話語會將其推崇到獨裁者的地位。由這個事例也可以看出，很明確的，獨裁才是最佳政治體治。」
 ^ 引用错误：没有为名为言的参考文献提供内容
-^ A. Democracy in World Book Encyclopedia, World Book Inc., 2006. B.
+^ A. Democracy[失效連結] in World Book Encyclopedia, World Book Inc., 2006. B.
 ^ Pure democracy entry in Merriam-Webster Dictionary. C.
 ^ Pure democracy entry in American Heritage Dictionary"
 ^ http://65.110.85.181/uploads/pdf/essay2006.pdf (PDF).  外部链接存在于|title= (帮助)[失效連結]
-^ 存档副本. [2016-02-05].  已忽略文本“2013-11-26” (帮助)
+^ 存档副本. [2016-02-05]. （原始内容存档于2013-11-26）.  已忽略文本“2013-11-26” (帮助)
 ^ 约瑟夫·熊彼特，（1950）. Capitalism, Socialism, and Democracy. Harper Perennial. ISBN 0-06-133008-6.
 ^ Buchanan, James M. & Tullock, Gordon.（1965）. The Calculus of consent: Logical Foundations of Constitutional Democracy. University of Michigan Press. pp.301.
 ^ James Madison，（November 22, 1787）. "The Federalist No. 10 - The Utility of the Union as a Safeguard Against Domestic Faction and Insurrection (continued)", Daily Advertiser. New York. Republished by Wikisource.
-^ http://www.npf.org.tw/1/6563。
+^ http://www.npf.org.tw/1/6563。 Archive.is的存檔，存档日期2016-12-12
 ^ 都怪地方官？中國人高度滿意中央政府端傳媒.2015-9-16
 ^ 划清中国特色社会主义民主同西方资本主义民主的界限人民网.2010-8-25
 ^ Eltzbacher, Paul. Anarchism. Plainview, NY: Books for Libraries Press, 1960, p. 129.
@@ -904,7 +904,7 @@ Conducting new experiments with democracy, Advancing Ethics & Democracy，由Ros
 Democratic Deficit
 On Democracy by James Russell Lowell
 Students for Global Democracy
-Wiki Democracy—wiki引擎的實驗，如果在美國沒有任何法律，你會想添加什麼法律？
+Wiki Democracy[失效連結]—wiki引擎的實驗，如果在美國沒有任何法律，你會想添加什麼法律？
 
 
 
@@ -1226,4 +1226,4 @@ NDL: 00567687
 
 
 
-分类：民主政治術語政治制度政体主义隐藏分类：有参考文献错误的页面含有希臘語的條目引文格式1错误：外部链接带有失效链接的条目含有未命名参数的引用的页面使用ISBN魔术链接的页面自2016年3月需补充来源的条目拒绝当选首页新条目推荐栏目的条目含有法語的條目含有西班牙語的條目有未列明来源语句的条目自2017年10月扩充中的条目扩充中的条目包含规范控制信息的维基百科条目
+分类：Instances of Lang-el using second unnamed parameter民主政治術語政治制度政体主义隐藏分类：有参考文献错误的页面含有希臘語的條目带有失效链接的条目条目有永久失效的外部链接引文格式1错误：外部链接含有未命名参数的引用的页面Webarchive模板archiveis链接使用ISBN魔术链接的页面自2016年3月需补充来源的条目拒绝当选首页新条目推荐栏目的条目含有法語的條目含有西班牙語的條目有未列明来源语句的条目自2017年10月扩充中的条目扩充中的条目包含规范控制信息的维基百科条目

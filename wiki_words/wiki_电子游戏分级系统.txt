@@ -1,0 +1,321 @@
+电子游戏分级系统
+
+
+
+
+
+本条目需要补充更多来源。（2017年4月7日） 
+请协助添加多方面可靠来源以改善这篇条目，无法查证的内容可能會因為异议提出而移除。 
+
+
+电子游戏分级系统是一種用於分別電子遊戲對各年齡人士的合適度的分級系統。大部份這些系統都是由政府資助，有時更是包括在地方電影分級制度的一部份。電子遊戲分級系統可作為法律的依據，監察遊戲銷售商或商店，以限制某些遊戲售賣給未成年人。且隨著社會保護風氣升高，許多國家內縱使是最低級別，也都要求在三到六歲之間，以避免過小年齡的嬰兒接觸聲光效果。
+比較[编辑]
+以下為現存電子遊戲分級的比較。
+Key:
+
+ White : Aimed at young audiences / All ages may play / Exempt / Not rated / No applicable rating.
+ Yellow : Parental guidance is suggested.
+ Purple : Not recommended for a younger audience but not restricted.
+ Red : Restricted to an older audience unless accompanied by an adult.
+ Black : Restricted exclusively to an older audience / Banned.
+
+
+
+Country/System
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+Other
+Notes
+
+
+App Store (iOS)
+N/A
+4+
+9+
+12+
+17+
+No Rating
+Ratings are required for applications to be released or sold on the App Store.
+
+
+ Argentina
+ATP
++13
++16
++18
+N/A
+Adopted on 15 October 2005. Rating systems are also used for television and motion pictures. No games distributed in Argentina have used this rating yet, as the majority of the games available for sale are imported.
+
+
+ Australia
+G
+M
+R18+
+RC
+The restricted categories are MA15+ and R18+, the latter was introduced at the start of 2013.
+
+
+PG
+MA15+
+CTC
+
+
+ Brazil
+L
+10
+12
+14
+16
+18
+N/A
+The same rating system is used for television and motion pictures in Brazil.
+
+
+ESRB
+ 加拿大
+ 墨西哥
+ 美國
+EC
+E10+
+T
+M
+AO
+RP
+This was adopted in 1994 in the United States, most of Canada, and Mexico. The E10+ rating was first used in early 2005. Games rated RP (Rating Pending) do not yet have a rating.
+
+
+E
+
+
+ Germany
+USK 0
+USK 6
+USK 12
+USK 12
+USK 16
+USK 18
+Federal Department for Media Harmful to Young Persons（英语：Federal Department for Media Harmful to Young Persons）
+10-year-olds are legally permitted to purchase 12-rated games, but only with parental permission.
+
+
+No labelling
+
+
+ Iran
+N/A
++3
++7
++12
++15
++18
+N/A
+Some games are forbidden. Games with intense violence, strong sexual content or nudity are prohibited.
+
+
+ Japan
+A
+B
+C
+D
+Z
+審査予定
+These ratings have been used since March 1, 2006. The Z rating is the only rating that is legally restricted.
+
+
+ New Zealand
+PG
+M
+R18
+Objectionable
+Games with an unrestricted label in Australia can carry Australian classification labels, but New Zealand labels are required if the game is restricted (MA15+) in Australia or is classified RC（英语：List of banned video games in Australia）.
+
+
+G
+R13
+R15
+R16
+
+
+PEGI
+ 歐洲
+ 印度
+ 以色列
+ 巴基斯坦
+N/A
+3
+7
+12
+16
+18
+N/A
+Legal enforcement depends on the jurisdiction.
+
+
+ Portugal
+N/A
+4
+6
+12
+16
+18
+N/A
+Portugal uses a modified version of PEGI.
+
+
+ Russia
+0+
+6+
+12+
+16+
+18+
+N/A
+These ratings have been used since 1 September 2012. The same rating system is used for television, motion pictures, and publications in Russia.
+
+
+ Singapore
+General
+Age
+Advisory
+M18
+N/A
+Adopted on 28 April 2008.
+
+
+ South Korea
+ALL
+12
+15
+18
+N/A
+Before 2006, video games released in South Korea were rated by KMRB（英语：Korea Media Rating Board）.
+
+
+ Taiwan
+普通
+(G)
+保護
+(P)
+輔12
+(PG 12)
+輔15
+(PG 15)
+限制
+(R)
+N/A
+3DS video games released in Taiwan carry a mandatory age restriction of 6 years or more.
+
+
+在上表中，斜體表示一個國際組織，而不是一個國家。
+應用[编辑]
+
+
+
+參考文獻[编辑]
+
+
+（繁体中文）電腦軟體分級辦法
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+电子游戏分级制度
+
+
+
+
+
+
+國際
+
+
+
+IARC 國際年齡分級聯盟
+
+
+
+
+
+
+
+
+北美
+
+
+
+ESRB 娱乐软件分级委员会
+VRC 电子游戏分级委员会（早期美国世嘉公司）
+
+
+
+
+
+
+
+
+欧洲
+
+
+
+PEGI 泛欧洲遊戲信息組織
+BBFC 英国电影分类系统
+USK 德国娱乐软件检验局
+ELSPA 娱乐和休闲软件发行商组织（早期）
+
+
+
+
+
+
+
+
+东亚
+
+
+
+CERO 日本计算机娛樂分級機構
+EOCS 日本计算机软件伦理机构
+日本映像伦理机构（原CSA媒体伦理委员会并入）
+GRB 韩国游戏物等級委員會
+中華民國遊戲軟體分級管理辦法
+
+
+
+
+
+
+
+
+
+
+
+
+分类：电子游戏分级系统隐藏分类：自2017年4月需补充来源的条目拒绝当选首页新条目推荐栏目的条目含有日語的條目

@@ -1,0 +1,864 @@
+系统工程
+
+
+
+
+
+本条目部分链接不符合格式手冊規範。跨語言链接及章節標題等處的链接可能需要清理。（2015年12月11日） 
+請協助改善此條目。參見WP:LINKSTYLE、WP:MOSIW以了解細節。突出显示跨语言链接可以便于检查。 
+
+
+
+
+
+
+系統工程技術被應用於複雜專案：如太空飛船設計、電腦晶片設計、機器人、軟體整合、以及橋樑建築等。系统工程使用到一堆工具：包括建模與仿真、需求分析、以及排程來管理複雜性
+
+
+。
+系统工程是一個跨多學科領域的工程學和工程管理，通常專注於如何設計和管理在其生命週期內的複雜系統。系統工程的核心係利用系統性思考的原則，以建構其知識體系。當處理大型、複雜的專案時，所面臨的相關議題（例如：需求工程、可靠度、物流、不同團隊的協調、測試與評估、可維修性、和許多其他能夠成就系統開發、設計、執行、和最終除役的學科）變得更加困難。系統工程藉由工作流程、優化的方法、以及風險管理等工具來處理此一類型的專案，並且與技術、和以人為本的學科相互重疊（例如：工業工程、機械工程、製造工程、控制工程、軟體工程、電機工程、模控學、組織研究、以及專案管理）。系統工程確保專案或系統的各個層面均被詳加考慮、並整合成為一體。
+系統工程流程是一種發現的過程，與製造流程顯著不同。製造流程專注於重複性的活動，以花費最少的成本與時間來達成最高的品質輸出。系統工程流程則必須由發現實際、待解決的問題為起始點，並識別出最有可能發生、或衝擊最大的失效，系統工程也涉入找出這些問題的最佳解決方案。
+
+
+
+目录
+
+
+1 歷史
+2 概念
+
+2.1 起源、和傳統範圍
+2.2 進化到更寬廣的範圍
+2.3 整體觀點
+2.4 跨學科領域
+2.5 複雜性管理
+2.6 範疇
+
+
+3 教育
+4 系统工程主題
+
+4.1 系统
+4.2 系统工程流程
+4.3 使用模型
+4.4 建模形式和圖形表示
+4.5 其他工具
+
+
+5 相關領域和子領域
+6 参见
+7 参考文献
+8 延伸閱讀
+9 外部链接
+
+
+
+歷史[编辑]
+
+
+
+
+企业产品开发流程的QFD 品質屋
+
+
+系統工程一詞，可以追溯到1940年代的貝爾實驗室[1] 。為了去識別和操控一個系統的整體特性〈對於複雜的工程專案而言，可能遠大於這些零部件特性的總合〉的需求，激發了各種產業〈特別是那些為美國軍方開發系統的企業〉來採用這門學科[2]。
+當依賴設計進化來改善一個系統已經不再可能，現有工具也無法滿足日益增长的需求時，因而開始發展出一些可直接處理复杂度的新方法[3]。系統工程的持續進化，包括新方法和建模技術的發展與確認。隨著工程系統更趨於複雜化，這些方法有助於更好的理解、以及設計與發展的管控。在系統工程領域時常被使用的工具，大多於這個時期被開發出來，包括 通用系統語言（USL）、統一塑模語言（UML）、品質機能展開（QFD）、和IDEF0。
+在1990年代，由一群來自美國企業和機構的代表創立了一個系統工程的專業協會：「美國國家系統工程協會」（NCOSE），其創立宗旨為推動改進系統工程實務和教育，也促進了美國以外地區從事於系統工程人員的成長，因此於1995年更名為國際系統工程協會（INCOSE）[4]。許多國家的學校提供系統工程的研究生課程，也提供實習工程師的進修教育選項[5]。
+概念[编辑]
+系統工程原本僅僅意味工程上的一個方法，最近則為一门學科。系統工程教育的目標，乃將各種方法簡單地正式化，並借此尋找新方法和研發機會，與發生於其他工程領域的情況類似。系統工程是一個整體性、跨學科的方法。
+起源、和傳統範圍[编辑]
+工程的傳統範圍：包括實體系統的概念、設計、開發、生產、和運作。系統工程的原始構想，也落於此範圍內。系統工程的名詞意義，與為了在時程、成本、和其他限制之下，因應史無前例的規模、與複雜度的功能系統的工程挑戰，而發展出來的一套獨特的概念、方法論、組織架構 … 等等相關聯。阿波羅計畫是系統工程專案最為重要的範例。
+進化到更寬廣的範圍[编辑]
+系統工程一詞的使用，隨著時間的推移，逐漸納入更寬廣、更為整體性觀念的系統和工程流程。定義的演變，也成為爭論的主題[6]，這個名詞仍持續應用於較為狹窄、和較為廣泛的範圍。
+在古典意義上，傳統的系統工程被視為工程的一個分支，也只應用於實體的系統，例如：太空飛船和飛機。最近，系統工程進化為承載著更為寬廣的意義，特別是將人類視為一個系統的必要組成元件。
+例如，英國學者彼得‧切克蘭德〈Peter Checkland〉就抓住了系統工程更寬廣的意義，他說明：「工程可以在一般的意義上解讀；你可以“策劃”〈engineer〉一個會議，或“策動”〈engineer〉一個政治協定」[7]:10。
+和系統工程更寬廣的範圍一致，「系統工程知識體系」〈SEBoK〉[8]定義了三種形式的系統工程：〈一〉產品系統工程〈PSE〉為傳統的系統工程，專注於包括軟體和硬體的實體系統的設計。〈二〉企業系統工程〈ESE〉為企業的觀點，亦即把組織、或許多組織的組合視為系統。〈三〉服務系統工程〈SSE〉與服務系統的工程有關，英國學者彼得‧切克蘭德〈Peter Checkland〉[7]定義服務系統〈Service System〉為一個被設想為服務另一個系統的系統，大部分的民用基礎設施系統皆為服務系統。
+整體觀點[编辑]
+系統工程專注於：在開發周期的早期階段，分析引出客戶的需要與必需的功能性，将需求文件化，然后在考慮完整問題〈也就是系統生命週期〉期間，進行設計综合和系統驗證，包括牽涉利害關係人所充分了解的全部事項。奧立佛 … 等人主張系統工程流程可以分解成：
+
+系統工程技術流程
+系統工程管理流程
+
+在奧立佛的模型內，管理流程的目標在於籌備生命週期中有組織的技術活動；而技術流程則包括估算可利用的信息、定義效益的衡量、創建行為模型、創建結構模型、執行取捨分析、創建順序構建與測試計畫[9]。
+根据它們的應用，雖然在工業界有許多的模型可以使用，它们均旨在鑑定前述各個階段之間的關係，並將回饋包括在內。此類模型的範例包括瀑布模型和V模型[10]。
+跨學科領域[编辑]
+系統開發經常需要來自多種技術學科的貢獻[11]。系統工程藉由提供一個開發工作的系統〈整體〉觀點，幫助將所有技術貢獻者籌組成為一體的工作團隊，建立一個從概念、生產、運作、到(在某些情況下)終止與除役的結構化開發流程。在系統取得過程，於涵蓋該項目完整生命週期、並且維持可接受程度風險的期間，整體整合學科結合了貢獻、以及成本、時程、和效能之間的平衡取捨。
+此觀點經常在教育學程中被複製，系統工程的課程乃由許多工程系所的教師來講授，可以有效地協助創建一個跨學科的學習環境[12][13]。
+複雜性管理[编辑]
+隨著系統和專案的複雜度增加，系統工程的需求也大幅提昇。本文所謂的複雜度，不只是針對工程系統，也包括邏輯性人事組織的資料；同時，由於規模增大，系統變得更複雜，資料數量、變因、或涉及設計的領域數目 … 等也隨之增加。 國際太空站就是此類系統的範例。
+
+
+
+
+国际空间站 是需要系统工程的大型复杂系统的范例
+
+
+更聰明控制演算法開發、微處理器設計、和環境系統分析 … 等，也在系統工程的範圍之內。系統工程鼓勵使用工具和方法，更能理解和管理系統的複雜度。這些工具舉例如下[14]：
+
+系统模型（英语：System model），模擬和仿真
+系统架构
+最佳化
+系統動力學
+系統分析
+統計分析
+可靠度分析
+決策
+
+採取跨學科方式的工程系統，本身就很複雜；因為系統零組件的運轉狀態、以及彼此間的相互作用，通常無法立刻被適當地定義、或了解。定義和描述此類系統、次系統、以及其彼此之間相互作用的特點，是系統工程的目的之一，也為來自使用者、操作者、行銷機構、和技術規範 … 等的認知差距，成功地搭起了溝通的橋樑。
+範疇[编辑]
+
+
+
+
+系统工程活动的範疇[15]
+
+
+欲一窺系統工程背後所隱藏的動機，可以視其為一種方法、或實踐行動，來鑑別和改善現存於各種系統之內的通則[16]。請牢記，系統工程原則(整體論、緊急行為、界線 … 等等)可以應用於任何系統、複雜度、或以其他方式，提供可利用在各個層級的系統思維[17]。除了國防和太空之外，許多資訊科技企業、軟體開發公司、和電子通訊產業也需要系統工程師成為他們團隊的一員[18]。
+由國際系統工程協會〈INCOSE〉的系統工程精進中心〈SECOE〉分析指出：投入系統工程的最佳比例，大約是佔整個專案的15~20%[19]；同時，有研究顯示系統工程除了其他好處之外，實質上也可導致成本降低[19]。然而，直到最近才開始進行涉及多種產業的大規模定量調查，這樣的研究正在進行中，以決定系統工程的效能，並量化其利益[20][21]。
+系统工程鼓励使用建模与仿真，以验证系统的假设或理论，以及他们的相互作用[22][23]。
+在安全工程中，允許可及早偵測可能失效所使用的方法，已经被整合到设计过程中。同时，在專案起始階段所做的決策，卻無法清楚理解其後果者，在系統壽命後期可能造成巨大的衝擊。现代系统工程师的任務，就是去探讨这些議題，并作出关键性的决定。没有一种方法可以保证今日的決定，在一個系統從最初構想到投入服務，持續數年、或數十年之後仍然有效。不過，仍有許多支援系统工程程序的技術。例子包括：軟系統方法論、系統動力學方法、和統一塑模語言（UML）。这些方法目前都正在探索、评估和开发，以支援工程决策程序。
+教育[编辑]
+系统工程教育往往被視為正规工程课程的延伸[24]，这反映了產业的态度，也就是工程学生需要在传统的工程学科（如航太工程學，土木工程學、電機工程學、机械工程學，製程工程學，工业工程學）之一的基礎背景，加上實務的、现实世界的经验，以成为有效用的系统工程师。在大学本科开设系统工程课程並不多見，通常是在研究生阶段提供系统工程學課程，并与跨学科研究相结合。
+INCOSE維護一個不断更新的全世界系统工程學術課程目錄[5]。截至2009年，在美国大约有80个學院提供165个系统工程的本科和研究生學程。系统工程教育可以作為以系统为中心、或以领域为中心。
+
+以系统为中心學程：把系统工程視為一个独立的学科，大部分课程的授课重点在於系统工程原則和實務。
+以领域为中心學程：提供系統工程成為一個選修項目，可與另一個主要領域的工程學一塊學習。
+
+这两种模式都力求教育系统工程师成为能够俯瞰跨学科專案、並具有必要深度的核心工程师[25]。
+系统工程主題[编辑]
+系统工程工具是有助於執行一個專案或產品的系統工程的策略、程序、和技术。这些工具的目的，依資料庫管理、圖形瀏覽、模拟、和推理，到文档生成，中性輸入/输出、以及更多的不同而異[26]。
+系统[编辑]
+在系统工程的领域中，何謂系统有许多的定义。以下是一些較具权威的定义：
+
+ANSI/EIA-632-1999：「終端產品的集合，使產品達到既定目的[27]。」
+DAU系統工程基礎：「一個以人、產品、和程序的整合綜合體，提供滿足既定需要或目標的能力。」
+IEEE Std 1220-1998：「一整套、或相關布局的元素和流程，其特性以满足客户/運作的需要，并提供产品生命周期的支持[28]。」
+ISO/ IEC15288:2008：「相互作用的元素組合，以实现一个、或多个指定用途[29]。」
+NASA系统工程手册：「（1）共同发挥功用的元素組合，以产生可满足需要的能力。这些元素包括所有硬體、軟體、設備、設施、人員、流程、以及为此目的所需的程序。（2）终端產品（执行运作功能）以及驅動（對运作的终端产品提供生命周期支援服务）構成一個系統的產品[30]。」
+INCOSE系统工程手册：「在真實世界中展示預先定義行為的同質實體，由異質部件〈個別展示皆無此行為〉所組成，組件或次系統的集成配置[31]。」
+INCOSE：“系統是不同元素的構造、或組合，可以一起產生個別元素無法獨自獲得的結果，此元素（或部件）可包括：人員、硬體、軟體、設施、政策、和文件，亦即所有可產生系統層級結果的事物，此結果包括：系統層級的品質、屬性、特徵、功能、行為、和效能，整個系統所添加的價值，超越部件的個別貢獻，主要是由部件間的關係所產生，亦即他們如何互聯[31]。」
+
+系统工程流程[编辑]
+根据他们的应用，在系统工程流程的各个阶段使用不同的工具[15]
+
+：
+
+使用模型[编辑]
+在系統工程中模型發揮重要和多種角色。一個模型可以有多種定義，包括[32]：
+
+現實的抽象化，旨在回答有關現實世界中的具體問題；
+模仿、模擬、或代表一個真實世界的過程或結構；或者是
+一個概念，數學、或物理的工具，用以協助決策者。
+
+總之，這些定義很廣泛，足以涵蓋系統設計驗證所使用的實體工程模型，以及圖示模型（就像使用於取捨研究過程中的功能流程方塊圖和數學（定量）模型）。本文側重於後者[32]。
+在取捨研究中使用數學模型和數學圖表的主要原因，係提供系統效益、性能或技術屬性、一組已知或可估計數量的成本估算。通常需要一批個別模型來提供這些結果變數。任何數學模型的核心，係為其輸入和輸出之間一套有意義的定量關係。這些關係可以簡單到合計成份數量以獲得總數，或複雜到要用一套微分方程式來描述在一個重力場中的宇宙飛船飛行軌跡。理想情況下，這些關係表達了因果關係，而不僅僅是相關性[32]。此外，系統工程活動的成功關鍵，也在於這些模型的方法被有效地管理，並且使用來模擬系統。不過，多種的領域往往造成反覆出現的系統工程建模與仿真問題，新的進展是在「建模與仿真系統工程」標題下，正瞄準於不同的科學和工程社群間相互交流、共同成長的方法[33]。
+建模形式和圖形表示[编辑]
+首先，當一位系統工程師的主要目的是去理解一個複雜問題時，系統的圖形表示被用來傳遞系統功能和資料的需求[34]。常見的圖形表示包括：
+
+功能流程方塊圖（FFBD）
+基於模型的設計
+資料流程圖（DFD）
+N平方圖（N2 Chart）
+IDEF0圖
+使用案例
+時序圖
+方塊圖
+信號流圖
+通用系統語言
+企業架構框架
+基於模型的系統工程
+
+圖形表示透過功能、資料、或介面，使系統的各個子系統、或部件相互關連。上述任何方法被使用於產業，是基於產業的需求。例如，N平方圖可使用於各系統之間的重要介面。設計階段的一部分，就是去創建系統的結構和行為模型。
+一旦需求被理解，系統工程師的責任就是去改善它們，並與其他工程師一起決定最好的工作技術。在取捨研究的起始點，系統工程鼓勵使用加權選擇來決定最佳選擇。一個決策矩陣〈或Pugh方法〉是一種方式（品質機能展開是另一種），在同時考慮所有重要的標準時可作出這個選擇。取捨研究則反過來通知設計，（不改變需求下）將再度影響圖形表示。在系統工程過程中，這個階段代表執行反覆的步驟，直到找到可行方案為止。決策矩陣常用的技術，例如：統計分析、可靠度分析、系統動力學（回饋控制）、以及優化方法。
+其他工具[编辑]
+系統建模語言（SysML）是系統工程應用所使用的一種建模語言，可支援一個範圍廣泛的複雜系統的規格、分析、設計、驗證、和確認[35]。
+生命週期建模語言（LML）是一個設計給系統工程使用的開放標準建模語言，可支援完整的生命週期：概念、採用、支援、和除役階段[36]。
+相關領域和子領域[编辑]
+許多相關領域可能被認為與系統工程緊密結合，這些領域貢獻於將系統工程發展成為一個獨特的實體。
+
+認知系統工程
+認知系統工程（CSE）是一種特定的人機系統或社會技術系統的描述和分析方法[37]。CSE的三個主要議題：人類如何應對複雜性、如何使用加工品來完成工作、以及人機系統和社會經濟技術系統如何可被描述為共同的認知系統。CSE從一開始已成為公認的科學學科，有時也被稱為認知工程。尤其，聯合認知系統（JCS）的概念已成為一種廣泛使用方式，用以瞭解複雜的社會技術系統如何可以用各種不同程度的解析度來描述。超過20年的CSE經驗已經被廣泛描述[38][39]。
+配置管理（構型管理、或形態管理）
+與系統工程一樣，配置管理在國防和航空航太業的實踐是一種廣泛的系統級的實踐。該領域與系統工程的任務分配平行；系統工程應對需求開發，開發項分配和核查；配置管理處理需求捕獲，開放項的可追溯性，開發專案的審計以確保它達到了預期的功能；這些已通過系統工程和/或試驗工程驗證的客觀測試來證明。
+控制工程
+控制工程和控制系統的設計和實施，在幾乎每一個行業中都被廣泛使用，它是一個系統工程的大的子領域。對汽車和彈道導彈的制導系統的巡航控制就是兩個例子。控制系統理論是一個應用數學的活躍域，涉及解空間的調查和發展控制過程分析的新方法。
+工業工程
+工業工程是工程學的一個分支，涉及人員，資金，知識，資訊，設備，能源，材料和工藝集成系統的開發，改進，實施和評價。工業工程借鑒工程分析和綜合的原則和方法，以及數學，物理和社會科學，連同指定的工程分析和設計的原則和方法，已進行指定、預測和評估希望從這寫系統所得到的結果。
+介面設計
+介面設計及其說明關注於保證系統內部某一部分與系統的其他部分和外部系統之間必要的連接和交互操作。介面設計還包括保證系統介面能夠接受新的功能特性，包括機械，電氣和邏輯介面，包括預留電線，插頭空間，命令代碼和通信協議中的位元。這被稱為可擴展性。人機交互（HCI）或人機界面（HMI）是介面設計的另一個方面，也是現代系統工程的重要方面。局域網和廣域網路的網路傳輸協定設計中就應用了系統工程原理。
+機電工程
+機電工程與系統工程類似，是一個多學科領域的工程學，它們都使用動態系統建模來表示有形的結構。在這方面，它是從系統工程幾乎沒有區別，但將它區分於系統工程的特點在於它更專注於小細節，而不是更大的概括和相互關係。正因為如此，這兩個領域的區別在於他們的項目的範圍，而不是他們的實踐方法。
+運籌學
+運籌學支持系統工程的發展。運籌學的工具，用於在系統分析，決策和折衷研究。許多學校在運籌學或工業工程院系中都教授系統工程課程，[來源請求]突出系統工程在複雜的項目中發揮的作用。簡單地說，運籌學就是有關於在多重約束下的流程的優化。[40]
+性能工程
+性能工程是一門用以確保系統在其整個生命週期內滿足客戶的期望的學科。性能通常被定義為具有一定的操作執行的速度或在單位時間內執行多少次這種行動的能力。如果系統能力有限，當一個即將執行的操作佇列被停止時，系統的性能可能會下降。例如，一個封包交換網路的性能可以用點對點分組傳輸延遲或在一小時內資料包交換的數量來表示。高性能系統的設計需要使用分析或模擬建模，而高性能系統實現的交付，則需要全面的性能測試。性能工程在很大程度上依賴於統計，排隊論和概率論的工具和流程。
+計畫管理和項目管理
+計畫管理與系統工程有許多相似之處，但較之系統工程的工程學，卻有著更廣泛的來源。項目管理也與計畫管理和系統工程密切相關。
+提案工程
+提案工程的將科學和數學的原則應用於設計、建造和經營一個成本效益的提案開發系統。基本上，建議工程採用“系統工程流程”來創建一個符合成本效益的提案，並增加成功提案的可能性。
+可靠性工程
+可靠性工程是一門確保系統在其整個生命的可靠性將滿足客戶的期望，也就是說，它不會比預期有更頻繁的失敗。可靠性工程應用系統的各個方面。它與可維護性、可用性、和保障工程密切相關 。可靠性工程一直是安全工程的一個重要組成部分，正如失效模式與影響分析 （FMEA）和危險故障樹分析， 同樣也是安保工程的重要組成部分 。可靠性工程在很大程度上依賴於統計，概率論和可靠性理論的工具和流程。
+安全工程
+安全工程技術可應用於非專業的工程師在設計複雜的系統，以最大限度地減少安全關鍵性失敗的概率。“系統安全工程”功能，可以説明在新興的設計中識別“安全隱患”，並可能作為技術的補充，以“緩解”危險的條件下，無法設計出系統的（潛在的）影響。
+安保工程
+安保工程可以被看作是一個跨學科領域，它集成了控制系統設計，可靠性，安全和系統工程的實踐社群 。它可能涉及其他附屬專業學科，如系統使用者認證，系統目標和其他——人，物和流程。
+軟體工程
+從一開始， 軟體工程就在幫助塑造著現代系統工程的實踐。在處理大型軟體密集型系統的複合體時所使用的技術，對系統工程的工具、方法和流程的塑造以及重塑產生了影響。
+
+参见[编辑]
+
+整体论
+复杂
+系统科学
+工程学
+
+参考文献[编辑]
+
+
+^ （英文）Schlager, J. Systems engineering: key to modern development. IRE Transactions. July 1956, EM–3 (3): 64–66. doi:10.1109/IRET-EM.1956.5007383. 
+^ （英文）Arthur D. Hall. A Methodology for Systems Engineering. Van Nostrand Reinhold. 1962. ISBN 0-442-03046-0. 
+^ （英文）Andrew Patrick Sage. Systems Engineering. Wiley IEEE. 1992. ISBN 0-471-53639-3. 
+^ INCOSE Resp Group. Genesis of INCOSE. 11 June 2004 [2006-07-11]. 
+^ 5.0 5.1 INCOSE Education & Research Technical Committee. Directory of Systems Engineering Academic Programs. [2006-07-11]. 
+^ （英文）http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.7496&rep=rep1&type=pdf
+^ 7.0 7.1 Checkland, Peter. Systems Thinking, Systems Practice. John Wiley & Sons. 1999. 
+^ Checkland, Peter. Systems Thinking, Systems Practice. John Wiley & Sons. 1999.  Pyster, Arthur, ed. 2012. Systems Engineering Body of Knowledge. 1.0 ed: Stephens Institute and the Naval Postgraduate School.
+^ （英文）Oliver, David W.; Timothy P. Kelliher, James G. Keegan, Jr. Engineering Complex Systems with Models and Objects. McGraw-Hill. 1997: 85–94. ISBN 0-07-048188-1.  引文使用过时参数coauthors (帮助)
+^ （英文）The SE VEE. SEOR, George Mason University. [2007-05-26]. 
+^ （英文）Ramo, Simon; Robin K. St.Clair. The Systems Approach: Fresh Solutions to Complex Problems Through Combining Science and Practical Common Sense (PDF). Anaheim, CA: KNI, Inc. 1998.  引文使用过时参数coauthors (帮助)
+^ （英文）Systems Engineering Program at Cornell University. Cornell University. [2007-05-25]. 
+^ （英文）ESD Faculty and Teaching Staff. Engineering Systems Division, MIT. [2007-05-25]. 
+^ （英文）Core Courses, Systems Analysis - Architecture, Behavior and Optimization. Cornell University. [2007-05-25]. 
+^ 15.0 15.1 （英文）Systems Engineering Fundamentals. Defense Acquisition University Press, 2001
+^ Complexity and Dynamics. PediaPress （英语）. 
+^ （英文）Rick Adcock. Principles and Practices of Systems Engineering (PDF). INCOSE, UK. [2007-06-07]. （原始内容 (PDF)存档于15 June 2007）. 
+^ （英文）Systems Engineering, Career Opportunities and Salary Information (1994). George Mason University. [2007-06-07]. 
+^ 19.0 19.1 Understanding the Value of Systems Engineering (PDF). [2007-06-07]. 
+^ （英文）Surveying Systems Engineering Effectiveness (PDF). [2007-06-07]. （原始内容 (PDF)存档于15 June 2007）. 
+^ （英文）Systems Engineering Cost Estimation by Consensus. [2007-06-07]. 
+^ （英文）Andrew P. Sage, Stephen R. Olson. Modeling and Simulation in Systems Engineering. Simulation (SAGE Publications). 2001, 76 (2): 90 [2007-06-02]. doi:10.1177/003754970107600207. 
+^ （英文）E.C. Smith, Jr. Simulation in systems engineering (PDF). IBM Research. 1962 [2007-06-02]. 
+^ （英文）Didactic Recommendations for Education in Systems Engineering (PDF). [2007-06-07]. 
+^ （英文）Perspectives of Systems Engineering Accreditation (PDF). INCOSE. [2007-06-07]. （原始内容 (PDF)存档于15 June 2007）. 
+^ （英文）Steven Jenkins. A Future for Systems Engineering Tools (PDF). NASA: 15. [2007-06-10]. 
+^ （英文）"Processes for Engineering a System", ANSI/EIA-632-1999, ANSI/EIA, 1999 [1]
+^ （英文）"Standard for Application and Management of the Systems Engineering Process -Description", IEEE Std 1220-1998, IEEE, 1998 [2]
+^ （英文）"Systems and software engineering - System life cycle processes", ISO/IEC 15288:2008, ISO/IEC, 2008
+^ （英文）"NASA Systems Engineering Handbook", Revision 1, NASA/SP-2007-6105, NASA, 2007 [3]
+^ 31.0 31.1 （英文）"Systems Engineering Handbook", v3.2.2, INCOSE, 2011
+^ 32.0 32.1 32.2 （英文）NASA (1995). "System Analysis and Modeling Issues". In: NASA Systems Engineering Handbook June 1995. p.85.
+^ Gianni, Daniele; D'Ambrogio, Andrea; Tolk, Andreas (编). Modeling and Simulation-Based Systems Engineering Handbook 1st. CRC Press. 4 December 2014: 513. ISBN 9781466571457. 
+^ （英文）Long, Jim. Relationships between Common Graphical Representations in System Engineering (PDF). Vitech Corporation. 2002. 
+^ OMG SysML Specification (PDF). SysML Open Source Specification Project: 23. [2007-07-03]. 
+^ LML Specification (PDF). LML Steering Committee: 4. [2014-06-05]. 
+^ （英文）Hollnagel E. & Woods D. D. (1983). Cognitive systems engineering: New wine in new bottles. International Journal of Man-Machine Studies, 18, 583-600.
+^ （英文）Hollnagel, E. & Woods, D. D. (2005) Joint cognitive systems: The foundations of cognitive systems engineering. Taylor & Francis
+^ （英文）Woods, D. D. & Hollnagel, E. (2006). Joint cognitive systems: Patterns in cognitive systems engineering. Taylor & Francis.
+^ （英文）(see articles for discussion: [4] and [5])
+
+
+延伸閱讀[编辑]
+
+Harold Chestnut, Systems Engineering Methods. Wiley, 1967.
+Daniele Gianni, Andrea D'Ambrogio, and Andreas Tolk (editors), Modeling and Simulation-Based Systems Engineering Handbook, CRC Press, 2014 at CRC
+Harry H. Goode, Robert E. Machol System Engineering: An Introduction to the Design of Large-scale Systems, McGraw-Hill, 1957.
+Derek Hitchins (1997) World Class Systems Engineering at hitchins.net.
+Malakooti, B. (2013). Operations and Production Systems with Multiple Objectives. John Wiley & Sons.ISBN 978-1-118-58537-5
+MITRE, The MITRE Systems Engineering Guide(pdf)
+NASA (2007) Systems Engineering Handbook, NASA/SP-2007-6105 Rev1, December 2007.
+NASA (2013) NASA Systems Engineering Processes and Requirements NPR 7123.1B, April 2013 NASA Procedural Requirements
+David W. Oliver, Timothy P. Kelliher & James G. Keegan, Jr. Engineering Complex Systems with Models and Objects. McGraw-Hill, 1997.
+Simon Ramo, Robin K. St.Clair, The Systems Approach: Fresh Solutions to Complex Problems Through Combining Science and Practical Common Sense, Anaheim, CA: KNI, Inc, 1998.
+Andrew P. Sage, Systems Engineering. Wiley IEEE, 1992. ISBN 0-471-53639-3.
+Andrew P. Sage, Stephen R. Olson, Modeling and Simulation in Systems Engineering, 2001.
+SEBOK.org, Systems Engineering Body of Knowledge (SEBoK)
+Dale Shermon, Systems Cost Engineering, Gower publishing, 2009
+Robert Shishko et al. (2005) NASA Systems Engineering Handbook. NASA Center for AeroSpace Information, 2005.
+Richard Stevens, Peter Brook, Ken Jackson & Stuart Arnold. Systems Engineering: Coping with Complexity. Prentice Hall, 1998.
+US Air Force, SMC Systems Engineering Primer & Handbook, 2004
+US DoD Systems Management College (2001) Systems Engineering Fundamentals. Defense Acquisition University Press, 2001
+US DoD Guide for Integrating Systems Engineering into DoD Acquisition Contracts, 2006
+US DoD MIL-STD-499 System Engineering Management
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：系统工程
+
+
+
+
+
+维基语录上的相关摘錄：系统工程
+
+
+
+
+
+維基學院中的相關學習資源：
+
+系统工程
+
+
+
+
+
+ICSEng 網頁
+INCOSE 網頁
+INCOSE UK 網頁
+PPI SE Goldmine 網頁
+Systems Engineering Body of Knowledge
+Systems Engineering Tools 系統工程工具清單
+DoD Systems Engineering ODASD/SE 網站〈包括參考資料的指引〉
+NDIA Systems Engineering Division
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+系统工程
+
+
+
+
+
+
+分支领域
+
+
+
+航空航天工程
+生物系统工程
+配置管理
+Earth systems engineering and management（英语：Earth systems engineering and management）
+电机工程
+企业系统工程（英语：Enterprise systems engineering）
+性能工程（英语：Performance engineering）
+Reliability engineering
+安全工程
+
+
+
+
+
+
+
+
+过程
+
+
+
+需求分析
+功能需求
+系统整合
+验收
+设计评估（英语：Design review）
+
+
+
+
+
+
+
+
+概念
+
+
+
+业务流程
+系统
+系统生命周期（英语：System lifecycle）
+V模型
+系统发展生命周期
+
+
+
+
+
+
+
+
+工具
+
+
+
+决策
+功能建模（英语：Function modeling）
+IDEF
+最优化
+品質機能展開
+计划
+统计分析
+系统动力学
+系統建模語言
+系统分析
+系統建模（英语：Systems modeling）
+工作分解结构
+
+
+
+
+
+
+
+
+相关领域
+
+
+
+控制工程
+计算机工程
+工业工程
+运筹学
+项目管理
+品质管理
+风险管理
+软件工程
+
+
+
+
+
+
+
+
+
+
+
+ Category
+ Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+技术
+
+
+
+
+
+
+領域
+
+
+
+
+農業
+
+
+
+农业工程
+水產養殖
+水产学
+食品化学
+食品工程
+营养学
+食品技术
+食品微生物学（英语：Food microbiology）
+遺傳利用限制技術（英语：Genetic use restriction technology）
+
+
+
+
+
+
+
+
+生物医学（英语：Biomedical technology）
+
+
+
+生物信息学
+生物医学工程
+生物工程学
+生物技术
+健康科学
+生化檢驗
+药理学
+神经科学
+组织工程学
+基因工程
+纳米医学
+化学信息学
+
+
+
+
+
+
+
+
+水利/土木建築
+
+
+
+水利工程
+土木工程
+建築工程
+建築設備
+消防工程
+安全工程
+結構工程
+
+
+
+
+
+
+
+
+教育技术
+
+
+
+在线学习
+教育技术学
+教育软件（英语：Educational software）
+虚拟校园（英语：Virtual campus）
+
+
+
+
+
+
+
+
+能源
+
+
+
+核工程
+核技术
+储能技术
+石油工程（英语：Petroleum engineering）
+
+
+
+
+
+
+
+
+军事
+
+
+
+彈藥
+炸彈
+軍事技术
+電子作戰
+低可偵測性技術
+工兵
+军事通信（英语：Military communications）
+
+
+
+
+
+
+
+
+信息
+
+
+
+人工智能
+計算機工程
+计算机科学
+音乐工艺
+通信工程
+通信
+图形
+信息技术
+軟件工程
+音乐
+语音识别
+可视化技术
+系统分类学
+本体工程
+信息学
+
+
+
+
+
+
+
+
+工业（英语：Industrial technology）
+
+
+
+纳米科技
+音频工程
+生物工程
+生化工程
+陶瓷工程
+化学工程
+控制工程
+低温学
+電機工程學
+电子工程
+工程技术
+工程学
+工业工程学
+企业工程
+水力学
+机械工程
+機械電子學
+冶金工程
+海洋工程
+光学工程
+系统工程
+运输工程
+电动机械学
+金融工程学
+制造
+机械
+采矿业
+自动化技术
+冶金学
+
+
+
+
+
+
+
+
+交通
+
+
+
+航空航天
+航空航天工程
+空间技术
+机动车
+車輛工程
+交通工程
+流量工程
+
+
+
+
+
+
+
+
+環境科技
+
+
+
+綠色建築
+可再生能源
+永續設計
+环境工程
+生態工程
+潔淨科技（英语：Clean technology）
+生態技術（英语：Ecotechnology）
+環境工程科學（英语：Environmental engineering science）
+
+
+
+
+
+
+
+
+应用科学
+
+
+
+考古
+电子学
+光学
+半导体物理学
+环境科学
+材料科学
+微系统
+微技术
+纳米技术
+
+
+
+
+
+
+
+
+其他领域
+
+
+
+机器人学
+机械电子学
+蛋白质工程
+系统工程
+聚合物工程（英语：Polymer engineering）
+
+
+
+
+
+
+
+
+
+
+
+組件
+
+
+
+基礎設施
+發明
+发明年表
+知識
+機器
+技能
+工艺
+工具
+
+
+
+
+
+
+
+
+技術史
+
+
+
+新石器革命
+工業革命
+第二次工業革命
+數字化革命
+第三次工業革命
+信息時代
+史前技术（英语：Outline of prehistoric technology）
+古代技術（英语：Ancient technology）
+中世紀技術（英语：Medieval technology）
+文藝復興技術（英语：Renaissance technology）
+噴氣時代（英语：Jet Age）
+
+
+
+
+
+
+
+
+理論（英语：Theories of technology）
+和概念
+
+
+
+適用技術
+破壞性創新
+高科技
+技术成熟度曲线
+专家统治
+技术决定论
+技術官僚
+技术奇异点
+技术接受模型
+超人类主义
+軍民兩用技術（英语：Dual-use technology）
+技术伦理（英语：Ethics of technology）
+
+
+
+
+
+
+
+
+其他
+
+
+
+新興技術列表
+卡尔达肖夫指数
+Category:各国科技
+Category:科技公司
+Category:技术大学和学院
+技术传播者
+技术新闻学
+
+
+
+
+
+
+
+
+
+
+
+ Category:技術
+ commons:Category:技術
+ Portal:技術
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh85131750
+GND: 4140901-2
+BNF: cb12121734h（数据）
+NDL: 00571263
+BNE: XX525042
+
+
+
+
+
+
+
+
+
+
+
+
+分类：系统工程系統理論隐藏分类：含有过时参数的引用的页面CS1英语来源 (en)自2015年12月連結格式不正確的條目有未列明来源语句的条目本地链接的维基共享资源分类与Wikidata不同包含规范控制信息的维基百科条目

@@ -1,0 +1,280 @@
+電子書
+
+
+
+
+
+本条目的语调或风格可能不適合百科全書的寫作方式。（2009年8月10日） 
+請根據指南協助改善这篇条目，請在讨论页討論問題所在及加以改善。 
+
+
+
+
+
+
+
+本条目需要更新。 
+請更新本文以反映近況和新增内容。完成修改時，請移除本模板。 
+
+
+
+
+
+
+Amazon Kindle 3, an e-book reader displaying part of an e-book on its screen.
+
+
+
+
+
+
+電子書
+
+
+電子書又稱e-book、數位化的圖書，是指以數位方式儲存於儲存裝置中的書籍。電子書必須透過特殊的閱讀軟體，以電子檔的形式（主流格式以PDF及EPUB為主），透過網路連結下載至一般常見的平臺，例如個人電腦、筆記型電腦、iPad或是平板電腦，甚至是個人數碼助理（PDA）、WAP手機，或是任何可大量儲存數位閱讀資料的閱讀器上閱讀的書籍，相對應於傳統紙製的圖書。以及能夠省下紙張。
+
+
+
+目录
+
+
+1 特徵
+2 好處與壞處
+
+2.1 好處
+2.2 壞處
+
+
+3 分類
+4 阅读方式
+
+4.1 PC阅读
+4.2 電子書閱讀器
+4.3 其他形式
+4.4 免費電子書的製作工具
+4.5 付費電子書的製作工具
+
+
+5 参考文献
+6 外部連結
+7 参见
+
+
+
+特徵[编辑]
+
+無紙化：電子書不再依賴於紙張，以磁性儲存介質取而代之。得益於磁性介質儲存的高性能，一張700MiB的光碟可以代替傳統的三億字的紙質圖書。這大大減少了木材的消耗和空間的佔用。
+多媒體：電子書一般都不僅僅是純文字，而添加有許多多媒體元素，諸如圖像、聲音、影像。在一定程度上豐富了知識的載體。
+多螢：意指一本書可以在不同大小尺寸的螢幕上呈現來進行閱讀，對於商務人士而言可以通勤時用手機的螢幕閱讀，進入辦公室時還可利用休息時間用辦公室電腦螢幕閱讀，甚至閱讀進度、閱讀註記跟筆記也能同步在不同螢幕上出現。
+社群閱讀：由於社群平台的高使用度，閱讀內容也可以經由分享到社群平台，來帶動或是經營實體與虛擬的社群討論，實體活動如讀書會形式，虛擬如線上討論書籍的平台。
+豐富性：由於網際網路快速發展，致使傳統知識電子化加快，現在基本上除了比較專業的古代典籍，大部分傳統書籍都搬上了網際網路，這使電子書讀者有近乎無限的知識來源。
+
+好處與壞處[编辑]
+
+
+
+
+日本以實體卡片販售的電子書
+
+
+好處[编辑]
+
+省下紙張
+省下空間
+不用花費大量金錢購書（一些專書仍然需要付費才有電子版，但相比實體書價格較為便宜）
+運用多媒體技術令書內容更豐富
+
+壞處[编辑]
+
+非電子墨水的螢幕，長時間對著螢幕閱讀易造成眼睛不適
+相比實體書資訊可能有偏差
+有一部份的書會將「翻頁」設計為與讀者互動的一環，但電子書無法像傳統書籍般翻頁。
+
+分類[编辑]
+
+PDF格式：由ADOBE公司推廣。使用者可以利用ADOBE專用編輯撋體寫書，或是使用其他免費編輯PDF軟件再自行轉入自己的電子書設備。
+AMAZON KINDLE模式，一種EINK（电子纸）阅读器。
+Apple iBooks store，由蘋果公司推廣。
+Google Play圖書，由Google公司在其Play商店所建置經營的線上圖書經銷平台。
+在PC或MAC上閱讀。
+
+阅读方式[编辑]
+PC阅读[编辑]
+電子書形式多樣，常見的有以處理文字的檔案格式之TXT格式、DOC格式、HTML格式、CHM格式，以及出版商常用的PDF格式、EPUB格式等。這些格式大部分可以利用微軟Windows作業系統自帶的軟體打開閱讀。至於PDF與EPUB等格式則需要專用的閱讀軟體如Adobe Reader開啟PDF，或是流覽器也可以開啟PDF；EPUB則需透過Chrome流覽器安裝外掛程式Readium來呈現符合IDPF所規範的標準EPUB格式。透過由使用者自己判斷檔案格式選擇適合的軟體開啟的格式為DRM-Free的電子書檔，適合熟悉電腦軟硬體操作的使用者。
+支援電子書的軟體一般都支援“查找”、“書簽”、“筆記”等擴展功能，這使得使用者可以更專注於內容本身，而不必考慮其他附帶問題如筆記型電腦丟失，忘記資料等。而且“查找”功能更是可以在極短時間內完成傳統讀圖書者需要十幾秒甚至更久來完成的資料查找。
+隨著行動裝置的普遍，使用PC閱讀的形式多以上網、部落格寫作、使用特定功能的網路服務（如收信、網路社群），閱讀電子書的動作逐漸轉移至手機、平板或專屬閱讀器等行動設備上。
+電子書閱讀器[编辑]
+採用電子紙技術的電子書閱讀器，耗電量低（電子紙換頁時才耗電），而且如同普通紙張採取被動反光顯示，適合較長時間的持續閱讀，但是換頁速度慢，且彩色顯示技術尚未成熟。
+其他形式[编辑]
+可供閱讀電子書的平臺將越來越多樣化，除了現有的電腦、PDA、手機、電子書閱讀機外，電視、手錶、冰箱也都有可能成為其平臺。
+免費電子書的製作工具[编辑]
+
+PDF格式電子書免費製作工具
+
+
+CuteWriter
+
+
+chm格式電子書免費製作工具
+
+
+EPUB格式電子書免費製作工具
+
+
+Sigil：跨平台的开源epub电子书编辑器，支援Windows、Linux和Mac系统。
+
+付費電子書的製作工具[编辑]
+
+用于制作PDF格式電子書
+
+
+Adobe pdf Writer
+
+参考文献[编辑]
+
+外部連結[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：電子書
+
+
+
+Project Gutenberg
+About the Google Book Settlement (GBS) and online books (rights)
+E-Books Spark Battle Inside Publishing Industry（Washington Post, 27 Dec 2009）
+开放式目录计划中和電子書相关的内容
+Where to get e-books for FBReader（英文）
+综合电子书库
+myBook
+ct-book
+
+参见[编辑]
+
+
+信息技术主题
+书籍主题
+
+
+
+電子紙
+书籍
+Amazon Kindle（美國最普遍的電子書閱讀器）
+Nook（美國第二大網路書店推出的電子書，具有電子紙螢幕及一個小型彩色LCD螢幕）
+iPad/iPad 2（有潛力成為普遍電子書閱讀器）
+Samsung Galaxy Tab
+數位無障礙資訊系統
+
+Adobe Reader
+
+
+電子圖書館
+MyiLibrary（英语：Ingram_Content_Group）
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+电子书
+
+
+
+
+
+
+格式
+
+Comic Book Archive（英语：Comic Book Archive） · DjVu · ePub · FictionBook · LIT（英语：Microsoft Reader） · Mobipocket/Kindle · 便携式文档格式 · XPS · 纯文本
+
+
+
+
+
+
+
+
+
+阅读
+
+
+
+
+
+设备
+
+
+Alex Reader（英语：Alex Reader） · Bambook  · Bookeen（英语：Bookeen） · 电子计算机 · COOL-ER（英语：COOL-ER） · Elonex ebook（英语：Elonex ebook） · enTourage eDGe（英语：enTourage eDGe） · pocket eDGe（英语：pocket eDGe） · eSlick（英语：eSlick） · FLEPia（英语：Fujitsu FLEPia） · 翰林电子书 · iRex（英语：iRex） · Kindle系列 · Kobo（英语：Kobo eReader） · Nook系列 · Oyo（英语：Oyo (e-reader)） · Plastic Logic Reader（英语：Plastic Logic） · PocketBook · Qisda ES900（英语：Qisda ES900） · Samsung Papyrus（英语：Samsung Papyrus） · 智能手机 · 平板手机 · 平板电脑 · SoftBook（英语：SoftBook） · Sony Reader · 汉王电纸书
+
+
+
+
+
+
+
+软件
+
+
+Adobe Acrobat · Adobe Digital Editions（英语：Adobe Digital Editions） · Aldiko（英语：Aldiko） · Blio（英语：Blio） · Bookglutton · 口徑 (火器) · FBReader · IBooks · Stanza · Sony Reader Library · STDU Viewer（英语：STDU Viewer）
+
+
+
+
+
+
+
+
+
+编辑
+
+Adobe InDesign · Atlantis Word Processor（英语：Atlantis Word Processor） · Feedbooks（英语：Feedbooks） · Sigil（英语：Sigil (application)） · iBooks Author（英语：iBooks Author）
+
+
+
+
+
+
+来源
+
+
+
+
+
+免费
+
+
+Bookglutton · 互联网档案馆 · Feedbooks（英语：Feedbooks） · Google图书 · Manybooks.net · 古腾堡计划 · 维基文库 · 青空文库
+
+
+
+
+
+
+
+付费
+
+
+亞馬遜公司 · 巴诺书店 · BooksOnBoard · 边界 · Feedbooks（英语：Feedbooks） · Fictionwise（英语：Fictionwise） · Google图书 · IBooks · Kobo（英语：Kobo） · Sony Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：電子書輔助技術隐藏分类：自2009年8月语调不适于维基百科的条目拒绝当选首页新条目推荐栏目的条目待更新条目

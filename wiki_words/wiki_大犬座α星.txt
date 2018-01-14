@@ -1,0 +1,762 @@
+天狼星
+
+
+關於与「天狼星」名称相近或相同的条目，請見「天狼星 (消歧義)」。
+
+
+天球赤道座標： 06h 45m 08.9173s，−16°42′58.017″
+
+天狼星A/B
+（大犬座α）
+Sirius A / B
+
+
+
+天狼星的位置
+
+
+
+觀測資料
+曆元 J2000.0 (ICRS)
+
+
+星座
+大犬座
+
+
+星官
+天狼 (井宿)
+
+
+赤經
+06h 45m 08.9173s[1][2]
+
+
+赤緯
+−16° 42′ 58.017″[1][2]
+
+
+視星等（V）
+−1.47 (A)[1]/ 8.30 (B)[3]
+
+
+特性
+
+
+光谱分类
+A1V (A)[1]/ DA2 (B)[3]
+
+
+U−B 色指数
+−0.05 (A)[4]/ −1.04 (B)[3]
+
+
+B−V 色指数
+0.01 (A)[1]/ −0.03 (B)[3]
+
+
+天体测定
+
+
+
+
+
+径向速度 (Rv)
+−7.6[1] km/s
+
+
+自行 (μ)
+赤经：−546.05[1][2] mas/yr
+赤纬：−1223.14[1][2] mas/yr
+
+
+视差 (π)
+379.21 ± 1.58[1] mas
+
+
+距离
+8.6 ± 0.04 ly
+(2.64 ± 0.01 pc)
+
+
+绝对星等 (MV)
+1.42 (A)[5]/ 11.18 (B)[3]
+
+
+
+
+
+目視聯星軌道
+
+
+伴星
+α CMa B
+
+
+週期 (P)
+50.09 年
+
+
+半長軸 (a)
+7.56"
+
+
+離心率 (e)
+0.592
+
+
+軌道傾角 (i)
+136.5°
+
+
+交點 (Ω)
+44.6°
+
+
+近星點 曆元 (T)
+1894.13
+
+
+詳細資料
+
+
+
+
+
+質量
+2.02[6](A) /
+0.978[6](B) M☉
+
+
+半徑
+1.711[6](A) /
+0.0084 ± 3%[7](B) R☉
+
+
+表面重力 (log g)
+4.33[8](A)/8.57[7](B)
+
+
+亮度
+25.4[6](A) /
+0.026[9](B) L☉
+
+
+溫度
+9,940[8](A) /
+25,200[6](B) K
+
+
+金屬量
+[Fe/H] =0.50[10](A)
+
+
+自轉
+16 km/s[11](A)
+
+
+年齡
+2-3 × 108[6] 年
+
+
+
+
+
+其他命名
+
+
+
+System: α Canis Majoris, α CMa, 9 Canis Majoris, 9 CMa, HD 48915, HR 2491, BD -16°1591, GCTP 1577.00 A/B, GJ 244 A/B, LHS 219, ADS 5423, LTT 2638, HIP 32349.
+B: EGGR 49, WD 0642-166.[1][12][13]
+
+
+
+天狼星（Bd：α CMa）是夜空中最亮的恆星，其視星等為-1.47，幾乎為第二亮恆星老人星的兩倍。它的英文名稱為Sirius，讀法為/sɪɹiəs/，源自古希臘語的Σείριος。[14]天狼星根據拜耳命名法的名稱為大犬座α星。我們肉眼以爲是一顆恆星的天狼星，實際上是一個聯星系統，其中包括一顆光譜型A1V的白主序星和另一顆光譜型DA2的暗白矮星伴星天狼星B（Bd：α CMa B）。
+天狼星如此之亮除了因爲其原本就很高的光度以外，還因爲它距離太陽很近。天狼星距離我們2.6秒差距（8.6光年），並是最近的恆星之一。天狼星A的質量為太陽的兩倍，而絕對星等為1.42等。它比太陽亮25倍[6]，但光度明顯比其它亮星較暗，如對比老人星或參宿七。此雙星系統約有二億至三億年歷史，[6]並且一開始是由兩顆藍色的亮星組成。更高質量的天狼星B耗盡了能源，成爲一顆紅巨星，然後又漸漸削去外層，約在一億二千萬年前坍塌成爲今天的白矮星狀態。[6]
+中國古代星象學說中，天狼星是「主侵略之兆」的惡星。屈原在《九歌·東君》中寫到：「舉長矢兮射天狼」，以天狼星比擬位於楚國西北的秦國。蘇軾《江城子》中「會挽雕弓似滿月，西北望，射天狼」，以天狼星比擬威脅北宋西北邊境的西夏。
+
+
+
+目录
+
+
+1 觀測歷史
+
+1.1 運行
+1.2 發現伴星
+1.3 紅色爭議
+
+
+2 可視性
+3 雙星系統
+
+3.1 天狼星A
+3.2 天狼星B
+3.3 天狼星超级疏散星團
+
+
+4 詞源及文化重要性
+
+4.1 多貢
+4.2 近代的遺產
+
+
+5 參見
+6 參考文獻
+7 外部連結
+
+
+
+觀測歷史[编辑]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+天狼星/索普代特的象形文字
+
+
+
+最早的天文記錄已經有天狼星的記載，它被古埃及人視爲“索普代特”（Sopdet，希臘語：Σώθις），而索普代特的象形文字是一顆星星和一個三角形。埃及人在中王國時期期間的曆法開始于天狼星偕日升那一天，那天早晨，由於天狼星距離太陽夠遠，可以比太陽更早升起，避開強光，在消失70天後重現天空。[15]這一天在曆法中的重要性是因爲它也是尼羅河周期汎濫和夏至之前不久。[16]天狼星消失在天空的70天在神話中象徵著索普代特和艾西斯在埃及地府渡過。[15]
+古希臘人相信天狼星的出現代表著乾熱的夏天，會引起植物枯乾、男人軟弱和女人煩燥[17]。由於天狼星十分明亮，因此在初夏的不穩定天氣下會閃爍的更厲害，表示不好的事件將會發生。受到其效應牽連的人被稱爲患上“astroboletos”（αστροβολητος）或稱“star-struck”。在文字記載裏會被寫作“燃燒”或“火焰”。[18]此星出現後的季節被稱爲夏天的“狗日”。[19]愛琴海基亞島的土著為得到涼風而祭祀天狼星和宙斯，並等待天狼星出現在翌年夏天。如果它明亮地升起，就是財富的好兆頭；若其升起時渾濁或昏暗，則預示瘟疫的到來。考古學家從島上挖掘出公元前3世紀的錢幣，它上面刻著散發光芒的狗或天體，顯示出天狼星的重要性。[18]羅馬人于4月25日前後慶祝天狼星的偕日落，他們在當天向羅馬的五穀枯萎之神（Robigo）奉上一頭狗、點上香、祭上酒和一只羊，希望能阻止那一年星光帶來的銹菌。[20]
+亚历山大港的托勒密在自己的《天文學大成》中的第7及8卷所譜寫的星圖裏，以天狼星作爲天球的中線。他把天狼星描繪成六顆紅色恆星之一（見以下的紅色爭議部分）。其餘五顆實際上為M型和K型恆星，如大角星和參宿四。[21]
+亮星對古玻里尼西亞人十分重要，因爲他們要在太平洋衆多小島和環礁之間靠天象導航。當亮星位于地平綫上小許的時候，這些星體就被水手們作爲星象羅盤，從而找到指定的地點。這些星體也可作緯度標記，天狼星的偏差和斐濟島相符合，因此，它每晚都越過斐濟島的正上空。[22]天狼星是“巨鳥”星座“Manu”的身體，老人星是南邊的翅膀，南河三是北邊的翅膀，一共將玻里尼西亞的夜空剛好分成兩半。[23]天狼星的偕日升標誌著希臘夏天的開始，因此它相反地標誌了毛利人冰冷冬天的開始，Takurua在當地語言代表天狼星和冬天。
+運行[编辑]
+1676年，愛德蒙·哈雷于大西洋南部的聖赫倫那島上度過了一年，目的是研究南半球的星空。約40年后，他在1718年對照自己的天體測量和托勒密的《天文學大成》後，發現恆星的自行運動，所以恆星並非“固定的”。大角星和天狼星都有顯著的移動，而天狼星更在1800年間向南移動了30分角（約為月球的直徑）。[24]
+天狼星于1868年成爲第一顆被測量出運行速率的恆星。威廉·哈金斯爵士仔細檢查了天狼星的光譜，並觀測到一個顯著的紅移。他因此認為天狼星以每秒約40公里的速度遠離太陽系。[25][26]雖然比目前測量值（每秒7.6公里）[1]還大上許多，不過那次的測量卻開始天體徑向速度研究。
+發現伴星[编辑]
+
+
+
+
+Celestia中所見的天狼星A與從天狼星B
+
+
+
+
+
+
+天狼星於1793年到1880年間的運動
+
+
+德國天文學家弗里德里希·威廉·貝塞爾在1844年從天狼星自行運動的變化中推斷出天狼星還有一顆當時未發現的伴星。[27]將近20年之後，美國望遠鏡製作者和天文學家阿凡·格雷厄姆·克拉克（Alvan Graham Clark）在1862年1月31日首次觀測到這顆暗淡的伴星。天文學家稱呼這伴星爲天狼星B，或親切地稱為“小狼”。[28]比較明亮並能被肉眼觀測到的那一顆恆星現在有時候會被稱爲天狼星A。從1894年起，人們觀測到了天狼星系統裏一些明顯的軌道不規則性，因此大家認爲它還有第三顆很小的伴星，雖然此假設未被證實。數據指出，第二顆伴星圍繞天狼星A的公轉周期為6年，其質量只有0.06倍太陽質量。它比白矮星天狼星B要暗5到10級，因此很難被觀測到。[29]最近的觀測數據雖然無法證實它的存在，但有可能是因為其太接近天狼星A，以致於觀測不到。1920年代發現的“第三顆恆星”似乎只不過是一顆背景天體。[30]
+沃爾特·亞當斯於1915年在威爾遜山天文台使用一座60英寸（1.5米）反射器觀測天狼星B的光譜，確定其為一顆暗淡的白色恆星。[31]天文學家們就此就斷定它為一顆白矮星，是有史以來第二顆發現的白矮星。[32]羅伯特·漢伯里·布朗（Robert Hanbury Brown）和李察德·土維斯（Richard Q. Twiss）于1959年在卓瑞尔河岸天文台使用他們的光學干涉儀首次測量出天狼星A的直徑。[33]天文學家在2005年利用哈勃太空望遠鏡確認天狼星B的直徑幾乎相等于地球的直徑（12,000公里），不過其質量達到太陽的98%。[34][35][36][37]
+紅色爭議[编辑]
+早在公元前150年，天文學家托勒密就將天狼星描述為一顆紅色天體，其餘5顆恆星：參宿四、心宿二、畢宿五和北河三都同時被記述作桔黃色或紅色色調的天體。[38]這個不一致性由拉特蘭Lyndon Hall的鄉紳、業餘天文學家托馬斯·巴克（英语：Thomas Barker (meteorologist)）發現，他于1760年在倫敦皇家學院的聚會中演講。由於許多其他的星體都能轉變光度，使人們相信這些星體甚至也能轉變顔色。約翰·弗里德里希·威廉·赫歇爾在1839年也注意到了這一點，有可能是因為他兩年前觀測過的海山二所影響的[39]。湯瑪斯·傑佛遜·傑克遜·希（Thomas Jefferson Jackson See）在1892年重新提起紅色天狼星的問題，他在1892年出版了幾篇論文，並在1926年出版最後結論[40]。他指出不只是托勒密發現天狼星的紅色，連詩人阿拉托斯、演説家西塞羅、將軍日耳曼尼庫斯都認爲天狼星是紅色的，儘管他們都不是天文學家。[41]塞內卡也把天狼星描述成暗紅色的，比火星的顔色更深。[42]雖然如此，並非所有的古代觀測者都看到紅色的天狼星，如公元1世紀詩人馬庫斯·馬尼利烏斯（Marcus Manilius）把它描寫為“天藍”，4世紀诗人阿維亞涅（Avienus）也一樣[43]。在中國古代，白色是天狼星的標準顔色，公元前2世紀至公元后7世紀若干記錄都記述天狼星呈現著白色的光芒。[44][45]
+德國天文學家沃爾夫德·西洛瑟（Wolfhard Schlosser）和沃納·伯格曼（Werner Bergmann）于1985年拿出了一件8世紀的倫巴第手稿，其中包含De cursu stellarum ratio的聖葛利格里遊記。這份拉丁文的文稿教導讀者如何從星辰的位置確定夜禱的時刻，並且描述天狼星是呈現瀰散的紅色。作者據此提出天狼星B當時是顆紅巨星的說法 [46]。但是其他的天文學家認為聖葛利格里所描述的應該是大角星[47][48]。
+天文學家已經推翻用天狼星A或天狼星B恆星演化的可能性來解釋顔色爭議的理論，因為幾千年的演化時間太短，並且天文學家從星雲的分析中並沒有發現發生過這種演化過程的跡象。[49]與至今還未發現的第三顆星的交互作用也是天文學家提出的可能性之一。[50]其他解釋包括：它被描述成紅色是因為詩詞裏有隱喻凶兆的意思，或是升起時強烈的閃爍使人們以爲天狼星是紅色的。當肉眼觀測它時，天狼星在地平綫不遠處的時候似乎閃爍著紅色、白色和藍色的光輝。[49]
+可視性[编辑]
+
+
+
+
+哈伯太空望遠鏡拍攝到的天狼星A和天狼星B，白矮星天狼星B位于左下方。[51]衍射十字星（Diffraction Spikes）與環狀結構是點擴散函數
+
+
+天狼星的視星等為-1.47，爲夜空中最亮的恆星，幾乎為第二亮的老人星兩倍。[52]然而它仍然不如月球、金星或木星明亮，水星和火星偶爾也會比天狼星更亮。[53][54]天狼星幾乎能從地球上任何有人居住的地方來觀測，除了居住于北緯73度以北的人以外。可是一些地球北邊的城市觀測到的天狼星也不會升得很高，例如從聖彼得堡觀測到的天狼星只會升到地平線上13°。[55]天狼星、南河三和參宿四對於居住在北半球的人來說，組成了冬季大三角的三個頂點。[56]由於天狼星的赤緯約為-17°，[1]因此從南緯73°起它是一顆拱極星。7月初從南半球可以看到天狼星在太陽落下後西沉，但在太陽升起前又先從東方升起。
+人們在適當環境條件之下甚至能在太陽出現的時候使用肉眼來觀測天狼星。當然天空需要非常清澈，觀測地點的海拔必須要夠高，太陽要低低的挂在地平綫上，再加上天狼星要在頭頂上，這種情況十分難得。[57]
+基於天狼星雙星系統的環繞運行軌道，兩顆星的最小分距為3角秒而最大分距為11角秒。在它們距離最近的時候，人們在觀測時辨認兩顆星體十分困難，因爲白矮星天狼星B就在距離很近卻有明亮許多的天狼星A旁邊。要清楚辨認它們，除了天氣理想以外，需要一座口徑至少有300mm的天文望遠鏡。1994年，兩顆星到達了它們的拱點，[58]從那時開始，這對雙星開始遠離對方，用天文望遠鏡辨認它們就更加容易。[59]
+天狼星A和天狼星B距離地球8.6光年（2.6秒差距），也是前8顆最接近太陽系恆星之一，[60]更是第5接近太陽系的恆星系。[60]距離太陽很近是天狼星如此亮的原因之一，其他相似的星體則有昏暗的南門二，比起遙遠卻極明亮的超巨星，例如老人星、參宿七或參宿四。[61]天狼星比太陽要亮25倍。[6]距離天狼星最近的大恆星是南河三，距離為5.24光年（1.61角差距）。[62]1977年發射的旅行者2號飛船，在完成研究四顆類木行星的任務後，預計將于大約296,000年之後到達天狼星4.3光年以外。[63]
+雙星系統[编辑]
+
+
+
+
+天狼星和太陽體積比較
+
+
+天狼星是一個雙星系統，當中的兩顆白色恆星互相圍繞公轉，相距約20天文單位[64]（大概是太陽和天王星之間的距離），公轉周期卻只有50多年。較亮的一顆星，或稱天狼星A，是一顆A1V型主序星，估計表面溫度為9,940K。[8]其伴星天狼星B，已經度過了主序星的過程，成爲了一顆白矮星。儘管現在天狼星B的光譜比天狼星A暗10,000倍，它卻曾經是兩顆星體之中質量較大的一顆。[65]這個雙星系統的年齡估計為大約2億3000萬年。在其生命前期，人們猜想有兩顆藍白色恆星互相以橢圓圍繞公轉，周期為9.1年。[65]紅外線天文衛星量度到，天狼星系統要比預計的放射更多的紅外線輻射。這可能是系統裏星塵的表現，並且對於雙星系統來説較爲罕見。[62][66]
+天狼星A[编辑]
+
+
+
+
+藝術家對天狼星系統的想象圖。天狼星A是較大的一顆。
+
+
+天狼星A的質量約是太陽的2.1倍。[62][67]天文學家利用光學干涉儀量度出它的半徑，估計角直徑為5.936±0.016mas。它的恆星自轉速度較慢，每秒為16公里，因此星體未明顯成為扁球形。[11]織女一和天狼星B的體積相近，但自轉速度更快（每秒274公里），所以它的赤道地區向外隆起。[68]
+天體模型指出天狼星A形成于一次分子雲坍塌，到了1千萬年後，其能源產生已經完全由核聚變提供。它的核心爲對流層，並利用碳氮氧循環製造能量。[11]天文學家預測天狼星A會在形成后10億年（109）内用盡儲存在核心的氫，此時它會經歷紅巨星階段，然後再溫和變成一顆白矮星。
+天狼星A的光譜顯示出很深的金屬線，表示一些重于氦的元素增加（如鐵）[11][62]。與太陽相較之下，天狼星A大氣層裏相對于氫含量的鐵含量為
+
+
+
+
+
+
+
+
+[
+
+
+
+F
+e
+
+H
+
+
+]
+=
+0.5
+
+
+
+
+
+
+
+{\displaystyle {\begin{smallmatrix}[{\frac {Fe}{H}}]=0.5\end{smallmatrix}}}
+
+，[10]也等於100.5，意思是說大氣層中的鐵含量是太陽的316%。因為不太可能整顆恆星都富有金屬元素，所以這些金屬元素其實可能是懸浮在表面的一層薄對流層上。[11]
+天狼星B[编辑]
+天狼星B是已知質量最大的白矮星之一，其質量幾乎与太陽的質量相當（0.98 M☉），是白矮星平均质量0.5~0.6 M☉的兩倍，但是這麽多物質被壓縮成為地球般大。天狼星B目前的表面溫度為25,200 K。[6]但是由於内部已經沒有能量生成，剩餘的熱量會以輻射的形態放射出去，天狼星B終究會逐漸冷卻，需時超過20億年。[69]
+一顆恆星要經過主序星和紅巨星階段才會成爲白矮星。天狼星B成爲白矮星時的年齡比它現在的年齡小一半多一點，約為1億2千萬年前。還是一顆主序星時，它估計有5個太陽質量大，[6]而且是一顆B型星（約為B4-5）[70][71]天狼星B是紅巨星的時候，可能增加伴星天狼星A的金屬量。
+天狼星B最初由碳及氧元素組成，這兩種元素是形成天狼星B的已死亡恆星裏的氦核聚變產生的。[6]這些元素被更輕的元素覆蓋，並根據質量來分層，因爲天狼星B有著高表面重力。[72]因此，天狼星B的外層大氣層幾乎為純氫，宇宙中最輕的元素，光譜中也找不到任何其它元素。[73]
+天狼星超级疏散星團[编辑]
+
+
+
+
+天狼星A
+
+
+埃希纳·赫茨普龙觀測天狼星系統在天空中的移動路徑後，在1909年提出天狼星屬於大熊座移動星群的結論，是歷史上第一位提出這種看法的人。大熊座移動星團由220顆恆星組成，在太空有相同的移動路徑。其最初形成時是疏散星團的一部分，從此便逐漸脫離引力的牽引。[74]不過，天文學家在2003年和2005年作出的分析卻表示天狼星未必屬於這一星團。大熊座移動星團估計年齡為4到6億年，而天狼星的金屬量和太陽的相似，因此年齡只有2億多年，對於這星團來説太過年輕。[6][75][76]天狼星可能屬於一個“天狼星超级疏散星團”，该疏散星團的明亮恆星可能包括御夫座β、北冕座α、巨爵座β、波江座β和巨蛇座β等。[77]此星團是太陽附近500光年以内的三個星團之一，其餘兩個為畢宿星團和昴宿星團，都各有幾百顆恆星。[78]
+詞源及文化重要性[编辑]
+天狼星的英文正統名稱來自于拉丁語Sīrius，該詞來自於古希臘語Σείριος（Seirios是“熱烈”或“炎熱的天氣”之意），[14]但是這個古希臘名稱也可能在希臘古風時期之前從某處傳過來的[79]。這個名稱最早可以追溯到公元前7世紀赫西俄德的詩作《工作與時日》中。[79]天狼星還有另外50多個編號和名稱。[52]
+天狼星在阿拉伯語中被稱爲الشِّعْرَى‎（拉丁轉寫：‘aš-ši‘rā或‘al-shi‘ra），意為首領[80]，曾出現在在古蘭經中[81]，英文的另一個名稱Aschere就從其而來。
+天狼星在梵語裏是Mrgavyadha（意思是獵鹿者）或Lubdhaka（意思是獵人），天狼星被稱作Mrgavyadha時，代表楼陀罗（湿婆）。[82][83]
+在哈萨克语里， 天狼星被称为 Sumbile (сүмбіле, 意思是‘天上的魅力’）。
+在斯堪的納維亞文化中，天狼星被稱爲Lokabrenna（“洛基放下的火”或“洛基的火炬”）。在日本，天狼星和名爲青星／あおぼし ao boshi ?。天狼星在中世紀占星術裏是一顆吉普賽人之星，[84]與綠柱石及刺柏有關。神祕哲學家安里西·哥內留斯·阿格里帕（Heinrich Cornelius Agrippa）也以特定的符號來象徵它[85]
+天狼星在許多的文化中都有特別的意義，特別是代表狗。它是大犬座中最明亮的恆星，口語上最常被稱為犬星。它也是傳統的獵戶神話中的狗：古希臘人認為天狼星的光芒對狗有不良的影響，使牠們反常出現夏季熱：它們過度的喘氣導致過份的乾燥和置身疾病的危險中。在極端的例子中，口吐白沫的狗也許有狂犬病，可能導致被咬的人受到傳染和死亡[18]。古羅馬人稱這顆恆星是小犬（Canicula），在夏季出現時，稱為犬日。這顆恆星在中國天文學中被稱為天狼星（拼音：Tiānláng；日语罗马字：Tenrō；韓語：천랑；韩语罗马字表记法：Cheonlang）[86]，所屬星官是井宿。許多北美洲的原住民將天狼星與狗連結在一起；在西南方的原住民Seri和托赫諾奧哈姆族（Tohono O'odham）註記這顆恆星是跟隨著綿羊的狗，黑足人（Blackfoot）稱之為狗臉，切羅基人（Cherokee）將天狼星和心宿二配成一對，做為靈魂之路兩端的看守犬。內布拉斯加的波尼族（Pawnee）有幾種聯想；狼族視它為狼星，而其他的部落認為是郊狼星。居住在阿拉斯加白令海峽的因紐特人稱這顆星為月之犬[87]。
+有些文化將這顆恆星與弓和箭聯繫在一起。中國人古代將它與船尾座和大犬座結合，想像成一把橫跨在南天的大弓，箭頭為天狼星。相似的組合也出現在埃及丹德拉（Dendera）的哈索爾神廟壁畫上，沙特女神（Satis）將她的箭畫在牛頭人身女神哈索爾（天狼星）上。在晚期波斯文化中，這顆恆星稱為Tir，並且被當成一支箭[88]。
+多貢[编辑]
+多貢人是西非馬里地區的一個種族，他們對天狼星有望遠鏡未出現的時代中不可能得知的天文知識。依據馬塞爾·格里奧爾的著作《與 Ogotemmêli的對談》和《蒼白的狐狸》記載，他們早在西方天文學家之前就知道天狼星和它的伴星間存在50年的公轉週期，也提到環繞天狼星A和天狼星B的第三顆恆星。罗伯特·坦普尔（Robert K. G. Temple）在1976年的著作《神秘的天狼星》中，認為他們知道木星伽利略衛星和土星環的知識。這是爭論和猜測的主題，1978年的《懷疑和察問者》文章認為這是文化污染的結果[89]。最近這種污染被認為是人種學者所造成的[90][91]，其他人則認為這種解釋太過單純了[92]。吉恩洛奇對古利歐文件的研究結果並沒有獲致相同的論斷，特別是圍繞著西基（Sigui）的節慶日。
+近代的遺產[编辑]
+参见：科幻中的天狼星
+天狼星經常會出現在通俗文化相關的科幻小說主題上[93]，它也是麥覺理大學校徽標誌和女校友學報的期刊名稱[94]。從18世紀起，英國皇家海軍有7艘船艦被命名為HMS 天狼星（英语：HMS Sirius），第一艘HMS 天狼星（英语：HMS Sirius (1786)）在1788年成為澳洲第一艦隊旗艦[95]，澳大利亞皇家海軍之後又命名了另一艘船為HMAS 天狼星（英语：HMAS Sirius (O 266)）以尊榮這艘旗艦。[96]。美國船艦也用天狼星來命名，例如USNS 天狼星 (T-AFS-8)（英语：USNS Sirius (T-AFS-8)），而查爾斯·林白駕駛的第一架單翼機模型則稱為洛克希德天狼星 [97]。這個名稱在1980年代被三菱馬達作為三菱天狼星引擎的名稱[98]。北美洲衛星收音機公司的CD收音機在1999年11月以「夜空中最明亮的恆星」更名為天狼星衛星收音機 [99]。J·K·羅琳在哈利波特系列小說中，以天狼星作為哈利教父的名字，他的動物造型是一隻巨大的黑狗[100]。
+作曲家卡爾海因茨·施托克豪森曾經數度宣稱他來自天狼星系內的一顆行星[101][102]，並且他的音樂許多都是參考這顆恆星的。
+參見[编辑]
+
+恆星距離列表
+恆星亮度列表
+
+參考文獻[编辑]
+
+
+^ 1.00 1.01 1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.11 Database entry for Sirius A, SIMBAD. Accessed online 2007-10-20.
+^ 2.0 2.1 2.2 2.3 Astrometric data, mirrored by SIMBAD from the Hipparcos catalogue, pertains to the center of mass of the Sirius system. See §2.3.4, Volume 1, The Hipparcos and Tycho Catalogues, European Space Agency, 1997, and the entry for Sirius in the Hipparcos catalogue (CDS ID I/239.)
+^ 3.0 3.1 3.2 3.3 3.4 Entry for WD 0642-166, A Catalogue of Spectroscopically Identified White Dwarfs (August 2006 version), G. P. McCook and E. M. Sion (CDS ID III/235A.)
+^ Entry for HR 2491, Bright Star Catalogue, 5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., 1991. (CDS ID V/50.)
+^ For apparent magnitude m and parallax π, the absolute magnitude Mv of Sirius A is given by:
+
+
+
+
+
+
+
+
+
+
+
+M
+
+v
+
+
+ 
+=
+ 
+m
++
+5
+(
+
+log
+
+10
+
+
+⁡
+
+π
+
++
+1
+)
+ 
+=
+ 
+−
+1.47
++
+5
+(
+
+log
+
+10
+
+
+⁡
+
+0.37921
+
++
+1
+)
+ 
+=
+ 
+1.42
+
+
+
+
+
+
+
+{\displaystyle {\begin{smallmatrix}M_{v}\ =\ m+5(\log _{10}{\pi }+1)\ =\ -1.47+5(\log _{10}{0.37921}+1)\ =\ 1.42\end{smallmatrix}}}
+
+
+
+See: Tayler, Roger John. The Stars: Their Structure and Evolution. Cambridge University Press. 1994: 16. ISBN 0521458854. 
+^ 6.00 6.01 6.02 6.03 6.04 6.05 6.06 6.07 6.08 6.09 6.10 6.11 6.12 6.13 Liebert, J.; Young, P. A.; Arnett, D.; Holberg, J. B.; Williams, K. A. The Age and Progenitor Mass of Sirius B. The Astrophysical Journal. 2005, 630 (1): L69–L72. doi:10.1086/462419.  引文使用过时参数coauthors (帮助)
+^ 7.0 7.1 Holberg, J. B.; Barstow, M. A.; Bruhweiler, F. C.; Cruise, A. M.; Penny, A. J. Sirius B: A New, More Accurate View. The Astrophysical Journal. 1998, 497: 935–942. doi:10.1086/305489.  引文使用过时参数coauthors (帮助)
+^ 8.0 8.1 8.2 Adelman, Saul J. The Physical Properties of normal A stars. Proceedings of the International Astronomical Union. Poprad, Slovakia: Cambridge University Press: 1–11. July 8–13, 2004 [2007-07-03]. 
+^ From L=4πR2σTeff4. See: Tayler, Roger John. The Stars: Their Structure and Evolution. Cambridge University Press. 1994: 16. ISBN 0521458854. 
+^ 10.0 10.1 Qiu, H. M.; Zhao, G.; Chen, Y. Q.; Li, Z. W. The Abundance Patterns of Sirius and Vega. The Astrophysical Journal,. 2001, 548: 953–965 [2007-10-20]. doi:10.1086/319000.  引文使用过时参数coauthors (帮助)
+^ 11.0 11.1 11.2 11.3 11.4 Kervella, P.; Thevenin, F.; Morel, P.; Borde, P.; Di Folco, E. The interferometric diameter and internal structure of Sirius A. Astronomy and Astrophysics. 2003, 407: 681–688 [2007-11-25]. doi:10.1051/0004-6361:20030994.  引文使用过时参数coauthors (帮助)
+^ Database entry for Sirius B, SIMBAD. Accessed on line 2007-10-23.
+^ General Catalogue of Trigonometric Stellar Parallaxes, Fourth Edition, W. F. van Altena, J. T. Lee, and E. D. Hoffleit, Yale University Observatory, 1995. (CDS ID I/238A.)
+^ 14.0 14.1 Liddell, Henry G.; Scott, Robert. Greek-English Lexicon Abridged Edition. Oxford: Oxford University Press. 1980. ISBN 0-19-910207-4.  引文使用过时参数coauthors (帮助) 引文格式1维护：冗余文本 (link)
+^ 15.0 15.1 （Holberg 2007，pp. 4-5）
+^ Wendorf, Fred; Schild, Romuald. Holocene Settlement of the Egyptian Sahara: Volume 1, The Archaeology of Nabta Plain (Google Book Search preview). Springer. 2001: p. 500 [2008-05-16]. ISBN 0306466120.  引文使用过时参数coauthors (帮助) 引文格式1维护：冗余文本 (link)
+^ （Holberg 2007，p. 19）
+^ 18.0 18.1 18.2 （Holberg 2007，p. 20）
+^ （Holberg 2007，pp. 16-17）
+^ Ovid. Fasti IV, lines 901-942.
+^ （Holberg 2007，p. 32）
+^ （Holberg 2007，p. 25）
+^ （Holberg 2007，pp. 25-26）
+^ Holberg, JB, Sirius: Brightest Diamond in the Night Sky, Chichester, UK: Praxis Publishing: pp. 41–42, 2007, ISBN 0-387-48941-X  引文格式1维护：冗余文本 (link)
+^ Daintith, John; Mitchell, Sarah; Tootill, Elizabeth; Gjertsen, D. Biographical Encyclopedia of Scientists. CRC Press. 1994: p. 442. ISBN 0750302879.  引文使用过时参数coauthors (帮助) 引文格式1维护：冗余文本 (link)
+^ Huggins, W. Further observations on the spectra of some of the stars and nebulae, with an attempt to determine therefrom whether these bodies are moving towards or from the Earth, also observations on the spectra of the Sun and of Comet II. Philosophical Transactions of the Royal Society of London. 1868, 158: 529–564. doi:10.1098/rstl.1868.0022. 
+^ F. W. Bessel, communicated by J. F. W. Herschel. On the Variations of the Proper Motions of Procyon and Sirius. Monthly Notices of the Royal Astronomical Society. December 1844, 6: 136–141. 
+^ Camille Flammarion. The Companion of Sirius. The Astronomical Register. August 1877, 15 (176): 186–189. 
+^ Benest, D., & Duvent, J. L. Is Sirius a triple star?. Astronomy and Astrophysics. July 1995, 299: 621–628 [2007-02-04].  For the instability of an orbit around Sirius B, see §3.2.
+^ Bonnet-Bidaud, J. M.; Colas, F.; Lecacheux, J. Search for companions around Sirius. Astronomy and Astrophysics. August 2000, 360: 991–996 [2007-10-13]. 
+^ W. S. Adams. The Spectrum of the Companion of Sirius. Publications of the Astronomical Society of the Pacific. December 1915, 27 (161): 236–237. doi:10.1086/122440. 
+^ Holberg, J. B. How Degenerate Stars Came to be Known as White Dwarfs. Bulletin of the American Astronomical Society. 2005, 37 (2): 1503 [2007-05-15]. 
+^ R. Hanbury Brown and R. Q. Twiss. Interferometry of the Intensity Fluctuations in Light. IV. A Test of an Intensity Interferometer on Sirius A. Proceedings of the Royal Society of London. 1958, 248 (1253): 222–237 [2006-07-04]. 
+^ Dwayne Brown, Donna Weaver. Astronomers Use Hubble to 'Weigh' Dog Star's Companion. NASA. December 13, 2005 [2007-10-13]. 
+^ McGourty, Christine. Hubble finds mass of white dwarf. BBC News. 2005-12-14 [2007-10-13]. 
+^ Peter Bond. Astronomers Use Hubble to 'Weigh' Dog Star's Companion. Royal Astronomical Society. 2005-12-14 [2006-08-04]. （原始内容存档于2012-04-19）. 
+^ M. A. Barstow, Howard E. Bond, J. B. Holberg, M. R. Burleigh, I. Hubeny, and D. Koester. Hubble Space Telescope spectroscopy of the Balmer lines in Sirius B. Monthly Notices of the Royal Astronomical Society. 2005, 362 (4): 1134–1142 [2007-10-13]. doi:10.1111/j.1365-2966.2005.09359.x. 
+^ （Holberg 2007，p. 157）
+^ （Holberg 2007，p. 158）
+^ （Holberg 2007，p. 161）
+^ （Holberg 2007，p. 162）
+^ Whittet DCB. A Physical Interpretation of the ‘red Sirius’ Anomaly. Mon. Not. R. Astron. Soc. 1999, 310: 335–39. doi:10.1046/j.1365-8711.1999.02975.x. 
+^ （Holberg 2007，p. 163）
+^ 江晓原. 中国古籍中天狼星颜色之记载. 天文学报. 1992, 33 (4) （Chinese）.  引文格式1维护：未识别语文类型 (link)
+^ Xiao-Yuan Jiang. The colour of Sirius as recorded in ancient Chinese texts. Chinese Astronomy and Astrophysics. April 1993, 17 (2): 223–228. doi:10.1016/0275-1062(93)90073-X. 
+^ Schlosser W, Bergmann W. (abstract) An early-medieval account on the red colour of Sirius and its astrophysical implications 请检查|url=值 (帮助). Nature. November 1985, 318 (318): 45–46 [2008-01-11]. doi:10.1038/318045a0. 
+^ McCluskey SC. (abstract) The colour of Sirius in the sixth century 请检查|url=值 (帮助). Nature. January 1987, 318 (325): 87 [2008-01-11]. doi:10.1038/325087a0. 
+^ van Gent RH. (abstract) The colour of Sirius in the sixth century 请检查|url=值 (帮助). Nature. January 1987, 318 (325): 87–89 [2008-01-11]. doi:10.1038/325087b0. 
+^ 49.0 49.1 Whittet DCB. A physical interpretation of the 'red Sirius' anomaly. Monthly Notices of the Royal Astronomical Society. 1999, 310 (2): 355–359 [2007-06-30]. doi:10.1046/j.1365-8711.1999.02975.x. 
+^ Kuchner, Marc J.; Brown, Michael E. A Search for Exozodiacal Dust and Faint Companions Near Sirius, Procyon, and Altair with the NICMOS Coronagraph. Publications of the Astronomical Society of the Pacific. 2000, 112: 827–832 [2008-01-21]. doi:10.1086/316581.  引文使用过时参数coauthors (帮助)
+^ The Dog Star, Sirius, and its Tiny Companion. Hubble News Desk. 2005-12-13 [2006-08-04]. 
+^ 52.0 52.1 （Holberg 2007，p. xi）
+^ Espenak, Fred. Mars Ephemeris. Twelve Year Planetary Ephemeris: 1995-2006, NASA Reference Publication 1349. （原始内容存档于2008-02-09）. 
+^ Espenak, Fred. Mercury Ephemeris. Twelve Year Planetary Ephemeris: 1995-2006, NASA Reference Publication 1349. （原始内容存档于2008-03-07）. 
+^ （Holberg 2007，p. 82）
+^ Darling, David. Winter Triangle. The Internet Encyclopedia of Science. [2007-10-20]. 
+^ Henshaw, C. On the Visibility of Sirius in Daylight. Journal of the British Astronomical Association. 1984, 94 (5): 221–222 [2007-10-20]. 
+^ Two full 50.09 yr orbits following the periastron epoch of 1894.13 gives a date of 1994.31.
+^ Mullaney, James. Orion's Splendid Double Stars: Pretty Doubles in Orion's Vicinity. Sky & Telescope. March 2008 [2008-02-01]. 
+^ 60.0 60.1 Henry, Dr. Todd J. The One Hundred Nearest Star Systems. RECONS. 2006-07-01 [2006-08-04]. （原始内容存档于2007-11-12）. 
+^ The Brightest Stars. Royal Astronomical Society of New Zealand. [2007-12-14]. （原始内容存档于2013-02-14）. 
+^ 62.0 62.1 62.2 62.3 Sirius 2. SolStation. [2006-08-04]. 
+^ Angrum, Andrea. Interstellar Mission. NASA/JPL. August 25, 2005 [2007-05-07]. 
+^ 1 light year = 63,241 AU; semi-major axis = distance × tan(subtended angle) = 8.6 × 63,241 × tan(7.56″) = 19.9 A.U., approximately
+^ 65.0 65.1 （Holberg 2007，p. 214）
+^ Backman, D. E. IRAS observations of nearby main sequence stars and modeling of excess infrared emission. Proceedings, 6th Topical Meetings and Workshop on Cosmic Dust and Space Debris. Toulouse, France: COSPAR and IAF. June 30-July 11, 1986 [2007-10-20]. ISSN 0273-1177.  已忽略未知参数|co-authors= (帮助); 请检查|date=中的日期值 (帮助)
+^ Pedro, Braganca. The 10 Brightest Stars. SPACE.com. 2003-07-15 [2006-08-04]. 
+^ Aufdenberg, J.P.; Ridgway, S.T. et al. First results from the CHARA Array: VII. Long-Baseline Interferometric Measurements of Vega Consistent with a Pole-On, Rapidly Rotating Star? (PDF). Astrophysical Journal. 2006, 645: 664–675 [2007-11-09]. doi:10.1086/504149. （原始内容 (PDF)存档于2007-07-15）.  引文使用过时参数coauthors (帮助)
+^ Imamura, James N. Cooling of White Dwarfs. University of Oregon. 1995-10-02 [2007-01-03]. （原始内容存档于2007-05-02）. 
+^ Siess, Lionel. Computation of Isochrones. Institut d'Astronomie et d'Astrophysique, Université libre de Bruxelles. 2000 [2007-03-24]. （原始内容存档于2011-05-05）. 
+^ Palla, Francesco. Stellar evolution before the ZAMS. Proceedings of the international Astronomical Union 227. Italy: Cambridge University Press: 196–205. May 16–20, 2005 [2007-03-24]. 
+^ Koester, D.; Chanmugam, G. Physics of white dwarf stars. Reports on Progress in Physics. 1990, 53 (7): 837–915 [2008-01-03]. doi:10.1088/0034-4885/53/7/001.  引文使用过时参数coauthors (帮助)
+^ Holberg, J. B.; Barstow, M. A.; Burleigh, M. R.; Kruk, J. W.; Hubeny, I.; Koester, D. FUSE observations of Sirius B. Bulletin of the American Astronomical Society. 2004, 36: 1514 [2007-10-20].  引文使用过时参数coauthors (帮助)
+^ Frommert, Hartmut; Kronberg, Christine. The Ursa Major Moving Cluster, Collinder 285. SEDS. 2003-04-26 [2007-11-22]. （原始内容存档于2007-12-20）.  引文使用过时参数coauthors (帮助)
+^ King, Jeremy R.; Villarreal, Adam R.; Soderblom, David R.; Gulliver, Austin F.; Adelman, Saul J. Stellar Kinematic Groups. II. A Reexamination of the Membership, Activity, and Age of the Ursa Major Group. Astronomical Journal. 2003, 15 (4): 1980–2017 [2007-11-22]. doi:10.1086/368241.  引文使用过时参数coauthors (帮助)
+^ The life and times of Sirius B, Ken Croswell, Astronomy, online, 2005-07-27. Accessed 2007-10-19.
+^ Eggen, Olin J. The Sirius supercluster in the FK5. Astronomical Journal. 1992, 104 (4): 1493–1504 [2007-11-22]. doi:10.1086/116334. 
+^ Olano, C. A. The Origin of the Local System of Gas and Stars. The Astronomical Journal. 2001, 121: 295–308 [2007-12-11]. doi:10.1086/318011. 
+^ 79.0 79.1 （Holberg 2007，pp. 15-16）
+^ Staff. Sirius. Britannica Online Encyclopedia. 2007 [2007-09-10]. 
+^ An-Najm (The Star), Surah 53. Translations of the Qur'an. University of Southern California, Center for Muslim-Jewish Engagement. 2007 [2009-08-08]. （原始内容存档于2009-02-19）. 
+^ Subhash Kak. Indic ideas in the Greco-Roman world. （原始内容存档于2010-07-29）. 
+^ Shri Shri Shiva Mahadeva. （原始内容存档于2007-11-03）. 
+^ Tyson, Donald; Freake, James. Three Books of Occult Philosophy. Llewellyn Worldwide. 1993. ISBN 978-0-87542-832-1.  引文使用过时参数coauthors (帮助)
+^ Agrippa, Heinrich Cornelius. De Occulta Philosophia. 1533. 
+^ （Holberg 2007，p. 22）
+^ （Holberg 2007，p. 23）
+^ （Holberg 2007，p. 24）
+^ Ridpath, Ian. Investigating the Sirius "Mystery". Committee for Skeptical Inquiry. 1978 [2007-06-26]. （原始内容存档于2003-02-17）. 
+^ de Montellano, Bernard R. Ortiz. The Dogon Revisited. [2007-10-13]. （原始内容存档于2013-02-15）. 
+^ Coppens, Philip. Dogon Shame. [2007-10-13]. （原始内容存档于2013-02-15）. 
+^ Apter, Andrew. Griaule’s Legacy: Rethinking “la parole claire” in Dogon Studies (PDF). Cahiers d’Études africaines. 1999, 45 (1): 95–129 [2008-04-16]. 
+^ The editors of Asimov's Science Fiction and Analog. Writing Science Fiction & Fantasy. St. Martin's Griffin. 1993: p. 108. ISBN 978-0312089269.  引文格式1维护：冗余文本 (link)
+^ About Macquarie University — Naming of the University. Macquarie University official website. Macquarie University. 2007 [2007-12-27]. （原始内容存档于2007-12-14）. 
+^ Henderson G, Stanbury M. The Sirius: Past and Present. Sydney: Collins. 1988: p. 38. ISBN 0-7322-2447-0.  引文格式1维护：冗余文本 (link)
+^ Royal Australian Navy. HMAS Sirius: Welcome Aboard. Royal Australian Navy - Official Site. Commonwealth of Australia. 2006 [2008-01-23]. [失效連結]
+^ van der Linden, FR. Lockheed 8 Sirius. Smithsonian: National Air and Space Museum - Official Website. Smithsonian Institute. 2000 [2008-01-26]. （原始内容存档于2008-01-05）. 
+^ Mitsubishi Motors history. Mitsubishi Motors - South Africa Official Website. Mercedes Benz. 2007 [2008-01-27]. （原始内容存档于2007-04-04）. 
+^ Sirius Satellite Radio, Inc. - Company Profile, Information, Business Description, History, Background Information on Sirius Satellite Radio, Inc. Net Industries, LLC. [2008-01-22]. 
+^ Kopel, Dave. Deconstructing Rowling. National Review Online. 2003-06-09 [2008-02-28]. 
+^ Paul McEnery. Karlheinz Stockhausen. Salon.com. 2001-01-16. （原始内容存档于2008-06-24）. 
+^ Beam me up, Stocky. The Guardian. 2005-10-13. 
+
+
+外部連結[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：天狼星
+
+
+
+Professor Kaler's webpage on Sirius
+APOD of Sirius B in x-ray
+Discussion on Dogon issue
+Barker, Tho.; Stukeley, W. Remarks on the Mutations of the Stars. Philosophical Transactions. 1760, 51: 498–504 [2008-08-05].  引文使用过时参数coauthors (帮助)
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+大犬座恒星
+
+
+
+
+
+
+B
+
+
+
+α
+β
+γ
+δ
+ε
+ζ
+η
+θ
+ι
+κ
+λ
+μ
+ν¹
+ν²
+ν³
+ξ¹
+ξ²
+ο¹
+ο²
+π
+σ
+τ
+ω
+
+
+
+
+
+
+
+
+弗拉斯蒂德命名法
+
+
+
+1(ζ)
+2(β)
+3
+4(ξ¹)
+5(ξ²)
+6(ν¹)
+7(ν²)
+8(ν³)
+9(α)
+10
+11
+12
+13(κ)
+14(θ)
+15
+16(ο¹)
+17
+18(μ)
+19(π)
+20(ι)
+21(ε)
+22(σ)
+23(γ)
+24(ο²)
+25(δ)
+26
+27
+28(ω)
+29
+30(τ)
+31(η)
+
+
+
+
+
+
+
+
+近距离恒星
+
+
+
+α
+WISE 0713-2917
+
+
+
+
+
+
+
+
+其他
+
+
+
+VY
+EZ
+R
+
+
+
+
+
+
+
+
+
+
+
+大犬座恒星列表
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+星官 天狼 包括的恒星
+
+
+
+
+
+
+正星
+
+
+
+天狼星
+
+
+
+
+
+
+
+
+增星
+
+
+
+天狼增一
+天狼增二
+天狼增三
+天狼增四
+天狼增五
+天狼增六
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh85122983
+GND: 4181577-4
+BNF: cb12302566r（数据）
+NDL: 00571226
+
+
+
+
+
+
+
+
+
+
+
+
+分类：拜耳天體主序星双星大犬座星座最亮星天狼 (星官)格利泽和GJ天体隐藏分类：含有过时参数的引用的页面引文格式1维护：冗余文本引文格式1维护：未识别语文类型含有网址格式错误的引用的页面含有未知参数的引用的页面引文格式1错误：日期带有失效链接的条目条目有永久失效的外部链接使用ISBN魔术链接的页面含有希臘語的條目含有拉丁語的條目含有古希臘語的條目含有阿拉伯語的條目含有英語的條目含有日語的條目含有朝鮮語的條目包含规范控制信息的维基百科条目

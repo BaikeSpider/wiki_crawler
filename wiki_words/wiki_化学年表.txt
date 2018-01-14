@@ -1,0 +1,886 @@
+化学年表
+
+
+
+
+约翰·道尔顿的著作《化学哲学新体系》中的一幅插图。该书是近代第一部解释原子论的著作。
+
+
+化学年表列出了深远地改变人们对化学这门现代科学认识的重要著作、发现、思想、发明以及实验等。化学作为一门对物质组成和相互作用进行研究的自然科学，虽然其根源可以追溯到自有文字记载之时，但我们可以认为现代化学史是从英国科学家罗伯特·波义耳开始的。
+后来被引入到现代化学中的早期思想主要有两个：一是自然哲学家（例如亚里士多德和德谟克利特）试图使用演绎推理来解释所处的世界，二是炼金术士（例如贾比尔和拉齐）和炼丹家（比如孙思邈和葛洪）试图使用实验方法来延长生命或进行物质的转化，例如用丹炉炼金丹，或将贱金属转化成金。
+17世纪时，“演绎”和“实验”两种思想正融合到了一起，这种处于发展中的思想被称为科学方法。随着科学方法的引入，现代化学诞生了。
+被称为“中心科学”的化学很大程度上受到其他学科的影响，也在许多科学技术领域发挥着强大的影响力。许多化学领域的重大事件对其他领域来说也是关键的发现，如物理学、生物学、天文学、地质学、材料科学，不一而足[1] 。
+
+
+
+目录
+
+
+1 17世纪以前
+2 17和18世纪
+3 19世纪
+4 20世纪
+5 参见
+6 参考资料
+7 扩展阅读
+8 外部链接
+
+
+
+17世纪以前[编辑]
+
+
+
+
+亚里士多德（公元前384－公元前322）
+
+
+
+
+
+
+索西莫斯的蒸馏头、蒸馏器和曲颈瓶等炼金器具。图片来自马塞林·贝特洛的著作《古希腊的炼金术师一览》（第三卷，1887年－1888年，巴黎）。
+
+
+
+
+
+
+有人认为贾比尔（815年逝世）是“化学之父”。
+
+
+在科学方法被广泛接受并应用到化学研究领域之前，将下列这么多人物视作现代意义上的化学家是有些争议的。但是无论如何，一些伟大思想家的想法或有着先见之明，或长期以来受到广泛认同，因而将他们都列出来：
+
+约公元前3000年
+埃及人提出「八元神」（Ogdoad）理论，认为世间万物都由Ogdoad构成。Ogdoad是混沌中的元素，它们在太阳出现之前就存在。[2]
+
+
+约公元前1900年
+一位半神话的人物，古埃及国王赫耳墨斯·特里斯墨吉斯忒斯被视为炼金术的创始人。[3]
+
+
+约公元前1200年
+据美索不达米亚一块刻有楔形文字的泥板的记载，当时有一位名叫塔普提（Tapputi）的香水制造师和早期化学家。[4][5]她以花、油、菖蒲，以及莎草、没药、凤仙花等为原料，用加水后蒸馏并多次过滤的方法制造香水。[6]
+
+
+约公元前10~5世纪
+中国周朝出现外丹术，并随着道教诞生成为道士长生不老的手段。作为化学的雏形极大推动了东方化学的发展。
+
+
+约公元前10~5世纪
+中国周朝的开始出现五行学说，一般认为始见于《尚书·洪范》“曰：‘五行，一曰水、二曰火、三曰木、四曰金、五曰土’”。[7]
+
+
+约公元前450年
+恩培多克勒断言万物都由四种原始元素：土、气、火、水组成，并且通过两种活跃且相互对立的力量——“爱”与“恨”（即亲合与抵触）作用于四种元素，使得元素间不断结合和分离，最终形成无穷多种的物质。[8]
+
+
+约公元前440年
+留基伯和德谟克利特两人提出了原子的概念，将原子形容为组成一切物质的粒子，它是不可见且不可分割的。赞同亚里士多德的自然哲学家大多都不赞成这个想法。[9][10]
+
+
+约公元前360年
+柏拉图创造了元素（stoicheia）一词。在柏拉图的对话录《蒂迈欧篇》中有一则关于有机体和无机体构成的讨论，也是一篇粗浅的化学论述文章，他在文中假设，每种元素的微小粒子都有特殊的形状：正四面体（火）、正八面体（气）、正二十面体（水）和正六面体（土）。[11]
+
+
+约公元前350年
+亚里士多德在恩培多克勒的基础上，提出了“物体是物质和形式的结合”的构想。此外，他提出了五元素说，除四元素以外，还有第五种叫以太的元素。这一理论统治了西方世界长达1000多年。[12]
+
+
+约公元前250年
+中国战国时期开始使用铬，1994年在兵马俑二号坑中发现青铜剑被镀上一层10微米厚的铬盐，但工艺已经失传。
+
+
+约公元前50年
+卢克莱修发表了哲学长诗《物性论》（拉丁语：De Rerum Natura）。《物性论》对原子论概念进行了诗意的描述。[13]
+
+
+约公元150年
+东汉炼丹家魏伯阳著《周易参同契》和《五相类》，被视为是世界上留有著作最早的一位炼丹家。其中《参同契》被视为已知最早的炼丹著作。
+
+
+约公元300年
+晋朝炼丹家葛洪发现汞的氧化还原反应。
+
+
+约公元300年
+索西莫斯（Zosimos of Panopolis）创作了一些已知最古老的炼金术著作。索西莫斯将炼金术定义为“一门研究水的组成，运动，生长，合并和分裂，将灵魂从肉体牵引出来以及将灵魂和肉体结合的学科”。[14]
+
+
+
+
+
+十世纪五代时期的敦煌（时属归义军）壁画，目前所知最早的关于火枪和手榴弹（右上方）的描绘。[15]世界上最早的金属火统出土于中国黑龙江，制作年代为1288年，现藏黑龙江省博物馆。[16][17]
+
+
+
+约公元6-9世纪
+在中国，唐初孙思邈（581—682）在《丹经内伏硫磺法》中记载硝石、硫磺和炭化皂角子混合后用火点燃后能猛烈燃烧。随后中国炼丹家先后发明了“伏火硫黄法”、“伏火矾法”[18]等黑火药制备方法。黑火药是17世纪中叶之前唯一的化学爆炸物。[19][20][21]火药最早的实际应用出现于五代时期的敦煌壁画中。
+
+
+约公元815年
+贾比尔是一位阿拉伯（波斯）的炼金术师，他很可能是中世纪伊斯兰最负盛名的炼金术士。贾比尔对炼金术的发展作出了重要贡献。
+
+
+约公元1000年
+两位波斯炼金术师比鲁尼[22]和伊本·西那[23]反驳了炼金术的效验以及贤者之石等声称金属之间可转化的理论。
+
+
+约1167年
+萨勒诺学院的炼金术士首次提到了蒸馏酒的方法。[24]
+
+
+约1220年
+罗伯特·格罗斯泰斯特发表了几篇关于亚里士多德学派的评论。在这些评论中，格罗斯泰斯特提出了科学方法的早期骨架。[25]
+
+
+约1250年
+尔赫·塔德奥（Tadeo Alderotti）发展了比前人更有效的分馏技术。[26]
+
+
+约1260年
+神父艾尔伯图斯·麦格努斯发现了砷[27]和硝酸银。[28]他也是最早记载硫酸的人之一。[29]
+
+
+约1267年
+罗吉尔·培根出版了大著作（Opus Maius），此书在记载其他内容的同时还提出了一种早期形式的科学方法，此外还包括他关于火药的实验结果。[30]
+
+
+约1310年
+佚名的西班牙炼金术士假贾比尔（Pseudo-Geber）出版了几本书，书中长期坚称所有金属都是由不同比例的硫和汞组成。[31]他也是最早描述硝酸、王水和镪水的人之一。[32]
+
+
+约1530年
+帕拉塞尔苏斯致力于发展延长生命的化学医学。这是一个炼金术的分支学科，也是现代制药业的先祖。据说他也是第一个使用“chemistry”这个单词的人。[14]
+
+
+约1597年
+安德烈亚斯·利巴菲乌斯出版了化学教科书的雏型——《炼金之城》。[33]
+
+17和18世纪[编辑]
+
+1605年
+弗兰西斯·培根出版了《学术的进展》一书，其中描述了后人所称的科学方法。[34]
+
+
+迈克尔·森达兹沃（Michal Sedziwój）发表了关于炼金术的论文《炼金术的新亮点》（A New Light of Alchemy），文中提出空气中存在“生命食品”，即很久以后才发现的氧气 。[35]
+
+
+1615年
+让·贝甘（Jean Beguin）出版了一本早期化学教科书《化学入门》（Tyrocinium Chymicum），此书中首次出现了化学方程式。[36]
+
+
+1637年
+勒内·笛卡儿出版了《谈谈方法》一书，书中内容描绘出了科学方法的轮廓。[37]
+
+
+1648年
+在扬·巴普蒂斯塔·范·海尔蒙特去世后出版的《医学起源》是炼金术与化学的过渡桥梁，并对深深地影响了罗伯特·波义耳。此书中记载了无数次试验的结果，并建立起质量守恒定律的雏形。[38]
+
+
+
+
+
+罗伯特·波义耳（1627－1691）《怀疑的化学家》的扉页
+
+
+
+1661年
+在罗伯特·波义耳出版的《怀疑的化学家》（The Sceptical Chymist）中，他阐释了化学与炼金术的区别。书中提出了许多早期的现代化学概念，例如原子、分子、化学反应等，这标志着现代化学的开端。[39]
+
+
+1662年
+罗伯特·波义耳提出了波义耳定律。这是一个关于气体体积与压强关系的实验定律。[39]
+
+
+1735年
+瑞典化学家乔格·勃兰​​特（Georg Brandt）分析了一种出自铜矿的深蓝色颜料。他发现其中含有一种新的元素，后来被命名为钴。
+
+
+1754年
+约瑟·布拉克分离出了二氧化碳，他将其称作“固定空气”。[40]
+
+
+
+
+
+典型的18世纪化学实验室
+
+
+
+1757年
+路易斯·克劳德·卡戴特·德伽西科特在研究砷化合物时发现了卡戴特的发烟液体，这是人类制得的第一种有机金属化合物。[41]
+
+
+1758年
+约瑟·布拉克引入了潜热的概念来解释热化学中的相变。[42]
+
+
+1766年
+亨利·卡文迪什发现了无色无味的氢气 。这是种能燃烧，并能与空气形成爆炸性混合物的气体。
+
+
+1773年–1774年
+卡尔·威廉·舍勒和约瑟夫·普利斯特里各自独立地分离出了氧气。普利斯特里把它叫作“脱燃素气体”，而舍勒称它为“火空气”。[43][44]
+
+
+
+
+
+安托万-洛朗·德·拉瓦锡（1743－1794）被认为是“现代化学之父”
+
+
+
+1778年
+安托万·拉瓦锡被成为是“现代化学之父”，[45]他承认并命名了氧气，并认识到其在燃烧中的作用和重要性。[46]
+
+
+1787年
+安托万·拉瓦锡出版了《化学命名法》，这是第一部现代化学命名规则。[46]
+
+
+雅克·查理提出了查理定律，该定律描述了气体的体积与温度的关系，这是波义耳定律的必然推论。[47]
+
+
+1789年
+安托万·拉瓦锡出版了第一部真正的现代化学教科书——《化学基础》。书中囊括了当时现代化学的主要内容，例如质量守恒定律的首个简明定义，并标志着化学计量学（定量化学分析）的创立。[46][48]
+
+
+1797年
+约瑟夫·普鲁斯特提出了定比定律，即一种化合物无论如何制得，其组成的元素间都有一定的质量比。[49]
+
+
+1800年
+亚历山德罗·伏打发明了第一个化学电池，开创了新的化学分支——电化学。[50]
+
+19世纪[编辑]
+
+
+
+
+约翰·道尔顿 (1766－1844)
+
+
+
+1803年
+约翰·道尔顿提出了道尔顿定律。该定律描述了在不发生反应的混合气体中，各组分的分压与总压的关系。[51]
+
+
+1805年
+约瑟夫·路易·盖-吕萨克发现水是由两体积的氢和一体积的氧组成的。[52]
+
+
+1808年
+约瑟夫·路易·盖-吕萨克研究了空气等多种气体的物理性质和化学性质。他用实验证明了波义耳定律、查理定律，以及气体密度与成分的关系。[53]
+
+
+约翰·道尔顿出版了《化学哲学新体系》。此书最早解释了现代原子论和倍比定律。[51]
+
+
+永斯·雅各布·贝采利乌斯出版了《化学教科书》（Lärbok i Kemien）。此书中他提出了现代化学符号以及相对原子质量的概念。[54]
+
+
+1811年
+阿莫迪欧·阿伏伽德罗提出了阿伏伽德罗定律，即同温同压下相同体积的气体含有相同的分子数。[55]
+
+
+
+
+
+尿素的结构式
+
+
+
+1825年
+弗里德里希·维勒和尤斯图斯·冯·李比希首次证实了早前贝采利乌斯命名的异构体。通过对氰酸和雷酸的研究，他们推断异构现象是分子内原子的排列方式不同所导致的。[56]
+
+
+1827年
+威廉·普劳特（William Prout）将生物分子分成三类：碳水化合物、蛋白质和脂质。[57]
+
+
+1828年
+弗里德里希·维勒合成了尿素，说明了可以使用无机化合物来合成有机化合物，从而推翻了生命力论。[56]
+
+
+1832年
+弗里德里希·维勒和尤斯图斯·冯·李比希发现并解释了有机化学中的官能团和自由基。[56]
+
+
+1840年
+日耳曼·盖斯提出了能量守恒定律的早期表述形式——盖斯定律：在条件不变的情况下，化学反应的热效应只与起始和结束状态有关，与变化途径无关。[58]
+
+
+1847年
+赫尔曼·科尔贝完全通过无机物制得了乙酸，进一步的反驳了生命力论。[59]
+
+
+1848年
+威廉·汤姆森提出了绝对零度的概念：让所有分子都停止运动的温度。[60]
+
+
+1849年
+路易·巴斯德发现外消旋酒石酸是左旋酒石酸与右旋酒石酸的等量混合物，从而澄清了旋光现象的实质，开拓了立体化学的新领域。[61]
+
+
+1852年
+奥古斯特·比尔提出了比尔定律。该定律阐述了混合物成分与吸光度的关系。他的工作部分建立在早先皮埃尔·布格和约翰·海因里希·兰伯特的工作基础上，这项发现开创了分析化学中的分光技术。[62]
+
+
+1855年
+小本杰明·西利曼是石油裂化的先驱，他的工作开创了整个现代石油化学工业。[63]
+
+
+1856年
+威廉·亨利·珀金合成了第一种合成染料——苯胺紫。这是他试图从煤焦油中提取奎宁的副产物。该发现是合成染料工业的开端。[64]
+
+
+1857年
+弗里德里希·奥古斯特·凯库勒·冯·斯特拉多尼茨提出碳是四价的，通常形成四个化学键。[65]
+
+
+1859年－1860年
+古斯塔夫·罗伯特·基尔霍夫和罗伯特·威廉·本生奠定了光谱化学分析方法， 后来他们用此法发现了铯和铷。其他科学家很快使用同样的技术发现了铟、铊和氦。[66]
+
+
+1860年
+斯塔尼斯劳·康尼查罗重新考虑了阿伏伽德罗关于双原子分子的设想，编制了原子量表并在1860年的卡尔斯鲁厄会议上发表，结束了几十年来原子量与分子式间的冲突，也为门捷列夫发现元素周期律奠定了基础。 [67]
+
+
+1862年
+亚历山大·帕克斯在伦敦国际展览会展出了最早的合成塑料——硝化纤维素塑料。这项发现开创了现代塑料工业。[68]
+
+
+亚历山大-埃米尔·贝吉耶·德尚库托瓦出版了早期版本的三维元素周期表——螺旋图。[69]
+
+
+1864年
+约翰·纽兰兹提出了元素周期律的前身八音律。[69]
+
+
+尤利乌斯·洛塔尔·迈耶尔发展了一种早期元素周期表，将28种元素用化合价分类。[70]
+
+
+卡托·马克西米林·古德贝格和彼得·瓦格在克劳德·贝托莱的基础上提出了质量作用定律。[71][72][73]
+
+
+1865年
+约翰·约瑟夫·洛施密特测定了一莫耳物质所含的分子数，这个值后来被命名为亞佛加厥常數。[74]
+
+
+弗里德里希·奥古斯特·凯库勒·冯·斯特拉多尼茨提出了苯的六元环结构，环上为交替的单键和双键。[65]
+
+
+阿道夫·冯·拜尔开始研究靛蓝，这是现代有机化学染料工业的一个里程碑。[75]
+
+
+
+
+
+门捷列夫元素周期表（1869年）
+
+
+
+1869年
+德米特里·伊万诺维奇·门捷列夫出版了以66种已知元素的原子量排序的首张现代元素周期表。该表能准确预测许多当时未知元素的性质。[69][70]
+
+
+1873年
+雅各布斯·亨里克斯·范托夫和约瑟夫·阿奇·乐贝尔分别独立地提出了解释巴斯德手性实验的化学键模型，并提出了引起光学活性的物理原因。[76]
+
+
+1876年
+约西亚·吉布斯出版了他的热力学和物理化学研究成果汇编《论非均相物体的平衡》，并提出了自由能的概念来解释化学平衡的物理基础。[77]
+
+
+1877年
+路德维希·玻尔兹曼使用统计物理学方法解释了包括熵在内许多重要的物理和化学概念的本质，并得出了气相分子的速率分布。[78]
+
+
+1883年
+斯凡特·奥古斯特·阿伦尼乌斯提出了电解质的阿伦尼乌斯理论来解释水溶液的电导率。[79]
+
+
+1884年
+雅各布斯·亨里克斯·范托夫出版了《化学动力学研究》，此书对化学动力学具有开创性的意义。[80]
+
+
+赫尔曼·埃米尔·费歇尔提出了生物分子中关键的嘌呤的结构，后来在1898年时他合成了该物质。他也开始对葡萄糖和其他相关的糖进行研究。[81]
+
+
+亨利·路易斯·勒夏特列提出了勒夏特列原理，从动力学角度阐述了外压对化学平衡的影响。[82]
+
+
+1885年
+尤金·戈尔茨坦命名了阴极射线和阳极射线，后来发现这两种射线分别由电子和已经失去电子的氢离子组成。所谓已经失去电子的氢离子就是质子。[83]
+
+
+1893年
+阿尔弗雷德·维尔纳发现了钴配合物的八面体构型，就此开创了配位化学的新领域。[84]
+
+
+1894年–1898年
+威廉·拉姆齐发现了稀有气体，补充了元素周期表中的缺少的一类元素。[85]
+
+
+1897年
+约瑟夫·汤姆孙使用阴极射线管发现了电子。[86]
+
+
+1898年
+威廉·维恩发现阳极射线在磁场中会发生偏转，偏转的角度取决于质荷比。这项发现开创了分析化学中的质谱法。[87]
+
+
+玛丽·居里和皮埃尔·居里从沥青铀矿中分离出镭和钋。[88]
+
+
+约1900年
+欧内斯特·卢瑟福发现了衰变原子放射性的来源，并提出了多种衰变方式。[89]
+
+20世纪[编辑]
+
+1903年
+米哈伊尔·谢苗诺维奇·茨韦特发明了重要的分析技术色谱法。[90]
+
+
+1904年
+长冈半太郎提出原子的早期模型：电子绕着致密的原子核旋转。[91]
+
+
+1905年
+弗里茨·哈伯和卡尔·博施发明了哈伯法来合成氨。这是化学工业对农业作出贡献的一个里程碑。 [92]
+
+
+阿尔伯特·爱因斯坦用原子理论明确地解释了布朗运动。 [93]
+
+
+1907年
+利奥·亨德里克·贝克兰改进了酚醛树脂的生产，使之成为第一种商业化的塑料。[94]
+
+
+
+
+
+进行油滴实验来测定元电荷的罗伯特·密立根
+
+
+
+1909年
+罗伯特·密立根通过油滴实验测出了空前精确的元电荷数值，说明所有电子的质量和电量都相等。[95]
+
+
+索伦·彼得·劳里茨·索伦森提出了pH的概念，并发展的酸度的测量方法。[96]
+
+
+1911年
+安东尼厄斯·范登·布鲁克提出元素周期表上的元素应该按核电荷数而不是原子量来排序。[97]
+
+
+汇集了当时最杰出科学家的第一届索尔维会议在布鲁塞尔举行。[98]
+
+
+欧内斯特·卢瑟福、汉斯·盖革和欧内斯特·马斯登进行了盖革-马斯登实验（金箔实验），这个实验证明了原子的核式模型。[89]
+
+
+1912年
+威廉·亨利·布拉格和威廉·劳伦斯·布拉格提出了布拉格定律，从此建立起研究晶体结构的重要工具——X射线晶体学。[99]
+
+
+彼得·德拜发展了分子偶极的概念以描述一些分子中电荷的不对称分布。[100]
+
+
+
+
+
+玻尔的原子模型
+
+
+
+1913年
+尼尔斯·玻尔将量子力学概念引入到原子结构中。他假设电子只能在固定的轨道上运动，这被后人称为玻尔模型。[101]
+
+
+亨利·莫塞莱在安东尼厄斯·范登·布鲁克的基础上提出用原子序数的概念来修正门捷列夫元素周期表的不足。[102]
+
+
+弗雷德里克·索迪提出了同位素的概念，即相同化学性质的元素可能有不同的原子量。[103]
+
+
+约瑟夫·汤姆孙继续了威廉·维恩的工作，他发现因为亚原子离子的质荷比不同，所以可以用质谱法将它们分离。 [104]
+
+
+1916年
+吉尔伯特·牛顿·刘易斯出版了《原子和分子》，标志着价键理论的建立。[105]
+
+
+1921年
+奥托·施特恩和沃尔特·格拉赫提出了亚原子粒子的自旋概念。[106]
+
+
+1923年
+吉尔伯特·牛顿·刘易斯和梅尔·兰德尔出版了第一本现代化学热力学专著《热力学和化学物质自由能》（Thermodynamics and the Free Energy of Chemical Substances）。[107]
+
+
+1923年
+吉尔伯特·牛顿·刘易斯提出了酸碱电子理论。[105]
+
+
+1924年
+路易·德布罗意基于波粒二象性的思想建立了原子结构的波动模型。[108]
+
+
+1925年
+沃尔夫冈·泡利提出了泡利不相容原理，即绕同一个原子核旋转的电子不可能四个量子数都相同。[109]
+
+
+
+
+
+薛定谔方程
+
+
+
+1926年
+埃尔温·薛定谔提出了薛定谔方程，为原子结构的波动模型建立了数学基础。[110]
+
+
+1927年
+维尔纳·海森堡提出了不确定性原理，具体指在一个量子力学系统中，电子的位置和动量不可能被同时确定。[111]
+
+
+弗里茨·伦敦和沃尔特·海特勒运用量子力学解释氢分子的共价键形成，[112]这标志着量子化学的诞生。[113]
+
+
+约1930年
+莱纳斯·鲍林提出了鲍林规则，这是使用X射线晶体学测定分子结构的关键规则。[114]
+
+
+
+
+
+两种常见的尼龙
+
+
+
+1930年
+华莱士·卡罗瑟斯带领一支杜邦公司的化学家团队发明了尼龙，这是历史上最成功的合成纤维之一。[115]
+
+
+1931年
+埃里希·休克尔提出了休克尔规则，这个经验规则可以推断平面环状分子是否具有芳香性。[116]
+
+
+哈羅德·尤里通过分馏液氢发现了氘。[117]
+
+
+1932年
+詹姆斯·查德威克发现了中子。[118]
+
+
+1932年–1934年
+莱纳斯·鲍林和罗伯特·马利肯提出了不同的电负性标度，这两种标度现在分别以他们的名字命名。[119]
+
+
+1937年
+卡罗·佩里尔（Carlo Perrier）和埃米利奥·吉诺·塞格雷合成了第一种人造元素锝-97，填补了元素周期表的空缺。但这是有争议的，这种元素可能在1925年时就由沃尔特·诺达克和其他人合成了。[120]
+
+
+尤金·乌德里开发了工业规模的石油催化裂解技术，发展了现代石油工业。[121]
+
+
+彼得·卡皮查、约翰·艾伦和唐·米塞纳制备了第一种零粘度的超流体——超冷氦-4，该物质在宏观尺度上表现出了量子力学性质。[122]
+
+
+1938年
+奥托·哈恩发现了铀和钍的核裂变过程。[123]
+
+
+1939年
+莱纳斯·鲍林出版了《化学键的本质》。此书是最重要的现代化学教科书之一，它介绍了几十年来化学键领域的重要成果。它使用电负性、共振论等方法阐述了杂化轨道理论、共价键和离子键的性质。[114]
+
+
+1940年
+埃德温·麦克米伦和菲力普·艾贝尔森在铀裂变产物中发现了首种超铀元素镎。麦克米伦发现加州大学伯克利分校的一所实验室发现了许多新元素和同位素。[124]
+
+
+1941年
+格伦·西奥多·西博格使用先中子俘获再其他核反应的新方法继续麦克米伦合成新元素的工作。他独立或合作发现了九种新元素和几十种已知元素的同位素。[124]
+
+
+1945年
+雅各布·马林斯基、劳伦斯·格伦丹宁和查尔斯·科里尔发现了钷元素，填补了元素周期表的最后一个空缺。[125]
+
+
+1945年–1946年
+费利克斯·布洛赫和爱德华·珀塞尔发明了重要的分子结构分析技术核磁共振。[126]
+
+
+1951年
+莱纳斯·鲍林使用X射线晶体学推断出蛋白质的二级结构。[114]
+
+
+1952年
+阿兰·沃尔什开创了重要的光谱定量分析方法原子吸收光谱法，可以从混合物准确测定特定物质的浓度。[127]
+
+
+罗伯特·伯恩斯·伍德沃德、杰弗里·威尔金森和恩斯特·奥托·菲舍尔测定了二茂铁的结构，这是有机金属化学开创性的发现之一。 [128]
+
+
+1953年
+詹姆斯·杜威·沃森和弗朗西斯·克里克提出了DNA的结构，开创了分子生物学的新领域。[129]
+
+
+1957年
+延斯·克里斯蒂安·斯科发现了第一种离子运输酶钠钾泵。[130]
+
+
+1958年
+马克斯·佩鲁茨和约翰·肯德鲁使用X射线晶体学测定了抹香鲸肌红蛋白的结构。[131]
+
+
+1962年
+尼尔·巴特利特制得了第一种稀有气体化合物——六氟合铂酸氙。[132]
+
+
+乔治·安德鲁·欧拉通过超强酸的反应观测到碳正离子。[133]
+
+
+1964年
+理查德·恩斯特的实验导致了傅里叶变换核磁共振的出现。这项发现大大提高了核磁共振技术的敏感度，为核磁共振成像奠定了基础。[134]
+
+
+
+
+
+电脑合成的胰岛素六聚体图像，中心紫色的是二价锌离子和与其配位的6个组氨酸咪唑基，黄色的是二硫键。
+
+
+
+1965年
+罗伯特·伯恩斯·伍德沃德和罗德·霍夫曼提出了伍德沃德-霍夫曼规则，该规则使用分子轨道对称性来判断周环反应产物立体化学性质。[128]
+
+
+在王應睞的领导下，中国科学家邹承鲁、杜雨苍、汪猷、邢其毅、钮经义、龚岳亭等人成功人工合成牛胰岛素，其化学结构与天然牛胰岛素完全相同，并可用于治疗糖尿病。这是人类首次成功合成具有生物活性的物质。[135][136]。
+
+
+1966年
+野崎一和野依良治使用手性过渡金属配体发现了第一种不对称催化（氢化）的例子。[137][138]
+
+
+1970年
+约翰·波普开发了GAUSSIAN程序，大大简化了计算化学的运算。[139]
+
+
+1971年
+伊夫·肖万提出了烯烃复分解反应的机理。[140]
+
+
+1975年
+卡尔·巴里·夏普莱斯和他的团队发现了多个立体选择性的反应，包括夏普莱斯不对称环氧化反应、[141][142]夏普莱斯不对称双羟基化反应[143][144][145]和夏普莱斯不对称氨羟基化反应。[146][147][148]
+
+
+
+
+
+富勒烯（C60）
+
+
+
+1985年
+哈罗德·克罗托、罗伯特·柯尔和理查德·斯莫利发现了富勒烯。这是一大类碳的同素異形體，结构上与建筑师巴克敏斯特·富勒设计的多面穹顶类似。[149]
+
+
+1991年
+饭岛澄男使用電子顯微镜发现了一种圆柱形的富勒烯——碳奈米管。这是奈米科技的重大发现之一。[150]
+
+
+1994年
+紫杉醇全合成由罗伯特·霍尔顿和他的团队首次完成。[151][152][153]
+
+
+1995年
+埃里克·康奈尔和卡尔·威曼发现了玻色-爱因斯坦凝聚态，这是一种在宏观尺度上表现出量子力学性质的物质。[154]
+
+参见[编辑]
+
+化学史
+化学元素年表
+诺贝尔化学奖
+
+参考资料[编辑]
+
+
+^ Chemistry – The Central Science. The Chemistry Hall of Fame. York University. [2006-09-12]. 
+^ J. Gwyn Griffiths. The Orders of Gods in Greece and Egypt (According to Herodotus). The Journal of Hellenic Studies (The Society for the Promotion of Hellenic Studies). 1955, 75: 21–23 [2007-03-16]. JSTOR 10.2307/629164. doi:10.2307/629164. 
+^ Hoeller, Stephan A. On the Trail of the Winged God: Hermes and Hermeticism Throughout the Ages. Gnosis: A Journal of Western Inner Traditions (Vol. 40, Summer 1996) (The Gnosis Archive). 1996 [2007-03-11]. 
+^ Giese, Patsy Ann. Women in Science: 5000 Years of Obstacles and Achievements. SHiPS Resource Center for Sociology, History and Philosophy in Science Teaching. [2007-03-11]. （原始内容存档于2006-12-13）. 
+^ Strathern, Paul. Mendeleyev's Dream - The Quest For the Elements. New York: Berkley Books. 2000. ISBN 0-425-18467-6. 
+^ Levey, Martin. Early Arabic Pharmacology: An Introduction Based on Ancient and Medieval Sources. Brill Archive. 1973: 9. ISBN 9004037969. 
+^ 《尚书·洪范》
+^ Parry, Richard. Empedocles. Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, CSLI, Stanford University. 2005-03-04 [2007-03-11]. 
+^ Berryman, Sylvia. Leucippus. Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, CSLI, Stanford University. 2004-08-14 [2007-03-11]. 
+^ Berryman, Sylvia. Democritus. Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, CSLI, Stanford University. 2004-08-15 [2007-03-11]. 
+^ Hillar, Marian. The Problem of the Soul in Aristotle's De anima. NASA WMAP. 2004 [2006-08-10]. （原始内容存档于2006-09-09）. 
+^ HISTORY/CHRONOLOGY OF THE ELEMENTS. [2007-03-12]. 
+^ Sedley, David. Lucretius. Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, CSLI, Stanford University. 2004-08-04 [2007-03-11]. 
+^ 14.0 14.1 Strathern, Paul. Mendeleyev's Dream – The Quest for the Elements. Berkley Books. 2000. ISBN 0-425-18467-6. 
+^ 《The Genius of China》，Robert Temple。
+^ Needham，第五卷，第七分册，第293页。
+^ The World's Earliest Cannon (世界上最早的火炮). [2010-11-18] （Chinese）.  引文格式1维护：未识别语文类型 (link)
+^ 《太上圣祖金丹秘诀》，唐元和三年（808年），清虚撰
+^ 孙思邈 《丹经内伏硫磺法》
+^ 王兆春著 《中国军事科学通史》 解放军出版社 2010， 124页
+^ 王兆春著 《中国军事科学通史》 解放军出版社 2010， 125页
+^ Michael E. Marmura (1965). "An Introduction to Islamic Cosmological Doctrines. Conceptions of Nature and Methods Used for Its Study by the Ikhwan Al-Safa'an, Al-Biruni, and Ibn Sina by Seyyed Hossein Nasr", Speculum 40 (4), p. 744-746.
+^ Robert Briffault (1938). The Making of Humanity, p. 196-197.
+^ Forbes, Robert James. A short history of the art of distillation: from the beginnings up to the death of Cellier Blumenthal. BRILL. 1970 [2010-06-29]. ISBN 9789004006171. 
+^  "Robert Grosseteste" in the 1913 Catholic Encyclopedia
+^ Holmyard, Eric John. Alchemy. Courier Dover Publications. 1990: 288. ISBN 0486262987. 
+^ Emsley, John. Nature's Building Blocks: An A-Z Guide to the Elements. Oxford: Oxford University Press. 2001: 43,513,529. ISBN 0-19-850341-5. 
+^ Davidson, Michael W.; National High Magnetic Field Laboratory at The Florida State University. Molecular Expressions: Science, Optics and You — Timeline — Albertus Magnus. The Florida State University. 2003-08-01 [2009-11-28]. （原始内容存档于2010-03-30）.  引文使用过时参数coauthors (帮助)
+^ Vladimir Karpenko, John A. Norris(2001), Vitriol in the history of Chemistry, Charles University
+^ O'Connor, J. J.; Robertson, E. F. Roger Bacon. MacTutor. School of Mathematics and Statistics University of St Andrews, Scotland. 2003 [2007-03-12]. 
+^ Zdravkovski, Zoran; Stojanoski, Kiro. GEBER. Institute of Chemistry, Skopje, Macedonia. 1997-03-09 [2007-03-12]. （原始内容存档于2007-03-16）. 
+^ Encyclopedia Britannica 1911, Alchemy 互联网档案馆的存檔，存档日期2007-02-28.
+^ From liquid to vapor and back: origins. Special Collections Department. University of Delaware Library. [2007-03-12]. 
+^ Asarnow, Herman. Sir Francis Bacon: Empiricism. An Image-Oriented Introduction to Backgrounds for English Renaissance Literature. University of Portland. 2005-08-08 [2007-02-22]. （原始内容存档于2007-02-01）. 
+^ Sedziwój, Michal. infopoland: Poland on the Web. University at Buffalo. [2007-02-22]. （原始内容存档于2006-09-02）. 
+^ Crosland, M.P. (1959). "The use of diagrams as chemical 'equations' in the lectures of William Cullen and Joseph Black." Annals of Science, Vol 15, No. 2, Jun.
+^  "René Descartes" in the 1913 Catholic Encyclopedia
+^ Johann Baptista van Helmont. History of Gas Chemistry. Center for Microscale Gas Chemistry, Creighton University. 2005-09-25 [2007-02-23]. 
+^ 39.0 39.1 Robert Boyle. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-03）. 
+^ Cooper, Alan. Joseph Black. History of Glasgow University Chemistry Department. University of Glasgow Department of Chemistry. 1999 [2006-02-23]. （原始内容存档于2006-04-10）. 
+^ Seyferth, Dietmar. Cadet's Fuming Arsenical Liquid and the Cacodyl Compounds of Bunsen. Organometallics. 2001, 20 (8): 1488–1498. doi:10.1021/om0101947. 
+^ Partington, J.R. A Short History of Chemistry. Dover Publications, Inc. 1989. ISBN 0-486-65977-1. 
+^ Joseph Priestley. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-03）. 
+^ Carl Wilhelm Scheele. History of Gas Chemistry. Center for Microscale Gas Chemistry, Creighton University. 2005-09-11 [2007-02-23]. 
+^ "Lavoisier, Antoine." Encyclopædia Britannica. 2007. Encyclopædia Britannica Online. 24 July 2007 <http://www.britannica.com/eb/article-9369846>.
+^ 46.0 46.1 46.2 Weisstein, Eric W. Lavoisier, Antoine (1743–1794). Eric Weisstein's World of Scientific Biography. Wolfram Research Products. 1996 [2007-02-23]. 
+^ Jacques Alexandre César Charles. Centennial of Flight. U.S. Centennial of Flight Commission. 2001 [2007-02-23]. （原始内容存档于2007-02-24）. 
+^ Burns, Ralph A. Fundamentals of Chemistry. Prentice Hall. 1999: 32. ISBN 0023173513. 
+^ Proust, Joseph Louis (1754–1826). 100 Distinguished Chemists. European Association for Chemical and Molecular Science. 2005 [2007-02-23]. （原始内容存档于2008-05-15）. 
+^ Inventor Alessandro Volta Biography. The Great Idea Finder. The Great Idea Finder. 2005 [2007-02-23]. 
+^ 51.0 51.1 John Dalton. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-20）. 
+^ The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-03-02）. 
+^ December 6 Births. Today in Science History. Today in Science History. 2007 [2007-03-12]. 
+^ Jöns Jakob Berzelius. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-03）. 
+^ Michael Faraday. Famous Physicists and Astronomers. [2007-03-12]. 
+^ 56.0 56.1 56.2 Justus von Liebig and Friedrich Wöhler. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-03）. 
+^ William Prout. [2007-03-12]. （原始内容存档于2007-09-26）. 
+^ Hess, Germain Henri. [2007-03-12]. （原始内容存档于2007-02-09）. 
+^ Kolbe, Adolph Wilhelm Hermann. 100 Distinguished European Chemists. European Association for Chemical and Molecular Sciences. 2005 [2007-03-12]. （原始内容存档于2008-10-11）. 
+^ Weisstein, Eric W. Kelvin, Lord William Thomson (1824–1907). Eric Weisstein's World of Scientific Biography. Wolfram Research Products. 1996 [2007-03-12]. 
+^ History of Chirality. Stheno Corporation. 2006 [2007-03-12]. （原始内容存档于2007-03-07）. 
+^ Lambert-Beer Law. Sigrist-Photometer AG. 2007-03-07 [2007-03-12]. 
+^ Benjamin Silliman, Jr. (1816–1885). Picture History. Picture History LLC. 2003 [2007-03-24]. （原始内容存档于2007-07-07）. 
+^ William Henry Perkin. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-03-24]. （原始内容存档于2007-04-06）. 
+^ 65.0 65.1 Archibald Scott Couper and August Kekulé von Stradonitz. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-03）. 
+^ O'Connor, J. J.; Robertson, E.F. Gustav Robert Kirchhoff. MacTutor. School of Mathematics and Statistics University of St Andrews, Scotland. 2002 [2007-03-24]. 
+^ Eric R. Scerri, The Periodic Table: Its Story and Its Significance, Oxford University Press, 2006.
+^ Alexander Parkes (1813–1890). People & Polymers. Plastics Historical Society. [2007-03-24]. （原始内容存档于2007-03-15）. 
+^ 69.0 69.1 69.2 The Periodic Table. The Third Millennium Online. [2007-03-24]. 
+^ 70.0 70.1 Julius Lothar Meyer and Dmitri Ivanovich Mendeleev. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-28）. 
+^ C.M. Guldberg and P. Waage,"Studies Concerning Affinity" C. M. Forhandlinger: Videnskabs-Selskabet i Christiana (1864), 35
+^ P. Waage, "Experiments for Determining the Affinity Law" ,Forhandlinger i Videnskabs-Selskabet i Christiania, (1864) 92.
+^ C.M. Guldberg, "Concerning the Laws of Chemical Affinity", C. M. Forhandlinger i Videnskabs-Selskabet i Christiania (1864) 111
+^ John H. Lienhard. Johann Josef Loschmidt. The Engines of Our Ingenuity. 第1858集http://www.uh.edu/engines/epi1858.htm |transcripturl=缺少标题 (帮助). 2003. NPR. KUHF-FM Houston.  使用|accessdate=需要含有|url= (帮助)
+^ Adolf von Baeyer: The Nobel Prize in Chemistry 1905. Nobel Lectures, Chemistry 1901–1921. Elsevier Publishing Company. 1966 [2007-02-28]. 
+^ Jacobus Henricus van't Hoff. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-03）. 
+^ O'Connor, J. J.; Robertson, E.F. Josiah Willard Gibbs. MacTutor. School of Mathematics and Statistics University of St Andrews, Scotland. 1997 [2007-03-24]. 
+^ Weisstein, Eric W. Boltzmann, Ludwig (1844–1906). Eric Weisstein's World of Scientific Biography. Wolfram Research Products. 1996 [2007-03-24]. 
+^ Svante August Arrhenius. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-03-01）. 
+^ Jacobus H. van 't Hoff: The Nobel Prize in Chemistry 1901. Nobel Lectures, Chemistry 1901–1921. Elsevier Publishing Company. 1966 [2007-02-28]. 
+^ Emil Fischer: The Nobel Prize in Chemistry 1902. Nobel Lectures, Chemistry 1901–1921. Elsevier Publishing Company. 1966 [2007-02-28]. 
+^ Henry Louis Le Châtelier. World of Scientific Discovery. Thomson Gale. 2005 [2007-03-24]. 
+^ History of Chemistry. Intensive General Chemistry. Columbia University Department of Chemistry Undergraduate Program. [2007-03-24]. 
+^ Alfred Werner: The Nobel Prize in Chemistry 1913. Nobel Lectures, Chemistry 1901–1921. Elsevier Publishing Company. 1966 [2007-03-24]. 
+^ William Ramsay: The Nobel Prize in Chemistry 1904. Nobel Lectures, Chemistry 1901–1921. Elsevier Publishing Company. 1966 [2007-03-20]. 
+^ Joseph John Thomson. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. 
+^ Alfred Werner: The Nobel Prize in Physics 1911. Nobel Lectures, Physics 1901–1921. Elsevier Publishing Company. 1967 [2007-03-24]. 
+^ Marie Sklodowska Curie. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-22）. 
+^ 89.0 89.1 Ernest Rutherford: The Nobel Prize in Chemistry 1908. Nobel Lectures, Chemistry 1901–1921. Elsevier Publishing Company. 1966 [2007-02-28]. 
+^ Tsvet, Mikhail (Semyonovich). Compton's Desk Reference. Encyclopædia Britannica. 2007 [2007-03-24]. [失效連結]
+^ Physics Time-Line 1900 to 1949. Weburbia.com. [2007-03-25]. （原始内容存档于2007-04-30）. 
+^ Fritz Haber. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. 
+^ Cassidy, David. Einstein on Brownian Motion. The Center for History of Physics. 1996 [2007-03-25]. （原始内容存档于2007-02-06）. 
+^ Leo Hendrik Baekeland. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-03）. 
+^ Robert A. Millikan: The Nobel Prize in Physics 1923. Nobel Lectures, Physics 1922–1941. Elsevier Publishing Company. 1965 [2007-07-17]. 
+^ Søren Sørensen. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-07-15）. 
+^ Parker, David. Nuclear Twins: The Discovery of the Proton and Neutron. Electron Centennial Page. [2007-03-25]. 
+^ Solvay Conference. Einstein Symposium. 2005 [2007-03-28]. 
+^ The Nobel Prize in Physics 1915. Nobelprize.org. The Nobel Foundation. [2007-02-28]. 
+^ Peter Debye: The Nobel Prize in Chemistry 1936. Nobel Lectures, Chemistry 1922–1941. Elsevier Publishing Company. 1966 [2007-02-28]. 
+^ Niels Bohr: The Nobel Prize in Physics 1922. Nobel Lectures, Chemistry 1922–1941. Elsevier Publishing Company. 1966 [2007-03-25]. 
+^ Weisstein, Eric W. Moseley, Henry (1887–1915). Eric Weisstein's World of Scientific Biography. Wolfram Research Products. 1996 [2007-03-25]. 
+^ Frederick Soddy The Nobel Prize in Chemistry 1921. Nobel Lectures, Chemistry 1901–1921. Elsevier Publishing Company. 1966 [2007-03-25]. 
+^ Early Mass Spectrometry. A History of Mass Spectrometry. Scripps Center for Mass Spectrometry. 2005 [2007-03-26]. （原始内容存档于2007-03-03）. 
+^ 105.0 105.1 Gilbert Newton Lewis and Irving Langmuir. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-03）. 
+^ Electron Spin. [2007-03-26]. 
+^ LeMaster, Nancy; McGann, Diane. GILBERT NEWTON LEWIS: AMERICAN CHEMIST (1875–1946). Woodrow Wilson Leadership Program in Chemistry. The Woodrow Wilson National Fellowship Foundation. 1992 [2007-03-25]. （原始内容存档于2007-04-01）. 
+^ Louis de Broglie: The Nobel Prize in Physics 1929. Nobel Lectures, Physics 1922–1941. Elsevier Publishing Company. 1965 [2007-02-28]. 
+^ Wolfgang Pauli: The Nobel Prize in Physics 1945. Nobel Lectures, Physics 1942–1962. Elsevier Publishing Company. 1964 [2007-02-28]. 
+^ Erwin Schrödinger: The Nobel Prize in Physics 1933. Nobel Lectures, Physics 1922–1941. Elsevier Publishing Company. 1965 [2007-02-28]. 
+^ Werner Heisenberg: The Nobel Prize in Physics 1932. Nobel Lectures, Physics 1922–1941. Elsevier Publishing Company. 1965 [2007-02-28]. 
+^ Heitler, Walter; London, Fritz. Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik. Zeitschrift für Physik. 1927, 44: 455–472. Bibcode:1927ZPhy...44..455H. doi:10.1007/BF01397394. 
+^ Ivor Grattan-Guinness. Companion Encyclopedia of the History and Philosophy of the Mathematical Sciences. Johns Hopkins University Press, 2003, p. 1266.; Jagdish Mehra, Helmut Rechenberg. The Historical Development of Quantum Theory. Springer, 2001, p. 540.
+^ 114.0 114.1 114.2 Linus Pauling: The Nobel Prize in Chemistry 1954. Nobel Lectures, Chemistry 1942–1962. Elsevier Publishing Company. 1964 [2007-02-28]. 
+^ Wallace Hume Carothers. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-03）. 
+^ Rzepa, Henry S. The aromaticity of Pericyclic reaction transition states. Department of Chemistry, Imperial College London. [2007-03-26]. 
+^ Harold C. Urey: The Nobel Prize in Chemistry 1934. Nobel Lectures, Chemistry 1922–1941. Elsevier Publishing Company. 1965 [2007-03-26]. 
+^ James Chadwick: The Nobel Prize in Physics 1935. Nobel Lectures, Physics 1922–1941. Elsevier Publishing Company. 1965 [2007-02-28]. 
+^ William B. Jensen. Electronegativity from Avogadro to Pauling: II. Late Nineteenth- and Early Twentieth-Century Developments. Journal of Chemical Education. 2003, 80 (3): 279. Bibcode:2003JChEd..80..279J. doi:10.1021/ed080p279. 
+^ Emilio Segrè: The Nobel Prize in Physics 1959. Nobel Lectures, Physics 1942–1962. Elsevier Publishing Company. 1965 [2007-02-28]. 
+^ Eugene Houdry. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-03）. 
+^ Pyotr Kapitsa: The Nobel Prize in Physics 1978. Les Prix Nobel, The Nobel Prizes 1991. Nobel Foundation. 1979 [2007-03-26]. 
+^ Otto Hahn: The Nobel Prize in Chemistry 1944. Nobel Lectures, Chemistry 1942–1962. Elsevier Publishing Company. 1964 [2007-04-07]. 
+^ 124.0 124.1 Glenn Theodore Seaborg. Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005 [2007-02-22]. （原始内容存档于2007-02-03）. 
+^ History of the Elements of the Periodic Table. AUS-e-TUTE. [2007-03-26]. 
+^ The Nobel Prize in Physics 1952. Nobelprize.org. The Nobel Foundation. [2007-02-28]. 
+^ Hannaford, Peter. Alan Walsh 1916–1998. AAS Biographical Memoirs. Australian Academy of Science. [2007-03-26]. （原始内容存档于2007-02-24）. 
+^ 128.0 128.1 Cornforth, Lord Todd, John; Cornforth, J.; T., A. R.; C., J. W. Robert Burns Woodward. 10 April 1917-8 July 1979. Biographical Memoirs of Fellows of the Royal Society (JSTOR). November 1981, 27 (Nov., 1981): pp. 628–695. JSTOR 198111). doi:10.1098/rsbm.1981.0025.  引文格式1维护：冗余文本 (link) note: authorization required for web access.
+^ The Nobel Prize in Medicine 1962. Nobelprize.org. The Nobel Foundation. [2007-02-28]. 
+^ Skou J. The influence of some cations on an adenosine triphosphatase from peripheral nerves.. Biochim Biophys Acta. 1957, 23 (2): 394–401. PMID 13412736. doi:10.1016/0006-3002(57)90343-8. 
+^ The Nobel Prize in Chemistry 1962. Nobelprize.org. The Nobel Foundation. [2007-02-28]. 
+^ Simple experiment. National historic chemical landmarks. American Chemical Society. [2007-03-02]. （原始内容存档于2007-05-15）. ; Raber, L. Noble Gas Reactivity Research Honored. Chemical and Engineering News, July 3, 2006, Volume 84, Number 27, p. 43
+^ G. A. Olah, S. J. Kuhn, W. S. Tolgyesi, E. B. Baker, J. Am. Chem. Soc. 1962, 84, 2733; G. A. Olah, lieu. Chim. (Buchrest), 1962, 7, 1139 (Nenitzescu issue); G. A. Olah, W. S. Tolgyesi, S. J. Kuhn, M. E. Moffatt, I. J. Bastien, E. B. Baker, J. Am. Chem. Soc. 1963, 85, 1328.
+^ Richard R. Ernst The Nobel Prize in Chemistry 1991. Les Prix Nobel, The Nobel Prizes 1991. Nobel Foundation. 1992 [2007-03-27]. 
+^ 輝煌瞬間：解密人工合成胰島素 來源：《中國青年報》
+^ 关于向诺贝尔奖委员会推荐我国人工合成牛胰岛素成果的历史真相 薛攀皋 科学时报 互联网档案馆的存檔，存档日期2009-10-12.
+^ H. Nozaki, S. Moriuti, H. Takaya, R. Noyori, Tetrahedron Lett. 1966, 5239;
+^ H. Nozaki, H. Takaya, S. Moriuti, R. Noyori, Tetrahedron 1968, 24, 3655.
+^ W. J. Hehre, W. A. Lathan, R. Ditchfield, M. D. Newton, and J. A. Pople, Gaussian 70 (Quantum Chemistry Program Exchange, Program No. 237, 1970).
+^ Catalyse de transformation des oléfines par les complexes du tungstène. II. Télomérisation des oléfines cycliques en présence d'oléfines acycliques Die Makromolekulare Chemie Volume 141, Issue 1, Date: 9 February 1971, Pages: 161–176 Par Jean-Louis Hérisson, Yves Chauvin doi:10.1002/macp.1971.021410112
+^ Katsuki, T.; Sharpless, K. B. J. Am. Chem. Soc. 1980, 102, 5974. (doi:10.1021/ja00538a077)
+^ Hill, J. G.; Sharpless, K. B.; Exon, C. M.; Regenye, R. Org. Syn., Coll. Vol. 7, p.461 (1990); Vol. 63, p.66 (1985). (Article)
+^ Jacobsen, E. N.; Marko, I.; Mungall, W. S.; Schroeder, G.; Sharpless, K. B. J. Am. Chem. Soc. 1988, 110, 1968. (doi:10.1021/ja00214a053)
+^ Kolb, H. C.; Van Nieuwenhze, M. S.; Sharpless, K. B. Chem. Rev. 1994, 94, 2483–2547. (Review) (doi:10.1021/cr00032a009)
+^ Gonzalez, J.; Aurigemma, C.; Truesdale, L. Org. Syn., Coll. Vol. 10, p.603 (2004); Vol. 79, p.93 (2002). (Article)
+^ Sharpless, K. B.; Patrick, D. W.; Truesdale, L. K.; Biller, S. A. J. Am. Chem. Soc. 1975, 97, 2305. (doi:10.1021/ja00841a071)
+^ Herranz, E.; Biller, S. A.; Sharpless, K. B. J. Am. Chem. Soc. 1978, 100, 3596–3598. (doi:10.1021/ja00479a051)
+^ Herranz, E.; Sharpless, K. B. Org. Syn., Coll. Vol. 7, p.375 (1990); Vol. 61, p.85 (1983). (Article)
+^ The Nobel Prize in Chemistry 1996. Nobelprize.org. The Nobel Foundation. [2007-02-28]. 
+^ Benjamin Franklin Medal awarded to Dr. Sumio Iijima, Director of the Research Center for Advanced Carbon Materials, AIST. National Institute of Advanced Industrial Science and Technology. 2002 [2007-03-27]. （原始内容存档于2007-04-04）. 
+^ First total synthesis of taxol 1. Functionalization of the B ring Robert A. Holton, Carmen Somoza, Hyeong Baik Kim, Feng Liang, Ronald J. Biediger, P. Douglas Boatman, Mitsuru Shindo, Chase C. Smith, Soekchan Kim, et al.; J. Am. Chem. Soc.; 1994; 116(4); 1597–1598. DOI Abstract[失效連結]
+^ First total synthesis of taxol. 2. Completion of the C and D rings Robert A. Holton, Hyeong Baik Kim, Carmen Somoza, Feng Liang, Ronald J. Biediger, P. Douglas Boatman, Mitsuru Shindo, Chase C. Smith, Soekchan Kim, and et al. J. Am. Chem. Soc.; 1994; 116(4) pp 1599–1600 DOI Abstract[失效連結]
+^ A synthesis of taxusin Robert A. Holton, R. R. Juo, Hyeong B. Kim, Andrew D. Williams, Shinya Harusawa, Richard E. Lowenthal, Sadamu Yogai J. Am. Chem. Soc.; 1988; 110(19); 6558–6560. Abstract
+^ Cornell and Wieman Share 2001 Nobel Prize in Physics. NIST News Release. National Institute of Standards and Technology. 2001 [2007-03-27]. （原始内容存档于2007-06-10）. 
+
+
+扩展阅读[编辑]
+
+Servos, John W., Physical chemistry from Ostwald to Pauling : the making of a science in America, Princeton, N.J. : Princeton University Press, 1990. ISBN 0-691-08566-8
+
+外部链接[编辑]
+
+化学界著名人物
+埃里克·韦斯坦因世界科学传记
+气体化学的历史
+诺贝尔奖获得者列表
+元素周期表的历史
+化学年表
+
+
+
+
+
+分类：化学时间表化学史发明或发现列表隐藏分类：引文格式1维护：未识别语文类型含有过时参数的引用的页面Webarchive模板wayback链接含有访问日期但无网址的引用的页面含有裸露网址的引用的页面带有失效链接的条目条目有永久失效的外部链接引文格式1维护：冗余文本使用ISBN魔术链接的页面含有拉丁語的條目

@@ -1,0 +1,1561 @@
+网页浏览器
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+本条目可参照英語維基百科相應條目来扩充。 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+
+
+
+網頁瀏覽器的使用分佈（資料來源：StatCounter）
+
+
+
+
+互联网
+
+
+
+Opte项目（英语：Opte Project）互联网一部分的路由路径可视化
+
+
+
+
+
+概况
+
+
+
+存取
+审查
+民主
+数位落差
+数字权利
+信息自由
+互联网历史
+网络爆红
+网络中立性
+先驱者（英语：List of Internet pioneers）
+隐私
+社会学
+使用
+
+
+
+
+
+
+
+
+
+治理（英语：Internet governance）
+
+
+
+互联网名称与数字地址分配机构 (ICANN)
+
+互联网工程任务组
+
+互联网治理论坛（英语：Internet Governance Forum） (IGF)
+互联网协会(ISOC)
+
+
+
+
+
+
+
+
+
+协议
+
+
+
+域名系统(DNS)
+超文本传输协议(HTTP)
+互联网交换点（英语：Internet exchange point）(IXP)
+网际协议(IP)
+TCP/IP协议族(IPS)
+互联网服务供应商(ISP)
+IP地址
+IMAP
+简单邮件传输协议(SMTP)
+
+
+
+
+
+
+
+
+
+服务
+
+
+
+網誌(Blog)
+
+微博
+
+
+电子邮件(Email)
+传真
+文件共享
+文件传输（英语：File transfer）
+游戏
+即時通訊
+播客(Podcast)
+购物
+电视
+網際協議通話技術(VoIP)
+万维网
+
+搜索
+
+
+
+
+
+
+
+
+
+
+
+指南
+
+
+
+ 书
+ 索引（英语：Index of Internet-related articles）
+纲要（英语：Outline of the Internet）
+
+
+
+
+
+
+
+ 互联网主题
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+網頁瀏覽器（英语：web browser），常被简稱為瀏覽器，是一種用於檢索並展示全球資訊網資訊資源的應用程式。這些資訊資源可為網頁、圖片、影音或其他內容，它們由統一資源標誌符標誌。資訊資源中的超連結可使使用者方便地瀏覽相關資訊。
+網頁瀏覽器雖然主要用於使用全球資訊網，但也可用於獲取專用網絡中網頁伺服器之資訊或檔案系统內之檔案。
+主流網頁瀏覽器有Mozilla Firefox、Internet Explorer、Microsoft Edge、Google Chrome、Opera及Safari。
+
+
+
+目录
+
+
+1 歷史
+2 特點
+
+2.1 使用者介面
+2.2 隱私與安全
+2.3 可擴充性
+
+
+3 參考資料
+4 外部連結
+5 相關條目
+
+
+
+歷史[编辑]
+提姆·柏內茲-李於1990年發明了第一個網頁瀏覽器WorldWideWeb，此瀏覽器後改名為Nexus[1]。
+
+
+
+
+馬克·安德森，Netscape創造者
+
+
+Erwise是第一個普遍可用的使用GUI的網頁瀏覽器，由羅伯特·卡里奧發起開發[2]。
+1993年，馬克·安德森釋出Mosaic——「世界上最流行的瀏覽器」，進一步推動了瀏覽器的創新[3]，這使得全球資訊網更易於使用。安德森的瀏覽器引發了1990年代的網際網路熱潮。安德森是NCSA中Mosaic團隊的領導者，他不久後辭職並成立了自己的公司——Netscape[4]，釋出了受Mosaic影響的Netscape Navigator。Netscape Navigator很快便成為世界上最流行的瀏覽器，市佔率一度達到90%。
+作為應對，錯失了網際網路浪潮的微軟匆促購入了Spyglass公司的技術，釋出Internet Explorer。這引發了第一輪瀏覽器大戰。因捆綁於Windows，Internet Explorer於網頁瀏覽器市場取得了主導地位，其市佔率於2002年達到最高時超過95%[5]。
+
+
+
+
+NeXT平台的WorldWideWeb於1991年發表，是世界上第一個網頁瀏覽器[6]
+
+
+1996年，Opera首次亮相。它從未被廣泛使用，據Net Applications統計，截至2002年2月，Opera市佔率一直低於2%[7]。其Mini版本的市佔率在2011年4月達到瀏覽器總體使用量的1.1％，但主要集中在快速成長的手機網頁瀏覽器市場，預裝超過4000萬部手機。它也可以在其他幾個嵌入式系統上使用 ，包括任天堂的Wii電子遊樂器。
+1998年，Netscape公司以開放原始碼迎戰，創造了Mozilla Application Suite，但此舉未能挽回Netscape的市場佔有率。1998年底美國線上收購了Netscape公司。發展初期，Mozilla Application Suite計劃為了吸引開發者而掙扎；但至2002年，它已經發展成一個穩定而強大的網際網路套件。Mozilla Application Suite 1.0的出現被視為其里程碑。同年，衍生出Phoenix（後改名Firebird，最後又改為Firefox）。Firefox 1.0於2004年發表。及至2008年，Mozilla及其衍生產品約佔20%網路流量[8]。
+縱然Macintosh電腦上的瀏覽器市場亦曾同樣被Internet Explorer和Firefox佔據，但蘋果電腦自行推出的Safari因內建於蘋果產品，尤其是iPad、iPhone等等，所以在蘋果產品大眾化的風潮中迅速擴張版圖。Safari是基於Konqueror這個開放原始碼瀏覽器的KHTML排版引擎而製成的。Safari是OS X的預設瀏覽器。
+Google Chrome是一個由搜尋引擎龍頭Google開發的網頁瀏覽器。2012年5月，StatCounter調查報告中，稱Chrome的市場佔有率已經升至33%，超越Internet Explorer成為全球第一大瀏覽器[9]。 NetMarketShare的統計，2016年5月，Chrome瀏覽器在全球的桌上型電腦市佔率正式坐上龍頭寶座了。
+特點[编辑]
+主条目：網頁瀏覽器比較
+目前有各式各樣的網頁瀏覽器。有的網頁瀏覽器使用純文字介面，它們僅支持HTML；有的網頁瀏覽器具有豐富多彩的使用者介面，並支援多種檔案格式及協議。那些透過元件而支援電子信件、新聞組及IRC的網頁瀏覽器，有時被称為「網路套件」，而不僅僅是「網頁瀏覽器」[10][11][12]。
+所有主流網頁瀏覽器都可透過多個窗口或多個分頁同時打開多種資訊資源，亦可攔截彈出式廣告，以防止不必要的窗口在未經使用者同意的情況下彈出[13][14][15][16]。
+使用者介面[编辑]
+大部分主流網頁瀏覽器的使用者介面皆有如下要素[17]：
+
+「上一頁」與「下一頁」按鈕
+「重新整理」按鈕
+「首頁」按鈕
+位址列：顯示與輸入URI
+搜尋列
+可顯示頁面原始碼
+
+隱私與安全[编辑]
+大部分網頁瀏覽器皆支援HTTPS，並可快捷地清除頁庫存檔、Cookie及瀏覽記錄。
+可擴充性[编辑]
+瀏覽器擴充功能是一種擴充網頁瀏覽器功能的電腦程式。每個主流的網頁瀏覽器都支援擴充功能的開發。
+參考資料[编辑]
+
+
+^ Tim Berners-Lee: WorldWideWeb, the first Web client. W3.org. [2011-12-07]. 
+^ World Wide Web People - "Erwise" team. World Wide Web Consortium. 1999-10-26 [2010-06-15]. 
+^ Bloomberg Game Changers: Marc Andreessen. Bloomberg. 2011-03-17 [2011-12-07]. 
+^ Bloomberg Game Changers: Marc Andreessen. Bloomberg. 2011-03-17 [2011-12-07]. （原始内容存档于2012-07-08）. 
+^ Mozilla Firefox Internet Browser Market Share Gains to 7.4%. Search Engine Journal. 2004-11-24 [2011-12-07]. 
+^ Stewart, William. Web Browser History. [2008-02-02]. 
+^ StatCounter Global Stats – Browser, OS, Search Engine including Mobile Usage Share. [2 May 2015]. 
+^ Firefox Hits 20% Browser Share Worldwide. WIRED. 2008-11-04. 
+^ Top 5 Browsers from 1 Jan to 30 June 2012. StatCounter. [2013-09-21]. 
+^ The SeaMonkey Project. 2008-11-07 [2009-06-30]. 
+^ Cyberdog: Welcome to the 'doghouse!. 2009-07-05 [2009-06-30]. （原始内容存档于1998-12-12）. 
+^ Teelucksingh, Dev Anand. Interesting DOS programs. Opus Networkx. [2009-06-30]. 
+^ Andersen, Starr; Abella, Vincent. Part 5: Enhanced Browsing Security. Changes to Functionality in Microsoft Windows XP Service Pack 2. Microsoft. 15 September 2004 [30 June 2009]. 
+^ Pop-up blocker. Mozilla Foundation. [30 June 2009]. 
+^ Safari: Using The Pop-Up Blocker. Mac Tips and Tricks. WeHostMacs. 2004 [30 June 2009]. 
+^ Simple settings. Opera Tutorials. Opera Software. [30 June 2009]. 
+^ About Browsers and their Features. SpiritWorks Software Development. [2009-05-05]. 
+
+
+外部連結[编辑]
+
+全球資訊網的架構，第一篇 W3C
+WorldWideWeb：一個超文字專案的建議 W3C
+
+相關條目[编辑]
+
+
+互联网主题
+
+
+
+
+软件主题
+
+
+
+排版引擎
+網頁瀏覽器比較
+網頁瀏覽器列表
+網頁瀏覽器時間線
+行動瀏覽器
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+网页浏览器
+
+
+
+
+
+
+
+
+
+比較
+列表
+時間線
+使用率
+分類
+
+
+
+
+
+
+
+
+
+
+
+
+
+特點
+
+
+
+
+广告拦截（英语：Ad filtering）
+增强浏览（英语：Augmented browsing）
+書籤
+
+小书签
+即时书签（英语：Features of Firefox#Live bookmarks）
+智能书签（英语：Smart Bookmarks）
+
+
+瀏覽器擴充功能
+浏览器安全（英语：Browser security）
+浏览器同步器（英语：Browser synchronizer）
+
+比较（英语：Comparison of browser synchronizers）
+
+
+Cookie
+下载管理器
+Favicon
+增量查找（英语：Incremental search）
+插件
+隐私模式（英语：Privacy mode）
+分頁
+通用编辑按钮（英语：Universal Edit Button）
+
+
+
+
+
+
+
+
+
+網頁標準
+
+
+
+
+Acid測試（英语：Web Standards Project）
+HTML
+
+HTML5
+
+
+CSS
+SVG
+XHTML
+WebGL
+JavaScript
+数学置标语言
+
+
+
+
+
+
+
+
+
+协议
+
+
+
+
+超文本传输协议
+超文本传输安全协议
+在线证书状态协议
+SPDY
+傳輸層安全性協定
+WebSocket
+网络代理自动发现协议
+
+
+
+
+
+
+
+
+
+相關主題
+
+
+
+
+BrowserChoice.eu
+证书吊销列表
+iLoo（英语：iLoo）
+网络套件
+浏览器中间人攻击（英语：Man-in-the-browser）
+移动端网页（英语：Mobile Web）
+离线浏览
+代理自动配置
+Pwn2Own（英语：Pwn2Own）
+丰富互联网应用程序
+指定网站浏览器（英语：Site-specific browser）
+控件
+万维网
+XML
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+電腦平台
+
+
+
+
+
+
+
+
+
+
+
+Blink排版引擎
+
+
+
+
+Chromium
+
+Brave
+Google Chrome
+科摩多龙安全浏览器
+SRWare Iron
+SuperBird
+Catalina Citrio
+CocCoc Corom
+
+
+Opera（15～）
+七星瀏覽器
+Vivaldi
+Coowon
+Orbitum
+PlayFree
+Beamrise
+BlackHawk
+uCoz Uran
+Baidu Spark
+Jutao Caimao
+Torch
+Yandex Browser
+Ortigra Titanium
+Rambler Nichrome
+Ishenyou 265gChrome
+HiddenReflex EpicPrivacy
+
+
+
+
+
+
+
+
+
+Gecko排版引擎
+
+
+
+
+Firefox
+
+Cyberfox
+Waterfox
+IceWeasel
+Comodo IceDragon
+
+
+Galeon
+K-Meleon
+GNU IceCat
+SwiftWeasel
+XB Browser
+Camino
+
+Beonex Communicator
+SeaMonkey
+Netscape
+
+
+
+
+
+
+
+
+
+
+
+Trident排版引擎
+
+
+
+
+Internet Explorer
+GreenBrowser
+SlimBrowser
+2345王牌瀏覽器
+MyIE
+KKman
+PCMan Combo
+MSN Explorer
+WebbIE
+MenuBox
+Crazy Browser
+Deepnet Explorer
+GOSURF
+iRider
+mxie
+NeoPlanet
+AOL Explorer
+Deepnet Explorer
+NeoPlanet
+NetCaptor
+MediaBrowser
+SpaceTime
+UltraBrowser
+
+
+
+
+
+
+
+
+
+WebKit排版引擎
+
+
+
+
+Safari
+Konqueror
+Epiphany（2.28～）
+ICab（4.0～）
+OmniWeb（4.0～）
+ABrowse
+Uzbl
+Dooble
+Midori
+QupZilla
+Rekonq
+SkyKruzer
+Arora
+Flock
+Shiira
+
+
+
+
+
+
+
+
+
+EdgeHTML排版引擎
+
+
+
+
+Microsoft Edge
+
+
+
+
+
+
+
+
+
+混合排版引擎
+
+
+
+
+Sleipnir
+Lunascape
+Netscape Browser
+獵豹浏览器
+淘寶浏览器
+百度浏览器
+爱帆浏览器
+枫树浏览器
+太陽花瀏覽器
+世界之窗浏览器
+360极速浏览器
+搜狗浏览器（2.0～）
+傲游浏览器（3.0～）
+QQ浏览器（5.0～）
+
+
+
+
+
+
+
+
+
+其他排版引擎
+
+
+
+
+abaco
+Amaya
+KidZui
+Charon
+Dillo
+Gazelle
+IBM Watson Explorer
+NetSurf
+Arachne（英语：Arachne (web browser)）
+Arena
+IBM Home Page Reader
+IBrowse
+Mosaic
+Mothra（英语：Mothra (web browser)）
+NetPositive
+PaleMoon（26～）
+
+
+
+
+
+
+
+
+
+純文字排版引擎
+
+
+
+
+ELinks
+Links
+Lynx
+W3m
+Emacs/W3
+Line Mode Browser
+Net-Tamer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+行動平台
+
+
+
+
+
+
+
+
+
+
+
+Blink排版引擎
+
+
+
+
+Google Chrome
+Android瀏覽器
+Opera手機瀏覽器
+Silk（英语：Amazon Silk）
+
+
+
+
+
+
+
+
+
+Gecko排版引擎
+
+
+
+
+Firefox for Android
+MicroB
+Minimo
+
+
+
+
+
+
+
+
+
+WebKit排版引擎
+
+
+
+
+Safari
+海豚浏览器
+S60 web browser
+Steel
+BOLT
+Firefox for iOS
+
+
+
+
+
+
+
+
+
+Presto排版引擎
+
+
+
+
+Opera Mini (on Extreme/Mini modes)
+
+
+
+
+
+
+
+
+
+Trident排版引擎
+
+
+
+
+傲游云浏览器
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+Internet Explorer Mobile
+Konqueror
+Blazer
+ibisBrowser
+Iris Browser
+NetFront
+Obigo Browser
+Skweezer
+Skyfire
+Teashark
+ThunderHawk
+UC浏览器
+uZard Web
+Vision
+WinWAP
+Smooz(ja)
+Deepfish
+Galio
+Microsoft Edge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+電視機和电子游戏机
+
+
+
+
+
+
+
+
+
+
+
+Gecko排版引擎
+
+
+
+
+Kylo
+
+
+
+
+
+
+
+
+
+Presto排版引擎
+
+
+
+
+Internet Channel
+Opera設備瀏覽器
+Nintendo 3DS Internet Browser
+
+
+
+
+
+
+
+
+
+WebKit排版引擎
+
+
+
+
+Google TV
+NetFront
+Steam
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+MSN TV
+Galio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+刪除線格式為停止開發的項目
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+網頁瀏覽器時間線
+
+
+
+
+
+
+
+
+
+
+ 
+1990年代
+
+
+
+
+
+
+
+
+
+
+
+1990年
+
+
+
+
+WorldWideWeb（Nexus）
+
+
+
+
+
+
+
+
+
+1991年
+
+
+
+
+Line Mode Browser
+
+
+
+
+
+
+
+
+
+1992年
+
+
+
+
+Erwise
+Lynx
+MacWWW
+MidasWWW
+tkWWW（英语：tkWWW）
+ViolaWWW
+
+
+
+
+
+
+
+
+
+1993年
+
+
+
+
+AMosaic
+Arena
+Cello
+Emacs/W3（英语：Emacs/W3）
+NCSA Mosaic
+VMS Mosaic
+
+
+
+
+
+
+
+
+
+1994年
+
+
+
+
+AirMosaic
+ANT Fresco（英语：Fresco (web browser)）
+Argo（英语：Argo (web browser)）
+IBM WebExplorer（英语：IBM WebExplorer）
+SlipKnot（英语：SlipKnot (web browser)）
+Minuet（英语：Minnesota Internet Users Essential Tool）
+Navipress（英语：AOLpress）
+Netscape Navigator
+Spyglass Mosaic
+TCP/Connect II（英语：InterCon_Systems_Corporation#TCP.2FConnect_II）
+
+
+
+
+
+
+
+
+
+1995年
+
+
+
+
+Agora（英语：Agora (web browser)）
+ALynx
+AMSD Ariadna（英语：AMSD Ariadna）
+Cyberjack（英语：Cyberjack）
+eWorld Web Browser（英语：InterCon_Systems_Corporation#WebShark）
+Grail（英语：Grail (web browser)）
+Internet Explorer 1
+Internet Explorer 2
+Netscape Navigator 2
+NetShark（英语：InterCon_Systems_Corporation#NetShark）
+OmniWeb
+HotJava
+UdiWWW（英语：UdiWWW）
+WebShark（英语：InterCon_Systems_Corporation#WebShark）
+
+
+
+
+
+
+
+
+
+1996年
+
+
+
+
+Cyberdog
+Arachne（英语：Arachne (web browser)）
+AWeb（英语：AWeb）
+IBrowse（英语：IBrowse）
+Amaya
+Internet Explorer 3
+Netscape Navigator 3
+Opera 2
+Oracle PowerBrowser（英语：Oracle PowerBrowser）
+tcpCONNECT4（英语：InterCon Systems Corporation）
+Voyager（英语：Voyager (web browser)）
+
+
+
+
+
+
+
+
+
+1997年
+
+
+
+
+Netscape Communicator
+Internet Explorer 4
+Opera 3
+
+
+
+
+
+
+
+
+
+1998年
+
+
+
+
+NeoPlanet（英语：NeoPlanet）
+Mozilla Application Suite
+
+
+
+
+
+
+
+
+
+1999年
+
+
+
+
+iCab
+Internet Explorer 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+2000年代
+
+
+
+
+
+
+
+
+
+
+
+2000年
+
+
+
+
+Beonex Communicator
+Galeon
+K-Meleon
+MediaBrowser（英语：MediaBrowser）
+Netscape 6
+Opera 4-5
+
+
+
+
+
+
+
+
+
+2001年
+
+
+
+
+Internet Explorer 6
+Opera 6
+
+
+
+
+
+
+
+
+
+2002年
+
+
+
+
+Camino
+Epiphany
+Netscape 7
+
+
+
+
+
+
+
+
+
+2003年
+
+
+
+
+Maxthon
+Opera 7
+Safari
+
+
+
+
+
+
+
+
+
+2004年
+
+
+
+
+Firefox
+
+
+
+
+
+
+
+
+
+2005年
+
+
+
+
+AOL Explorer（英语：AOL Explorer）
+Deepnet Explorer（英语：Deepnet Explorer）
+Firefox 1.5
+Opera 8
+Safari 2
+
+
+
+
+
+
+
+
+
+2006年
+
+
+
+
+Firefox 2.0
+Internet Explorer 7
+Opera 9
+
+
+
+
+
+
+
+
+
+2007年
+
+
+
+
+Opera 9.5
+Safari 3
+
+
+
+
+
+
+
+
+
+2008年
+
+
+
+
+Google Chrome
+Firefox 3
+
+
+
+
+
+
+
+
+
+2009年
+
+
+
+
+Google Chrome 2-3
+Firefox 3.5
+Internet Explorer 8
+Opera 10
+Safari 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+2010年代
+
+
+
+
+
+
+
+
+
+
+
+2010年
+
+
+
+
+Google Chrome 4-8
+Firefox 3.6
+Lunascape 6.0.1
+Opera 11
+Safari 5
+
+
+
+
+
+
+
+
+
+2011年
+
+
+
+
+Google Chrome 9-16
+Firefox 4
+Firefox 5–9
+Internet Explorer 9
+Lunascape 6.5
+Opera 12
+
+
+
+
+
+
+
+
+
+2012年
+
+
+
+
+Google Chrome 17-23
+Firefox 10–17
+Lunascape 6.7
+Internet Explorer 10
+Safari 6
+
+
+
+
+
+
+
+
+
+2013年
+
+
+
+
+Google Chrome 24-31
+Firefox 18–26
+Internet Explorer 11
+Opera 15-18
+Safari 7
+
+
+
+
+
+
+
+
+
+2014年
+
+
+
+
+Google Chrome 32-36
+Firefox 27–31
+Lunascape 6.9
+NetSurf 3.1
+Opera 19-23
+Safari 8
+
+
+
+
+
+
+
+
+
+2015年
+
+
+
+
+Brave
+Google Chrome 40–47
+Firefox 35–43
+Lunascape 6.10-6.11
+Opera 27–34（英语：History of the Opera web browser）
+SeaMonkey 2.32–
+Microsoft Edge 12–13
+Safari 9
+Vivaldi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+相關
+
+
+
+
+
+
+
+
+
+3DMLW（英语：3DMLW）
+Aliweb（英语：Aliweb）
+ARPANET
+ASCII
+BITNET
+瀏覽器大戰
+CompuServe
+Elm
+Email
+File Transfer Protocol
+Gopher
+HTML
+HyperCard
+HyTelnet（英语：HyTelnet）
+NCSA Telnet（英语：NCSA Telnet）
+NLS（英语：NLS (computer system)）
+Prodigy（英语：Prodigy (online service)）
+Teletext
+Telnet
+Usenet
+UUCP
+Videotex（英语：Videotex）
+Viewdata（英语：Viewdata）
+Virtual Reality Markup Language
+Web page
+Whole Internet User's Guide and Catalog（英语：Whole Internet User's Guide and Catalog）
+World Wide Web
+X.25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：網頁瀏覽器英国发明隐藏分类：需要從英語維基百科翻譯的條目有蓝链却未移除内部链接助手模板的页面

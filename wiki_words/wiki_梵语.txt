@@ -1,0 +1,2484 @@
+梵语
+
+
+梵语
+
+
+संस्कृतम्
+saṃskṛtam
+
+
+发音
+[sə̃skɹ̩t̪əm]
+
+
+区域
+印度、孟加拉、尼泊爾、斯里蘭卡
+
+
+母语使用人数
+14,135[1]（2001）
+
+
+語系
+
+印欧语系
+
+印度-伊朗语族
+
+印度-雅利安语支
+
+梵语
+
+
+
+
+
+
+
+
+
+文字
+天城文和其他婆羅米系文字，拉丁字母轉寫
+
+
+官方地位
+
+
+作为官方语言
+印度（印度公认的国家语言之一）[2]
+
+
+語言代碼
+
+
+ISO 639-1
+sa
+
+
+ISO 639-2
+san
+
+
+ISO 639-3
+san
+
+
+梵语（संस्कृता वाक्，saṃskṛtā vāk，簡稱संस्कृतम्，saṃskṛtam）是印欧语系的印度-伊朗語族的印度-雅利安语支的一种语言[3]，是印歐語系最古老的語言之一。和拉丁語一樣，梵語已經成為一種屬於學術和宗教的專門用語。
+印度教經典《吠陀經》即用梵文寫成。其語法和發音均視作一種宗教儀規而得以絲毫不差地保存下來。19世紀時梵語成為重構印歐諸語言的關鍵語種。古印度相信梵文是由梵天發明[4]。
+
+
+
+目录
+
+
+1 歷史
+
+1.1 吠陀梵語
+1.2 古典梵語
+1.3 歐洲學術
+
+
+2 語音體系
+
+2.1 元音
+2.2 輔音
+2.3 音韻和連接音變
+
+
+3 語法
+
+3.1 語法傳統
+3.2 動詞
+
+3.2.1 動詞分類
+3.2.2 時態系統
+
+3.2.2.1 現在時系統
+3.2.2.2 完成時系統
+3.2.2.3 不定過去時系統
+3.2.2.4 將來時系統
+
+
+3.2.3 動詞變位
+
+3.2.3.1 基本變位詞尾
+
+
+3.2.4 例子
+
+
+3.3 名詞
+
+3.3.1 基本名詞和形容詞變格
+3.3.2 a-詞幹
+3.3.3 i-詞幹和u-詞幹
+3.3.4 單音節詞幹
+3.3.5 ṛ-詞幹
+
+
+3.4 人稱代詞和限定詞
+3.5 合成詞
+3.6 句法
+3.7 数词
+
+
+4 文字
+
+4.1 羅馬化
+4.2 古代書體
+
+
+5 影響
+
+5.1 復興努力
+5.2 梵語对汉语的影响
+5.3 計算語言學
+
+
+6 參見
+7 参考文献
+
+7.1 引用
+7.2 来源
+
+
+8 外部連結
+
+
+
+歷史[编辑]
+
+
+
+
+在尼泊爾境內發現的寫在棕櫚葉上的梵文（11世紀）
+
+
+梵語是印欧语系的印度-伊朗語族的印度-雅利安语支的一种语言。與它關係最密切的上古語言是伊朗語支的古波斯語和阿維斯陀語[5]。在印歐語系範圍內，梵語同噝音語言（特別是斯拉夫語言和波羅的語言）還有希臘語共享相同的特征性語音演變[6]。
+已證實的最早梵語文本是印度教的梨俱吠陀，定位在旁遮普地區，时间为公元前第二個千年的中後期。雖然找不到這么早期的文本，但學者確信文本的口頭傳播是可靠的，並且認為這是對宗教传承至關重要的儀式文獻[7]。
+要探討從梨俱吠陀到波你尼時代（大約公元前四世紀）梵語的發展，可以考察印度教其它文本，如娑摩吠陀、夜柔吠陀、阿闥婆吠陀、梵書和奧義書。在此期間，這門語言的威望、它的神圣用途及其正確发音的重要性，形成了一股強大的保守力量，防止梵語像普通語言一样隨時間而演變[8]。
+现存最古老的梵語文法是波你尼的《八篇书》，大約於公元前四世紀成形。它本質上是規範性文法，就是說它定義（而非描述）了正確梵語的用法，儘管它包含了描述成分，但大多是處理在波你尼時代已經廢棄了的某些吠陀形式。
+這裡所说的“梵語”不作脫離於其他語言的特殊語言看待，而是視作講話的高雅纯正或完美方式。通過梵語文法家如波你尼的精密分析，梵語的知識在古印度是社會等級层次高和教育程度高的標誌，並主要教授給高等世襲階級的成員。梵語作為古印度的學術語言，與俗語同时共存，而俗語演化成了中古印度-雅利安語方言，並最終演化成了當代的各種印度-雅利安语言。
+吠陀梵語[编辑]
+主条目：吠陀梵語
+波你尼所定義的梵語是從更早的“吠陀”形式演化出來的。學者經常把吠陀梵語和古典或“波你尼”梵語區分為不同的方言。儘管它們非常類似，但在音韻、詞匯和語法幾方面，本質上有所不同，令學者難以理解吠陀。吠陀梵語是吠陀的語言，用它撰寫的，有一大批贊美詩、咒語（本集）、神學討論和宗教哲學討論（梵書、奧義書），是印度教的最早宗教文本。現代語言學家認為梨俱吠陀結集的韻律赞美詩是最早的，是眾多作者的作品，經歷多個世紀的口頭傳承，終獲記錄為文字。奧義書標誌着吠陀時期的結束，它形成了吠陀文集傳統編撰的最后部分。目前的假定是：吠陀形式的梵語存活到公元前第一個千年的中期。大約在這個時期梵語開始從宗教和學習的第一語言轉變為第二語言，這標誌着古典時期的開始。
+古典梵語[编辑]
+近兩千年來，梵語深深影響著南亞、中亞、東南亞，其影響甚至滲至東亞地區[9]後吠陀梵語其中一種形式，頗為重要，可以在印度神話—《罗摩衍那》和《摩诃婆罗多》的梵語文本中找到。在這些史詩，用語偏離波你尼规定，相信是受到俗語的干擾，或者是革新而致，而不是因為它們早于波你尼[10]。傳統梵語學者稱這些偏離現象為ārṣa（意：“出自圣哲的”），這是對古代作者的傳統稱謂。在某些地方，用語也比嚴謹的古典梵語更為通俗。此外，學者還提出一種叫做佛教混合梵語的語言，原本是佛教俗語文本，其後或多或少收了一點古典梵語，演變成了獨特的語體[11]。
+據Tiwari (1955)所指，古典梵語有四大方言，即paścimottarī（西北部），madhyadeśī（中部），pūrvi（東部）和dakṣiṇī（南部，於古典時期冒起）。前三者的前身甚至可在吠陀梵書中驗證得到，以第一種為最正宗（Kauṣītaki Brāhmaṇa, 7.6）。
+歐洲學術[编辑]
+在歐洲，梵語的學術研究，由德國學者陸特（Heinrich Roth，1620－1668年）和汉斯雷顿（Johann Ernst Hanxleden，1681－1731年）開創。後來威廉·瓊斯發現印歐語系，也要歸功於對梵語的研究。此外，梵語研究，也對西方文字學及歷史語言學的發展，貢獻不少。
+1786年2月2日，亞洲協會在加爾各答舉行。會中，威廉·瓊斯發表了下面這段著名的言論：
+
+「梵語儘管非常古老，構造卻精妙絕倫：比希臘語還完美，比拉丁語還豐富，精緻之處同時勝過此兩者，但在動詞詞根和語法形式上，又跟此兩者無比相似，不可能是巧合的結果。這三種語言太相似了，使任何同時稽考三者的語文學家都不得不相信三者同出一源，出自一種可能已經消逝的語言。基於相似的原因，儘管缺少同樣有力的證據，我們可以推想哥德語和凱爾特語，雖然混入了迥然不同的語彙，也與梵語有著相同的起源；而古波斯語可能也是這一語系的子裔。」
+
+語音體系[编辑]
+参见：式叉
+
+
+
+
+
+
+
+本页面包含国际音标符号，部分操作系统及浏览器需要特殊字母与符号支持才能正確显示为正确的IPA符号，否则可能出现乱码、问号、空格等其它符号。
+
+
+古典梵語區分36個音位。但是由於梵語書寫系統表示出了某些同位異音，所以區分了48個語音。
+音素傳統上按元音（aC），雙元音（haL），anusvāra和visarga，塞音（Sparśa）與鼻音（從嘴的后部開始向前移），和最終的流音與擦音的次序排列，用IAST排列如下（詳見后面的表格）:
+
+a ā i ī u ū ṛ ṝ ḷ ḹ
+e ai o au
+ṃ ḥ
+k kh g gh ṅ
+c ch j jh ñ
+ṭ ṭh ḍ ḍh ṇ
+t th d dh n
+p ph b bh m
+y r l v
+ś ṣ s h
+
+另一個可選的傳統排列次序是波你尼的濕婆經。
+元音[编辑]
+古典梵語的元音和它們的詞首天城文符號，在輔音邊上的變音符號，IAST轉寫，IPA表示的發音及其特征描述，與最近似的英語等價者（預設GA）和漢語近似者（普通話）列出如下：
+
+
+字母
+附標
+IAST
+音標
+發音特征
+英語等值
+漢語近似
+
+
+अ
+
+a
+/ə/（或/ɐ/）
+中央元音（或短次開央元音）
+about（或bunny）
+e（鵝）
+
+
+आ
+ा
+ā
+/ɑː/
+長開后不圓唇元音
+father（RP）
+a（啊）長音
+
+
+इ
+ि
+i
+/i/
+短閉前不圓唇元音
+england
+i（衣）
+
+
+ई
+ी
+ī
+/iː/
+長閉前不圓唇元音
+feet
+i（衣）長音
+
+
+उ
+ु
+u
+/u/
+短閉后圓唇元音
+put
+u（烏）
+
+
+ऊ
+ू
+ū
+/uː/
+長閉后圓唇元音
+cool
+u（烏）長音
+
+
+ऋ
+ृ
+ṛ
+/ɻ/
+短卷舌近音
+burl
+ri（日）
+
+
+ॠ
+ॄ
+ṝ
+/ɻː/
+長卷舌近音
+
+
+
+
+ऌ
+ॢ
+ḷ
+/ɭ/
+短卷舌邊近音
+
+
+
+
+ॡ
+ॣ
+ḹ
+/ɭː/
+長卷舌邊近音
+
+
+
+
+ए
+े
+e
+/eː/
+長半閉前不圓唇元音
+eight
+ei（诶）長音
+
+
+ऐ
+ै
+ai
+/ai/（或/əi/）
+雙元音
+aisle
+ai（哀）長音
+
+
+ओ
+ो
+o
+/oː/
+長半閉后圓唇元音
+pole
+ou（歐）長音
+
+
+औ
+ौ
+au
+/au/（或/əu/）
+雙元音
+loud
+au（熬）長音
+
+
+長元音按它們的短元音的兩倍長度發音。多數元音還存在叫做pluti的第三個超長的長度，它用於各種情況下，但更特別用於呼格中。這個pluti不被所有文法家所接受。
+元音/e/和/o/延續為原始印度-伊朗語/ai/、/au/的同位異音，并被梵語語法家歸類為雙元音，尽管他們在發音上實為簡單的長元音。（見上）
+梵語的ṛ和ṝ被稱為“元音r”[12]，它們被認為對應於原始印歐語中最初的元音“l”或“r”[12]。文法家波你尼把它們分類為卷舌音[13]，因而它們的發音在古典梵語中被認為是卷舌近音[ɻ]（大約公元前500年）。更早的文法家把它們在吠陀時代的聲音分類為軟腭音[13]。當包含這些音的梵語詞被借用到現代印度-雅利安語如印地語或尼泊爾語的時候，它們的發音分別變更為[ɾɪ]或[ɾiː][14]，導致了從Kṛṣṇa形成“Krishna”，從ṛgveda形成“Rigveda”，這種發音也流行於當代梵學家中[15]。
+補充要點：
+
+有些補充的記號在傳統上列入天城文表格中：
+
+變音符號ं叫做anusvāra，（IAST：ṃ）。它用來指示音節中元音的鼻音化（[◌̃]）和用來表示一個音節主音/n/或/m/的聲音二者；比如पं /pəŋ/。
+變音符號ः叫做visarga，表示/əh/ (IAST：ḥ)；比如पः /pəh/。
+變音符號ँ叫做candrabindu，傳統上不包括在梵語的天城文表格中，它可與anusvāra互換用來指示元音的鼻音化，主要用在吠陀記號中，比如पँ /pə̃/。
+
+
+如果需要寫出不帶任何隨後元音的單獨輔音，可以用其下的halanta/virāma變音符號्标出。
+梵語的元音ā比最接近的英語近似發音/ɑː/更加接近中央和更少向后。但是文法家把它歸類為后元音[16]。
+古代梵語文法家把元音系統分類為軟腭音、卷舌音、硬腭音和唇音，而不是后元音、央元音和前元音。因此ए和ओ被分別歸類為軟腭-硬腭（a+i）和軟腭- 唇（a+u）元音。但是文法家已經把它們分類為雙元音，并在詩韻中每個都給出兩個mātrā。這不必然意味著它們是真正的雙元音，但也不能排除它們在非常遠古的時候是真正的雙元音（見上）。這些元音被當代學習梵語的婆羅門和神職人员分別發為長/eː/和/oː/。除了這四個雙元音，梵語通常不允許任何其他雙元音，在出現連續元音的地方，要依據連接音變規則轉換出半元音。
+有爭論說在吠陀梵語中，अ指示短/ɑ/，而在俗語時代發音位置變得更中央和突起[17]。
+
+輔音[编辑]
+列出IAST和天城文符號，在方括號中附有近似的IPA值。
+
+
+
+唇音
+Ōshtya
+唇齒音
+Dantōshtya
+齒音
+Dantya
+卷舌音
+Mūrdhanya
+硬腭音
+Tālavya
+軟腭音
+Kanthya
+聲門音
+
+
+塞音
+Sparśa
+不送氣
+Alpaprāna
+p प [p]
+b ब [b]
+
+t त [t]
+d द [d]
+ṭ ट [ʈ]
+ḍ ड [ɖ]
+c च [c͡ç]
+j ज [ɟ͡ʝ]
+k क [k]
+g ग [g]
+
+
+
+送氣
+Mahāprāna
+ph फ [pʰ]
+bh भ [bʱ]
+
+th थ [tʰ]
+dh ध [dʱ]
+ṭh ठ [ʈʰ]
+ḍh ढ [ɖʱ]
+ch छ [c͡çʰ]
+jh झ [ɟ͡ʝʱ]
+kh ख [kʰ]
+gh घ [gʱ]
+
+
+
+鼻音
+Anunāsika
+m म [m]
+
+n न [n]
+ṇ ण [ɳ]
+ñ ञ [ɲ]
+ŋ ङ [ŋ]
+
+
+
+半元音
+Antastha
+
+v व [ʋ]
+
+
+y य [j]
+
+
+
+
+流音
+Drava
+
+
+l ल [l]
+r र [r]
+
+
+
+
+
+擦音
+Ūshman
+
+
+s स [s]
+ṣ ष [ʂ]
+ś श [ɕ]
+
+ḥ ः [h]
+h ह [ɦ]
+
+
+下表給出梵語輔音的傳統列表，帶有英語（按標準美國音和標準英國音來發音）和西班牙語的最接近音，及常用漢語（普通話）對音。下表中展示的每個輔音都假定跟隨著中性元音schwa（/ə/）。
+
+塞音– Sparśa
+
+
+不送氣
+清音
+Alpaprāna Śvāsa
+送氣
+清音
+Mahāprāna Śvāsa
+不送氣
+濁音
+Alpaprāna Nāda
+送氣
+濁音
+Mahāprāna Nāda
+鼻音
+Anunāsika Nāda
+
+
+軟腭音
+Kantya
+क /k/ 
+漢語：ge（哥），英語：skip
+ख /kʰ/ 
+漢語：ke（科），英語：cat
+ग /g/
+英語：game
+घ /gʱ/
+ङ /ŋ/
+漢語：河北方言ng-e（饿），英語：ring
+
+
+硬腭音
+Tālavya
+च /c, ʧ/
+漢語清捲舌塞擦音：zhe（着），英語：exchange
+छ /cʰ, ʧʰ/
+漢語送氣清捲舌塞擦音：che（车），英語：church
+ज /ɟ, ʤ/
+英語：jam
+झ /ɟʱ, ʤʱ/
+ञ /ɲ/
+西班牙語：enseñar
+
+
+卷舌音
+Mūrdhanya
+ट /ʈ/
+ठ /ʈʰ/
+ड /ɖ/
+ढ /ɖʱ/
+ण /ɳ/
+
+
+舌尖-齒音
+Dantya
+त /t̪/
+漢語齒齦音：de（得），西班牙語：tomate
+थ /t̪ʰ/
+漢語齒齦音：te（特）
+द /d̪/
+西班牙語：donde
+ध /d̪ʱ/
+न /n̪/ 
+漢語齒齦音：ne（訥），英語齒齦音：name
+
+
+唇音
+Ōshtya
+प /p/
+漢語：bo（玻），英語：spin
+फ /pʰ/
+漢語：po（坡），英語：pit
+ब /b/
+英語：bone
+भ /bʱ/
+म /m/
+漢語：mo（摸），英語：mine
+
+
+
+非塞音/響音
+
+
+硬腭音
+Tālavya
+卷舌音
+Mūrdhanya
+齒音
+Dantya
+唇齒音/聲門音
+Dantōṣṭya/—
+
+
+近音
+Antastha
+य /j/
+漢語：ye（耶），英語：you
+र /ɻ , ɾ, r/
+漢語：无此音，舌尖颤音，即俄语大舌音，re（日），GA英語齒齦閃音：better
+ल /l̪/
+漢語齒齦音：le（勒），英語齒齦音：love
+व /ʋ/
+漢語濁圓唇軟腭近音：wo（我），英語濁擦音：vase
+
+
+噝擦音/擦音
+Ūshman
+श /ɕ, ʃ/
+漢語清捲舌擦音：shi（师），英語：ship
+ष /ʂ/
+漢語清捲舌擦音：但捲舌度更大，更靠后shi（詩）
+स /s̪/
+漢語齒齦音：si（思），英語齒齦音：same
+ह /ɦ/ 
+漢語清音：he（喝），英語：behind
+
+
+
+梵語、印地語和所有其他印度語言都有整組的齒塞音，在語音上出現為濁音和清音，并帶有或沒有送氣。對於印度本地人，英語的齒齦音/t/和/d/聽起來更像他們自己語言中的卷舌音而非齒音。
+
+音韻和連接音變[编辑]
+上節中討論了梵語元音。長音節主音ḹ未經驗證，而文法家只出於系統性的原因才討論它。它的短對應者ḷ只出現在一個單一的詞根kḷp“to order, array”中。長音節主音ṝ也非常邊緣化，出現在屬格復數的r-詞幹中（比如mātṛ“mother”和pitṛ“father”有屬格復數mātṝṇām和pitṝṇām）。i, u, ṛ, ḷ是輔音y, v, r, l的元音同位異音。因此只有5个不變的元音音位
+
+a ā ī ū ṝ
+
+visarga ḥ ः是r與s的同位異音，和anusvāra ṃ即任何鼻音的天城文 ं，二者都出現在停頓（也就是鼻音化元音）中。三個噝擦音的精確發音可能變化，但它們是獨特的音位。印度-雅利安語從原始印度-伊朗語繼承來的送氣濁噝擦音/zʱ/在梨俱吠陀時代之前就已消失了（送氣擦音在任何語言中都極其少見）。卷舌音某種程度上是邊緣化的音位，以它們的語音環境為條件；他們不延續原始印歐語系列并經常被某些語言學家歸咎於达罗毗荼语系語言或其它基層語言的基層影響。鼻音[ɲ]是/n/的有條件的同位異音（/n/和/ɳ/是不同的音位—aṇu“minute, atomic”不同於anu“after, along”；音韻上獨立的/ŋ/只邊緣化的出現，比如在prāṅ“directed forwards/towards”中）。因此一共有31個輔音或半元音音位，構成為有或沒有送氣清音或濁音的四／五種塞音，三個鼻音，四個半元音或流音和四個擦音，用IAST寫為如下：
+
+k kh g gh c ch j jh ṭ ṭh ḍ ḍh t th d dh p ph b bh
+m n ṇ
+y r l v
+ś ṣ s h
+
+或一起寫為總體的36個唯一性的梵語音位。
+在把詞素組合為詞的時候和把詞組合為句子的時候應用的音韻規則總體上叫做連接音變“合成”。文本要按照發音書寫，帶有連接音變規則的應用（除了所謂的padapāṭha之外）。
+語法[编辑]
+主条目：梵語語法
+語法傳統[编辑]
+主条目：梵語文法家
+梵語文法傳統（vyākaraṇa，六吠陀支學科之一，舊譯為“聲明記論”[18]）開始於吠陀時代晚期并集大成於波你尼的《八篇書》，它包含了3990經句（大約在公元前五世紀）。在波你尼之后一個世紀（大約400 BCE）Kātyāyana編撰了關於波你尼經的《Vārtikas》。生活在波你尼之后三個世紀的波颠阇利寫了《Mahābhāṣya》，關於《八篇書》和《Vārtikas》的“大注疏”。由於這三位古代梵語文法家，這種文法也叫做Trimuni Vyākarana。為了理解這些經典的意義，Jayaditya和Vāmana在公元600年寫了叫做《Kāsikā》的注釋。波你尼文法基於14句的濕婆經。完整的Mātrika（字母表）被縮略其中。這種縮略叫做Pratyāhara。[19]
+動詞[编辑]
+主条目：梵語動詞
+動詞分類[编辑]
+梵語有十類動詞并分為兩大組：athematic和thematic。thematic動詞得名於叫做詞幹元音的一個a，它被插入在詞幹和詞尾之間。它使得thematic動詞一般更加正規。在動詞變位中使用的語音表現形式包括了前綴、中綴、后綴和重復。所有詞根都有印歐元音變換的（不必然都是不同的）零、guṇa和vṛddhi等級。如果V是零級的元音，則guṇa-級元音傳統上被認為是a + V，而vṛddhi-級元音被認為是ā + V。
+
+等級[20]
+
+零級
+-
+i, ī
+u, ū
+ṛ, ṝ
+ḷ
+
+
+Guṇa級
+a
+e
+o
+ar
+al
+
+
+Vṛddhi級
+ā
+ai
+au
+ār
+āl
+
+
+時態系統[编辑]
+動詞時態（使用這個詞不太精確，因為梵語所要表達的比簡單的時態有更大的差別）基於在變位中采用的（演變自動詞詞根的）不同詞幹形式而被組織成四個系統（動名詞和動詞不定式也一樣，并從更基本形式演變出加強式（intensive）／反復式（frequentative）、愿望式（desiderative）、使役式（causative）和祈福式（benedictive））。這四個時態系統為：
+
+現在時（現在式，未完成式，命令式，祈愿式）
+完成時
+不定過去時
+將來時（將來式，條件式）
+
+現在時系統[编辑]
+現在時系統包括現在式和未完成式，祈愿式和命令式，以及古老的虛擬式的某些殘留形式。現在時系統的時態詞幹以各種方式形成。編號由本土文法家給出。
+對於athematic動詞，現在時詞幹可以通過如下方式形成：
+
+2）根本不变更，例如ad來自ad“eat吃”。
+3）詞根重復为前綴，例如juhu來自hu“sacrifice（火）供”。
+7）在詞根最后輔音前加中綴na或n（帶有適當的連接音變），例如rundh或ruṇadh來自rudh“obstruct阻止”。
+5) nu（guṇa形式no）后綴，例如sunu來自su“press out挤汁”。
+8) u（guṇa形式o）后綴，例如tanu來自tan“stretch伸展”。
+9) nā（零-級nī或n）后綴，例如krīṇa或krīṇī來自krī“buy买”。
+
+對於thematic動詞，現在時詞幹可以通過如下方式形成：
+
+1）詞幹元音a后綴，帶有guṇa加力，例如bhava來自bhū“be在、有”。
+6）詞幹元音a后綴，帶有重音轉移到這個元音上，例如tuda來自tud“thrust插、刺”。
+4) ya后綴，例如divya來自div“play玩儿”。
+
+关于第十類形成，这是一種可自然得出的形式，因此不是真正的時態詞幹形成。它是通過對詞根的最后元音guṇa加力或vṛddhi加長再加上ya后綴而形成的，例如bhāvaya來自bhū“be在、有”。
+完成時系統[编辑]
+完成時系統只包括完成式。詞幹如現在時詞幹那樣用重復方式形成。
+完成時系統還把動詞分為“強”和“弱”兩種形式：強形式用於單數主動語態，而弱形式用於其余形态。
+不定過去時系統[编辑]
+不定過去時系統包括真正的不定過去式（帶有過去陳述的意味，比如abhūḥ“you were”）和某種形式的古老的禁令式（通過mā專門用在禁令中，比如mā bhūḥ“don't be”）。二者的根本區別在於有／無前增（augment） –即前綴於詞幹的a-。不定過去時系統詞幹實際上有三種不同的形成：簡單不定過去式，咝音過去式，和在語義上與使役動詞有關的重復過去式。
+將來時系統[编辑]
+將來時系統通過sya或iṣya的后綴和guṇa來形成。動詞接著變位，好像它們是在現在時系統中的thematic動詞一樣。將來時的未完成式用作條件式。
+動詞變位[编辑]
+所有動詞都有三個語態：主動語態、被動語態和中間語態（即反身語態）。還有非人稱語態，它可以被描述為不及物動詞的被動語態。梵語動詞有直陳語氣、祈願語氣和命令語氣三種語氣。這種語言的古老形式還有虛擬語氣，但在古典梵語時代就不再使用了。
+基本變位詞尾[编辑]
+在梵語中變位詞尾傳達了人稱、數和語態。依據其所附着的是什么時態詞幹和語氣而使用不同形式的詞尾。動詞詞幹或詞尾自身可能由於連接音變而變更或模糊。
+
+
+
+主動語態
+中間語態
+
+
+單數
+雙數
+複數
+單數
+雙數
+複數
+
+
+原始
+第一人稱
+mi
+vás
+más
+é
+váhe
+máhe
+
+
+第二人稱
+si
+thás
+thá
+sé
+ā́the
+dhvé
+
+
+第三人稱
+ti
+tás
+ánti, áti
+té
+ā́te
+ánte, áte
+
+
+次生
+第一人稱
+am
+vá
+má
+í, á
+váhi
+máhi
+
+
+第二人稱
+s
+tám
+tá
+thā́s
+ā́thām
+dhvám
+
+
+第三人稱
+t
+tā́m
+án, ús
+tá
+ā́tām
+ánta, áta, rán
+
+
+完成式
+第一人稱
+a
+vá
+má
+é
+váhe
+máhe
+
+
+第二人稱
+tha
+áthus
+á
+sé
+ā́the
+dhvé
+
+
+第三人稱
+a
+átus
+ús
+é
+ā́te
+ré
+
+
+命令式
+第一人稱
+āni
+āva
+āma
+āi
+āvahāi
+āmahāi
+
+
+第二人稱
+dhí, hí,—
+tám
+tá
+svá
+ā́thām
+dhvám
+
+
+第三人稱
+tu
+tā́m
+ántu, átu
+tā́m
+ā́tām
+ántām, átām
+
+
+原始詞尾用於現在直陳式和將來式形式。次生詞尾用於未完成式、條件式、不定過去式和祈愿式。完成式詞尾和命令式詞尾分別用於完成式和命令式。
+例子[编辑]
+下表是從一個單一詞根可以生成的主要動詞形式的部分列表。并非所有詞根都可取得所有形式；某些詞根經常限定到特定詞幹。這里列出的動詞形式都是第三人稱單數的，它們可以按照三個人稱和三個數來變位。
+詞根：bhū-，第一類thematic動詞詞根。
+現在時詞幹：bhava-
+被動語態詞幹：bhūya-
+將來時詞幹：bhaviṣya-
+
+
+
+
+原始
+使役
+愿望
+加強
+
+
+現在時詞幹
+現在式
+bhavati
+bhavate
+bhāvayati
+bhāvayate
+bubhũṣati
+bobhoti / bobhavīti
+bobhūyate
+
+
+未完成式
+abhavat
+abhavata
+abhāvayat
+abhāvayata
+abubhũṣat
+abobhot
+abobhūyata
+
+
+命令式
+bhavatu
+bhavatām
+bhāvayatu
+bhāvayatām
+bubhũṣatu
+bobhotu / bobhavītu
+bobhūyatām
+
+
+祈愿式
+bhavet
+bhaveta
+bhāvayet
+bhāvayeta
+bubhũṣet
+bobhavyāt
+bobhūyeta
+
+
+現在分詞
+bhavant
+bhavamāna
+bhāvayant
+bhāvayamāna
+
+bobhavat
+bobhūyamāna
+
+
+被動語態
+現在式
+bhūyate
+bhāvyate
+bubhũṣyate
+
+
+
+未完成式
+abhũyata
+abhāvyata
+abubhũṣyata
+
+
+
+命令式
+bhũyatām
+bhāvyatām
+bubhũṣyatām
+
+
+
+祈愿式
+bhũyeta
+bhāvyeta
+bubhũṣyeta
+
+
+
+將來時詞幹
+將來式
+bhaviṣyati
+bhāvayiṣyati
+bhāvayiṣyate
+bubhũṣiṣyati
+
+
+
+條件式
+abhaviṣyat
+abhāvayiṣyat
+
+
+
+
+將來分詞
+bhaviṣyant
+bhāvayiṣyant
+bhāvayiṣyamāṇa
+
+
+
+
+迂回將來式
+bhavitā
+bhāvayitā
+bubhũṣitā
+
+
+
+完成式
+babhũva
+bhāvayāmāsa
+bubhũṣāmāsa
+
+
+
+不定過去時
+不定過去式
+abhũt
+
+
+
+
+
+祈福式／懇求式
+bhũyāt
+
+
+
+
+
+禁令式
+（mā）bhũt
+
+
+
+
+
+使役式
+bhāvayati
+
+
+
+
+
+愿望式
+bubhũṣati
+bibhāvayiṣati
+
+
+
+
+加強式
+bobhavīti
+
+
+
+
+
+過去分詞
+bhũta(vant)
+bhāvita(vant)
+
+
+
+
+動詞狀形容詞
+bhavya,
+bhavitavya
+bhāvayitavya
+
+
+
+
+考慮到分詞形式每個按八個格和交叉於三個性的三個數來變格的事實，動詞每個按三個人稱和三個數變位的事實，當這個詞根的原始、使役和愿望詞幹在一起計數的時候有上千種形式。
+名詞[编辑]
+主条目：梵語名詞
+梵語是富於詞形變化的語言，文法上具有三個性（陽性、陰性、中性）和三個數（單數、雙數、複數）。它有八個格：主格（體格）、賓格（業格，對格）、具格（工具格）、與格（為格）、離格（從格，奪格）、屬格、位格（方位格、依格，處格）和呼格。
+實際變格的數目是有爭議的。波你尼識別六個kāraka，對應於主格、賓格、工具格、與格、離格和方位格[2] 。波你尼定義它們如下（Ashtadhyayi, I.4.24-54）:
+
+Kartā（“agent”）：“在行動中施事者”。等價於主格。（On the basis of Scharfe, 1977: 94）
+Karman（“deed/object”）：“施事者主要尋求達成者”。等價於賓格。
+Karaṇa（“instrument”）“憑借它達成效果”。等價於工具格。
+Sampradāna（“bestowal”）：“對象之目標”。等價於與格，它表示給與或類似行動的接納者。
+Apādāna（lit.“take off”）：“離開（發生）時（處於）固定者”。等價於離格，它表示運動進行所起始的固定對象。
+Adhikaraṇa（“location”）：或“substratum”。等價於方位格。
+
+基本名詞和形容詞變格[编辑]
+下表給出基本的后綴表格—幾乎對所有名詞和形容詞有效。但是，依據未變格的詞幹的性和結尾輔音／元音，還有強制的連接音變預定規則，而它給出最終的變格后的詞。在圓括號中給出中性的格結尾，余下的是陽性和陰性的。
+
+
+
+單數
+雙數
+複數
+
+
+主格
+(Kartā)
+-s
+(-m)
+-au
+(-ī)
+-as
+(-i)
+
+
+賓格
+(Karman)
+-am
+(-m)
+-au
+(-ī)
+-as
+(-i)
+
+
+具格
+(Karaṇa)
+-ā
+-bhyām
+-bhis
+
+
+與格
+(Sampradāna)
+-e
+-bhyām
+-bhyas
+
+
+離格
+(Apādāna)
+-as
+-bhyām
+-bhyas
+
+
+屬格
+(Sambandha)
+-as
+-os
+-ām
+
+
+位格
+(Adhikaraṇa)
+-i
+-os
+-su
+
+
+呼格
+-s
+(-)
+-au
+(-ī)
+-as
+(-i)
+
+
+a-詞幹[编辑]
+a-詞幹（/ə/或/ɑː/）形成了数量最多的一類名詞。其規則是，这類名詞帶有以-a（/ə/）結尾的未變格詞幹，它们或属陽性或呈中性。以-ā（/ɑː/）結尾的名詞幾乎總是陰性。a-詞幹形容詞，其陽性或中性詞幹带-a（/ə/），其陰性詞幹带-ā（/ɑː/）。这類詞幹数量如此之多是因為它還包含了原始印歐語的o-詞幹。
+
+
+
+陽性（kāma-）
+中性（āsya-“mouth”）
+陰性（kānta-“beloved”）
+
+
+單數
+雙數
+複數
+單數
+雙數
+復數
+單數
+雙數
+複數
+
+
+主格
+kā́mas
+kā́māu
+kā́mās
+āsyàm
+āsyè
+āsyā̀ni
+kāntā
+kānte
+kāntās
+
+
+賓格
+kā́mam
+kā́māu
+kā́mān
+āsyàm
+āsyè
+āsyā̀ni
+kāntām
+kānte
+kāntās
+
+
+具格
+kā́mena
+kā́mābhyām
+kā́māis
+āsyèna
+āsyā̀bhyām
+āsyāìs
+kāntayā
+kāntābhyām
+kāntābhis
+
+
+與格
+kā́māya
+kā́mābhyām
+kā́mebhyas
+āsyā̀ya
+āsyā̀bhyām
+āsyèbhyas
+kāntāyai
+kāntābhyām
+kāntābhyās
+
+
+離格
+kā́māt
+kā́mābhyām
+kā́mebhyas
+āsyā̀t
+āsyā̀bhyām
+āsyèbhyas
+kāntāyās
+kāntābhyām
+kāntābhyās
+
+
+屬格
+kā́masya
+kā́mayos
+kā́mānām
+āsyàsya
+āsyàyos
+āsyā̀nām
+kāntāyās
+kāntayos
+kāntānām
+
+
+位格
+kā́me
+kā́mayos
+kā́meṣu
+āsyè
+āsyàyos
+āsyèṣu
+kāntāyām
+kāntayos
+kāntāsu
+
+
+呼格
+kā́ma
+kā́mau
+kā́mās
+ā́sya
+āsyè
+āsyā̀ni
+kānte
+kānte
+kāntās
+
+
+i-詞幹和u-詞幹[编辑]
+
+i-詞幹
+
+
+陽性和陰性（gáti-“gait”）
+中性（vā́ri-“water”）
+
+
+單數
+雙數
+複數
+單數
+雙數
+複數
+
+
+主格
+gátis
+gátī
+gátayas
+vā́ri
+vā́riṇī
+vā́rīṇi
+
+
+賓格
+gátim
+gátī
+gátīs
+vā́ri
+vā́riṇī
+vā́rīṇi
+
+
+具格
+gátyā
+gátibhyām
+gátibhis
+vā́riṇā
+vā́ribhyām
+vā́ribhis
+
+
+與格
+gátaye, gátyāi
+gátibhyām
+gátibhyas
+vā́riṇe
+vā́ribhyām
+vā́ribhyas
+
+
+離格
+gátes, gátyās
+gátibhyām
+gátibhyas
+vā́riṇas
+vā́ribhyām
+vā́ribhyas
+
+
+屬格
+gátes, gátyās
+gátyos
+gátīnām
+vā́riṇas
+vā́riṇos
+vā́riṇām
+
+
+位格
+gátāu, gátyām
+gátyos
+gátiṣu
+vā́riṇi
+vā́riṇos
+vā́riṣu
+
+
+呼格
+gáte
+gátī
+gátayas
+vā́ri, vā́re
+vā́riṇī
+vā́rīṇi
+
+
+
+u-詞幹
+
+
+陽性和陰性（śátru-“enemy”）
+中性（mádhu-“honey”）
+
+
+單數
+雙數
+複數
+單數
+雙數
+複數
+
+
+主格
+śátrus
+śátrū
+śátravas
+mádhu
+mádhunī
+mádhūni
+
+
+賓格
+śátrum
+śátrū
+śátrūn
+mádhu
+mádhunī
+mádhūni
+
+
+具格
+śátruṇā
+śátrubhyām
+śátrubhis
+mádhunā
+mádhubhyām
+mádhubhis
+
+
+與格
+śátrave
+śátrubhyām
+śátrubhyas
+mádhune
+mádhubhyām
+mádhubhyas
+
+
+離格
+śátros
+śátrubhyām
+śátrubhyas
+mádhunas
+mádhubhyām
+mádhubhyas
+
+
+属格
+śátros
+śátrvos
+śátrūṇām
+mádhunas
+mádhunos
+mádhūnām
+
+
+位格
+śátrāu
+śátrvos
+śátruṣu
+mádhuni
+mádhunos
+mádhuṣu
+
+
+呼格
+śátro
+śátrū
+śátravas
+mádhu
+mádhunī
+mádhūni
+
+
+單音節詞幹[编辑]
+
+長元音詞幹
+
+
+ā-詞幹（jā-“progeny”）
+ī-詞幹（dhī-“thought”）
+ū-詞幹（bhū-“earth”）
+
+
+單數
+雙數
+複數
+單數
+雙數
+複數
+單數
+雙數
+復數
+
+
+主格
+jā́s
+jāú
+jā́s
+dhī́s
+dhíyāu
+dhíyas
+bhū́s
+bhúvāu
+bhúvas
+
+
+賓格
+jā́m
+jāú
+jā́s, jás
+dhíyam
+dhíyāu
+dhíyas
+bhúvam
+bhúvāu
+bhúvas
+
+
+具格
+jā́
+jā́bhyām
+jā́bhis
+dhiyā́
+dhībhyā́m
+dhībhís
+bhuvā́
+bhūbhyā́m
+bhūbhís
+
+
+與格
+jé
+jā́bhyām
+jā́bhyas
+dhiyé, dhiyāí
+dhībhyā́m
+dhībhyás
+bhuvé, bhuvāí
+bhūbhyā́m
+bhūbhyás
+
+
+離格
+jás
+jā́bhyām
+jā́bhyas
+dhiyás, dhiyā́s
+dhībhyā́m
+dhībhyás
+bhuvás, bhuvā́s
+bhūbhyā́m
+bhūbhyás
+
+
+屬格
+jás
+jós
+jā́nām, jā́m
+dhiyás, dhiyā́s
+dhiyós
+dhiyā́m, dhīnā́m
+bhuvás, bhuvā́s
+bhuvós
+bhuvā́m, bhūnā́m
+
+
+位格
+jí
+jós
+jā́su
+dhiyí, dhiyā́m
+dhiyós
+dhīṣú
+bhuví, bhuvā́m
+bhuvós
+bhūṣú
+
+
+呼格
+jā́s
+jāú
+jā́s
+dhī́s
+dhiyāu
+dhíyas
+bhū́s
+bhuvāu
+bhúvas
+
+
+ṛ-詞幹[编辑]
+ṛ-詞幹主要是施事者（agent）派生詞，如dātṛ“giver”，儘管還包括了亲属称呼如pitṛ“father”, mātṛ́“mother”和svásṛ“sister”。
+
+
+
+單數
+雙數
+複數
+
+
+主格
+pitā́
+pitárāu
+pitáras
+
+
+賓格
+pitáram
+pitárāu
+pitṝ́n
+
+
+具格
+pitrā́
+pitṛ́bhyām
+pitṛ́bhis
+
+
+與格
+pitré
+pitṛ́bhyām
+pitṛ́bhyas
+
+
+離格
+pitúr
+pitṛ́bhyām
+pitṛ́bhyas
+
+
+屬格
+pitúr
+pitrós
+pitṝṇā́m
+
+
+位格
+pitári
+pitrós
+pitṛ́ṣu
+
+
+呼格
+pítar
+pitárāu
+pitáras
+
+
+人稱代詞和限定詞[编辑]
+主条目：梵語代詞和限定詞
+第一和第二人稱代詞有極其類似的詞尾變化，可以相互類推出來。
+注意：在給出兩種形式的地方，第二種是前接詞和可替代形式。單數和複數的離格可以用一個音節-tas來延長；因此是mat或mattas，asmat或asmattas。
+
+
+
+第一人稱
+第二人稱
+
+
+單數
+雙數
+複數
+單數
+雙數
+複數
+
+
+主格
+aham
+āvām
+vayam
+tvam
+yuvām
+yūyam
+
+
+賓格
+mām, mā
+āvām, nau
+asmān, nas
+tvām, tvā
+yuvām, vām
+yuṣmān, vas
+
+
+具格
+mayā
+āvābhyām
+asmābhis
+tvayā
+yuvābhyām
+yuṣmābhis
+
+
+與格
+mahyam, me
+āvābhyām, nau
+asmabhyam, nas
+tubhyam, te
+yuvābhyām, vām
+yuṣmabhyam, vas
+
+
+離格
+mat
+āvābhyām
+asmat
+tvat
+yuvābhyām
+yuṣmat
+
+
+屬格
+mama, me
+āvayos, nau
+asmākam, nas
+tava, te
+yuvayos, vām
+yuṣmākam, vas
+
+
+位格
+mayi
+āvayos
+asmāsu
+tvayi
+yuvayos
+yuṣmāsu
+
+
+指示代詞tat，如下變格，也可作第三人稱代詞。
+
+
+
+陽性
+中性
+陰性
+
+
+單數
+雙數
+複數
+單數
+雙數
+複數
+單數
+雙數
+複數
+
+
+主格
+sás
+tāú
+té
+tát
+té
+tā́ni
+sā́
+té
+tā́s
+
+
+賓格
+tám
+tāú
+tā́n
+tát
+té
+tā́ni
+tā́m
+té
+tā́s
+
+
+具格
+téna
+tā́bhyām
+tāís
+téna
+tā́bhyām
+tāís
+táyā
+tā́bhyām
+tā́bhis
+
+
+與格
+tásmāi
+tā́bhyām
+tébhyas
+tásmāi
+tā́bhyām
+tébhyas
+tásyāi
+tā́bhyām
+tā́bhyas
+
+
+離格
+tásmāt
+tā́bhyām
+tébhyam
+tásmāt
+tā́bhyām
+tébhyam
+tásyās
+tā́bhyām
+tā́bhyas
+
+
+屬格
+tásya
+táyos
+téṣām
+tásya
+táyos
+téṣām
+tásyās
+táyos
+tā́sām
+
+
+位格
+tásmin
+táyos
+téṣu
+tásmin
+táyos
+téṣu
+tásyām
+táyos
+tā́su
+
+
+合成詞[编辑]
+主条目：梵語合成詞
+梵語名詞系統的另一個顯著特征是合成名詞（samāsa，六離合釋[21]）的普遍使用，跟某些現代語言如德語和芬蘭語的组合名词数量差不多（10多個詞）。它們都屬於黏著語。合成名詞以各種結構出現，但是在構詞學上說，它們本質上是相同的。每個名詞（或形容詞）都處在它的（弱）詞幹形式，只有最后的一个词进行变格。一些名詞合成的例子包括：
+
+Dvandva（并列式，相違釋）
+由兩個或更多名詞詞幹構成，在“并且”的意義上連接起來。在梵語中主要有兩類dvandva構造。第一種叫做itaretara dvandva，列舉合成詞，它的意義涉及它的所有名词。组合後的合成詞用雙數或復數，并選用在合成結構中最后名词的性。比如rāma-lakṣmaṇau – Rama和Lakshmana，或rāma-lakṣmaṇa-bharata-śatrughnāh – Rama, Lakshmana, Bharata和Satrughna。第二類叫做samāhāra dvandva，集合合成詞，它的意義涉及它的成員的集合。组合後的合成詞爲單數并總是中性。比如pāṇipādam“limbs”，字面意思是手和足，來自pāṇi =“手”和pāda =“足”。根據某些文法家的看法，還有第三類dvandva，叫做ekaśeṣa dvandva或剩余合成，它只選取它的最后名词的雙數（或復數）形式，比如pitarau是mātā + pitā，“母親”+“父親”也就是雙親。但是在其他文法家看来，ekaśeṣa根本不是真正的合成。
+Bahuvrīhi（所有式，有財釋）
+Bahuvrīhi，或“much-rice”，表示有很多米的人即富人。Bahuvrīhi合成（通過舉例）提及無頭領的合成名詞 -- 就是說提及其自身不是合成名詞的一部分的事物的合成名詞。例如，“low-life”（下層生活者）和“block-head”（木頭腦袋者）是bahuvrīhi合成，因為下層生活（者）不是一種生活，而木頭腦袋（者）不是一種腦袋。（正如多米（者）不是一種米）。相對於更一般的有頭領的合成名詞如“飛球”（一種球）或“波斯貓”（一種貓）。Bahurvrīhi經常可以翻譯為“有...者”，比如“有很多米者”。
+Tatpuruṣa（限定式，依主釋）
+有很多種tatpuruṣa（每種名詞格都有一種，此外還有一些其他的）；在tatpuruṣa中，第一個名词與其他名词處在一種格關係中。例如，“doghouse”是與格合成詞，給狗的屋子。它可以叫做caturtitatpuruṣa（caturti指稱第四格—也就是與格）。順便說一下，tatpuruṣa這個詞是tatpuruṣa（“that-man”—意思是屬於某人的人），而caturtitatpuruṣa既是與格又是tatpuruṣa，但被歸類為karmadhāraya。理解它的容易方式是看一個英語tatpuruṣas的例子：“battlefield”（戰場），在“戰爭”和“場地”之間是屬格關係，“戰爭的場地”；另一些例子包括工具格關係（“thunderstruck”）和方位格關係（“towndwelling”）。
+Karmadhāraya（描述式，持業釋）
+前面名词是后面名词的修飾、屬性、性狀，比如uluka-yatu（“貓頭鷹”+“魔鬼”）是貓頭鷹狀的魔鬼。
+Avyayibhāva（不變式，鄰近釋）
+這種類型合成名詞的第一個名词詞尾不變化，在它后面增加另一個詞而得到的新合成詞也不进行詞尾變化（就是avaya）。例如：yathā+śakti, upa+kriṣṇam（鄰近kriṣṇa）等。在avyayibhāva合成词中，第一個词占主导地位（pūrva-pada-pradhāna），就是說，整個合成詞不进行詞尾變化，由於它的第一部分的性质是没有詞尾變化的。
+Dvigu（定量式，帶數釋）
+在karmadhāraya合成中，一部分表現为對另一部分的形容。如果形容部分是數词，則稱為dvigu。dvigu自身是合成的：dvau+gāvau。在dvigu合成中，后面部分是主要的，如同Tatpuruṣa合成一樣。
+Amreḍita（重復式）
+重復一個詞表示反復，比如dive-dive“天天”，“每天”。
+
+句法[编辑]
+由於梵语有复杂的词尾变化系统，所以它的语序是自由的。[22]在使用中帶有较多的主宾谓结构（SOV）傾向，這是出现在吠陀散文中的最初结构系統。但有特定例外情況，此時并非任何一對詞都是可以換位的。[23]
+数词[编辑]
+从1到10的数：
+
+éka-
+dvá-
+trí-
+catúr-
+páñcan
+ṣáṣ
+saptán
+aṣṭá
+návan
+dáśan
+
+數1到4是詞尾變化的。éka如代名形容詞那樣變化，但雙數形式不出現。dvá只出現在雙數形式。trí和catúr的變化是不規則的：
+
+
+
+3
+4
+
+
+陽性
+中性
+陰性
+陽性
+中性
+陰性
+
+
+主格
+tráyas
+trī́ṇi
+tisrás
+catvā́ras
+catvā́ri
+cátasras
+
+
+賓格
+trīn
+trī́ṇi
+tisrás
+catúras
+catvā́ri
+cátasras
+
+
+具格
+tribhís
+tisṛ́bhis
+catúrbhis
+catasṛ́bhis
+
+
+與格
+tribhyás
+tisṛ́bhyas
+catúrbhyas
+catasṛ́bhyas
+
+
+離格
+tribhyás
+tisṛ́bhyas
+catúrbhyas
+catasṛ́bhyas
+
+
+屬格
+triyāṇā́m
+tisṛṇā́m
+caturṇā́m
+catasṛṇā́m
+
+
+位格
+triṣú
+tisṛ́ṣu
+catúrṣu
+catasṛ́ṣu
+
+
+文字[编辑]
+主条目：天城文
+
+
+
+
+克什米爾的夏拉達文湿婆教手稿 (十七世紀)
+
+
+梵語在社交中口頭使用，并且在早期古典梵語文獻的發展中維持口頭傳統[24]。在印度，書寫形式是當梵語發展成俗語之后才出现的；在書寫梵語的時候，書寫系統的選擇受抄寫者所處地域的影響。同樣的，所有南亞的主要書寫系統事實上都用於梵語文稿的抄写。自19世紀晚期，天城文被定為梵語的標準書寫系統[25]，十分可能的原因是歐洲人有用這種文字印刷梵語文本的習慣。
+最早的已知梵語碑刻可確定为公元前一世紀[26]。它們采用了最初用於俗語而非梵語的婆羅米文[27]。第一個書寫梵語的證據，出現在晚于它的俗語的书写證據之后的幾個世紀，這被描述為一種悖論[26][28]。在梵語被書寫下來的時候，它首先用於行政、文學或科學類的文本。宗教文本口頭传承，在相當晚的時候才“不情愿”地被书寫下來[27]。
+婆羅米文演化出叫婆羅米系文字的一組多樣文字，其中很多被用來書寫梵語。粗略地說與婆羅米文同代的佉盧文用於次大陸的西北部。后來（4到8世紀）從婆羅米文演化來的笈多文開始流行。從8世紀開始從笈多文演化出了夏拉達文。最后在11 / 12世紀的時候它被天城文所替代，有中間狀態如悉曇文。在東印度，孟加拉文和后來的奧里亞文被采用。在南部的达罗毗荼语系統治區，用於梵語的文字包括卡纳达文、泰卢固文、马拉雅拉姆文和Grantha文。
+
+
+
+
+用現代婆羅米系文字寫的梵語：“愿濕婆保佑爱好天神語言的人。”（迦梨陀娑）
+
+
+羅馬化[编辑]
+主条目：天城文轉寫
+自從十八世紀后期，梵語已經被使用拉丁字母轉寫。今天最常用的系統是IAST（國際梵語轉寫字母），它自從1888年 / 1912年就是學術標準。基於ASCII的轉寫方案由於在計算機系統上表示梵語字符的困難而發展出來。這包括Harvard-Kyoto和ITRANS，它是在互聯網上特別是Usenet和郵件中最廣泛使用的轉寫方案，出於錄入速度和表現效果的考慮。對於能獲得Unicode的Web瀏覽器，IAST變得更常用。
+19世紀的歐洲學者一般偏好用天城體來抄寫和復制整個文本和冗長引用。但是在歐洲語言寫的文本中對單獨的詞和名字的引用通常使用羅馬轉寫表示。從20世紀開始，由於生產成本的原因，西方學者編輯的文字版本大多使用羅馬化轉寫。
+古代書體[编辑]
+参见：悉曇文字
+在中國唐朝時期，中印交流密切，如著名的玄奘法师去西天取經，當時用悉曇體書寫的梵文佛經隨之傳入中原，后來在佛教密宗傳入之后，由於此宗派嚴格要求用梵語語音念誦真言，導致了對印度教學用的音節表悉曇章的研習，現存於《悉曇字記》[29]中。此後傳至日本，其傳習可參見《大正藏》中的《悉曇部》，因此中日兩國還保存着已經不用的梵文字體——悉曇體。在中國宋朝時期，早期形式的天城體梵字曾在漢地、遼、大理流行過，現完整保存於公元1035年刊印的《景祐天竺字源》[30]中，並且東傳到韓國、日本。
+厚重、美观的蘭札體流行於西藏和尼泊爾，並且隨著中國清朝統治階層對藏傳佛教的信仰，流行於中國漢地。西藏同時還使用一種叫做瓦德體的字體來書寫梵文，其實它只是蘭札體的一種無頭化變體。藏文、蒙文、托忒蒙文、滿文都有用各自的文字轉寫梵文的體系。
+
+
+
+
+IAST
+笈多文
+悉曇文
+Kutila文
+城文
+蘭札文
+天城文
+
+
+a
+
+
+
+
+
+
+
+
+ā
+
+
+
+
+
+
+
+
+i
+
+
+
+
+
+
+
+
+ī
+
+
+
+
+
+
+
+
+u
+
+
+
+
+
+
+
+
+ū
+
+
+
+
+
+
+
+
+ṛ
+
+
+
+
+
+
+
+
+e
+
+
+
+
+
+
+
+
+ai
+
+
+
+
+
+
+
+
+o
+
+
+
+
+
+
+
+
+au
+
+
+
+
+
+
+
+
+k
+
+
+
+
+
+
+
+
+kh
+
+
+
+
+
+
+
+
+g
+
+
+
+
+
+
+
+
+gh
+
+
+
+
+
+
+
+
+ṅ
+
+
+
+
+
+
+
+
+c
+
+
+
+
+
+
+
+
+ch
+
+
+
+
+
+
+
+
+j
+
+
+
+
+
+
+
+
+jh
+
+
+
+
+
+
+
+
+ñ
+
+
+
+
+
+
+
+
+ṭ
+
+
+
+
+
+
+
+
+ṭh
+
+
+
+
+
+
+
+
+ḍ
+
+
+
+
+
+
+
+
+ḍh
+
+
+
+
+
+
+
+
+ṇ
+
+
+
+
+
+
+
+
+t
+
+
+
+
+
+
+
+
+th
+
+
+
+
+
+
+
+
+d
+
+
+
+
+
+
+
+
+dh
+
+
+
+
+
+
+
+
+n
+
+
+
+
+
+
+
+
+p
+
+
+
+
+
+
+
+
+ph
+
+
+
+
+
+
+
+
+b
+
+
+
+
+
+
+
+
+bh
+
+
+
+
+
+
+
+
+m
+
+
+
+
+
+
+
+
+y
+
+
+
+
+
+
+
+
+r
+
+
+
+
+
+
+
+
+l
+
+
+
+
+
+
+
+
+v
+
+
+
+
+
+
+
+
+ś
+
+
+
+
+
+
+
+
+ṣ
+
+
+
+
+
+
+
+
+s
+
+
+
+
+
+
+
+
+h
+
+
+
+
+
+
+
+
+
+
+
+
+
+↑天城文的字體已經有所變更，原來寫為，原來寫為，原來寫為，原來寫為。悉曇文的異體字，和的異體字的字形與其他文字更相近。笈多文推定使用时间为公元4-5世纪。Kutila字面意思是繁复，推定使用时间是公元6-10世纪，是城体文字如天城文、孟加拉文的祖先[31]。这里列出的城文是公元1035年刻印的《景佑天竺字源》的版本。笈多文和Kutila文是學者們從古代題刻中搜集整理出來的。悉曇文字體是《大正藏》所采用的慈云流書體。
+
+
+
+影響[编辑]
+復興努力[编辑]
+1991年印度人口普查報告了49,736名流利的梵語使用者。自從1990年代，對復興口頭使用梵語的努力已經加強了。很多組織如“Samskrta Bharati”引領著說梵語講習班來普及這門語言。印度的“CBSE”（中学教育中央委員會）已經使梵語在它所控制的學校內成為第三語言（儘管學校可選擇接受與否，但其他兩個選擇是這個邦自己的官方語言）。在這些學校中，梵語是5到8年級的選修課。對於隸屬於ICSE委員會的學校也是這樣，特別是在官方語言是印地語的邦之中。唯一采用梵語的日報《Sudharma》在印度邁索爾從1970年開始出版。自從1974年，在所有印度廣播電臺中都有了梵語的每日短新聞廣播。
+在一些印度村莊中，所有種姓的居民以梵語爲母語，這包括了：
+
+卡納塔克邦的Mattur[32]
+中央邦的Rajgadh行政區的Jhiri[33]
+拉賈斯坦邦的Banswada行政區的Ganoda[34]
+北方邦的Bagapat行政區的Bawali
+中央邦的Narasinhpur行政區的Mohad
+
+梵語对汉语的影响[编辑]
+許多漢语和藏語的詞彙，是從梵文佛典直接音譯過來的，例如佛、禅、菩提、「菩薩」、辟支佛、阿罗汉、比丘、比丘尼、优婆塞、优婆夷、「涅槃」、「剎那」、波罗蜜、阿耨多罗三藐三菩提等。由於對梵語語音的研究，引起了中國隋唐以來對中文音韻的研究，漢語語音的反切方法，就是由分析梵語聲母與韻母的結構而產生的。通过梵字的讀音来了解汉字的發音，是汉语音韵研究的一种方法，详見对音。
+計算語言學[编辑]
+曾有人提議使用梵語来交流和传播知識，比如使之成为機器翻譯和自然語言處理等領域的元語言，因為它有比较严格的結構体系。[35]
+严格的古典梵語是從古老和豐富的吠陀梵語中提煉出的正規化表达形式。這種结构严谨的古典梵語文法從梵書階段就已經開始，直到波你尼的時代仍未彻底完成，但那時這門語言已經脫離了普通使用。
+參見[编辑]
+
+
+吠陀梵語
+巴利語語法
+阿維斯陀語
+古波斯語
+梵語文法家
+梵語文學作品
+天城文
+梵文藏文轉寫體系
+國際梵語轉寫字母
+悉曇文字
+古希臘語
+拉丁語
+
+
+参考文献[编辑]
+引用[编辑]
+
+
+^ 2001 印度人口普查[1]
+^ Indian Constitution Art.344（1）& Art.345
+^ Sanskrit. Ethnologue. 2008-11-03 （英语）. 
+^ 《大唐西域記》卷第二（三國）：詳其文字，梵天所製，原始垂則，四十七言也。寓物合成，隨事轉用。流演枝派，其源浸廣，因地隨人，微有改變，語其大較，未異本源。
+^ Masica, p. 32
+^ Masica, p. 32
+^ * Meier-Brügger, Michael; Matthias Fritz, Manfred Mayrhofer, Charles Gertmenian (trans.). Indo-European Linguistics. Berlin; New York: Walter de Gruyter. 2003: p. 20. ISBN 3110174332.  引文使用过时参数coauthors (帮助) 引文格式1维护：冗余文本 (link)
+^ Keith, Arthur Berriedale. A history of Sanskrit literature. Delhi: Motilal Banarsidass. 1993: p. 4. ISBN 8120809793.  引文格式1维护：冗余文本 (link)
+^ Pollock (2001:393)
+^ Oberlies (2003:xxvii-xxix)
+^ Edgerton (1953:?)
+^ 12.0 12.1 Burrow, Thomas. The Sanskrit Language 1st Indian edition. Delhi: Motilal Banarsidass. 2001: 105. ISBN 8120817672.  引文格式1维护：冗余文本 (link)
+^ 13.0 13.1 Deshpande, Madhav M., Genesis of Rgvedic Retroflexion, Sanskrit & Prakrit: Sociolinguistic Issues, Delhi: Motilal Banarsidass: 178, 1993, ISBN 8120811364 
+^ Cardona, George, Sanskrit, (编) Cardona, George; Jain, Dhanesh, The Indo-Aryan Languages, New York: Routledge: 257, 2003, ISBN 0700711309 
+^ Coulson, Michael; Richard F Gombrich, James Benson. Sanskrit. Chicago: Contemporary Books. 2006: 5. ISBN 0071426663.  引文使用过时参数coauthors (帮助)
+^ Tiwari (1955:?)
+^ Tiwari (1955:?)
+^ 《大唐大慈恩寺三藏法師傳》卷第三：印度梵書名為記論，其源無始，莫知作者。每於劫初，梵王先說傳授天人，以是梵王所說，故曰梵書。其言極廣，有百萬頌，即舊譯云《毘伽羅論》者是也。然其音不正，若正應云《毘耶羯剌諵（音女咸反）》（vyākaraṇa），此翻名為《聲明記論》，以其廣記諸法能詮，故名《聲明記論》。 昔成劫之初，梵王先說具百萬頌。後至住劫之初，帝釋又略為十萬頌。其後北印度健馱羅國婆羅門睹羅邑波膩尼仙又略為八千頌，即今印度現行者是。近又南印度婆羅門為南印度王復略為二千五百頌，邊鄙諸國多盛流行，印度博學之人所不遵習。此並西域音字之本。其支分相助者，復有《記論略經》，有一千頌。又有字體三百頌，又有字緣兩種，一名《門擇迦》（maṇḍa）三千頌，二名《溫那地》（uṇadi）二千五百頌，此別辯字緣、字體。又有《八界論》八百頌，此中略合字之緣、體。 此諸記論辯能詮所詮，有其兩例。一名底（丁履反）彥多（tiṅanta）聲，有十八囀，二名蘇漫多（subanta）聲，有二十四囀，其底彥多聲於文章壯麗處用，於諸汎文亦少用。其二十四囀者於一切諸文同用。 其底彥多聲十八囀者，有兩：一、般羅颯迷（parasmai），二、阿答末泥（ātmane），各有九囀，故合有十八。初九囀者，如汎論一事即一事有三。說他有三，自說有三，一一三中，說一、說二、說多，故有三也。兩句皆然，但其聲別，故分二九耳。依般羅颯迷聲說，有無等諸法。且如說有，有即三名，一名婆[仁-二+波]（之靴反）底（丁履反，下同），二名婆[仁-二+波]矺（多訛反），三名婆飯底。說他三者，一名婆[仁-二+波]斯，二名婆[仁-二+波]矺，三名婆[仁-二+波]他。自說三者，一婆[仁-二+波]彌，二婆[仁-二+波]靴（去聲），三婆[仁-二+波]摩（此第三依四吠陀論中說，多言婆[仁-二+波]末斯）。依阿答末泥九囀者，於前九囀下各置毘耶底言，餘同上。安此者令文巧妙無別義，亦表極美義也。 蘇漫多聲二十四囀者，謂總有八囀，於八囀中一一各三。謂說一、說二、說多，故開為二十四。於二十四中一一皆三：謂男聲、女聲、非男非女聲。言八囀者：一、詮諸法體，二、詮所作業，三、詮作具及能作者，四、詮所為事，五、詮所因事，六、詮所屬事，七、詮所依事，八、詮呼召事。且以男聲寄丈夫上作八囀者，丈夫印度語名布路沙。體三囀者，一、布路殺，二、布路筲，三、布路沙（去聲）。所作業三者，一、布路芟，二、布路筲，三、布路霜。作具作者三者，一、布路鎩拏，二、布路[言*（穴/之）]（音鞞僣反），三、布路鎩鞞，或言布鎩呬。所為事三者，一、布路廈（沙詐反）耶，二、布路沙[言*（穴/之）]（鞞僣反），三、布路鎩[音*勺]（鞞約反）。所因三者，一、布路沙哆（他我反），二、布路鎩[言*（穴/之）]（同上），三、布路鎩[音*勺]（鞞約反）。所屬三者，一、布路鎩[言*罝]（子耶反），二、布路鎩[言*（穴/之）]，三、布路鎩諵（安咸反）。所依三者，一、布路[月*差]（所齊反），二、布路殺諭，三、布路鎩縐（所芻反）。呼召三者，一、系布路殺，二、系布路稍，三、系布路沙。略舉一二如此，餘例可知，難為具述。
+^ Abhyankar (1986:?)
+^ 引用自《梵文基础》德国A.F.斯坦茨勒著，季羡林译。
+^ 窺基《大乘法苑義林章》卷第一
+^ Staal, J.F., Word Order in Sanskrit and Universal Grammar 
+^ Gillon, B.S, Word order in Classical Sanskrit, Indian linguistics, 1996, 57, ISSN 0378-0759 
+^ Salomon (1998), p. 7
+^ Whitney (1889:?)
+^ 26.0 26.1 Salomon (1998), p. 86
+^ 27.0 27.1 Masica, Colin. The Indo-Aryan Languages. Cambridge: Cambridge University Press. 1991: p. 135. ISBN 9780521299442.  引文格式1维护：冗余文本 (link)
+^ 在北印度有確定为公元前3世紀的婆羅米文碑刻，其中最古老的出現在著名的阿育王俗語石柱刻字中。使用泰米爾婆羅米文的最早的南印度碑刻屬於同一時期（Mahadevan (2003:?)——）
+^ 佛藏輯要，第三十二冊。
+^ 中華大藏經，漢文部分，第七十二冊。
+^ 《Das Buch der Schrift》，Carl Faulmann (1835-1894)著, Druck und Verlag der Kaiserlichen Hof-und Staatsdruckerei於1880年出版，PDF版。
+^ This village speaks gods language - India - The Times of India
+^ Sanskrit boulevard: Hindustan Times
+^ Chitrapurmath.net 互联网档案馆的存檔，存档日期2011-07-21. Thehindu.com
+^ First suggested by Briggs (1985)
+
+
+来源[编辑]
+
+
+Abhyankar, Kashinath V. A dictionary of Sanskrit Grammar,. Gaekwad's Oriental Series 134. Baroda: Oriental Institute. 1986. 
+Briggs, Rick. Knowledge Representation in Sanskrit and Artificial Intelligence. AI Magazine 6. 1985. 
+Burrow, T. Sanskrit language. Motilal Banarsidass. 2001. ISBN 8120817672. 
+Chatterji, Suniti Kumar. Indo-Aryan and Hindi. Firma K. L. Mukhopadhyay. 1960. 
+Edgerton, F. Buddhist Hybrid Sanskrit grammar and dictionary. New Haven: Yale University Press. 1953. 
+van Gulik, Robert. Siddham; an essay on the history of Sanskrit studies in China and Japan. Nagpur: International Academy of Indian Culture. 1956. ISBN 8177420380. 
+MacDonell, Arthur Anthony. A History Of Sanskrit Literature. Kessinger Publishing. 2004. ISBN 1417906197. 
+Mahadevan, I. Early Tamil epigraphy from the earliest times to the sixth century Common Era. Chennai/Cambridge. 2003. 
+Minkowski, Christopher. Nīlakaṇṭha's instruments of war: Modern, vernacular, barbarous. The Indian Economic and Social History Review 41. 2004: 365–385. 
+Monier-Williams, Monier. A Sanskrit-English Dictionary. 1898. 
+Oberlies, Thomas. A Grammar of Epic Sanskrit. Walter de Gruyter. 2003. ISBN 3110144484. 
+Pollock, Sheldon. The Death of Sanskrit (PDF). Comparative Studies in Society and History 43. 2001: 392–426. 
+Salomon, Richard. Indian epigraphy: a guide to the study of inscriptions in Sanskrit, Prakrit, and the other Indo-Aryan languages. New York: Oxford University Press. 1998. ISBN 0195099842. 
+Staal, J.F., Sanskrit and Sanskritization, The Journal of Asian Studies, 1963, 22 (3): 261–275 
+Tiwari, Bholanath. भाषा विज्ञान（Bhasha Vigyan）. 1955. ISBN 0-7007-1382-4. 
+Warder, A.K. Indian kāvya Literature. Literary Criticism 1. Delhi: Motilal Banarsidass. 1972. 
+Whitney, William Dwight. Sanskrit Grammar: Including both the Classical Language and the Older Dialects. 1889. 
+Zoetmulder, Petrus Josephus. Old Javanese-English dictionary. The Hague: Nijhoff. 1982. 
+
+
+外部連結[编辑]
+
+
+
+您可以在英語維基教科書中查找此百科条目的相關電子教程：
+梵語
+
+
+
+
+
+维基文库有此种语言版本：
+
+梵语维基文库
+
+
+
+
+
+
+
+維基百科有此種語言版本：
+梵语维基百科
+
+
+
+
+
+關於一系列與梵语有關的詞語，參見維基詞典上梵語的詞語目錄
+
+
+
+
+
+维基共享资源中相关的多媒体资源：梵语
+
+
+
+
+华梵·简洁多功能梵语、巴利语输入法
+佛教梵音
+Samskrita Bharati, organization promoting Sanskrit
+太清梵文（天城文）输入法
+太清梵语转写在线输入法
+罗马梵文输入法
+Online transliterator from romanized to Unicode Sanskrit
+Sanskrit transliteration software with font conversion to Latin and other Indian Languages
+Sanskrit Alphabet in Devanagari, Gujarati, Bengali, and Thai scripts with an extensive list of Devanagari, Gujarati, and Bengali conjuncts
+Academic Courses on Sanskrit Around The World
+
+
+梵語辭典
+
+
+Monier Williams Sanskrit-English Dictionary
+Cologne Digital Sanskrit Lexicon
+Apte English-Sanskrit Dictionary
+
+
+梵語文檔
+
+
+Sanskrit Documents: Documents in ITX format of Upanishads, Stotras etc. and a metasite with links to translations, dictionaries, tutorials, tools and other Sanskrit resources.
+Digital Sanskrit Buddhist Canon
+GRETIL: Göttingen Register of Electronic Texts in Indian Languages, a cumulative register of the numerous download sites for electronic texts in Indian languages.
+Gaudiya Grantha Mandira - A Sanskrit Text Repository. This site also provides encoding converter.
+Sanskrit texts at Sacred Text Archive
+Clay Sanskrit Library publishes Sanskrit literature with facing-page text and translation.
+[3] and [4]: Digital Library of India, scanned/OCRed copies of public-domain books
+
+
+初級讀本
+
+
+A Practical Sanskrit Introductory by Charles Wikner
+Sanskrit Self Study by Chitrapur Math
+Learn Sanskrit through self-study
+
+
+語法
+
+
+An Analytical Cross Referenced Sanskrit Grammar By Lennart Warnemyr.
+Sanskrit Grammar: Including both the Classical Language and the Older Dialects（英语：s:Sanskrit Grammar） by W. D. Whitney.
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4051642-8
+NDL: 00560852
+
+
+
+
+
+
+
+
+
+
+
+
+分类：ISO 639-2代码的语言ISO 639-1代码的语言梵語印度-雅利安语支印度語言隐藏分类：CS1英语来源 (en)含有过时参数的引用的页面引文格式1维护：冗余文本Webarchive模板wayback链接含有梵語的條目含有不被支持信息框字段的语言类条目信息框没有参考资料字段的语言类条目使用過時參數的語言類條目使用國際音標字元的條目包含规范控制信息的维基百科条目

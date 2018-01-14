@@ -1,0 +1,967 @@
+联合国议会大会
+
+
+
+
+联合国议会大会的旗幟（暫定）
+
+
+联合国议会大会（英语：United Nations Parliamentary Assembly，縮寫：UNPA[1]），为聯合國體系建议設立的機構。其構想是主張開放給成员国的國會议员参与，再由全球人民直接选出联合国议会的成员。
+這個概想早在1920年代建立国际联盟时就已經產生，1945年二次大战结束后又再度提起，然而冷战拉开序幕后这一想法再度沉寂下去。到了90年代至21世纪，全球贸易的兴盛，世界组织力量的崛起，无一不呼吁着联合国去创建一个议会大会来审查这些活动。2007年，为协调UNPA呼吁者的努力，一场恳请建立联合国议会大会的运动开始了，并在2009年2月赢得了来自全球90多个国家的600多位议会成员的支持。
+赞成者已经提出了几种联合国议会大会的实施方案选择：包括颁布新的协议，创建大会为联合国大会的分支机构，并在国际议会联盟或另一个非政府组织之间逐步推广联合国议会大会。部分议案建议按满足联合国成员国的人口和经济实力的不同比例来分配选举票数。创建UNPA运动最初只是提倡赋予UNPA建议权，之后再逐渐增加它在联合国中的权力。反对者提出证据诸如基金筹措问题、选民参选率不高以及联合国非民主成员国等理由，全面否决这一方案。
+
+
+
+目录
+
+
+1 历史
+2 实施
+3 权力
+4 合法性与问责制
+5 资金
+6 直接选举与国家议会任命
+7 表决权的分配
+8 选举规章
+9 参考文献
+
+
+
+历史[编辑]
+建立国际组织议会大会这一提议要至少追溯到20世纪20年代。当时国际联盟创建者们考虑或者说拒绝了将民众议会纳入联合国联盟的架构中的计划。除了第71条规定允许联合国经济与社会理事会享有授权一些组织咨询地位，第十七章和十八章要求“依照各个成员国的法定程序，通常立法机关都要参与，民众可参与可不参与，只有成员国全部通过才可批准和修改条例”，联盟和联合国创始文件中几乎没有提到民众或立法议员们的直接参与机制。1945年，英国外交官欧内斯特·贝文提议开办一次世界各国人民大会，他在下议院发言说：“现在必须要有一个让全世界各地的民众直接参与选举，向各国家负责的研究机构。”1945年10月16日，在联合国宪章生效以前，美国最高法院大法官欧文·罗伯茨（英语：Owen J. Roberts）以及前任新罕布什尔州州长罗伯特·巴斯（Robert P. Bass）召开了一次大会，宣布通过《都柏林宣言》，表示联合国宪章不足以维持世界和平。他们呼吁建立世界政府，发表观点：“应该建立这样一个政府，它是基于共同的章程，同时考虑到人口、自然资源、工业资源以及其他因素，均衡地分配全世界各国代表权，参与该政府运作。不能够仅仅依据协议……就像国家那样……颁布法令和投票选举。”格林威尔·克拉克（英语：Grenville Clark）和都柏林会议的其他与会者，继续积极从事联合国世界联邦党人组织（简称UWF），并活跃于世界联邦主义运动。战前UWF颇见成效，有23个州立法机关通过了草案，支持该组织的目标，。但是麦卡锡主义者怂恿很多主要成员放弃该计划，否则参议员约瑟夫·麦卡锡（英语：Joseph McCarthy）就要毁掉他们的事业。美国的国际主义开始与共产主义接轨。
+冷战后时期，一些因素为UNPA的提议创造了一个更有利的环境。三边委员会的一份报告指出由两大敌对阵营——苏联和美国所领导的世界政治势力的改变意味着全球范围内权力的分散。经济相互依存的增长，跨国活动带来的增殖，弱小国家爱国主义的增强，科技的迅猛发展，以及大事件例如全球环境问题，大规模杀伤性武器遏制问题等不断增加，不论是国内还是国际上的这些事情，都比过去更为急切地需要产生一个国际协调组织。大体上民主制度正逐步发展，到2003年，《自由之家》统计出共有121个成功建立民主制的国家，比起1987年只有66个，而1975年只有30个。虽然到了21世纪中叶，这一增长趋势似乎将完全停滞下来。快速一体化的欧盟（独特的超国家团体，其欧洲议会的权力正逐渐变大）为多国议会组织怎样发展和发挥作用作了榜样。世界贸易组织及类似机构对此高度关注，因为虽然他们对贸易争端有越来越大的影响力和控制力，但是还不能够对民众负责。美国总统比尔·克林顿（英语：Bill Clinton）发表个人观点：“我们必须坚持国际贸易组织应当开放让民众监督，而不是保持神秘，秘密的事情将受到最猛烈的批判。”一种“新外交术”似乎逐渐成形，非政府组织和政府组织共同合作，去创造新的国际机构例如国际刑事法庭。美国公共外交咨询顾问委员会主席哈罗德·Pachios（英语：Harold C. Pachios）指出：
+
+
+“
+从组建政府至今，外交涉及到向另一个政府传达信息，经常由政府官员即大使传达给外国政府的代表，以及将外国政府官员的回复传达给本国政府。国与国之间的联系一般都由政府之间交换信息来控制，而这些交换的信息通常是机密的。20世纪后半叶特别是20世纪最后十年，爆发了信息革命，是这一切都发生了巨大的变化。现在一国的普通公民往往也可以管理国家之间的关系。
+”
+
+
+1993年初期，加拿大众议院外事与国际贸易常务委员会发表了一份报告称：“旨在为联合国建立民众和政治选区，委员会建议加拿大支持联合国议会大会的发展。”[2]1995年前后，民主联合国促进运动组织，联合国第二委员会国际交互网络，以及世界人民联合运动组织纷纷开始传播建立联合国议会大会的提议。其他组织，如全球责任研究智囊团One World Trust也开始发表评论，分析建立联合国议会大会在当前政治形势下如何进行。[3][4][5]2005年2月8日，由民主联合国促进委员会发起，108名瑞士议会成员联合签署一封写给联合国秘书长的公开信，请求建立这样一个机构。[6]2005年5月14日，自由国际大会发表一份决议，表示“自由国际组织呼吁联合国成员国深入考虑建立联合国议会大会。”[7]
+2005年6月9日，欧洲议会发表一份决议，其中一项表示欧洲议会“请求在联合国体系中建立联合国议会大会。该机构将提升民主形象，加快内部民主进程，并使世界民间社会直接参与决策制定；议会应被赋予获得信息，参与和控制的真正权限，并能够采纳联合国总务委员会给出的建议;[...]”[8] 2006年，联合国人民议会公民组织向联合国秘书长科菲·安南提交一份请愿书，意在“集合一个高级专家组来决定在联合国内建立一个公民议会大会所需的措施”[9]
+2007年4月，国际非政府组织开展了建立联合国议会大会国际运动，这是目前主要的为建立联合国议会大会的运动。[10]该运动由民主联合国促进会领导，[11]有来自世界各地150多个民间社会团体和550多名议会议员参加。[12]
+到2008年11月，建立联合国议会大会国际运动请愿书上已有来自120多个国家的大约2400人签名。其中包括数百名议会议员，民间团体领导人，著名学者以及知名人士，如联合国前秘书长布特罗斯·布特罗斯－加利，泛非议会女议长格特鲁德·蒙盖拉，奥斯卡金像奖获得者艾玛·汤普森， 科幻小说家亚瑟查理斯·克拉克，以及美国国家航空航天局前宇航员艾德加·米切尔（人类月球行走第六人）。2007年9月25号，葡萄牙首相苏格拉底（Mr. José Sócrates）代表欧盟，在联合国第62届全球性大会的一般辩论上声明：我们致力于联合国大会主体的改革，以提高该组织的代表性、透明度和有效性。[13]2007年10月24日，泛非议会全体通过一项决议，要求在联合国建立议会大会，不同于“域性全球机构例如非盟、欧盟、欧洲理事、南方共同市场，联合国及其专门机构是缺乏综合的有组织的议会大会的国际机制之一。”[14][15]至目前為止，已舉行過4場CEUNPA的國際研討會。[10]
+全球最具影响力最知名的联合国拥护组织联合国协会-美国分会对这一问题态度模棱两可。2003年，联合国大会-美国分会政策研究执行董事杰弗里·劳伦地写了一篇名为《时代尚未到来》的文章，指出联合国议会大会还存在许多问题尚未解决，如包容性、权威性及有效性。[16]2006年11月，联合国协会立场似乎完全转变，在第38届联合国协会世界联合会全体大会上，该组织声明“支持建立联合国议会大会，作为表达民众声音的联合国内部协调机构；呼吁联合国成员国各政府、议员、民间团体代表共同检验建立联合国议会大会可能的步骤和方法。”[17]
+
+主要地區性議會及議會大會
+
+名稱
+第一屆會議
+直接選舉
+
+
+歐洲理事會議會大會（英语：Parliamentary Assembly of the Council of Europe）
+1949
+N/A
+
+
+歐洲議會
+1952
+1979
+
+
+西歐聯盟大會（英语：Assembly of the Western European Union）
+1955
+N/A
+
+
+北大西洋公約組織議會大會（英语：NATO Parliamentary Assembly）
+1955
+N/A
+
+
+歐洲安全與合作組織議會大會（英语：Parliamentary Assembly of OSCE）
+1992
+N/A
+
+
+阿拉伯各國議會聯盟
+2001
+N/A
+
+
+泛非洲議會
+2004
+N/A
+
+
+南方共同市場議會
+2007
+2014 (planned)
+
+
+斯蒂芬·马歇尔表示，二战之后的数年间，特别是20世纪80到90年代，议会大会急剧增加，自1949年以来建立了40多个议会大会。42%的世界议会大会正式与政府间机构联系，35%与政府机构有非正式联系；26%独立于政府机构之外。议会体制接受议会大会作为使决策合法化的途径，政府间合作需要更强有力的议会支持还有区域合作都刺激了议会大会的发展。然而，许多国际机构，例如联合国，世界贸易组织都没有议会大会，并且都曾被严肃指责制度缺失。[18]
+实施[编辑]
+经过多方评定，建立联合国议会大会有六种选择。
+修改联合国宪章，即根据联合国宪章第109项条款召开宪章修改大会，是经常被提及的一种可能性。[19]此举有一定困难因为它需要联合国成员三分之二通过，其中包括安理会五个永久成员国。[20]自1945年以来只有对联合国宪章的五条修正案，根据第109项条款全部未获通过。[21]路易斯·左恩和格林维尔·克拉克1958年的著作《世界法律下的世界和平》提议通过这一方式建立联合国议会大会。
+另一种可能建立联合国议会大会作为联合国委大会的附属机构。根据联合国宪章第22项条款联合国大会有权采取此举。[22]厄金斯·查理得和布莱恩·厄克特阁下在他们1994年的著作《更新联合国整体》一书中提到这一方法。联合国大会民主委员会在其报告《提高国际民主》中也提到根据第22项条款或者各国议会联合会的改革建立联合国议会大会。[23]2006年，欧洲理事会通过一项决议指出“具备联合国大会议会的协商职能的实验性议会机构的建立是提高联合国议会规格的决定性举措。”[24]
+该机构也可以以民主国家共同体为依托。
+另一种选择是建立联合国议会大会作为非政府组织，该组织由民居选举产生的议员组成。其优点是不需要（某些独裁性的）地方政府或世界议会组织与独裁性成员合作，只代表民主立法者、议会和政府的意愿。[25]国际宪法及议会协会与其他非政府组织试图建立切实可行的议会。[26]Heinrich批评这一方法称“如果这一方法真的成功了，它将把就数以千计的实际问题就政府施压的力量转化成了泛政府机构的运作，前者是民众擅长的，而后者是民间组织不擅长的。这样产生的大会的合法性将受到质疑（它到底代表了哪方面的利益呢？）并且不可能可能成为真正的世界议会改革的转折点。”[27]
+可以通过独立条约建立联合国议会大会。其优点是至少20到30个经济及地理条件各异的国家可以建立联合国议会大会，[4][28]并且会随着更多的国家通过这一条约数量有所增加。史特劳斯指出这是大多数国际机构例如世界卫生组织，国际劳工委员会和国际军事法庭的建立方式。[4]据推测，首先将会由权力机构举行会议起草条约，然后进行批准程序。[29]
+也许想要利用并且/或者进一步改进一下各国议会联盟皆有可能，2002年时它被视为处于观察员的地位。各国议会联盟的第二届世界议长大会通过一项决议说“我们十分希望能与联合国开展更多实质性互动与合作，号召各世界组织更多向议会联盟及其成员国议会寻求他们能够提供的政治性及技术性意见。很多国家的议会目前还不是各国议会联盟的成员，此外还不能确定议会联盟自身是否能支持此项提议，议会联盟秘书长安德斯。约翰逊2005年的一篇文章认为：“在已有的政府大会之外再建立一个独立的议会大会几乎没有任何现实或实际意义。”事实上，各国议会联盟似乎更希望将进行改革以替代联合国议会大会，称“联盟拥有必要的经验，因而无需设置其他机构。”
+权力[编辑]
+
+
+
+
+上圖的為多國家議會。聯合國議會大會可能一開始為一個聯合國兩院制的非民選上議院。
+
+
+建立联合国议会大会的建议提出联合国议会大会最初可作为一个咨询机构，之后随着它演变为通过直接选举产生议会大会，其权力可以扩充：“逐步地，它应该通过联合国和联合国系统机构获得信息、参与和控制的真正权限”。亚太法律与政策期刊的一篇文章指出这一想法来源于“英国议会、法国国民议会、美国国会及欧洲的一些议会”的一些先例，他们都已形成体系，权力也随着时间的推移逐步转移至直接选举产生的官员手中：“过去，新民主制度总是要向权力这一现实妥协，然后在可能的情况下逐步进化。这通常是以议会结构中的非民主机构的形式实现的。因此，在英国，平民大众迫不得已向拥有武力及贵族头衔的人所握有的权力和利益妥协，这也使实行包括上议院和下议院在内的两院制成为必然。法国国民议会也有类似的权利联盟作为议会或功能独立的议院，美国设立参议院也反映出这种迫不得已的利益妥协，人口较少的州并不甘愿服从于人口较多的州所带来的“民主淹没”。
+世界联邦主义者经常指出联合国宪章开头语支持人民民主联盟而不是政府，狄奥·范·伯芬也发表过这种观点，他说：“联合国议会联盟运动设想的更为民主的联合国会强化联合国宪章中所称的我们联合国人民的合法性，”。据联合国民主委员会称“联合国议会这一概念是迈向民主的世界议会的第一步。”世界联邦主义者通常视授权给民主议会为阻止战争的一种方式，这能为大家追求政治目标提供和平的方式。例如沃尔特克朗凯特曾说，未来几年，我们必须改变全球的基本结构，使其从现在这种充满战争和更具毁灭性武器的无序体系转变为一个民主的联合国联盟领导的新体系。
+据奥斯卡·沙赫特（Oscar Schachter）所讲，以往国际法律的制定是通过国与国之间签订协议实现的，而这种传统的制法程序能否应对如今的需求，仍存有疑问：“由于科技的飞速发展，人口和环境带来的冲击，人们态度和社会价值观的改变以及国际事务所带来的需求，大量问题摆上桌面，已经无法按照传统惯例法的逐案处理的通行做法解决。
+而当这些问题可以通过制定多边协议得到解决时，这类协议的制定又通常是复杂而又缓慢的，相反，联合国决议的制定要容易得多。”[30]国际海洋法就是一个例子，美国花了几十年才最终通过海洋法提案（尽管在卡托研究所[Cato Institute]看来，这样的延误是有好处的。）[31]乔治·蒙比尔特（George Monbiot）认为，国际立法机构的职能缺失破坏了国际司法的权威地位（例如被提议成立的刑事法庭）。实际上，海牙和阿鲁沙战争法庭的法官一直被迫在工作过程中制定法律。”[32]
+在给予联大立法权的提议中，包括“……”的观点，即让在世界上国土，人口，经济总量上占优势的一些国家通过联大决议时能够让其具有约束力。然而，这些提议作用甚微。[33]根据海因里希（Heinrich）的观点，一旦联合国议会建立，就容易争取人们的支持，给予其授权。议会自身成员有希望通过修订联合国宪章，将其作为一个“主要机构”同联大并行，并在推动其进步时发挥更大的作用。在促成联大最终转型时，联合国议会的政客们如能用好其娴熟的政治手段，与本国政府高层的关系，以及在公众和媒体中的可信度，就将有望成为一股强大、持续的政治推力。[27]
+合法性与问责制[编辑]
+创立联合国议会大会（UNPA）的主要目的之一，就是要加强联合国问责制和合法性。2005年，联合国机构花费了超过18亿美元公款。[34]联合国审计员指出其缺乏有效的内部控制措施，无法避免浪费、违纪和管理不当的现象出现。[35]通过举行听证会，发表各类报告，并最终提出决议，UNPA可以对其他联合国机构进行监督。[4]2007年9月的一次新闻稿中，欧洲议会议员（MEP）格雷厄姆·瓦特森（Graham Watson）曾表达了自己的愿景：“如果联合国的权力在某个时代呈指数级增长，那UNPA就会在联合国各项活动中充当监控器，监督决策被按时实施，保证责任义务的履行以及机构事务的透明。”[36]伦敦市长肯·利文斯通（Ken Livingstone）提出，“这项运动想要促成的更民主的联合国，将会在合法性和问责制上取得进展。”[37]泛非议会的成立正印证了这个观点：“如果说民主化是确立国家法制并改进国家统治的主要途径，那么同时，它也肯定是确立国际社会法制并改进国际组织运转的最可靠的办法，通过更多国家的参与，能让国际组织更加开放，工作更有效率。”[15]
+
+
+
+
+中國共產黨掌控的全國人民代表大會（圖中的建築為人民大會堂）
+
+
+一些全球议会的拥护者，像是卢西奥莱维教授，建议先建立一个仅限于民主国家的联盟：“尽管世界民主化还没有实现，但这不应成为联合国民主化的障碍。六个西欧国家形成了欧盟，开始了自己的民主化而没去等待所有欧洲国家实现民主。联合国大会美国代表杰夫劳伦蒂注意到了不包括来自与会员国的非民主化国家的问题：否认几个“流氓”独裁国家会员资格是一回事，排除中国、大部分主要的阿拉伯国家、2/3的非洲国家以及想像由此产生的美国代理机构可以扮演一个咨询和监督的角色，并且成为联合国主办的关于多边谈判公约的一部分（国际立法的实际工作），或通过对联合国政治机构的决议 又是另一回事。
+联合国议会的支持者们经常指出世界上的大部分国家是民主的。加拿大世界联邦党人主席迪特尔海因里希认为，主要的民主国家甚至可以利用联合国议会去影响不那么民主的国家。
+
+
+“
+虽然太多的非议会成员出席会削弱联合国议会的合法性和到的权威，但是这个缺点有可能被其它方面的优势所抵消。在欢迎非议会成员参与其中之后，议会可能会以自身的民主化影响这些非议会成员，并以这种方式成为推进民主在非民主国家的发展。来自于非民主国家的非国会议员们无法假装他们只是简单的做外交官这份工作，他们声称穿着真正的国会议员的外衣，并且完全相信这些议员们所说。因此，在任何议会中，他们都会被他们的同事们所劝服并相信，外交官永远不会加入联盟和改变立场。其中有些议员，提出建议时是温顺的各自国家政府代言人，转身一变就成了美国国会地位的鼓吹者（如果他们开始觉得自己的国家政府危险，国会甚至可能需要考虑保护这样的议员）。正因为有这样的期待，一些非民主化国家可能会通过禁止他们的国会议员加入联合国议会，恐怕他们会受民主化蔓延的影响。这种情况也会帮助促进民主化的源头发展，同时削弱这些国家的法制化，甚至在世界人民的眼里、在公众的眼裡，为这些国家的改变增加压力。
+”
+
+
+资金[编辑]
+海因里希（Heinrich）表示，“大会议员的薪金及差旅费用应由议会机构预算（作为联合国预算的一部分）支付，而不能让单独的国家政府承担费用。这样的规定是为了保证参与联合国议会大会的政治家的中立立场，也保证了参与国的平等公平。”[27]联合国宪章第17条规定，“机构的费用应按联大会议分摊规定，由成员国共同负担”。因此，除非由个人对联合国进行捐赠（例如，1946年受赠的联合国总部用地），一般地，议会大会（UNPA）只能像其他的联合国机构一样，由成员国共同提供资金支持，而其中美国所占份额较大。成员国的GNP（国民生产总值）与其对联合国的资金投入份额的大小，决定了其在联合国的投票权与话语权。[38]
+《温哥华太阳报》中一篇文章指出，“对设立议会大会的持反对意见的人们认为，议会大会的设立可能助长联合国的官僚作风并增加其复杂性。而每年更换一组议会大会成员的预估费用为1亿4千万至2亿8千万美金。”[39]
+1993年的联合国议员全球行动联盟的调查表明，绝大多数的受访议员认为公众会支持设立联合国议会大会的想法，但是他们并不确信公众能负担其带来的巨额费用。研究表明，“随着联合国的扩大，设立议会大会的资金需求会不断增大，而除非这一资金投入有获得巨大的收益的可能性，人们不会对提供资金支持产生兴趣。民众们在被问及基本理念时往往能讲出些冠冕堂皇的全球主义者的论调，然而考虑到收益与成本时就常常妥协于经济的考量。”[40]联合国大学（译者注：联合国下设的国际大学）1995年发表的报告指出，“我们很难知道议会大会是否能负担1000多名议会代表的薪金及差旅费用；而这项提案对联合国这一多边参与的组织无疑会增加其业已存在的重复浪费的问题。[41]
+联合国议会大会设立运动（CEUNPA）的组织者对这一反对意见的回应是，“议会大会的确会成为各国政府和国际组织及其领导人必须在某种程度上顾及到的外交平台。然而在另一方面，大会是由各国选出的议员组成的，这使大会对国际议题的讨论结果更具可信度与合法性。因此，议会大会的设立将会增加国际行动的效率。”[42]
+直接选举与国家议会任命[编辑]
+联合国议会最初也许只是一个议会间机构，由各个国家的议会议员组成，之后转变为直接选举。这与欧盟议会的演变过程有所相似。1952年欧洲共同体成立，议员都由各成员国的国家议会任命产生；1979年，直接选举开始确立。参议员道格拉斯·罗奇（Douglas Roche）指挥官在《联合国议会大会法案》中对二者进行了权衡折衷的分析。若议员原本已经存在，在此基础之上建立联合国议会大会将相对比较容易，因为这样避免了种种障碍，如决定选举周期，建立普遍接受的选举机构，保证选举合法等等，“一个由各国议会组成的组织本身就带有了‘批准印记’”。各国议会可保留各自选举权。的确，国内选举的诚信度有待商榷，不过民主化趋势愈演愈烈。“国家议会也普遍拥有人员与资金，可以缓解新的世界性议会建立的资金问题。”另一方面，经直接选举产生的联合国议会议员，可以将更多的时间致力于联合国议会事务之中，而不会为自己国家议会的职责分身。
+海因里奇指出联合国议会大会间接选举的战略优势：“联合国议会议员由各国议会提供的另一好处是，议员们为建立议会，彼此亲如同盟，之后会为促进其发展而产生政治意愿。他们作为联合国议会议员的身份，将促使这些政客们投身各自国家为联合国进行宣传，包括宣传联合国议会本身发展及民主化的需要。
+海因里奇还指出，各国议会也许可以任命民众代表至联合国议会大会，方式如同美国选举团正式选举总统。这或许可以作为直接选举实现以前的权宜之计。不过这样仍然可确保民众选举民众（尽管不是直接选举）至联合国议会大会，而非领导任命官员。
+表决权的分配[编辑]
+全球性议会大会可以通过其组织架构赋予人口众多的国家更大的影响力。联合国大会所采用的一国一票的制度，使得一些小国在联合国系统中获得了与其国家大小不相称的影响力。联合国的改革将运用商数于表决权，明尼苏达大学荣誉退休教授约瑟夫·施瓦茨贝里（Joseph E. Schwartzberg）指出：“64个人口最少的成员国，总共只占全球人口的1%，却足以否决任何需要三分之二多数票的决议，并且理论上，127个人口最少的成员国，不过世界总人口的8%，却能够让一项需要三分之二多数票的重要决议获得通过。”他在他的论文《克服实际困难来建立世界议会大会》中进一步阐述了这个观点，
+
+
+“
+联合国成员国之间的人口差距如此之大，远远超过了任何国家立法机关中各团体代表间的差距，以致于建立一个类似美国参议院的附属机构的建议失去了意义。通过下列数据我们可以了解这点，加利福尼亚是美国人口最多的州，其人口数是人口最少的怀俄明州的69倍，而联合国中人口最多的成员国中华人民共和国，其人口数是瑙鲁或图瓦卢的100,000倍，这两个人口最少的成员国仅各有居民一万多人。加利福尼亚在众议院拥有52个席位，相比之下怀俄明州只有一个席位，而两个州在参议院各有两个席位。但是谁会认为瑙鲁应该和中国享有完全同等的权力呢？
+”
+
+
+关于成员国之间表决权的分配另有几个候补建议。施瓦茨贝里提出的加权表决权方法考虑到人口（根据民主原则），对联合国经费的贡献（经济原则）和在全体成员中的份额。依照各国的财政贡献来衡量各国的表决权的想法早有先例，如世界银行，国际货币基金组织和其他采用布雷顿森林体系的机构都使用这个方法。临时人民大会（Provisional People's Assembly，一个主张建立联合国议会大会的组织）的分配方法给予每个国家一定的人口席位，由基于结合彭罗斯法的计算方法得出，一定的经济席位（基于其在全球国民生产总值所占份额），并考虑国家的自由等级（根据自由组织（Freedom House）分类为自由，半自由和非自由）。
+在一人一票的原则下，每个国家的选票数直接与其人口数成正比。这与美国众议院的设置类似。在《未来的主权——反思国际关系的核心概念》一书中，哈森科勒菲尔（Hasenclever）等人总结了这个系统的优缺点：“严格意义上的民主，是以个人为对象的，每个人的选票必须具有完全相同的分量。然而，已知的所有建议中没有一个支持这样严格的诠释方式，因为这样各国表决权的差异将会极端化，仅有四个国家：中国，印度，美国和前苏联将处于绝对多数地位。”彭罗斯法则是取每个国家的数百万居民数的平方根。
+
+
+系統
+巴西
+印尼
+美國
+印度
+中國
+
+
+施瓦茨貝里加權投票（英语：Schwartzberg's weighted voting）
+1.91%
+1.38%
+9.07%
+5.96%
+7.67%
+
+
+臨時人民議會法
+2.22%
+1.71%*
+6.15%
+5.64%
+3.25%**
+
+
+一人一票
+2.81%
+3.47%
+4.55%
+17.52%
+19.82%
+
+
+彭羅斯方法（英语：Penrose method）
+1.84%
+2.05%
+2.34%
+4.60%
+4.89%
+
+
+一國一票
+0.52%
+0.52%
+0.52%
+0.52%
+0.52%
+
+
+选举规章[编辑]
+如果效仿欧洲议会的模式，一个直选的联合国议大会将采用共通的选举规章。欧洲议会采用了极少的固定基本条件，例如比例代表制，而每个成员国必须遵守规章选取代表。施瓦茨贝里建议设立一个专门的选举委员会“以确保大会选举能尽可能的在公平竞争的环境下进行。”根据施瓦茨贝裡的建议，该委员会将拥有下述权力，包括建立公平规则的权力，对选举是否达到公平标准的评判权，以及在选举不符合公平标准时结束选举的权力。他提议选举必须满足的标准可以使用选举有效率，例如最低投票率，可以先设为最低20%，然后逐渐增加。
+参考文献[编辑]
+
+
+^ 跟現有的联合国邮政管理处（United Nations Postal Administration）的簡稱重疊
+^ 8th Report of the Standing Committee on External Affairs and International Trade (PDF), House of Commons, Parliament of Canada, Spring 1993, chaired by Hon. Jon Bosley, 1993. Retrieved 7 December 2007. 页面存档备份，存于互联网档案馆
+^ Berthoin, Georges & Luff, Peter (2007). The Reform of the United Nations (PDF). One World Trust. Retrieved 7 December 2007.
+^ 4.0 4.1 4.2 4.3 Strauss, Andrew (2007). Taking Democracy Global: Assessing the Benefits and Challenges of a Global Parliamentary Assembly (PDF), One World Trust, 2007. Retrieved 7 December 2007. 页面存档备份，存于互联网档案馆
+^ Main Options for a UN Peoples' Assembly, Campaign for a Democratic United Nations, 1995. Retrieved 7 December 2007.
+^ Establishment of a Parliamentary Assembly at the UN (PDF), Committee for a Democratic United Nations, 8 February 2005. Retrieved 7 December 2007. 页面存档备份，存于互联网档案馆
+^ Strengthening citizens representation on international level through an UN Parliamentary Assembly (PDF), Resolution adopted by the 53. Congress of the Liberal International on 14 May 2005 in Sofia. KDUN. Retrieved 7 December 2007. 页面存档备份，存于互联网档案馆
+^ European Parliament resolution on the reform of the United Nations, Strasbourg, 9 June 2005. Europarl. Retrieved 7 December 2007.
+^ Empower the United Nations with the voice of the people! Citizens for a United Nations People's Assembly, 2007. Retrieved 7 December 2007.
+^ 10.0 10.1 Campaign for the Establishment of a United Nations Parliamentary Assembly. Retrieved 12 December 2011.
+^ CEUNPA (2007). About the Campaign. Retrieved 7 December 2007.
+^ CEUNPA (2008). Appeal Support. Retrieved 25 November 2008.
+^ Sócrates, José (25 September 2007). EU Presidency Statement - United Nations 62nd General Assembly: General Debate, European Union, at the United Nations 62nd Session of the General Assembly. 25 September 2007. 歐洲聯盟. Retrieved 7 December 2007.
+^ Pan-African Parliament calls for UN Parliamentary Assembly. Committee for a Democratic United Nations. Retrieved 7 December 2007.
+^ 15.0 15.1 Pan African Parliament (October 2007). A United Nations Parliamentary Assembly. 8th Ordinary Session of the Pan-African Parliament, Midrand, South Africa, October 2007, Committee on Cooperation, International Relations and Conflict Resolution, Motion introduced by Mokshanand Sunil DOWARKASING (Mauritius), Adopted by the house on 24 October 2007. Retrieved 7 December 2007. 页面存档备份，存于互联网档案馆
+^ Laurenti, Jeffrey (May 2003). UN Reform: Is a World Parliamentary Assembly needed? An Idea Whose Time Has Not Come. United Nations Association of the United States of America. Retrieved 7 December 2007. 页面存档备份，存于互联网档案馆
+^ PA38 Resolutions: Outcomes of the 38th Plenary Assembly. World Federation of United Nations Associations, November 2006. Retrieved 7 December 2007.
+^ Marschall, Stefan (13 June 2007). European Parliaments in Transnational Organisations: Parliamentary Cooperation Beyond the European Union. Stiftung Wissenschaft und Politik. Retrieved 7 December 2007. 页面存档备份，存于互联网档案馆
+^ Blueprint For an Article 109 Charter Review Conference, One World Now. Retrieved 7 December 2007.
+^ Orvis, Pat (29 January 2004). United Nations Reform and Article 109. Foreign Policy Association. Retrieved 7 December 2007.
+^ UNHCR. Introductory Note. Retrieved 7 December 2007. 页面存档备份，存于互联网档案馆
+^ World Federalists Canada (1996). Canadian Support for a United Nations Parliamentary Assembly Under the New Foreign Affairs Minister, Briefing Paper No. 30, World Federalists Canada. Retrieved 7 December 2007. 页面存档备份，存于互联网档案馆
+^ Bummel, Andreas (May 2005). Developing International Democracy (PDF). Committee for a Democratic UN. Retrieved 7 December 2007.
+^ Resolution 1476 (2006): Parliamentary dimension of the United Nations. Council of Europe. Retrieved 7 December 2007.
+^ PGA Membership Rules, Parliamentarians for Global Action, 2007. Retrieved 7 December 2007. 页面存档备份，存于互联网档案馆
+^ World Constitution and Parliament Association. About Us. Retrieved 7 December 2007. 页面存档备份，存于互联网档案馆
+^ 27.0 27.1 27.2 Heinrich, Dieter (October 1992). The Case for a United Nations Parliamentary Assembly (PDF). CEUNPA. Retrieved 17 July 2014.
+^ A World Parliament: How?, Committee for a World Parliament. Retrieved 7 December 2007. 页面存档备份，存于互联网档案馆
+^ Alvarez, Jose E. The New Treaty Makers, Boston College Law School. Retrieved 7 December 2007.
+^ Schachter, Oscar. "The UN Legal Order: An Overview", The United Nations and International Law, Joyner, Christopher C. (ed.)
+^ Bandow, Doug (2004). "Sink the Law of the Sea Treaty", Weekly Standard, week of 15 March 2004. Retrieved 7 December 2007.
+^ Monbiot, George (February 2002). "A Parliament for the Planet". New Internationalist. Retrieved 7 December 2007.
+^ The Center for War/Peace Studies. The Binding Triad System for Global Decision-Making. Retrieved 7 December 2007.
+^ Regular Budget Assessment & Payments: 2005, Global Policy Forum, 2005. Retrieved 7 December 2007.
+^ United Nations (22 February 2006.) Peacekeeping procurement audit found mismanagement, risk of financial loss. United Nations Department of Public Information, New York. Retrieved 7 December 2007.
+^ 引用错误：没有为名为CrossPartyCoalition的参考文献提供内容
+^ Livingstone, Ken & van Boven, Theo. Selected testimonies about KDUN and its projects, CEUNPA. Retrieved 7 December 2007.
+^ 引用错误：没有为名为Asian的参考文献提供内容
+^ Yaffe, Barbara (16 October 2007). Sharing UN power with the people is a timely idea, but won't happen easily, The Vancouver Sun. Retrieved 7 December 2007.
+^ A United Nations Parliamentary Assembly: Analysis and Parliamentarian Opinion, Radio Radicale, September 1993. Retrieved 7 December 2007.
+^ Knight, Andy W. (1995). Envisioning the United Nations in the Twenty-first Century. United Nations University. Retrieved 7 December 2007.
+^ Wouldn’t international cooperation become even more complicated and ineffective if a UNPA would have a say?, CEUNPA. Retrieved 7 December 2007.
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ 联合国
+
+
+
+
+
+
+
+
+
+ 安東尼奧·古特雷斯（秘書長）
+ 阿米纳·J·穆罕默德（英语：Amina J. Mohammed）（常務副秘書長）
+ 米羅斯拉夫·萊恰克（英语：Miroslav Lajčák）（大會主席）
+
+
+
+
+
+
+
+
+聯合國系統
+
+
+
+
+主要機構
+
+
+
+大會
+
+主席
+
+
+安全理事會
+
+成員
+否決權
+
+
+經濟及社會理事會
+秘書處
+
+秘書長
+常務副秘書長
+
+
+國際法院
+託管理事會
+
+
+
+
+
+
+
+
+
+計畫與
+專門機構（英语：List of specialized agencies of the United Nations）
+
+
+
+
+
+大會附屬機構
+
+
+
+聯合國糧食及農業組織（FAO）
+國際貿易中心（ITC）
+聯合國人權事務高級專員辦事處（OHCHR）
+聯合國資本發展基金（英语：United Nations Capital Development Fund）（UNCDF）
+聯合國國際貿易法委員會（UNCITRAL）
+聯合國貿易和發展會議（UNCTAD）
+聯合國開發計劃署（UNDP）
+聯合國環境署（UNEP）
+
+臭氧行動（英语：UNEP OzonAction）
+全球資源訊息資料庫亞倫達分部（英语：UNEP/GRID-Arendal）
+
+
+聯合國人口基金（UNFPA）
+聯合國人居署（UN-HABITAT）
+聯合國難民署（UNHCR）
+聯合國人權理事會（UNHRC）
+聯合國兒童基金會（UNICEF）
+聯合國裁軍研究所（英语：United Nations Institute for Disarmament Research）（UNIDIR）
+聯合國訓練研究所（英语：United Nations Institute for Training and Research）（UNITAR）
+
+業務衛星應用計畫（英语：UNOSAT）（UNOSAT）
+
+
+聯合國大學（UNU）
+
+駐教科文組織辦公室（英语：UNU-OP）（UNU-OP）
+比較區域一體化研究所（英语：UNU-CRIS）（UNU-CRIS）
+
+
+聯合國專案事務廳（英语：United Nations Office for Project Services）（UNOPS）
+聯合國近東巴勒斯坦難民救濟和工程處（英语：UNRWA）（UNRWA）
+聯合國志工計畫（英语：United Nations Volunteers）（UNV）
+聯合國婦女權能署（UN Women）
+世界糧食計劃署（WFP）
+
+
+
+
+
+
+
+
+經社理事會附屬機構
+
+
+
+聯合國愛滋病聯合規劃署（UNAIDS）
+聯合國跨區域犯罪與司法研究所（英语：United Nations Interregional Crime and Justice Research Institute）（UNICRI）
+聯合國社會發展研究所（UNRISD）
+
+
+
+
+
+
+
+
+專門機構
+
+
+
+國際民用航空組織（ICAO）
+國際農業發展基金（英语：International Fund for Agricultural Development）（IFAD）
+國際勞工組織（ILO）
+國際海事組織（IMO）
+政府間氣候變化專門委員會（IPCC）
+國際電信聯盟（ITU）
+聯合國發展援助框架（英语：United Nations Development Assistance Framework）（UNDAF）
+聯合國發展集團（英语：United Nations Development Group）（UNDG）
+聯合國教育、科學及文化組織（UNESCO）
+聯合國國際夥伴關係基金（英语：United Nations Fund for International Partnerships (UNFIP)）（UNFIP）
+聯合國工業發展組織（UNIDO）
+聯合國－海洋（英语：United Nations-Oceans）（UN-Oceans）
+世界旅遊組織（UNWTO）
+萬國郵政聯盟（UPU）
+世界衛生組織（WHO）
+世界智慧財產權組織（WIPO）
+世界氣象組織（WMO）
+
+
+
+
+
+
+
+
+特別法庭
+
+
+
+柬埔寨法院特別法庭（ECCC）
+盧安達問題國際刑事法庭（ICTR）
+前南斯拉夫問題國際刑事法庭（ICTY）
+獅子山特別法庭（SCSL）
+東帝汶國際法庭（英语：Special Panels of the Dili District Court）（SPDDC）
+黎巴嫩特別法庭（英语：Special Tribunal for Lebanon）（STL）
+
+
+
+
+
+
+
+
+秘書處附屬機構
+
+
+
+聯合國經濟與社會事務部（英语：United Nations Department of Economic and Social Affairs）（DESA）
+聯合國外勤支援部（英语：Department of Field Support）（DFS）
+聯合國政治事務部（英语：United Nations Department of Political Affairs）（DPA）
+聯合國新聞部（英语：United Nations Department of Public Information）（DPI）
+聯合國維持和平行動部（DPKO）
+聯合國安全與保安部（英语：United Nations Department for Safety and Security）（DSS）
+聯合國排雷行動部（英语：United Nations Mine Action Services）（MAS）
+聯合國人道事務協調廳（OCHA）
+聯合國裁軍事務廳（英语：United Nations Office of Disarmament Affairs）（UNODA）
+聯合國毒品和犯罪問題辦公室（UNODC）
+聯合國最不發達等國家高級專員辦事處（英语：United Nations Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States）（UN-OHRLLS）
+聯合國內部監督事務廳（英语：United Nations Office of Internal Oversight Services）（UNOIOS）
+聯合國法律事務廳（英语：United Nations Office of Legal Affairs）（UNOLA）
+
+
+
+
+
+
+
+
+
+
+
+辦公室
+
+
+
+紐約（總部）
+日內瓦
+
+万国宫
+
+
+維也納
+
+国际中心
+
+
+奈洛比
+各地聯合國組織列表（英语：List of United Nations organizations by location）
+
+
+
+
+
+
+
+
+
+
+
+會員／觀察員
+
+
+
+所有會員國
+
+區域
+
+
+創始會員國
+
+安理會常任理事國
+
+
+觀察員
+
+歐盟（英语：European Union and the United Nations）
+
+
+
+
+
+
+
+
+
+
+歷史
+
+
+
+《世界人權宣言》
+國際聯盟
+四警察
+聯合國共同宣言
+維和行動
+
+概念
+歷史（英语：History of United Nations peacekeeping）
+時間軸（英语：Timeline of United Nations peacekeeping missions）
+
+
+擴張（英语：Enlargement of the United Nations）
+
+
+
+
+
+
+
+
+決議
+
+
+
+大會
+
+2758號
+66屆（英语：List of resolutions at the sixty-sixth session of the United Nations General Assembly）
+67屆（英语：List of resolutions at the sixty-seventh session of the United Nations General Assembly）
+
+
+安理會
+
+賽普勒斯（英语：List of United Nations Security Council resolutions concerning Cyprus）
+伊朗（英语：List of United Nations resolutions concerning Iran）
+伊拉克（英语：List of United Nations Security Council resolutions concerning Iraq）
+以色列（英语：List of United Nations resolutions concerning Israel）
+黎巴嫩（英语：List of United Nations resolutions relating to Lebanon）
+納哥諾卡拉巴克（英语：List of United Nations Security Council resolutions on the Nagorno-Karabakh conflict）
+朝鮮
+巴勒斯坦（英语：List of the UN resolutions concerning Palestine）
+敘利亞（英语：List of United Nations resolutions concerning Syria）
+西撒哈拉（英语：List of United Nations resolutions concerning Western Sahara）
+利比亞
+
+
+
+
+
+
+
+
+
+
+選舉
+
+
+
+2006年联合国秘书长选举（英语：United Nations Secretary-General selection, 2006）
+2011年國際法院法官選舉（英语：International Court of Justice judges election, 2011）
+2012年聯合國大會主席選舉（英语：United Nations General Assembly presidential election, 2012）
+2015年聯合國安全理事會選舉（英语：United Nations Security Council election, 2015）
+2016年聯合國安全理事會選舉（英语：United Nations Security Council election, 2016）
+2016年联合国秘书长选举
+
+
+
+
+
+
+
+
+相關主題（英语：Outline of the United Nations）
+
+
+
+
+組織規範
+
+
+
+《聯合國憲章》
+《聯合國全球盟約（英语：United Nations Global Compact）》
+會旗
+
+榮譽旗（英语：United Nations Honour Flag）
+
+
+聯合國通行證
+官方語言（英语：Official languages of the United Nations）
+聯合國紀念墓園（英语：United Nations Memorial Cemetery）
+
+
+
+
+
+
+
+
+發展與行動
+
+
+
+布列敦森林體系
+一體行動（英语：Delivering as One）
+四國倡議（英语：Four Nations Initiative）
+千禧高峰會
+
+千年發展目標（MDGs）
+
+
+聯合國改革
+
+議會大會
+四國聯盟
+
+
+
+
+
+
+
+
+
+
+文化
+
+
+
+聯合國紀念活動
+聯合國日
+聯合國電視電影系列（英语：United Nations television film series）
+大眾文化
+
+
+
+
+
+
+
+
+相關組織
+
+
+
+全面禁止核子試爆條約組織（英语：Comprehensive Nuclear-Test-Ban Treaty Organization）（CTBTO）
+國際原子能機構（IAEA）
+國際刑事法院（ICC）
+國際海底管理局（ISA）
+國際海洋法法庭（ITLOS）
+禁止化學武器組織（OPCW）
+世界貿易組織（WTO）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+世界主义和世界政府
+
+
+
+
+
+
+理论
+
+
+
+超国家主义
+联邦主义
+邦联
+政府间主义
+反民族主义
+全球化
+民主和平論
+價值觀外交
+全球帝國
+世界主义
+超国家联盟
+世界和平
+联邦
+全球主義
+
+
+
+
+
+
+
+
+主要国际组织
+
+
+
+联合国（UN）
+红十字国际委员会（ICRC）
+红十字会与红新月会国际联合会（IFRC）
+世界贸易组织（WTO）
+世界银行（WBG）
+国际货币基金组织（IMF）
+国际刑警组织（ICPO）
+国际标准化组织（ISO）
+二十国集团（G20）
+
+
+
+
+
+
+
+
+国际议会组织
+
+
+
+各国议会联盟
+联合国大会
+欧洲议会
+阿拉伯议会
+突厥议会
+非洲议会
+拉丁美洲议会
+南美洲议会
+
+
+
+
+
+
+
+
+国际司法机构
+
+
+
+常设仲裁法院
+国际法院
+国际刑事法院
+
+
+
+
+
+特設國際刑事庭
+
+
+
+
+欧洲国际军事法庭
+远东国际军事法庭
+前南刑庭
+卢旺达刑庭
+柬埔寨法院特别法庭
+东帝汶国际法庭
+联合国黎巴嫩特别法庭
+塞拉利昂特别法庭
+
+
+
+
+
+
+
+
+區域性法庭
+
+
+
+
+美洲国家人权法庭
+欧洲法院
+欧洲人权法院
+非洲法庭
+加勒比法庭
+
+
+
+
+
+
+
+
+
+
+
+區域性组织
+
+亚洲太平洋经济合作组织（APEC）
+
+东南亚国家联盟（ASEAN）
+太平洋共同体（SPC）
+太平洋岛国论坛（PIF）
+上海合作组织（SCO）
+英联邦
+西非国家经济共同体（CEDEAO）
+中部非洲国家经济共同体（CEEAC）
+法语圈国际组织（La Francophonie）
+北大西洋公约组织（NATO）
+集体安全条约组织（CSTO）
+欧洲委员会（CoE）（非欧盟机构）
+欧洲联盟（EU）
+拉丁语联盟（LU）
+非洲联盟（AU）
+阿拉伯国家联盟（AL）
+伊斯兰会议组织（OIC）
+南亚区域合作联盟（SAARC）
+东非共同体（EAC）
+加勒比國家聯盟（ACS）
+中美洲统合体（SICA）
+南美洲国家联盟（USAN）
+美洲国家组织（OAS）
+獨立國家聯合體（CIS）
+南方共同市場（Mercosur）
+亚洲基础设施投资银行（AIIB）
+
+
+
+
+
+
+
+
+法律和条约
+
+
+
+国际法
+国际人道法
+国际私法
+超国家法
+日内瓦公约
+联合国宪章
+国际刑事法院罗马规约
+京都议定书
+欧洲联盟基本条约
+欧盟法律
+巴黎協議
+
+
+
+
+
+
+
+
+历史
+
+
+
+国际联盟
+華沙公约组织
+共产国际
+大東亞共榮圈
+经济互助委员会
+大英帝国
+
+
+
+
+
+
+
+
+建议和观念
+
+
+
+世界政府
+联合国议会大会
+非洲合众国
+中亚联盟
+太平洋同盟
+北美洲联盟
+欧洲合众国
+東亞共同體（EAC）
+中華聯邦
+
+
+
+
+
+
+
+
+国际运动
+
+
+
+国际红十字与红新月运动
+世界联邦运动
+全球公民运动
+世界公民
+
+
+
+
+
+
+
+
+文化
+
+
+
+巴哈伊信仰
+国际辅助语
+世界语
+逻辑语
+
+
+
+
+
+
+
+
+
+
+
+
+分类：世界政府聯合國改革隐藏分类：有参考文献错误的页面

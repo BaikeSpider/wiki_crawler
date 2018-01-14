@@ -660,7 +660,7 @@ Bargaining and Markets, by Osborne, M. and A. Rubinstein
 
 博弈列表
 
-囚徒困境 · 旅行者困境 · 协调博弈（英语：Coordination game） · 膽小鬼博弈 · 志愿者困境 · 搭便車問題 · 拍卖美元 · 性别战 · 獵鹿賽局 · 賭便士（英语：Penney's game） · 最後通牒賽局 · 少数派博弈 · 海盗博弈 · Dictator game（英语：Dictator game） · Public goods game · Nash bargaining game · 上校賽局  · 摩擦战 · El Farol Bar problem · 公平分配博弈 · 古諾競爭（Cournot competition） · 死結(Deadlock) · 用餐者困境 · 猜均值的2/3 · 库恩扑克游戏 · Screening game · Signaling game · Trust game · Princess and monster game
+囚徒困境 · 旅行者困境 · 协调博弈（英语：Coordination game） · 膽小鬼博弈 · 志愿者困境 · 搭便車問題 · 拍卖美元 · 性别战 · 獵鹿賽局 · 賭便士（英语：Penney's game） · 最後通牒賽局 · 少数派博弈 · 石头、剪子、布 · 海盗博弈 · Dictator game（英语：Dictator game） · Public goods game · Nash bargaining game · 上校賽局  · 摩擦战 · El Farol Bar problem · 公平分配博弈 · 古諾競爭（Cournot competition） · 死結(Deadlock) · 用餐者困境 · 猜均值的2/3 · 库恩扑克游戏 · Screening game · Signaling game · Trust game · Princess and monster game
 
 
 

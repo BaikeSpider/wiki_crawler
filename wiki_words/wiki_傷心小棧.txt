@@ -1,0 +1,696 @@
+傷心小棧
+
+
+
+
+
+
+
+
+
+
+傷心小棧
+
+Microsoft Windows组件
+
+
+
+Windows Vista內建的傷心小棧遊戲
+
+
+
+详细信息
+
+
+類型
+电脑游戏
+
+
+內置于
+Windows for Workgroups 3.11到Windows 7
+
+
+相關組件
+
+
+連環新接龍
+
+
+红心大战（Hearts），一项四人扑克牌游戏，目标是在游戏中拿到最少的分数。此游戏是Microsoft Windows内建的游戏之一。第一次推出在Windows 3.1於1992年，包含在Windows的每個版本，直到Windows 7。在Windows 8與Windows 10系統，红心大战已經跟著「遊樂場」被移除。
+
+
+
+目录
+
+
+1 歷史
+2 玩法
+
+2.1 起始
+2.2 牌面
+2.3 目標
+2.4 概要
+2.5 發牌
+2.6 交換卡牌
+2.7 捨牌
+2.8 計分
+
+2.8.1 标准规则
+2.8.2 Omnibus
+2.8.3 Spot Hearts
+
+
+
+
+3 参见
+4 参考文献
+
+
+
+歷史[编辑]
+红心大战最早出现在1992年的Windows for Workgroups 3.1中，於1992年秋季發布，通过NetDDE技术与本地网络的其它电脑通信，设计该游戏的最初目的是为了鼓励用户对系统的网络功能產生兴趣[1]。
+玩法[编辑]
+起始[编辑]
+要玩傷心小棧，需要：
+
+四名玩家
+一副撲克牌
+紙筆（記錄分數）
+
+在不同數量的玩家有不同的玩法，請參看「變化」部分。
+牌面[编辑]
+玩傷心小棧是需要一副52張的撲克牌，這與橋牌的版面相同，牌面大小由大至小的順序為A、K、Q、J、10、9、8、7、6、5、4、3和2。並且沒有皇牌。（皇牌又稱小丑、鬼牌、Joker）
+目標[编辑]
+傷心小棧的主要要點就是避免取得分數；當一位玩家的分數到了指定的點數（通常是100分），遊戲便會結束。而得到最少分數的玩家便會成為該次遊戲的優勝者。
+概要[编辑]
+傷心小棧是依照回合進行的，每一局都會發牌，與玩家交換卡牌，捨牌，以及計分四部分。遊戲會持續地進行，直到遊戲完結為止。
+發牌[编辑]
+在捨牌時沒有特別的效果，多數發牌者會按次按左移動。
+交換卡牌[编辑]
+在多數回合裡，每一名玩家會與其他三名玩家交換卡牌，並由其他玩家中取得三張牌。玩家在取得交換卡牌前必須先將卡牌交予另一位玩家。
+每一局都會按照這個順序來交換卡牌：
+
+第（4的倍數+1）局：傳左
+第（4的倍數+2）局：傳右
+第（4的倍數+3）局：對傳
+第（4的倍數）局：保留所有牌；不交換任何牌
+
+捨牌[编辑]
+所有的紅心牌和Q♠都是有分的卡牌。
+首輪：首先由有2♣的玩家開始首輪捨牌，規定一定要出2♣，其他玩家選牌丟出有相同花色的牌，若是沒有，則可以出其他花牌，惟獨不能出有計分的牌（紅心牌和Q♠）。 除了與首位出牌者不同花色的玩家之外，由點數大者贏得此次的捨牌。
+第二輪之後：玩家按順時針方向序丟出相同花色的牌，若是沒有，則可以出其他花牌，亦可以出有計分的牌。首次丟出紅心牌稱作心碎，下一輪之後出牌者皆可以出紅心牌。
+由上一輪贏者出牌，除了紅心牌其他花色皆可出，除非手中沒有第一位出牌者的花色，方可出牌。或是上幾輪中心碎（見上解釋），方可出紅心牌。 若所有其他玩家沒有相同花色的牌，不論點數，上一輪贏者將繼續贏得此次的捨牌。
+計分[编辑]
+标准规则[编辑]
+在每一回合完結時，有分數的牌會合計起來，每一張紅心牌有1分，而Q♠有13分，在一個回合中，總其有26分。但是如果其中一名玩家全取所有的紅心牌以及Q♠的話，那就會成為「全收」或「击中月亮」，這位玩家無需增加任何的分數，而另外三位便要加上26分；又或者直接減去該名玩家26分，將遊玩的時間加長。
+最後，當任何一位玩家的分數超過了一個指定的分數（通常為100分），遊戲便算结束了，得分最低的一位取胜。
+Omnibus[编辑]
+在标准计分规则的基础上，增加一种分牌♦J，分值为负10分，即赢得♦J的玩家会倒扣10分。
+Spot Hearts[编辑]
+在标准计分规则的基础上，将♠Q的分值上调为25分，♥J，♥Q，♥K和♥A的分值分别调整为11分、12分、13分和14分，其他红心牌的分值调整为其相应点数（即♥2为2分，♥3为3分，♥4为4分……）。“全收”分数上升至129分，总分数上限由通常的100分上升为500分。
+参见[编辑]
+
+蜘蛛纸牌
+空当接龙
+扫雷
+纸牌
+三维弹球
+
+参考文献[编辑]
+
+
+^ The True Purpose of Microsoft Solitaire, Minesweeper, and FreeCell. Mental Floss. August 14, 2015 [2015-12-23]. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+紙牌遊戲
+
+
+
+
+
+
+術語
+
+
+
+卡片遊戲
+遊戲牌（撲克牌）
+洗牌
+切牌
+
+
+
+
+
+
+
+
+類型
+
+
+
+
+
+撲克牌
+
+
+
+
+撲克
+橋牌
+抽鬼牌
+排七
+大富豪
+廿一點
+锄大D
+红5
+梭哈
+十點半
+德州撲克
+吹牛
+妞妞
+九九
+傷心小棧
+撿紅點
+鬥地主
+升级
+殺手遊戲
+
+
+
+
+
+
+
+
+
+專用卡片遊戲
+
+
+
+
+四色牌
+歌留多
+花札
+UNO
+水瓶座
+種豆
+Bang!
+誰是牛頭王
+三國殺
+Victory 3
+大富翁Deal
+風聲
+神奇形色牌
+皇輿爭霸
+冷戰熱斗
+
+
+
+
+
+
+
+
+
+
+
+獎項
+
+
+
+Deutscher Spiele Preis
+Essen Feather
+Meeples' Choice Award
+門薩首選
+Origins Award
+德國年度遊戲獎
+Games 100
+Golden Geek Award
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Microsoft Windows组件
+
+
+
+
+
+
+管理工具
+
+
+
+命令提示字元
+控制面板
+
+元件列表
+
+
+裝置管理員
+磁碟清理
+磁碟重組工具
+驅動程式檢查器
+事件檢視器
+IExpress（英语：IExpress）
+管理控制台
+Netsh
+修復主控台
+資源監視器
+性能监视器
+設定
+Sysprep
+系統設定
+系統文件檢查器
+系統策略编辑器（英语：System Policy Editor）
+系統還原
+任务管理器
+Windows輕鬆傳輸
+Windows錯誤報告（英语：Windows Error Reporting）
+Windows Installer
+Windows PowerShell
+Windows Update
+WinPE
+WinRE
+WMI
+
+
+
+
+
+
+
+
+應用程式
+
+
+
+小算盤
+字元對應表
+Cortana
+DVD播放器
+Edge
+傳真和掃描
+Groove
+Internet Explorer
+日誌
+放大鏡
+郵件
+地圖
+Media Player
+MSN應用（新聞，天氣，體育，財經）
+Movie Maker
+電影與電視
+行動中心
+朗讀程式
+記事本
+OneDrive
+OneNote
+小畫家 3D
+人脉
+遠端協助
+剪取工具
+錄音機
+語音辨識
+应用商店
+Windows Ink
+Windows To Go
+WordPad
+Xbox
+XPS查看器
+
+
+
+
+
+
+
+
+Shell（英语：Windows shell）
+
+
+
+重要訊息中心
+Aero
+自動播放
+自動執行
+ClearType
+檔案總管
+搜尋
+
+索引服务
+IFilter（英语：IFilter）
+儲存的搜尋
+命名空間
+特殊文件夹
+
+
+開始功能表
+工作列
+任务视图
+Windows XP主題
+
+
+
+
+
+
+
+
+服務
+
+
+
+服务控制管理器
+后台智能传输服务
+通用日志文件系统
+多媒體類別排程器（英语：Multimedia Class Scheduler Service）
+磁碟區陰影複製服務
+工作排程器
+錯誤報告（英语：Windows Error Reporting）
+無線零配置
+
+
+
+
+
+
+
+
+文件系統
+
+
+
+CDFS
+DFS
+exFAT
+可安装文件系统
+FAT
+NTFS
+
+永久連結
+連接點（英语：NTFS junction point）
+裝載點
+重解析点
+符號連結
+TxF（英语：Transactional NTFS）
+EFS
+
+
+ReFS
+UDF
+WinFS
+
+
+
+
+
+
+
+
+伺服器
+
+
+
+網域（英语：Windows domain）
+Active Directory
+DNS（英语：Microsoft DNS）
+组策略
+漫遊使用者設定檔（英语：Roaming user profiles）
+資料夾重新導向（英语：Folder redirection）
+分散式交易協調器
+MSMQ（英语：Microsoft Message Queuing）
+Windows Media服務（英语：Windows Media Services）
+活动目录权限管理服务（英语：Active Directory Rights Management Services）
+IIS
+遠端桌面服務
+WSUS
+SharePoint
+網路存取保護
+PWS
+文件复制服务（英语：File Replication Service）
+遠端差異壓縮（英语：Remote Differential Compression）
+Print Services for UNIX（英语：Print Services for UNIX）
+Windows部署服務（英语：Windows Deployment Services）
+系統資源管理員（英语：Windows System Resource Manager）
+Hyper-V（英语：Hyper-V）
+伺服器核心（英语：Server Core）
+
+
+
+
+
+
+
+
+架構
+
+
+
+Windows NT的架構
+啟動處理程序（英语：Windows startup process）
+csrss.exe
+桌面視窗管理員
+可攜式格式
+
+EXE
+DLL
+
+
+增强写入筛选器（英语：Enhanced Write Filter）
+圖形裝置介面
+hal.dll
+I/O请求数据包
+程式庫檔
+核心交易管理員
+函式庫
+邏輯磁碟管理
+lsass
+MinWin（英语：MinWin）
+NTLDR
+ntoskrnl.exe
+物件管理
+Open XML紙張規範
+注册表
+Windows资源保护
+安全性帳戶管理員（英语：Security Account Manager）
+伺服器訊息區
+磁碟區陰影複製服務
+SMSS
+系統閒置處理程序（英语：System Idle Process）
+使用者（英语：Windows USER）
+WHEA（英语：Windows Hardware Error Architecture）
+Win32主控台
+Winlogon
+
+
+
+
+
+
+
+
+安全性
+
+
+
+安全性與維護
+BitLocker
+資料執行防止
+家長監護服務
+内核修改保护（英语：Kernel Patch Protection）
+認證相符控制
+受保护媒体路径
+使用者帳戶控制
+控制台元件列表
+Windows Defender
+Windows防火牆
+
+
+
+
+
+
+
+
+兼容性
+
+
+
+COMMAND.COM
+Windows Services for UNIX（英语：Windows Services for UNIX）
+
+POSIX子系统
+Interix（英语：Interix）
+
+
+DOS虚拟机（英语：Virtual DOS machine）
+Windows on Windows
+WoW64
+Windows Subsystem for Linux
+
+
+
+
+
+
+
+
+API
+
+
+
+動態指令碼處理（英语：Active Scripting）
+
+WSH
+VBScript
+JScript
+
+
+COM
+
+ActiveX
+ActiveX文档（英语：ActiveX Document）
+COM结构化存储
+DCOM
+OLE
+OLE自动化（英语：OLE Automation）
+Transaction Server（英语：Microsoft Transaction Server）
+
+
+DirectX
+.NET Framework
+Windows Holographic
+Windows Runtime
+通用Windows平台（UWP）
+
+
+
+
+
+
+
+
+已經终止
+
+
+
+
+遊戲
+
+
+
+3D Pinball
+Chess Titans
+新接龍
+傷心小棧
+中文輸入法練習
+Hover!（英语：Hover!）
+筆跡球
+Hold 'Em
+Mahjong Titans
+踩地雷
+Purble Place
+黑白棋
+纸牌
+連環新接龍
+Tinker
+
+
+
+
+
+
+
+
+其他
+
+
+
+ActiveMovie（英语：ActiveMovie）
+Anytime Upgrade
+通訊錄（英语：Windows Address Book）
+備份與還原中心
+Cardfile（英语：Cardfile）
+CardSpace
+連絡人
+桌面小工具
+診斷（英语：Microsoft Diagnostics）
+DriveSpace
+DVD製作程式
+傳真（英语：Microsoft Fax）
+檔案管理員
+檔案保護（英语：Windows File Protection）
+美食
+健康
+HyperTerminal（英语：HyperTerminal）
+網路郵件及新聞
+郵件
+媒体中心
+媒體控制介面
+會議空間
+訊息中心（英语：Windows Messaging）
+Messenger
+Mobile裝置中心
+NetMeeting（英语：Microsoft NetMeeting）
+下一代安全计算基础
+NTBackup
+Outlook Express
+旅遊
+相片圖庫
+程序管理器（英语：Program Manager）
+ScanDisk
+Windows視訊
+Windows相片檢視器
+Windows SideShow（英语：Windows SideShow）
+WinHelp（英语：WinHelp）
+WinSAT
+小作家
+小畫家
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：撲克牌遊戲Windows游戏电子桌上游戏隐藏分类：含有英語的條目有蓝链却未移除内部链接助手模板的页面

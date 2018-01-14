@@ -1,0 +1,198 @@
+RSS
+
+
+
+
+
+本条目需要更新。（2013年1月21日） 
+請更新本文以反映近況和新增内容。完成修改時，請移除本模板。 
+
+
+
+
+
+
+
+
+
+
+
+RSS
+
+
+
+
+扩展名
+.rss, .xml
+
+
+互联网媒体类型
+application/rss+xml (Registration Being Prepared)[1]
+
+
+格式类型
+網絡不聯合供稿
+
+
+延伸自
+XML
+
+
+RSS（簡易資訊聚合）是一種消息來源格式規範，用以聚合經常發佈更新資料的網站，例如部落格文章、新聞、音訊或視訊的網摘。RSS文件（或稱做摘要、網路摘要、或頻更新，提供到頻道）包含全文或是節錄的文字，再加上發佈者所訂閱之網摘資料和授權的元數據。
+Really Simple Syndication“簡易資訊聚合”就是RSS的英文原意。把新闻标题、摘要（Feed）、内容按照用户的要求，“送”到用户的桌面就是RSS的目的。RSS一詞有時候大體上意為社會性書籤，包括各種RSS的不同格式。例如，Blogspace對使用網摘於一整合器內之動作標為RSS info和RSS reader。雖然它的第一個句子就包含明確的Atom格式：「RSS和Atom檔案能夠用簡單的格式從網站更新訊息至你的電腦!」
+RSS摘要可以藉由RSS閱讀器、feed reader或是aggregator等網頁或以桌面為架構的軟體來閱讀。標準的XML檔式可允許資訊在一次發佈後透過不同的程式閱覽。使用者藉由將網摘輸入RSS閱讀器或是用滑鼠點取瀏覽器上指向訂閱程序的RSS小圖示之URI（非通常稱為URL）來訂閱網摘。RSS閱讀器定期檢閱是否有更新，然後下載給監看使用者介面。
+RSS可以是以下三種解釋中任一種的縮寫，但其實這三者都是指同一種不聯合供稿（Syndication）的技術：
+
+RSS 1.0（Really Simple Syndication）
+RSS 0.91, RSS 1.0（RDF（Resource Description Framework）Site Summary）
+RSS 0.9 and 1.0（Rich Site Summary）
+
+
+
+
+目录
+
+
+1 版本
+2 歷史
+3 发展
+4 模組
+5 點對點應用及RSS
+6 閱讀器
+7 參見
+8 參考資料
+9 外部連結
+
+
+
+版本[编辑]
+目前RSS規範的主要版本有0.91、1.0和2.0等。0.91版和1.0版完全不同，風格不同，制定標準的人也不同。0.91版和2.0版一脈相承。1.0版更接近XML標準。目前世界上大多數知名，雖有很多種不同的RSS，但都定型於兩個重要的支幹（RDF和2.*）。RDF或RSS 1.*的分支包括下列版本：
+
+RSS 0.90原本屬於美國網景公司的版本。這個RSS被稱為RDF Site Summary，但其基礎構圖建立在初期的RDF規格上，以及和末版的RDF推薦標準不相容。
+RSS 1.0是一個開放式的版本，由RSS-DEV工作團隊再次建立為RDF Site Summary。RSS 1.0是一個像RSS 0.90的RDF形式，但是並沒有完全的和他相容，自從1.0基新聞網站都提供RSS訂閱支持。
+
+歷史[编辑]
+RSS格式采纳之前有过几次web联合化的尝试，但都没有达到广泛的传播。关于重构web站点信息的基本思想可以追溯到早至1995年，当时Ramanathan V. Guha以及他在苹果公司高科技小组的同事开发出元内容框架。对这些早期发展的更详细讨论，请参见网页联合供稿技术的历史。
+RSS的第一個版本為RDF Site Summary，在1999年三月由美國網景公司的Guha為了用在My.Netscape.Com入口網站而開發。這個版本開始以RSS0.9為名。在1999年七月，美國網景公司的Dan Libby發明了新版本RSS 0.91，此版本簡化了形式，藉由 撤去RDF元素及合併Dave Winer的scriptingNews企業聯合組織化格式。Libby並且將此重新命名為RSS，全名"Rich Site Summary"，並且在"futures document"論述了未來的發展形式。
+這會是Netscape在RSS八年的研究中最後一次的參與，當RSS被一些想要他們的feeds被用在My.Netscape.Com和其他早期RSS入口的網路出版者環繞，美國「網景」公司下降RSS並支持MY. Netscape.Com在2001年四月期間新主人AOL的重建公司，還取消了支撐格式化的使用說明文件和工具。
+其中，Google Reader曾整合了RSS的分類與自訂標題，網頁功能。但於2013年7月15日已終止服務。
+发展[编辑]
+随着越来越多的站点对RSS的支持，RSS目前已经成为成功的XML应用。RSS搭建了信息迅速传播的一个技术平台，使得每个人都成为潜在的信息提供者。
+RSS 2.*的分支包括下列版本：
+
+RSS 0.91是一個精簡的RSS形式，由美國網景公司所發行，同時也是原創的排行第一的版本編號，由Dave Winer從Userland軟體所製作。網景公司的版本現在被稱為Rich Site Summary； 這個是不久前的RDF格式，但是相對而言比較不方便使用。
+RSS 0.92透過0.94被擴大為RSS 0.91版本，更容易與其他相容以及和Winer的RSS 0.91版本，但仍然和RSS 0.90不相容。在所有的Userland RSS 0.9x規格里，RSS不再只是個縮寫。
+RSS 2.0.1是國內版本編號2.0。RSS 2.0.1雖被聲稱凍結，但是仍是一個網頁然可以快速下載，之後再聲稱沒有改變版本編號。RSS現今代表著簡易供稿系統。主要的改變在這個版本裡使用伸的機制。
+
+對大部分而言，和較早的版本比較起來（除了無兼容性的RDF語法在0.90），較新的版本接觸到各個分支時為逆兼容性，以及大部分的版本嚴格上來說包括以延伸機構使用XML Namespaces來證明，另一方面正好（在2.* 分支）或透過RDF（在1.* 分支），大部分的企業聯合組織化軟體都有支持這兩種分支。
+模組[编辑]
+RSS模組的主要目標是延伸基本的XML概要來獲得更健全的內容匯集。此種傳承允許更多的變化卻又能夠符合標準，在不用更改RSS核心之下執行。為了達成此項延伸，嚴密規範的字彙（在RSS中為「模組」；XML中為「概要」）透過XML namesspace命名各種概念之中的概念。
+點對點應用及RSS[编辑]
+幾種以BitTorrent為基準和點對點的應用也支援RSS。此種網摘允許客戶端的應用程式在偵測到更新時自動下載。
+閱讀器[编辑]
+主条目：聚合器
+RSS信息的获取与订阅，可以通过称为聚合器一类的软件或服务来实现。通常情况下RSS阅读器除了客户端软件之外，还存在一类基于Web应用的在线阅读器（例如digg.com）。較常用的有預載於Acer個人電腦當中的易搜比軟體、Snarfer。
+參見[编辑]
+
+消息來源
+Atom (標準)
+XML
+OPML
+
+參考資料[编辑]
+
+
+^ The application/rss+xml Media Type. Network Working Group. 2006-05-22 [2007-08-16]. 
+
+
+外部連結[编辑]
+
+RSS 0.90 Specification
+RSS 0.91 Specification
+RSS 1.0 Specifications
+RSS 2.0 Specification
+History of the RSS Fork (Mark Pilgrim)
+Building an RSS feed Tutorial with example
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+数据交换格式
+
+
+
+
+
+
+人类可读的格式
+
+
+
+Atom
+XML
+YAML
+JSON
+資源描述框架(RDF)
+Rebol
+RSS
+网络本体语言(OWL)
+
+
+
+
+
+
+
+
+二进制格式
+
+
+
+AMF
+Base32
+Base36
+Base58
+Base64
+Ascii85
+MessagePack
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4734489-1
+
+
+
+
+
+
+
+
+
+
+
+
+分类：RSS網站供稿基于XML的标准文件格式隐藏分类：自2013年1月待更新条目使用过时图像语法的页面包含规范控制信息的维基百科条目

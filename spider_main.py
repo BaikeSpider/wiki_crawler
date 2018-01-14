@@ -31,8 +31,8 @@ class SpiderMain(object):
             try:
                 #while new_url in crawled_urls:
                 new_url, title, parent_url, parent_title, parent_all, now = self.urls.get_new_url(now)
-                if new_url == 'https://zh.wikipedia.org/wiki/%E6%99%BA%E5%BA%AB':
-                    print('hah')
+                #if new_url == 'https://zh.wikipedia.org/wiki/%E6%99%BA%E5%BA%AB':
+                #    print('hah')
 
                 # print('crawl %d : %s' % (count, new_url))
                 # print(title)
@@ -77,11 +77,11 @@ class SpiderMain(object):
 
 
 if __name__=='__main__':
-    root_url = ['https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96']
-    new_titles = ['政策']
-    parent = 'https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96'
-    parent_title = '政策'
-    parent_all = '政策'
+    root_url = ['https://zh.wikipedia.org/zh-cn/%E4%BD%93%E8%82%B2%E8%BF%90%E5%8A%A8']
+    new_titles = ['体育运动']
+    parent = 'Top'
+    parent_title = '体育运动'
+    parent_all = '体育运动'
     
     obj_spider = SpiderMain()
     obj_spider.craw(root_url, new_titles, parent, parent_title, parent_all)

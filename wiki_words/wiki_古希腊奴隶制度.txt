@@ -1,0 +1,454 @@
+古希腊奴隶制度
+
+
+
+
+
+本条目部分链接不符合格式手冊規範。跨語言链接及章節標題等處的链接可能需要清理。（2015年12月11日） 
+請協助改善此條目。參見WP:LINKSTYLE、WP:MOSIW以了解細節。突出显示跨语言链接可以便于检查。 
+
+
+
+
+
+
+陪葬碑：奴隸（以較矮的身材代表奴隸的身份）在女主人旁邊（慕尼黑古代雕塑展覽館（Glyptothek）)
+
+
+奴隶制度是古希腊发展史的一个重要组成部分。大部分古代作家认为奴隶制不仅是必需的而且自然合理，无论斯多葛派还是早期基督教都没有质疑过这种行为。然而早在公元前4世纪，一些独立的争议开始出现，在苏格拉底谈话中尤其明显。
+与史学的惯例相一致，本文仅仅讨论物化奴隶[1]制度，而不讨论附属的群体比如色萨利的潘尼斯特，斯巴达的黑劳士，克里特的克拉罗特，他们与中世纪的农奴制更为相类。奴隶们被剥夺人身自由，并被迫服从于一个能够将他像任何一份可能的良好动产一样买卖、租借的奴隶主。
+关于古希腊奴隶制度的研究引起了一系列重大的方法论问题。这方面的文献杂乱且十分琐碎，集中在雅典城的问题上。关于这个课题没有明确的专门著述。公元前4世纪的司法辩论关注奴隶制仅仅是作为一种国家收入的来源。喜剧和悲剧以成规写就。肖像画在表现奴隶和工匠方面没有任何充分的区别。甚至这方面的术语都十分贫乏。
+
+
+
+目录
+
+
+1 术语
+2 奴隶制度的起源
+3 经济角色
+4 奴隸的數量和來源
+
+4.1 奴隸人口數
+
+
+5 奴隸的地位
+6 人口学
+
+6.1 人口
+6.2 奴隶的来源
+
+6.2.1 战争
+6.2.2 海盗和土匪
+6.2.3 国际贸易
+
+
+6.3 自然增长
+
+
+7 奴隶的地位
+
+7.1 雅典的奴隶
+7.2 戈提那的奴隶
+7.3 一個特殊的事例：债务奴隶
+7.4 奴隶解放
+7.5 斯巴达奴隶
+
+
+8 注释
+9 延伸阅读
+10 外部链接
+
+
+
+术语[编辑]
+古希腊有许多词语用于描述奴隶，虽然它们中的许多需放在上下文中理解以消除歧义。在荷马、赫西俄德和泰奥格尼斯的诗中，奴隶们被称为δμώς/dmôs。[2]这个词有着笼统的涵义，但是主要指那些战争中获得的“战利品”[3]换句话说，作为一种“物”。古典时期，希腊人频繁的使用ἀνδράποδον/andrápodon一词[4]照字面意义可理解为“一种长着人脚的动物”，与τετράποδον/“禽类及畜类”相对。[5]最普遍的词无疑是δοῦλος/“doûlos”，[6]这是迈锡尼碑文中“do-e-ro”的早期形式，[7]它是“自由民”（ἐλεύθερος/“eleútheros”）的反义词。动词δουλεὐω可以比喻性的用来表示支配权的其他形式，比如一个城邦统治着另一个、或父母们支配他们的孩子。[8]最后，术语οἰκέτης/oikétês被使用，它的字面意义是“住在房子里的人”，实际上指的是普通的奴仆。[9]
+其他的词语翻译并不那么精确，它们必须和上下文联系起来理解：
+
+
+
+θεράπων/therápôn—在荷马的时代，这个词意为“侍从”（帕特罗克洛斯就曾被认为是阿奇里斯的therapôn[10]而墨里奥涅斯则是伊多墨纽斯的[11]）；在古典时期，它代指“奴仆”。[12]
+ἀκόλουθος/akólouthos—字面意思是“追随者”。而小词缀ἀκολουθίσκος则用来指青年男侍。[13]
+παῖς/pais—字面意义是“弟子”，与“僮仆”用法相同，[14]也用来贬称成年奴隶。[15]
+σῶμα/sôma—字面意思是“人”，常与解放联系起来使用。[16]
+
+
+
+奴隶制度的起源[编辑]
+
+
+
+
+Women as plunder of war: Ajax the Lesser taking Cassandra, tondo of a red-figure kylix by the Kodros Painter, ca. 440-430 BC, Louvre
+
+
+奴隶制在迈锡尼文明时就已出现。皮洛斯140 do-e-ro的碑文证明了这一点。奴隶有两个法定的种类：“普通”奴隶和“神的奴隶”（te-o-jo do-e-ro / θεοιο），这里的神大概指的是波塞冬。神的奴隶有自己的名字和土地；他们的法律地位和自由民相近。他们与神的契约的性质与起源现在不十分清楚。[17]至于普通奴隶，他们的名字显示出他们中的某些人来自基西拉、希俄斯、利姆诺斯甚至哈利卡纳苏斯，他们可能是掠夺行为的结果。碑文显示出奴隶与非奴隶间的联合是经常的，而且奴隶们可能成为独立的工匠并能持有小块土地。实际上，似乎迈锡尼主要的分裂并不发生在自由民和奴隶之间，而是宫廷中人与平民百姓之间。[18]
+与希腊黑暗时代的诸时期不同，迈锡尼时代与荷马时代在社会结构上并没有连贯性。描述奴隶的术语是不同的：”奴隶不再被称为do-e-ro（doulos），而是被叫做dmôs。[19]在《伊利亚特》中，奴隶主要是战争中掠夺而来的妇女。[20]而被俘的男子一般都被赎回[21]或在战场上阵亡。在《奥德赛》中，奴隶们同样大多为女性。[22]这些奴隶是仆人[23]有时也作主人的妾。[24]男性奴隶也是存在的，尤其在《奥德赛》中，养猪人欧迈俄斯就是一例。这样的奴隶与众不同的一点是他是oikos（“家族”）中的一员：莱耳忒斯与他的仆人共同饮食[25]；冬天时也与他们一起睡[26]。dmôs这个词被认为并不包含什么轻蔑的意思，而欧迈俄斯、“神圣的”养猪人，[27]被荷马看作希腊的英雄之一。尽管如此，奴隶身分仍然是一种耻辱。欧迈俄斯自己声称“当一个人失去了自由之身时，宙斯就已夺去了他身上一半的美德。”[28]
+现在很难确定古典时期的奴隶贩卖是何时开始的。赫西奥德在他的诗篇《工作与时令》中（公元前8世纪）写道他拥有许多dmôes，[29]虽然他们身份不明。阿尔基洛科斯、麦加拉的西奥格尼斯等抒情诗人的作品也证实了douloi的存在。[30]有碑文证明德拉古的法律（公元前620年）曾提到奴隶。[31]根据普鲁塔克的记载，[32] 梭伦曾禁止奴隶从事体操和男色关系。当梭伦建立起雅典民主制的基础的时候，奴隶制变得非常普遍。古典学者摩西·芬利也写道据泰奥彭波斯的记述， [33]希俄斯是组织奴隶买卖的第一个城市，同时也享受了早期的民主进程（约公元前6世纪）。他推断道“简而言之，早期希腊历史的一个特点就是在“自由”和奴隶制的双重作用下向前迈进的。”[34]
+经济角色[编辑]
+参见：古希臘的經濟
+
+
+
+
+Agriculture, a common use for slaves, black-figure neck-amphora by the Antimenes Painter, British Museum
+
+
+某程度來說，希臘並沒有所謂的奴隸制度。因為除了政治活動外，其他所有活動都開放給奴隸參與。原因是希臘人認為只有公民才有資格參加政治活動[35]。再者，希臘人也認為只有政治活動才值得公民參加；因此，政治以外的一切活動，都會儘可能開放給非公民參與[36]。重要的是參加者的身份，而非活動本身。
+奴隶们主要从事农业劳动，因为农业是古希腊经济的根基。一些小的地主可能拥有一个甚至两个奴隶。[37]色诺芬或委托亚里士多德所撰的《经济学》及其他许多文献指出了大量不动产奴隶的存在；他们或许是普通劳工或工头。至于奴隶在耕作中被用作劳动力的广泛性，现在还有争议。[38]可以确定的是，一方面乡村奴隶制在雅典十分普遍，另一方面，古希腊对罗马大农场主（英语：Latifundia）所拥有的极大的奴隶人口并不知晓。[39]
+在采石场和矿场中，奴隶劳力到目前是最为普遍的。大量的奴隶人口往往被富裕的公民租赁。尼西亚斯将军曾租借一千名奴隶派往阿提卡的劳里厄姆银矿；Hipponicos，600名; Philomidès，300名。色诺芬[40]指出每个奴隶每天得到一欧布鲁斯，总计每年60德拉克马。这对雅典人来说大概是最有价值的投资了。在劳里厄姆矿处理矿石的奴隶大概有30000人。[41]色诺芬还暗示该城大量购入奴隶，每个公民平均拥有三个上等奴隶，因而通过租赁奴隶可以维持所有公民的生活。[40]
+奴隶们也常成为手工业者和工匠。比方在农业方面，他们充当家族之外的劳力。不过工场的奴隶人数是最多的。莱西亚斯的制盾厂雇用了120名奴隶，[42]德摩斯梯尼的父亲则拥有32名刀匠和20名制床者。[43]
+奴隶们也从事一些家务劳动。家仆的主要任务是在交易时替主人站好位置以及陪伴主人旅行。战争时期则替重装步兵当勤务员；有些人认为他们的作用甚至更为广泛。[44]女性奴隶主要是做家务，特别是烤面包和纺织。只有最穷的公民才没有任何家奴。[45]
+奴隸的數量和來源[编辑]
+奴隸人口數[编辑]
+由於缺乏準確的普查，加上沒有一個確切的奴隸定義，所以很難估計古希臘奴隸的數目。不過，可以肯定的是，在公元前五至六世紀之間，雅典擁有最多奴隸，可能多達80,000人；每個家庭，平均擁有三個至四個奴隸。在公元前5世紀，修昔底德認為德西里亞（Decelea）戰爭期間，有2萬名奴隸逃走，他們大多數是商販。在狄摩西尼的時代，估計最少有2萬名奴隸，相當於每個家庭有一名奴隸。
+奴隸的地位[编辑]
+古希臘人分為不同的階層：自由公民、奴隸、農奴（潘尼斯特人、黑勞士人）、被剝奪公民權的公民、重獲自由的奴隸、私生子和客籍民。奴隸階層的共通點是：都被剝奪了公民權。
+人口学[编辑]
+人口[编辑]
+奴隶的来源[编辑]
+奴隶的来源主要有戰俘、債奴[46]、奴婢所生子女、海盗劫持的人口（海上）、土匪（陆地）、罪犯和国际贸易等。
+战争[编辑]
+根据那个时期的战争规则，战胜者对战败者拥有绝对的权利，无论他们是否是战士。[47]奴役尽管不是有系统的，也是不成文的规定。修昔底德回忆西西里岛Hyccara的7000名居民被Nicias俘虏，并被以120塔兰同的价格卖给卡塔尼亞附近的村庄。[48]同样地，奥林索斯的居民在公元前348年，底比斯的居民在公元前335年被亚历山大大帝变为奴隶，同样的，曼提尼亚的居民被亚该亚同盟变为奴隶。[49]
+海盗和土匪[编辑]
+戰爭提供了大量而且穏定的供應。
+国际贸易[编辑]
+古希臘繁盛的海上貿易帶來了大量隸屬於不同種族的奴隸，來自歐、亞、非洲的各個地區，比如來自西徐亞的奴隸就以擅長騎射和養馬聞名。希臘各邦除了進口奴隸外，本身也向外輸出奴隸。
+自然增长[编辑]
+奴隶的地位[编辑]
+希腊不是拥有一种而是多种奴隶身份。更精确地讲，希腊存在众多的种类，范围从自由公民到物化奴隶，并包括古农奴（潘尼斯特或黑劳士），被剥夺公民权的公民，获释奴隶，私生子，和客籍民[50]。不同的种类的奴隶身份的共同点是被剥夺的公民权利的多少。
+摩西斯·芬利（Moses Finley）proposed a set of criteria for different degrees of enslavement:[51]
+雅典的奴隶[编辑]
+
+
+
+
+Funerary loutrophoros; on the right a bearded slave carries his master's shield and helm, 380–370 BC, National Archaeological Museum of Athens
+
+
+雅典的奴隶是其主人（或国家）的财产，主人可以任意处置奴隶。主人可以赠予，出售，出租或遗赠奴隶。奴隶可以拥有配偶和子女，但国家不承认奴隶家庭，而且主人可以在任何时候将家庭拆散。[52]奴隶的诉权比公民少，而且在一切法律诉讼中由主人代表其诉权。[53]对于自由人仅仅被处以罚款的轻罪，对于奴隶来说就会处以鞭挞；比率似乎是一德拉克马罚一鞭子。
+戈提那的奴隶[编辑]
+一個特殊的事例：债务奴隶[编辑]
+在梭伦废除以前，雅典实行债务奴隶制：一个无力支付债务的平民将成为其债主的奴隶。[54]
+奴隶解放[编辑]
+在古希腊历史上，也出现过释放奴隶的现象，尤其是当城邦需要奴隶来保护它自己时。例如当伯罗奔尼撒战争进行到公元前406年的时候，斯巴达军队包围了雅典海港，雅典立即宣布进入紧急状态。为了增强抵御斯巴达进攻的力量，雅典宣布给予一切为雅典效力的奴隶以自由，授公民权给为国服务的外邦人。这种释放，只是奴隶主出于政治上的考虑，而不是由于良心发现。奴隶制并没有因为奴隶的释放而受到动摇，相反，这样的释放反而会起到巩固奴隶制的作用。[來源請求]
+斯巴达奴隶[编辑]
+注释[编辑]
+
+
+^ chattel slave，也译做“动产奴隶”、“古典奴隶”)
+^ Chantraine, s.v. δμώς。
+^ 以《奥德赛》1:398为例，忒勒马科斯提到“优秀的奥德修斯为他赢得的奴隶”。
+^ 荷马在《伊利亚特》中用它来代指战争中获得的俘虏7:475；这行诗为萨莫色雷斯的阿里斯塔库斯批阅，在泽诺多托斯和拜占庭的阿里斯托芬之后，参见Kirk, 291页。
+^ Chantraine, s.v. ἀνερ.
+^ 希腊语－英语词典（LSJ）所下定义。
+^ Mycenean transliterations can be confusing and do not directly reflect pronunciation; for clarification see Linear B.
+^ Chantraine, s.v. δοῦλος. See also Mactoux (1981).
+^ Chantraine, s.v. οἰκος.
+^ Iliad, 16:244 and 18:152.
+^ Iliad, 23:113.
+^ Chantraine, s.v. θεράπων.
+^ Chantraine, s.v. ἀκόλουθος.
+^ Chantraine, s.v. παῖς.
+^ Cartledge, p.137.
+^ Chantraine, s.v. σῶμα.
+^ Burkert, p.45.
+^ Mele, pp.115–155.
+^ Garlan, p.36.
+^ 例如克律塞伊斯（1:12–3, 29–30, 111–5）、布里塞伊斯（2:688–9）、狄俄墨得斯（6:654–5）、伊菲斯（6:666–8）以及赫卡墨得（11:624–7）。
+^ 参见《伊利亚特》中特洛伊王阿德拉斯托斯的恳求（1:46-50），吕卡翁（21:74–96）和安提马科斯（11:131–5）的儿子们，乞求以战俘作交换以获得宽大。
+^ 在阿尔喀诺俄斯（7:103）和尤利西斯（22:421）家中约有50名这样的女奴。
+^ 在与阿喀琉斯交战前，赫克托尔预料到他的妻子会陷入被奴役的生活，从事纺织和取水。《奥德赛》中，仆人门要生火（20:123），准备酒席（1:147），磨碎小麦（7:104, 20:108–9）铺床（7:340–2）和款待客人。
+^ 《伊利亚特》中，克律塞伊斯与阿伽门农，布里塞伊斯、狄俄墨得斯与阿喀琉斯，伊菲斯与帕特洛克罗斯上床 。《奥德赛》中，十二名女奴与请愿者睡觉（20:6–8）以反抗欧律克勒亚的命令（22:423-425）。
+^ Odyssey, 16:140–1.
+^ Odyssey, 11:188–91.
+^ Odyssey, 14:3.
+^ Odyssey 17:322–323. Online version of Butcher-Lang 1879 translation 互联网档案馆的存檔，存档日期2006-02-20..
+^ For instance Works and Days, 405.
+^ Garlan, p.43.
+^ "κατὰ ταὐτὰ φόνοθ δίκας εἷναι δοῦλον κτείναντι ἢ ἐλεὐτερον." Dareste, Haussoulier and Reinach, 4, 5, 8.
+^ Life of Solon, 1:6.
+^ Apud Athenaeus, 6:265bc = FGrH（英语：Fragmente der griechischen Historiker） 115, fgt.122.
+^ Finley (1997), pp.170–171.
+^ Finley (1997), p.180.
+^ Finley (1997), p.148.
+^ Finley (1997), p.149.
+^ Jameson认为奴隶的使用极其广泛；Wood (1983 and 1988)则持怀疑态度。
+^ Finley (1997), p.150.
+^ 40.0 40.1 Poroi（On Revenues）, 4.
+^ Lauffer, p.916.
+^ Demosthenes, 12:8–19.
+^ Demosthenes, Against Aphobos, 1:9.
+^ See Hunt for further reading.
+^ Finley (1997), pp.151–152.
+^ 古希臘奴隸制經濟參考書目　崔連仲主編：《世界史（古代史部分）》，人民出版社，北京，1983。
+^ See Ducrey for further reading.
+^ Thucydides, 6:62 and 7:13.
+^ Garlan, p. 57.
+^ Finley (1997), p.147.
+^ Finley (1997), pp.165–89.
+^ Garlan, p.47.
+^ Antiphon（英语：Antiphon）, First Tetralogy, 2:7, 4:7; Demosthenes, Against Pantenos, 51 (2) and Against Evergos, 14, 15, 60.
+^ Aristotle, Constitution of the Athenians, See also 1:2 and Plutarch, Life of Solon, 13:2.
+
+
+
+
+This article draws heavily on the Esclavage en Grèce antique article in the French-language Wikipedia, which was accessed in the version of May 17, 2006.
+（法文） Brulé, P.（1978a）“Signification historique de la piraterie grecque ”, Dialogues d'histoire ancienne no.4 (1978), pp.1–16.
+（法文） Brulé, P.（1992）“Infanticide et abandon d'enfants”, Dialogues d'histoire ancienne no.18 (1992), pp.53–90.
+Burkert, W. Greek Religion. Oxford: Blackwell Publishing, 1985. ISBN 0-631-15624-6, originally published as Grieschische Religion der archaischen und klassischen Epoche. Stuttgart: Verlag W. Kohlhammer, 1977.
+（法文） Carlier, P. Le IVe siècle grec jusqu'à la mort d'Alexandre. Paris: Seuil, 1995. ISBN 2-02-013129-3
+Cartledge, P.. "Rebels and Sambos in Classical Greece", Spartan Reflections. Berkeley: University of California Press, 2003, p.127–152 ISBN 0-520-23124-4
+（法文） Chantraine, P. Dictionnaire étymologique de la langue grecque. Paris: Klincksieck, 1999 (new edition). ISBN 2-252-03277-4
+（法文） Dareste R., Haussoullier B., Reinach Th. Recueil des inscriptions juridiques grecques, vol.II. Paris: E. Leroux, 1904.
+（法文） Ducat, Jean. Les Hilotes, BCH suppl.20. Paris: publications of the École française d'Athènes, 1990 ISBN 2-86958-034-7
+（法文） Dunant, C. and Pouilloux, J. Recherches sur l'histoire et les cultes de Thasos II. Paris: publications of the École française d'Athènes, 1958.
+Finley, M.（1997）. Économie et société en Grèce ancienne. Paris: Seuil, 1997 ISBN 2-02-014644-4, originally published as Economy and Society in Ancient Greece. London: Chatto and Windus, 1981.
+Garlan, Y. Les Esclaves en Grèce ancienne. Paris: La Découverte, 1982. 1982 ISBN 2-7071-2475-3, translated in English as Slavery in Ancient Greece. Ithaca, N.Y.: Cornell University Press, 1988（1st edn. 1982）ISBN 0-8014-1841-0
+Kirk, G.S.（editor）. The Iliad: a Commentary, vol.II（books 5–8）. Cambridge: Cambridge University Press, 1990 ISBN 0-251-28172-5
+Jameson, M.H. “Agriculture and Slavery in Classical Athens”, Classical Journal, no.73（1977–1978）, pp.122–145.
+Jones, A.H.M.. Athenian Democracy. Oxford: Blackwell Publishing, 1957.
+（德文） Lauffer, S. "Die Bergwerkssklaven von Laureion", Abhandlungen no.12 (1956), pp.904–916.
+（法文） Lévy, E.（1995）. La Grèce au Ve siècle de Clisthène à Socrate. Paris: Seuil, 1995 ISBN 2-02-013128-5
+（法文） Lévy, E.（2003）. Sparte. Paris: Seuil, 2003 ISBN 2-02-032453-9
+（法文） Mactoux, M.-M.（1980）. Douleia: Esclavage et pratiques discursives dans l'Athènes classique. Paris: Belles Lettres, 1980. ISBN 2-251-60250-X
+（法文） Mactoux, M.-M.（1981）. "L'esclavage comme métaphore : douleo chez les orateurs attiques", Proceedings of the 1980 GIREA Workshop on Slavery, Kazimierz, 3-8 November 1980, Index, 10, 1981, pp.20–42.
+（法文） Masson, O. "Les noms des esclaves dans la Grèce antique", Proceedings of the 1971 GIREA Workshop on Slavery, Besançon, 10-11 mai 1971. Paris: Belles Lettres, 1973, pp.9–23.
+（法文） Mele, A. “Esclavage et liberté dans la société mycénienne”, Proceedings of the 1973 GIREA Workshop on Slavery, Besançon 2-3 mai 1973. Paris: Les Belles Lettres, 1976.
+Morrow, G.R. “The Murder of Slaves in Attic Law”, Classical Philology, Vol. 32, No. 3（Jul., 1937）, pp. 210–227.
+Oliva, P. Sparta and her Social Problems. Prague: Academia, 1971.
+（法文） Plassart, A. "Les Archers d'Athènes," Revue des études grecques, XXVI (1913), pp.151-213.
+Pomeroy, S.B. Goddesses, Whores, Wives and Slaves. New York: Schoken, 1995. ISBN 0-8052-1030-X
+Pritchett, W.K. and Pippin, A.（1956）. "The Attic Stelai, Part II", Hesperia, Vol.25, No.3（Jul.–Sep., 1956）, pp.178–328.
+Pritchett (1961). “Five New Fragments of the Attic Stelai”, Hesperia, Vol.30, No. 1（Jan.–Mar., 1961）, pp.23–29.
+Wood, E.M.（1983）。“Agriculture and Slavery in Classical Athens”, American Journal of Ancient History No.8 (1983), pp.1–47.
+Von Fritz, K. “The Meaning of ἙΚΤΗΜΟΡΟΣ”, The American Journal of Philology, Vol.61, No.1 (1940), pp.54–61.
+Wood, E.M.（1988）. Peasant-Citizen and Slave: The Foundations of Athenian Democracy. New York: Verso, 1988 ISBN 0-86091-911-0.
+
+
+延伸阅读[编辑]
+
+
+General studies
+
+
+Bellen, H., Heinen H., Schäfer D., Deissler J., Bibliographie zur antiken Sklaverei. I: Bibliographie. II: Abkurzungsverzeichnis und Register, 2 vol. Stuttgart: Steiner, 2003. ISBN 3-515-08206-9
+Bieżuńska-Małowist I. La Schiavitù nel mondo antico. Naples: Edizioni Scientifiche Italiane, 1991.
+Finley, M.:
+
+The Ancient Economy. Berkeley: University of California Press, 1999（1st edn. 1970）. ISBN 0-520-21946-5
+Ancient Slavery & Modern Ideology. Princeton: Markus Wiener, 1998（1st edn. 1980）. ISBN 1-55876-171-3
+Slavery in Classical Antiquity. Views and Controversies. Cambridge: Heffer, 1960.
+
+
+Garnsey, P. Ideas of Slavery from Aristotle to Augustine. Cambridge: Cambridge University Press, 1996. ISBN 0-521-57433-1
+De Ste-Croix, G.E.M. The Class Struggle in the Ancient Greek World. London: Duckworth; Ithaca, N.Y.: Cornell University Press, 1981. ISBN 0-8014-1442-3
+Vidal-Naquet, P.:
+
+"Women, Slaves and Artisans", third part of The Black Hunter : Forms of Thought and Forms of Society in the Greek World. Baltimore: Johns Hopkins University Press, 1988（1st edn. 1981）. ISBN 0-8018-5951-4
+with Vernant J.-P. Travail et esclavage en Grèce ancienne. Bruxelles: Complexe, "History" series, 2006（1st edn. 1988）. ISBN 2-87027-246-4
+
+
+Wiedemann, T. Greek and Roman Slavery. London: Routledge, 1989（1st edn. 1981）. ISBN 0-415-02972-4
+Westermann, W.L. The Slave Systems of Greek and Roman Antiquity. Philadelphia: The American Philosophical Society, 1955.
+
+
+Specific studies
+
+
+Brulé, P.（1978b）. La Piraterie crétoise hellénistique, Belles Lettres, 1978. ISBN 2-251-60223-2
+Brulé, P. and Oulhen, J.（dir.）. Esclavage, guerre, économie en Grèce ancienne. Hommages à Yvon Garlan. Rennes: Presses universitaires de Rennes, "History" series, 1997. ISBN 2-86847-289-3
+Ducrey, P. Le traitement des prisonniers de guerre en Grèce ancienne. Des origines à la conquête romaine. Paris: De Boccard, 1968.
+Foucart, P. “Mémoire sur l'affranchissement des esclaves par forme de vente à une divinité d'après les inscriptions de Delphes”, Archives des missions scientifiques et littéraires, 2nd series, vol.2 (1865), pp.375–424.
+Hunt, P. Slaves, Warfare, and Ideology in the Greek Historians. Cambridge: Cambridge University Press, 1998. ISBN 0-521-58429-9
+Ormerod, H.A. Piracy in the Ancient World. Liverpool: Liverpool University Press, 1924.
+Gabrielsen, V. "La piraterie et le commerce des esclaves", in E. Erskine（ed.）, Le Monde hellénistique. Espaces, sociétés, cultures. 323-31 av. J.-C.. Rennes: Presses Universitaires de Rennes, 2004, pp.495–511. ISBN 2-86847-875-1
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：古希腊奴隶制度
+
+
+
+
+（法文） GIREA, The International Group for Research on Slavery in Antiquity
+Greek law bibliographic database at Nomoi
+Documents on Greek slavery on the Ancient History Sourcebook.
+（法文） Index thématiques de l'esclavage et de la dépendance Subject index on slavery and related topics, by author.
+（法文） Bibliothèque numérique ISTA Free library
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+古希腊
+
+
+
+
+
+
+歷史
+
+
+
+
+
+爱琴文明
+
+
+基克拉泽斯文明 · 米诺斯文明 · 迈锡尼文明
+
+
+
+
+
+
+
+古希腊
+
+
+黑暗时代 · 古風時期 · 古典時期 · 希臘化時代 · 希腊的罗马时期
+
+
+
+
+
+
+
+
+
+地理
+
+爱琴海 · 達達尼爾海峽 · 馬其頓王國 · 斯巴达 · 古雅典 · 科林斯 · 古底比斯 · 溫泉關 · 爱奥尼亚海 · 愛奧尼亞 · 埃奧利斯 · 小亞細亞多利安六城 · 安提阿 · 亚历山大港 · 帕加马 · 米利都 · 以弗所 · 拜占庭 · 德尔斐 · 提洛岛 · 奥林匹亚 · 特洛伊 · 罗得岛 · 克里特 · 伯罗奔尼撒 · 伊庇魯斯 · 賽普勒斯 · 本都 · 大希腊 · 古希臘殖民地
+
+
+
+
+
+
+生活
+
+農業 · 饮食文化 · 雅典式民主 · 經濟 · 教育 · 雅典節日 · 法律 · 賣淫業 · 宗教 · 英雄崇拜 · 奴隶制度 · 古代奥林匹克运动会 · 哲学 · 戰爭 · 葡萄酒 · 同性戀（少年愛） · 丧葬
+
+
+
+
+
+
+人物
+
+
+
+
+
+哲學家
+
+
+阿那克萨哥拉 · 阿那克西曼德 · 阿那克西美尼 · 安提西尼 · 亚里士多德 · 德谟克利特 · 锡诺普的第欧根尼 · 伊壁鸠鲁 · 恩培多克勒 · 赫拉克利特 · 留基伯 · 高爾吉亞 · 巴门尼德 · 柏拉图 · 普罗泰戈拉 · 毕达哥拉斯 · 苏格拉底 · 泰勒斯 · 季蒂昂的芝诺
+
+
+
+
+
+
+
+作家
+
+
+埃斯库罗斯 · 伊索 · 阿里斯托芬 · 欧里庇得斯 · 希羅多德 · 赫西俄德 · 荷马 · 琉善 · 米南德 · 品达 · 普魯塔克 · 波利比奥斯 · 莎孚 · 索福克勒斯 · 修昔底德 · 泰奥格尼斯 · 提谟克勒翁 · 提尔泰奥斯 · 色诺芬
+
+
+
+
+
+
+
+其他
+
+
+亚历山大大帝 · 阿尔西比亚德斯 · 阿基米德 · 阿斯帕齊婭 · 狄摩西尼 · 欧几里得 · 喜帕恰斯 · 希波克拉底 · 列奥尼达一世 · 來古格士 · 克罗托那的米罗‎ · 伯里克利 · 托勒密 · 梭伦 · 地米斯托克利
+
+
+
+
+
+
+
+
+
+建築
+
+古希臘神廟 · 帕德嫩神廟 · 阿尔忒弥斯神庙 · 雅典衛城 · 古阿哥拉 · 宙斯神廟 · 赫菲斯托斯神廟 · 薩摩色雷斯廟宇群 · 古希臘神廟列表
+
+
+
+
+
+
+藝術
+
+建築 · 貨幣 · 文學 · 音樂 · 陶器 · 雕刻 · 戲劇 · 史學
+
+
+
+
+
+
+科學
+
+天文學 · 數學 · 醫學 · 技術
+
+
+
+
+
+
+語言
+
+原始希臘語 · 邁錫尼希臘語 · 荷馬式希臘語 · 古希臘方言 （伊歐里斯 · 阿卡迪亞-塞浦路斯 · 雅典希臘語 · 多利斯 · 愛奧尼亞 · 洛克里 · 馬其頓 · 旁非利亞） · 通用希臘語
+
+
+
+
+
+
+書寫系統
+
+线形文字A · 線形文字B · 塞浦路斯音節文字 · 希腊字母 · 優卑亞字母
+
+
+
+
+
+
+
+
+ « 史前歐洲
+中世紀 » 
+
+
+
+
+
+
+
+
+
+
+
+分类：古希腊奴隶制度古希腊社会劳动史隐藏分类：Webarchive模板wayback链接自2015年12月連結格式不正確的條目有未列明来源语句的条目本地链接的维基共享资源分类与Wikidata不同使用ISBN魔术链接的页面

@@ -1,0 +1,335 @@
+微博
+
+
+提示：本条目的主题不是新浪微博。
+
+
+
+
+
+
+
+
+
+微博（英语：microblog）是一种允许用户即时更新简短文本（通常少于Twitter開始的140字）并可以公开发布的微型博客形式。它允许任何人阅读或者只能由用户选择的群组阅读。隨著發展，這些訊息可以被很多方式傳送，包括短訊、即時訊息軟體、行動應用程式、電子郵件或網頁。一些微博也可以發佈多媒體，如圖片或影音剪輯和出版。
+微博的代表性网站是Twitter、新浪微博和Plurk，而Twitter甚至已经成为了微博的代名词。
+微博與傳統的部落格不同，其文件（例如文本、影音或者錄影）容量常較傳統的部落格小，但使用者還是會在相同的事務上和各自的原因運用它。許多微博在一個面對面水平上提供短的評論或者關於公司的份額新聞：產品和服務。
+
+
+互联网
+
+
+
+Opte项目（英语：Opte Project）互联网一部分的路由路径可视化
+
+
+
+
+
+概况
+
+
+
+存取
+审查
+民主
+数位落差
+数字权利
+信息自由
+互联网历史
+网络爆红
+网络中立性
+先驱者（英语：List of Internet pioneers）
+隐私
+社会学
+使用
+
+
+
+
+
+
+
+
+
+治理（英语：Internet governance）
+
+
+
+互联网名称与数字地址分配机构 (ICANN)
+
+互联网工程任务组
+
+互联网治理论坛（英语：Internet Governance Forum） (IGF)
+互联网协会(ISOC)
+
+
+
+
+
+
+
+
+
+协议
+
+
+
+域名系统(DNS)
+超文本传输协议(HTTP)
+互联网交换点（英语：Internet exchange point）(IXP)
+网际协议(IP)
+TCP/IP协议族(IPS)
+互联网服务供应商(ISP)
+IP地址
+IMAP
+简单邮件传输协议(SMTP)
+
+
+
+
+
+
+
+
+
+服务
+
+
+
+網誌(Blog)
+
+微博
+
+
+电子邮件(Email)
+传真
+文件共享
+文件传输（英语：File transfer）
+游戏
+即時通訊
+播客(Podcast)
+购物
+电视
+網際協議通話技術(VoIP)
+万维网
+
+搜索
+
+
+
+
+
+
+
+
+
+
+
+指南
+
+
+
+ 书
+ 索引（英语：Index of Internet-related articles）
+纲要（英语：Outline of the Internet）
+
+
+
+
+
+
+
+ 互联网主题
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+目录
+
+
+1 服務
+
+1.1 早期及主要代表
+1.2 社交机器人
+1.3 中國大陆
+
+
+2 微博客及社交网站
+
+2.1 台湾
+2.2 大陆
+2.3 其它
+
+
+3 相关概念
+4 參考資料
+5 外部連結
+
+
+
+服務[编辑]
+早期及主要代表[编辑]
+在2007年5月，國際間計算總共有111個類似Twitter的網站。[1]然而，最值得注意的是Twitter，這個網站创办於2006年7月並且在2007年於德克薩斯州奧斯汀舉辦的西南偏南(SXSW)會議贏得了部落格類的網站獎。[2]Twitter的主要競爭對手是Plurk。 Pownce整合了微博客加上檔案分享和事件邀請的功能，由Digg的創始人 Kevin Rose 和另外三位開發者共同發展。 其他主導的社會網絡網站Facebook、MySpace、LinkedIn和Xing也有他們自己的微博客，以狀態更新更著名。
+社交机器人[编辑]
+活跃在微博客上的用户并非全是真实的人物，也有代码伪装成人的社交机器人。[3].
+中國大陆[编辑]
+主条目：中国微博
+在中國大陆，Twitter、Plurk和Facebook、Myspace等中国大陆境外微博和社交網站被国家部门封锁，饭否等先进入市场的小型微博于2009年7月后受管理部门长时间关停。新浪微博和腾讯微博是大陆的主流微博服务，其中以新浪微博的影响力最大，在中文里微博一词经常用以特指新浪微博。[4]
+微博客及社交网站[编辑]
+台湾[编辑]
+
+
+噗浪
+
+
+大陆[编辑]
+主条目：中国微博 § 列表
+
+
+新浪微博
+腾讯微博
+
+
+其它[编辑]
+
+
+Vkontakte
+Twitter
+Google Plus
+Facebook
+Identi.ca
+Juick
+Posterous
+Qaiku
+Sideblog
+Soup.io
+Thumbcast
+Twingr
+Yammer
+Wozai
+Gab[5]
+
+
+相关概念[编辑]
+
+
+互联网主题
+
+
+
+博客
+Web 3.0
+Tumblelog
+社交网站
+
+參考資料[编辑]
+
+
+^ Article on thws.cn.
+^ "We Won!" Twitter 官方網站
+^ http://www.mittrchinese.com/single.php?p=172475 “社交机器人”：促进人与人的联系
+^ 中国微博用户规模，亚太日报，2014年1月17日
+^ Charlie Nash. Meet the CEO of Gab, The Free Speech Alternative to Twitter. 2016-08-23 [2016-08-25]. 
+
+
+外部連結[编辑]
+
+趙鼎新：〈微博、政治公共空間和中國的發展〉（2012）
+趙鼎新：〈微博已經改變了中國〉（2011）
+Web 2.0 的嵌入式生存法則
+微博客應該知道的一些相關詞彙
+Twitter - 顛覆網路的微網誌代表作！
+优秀的开源免费微博客建站程序大放送
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+微博客
+
+
+
+
+
+
+網站
+
+Vkontakte · Facenama · Blauk · Facebook · Gab · Google+ · Google Buzz(已關閉) · Identi.ca · Jaiku(已關閉) · Viadeo · LinkedIn · MySpace（中国版：聚友网） · NotePub · 噗浪 · Posterous · Pownce (已關閉) · Qaiku · 新浪微博 · 腾讯微博 · QQ空间 · 网易微博(已關閉) · 搜狐微博(已關閉) · 飯否 · Tumblr · Twitter · Yahoo! Meme (已關閉) · XING
+
+
+
+
+
+
+平台
+
+Diaspora (发展中) · StatusNet · OpenMicroBlogging
+
+
+
+
+
+
+特色
+
+Reblogging · Activity stream · Lifestreaming · 长微博
+
+
+
+
+
+
+其他
+
+中国大陆的微博客服务
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+NDL: 01187038
+
+
+
+
+
+
+
+
+
+
+
+
+分类：Web 2.0網誌微博客

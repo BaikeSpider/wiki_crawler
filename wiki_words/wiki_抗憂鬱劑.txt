@@ -1,0 +1,2518 @@
+抗抑郁药
+
+
+
+
+
+ 维基百科中的醫療相关内容仅供参考，詳見醫學聲明。如需专业意见请咨询专业人士。
+
+
+
+
+SSRI类抗抑郁药氟西汀（百憂解）
+
+
+
+
+
+
+SNRI类抗抑郁药文拉法辛（怡诺思）的化学结构
+
+
+抗抑郁药（英語：Anti-depressant），是一类治疗重度抑郁症（MDD）或其它问题如心境恶劣障碍、焦虑症、强迫症、进食障碍、慢性疼痛、神经性疼痛（英语：Neuropathic pain）的药物，在某些情况下也可以用来治疗痛经、打鼾、偏头痛、多动症（ADHD）、药物滥用和失眠。抗抑郁药可以单独使用，也可以与其他药物联用，但都要遵医生的处方使用。
+主要的抗抑郁药有选择性5-羟色胺再摄取抑制剂（SSRI）、5-羟色胺和去甲肾上腺素再摄取抑制剂（SNRI）、三环类抗抑郁药（TCA）、单胺氧化酶抑制剂（MAOI）、四环类抗抑郁药（TeCA）、去甲肾上腺素和特异性5-羟色胺能抗抑郁药（NaSSA）。其他不常用的抗抑郁药有丁丙诺啡（英语：Buprenorphine）[1]、低剂量抗精神病药[2]和圣约翰草提取物。[3][4]
+一种关于抑郁症成因的理论认为，抑郁症以与下丘脑-垂体-肾上腺轴（HPA轴）在应激状态下出现的神经-内分泌反应类似的过度活跃为特征。HPA轴的异常参与抑郁症状的形成，而抗抑郁药可能起着调控HPA轴的作用。[5]
+
+
+
+目录
+
+
+1 医学应用
+
+1.1 重性抑郁障碍
+
+1.1.1 临床准则
+1.1.2 系统性评估
+1.1.3 STAR*D临床试验
+1.1.4 制约与策略
+1.1.5 “试错法”更换药物
+1.1.6 增强与组合
+1.1.7 长期使用
+1.1.8 相对功效与耐受性
+
+
+1.2 焦虑症
+
+1.2.1 广泛性焦虑障碍
+1.2.2 强迫症
+
+
+1.3 进食障碍
+1.4 疼痛
+
+1.4.1 纤维性肌痛
+1.4.2 神经性疼痛
+
+
+
+
+2 对健康的负面影响
+
+2.1 一般情况
+2.2 怀孕
+2.3 抗抑郁药引发的狂躁
+2.4 自杀
+2.5 性
+2.6 体重变化
+2.7 停药症候群
+2.8 情感迟钝
+
+
+3 引用
+
+
+
+医学应用[编辑]
+常用汉密尔顿抑郁量表（英语：Hamilton Depression Rating Scale）（HAM-D）来评估抑郁症症状的严重程度。[6] HAM-D量表共有17个项目，最高分为52分。分值越高，抑郁越严重。
+重性抑郁障碍[编辑]
+临床准则[编辑]
+英国国家卫生与保健研究所（英语：National Institute for Health and Care Excellence）（NICE）于2009年发布的方针指出，因风险效益比过低，抗抑郁药不应被例行地用于轻度抑郁的初步治疗。方针建议，应对下列情形考虑进行抗抑郁药治疗：
+
+有中度或重度抑郁病史的人
+长期患有轻度抑郁的人
+作为对采用其他治疗方案后仍然存在的症状的二线疗法
+作为中度或重度抑郁症的一线疗法
+
+方针还指出，抗抑郁药在大多数情况下应与心理社会学治疗结合使用，在病愈后继续治疗至少6个月以避免复发，而且SSRI类药物的耐受性比其他类抗抑郁药更好。[7]
+美国精神医学学会的治疗方针建议，初步的治疗方案应基于症状的严重程度、并发疾病、之前的治疗经历以及病人的偏好而量身定制。可选的疗法包括药物疗法、心理疗法、电痉挛疗法（ECT）、经颅磁刺激（TMS）及光疗。对轻度、中度、重度抑郁患者，推荐将抗抑郁药作为一线治疗方案，并且对无计划进行ECT的重度抑郁患者都应采用抗抑郁药治疗。[8]
+系统性评估[编辑]
+针对患有急性轻度或中度抑郁的人群进行的一些将抗抑郁药效果与安慰剂作比较的研究结论存在矛盾。有较强证据证明，抗抑郁药在对慢性或重度抑郁的治疗当中起了重要作用。
+Irving Kirsch和Thomas Moore等人对抗抑郁药的药理学活性提出质疑，称证据表明抗抑郁药的作用与具活性的安慰剂的效果类似。[9] 研究结果通过对公开发表的研究数据及通过FOIA获取的非公开FDA数据进行元分析而得出。整体上，抗抑郁药的效果比安慰剂好18%，具有统计学意义，但不具临床意义。[10] 在后来发布的一项研究中，Kirsch得出结论，新一代抗抑郁药物的总体效果未能达到临床标准。[11]
+2017年发表的一项将SSRI类抗抑郁药物与安慰剂进行比较的元分析发现，在49项相关研究中，使用SSRI类药物后汉密尔顿抑郁量表的分值平均下降了1.9分，具统计学意义，但未能达到临床标准。该临床标准由英国国家卫生与保健研究所（英语：National Institute for Health and Care Excellence）制定，该标准要求标准平均差至少为0.5，即量表得分下降3分。不过，这项研究有着较高的偏差风险，或许可以用来解释SSRI类药物具有统计学意义的效果。最终，作者得出结论，负面效应发生的频率使得本就较不显著的临床症状改善失去了意义。[12]
+在一次关于抗抑郁药效果的元分析中发现，抗抑郁药的效果（以HDRS分数衡量）与抑郁的严重程度有关。对于得分低于23分（表明患有轻度至中度抑郁）的患者，抗抑郁药效果仅比安慰剂略强。然而，对于分值大于25的患者，抗抑郁药表现出了明显强于安慰剂的效果，超出了NICE设定的临床意义阈值。[13]
+另一项着眼于帕罗西汀与丙咪嗪的研究发现，对于轻度或重度抑郁，抗抑郁药仅比安慰剂略好，但对严重抑郁则有显著疗效。[14]
+2014年，美国FDA发表了一项对1985至2012年间提交给该机构的全部抗抑郁药维持性临床试验（maintenance trials）进行的系统性评估。作者得出结论，比起安慰剂，维持性治疗将复发风险降低了52%，并且主要与安慰剂组抑郁症复发有关，而非因药物戒断反应而产生。[15]
+NICE资助的一项评估发现，有强有力的证据证明SSRI类药物比起安慰剂来能更有效地降低中度至重度抑郁症患者的HDRS分数，对轻度抑郁患者来说也有一定证据能证明此效应。基于这项研究而提出的治疗方针建议，应对中度至重度抑郁患者及那些轻度抑郁症状持续且对其他治疗方案不敏感的患者采用抗抑郁药治疗。[16]
+考科蓝合作组织最近对三环类抗抑郁药阿米替林的临床试验进行了系统性的评估。尽管有证据表明发表偏差的存在，但研究仍然得出结论，有大量证据表明阿米替林比安慰剂效果更好。[17]
+2015年，一项对耐受其他治疗方案的抑郁症状进行的增强疗法（add-on therapy）进行的系统性评估得出结论，喹硫平和阿立哌唑有最充分的证据证明其功效，但这两种药物都造成了一些与治疗相关的副作用。 [18]
+2008年的考科蓝合作组织一项对贯叶连翘（更确切地说，是一切贯叶连翘提取物）进行的评估以及2015年由先前研究的部分作者合作进行的一项元分析系统性评估得出同样结论，贯叶连翘功效强于安慰剂，与标准抗抑郁药相比同样有效，且有着更少的副作用。2015年的元分析得出结论，因证据有限，且德语区与其他语言区进行的临床试验间功效存在较大差异，难以在抑郁症治疗方案当中为贯叶连翘找到一个合适位置。[19][3] 有证据显示，可逆性单胺氧化酶抑制剂（RIMAs）也是一种有效的治疗药物，其耐受性较其他抗抑郁药更佳。[19]然而，比起贯叶连翘、可逆性单胺氧化酶抑制剂、5-羟色胺和去甲肾上腺素再摄取抑制剂、羟色胺拮抗和再摄取抑制剂（英语：Serotonin antagonist and reuptake inhibitor）、去甲肾上腺素再摄取抑制剂、去甲肾上腺素和特异性5-羟色胺能抗抑郁药等药物，SSRI类、 三环类、四环类抗抑郁药有着更多证据支持其在治疗抑郁中的作用。[19]
+发表于《美国医学会杂志》（JAMA）的一项研究表明，在抗抑郁药临床试验中，安慰剂效应越来越显著，而被测药物的效果则没有较大变化。作者表示，因社会对使用抗抑郁药的负面态度有所改善，更多轻度、短期或突然复发的抑郁症患者参与了实验，可能可以用来解释这一现象。[20]在补充与替代（CAM）疗法的临床试验中，安慰剂的起效率明显低于传统抗抑郁药。[21]
+2004年的一项评估得出结论，那些没能支持抗抑郁药功效的研究成果，比起支持抗抑郁药功效的研究成果更少被发表。[22]对针对儿童使用抗抑郁药的临床试验的研究也获得了类似结论。[23]2015年，在一次对抗抑郁药相关研究的元分析的调查当中发现，79%的研究存在“接受来自制药企业的赞助、以制药企业员工为作者以及存在相关利益冲突”等现象。 [24]
+2012年的一次元分析发现氟西汀及文拉法辛对全部年龄组的重性抑郁障碍患者均有效，同时没有发现证据能够支持抑郁症状的严重程度与采用药物治疗后的效果存在关系。[25]
+2012年发表的一项研究发现，研究持续的时间与抗抑郁药的功效（以起效率衡量）之间呈负相关关系。抗抑郁药的起效率变化主要是安慰剂起效率的提高造成的。但是，作者仍然认为抗抑郁药能有效地治疗抑郁症。[26] 作者发现，三环类药物是最有效的一类药物，其次是SNRI类、MAOI类、SSRI类及非常规抗抑郁药。
+STAR*D临床试验[编辑]
+史上规模最大、最昂贵的针对抑郁症药物疗法的有效性的研究由美国国家心理卫生研究所（英语：National Institute of Mental Health）主持进行。[27]这项研究被称作“抑郁症的有序治疗备选方案”(STAR*D（英语：STAR*D）)。结果[28][29]如下。 患者在一般性或精神类医疗机构就诊时被召募参与实验。实验未发布志愿者招募广告，以最大化研究结果的普适性。患者的HAM-D得分至少须为14分才可参加实验。按照通行标准，7-17分归类为轻度抑郁，18-24分归类为中度抑郁，24分及以上为重度抑郁。[30]参与者的HAM-D17分值平均为22分。[31]研究终点预先定义为抑郁症的完全康复（根据HAM-D分数判断），未再次参与测试的患者归类为无回应者。在这场临床试验之后，研究者们主要使用QIDS-SR16分数呈现结果，而该分数常常较HAM-D分数偏高。
+
+在第一疗程结束之后，2876位参与者中有27.5%达到了康复标准，HAM-D分值降至了7或更低，按照QIDS-SR量表，则有33%的患者康复，起效率为47%。26%的人退出了实验。[32][33]
+第二疗程之后，余下的1439位参与者中，大约有21%至30%症状大幅减轻。[29]更换药物能使约25%的患者康复。[31][34]
+第三疗程之后，310名参与者中17.8%的人症状减轻。[來源請求]
+第四疗程之后，109名参与者中10.1%的人症状减轻。[來源請求]
+第一疗程中康复的患者复发率为33%，后续疗程康复的患者复发率从42%到50%不等。未能完全康复的患者复发率高于完全康复患者。[35]
+
+未发现实验中所使用药物存在统计学或临床意义上的康复率、起效率、复发率差异。[36]实验药物包括：缓释安非他酮、安非他酮、西酞普兰、锂、米氮平、去甲替林（英语：Nortriptyline）、舍曲林、三碘甲状腺氨酸（英语：Triiodothyronine）、反苯环丙胺、缓释文拉法辛。[需要可靠醫學來源]
+2008年对随机对照试验的一次评估发现，尽管SSRI缓解抑郁症状的效果在用药第一周结束时最为显著，但在至少六周之内，持续用药都对症状有所改善。[37]
+制约与策略[编辑]
+每种药物都对约30%至50%的患者无效。[38][39]在临床研究当中，大约三分之一的患者完全康复，三分之一的患者症状有一定改善，还有三分之一的患者用药无效。部分康复的标准基于一些定义模糊的残余症状而定，这些症状通常包括：心情压抑，心理焦虑，睡眠不稳，疲劳及兴趣、乐趣程度的下降。目前不确定什么因素造成了部分康复的出现。然而通过这些残余症状可以很准确地预测复发可能性，部分康复的患者的复发率比完全康复的患者复发率高3到6倍。[40]抗抑郁药的功效会随着治疗过程的持续不断降低。[41] 根据CDC的数据，正在服用抗抑郁药的美国成年人中，仅有不到三分之一的人在最近一年内与精神疾病方面的专业人士见过面。[42]为了应对这些制约因素与变化，临床实践中也采用了一些策略，如更换药物，采用增强疗法、组合疗法等。[43]
+“试错法”更换药物[编辑]
+美国精神医学学会2000年的治疗方针建议，当一种抗抑郁药使用6-8周后仍无效时，应首先更换为同类型的其他药物，再更换成其他类型药物。 2006年的元分析发现，同类实验的结论相差较大，在对某种SSRI类药物不敏感的患者中，有12%到86%的人对另一种药物敏感。但是，一个人尝试过的抗抑郁药种类越多，就越不可能从临床试验中获益。[39] 然而，后来的一项元分析发现，更换新药与持续服用原先的药没有区别，虽然34%的病人对新药敏感，但40%的病人未更换新药也有了效果。[44]
+增强与组合[编辑]
+对于部分起效的情况，美国精神医学学会方针建议采用增强疗法，或在治疗方案中加入另一类药物。这些药物包括锂、甲状腺增强（augmentation）、多巴胺受体激动剂（英语：Dopamine agonist）、性类固醇、NRI类药物、糖皮质激素专一性制剂以及较新的抗惊厥药。[45]
+组合策略通过引入另一种抗抑郁药（通常为另一种类型）来影响人体的其他相关机制。尽管临床实践中可能采用这种策略，并没有确切证据能够证明这种策略的相对疗效和负面作用。[46]近来进行的一些增强疗法测试还将兴奋剂纳入了测试范围。多项研究显示，将莫达非尼与抗抑郁药组合使用对耐受常规治疗的病人有着更好的效果。这一方法已被用于应对使用SSRI类药物所引起的疲劳症状。[47]
+长期使用[编辑]
+在治疗结束后，抗抑郁药的治疗效果往往也会同时消失，这也造成了抑郁症较高的复发率。2003年，对31项以安慰剂为对照的抗抑郁药临床试验（多数只持续1年）进行的元分析发现，18%的患者在服用曾有效的抗抑郁药的过程中就已复发，而在换服安慰剂的对照组中，这一数据为41%。[48]
+在少数人的治疗过程中，抗抑郁药的治疗效果会逐渐减弱。[49][50]一些研究还提出一种方案，即采用药物治疗急性抑郁症发作再转用心理方法进行康复治疗。[51][52]
+相对功效与耐受性[编辑]
+
+
+相对功效与耐受性表
+
+
+
+药品名
+相对功效
+耐受性
+药物过量风险
+体重增长
+姿位性低血压
+镇静效应
+兴奋效应
+抗胆碱能
+QT间期（英语：QT interval）延长
+消化道毒性
+性功能障碍
+
+
+[3][53][54][55][不可靠的醫學來源?][56]
+[3][55][56][57]
+[53][54][58]
+[3][55][56][57]
+[3][55][56][58][59]
+[3][54][55][56][58]
+[3][54][55][56][58][60]
+[3][54][55][56][58][60]
+[3][54][55][56][58]
+[54][58]
+[3][55][56][60]
+[3][54][55][56][58]
+[3][54][55][56][58]
+[3][54][55][56][58]
+
+
+三环类抗抑郁药（TCAs）
+
+
+药品名
+相对功效
+耐受性
+药物过量风险
+体重增长
+姿位性低血压
+镇静效应
+兴奋效应
+抗胆碱能
+QT间期（英语：QT interval）延长
+消化道毒性
+性功能障碍
+
+
+阿米替林
+3
+1
+3
+4
+3
+4
+v
+4
+3
+1
+4/3
+
+
+阿莫沙平（英语：Amoxapine）
+2
+2
+4
+2
+2
+2
+2
+2
+2
+v
+ND
+
+
+氯米帕明（英语：Clomipramine）
+3
+2/1
+2
+2
+2
+4/3
+v
+4
+2
+1
+4
+
+
+地昔帕明（英语：Desipramine）
+2
+2/1
+3
+1
+1
+1/v
+1
+1
+2
+1/v
+ND
+
+
+度硫平（英语：Desipramine）
+2
+1
+4
+ ?
+3/2
+3/2
+v
+3/2
+2
+v
+3/2
+
+
+西多塞平（英语：Desipramine）
+2
+2/1
+3
+3
+4
+3
+v
+3
+3
+v
+3
+
+
+米帕明（英语：Imipramine）
+3
+1
+3
+4
+4/3
+3
+1
+3
+3
+1
+3
+
+
+洛非帕明（英语：Lofepramine）
+2
+3
+1
+1
+1
+1
+1
+2
+1
+ ?
+ ?
+
+
+马普替林（英语：Maprotiline）
+2
+2/1
+4
+2
+2
+3
+v
+2
+3
+v
+ND
+
+
+去甲替林（英语：Nortriptyline）
+2
+2
+2
+1
+2
+1
+v
+1
+2
+v
+ND
+
+
+普罗替林（英语：Protriptyline）
+2
+2/1
+2
+1
+2
+1
+1
+2
+3
+1
+4/3
+
+
+噻奈普汀（英语：Tianeptine）
+2
+4
+ ?
+ ?
+ ?
+ ?
+ ?
+ ?
+ ?
+ ?
+ ?
+
+
+曲米帕明（英语：Trimipramine）
+2
+1
+2
+4
+3
+4
+1
+4
+2
+2
+v
+
+
+单胺氧化酶抑制剂（MAOIs）
+
+
+药品名
+相对功效
+耐受性
+药物过量风险
+体重增长
+姿位性低血压
+镇静效应
+兴奋效应
+抗胆碱能
+QT间期（英语：QT interval）延长
+消化道毒性
+性功能障碍
+
+
+异卡波肼（英语：Isocarboxazid）
+2
+1
+3
+1
+2
+1
+2
+1
+v
+1
+4
+
+
+吗氯贝胺
+2
+3
+1
+v
+v
+v
+ ?
+v
+v
+v
+1/v
+
+
+苯乙肼（英语：Phenelzine）
+2
+1
+3
+2
+3
+1
+1
+1
+v
+1
+4
+
+
+司来吉兰（英语：Seligiline）
+ ?
+3
+2
+v
+1
+v
+1
+1
+v
+v
+v
+
+
+反苯环丙胺
+2
+1
+3
+1
+2
+v
+2
+1
+v
+1
+4
+
+
+选择性5-羟色胺再摄取抑制剂（SSRIs）
+
+
+药品名
+相对功效
+耐受性
+药物过量风险
+体重增长
+姿位性低血压
+镇静效应
+兴奋效应
+抗胆碱能
+QT间期（英语：QT interval）延长
+消化道毒性
+性功能障碍
+
+
+西酞普兰
+2
+3
+2
+1
+1
+v
+1
+v
+2
+1
+3
+
+
+艾司西酞普兰
+3
+3
+1
+1
+1
+v
+1
+v
+1
+1
+3
+
+
+氟西汀
+2
+3
+1
+1
+1
+v
+2
+v
+1
+1
+3
+
+
+氟伏沙明
+2
+3
+2
+1
+1
+1
+1
+v
+1/v
+2
+3
+
+
+帕罗西汀
+2
+3
+1
+2
+2
+1
+1
+1
+1/v
+1
+4
+
+
+舍曲林
+3
+3
+1
+1
+1
+v
+2
+v
+1/v
+2
+3
+
+
+5-羟色胺和去甲肾上腺素再摄取抑制剂（SNRIs）
+
+
+药品名
+相对功效
+耐受性
+药物过量风险
+体重增长
+姿位性低血压
+镇静效应
+兴奋效应
+抗胆碱能
+QT间期（英语：QT interval）延长
+消化道毒性
+性功能障碍
+
+
+去甲文拉法辛（英语：Desvenlafaxine）
+2
+3/2
+1/2
+v
+v
+v
+2
+v
+v
+2/1
+3
+
+
+度洛西汀
+2
+3
+1
+v
+v
+v
+2
+v
+v
+2
+3
+
+
+米那普仑（英语：Milnacipran）
+2
+3
+ ?
+v
+v
+v
+2
+1
+v
+2
+v
+
+
+文拉法辛
+3
+2
+2
+v
+v
+v
+2
+v
+1
+2 (IR)
+1 (XR)
+3
+
+
+去甲肾上腺素和特异性5-羟色胺能抗抑郁药（NaSSAs）
+
+
+药品名
+相对功效
+耐受性
+药物过量风险
+体重增长
+姿位性低血压
+镇静效应
+兴奋效应
+抗胆碱能
+QT间期（英语：QT interval）延长
+消化道毒性
+性功能障碍
+
+
+米塞林
+2
+3
+ ?
+4
+v
+4
+v
+1
+1
+v
+1
+
+
+米氮平
+3
+3
+1
+4
+v
+4
+v
+1
+1
+v
+1
+
+
+血清素拮抗与再摄取抑制剂（英语：Serotonin antagonist and reuptake inhibitor）（SARIs）
+
+
+药品名
+相对功效
+耐受性
+药物过量风险
+体重增长
+姿位性低血压
+镇静效应
+兴奋效应
+抗胆碱能
+QT间期（英语：QT interval）延长
+消化道毒性
+性功能障碍
+
+
+奈法唑酮（英语：Nefazodone）
+2
+3
+2/1
+v
+1
+2
+v
+1
+v
+2
+v
+
+
+曲唑酮（英语：Trazodone）
+2 [61]
+3
+1
+1
+3
+4
+v
+v
+2
+3
+1
+
+
+血清素调节与刺激剂（SMSs）
+
+
+药品名
+相对功效
+耐受性
+药物过量风险
+体重增长
+姿位性低血压
+镇静效应
+兴奋效应
+抗胆碱能
+QT间期（英语：QT interval）延长
+消化道毒性
+性功能障碍
+
+
+维拉佐酮（英语：Vilazodone）
+2
+3/2
+ ?
+v
+v
+v
+2
+v
+v
+4
+2
+
+
+沃替西汀（英语：Vortioxetine）
+2
+3
+ ?
+v
+v
+v
+1/v
+v
+v
+3
+1
+
+
+其它
+
+
+药品名
+相对功效
+耐受性
+药物过量风险
+体重增长
+姿位性低血压
+镇静效应
+兴奋效应
+抗胆碱能
+QT间期（英语：QT interval）延长
+消化道毒性
+性功能障碍
+
+
+阿戈美拉汀
+2
+3
+1
+v
+v
+1
+1
+v
+v
+1
+1/v
+
+
+安非他酮
+2
+3
+3/2
+v
+v
+v
+2/1
+v
+1
+1
+v
+
+
+瑞波西汀（英语：Reboxetine）
+1
+3
+1
+v
+v
+v
+2
+v
+v
+1
+1
+
+
+贯叶连翘
+3/2
+4
+1
+1/v
+1/v
+1/v
+1/v
+1/v
+1/v
+1/v
+1/v
+
+
+表中数据含义如下:
+对于副作用/药物过量毒性：
+4 代表极强副作用/毒性
+3 代表强副作用/毒性
+2 代表中等副作用/毒性
+1 代表弱副作用/毒性
+v 代表极弱副作用/毒性
+对于耐受性：
+4 耐受性极佳。耐受性较SSRI类药物更好。
+3 耐受性较佳，副作用较少、较轻、消失更快。SSRI类药物属于此类。
+2 耐受性中等。TCA类中耐受性更好的一些药物属于此类。
+1 耐受性差。多数TCA类及MAOI类药物属于此类。
+对于功效：
+3 功效上乘，且至少有一篇评审文章作为依据。
+2 功效普通。一些第一手来源可能称其功效优于其他功效较佳的药物（例如阿戈美拉汀在一次临床试验中曾表现出比文拉法辛更强的功效），但支持相关结论的数据不足。
+1 功效较功效普通的药物低，且至少有一篇评审文章作为依据。
+上表中缩略语/术语：
+兴奋效应 – 副作用如躁动、焦虑、失眠和震颤
+AMH – 澳大利亚医学手册 [60]
+镇静效应 – 镇静效果，例如嗜睡、镇静。
+IR – 速效片剂
+ND – 无数据
+QT间期 - QT间期延长
+
+XR – 缓释片剂
+药物相关信息： [53][54][55][57][58][59][60]
+三环类抗抑郁药（TCAs）
+阿米替林: 优先抑制血清素的再吸收（8倍于去甲肾上腺素），但对去甲肾上腺素再吸收的抑制也有临床意义。[53]在最近的一篇评估文章中被认为有较强的肝毒性。[62]
+阿莫沙平（英语：Amoxapine）: 有时也被归类为四环类抗抑郁药。有非常规型抗精神病药的活性。在澳大利亚、加拿大和英国无法获得，但在美国可以。可能起效更快。属于多巴胺拮抗剂，可引发锥体外症候群、迟发性运动障碍（英语：Tardive dyskinesia）和神经阻滞剂恶性综合征（英语：Neuroleptic malignant syndrome）。[63]过量情况下造成肾功能衰竭、癫痫，但基本无心毒性。i[64]
+氯米帕明（英语：Clomipramine）: 对5-羟色胺的再吸收的抑制有极高的选择性（约120倍）。比起其他三环类抗抑郁药更有可能引发癫痫。[53]
+地昔帕明（英语：Desipramine）: 选择性抑制去甲肾上腺素的再吸收（22倍于5-羟色胺）。[53]
+度硫平（英语：Desipramine）: 在美国无法获得，在澳大利亚与英国可获得。
+体重增长: 可能为 2
+药物过量风险： 4 [60]
+西多塞平（英语：Desipramine）: 对去甲肾上腺素重吸收的抑制有一定的选择性（2.3倍于5-羟色胺）。
+米帕明（英语：Imipramine）: 最初以一种三环类抗抑郁药来营销。对5-羟色胺再吸收的抑制有一定选择性（26倍于去甲肾上腺素）
+相对功效：3[65][66]肝毒性较其他抗抑郁药更强。[62]
+洛非帕明（英语：Lofepramine）: 在澳大利亚、美国、加拿大未获批准，在英国及其它欧洲国家获得了批准。
+QT间期的延长：1（与剂量有关）
+马普替林（英语：Maprotiline）: 对去甲肾上腺素再吸收的抑制有较强选择性。（约90倍于多巴胺）[53]
+去甲替林（英语：Nortriptyline）: 阿米替林的活性代谢产物，对去甲肾上腺素重吸收的抑制有一定的选择性（4.2倍）。
+普罗替林（英语：Protriptyline）: 对去甲肾上腺素重吸收的抑制有一定的选择性（14倍于5-羟色胺）。
+噻奈普汀（英语：Tianeptine）: 增强5-羟色胺的再吸收以及多巴胺、谷氨酸类神经冲动传导。在澳大利亚、加拿大、英国、美国与爱尔兰未能获准临床使用。肝毒性较强[62]
+曲米帕明（英语：Trimipramine）: 有抗多巴胺特性，可造成锥体外症候群、迟发性运动障碍（英语：Tardive dyskinesia）和神经阻滞剂恶性综合征。
+单胺氧化酶抑制剂（MAOIs）
+异卡波肼（英语：Isocarboxazid）: 在澳大利亚未获准使用。
+吗氯贝胺: 唯一一种临床使用的可逆性单胺氧化酶A抑制剂。美国未批准该药的使用。在澳大利亚、加拿大、多数欧洲国家（如捷克、芬兰、爱尔兰）、新西兰、新加坡、南非及英国允许使用。
+兴奋效应：未知（AMH报告失眠现象常见）
+苯乙肼（英语：Phenelzine）: 较易造成肝损伤。[62]
+司来吉兰（英语：Seligiline）: 最初因其高选择性、不可逆地抑制单胺氧化酶B的能力而用于帕金森病的治疗，但在高剂量下也会抑制单胺氧化酶A。
+反苯环丙胺: 在体内（in vivo）代谢成为苯丙胺类似物。可造成肝损伤。[60]
+选择性5-羟色胺再摄取抑制剂（SSRIs）
+西酞普兰: SSRI类中最可能造成QT间期延长的一种药物。同时也是SSRI类中药物过量毒性最强的一种。较其他抗抑郁药的肝毒性更小。[62]
+QT间期延长：2（与剂量有关;剂量大于40 mg/天时尤其危险）
+艾司西酞普兰: 西酞普兰的S-异构体，比西酞普兰活性更强。可能是SSRI类药物中功效最强的，虽然艾司西酞普兰与舍曲林之间的功效至今未发现统计学意义上的差异。基于现有证据，艾司西酞普兰比它的外消旋混合物(R-S)-西酞普兰过量时毒性更小。肝毒性弱于大多数抗抑郁药。[62]
+氟西汀: 1987年成为首个获FDA批准的SSRI类药物。一些研究显示服用氟西汀的患者有体重减轻现象（统计学上不显著）。在临床使用的抗抑郁药中具有最长的代谢半衰期（已将其最具活性的代谢产物诺氟西汀考虑在内），也正因为如此，突然停药后戒断反应通常罕见且较轻微。皮肤反应比舍曲林更常见。[55]
+氟伏沙明: FDA未批准将该药用于重性抑郁障碍的治疗，但批准了该药用于强迫症的治疗。在SSRI类药物中具有最高的σ1受体亲和力，并起着受体激动剂的作用。[67][68]比大多数抗抑郁药肝毒性更小。[62]
+帕罗西汀: 可能提高持续性胎儿循环综合征（英语：Persistent fetal circulation）的发生风险，从而成为SSRI类药物中唯一一种不在澳大利亚怀孕分级C级而在D级中的。比起其他SSRI类药物，使用该药可能会提高性功能障碍、体重增加、出现抗胆碱能副作用以及昏睡的风险。比起其他SSRI类药物，该药半衰期较短，因而在忘记服药时容易引起戒断反应。帕罗西汀是SSRI类药物中对σ1受体亲和力最低的。[67]该药还是SSRI类中最可能引起锥体外症候群的一种。[64]肝毒性比大多数抗抑郁药低。[62]
+舍曲林: 引起精神类副作用（如狂躁、自杀行为和想法、思觉失调等）的风险最高。[55]对多巴胺的再吸收有轻微（但具临床意义）的抑制效果。[69][70]SSRI类药物中对σ1受体亲和力第二高，起受体拮抗剂的作用。[68]
+消化道毒性：2（多为腹泻）[58]
+5-羟色胺和去甲肾上腺素再摄取抑制剂（SNRIs）
+去甲文拉法辛（英语：Desvenlafaxine）: 文拉法辛的活性代谢产物。
+度洛西汀: 不像此处列出的其他SNRI类药物，度洛西汀不会造成与剂量相关的高血压。也被用于缓解神经性疼痛。比其他抗抑郁药肝毒性更强。[62]
+米那普仑（英语：Milnacipran）: 主要用于治疗神经性疼痛（英语：Neuropathic pain）。
+药物过量风险：未知（单药物过量致死案例未见报道）
+文拉法辛: 对5-羟色胺再吸收的抑制有选择性（116倍于去甲肾上腺素）。
+消化道毒性：2（速效）/ 1（缓释）
+去甲肾上腺素和特异性5-羟色胺能抗抑郁药（NaSSAs）
+米塞林: 美国、加拿大未批准该药的使用。澳大利亚、英国批准使用。可能造成恶液质血症（如颗粒性白血球缺乏症），因此英国国家药典和澳大利亚药品手册均建议定期进行全血计数监测。[60][71]
+米氮平: 美国、英国、澳大利亚及加拿大批准使用。米塞林的类似物、后继者。
+5-羟色胺受体拮抗与再吸收抑制剂（英语：Serotonin antagonist and reuptake inhibitor）（SARIs）
+奈法唑酮（英语：Nefazodone）: 有肝毒性（英语：Hepatotoxicity）风险。美国可用，但在加拿大、澳大利亚或欧洲不可用。
+曲唑酮（英语：Trazodone）: 澳大利亚不可用，肝毒性比其他抗抑郁药更强。[62]
+相对功效：2 [61]
+5-羟色胺调节与刺激剂（SMSs）
+维拉佐酮（英语：Vilazodone）: 潜在风险包括血清素综合征（英语：Serotonin syndrome）。
+药物过量风险：未知（除了潜在血清素综合征（英语：Serotonin syndrome）风险外可能较低）
+沃替西汀（英语：Vortioxetine）: 2013年9月进入美国市场，因此副作用报告可能存在延迟。可能的（罕见）副作用包括血清素综合征（英语：Serotonin syndrome）。
+其它
+阿戈美拉汀: 在美国、加拿大未获批准，但在英国、澳大利亚已获批准。
+相对功效：2 [72]
+安非他酮: 在英国、澳大利亚仅批准作为戒烟辅助药物，但在美国被批准用于重性抑郁障碍的治疗。肝毒性比大多数抗抑郁药强。[62]
+瑞波西汀（英语：Reboxetine）: 在美国、加拿大未获批准，但在英国、澳大利亚已获批准。
+贯叶连翘: 在多数国家不属于处方药，常作为OTC药品出售。
+
+
+焦虑症[编辑]
+广泛性焦虑障碍[编辑]
+焦虑症是一种以对某些事情的过分担忧为特点的常见疾病。国家卫生与保健研究所（英语：National Institute for Health and Care Excellence）建议，在使用保守疗法如教育、自助活动治疗焦虑症无效时，可采用抗抑郁药进行治疗。
+抗抑郁药能一定程度上减轻焦虑症状，[73]在焦虑症的治疗中效果优于安慰剂。[74]不同类型的抗抑郁药功效差别不大。[73][74]
+强迫症[编辑]
+对功能障碍不大的成年强迫症患者的二线治疗、对具有中等、严重的功能障碍的强迫症患者的一线治疗均会使用SSRI类药物。对具有中等、严重的功能障碍的儿童强迫症患者的二线治疗使用SSRI类药物时需要密切监控精神类副作用。[75]SSRI类药物用于强迫症治疗时效果显著，SSRI组的起效率两倍于安慰剂。[76][77]在短期（6到24周）和中断式（28到52周）临床试验中，均已证明抗抑郁药的功效。[78][79][80]
+进食障碍[编辑]
+抗抑郁药被推荐作为治疗神经性暴食症的自助项目中备选或额外的第一步。[81]因SSRI类药物（尤其是氟西汀）可接受性和耐受性更好、短期临床试验中症状缓解程度更大，常选择此类药物而非其它抗抑郁药。长期功效不明确。因安非他酮可能提高癫痫发病风险，不建议使用该药治疗进食障碍。[82]
+对于过胖暴食症，相同的建议同样适用。[81]SSRI类药物短期内可减轻过胖暴食症的症状，但未发现其有降低体重的作用。[83]
+多数临床试验结果否定了SSRI类药物在神经性厌食症治疗中的作用。[84]国家卫生与保健研究所（英语：National Institute for Health and Care Excellence）（NICE）的治疗方针[81]不建议在对该种疾病的治疗中使用SSRI类药物。美国精神医学学会的方针指出，尽管SSRI类药物对体重增长无促进作用，但仍可用来治疗与该症并发的抑郁症、焦虑症以及强迫症。[83]
+疼痛[编辑]
+纤维性肌痛[编辑]
+2012的一次元分析得出结论，抗抑郁药疗法改善了纤维性肌痛患者的疼痛、健康相关的生活质量、抑郁和睡眠情况。三环类抗抑郁药似乎是最有效的一类抗抑郁药，对疼痛和睡眠有一定改善，对疲劳和生活质量也有较小的改善。使用三环类药物的患者中，48%的人疼痛减轻了30%以上，而安慰剂组为28%；使用SSRI类药物的患者中，36%的人疼痛减轻了30%以上，而安慰剂组为20%；使用SNRI类药物的患者中，42%的人疼痛减轻了30%以上，而安慰剂组为32%。因副作用而中止实验的现象较为普遍。[85]阿米替林、氟西汀、度洛西汀、米那普仑、吗氯贝胺和吡吲哚基于“有限证据”被欧洲抗风湿联盟推荐用于纤维性肌痛的治疗。[86]
+神经性疼痛[编辑]
+2014年，考科蓝合作组织的一次元分析发现，度洛西汀可有效治疗糖尿病神经病变所造成的神经性疼痛。[87]该组织还评估了阿米替林在治疗神经性疼痛中的作用，但有效的随机化临床试验数据有限。他们得出结论，阿米替林长期以来在医学中的成功应用可以在某种程度上证明该药的有效性，[88]但也对过高估计阿米替林缓解疼痛的效果的可能性感到担忧，并且表示只有少数人在使用该药后能感到疼痛明显减轻。[88]
+对健康的负面影响[编辑]
+难以耐受抗抑郁药的不良反应是患者停止服药的最普遍原因。[需要可靠醫學來源]
+一般情况[编辑]
+主条目：血清素综合征（英语：Serotonin syndrome）和单胺氧化酶抑制剂
+几乎所有涉及血清素调控的药物都有可能引发血清素综合征——可造成狂躁、不安、焦虑、情绪不稳、失眠和迷惑的血清素浓度过高现象。[89][90] 这种情况很严重，但并不常见，通常在剂量较高或同时服用多种药物的时候发生。如果及时（24小时以内）进行医疗干预，很少致命。[91][92]
+单胺氧化酶抑制剂常与许多处方/OTC药物存在明显（有时致命）的药物相互作用。如果与酪胺含量非常高的食物（如成熟奶酪、腌肉或酵母提取物）同食，可能造成有致命风险的高血压危象（英语：Hypertensive_crisis）。剂量较低时，患者可能只会被高血压造成的头痛困扰。[93]
+作为对这些不良反应的回应，另一种单胺氧化酶抑制剂被开发出来：单胺氧化酶A可逆性抑制剂（RIMA）类药物。它们的主要优势是不需要患者坚持按一个特殊食谱进餐。此外，其功效据称与SSRI类和三环类药物同样有效。[94]
+怀孕[编辑]
+基于不同程度可信度的因果关系证明，怀孕时使用SSRI类药物有一定风险。鉴于抑郁症本身独立与负面的妊娠结局相关，确定通过观察得出的抗抑郁药使用与特定不良结果间的关系是否是因果关系在某些情况下较为困难。[95]在另外一些情况下，抗抑郁药的使用看起来与负面结果明显相关。
+怀孕中SSRI的使用不仅与自然流产发生率增长至原先1.7倍有关，[96][97]还与早产与低出生体重有关。[98]
+一项针对使用了抗抑郁药的妊娠期的系统性评估发现，严重畸形的风险有小幅（3%到24%）提高，而心血管先天畸形的发生风险没有显著区别。[99]对使用了氟西汀的妊娠期的研究发现严重畸形的风险提高了12%，刚好未能达到具有统计学意义的标准。[100]其他研究发现，未接受SSRI类药物治疗的母亲生下的孩子患心血管先天畸形的风险较高，提示可能存在以偏概全的现象，即担心孩子健康的母亲们可能会要求对自己的孩子做更详尽的测试。[101] 另一项研究发现使用SSRI类药物后，严重畸形的风险提高了27%，而心血管先天畸形的风险无变化。[97]FDA建议，因帕罗西汀及MAOI类药物可提高先天畸形的风险，应避免在怀孕时使用这两类药物。[102]
+2013年的系统性评估与元分析发现，妊娠过程中抗抑郁药的使用只与某些妊娠结局（胎龄、早产）的出现有统计学相关性。这项研究还指出，因使用组与未使用组之间差异较小，并不能确定其是否具有临床意义。[103]
+新生儿（出生后28天以内）可能会受停药综合征影响。抗抑郁药已被证明在母乳中以不同浓度出现，但其对新生儿的影响尚不明确。[104]
+此外，SSRI类药物还会抑制一氧化氮的合成，而该物质的合成在血管张力的调节中有重要作用。多项研究指出，SSRI的使用与早产的发生有联系，可能是由于子痫前症发生的风险有所提高。[105]
+抗抑郁药引发的狂躁[编辑]
+抗抑郁药的另一个问题是会提高躁郁症患者的狂躁发作可能性。许多躁郁症病例与重性抑郁障碍十分类似。因此，躁郁症患者可能被误诊为重性抑郁障碍患者，并被开具抗抑郁药处方。研究显示，抗抑郁药引发的狂躁发病率在躁郁症患者中可达到20至40%。[106] 对于躁郁症，抗抑郁药（多为SSRI类药物）可以引发或加剧轻度狂躁与狂躁的症状。[107]
+自杀[编辑]
+主条目：抗抑郁药与自杀风险（英语：Antidepressants and suicide risk）
+研究显示，对于25岁以下的人群，抗抑郁药的使用与出现自杀想法与行为的风险增加相关。[108]问题足够严重，以至于FDA发布了针对采用抗抑郁药治疗时自杀风险提高的警告。[109]FDA表示，自杀风险提高这一现象主要出现在治疗的前一至两个月中。[110][111]国家卫生与保健研究所（英语：National Institute for Health and Care Excellence）认为，自杀风险的提高主要出现在“治疗前期”。[112]元分析提示，抗抑郁药的使用与自杀风险的提高之间的关系与年龄有关。[108]与安慰剂相比，使用抗抑郁药在25岁以下人群中与自杀风险的增加（优势比=1.62）有关。此数据与在儿童及青少年人群中观察得到的数据一致。对25岁至64岁间的人群没有影响或是有轻微保护作用（优势比=0.79）。65岁及以上人群使用抗抑郁药有保护作用（优势比=0.37）。[108][113]
+性[编辑]
+SSRI类药物在性方面的副作用也很常见，例如性冲动减弱、性快感缺失（英语：Anorgasmia）及勃起功能障碍。[114]虽然这些症状通常是可逆的，但在一些罕见情况下，停药后这些副作用可能持续数月甚至数年。[115]
+在对1022位门诊病人的研究中，对于全部抗抑郁药来说性功能障碍的发生率平均为59.1%。[116]SSRI类药物的发生率在57%到73%之间, 米氮平为24%，奈法唑酮为8%，阿米庚酸为7%，吗氯贝胺为4%。吗氯贝胺，一种选择性、可逆性MAO-A抑制剂，不仅不易造成性功能障碍，[117]还能带来性功能的改善。[118]
+被认为是性功能障碍可能原因的生物化学机制包括：血清素浓度的升高（对5-HT2受体、5-HT3受体（英语：5-HT3 receptor）的影响尤其显著）、多巴胺浓度下降、去甲肾上腺素浓度下降、乙酰胆碱受体和α1型肾上腺素受体受到阻滞、一氧化氮合成酶的抑制、催乳素浓度的提高。[119]根据报告，米氮平性方面副作用较少，可能是因为它拮抗5-HT2和 5-HT3型受体，并在某些情况下逆转SSRI类药物通过相同原理造成的性功能障碍。[120]
+安非他酮，一种弱去甲肾上腺素-多巴胺再吸收抑制剂和尼古丁乙酰胆碱受体拮抗剂，可能可以用于治疗由SSRI类药物造成的性冲动减退。[121]
+体重变化[编辑]
+使用抗抑郁药时，食欲或体重的变化经常出现，但与药品种类及药品影响的神经递质有关。米氮平与帕罗西汀可能导致食欲、体重增加，[122][123][124]而其它药物（如安非他酮、文拉法辛）会有相反的效果。[125][126]
+有证据显示，某些三环类、四环类药物导致食欲、体重增加的效应一定程度上与其抗组胺特性有关。
+停药症候群[编辑]
+主条目：抗抑郁药停药症候群（英语：Antidepressant discontinuation syndrome）
+抗抑郁药停药带来的症状最早于1950年代后期首种三环类药物丙咪嗪（英语：Imipramine）的使用中出现。每种新型抗抑郁药（包括MAOI类、SSRI类、SNRI类药物）的出现都带来了相似的症状报告。截止2001年，至少有21种不同的抗抑郁药（覆盖所有主要抗抑郁药类型）被报道能够造成停药症候群。[127]对这个问题的研究并不充分，多数文献属于案例报告或是小规模临床试验，发生率难以确定、充满争议。[127]
+停药症候群患者大多在持续服用抗抑郁药四周或更长时间之后突然或快速停药。[128]常见症状包括：流感样症状（恶心、呕吐、腹泻、头痛、出汗），睡眠不稳（失眠、噩梦、嗜睡），感觉、运动功能异常（失去平衡、颤抖、眩晕、头晕、类似电击的感觉），情绪扰动（烦躁不安、焦虑、激动）和认知障碍（迷惑、过度兴奋）。[128][129][130]已报告多于50种症状。[131]
+大多数停药症候群病程持续一至四周，多较轻微并可自行康复；在罕见情况下病情可能较为严重、病程也可能延长。[128]帕罗西汀和文拉法辛似乎最难停药，最长有持续18个月的病程见于报道。[127][132][133]
+随着1980到1990年代SSRI类药物使用量的爆发式增长和对该种药物兴趣的增加（对氟西汀尤其如此），人们对抗抑郁药停药症候群的兴趣也越来越强。[134]1990年代后期，一些研究员认为抗抑郁药停药后出现的症状可能表明抗抑郁药有成瘾性，并用“戒断反应”一词来描述这些症状。具有成瘾性的物质可造成生理依赖，导致停药过程较为痛苦。但因服用抗抑郁药的患者没有表现出觅药行为，这些理论最后都被抛弃了。“戒断反应”一词不再用于描述抗抑郁药停药症候群，以避免与药物成瘾造成的现象混淆。[128][135][136]抗抑郁药被滥用的情况有时见诸报道，但较为罕见且多发生于那些具有兴奋效果的药物和原先就患有物质使用障碍的人群中。[137]2012年，一项将苯二氮卓和SSRI类药物停药反应进行比较的研究认为，因为两种药物停药后症状相似，没有理由认为苯二氮类药物有成瘾性而SSRI类药物没有。[138]对该研究的回应则表示，没有证据表明停用SSRI类药物的患者有觅药行为，而对于服用苯二氮类药物的患者则有相关证据，因此应该重新考虑药品的分类。[139][140]
+情感迟钝[编辑]
+抗抑郁药可能造成情感迟钝或麻木的现象。情感迟钝指的是情感正面与负面两个极端的减退。病人可能感觉抑郁有所缓解，但他们在某些情况下也会感受到更少的快乐、共情。要应对这种情况，可以减少药量、更换药品。这一现象的发生机制尚不明确。[141][142]
+引用[编辑]
+
+
+^ Bodkin JA, Zornberg GL, Lukas SE, Cole JO. Buprenorphine Treatment of Refractory Depression. Journal of Clinical Psychopharmacology. 1995, 15 (1): 49–57. PMID 7714228. doi:10.1097/00004714-199502000-00008. 
+^ Wheeler Vega JA, Mortimer AM, Tyson PJ. Conventional antipsychotic prescription in unipolar depression, I: an audit and recommendations for practice. J Clin Psychiatry. 2003, 64 (5): 568–74. PMID 12755661. doi:10.4088/JCP.v64n0512. 
+^ 3.00 3.01 3.02 3.03 3.04 3.05 3.06 3.07 3.08 3.09 3.10 3.11 3.12 3.13 Linde K, Berner MM, Kriston L. St John's wort for major depression. Cochrane Database Syst Rev. 2008, (4): CD000448. PMID 18843608. doi:10.1002/14651858.CD000448.pub3. 
+^ Ernst E. Review: St John's wort superior to placebo and similar to antidepressants for major depression but with fewer side effects.. Evidence-based mental health. August 2009, 12 (3): 78. PMID 19633246. doi:10.1136/ebmh.12.3.78. 
+^ Pariante, Carmine M. Depression, Stress and the Adrenal Axis. British Society for Neuroendocrinology, UK. 12 April 2017 [12 April 2017]. 
+^ Hamilton M. A rating scale for depression. J. Neurol. Neurosurg. Psychiatr. 1960, 23: 56–62. PMC 495331. PMID 14399272. doi:10.1136/jnnp.23.1.56. 
+^ Depression in adults: The treatment and management of depression in adults. NICE guidelines [CG90]. National Institute for Health and Care Excellence (UK). October 2009 [23 September 2015]. 
+^ PsychiatryOnline | APA Practice Guidelines | Practice Guideline for the Treatment of Patients With Major Depressive Disorder, Third Edition. [失效連結]
+^ Kirsch I, Moore TJ, Scoboria A, Nicholls SS. The emperor's new drugs: An analysis of antidepressant medication data submitted to the U.S. Food and Drug Administration. Prevention & Treatment. 2002, 5. doi:10.1037/1522-3736.5.1.523a. 
+^ Study: Antidepressant barely better than placebo. USA Today. 7 July 2002 [6 November 2008]. 
+^ Kirsch I, Deacon BJ, Huedo-Medina TB, Scoboria A, Moore TJ, Johnson BT. Initial Severity and Antidepressant Benefits: A Meta-Analysis of Data Submitted to the Food and Drug Administration. PLoS Medicine. 2008, 5 (2): e45. PMC 2253608. PMID 18303940. doi:10.1371/journal.pmed.0050045. 
+^ Jakobsen, JC; Katakam, KK; Schou, A; Hellmuth, SG; Stallknecht, SE; Leth-Møller, K; Iversen, M; Banke, MB; Petersen, IJ; Klingenberg, SL; Krogh, J; Ebert, SE; Timm, A; Lindschou, J; Gluud, C. Selective serotonin reuptake inhibitors versus placebo in patients with major depressive disorder. A systematic review with meta-analysis and Trial Sequential Analysis.. BMC Psychiatry. 8 February 2017, 17 (1): 58. PMC 5299662. PMID 28178949. doi:10.1186/s12888-016-1173-2. 
+^ Fournier, JC; DeRubeis, RJ; Hollon, SD; Dimidjian, S; Amsterdam, JD; Shelton, RC; Fawcett, J. Antidepressant drug effects and depression severity: a patient-level meta-analysis.. JAMA. 6 January 2010, 303 (1): 47–53. PMC 3712503. PMID 20051569. doi:10.1001/jama.2009.1943. 
+^ 引用错误：没有为名为JAMA2010的参考文献提供内容
+^ Borges S, Chen YF, Laughren TP, Temple R, Patel HD, David PA, Mathis M, Unger E, Yang P, Khin NA. Review of maintenance trials for major depressive disorder: a 25-year perspective from the US Food and Drug Administration. J Clin Psychiatry. 2014, 75 (3): 205–14. PMID 24717376. doi:10.4088/JCP.13r08722. 
+^ Depression in Adults (update) (PDF). National Collaborating Centre for Mental Health Commissioned by the National Institute for Health and Care Excellence. www.nice.org.uk: 282–292. [20 November 2013]. （原始内容 (PDF)存档于12 June 2013）. 
+^ Leucht C, Huhn M, Leucht S. Leucht C, 编. Amitriptyline versus placebo for major depressive disorder. Cochrane Database of Systematic Reviews. 2012, 12: CD009138. PMID 23235671. doi:10.1002/14651858.CD009138.pub2. 
+^ Zhou X, Ravindran AV, Qin B, Del Giovane C, Li Q, Bauer M, Liu Y, Fang Y, da Silva T, Zhang Y, Fang L, Wang X, Xie P. Comparative efficacy, acceptability, and tolerability of augmentation agents in treatment-resistant depression: systematic review and network meta-analysis. J Clin Psychiatry. April 2015, 76 (4): e487–98. PMID 25919841. doi:10.4088/JCP.14r09204. Quetiapine and aripiprazole appear to be the most robust evidence-based options for augmentation therapy in patients with treatment-resistant depression 
+^ 19.0 19.1 19.2 Linde K, Kriston L, Rücker G, Jamila S, Schumann I, Meissner K, Sigterman K, Schneider A. Efficacy and acceptability of pharmacological treatments for depressive disorders in primary care: systematic review and network meta-analysis. Ann Fam Med. February 2015, 13 (1): 69–79. PMC 4291268. PMID 25583895. doi:10.1370/afm.1687. In network meta-analysis, tricyclic and tetracyclic antidepressants (TCAs), selective serotonin reuptake inhibitors (SSRIs), a serotonin-noradrenaline reuptake inhibitor (SNRI; venlafaxine), a low-dose serotonin antagonist and reuptake inhibitor (SARI; trazodone) and hypericum extracts were found to be significantly superior to placebo, with estimated odds ratios between 1.69 and 2.03. There were no statistically significant differences between these drug classes. Reversible inhibitors of monoaminoxidase A (rMAO-As) and hypericum extracts were associated with significantly fewer dropouts because of adverse effects compared with TCAs, SSRIs, the SNRI, a noradrenaline reuptake inhibitor (NRI), and noradrenergic and specific serotonergic antidepressant agents (NaSSAs). ... TCAs and SSRIs have the most solid evidence base. Further agents (hypericum, rMAO-As, SNRI, NRI, NaSSAs, SARI) showed some positive results, but limitations of the currently available evidence makes a clear recommendation on their place in clinical practice difficult. 
+^ Walsh BT, Seidman SN, Sysko R, Gould M. Placebo Response in Studies of Major Depression: Variable, Substantial, and Growing. JAMA. 2002, 287 (14): 1840–7. PMID 11939870. doi:10.1001/jama.287.14.1840. 
+^ Freeman MP, Mischoulon D, Tedeschini E, Goodness T, Cohen LS, Fava M, Papakostas GI. Complementary and alternative medicine for major depressive disorder: a meta-analysis of patient characteristics, placebo-response rates, and treatment outcomes relative to standard antidepressants. J Clin Psychiatry. 2010, 71 (6): 682–8. PMID 20573327. doi:10.4088/JCP.10r05976blu. 
+^ Lee K, Bacchetti P, Sim I. Clarke M, 编. Publication of Clinical Trials Supporting Successful New Drug Applications: A Literature Analysis. PLoS Medicine. 2008, 5 (9): e191. PMC 2553819. PMID 18816163. doi:10.1371/journal.pmed.0050191. 
+^ Whittington CJ, Kendall T, Fonagy P, Cottrell D, Cotgrove A, Boddington E. Selective serotonin reuptake inhibitors in childhood depression: Systematic review of published versus unpublished data. The Lancet. 2004, 363 (9418): 1341–5. PMID 15110490. doi:10.1016/S0140-6736(04)16043-1. 
+^ Shanil Ebrahim. Meta-analyses with industry involvement are massively published and report no caveats for antidepressants. Journal of Clinical Epidemology. 2015, 70: 155–63. PMID 26399904. doi:10.1016/j.jclinepi.2015.08.021. Lay summary. 
+^ Gibbons, RD; Hur, K; Brown, CH; Davis, JM; Mann, JJ. Benefits from antidepressants: synthesis of 6-week patient-level outcomes from double-blind placebo-controlled randomized trials of fluoxetine and venlafaxine.. Archives of General Psychiatry. June 2012, 69 (6): 572–9. PMC 3371295. PMID 22393205. doi:10.1001/archgenpsychiatry.2011.2044. 
+^ Undurraga, Juan; Ross, Baldessarini. Randomized, Placebo-Controlled Trials of Antidepressants for Acute Major Depression: Thirty-Year Meta-Analytic Review. Neuropsychopharmacology. 2012, 37: 851–864. PMC 3280655. PMID 22169941. doi:10.1038/npp.2011.306. 
+^ Sequenced Treatment Alternatives to Relieve Depression (STAR*D) Study. National Institute of Mental Health. [28 November 2012]. （原始内容存档于5 March 2013）.  已忽略未知参数|df= (帮助)
+^ Fava M, Rush AJ, Wisniewski SR, Nierenberg AA, Alpert JE, McGrath PJ, Thase ME, Warden D, Biggs M, Luther JF, Niederehe G, Ritz L, Trivedi MH. A Comparison of Mirtazapine and Nortriptyline Following Two Consecutive Failed Medication Treatments for Depressed Outpatients: A STAR*D Report. The American Journal of Psychiatry. 2006, 163 (7): 1161–72. PMID 16816220. doi:10.1176/appi.ajp.163.7.1161. 
+^ 29.0 29.1 Trivedi MH, Fava M, Wisniewski SR, Thase ME, Quitkin F, Warden D, Ritz L, Nierenberg AA, Lebowitz BD, Biggs MM, Luther JF, Shores-Wilson K, Rush AJ. Medication Augmentation after the Failure of SSRIs for Depression. New England Journal of Medicine. 2006, 354 (12): 1243–52. PMID 16554526. doi:10.1056/NEJMoa052964. 
+^ Cusin C, Yang H, Yeung A, Fava M. Rating scales for depression (PDF). (编) Baer L, Blais MA. Handbook of Clinical Rating Scales and Assessment in Psychiatry and Mental Health. New York: Springer. 2010: 7–36. ISBN 9781588299666. 
+^ 31.0 31.1 ajp.psychiatryonline.org (PDF). [失效連結]
+^ Trivedi MH, Rush AJ, Wisniewski SR, Nierenberg AA, Warden D, Ritz L, Norquist G, Howland RH, Lebowitz B, McGrath PJ, Shores-Wilson K, Biggs MM, Balasubramani GK, Fava M. Evaluation of Outcomes with Citalopram for Depression Using Measurement-Based Care in STAR*D: Implications for Clinical Practice. American Journal of Psychiatry. 2006, 163 (1): 28–40. PMID 16390886. doi:10.1176/appi.ajp.163.1.28. 
+^ Warden D, Trivedi MH, Wisniewski SR, Davis L, Nierenberg AA, Gaynes BN, Zisook S, Hollon SD, Balasubramani GK, Howland R, Fava M, Stewart JW, Rush AJ. Predictors of attrition during initial (citalopram) treatment for depression: a STAR*D report. Am J Psychiatry. 2007, 164 (8): 1189–97. PMID 17671281. doi:10.1176/appi.ajp.2007.06071225. 
+^ Rush AJ, Trivedi MH, Wisniewski SR, Stewart JW, Nierenberg AA, Thase ME, Ritz L, Biggs MM, Warden D, Luther JF, Shores-Wilson K, Niederehe G, Fava M. Bupropion-SR, Sertraline, or Venlafaxine-XR after Failure of SSRIs for Depression. New England Journal of Medicine. 2006, 354 (12): 1231–42. PMID 16554525. doi:10.1056/NEJMoa052963. 
+^ Rush AJ, Trivedi MH, Wisniewski SR, 等. Acute and longer-term outcomes in depressed outpatients requiring one or several treatment steps: a STAR*D report. Am J Psychiatry. November 2006, 163 (11): 1905–17. PMID 17074942. doi:10.1176/appi.ajp.163.11.1905. 
+^ Warden D, Rush AJ, Trivedi MH, Fava M, Wisniewski SR. The STAR*D Project results: A comprehensive review of findings. Current Psychiatry Reports. 2007, 9 (6): 449–59. PMID 18221624. doi:10.1007/s11920-007-0061-3. 
+^ Taylor MJ, Freemantle N, Geddes JR, Bhagwagar Z. Early Onset of Selective Serotonin Reuptake Inhibitor Antidepressant Action: Systematic Review and Meta-analysis. Archives of General Psychiatry. 2006, 63 (11): 1217–23. PMC 2211759. PMID 17088502. doi:10.1001/archpsyc.63.11.1217. 
+^ Baghai TC, Möller HJ, Rupprecht R. Recent Progress in Pharmacological and Non-Pharmacological Treatment Options of Major Depression. Current Pharmaceutical Design. 2006, 12 (4): 503–15. PMID 16472142. doi:10.2174/138161206775474422. 
+^ 39.0 39.1 Ruhé HG, Huyser J, Swinkels JA, Schene AH. Switching Antidepressants After a First Selective Serotonin Reuptake Inhibitor in Major Depressive Disorder. The Journal of Clinical Psychiatry. 2006, 67 (12): 1836–55. PMID 17194261. doi:10.4088/JCP.v67n1203. 
+^ Tranter R, O'Donovan C, Chandarana P, Kennedy S. Prevalence and outcome of partial remission in depression. Journal of Psychiatry & Neuroscience. 2002, 27 (4): 241–7. PMC 161658. PMID 12174733. 
+^ Byrne SE, Rothschild AJ. Loss of Antidepressant Efficacy During Maintenance Therapy. The Journal of Clinical Psychiatry. 1998, 59 (6): 279–88. PMID 9671339. doi:10.4088/JCP.v59n0602. 
+^ Antidepressant Use in Persons Aged 12 and Over: United States, 2005–2008. www.cdc.gov. Products - Data Briefs - Number 76 - October 2011. Centers for Disease Control and Prevention. [2016-02-04]. 
+^ Mischoulon D, Nierenberg AA, Kizilbash L, Rosenbaum JF, Fava M. Strategies for managing depression refractory to selective serotonin reuptake inhibitor treatment: A survey of clinicians. Canadian Journal of Psychiatry. 2000, 45 (5): 476–81. PMID 10900529. 
+^ Bschor T, Baethge C. No evidence for switching the antidepressant: Systematic review and meta-analysis of RCTs of a common therapeutic strategy. Acta Psychiatrica Scandinavica. 2010, 121 (3): 174–9. PMID 19703121. doi:10.1111/j.1600-0447.2009.01458.x. 
+^ DeBattista C, Lembke A. Update on augmentation of antidepressant response in resistant depression. Current Psychiatry Reports. 2005, 7 (6): 435–40. PMID 16318821. doi:10.1007/s11920-005-0064-x. 
+^ Lam RW, Wan DD, Cohen NL, Kennedy SH. Combining Antidepressants for Treatment-Resistant Depression. The Journal of Clinical Psychiatry. 2002, 63 (8): 685–93. PMID 12197448. doi:10.4088/JCP.v63n0805. 
+^ Goss AJ, Kaser M, Costafreda SG, Sahakian BJ, Fu CH. Modafinil augmentation therapy in unipolar and bipolar depression: a systematic review and meta-analysis of randomized controlled trials. The Journal of Clinical Psychiatry. 2013, 74 (11): 1101–7. PMID 24330897. doi:10.4088/JCP.13r08560. 
+^ Geddes JR, Carney SM, Davies C, Furukawa TA, Kupfer DJ, Frank E, Goodwin GM. Relapse prevention with antidepressant drug treatment in depressive disorders: A systematic review. The Lancet. 2003, 361 (9358): 653–61. PMID 12606176. doi:10.1016/S0140-6736(03)12599-8. 
+^ Targum SD. Identification and treatment of antidepressant tachyphylaxis. Innov Clin Neurosci. March 2014, 11 (3–4): 24–8. PMC 4008298. PMID 24800130. 
+^ Fava GA, Offidani E. The mechanisms of tolerance in antidepressant action. Progress in Neuro-Psychopharmacology and Biological Psychiatry. 2011, 35 (7): 1593–602. PMID 20728491. doi:10.1016/j.pnpbp.2010.07.026. 
+^ Fava GA, Park SK, Sonino N. Treatment of recurrent depression. Expert Review of Neurotherapeutics. 2006, 6 (11): 1735–40. PMID 17144786. doi:10.1586/14737175.6.11.1735. 
+^ Petersen TJ. Enhancing the efficacy of antidepressants with psychotherapy. Journal of Psychopharmacology. 2006, 20 (3 suppl): 19–28. PMID 16644768. doi:10.1177/1359786806064314. 
+^ 53.0 53.1 53.2 53.3 53.4 53.5 53.6 Brunton LL, Chabner B, Knollmann BC (编). Goodman and Gilman's The Pharmacological Basis of Therapeutics 12th. New York: McGraw-Hill Professional. 2011. ISBN 978-0-07-162442-8. 
+^ 54.00 54.01 54.02 54.03 54.04 54.05 54.06 54.07 54.08 54.09 54.10 Side effects of antidepressant medications. UpToDate. Wolters Kluwer Health. [24 October 2013]. （原始内容存档于2 November 2013）. 
+^ 55.00 55.01 55.02 55.03 55.04 55.05 55.06 55.07 55.08 55.09 55.10 55.11 55.12 55.13 55.14 Royal Pharmaceutical Society of Great Britain. MARTINDALE – The Complete Drug Reference. Pharmaceutical Press. [31 October 2013]. （原始内容存档于26 July 2013）. 
+^ 56.00 56.01 56.02 56.03 56.04 56.05 56.06 56.07 56.08 56.09 56.10 56.11 Ernst E; Rand JI; Barnes J; Stevinson C. Adverse effects profile of the herbal antidepressant St. John's wort (Hypericum perforatum L.). European Journal of Clinical Pharmacology. 1998, 54 (8): 589–94. PMID 9860144. doi:10.1007/s002280050519. Collectively, the data suggest that hypericum is well tolerated, with an incidence of adverse reactions similar to that of placebo. 
+^ 57.0 57.1 57.2 Cipriani A, Furukawa TA, Salanti G, Geddes JR, Higgins JP, Churchill R, Watanabe N, Nakagawa A, Omori IM, McGuire H, Tansella M, Barbui C. Comparative efficacy and acceptability of 12 new-generation antidepressants: a multiple-treatments meta-analysis. Lancet. 2009, 373 (9665): 746–58. PMID 19185342. doi:10.1016/S0140-6736(09)60046-5. 
+^ 58.00 58.01 58.02 58.03 58.04 58.05 58.06 58.07 58.08 58.09 58.10 58.11 Taylor D, Paton C, Shitij K. The Maudsley prescribing guidelines in psychiatry. West Sussex: Wiley-Blackwell. 2012. ISBN 978-0-470-97948-8. 
+^ 59.0 59.1 White N, Litovitz T, Clancy C. Suicidal antidepressant overdoses: a comparative analysis by antidepressant type. J Med Toxicol. 2008, 4 (4): 238–50. PMC 3550116. PMID 19031375. doi:10.1007/BF03161207. 
+^ 60.0 60.1 60.2 60.3 60.4 60.5 60.6 60.7 Rossi, S (编). Australian Medicines Handbook 2013. Adelaide: The Australian Medicines Handbook Unit Trust. 2013. ISBN 978-0-9805790-9-3. 
+^ 61.0 61.1 van Moffaert M, de Wilde J, Vereecken A, Dierick M, Evrard JL, Wilmotte J, Mendlewicz J. Mirtazapine is more effective than trazodone: a double-blind controlled study in hospitalized patients with major depression. Int Clin Psychopharmacol. March 1995, 10 (1): 3–9. PMID 7622801. doi:10.1097/00004850-199503000-00001. 
+^ 62.00 62.01 62.02 62.03 62.04 62.05 62.06 62.07 62.08 62.09 62.10 Voican, CS; Corruble, E; Naveau, S; Perlemuter, G. Antidepressant-induced liver injury: a review for clinicians.. The American Journal of Psychiatry. April 2014, 171 (4): 404–15. PMID 24362450. doi:10.1176/appi.ajp.2013.13050709. 
+^ AMOXAPINE tablet [Watson Laboratories, Inc.]. DailyMed. Watson Laboratories, Inc. August 2010 [30 October 2013]. （原始内容存档于2 November 2013）. 
+^ 64.0 64.1 Walker, R, Whittlesea, C (编). Clinical Pharmacy and Therapeutics 4th. Edinburgh: Churchill Livingstone Elsevier. 2007 [1994]. ISBN 978-0-7020-4293-5. 
+^ Bruijn JA, Moleman P, Mulder PG, van den Broek WW, van Hulst AM, van der Mast RC, van de Wetering BJ. A double-blind, fixed blood-level study comparing mirtazapine with imipramine in depressed in-patients (PDF). Psychopharmacology. 1996, 127 (3): 231–7. PMID 8912401. doi:10.1007/BF02246131. 
+^ Bruijn JA, Moleman P, Mulder PG, van den Broek WW. Depressed in-patients respond differently to imipramine and mirtazapine. Pharmacopsychiatry. 1999, 32 (3): 87–92. PMID 10463374. doi:10.1055/s-2007-979200. 
+^ 67.0 67.1 Fishback JA, Robson MJ, Xu YT, Matsumoto RR. Sigma receptors: potential targets for a new class of antidepressant drug. Pharmacol. Ther. 2010, 127 (3): 271–82. PMC 3993947. PMID 20438757. doi:10.1016/j.pharmthera.2010.04.003. 
+^ 68.0 68.1 Kishimoto A, Todani A, Miura J, Kitagaki T, Hashimoto K. The opposite effects of fluvoxamine and sertraline in the treatment of psychotic major depression: a case report. Ann Gen Psychiatry. 2010, 9: 23. PMC 2881105. PMID 20492642. doi:10.1186/1744-859X-9-23. 
+^ Borkowska A, Pilaczyńska E, Araszkiewicz A, Rybakowski J. [The effect of sertraline on cognitive functions in patients with obsessive-compulsive disorder]. Psychiatr. Pol. 2002, 36 (6 Suppl): 289–95. PMID 12647451 （Polish）.  引文格式1维护：未识别语文类型 (link)
+^ Schmitt JA, Ramaekers JG, Kruizinga MJ, van Boxtel MP, Vuurman EF, Riedel WJ. Additional dopamine reuptake inhibition attenuates vigilance impairment induced by serotonin reuptake inhibition in man. J. Psychopharmacol. 2002, 16 (3): 207–14. PMID 12236626. doi:10.1177/026988110201600303. 
+^ Joint Formulary Committee. British National Formulary (BNF) 65. London, UK: Pharmaceutical Press. 2013. ISBN 978-0-85711-084-8. 
+^ Goodwin GM. Clinical studies on the efficacy of agomelatine on depressive symptoms. CNS Drugs. 2009,. 23 Suppl 2: 35–9. PMID 19708724. doi:10.2165/11318650-000000000-00000. 
+^ 73.0 73.1 www.nice.org.uk (PDF). [20 February 2013]. （原始内容 (PDF)存档于21 October 2012）.  已忽略未知参数|df= (帮助)
+^ 74.0 74.1 Kapczinski F, Lima MS, Souza JS, Schmitt R. Kapczinski FF, 编. Antidepressants for generalized anxiety disorder. Cochrane Database Syst Rev. 2003, (2): CD003592. PMID 12804478. doi:10.1002/14651858.CD003592. 
+^ www.nice.org.uk (PDF). （原始内容 (PDF)存档于6 December 2008）.  已忽略未知参数|df= (帮助)
+^ Arroll B, Elley CR, Fishman T, Goodyear-Smith FA, Kenealy T, Blashki G, Kerse N, Macgillivray S. Arroll B, 编. Antidepressants versus placebo for depression in primary care (PDF). Cochrane Database Syst Rev. 2009, (3): CD007954. PMID 19588448. doi:10.1002/14651858.CD007954. 
+^ 存档副本. [2015-01-30]. （原始内容存档于2013-04-13）. 
+^ Fineberg, N. A.; Brown, A; Reghunandanan, S; Pampaloni, I. Evidence-based pharmacotherapy of obsessive-compulsive disorder. The International Journal of Neuropsychopharmacology. 2012, 15 (8): 1173–91. PMID 22226028. doi:10.1017/S1461145711001829.  已忽略未知参数|hdl= (帮助)
+^ Paroxetine prescribing information (PDF). [30 January 2015]. （原始内容 (PDF)存档于19 February 2015）.  已忽略未知参数|df= (帮助)
+^ Sertraline prescribing information (PDF). [30 January 2015]. 
+^ 81.0 81.1 81.2 www.nice.org.uk (PDF). 
+^ https://www.nlm.nih.gov/medlineplus/druginfo/meds/a695033.html
+^ 83.0 83.1 National Guideline Clearinghouse | Practice guideline for the treatment of patients with eating disorders. 
+^ Flament MF, Bissada H, Spettigue W. Evidence-based pharmacotherapy of eating disorders. Int. J. Neuropsychopharmacol. March 2012, 15 (2): 189–207. PMID 21414249. doi:10.1017/S1461145711000381. 
+^ Häuser W, Wolfe F, Tölle T, Uçeyler N, Sommer C. The role of antidepressants in the management of fibromyalgia syndrome: a systematic review and meta-analysis. CNS Drugs. April 2012, 26 (4): 297–307. PMID 22452526. doi:10.2165/11598970-000000000-00000. 
+^ www.enfa-europe.eu (PDF). 
+^ Lunn MP, Hughes RA, Wiffen PJ. Duloxetine for treating painful neuropathy, chronic pain or fibromyalgia. Cochrane Database Syst Rev. 2014, 1: CD007115. PMID 24385423. doi:10.1002/14651858.CD007115.pub3. 
+^ 88.0 88.1 Moore, R. Andrew; Derry, Sheena; Aldington, Dominic; Cole, Peter; Wiffen, Philip J. Amitriptyline for neuropathic pain in adults. The Cochrane Database of Systematic Reviews. 2015-07-06, (7): CD008242. ISSN 1469-493X. PMID 26146793. doi:10.1002/14651858.CD008242.pub3. 
+^ Birmes P, Coppin D, Schmitt L, Lauque D. Serotonin syndrome: a brief review. CMAJ. 2003, 168 (11): 1439–42. PMC 155963. PMID 12771076. 
+^ Boyer EW, Shannon M. The serotonin syndrome (PDF). N. Engl. J. Med. 2005, 352 (11): 1112–20. PMID 15784664. doi:10.1056/NEJMra041867. （原始内容 (PDF)存档于18 June 2013）. 
+^ Mason PJ, Morris VA, Balcezak TJ. Serotonin syndrome. Presentation of 2 cases and review of the literature. Medicine. 2000, 79 (4): 201–9. PMID 10941349. doi:10.1097/00005792-200007000-00001. 
+^ Sampson E, Warner JP. Serotonin syndrome: potentially fatal but difficult to recognize. Br J Gen Pract. 1999, 49 (448): 867–8. PMC 1313553. PMID 10818648. 
+^ Sathyanarayana Rao TS, Yeragani VK. Hypertensive crisis and cheese. Indian J Psychiatry. 2009, 51 (1): 65–6. PMC 2738414. PMID 19742203. doi:10.4103/0019-5545.44910. 
+^ Paykel ES. Clinical efficacy of reversible and selective inhibitors of monoamine oxidase A in major depression. Acta Psychiatr Scand Suppl. 1995, 386: 22–7. PMID 7717091. doi:10.1111/j.1600-0447.1995.tb05920.x. 
+^ Malm H. Prenatal exposure to selective serotonin reuptake inhibitors and infant outcome. Ther Drug Monit. December 2012, 34 (6): 607–14. PMID 23042258. doi:10.1097/FTD.0b013e31826d07ea. 
+^ Rahimi R, Nikfar S, Abdollahi M. Pregnancy outcomes following exposure to serotonin reuptake inhibitors: a meta-analysis of clinical trials. Reproductive Toxicology. 2006, 22 (4): 571–575. PMID 16720091. doi:10.1016/j.reprotox.2006.03.019. 
+^ 97.0 97.1 Nikfar S, Rahimi R, Hendoiee N, Abdollahi M. Increasing the risk of spontaneous abortion and major malformations in newborns following use of serotonin reuptake inhibitors during pregnancy: A systematic review and updated meta-analysis. Daru. 2012, 20 (1): 75. PMC 3556001. PMID 23351929. doi:10.1186/2008-2231-20-75. 
+^ Huang H, Coleman S, Bridge JA, Yonkers K, Katon W. A meta-analysis of the relationship between antidepressant use in pregnancy and the risk of preterm birth and low birth weight. General Hospital Psychiatry. 2014, 36 (1): 13–8. PMC 3877723. PMID 24094568. doi:10.1016/j.genhosppsych.2013.08.002. 
+^ Einarson TR, Kennedy D, Einarson A. Do findings differ across research design? The case of antidepressant use in pregnancy and malformations. J Popul Ther Clin Pharmacol. 2012, 19 (2): e334–48. PMID 22946124. 
+^ Riggin L, Frankel Z, Moretti M, Pupco A, Koren G. The fetal safety of fluoxetine: a systematic review and meta-analysis. J Obstet Gynaecol Can. April 2013, 35 (4): 362–9. PMID 23660045. 
+^ Koren G, Nordeng HM. Selective serotonin reuptake inhibitors and malformations: case closed?. Semin Fetal Neonatal Med. February 2013, 18 (1): 19–22. PMID 23228547. doi:10.1016/j.siny.2012.10.004. 
+^ FDA Advising of Risk of Birth Defects with Paxil (新闻稿). U.S. Food and Drug Administration. [29 November 2012]. （原始内容存档于3 December 2013）. 
+^ Ross, Lori E.; Grigoriadis, Sophie; Mamisashvili, Lana; VonderPorten, Emily H.; Roerecke, Michael; Rehm, Jürgen; Dennis, Cindy-Lee; Koren, Gideon; Steiner, Meir; Mousmanis, Patricia; Cheung, Amy. Selected Pregnancy and Delivery Outcomes After Exposure to Antidepressant Medication. JAMA Psychiatry. 1 April 2013, 70 (4): 436. doi:10.1001/jamapsychiatry.2013.684. 
+^ Lanza di Scalea T, Wisner KL. Antidepressant Medication Use During Breastfeeding. Clinical Obstetrics and Gynecology. 2009, 52 (3): 483–97. PMC 2902256. PMID 19661763. doi:10.1097/GRF.0b013e3181b52bd6. 
+^ Sivagnanam, G. Antidepressants. Journal of Pharmacology and Pharmacotherapeutics. 2012, 3 (3): 287–8. 
+^ Goldberg JF, Truman CJ. Antidepressant-induced mania: An overview of current controversies. Bipolar Disorders. 2003, 5 (6): 407–20. PMID 14636364. doi:10.1046/j.1399-5618.2003.00067.x. 
+^ Benazzi F. Antidepressant-associated hypomania in outpatient depression: a 203-case study in private practice. J Affect Disord. 1997, 46 (1): 73–7. PMID 9387089. doi:10.1016/S0165-0327(97)00082-7. 
+^ 108.0 108.1 108.2 Stone M, Laughren T, Jones ML, Levenson M, Holland PC, Hughes A, Hammad TA, Temple R, Rochester G. Risk of suicidality in clinical trials of antidepressants in adults: analysis of proprietary data submitted to US Food and Drug Administration. BMJ. 2009, 339: b2880. PMC 2725270. PMID 19671933. doi:10.1136/bmj.b2880. 
+^ Friedman RA, Leon AC. Expanding the black box – depression, antidepressants, and the risk of suicide. N. Engl. J. Med. 2007, 356 (23): 2343–6. PMID 17485726. doi:10.1056/NEJMp078015. 
+^ Antidepressant Use in Children, Adolescents, and Adults. 
+^ FDA Medication Guide for Antidepressants (PDF). [5 June 2014]. 
+^ www.nice.org.uk (PDF). 
+^ Healy D, Aldred G. Antidepressant drug use and the risk of suicide (PDF). International Review of Psychiatry. 2005, 17: 163–172. doi:10.1080/09540260500071624. （原始内容 (PDF)存档于21 October 2013）. 
+^ Grant JE, Potenza MN (编). The Oxford handbook of impulse control disorders. Oxford: Oxford University Press. 2012. ISBN 978-0-19-538971-5. 
+^ Csoka AB, Csoka A, Bahrick A, Mehtonen OP. Persistent sexual dysfunction after discontinuation of selective serotonin reuptake inhibitors. J Sex Med. 2008, 5 (1): 227–33. PMID 18173768. doi:10.1111/j.1743-6109.2007.00630.x. 
+^ Montejo AL, Llorca G, Izquierdo JA, Rico-Villademoros F. Incidence of sexual dysfunction associated with antidepressant agents: a prospective multicenter study of 1022 outpatients. Spanish Working Group for the Study of Psychotropic-Related Sexual Dysfunction. J Clin Psychiatry. 2001,. 62 Suppl 3: 10–21. PMID 11229449. 
+^ Serretti A, Chiesa A. Treatment-emergent sexual dysfunction related to antidepressants: a meta-analysis. J Clin Psychopharmacol. 2009, 29 (3): 259–66. PMID 19440080. doi:10.1097/JCP.0b013e3181a5233f. 
+^ Chebili S, Abaoub A, Mezouane B, Le Goff JF. [Antidepressants and sexual stimulation: the correlation]. Encephale. 1998, 24 (3): 180–4. PMID 9696909 （French）.  引文格式1维护：未识别语文类型 (link)
+^ Keltner NL, McAfee KM, Taylor CL. Biological Perspectives. Perspectives in Psychiatric Care. 2009, 38 (3): 111–6. PMID 12385082. doi:10.1111/j.1744-6163.2002.tb00665.x. 
+^ Ozmenler NK, Karlidere T, Bozkurt A, Yetkin S, Doruk A, Sutcigil L, Cansever A, Uzun O, Ozgen F, Ozsahin A. Mirtazapine augmentation in depressed patients with sexual dysfunction due to selective serotonin reuptake inhibitors. Hum Psychopharmacol. 2008, 23 (4): 321–6. PMID 18278806. doi:10.1002/hup.929. 
+^ Labbate LA, Grimes JB, Hines A, Pollack MH. Bupropion treatment of serotonin reuptake antidepressant-associated sexual dysfunction.. Annals of Clinical Psychiatry. December 1997, 9 (4): 241–5. PMID 9511948. doi:10.3109/10401239709147804. 
+^ Stimmel GL, Dopheide JA, Stahl SM. Mirtazapine: An antidepressant with noradrenergic and specific serotonergic effects. Pharmacotherapy. 1997, 17 (1): 10–21. PMID 9017762. doi:10.1002/j.1875-9114.1997.tb03674.x. 
+^ mirtazapine (Rx) – Remeron, Remeron SolTab. Medscape. WebMD. [19 November 2013]. （原始内容存档于29 October 2013）. 
+^ Papakostas GI. Tolerability of modern antidepressants. J Clin Psychiatry. 2008, 69 (Suppl E1): 8–13. PMID 18494538. 
+^ Li Z, Maglione M, Tu W, Mojica W, Arterburn D, Shugarman LR, Hilton L, Suttorp M, Solomon V, Shekelle PG, Morton SC. Meta-analysis: pharmacologic treatment of obesity. Ann. Intern. Med. April 2005, 142 (7): 532–46. PMID 15809465. doi:10.7326/0003-4819-142-7-200504050-00012. 
+^ Effexor Medicines Data Sheet. Wyeth Pharmaceuticals Inc. 2006 [17 September 2006]. （原始内容存档于17 September 2006）. 
+^ 127.0 127.1 127.2 Haddad, P. Antidepressant discontinuation syndromes. Drug Saf. 2001, 24 (3): 183–97. PMID 11347722. doi:10.2165/00002018-200124030-00003. 
+^ 128.0 128.1 128.2 128.3 Warner CH, Bobo W, Warner C, Reid S, Rachal J. Antidepressant discontinuation syndrome. Am Fam Physician. August 2006, 74 (3): 449–56. PMID 16913164. 
+^ Haddad, P.M.; Anderson, I.M. Recognising and managing antidepressant discontinuation symptoms. Advances in Psychiatric Treatment. 2007, 13 (6): 447–457. doi:10.1192/apt.bp.105.001966. 
+^ Renoir T. Selective serotonin reuptake inhibitor antidepressant treatment discontinuation syndrome: a review of the clinical evidence and the possible mechanisms involved. Front Pharmacol. April 2013, 4: 45. PMC 3627130. PMID 23596418. doi:10.3389/fphar.2013.00045. 
+^ Haddad PM, Dursun SM. Neurological complications of psychiatric drugs: clinical features and management. Hum Psychopharmacol. January 2008, 23 (Suppl 1): 15–26. PMID 18098217. doi:10.1002/hup.918. 
+^ Tamam, L.; Ozpoyraz, N. Selective Serotonin Reuptake Inhibitor Discontinuation Syndrome: A Review. Advances in Therapy. January–February 2002, 19 (1): 17–26 [28 November 2012]. PMID 12008858. doi:10.1007/BF02850015. 
+^ Gartlehner G, Hansen RA, Morgan LC, et al. Second-Generation Antidepressants in the Pharmacologic Treatment of Adult Depression: An Update of the 2007 Comparative Effectiveness Review [Internet]. Comparative Effectiveness Reviews, No. 46. Rockville (MD): Agency for Healthcare Research and Quality (US); 2011 Dec.
+^ Stutz, Bruce. Self-Nonmedication. New York Times. 6 May 2007 [24 May 2010]. 
+^ Shelton RC. The nature of the discontinuation syndrome associated with antidepressant drugs. J Clin Psychiatry. 2006, 67 (Suppl 4): 3–7. PMID 16683856. 
+^ WHO (2003) WHO Expert Committee on Drug Dependence – WHO Technical Report Series, No. 915 – Thirty-third Report
+^ Evans EA, Sullivan MA. Abuse and misuse of antidepressants. Subst Abuse Rehabil. Aug 2014, 5: 107–20. PMC 4140701. PMID 25187753. doi:10.2147/SAR.S37917. 
+^ Nielsen M, 等. What is the difference between dependence and withdrawal reactions? A comparison of benzodiazepines and selective serotonin re-uptake inhibitors. Addiction. May 2012, 107 (5): 900–8. PMID 21992148. doi:10.1111/j.1360-0443.2011.03686.x. 
+^ Brady K. Withdrawal or dependence: a matter of context. Comment on: What is the difference between dependence and withdrawal reactions? A comparison of benzodiazepines and selective serotonin re-uptake inhibitors. Addiction. May 2012, 107 (5): 910–1. PMID 22471576. doi:10.1111/j.1360-0443.2012.03862.x. 
+^ Lader M. Dependence and withdrawal: comparison of the benzodiazepines and selective serotonin re-uptake inhibitors. Comment on: What is the difference between dependence and withdrawal reactions? A comparison of benzodiazepines and selective serotonin re-uptake inhibitors. Addiction. May 2012, 107 (5): 909–10. PMID 22471575. doi:10.1111/j.1360-0443.2011.03736.x. 
+^ Goodwin, G.M. "Emotional blunting in anxiety and depression: neurobiology and psychopathology." Medicographia. 34 (2012):295-299.
+^ Opbroek A, Delgado PL, Laukes C, McGahuey C, Katsanis J, Moreno FA, Manber R. Emotional blunting associated with SSRI-induced sexual dysfunction. Do SSRIs inhibit emotional responses?. International Journal of Neuropsychopharmacology. 2002, 5: 147–151. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+安眠药/镇静剂 (ATC代码 (N05C))
+
+
+
+
+
+
+Γ-氨基丁酸A型受体
+
+
+
+
+醇
+
+
+
+2-甲基-2-丁醇
+氯醛己醇（英文）
+乙醇
+
+酒
+
+
+氯乙基戊烯炔醇（英文）
+甲基戊炔醇（英文）
+2,2,2-三氯乙醇
+
+
+
+
+
+
+
+
+巴比妥类药物
+
+
+
+阿洛巴比妥（英文）
+异戊巴比妥
+阿普比妥（英文）
+巴比妥
+仲丁比妥（英文）
+丁巴比妥（英文）
+环巴比妥（英文）
+依沙比妥（英文）
+环庚比妥（英文）
+环己巴比妥
+甲苯巴比妥（英文）
+美索比妥（英文）
+戊巴比妥
+苯烯比妥（英文）
+苯巴比妥
+二丙基巴比妥（英文）
+烯丙羟丙巴比妥（英文）
+西可巴比妥（英文）
+司可巴比妥（英文）
+他布酮（英文）
+硫戊巴比妥（英文）
+硫喷妥钠
+戊烯巴比妥（英文）
+乙烯戊巴比妥（英文）
+
+
+
+
+
+
+
+
+苯二氮䓬类
+
+
+
+溴替唑仑（英文）
+西诺西泮（英文）
+氯马唑仑（英文）
+度氟西泮（英文）
+艾司唑仑
+氟硝西泮
+氟西泮
+氟托西泮（英文）
+海洛唑仑（英文）
+氯普唑仑（英文）
+氯甲西泮（英文）
+咪达唑仑
+硝甲西泮（英文）
+硝基安定（英文）
+芬纳西泮（英文）
+四氟硫安定（英文）
+羟基安定（英文）
+三唑仑
+
+
+
+
+
+
+
+
+氨基甲酸酯
+
+
+
+异丙基甲丁双脲（英文）
+依米氨酯（英文）
+炔己蚁胺（英文）
+己丙氨酯（英文）
+氨甲丙二酯（英文）
+美索巴莫（英文）
+苯丙氨酯（英文）
+丙环氨酯（英文）
+泰巴氨酯（英文）
+
+
+
+
+
+
+
+
+咪唑
+
+
+
+依托咪酯（英文）
+美托咪酯（英文）
+丙泊酯（英文）
+
+
+
+
+
+
+
+
+* 一酰脲（英文）
+
+
+
+醋卡溴脲
+丙戊酰脲（英文）
+溴异戊酰脲（英文）
+异辛酰脲（英文）
+二乙代溴乙酰脲（英文）
+乙巴酰脲（英文）
+
+
+
+
+
+
+
+
+* 神经活性甾体（英文）
+
+
+
+醋溴考尔（英文）
+别孕烯醇酮（英文）
+阿法多龙（英文）
+阿法克龙（英文）
+乙他诺隆（英文）
+羟孕二酮（英文）
+米那索龙（英文）
+孕酮
+
+
+
+
+
+
+
+
+* 非苯二氮䓬类（英文）
+
+
+
+艾司佐匹克隆
+英地扑龙（英文）
+利瑞喹尼（英文）
+奈可吡旦（英文）
+帕秦克隆（英文）
+沙立吡旦（英文）
+舒普罗酮（英文）
+舒立克隆（英文）
+扎来普隆（英文）
+唑吡坦
+佐匹克隆
+
+
+
+
+
+
+
+
+酚
+
+
+
+磷丙泊酚（英文）
+异丙酚
+
+
+
+
+
+
+
+
+* 啶二酮（英文）
+
+
+
+苯乙哌啶酮（英文）
+甲乙哌酮（英文）
+二乙吡啶二酮（英文）
+二乙哌啶二酮（英文）
+
+
+
+
+
+
+
+
+喹唑啉酮
+
+
+
+氨氟喹酮（英文）
+氯喹酮（英文）
+地普喹酮（英文）
+依他喹酮（英文）
+甲溴喹酮（英文）
+氯安眠酮（英文）
+安眠酮
+甲基喹酮（英文）
+硝基喹酮（英文）
+
+
+
+
+
+
+
+
+* 挥发性、气体试剂（英文）
+
+
+
+苯乙酮
+n-乙酰甘氨酰胺-水合氯醛（英文）
+Centalun（中文名不详）（英文）
+氯醛甜菜碱（英文）
+水合氯醛
+三聚乙醛（英文）
+
+
+
+
+
+
+
+
+其它
+
+
+
+溴化物
+
+溴化锂
+溴化钾
+溴化钠
+
+
+氯醛糖（英文）
+氯美噻唑（英文）
+氯醛比林（英文）
+加波沙朵（英文）
+罗雷利唑（英文）
+卡瓦胡椒的組成物
+
+卡瓦内脂（英文）
+
+
+培曲氯醛（英文）
+磺酰基烷烃（英文）
+
+二乙眠砜（英文）
+三乙眠砜（英文）
+四乙眠砜（英文）
+
+
+三氯福司（英文）
+纈草 的組成物
+
+异戊酰胺（英文）
+3-甲基丁酸
+缬草酸（英文）
+
+
+
+
+
+
+
+
+
+
+
+
+
+* GABAB受体（英文）
+
+
+
+1,4-丁二醇
+醋羟丁酸（英文）
+巴氯芬（英文）
+3-羟基-4-氨基丁酸（英文）
+Γ-丁内酯
+γ-戊内酯（英文）
+菲尼布特（英文）
+
+
+
+
+
+
+
+
+* H1（英文）
+
+
+
+
+抗組織胺藥
+
+
+
+丁硫二苯胺（英文）
+赛庚啶（英文）
+苯海拉明
+多西拉敏（英文）
+羟嗪
+噻吡二胺（英文）
+非尼拉敏
+鹽酸異丙嗪
+丙酰马嗪（英文）
+
+
+
+
+
+
+
+
+抗抑郁药
+
+
+
+三环类抗抑郁药
+
+阿米替林
+多虑平（英文）
+三甲丙咪嗪（英文）等等……
+
+
+四环类抗抑郁药
+
+米塞林
+米氮平等等……
+
+
+
+
+
+
+
+
+
+
+抗精神病药
+
+
+
+抗精神分裂症药物（英文）
+
+氯丙嗪
+甲硫达嗪（英文）等等……
+
+
+非典型抗精神病药物（英文）
+
+奥氮平
+喹硫平
+維思通等等……
+
+
+
+
+
+
+
+
+
+
+
+
+
+* α2-Adrenergic（英文）
+
+
+
+可乐定（英文）
+地托咪定（英文）
+右旋美托咪啶（英文）
+洛非西定（英文）
+美托咪定（英文）
+罗米非定（英文）
+替扎尼定（英文）
+赛拉嗪（英文）
+
+
+
+
+
+
+
+
+* 5-HT2A（英文）
+
+
+
+
+抗抑郁药
+
+
+
+曲唑酮（英文）
+三环类抗抑郁药
+
+阿米替林
+多虑平（英文）
+三甲丙咪嗪（英文）等等……
+
+
+四环类抗抑郁药
+
+米塞林
+米氮平等等……
+
+
+
+
+
+
+
+
+
+
+抗精神病药
+
+
+
+抗精神分裂症药物（英文）
+
+氯丙嗪
+甲硫达嗪（英文）等等……
+
+
+非典型抗精神病药物（英文）
+
+奥氮平
+喹硫平
+維思通等等……
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+烟胺哌嗪（英文）
+
+
+
+
+
+
+
+
+
+
+
+* 褪黑激素受体（英文）
+
+
+
+阿戈美拉汀
+褪黑素
+雷美替胺（英文）
+他司美琼（英文）
+
+
+
+
+
+
+
+
+* 食欲素受体（英文）
+
+
+
+阿莫雷生（英文）
+Filorexant（中文名不详）（英文）
+苏沃雷生（英文）
+
+
+
+
+
+
+
+
+其它
+
+
+
+大麻二醇（英文）
+
+大麻
+
+
+氯苯烷基二醇
+
+氯苯己基戊二醇（英文）
+美他二醇（英文）
+非那二醇（英文）
+
+
+二乙丙二醇（英文）
+尖叶云香碱（英文）
+酚二唑（英文）
+加巴喷丁类药物（英文）
+
+加巴喷丁
+加巴喷丁酯（英文）
+非尼布特（英文）
+普瑞巴林（英文）
+
+
+愈创木酚甘油醚（英文）相關的 肌肉鬆弛劑
+
+氯酚甘油醚（英文）
+甲酚甘油醚（英文）
+美芬诺酮（英文）
+美他沙酮（英文）
+美索巴莫（英文）
+
+
+烟胺哌嗪（英文）
+鴉片類藥物
+
+羟考酮（英文）
+嗎啡
+乙甲丁酰胺（英文）
+
+
+西番蓮屬
+東莨菪鹼
+曲唑酮（英文）
+4-羟基-4-甲基戊酸（英文）
+乙甲戊酰胺（英文）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+抗抑郁药 (N06A)
+
+
+
+
+
+
+
+
+
+
+ 
+特定重摄取抑制剂 (RIs), 强化剂 (REs), 和释放剂（英语：monoamine releasing agent） (RAs)
+
+
+
+
+
+
+
+
+
+
+
+选择性5-羟色胺再吸收抑制剂 (SSRIs)
+
+
+
+
+阿拉丙酯
+西酞普兰
+依地普仑
+非莫西汀
+氟苯氧丙胺#
+氟伏沙明
+茚达品
+伊福西汀
+利托西汀
+鲁巴唑酮
+Omiloxetine（英语：Omiloxetine）
+帕奴拉明
+帕罗西汀
+吡喃达明
+塞罗西汀
+舍曲林#
+齐美定‡
+
+
+
+
+
+
+
+
+
+5-羟色胺和去甲肾上腺素再摄取抑制剂 (SNRIs)
+
+
+
+
+氯伏胺
+去甲文拉法辛
+度洛西汀
+左旋体米那普仑
+依氯那明
+米那普仑
+西布曲明
+文拉法辛
+
+
+
+
+
+
+
+
+
+5-羟色胺、去甲肾上腺素和多巴胺再摄取抑制剂 (SNDRIs)
+
+
+
+
+Amitifadine（英语：Amitifadine）
+比西发定
+Brasofensine（英语：Brasofensine）
+BTS-74,398（英语：BTS 74,398）
+可卡因
+双氮奋兴
+DOV-21,947（英语：DOV-21,947）
+DOV-102,677（英语：DOV-102,677）
+DOV-216,303（英语：DOV-216,303）
+EXP-561（英语：EXP-561）
+非唑拉明
+JNJ-7925476（英语：JNJ-7925476）
+NS-2359（英语：NS-2359）
+PRC200-SS（英语：PRC200-SS）
+Pridefine（英语：Pridefine）
+SEP-225,289（英语：SEP-225289）
+SEP-227,162
+Tesofensine（英语：Tesofensine）
+
+
+
+
+
+
+
+
+
+去甲腎上腺素再攝取抑製劑s (NRIs)
+
+
+
+
+氨甲达林
+阿托莫西汀
+苯奈达林
+氢苯嘧吲哚
+达来达林
+Edivoxetine（英语：Edivoxetine）
+恶泼西汀
+氯他拉明
+吗吲哚
+尼索西汀
+瑞波西汀
+他洛普仑
+他舒普仑
+坦达明
+维洛沙秦
+
+
+
+
+
+
+
+
+
+多巴胺再摄取抑制剂 (DRIs)
+
+
+
+
+美地沙明
+伐诺司林
+
+
+
+
+
+
+
+
+
+去甲肾上腺素多巴胺再摄取抑制剂 (NDRIs)
+
+
+
+
+阿米庚酸
+安非他酮#
+西洛巴明
+Manifaxine（英语：Manifaxine）
+哌甲酯
+诺米芬辛
+Radafaxine（英语：Radafaxine）
+他美曲林
+
+
+
+
+
+
+
+
+
+去甲肾上腺素多巴胺释放剂 (NDRAs)
+
+
+
+
+苯丙胺
+苯呋拉林
+二甲磺酸赖右苯丙胺
+甲基苯丙胺
+苯乙胺
+吡贝拉林
+反苯环丙胺
+
+
+
+
+
+
+
+
+
+血清素-去甲腎上腺素-多巴胺釋放劑 (SNDRAs)
+
+
+
+
+4-Methyl-αMT（英语：4-Methyl-AMT）
+αET/Etryptamine（英语：alpha-Ethyltryptamine）
+αMT/Metryptamine（英语：alpha-Methyltryptamine）
+
+
+
+
+
+
+
+
+
+選擇性血清素再吸收強化劑 (SSREs)
+
+
+
+
+Tianeptine（英语：Tianeptine）
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+Indeloxazine（英语：Indeloxazine）
+Teniloxazine（英语：Teniloxazine）
+曲马多
+Viqualine（英语：Viqualine）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+受体拮抗剂 和/或 再摄取抑制剂
+
+
+
+
+
+
+
+
+
+
+
+羟色胺拮抗剂和再摄取抑制剂 (SARIs)
+
+
+
+
+依托哌酮
+奈法唑酮
+曲唑酮
+
+
+
+
+
+
+
+
+
+去甲肾上腺素和特异性5-羟色胺能抗抑郁药 (NaSSAs)
+
+
+
+
+Aptazapine（英语：Aptazapine）
+Esmirtazapine（英语：Esmirtazapine）
+米塞林
+米氮平
+Setiptiline/Teciptiline（英语：Setiptiline）
+
+
+
+
+
+
+
+
+
+Norepinephrine-dopamine disinhibitor（英语：Norepinephrine-dopamine disinhibitor）s (NDDIs)
+
+
+
+
+阿戈美拉汀
+
+
+
+
+
+
+
+
+
+Serotonin modulators and stimulators (SMSs)
+
+
+
+
+Vortioxetine（英语：Vortioxetine）
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+Tedatioxetine（英语：Tedatioxetine）
+Vilazodone（英语：Vilazodone）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+杂环类抗抑郁 (双环, 三环, 和四环)
+
+
+
+
+
+
+
+
+
+
+
+雙環類
+
+
+
+
+Tiazesim（英语：Tiazesim）
+Tofenacin（英语：Tofenacin）
+
+
+
+
+
+
+
+
+
+三環類
+
+
+
+
+Amezepine（英语：Amezepine）
+Amineptine（英语：Amineptine）
+阿米替林#
+Amitriptylinoxide（英语：Amitriptylinoxide）
+Azepindole（英语：Azepindole）
+Butriptyline（英语：Butriptyline）
+Cianopramine（英语：Cianopramine）
+Clomipramine（英语：Clomipramine）
+Cotriptyline（英语：Cotriptyline）
+Cyanodothiepin（英语：Cyanodothiepin）
+Demexiptiline（英语：Demexiptiline）
+Depramine（英语：Depramine）/Balipramine（英语：Balipramine）
+Desipramine（英语：Desipramine）
+Dibenzepin（英语：Dibenzepin）
+Dimetacrine（英语：Dimetacrine）
+Dosulepin/Dothiepin（英语：Dosulepin）
+Doxepin（英语：Doxepin）
+Enprazepine（英语：Enprazepine）
+Fluotracen（英语：Fluotracen）
+Hepzidine（英语：Hepzidine）
+Homopipramol（英语：Homopipramol）
+Imipramine（英语：Imipramine）
+Imipraminoxide（英语：Imipraminoxide）
+Intriptyline（英语：Intriptyline）
+Iprindole（英语：Iprindole）
+Ketipramine（英语：Ketipramine）
+Litracen（英语：Litracen）
+Lofepramine（英语：Lofepramine）
+Losindole（英语：Losindole）
+Mariptiline（英语：Mariptiline）
+Melitracen（英语：Melitracen）
+Metapramine（英语：Metapramine）
+Mezepine（英语：Mezepine）
+Naranol（英语：Naranol）
+Nitroxazepine（英语：Nitroxazepine）
+Nortriptyline（英语：Nortriptyline）
+Noxiptiline（英语：Noxiptiline）
+Octriptyline（英语：Octriptyline）
+Opipramol（英语：Opipramol）
+Pipofezine（英语：Pipofezine）
+Propizepine（英语：Propizepine）
+Protriptyline（英语：Protriptyline）
+Quinupramine（英语：Quinupramine）
+Tampramine（英语：Tampramine）
+Tianeptine（英语：Tianeptine）
+Tienopramine（英语：Tienopramine）
+Trimipramine（英语：Trimipramine）
+
+
+
+
+
+
+
+
+
+四環類
+
+
+
+
+Amoxapine（英语：Amoxapine）
+Aptazapine（英语：Aptazapine）
+Azipramine（英语：Azipramine）
+Ciclazindol（英语：Ciclazindol）
+Ciclopramine（英语：Ciclopramine）
+Esmirtazapine（英语：Esmirtazapine）
+Maprotiline（英语：Maprotiline）
+Mazindol（英语：Mazindol）
+米塞林
+米氮平
+Oxaprotiline（英语：Oxaprotiline）
+Setiptiline/Teciptiline（英语：Setiptiline）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+单胺氧化酶抑制剂 (MAOIs)
+
+
+
+
+
+
+
+
+
+
+
+無選擇性
+
+
+
+
+非可逆: Benmoxin（英语：Benmoxin）
+Carbenzide（英语：Carbenzide）
+Cimemoxin（英语：Cimemoxin）
+Domoxin（英语：Domoxin）
+Echinopsidine（英语：Echinopsidine）
+Iproclozide（英语：Iproclozide）
+Iproniazid（英语：Iproniazid）
+Isocarboxazid（英语：Isocarboxazid）
+Mebanazine（英语：Mebanazine）
+Metfendrazine（英语：Metfendrazine）
+Nialamide（英语：Nialamide）
+Octamoxin（英语：Octamoxin）
+Phenelzine（英语：Phenelzine）
+Pheniprazine（英语：Pheniprazine）
+Phenoxypropazine（英语：Phenoxypropazine）
+Pivalylbenzhydrazine（英语：Pivalylbenzhydrazine）
+Safrazine（英语：Safrazine）
+反苯环丙胺
+
+
+可逆: Caroxazone（英语：Caroxazone）
+Paraxazone（英语：Paraxazone）
+槲皮素
+
+
+
+
+
+
+
+
+
+針對MAOA
+
+
+
+
+非可逆: Clorgiline（英语：Clorgiline）
+
+
+可逆: Amiflamine（英语：Amiflamine）
+Bazinaprine（英语：Bazinaprine）
+Befloxatone（英语：Befloxatone）
+Befol（英语：Befol）
+小檗鹼
+Brofaromine（英语：Brofaromine）
+Cimoxatone（英语：Cimoxatone）
+Esuprone（英语：Esuprone）
+Harmala Alkaloid（英语：Harmala alkaloid）s (Harmine（英语：Harmine）
+Harmaline（英语：Harmaline）
+Tetrahydroharmine（英语：Tetrahydroharmine）
+Harman（英语：Harmala alkaloid#Chemical forms）
+Norharman（英语：Norharman）, etc)
+亞甲藍
+Metralindole（英语：Metralindole）
+Minaprine（英语：Minaprine）
+Moclobemide
+Pirlindole（英语：Pirlindole）
+Sercloremine（英语：Sercloremine）
+Tetrindole（英语：Tetrindole）
+Toloxatone（英语：Toloxatone）
+Tyrima（英语：Tyrima）
+
+
+
+
+
+
+
+
+
+針對MAOB
+
+
+
+
+非可逆: Ladostigil（英语：Ladostigil）
+Mofegiline（英语：Mofegiline）
+Pargyline（英语：Pargyline）
+雷沙吉兰
+Selegiline（英语：Selegiline）
+
+
+可逆: Lazabemide（英语：Lazabemide）
+Milacemide（英语：Milacemide）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+氮杂螺酮和其他5-HT1A 受体激动剂
+
+
+
+
+
+
+
+
+
+阿奈螺酮
+阿立哌唑
+贝非拉醇
+丁螺环酮
+依他匹隆
+氟辛克生
+氟立班丝氨
+吉哌隆
+伊沙匹隆
+奥沙氟生
+坦度螺酮
+维拉佐酮
+扎螺酮
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#世卫基本药物（WHO-EM）
+‡从市场撤回
+臨床試驗：
+
+†第三階段
+§未到第三階段
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+医学导航：心理学／精神病学
+
+
+
+
+心理历程
+
+
+
+
+障碍（o, p, m, p, a, d, s）
+症状／齐名／涉及
+
+
+
+
+操作（评估／治疗）
+药物（N5A/5B/5C/6A/6B/6D）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+強迫症治療藥
+
+
+
+
+
+
+抗抑郁药
+
+
+
+SSRIs (比如：氟西汀、舍曲林、艾司西酞普兰)
+SNRIs (比如：文拉法辛)
+TCAs (比如：clomipramine（英语：clomipramine）)
+MAOIs (比如：phenelzine（英语：phenelzine）)
+
+
+
+
+
+
+
+
+其它相關藥物
+
+
+
+抗雄激素 (比如：cyproterone acetate、triptorelin（英语：triptorelin）)
+抗精神病药 (比如：阿立哌唑)
+苯二氮䓬类
+Memantine（英语：Memantine）
+米氮平
+N-Acetylcysteine
+昂丹司琼
+普加巴林
+迷幻药物 (比如：裸盖菇素)
+利鲁唑
+Topiramate（英语：Topiramate）
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh85005661
+GND: 4002263-8
+NDL: 01140705
+
+
+
+
+
+
+
+
+
+
+
+
+分类：引用與查證維護模板All articles lacking reliable references自2017年1月Category:Articles lacking reliable references隐藏分类：有参考文献错误的页面带有失效链接的条目条目有永久失效的外部链接含有未知参数的引用的页面引文格式1维护：未识别语文类型有未列明来源语句的条目自2013年3月有未列明来源语句的条目在模板中使用无效日期参数的条目自2012年11月有未列明来源语句的条目包含规范控制信息的维基百科条目

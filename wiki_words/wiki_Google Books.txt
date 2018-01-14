@@ -1,0 +1,3451 @@
+Google Play
+
+
+
+
+
+
+
+
+
+
+
+Google Play
+
+
+
+
+
+Google Play Store (USA)
+
+
+
+開發者
+Google
+
+
+穩定版本
+
+
+
+穩定版本
+
+8.5.39.W-all [0] [PR] 178322352 (80853900)  / 2017年12月13日，​25天前​（2017-12-13）
+
+
+
+開發狀態
+在线
+
+
+操作系统
+Android
+
+
+类型
+数字化发行
+
+
+網站
+Google Play
+
+
+Google Play（前身为Android Market）是由Google为Android所開發的數位化應用發佈平台，包括數位媒體商店。它作為Android作業系統的官方應用商店，允許用戶瀏覽和下載使用Android SDK開發並透過Google發布的應用程式。 Google Play也是數位媒體商店，提供音樂，雜誌，書籍，電影和電視節目。它之前提供了Google硬件裝置，直到2015年3月11日推出一個單獨的線上硬件零售商Google Store[1]。
+使用者可以透過Google Play免費或付費購買應用程式。 透過Play商店行動應用直接下載到Android或Google TV裝置，也可以透過Google Play網站直接部署應用安裝在裝置上。[2] 利用裝置的硬件能力的應用可以透過必要的硬件屬性（諸如運動傳感器[用於運動相關遊戲]或前置相機[用於線上視訊通話]）針對合適的用戶。
+Android電子市場於2008年8月28日公開發表並於2008年10月22日正式上線; 2009年9月起陸續開始提供付費服務，Google Play於2012年3月6日推出，將Android Market，Google Music和Google電子書店整合在一個品牌下，標誌著Google數位分銷策略的轉變。[3] Google Play橫幅下的服務包括：Google Play音樂，Google Play圖書，Google Play書報攤，Google Play影視和Google Play遊戲。Google Play商店已發布超過220萬個應用程式[4]，下載次數超過500億次。[5]
+
+
+
+目录
+
+
+1 歷史
+2 Google Play for Android
+
+2.1 可用性
+2.2 版本機制
+2.3 開發者
+2.4 安全性
+2.5 用戶隱私
+
+
+3 服務內容
+
+3.1 Android 應用程式
+3.2 音樂
+3.3 圖書
+3.4 影視
+3.5 新聞出版物和雜誌
+3.6 裝置
+
+
+4 可用性
+
+4.1 數位產品/服務於各國家/地區的可用性
+4.2 中国大陆
+4.3 臺灣
+
+
+5 参考文献
+6 外部連結
+7 参见
+
+
+
+歷史[编辑]
+Google Play來自三種不同的產品：Android Market，Google Music和Google eBookstore。
+Android Market於2008年8月28日由Google發布，並於10月22日向用戶提供。2009年2月13日，針對美國和英國的開發人員推出了付費應用程式支持，將支持擴展到 2010年9月30日增加29個國家。[6][7] 2010年12月，內容過濾已添加到Android電子市場，並將購買退款窗口從24-48小時降低到了十五分鐘。[8]
+Google eBookstore於2010年12月6日在美國發布，對其發布進行了大量猜測。 它首次發布就推出超過300萬的電子書，使它一夜之間成為世界上最大的電子書店。 國際版從2011年初開始。
+2011年2月，Google推出了Android Market的網絡用戶端，可透過PC造訪。 透過Android Market網頁請求的應用程式將下載並安裝在註冊的Android裝置上。[9] 2011年3月，Google向Android電子市場添加了應用內結算功能，允許應用銷售應用內商品。[10] 2011年5月，Google向Android Market添加了新的應用列表，包括「熱門應用」、「應用」、「熱門開發者」、「熱門應用」和「編輯推薦」。 Google的Eric Chu表示，此次更改的目標是向用戶展示盡可能多的應用程式。 2011年7月，Google推出了重新設計的界面，重點關注精選內容，更多搜索篩選器和圖書銷售和電影租賃(於美國)。[11] 2011年9月，摩托羅拉Xoom平板電腦收到了一個更新，將重新設計的Android Market帶到Android 3.x Honeycomb 的裝置上。[12] 2011年11月，Google於Android Market添加了音樂商店。[13]
+在2012年3月，應用程式APK檔案的最大允許大小也從50 MB增加到兩個額外檔案，APK最多為50 MB，另外兩個額外檔案為2 GB，共4 GB。[14] 2012年3月6日，Android Market重新命名為Google Play。[15]2012年5月2日，Google推出了針對音樂，電影和書籍的直接運營商代扣。2012年5月24日，Google推出了Google Play的應用內訂閱。[16] 2012年7月12日，Google發布了更新3.8.15版本，增加了應用程式加密功能，以幫助減少應用程式盜版。 自此更新後，許多開發人員已註意到兼容性問題，導致各種第三方小部件和鍵盤在手機重新啟動或連接到USB儲存裝置後消失。
+2014年7月，Google將其所有Unlimited 音樂服務（現為Google Play音樂）擴展到其他五個國家/地區的烏克蘭。 烏克蘭因此加入俄羅斯作為唯一的前蘇聯各共和國獲得服務。[17]
+於2016年4月4日，Android的官方網誌宣布重新設計Play應用程式套件所使用的圖示，包括Play商店，Play電影，Play音樂，Play遊戲，Play書籍和Play書報攤。 新圖標具有類似的風格，旨在提供所有裝置和網絡的一致性外觀。[18]
+Google Play for Android[编辑]
+
+Play Store
+
+
+
+
+原作者
+Google Inc.
+
+
+開發者
+Google Inc.
+
+
+穩定版本
+
+
+
+穩定版本
+
+8.5.39.W-all [0] [PR] 178322352 (80853900)  / 2017年12月13日，​25天前​（2017-12-13）
+
+
+
+開發狀態
+在线
+
+
+操作系统
+Android
+
+
+
+
+
+
+Google Play的前身，
+Android Market
+
+
+Google Play允許使用者透過內建在Android產品中的Play商店或通過網站對應用程式進行瀏覽、下載、購買免費或收費的應用程式到Android產品上。 應用程式的安裝任務由手機內的一個名為“PackageManagerService”的服務來完成，如果使用者試圖下載一個APK檔到手機上，那麼應用程式可以被安裝到手機內部的記憶體中，也可以在特定的條件下被安裝到外部記憶卡中。
+服務提供應用程式的詳細資料、內容過濾、標有“最新軟體”、“最高評價付費軟體”、“最高評價免費軟體”等分類。
+Google Play提供2小時內線上按鍵立即無條件退款的機制[19]；超過2小時，由消費者與開發者自行溝通，協商退費；如果開發者不願退費，在30天內對購買的軟體不滿意，則可以寫信給Google Play要求退費。
+可用性[编辑]
+Play商店應用程式並非開放原始碼。 只有符合Google兼容性要求的Android裝置才能安裝並存取Google的封閉源Play商店應用程式，但必須與Google簽訂免費許可協議。[20] 在過去，這些要求包括3G或4G網絡數據連接，[21] 排除與蘋果iPod Touch相當的Android裝置，但是這個要求已經被2011年發布的Samsung Galaxy Player放鬆了。
+某些平板電腦（如Amazon Kindle Fire）不提供Google Play的存取權限，而是使用其製造商自己的行動內容下載服務。 有些使用者透過ROOT來存取Google Play，或使用側載來載入應用程式。[22] 截至2013年7月，Barnes＆Noble發布了添加Google Play的Nook HD的更新。 某些應用程式從Google Play下載時，會引發警告，告訴他們即將覆蓋先前載入的Nook版本的相同應用程式。 BlackBerry 10裝置（OS 10.2.1及更高版本）可以側載一個名為SNAP的應用，允許從Google Play直接下載應用。[23]
+版本機制[编辑]
+由於Android是一個系統結構可自由更改的系統，例如ASUS、HTC和Sony Mobile等公司往往會在Play商店內加入自家的應用程式下載頁；
+另一些公司例如三星可同時運用Play商店和Samsung Apps；而例如中華電信的Hami等電信公司則在其手機中加入自己運用的軟體商店；Amazon Kindle Fire平板電腦並沒有安裝Play商店，取而代之的是自己開發的軟體商店。但相比較其它主流的應用軟體商店，Google Play的免費軟體比例是最高的。
+開發者[编辑]
+軟體發展者擁有開發者許可權，申請該許可權需要擁有一個Gmail帳號以及有效的信用卡以繳交申請費用。軟體發展者可以選擇開發付費或免費的應用程式，其中付費應用程式將收到70%的價格，剩下的30%將支付於媒介管道如通過自己的網路以及信用卡公司授權收取費用申請購買等。
+從Google Play獲得的收入是通過Google Checkout支付給開發商。
+而除了官方所提供的上架服務之外，網上也有提供著一些協力廠商代上架服務[24]，以讓沒有開發者許可權的開發者能夠把應用程式上架至Google Play。
+安全性[编辑]
+在以往，Google Play的應用程式審查相較App Store比較放寬。一般應用程式或開發者在未收到投訴之前不需要任何審查，只要持有有效的開發人員許可權就能夠在數小時之內將應用程式上架，因此Google Play相對上較容易存在惡意程式，因此應用程式安全性一直受到質疑。而在2015年3月，Google宣佈追加新的應用程式審查機制，日後開發者在提出上架需求時，Google會對其內容進行審查，不合格之應用程式將不被上架，以確保應用程式的品質以及過濾惡意程式[25]。
+用戶隱私[编辑]
+據《AppleInsider》2013-2-17報導，澳洲的某新聞業者先前指出，Google的網路商店應用程式Google Play，將使用者和聯絡資訊透露給程式開發商，引發大規模的安全問題。隨後記者接獲Google聯繫，Google要求低調報導此事，並更改文章標題、新聞內容和網路搜尋資訊。
+
+
+商店名稱
+免费軟件比例
+（2010年7月）
+免费軟件比例
+（2011年10月）
+
+
+Google Play Store
+57%
+67%[26]
+
+
+Windows Phone Store
+22%
+52%[27]
+
+
+Samsung Apps
+
+39%[28]
+
+
+App Store
+28%
+37%
+
+
+BlackBerry App World
+26%
+26%
+
+
+Nokia Store
+26%
+26%
+
+
+服務內容[编辑]
+Google Play商店為Google提供的雲端網路應用程式及數位媒體付費平台。同時提供應用程式、遊戲、電影、電視、音樂、電子書、電子雜誌的免費/付費內容。目前受限於當地法規、內容授權以及字幕（電影/電視節目）等因素導致部分內容並未在所有國家/地區供應。而部分付費程式則是不管使用任何下載途徑(如APK等)都不能安裝。
+Android 應用程式[编辑]
+Google Play免費向提供全球免費應用程式（美國禁運國家/地區除外）[29] 而付費應用程式在135個國家可用。[30] 您可以使用Google Play商店應用程式或透過電腦上的Google Play網站，從裝置安裝應用程式。 根據AppBrain統計，有超過140萬個應用程式可用。截至2014年11月 (2014-11)[update],[31] 其中超過120萬是免費的，超過20萬是付費應用。[32] Google似乎大約每季度會從商店移除低品質應用程式使可用應用程式的數量下降。[31]
+截至2014年11月 (2014-11)[update]61個國家/地區的開發人員能夠在Google Play上發布付費應用程式。[33] 若要發布應用，開發者必須為Google Play開發者控制台帳戶支付25美元的註冊費。 Google聲明，此費用是為了鼓勵在Google Play上推出更高品質的產品。[34] 應用程式開發人員可以控制應用分發到哪些國家/地區，以及每個國家/地區的應用和應用內購買的定價。[35] 開發商收到應用程式價格的70％，剩餘的30％用於分銷合作夥伴和操作費。[36] 從Google Play獲得的收入通過Google電子錢包商家帳戶支付給開發者，或者通過某些國家/地區的Google AdSense帳戶支付。[37]
+Google Play允許開發人員向特定的用戶組發布早期版本的應用，稱為Alpha版和Beta版測試版本。 這允許開發人員在應用程式廣泛發布之前修復任何問題。 Google Play還允許開發人員分階段發布更新，首先發布給一部分用戶，然後逐步發佈到用戶群的較大部分，以確保最小數量的用戶受到測試中錯過的任何問題的影響。[35]
+某些運營商（如中華電信）會為應用購買提供直接運營商代扣。[38]購買到不需要的應用程式可在48小時內退款。[39]
+符合Google設定的某些設計標準的應用可與Android Wear和Android TV裝置以及Google Fit平台兼容。[來源請求]
+根據T-Mobile首席技術官Cole Brodman的說法，2009年3月17日，Android Market有大約2,300個應用程式可用。[40] 2011年5月10日，在Google I / O期間，Google宣布Android Market上市了20萬個應用程式，安裝了45億個應用程式。[41] 2012年10月，Google宣布Google Play有700,000個應用程式可供下載，與蘋果應用程式商店中的應用程式數量相符。[42] 2013年7月24日，Google宣布Play商店現有100萬個應用程式上市，下載量超過500億次。[43]
+
+
+年份
+月份
+可下載的應用數目
+累積下載量
+
+
+2009
+3
+2,300[40]
+
+
+
+12
+16,000[44]
+
+
+
+2010
+3
+30,000[45]
+
+
+
+4
+38,000[46]
+
+
+
+8
+80,000[47][48]
+
+
+
+10
+100,000[49]
+
+
+
+2011
+5
+200,000[41]
+45億次[50]
+
+
+7
+250,000[51]
+60億次
+
+
+10
+319,000[52]
+
+
+
+12
+380,297[53]
+100億次[54]
+
+
+2012
+1
+400,000[55]
+
+
+
+5
+500,000[56]
+
+
+
+6
+600,000
+200億次[57]
+
+
+9
+675,000
+250億次[58]
+
+
+10
+700,000[42]
+
+
+
+2013
+2
+800,000[59]
+
+
+
+3
+850,000
+400億次
+
+
+5
+
+480億次[60]
+
+
+7
+1,000,000[43]
+500億次[43]
+
+
+2014
+1
+1,200,000[61]
+
+
+
+7
+1,300,000[31]
+
+
+
+12
+1,430,000[62]
+
+
+
+2015
+Q1
+1,500,000[63]
+
+
+
+2016
+Q1
+1,900,000[64]
+
+
+
+2017
+2
+2,700,000[65]
+
+
+
+音樂[编辑]
+主条目：Google Play音樂
+
+
+
+
+Google Play 音樂的可用區域
+
+
+Google Play提供了一個擁有超過3500萬首歌曲的在線音樂商店，[66][67] 雲端儲存多達5萬首免費歌曲，以及名為Google Play音樂的訂閱音樂串流服務。 歌曲售價為1.29美元，0.99美元，0.69美元，免費。 Google Play音樂目前可在58個國家使用。[68]原名為Google Music。服務於2011年5月10日在Google I/O上發佈，2011年11月向公眾開放，2012年3月7日被整合進Google Play。
+Play音樂允許使用者免費儲存最多20000首歌曲，並可以於線上購買音樂並分享音樂至Google+，用戶可以利用浏覽器、Android、使用Adobe Flash的產品透過Music Manager上傳音樂於雲端或下載於電腦端。利用Instant Mix功能可以加入含有歌曲搭配的播放清單。或iTunes匯入的音樂也會保留播放清單。
+
+免費功能
+
+
+可將自行上傳或購買的音樂保留在雲端，上限為50000首。
+系統會自動分析使用者常聽的音樂並整合為一合輯推薦
+系統會自動分析使用者當下情境並給與對應情境的音樂（使用Songza的技術）
+
+
+付費功能：音樂無限聽（Music All Success）
+
+
+每個月繳交一定金额后就可启用，於正式付費訂閱前可免費試用一個月。
+儲存在Google Play雲端的付費音樂皆可收聽，同時不受廣告干擾。
+系統會自動分析使用者當下情境並給與對應情境的音樂（使用Songza的技術）
+Youtube Music Key付費功能也包含其中
+
+圖書[编辑]
+主条目：Google Play 圖書
+
+
+
+
+Google Play 圖書的可用區域
+
+
+Google Play是全球最大的電子書商店，擁有超過500萬本書籍。[67] 購買的圖書將儲存在雲端，可以以PDF和EPUB格式下載。[69] Google採用Adobe Content Server 4作為數位版權管理（DRM）解決方案，以保護下載的電子書副本。 圖書可以轉移到許多電子閱讀器以及支持Adobe電子書DRM的其他裝置和應用程式上並進行閱讀。[70] 書籍也可以在任何Web瀏覽器上在線閱讀，啟用JavaScript，[71] 透過適用於Android和iOS裝置的Google Play圖書應用，以及透過Chrome網上應用店提供的基於HTML 5的網絡應用在桌面上的Google Chrome瀏覽器上。[72]
+目前在65個國家支持購買圖書。[68] Google要求用戶提供付款信息，即使是免費下載電子書。 除了從Google Play下載圖書之外，用戶還可以使用PDF或EPUB格式上傳圖書，這些圖書可以免費儲存在雲端，最多可儲存1,000本圖書。
+Play圖書支援瀏覽器、Android、iOS、Sony eReader、Barnes & Noble Nook。
+發布商和作者可以通過Play圖書合作夥伴中心在Google Play上發布他們的圖書。 Google要求發布商在Google Play上銷售他們的電子書，以便在Google圖書上進行有限預覽。 發布商可以設置可供預覽的圖書的百分比。[來源請求]
+Google首先通過Google電子書店在線銷售電子書，該電子書店於2010年12月6日發布，在美國擁有超過300萬種書目。 當後者推出時，它成為Google Play的一部分。
+截至2015年9月，Google Play不接受新的註冊用於發布。
+影視[编辑]
+主条目：Google Play 影視
+
+
+
+
+Google Play 影視的可用區域 (深紅色表包含電視節目服務的地區)
+
+
+Google Play影視上有數千部電影和電視節目，有些是高清電影，包括喜劇，戲劇，動畫，動作和紀錄片。[73] 您可以在Google Play網站上或透過Android裝置上的應用程式租借或購買和觀看電影。 有些標題只能出租，有些只能購買，有些則同時適用出租和購買。 電視節目可以透過劇集或季節購買，但不能租借。[73]用戶可以使用Google Play電影應用下載電影和電視節目以供離線觀看。[74]
+電影適用在70個國家，而電視節目只能在澳大利亞，奧地利，加拿大，法國，德國，日本，美國和英國使用。[68]
+新聞出版物和雜誌[编辑]
+主条目：Google Play 書報攤
+
+
+
+
+Google Play 書報攤的可用區域
+
+
+Google Play提供訂閱免費和付費新聞出版物，以及在Play書報上閱讀的雜誌。 在Play書報攤推出時，提供了大約1,900種免費和付費新聞出版物。 所有雜誌必須至少提供一個14天的試用期，而為新聞來源（新聞版本）提供的免費試用期則有所不同。[68]
+裝置[编辑]
+主条目：Google商店
+Google Play於2015年3月前提供「裝置」區塊，讓使用者購買Google Nexus裝置，Chromebook，其他Google品牌硬體和配件。 在2012年6月的Google I / O上，Google宣布將通過Google Play購買Nexus 7平板電腦。[75] 在Google I / O 2013上，宣布將於2013年6月26日在Google Play上發布特別版的三星Galaxy S4搭仔原生Android 4.2。[76]同樣，在2013年5月30日，HTC宣布類似原生Android版HTC One也將在同一天發布。[77] 也同時出售Android Wear裝置，Chromecast和Chromebook及其他硬件裝置。
+2015年3月11日推出了名為Google商店的獨立在線硬件零售商，取代了Google Play的「裝置」區塊。[78]
+可用性[编辑]
+截止目前，應用程式中的付費服務共支援129個國家，而其他服務支援隨著Google不斷的推廣，擁有其他服務的國家正逐漸增加中。
+在中國大陸，因谷歌退出中國事件及當局對於Apps審查等因素，付費服務和部分免費服務無法使用。2014年11月20日起，Google开放中国开发者贩售app，使用USD结算。
+在臺灣，因手機付費APP軟體猶豫期事件，Google於2011年暫停了付費服務，至到2013年2月27日才恢復。
+數位產品/服務於各國家/地區的可用性[编辑]
+注意：以下國家/地區之服務開放情形隨時間而異
+
+
+國家或地區
+Google Play商店應用程式
+Google Play电影
+Google Play音乐[79]
+Google Play图书[80]
+Google Play报亭
+（付費內容）
+
+Google商店
+
+
+用户可購買[81]
+開發者可發售[82]
+電影
+電視節目
+標準版本
+Music All Access
+音樂無限聽
+
+
+
+ 美國
+是
+是
+是
+是
+是
+是
+是
+是
+是
+
+
+ 英國
+是
+是
+是
+是
+是
+是
+是
+是
+是
+
+
+ 澳大利亚
+是
+是
+是
+是
+是
+是
+是
+是
+是
+
+
+ 加拿大
+是
+是
+是
+是
+是
+是
+是
+是
+是
+
+
+ 法国
+是
+是
+是
+否
+是
+是
+是
+是
+是
+
+
+ 德國
+是
+是
+是
+否
+是
+是
+是
+是
+是
+
+
+ 阿尔巴尼亚
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 阿尔及利亚
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 安哥拉
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 安地卡及巴布達
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 阿根廷
+是
+是
+是
+否
+否
+否
+是
+否
+否
+
+
+ 亞美尼亞
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 阿鲁巴
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 奥地利
+是
+是
+是
+否
+是
+是
+是
+否
+是
+
+
+ 阿塞拜疆
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 巴哈马
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 巴林
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 孟加拉国
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 白俄羅斯
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 比利時
+是
+是
+是
+否
+是
+是
+是
+否
+是
+
+
+ 伯利兹
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 贝宁
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 玻利维亚
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 波斯尼亚和黑塞哥维那
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 博茨瓦纳
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 巴西
+是
+是
+是
+否
+是
+是
+是
+是
+否
+
+
+ 保加利亚
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 布吉納法索
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 柬埔寨
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 喀麦隆
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 中国大陆
+否
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 香港
+是
+是
+是
+否
+否
+否
+是
+否
+是
+
+
+ 澳門
+是
+否
+否
+否
+否
+否
+否
+否
+否
+
+
+ 佛得角
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 智利
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 哥伦比亚
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 哥斯达黎加
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 克罗地亚
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 賽普勒斯
+是
+是
+是
+否
+是
+是
+否
+否
+否
+
+
+ 捷克
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 丹麥
+是
+是
+是
+否
+是
+是
+是
+否
+是
+
+
+ 多米尼加
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 厄瓜多尔
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 埃及
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 薩爾瓦多
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 爱沙尼亚
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 斐济
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 芬兰
+是
+是
+是
+否
+是
+是
+是
+否
+是
+
+
+ 加彭
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 加纳
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 希臘
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 危地马拉
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 几内亚比绍
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 海地
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 洪都拉斯
+是
+是
+是
+否
+是
+是
+否
+否
+否
+
+
+ 冰島
+是
+是
+是
+否
+是
+是
+否
+否
+否
+
+
+ 印度
+是
+是
+是
+否
+是
+是
+是
+是
+是
+
+
+ 印尼
+是
+是
+否
+否
+否
+否
+是
+是
+否
+
+
+ 爱尔兰
+是
+是
+是
+否
+是
+是
+是
+否
+是
+
+
+ 以色列
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 義大利
+是
+是
+是
+否
+是
+是
+是
+是
+是
+
+
+ 科特迪瓦
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 牙买加
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 日本
+是
+是
+是
+是
+是
+是
+是
+是
+是
+
+
+ 约旦
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 哈萨克斯坦
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 肯尼亚
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 科威特
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 吉尔吉斯斯坦
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 老挝
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 拉脫維亞
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 黎巴嫩
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 立陶宛
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 卢森堡
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 馬其頓
+是
+是
+是
+否
+是
+是
+否
+否
+否
+
+
+ 马来西亚
+是
+是
+是
+否
+否
+否
+是
+否
+否
+
+
+ 马里
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 馬爾他
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 模里西斯
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 墨西哥
+是
+是
+是
+否
+是
+是
+是
+是
+否
+
+
+ 摩尔多瓦
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 摩洛哥
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 莫桑比克
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 纳米比亚
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 尼泊尔
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 荷蘭
+是
+是
+是
+否
+是
+是
+是
+是
+是
+
+
+ 荷属安的列斯
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 新西蘭
+是
+是
+否
+否
+否
+否
+是
+否
+是
+
+
+ 尼加拉瓜
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 尼日尔
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 奈及利亞
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 挪威
+是
+是
+是
+否
+是
+是
+是
+否
+是
+
+
+ 阿曼
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 巴基斯坦
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 巴拿马
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 巴布亚新几内亚
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 巴拉圭
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 秘魯
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 菲律賓
+是
+是
+是
+否
+否
+否
+是
+否
+否
+
+
+ 波蘭
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 葡萄牙
+是
+是
+是
+否
+是
+是
+是
+否
+是
+
+
+ 卡塔尔
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 羅馬尼亞
+是
+是
+否
+否
+是
+是
+是
+否
+否
+
+
+ 俄羅斯
+是
+是
+是
+否
+是
+是
+是
+是
+否
+
+
+ 卢旺达
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 沙烏地阿拉伯
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 塞内加尔
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 新加坡
+是
+是
+否
+否
+否
+否
+是
+否
+否
+
+
+ 斯洛伐克
+是
+是
+是
+否
+是
+是
+否
+否
+否
+
+
+ 斯洛維尼亞
+是
+是
+是
+否
+是
+是
+否
+否
+否
+
+
+ 南非
+是
+是
+否
+否
+否
+否
+是
+否
+否
+
+
+ 韩国
+是
+是
+是
+否
+否
+否
+是
+否
+是
+
+
+ 西班牙
+是
+是
+是
+否
+是
+是
+是
+是
+是
+
+
+ 斯里蘭卡
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 瑞典
+是
+是
+是
+否
+是
+是
+是
+否
+是
+
+
+ 瑞士
+是
+是
+是
+否
+是
+是
+是
+否
+是
+
+
+ 臺灣
+是
+是
+是
+否
+否
+否
+是
+是
+是
+
+
+ 塔吉克斯坦
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 坦桑尼亚
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 泰國
+是
+是
+是
+否
+否
+否
+是
+否
+否
+
+
+ 多哥
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 千里達及托巴哥
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 突尼西亞
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 土库曼斯坦
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 乌干达
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 烏克蘭
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 阿联酋
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 乌拉圭
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 乌兹别克斯坦
+是
+是
+是
+否
+否
+否
+否
+否
+否
+
+
+ 委內瑞拉
+是
+是
+是
+否
+是
+是
+是
+否
+否
+
+
+ 越南
+是
+是
+否
+否
+否
+否
+是
+否
+否
+
+
+ 葉門
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 尚比亞
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+ 辛巴威
+是
+是
+否
+否
+否
+否
+否
+否
+否
+
+
+中国大陆[编辑]
+在中国大陆，因Google退出中國事件導致大部分廠商販賣的行貨裝置沒有安裝“Google服務架構”（即使這些裝置已獲得Google相容性認證及使用授權（CTS及GMS）[83]），所以無法下載Google Play中的應用。這些裝置的使用者可自行為裝置獲得Root許可權或解鎖裝置的Bootloader之後通過協力廠商Recovery（這樣做可能會使裝置失去保固服務），將“Google服務架構”刷寫到裝置系統中，即可正常使用Google Play以及其他Google服務。
+除上述行貨裝置以外，其他在中國大陸的裝置可以正常下載免費應用程式，但無法流覽和購買付費內容。需將IP位址代理到國外（借助VPN、全域代理等方法），並且使用非中國大陸業者中國電信、中國移動、中國聯通的SIM卡（也可透過偽裝SIM卡所在地的工具，如Market Access，或拔掉SIM卡。）[84][85][86][87][88]，即可瀏覽付費內容且可購買付費內容（僅瀏覽付費內容時實際並無SIM卡區域限制）。使用具有美元支付功能的信用卡方可完成購買。[89][90][88]如果購買成功後，不用VPN再次開啟Google Play時，付費程式也可以正常瀏覽，但若此時購買Google Play的物品可能會被Google暫停Google wallet帳號，交易款被退回。
+此外，中國大陸境內亦有很多提供應用程式下載服務的協力廠商軟體站點，提供的服務類型和軟體資源大體上與官方相同，但原本在Google Play中需要付費下載的應用在這裡均變為免費下載，軟體即為盜版軟體（亦稱“已付費版”）。
+2014年5月29日開始因防火長城對Google的伺服器進行大規模干擾以至於基本在大陸無法使用Google的所有服務，而Google Play也難以避免。
+2014年11月20日起，Google开放中国开发者贩售app，使用USD结算。[91]
+臺灣[编辑]
+由於臺北市政府向Google提出Google Play軟體必須依照《消費者保護法》提供7天鑒賞期，Google表示會再與臺北市政府研討，暫時停止臺灣地區付費軟體下載。後Google認為他們原本條款合理，拒絕更改條款，因此關閉對臺灣地區的付費下載服務。臺北市政府認為Google因未遵循限期改善的命令，裁罰新臺幣100萬元。Google向經濟部提出訴願，但未被接受，於是向臺北高等行政法院提起上訴，引發手機付費APP軟體猶豫期事件。
+2013年2月，臺北市政府敗訴，Google重新打開付費服務。[92][93]雖然市府敗訴，[94]但是臺灣高等法院肯定了鑒賞期的合理性與合法性，也希望Google在條款中加入，所以消費者仍可以依現行《消保法》規定以聯絡Google的方式在七日內退費。
+在此之後，Google陸續開放其它付費服務：
+
+Google Play圖書：2013年9月26日
+Google Play電影：2014年11月5日
+Google Play裝置：2015年1月22日
+Google Play書報攤：2015年7月16日
+
+参考文献[编辑]
+
+
+^ The new Google Store is your one-stop web shop for Chromebooks, Nexus devices and more. Android Central. 2015-03-11 [2016-12-02]. 
+^ Features. Google.com. [2012-05-01]. 
+^ Introducing Google Play: All your entertainment, anywhere you go. Official Google Blog. [2016-12-02]. 
+^ App stores: number of apps in leading app stores 2016 | Statista. Statista. [2016-12-02]. 
+^ Android's Google Play beats App Store with over 1 million apps, now officially largest. Phonearena.com. 2013-08-28. 
+^ Chu, Eric. Android Market Update Support. 2009-02-13. 
+^ Bray, Tim. More Countries More Sellers More Buyers. 2010-09-30. 
+^ Big changes in store for Android Market. ZDNet. 2010-12-11 [2010-12-12]. 
+^ Savov, Vlad. Android Market Gets a Web Store with OTA Installations, In-App Purchases Coming Soon. Engadget. 2011-02-02. 
+^ In-app Billing Launched on Android Market. Android Developers Blog. 
+^ Montoy-Wilson, Paul. A New Android Market for Phones, with Books and Movies. Official Google Mobile Blog. 2011-07-12 [2011-10-03]. 
+^ Burns, Chris. Android Market Update Released for Honeycomb Tablets. SlashGear. 2011-09-29 [2011-10-03]. 
+^ Rodriguez, Armando. Get Started With Google's New Music Store. PCWorld. 2011-11-16 [2012-03-07]. 
+^ Jeremy Levitt. Android Apps Supersized, to 4 GB. iTWire. 2012-03-06 [2012-03-08]. 
+^ Official Google Blog: Introducing Google Play: All Your Entertainment, Anywhere You Go. Googleblog.blogspot.com. [2012-03-07]. 
+^ Ziegler, Chris. Google Play adds in-app subscription billing. The Verge. [2014-06-10]. 
+^ Ukraine Digital News. Ukrainian Google Play store begins to offer books. Ukraine Digital News. 
+^ Chung, Jonathan. A new look for Google Play family of apps. Official Android Blog. 2016-04-04 [2016-04-04]. 
+^ Google Play 商品退購與退款
+^ Android Compatibility. Android Open Source Project. [2010-12-31]. 
+^ Churchill, Sam (September 10, 2010). "Android Tablets Need 3G/4G for Market Support". dailywireless.org. Retrieved February 9, 2012.
+^ Amazon Kindle Fire (2012). PC Magazine. 2012-10-06 [2012-11-05]. 
+^ SNAP Google Play Store for BlackBerry 10 Updated to v2.0.0.2. BerryReview. [2014-06-20]. 
+^ Android Master[失效連結]
+^ Google Play新制上路：App加入人工審查及年齡分級
+^ Wehner, Mike (18 October 2011). "Google Android has double the number of free apps than Apple's App Store".
+^ Windows Phone 7 Applist. 2011-10-26. （原始内容存档于2012-05-02）. 
+^ Fast 12.000 Apps für Bada verfügbar. 2011-10-31. 
+^ About Google Play. Google. [2012-03-08]. 
+^ Paid App Availability. Google Play Help. Google. [2012-03-07]. 
+^ 31.0 31.1 31.2 Number of Android applications. AppBrain Stats. AppBrain. [2014-11-26]. 
+^ Free vs. paid Android apps. AppBrain. [2014-11-26]. 
+^ Supported Locations for Merchants. Google Play. [2012-10-19]. 
+^ Developer Registration. Google Play for Developer Help. Support.google.com. [2012-03-07]. 
+^ 35.0 35.1 The Secrets to App Success on Google Play (PDF). Google. [2014-11-15]. [失效連結] Wikipedia has an article about the cited book.
+^ Transaction Fees – Google Play for Developers Help. Google. [2015-03-10]. 
+^ Processing Orders and Receiving Payouts. Android Market for Developer Help. [2011-05-17]. 
+^ Chu, Eric. Android Developers Blog: New Carrier Billing Options on Android Market. android-developers.blogspot.com. 2011-04-13 [2011-05-15]. 
+^ Ruddock, David. Two Years Later, Google Play Support Docs Acknowledge 48-Hour Refund Window. Android Police. 2016-06-02 [2016-09-28]. 
+^ 40.0 40.1 Lawson, Stephen. Market Needs More Filters, T-Mobile Says. IDG News (via PCWorld). 2009-03-17 [2012-05-15]. 
+^ 41.0 41.1 Barra, Hugo. Android: Momentum, Mobile and More at Google I/O. The Official Google Blog. 2011-05-10 [2011-05-10]. 
+^ 42.0 42.1 Google Says 700,000 Applications Available for Android. Bloomberg Businessweek. 2012-10-29 [2011-11-05]. 
+^ 43.0 43.1 43.2 Warren, Christina. Google Play Hits 1 Million Apps. Mashable. [2014-06-04]. 
+^ Wauters, Robin. Google: Actually, We Count Only 16,000 Apps in Android Market. TechCrunch. 2009-12-16 [2012-05-15]. 
+^ Chan, Casey. Android Market Has 30,000 Apps, Sort Of. Android Central. 2010-03-18 [2012-01-04]. 
+^ Nickinson, Phil. Android Market Now Has 38,000 Apps. Android Central. 2010-04-15 [2012-01-04]. 
+^ Hildenbrand, Jerry. Android Market Has More than 80,000 Apps, Android's Rubin Says. Android Central. 2010-09-09. 
+^ Andrew. Android Market Hits 1 Billion Downloads & 100,000 Apps. FoneHome. 2009-07-16 [2012-01-04]. （原始内容存档于2011-06-30）. 
+^ Gibb, Kyle. Android Market Passes 100,000 Apps. Android Central. 2010-10-26 [2012-01-04]. 
+^ Rao, Leena. Google: 3 Billion Android Apps Installed; Downloads up 50 Percent from Last Quarter. TechCrunch. 2011-04-14 [2011-05-13]. 
+^ Nickinson, Phil. Android Market Now Has More than a Quarter-Million Applications. Android Central. 2011-07-14 [2011-07-14]. 
+^ Android Market Reaches 500,000 App Mark. t3.com. 2011-10-23 [2011-10-23]. 
+^ Google Android Market. Distimo. 2011-10-17 [2011-12-18]. 
+^ Bonnington, Christina. Google's 10 Billion Android App Downloads: By the Numbers. Wired. 2011-12-08 [2011-12-12]. 
+^ Paul, Ian. Android Market Tops 400,000 Apps. PCWorld. 2012-01-04 [2012-05-15]. 
+^ Lunden, Ingrid. Google Play About To Pass 15 Billion App Downloads? Pssht! It Did That Weeks Ago. TechCrunch. 2012-05-07 [2012-06-08]. 
+^ Google Play hits 600,000 apps, 20 billion total installs. Engadget.com. 2012-06-27 [2012-11-05]. 
+^ Zachary Lutz. Google Play celebrates 25 billion downloads with 25 cent apps, discounted books, music, and movies. Engadget.com. 2012-09-26 [2012-11-05]. 
+^ Paul, Ian. Snappzmarket Alternatives to Download free android apps. 2012-02-20 [2013-02-20]. （原始内容存档于2013-11-21）. 
+^ Ward, Brad. Google: 900 million Android activations, 48 billion app installs. 2013-05-15. 
+^ Number of Android applications. AppBrain Stats. AppBrain. [2014-06-04]. 
+^ App Stores Growth Accelerates in 2014. Appfigures. January 13, 2015
+^ Number of Android applications Q1 2015. AppBrain Stats. AppBrain. [2015-04-27]. 
+^ Number of Android applications Q1 2016. AppBrain. [2016-01-12]. 
+^ Number of Android applications. AppBrain. February 9, 2017 [February 24, 2017]. （原始内容存档于February 10, 2017）.  已忽略未知参数|df= (帮助)
+^ Blattberg, Eric. Now streaming on Sonos: Google Play Music's 22 million songs. VentureBeat. 2014-04-10 [2014-08-04]. 
+^ 67.0 67.1 Etherington, Darrel. Google Play Offers Over 5M eBooks And More Than 18M Songs, One Year After Its Rebranding. TechCrunch. [2014-06-04]. 
+^ 68.0 68.1 68.2 68.3 Country availability for apps & digital content. Google Play Help. Google. [2014-11-18]. 
+^ Google eBooks Help. Changing Hands bookstore. [2014-11-11]. 
+^ Google adopts Adobe eBook DRM. Adobe. 2010-12-06. 
+^ Supported reading devices. Google Play Help. Google. [2014-11-12]. 
+^ Read books offline. Google Play Help. Google. [2014-06-05]. 
+^ 73.0 73.1 Online Live web chat with mesh. www.minkme.org. [2012-03-07]. （原始内容存档于2014-09-12）. 
+^ Offline Viewing on Your Android Device. Support.google.com. [2012-06-29]. 
+^ Google unveils Nexus 7 tablet, Nexus Q media player. Usatoday.com. 2012-06-27 [2012-10-29]. 
+^ Google turns the Samsung Galaxy S4 into a Nexus phone, coming June 26th for $649. The Verge. [2013-05-15]. 
+^ HTC One with stock Android announced, launching June 26th for $599. The Verge. [2013-05-30]. 
+^ 引用错误：没有为名为Callaham的参考文献提供内容
+^ System requirements and country availability. Support.google.com. [2013-03-02]. 
+^ International availability. Google Play Help. [2013-03-02]. 
+^ Paid App Availability. Google Play Help. 
+^ Supported locations for merchants. Google Play Help. 
+^ Google Inc. 支援的裝置 - Android開發人員說明. Google Inc. ，列表中不僅有大量在中國大陸發售的機型，當中還有非常多在中國大陸本土廠商研發製造的裝置。目前支援列表需要下載。
+^ [1]
+^ [Android手機Google Play破解區域限制]
+^ Android軟體《MarketAccess》突破限制，偽裝國外電信，照樣流覽Market付費頻道（需Root）
+^ 新版Market也能輕鬆購買付費軟體— MarketAccess 1.0.6
+^ 88.0 88.1 解決Android 4.0.X無法購買付費軟體問題！
+^ 對於Google Play地區限制的一些解決辦法 互联网档案馆的存檔，存档日期2013-01-29.
+^ 市場接入MarketAccess for Android 1.0.6官方版 互联网档案馆的存檔，存档日期2012-05-20. - myapk.com
+^ Supported locations for merchants. Google Play Help. 
+^ 臺灣Google Play恢復付費機制，收費Apps逐漸重新上架中！. Engadget中文版. 2013-02-27 [2013-02-27] （中文（台灣）‎）. 
+^ 臺灣Google Play商店付費軟體，正在逐步開放中. vr-zone. 2013-02-27 [2013-02-27] （中文（台灣）‎）. 
+^ 蘇位榮、邱瓊玉. 要Google設退費機制臺北市府敗訴. 聯合報. 2012-12-28 [2012-12-28] （中文（台灣）‎）. 
+
+
+外部連結[编辑]
+
+官方网站
+AndroidZoom - Android Market Browser
+Android Developers Blog: Android Market
+Android Developers
+
+参见[编辑]
+
+
+Google主题
+Android主题
+
+
+
+Android
+谷歌退出中国事件
+手機付費APP軟體鑑賞期事件
+行動軟體發行平台列表
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+概述
+
+
+
+历史（英语：History of Google）
+公司收购列表
+产品列表
+对Google的批评
+审查
+玩笑和复活节彩蛋列表
+不做恶原则
+公開報告
+
+
+
+
+
+
+
+
+广告
+
+
+
+AdMob
+Adscape
+AdSense
+AdWords
+分析
+广告专家认证
+DoubleClick
+DoubleClick for Publishers（英语：DoubleClick for Publishers）
+电子钱包
+
+
+
+
+
+
+
+
+通讯
+
+
+
+Allo
+快讯（英语：Google Alerts）
+Apps Script（英语：Google Apps Script）
+Duo
+日历
+通讯录
+朋友群
+Gmail
+Google+
+网上论坛
+环聊
+Inbox
+同步（英语：Google Sync）
+Text-to-Speech（英语：Google Text-to-Speech）
+翻译（神經機器翻譯系統）
+Transliteration（英语：Google transliteration）
+Voice
+Project Fi
+
+
+
+
+
+
+
+
+软件
+
+
+
+Chrome
+
+Chromium
+网上应用店
+
+
+云打印
+地球
+
+星空
+月球
+火星
+
+
+Gadgets（英语：Google Gadgets）
+Goggles
+输入法
+
+拼音
+粤语
+注音
+日文
+
+
+相册
+Keep
+新闻与天气
+即时
+
+即时桌面
+
+
+Picasa
+OpenRefine（英语：OpenRefine）
+工具栏
+
+
+
+
+
+
+
+
+平台
+
+
+
+账户
+Android
+
+历史版本
+Auto
+TV
+Wear
+Pay
+
+
+软件引擎
+Apps for Work
+
+教室（英语：Google Classroom）
+
+
+身份验证器
+BigTable
+Body
+图书
+
+图书馆计划
+
+
+Caja（英语：Caja project）
+Cardboard
+Chromecast
+Chrome OS
+
+Chromium OS
+Chromebit（英语：Chromebit）
+Chromebook
+Chromebox
+Chrome Zone（英语：Chrome Zone）
+
+
+计算引擎（英语：Google Compute Engine）
+Contact Lens（英语：Google Contact Lens）
+自定义搜索
+Dart
+Daydream
+地图引擎
+Fit
+眼镜
+Go
+文件系统
+Marketplace（英语：Google Apps Marketplace）
+Native Client
+Nexus
+OpenSocial
+Pixel
+Play
+
+音乐
+圖書
+
+
+商店
+Public DNS
+问答
+电子钱包
+
+
+
+
+
+
+
+
+开发工具
+
+
+
+AJAX APIs（英语：Google APIs）
+应用开发者
+Closure Tools（英语：Google Closure Tools）
+代码（Google Gson）
+Gadgets API（英语：Google Gadgets API）
+GData（英语：GData）
+Googlebot（英语：Googlebot）
+Guava（英语：Google Guava）
+Guice（英语：Google Guice）
+KML
+Kythe（英语：Google Kythe）
+MapReduce
+Sitemaps（英语：Sitemaps）
+Storage（英语：Google Storage）
+夏日程式碼大賽
+Web Toolkit
+网站管理员工具
+Website Optimizer（英语：Google Website Optimizer）
+Swiffy
+
+
+
+
+
+
+
+
+出版
+
+
+
+Blogger
+书签
+云端硬盘
+
+文档
+繪圖（英语：Google Drawings）
+我的地图
+协作平台
+Fusion Tables（英语：Google Fusion Tables）
+
+
+Domains（英语：Google Domains）
+FeedBurner
+Map Maker
+Panoramio
+Picasa网络相册
+YouTube
+
+Vevo
+
+
+Zagat（英语：Zagat）
+
+
+
+
+
+
+
+
+搜索
+
+
+
+Appliance
+Audio
+博客搜索（英语：Google Blog Search）
+图书
+财经
+航班（英语：Google Flights）
+图片
+地图
+
+
+街景
+
+
+新闻
+
+新闻档案
+
+
+专利
+学术
+购物
+网上论坛
+
+
+
+
+算法
+
+
+
+PageRank
+Panda（英语：Google Panda）
+Penguin（英语：Google Penguin）
+Hummingbird（英语：Google Hummingbird）
+
+
+
+
+
+
+
+
+特征
+
+
+
+搜索历史
+个性化搜索
+实时搜索
+即搜即得
+安全搜索
+语音搜索
+
+
+
+
+
+
+
+
+分析
+
+
+
+搜索解析
+趋势
+知识图谱
+Knowledge Vault
+
+
+
+
+
+
+
+
+
+
+
+停止开发
+
+
+
+Aardvark（英语：Aardvark (search engine)）
+Answers
+Ara
+浏览器同步（英语：Google Browser Sync）
+Google Base（英语：Google Base）
+Buzz
+Checkout
+浏览器內嵌框架
+Reader
+Click-to-Call
+云端连接
+代码搜索
+潮流同步
+桌面
+词典（英语：Google Dictionary）
+Dodgeball
+Fast Flip（英语：Google Fast Flip）
+Gears
+GOOG-411
+Google TV
+Jaiku
+Knol
+健康（英语：Google Health）
+iGoogle
+Image Labeler（英语：Google Image Labeler）
+实验室
+纵横
+Lively
+混搭编辑器
+笔记本
+Offers（英语：Google Offers）
+Orkut
+软件精选
+Page Creator
+Picnik
+PowerMeter（英语：Google PowerMeter）
+脚本转换器（英语：Google Script Converter）
+SearchWiki
+网页注解
+Slide（英语：Slide.com）
+Squared
+Talk
+更新器
+Urchin（英语：Urchin）
+视频
+视频市场
+Wave
+网际加速器
+
+
+
+
+
+
+
+
+人物
+
+
+
+埃里克·施密特
+艾伦·尤斯塔斯（英语：Alan Eustace）
+约翰·杜尔
+约翰·轩尼诗
+雷蒙德·库茨魏尔
+安·马瑟（英语：Ann Mather）
+保罗·奥特利尼
+罗恩·康韦（英语：Ram Shriram）
+雪莉·蒂尔曼
+阿尔·戈尔
+拉基恩·西斯（英语：Rajen Sheth）
+文頓·瑟夫
+艾伦·穆拉利
+大卫·德拉蒙德（英语：David Drummond (Google)）
+帕特里克·皮谢特（英语：Patrick Pichette）
+阿米特·辛格尔
+杰夫·迪恩
+奥米德·科蒂斯坦尼（英语：Omid Kordestani）
+雷切尔·惠特斯通（英语：Rachel Whetstone）
+撒拉·卡曼加（英语：Salar Kamangar）
+桑德尔·皮蔡
+苏珊·沃西基
+乌尔斯·霍尔茨勒（英语：Urs Hölzle）
+
+
+
+
+创始人
+
+
+
+拉里·佩奇
+谢尔盖·布林
+
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+Alphabet Inc.
+Art Project
+Calico
+Current（英语：Google Current）
+Chrome实验（英语：Google Chrome Experiments）
+Code-In
+Code Jam
+开发者日
+商业小组（英语：Google Business Groups）
+Data Liberation（英语：Google Data Liberation Front）
+
+Takeout（英语：Google Takeout）
+
+
+Developer Expert（英语：Google Developer Expert）
+Google Enterprise（英语：Google Enterprise）
+无人车
+
+光纤
+Express（英语：Google Express）
+Google化
+Grants（英语：Google Grants）
+Google.org
+商标
+涂鸦
+
+列表
+
+
+月球X大奖
+Material design
+先進科技與計劃部門
+Ventures
+WiFi
+X
+
+
+
+
+活动
+
+
+
+Science Fair
+Searchology（英语：Google Searchology）
+I/O
+开发者日
+演讲
+Code Jam
+Highly Open Participation Contest（英语：Google Highly Open Participation Contest）
+Code-in
+Google EYE Program
+
+
+
+
+
+
+
+
+项目
+
+
+
+Loon
+Tango
+Zero
+
+
+
+
+
+
+
+
+房地产
+
+
+
+111 Eighth Avenue（英语：111 Eighth Avenue）
+Googleplex
+Google台灣資料中心
+
+
+
+
+
+
+
+
+谷歌中国
+
+
+
+谷歌时惠
+谷歌音乐
+谷歌金山词霸
+265上网导航
+谷歌涉黄事件
+谷歌退出中国大陆事件
+Google审查
+Google香港
+2014年中国大陆屏蔽谷歌服务事件
+
+
+
+
+
+
+
+
+
+
+
+相关
+
+
+
+AI Challenge（英语：AI Challenge）
+轰炸
+谷姐网
+Monopoly City Streets
+Unity
+
+
+
+
+
+
+
+
+
+
+
+ 主题页面
+ 相关分类
+ 共享资源
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Android
+
+
+
+
+
+
+開發
+
+
+
+ART
+Android软件开发
+Android Studio
+APK
+App Inventor
+Dalvik
+OpenBinder（英语：OpenBinder）
+Android Developer Challenge（英语：Android Developer Challenge）
+Android Developer Lab（英语：Android Developer Lab）
+Eclipse
+Google Developers
+Google I/O
+Renderscript
+
+
+
+
+
+
+
+
+
+
+
+发行版本
+
+
+
+Android版本歷史
+KitKat (4.4)
+Lollipop (5)
+Marshmallow (6)
+Nougat (7.0)
+Oreo (8.0)
+
+
+
+
+
+
+
+
+衍生平台
+
+
+
+Android Auto
+Android TV
+Android Wear
+
+
+
+
+
+
+
+
+Pixel设备
+
+
+
+Pixel/Pixel XL
+Pixel C
+Pixel 2/Pixel 2 XL
+
+
+
+
+
+
+
+
+Nexus设备
+
+
+
+HTC Nexus One
+Samsung Nexus S
+Samsung Galaxy Nexus
+LG Nexus 4
+LG Nexus 5
+LG Nexus 5X
+Motorola Nexus 6
+Huawei Nexus 6P
+Asus Nexus 7(2012)
+Asus Nexus 7(2013)
+HTC Nexus 9
+Samsung Nexus 10
+Nexus Q
+Nexus Player
+
+
+
+
+
+
+
+
+Google Play Edition
+
+
+
+HTC One (M7)
+HTC One (M8)
+LG G Pad 8.3（英语：LG G Pad 8.3）
+Motorola Moto G（英语：Motorola Moto G）
+Samsung Galaxy S4
+Sony Xperia Z Ultra
+
+
+
+
+
+
+
+
+分支版本、替代用户界面
+
+
+
+AOKP（英语：AOKP）
+Baidu Yi
+Barnes & Noble Nook
+CyanogenMod
+LineageOS
+Resurrection Remix OS
+Fire OS（英语：Fire OS）
+Flyme OS
+LeWa OS
+MIUI（米柚）
+MoKee（魔趣）
+OmniROM
+OPhone
+Replicant
+XobotOS
+YunOS
+Smartisan OS
+Zen UI
+Hive UI（英语：Hive UI）
+HTC Sense
+LG Optimus UI（英语：Optimus UI）
+三星TouchWiz
+华为EMUI
+Nokia X Software Platform（英语：Nokia X Software Platform）
+氢OS & Oxygen OS
+ColorOS
+Funtouch OS
+360OS
+
+
+
+
+
+
+
+
+應用程式
+
+
+
+地球
+Gmail
+Chrome
+Goggles
+环聊
+地图
+Play
+
+图书
+音乐
+书报摊
+
+
+Pay
+星空地图
+健身
+
+
+
+
+
+
+
+
+API
+
+
+
+Google云消息传递
+Google地图
+Google Play服务
+Google搜索
+
+
+
+
+
+
+
+
+其他
+
+
+
+Root
+
+
+
+
+
+
+
+
+相關
+
+
+
+Androidland（英语：Androidland）
+Android One
+Google
+Google Cardboard
+Material Design
+XDA Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+数字内容分发平台
+
+
+
+
+
+
+书籍
+
+
+
+Amazon Kindle
+Barnes & Noble Nook
+PocketBook Reader
+Sony Reader
+iBooks
+List of digital library projects（英语：List of digital library projects）
+FanFiction.Net（英语：FanFiction.Net）
+FictionPress（英语：Fiction Press#FictionPress）
+
+
+
+
+
+
+
+
+音乐
+
+
+
+Online music store（英语：Online music store）
+7digital（英语：7digital）
+Amazon MP3（英语：Amazon MP3）
+Amie Street（英语：Amie Street）
+Apple Music
+Bandit.fm（英语：Bandit.fm）
+Beatport
+BigPond Music（英语：BigPond#Services）
+BuyMusic（英语：BuyMusic）
+CD Baby（英语：CD Baby）
+Ditto music（英语：Ditto music）
+Djshop（英语：Djshop）
+eMusic（英语：eMusic）
+GoMusic（英语：GoMusic）
+Grooveshark
+Groove音樂
+Guvera（英语：Guvera）
+imeem（英语：imeem）
+iMesh（英语：iMesh）
+iTunes Store
+Jamendo
+Joox
+Juno Records（英语：Juno Records）
+Kazaa（英语：Kazaa）
+酷狗音樂
+酷我音樂
+KKBOX
+FriDay音樂
+Hami Music（英语：Hami Music）
+Last.fm
+Magnatune
+MusicStation（英语：MusicStation）
+myMusic
+Napster（英语：Napster (pay service)）
+Nimbit（英语：Nimbit）
+Pandora
+PlayNow（英语：PlayNow）
+Puretracks（英语：Puretracks）
+QQ音乐
+Qriocity
+Rhapsody
+RouteNote（英语：RouteNote）
+Sellaband（英语：Sellaband）
+Spotify
+Songza（英语：Songza）
+SoundCloud
+Streamwaves（英语：Streamwaves）
+Tidal
+Ubetoo（英语：Ubetoo）
+Vodafone Music
+we7（英语：we7）
+Walmart Music
+网易云音乐
+Zune_Marketplace
+蝦米音樂
+
+
+
+
+
+
+
+
+视频
+
+
+
+56.com
+AcFun
+Amazon Instant Video
+AOL Video
+BBC iPlayer
+BigPond Movies（英语：BigPond#Services）
+bilibili
+blip.tv（英语：blip.tv）
+Break.com
+Brightcove（英语：Brightcove）
+Crackle（英语：Crackle）
+Crunchyroll
+Dailymotion
+Fearnet（英语：Fearnet）
+Hulu
+爱奇艺
+iTunes Store
+Joost
+乐视网
+megavideo
+Metacafe（英语：Metacafe）
+MUZU TV（英语：MUZU TV）
+NICONICO
+Netflix
+The NewsMarket（英语：The NewsMarket）
+PlayNow（英语：PlayNow）
+PlayStation Store
+索尼娛樂網絡
+RTÉ player（英语：RTÉ player）
+RuTube（英语：RuTube）
+ThePlatform（英语：ThePlatform）
+土豆网
+TVCatchup（英语：TVCatchup）
+V Cast
+Veoh（英语：Veoh）
+Vimeo
+Voddler（英语：Voddler）
+优酷
+YouTube
+Zattoo（英语：Zattoo）
+Zune Marketplace Joox
+
+
+
+
+
+
+
+
+软件
+
+
+
+
+
+Windows平台
+
+
+
+
+AppUp（英语：AppUp）
+BigPond GamesArena（英语：BigPond#Services）
+Direct2Drive（英语：Direct2Drive）
+DotEmu（英语：DotEmu）
+EA Origin
+Gaikai（英语：Gaikai）
+GamersGate（英语：GamersGate）
+GameAgent（英语：GameAgent）
+GameShadow（英语：GameShadow）
+GameTap（英语：GameTap）
+GFW Marketplace（英语：Games for Windows – Live#Games for Windows Marketplace）
+GOG
+Good Old Games
+Impulse（英语：Impulse (content delivery)）
+Jumboplay（英语：Jumboplay）
+Metaboli（英语：Metaboli）
+Microsoft Store
+OnLive（英语：OnLive）
+RealArcade（英语：RealArcade）
+Steam
+Triton（英语：Triton (content delivery)）
+Uplay
+WildTangent（英语：WildTangent）
+Windows Marketplace（英语：Windows Marketplace）
+Windows Store
+Zylom（英语：Zylom）
+
+
+
+
+
+
+
+
+
+Mac平台
+
+
+
+
+Gametreeonline.com（英语：Transgaming#GameTree Online）
+GameAgent（英语：GameAgent）
+GamersGate（英语：gamersgate）
+GOG
+Mac App Store
+Mac Games Arcade（英语：Inside Mac Games）
+OnLive（英语：OnLive）
+Steam
+
+
+
+
+
+
+
+
+
+其他平台
+
+
+
+
+Gaikai（英语：Gaikai）
+Nintendo Wi-Fi Connection
+OnLive（英语：OnLive）
+PlayStation Store
+Wii Shop Channel
+Xbox Games商店
+ZeeboNet 3G
+Ubuntu Store（英语：Ubuntu Store）
+Nintendo eShop
+
+
+
+
+
+
+
+
+
+移动平台
+
+
+
+
+App Catalog
+App Store
+AppUp（英语：AppUp）
+App World
+Firefox Marketplace
+F-Droid
+GetJar（英语：GetJar）
+Google Play
+Handango（英语：Handango）
+N-Gage
+Ovi商店
+PlayNow（英语：PlayNow）
+Samsung Apps（英语：Samsung Apps）
+Windows Marketplace for Mobile（英语：Windows Marketplace for Mobile）
+Windows Phone Store
+Amazon Appstore
+Opera Mobile Store
+移动应用商场
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+相关：BitTorrent
+共享软件
+老软件
+免费软件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+電子書 數位發行 平臺
+
+
+
+
+
+
+活躍
+
+
+
+Amazon Kindle
+Organization for Transformative Works
+Barnes & Noble Nook
+FanFiction.Net（英语：FanFiction.Net）
+Google Play
+iBookstore
+Kindle Direct Publishing（英语：Kindle Direct Publishing）
+Kindle Store（英语：Kindle Store）
+Kobo eReader（英语：Kobo）
+Lulu (company)（英语：Lulu）
+NoiseTrade（英语：NoiseTrade）
+OverDrive, Inc.（英语：OverDrive, Inc.）
+Oyster (company)
+Penana（英语：Penana）
+Playster（英语：Playster）
+PocketBook Reader
+古騰堡計劃
+Pronoun（英语：Pronoun (publishing platform)）
+Scribd
+Singtel Skoob
+Smashwords（英语：Smashwords）
+Wattpad（英语：Wattpad）
+維基教科書
+
+
+
+
+
+
+
+
+停產
+
+
+
+Sony Reader
+
+
+
+
+
+
+
+
+
+
+
+
+分类：Android软件Google軟體移动软件分发平台線上音樂商店被中華人民共和國封鎖的網站2012年面世的產品隐藏分类：有参考文献错误的页面带有失效链接的条目条目有永久失效的外部链接含有未知参数的引用的页面Webarchive模板wayback链接使用过时图像语法的页面含有英語的條目有未列明来源语句的条目

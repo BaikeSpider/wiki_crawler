@@ -1,0 +1,71 @@
+神经营养因子
+
+
+神经营养因子
+
+
+
+
+
+鉴定
+
+
+标志
+NGF
+
+
+Pfam（蛋白家族查询站）
+PF00243
+
+
+InterPro（蛋白数据整合站）
+IPR002072
+
+
+PROSITE （蛋白数据站）
+PDOC00221
+
+
+SCOP（蛋白结构分类数据站）
+1bet
+
+
+
+
+
+现有可用的蛋白结构：
+
+
+Pfam
+structures
+
+
+PDB（蛋白质数据库）
+RCSB PDB; PDBe
+
+
+PDBsum（蛋白质三维结构站）
+structure summary
+
+
+
+
+
+神经营养因子（英语：Neurotrophin）是一组蛋白质[1]，其作用是为神经元的生存，发展以及实现正常功能提供支持。
+它是生长因子的一种，是通过胞吐作用分泌的蛋白质，用来给特定细胞提供生存，发展和分化的信号[2]。生长因子如神经营养因子促进神经元的存活被称为"神经营养因子"。神经营养因子被目标组织分泌和行动防止相关的神经元启动细胞程序性死亡 - 从而使神经细胞的生存。神经营养因子也诱导前体细胞分化，以形成神经元。
+参阅[编辑]
+
+脑源性神经营养因子
+
+參考資料[编辑]
+
+
+^ Hempstead BL. Dissecting the diverse actions of pro- and mature neurotrophins. Curr Alzheimer Res. February 2006, 3 (1): 19–24. PMID 16472198. doi:10.2174/156720506775697061. 
+^ Allen SJ, Dawbarn D. Clinical relevance of the neurotrophins and their receptors. Clin. Sci. February 2006, 110 (2): 175–91. PMID 16411894. doi:10.1042/CS20050161. 
+
+
+
+
+
+
+分类：神经化学神经营养因子细胞程序性死亡

@@ -217,72 +217,77 @@ class HtmlParser(object):
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
         # 页面详细信息与统计
         articleinfo_url_temp = info_soup.find('a', href=re.compile(r'//tools.wmflabs.org/xtools-articleinfo/index.php'))
-        articleinfo_url = 'https:' + articleinfo_url_temp[
-            'href']  # https://tools.wmflabs.org/xtools-articleinfo/index.php?article=%E9%98%BF%E7%B1%B3%E4%BB%80%E4%BA%BA&project=zh.wikipedia.org
-        articleinfo_cont = requests.get(articleinfo_url, headers=headers)
-        articleinfo_soup = BeautifulSoup(articleinfo_cont.text, 'html.parser')
-        text1 = articleinfo_soup.find_all('div', class_='col-lg-6 stat-list clearfix')
-        if text1[0].find_all('td')[6].text == "Total edits":
-            edits = text1[0].find_all('td')[7].text
-            editors = text1[0].find_all('td')[9].text
-            ip_edits = text1[0].find_all('td')[13].text
+        if articleinfo_url_temp is not None:
+            articleinfo_url = 'https:' + articleinfo_url_temp[
+               'href']  # https://tools.wmflabs.org/xtools-articleinfo/index.php?article=%E9%98%BF%E7%B1%B3%E4%BB%80%E4%BA%BA&project=zh.wikipedia.org
+            articleinfo_cont = requests.get(articleinfo_url, headers=headers)
+            articleinfo_soup = BeautifulSoup(articleinfo_cont.text, 'html.parser')
+            text1 = articleinfo_soup.find_all('div', class_='col-lg-6 stat-list clearfix')
+            if text1[0].find_all('td')[6].text == "Total edits":
+                edits = text1[0].find_all('td')[7].text
+                editors = text1[0].find_all('td')[9].text
+                ip_edits = text1[0].find_all('td')[13].text
+            else:
+                edits = text1[0].find_all('td')[5].text
+                editors = text1[0].find_all('td')[7].text
+                ip_edits = text1[0].find_all('td')[11].text
+            pos1 = ip_edits.find('·')
+            ip_edits = ip_edits[0: pos1]
+            ip_edits = ip_edits.strip()
+            # ip_edits = ip_edits.rstrip()
+            edits = edits.strip()
+            editors = editors.strip()
+            # edits = edits.rstrip()
+            # edits= int(edits)  # remove spaces
+            # editors = text1[0].find_all('td')[9].text
+            # editors = editors.strip()
+            # editors = editors.rstrip()
+            p = re.compile(r'\d+,\d+?')
+            s = edits
+            for m in p.finditer(s):
+                mm = m.group()
+                s_back = s.replace(mm, mm.replace(',', ''))
+                s = s_back
+            edits = s
+            s = ip_edits
+            for m in p.finditer(s):
+                mm = m.group()
+                s_back = s.replace(mm, mm.replace(',', ''))
+                s = s_back
+            ip_edits = s
+            edits = int(edits) - int(ip_edits)
+
+            # 创建时间
+            first_edit = text1[1].find_all('td')[1].text
+            pos1 = first_edit.find(',')
+            first_edit = first_edit[0: pos1].strip()
+            # articleinfo_cont = self.downloader.download(articleinfo_url)
+            # articleinfo_soup = BeautifulSoup(articleinfo_cont, 'html.parser')
+
+            # 访问量 Total Views
+            pos1 = articleinfo_url_temp['href'].find('article=')
+            pos2 = articleinfo_url_temp['href'].find('project=')
+            entry_title = articleinfo_url_temp['href'][pos1 + 8: pos2 - 1]
+            #  = info_soup.find_all('a',href=re.compile(r'//tools.wmflabs.org/pageviews'))
+            pageviews_url = 'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/zh.wikipedia/all-access/all-agents/' + entry_title + '/daily/2000110100/2017112000'
+            # pageviws_cont = requests.get(pageviws_url, headers=headers)
+            # pageviws_soup = BeautifulSoup(pageviws_cont.text, 'html.parser', from_encoding='utf-8')
+
+            u = requests.get(pageviews_url, headers=headers)
+            #  u = urlopen(pageviews_url)
+            response = json.loads(u.text)
+            totalviews = 0
+            if len(response) != 1:
+                totalviews = 999999999
+            else:
+                for jj in response['items']:
+                    totalviews += jj['views']
         else:
-            edits = text1[0].find_all('td')[5].text
-            editors = text1[0].find_all('td')[7].text
-            ip_edits = text1[0].find_all('td')[11].text
-        pos1 = ip_edits.find('·')
-        ip_edits = ip_edits[0: pos1]
-        ip_edits = ip_edits.strip()
-        # ip_edits = ip_edits.rstrip()
-        edits = edits.strip()
-        editors = editors.strip()
-        # edits = edits.rstrip()
-        # edits= int(edits)  # remove spaces
-        # editors = text1[0].find_all('td')[9].text
-        # editors = editors.strip()
-        # editors = editors.rstrip()
-        p = re.compile(r'\d+,\d+?')
-        s = edits
-        for m in p.finditer(s):
-            mm = m.group()
-            s_back = s.replace(mm, mm.replace(',', ''))
-            s = s_back
-        edits = s
-
-        s = ip_edits
-        for m in p.finditer(s):
-            mm = m.group()
-            s_back = s.replace(mm, mm.replace(',', ''))
-            s = s_back
-        ip_edits = s
-
-        edits = int(edits) - int(ip_edits)
-
-        # 创建时间
-        first_edit = text1[1].find_all('td')[1].text
-        pos1 = first_edit.find(',')
-        first_edit = first_edit[0: pos1].strip()
-        # articleinfo_cont = self.downloader.download(articleinfo_url)
-        # articleinfo_soup = BeautifulSoup(articleinfo_cont, 'html.parser')
-
-        # 访问量 Total Views
-        pos1 = articleinfo_url_temp['href'].find('article=')
-        pos2 = articleinfo_url_temp['href'].find('project=')
-        entry_title = articleinfo_url_temp['href'][pos1 + 8: pos2 - 1]
-        #  = info_soup.find_all('a',href=re.compile(r'//tools.wmflabs.org/pageviews'))
-        pageviews_url = 'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/zh.wikipedia/all-access/all-agents/' + entry_title + '/daily/2000110100/2017112000'
-        # pageviws_cont = requests.get(pageviws_url, headers=headers)
-        # pageviws_soup = BeautifulSoup(pageviws_cont.text, 'html.parser', from_encoding='utf-8')
-
-        u = requests.get(pageviews_url, headers=headers)
-        # u = urlopen(pageviews_url)
-        response = json.loads(u.text)
-        totalviews = 0
-        if len(response) != 1:
             totalviews = 999999999
-        else:
-            for jj in response['items']:
-                totalviews += jj['views']
+            edits = 999999999
+            editors = 999999999
+            pageviews_url = 999999999
+            first_edit = 999999999
 
         return res_data, edits, pageviews_url, editors, first_edit, totalviews, edit_history_url, all_len, words
 

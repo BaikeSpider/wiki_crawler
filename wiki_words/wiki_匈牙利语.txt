@@ -1,0 +1,641 @@
+匈牙利语
+
+
+匈牙利语
+
+
+magyar
+
+
+母语国家和地区
+匈牙利以及10多个国家
+
+
+区域
+中欧
+
+
+母语使用人数
+1500万（日期不详）
+
+
+語系
+
+乌拉尔语系
+
+芬兰-乌戈尔语族
+
+乌戈尔语支
+
+匈牙利语
+
+
+
+
+
+
+
+
+
+官方地位
+
+
+作为官方语言
+ 匈牙利
+ 歐盟
+ 斯洛維尼亞
+ 羅馬尼亞
+ 佛伊弗迪納
+
+
+管理机构
+匈牙利科学院语言学研究所
+
+
+語言代碼
+
+
+ISO 639-1
+hu
+
+
+ISO 639-2
+hun
+
+
+ISO 639-3
+hun
+
+
+
+
+
+
+
+
+
+匈牙利语又称马扎尔语，是一種乌拉尔语系芬兰-乌戈尔语族乌戈尔语支的語言，为马扎尔人的语言。使用者主要分布在匈牙利，是该国的官方语言，也是欧盟24个官方语言之一。此外匈牙利语还分布在罗马尼亚、斯洛伐克、乌克兰、塞尔维亚、克罗地亚、奥地利、斯洛文尼亚等国家。
+
+
+
+目录
+
+
+1 字母
+2 元音
+3 輔音
+4 语法
+
+4.1 元音和谐
+4.2 动词
+
+
+5 外部链接
+
+5.1 《匈牙利人百科全书》中的语言章节 (1–5)
+5.2 词典
+5.3 网上语言课堂
+
+
+
+
+
+字母[编辑]
+曾使用古匈牙利字母，於基督教傳入匈牙利王國後改用拉丁字母，不過20世紀後古匈牙利字母在該國重新復甦，並和拉丁字母一起並列使用。匈牙利语字母表由拉丁字母组成，大匈牙利字母如下：
+
+
+匈牙利语字母
+
+
+A
+a
+Á
+á
+B
+b
+C
+c
+Cs
+cs
+D
+d
+Dz
+dz
+Dzs
+dzs
+E
+e
+É
+é
+F
+f
+G
+g
+Gy
+gy
+H
+h
+I
+i
+
+
+Í
+í
+J
+j
+K
+k
+L
+l
+Ly
+ly
+M
+m
+N
+n
+Ny
+ny
+O
+o
+Ó
+ó
+Ö
+ö
+Ő
+ő
+P
+p
+Q
+q
+R
+r
+
+
+S
+s
+Sz
+sz
+T
+t
+Ty
+ty
+U
+u
+Ú
+ú
+Ü
+ü
+Ű
+ű
+V
+v
+W
+w
+X
+x
+Y
+y
+Z
+z
+Zs
+zs
+ 
+ 
+
+
+“Q”、“W”、“X”、“Y”只在外语词中出现（匈牙利人名中常见“W”和“Y”，分别读作“V”和“(J)I”）。有时人们会使用大匈牙利字母和小匈牙利字母分别代表有和没有“Q”、“W”、“X”、“Y”的字母表。
+元音[编辑]
+
+a [ɒ]: 圓唇。和英式英语“o”的短音基本一样。
+á [aː]：非圓唇。a的长音
+ë [e]：仅在方言中出现。标准语（布达佩斯方言）做短音e。
+e [ɛ]
+é [eː]：e（及ë）的长音
+i [i]
+í [iː] i的長音
+o [o]
+ó [oː] o的長音
+ö [ø]
+ő [øː] ö的長音
+u [u]
+ú [uː] u的長音
+ü [y]
+ű [yː] ü的長音
+
+輔音[编辑]
+匈牙利語共有14個元音音位與25個輔音音位。元音和元音可以相互組合成數對長元音。他們大多數的差別只在持續長度長或短，但a/á 和 e/é 同時在開口大小與長短上都不相同。
+
+匈牙利語 輔音[1]
+
+
+唇
+齒齦
+齒齦後
+硬顎
+軟齶
+聲門
+
+
+鼻音
+
+m/m/
+
+n/n/
+
+
+my/ɲ/
+
+
+
+
+塞音
+p/p/
+b/b/
+t/t/
+d/d/
+
+ty/c͡ç/
+gy/ɟ͡ʝ/
+k/k/
+g/ɡ/
+
+
+
+塞擦音
+
+c/t͡s/
+dz/d͡z/
+cs/t͡ʃ/
+dzs/d͡ʒ/
+
+
+
+
+擦音
+f/f/
+v/v/
+sz/s/
+z/z/
+s/ʃ/
+zs/ʒ/
+
+
+hh, ɦ
+
+
+
+顫音
+
+
+r/r/
+
+
+
+
+
+
+近音
+
+
+l/l/
+
+
+j/j/
+
+
+
+
+语法[编辑]
+匈牙利語屬黏著語，並且有元音和谐律現象，和同属于芬兰-乌戈尔语族的芬蘭語以及属于阿爾泰语系的（土耳其語、蒙古語）有很多相似性。匈牙利語名詞有格的變化，並且格的變化多達20多種。另外表示所有格的詞接在名詞詞尾并表示所有者，舉例如下：
+
+ház　（家）
+ház-am　（我家）
+ház-ad　（你家）
+ház-a　（他（她）家）
+ház-unk　（我們家）
+ház-atok　（你們家）
+ház-uk　（他（她）們家）
+
+動詞變位分為定變位和不定變位，如賓語是第三人稱或賓語有定冠詞，動詞應定變位，其他情況動詞要不定變位。
+匈语没有介词，取而代之的是后置的词缀，有着与介词相同的功能。
+元音和谐[编辑]
+于词后加后缀时，匈语遵守元音和谐规则。即根据词的元音，加入不同的后缀。
+动词[编辑]
+匈语的动词依照两个时态（过去与现在），三个语气（陈述、条件、和命令-虚拟语气），两个数（单复数），三个人称，以及定与不定式而变化。助词Fog用来表示将来时。
+外部链接[编辑]
+
+
+
+維基百科有此種語言版本：
+匈牙利语维基百科
+
+
+
+
+
+维基文库有此种语言版本：
+
+匈牙利语维基文库
+
+
+
+
+
+
+
+您可以在英語維基教科書中查找此百科条目的相關電子教程：
+Hungarian
+
+
+
+Hungarian - A Strange Cake on the Menu - article by Nádasdy Ádám
+Ethnologue report for Hungarian
+Numerals of some Uralic languages
+Uralic page
+Introduction to Hungarian
+Hungarian Profile
+"The Hungarian Language: A Short Descriptive Grammar" by Beáta Megyesi (PDF document)
+The old site of the Indiana University Institute of Hungarian Studies (various resources)
+Let's try to learn Hungarian (Magyar) and Turkish!
+Grammar, phonology and syntax plus some history of the language
+Hungarian Language Learning References on the Hungarian Language Page (short reviews of useful books)
+Debrecen Summer School (with Hungarian Language and Culture Courses)
+Balassi Bálint Institute[失效連結] (Hungarian language teaching)
+One of the oldest Hungarian texts - A Halotti Beszéd (The Funeral Oration)
+
+《匈牙利人百科全书》中的语言章节 (1–5)[编辑]
+
+Introduction to the History of the Language; The Pre-Hungarian Period; The Early Hungarian Period; The Old Hungarian Period
+The Linguistic Records of the Early Old Hungarian Period; The Linguistic System of the Age
+The Old Hungarian Period; The System of the Language of the Old Hungarian Period
+The Late Old Hungarian Period; The System of the Language
+The First Half of the Middle Hungarian Period; Turkish Loan Words
+(The English translations of volumes 6 to 9 are in preparation.)
+
+词典[编辑]
+
+Hungarian-English-Hungarian
+
+网上语言课堂[编辑]
+
+A Hungarian Language Course by Aaron Rubin
+Hungarian 101 Learn Hungarian online
+Online course hungarotips.com
+Magyaróra: New paths to the Hungarian language
+Hungarian Language Lessons - Puzzles, Quizzes, Sound Files
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+烏拉爾語系
+
+
+
+
+
+
+芬蘭語支
+
+
+
+爱沙尼亚语
+芬兰语
+
+克文语
+梅安语
+
+
+英格里亞語
+卡累利阿語系
+
+卡累利阿語
+里維-卡累利阿語
+魯迪克語
+
+
+利沃尼亚语
+南愛沙尼亞語（英语：South Estonian）
+
+佛罗语
+瑟托語
+
+
+维普森语
+沃特語
+
+
+
+
+
+
+
+
+萨米语支
+
+
+
+阿卡拉薩米語†
+伊納里薩米語
+凱米薩米語†
+基爾丁薩米語
+呂勒薩米語
+北方萨米语
+皮特薩米語
+斯科爾特薩米語
+南方薩米語
+特薩米語
+烏美薩米語
+
+
+
+
+
+
+
+
+莫爾多維亞語支
+
+
+
+厄尔兹亚语
+莫克沙語
+
+
+
+
+
+
+
+
+馬里語支
+
+
+
+山地馬里語
+草原馬里語
+
+
+
+
+
+
+
+
+彼爾姆語支
+
+
+
+科米語
+
+科米-齊良語（英语：Komi-Zyrian language）
+科米-彼爾米亞克語
+科米-亞濟瓦語（英语：Komi-Yodzyak language）
+
+
+乌德穆尔特语
+
+
+
+
+
+
+
+
+乌戈尔语支
+
+
+
+匈牙利语
+漢特語
+曼西語
+
+
+
+
+
+
+
+
+萨莫耶德语族
+
+
+
+埃涅茨語
+尤拉茨語†
+涅涅茨語
+
+森林涅涅茨語（英语：Forest Nenets language）
+凍土涅涅茨語（英语：Tundra Nenets language）
+
+
+恩加納桑語
+卡馬斯語†
+馬托爾語†
+塞爾庫普語
+
+
+
+
+
+
+
+
+其他語支語種
+
+
+
+梅謝爾斯卡婭語（英语：Meshcherian language）†
+美力雅語（英语：Merya language）
+穆羅姆語（英语：Muromian language）
+
+
+
+
+
+
+
+
+
+† 表示已滅亡語言
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+歐洲聯盟的官方語言
+
+
+
+
+
+
+
+保加利亚语 - 捷克语 - 丹麦语 - 荷兰语 - 英语 - 爱沙尼亚语 - 芬兰语 - 法语 - 德语 - 希腊语 - 匈牙利语 - 愛爾蘭語 - 意大利语 - 拉脱维亚语 - 立陶宛语 - 马耳他语 - 波兰语 - 葡萄牙语 - 罗马尼亚语 - 斯洛伐克语 - 斯洛文尼亚语 - 西班牙语 - 瑞典語- 克羅埃西亞語
+
+
+
+
+
+
+
+
+
+
+歐盟官方網站
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4120374-4
+NDL: 00562923
+
+
+
+
+
+
+
+
+
+^ Szende (1994:91)
+
+
+
+
+
+分类：ISO 639-2代码的语言ISO 639-1代码的语言匈牙利语芬兰-乌戈尔语族元音和諧語言隐藏分类：含有匈牙利語的條目语言使用人数没有注明日期的条目使用过时图像语法的页面含有不被支持信息框字段的语言类条目信息框没有参考资料字段的语言类条目使用過時參數的語言類條目带有失效链接的条目条目有永久失效的外部链接包含规范控制信息的维基百科条目
