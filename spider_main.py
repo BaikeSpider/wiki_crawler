@@ -77,11 +77,11 @@ class SpiderMain(object):
 
 
 if __name__=='__main__':
-    root_url = ['https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96']
-    new_titles = ['政策']
-    parent = 'https://zh.wikipedia.org/wiki/%E6%94%BF%E7%AD%96'
-    parent_title = '政策'
-    parent_all = '政策'
+    root_url = ['https://zh.wikipedia.org/wiki/%E6%B8%B8%E6%88%8F']
+    new_titles = ['游戏']
+    parent = 'https://zh.wikipedia.org/wiki/%E6%B8%B8%E6%88%8FF'
+    parent_title = '游戏'
+    parent_all = '游戏'
     
     obj_spider = SpiderMain()
     obj_spider.craw(root_url, new_titles, parent, parent_title, parent_all)

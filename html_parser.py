@@ -185,7 +185,7 @@ class HtmlParser(object):
         res_data['title'] = parent_title
         summary_node = soup.find(name='p')
         if (summary_node != None):
-          if (summary_node.get('text') != None):
+          if (summary_node.text != None):
             res_data['summary'] = summary_node.get_text()
           else:
             res_data['summary'] = '!!!No summary!!!'       
@@ -222,15 +222,27 @@ class HtmlParser(object):
                'href']  # https://tools.wmflabs.org/xtools-articleinfo/index.php?article=%E9%98%BF%E7%B1%B3%E4%BB%80%E4%BA%BA&project=zh.wikipedia.org
             articleinfo_cont = requests.get(articleinfo_url, headers=headers)
             articleinfo_soup = BeautifulSoup(articleinfo_cont.text, 'html.parser')
-            text1 = articleinfo_soup.find_all('div', class_='col-lg-6 stat-list clearfix')
+            text1 = articleinfo_soup.find_all('div', class_='col-lg-5 col-lg-offset-1 stat-list clearfix')
             if text1[0].find_all('td')[6].text == "Total edits":
                 edits = text1[0].find_all('td')[7].text
                 editors = text1[0].find_all('td')[9].text
-                ip_edits = text1[0].find_all('td')[13].text
-            else:
+                #ip_edits = text1[0].find_all('td')[13].text
+            elif text1[0].find_all('td')[4].text == "Total edits":
                 edits = text1[0].find_all('td')[5].text
                 editors = text1[0].find_all('td')[7].text
-                ip_edits = text1[0].find_all('td')[11].text
+                #ip_edits = text1[0].find_all('td')[11].text
+            else:
+                edits = 0
+                editors = 0
+
+            text2 = articleinfo_soup.find_all('div', class_='col-lg-6 stat-list clearfix')
+            if text2[0].find_all('td')[2].text == "IP edits":
+                ip_edits = text2[0].find_all('td')[3].text
+            elif text2[0].find_all('td')[4].text == "IP edits":
+                ip_edits = text2[0].find_all('td')[5].text
+            else:
+                ip_edits = 0
+
             pos1 = ip_edits.find('·')
             ip_edits = ip_edits[0: pos1]
             ip_edits = ip_edits.strip()
@@ -255,10 +267,15 @@ class HtmlParser(object):
                 s_back = s.replace(mm, mm.replace(',', ''))
                 s = s_back
             ip_edits = s
-            edits = int(edits) - int(ip_edits)
+            if edits.isdigit() and ip_edits.isdigit():
+                edits = int(edits) - int(ip_edits)
+
 
             # 创建时间
-            first_edit = text1[1].find_all('td')[1].text
+            if text2[0].find_all('td')[10].text == "First edit":
+                first_edit = text2[0].find_all('td')[11].text
+            else:
+                first_edit = "9003-03-01, 10:17 • Dlloader • 462"
             pos1 = first_edit.find(',')
             first_edit = first_edit[0: pos1].strip()
             # articleinfo_cont = self.downloader.download(articleinfo_url)
