@@ -1,0 +1,444 @@
+生命
+
+
+
+
+
+
+
+
+ 
+
+生命
+
+
+
+生物存活于石山之上
+
+
+
+科学分类
+
+
+
+
+
+总域：
+生命
+
+
+
+
+
+域和界
+
+
+
+
+生物
+
+古细菌
+细菌
+真核细胞
+
+动物
+真菌
+植物
+原生生物
+
+
+
+
+外星生命
+
+
+
+
+
+
+
+
+植物是有生命特征的生物
+
+
+生命泛指一类具有稳定的物质和能量代谢现象并且能回应刺激、能进行自我复制（繁殖）的半开放物质系统。简单来说，也就是由有生命机制的物体[1][2]。生命个体一定会经历出生、成长、衰老和死亡。生命种群则在一代代个体的更替中经过自然选择发生进化以适应环境。生物学则是以研究生命为中心的科学。
+生命的最小单位是生物，生物是由一个或多个细胞组成，能够新陈代谢，维持恒定性，可以成长，回应刺激，可以繁殖甚至演化，以适应外界环境，继续繁殖并产生后代[1]。在地球的生物圈内可以找到许多不同的生物，在这些生物中（包括植物、动物、真菌、原生生物、古菌及细菌），都有共同的特征，都是由以碳（英语：carbon-based life）和水为基础的细胞构成，有其组织以及可以遗传的基因资讯。
+地球约在45.4亿年前形成。最早的生命至少约在35亿年产生。[3][4][5]当时是始太古代，冥古宙熔化的地壳已经固化。地球上最早的生物证据是在西格陵兰发现的37亿年前变质岩中的生物物质（英语：Biogenic substance）石墨[6]，及西澳洲34.8亿年前砂岩中的远古生物化石[7][8]。不过很多研究推测地球在更早之前就已有生命[9]。根据其中一种研究，可能在42.5亿年前就已有生命[10]，另一个研究则认为是44亿年前[11]。目前仍不确定地球上产生生命的机制，不过已有许多的生命起源假说。生命形成后，变成许多不同的形式，生物学家则将其分类成许多分类单元的体系。生命可以在许多不同的条件下生存。
+
+
+
+目录
+
+
+1 生命现象
+2 定义
+
+2.1 传统定义
+
+
+3 生命的起源
+4 外星生命
+5 生命的终结
+6 参见
+7 参考文献
+8 外部链接
+
+
+
+生命现象[编辑]
+另外，新陈代谢和自我复制的能力有时被视判断生命的根本条件，称之为生命现象。病毒在有寄主可寄生的时候，会表现出生命现象；但在没有寄主可寄生的时候，不会表现生命现象，所以病毒是介于生命与非生命之间的一种奇妙的有机物。
+定义[编辑]
+生命没有公认定义，不同的科学家曾提出过各种定义。[12][13]
+传统定义[编辑]
+科学家经常认为只有生物体会展现以下全部现象：
+
+体内平衡：能够调节体内环境以维持身体处于一个相对恒定的状态，例如恒温动物能发汗来降低过热的体温，也能靠发抖来产生额外的热量以保持体温。
+组织性：由一个或以上的生物基本单位──细胞所组成。
+新陈代谢：能够转换非生物为细胞成分（组成代谢）以及分解有机物（分解代谢）来获取和转化能量。生物体需要能量来维持体内平衡及产生其他生命现象。
+生长：使组成代谢的速率高于分解代谢的速率来让细胞体积增大，并在细胞分裂后使细胞成长。一个生长中的有机体增加其细胞的数量和体积，而不止是将得到的物质积存起来。某些物种的个体可以长得很巨大，例如蓝鲸。
+适应：对环境变化作出反应的能力，与生物当前的身体构造、生活习性及遗传有关。这种能力对生存是很重要的。生物可以通过进化适应环境。
+对刺激作出反应：反应可以以很多方式进行，从单细胞变形虫被触碰时的收缩到高等生物在不同情况下的复杂反射。最常见的反应是运动，例如植物的叶片转向太阳以及动物追捕其猎物。
+繁殖：能够产生新的个体。包括只需一个亲本的无性生殖和需要至少两个亲本的有性生殖。
+
+大部分科学家称这样的现象为生命的表现方式。通常必须具备全部七个特征才能被视作生命。
+但是，这个定义也有局限性[14]。例如：有些生物体不能繁殖，因为它们是正常物种中自然形成的。这些生物体仍是生命。有些人说生命的特性是可遗传的；因此，这些不能繁殖的有机体也还是有生命的，它们仍可以通过亲属选择等机理来产生新个体。
+有些人认为病毒和朊病毒（能够进行自我复制的蛋白质）是可以自行复制的毒素而不是生命体，因为它们不能在没有其他细胞的情况下表现出生命现象。但是，立克次体和衣原体等有类似细菌的细胞结构的生物也不能独立执行很多重要的生物过程，它们也要进入真核生物宿主细胞的细胞质内进行生长和自我复制。另外，几乎所有的生命都倚赖其他物种提供食物，并且归根结底需要地球上某些细胞的特殊化学作用来提供能量源，如光合作用和海底热泉细菌的硫化作用。
+具系统性的生命定义是，生物是自我组织并自我制造的。这些物质不与耗散结构混淆（如：火）。
+这个定义变种包括了斯图亚特·考夫曼（Stuart Kauffman）定义生命为能够复制自己或他人的一种自主主体（autonomous agent）或一种多主体系统（multi-agent system），并最少完成一次热力学循环[15]。
+其他定义包括：
+
+生命是具自我组织、自相残杀的系统的特征，而其中包含了可以突变的族群。这定义不包括某些哲学定义为有生命的火焰，但包括了工蚁、病毒和骡。自我复制以及能量消耗只是系统要保持延续的方法之一。这解释了为何蜂有生命但又会为了保护蜂巢而自杀。在这个个案中整个群体运作的方式与生物无异。[来源请求]
+一种制造不同且可变复杂性的互动物质组织，透过利用物质和能量复制“接近完美”的个体。这个定义中的“接近完美”便是复制中有利于使生物适应环境的突变。[来源请求]
+
+
+
+卡尔·林奈
+1735[16]
+恩斯特·海克尔
+1866[17]
+Chatton（英语：Édouard Chatton）
+1925[18]
+Copeland（英语：Herbert Copeland）
+1938[19]
+Whittaker（英语：Robert Whittaker）
+1969[20]
+卡尔·乌斯 et al.
+1990[21]
+汤玛斯·卡弗利尔-史密斯
+1998[22]
+
+
+2 界
+3 界
+2 empires（英语：two-empire system）
+界 (生物)
+界 (生物)
+三域系统
+界 (生物)
+
+
+(not treated)
+原生生物
+原核生物
+原核生物界
+原核生物界
+细菌
+细菌
+
+
+古菌
+
+
+真核生物
+原生生物
+原生生物
+真核生物
+原生动物
+
+
+色藻界
+
+
+植物
+植物
+植物
+植物
+植物
+
+
+真菌
+真菌
+
+
+动物
+动物
+动物
+动物
+动物
+
+
+生命的起源[编辑]
+主条目：生命的起源
+
+
+
+
+围绕黄石公园大棱镜泉的嗜热生物
+
+
+尽管不能准确地找到确实时间，但有证据表现地球上的生命已存在了大约37亿年[23]。
+虽然没有标准表示生命起源的模型，但现时最为公认的科学模型[24]建立于一个或更多包括下面的发现之上，可以粗略地列出有以下假设：
+
+模拟真实的史前生物环境以制造形成生命的基本细小分子。这已由米勒-尤里实验以及Sidney W. Fox的工作所证明。
+磷脂自发地形成脂双分子层，而脂双层是细胞膜的基本结构。
+制造随机核糖核酸分子的过程可能制造出核酶，而可以在非常特殊的环境下制造更多核糖核酸。
+
+很多不同的假说认为早期地球上的简单有机分子能够转变为原始细胞并进行新陈代谢。很多模型可分为“先有基因”或“先有新陈代谢”两类，但最近流行的混合模型并不属于任何一类[25]。现时所推测的生命历史还有很多疑点，生命的起源对科学家而言仍是一个很大的谜团。
+外星生命[编辑]
+主条目：外星生命和天体生物学
+在宇宙中，地球是人类已知的唯一存有生命的星球。德雷克公式可以估算其他地方出现生命的机率，但科学家不同意很多公式中变量的值（严格地说，德雷克公式计算的是处于银河系中且我们可能接触的外星生物的数量，而不是有生命的机率）。取决于不同的值，方程式可以暗示生命的形成是频繁或稀少的。德雷克计算我们在任何时间可能接触的外星生命只有1个。
+有关地球生命的起源，胚种论也被称为外源性起源认为生命来自宇宙，通过陨石、彗星或宇宙尘等天体到达地球。但是这些理论对解释生命的起源没有帮助。
+生命的终结[编辑]
+即生命体之死亡阶段或状态。以人类为例，一般以呼吸及心脏跳动停止和脑部完全停止活动（非暂时性的停止）为判定死亡的标准。
+生命体的死亡可以是因为细胞分裂的次数达到极限而衰亡，也可以是被毒素、自然灾害或其他生物杀死。
+任何一个个体的死亡并不会威胁物种的存在，反而是维持物种延续的重要环节。如果年老的个体永远不死，新的个体会失去生存空间和生存必需的资源。但个体大量死亡至难以维持繁殖时，物种就可能灭绝。
+已经死亡的细胞不能重建生命活动。已经死亡的生物个体不能复活。这是生命的基本特征之一。
+参见[编辑]
+
+非传统生物
+人工生命
+外星生命
+细胞生命
+非细胞生物
+细胞自动机
+嗜极生物 - 生存于“极端”环境（例如热液喷口）的生物
+界
+生命的起源
+盖亚假说
+分类学 - 描述，分类以及命名生物的科学
+种系发生学 - 研究物种间的进化关系
+生命游戏 - 简单透过数学上模仿生态系统的动态细胞自动机
+生物分类学
+生命的意义
+非细胞生物
+生活品质
+
+参考文献[编辑]
+
+
+^ 1.0 1.1 Koshland, Jr., Daniel E. The Seven Pillars of Life. Science. March 22, 2002, 295 (5563): 2215–2216 [2009-05-25]. PMID 11910092. doi:10.1126/science.1068489. 
+^ The American Heritage Dictionary of the English Language, 4th edition, published by Houghton Mifflin Company, via Answers.com:
+
+"The property or quality that distinguishes living organisms from dead organisms and inanimate matter, manifested in functions such as metabolism, growth, reproduction, and response to stimuli or adaptation to the environment originating from within the organism."
+"The characteristic state or condition of a living organism."
+
+
+^ Schopf, JW, Kudryavtsev, AB, Czaja, AD, and Tripathi, AB. (2007). Evidence of Archean life: Stromatolites and microfossils. Precambrian Research 158:141-155.
+^ Schopf, JW (2006). Fossil evidence of Archaean life. Philos Trans R Soc Lond B Biol Sci 29;361(1470) 869-85.
+^ Hamilton Raven, Peter; Brooks Johnson, George. Biology. McGraw-Hill Education. 2002: 68 [2013-07-07]. ISBN 978-0-07-112261-0. 
+^ Ohtomo, Yoko; Kakegawa, Takeshi; Ishida, Akizumi; Nagase, Toshiro; Rosing, Minik T. Evidence for biogenic graphite in early Archaean Isua metasedimentary rocks. Nature Geoscience. 8 December 2013. doi:10.1038/ngeo2025. 
+^ Borenstein, Seth. Oldest fossil found: Meet your microbial mom. AP News. 13 November 2013. 
+^ Noffke, Nora; Christian, Daniel; Wacey, David; Hazen, Robert M. Microbially Induced Sedimentary Structures Recording an Ancient Ecosystem in the ca. 3.48 Billion-Year-Old Dresser Formation, Pilbara, Western Australia. Astrobiology (journal). 8 November 2013, 13 (12): 1103–24. Bibcode:2013AsBio..13.1103N. PMC 3870916. PMID 24205812. doi:10.1089/ast.2013.1030. 
+^ Tenenbaum, David. When Did Life on Earth Begin? Ask a Rock. Astrobiology Magazine. October 14, 2002 [April 13, 2014]. 
+^ Courtland, Rachel. Did newborn Earth harbour life?. New Scientist. July 2, 2008 [April 13, 2014]. 
+^ Steenhuysen, Julie. Study turns back clock on origins of life on Earth. Reuters. May 20, 2009 [April 13, 2014]. 
+^ 存档副本. [2008-11-02]. （原始内容存档于2008-10-13）. 
+^ http://www.nbi.dk/~emmeche/cePubl/97e.defLife.v3f.html
+^ http://forums.hypography.com/biology/6702-what-exactly-constitutes-life.html 　实际上是什么构成生命？
+^ Kaufmann, Stuart. Barrow, John D.; Davies, P. C. W.; Harper Jr., C. L., 编. Autonomous agents. Science and Ultimate Reality: Quantum Theory, Cosmology, and Complexity (Cambridge University Press). 2004: 654–666. ISBN 052183113X. 
+^ Linnaeus, C. Systemae Naturae, sive regna tria naturae, systematics proposita per classes, ordines, genera & species. 1735. 
+^ Haeckel, E. Generelle Morphologie der Organismen. Reimer, Berlin. 1866. 
+^ Chatton, É. Pansporella perplexa. Réflexions sur la biologie et la phylogénie des protozoaires. Annales des Sciences Naturelles - Zoologie et Biologie Animale. 1925, 10–VII: 1–84. 
+^ Copeland, H. The kingdoms of organisms. Quarterly Review of Biology. 1938, 13: 383–420. doi:10.1086/394568. 
+^ Whittaker, R. H. New concepts of kingdoms of organisms. Science. January 1969, 163 (3863): 150–60. Bibcode:1969Sci...163..150W. PMID 5762760. doi:10.1126/science.163.3863.150. 
+^ Woese, C.; Kandler, O.; Wheelis, M. Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya.. Proceedings of the National Academy of Sciences of the United States of America. 1990, 87 (12): 4576–9. Bibcode:1990PNAS...87.4576W. PMC 54159. PMID 2112744. doi:10.1073/pnas.87.12.4576. 
+^ Cavalier-Smith, T. A revised six-kingdom system of life. Biological Reviews. 1998, 73 (03): 203–66. PMID 9809012. doi:10.1111/j.1469-185X.1998.tb00030.x. 
+^ http://www.ucmp.berkeley.edu/exhibits/historyoflife.php
+^ http://www.scribd.com/doc/1569/Origin-of-Life-in-Universe
+^ http://www.journals.royalsoc.ac.uk/openurl.asp?genre=article&id=doi:10.1098/rsif.2005.0045[失效链接]
+
+
+外部链接[编辑]
+
+Wikispecies - 维基网上生命字典（英）
+神是人生命的源头
+
+
+
+
+查询维基词典中的生命。
+
+
+
+
+
+维基语录上的相关摘录：生命
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+自然的组成
+
+
+
+
+
+
+宇宙
+
+
+
+空间
+时间
+物质
+能量
+
+
+
+
+
+
+
+
+地球
+
+
+
+地球科学
+地球历史
+地球的未来
+地球构造
+板块构造论
+地球地质史（英语：Geological history of Earth）
+地质学
+大洋
+山
+盖亚假说
+
+
+
+
+
+
+
+
+天气
+
+
+
+气象学
+气候
+地球大气层
+云
+降水
+太阳光
+潮汐
+风
+
+
+
+
+
+
+
+
+环境
+
+
+
+生态学
+生态系统
+原野
+野火
+
+
+
+
+
+
+
+
+生物
+
+
+
+生物圈
+生命起源
+生命演化史
+真核生物
+
+植物/植物相
+动物/动物相
+真菌
+原生生物
+
+
+生物学
+
+天体生物学
+
+
+原核生物
+
+古菌
+细菌
+
+
+病毒
+
+
+
+
+
+
+
+
+
+
+
+ 分类:自然
+ 科学主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4034831-3
+BNF: cb11933780m（数据）
+NDL: 00570344
+
+
+
+
+
+
+
+
+
+
+
+
+分类：生命生物自然史隐藏分类：带有失效链接的条目条目有永久失效的外部链接本地相关图片与维基数据不同自2007年8月有未列明来源语句的条目包含规范控制信息的维基百科条目

@@ -77,9 +77,9 @@ class SpiderMain(object):
 
 
 if __name__=='__main__':
-    root_url = ['https://zh.wikipedia.org/wiki/%E6%B8%B8%E6%88%8F']
+    root_url = ['https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF']
     new_titles = ['游戏']
-    parent = 'https://zh.wikipedia.org/wiki/%E6%B8%B8%E6%88%8FF'
+    parent = 'https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF'
     parent_title = '游戏'
     parent_all = '游戏'
     

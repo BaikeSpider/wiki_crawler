@@ -1,0 +1,24 @@
+蛇梯棋
+蛇梯棋(Snakes and Ladders)，是源自于印度的掷赛游戏，棋盘上除方格外，还绘有梯子、蛇，以骰子随机决定棋子的步数，途中若抵达梯子或蛇的格子会移至其他格，以抵达终点为胜利[1]。
+参考[编辑]
+
+
+^ Snakes and Ladders Rules
+
+
+外部链接[编辑]
+
+Chutes and Ladders Hasbro's official page
+Snakes and Ladders at BoardGameGeek
+Leela, the Game of Knowledge Hindu version
+Shatranj Irfani Indian Sufi version from the 19th century
+"Analysis of Chutes and Ladders" by DataGenetics
+"The Cutes and Ladders Game" mathematical analysis by Dave Rusin of Northern Illinois University
+"Dial up some obscure stats for the Chutes and Ladders game" Perl software to generate statistics
+Jain version of Snakes and Ladders explained in an interactive demonstration hosted by the Victoria and Albert Museum
+
+
+
+
+
+分类：传统掷赛游戏印度传统游戏印度发明

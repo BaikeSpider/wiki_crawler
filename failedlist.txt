@@ -66,3 +66,57 @@ crawl failed 1 游戏 https://zh.wikipedia.org/wiki/%E6%B8%B8%E6%88%8F6
 游戏 https://zh.wikipedia.org/wiki/%E6%B8%B8%E6%88%8F
 crawl failed 1 游戏 https://zh.wikipedia.org/wiki/%E6%B8%B8%E6%88%8F6
 游戏 https://zh.wikipedia.org/wiki/%E6%B8%B8%E6%88%8F
+crawl failed 27 en-Thomas Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8F
+crawl failed 28 en-Children's Games (Bruegel) https://en.wikipedia.org/wiki/Children%27s_Games_(Bruegel)
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8F
+crawl failed 28 en-Roger Caillois https://en.wikipedia.org/wiki/Roger_Caillois
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8F
+crawl failed 28 en-Chris Crawford (game designer) https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8F
+crawl failed 47 en-Gamelab https://en.wikipedia.org/wiki/Gamelab
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8F
+crawl failed 50 en-miniatures game https://en.wikipedia.org/wiki/miniatures_game
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8F
+crawl failed 63 en-Play money https://en.wikipedia.org/wiki/Play_money
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8F
+crawl failed 73 en-Games of skill https://en.wikipedia.org/wiki/Games_of_skill
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8F
+crawl failed 89 en-tiddlywinks https://en.wikipedia.org/wiki/tiddlywinks
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8F
+crawl failed 101 en-Karl Groos https://en.wikipedia.org/wiki/Karl_Groos
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8F
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
+crawl failed 1 Thomas_Hurka https://en.wikipedia.org/wiki/Thomas_Hurka
+游戏 https://zh.wikipedia.org/zh-cn/%E6%B8%B8%E6%88%8FF
