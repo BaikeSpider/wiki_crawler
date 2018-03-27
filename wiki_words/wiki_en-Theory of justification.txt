@@ -1,0 +1,715 @@
+Theory of justification
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article may need to be rewritten entirely to comply with Wikipedia's quality standards. You can help. The discussion page may contain suggestions. (March 2016)
+
+
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2016) (Learn how and when to remove this template message)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+
+
+Part of a series on
+
+
+Certainty
+
+
+
+
+Approximation
+Belief
+Certainty
+Doubt
+Determinism
+Fallibilism
+Fatalism
+Hypothesis
+Justification
+Nihilism
+Proof
+Scientific theory
+Skepticism
+Solipsism
+Theory
+Truth
+Uncertainty
+
+
+
+
+
+
+Related concepts and fundamentals:
+
+Agnosticism
+Epistemology
+Presupposition
+Probability
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Theory of justification is a part of epistemology that attempts to understand the justification of propositions and beliefs. Epistemologists are concerned with various epistemic features of belief, which include the ideas of justification, warrant, rationality, and probability. Loosely speaking, justification is the reason that someone (properly) holds a belief.
+When a claim is in doubt, justification can be used to support the claim and reduce or remove the doubt. Justification can use empiricism (the evidence of the senses), authoritative testimony (the appeal to criteria and authority), or reason.
+
+
+
+Contents
+
+
+1 Subjects
+2 Explanations
+3 As normative activity
+4 Theories
+5 Justifiers
+
+5.1 Commonly used justifiers
+
+
+6 Criticisms
+7 See also
+8 Notes
+9 References
+10 External links
+
+
+
+Subjects[edit]
+Justification focuses on beliefs. This is in part because of the influence of the definition of knowledge as "justified true belief" often associated with a theory discussed near the end of the Plato's dialogues Meno and Theaetetus. More generally, theories of justification focus on the justification of statements or propositions.
+The subject of justification has played a major role in the value of knowledge as "justified true belief". Some contemporary epistemologists, such as Jonathan Kvanvig assert that justification isn't necessary in getting to the truth and avoiding errors. Kvanvig attempts to show that knowledge is no more valuable than true belief, and in the process dismissed the necessity of justification due to justification not being connected to the truth.
+Explanations[edit]
+Main articles: Explanation and Argument
+Justification is the reason why someone properly holds a belief, the explanation as to why the belief is a true one, or an account of how one knows what one knows. In much the same way arguments and explanations may be confused with each other, as may explanations and justifications. Statements that are justifications of some action take the form of arguments. For example, attempts to justify a theft usually explain the motives (e.g., to feed a starving family).
+It is important to be aware when an explanation is not a justification. A criminal profiler may offer an explanation of a suspect's behavior (e.g.; the person lost his or her job, the person got evicted, etc.), and such statements may help us understand why the person committed the crime. An uncritical listener may believe the speaker is trying to gain sympathy for the person and his or her actions, but it does not follow that a person proposing an explanation has any sympathy for the views or actions being explained. This is an important distinction because we need to be able to understand and explain terrible events and behavior in attempting to discourage it.[1]
+As normative activity[edit]
+Here, justified beliefs are those one can hold as a matter of intellectual right.[citation needed]
+In some way, each of us is responsible for what we believe. Beliefs are not typically formed completely at random, and thus we have an intellectual responsibility, or obligation, to try to believe what is true and to avoid believing what is false.[citation needed] An intellectually responsible act is within one's intellectual rights in believing something; performing it, one is justified in one's belief.[citation needed]
+Thus, justification is a normative notion[citation needed]. The standard definition is that a concept is normative if it is a concept regarding or depending on the norms, or obligations and permissions (very broadly construed), involved in human conduct. It is generally accepted that the concept of justification is normative, because it is defined as a concept regarding the norms of belief.[citation needed]
+Theories[edit]
+There are several different views as to what entails justification, mostly focusing on the question "How sure do we need to be that our beliefs correspond to the actual world?" Different theories of justification require different amounts and types of evidence before a belief can be considered justified. Interestingly, theories of justification generally include other aspects of epistemology, such as knowledge.
+Popular theories of justification include:
+
+Coherentism – Beliefs are justified if they cohere with other beliefs a person holds, each belief is justified if it coheres with the overall system of beliefs.
+Externalism – Outside sources of knowledge can be used to justify a belief.
+Foundationalism – Basic beliefs justify other, non-basic beliefs.
+Foundherentism – A combination of foundationalism and coherentism, proposed by Susan Haack.
+Infinitism – Beliefs are justified by infinite chains of reasons.
+Internalism – The believer must be able to justify a belief through internal knowledge.
+Reformed epistemology – Beliefs are warranted by proper cognitive function, proposed by Alvin Plantinga.
+Skepticism – A variety of viewpoints questioning the possibility of knowledge.
+
+truth skepticism – Questions the possibility of true knowledge, but not of justified knowledge
+epistemological skepticism – Questions the possibility of justified knowledge, but not true knowledge
+
+
+Evidentialism – Beliefs depend solely on the evidence for them
+
+Justifiers[edit]
+
+
+
+
+
+
+This section possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (June 2014) (Learn how and when to remove this template message)
+
+
+
+If a belief is justified, there is something that justifies it, which can be called its "justifier". If a belief is justified, then it has at least one justifier. An example of a justifier would be an item of evidence. For example, if a woman is aware that her husband returned from a business trip smelling like perfume, and that his shirt has smudged lipstick on its collar, the perfume and the lipstick can be evidence for her belief that her husband is having an affair. In that case, the justifiers are the woman's awareness of the perfume and the lipstick, and the belief that is justified is her belief that her husband is having an affair.
+Not all justifiers have to be what can properly be called "evidence"; there may be some substantially different kinds of justifiers available. Regardless, to be justified, a belief has to have a justifier.
+Three things that have been suggested as justifiers are:
+
+Beliefs only.
+Beliefs together with other conscious mental states.
+Beliefs, conscious mental states, and other facts about us and our environment (which one may or may not have access to).
+
+At least sometimes, the justifier of a belief is another belief. When, to return to the earlier example, the woman believes that her husband is having an affair, she bases that belief on other beliefs—namely, beliefs about the lipstick and perfume. Strictly speaking, her belief isn't based on the evidence itself—after all, what if she did not believe it? What if she thought that all of that evidence were just a hoax? What if her husband commonly wears perfume and lipstick on business trips? For that matter, what if the evidence existed, but she did not know about it? Then, of course, her belief that her husband is having an affair wouldn't be based on that evidence, because she did not know it was there at all; or, if she thought that the evidence were a hoax, then surely her belief couldn't be based on that evidence.
+Consider a belief P. Either P is justified or P is not justified. If P is justified, then another belief Q may be justified by P. If P is not justified, then P cannot be a justifier for any other belief: neither for Q, nor for Q's negation.
+For example, suppose someone might believe that there is intelligent life on Mars, and base this belief on a further belief, that there is a feature on the surface of Mars that looks like a face, and that this face could only have been made by intelligent life. So the justifying belief is: that face-like feature on Mars could only have been made by intelligent life. And the justified belief is: there is intelligent life on Mars.
+But suppose further that the justifying belief is itself unjustified. It would in no way be one's intellectual right to suppose that this face-like feature on Mars could have only been made by intelligent life; that view would be irresponsible, intellectually speaking. Thus, such a belief is unjustified because the justifier on which it depends is itself not justified.
+Commonly used justifiers[edit]
+
+Abductive reasoning
+A priori knowledge
+Argument
+Autonomy and freedom of choice
+Axiom or Postulate
+Coherentism
+Command and control, subordination in a hierarchy
+Common sense
+Conformity
+Conscience
+Consequence (effect)
+Cost–benefit analysis
+Deduction
+Dialectic
+
+Socratic method
+Marxist dialectic
+Hegelian dialectic
+
+
+Dogma
+Duty and Deontological ethics
+Empiricism
+Enlightenment (spiritual)
+Evidence
+Fatalism
+Group decision-making
+Groupthink
+Hedonism
+Induction
+Intuition
+Law
+Law of nature
+Logical positivism
+Mathematical proof
+Occam's Razor
+Pragmatism
+Probability theory
+Rationalism
+Reason
+Revelation
+
+Divination
+Divine illumination
+
+
+Rule[disambiguation needed]
+Scientific demonstration
+Scientific method
+Self-interest
+Taboo
+Tradition
+Utility
+Will to power
+
+Criticisms[edit]
+The major opposition against the theory of justification (also called ‘justificationism’ in this context) is nonjustificational criticism (a synthesis of skepticism and absolutism), which is most notably held by some of the proponents of critical rationalism: W. W. Bartley, David Miller and Karl Popper.[2] (But not all proponents of critical rationalism oppose justificationism; it is supported most prominently by John W. N. Watkins.)
+In justificationism, criticism consists of trying to show that a claim cannot be reduced to the authority or criteria that it appeals to. That is, it regards the justification of a claim as primary, while the claim itself is secondary. By contrast, nonjustificational criticism works towards attacking claims themselves.
+Bartley also refers to a third position, which he calls critical rationalism in a more specific sense, claimed to have been Popper's view in his Open Society. It has given up justification, but not yet adopted nonjustificational criticism. Instead of appealing to criteria and authorities, it attempts to describe and explicate them.
+Fogelin claims to detect a suspicious resemblance between the Theories of Justification and Agrippa's five modes leading to the suspension of belief. He concludes that the modern proponents have made no significant progress in responding to the ancient modes of pyrrhonic skepticism.[3]
+See also[edit]
+
+Underdetermination – dream argument
+Truth § Major theories
+Münchhausen trilemma
+Four causes
+
+Notes[edit]
+
+
+
+^ Critical Thinking, Parker and Moore
+^ David Miller, "Critical Rationalism: A Restatement and Defense, Open Court Publishing, 1994, ISBN 0-8126-9198-9
+^ Robert J. Fogelin, Pyrrhonian Reflections on Knowledge and Justification, Oxford University Press, 1994, ISBN 978-0-19-508987-5
+
+
+
+References[edit]
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2007) (Learn how and when to remove this template message)
+
+
+
+
+William W. Bartley: Rationality versus the theory of rationality. In Mario Bunge (Ed.): The Critical Approach to Science and Philosophy (The Free Press of Glencoe, 1964)
+David Miller: A critique of good reasons. Critical rationalism (1994)
+David Miller: Sokal and Bricmont: Back to the Frying Pan. Pli 9 (2000), 156–73.
+David Miller: Overcoming the Justificationist Addiction. (2007)
+Karl Popper: On the sources of knowledge and ignorance. Conjectures and Refutations (1963).
+David Stove. Popper and After: Four Modern Irrationalists at the Wayback Machine (archived October 27, 2009). Oxford: Pergamon Press, 1982.
+Swinburne, R: Epistemic justification (2001)
+
+External links[edit]
+
+Internet Encyclopedia of Philosophy entry on Epistemic Justification
+Internet Encyclopedia of Philosophy entry on Epistemic Entitlement
+Internet Encyclopedia of Philosophy entry on Internalism and Externalism in Epistemology
+Internet Encyclopedia of Philosophy entry on Epistemic Consequentialism
+Internet Encyclopedia of Philosophy entry on Coherentism in Epistemology
+Internet Encyclopedia of Philosophy entry on Contextualism in Epistemology
+Stanford Encyclopedia of Philosophy entry on Foundationalist Theories of Epistemic Justification
+Stanford Encyclopedia of Philosophy entry on Epistemology, 2. What is Justification?
+Stanford Encyclopedia of Philosophy entry on Public Justification
+Stanford Encyclopedia of Philosophy entry on Internalist vs. Externalist Conceptions of Epistemic Justification
+Stanford Encyclopedia of Philosophy entry on Coherentist Theories of Epistemic Justification
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Positivism
+
+
+
+
+
+
+
+Perspectives
+
+
+
+Antihumanism
+Empiricism
+Rationalism
+Scientism
+
+
+
+
+
+Declinations
+
+
+
+Legal positivism
+Logical positivism / analytic philosophy
+Positivist school
+Postpositivism
+Sociological positivism
+Machian positivism (empiriocriticism)
+Rankean historical positivism
+Polish positivism
+Russian positivism (empiriomonism)
+
+
+
+
+
+Principal concepts
+
+
+
+Consilience
+Demarcation
+Evidence
+Induction
+Justificationism
+Pseudoscience
+Critique of metaphysics
+Unity of science
+Verificationism
+
+
+
+
+
+Antitheses
+
+
+
+Antipositivism
+Confirmation holism
+Critical theory
+Falsifiability
+Geisteswissenschaft
+Hermeneutics
+Historicism
+Historism
+Human science
+Humanities
+Problem of induction
+Reflectivism
+
+
+
+
+
+Related paradigm shifts
+in the history of science
+
+
+
+Non-Euclidean geometry (1830s)
+Heisenberg uncertainty principle (1927)
+
+
+
+
+
+Related topics
+
+
+
+Behavioralism
+Critical rationalism
+Criticism of science
+Epistemological idealism
+Epistemology
+Holism in anthropology
+Instrumentalism
+Modernism
+Naturalism in literature
+Nomothetic–idiographic distinction
+Objectivity in science
+Operationalism
+Phenomenalism
+Philosophy of science
+
+Deductive-nomological model
+Ramsey sentence
+Sense-data theory
+
+
+Qualitative research
+Relationship between religion and science
+Sociology
+Social science (Philosophy)
+Structural functionalism
+Structuralism
+Structuration theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+Positivist-related debate
+
+
+
+
+
+
+
+Method
+
+
+
+1890s Methodenstreit (economics)
+1909–1959 Werturteilsstreit
+1960s Positivismusstreit
+1980s Fourth Great Debate in international relations
+1990s Science Wars
+
+
+
+
+
+Contributions
+
+
+
+1830 The Course in Positive Philosophy
+1848 A General View of Positivism
+1869 Critical History of Philosophy
+1879 Idealism and Positivism
+1886 The Analysis of Sensations
+1927 The Logic of Modern Physics
+1936 Language, Truth, and Logic
+1959 The Two Cultures
+2001 The Universe in a Nutshell
+
+
+
+
+
+Proponents
+
+
+
+Richard Avenarius
+A. J. Ayer
+Auguste Comte
+Eugen Dühring
+Émile Durkheim
+Ernst Laas
+Ernst Mach
+Berlin Circle
+Vienna Circle
+
+
+
+
+
+Criticism
+
+
+
+1909 Materialism and Empirio-criticism
+1923 History and Class Consciousness
+1934 The Logic of Scientific Discovery
+1936 The Poverty of Historicism
+1942 World Hypotheses
+1951 Two Dogmas of Empiricism
+1960 Truth and Method
+1962 The Structure of Scientific Revolutions
+1963 Conjectures and Refutations
+1964 One-Dimensional Man
+1968 Knowledge and Human Interests
+1978 The Poverty of Theory
+1980 The Scientific Image
+1986 The Rhetoric of Economics
+
+
+
+
+
+Critics
+
+
+
+Theodor W. Adorno
+Gaston Bachelard
+Mario Bunge
+Wilhelm Dilthey
+Paul Feyerabend
+Hans-Georg Gadamer
+Thomas Kuhn
+György Lukács
+Karl Popper
+Willard Van Orman Quine
+Max Weber
+
+
+
+
+
+Concepts in contention
+
+
+
+Knowledge
+Phronesis
+Truth
+Verstehen
+
+
+
+
+
+
+
+
+
+
+
+
+Category
+
+
+
+
+
+
+
+
+Categories: MetatheoryJustificationEpistemological theoriesHidden categories: Wikipedia articles needing rewrite from March 2016All articles needing rewriteArticles needing additional references from March 2016All articles needing additional referencesArticles with multiple maintenance issuesAll articles with unsourced statementsArticles with unsourced statements from March 2016Articles that may contain original research from June 2014All articles that may contain original researchAll articles with links needing disambiguationArticles with links needing disambiguation from December 2017Articles lacking in-text citations from December 2007All articles lacking in-text citationsWebarchive template wayback links

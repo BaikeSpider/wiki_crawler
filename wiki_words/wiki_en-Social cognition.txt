@@ -1,0 +1,246 @@
+Social cognition
+For the academic journal, see Social Cognition (journal).
+
+
+Part of a series on
+
+
+Psychology
+
+
+
+
+
+
+
+Outline
+History
+Subfields
+
+
+
+
+
+
+Basic types
+
+
+Abnormal
+Behavioral genetics
+Biological
+Cognitive/Cognitivism
+Comparative
+Cross-cultural
+Cultural
+Differential
+Developmental
+Evolutionary
+Experimental
+Mathematical
+Neuropsychology
+Personality
+Positive
+Quantitative
+Social
+
+
+
+
+
+
+
+
+Applied psychology
+
+
+Applied behavior analysis
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Environmental
+Ergonomics
+Forensic
+Health
+Humanistic
+Industrial and organizational
+Legal
+Medical
+Military
+Music
+Occupational health
+Political
+Religion
+School
+Sport
+Traffic
+
+
+
+
+
+
+
+
+Lists
+
+
+Disciplines
+Organizations
+Psychologists
+Psychotherapies
+Publications
+Research methods
+Theories
+Timeline
+Topics
+
+
+
+
+
+
+
+
+ Psychology portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Social cognition is "a sub-topic of social psychology that focuses on how people process, store, and apply information about other people and social situations. It focuses on the role that cognitive processes play in social interactions."[1]
+More technically, social cognition refers to how people deal with conspecifics (members of the same species) or even across species (such as pet) information, include four stages: encoding, storage, retrieval, and processing. In the area of social psychology, social cognition refers to a specific approach in which these processes are studied according to the methods of cognitive psychology and information processing theory. According to this view, social cognition is a level of analysis that aims to understand social psychological phenomena by investigating the cognitive processes that underlie them.[2] The major concerns of the approach are the processes involved in the perception, judgment, and memory of social stimuli; the effects of social and affective factors on information processing; and the behavioral and interpersonal consequences of cognitive processes. This level of analysis may be applied to any content area within social psychology, including research on intrapersonal, interpersonal, intragroup, and intergroup processes.
+The term social cognition has been used in multiple areas in psychology and cognitive neuroscience, most often to refer to various social abilities disrupted in autism,[3] schizophrenia[4] and other disorders.[5] In cognitive neuroscience the biological basis of social cognition is investigated.[6][7][8] Developmental psychologists study the development of social cognition abilities.[9]
+
+
+
+Contents
+
+
+1 Historical development
+2 Social schemas
+3 Cultural differences
+4 Social cognitive neuroscience
+5 See also
+6 References
+7 Further reading
+
+
+
+Historical development[edit]
+Social cognition came to prominence with the rise of cognitive psychology in the late 1960s and early 1970s and is now the dominant model and approach in mainstream social psychology.[10] Common to social cognition theories is the idea that information is represented in the brain as "cognitive elements" such as schemas, attributions, or stereotypes. A focus on how these cognitive elements are processed is often employed. Social cognition therefore applies and extends many themes, theories, and paradigms from cognitive psychology that can be identified in reasoning (representativeness heuristic, base rate fallacy and confirmation bias), attention (automaticity and priming) and memory (schemas, primacy and recency). It is likely that social psychology has always had a more cognitive than general psychology approach, as it traditionally discussed internal mental states such as beliefs and desires when mainstream psychology was dominated by behaviorism.[11]
+One notable theory of social cognition is social schema theory, although it is not the basis of all social cognition studies (for example, see attribution theory).[11] It has been suggested that other disciplines in social psychology such as social identity theory and social representations may be seeking to explain largely the same phenomena as social cognition, and that these different disciplines might be merged into a "coherent integrated whole".[12] A parallel paradigm has arisen in the study of action, termed motor cognition, which is concerned with understanding the representation of action and the associated process.
+Social schemas[edit]
+Social schema theory builds on and uses terminology from schema theory in cognitive psychology, which describes how ideas or "concepts" are represented in the brain and how they are categorized. According to this view, when we see or think of a concept a mental representation or schema is "activated" bringing to mind other information which is linked to the original concept by association. This activation often happens unconsciously. As a result of activating such schemas, judgements are formed which go beyond the information actually available, since many of the associations the schema evokes extend outside the given information. This may influence social cognition and behaviour regardless of whether these judgements are accurate or not. For example, if an individual is introduced as a teacher, then a "teacher schema" may be activated. Subsequently, we might associate this person with wisdom or authority, or past experiences of teachers that we remember and consider important.
+When a schema is more accessible it can be more quickly activated and used in a particular situation. Two cognitive processes that increase accessibility of schemas are salience and priming. Salience is the degree to which a particular social object stands out relative to other social objects in a situation. The higher the salience of an object the more likely that schemas for that object will be made accessible. For example, if there is one female in a group of seven males, female gender schemas may be more accessible and influence the group's thinking and behavior toward the female group member.[11] Priming refers to any experience immediately prior to a situation that causes a schema to be more accessible. For example, watching a scary movie late at night might increase the accessibility of frightening schemas, increasing the likelihood that a person will perceive shadows and background noises as potential threats.
+Social cognition researchers are interested in how new information is integrated into pre-established schemas, especially when the information contrasts with the existing schema.[13] For example, a student may have a pre-established schema that all teachers are assertive and bossy. After encountering a teacher who is timid and shy, a social cognition researcher might be interested in how the student will integrate this new information with his/her existing teacher schema. Pre-established schemas tend to guide attention to new information, as people selectively attend to information that is consistent with the schema and ignore information that is inconsistent. This is referred to as a confirmation bias. Sometimes inconsistent information is sub-categorized and stored away as a special case, leaving the original schema intact without any alterations. This is referred to as subtyping.
+Social cognition researchers are also interested in the regulation of activated schemas. It is believed that the situational activation of schemas is automatic, meaning that it is outside individual conscious control.[citation needed] In many situations however, the schematic information that has been activated may be in conflict with the social norms of the situation in which case an individual is motivated to inhibit the influence of the schematic information on their thinking and social behavior.[citation needed] Whether a person will successfully regulate the application of the activated schemas is dependent on individual differences in self-regulatory ability and the presence of situational impairments to executive control.[citation needed] High self-regulatory ability and the lack of situational impairments on executive functioning increase the likelihood that individuals will successfully inhibit the influence of automatically activated schemas on their thinking and social behavior.[citation needed] When people stop suppressing the influence of the unwanted thoughts, a rebound effect can occur where the thought becomes hyper-accessible.[citation needed]
+Cultural differences[edit]
+Social psychologists have become increasingly interested in the influence of culture on social cognition.[14] Although people of all cultures use schemas to understand the world, the content of schemas has been found to differ for individuals based on their cultural upbringing. For example, one study interviewed a Scottish settler and a Bantu herdsman from Swaziland and compared their schemas about cattle.[15] Because cattle are essential to the lifestyle of the Bantu people, the Bantu herdsmen's schemas for cattle were far more extensive than the schemas of the Scottish settler. The Bantu herdsmen was able to distinguish his cattle from dozens of others, while the Scottish settler was not.
+Cultural influences have been found to shape some of the basic ways in which people automatically perceive and think about their environment.[14] For example, a number of studies have found that people who grow up in East Asian cultures such as China and Japan tend to develop holistic thinking styles, whereas people brought up in Western cultures like Australia and the USA tend to develop analytic thinking styles.[16][17] The typically Eastern holistic thinking style is a type of thinking in which people focus on the overall context and the ways in which objects relate to each other.[16] For example, if an Easterner was asked to judge how a classmate is feeling then he/she might scan everyone's face in the class, and then use this information to judge how the individual is feeling.[18] On the other hand, the typically Western analytic thinking style is a type of thinking style in which people focus on individual objects and neglect to consider the surrounding context.[17] For example, if a Westerner was asked to judge how a classmate is feeling, then he or she might focus only on the classmate's face in order to make the judgment.[18]
+Nisbett (2003) suggested that cultural differences in social cognition may stem from the various philosophical traditions of the East (i.e. Confucianism and Buddhism) versus the Greek philosophical traditions (i.e. of Aristotle and Plato) of the West.[14] However, recent research indicates that differences in social cognition may originate from physical differences in the environments of the two cultures. One study found that scenes from Japanese cities were 'busier' than those in the USA as they contain more objects which compete for attention. In this study, the Eastern holistic thinking style (and focus on the overall context) was attributed to the busier nature of the Japanese physical environment.[19]
+Social cognitive neuroscience[edit]
+Early interest in the relationship between brain function and social cognition includes the case of Phineas Gage, whose behaviour was reported to have changed after an accident damaged one or both of his frontal lobes. More recent neuropsychological studies have shown that brain injuries disrupt social cognitive processes. For example, damage to the frontal lobes can affect emotional responses to social stimuli[20][21][22] and performance on theory of mind tasks.[23][24] In the temporal lobe, damage to the fusiform gyrus can lead to the inability to recognize faces.
+People with psychological disorders such as autism,[3][25] psychosis,[4][26] mood disorder,[27] Williams syndrome, antisocial personality disorder,[5] Fragile X and Turner's syndrome[28] show differences in social behavior compared to their unaffected peers. Parents with posttraumatic stress disorder (PTSD) show disturbances in at least one aspect of social cognition: namely, joint attention with their young children only after a laboratory-induced relational stressor as compared to healthy parents without PTSD.[29] However, whether social cognition is underpinned by domain-specific neural mechanisms is still an open issue.[30] There is now an expanding research field examining how such conditions may bias cognitive processes involved in social interaction, or conversely, how such biases may lead to the symptoms associated with the condition.
+The development of social cognitive processes in infants and children has also been researched extensively (see developmental psychology). For example, it has been suggested that some aspects of psychological processes that promote social behavior (such as facial recognition) may be innate. Consistent with this, very young babies recognize and selectively respond to social stimuli such as the voice, face and scent of their mother.[31]
+See also[edit]
+
+
+Behavioral sink
+Cognitive dissonance
+Distributed cognition
+Empathy
+Joint attention
+Neurodevelopmental framework for learning
+Observational learning
+Online participation
+Paranoid social cognition
+Situated cognition
+Social cognitive theory
+social cognitive theory of morality
+Social emotion
+Social intelligence
+Social neuroscience
+
+
+References[edit]
+
+
+^ Park, Mina; Song, Jae-Jin; Oh, Seo Jin; Shin, Min-Sup; Lee, Jun Ho; Oh, Seung Ha (2015). "The Relation between Nonverbal IQ and Postoperative CI Outcomes in Cochlear Implant Users: Preliminary Result". BioMed Research International. 2015: 1–7. doi:10.1155/2015/313274. ISSN 2314-6133. 
+^ (International Social Cognition Network: http://www.socialcognition.info)
+^ a b Striano, T.; Reid, V. (eds.). Social Cognition: Development, Neuroscience and Autism. Wiley-Blackwell. ISBN 1-4051-6217-1. 
+^ a b Billeke, P.; Aboitiz, F. (February 2013). "Social cognition in schizophrenia: from social stimuli processing to social engagement". Frontiers in Psychiatry. 4 (4): eCollection 2013. doi:10.3389/fpsyt.2013.00004. PMC 3580762 . PMID 23444313. 
+^ a b Blair, J.; Mitchel, D.; Blair, K. (2005). Psychopathy, emotion and the brain. Wiley-Blackwell. pp. 25–7. ISBN 0-631-23336-9. 
+^ Cacioppo, J.T.; Berntson, G.G.; Sheridan, J.F. & McClintock, M.K. (2000). "Multilevel integrative analyses of human behavior: social neuroscience and the complementing nature of social and biological approaches" (PDF). Psychological Bulletin. 126 (6): 829–43. doi:10.1037/0033-2909.126.6.829. PMID 11107878. 
+^ Cacioppo, J.T. (2002). "Social neuroscience: understanding the pieces fosters understanding the whole and vice versa". American Psychologist. 57 (11): 819–31. doi:10.1037/0003-066X.57.11.819. PMID 12564179. 
+^ Adolphs, R. (1999). "Social cognition and the human brain". Trends in Cognitive Sciences. 3 (12): 469–79. doi:10.1016/S1364-6613(99)01399-6. PMID 10562726. 
+^ Shaffer, D.R.; Kipp, K. (2009). "Chapter 12: Theories of social and cognitive development". Developmental Psychology: Childhood and Adolescence. Wadsworth Publishing Company. ISBN 0-495-60171-3. 
+^ Husain, A. (2012). "Chapter 5: Social Perception and Cognition". Social Psychology. Pearson Education India. ISBN 9788131760000. 
+^ a b c Fiske, S.T.; Taylor, S.E. (1991). Social Cognition. McGraw-Hill, Inc. ISBN 0-07-100910-8. 
+^ Augustinos, M.; Walker, I.; Donaghue, N. (2006). Social Cognition an Integrated Introduction. London: Sage Publications Ltd. ISBN 0-7619-4218-1. 
+^ Alpay, L.; Verhoef, J.; Teeni, D.; Putter, H.; Toussaint, P.; Zwetsloot-Schonk, J. (2008). "Can contextualisation increase understanding during man-machine communication? A theory driven study". The Open Medical Informatics Journal. 2: 82–91. doi:10.2174/1874431100802010082. PMC 2669642 . PMID 19415137. 
+^ a b c Aronson, E.; Wilson, T; Akert, R. (2010). "Chapter 3: Social Cognition". Social Psychology. Pearson. 
+^ Bartlett, F. (1932). Remembering. Cambridge: Cambridge University Press. p. 249. 
+^ a b Nisbett, R.; Peng, K.; Choi, I.; Norenzayan, A. (2001). "Culture and Systems of thought: Holistic vs. analytic cognition". Psychological Review. 108 (2): 291–310. doi:10.1037/0033-295X.108.2.291. PMID 11381831. 
+^ a b Masuda, T.; Nisbett, R. (2006). "Culture and change blindness". Cognitive science: A multidisciplinary journal. 30 (2): 381–389. doi:10.1207/s15516709cog0000_63. 
+^ a b Masuda, T.; Elsworth, T.; Mesquita, B. (2008). "Placing the face in context: Cultural differences in the perception of facial emotion". Journal of Personality and Social Psychology. 94 (3): 365–381. doi:10.1037/0022-3514.94.3.365. PMID 18284287. 
+^ Miyamoto, Y.; Kitayama, S. (2002). "Cultural variation in correspondence bias: The critical role of attitude diagnosticity of socially constrained behaviour". Journal of Personality and Social Psychology. 83 (5): 1239–1248. doi:10.1037/0022-3514.83.5.1239. PMID 12416925. 
+^ Harmon-Jones, E.; Winkielman, P. (2007). Social Neuroscience: Integrating Biological and Psychological Explanations of Social Behavior. Guilford Press. ISBN 978-1-59385-404-1. 
+^ Damasio, A.R. (1994). Descarte's Error: Emotion, reason and the human brain. New York: Picador. ISBN 0-333-65656-3. 
+^ Hornak, J.; Rolls, E.T.; Wade, D. (1996). "Face and voice expression identification in patients with emotional and behavioral changes following ventral frontal lobe damage". Neuropsychologia. 34 (4): 247–61. doi:10.1016/0028-3932(95)00106-9. PMID 8657356. 
+^ Stone, V.E.; Baron-Cohen, S.; Knight, R.T. (1998). "Frontal lobe contributions to theory of mind". Journal of Cognitive Neuroscience. 10 (5): 640–56. doi:10.1162/089892998562942. PMID 9802997. 
+^ Brunet, E.; Sarfati, Y.; Hardy-Bayle, MC.; Decety, J. (2000). "A PET investigation of attribution of intentions to others with a non-verbal task". NeuroImage. 11 (2): 157–66. doi:10.1006/nimg.1999.0525. PMID 10679187. 
+^ Subbaraju V, Sundaram S, Narasimhan S.  Identification of lateralized compensatory neural activities within the social brain due to autism spectrum disorder in adolescent males. European Journal of Neuroscience. 2017.
+^ Fusar-Poli, P.; Deste, G.; Smieskova, R.; Barlati, S.; Yung, AR.; Howes, O.; Stieglitz, RD.; Vita, A.; McGuire, P.; Borgwardt, Stefan (Jun 2012). "Cognitive functioning in prodromal psychosis: a meta-analysis". Arch Gen Psychiatry. 69 (6): 562–71. doi:10.1001/archgenpsychiatry.2011.1592. PMID 22664547. 
+^ Billeke, P.; Boardman, S.; Doraiswamy, P. (December 2013). "Social cognition in major depressive disorder: A new paradigm?". Translational Neuroscience. 4 (4): 437–447. doi:10.2478/s13380-013-0147-9. 
+^ Mazzocco, M.M.M.; Baumgardner, Thomas; Freund, Lisa S.; Reiss, Allan L.; et al. (1998). "Social Functioning Among Girls with Fragile X or Turner Syndrome and Their Sisters". Journal of Autism and Developmental Disorders. 28 (6): 509–17. doi:10.1023/A:1026000111467. PMID 9932237. 
+^ Schechter, D.S.; Willheim, E.; Hinojosa, C.; Scholfield-Kleinman, K.; Turner, J.B.; McCaw, J.; Zeanah, C.H.; Myers, M.M. (2010). "Subjective and objective measures of parent-child relationship dysfunction, child separation distress, and joint attention". Psychiatry: Interpersonal and Biological Processes. 73 (2): 130–44. doi:10.1521/psyc.2010.73.2.130. PMID 20557225. 
+^ Stone, V.E.; Gerrans, P. (2006). "What's domain-specific about theory of mind". Social Neuroscience. 1 (3–4): 309–19. doi:10.1080/17470910601029221. PMID 18633796. 
+^ Bremner, J.G. (1994). "Chapter 5: Social Development". Infancy. pp. 182–3. ISBN 0-631-14809-4. .
+
+
+Further reading[edit]
+
+
+Library resources about
+Social cognition
+
+
+
+
+
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+Fiske, S.T. (2004). Social beings: A core motives approach to social psychology. New York: Wiley.
+Fiske, S.T. & Taylor, S.E. (2008). Social Cognition: From Brains to Culture. New York: McGraw-Hill.
+Malle, B. (2004). How the mind explains behavior: Folk explanations, meaning, and social interaction. Cambridge, MA: MIT Press.
+Malle, B. & Hodges, S.D. (2005). Other Minds: How Humans Bridge the Divide Between Self and Others. New York: Guilford Press.
+Valsiner, J., Social organization of cognitive development, Internalization and externalization of constraint systems, In Demetriou, et al., (1992, eds.), Neo-Piagetian Theories of Cognitive Development. New York, Routledge.
+Marilynn B. Brewer, Miles Hewstone. 2004. Social Cognition: Perspectives on Social Psychology. Publisher John Wiley & Sons, 2004. ISBN 1405110708, 9781405110709
+Ngaire Donaghue, Iain Walker, Martha Augoustinos. 2006. Social Cognition: An Integrated Introduction. Publisher -Pine Forge Press. ISBN 0761942181, 9780761942184
+Ziva Kunda. 1999. Social Cognition: Making Sense of People. Publisher MIT Press. ISBN 0262611430, 9780262611435
+Dona Pennington. 2000. Social Cognition;Routledge Modular Psychology. Publisher-Routledge. ISBN 0415217059, 9780415217057
+Herbert Bless. 2004. Social Cognition: How Individuals Construct Reality:Social Psychology. Publisher-Psychology Press. ISBN 0863778291, 9780863778292
+
+
+
+
+
+Categories: Behavioral conceptsCognitive scienceCognitionEnactive cognitionSocial learning theorySocial psychologySocial philosophyHidden categories: All articles with unsourced statementsArticles with unsourced statements from May 2017Pages using div col without cols and colwidth parameters

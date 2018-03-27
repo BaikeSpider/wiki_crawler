@@ -1,0 +1,518 @@
+Infinitism
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2015) (Learn how and when to remove this template message)
+
+
+
+Infinitism is the view that knowledge may be justified by an infinite chain of reasons. It belongs to epistemology, the branch of philosophy that considers the possibility, nature, and means of knowledge.
+
+
+
+Contents
+
+
+1 Epistemological infinitism
+2 See also
+3 References
+4 External links
+
+
+
+Epistemological infinitism[edit]
+Since Gettier, "knowledge" is no longer widely accepted as meaning "justified true belief" only.[1] However, some epistemologists[who?] still consider knowledge to have a justification condition. Traditional theories of justification (foundationalism and coherentism) and indeed some philosophers[who?] consider an infinite regress not to be a valid justification. In their view, if A is justified by B, B by C, and so forth, then either
+
+The chain must end with a link that requires no independent justification (a foundation),
+The chain must come around in a circle in some finite number of steps (the belief may be justified by its coherence), or
+Our beliefs must not be justified after all (as is posited by philosophical skeptics).
+
+Infinitism, the view, for example, of Peter D. Klein, challenges this consensus, referring back to work of Paul Moser (1984) and John Post (1987).[2] In this view, the evidential ancestry of a justified belief must be infinite and non-repeating, which follows from the conjunction two principles that Klein sees as having straightforward intuitive appeal: "The Principle of Avoiding Circularity" and "The Principle of Avoiding Arbitrariness."
+The Principle of Avoiding Circularity (PAC) is stated as follows: "For all x, if a person, S, has a justification for x, then for all y, if y is in the evidential ancestry of x for S, then x is not in the evidential ancestry of y for S."[3] PAC says that the proposition to be justified cannot be a member of its own evidential ancestry, which is violated by coherence theories of justification.
+The Principle of Avoiding Arbitrariness (PAA) is stated as follows: "For all x, if a person, S, has a justification for x, then there is some reason, r1, available to S for x; and there is some reason, r2, available to S for r1; etc."[4] PAA says that in order to avoid arbitrariness, for any proposition x to be justified for an epistemological agent, there must be some reason r available to the agent; this reason will in turn require the same structure of justification, and so on ad infinitum. Foundationalist theories can only avoid arbitrariness by claiming that some propositions are self-justified. But if a proposition is its own justification (e.g. coherentism), then it is a member of its own evidential ancestry, and the structure of justification is circular.
+In this view, the conjunction of both PAC and PAA leaves infinitism as the only alternative to skepticism.[5]
+The Availability of Reasons: Klein also relies on the notion of "availability". In other words, a reason must be available to the subject in order for it to be a candidate for justification. There are two conditions that need to be satisfied in order for a reason to be available: objectively and subjectively.
+An objectively available reason is stated as follows: "a belief, r, is objectively available to S as a reason for p if (1) r has some sufficiently high probability and the conditional probability of p given r is sufficiently high; or (2) an impartial, informed observer would accept r as a reason for p; or (3) r would be accepted in the long run by an appropriately defined set of people; or (4) r is evident for S and r makes p evident for S; or (5) r accords with S's deepest epistemic commitments; or (6) r meets the appropriate conversational presuppositions; or (7) an intellectually virtuous person would advance r as a reason for p."[6] Any of these conditions are sufficient to describe objectively available reasons and are compatible with infinitism. Klein concedes that, ultimately, the proper characterization of objectively available need be a member of this list, but, for the scope of Klein's defense of infinitism, he need not provide a fully developed account of objectively available reasons. Objective availability could be best understood, at least as a working definition, as an existing, truth-apt reason not dependant on the subject.
+A subjectively available reason is stated as follows: "S must be able to call on r." (Subjectively available is comparatively straightforward compared to objectively available.) The subject must be able to evoke the reason in their own mind and use the reason in the process of justification. In essence, the reason must be "properly hooked up with S's own beliefs" in order to be subjectively available.
+A reason that is both objectively and subjectively available to a subject is a candidate for justification according to infinitism (or, at least for Klein).[7]
+Objection to Infinitism: Klein addresses an objection to infinitism.
+The finite mind objection (attributed to John Williams): The human mind is finite and has a limited capacity. "It is impossible to consciously believe an infinite number of propositions (because to believe something takes some time) and it is impossible to "unconsciously believe"...an infinite number of propositions because the candidate beliefs are such that some of them "defeat human understanding."[8] It is simply an impossibility that a subject has an infinite chain of reasons which justify their beliefs because the human mind is finite. Klein concedes that the human mind is finite and cannot contain an infinite number of reasons, but the infinitist, according to Klein, is not committed to a subject actually possessing infinite reasons. "The infinitist is not claiming that in any finite period of time...we can consciously entertain an infinite number of thoughts. It is rather that there are an infinite number of propositions such that each one of them would be consciously thought were the appropriate circumstances to arise."[9] So, an infinite chain of reasons need not be present in the mind in order for a belief to be justified rather it must merely be possible to provide an infinite chain of reasons. There will always be another reason to justify the preceding reason if the subject felt compelled to make the inquiry and had subjective access to that reason.
+See also[edit]
+
+Fallibilism
+Finitism
+Perspectivism
+Regress argument
+Relativism
+
+References[edit]
+
+
+
+^ Ichikawa, Jonathan Jenkins; Steup, Matthias (2017-03-17). "The Analysis of Knowledge". In Zalta, Edward N. Stanford Encyclopedia of Philosophy (Fall 2017 ed.). 
+^ Klein, Peter D.; Turri, John. "Infinitism in Epistemology". Internet Encyclopedia of Philosophy. Retrieved 2015-06-19. 
+^ Klein, Peter D. (1999). "Human Knowledge and the Infinite Regress of Reasons". Philosophical Perspectives. 13: 297–325. 
+^ Klein, Peter D. (1999). "Human Knowledge and the Infinite Regress of Reasons". Philosophical Perspectives. 13: 297–325. 
+^ Klein, Peter D. (1999). "Human Knowledge and the Infinite Regress of Reasons". Philosophical Perspectives. 13: 297–325. 
+^ Klein, Peter D. (1999). "Human Knowledge and the Infinite Regress of Reasons". Philosophical Perspectives. 13: 297–325. 
+^ Klein, Peter D. (1999). "Human Knowledge and the Infinite Regress of Reasons". Philosophical Perspectives. 13: 297–325. 
+^ Klein, Peter D. (1999). "Human Knowledge and the Infinite Regress of Reasons". Philosophical Perspectives. 13: 297–325. 
+^ Klein, Peter D. (1999). "Human Knowledge and the Infinite Regress of Reasons". Philosophical Perspectives. 13: 297–325. 
+
+
+
+External links[edit]
+
+Infinitism at PhilPapers
+"Infinitism in Epistemology". Internet Encyclopedia of Philosophy. 
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of science
+
+
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+A priori and a posteriori
+Causality
+Commensurability
+Consilience
+Construct
+Creative synthesis
+Demarcation problem
+Empirical evidence
+Explanatory power
+Fact
+Falsifiability
+Feminist method
+Ignoramus et ignorabimus
+Inductive reasoning
+Intertheoretic reduction
+Inquiry
+Nature
+Objectivity
+Observation
+Paradigm
+Problem of induction
+Scientific law
+Scientific method
+Scientific revolution
+Scientific theory
+Testability
+Theory choice
+Theory-ladenness
+Underdetermination
+Unity of science
+
+
+
+
+
+Metatheory
+of science
+
+
+
+Coherentism
+Confirmation holism
+Constructive empiricism
+Constructive realism
+Constructivist epistemology
+Contextualism
+Conventionalism
+Deductive-nomological model
+Hypothetico-deductive model
+Inductionism
+Epistemological anarchism
+Evolutionism
+Fallibilism
+Foundationalism
+Instrumentalism
+Pragmatism
+Model-dependent realism
+Naturalism
+Physicalism
+Positivism / Reductionism / Determinism
+Rationalism / Empiricism
+Received view / Semantic view of theories
+Scientific realism / Anti-realism
+Scientific essentialism
+Scientific formalism
+Scientific skepticism
+Scientism
+Structuralism
+Uniformitarianism
+Vitalism
+
+
+
+
+
+Philosophy of
+
+
+
+Physics
+
+thermal and statistical
+Motion
+
+
+Chemistry
+Biology
+Environment
+Geography
+Social science
+Technology
+
+Engineering
+Artificial intelligence
+Computer science
+
+
+Information
+Mind
+Psychiatry
+Psychology
+Perception
+Space and time
+
+
+
+
+
+Related topics
+
+
+
+Alchemy
+Criticism of science
+Epistemology
+Faith and rationality
+History and philosophy of science
+History of science
+History of evolutionary thought
+Logic
+Metaphysics
+Pseudoscience
+Relationship between religion and science
+Rhetoric of science
+Sociology of scientific knowledge
+Sociology of scientific ignorance
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philosophers of science by era
+
+
+
+
+
+
+
+Ancient
+
+
+
+Plato
+Aristotle
+Stoicism
+Epicureans
+
+
+
+
+
+Medieval
+
+
+
+Averroes
+Avicenna
+Roger Bacon
+William of Ockham
+Hugh of Saint Victor
+Dominicus Gundissalinus
+Robert Kilwardby
+
+
+
+
+
+Early modern
+
+
+
+Francis Bacon
+Thomas Hobbes
+René Descartes
+Galileo Galilei
+Pierre Gassendi
+Isaac Newton
+David Hume
+
+
+
+
+
+Classical modern
+
+
+
+Immanuel Kant
+Friedrich Schelling
+William Whewell
+Auguste Comte
+John Stuart Mill
+Herbert Spencer
+Wilhelm Wundt
+Charles Sanders Peirce
+Wilhelm Windelband
+Henri Poincaré
+Pierre Duhem
+Rudolf Steiner
+Karl Pearson
+
+
+
+
+
+Late modern
+
+
+
+Alfred North Whitehead
+Bertrand Russell
+Albert Einstein
+Otto Neurath
+C. D. Broad
+Michael Polanyi
+Hans Reichenbach
+Rudolf Carnap
+Karl Popper
+Carl Gustav Hempel
+W. V. O. Quine
+Thomas Kuhn
+Imre Lakatos
+Paul Feyerabend
+Jürgen Habermas
+Ian Hacking
+Bas van Fraassen
+Larry Laudan
+Daniel Dennett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portal
+Category
+
+
+
+
+
+
+
+
+
+
+Categories: Epistemological theoriesInternalism and externalismInfinityJustificationHidden categories: Articles needing additional references from June 2015All articles needing additional referencesAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from March 2016

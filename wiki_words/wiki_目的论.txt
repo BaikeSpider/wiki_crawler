@@ -1,0 +1,139 @@
+目的论
+目的论（英语：Teleology）属于哲学的范畴，致力于探讨事物产生的目的、本源和其归宿。
+
+
+
+目录
+
+
+1 正反论调
+2 外在和内在
+3 古典希腊目的论
+4 现代/后现代哲学
+5 科学
+
+5.1 人择原理
+5.2 科技
+
+
+6 参阅
+7 引用和注释
+8 外部链接
+9 延伸阅读
+
+
+
+正反论调[编辑]
+传统上目的论与哲学自然论（或偶然论）是对立的。例如，自然论者会认为人有眼睛所以人有视力，即所谓“形式决定功能”（function following form）；相反，目的论者认为人有眼睛因为人需要视觉，即是所谓的“功能决定形式”（form follows function）。
+以下阿里士多德和卢克莱修的言论，正好反映了目的论与自然论的对立。
+
+
+
+
+
+
+“
+大自然里，生物的器官顺着功能而演变，功能不是顺着器官而来。
+”
+
+
+— 阿里士多德，De Partibus Animalium[1]
+
+
+
+
+
+
+“
+身体不是因应我们的需要而造，存在是功能的因。
+”
+
+
+— 卢克莱修，De Rerum Natura[2]
+
+
+
+
+
+
+外在和内在[编辑]
+目的论认为事物的存在源于“最终目的”，这可分为两种：
+
+外在最终目的（extrinsic finality）：某东西的存在目的是为了其他东西的福祉。例如，矿物质的存在注定是为了植物的生存，而植物的存在则注定是为了动物的生存。
+内在最终目的（Intrinsic finality）：某东西的存在目的，是为了自然而然达成完善自己这个目的。
+
+过分强调外在最终目的，很容易凡事都诉诸鬼神，导致迷信。例如，“如果我今天不来这商店，我就不会发现地上的100元。这是神的旨意，他要我到商店来发现这钱。”或者“我赢钱全靠这对幸运袜。”类似的想法被培根（"De Dignitate et Augmentis Scientiarum," III, iv）、笛卡儿（"Principia Philosophiæ", I, 28; III, 2, 3; "Meditationes", III, IV）和史宾诺沙（Ethica, I, prop. 36 app.）所批评。
+内在最终目的则提供了上帝或其他超自然力量存在的论据，也是智能设计论的理论基础。支持者认为它解决了自然论的基本缺陷：自然论只探讨即时的原因和事件发生的机制，但忽略了事件发生的最终原因。
+古典希腊目的论[编辑]
+亚里士多德认为，将所有事情都视为必然是错误的，因为这样忽略了事情的目的、秩序和背后的最终原因。
+
+
+“
+可是，德谟克利特忽略了最终原因，将所有自然的规律视为理所当然。的确这些规律是必然的，但他们背后有其最终原因…把必然当成原因，无异于水肿病人被放水单纯是因为刀刺入他，而不是为了治愈他。
+”
+
+
+— 亚里士多德，Generation of Animals V.8，789a8-b15
+
+
+亚里士多德将事物的发展因分四种：物质因、形式因、动因和目的因。
+现代/后现代哲学[编辑]
+历史上，目的论被视为承继了亚里士多德的理念。其后康德探究了目的论的原理，而黑格尔也以目的论为思辨哲学的中心思想，马克思及其他新黑格尔学派也有跟随。
+科学[编辑]
+人择原理[编辑]
+在物理学和天文学范畴，近年以目的论为基础的研究出现，被冠以人择原理之名。人择原理想解决的问题是：为什么宇宙从极度简单的状态（大爆炸）发展到如此复杂，甚至发展到适合人类如此复杂的生物生存？
+科技[编辑]
+在科技的领域，“目的”的研究由来已久。“目的机制”（即调整运作的反馈）研究可追溯至1700年代末期瓦特在蒸汽机装置调节器（governor）。近年，学者将机器中的“目的研究”称为反馈机制。诺伯特·维纳以控制论（cybernetics）一词代表“目的机制”的研究。
+参阅[编辑]
+
+哲学自然论
+控制论
+人择原理
+
+引用和注释[编辑]
+
+
+^ De Partibus Animalium (On the Parts of Animals), IV, xii, 694b; 13
+^ De Rerum Natura (On the Nature of Things), IV, 833; cf. 822-56. William Leonard's translation is very different: "Since naught is born in body so that we / May use the same, but birth engenders use".
+
+
+外部链接[编辑]
+
+张汝伦：〈什么是“自然”？〉（2011）
+
+延伸阅读[编辑]
+
+Aristotle, Metaphysics Book Theta (translated with an introduction and commentary by Stephen Makin), Oxford University Press, 2006. (ISBN 0-19-875108-7 / 978-0-19-875108-3)
+John D. Barrow and Frank J. Tipler, The Anthropic Cosmological Principle, Oxford University Press, 1986. (ISBN 0-19-282147-4)
+Julian Bigelow, Arturo Rosenblueth, and Norbert Wiener, 1943, "Behavior, Purpose and Teleology," Philosophy of Science 10: 18-24.
+Monte Ransome Johnson, Aristotle on Teleology, Oxford University Press, 2005. (ISBN 0-19-928530-6 / 978-0-19-928530-3)
+Kelvin Knight, Aristotelian Philosophy: Ethics and Politics from Aristotle to MacIntyre, Polity Press, 2007. (ISBN 978-0-7456-1977-4 / 0-745-61977-0)
+Georg Lukacs. History and Class Consciousness. (ISBN 0-262-62020-0)
+Horkheimer and Adorno. Dialectic of Enlightenment. (ISBN 0-8047-3632-4)
+Alasdair MacIntyre, 'First Principles, Final Ends, and Contemporary Philosophical Issues', in idem., The Tasks of Philosophy: Selected Essays, Volume 1, Cambridge University Press, 2006. (ISBN 978-0-521-67061-6 / 0-521-67061-6)
+Herbert Marcuse. Hegel's Ontology and the Theory of Historicity. (ISBN 0-262-13221-4)
+Lowell Nissen, Teleological Language in the Life Sciences, Rowman & Littlefield, 1997 (ISBN 0-8476-8694-9)
+
+
+
+
+
+
+规范控制
+
+
+
+NDL: 00567800
+
+
+
+
+
+
+
+
+
+
+
+
+分类：哲学分支目的论形而上学理论隐藏分类：使用ISBN魔术链接的页面

@@ -1,0 +1,2 @@
+Roguelike
+Roguelike是电子角色扮演游戏（RPG游戏）的一个子类。标志性特征有：在随机生成的地牢中探索、回合制、基于图块的图像（tile-based graphics）以及角色的永久死亡。大部分Roguelike游戏的背景根植于一个完全的奇幻世界，受到了如龙与地下城等桌上角色扮演游戏的影响。尽管Beneath Apple Manor与Sword of Fargoal诞生在先，但1980年开发的Rogue被认为是Roguelike的先驱与该类型名称的来源。上世纪80与90年代，Roguelike 游戏在大学生及程序员中十分流行，并衍生出了诸多变体，但都严格遵守了被称为“柏林准则”的一些规则。著名的传统Roguelike游戏有：Hack、NetHack、Ancient Domains of Mystery、Moria,、Angband、深入地下城之石头汤（DCSS）以及Tales of Maj'Eyal（马基埃亚尔的传说）。

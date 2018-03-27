@@ -1,0 +1,461 @@
+Apple II
+
+
+
+
+
+
+
+
+
+16色显示屏的Apple II于纽约电脑展
+
+
+
+
+
+
+1977年的Apple II，搭载集成式键盘、彩色显示、音效、塑料机箱与8个扩充槽。
+
+
+Apple II是苹果公司制作的第一种普及的微电脑。它的直系先祖是Apple I——一种有限的、以印刷电路板组成的电脑。许多电子玩家基于此电脑创新了许多功能，使Apple II达到商业上的成功。自1977年于西岸电脑展（West Coast Computer Faire）首次发布后，Apple II成为一种成功的个人电脑。几种不同的机型先后上市贩售，而最普及的机型一直到1990年代都只有不大的改变。直至1993年为止，估计共生产了5－6百万部Apple II（包括约125万部Apple IIGS） 。
+在1980－1990年代，Apple II是美国教育系统实际采用的标准电脑。直至今日，仍有一些还在教室里并能正常使用。Apple II在商业、家庭与学校用户之间很普及，特别是在第一款试算表软件“VisiCalc”发布后。这个软件一开始只能在Apple II上运行。
+Apple II本来运作时只有一开机ROM里内置的BASIC编程语言解释器可用，后来才随着软盘驱动器的加入而有“Apple DOS”。最后一版的DOS是“Apple DOS 3.3”，后来DOS被ProDOS取代来支持分层文件系统以及较大容量的存储设备，能使用软盘或硬盘。此外 Apple II 也可以使用 UCSD Pascal 操作系统，UCSD 二进制格式与包含 IBM-PC 在内的其他电脑系统兼容。使用Z80接口的话，Apple II也可以运行CP/M操作系统上的Wordstar和dBase软件。　
+苹果公司的麦金塔产品线最终在1990年代初接替了Apple II系列。但即使在麦金塔上市之后， Apple II仍然有好几年是苹果的主要收入来源：Apple II与其相关的第一方开发者与零售商社区曾是年收入逾十亿美元的事业。IIGS一直卖到1992年末，IIe则在 1993年10月15日从产品线上移除，象征一个时代的结束。
+
+
+
+目录
+
+
+1 设计
+2 型号
+
+2.1 Apple II
+2.2 Apple II Plus
+2.3 Apple II Europlus
+2.4 Apple IIe
+2.5 Apple IIc
+2.6 Apple IIGS
+2.7 Apple IIc Plus
+2.8 Apple IIe卡
+2.9 其他周边适配器
+2.10 最后几年
+
+
+3 销售、广告与包装
+4 复制品
+5 一般资讯
+
+5.1 Apple II存储媒体
+5.2 "II"名称的表示
+5.3 历程
+5.4 工业影响
+
+
+6 参见
+7 参考文献
+8 外部链接
+
+
+
+设计[编辑]
+
+
+
+
+Apple II内部
+
+
+不像其他之前的微电脑，Apple II看起来更像是家用电器而不是一大块电子仪器。这使它无论摆在家中、在经理的办公桌上或在教室里都不会显得突兀。它的上盖可以轻易地从米色的塑料机箱上拿起，便于更改电脑内部的硬件设置，包括主板上的8个扩充槽及内存插槽。最高可有48 KB的内存。
+Apple II有彩色、高分辨率的图形显示模式，音效功能与两种基于BASIC的内置编程语言－Applesoft与Integer与其他微电脑相比，这些功能被完善记载且易于学习。Apple II开启了个人电脑革命，因为它面向大众，而不仅仅是科技狂人与工程师。其上市发表与后来的普及更深刻影响了后继的许多种微电脑。Gerald VanDiver与Rolland Love 写的"VanLOVEs Apple Handbook"与"The Apple Educators Guide"披露了1500种Apple II系列可用的软件。Apple II贩售商则用这些书来向客户强调其在教育与个人使用上之软件开发基础的成长。
+型号[编辑]
+Apple II[编辑]
+第一款Apple II电脑于1977年6月5日上市，搭载MOS科技1 MHz 6502微处理器、4KB内存以及用以读取程序及数据的录音带接口。并在ROM中内置Integer BASIC编程语言。其视频控制器能在屏幕上显示24行x40列的大写字母。它使用NTSC混合视频输出，适合在屏幕或接了RF模组的电视机上显示画面。它的最初零售价是1298美元（4KB内存）或2638美元（内存上限可达48KB）。为了反映其彩色图像显示能力，机箱上的苹果图案着上了彩虹条纹，而这个图案随后成为苹果公司的代表图案，直到1998年初为止。[1]最早的Apple II在硅谷组装，后来移到德州[2]；印刷电路板则在爱尔兰与新加坡生产。
+在1978年，外接式的5¼英寸软驱－Disk II被用以储存及恢复数据，代替原来的录音带。它需要接在一张控制卡上，而控制卡则需插在扩充槽上（通常是第6个槽（PR#6））。这个由史蒂夫·沃兹尼克创造的Disk II接口被认为是工程上的极品，因为它的组成零件相当便宜。[3] [4]在其他控制器需要大量芯片以在磁盘旋转时同步数据输入、输出、使读写头能正确寻轨及将数据编码转换成磁力信号时，沃兹尼克发明的控制器只需要少量的芯片。Apple DOS使用软件来执行这些操作。该控制器使用的Group Code Recording比更常使用的MFM方式使得以软件实现上述功能更加容易。最后，少量芯片的使用让Disk II成为第一种个人电脑用户负担得起的软驱。由此并引发了一些其他影响。沃兹的方案使专有软件开发者可以利用改变低阶扇区格式或使磁头跨越轨道以达成防拷保护。但不可避免地，其他公司最后开始贩卖可以破解保护的软件。另一个沃兹尼克的优势使他可以忽略Shugart的第0轨侦测器。当操作系统想要去第0轨时，控制器就移到下一个较低号的轨，并继续做直到不能再移动为止：这被假定是第0轨。这个被称为"重校准"的操作会造成很大的噪音（高速机械震动），这常使Apple II的新手感到恐惧。
+Disk II 控制器所使用的方法是典型的沃兹尼克设计灵感。 Apple II 集合了许多聪明的工程技巧之大成以节省硬件及降低成本。 例如，利用6502 指令集仅在不同的时钟频率回圏时访问内存，而在未使用的回圏访问视频产生回路的内存来避免内存容量问题，同时也消除了DRAM芯片专用的更新回路需求之优点。
+沃兹尼克使用了简单的计时电路－其周期与游戏控制器的电阻相称，并使用软件回圈以测量计时器，而不是使用复杂的类比→数码回路以判读游戏控制器的输出。
+其文字与图像系统却使用了在当时已属过时的连接方式（扫描线资讯存储于内存中不连续的部分），据说是沃兹尼克认为这样可以节省一个芯片－以软件计算或做扫描线寻址会比另加硬件控制更便宜。类似地，在高分辨率图像模式中，颜色由画素位置决定，因此可由软件控制，节省了转换芯片的费用。
+Apple II的设计哲学概念可从其声音电路看出。Apple II使用一个切换电路，其仅能透过内置喇叭发出单音。Apple II未使用声音合成芯片。所有其他的声响（包含双、三及后来的四声音乐、音频范例回放与语音合成）需由技巧高超的软件在适当的时间发出声音。苹果公司于Apple II上应用专用声音芯片是将近十年后的事了。类似的技术亦应用在录音带存储系统上：录音带输出的原理与喇叭一样，输入则是一个简单的零交叉（zero-crossing）侦测器－由一个相对粗糙（1比特）的音频数码化器支持。ROM内的代码则用以编／解码这些由录音带输入／输出的信号。（参见Frequency shift keying）
+沃兹尼克的开放式设计与Apple II的多个扩充槽使它得以借由大量的第三方装置以扩充其功能。在当时有许多Apple II 周边卡 如 序列控制器，高级显示控制器，内存扩充卡，硬盘及网络组件可供系统运用。 还有模拟卡，如Z80卡可以使Apple II切换至Z80 处理器并运行多种在CP/M操作系统下开发的软件，包括dBase II数据库与WordStar文书处理软件。（在1980年代中期，运行CP/M的机器中，有一半以上是装了Z80模拟卡的Apple II。）另外亦有一种可以运行OS-9 Level One的6809卡。Mockingboard 声卡（魔音卡）以其简单的音乐合成及文字-语音转换的功能大幅地改善了Apple 音性能力。而各种Apple II加速卡则能将速度提升2至4倍。
+Apple II Plus[编辑]
+主条目：Apple II Plus
+Apple II最后由Apple II+接替。它在ROM中包含了Applesoft BASIC编程语言。这个由微软编写的BASIC语言曾经做为一升级包，它支持浮点运算（但它明显比史蒂夫·沃兹尼克的Integer BASIC要慢）并成为Apple II系列的标准BASIC语言。
+Apple II Plus共有48KB的内存，并可借由能安装在扩充槽0的16 KB内存扩充”语言卡”将内存扩充至64KB。苹果公司采用的6502微处理器支持最大64KB内存，而一部有48KB内存的机器刚好达到这个上限，因为扩充的16KB ROM与I/O地址。因此，语言卡中的扩充内存可暂时"盖过"内置的ROM，并将代码读入该段内存，以使用ROM相同的方式使用它。借此，用户可将Integer BASIC从磁盘读入语言卡内存中，并使用DOS 3.3的INT和FP指令切换使用Integer BASIC或Applesoft BASIC"方言"，如同切换ROM扩充卡一般。若要使用苹果公司几乎于同一时间推出的两种编程语言－UCSD Pascal与FORTRAN 77编译器，语言卡也是必备配备。这些软件需在叫做UCSD-P系统的非DOS系统下运行，它有自己的磁盘格式，并包含一"虚拟机器"使其可以在多种不同硬件上运行。 UCSD P系统对于内存管理使用了有些古怪的方式，在Apple III上，这个方式变得更古怪。
+Apple II Europlus[编辑]
+在第一款Apple II于美国市场获取胜利后，苹果公司于1978年开始将市场拓展到欧洲以及远东，并在Apple II Europlus上做了必要的软件、硬件与固件更改以匹配美国以外地区的标准。电源供应器被修改过以支持240V电源输入，视频输出信号从NTSC改成PAL制式，键盘格式也作了更改以匹配不同语言的需求。在欧洲，由于罗马字母在大部分地区皆有应用，因此键盘的改变并非难事。一个必要的修改是包含diacritical marks or accents on letters按钮。举例来说，Europlus使用修改过的ROM一些 ESC键的组合可以打出德语的umlaut符号（"¨"）于某些字母上（例如ä或ü）。Apple II Europlus大部分都与一般的Apple II相同。Apple II Europlus的生产于1983年终止。
+Apple IIe[编辑]
+主条目：Apple IIe
+
+
+
+
+Apple IIe与DuoDisk及Monitor //
+
+
+1983年，Apple IIe的发表接续了Apple II+。它是一款较便宜但功能更强大的机器，采用了较新的芯片以减低成本并添加新功能。例如可显示大小写字母及有64KB内存。IIe的内存被设置成如同48KB的Apple II Plus加装语言卡。这款机型没有插槽0，但有一个提供所有实际使用的附加插槽3－在Apple II+里通常给80列卡使用。附加槽可以插入一张1KB内存卡以激活80列显示。该卡只包含内存，其硬件与固件支持内置于Apple IIe，使其亦能兼容较旧的Videx-style卡，即使它们的低阶细节相当不同。一种"扩充80列卡"则能将总内存提升至128KB。在装有语言卡的情况下，80列卡中的内存"盖过"主内存，使其相较于运行软件，更适合做为数据存储，而实际上，与Apple IIe一起推出的ProDOS操作系统会在开机时自动将该内存当做虚拟磁盘。第三方厂商的内存卡稍后更能将主内存提升至1MB。1K 80列卡亦提供了一新的图形显示模式－双倍低分辨率模式（80×48 像素），而扩充80列卡则提供了两种－双倍低分辨率和双倍高分辨率（560×192 像素）。这两种模式相较于标准低分辨率（40×48）与高分辨率（280×192）模式，其水平分辨率皆提升至双倍。在高分辨率模式下的颜色数量亦从6色提升至15色。第一批Apple IIe不能使用双倍高分辨率模式。然而，这两种模式皆未被内置的BASIC直接支持，因此用户们必须依靠大量的POKE与CALL指令或组合语言编程或某些工具软件以使用这些显示模式。
+DuoDisk与Apple IIe一起上市。本质上，它是两个装于机壳中，置放于主机与屏幕中间的两个5¼" Disk II软驱和一新的控制卡。该控制卡设计功能上与旧的Disk II控制卡相同，但使用了不同的连接线－可以用一条连接线控制两个软驱。然而，DuoDisk受其可靠性所害而未能如同Apple IIe一样流行起来。
+IIe是所有Apple II系列产品中最热销的，且被认为是Apple II产品线中的"黑马"。它也是苹果电脑家族中最"长寿"的--在接近11年的制造、贩售期间只有微小的改变。在那段期间，有两种经过重大改变的机型－加强型IIe（四颗具同样功能的芯片－包括一颗改进过的处理器－65C02－被应用在后期的IIc上。）及白金IIe（应用了与当时苹果电脑其他产品相合的机箱颜色及附加九宫格数字键。）一部有128KB内存的白金版IIe可以被认为是运行大部分于约1988年后推出的Apple II软件的基本要求。
+在Apple IIe推出之前2年半，苹果电脑公司为商业用户推出了Apple III。这个产品并不成功，且史蒂夫·沃兹尼克被引述说Apple III有100%的失败率－每一部Apple III都有一些缺陷。它的许多功能延续到后来的Apple IIe的设计上，包括基于Apple III SOS的ProDOS操作系统。
+Apple IIc[编辑]
+主条目：Apple IIc
+
+
+
+
+Apple IIc是苹果公司的第一款精简便携式电脑
+
+
+苹果电脑公司在1984年4月推出Apple IIc并以”便携式Apple II”的名义宣传它，因为它可以轻易地搬运。然而，它没有电池及内建显示器。IIc更附有一手把可将机体抬至适合打字的角度。它是3款使用Snow White design language机种中的第一种，也是唯一真正是白色的机种。（另两款Snow White机种分别是IIGS与IIc Plus。它们其实算淡灰色，苹果公司有时亦将其称为"白金色"。）
+Apple IIc是第一款采用了改进过的65C02处理器的Apple II，并附有内置5.25"软驱与128KB内存、内置磁盘控制器（可控制外接驱动器）、复合视频输出（NTSC或PAL）、可连接打印机与调制解调器的序列端口与一个摇杆／鼠标连接端口。不像过去的Apple II机型，IIc拥有扩充槽－受到机体尺寸的限制。第三方广商最终仍找到扩充内存至1MiB与置入时钟的方法，而后期主板的改进中亦提供了一个扩充槽－它能透过苹果公司的内存卡将内存提升至1MiB。原本设计给第二部5¼"软驱的软驱端口亦可接上3½"软驱，甚至可以接硬盘（需透过第三方装置）。
+为了鼓吹其便携性，两种接于IIc视频扩充端口的单色液晶显示器上市贩售。但由于高价位与不良的显示品质，它们存在的时间并不长。（附有其中较小型之液晶显示屏的IIc曾在电影2010中短暂露面。）IIc有一个外接电源供应器可以将交流电转换成12V直流电，这使第三方厂商有能力为IIc制造专用电池及车用电力转接器。
+Apple IIc（美国版）是第一款内置德沃夏克键盘支持的微电脑。可透过键盘上的一个开关来切换。这项功能亦包含在后期的美国版Apple IIe机种（但切换开关在电脑内部）及Apple IIGS中（可在内置的控制面板中调整）。
+Apple IIGS[编辑]
+主条目：Apple IIGS
+
+
+
+
+Apple IIGS，功能最强大的Apple II，有真正的16位CPU、4096色显示、Ensoniq synthesizer、类似麦金塔的图型用户界面及鼠标
+
+
+
+
+
+
+Apple IIGS设置画面。含鼠标及键盘
+
+
+Apple II产品线的下一个成员是在1986年推出的Apple IIGS。与Apple II产品线上其他产品的显着不同是，IIGS有一个真正的16位微处理器-65C816，于2.8MHz时脉下工作，24位寻址能力，可扩充至8MiB内存而不会碰到前款机种的"换槽"问题（大于4MiB的内存卡从未被苹果电脑直接支持[5]）它采用了两种新的图像显示模式，可提供高分辨率与4096色显示能力。然而，同时只能有4色（于640×200分辨率）或16色（于320×200分辨率）可以同时在一行中显示，虽然有一种抖动(dithering)技术被应用在软件上以提升颜色数量。[6]
+前50,000部Apple IIGS有史蒂夫·沃兹尼克的"Woz"签名silkscreened于前面板上，它们被称为"Woz限量版"。这些机器与那些没有签名的“普通版”在功能上并无不同。
+Apple IIc Plus[编辑]
+主条目：Apple IIc Plus
+
+
+
+
+Apple IIc Plus，一种基于原来的8位便携式机种进行修改的机种。它有更快的CPU、3½"软驱与内置电源供应器。它是Apple II产品线的最后一员。
+
+
+最后一款Apple II是于1988年发表的Apple IIc Plus。它与其前身IIc有一样的大小和形状，但内置的5¼"软驱被换成3½"软驱，电源供应器被移至内部（取代原先"绳绑砖"式的设计），并采用了4MHz的65C02处理器－它在运行8位软件时比IIGS更快。（然而，透过第三方厂商开发的加速器亦可使其他型号加速至10MHz，而IIGS的加速器最高能加至16MHz。）IIc Plus的加速器是由一第三方Apple II加速器制造商－Zip Technologies－授权的设计转换而来。然而，苹果公司使用了分离的芯片，而不是像Zip将处理器、缓存和多芯片模组逻辑（logic on a multi-chip module）支持结合在一起。如同后期的Apple IIc，IIc Plus包含一内存扩充插槽，可借由子卡将内存扩充至1MB。IIc Plus亦使用了与白金版IIe和 IIGS相同的键盘设计。与IIe、IIc和IIGS不同的是，IIc Plus只有美国版，并从未在美国国外正式贩售过。
+很多人认为IIc Plus是苹果公司为了与Laser 128EX/2－当时一款相当热销的Apple II兼容机－竟争而推出的产品。Laser 128EX/2也包含加速过的处理器和内置的3½"软驱。亦有少数关于苹果公司为何投入资源继续开发新的8位Apple II机型而不是延续16位的Apple IIGS的开发。然而，由于具备3½"软驱与高速的处理器，它对于运行AppleWorks集成产品包装有住先的表现，特别是将内存扩充至1MB后。
+Apple IIe卡[编辑]
+主条目：Apple IIe卡
+1990年，Apple IIe卡上市－它是麦金塔LC产品线的扩充卡。本质上，它就是缩小版的Apple IIe（使用Apple IIGS的Mega II芯片），它能让麦金塔电脑透过硬件模拟方式运行8位Apple IIe软件（但视频显示是透过软件模拟，而其有时会较Apple IIe慢）。当在Apple II模式时，有许多LC的内置周边设备如内存、3½"软驱、AppleTalk网络和硬盘等可以被Apple IIe卡"借用。然而，IIe卡不能运行16位的Apple IIGS软件。加装IIe卡的麦金塔LC的目的是为了接替在学校与家庭中使用的Apple IIGS，这也可能是一已被内部人员证实的新型Apple IIGS开发计划被取消而未能上市的原因。
+其他周边适配器[编辑]
+由于史蒂夫·沃兹尼克的扩充槽设计，在80年代期间有许多公司制造了提供各种增强功能的Apple II扩充卡。其中有一家是 Applied Engineering。其中两种最普遍且最成功的卡分别是RamWorks（及其后继者RamWorks II及RamWorks III）和TransWarp卡。RamWorks III取代了Apple IIe的附加槽内存卡，加上适配的子卡可将内存扩充至3MiB。TransWarp卡则是一款能将Apple II的运行速度提升的加速卡。TransWarp可以使Apple II从原先的1MHz 提升至3.6MHz，而TransWarp II 更可提升至8MHz。Transwarp卡还有可以利用插槽3的好处－它被直接连接至AUX盘，若有一80行卡或类似的卡占用AUX盘时，插槽3将不能另做它用。Applied Engineering公司亦开发、销售了1.44MB 3½"软驱－一种对于苹果自有的800KB UniDisk 3½软驱（对应Apple IIe和IIc）及苹果的3½软驱（对应Apple IIGS）的改进，而苹果公司最后亦推出自己的1.44MB软驱（名为SuperDrive）对应Apple IIe及IIGS。SuperDrive是苹果公司为Apple II推出的最后几项产品之一，不久后即与整个Apple II产品线一起结束。Applied Engineering的软驱与自有的控制卡一起销售。
+另外有一种苹果公司开发出的扩充卡－Apple II ProFile卡。这张卡可连接至原先是设计给Apple III使用的Apple ProFile硬盘。ProFile硬盘最初有5MB，稍后推出了10MB的款式。
+最后几年[编辑]
+苹果公司的麦金塔产品线最后使Apple II在90年代初期黯然下市。但即使是在麦金塔上市之后， Apple II仍然持续数年为苹果公司的主要收入来源。这种电脑是第一种吸引了为数众多之死忠用户的电脑。许多直言的Apple II死忠对苹果公司将Apple II的收益投资在麦金塔而不是新的Apple II系列感到不是滋味。
+尽管拒绝了广告与小团体支持，苹果公司仍继续贩售IIGS直到1992年。最后在1993年10月15日将IIe移出产品线，结束了一个时期。
+销售、广告与包装[编辑]
+苹果公司曾播送过8种 Apple IIGS的电视广告，强调其对教育与学生的好处，并附带一些纸本广告。[7]
+复制品[编辑]
+
+
+
+
+嘉马SPS-109， 一种台湾制的Apple II复制机，与Apple II/II+看起来几乎一模一样的机箱颜色与键盘形式。唯一明显的不同是在键盘上的标志
+
+
+如同IBM PC，Apple II无论在 美国或其他地区都被频繁地复制。根据某些数据显示（见下方），有超过190种Apple II复制机被制造出来。其中有许多种的名字都与水果有关（例如"凤梨"）以表示它们是Apple II的复制机。在苏联集团，一种最被广泛使用的微电脑是Agat－一种较原Apple II更大的俄制复制机，支持西里尔字母输入。另一种则是保加利亚制的Pravetz series 8，一种支持西里尔字母的Apple II复制机。
+波士尼亚（在当时是南斯拉夫社会主义联邦共和国的一员）的IRIS电脑公司（波士尼亚及赫塞哥维纳最大的电子公司ENERGOINVEST的子公司）自80年代初期即开始生产Apple II复制机。它们的官方名称是IRIS 8。它们相当昂贵且难以获取。主要是做为计算机化的数字电话系统及教育使用。它们也在国营企业、R&D实验室以及南斯拉夫的军事单位中被使用。IRIS 8看起来像早期的IBM个人电脑—分离的中央零件、冷却系统、两个5¼"英寸软驱、屏幕与键盘。可完全与Apple II兼容。在南斯拉夫－特别是波士尼亚及赫塞哥维纳的顶尖高校里都装备了由IRIS 16主控的8/16或32部IRIS 8串联成的局域网。IRIS 8可能生产了32万多部。[来源请求]
+一种澳洲制造的Apple II复制机－Medfly，以一种专门为害苹果的地中海果实蝇（Mediterranean fruit fly）命名。Medfly采用了较快的处理器、较多的内存，分离式的键盘、大小写输入支持与内置软驱控制器。
+一家巴西的公司－Unitron，创造了另一款名叫ApII的复制机。Unitron采用了翻译成葡萄牙文的ROM与DOS 3.3。在这段期间，进口微电脑到巴西是犯法的，而购买这些（非法的）复制机是唯一可以拥有微电脑的方法。Unitron在IBM个人电脑复制机于巴西发表后的数年后停止生产ApII。
+当最早的Apple II复制机主要是将Apple II完全复制并以价位做为竞争手段时，有些复制机也添加了新的功能。Ace 1000－由Franklin公司制造的机型，比原版Apple II更早提供九宫格数字键以及大小写输入支持。Laser 128系列先提供的内置3½"软驱与较快的处理器被认为是激励苹果公司推出Apple IIc Plus的原因之一。Laser 128亦有类似IIe的扩充插槽。
+与此同时，香港亦有Apple II 的复制品，称为“菠萝”(pieapple).
+中国大陆也有大量的苹果兼容机，如福建电子计算机厂生产的称为“福桔”。但其中最为知名的，是80年代末期上市、定位于家庭和学校购买使用的低价普及型机型“中华学习机CEC-I”，拥有64KB内存、ROM内置GB2312二级简体汉字字库、ROM内置LOGO语言系统、1个DISKII软盘驱动器接口、1个标准50针扩展卡槽、1个MIDI式录音机接口、1个游戏杆接口，这样无需额外增购众多配件，即可发挥Apple II的强大功能。在产品说明中，也特别强调其完全兼容Apple II+，并在功能上超过Apple IIe，事实上CEC-I并未拥有Apple IIe的核心增强功能。
+一般资讯[编辑]
+Apple II存储媒体[编辑]
+最早的Apple II是以录音带做为存储媒介。依循Commodore Datassette生产线的录音机从未被生产出来。苹果公司在一些早期的文件中建议使用Panasonic RQ309。一开始，苹果公司与许多第一方程序开发员开发存储于录音带上的软件，但在Disk II上市后，基于录音带的软件基本上就从市场上消失了。
+Disk II软驱使用5¼英寸磁盘，第一款在Apple II上应用的磁盘操作系统是DOS 3.1与DOS 3.2，它们可在每张磁盘上存储113.75kB，组织成35轨x13个256byte磁区。约在2年后，DOS 3.3发表，每张磁盘可存储140kB，因为一个磁盘控制器上的微小硬件改动，使其可存16个磁区。（用户可以自行在旧的控制器上应用这个改变。）在DOS 3.3推出后，用户除了需使用旧软件之外不再使用DOS 3.2。非DOS 3.2不可的软件相当罕见，因为DOS 3.3并不是在结构上的更改－除了每一轨的磁区。一个叫做MUFFIN的程序被与DOS 3.3一起提供以使用户可以将DOS 3.2的文件拷贝到DOS 3.3的磁盘。
+在DOS 3.x的磁盘上，第0、1轨与大部分的第2轨被保留给操作系统用。在软驱控制器上的一个小ROM程序可以寻找第0轨－不管读写头当前的位置在哪里，并造成Disk II开机时独特的震颤声，这是读写头撞击磁头轨道末端的像胶缓冲器的声音－并读取、运行第0轨中的代码。磁盘目录存储在第17轨，正好是在一般的35轨磁盘的中间，以减少平均寻轨时间－对于常用的目录轨。目录大小固定，可容纳最多105个文件。不支持子目录。
+许多游戏出版商并没有在他们的磁盘中包含DOS，因为他们需要那些被占用的空间。他们通常自己编写开机程序与其只读文件系统。这也是为了防止游戏破解者窥探其防拷源码，因为磁盘上的数据并不是可以轻易访问的文件。
+一些第三方厂商生产了可以在大部分5¼磁盘上写入40轨、存储160KB数据的软驱，然而这种格式并未被广泛接受，也没有任何已知软件是以这种40轨磁盘推出的。大部分软驱、甚至是Disk II都可以写入36轨，而使机器能格式化多出轨的DOS修改亦很常见。
+值得一提的是，苹果的Disk II只使用单面"单密度"磁盘存储140KB数据。然而有一个在Apple II用户之间广为人知的方法可以将容量提升至280KB－即是将磁盘另一侧用剪防写口专用的剪刀（或一般的打孔机也行）剪开防写口再将磁盘翻面使用。早期，磁盘制造商不断地警告这种使用方式会使磁头损坏或更快磨损磁盘，而这些警告亦常在当时的杂志上提到。实际上，这个方法被认为是可靠[来源请求]、省钱的方法，而且某些公司的原版磁盘亦有利用这个方法存储数据。
+稍后推出的Apple II可以使用容量800KB的3½英寸磁盘及硬盘。DOS 3.3并不能直接支持这些驱动器，而必须要透过第三方软件。大于400KB的磁／硬盘必须被切割成数个”虚拟磁盘”。ProDOS，由Apple ///的SOS于1983年延伸出的分支，成为需要大容易软盘的Apple II的选择，因为其支持上限至32MB的容量，而AppleWorks确实需要它。
+"II"名称的表示[编辑]
+Apple II名字中的"II"部分曾被以各种符号在电脑面板与印刷文件上表示。II和"非加强版的" IIe标示为][ and ][e，而IIGS和IIc Plus使用较小的大写字母。Apple ///、IIc与其他IIe型号则使用斜线：///、//c和//e由于型式、变化众多，它们很容易被搞混。
+历程[编辑]
+今日，各种型式、型号的Apple II模拟器被推出。它们可以在Mac OS X、Linux、Microsoft Windows与其他操作系统上运行Apple II软件。在因特网上亦有许多可免费下载的磁盘映像。AppleWin与MESS被认为是兼容性最好的两款模拟器。MESS模拟器可以纪录并回放每次的模拟进程。Home Action Replay Page (HARP)则可以让用户保存他们最喜欢的操作与游戏纪录。然而，许多模拟器不能运行储存在有防拷保护之媒体上的软件，或只能运行受到简单保护的软件，除非它被破解（移除防拷保护）。在Apple II的全盛时期，即有不少利用商业软件Copy II+破解的盗版软件广为流传（该软件原本的目的为"为受保护的软件创建合法副本备份"）。这些软件至今仍有一部分可被获取，然而使用这些软件的合法性是受争议的（参见DMCA）为此，Lost Classics Project应运而生－为了那些希望可以正大光明使用这些软件的用户们。他们的目的是说服Apple II软件的版权持有者同意免费释出、流传这些软件。在他们的努力下，至今已有一定数量的软件被释出。
+有一个对于Apple II较不寻常的缅怀是一个叫BSOD的"万花镜"的XScreenSaver。这个BSOD萤幕保护装置可以模拟许多种操作系统的死机画面（包括Windows的蓝屏死机，其名称即由此而来。）对于Apple II，这个屏保模拟该电脑使用的CRT显示因此屏幕上会显示闪烁的文字－对于模拟信号NTSC显示的一种常见隐射。另一个叫做"Apple2"的模组则显使一正在使用Applesoft BASIC输入、运行程序的Apple II，并也有CRT显示模拟和错误指令（或"syntax error"），但错误信息是在编辑时显示（如同Integer BASIC）而非在运行时显示（如同Applesoft BASIC）。
+工业影响[编辑]
+Apple II系列电脑对科技产业及日常生活产生了巨大影响。Apple II是第一部许多人皆见过的电脑，其价位也是许多中产阶级家庭可以负担得起的。其普及性造就了整个电脑游戏与教育软件业的荣光，并同时带起了文书处理器与打印机的市场。第一个商用微电脑“杀手级应用”软件是VisiCalc－最早的试算表软件，而它最早是设计给Apple II运行的。许多商业用户为了使用VisiCalc而购买Apple II，因为那是当时唯一的试算表软件。苹果公司在家用市场的成功激起了其在家用电脑的竟争对手－如VIC-20 (1980)与Commodore 64（1982，其估计有1700至2500万部的销售量）。透过低价销售策略，它们将电脑推广至另外数千万的家庭用户，并与苹果公司一同瓜分市场。
+Apple II在商业上的成功亦促使了IBM创造IBM PC。它们被中阶主管们广泛采用以运行试算表与文书处理软件。最初，这些软件是从Apple II版本移植过来的。稍后，开始有在PC上开发的软件。PC与其兼容机的普及又造就了局域网的应用（如e-mail）与因特网的应用（如Usenet和万维网）。
+Apple II带来的一个宝贵教训是开放式电脑系统平台的重要性。最早的一批Apple II附有一本Apple II 参考手册，手册中有完整的电路图解与一"Monitor" ROM固件（BIOS）源完整列表（后来此指南需另外购买。到了Apple IIGS时，完整的技术指南又被分成数卷。）Apple II可以让任何扩充卡直接控制通道与访问内存的扩充槽设计带起了一个独立产业－扩充卡制造商创造了大量的硬件，使得用户可以用较低的价钱建造比其他电脑更强大的系统－当时大部分其他电脑的可扩充性通常不像Apple II那么强大，并拥有部分国家专利。即使是游戏扩充槽也异常地强大，可做数字／模拟信号输入／输出。一名黑客使用其驱动了LaserWriter打印机。
+苹果公司决定不让最初的麦金塔使用开放式系统，这被广泛认为阻碍了麦金塔的发展；然而，IBM PC的经验亦证明，电脑平台的成功并不完全等于发明该平台之公司的成功。最终，IBM PC的现成开放式系统架构使得其竟争对手如Compaq、戴尔与Gateway（英语：Gateway, Inc.）等可以轻易制造出其复制机，造成IBM得不偿失的胜利。2004年12月，IBM确定将其电脑部门－包括其所有型号及技术－以17亿5千万美元卖给中国的联想集团。[8] [9]
+参见[编辑]
+
+Apple II应用软件列表
+Apple II游戏列表
+Apple II模拟器列表
+Apple IIGS游戏列表
+Steve Wozniak
+Juiced.GS – 硕果仅存的Apple II出版品
+GSE-Reactive – 硕果仅存的Apple II硬件生产商（复制品）
+Publications/Periodicals devoted to the Apple II
+Hayes Microcomputer Products
+BBS软件列表 – Apple II与其他平台
+
+
+参考文献[编辑]
+
+
+^ Steven Weyhrich. Apple II History Chapter 4. 2002-04-21 [2006-11-16]. （原始内容存档于2006-09-25）. 
+^ Rose, Frank. West of Eden. Arrow Books. 1989: pg. 3. ISBN 978-0-09-976200-3. 
+^ Steven Weyhrich. Apple II History Chapter 5, The Disk II. 2001-12-28 [2006-11-16]. （原始内容存档于2006-12-01）. 
+^ Freiberger, Paul, and Michael Swaine. "Fire In The Valley, Part Two (Book Excerpt)", A+ Magazine, Jan 1985: 45.
+^ Regan, Joe. A2Pro Roundtable, Oct 1991, Category 16, Topic 2.
+^ Duprau, Jeanne, and Tyson, Molly. "The Making of the Apple IIGS", A+ Magazine, Nov 1986: 57-74.
+^ 存档副本. [2006-08-13]. （原始内容存档于2006-05-24）. 
+^ http://www.msnbc.msn.com/id/6666170/
+^ http://www.internetnews.com/bus-news/article.php/3444981
+
+
+
+Wozniak, Steve. System Description: The Apple II. Byte. 1977年5月. （原始内容存档于2005-04-05）. 
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：Apple II
+
+
+
+A2Central.com – Apple II news and downloads
+Steven Weyhrich's Apple II History
+Apple2.org – The Apple II in Pictures and the Marinetti Open Source Project (TCP/IP Stack)
+Old computer museum - Apple II+
+Software written by Apple-II pioneer, Bob Bishop – (Including the very first four Hi-Res graphics games ever written for the Apple.)
+Dmoz.org - Apple II
+PCB pictures of the Apple II
+Apple II clones Information on Apple2clones
+Old footage filmed in 1992 by Alfred DiBlasi of an Apple II visualizing music fed in through the cassette port
+Virtual GS Apple IIGS程序设计网站
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+苹果公司硬件系列（1998年前）
+
+
+
+
+
+
+电脑
+
+
+
+
+
+Apple系列
+
+
+Apple I · Apple II 系列 (II, II Plus, II Europlus, II J-Plus) · IIe 系列 (IIe, 供 Macintosh LC 使用的 IIe Card 系列) · IIc 系列 (IIc, IIc Plus) · IIGS · Apple III 系列 (Apple III, III Plus)
+
+
+
+
+
+
+
+Lisa
+
+
+Lisa · Lisa 2 · Macintosh XL
+
+
+
+
+
+
+
+Compact Macintosh
+
+
+128K · 512K (512K，512Ke) · Plus · SE (SE，SE FDHD) · SE/30 · Classic · Classic II (Performa 200) · Color Classic (Performa 250) · Color Classic II (Performa 275)
+
+
+
+
+
+
+
+Macintosh II
+
+
+II · IIx · IIcx · IIci · IIfx · IIsi · IIvi (Performa 600) · IIvx
+
+
+
+
+
+
+
+Macintosh LC
+
+
+LC 系列 (LC II (Performa 400–410), LC III (Performa 450), LC III+ (Performa 460–467)) · LC 500 系列 (LC 520 (Performa 520, Macintosh TV), LC 550 (Performa 550–560), LC 575 (Performa 575–578), LC 580 (Performa 580)) · 5200/5300 LC 系列 (5200 LC(Performa 5200–5220), 5260 (Performa 5260–5280), 5300 LC (Performa 5300–5320))
+
+
+
+
+
+
+
+Macintosh Quadra
+
+
+700 · 900 · 950 (AWS 95) · 800 (AWS 80) · 840AV · 610 (Centris 610, AWS 60) · 650 (Centris 650) · 660AV (Centris 660AV) · 605 (LC 475, Performa 475, 476) · 630 (LC 630, Performa 630–640)
+
+
+
+
+
+
+
+PowerBook
+
+
+Macintosh Portable · 100 系列 (100, 140, 170, 145, 160, 180, 165, 145B, 165c, 180c, 150) · Duo 系列 (210, 230, 250, 270c, 280, 280c, 2300c, Duo Dock) · 500 系列 (520, 520c, 540, 540c, 550c) · 190 系列 (190, 190cs) · 5300 系列 (5300, 5300cs, 5300c, 5300ce) · 1400 系列 (1400c, 1400cs) · 3400c · 2400c · G3
+
+
+
+
+
+
+
+Power Macintosh
+
+
+6100 (Performa 6110–6118), AWS 6150) · 7100 · 8100 (AWS 8150) · AWS 9150 · 6200/6300 series (6200, (Performa 6200–6230), 6300 (Performa 6260–6360)) · 9500 · 7200 (AWS 7250) · 7500 · 8500 (AWS 8550) · 5400 (Performa 5400–5440) · 7600 · 6400 (Performa 6400, 6410, 6420) · 4400 (7220) · 5500 · 6500 · 7300 (AWS 7350) · 8600 · 9600 (AWS 9650) · G3 · Twentieth Anniversary Mac
+
+
+
+
+
+
+
+网络服务器
+
+
+500 · 700
+
+
+
+
+
+
+
+
+
+外围设备
+
+
+
+
+
+显示器
+
+
+Monitor III · Monitor II · Monitor IIc · AppleColor Composite IIe · AppleColor High-Resolution RGB · Macintosh Color · AudioVision 14 · Multiple Scan 14 · ColorSync 750
+
+
+
+
+
+
+
+外部驱动器
+
+
+软盘驱动器 (Apple II and III, Macintosh) · 硬盘驱动器 (ProFile, Hard Disk 20, Hard Disk 20SC) · 光盘驱动器 (AppleCD, PowerCD)
+
+
+
+
+
+
+
+输入设备
+
+
+外接键盘 (Numeric Keypad IIe, Lisa Keyboard, Macintosh Keyboard, Macintosh Numeric Keypad, Macintosh Plus Keyboard, ADB Keyboard, Standard Keyboard, Extended, Apple Keyboard II, Extended Keyboard II, Adjustable, Newton Keyboard, Apple Design Keyboard, Twentieth Anniversary Mac Keyboard) · 鼠标 (Lisa, Macintosh, Mouse IIc, AppleMouse II, Apple Mouse, Mouse IIe, ADB Mouse, ADB Mouse II) · 鼠标派生配件 (Apple II Graphics Tablet, Joystick) · 扫描仪 · OneScanner · Color OneScanner (Color OneScanner, 600/27) · QuickTake 相机 (100, 150, 200) · QuickTime 会议包
+
+
+
+
+
+
+
+网络设备
+
+
+Apple II Communications Card · Apple Modems · LocalTalk network adapter · Comm slot cards · GeoPort Telecom Adapters
+
+
+
+
+
+
+
+打印机
+
+
+Thermal (SilenType, Scribe Printer) · Impact (Dot Matrix Printer, ImageWriter, ImageWriter II, ImageWriter LQ) · LaserWriter (LaserWriter, Plus, IISC, IINT, IINTX, IIf, IIg, 4/600 PS, 16/600 PS, 12/640 PS, 8500) · Personal LaserWriter (SC, LS, NT, NTR, 300, 320) · LaserWriter Pro (600, 630, 810) · LaserWriter Select (300, 310, 360) · Color LaserWriter (12/600 PS, 12/660 PS) · StyleWriter (StyleWriter, II, 1200, Portable) · Color Printer · Color StyleWriter (Pro, 2400, 2200, 1500, 2500, 4100, 4500, 6500)
+
+
+
+
+
+
+
+牛顿（Newton）
+
+
+MessagePad (100, 110, 120, 130, 2000, 2100) · eMate 300
+
+
+
+
+
+
+
+其它
+
+
+Paladin · AppleDesign Powered Speakers · 苹果机顶盒 · Pippin
+
+
+
+
+
+
+
+
+
+
+参见: 1998年起的苹果硬件
+
+
+
+
+
+
+
+
+
+
+分类：早期电脑个人电脑家用电脑苹果公司硬件1977年面世的产品隐藏分类：使用ISBN魔术链接的页面自2007年11月有未列明来源语句的条目

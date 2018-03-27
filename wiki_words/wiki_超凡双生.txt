@@ -1,0 +1,388 @@
+超凡双生
+
+
+
+
+
+
+
+超凡双生
+
+
+
+
+
+Beyond: Two Souls
+
+
+
+
+
+
+
+
+类型
+互动式电影、动作冒险游戏
+
+
+平台
+PlayStation 3，PlayStation 4[1]
+
+
+开发
+Quantic Dream
+
+
+发行
+索尼电脑娱乐
+
+
+总监
+大卫·凯奇
+
+
+制作人
+Guillaume de Fondaumiere
+
+
+编剧
+大卫·凯奇
+
+
+美术
+François Baranger
+Benoit Godde
+
+
+音乐
+Normand Corbeil
+Lorne Balfe
+汉斯·季默
+
+
+引擎
+Havok引擎（物理引擎）
+
+
+模式
+单人游戏、双人游戏
+
+
+发行日
+
+
+2013年10月8日
+
+PlayStation 3
+
+
+北美：2013年10月8日[2]
+台港：2013年10月8日[3]
+澳洲：2013年10月9日[4]
+欧洲：2013年10月11日[5]
+日本：2013年10月17日[6]
+
+
+PlayStation 4
+
+
+北美：2016年3月1日
+PAL：2016年3月2日
+
+
+
+
+
+
+
+
+《超凡双生》（英语：Beyond: Two Souls，港台译作“超能杀机：两个灵魂”）是一款在2013年10月上市的互动式电影动作冒险游戏，由曾经开发《暴雨》（Heavy Rain）的法国游戏制作商Quantic Dream制作并由索尼电脑娱乐发行在PlayStation 3平台上。本作中由好莱坞影星艾伦·佩姬和威廉·达佛参与表演、动作捕捉、表情捕捉。2016年3月1日在PlayStation 4平台发布。
+
+
+
+目录
+
+
+1 技术
+2 游戏方式
+3 故事大纲
+4 角色
+5 开发
+6 发行
+7 评价
+8 链接
+9 参考资料
+
+
+
+技术[编辑]
+《超凡双生》采用了先进的动作捕捉技术，大部分角色的动作皆由真实演员演出，演员不但身上有感测器捕捉动作，脸上也布满了九十个感测器来捕捉最细微表情变化，来生成极度自然的表情与动作。
+游戏方式[编辑]
+《超凡双生》在PlayStation 3、PlayStation 4上运行，使用游戏手柄来操作，玩家必须在女主角Jodie Holmes和灵体Aiden之间切换操作，在操纵Jodie时是以第三人称视角操纵，玩家可以操纵主角移动、战斗、与周遭互动并于和其他角色对话、在近距离战斗时游戏会在攻击和防御时进入慢动作的子弹时间，玩家必须判断出主角攻击或防御的方向来进行相应的操作，在操纵Aiden时，画面会进入第一人称视角，Aiden由于是灵魂它可以穿越物体和墙壁，玩家可以操纵Adien来影响周造的物体和人，玩家必须操纵它来帮主角清除障碍物、破坏或弹开物品、开门、吸引注意力、控制敌人以及攻击。
+《超凡双生》是一款互动式电影游戏，不过和制作商Quantic Dream的前作《暴雨》相较，玩家完全操纵角色的比例大幅提升，玩家在只有开头的教学章结会被限制进行有限的动作，大部分章结可以完全的操作主角和Aiden来进行游戏。从旁观角度有些画面看似过场动画其实角色依然由玩家操纵，以提供玩家流畅的故事体验。 游戏中有许多对话选项，一部分选项或行动会导致不同的后果，此游戏在战斗中失败不会导致死亡，不过会将玩家导向一些不同的后果，不同的玩家可能会有不同的游戏经验，此款游戏有多种结局并包含一些变化，会根据玩家在最后几个章结的选择和行动而发生一些变化。
+故事大纲[编辑]
+《超凡双生》故事包含了一些心理、灵魂的要素，故事最主要的核心围绕在探讨死后的世界。故事带领玩家经历女主角Jodie Holmes十五年的人生（从八岁到二十三岁），故事在这十五年间以跳跃方式叙述，Jodie从出生时就和一个神秘的灵体Aiden联系在一起，故事会带领玩家经历主角的童年、青少年，和成人不同的人生阶段，在这之中看到主角与Adien之间关系的变化，以及如何接受自己和别人不同之处，并和主角踏上了一场即将解开许多谜团的人生路程。
+角色[编辑]
+
+茱蒂·荷姆斯Jodie Holmes：艾伦·佩姬Ellen Page 饰演
+
+
+游戏女主角，从出生时就和艾登联系在一起，故事叙述她从8岁（卡洛琳沃夫森Caroline Wolfson 饰演）到23岁的人生。
+
+
+艾登Aiden
+
+
+是超自然的灵体，从茱蒂出生时就和她联系在一起，茱蒂是唯一能和他直接沟通的人。故事最后会发现艾登的来历。
+
+
+纳森·道基斯Nathan Dawkins：威廉·达佛William Dafoe饰演
+
+
+美国政府的科学家,从茱蒂大约八岁时被带到实验室居住时，便开始安排实验分析她的能力，对茱蒂如同亲身女儿一般。
+
+
+柯尔·费里曼Cole Freeman：卡迪·哈迪森Kadeem Hardison 饰演
+
+
+美国政府的科学家，并且也是纳森的同事，研究非自然现象，从茱蒂大约八岁时，就和纳森一起照顾她。
+
+
+莱恩·克莱顿Ryan Clayton：艾瑞克·温特Eric Winter 饰演
+
+
+美国CIA干员，在茱蒂加入CIA后成为她的长官和同事。
+
+开发[编辑]
+
+
+
+
+艾伦·佩姬
+
+
+《超凡双生》在2012年E3上由Quantic Dream执行长David Cage在索尼发表会上第一次释出预告影片，本游戏开发耗时三年，剧本根据艾伦·佩姬的说法长达两千页[7]。在开发期间原本的作曲家Normand Corbeil在2013年1月25日过世[8]，游戏配乐由Lorne Balfe接手[9]并在2013年八月长期与Balfe合作的汉斯·季默加入了制作团队当中[10]。
+在2013年4月27日《超凡双生》在翠贝卡影展上发表了35分钟的游戏画面，艾伦·佩姬和威廉·达佛皆有出席，此游戏是史上第二款在影展中出现的游戏[11]。
+发行[编辑]
+《超凡双生》于2013年10月8日在北美、台湾和香港上市[2][3]，2013年10月9日在澳洲发行[4]，2013年10月11日在欧洲[5]，以及2013年10月17日在日本上市[6]。2015年6月，Quantic Dream宣布将复刻移植《超凡双生》到PlayStation 4平台并将于年内发售，同时《暴雨》也将为PlayStation 4进行复刻。《超凡双生》的PS4版本于2015年11月24日在全球发售；而与《暴雨》的同捆合集在2016年3月1日发售。[12][13]
+评价[编辑]
+
+
+评价
+
+
+
+
+
+汇总得分
+
+
+汇总媒体
+得分
+
+
+GameRankings
+75.07%[14]
+
+
+Metacritic
+74/100[15]
+
+
+评论得分
+
+
+媒体
+得分
+
+
+Edge
+5/10[16]
+
+
+Eurogamer
+6/10[17]
+
+
+Game Informer
+7.75/10[18]
+
+
+GamesRadar
+[19]
+
+
+GameSpot
+9.0/10[20]
+
+
+GameTrailers
+7.2/10
+
+
+GameZone
+7.5/10
+
+
+IGN
+6.0/10[21]
+
+
+Joystiq
+[22]
+
+
+英国PlayStation官方杂志
+8/10[23]
+
+
+游戏机实用技术
+25/30
+
+
+Polygon
+8.0/10[24]
+
+
+Digital Spy
+10/10
+
+
+Machinima
+8/10
+
+
+Eurogamer Italy
+9/10
+
+
+IGN Italia
+8.5/10
+
+
+Playstation Universe
+9.5/10
+
+
+Hardcore Gamer
+9.5/10
+
+
+
+
+
+《超凡双生》得到的评价呈两极分化，它在GameRankings[14]得分为 75.07%，在Metacritic平均得到 74/100。 部分媒体给予了极高的评价，对于游戏独特的故事剧情和游戏方式表示赞赏，例如GameSpot认为此款游戏的角色发展扎实、故事情节足可考验人性、操作系统能融入情境、角色可以任意发展，因而给予高分 9/10[20]。Digital Spy则给予了满分 10/10。Eurogamer Portugal认为当在玩这款游戏时，感到与主角强烈的链接，这款游戏极尽所能的让玩家和角色产生情感上的联系，虽然在剧情选项上受到一些限制，但这是Quantic Dream有史以来最平衡且完整的一部游戏[15]。而有些媒体则给予较低的评分，例如IGN认为故事选项对剧情的永久改变过少，不像《暴雨》会导致完全不同的后果，并认为操作限制太多，操作Aiden时有潜力可以进行更加有趣的解谜，并对战斗系统的辨识上表达不满[21]。
+链接[编辑]
+
+官方网站
+翠贝卡影展上所释出的游戏预告片
+
+参考资料[编辑]
+
+
+^ Beyond: Two Souls and Heavy Rain are heading to PS4.Eurogamers.2015-06-16.[2015-08-20].
+^ 2.0 2.1 Osgood, Derek. Willem Dafoe, Ellen Page Star in BEYOND: Two Souls October 8th. Playstation.com. 2013-03-01 [2013-06-25]. 
+^ 3.0 3.1 索尼宣布PS3独占游戏《超凡双生》10月推出中文版. 3dmgame.com. 2013-09-06 [2013-10-09]. 
+^ 4.0 4.1 Roberts, Brendan. Beyond: Two Souls Release Date Announced. Progress Bar. 2013-06-04 [2013-06-27]. 
+^ 5.0 5.1 Ivan, Tom. Beyond: Two Souls UK release date confirmed. GamesRadar. 2013-06-03 [2013-06-27]. 
+^ 6.0 6.1 BEYOND: Two Souls Release On 17 October In Japan. Senpai Gamer. 2013-08-01 [2013-08-31]. （原始内容存档于2016-03-10）. 
+^ Pham, Alex. Ellen Page is ‘Beyond’ real in ‘emotional and subversive’ game. Los Angeles Times. 2012-07-19 [2012-08-29]. 
+^ Heavy Rain Composer Normand Corbeil Passes Away, Age 56. Joystiq. 2013-01-28 [2013-04-16]. 
+^ Lorne Balfe to score the video game BEYOND - TWO SOULS. Hans-Zimmer.com. 2013-04-14 [2013-06-25]. 
+^ Conditt, Jessica. Beyond: Two Souls soundtrack from Hans Zimmer and Lorne Balfe. Joystiq. 2013-08-22 [2013-08-23]. 
+^ Pinsof, Allistair. Beyond: Two Souls Tribeca trailer + 35 minutes of footage. Destructoid. 2013-04-28 [2013-06-25]. 
+^ Copeland, Wesley. Beyond: Two Souls and Heavy Rain are PS4 Bound. IGN. 16 June 2015 [22 June 2015]. 
+^ de Fondaumiere, Guillaume. Beyond: Two Souls Coming to PS4 on Nov. 24th, Heavy Rain Out Next Year. PlayStation Blog. 19 November 2015 [19 November 2015]. 
+^ 14.0 14.1 Beyond: Two Souls for PlayStation 3. GameRankings. CBS Interactive. [8 October 2013]. 
+^ 15.0 15.1 Beyond: Two Souls for PlayStation 3 Reviews. Metacritic. CBS Interactive. [8 October 2013]. 
+^ Beyond: Two Souls review. Edge. Future plc. 8 October 2013 [8 October 2013]. 
+^ Welsh, Oli. Beyond: Two Souls review. Eurogamer. Eurogamer Network. 8 October 2013 [8 October 2013]. 
+^ Helgeson, Matt. Beyond: Two Souls. Game Informer. GameStop. 8 October 2013 [8 October 2013]. 
+^ Betka, Zach. Beyond: Two Souls. GamesRadar. Future plc. 8 October 2013 [8 October 2013]. 
+^ 20.0 20.1 McShea, Tom. Beyond: Two Souls Review. GameSpot. CBS Interactive. 8 October 2013 [8 October 2013]. [失效链接]
+^ 21.0 21.1 O'Brien, Lucy. Beyond: Two Souls for PlayStation 3 Reviews. IGN. Ziff Davis. 8 October 2013 [8 October 2013]. 
+^ Kietzmann, Ludwig. Beyond: Two Souls review: Ever Tethered. Joystiq. AOL. 8 October 2013 [8 October 2013]. 
+^ Iwaniuk, Phil. Beyond: Two Souls review – an essential purchase for interactive-drama fans. PlayStation Official Magazine. Future plc. 8 October 2013 [8 October 2013]. （原始内容存档于9 十月 2013）.  请检查|archive-date=中的日期值 (帮助)
+^ McElroy, Justin. Beyond: Two Soul review: hand in hand. Polygon. Vox Media. 8 October 2013 [8 October 2013]. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Quantic Dream
+
+
+
+
+
+
+游戏
+
+
+
+恶灵都市
+幻象杀手
+暴雨
+超凡双生
+底特律：变人
+
+
+
+
+
+
+
+
+动作捕捉作品
+
+Immortal (2004年电影)
+
+
+
+
+
+
+发行商
+
+
+
+Eidos Interactive
+雅达利
+索尼电脑娱乐
+
+
+
+
+
+
+
+
+相关人物
+
+
+
+大卫·凯奇
+Guillaume de Fondaumière
+
+
+
+
+
+
+
+
+
+
+
+
+分类：2013年电子游戏动作冒险游戏索尼互动娱乐游戏PlayStation 3游戏PlayStation 4游戏仅有单人模式的电子游戏附身题材作品鬼题材电子游戏美国背景电子游戏索马里背景电子游戏中国背景电子游戏法国开发电子游戏官方繁体中文化游戏使用Havok的电子游戏多重结局电子游戏隐藏分类：带有失效链接的条目引文格式1错误：日期

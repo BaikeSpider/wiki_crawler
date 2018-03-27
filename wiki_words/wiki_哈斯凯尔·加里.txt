@@ -1,0 +1,119 @@
+哈斯凯尔·加里
+
+
+Haskell Brooks Curry
+
+
+
+
+
+出生
+September 12, 1900 (1900-09-12)
+美国麻州米里镇
+
+
+逝世
+1982年9月1日(1982-09-01)（81岁）
+State College, Pennsylvania
+
+
+国籍
+美国
+
+
+母校
+哈佛大学
+
+
+知名于
+组合子逻辑
+柯里-霍华德同构
+Curry's paradox
+
+
+科学生涯
+
+
+研究领域
+数理逻辑
+
+
+机构
+Penn State
+Universiteit van Amsterdam
+
+
+博士导师
+大卫·希尔伯特
+
+
+受影响于
+Alfred North Whitehead
+Bertrand Russell
+Moses Schönfinkel
+
+
+哈斯凯尔·布鲁克·加里（英语：Haskell Brooks Curry /ˈhæskəl ˈkɜːri/，1900年9月12日－1982年9月1日），生于美国马萨诸塞州米里镇，数理逻辑学家，专长于组合子逻辑理论。尽管组合子逻辑的概念始于Moses Schönfinkel的一纸论文，其大部分发展工作是由柯里完成的。柯里也因为他的柯里悖论和柯里-霍华德同构而闻名。
+编程语言Haskell与Curry都是以他的名字来命名的。
+生平[编辑]
+哈斯凯尔·柯里的父母萨麦尔·S·柯里和安娜·B·柯里经营一家教授修辞术的学院。
+1916年他进入哈佛大学，原先预备攻读医学，但很快就转换到数学领域。1920年毕业后，他在麻省理工学院工作两年，之后又回到哈佛大学继续学业，1924年得到物理学硕士学位，之后取得数学博士学位。在这段时期里，当他接触到阿尔弗雷德·诺思·怀特黑德和伯特兰·罗素在数学符号逻辑领域的尝试性著作《数学原理》后，柯里燃起了对数理逻辑的兴趣。在哈佛学习期间，柯里得到了数学博士学位。在他受乔治·戴维·伯克霍夫指引而研究微分方程的那段时间里，柯里的兴趣持续转向逻辑学。1927年柯里在普林斯顿大学时，他发现了Moses Schönfinkel关于组合子逻辑的成果。Moses Schönfinkel的成果预言了柯里自己的大部分研究,于是柯里去了哥廷根大学与熟悉Moses Schönfinkel工作的Heinrich Behmann、Paul Bernays两人一起工作。
+哈斯凯尔·柯里，1982年9月1日卒于宾夕法尼亚州立学院，享年82岁。
+工作成果[编辑]
+柯里的工作重点试图表明组合逻辑可以为数学提供一个基础。 到了1933年底，他从与John Rosser的通信中了解到了Kleene-Rosser悖论。 由Rosser和Stephen Kleene开发的这个悖论证明了一些相关的形式系统的不一致性，包括由Alonzo Church（一个有lambda演算作为一致子系统的系统）和柯里自己的系统提出的系统。 然而与邱奇，Kleene和Rosser不同的是，柯里并没有放弃基础的方法，他说他不想“逃离这个悖论”。
+在研究组合逻辑的生涯中，柯里基本上成了这个领域的创始人。 组合逻辑是一种函数式编程范式的基础，能力和范围与邱奇的lambda演算非常相似，而后者近几十年来由其对可计算性质的形式化，居于计算机科学的主导地位。1947年柯里描述了第一个高级编程语言之一，并提供了将一般算术表达式转换为单地址计算机代码的过程的第一个描述。他在哈佛，普林斯顿，并于1929年至1966年，在宾夕法尼亚州立大学任教。1942年发表了柯里悖论。1966年成为阿姆斯特丹大学的逻辑学及其精确科学哲学教授，Evert Willem Beth的继任者。
+柯里也撰写和教授数理逻辑；他的教学成果在1963年的《数学逻辑的基础》一书中到达巅峰。追随他的导师希尔伯特，他自认偏好的数学哲学是形式主义（比较他1951年的书）。
+
+主要著作[编辑]
+
+Grundlagen der Kombinatorischen Logik [Foundations of combinatorial logic]. American Journal of Mathematics (The Johns Hopkins University Press). 1930, 52 (3): 509–536. JSTOR 2370619. doi:10.2307/2370619 （德语）. 
+A theory of formal deducibility. University of Notre Dame Press. 1950. [1]
+
+A theory of formal deducibility 2nd. University of Notre Dame Press. 1957. 
+
+
+Outlines of a formalist philosophy of mathematics. Amsterdam: Elsevier Science. 1951 [23 July 2012]. ISBN 0444533680. 
+Leçons de logique algébrique. Paris: Gauthier-Villars. 1952 （法语）. [2]
+Curry, Haskell; Feys, Robert. Combinatory Logic I. Amsterdam: North-Holland Publishing Company. 1958. 
+Foundations of Mathematical Logic. Mcgraw Hill. 1963. 
+
+Foundations of mathematical logic Unabridged and corrected Dover. New York: Dover Publications. 1977 [23 July 2012]. ISBN 0-486-63462-0. 
+
+
+Combinatory Logic II. Amsterdam: North-Holland Publishing Company. 1972. ISBN 0720422086. 
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 34535556
+LCCN: n84801349
+ISNI: 0000 0001 1024 6379
+GND: 12283643X
+SUDOC: 032659210
+BNF: cb12364677d（数据）
+MGP: 7398
+
+
+
+
+
+
+
+
+
+^ Nelson, D. Review: A theory of formal deducibility, by H. B. Curry. Bull. Amer. Math. Soc. 1952, 58 (3): 415–417. doi:10.1090/s0002-9904-1952-09596-3. 
+^ Marcus, R. Barcan. Review: Leçons de logique algébrique, by H. B. Curry. Bull. Amer. Math. Soc. 1952, 58 (2): 673–674. doi:10.1090/s0002-9904-1952-09657-9. 
+
+
+
+
+
+分类：1900年出生1982年逝世美国数学家哈佛大学校友麻省理工学院校友普林斯顿大学教授宾夕法尼亚州立大学教师隐藏分类：使用过时图像语法的页面含有hCards的条目本地相关图片与维基数据不同CS1德语来源 (de)CS1法语来源 (fr)包含规范控制信息的维基百科条目

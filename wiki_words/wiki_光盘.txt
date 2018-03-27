@@ -1,0 +1,870 @@
+光盘
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。（2015年12月14日） 
+请邀请适合的人士改善本条目。更多的细节与详情请参见讨论页。 
+
+
+
+
+
+
+Melody的90分钟超长白金CD光盘
+
+
+
+
+光盘制作
+
+
+
+
+
+
+
+概念
+
+
+光盘
+光盘驱动器
+光盘制作
+制作软件
+刻录技术
+
+刻录模式
+数据包写入
+
+
+
+
+
+
+
+
+
+
+光介质类型
+
+
+蓝光光盘（BD）：BD-R，BD-RE
+DVD：DVD-R, DVD+R, DVD-R DL, DVD+R DL, DVD-RW, DVD+RW, DVD-RW DL, DVD+RW DL, DVD-RW2, DVD-RAM, DVD-D, HVD
+CD：CDDA，CD-ROM，CD-R，CD-RW，5.1 Music Disc，SACD，PhotoCD，CD Video (CDV), Video CD (VCD), SVCD, CD+G, CD-Text, CD-ROM XA, CD-i
+通用媒体光盘（UMD）
+增强型通用光盘（EVD）
+前卫通用光盘（FVD）
+全息通用光盘（HVD）
+HD DVD：HD DVD-R，HD DVD-RW，HD DVD-RAM
+高密度通用光盘（HDVD）
+高密度通用多层光盘（HD VMD）
+VCDHD
+GD-ROM
+MiniDisc (MD) (Hi-MD)
+激光影碟 (LD)
+Video Single Disc (VSD)
+超密度光盘 (UDO)
+叠层容积光盘 (SVOD)
+5D DVD
+任天堂光盘 (NOD)
+
+
+
+
+
+
+
+
+标准
+
+
+SFF ATAPI/MMC
+
+Mount Rainier (packet writing)
+Mount Fuji (layer jump recording)
+
+
+彩虹书
+文件系统
+
+ISO 9660
+
+Joliet (文件系统)
+Romeo
+Rock Ridge / SUSP
+El Torito
+Apple ISO 9660扩展
+
+
+通用光盘格式（UDF）
+ISO 13490
+
+
+
+
+
+
+
+
+
+
+延伸阅读
+
+
+光存储介质历史
+高密度光盘格式之战
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+光盘（英语：Optical disc），又译作光碟，于1965年由美国人发明，当时所存储的格式仍以类比（Analog）为主。它是用激光扫描的记录和读出方式保存信息的一种介质。大约在1990年代左右时开始普及，具有存放大量数据的特性，1片12cm的CD-R约可存放1小时的MPEG1的视频，或74分钟的音乐，或680MB的数据。
+
+
+
+
+从右至左依序为mini cd，CD，DVD4.7G，DVD8.5G，VCD，录像带，LD，录音带
+
+
+
+
+
+目录
+
+
+1 原理
+2 光盘类型
+
+2.1 红外激光
+2.2 红色激光
+2.3 蓝色激光
+2.4 其他
+
+
+3 历史
+
+3.1 第一代
+3.2 第二代
+3.3 第三代
+3.4 第四代
+3.5 光盘种类概述
+
+
+4 光盘种类与规格
+5 环保问题
+6 参考文献
+
+
+
+原理[编辑]
+光盘的记录利用了双重自动修正的编码[1]：当音频以24-bit从模拟信号转变为数字信号之后，会先加入第一组的check digit成为一串28-bit的信号；然后这28-bit的信号会平均分布在28组相连的数据串，并有1-bit的差异，再加入第二组的check digit。这样，即使光盘的物理介质受到损伤，由于有双重的自动修正，使解码器亦能把大多数损伤移除，无损音频的质量。
+光盘类型[编辑]
+红外激光[编辑]
+
+CD （Compact Disc）
+VCD（Video Compact Disc）
+SVCD（Super Video Compact Disc）
+PVD
+
+红色激光[编辑]
+
+DVD（Digital Versatile Disc）
+EVD（Enhanced Versatile Disc）
+FVD (Forward Versatile Disc)
+HVD（High-definition Versatile Disc）
+HDV（High Definition Video）
+NVD（Net Video Disc）
+VMD（Versatile MultiLayer Disc）
+DualDisc (DualDisc)
+UMD（Universal Media Disc）
+
+蓝色激光[编辑]
+
+Blu-ray Disc （BD蓝光光盘）
+HD DVD （已停止后续开发）
+
+
+
+
+
+光盘结构
+
+
+其他[编辑]
+
+MD
+LD
+磁光盘
+CCCD：（Copy Control CD）一种防止复制的CD，使用普通民用设备只能录到MD里，用电脑光驱无法复制到电脑上。
+UMD：（Universal Media Disc，简称UMD）是索尼电脑娱乐（SCE）的掌上型游戏机PlayStation Portable（PSP）上首次应用的光盘规格。
+
+历史[编辑]
+第一代[编辑]
+
+CD (CD) 和派生
+
+VCD (VCD)
+超级VCD (SVCD)
+
+
+激光影碟
+GD-ROM
+Phase-change Dual
+DDCD (DDCD)
+磁光盘 (MOD)
+MiniDisc
+
+第二代[编辑]
+
+DVD 和派生
+
+DVD-Audio (DVD-A)
+影音双面碟
+Digital Video Express (DIVX)
+
+
+任天堂GameCube游戏光盘 (miniDVD 派生)
+Wii光盘 (DVD 派生)
+Super Audio CD (SACD)
+增强型通用光盘 (EVD)
+DataPlay
+通用媒体光盘 (UMD)
+超密度光盘 (UDO)
+
+第三代[编辑]
+
+蓝光光盘 (up to 400 GB - experimental[2][3])
+Wii U光盘 (25 GB per layer)
+HD DVD (discontinued disc format, up to 51 GB triple layer)
+中国蓝光高清光盘 (HD DVD派生)
+HD VMD
+Digital Multilayer Disk
+Fluorescent Multilayer Disc
+前卫通用光盘 (FVD)
+
+第四代[编辑]
+以下超越目前的第三代光盘，有容量超过(1 TB)的潜力：
+
+Archival Disc
+全息通用光盘 (HVD)
+LS-R
+Protein-coated disc
+
+光盘种类概述[编辑]
+
+
+种类
+容量
+试验[Note 1]
+年份[Note 2]
+
+
+激光影碟 (LD)
+0.3GB
+
+1971-2001
+
+
+CD (CD)
+0.7-0.9GB
+
+1981-today
+
+
+MiniDisc (MD)
+0.14GB
+
+1989-today
+
+
+磁光盘 (MOD)
+0.1-16.7GB
+
+1990-today
+
+
+DVD (DVD)
+4.7-17GB
+
+1995-today
+
+
+磁光盘 (Laser Intensity Modulation Direct OverWrite)
+2.6GB
+10GB
+1996-today
+
+
+GD-ROM
+1.2GB
+
+1997-today
+
+
+Fluorescent Multilayer Disc
+
+50-140GB
+1998-2003
+
+
+Versatile Multilayer Disc (VMD)
+5-20GB
+100GB
+1999-2010
+
+
+超密度光盘 (UDO)
+30-60GB
+
+2000-today
+
+
+前卫通用光盘 (FVD)
+5.4-15GB
+
+2001-today
+
+
+增强型通用光盘 (EVD)
+DVD
+
+2002-2004
+
+
+HD DVD
+15-51GB
+1TB[来源请求]
+2002-2008
+
+
+蓝光光盘 (BD)
+25GB
+50GB
+100GB (BDXL)
+128GB (BDXL)
+400GB
+2002-today
+
+
+Professional Disc for Data (PDD)
+23GB
+
+2003-2006
+
+
+Digital Multilayer Disk
+
+22-32GB
+2004-2007
+
+
+Multiplexed Optical Data Storage (MODS-Disc)
+
+250GB-1TB
+2004-today
+
+
+通用媒体光盘 (UMD)
+0.9-1.8GB
+
+2004-2014
+
+
+全息通用光盘 (HVD)
+
+6.0TB
+2004-today
+
+
+Protein-coated Disc (PCD)
+
+50TB
+2005-today
+
+
+M-DISC
+4·7GB (DVD format)
+25GB (Blu-ray format)
+50GB (Blu-ray format)
+100GB (BDXL format) [4]
+
+2009-today
+
+
+Archival Disc
+0.3-1TB
+
+2014-today
+
+
+
+Notes
+
+
+^ 原型和理论值。
+^ 开始于研发,结束于停止销售或研发
+
+光盘种类与规格[编辑]
+
+
+光盘种类与规格[5] [查 · 论 · 编]
+
+
+种类
+规格
+面
+层
+直径（cm）
+容量（GB）
+容量（GiB）
+段[6]
+容量（B）
+
+
+BD
+SS SL
+1
+1
+8
+7.8
+
+
+
+BD
+SS DL
+1
+2
+8
+15.6
+
+
+
+BD
+SS SL
+1
+1
+12
+25
+
+
+
+BD
+SS DL
+1
+2
+12
+50
+
+
+
+CD-ROM 74 min
+SS SL
+1
+1
+12
+0.682
+0.635
+333000
+681984000
+
+
+CD-ROM 80 min
+SS SL
+1
+1
+12
+0.737
+0.687
+360000
+737280000
+
+
+CD-ROM
+SS SL
+1
+1
+8
+0.194
+0.180
+
+
+DDCD-ROM
+SS SL
+1
+1
+12
+1.364
+1.270
+
+
+DDCD-ROM
+SS SL
+1
+1
+8
+0.387
+0.360
+
+
+DVD-1
+SS SL
+1
+1
+8
+1.46
+1.36
+
+
+DVD-2
+SS DL
+1
+2
+8
+2.66
+2.47
+
+
+DVD-3
+DS SL
+2
+2
+8
+2.92
+2.72
+
+
+DVD-4
+DS DL
+2
+4
+8
+5.32
+4.95
+
+
+DVD-5
+SS SL
+1
+1
+12
+4.70
+4.37
+
+
+DVD-9
+SS DL
+1
+2
+12
+8.54
+7.95
+
+
+DVD-10
+DS SL
+2
+2
+12
+9.40
+8.74
+
+
+DVD-14
+DS DL/SL
+2
+3
+12
+13.24
+12.32
+
+
+DVD-18
+DS DL
+2
+4
+12
+17.08
+15.90
+
+
+DVD+R, +RW
+SS SL
+1
+1
+12
+4.70
+4.37
+2295104
+4700372992
+
+
+DVD-R 1.0
+SS SL
+1
+1
+12
+3.95
+3.68
+
+
+DVD-R （2.0）, -RW
+SS SL
+1
+1
+12
+4.70
+4.37
+2298496
+4707319808
+
+
+DVD+R, +RW
+SS DL
+1
+1
+12
+8.5
+
+4173824
+8547991552
+
+
+DVD-R, -RW
+SS DL
+1
+1
+12
+8.5
+
+4171712
+8543666176
+
+
+DVD-R, +R, -RW, +RW
+DS SL
+2
+2
+12
+9.40
+8.75
+
+
+DVD-RAM
+SS SL
+1
+1
+8
+1.46
+1.36
+
+
+DVD-RAM
+DS SL
+2
+2
+8
+2.65
+2.47
+
+
+DVD-RAM 1.0
+SS SL
+1
+1
+12
+2.58
+2.40
+
+
+DVD-RAM 2.0
+SS SL
+1
+1
+12
+4.70
+4.37
+
+
+DVD-RAM 1.0
+DS SL
+2
+2
+12
+5.16
+4.80
+
+
+DVD-RAM 2.0
+DS SL
+2
+2
+12
+9.40
+8.75
+
+
+HD DVD
+SS SL
+1
+1
+8
+4.70
+
+
+
+HD DVD
+SS DL
+1
+2
+8
+9.40
+
+
+
+HD DVD
+DS SL
+2
+2
+8
+9.40
+
+
+
+HD DVD
+DS DL
+2
+4
+8
+18.80
+
+
+
+HD DVD
+SS SL
+1
+1
+12
+15.00
+
+
+
+HD DVD
+SS DL
+1
+2
+12
+30.00
+
+
+
+HD DVD
+DS SL
+2
+2
+12
+30.00
+
+
+
+HD DVD
+DS DL
+2
+4
+12
+60.00
+
+
+
+HD DVD-RAM
+SS SL
+1
+1
+12
+20.00
+
+
+
+
+
+读取速度与已量产最高倍速
+
+
+世代
+1倍速（Mbit/s）
+最高读取速度（Mbit/s）
+最高倍速
+
+
+1st（CD）
+1.17
+65.62
+56×
+
+
+2nd（DVD）
+10.55
+210.94
+24×
+
+
+3rd（BD）
+36
+432
+12× [7]
+
+
+
+环保问题[编辑]
+由于光盘的制作，基于成本考量，已鲜少使用贵金属做为反射层。因此废弃物的回收处理业者以没有经济价值与回收处理不合成本为由，并不乐意回收处理弃置光盘。台湾的环保署，在2002年委外运行“弃置光盘回收清理探讨项目”的研究显示，估计每年共约产生990吨（约6000万片）以上的弃置光盘。[8]
+参考文献[编辑]
+
+
+^ 见BBC为英国公开大学拍摄的课程视频：Graphs, Networks and Designs中一段访问荷兰自由大学与菲利浦的研究结果。
+^ Pioneer's Blu-ray disc hits 400GB across 16-layers. www.engadget.com. 2008-07-07. 
+^ Pioneer's 400 GB Blu-ray Disc. www.gizmag.com. 
+^ 100 GB Disc
+^ MPEG: DVD, Book A - Physical parameters
+^ 每段有2048B
+^ LG 6x Blu-ray Burner Available in Korea. CDRinfo.com. 
+^ 环保署针对国内弃置光碟片回收处理提出说明. 环保署. 2003-09-19 （中文（台湾）‎）. 
+
+
+
+
+
+维基共享资源中相关的多媒体资源：光盘
+
+
+
+
+维基文库中相关的原始文献：
+光碟管理条例
+
+
+
+
+
+
+分类：光碟制作光电子学声音储存影像储存电脑储存媒体存储媒体隐藏分类：自2015年12月需要专业人士关注的页面有未列明来源语句的条目

@@ -1,0 +1,709 @@
+Game Boy Color
+
+
+
+
+
+
+Game Boy Color
+
+
+
+
+制造商
+任天堂
+
+
+型式
+掌上型游戏机
+
+
+世代
+第五世代
+
+
+推出日期
+
+
+
+日本：1998年10月21日
+北美：1998年11月18日
+PAL：1998年11月23日
+澳洲：1998年11月27日
+
+
+
+
+
+停产日期
+2003年5月30日
+
+
+媒体
+卡带
+
+
+控制器输入
+本体按键
+
+
+连接界面
+通过线缆联机
+
+
+向下兼容
+“GBC”卡带，最初GB黑白卡带
+
+
+前代机种
+Game Boy Light
+
+
+后继机种
+Game Boy Advance
+
+
+
+
+电子游戏主题
+
+
+Game Boy Color（简称GBC）是日本任天堂公司开发的一种电池驱动彩色屏幕携带式电子游戏机（简称手掌机或掌上型游戏机），是原Game Boy的加强版。日本于1998年10月21日发行。其最大特点在于相对原版Game Boy使用了彩色屏幕。
+Game Boy Color在日本的主要竞争对手是16位灰色掌机Neo Geo Pocket和WonderSwan。不过在销售方面，Game Boy Color仍然远远超过竞争者。SNK和万代紧接着继续推出Neo Geo Pocket Color和Wonderswan Color，但是这个对于任天堂的主导地位几乎没有变化。当世嘉于1997年结束支持Game Gear，Game Boy Color在北美市场的主要竞争者就是Game Boy。直到短暂生命周期的Neo Geo Pocket Color于1999年8月出现。
+
+
+
+目录
+
+
+1 规格
+2 游戏
+3 销售
+4 参考资料
+
+
+
+规格[编辑]
+[1]
+
+处理器: 夏普公司 LR35902 (基于 Zilog Z80)，主频为4.194304Mhz或8.388Mhz(双处理器模式)
+分辨率: 160 x 144 像素 (与 Game Boy相同)
+可显示色彩数: 32,768 (15位元)
+最大同屏幕显示色彩数: 56色
+音效: 单声道喇叭、3.5mm立体声插座，音效处理芯片具备四个频道：两个方型波，一个任意波，一个杂波
+ROM: 8 MB
+RAM: 32 KB
+显示内存: 16 KB
+电源:2个三号干电池，约能使用30小时，或3伏特变压器。
+尺寸:75 mm x 27 mm x 133 mm
+
+游戏[编辑]
+由于对Game Boy游戏的向下兼容，在发行之初，Game Boy Color具有很大的可供游玩的游戏库。在超过四年的生命周期里，游戏系统聚集了576款Game Boy Color游戏。其中大多数游戏是Game Boy Color独占，大约30%的游戏能够向下兼容Game Boy。
+销售[编辑]
+Game Boy和Game Boy Color都获得了商业成功。在日本售出3247万台，在北美售出4406万台，在其他地区售出4216万台。
+参考资料[编辑]
+
+
+^ Nintendo GameBoy Color Console Information - Console Database. ConsoleDatabase.com}. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Game Boy家系
+
+
+
+
+
+
+游戏机
+
+
+
+Game Boy
+
+Pocket
+Light
+
+
+Color
+Advance
+
+Advance SP
+Micro
+
+
+
+
+
+
+
+
+
+
+外设
+
+
+
+播放君
+任天堂力量
+
+
+
+
+
+
+
+
+游戏
+
+
+
+Game Boy游戏
+
+畅销游戏
+
+
+Game Boy Advance游戏
+
+畅销游戏
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+任天堂游戏硬件
+
+
+
+
+
+
+家用游戏机
+
+
+
+Color TV-Game
+红白机
+
+夏普任天堂电视
+红白机编辑
+Twin Famicom
+
+
+超级任天堂
+
+mini
+
+
+任天堂64
+
+神游机
+
+
+任天堂GameCube
+Wii
+
+Mini
+
+
+Wii U
+任天堂Switch
+
+
+
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+Game & Watch
+Game Boy
+
+Pocket
+Light
+
+
+Game Boy Color
+Virtual Boy
+Game Boy Advance
+
+SP
+Micro
+
+
+任天堂DS家族
+
+任天堂DS
+Lite
+DSi
+
+
+任天堂3DS家族
+
+3DS
+2DS
+新3DS
+新2DS LL
+
+
+任天堂Switch
+
+
+
+
+
+
+
+
+街机基板
+
+
+
+任天堂对战系统
+
+
+
+
+
+
+
+
+周边配件
+
+
+
+磁碟机
+播放君
+Satellaview
+64DD
+GBA传输线
+Wii遥控器
+任天堂力量
+Joy-Con
+
+
+
+
+
+
+
+
+技术
+
+
+
+任天堂光盘
+Broadway（Wii）
+Espresso（Wii U）
+Erista（Switch）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+第五世代游戏机
+
+
+
+
+
+
+家用游戏机
+
+
+
+3DO
+雅达利Jaguar
+卡西欧Loopy
+CP System
+FM Towns Marty
+任天堂64
+PC-FX
+Pippin
+Playdia
+PlayStation
+世嘉土星
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+Virtual Boy
+Game Boy Color
+Neo Geo Pocket
+WonderSwan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+掌上游戏机
+
+
+
+
+
+
+万代
+
+
+
+WonderSwan
+
+WonderSwan Color
+SwanCrystal
+
+
+拓麻歌子
+携带机
+
+
+
+
+
+
+
+
+Entex
+
+
+
+Select-A-Game
+Adventurevision
+
+
+
+
+
+
+
+
+Game Park（英语：Game Park）/Holdings（英语：GamePark Holdings）
+
+
+
+GP32（英语：GP32）
+GP2X（英语：GP2X）
+XGP（英语：XGP）（从未发售）
+GP2X Wiz（英语：GP2X Wiz）
+GP2X Caanoo（英语：GP2X Caanoo）
+
+
+
+
+
+
+
+
+任天堂
+
+
+
+Game & Watch
+Game Boy
+
+Pocket
+Light
+Color
+
+
+Game Boy Advance
+
+SP
+Micro
+
+
+任天堂DS
+
+任天堂DS Lite
+任天堂DSi
+
+
+任天堂3DS
+
+2DS
+新3DS
+新2DS XL/LL
+
+
+任天堂Switch
+
+
+
+
+
+
+
+
+诺基亚
+
+
+
+N-Gage
+N-Gage QD（英语：N-Gage QD）
+
+
+
+
+
+
+
+
+世嘉
+
+
+
+Game Gear
+Nomad
+Jewelpod
+
+
+
+
+
+
+
+
+SNK
+
+
+
+Neo Geo Pocket
+Neo Geo Pocket Color
+Neo Geo X（英语：Neo Geo X）
+
+
+
+
+
+
+
+
+索尼
+
+
+
+PlayStation Portable
+
+Slim & Lite
+PSP Go
+
+
+PlayStation Vita
+
+PlayStation Vita TV
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+
+1970年代
+
+
+
+
+Microvision
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+Nelsonic Industries（英语：Nelsonic Industries）
+Electronika（英语：Electronika）
+Epoch Game Pocket Computer
+Atari Lynx
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+PC Engine GT
+Game Master (游戏机)（英语：Game Master (console)）
+Gamate（英语：Gamate）
+Barcode Battler（英语：Barcode Battler）
+Watara Supervision（英语：Watara Supervision）
+Mega Duck（英语：Mega Duck）
+R-Zone（英语：R-Zone）
+Game.com（英语：Game.com）
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+Tapwave Zodiac（英语：Tapwave Zodiac）
+GameKing（英语：GameKing）
+GPANG service（英语：GPANG）
+Didj（英语：Leapfrog Didj）
+Leapster（英语：Leapster）
+Gizmondo（英语：Gizmondo）
+Coleco Sonic（英语：Coleco Sonic）
+Dingoo（英语：Dingoo A320）
+V-Smile Pocket（英语：V-Smile Pocket）
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+JXD devices（英语：JXD）
+Pandora (游戏机)（英语：Pandora (console)）
+DragonBox Pyra（英语：DragonBox Pyra）
+Shield Portable
+GCW Zero（英语：GCW Zero）
+GPD Win（英语：GPD Win）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+列表
+
+
+
+
+
+
+
+
+
+
+任天堂主题
+电子游戏主题
+
+
+
+
+
+
+分类：掌上游戏机Game Boy游戏机第五世代游戏机1998年面世的产品隐藏分类：使用过时图像语法的页面使用2号参数传递Portal模板图像的页面

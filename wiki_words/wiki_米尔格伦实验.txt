@@ -1,0 +1,314 @@
+米尔格拉姆实验
+
+
+
+
+
+
+
+
+
+
+实验者（E）（有时会是米尔格拉姆）命令“老师”（T）为“学生”（L）给予“电击”，扮演“老师”的参与者被告知这样做真的会使“学生”遭受痛苦的电击，但实际上“学生”是实验的一名助手所扮演的。参与者相信“学生”每次回答错误都真的会遭受电击，但其实并没有真的进行电击。在与参与者隔离以后，助手会设置一套录音机，而该录音机则由“老师”的“电击产生器”所操控，并会根据电击程度而播出不同预制录音。
+
+
+米尔格拉姆实验（英语：Milgram experiment），又称权力服从研究（Obedience to Authority Study）是一个针对社会心理学非常知名的科学实验。实验的概念最先开始于1963年由耶鲁大学心理学家斯坦利·米尔格拉姆在《变态心理学杂志》（Journal of Abnormal and Social Psychology）里所发表的《Behavioral Study of Obedience》一文，稍后也在他于1974年出版的《Obedience to Authority: An Experimental View》里所讨论。这个实验的目的，是为了测试受测者，在面对权威者下达违背良心的命令时，人性所能发挥的拒绝力量到底有多少。
+实验开始于1961年7月，也就是纳粹党徒阿道夫·艾希曼被抓回耶路撒冷审判并被判处死刑后的一年。米尔格拉姆设计了这个实验，便是为了测试“艾希曼以及其他千百万名参与了犹太人大屠杀的纳粹追随者，有没有可能只是单纯的服从了上级的命令呢？我们能称呼他们为大屠杀的凶手吗？”[1]
+
+
+
+目录
+
+
+1 实验方法
+2 结果
+3 对实验的反应
+4 复制实验
+5 参考
+6 注释
+7 参考文献
+
+7.1 影片
+
+
+
+
+
+实验方法[编辑]
+
+
+
+
+米尔格拉姆实验广告传单
+
+
+实验小组在报纸上刊登广告并寄出许多广告信，招募参与者前来耶鲁大学协助实验。实验地点选在大学的老旧校区中的一间地下室，地下室有两个以墙壁隔开的房间。广告上说明实验将进行约一小时，报酬是4.50美元（大约为2006年的20美元）。参与者年龄从20岁至50岁不等，包含各种教育背景，从小学毕业至博士学位都有。
+实验小组告诉参与者，这是一项关于“体罚对于学习行为的效用”的实验，并告诉参与者他将扮演“老师”的角色，以教导隔壁房间的另一位参与者——“学生”，然而学生事实上是由实验人员所假冒的。
+实验小组告诉参与者，他被随机挑选为担任“老师”，并拿到了一张“答案卷”，并向他说明隔壁被挑选为“学生”的参与者也拿到了一张“题目卷”。但事实上两张纸都是“答案卷”，而所有真正的参与者都是担任“老师”。“老师”和“学生”分处不同房间，他们不能看到对方，但能隔着墙壁以声音互相沟通。在其中一个版本的实验，“学生”明确告知参与者，他患有心脏疾病。报酬在实验前就先发放，并表示就算受试者中途退出实验也不需退还报酬。
+“老师”被给予一具据称从45伏特起跳的电击控制器，控制器连结至一具发电机，并被告知这具控制器能使隔壁的“学生”受到电击。“老师”所取得的答案卷上列出了一些搭配好的单字，而“老师”的任务便是教导隔壁的“学生”。老师会逐一朗读这些单字配对给学生听，朗读完毕后老师会开始考试，每个单字配对会念出四个单字选项让学生作答，学生会按下按钮以指出正确答案。如果学生答对了，老师会继续测验其他单字。如果学生答错了，老师会对学生施以电击，每逢作答错误，电击的伏特数也会随之提升。
+参与者将相信，学生每次作答错误会真的遭到电击，但事实上并没有真的进行电击。在隔壁房间里，由实验人员所假冒的学生打开录音机，录音机会搭配着发电机的动作而播放预先录制的尖叫声，随着电击伏特数提升也会有更为惊人的尖叫声。当伏特数提升到一定程度后，假冒的学生会开始敲打墙壁，而在敲打墙壁数次后则会开始抱怨他患有心脏疾病。接下来当伏特数继续提升一定程度后，学生将会突然保持沉默，停止作答、并停止尖叫和其他反应。
+
+
+
+
+电压
+“学生”的反应
+
+
+75 V
+嘟囔
+
+
+120 V
+痛叫
+
+
+150 V
+说，他想退出试验
+
+
+200 V
+大叫：“血管里的血都冻住了。”
+
+
+300 V
+拒绝回答问题
+
+
+超过 330 V
+静默
+
+
+
+
+到这时许多参与者都表现出希望暂停实验以检查学生的状况。许多参与者在到达135伏特时暂停，并质疑这次实验的目的。一些人在获得了他们无须承担任何责任的保证后继续测验。一些人则在听到学生尖叫声时有点紧张地笑了出来。
+若是参与者表示想要停止实验时，实验人员会依以下顺序这样子回复他：
+
+请继续。
+这个实验需要你继续进行，请继续。
+你继续进行是必要的。
+你没有选择，你必须继续。
+
+如果经过四次回复的怂恿后，参与者仍然希望停止，那实验便会停止。否则，实验将继续进行，直到参与者施加的惩罚电压提升至最大的450伏特并持续三次后，实验才会停止。
+结果[编辑]
+米尔格拉姆为整个实验过程和其结果录制了纪录片，纪录片名便是服从，纪录片的正版拷贝目前已经很难找到了。他接着与Harry From制作了5部一系列受到这次实验影响的社会心理学影片。[2]。
+在进行实验之前，米尔格拉姆曾对他的心理学家同事们做了预测实验结果的测验，他们全都认为只有少数几个人——10分之1甚至是只有1%——会狠下心来继续惩罚直到最大伏特数。
+结果在米尔格拉姆的第一次实验中，百分之65（40人中超过27人）的参与者都达到了最大的450伏特惩罚—尽管他们都表现出不太舒服；每个人都在伏特数到达某种程度时暂停并质疑这项实验，一些人甚至说他们想退回实验的报酬。没有参与者在到达300伏特之前坚持停止。后来米尔格拉姆自己以及许多全世界的心理学家也做了类似或有所差异的实验，但都得到了类似的结果。为了证实这项实验，也有许多更改了架构的实验产生。
+马里兰大学巴尔的摩县分校的Thomas Blass博士（也是米尔格拉姆的传记—《电醒全世界的人》的作者）在重复进行了多次实验后得出了整合分析的结果，他发现无论实验的时间和地点，每次实验都有一定比率的参与者愿意施加致命的伏特数，约在61%至66%之间。
+对于实验结束时的情况所知不多，依据菲利普·津巴多的回想，当时那些没有达到最高伏特数的参与者却也都没有坚持这项实验本身应该结束，也没有至隔壁房间探视“学生”，离开时也都没有询问实验人员的同意。
+米尔格拉姆在他的文章“服从的危险” （1974年）里写道：
+
+在法律和哲学上有关服从的观点是意义非常重大的，但他们很少谈及人们在遇到实际情况时会采取怎样的行动。我在耶鲁大学设计了这个实验，便是为了测试一个普通的市民，只因一位辅助实验的科学家所下达的命令，而会愿意在另一个人身上加诸多少的痛苦。当主导实验的权威者命令参与者伤害另一个人，更加上参与者所听到的痛苦尖叫声，即使参与者受到如此强烈的道德不安，多数情况下权威者仍然得以继续命令他。实验显示了成年人对于权力者有多么大的服从意愿，去做出几乎任何尺度的行为，而我们必须尽快对这种现象进行研究和解释。
+
+对实验的反应[编辑]
+实验本身受到了关于在科学实验上的伦理质疑，因为这项实验对参与者施加了极度强烈的情感压力（虽然这种压力可以说是由他们本身自由操作所造成的），尽管这项实验带来了对人类心理学研究的宝贵发现，许多现在的科学家会将这类实验视为是违反实验伦理的。
+米尔格拉姆则辩护道，之后的调查发现当时的参与者中有84%称他们感觉“高兴”或“非常高兴”参与了这项实验，15%参与者选择中立态度（有92%的参与者做了事后的调查），之中许多人事后还向米尔格拉姆表达谢意。而且米尔格拉姆还不断接到这些前参与者想要再次协助他进行实验，甚至想加入他的研究团队。
+六年后（也就是越战规模最大的时期），其中一个前参与者与米尔格拉姆联系，表示为何他们会感觉“高兴”参与了这项实验：
+
+“1964年当我在进行实验时，虽然我相信我是在伤害某个人，但我完全不晓得我为什么要这样做。当人们根据他们自己所信仰的事物并顺从的服从权力者行动时，很少人会意识到这点...请允许我这样认为，我被权力机关征召入伍，而这将会让我做出一些连我自己都会害怕的坏事. ... 如果我拒绝服兵役的良心申请（Conscientious Objector）不被权力机关所批准，我已经准备因此而去坐牢，这对我的良心而言是唯一的选择。我唯一的希望，是我那些同样被征召的伙伴们也能如此发挥他们的良心...”
+
+不过，实验的经验并不是对每个参与者都有终身的改变。许多参与者都没有依据现代的实验标准被告知细节，离去时的面谈也显示许多参与者看起来仍没有理解到这项实验的真实情况。
+实验所引起最主要的评论不在于实验方法的伦理争议，而在于实验所代表的意义。一位在1961年的耶鲁大学参与者在Jewish Currents杂志上写道，当他在担任“老师”的中途想要停止时，便是怀疑到“整个实验可能只是设计好，为了测试寻常美国民众会不会遵从命令违背道德良心—如同德国人在纳粹时期一样”而这便是实验的初衷之一。米尔格拉姆在他《服从的危险》一书中便称：“我们所面临的问题便是，我们在实验室里所制造的使人服从权力的环境，与我们所痛责的纳粹时代之间有怎么样的关联。”
+复制实验[编辑]
+法国电视节目“死亡游戏”（法语：Le Jeu de la mort；英语：The Game of Death）重做这个实验。召募了80名自愿者，其中只有16人在游戏中途退出。其中一名没有退出的参赛者，事后受访时说，即使她知道爷爷是犹太人，曾经受到纳粹迫害，她还是听从虐待命令。[3]
+参考[编辑]
+
+良心
+公视主题之夜（电椅大风吹）片段：米尔格拉姆实验 Milgram experiment - YouTube
+短片：The Milgram Experiment (2009) - IMDb
+电影：米尔格拉姆实验者（英语：Experimenter (film)）；Experimenter (2015) - IMDb
+
+注释[编辑]
+
+
+^ Milgram, 1974
+^ 宾夕法尼亚州立大学媒体中心
+^ 法国电视节目实验 参赛者成残暴虐待者. 2010年3月17日 [2013-08-29]. 
+
+
+参考文献[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：米尔格拉姆实验
+
+
+
+
+Blass, Thomas. "The Milgram paradigm after 35 years: Some things we now know about obedience to authority", Journal of Applied Social Psychology [1], 1999, 25, pp. 955-978.
+Blass, Thomas. (2002), "The Man Who Shocked the World", Psychology Today, 35:(2), Mar/Apr 2002.
+Blass, Thomas. (2004), The Man Who Shocked the World: The Life and Legacy of Stanley Milgram. Basic Books (ISBN 0-7382-0399-8).
+Levine, Robert V. "Milgram's Progress" [2]. American Scientist.
+
+Book review of "The Man Who Shocked the World: The Life and Legacy of Stanley Milgram". Thomas Blass. xxiv + 360 pp. Basic Books, 2004.
+
+
+Milgram, Stanley. Official website [3]
+Milgram, Stanley. (1963). "Behavioral Study of Obedience".[4] Journal of Abnormal and Social Psychology 67, 371-378.
+Milgram, Stanley. (1974), Obedience to Authority; An Experimental View Harpercollins (ISBN 0-06-131983-X).
+Milgram, Stanley. (1974), "The Perils of Obedience" [5]. Harper's Magazine
+
+Abridged and adapted from Obedience to Authority.
+
+
+Miller, Arthur G., (1986). "The obedience experiments: A case study of controversy in social science". New York : Praeger.
+Parker, Ian, "Obedience". Granta [6] Issue 71, Autumn 2000.
+
+Includes an interview with one of Milgram's volunteers, and discusses modern interest in, and scepticism about, the experiment.
+
+
+Wu, William, "Practical Psychology: Compliance: The Milgram Experiment." [7].
+
+
+影片[编辑]
+
+Obedience, Black-and-white film of the experiment, shot by Milgram. Distributed by 宾夕法尼亚州立大学 Media Sales
+The Milgram Reenactment, 2002. Color, Exact re-enactment of one condition of the obedience experiment. Created by conceptual UK artist Rod Dickinson.
+主题之夜《电椅大风吹》－－公视节目，探讨人性的纪录片。
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+从众行为
+
+
+
+
+
+
+群组压力
+
+
+
+Authoritarian personality（英语：Authoritarian personality）
+欺凌
+集体自卫权
+集体主义
+洗脑
+Consensus reality（英语：Consensus reality）
+团体迷思
+Hazing（英语：Hazing）
+Herd mentality（英语：Herd mentality）
+Indoctrination（英语：Indoctrination）
+Memory conformity（英语：Memory conformity）
+Milieu control（英语：Milieu control）
+Mobbing（英语：Mobbing）
+民族主义
+Normalization (sociology)（英语：Normalization (sociology)）
+Normative social influence（英语：Normative social influence）
+陶片放逐制
+圆形监狱
+爱国主义
+同侪压力
+同行评审
+多数无知
+政治宣传
+Right-wing authoritarianism（英语：Right-wing authoritarianism）
+Scapegoating（英语：Scapegoating）
+Social influence（英语：Social influence）
+社会化
+沉默的螺旋
+Teasing（英语：Teasing）
+民主
+多数人暴政
+索马里判官政治
+
+
+
+
+
+
+
+
+自我确认
+
+
+
+Compliance (psychology)（英语：Compliance (psychology)）
+Countersignaling（英语：Countersignaling）
+Herd behavior（英语：Herd behavior）
+Internalisation (sociology)（英语：Internalisation (sociology)）
+Social proof（英语：Social proof）
+Obedience (human behavior)（英语：Obedience (human behavior)）
+
+
+
+
+
+
+
+
+著名实验
+
+
+
+阿希从众实验
+米尔格拉姆实验
+斯坦福监狱实验
+
+
+
+
+
+
+
+
+反从众行为
+
+
+
+反独裁主义
+反社会行为
+公民不服从
+世界主义
+Culture jamming（英语：Culture jamming）
+越轨社会学
+折衷主义
+Eccentricity (behavior)（英语：Eccentricity (behavior)）
+Idiosyncrasy（英语：Idiosyncrasy）
+个人主义
+举事
+Ritual clown（英语：Ritual clown）
+讽刺
+Shock value（英语：Shock value）
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4299996-0
+
+
+
+
+
+
+
+
+
+
+
+
+分类：从众行为社会心理学心理学实验心理学史人体试验美国人类受试者研究项目隐藏分类：含有英语的条目含有法语的条目包含规范控制信息的维基百科条目使用ISBN魔术链接的页面

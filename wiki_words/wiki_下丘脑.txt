@@ -1,0 +1,922 @@
+下丘脑
+
+
+
+
+
+本条目可参照英语维基百科相应条目来扩充。（2017年2月4日） 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+
+
+
+
+
+
+下丘脑
+
+
+
+人体下丘脑位置
+
+
+
+
+间脑
+
+
+
+细节
+
+
+拉丁语
+hypothalamus
+
+
+识别标示
+
+
+Gray's
+p.812
+
+
+MeSH
+A08.186.211.730.385.357
+
+
+NeuroNames
+hier-358
+
+
+TA（英语：Terminologia Anatomica）
+A14.1.08.401、A14.1.08.901
+
+
+FMA
+FMA:62008
+
+
+解剖学术语（英语：Anatomical terminology）
+
+
+下丘脑（英语：Hypothalamus），是调节内脏活动和内分泌活动的较高级神经中枢所在，又称丘脑下部。位于丘脑的下方（希腊文 ὑποθαλαμος = under the thalamus），脑干的上方，控制身体多项功能。其区域包括间脑腹侧的大部分区域，通过脑下垂体连接神经系统和内分泌系统。在人体中，它和杏核的大小相当。
+通常将下丘脑从前向后分为三个区：视上部位于视交叉上方，由视前核和室旁核所组成；结节部位于漏斗的后方；乳头部位于乳头体。
+它位于脑的底部，连接第三脑室的两侧。下丘脑腺体调节体温、血糖、水平衡、脂肪代谢、摄食习惯、睡眠、性行为、情绪、荷尔蒙（例如：肾上腺素及皮质醇）的制作，以及自律神经系统。它接收从自律神经系统而来的讯号，并决定相应的行动。当人类遇到恐惧或兴奋的事情，身体的自律神经系统会向丘脑下部腺体发出讯号，从而使身体加速心跳和呼吸、瞳孔扩张，并增加血液流量，以使身体能够及时作出相应的行动。虽然它在身体占有极为重要的地位，但它的体积只有整个脑部不足1%的空间。
+下丘脑能通过下述三种途径对机体进行调节：
+
+由下丘脑神经核发出的下行传导纤维到达脑干和脊髓的自律神经中枢，再通过自律神经调节内脏与许多身体活动；[1]
+下丘脑的视前核和室旁核发出的纤维构成下丘脑-脑垂体径到达脑垂体神经部，两核分泌的血管加压素（抗利尿激素）和催产素沿着此纤维流到脑垂体后叶（神经性垂体）内贮存，需要时在神经调节下释放入血液循环；[2]
+下丘脑分泌多种多肽类神经激素对脑垂体前叶（分泌性垂体）的分泌起特异性刺激作用或抑制作用，称为释放激素或抑制释放激素。[1]
+
+
+
+
+
+下丘脑（显示为红色）。
+
+
+
+
+
+目录
+
+
+1 功能
+
+1.1 释放激素
+
+1.1.1 垂体前叶
+1.1.2 垂体后叶
+
+
+1.2 刺激
+
+
+2 参看
+3 参考数据
+4 外部链接
+
+
+
+功能[编辑]
+释放激素[编辑]
+
+
+
+
+人类头部和颈部的分泌腺及其对应激素
+
+
+下丘脑具有内分泌功能，最值得注意的是通过反馈调节控制各个器官和腺体的垂体前叶。释放激素产生于下丘脑中心，然后沿着轴突运往要么正中隆起或垂体后叶，并在那里按需储存和释放。
+垂体前叶[编辑]
+在下丘脑-垂体结构中，释放激素由此处释放。此处的释放激素从正中隆起（下丘脑的延伸部分）释放并进入垂体门系统（Hypophyseal portal system）。
+
+
+所分泌的激素
+缩写
+分泌者
+作用
+
+
+促甲状腺激素释放激素（Thyrotropin-releasing hormone）
+TRH, TRF
+Parvocellular neurosecretory cell（英语：Parvocellular neurosecretory cell）s of the paraventricular nucleus（英语：paraventricular nucleus）
+刺激垂体前叶分泌促甲素（thyroid-stimulating hormone, TSH）
+
+
+促催乳素释放激素释放激素（Prolactin-releasing hormone）
+PRH
+Parvocellular neurosecretory cell（英语：Parvocellular neurosecretory cell）s of the paraventricular nucleus（英语：paraventricular nucleus）
+刺激垂体前叶分泌泌乳刺激素（prolactin）
+
+
+促肾上腺皮质激素释放激素（Corticotropin-releasing hormone）
+CRH 或 CRF
+Parvocellular neurosecretory cells of the paraventricular nucleus
+刺激垂体前叶分泌促肾上腺皮质激素（adrenocorticotropic hormone, ACTH）
+
+
+多巴胺（Dopamine）
+（催乳素抑制激素，Prolactin-inhibiting hormone）
+DA 或 PIH
+Dopamine neurons of the arcuate nucleus
+抑制垂体前叶分泌泌乳刺激素
+
+
+生长激素释放激素（Growth-hormone-releasing hormone）
+GHRH
+Neuroendocrine neurons of the Arcuate nucleus
+刺激垂体前叶分泌生长激素（growth-hormone GH）。
+
+
+促性腺激素释放激素(Gonadotropin-releasing hormone)
+GnRH 或 LHRH
+Neuroendocrine cells of the Preoptic area（英语：Preoptic area）
+刺激 卵泡刺激激素卵泡刺激激素垂体前叶分泌(follicle-stimulating hormone FSH) 和 黄体生成素 (luteinizing hormone LH)
+
+
+生长激素抑制激素[3]
+(Somatostatin, growth-hormone-inhibiting hormone)
+SS, GHIH, or SRIF
+Neuroendocrine cells of the Periventricular nucleus（英语：Periventricular nucleus）
+抑制 垂体前叶分泌生长激素
+适度抑制垂体前叶分泌促甲素(thyroid-stimulating hormone, TSH)
+
+
+其它从正中隆起分泌其他激素包括抗利尿激素 (vasopressin)，催产素 (oxytocin) 和神经降压素 (neurotensin)。[4][5][6][7]
+垂体后叶[编辑]
+在下丘脑-垂体结构中，神经垂体激素 (neurohypophysial hormone)由此释放。
+
+
+所分泌的激素
+缩写
+分泌者
+作用
+
+
+催产素(Oxytocin)
+OXY 或 OXT
+Magnocellular neurosecretory cell（英语：Magnocellular neurosecretory cell）s of the paraventricular nucleus and supraoptic nucleus（英语：supraoptic nucleus）
+引起子宫收缩
+分泌乳汁
+
+
+抗利尿激素
+(vasopressin, antidiuretic hormone)
+ADH or AVP
+Magnocellular and parvocellular neurosecretory cells of the paraventricular nucleus, magnocellular cells in supraoptic nucleus
+增加肾小管和集合管的通透性，使之重吸收作用增强，减少排尿。
+
+
+刺激[编辑]
+下丘脑协调许多激素的内分泌输出，复杂的稳态模式的机制，以及包括节律在内的重要的为。因此下丘脑必须响应于许多不同的信号，其中一些来自内环境、一些来自外环境。
+下丘脑对以下刺激有反应：
+
+光：调节昼夜和季节节律的日照和光照时间
+嗅觉刺激，包括信息素
+类固醇，包括性类固醇和皮质类固醇
+从心脏，胃，和生殖系统而引起的特定传输信息
+自主的输入
+血源性刺激，包括瘦蛋白，生长素，血管紧张素，胰岛素，垂体激素，细胞因子，血浆的葡萄糖浓度和渗透压变化的等等。
+压力
+通过提高体温以抵御入侵的微生物。
+
+参看[编辑]
+
+释放抑制因子 (SRIF)
+生长抑素
+
+参考数据[编辑]
+
+
+^ 1.0 1.1 存档副本. [2008-06-22]. （原始内容存档于2008-09-29）. 
+^ 同项参考
+^ Ben-Shlomo, Anat; Melmed, Shlomo. Pituitary somatostatin receptor signaling. Trends in Endocrinology & Metabolism. 28 February 2010, 21 (3): 123–133. PMC 2834886. PMID 20149677. doi:10.1016/j.tem.2009.12.003. 
+^ Horn, A. M.; Robinson, I. C. A. F.; Fink, G. Oxytocin and vasopressin in rat hypophysial portal blood: experimental studies in normal and Brattleboro rats. Journal of Endocrinology. 1 February 1985, 104 (2): 211–NP. PMID 3968510. doi:10.1677/joe.0.1040211. 
+^ Date, Y; Mondal, MS; Matsukura, S; Ueta, Y; Yamashita, H; Kaiya, H; Kangawa, K; Nakazato, M. Distribution of orexin/hypocretin in the rat median eminence and pituitary.. Brain research. Molecular brain research. Mar 10, 2000, 76 (1): 1–6. PMID 10719209. doi:10.1016/s0169-328x(99)00317-4. 
+^ Watanobe, H; Takebe, K. In vivo release of neurotensin from the median eminence of ovariectomized estrogen-primed rats as estimated by push-pull perfusion: correlation with luteinizing hormone and prolactin surges.. Neuroendocrinology. April 1993, 57 (4): 760–4. PMID 8367038. doi:10.1159/000126434. 
+^ Spinazzi, R; Andreis, PG; Rossi, GP; Nussdorfer, GG. Orexins in the regulation of the hypothalamic-pituitary-adrenal axis.. Pharmacological reviews. March 2006, 58 (1): 46–57. PMID 16507882. doi:10.1124/pr.58.1.4. 
+
+
+外部链接[编辑]
+
+head and neck(头颈部)-hypothalamus(下丘脑)
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+内分泌系统：激素/内分泌腺（肽类激素、甾体激素）
+
+
+
+
+
+
+内分泌腺
+
+
+
+
+
+下丘脑-垂体
+
+
+
+
+
+
+下丘脑
+
+
+GnRH、TRH、多巴胺、CRH、GHRH/生长抑素、黑色素浓集激素
+
+
+
+
+
+
+
+垂体后叶
+
+
+抗利尿激素、催产素
+
+
+
+
+
+
+
+垂体前叶
+
+
+糖蛋白激素α亚基（FSH FSHB、LH LHB、TSH TSHB）、催乳素、 POMC（CLIP、ACTH、MSH、内啡肽、促脂解素）、生长激素
+
+
+
+
+
+
+
+
+
+
+性腺轴
+
+
+
+
+
+
+睾丸
+
+
+睾酮、AMH、抑制素
+
+
+
+
+
+
+
+卵巢
+
+
+雌二醇、黄体素、抑制素/激活素、松弛素
+
+
+
+
+
+
+
+胎盘
+
+
+hCG、 HPL、 雌激素、 黄体素
+
+
+
+
+
+
+
+
+
+
+肾上腺轴
+
+
+肾上腺髓质： 肾上腺素、去甲肾上腺素 － 肾上腺皮质： 醛固酮、皮质醇、脱氢表雄酮
+
+
+
+
+
+
+
+甲状腺轴
+
+
+甲状腺： 甲状腺激素（T3和T4） － 降钙素 － 甲状旁腺： 甲状旁腺素
+
+
+
+
+
+
+
+胰脏
+
+
+胰高血糖素、胰岛素、胰淀素、生长抑素、胰多肽
+
+
+
+
+
+
+
+松果体
+
+
+褪黑素
+
+
+
+
+
+
+
+
+
+非内分泌腺
+
+
+
+
+
+消化系统
+
+
+
+
+
+
+胃
+
+
+胃泌素、 胃饥饿激素
+
+
+
+
+
+
+
+十二指肠
+
+
+CCK、 肠泌素（GIP、GLP-1）、促胰液素、胃动素、VIP
+
+
+
+
+
+
+
+回肠
+
+
+肠高血糖素、酪酪肽
+
+
+
+
+
+
+
+肝脏/其它
+
+
+胰岛素样生长因子 (IGF-1、 IGF-2)
+
+
+
+
+
+
+
+
+
+
+循环系统
+
+
+
+
+
+
+肾
+
+
+球旁器（肾素）、 管周细胞（红细胞生成激素）、 骨化三醇、 前列腺素
+
+
+
+
+
+
+
+心脏
+
+
+利钠肽（ANP、BNP）
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+
+
+脂肪组织
+
+
+肥胖荷尔蒙、 脂联素、 抵抗素
+
+
+
+
+
+
+
+胸腺
+
+
+胸腺肽（α1、β）、促胸腺生成素、胸腺九肽
+
+
+
+
+
+
+
+骨骼
+
+
+骨钙素
+
+
+
+
+
+
+
+
+
+
+
+
+靶源性
+
+NGF、 BDNF、 神经营养素-3
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+内分泌系统索引
+
+
+
+
+
+
+描述
+
+
+
+腺体
+激素
+
+甲状腺
+
+中间物
+代谢物
+
+
+矿物性皮质素
+
+
+生理
+发育
+
+
+
+
+
+
+
+
+疾病
+
+
+
+糖尿病
+先天
+肿瘤
+其他
+症状
+
+
+
+
+
+
+
+
+治疗
+
+
+
+程序
+药物
+
+钙平衡
+皮质类固醇
+口服降血糖药物
+脑下垂体及下丘脑
+甲状腺
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+人类间脑解剖
+
+
+
+
+
+
+上丘脑（英语：Epithalamus）
+
+
+
+
+表面
+
+
+
+松果体
+Habenula（英语：Habenula）
+Habenular trigone（英语：Habenular trigone）
+Habenular commissure（英语：Habenular commissure）
+
+
+
+
+
+
+
+
+灰质
+
+
+
+Pretectal area（英语：Pretectal area）
+Habenular nuclei（英语：Habenular nuclei）
+Subcommissural organ（英语：Subcommissural organ）
+
+
+
+
+
+
+
+
+
+
+
+丘脑
+
+
+
+
+表面
+
+
+
+Stria medullaris of thalamus（英语：Stria medullaris of thalamus）
+Thalamic reticular nucleus（英语：Thalamic reticular nucleus）
+Taenia thalami（英语：Taenia thalami）
+
+
+
+
+
+
+
+
+灰质/
+nuclei（英语：List of thalamic nuclei）
+
+
+
+paired: AN（英语：Anterior nuclei of thalamus）
+腹侧（英语：Ventral nuclear group）
+
+VA（英语：Ventral anterior nucleus）/VL（英语：Ventral lateral nucleus）
+VP（英语：Ventral posterior nucleus）/VPM（英语：Ventral posteromedial nucleus）/VPL（英语：Ventral posterolateral nucleus）
+
+
+外侧核群（英语：Lateral nuclear group）
+
+LD（英语：Lateral dorsal nucleus of thalamus）
+LP（英语：Lateral posterior nucleus of thalamus）
+丘脑枕（英语：Pulvinar nuclei）
+
+
+Metathalamus（英语：Metathalamus）
+
+MG（英语：Medial geniculate nucleus）
+LG（英语：Lateral geniculate nucleus）
+
+P cell（英语：Parvocellular cell）
+M cell（英语：Magnocellular cell）
+K cell（英语：Koniocellular cell）
+
+
+
+
+中线：MD（英语：Medial dorsal nucleus）
+层间核（英语：Intralaminar nuclei of thalamus）
+
+中央内侧核（英语：Centromedian nucleus）
+
+
+中线核群
+Interthalamic adhesion（英语：Interthalamic adhesion）
+
+
+
+
+
+
+
+
+白质
+
+
+
+Mammillothalamic fasciculus（英语：Mammillothalamic fasciculus）
+Pallidothalamic tracts（英语：Pallidothalamic tracts）
+
+Ansa lenticularis（英语：Ansa lenticularis）
+Lenticular fasciculus（英语：Lenticular fasciculus）
+Thalamic fasciculus（英语：Thalamic fasciculus）
+
+
+PCML（英语：Posterior column-medial lemniscus pathway）
+
+Medial lemniscus（英语：Medial lemniscus）
+Trigeminal lemniscus（英语：Trigeminal lemniscus）
+
+
+脊髓丘脑束
+Lateral lemniscus（英语：Lateral lemniscus）
+Dentatothalamic tract（英语：Dentatothalamic tract）
+Acoustic radiation（英语：Acoustic radiation）
+Optic radiation（英语：Optic radiation）
+Subthalamic fasciculus（英语：Subthalamic fasciculus）
+Anterior trigeminothalamic tract（英语：Anterior trigeminothalamic tract）
+Medullary laminae（英语：Medullary laminae of thalamus）
+
+
+
+
+
+
+
+
+
+
+
+下丘脑
+
+
+
+
+表面
+
+
+
+内侧隆起（英语：Median eminence）/Tuber cinereum（英语：Tuber cinereum）
+乳头体（英语：Mammillary body）
+垂体漏斗（英语：Pituitary stalk）
+
+
+
+
+
+
+
+
+灰质
+
+
+
+
+自主神经系统
+
+
+
+前核（副交感/散热）（英语：Anterior hypothalamic nucleus）
+后核（交感/保温）（英语：Posterior nucleus of hypothalamus）
+
+
+
+
+
+
+
+
+内分泌系统
+
+
+
+垂体后叶（英语：posterior pituitary）： Paraventricular（英语：Paraventricular nucleus of hypothalamus）
+
+Magnocellular neurosecretory cell（英语：Magnocellular neurosecretory cell）
+Parvocellular neurosecretory cell（英语：Parvocellular neurosecretory cell）
+
+
+视上区（英语：Supraoptic nucleus）
+
+催产素/抗利尿激素
+
+
+其他： 弓状核
+视前区（GnRH）（英语：Preoptic area）
+视交叉上核（褪黑激素）（英语：Suprachiasmatic nucleus）
+
+
+
+
+
+
+
+
+情绪
+
+
+
+外侧区（英语：Lateral hypothalamus）
+腹内侧核（英语：Ventromedial nucleus）
+背内侧核（英语：Dorsomedial hypothalamic nucleus）
+
+
+
+
+
+
+
+
+
+
+
+白质
+
+
+
+传入纤维
+
+Medial forebrain bundle（英语：Medial forebrain bundle）
+Retinohypothalamic tract（英语：Retinohypothalamic tract）
+
+
+传出纤维
+
+Mammillothalamic fasciculus（英语：Mammillothalamic fasciculus）
+Stria terminalis（英语：Stria terminalis）
+Dorsal longitudinal fasciculus（英语：Dorsal longitudinal fasciculus）
+
+
+
+
+
+
+
+
+
+
+垂体
+
+
+
+后叶（英语：Posterior pituitary）属于中脑的一部分，而前叶（英语：Anterior pituitary）则是属于其他腺体。
+
+
+
+
+
+
+
+
+
+
+
+底丘脑（英语：Subthalamus）
+
+
+
+底丘脑核（英语：Subthalamic nucleus）
+未定带（英语：Zona incerta）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：内分泌系统边缘系统下丘脑神经内分泌学隐藏分类：自2017年2月需要从英语维基百科翻译的条目需要从英语维基百科翻译的条目使用GraySubject或GrayPage参数的医学信息框模板

@@ -1,0 +1,198 @@
+问卷调查
+问卷调查是有目标对象的意见调查的其中一个方法，问卷调查的形式是由一连串写好的小问题组成，然后去访问，收集被访问者的意见、感受、反应及对知识的认识等。
+优点[编辑]
+可以在很短的时间内，收集大量的样本和数据，以一个标准问题例表，顺序收取答案数据，日后作类比、统计和分析。
+缺点[编辑]
+问卷调查其内容不可能得到百分之百真确的事实，尤其是难于启齿的个人隐私。
+相关[编辑]
+
+抽样
+统计学
+代表性
+误差率
+与论调查
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+社会调查方法
+
+
+
+
+
+
+资料搜集（英语：Data collection）
+
+
+
+搜集方法（英语：Survey data collection）
+人口普查
+调查抽样（英语：Survey sampling）
+随机抽样
+问卷调查
+访谈（英语：Interview (research)）
+
+结构式
+半结构式（英语：Semi-structured interview）
+无结构式（英语：Unstructured interview）
+伴侣（英语：Couple interview）
+
+
+非介入性研究
+
+比较研究法（英语：Comparative research）
+内容分析法
+
+
+
+
+
+
+
+
+
+
+
+
+
+资料分析
+
+
+
+类别资料（英语：Categorical variable）
+类别资料（英语：Contingency table）
+测量尺度
+描述统计学
+探索式资料分析（英语：Exploratory data analysis）
+多变量分析
+心理统计学
+推论统计学
+机率模型
+
+图模式
+泊松回归
+结构（英语：Structural equation modeling）
+
+
+
+
+
+
+
+
+
+
+应用
+
+
+
+
+应用领域
+
+
+
+收视率调查
+人口学
+市场调查
+舆论调查
+社会统计学
+
+
+
+
+
+
+
+
+研究计划
+
+
+
+非洲晴雨表（英语：Afrobarometer）
+美国选举研究（英语：American National Election Studies）
+欧洲晴雨表（英语：Eurobarometer）
+欧洲社会调查（英语：European Social Survey）
+普通社会调查（英语：General Social Survey）
+国际社会调查计划
+拉丁美洲晴雨表（英语：Latinobarómetro）
+美国家户调查列表（英语：List of household surveys in the United States）
+国家健康与营养调查（英语：National Health and Nutrition Examination Survey）
+新西兰社会态度与价值观研究（英语：New Zealand Attitudes and Values Study）
+世界价值观调查（英语：World Values Survey）
+
+
+
+
+
+
+
+
+
+
+
+组织
+
+
+
+美国公共舆论研究学会（英语：American Association for Public Opinion Research）
+欧洲舆论与市场研究学会（英语：European Society for Opinion and Marketing Research）
+盖洛普
+国际统计学会
+皮尤研究中心
+世界公共舆论研究学会
+
+
+
+
+
+
+
+
+
+
+
+分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4128271-1
+NDL: 00571296
+
+
+
+
+
+
+
+
+ 这是与统计学相关的小作品。你可以通过编辑或修订扩充其内容。
+
+
+
+
+分类：研究方法评价方法隐藏分类：包含规范控制信息的维基百科条目统计学小作品

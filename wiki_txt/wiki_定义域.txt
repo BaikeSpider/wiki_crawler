@@ -1,0 +1,91 @@
+定义域
+定义域（Domain），是函数自变量所有可取值的集合。给定函数
+
+
+
+f
+:
+A
+→
+B
+
+
+{\displaystyle f:A\rightarrow B}
+
+，其中
+
+
+
+A
+
+
+{\displaystyle A}
+
+被称为是
+
+
+
+f
+
+
+{\displaystyle f}
+
+的定义域，记作
+
+
+
+
+D
+
+f
+
+
+
+
+{\displaystyle D_{f}}
+
+。
+
+
+
+f
+
+
+{\displaystyle f}
+
+映射到陪域中的所有值的集合称为
+
+
+
+f
+
+
+{\displaystyle f}
+
+的值域，记作
+
+
+
+f
+(
+A
+)
+
+
+{\displaystyle f(A)}
+
+或
+
+
+
+
+R
+
+f
+
+
+
+
+{\displaystyle R_{f}}
+
+。

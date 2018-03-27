@@ -1,0 +1,2 @@
+Type–token distinction
+The type–token distinction is used in disciplines such as logic, linguistics, metalogic, typography, and computer programming to clarify what words mean.

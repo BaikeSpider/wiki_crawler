@@ -1,0 +1,42 @@
+证明论
+证明论是数理逻辑的一个分支，它将数学证明表达为形式化的数学客体，从而通过数学技术来简化对他们的分析。证明通常用归纳式地定义的数据结构来表达，例如链表，盒链表，或者树，它们根据逻辑系统的公理和推理规则构造。因此，证明论本质上是语法逻辑，和本质上是语义学的模型论形相反。和模型论，公理化集合论，以及递归论一起，证明论被[谁？]称为数学基础的四大支柱之一。
+证明论也可视为哲学逻辑的分支，其主要兴趣在于证明论语义学的思想，该思想依赖于结构证明论的技术型想法才可行。
+
+
+
+目录
+
+
+1 表系统
+2 序分析
+3 亚结构逻辑
+4 参看
+5 参考
+
+
+
+表系统[编辑]
+主条目：分析表方法
+表系统使用结构证明论的解析证明的中心思想来为一大类的逻辑提供决策或者准决策进程。
+序分析[编辑]
+主条目：序分析
+序分析是为形式化算术和分析的理论提供组合式自洽性证明的有力技术。
+亚结构逻辑[编辑]
+主条目：亚结构逻辑
+参看[编辑]
+
+证明技术
+中间逻辑（intermediate logic）
+证明论语义
+
+参考[编辑]
+
+J. Avigad, E.H. Reck, 2001 .“Clarifying the nature of the infinite”: the development of metamathematics and proof theory. Carnegie-Mellon Technical Report CMU-PHIL-120.
+A. S. Troelstra, H. Schwichtenberg. Basic Proof Theory (Cambridge Tracts in Theoretical Computer Science). Cambridge University Press. ISBN 0521779111
+G. Gentzen. Investigations into logical deduction. In M. E. Szabo, editor, Collected Papers of Gerhard Gentzen. North-Holland, 1969.
+
+
+
+
+
+分类：数理逻辑证明论隐藏分类：缺少主语或者主语不够具体的语句使用ISBN魔术链接的页面

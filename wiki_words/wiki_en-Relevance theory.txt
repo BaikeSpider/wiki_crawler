@@ -1,0 +1,71 @@
+Relevance theory
+
+
+
+
+
+
+This documentation needs attention from an expert in Philosophy of language. See the talk page for details. WikiProject Philosophy of language may be able to help recruit an expert. (August 2016)
+
+
+
+Relevance theory is framework for understanding utterance interpretation first proposed by Dan Sperber and Deirdre Wilson and used within cognitive linguistics and pragmatics. It was originally inspired by the work of H. Paul Grice and developed out of his ideas, but has since become a pragmatic framework in its own right.
+
+
+
+Contents
+
+
+1 Contrasted with the conduit metaphor
+2 Overview
+3 Formalization
+4 References
+5 External links
+
+
+
+Contrasted with the conduit metaphor[edit]
+There are two ways to conceive of how thoughts are communicated from one person to another. The first way is through the use of strict coding and decoding (such as is used with Morse code), also known as the Shannon-Weaver_model. In this approach the speaker/author encodes their thoughts and transmits them to their audience. The audience receives the encoded message and decodes it to arrive at the meaning the speaker/author intended. This can be visualized as follows:
+
+Speaker's thought/intention   ⇒   encoded   ⇒   transmitted   ⇒   decoded   ⇒   intention/thought understood.
+
+This is usually referred to as the code model[1] or the conduit metaphor[2] of communication. Human communication however, is almost never this simple. Context almost always plays a part in communication as do other factors such as the author's intentions, the relationship between the sender and receiver and so forth.
+The second way of conceiving how thoughts are communicated is by the author/speaker only conveying as much information as is needed in any given context, so that the audience can recover their intended meaning from what was said/written as well as from the context and implications. In this conceptual model, the author takes into account the context of the communication and the mutual cognitive environment between the author and the audience. (That is what the author/speaker thinks that audience already knows). They then say just enough to communicate what they intend – relying on the audience to fill in the details that they did not explicitly communicate. This can be visualized as follows:
+
+Speaker's thought/intention ± context-mediated information   ⇒   encoded   ⇒   transmitted   ⇒   
+decoded ± context-mediated information   ⇒   thought/intention understood by hearer 
+(an interpretive resemblance to the speaker's intention).
+
+Overview[edit]
+Sperber and Wilson's theory begins with some watershed assumptions that are typical of pragmatic theories. Namely, it argues that all utterances are encountered in some context and that utterances convey a number of implicatures. In addition, they posit the notion of manifestness, which is when something is grasped either consciously or unconsciously by a person.
+They further note that it will be manifest to people who are engaged in inferential communication that each other have the notion of relevance in their minds. This will cause each person engaged in the interaction to arrive at the presumption of relevance, which is the notion that (a) implicit messages are relevant enough to be worth bothering to process, and (b) the speaker will be as economical as they possibly can be in communicating it.
+The core of the theory is the "communicative principle of relevance", which states that by the act of making an utterance the speaker is conveying that what they have said is worth listening to, i.e. it will provide "cognitive effects" worthy of the processing effort required to find the meaning. In this way, every ostensive act of communication (that is the lexical "clues" that are explicitly conveyed when we speak/write) will look something like this:
+
+The speaker purposefully gives a clue to the hearer, ("ostensifies"), as to what she wishes to communicate – that is a clue to her intention.
+The hearer infers the intention from the clue and the context-mediated information. The hearer must interpret the clue, taking into account the context, and surmise what the speaker intended to communicate.
+
+For Sperber and Wilson, relevance is conceived as relative or subjective, as it depends upon the state of knowledge of a hearer when they encounter an utterance. However, they are quick to note that their theory does not attempt to exhaustively define the concept of "relevance" in everyday use, but tries to show an interesting and important part of human communication, in particular ostensive-inferential communication.
+Formalization[edit]
+Relevance theory's central insights are formalized in the following two-part principle, the Presumption of Optimal Relevance (see Postface to Sperber and Wilson 1995, p. 270):
+
+The ostensive stimulus is relevant enough for it to be worth the addressee's effort to process it.
+The ostensive stimulus is the most relevant one compatible with the communicator's abilities and preferences.
+
+References[edit]
+
+
+
+^ Sperber, Dan/Wilson, Deirdre (1995): Relevance: Communication and Cognition, Second Edition, Oxford/Cambridge: Blackwell Publishers, pp. 2–9.
+^ Reddy, M. (1979): "The conduit metaphor – a case of frame conflict in our language about language." In: Ortony (ed., 1979), Metaphor and Thought, Cambridge: Cambridge University Press, pp. 284–324.
+
+
+
+External links[edit]
+
+Cognitive Linguistics and Pragmatics
+
+
+
+
+
+Categories: Human communicationPragmaticsHidden categories: Articles needing expert attention from August 2016All articles needing expert attentionMiscellaneous articles needing expert attention

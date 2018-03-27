@@ -1,0 +1,282 @@
+Clinical neuropsychology
+
+
+
+
+
+
+The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (July 2011) (Learn how and when to remove this template message)
+
+
+
+
+
+Neuropsychology
+
+
+
+
+Topics
+
+
+Brain regions
+Clinical neuropsychology
+Cognitive neuropsychology
+Cognitive neuroscience
+Dementia
+Human brain
+Neuroanatomy
+Neurophysiology
+Neuropsychological assessment
+Neuropsychological rehabilitation
+Traumatic brain injury
+
+
+
+
+
+
+
+
+Brain functions
+
+
+Arousal
+Attention
+Consciousness
+Decision making
+Executive functions
+Natural language
+Learning
+Memory
+Motor coordination
+Perception
+Planning
+Problem solving
+Thought
+
+
+
+
+
+
+
+
+People
+
+
+Arthur L. Benton
+David Bohm
+Antonio Damasio
+Phineas Gage
+Norman Geschwind
+Elkhonon Goldberg
+Patricia Goldman-Rakic
+Pasko Rakic
+Donald O. Hebb
+Kenneth Heilman
+Edith Kaplan
+Muriel Lezak
+Benjamin Libet
+Rodolfo Llinás
+Alexander Luria
+Brenda Milner
+Karl H. Pribram
+Oliver Sacks
+Mark Rosenzweig
+Roger W. Sperry
+Hans-Lukas Teuber
+Henry Molaison ("H.M.", patient)
+K.C. (patient)
+
+
+
+
+
+
+
+
+Tests
+
+
+Benton Visual Retention Test
+Continuous Performance Task
+Halstead-Reitan Neuropsychological Battery
+Hayling and Brixton tests
+Lexical Decision Task
+Luria-Nebraska neuropsychological battery
+Mini–Mental State Examination
+Rey–Osterrieth complex figure
+Stroop Test
+Wechsler Adult Intelligence Scale
+Wechsler Memory Scale
+Wisconsin Card Sorting Task
+
+
+
+
+
+
+Mind and brain portal
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+The Nightmare, oil on canvas by John Henry Fuseli
+
+
+Clinical neuropsychology is a sub-field of psychology concerned with the applied science of brain-behaviour relationships. Clinical neuropsychologists use this knowledge in the assessment, diagnosis, treatment, and or rehabilitation of patients across the lifespan with neurological, medical, neurodevelopmental and psychiatric conditions, as well as other cognitive and learning disorders.[1] The branch of neuropsychology associated with children and young people is pediatric neuropsychology.
+Clinical neuropsychology is a specialized form of clinical psychology.[2] Strict rules are in place to maintain evidence as a focal point of treatment and research within clinical neuropsychology.[2] The assessment and rehabilitation of neuropsychopathologies is the focus for a clinical neuropsychologist.[2] A clinical neuropsychologist must be able to determine whether a symptom(s) may be caused by an injury to the head through interviewing a patient in order to determine what actions should be taken to best help the patient.[2] Another part of a clinical neuropsychologists duties is to find cerebral abnormalities and possible correlations.[2] Another part of a clinical neuropsychologists duties is to find cerebral abnormalities and possible correlations.[2] Evidence based practice in both research and treatment is paramount to appropriate clinical neuropsychological practice.[2]
+Assessment is primarily by way of neuropsychological tests, but also includes patient history, qualitative observation and may draw on findings from neuroimaging and other diagnostic medical procedures. Clinical neuropsychology requires an in-depth knowledge of: neuroanatomy, neurobiology, psychopharmacology and neuropathology.
+
+
+
+Contents
+
+
+1 History
+2 The job
+
+2.1 Assessment
+2.2 History taking
+2.3 Selection of neuropsychological tests
+2.4 Report writing
+
+
+3 Educational requirements of different countries
+
+3.1 Australia
+3.2 Canada
+3.3 United Kingdom
+3.4 United States
+
+
+4 Journals
+5 See also
+6 References
+7 Further reading
+8 External links
+
+
+
+History[edit]
+During the late 1800s, brain–behavior relationships were interpreted by European physicians who observed and identified behavioural syndromes that were related with focal brain dysfunction.[3]:3–27
+Clinical neuropsychology is a fairly new practice in comparison to other specialty fields in psychology with history going back to the 1960s.[4]: The specialty focus of clinical neuropsychology evolved slowly into a more defined whole as interest grew.[4] Threads from neurology, clinical psychology, psychiatry, cognitive psychology, and psychometrics all have been woven together to create the intricate tapestry of clinical neuropsychology, a practice which is very much so still evolving.[4] The history of clinical neuropsychology is long and complicated due to its ties to so many older practices.[4] Researchers like Thomas Willis (1621-1675) who has been credited with creating neurology, John Hughlings Jackson (1835-1911) who theorized that cognitive processes occurred in specific parts of the brain, Paul Broca (1824-1880) and Karl Wernicke (1848-1905) who studied the human brain in relation to psychopathology, Jean Martin Charcot (1825-1893) who apprenticed Sigmund Freud (1856-1939) who created the psychoanalytic theory all contributed to clinical medicine which later contributed to clinical neuropsychology.[4] The field of psychometrics contributed to clinical neuropsychology through individuals such as Francis Galton (1822-1911) who collected quantitative data on physical and sensory characteristics, Karl Pearson (1857-1936) who established the statistics which psychology now relies on, Wilhelm Wundt (1832-1920) who created the first psychology lab, his student Charles Spearman (1863-1945) who furthered statistics through discoveries like factor analysis, Alfred Binet (1857-1911) and his apprentice Theodore Simon (1872-1961) who together made the Binet-Simon scale of intellectual development, and Jean Piaget (1896-1980) who studied child development.[4] Studies in intelligence testing made by Lewis Terman (1877-1956) who updated the Binet-Simon scale to the Stanford-Binet intelligence scale, Henry Goddard (1866-1957) who developed different classification scales, and Robert Yerkes (1876-1956) who was in charge of the Army Alpha and Beta tests also all contributed to where clinical neuropsychology is today.[4]
+Clinical neuropsychology focuses on the brain and goes back to the beginning of the 20th century.[5] As a clinician a clinical neuropsychologist offers their services by addressing three steps; assessment, diagnosis, and treatment.[5] The term clinical neuropsychologist was first made by Sir William Osler on April 16, 1913.[5] While clinical neuropsychology was not a focus until the 20th century evidence of brain and behavior treatment and studies are seen as far back as the neolithic area when trephination, a crude surgery in which a piece of the skull is removed, has been observed in skulls.[5] As a profession, clinical neuropsychology is a subspecialty beneath clinical psychology.[5] During World War I (1914-1918) the early term shell shock was first observed in soldiers who survived the war.[5] This was the beginning of efforts to understand traumatic events and how they affected people.[5] During the great depression (1929-1941) further stressors caused shell shock like symptoms to emerge.[5] In World War II (1939-1945) the term shell shock was changed to battle fatigue and clinical neuropsychology became even more involved with attempting to solve the puzzle of peoples' continued signs of trauma and distress.[5] The Veterans Administration or VA was created in 1930 which increased the call for clinical neuropsychologists and by extension the need for training.[5] The Korean War (1950-1953) and the Vietnam Conflict (1960-1973) further solidified the need for treatment by trained clinical neuropsychologists.[5] In 1985 the term post-traumatic stress disorder or PTSD was coined and the understanding that traumatic events of all kinds could cause PTSD started to evolve.[5]
+The relationship between human behavior and the brain is the focus of clinical neuropsychology as defined by Meir in 1974.[6] There are two subdivisions of clinical neuropsychology which draw much focus; organic and environmental natures.[6] Ralph M. Reitan, Arthur L. Benton, and A. R. Luria are all past neuropsychologists whom believed and studied the organic nature of clinical neuropsychology.[6] On the other side, environmental nature of clinical neuropsychology did not appear until more recently and is characterized by treatments such as behavior therapy.[6] The relationship between physical brain abnormalities and the presentation of psychopathology is not completely understood, but this is one of the questions which clinical neuropsychologists hope to answer in time.[6] In 1861 the debate over human potentiality versus localization began.[6] The two sides argued over how human behavior presented in the brain.[6] Paul Broca postulated that cognitive problems could be caused by physical damage to specific parts of the brain based on a case study of his in which he found a lesion on the brain of a deceased patient who had presented the symptom of being unable to speak, that portion of the brain is now known as Broca's Area.[6] In 1874 Carl Wernicke also made a similar observation in a case study involving a patient with a brain lesion whom was unable to comprehend speech, the part of the brain with the lesion is now deemed Wernicke's Area.[6] Both Broca and Wernicke believed and studied the theory of localization.[6] On the other hand, equal potentiality theorists believed that brain function was not based on a single piece of the brain but rather on the brain as a whole.[6] Marie J. P Flourens conducted animal studies in which he found that the amount of brain tissue damaged directly affected the amount that behavior ability was altered or damaged.[6] Kurt Goldstein observed the same idea as Flourens except in veterans who had fought in World War I.[6] In the end, despite all of the disagreement, neither theory completely explains the human brains complexity.[6] Thomas Hughlings Jackson created a theory which was thought to be a possible solution.[6] Jackson believed that both potentiality and localization were in part correct and that behavior was made by multiple parts of the brain working collectively to cause behaviors, and Luria (1966-1973) furthered Jackson's theory.[6]
+The job[edit]
+When considering where a clinical neuropsychologist works, hospitals are a common place for practitioners to end up.[7] There are three main variations in which a clinical neuropsychologist may work at a hospital; as an employee, consultant, or independent practitioner.[7] As a clinical neuropsychologist working as an employee of a hospital the individual may receive a salary, benefits, and sign a contract for employment.[7] In the case of an employee of a hospital the hospital is in charge of legal and financial responsibilities.[7] The second option of working as a consultant implies that the clinical neuropsychologist is part of a private practice or is a member of a physicians group.[7] In this scenario, the clinical neuropsychologist may work in the hospital like the employee of the hospital but all financial and legal responsibilities go through the group which the clinical neuropsychologist is a part of.[7] The third option is an independent practitioner whom works alone and may even have their office outside of the hospital or rent a room in the hospital.[7] In the third case, the clinical neuropsychologist is completely on their own and in charge of their own financial and legal responsibilities.[7]
+Assessment[edit]
+Assessments are used in clinical neuropsychology to find brain psychopathologies of the cognitive, behavioral, and emotional variety.[8] Physical evidence is not always readily visible so clinical neuropsychologists must rely on assessments to tell them the extent of the damage.[8] The cognitive strengths and weaknesses of the patient are assessed to help narrow down the possible causes of the brain pathology.[8] A clinical neuropsychologist is expected to help educate the patient on what is happening to them so that the patient can understand how to work with their own cognitive deficits and strengths.[8] An assessment should accomplish many goals such as; gage consequences of impairments to quality of life, compile symptoms and the change in symptoms over time, and assess cognitive strengths and weaknesses.[8] Accumulation of the knowledge earned from the assessment is then dedicated to developing a treatment plan based on the patient's individual needs.[8] An assessment can also help the clinical neuropsychologist gage the impact of medications and neurosurgery on a patient.[8] Behavioral neurology and neuropsychology tools can be standardized or psychometric tests and observational data collected on the patient to help build an understanding of the patient and what is happening with them.[8] There are essential prerequisites which must be present in a patient in order for the assessment to be effective; concentration, comprehension, and motivation and effort.[8]
+Main article: Neuropsychological assessment
+Lezak lists six primary reasons neuropsychological assessments are carried out: diagnosis, patient care and its planning, treatment planning, treatment evaluation, research and forensic neuropsychology.[9]:5–10 To conduct a comprehensive assessment will typically take several hours and may need to be conducted over more than a single visit. Even the use of a screening battery covering several cognitive domains may take 1.5–2 hours. At the commencement of the assessment it is important to establish a good rapport with the patient and ensure they understand the nature and aims of the assessment.[10]
+Neuropsychological assessment can be carried out from two basic perspectives, depending on the purpose of assessment. These methods are normative or individual. Normative assessment, involves the comparison of the patient’s performance against a representative population. This method may be appropriate in investigation of an adult onset brain insult such as traumatic brain injury or stroke. Individual assessment may involve serial assessment, to establish whether declines beyond those which are expected to occur with normal aging, as with dementia or another neurodegenerative condition.[9]:88
+Assessment can be further subdivided into sub-sections:
+History taking[edit]
+Neuropsychological assessments usually commence with a clinical interview as a means of collecting a history, which is relevant to the interpretation of any later neuropsychological tests. In addition, this interview provides qualitative information about the patient’s ability to act in a socially apt manner, organise and communicate information effectively and provide an indication as to the patient’s mood, insight and motivation.[11]:58 It is only within the context of a patient’s history that an accurate interpretation of their test data and thus a diagnosis can be made.[11]:44 The clinical interview should take place in a quiet area free from distractions. Important elements of a history include demographic information, description of presenting problem, medical history (including any childhood or developmental problems, psychiatric and psychological history), educational and occupational history (and if any legal history and military history.)[11]:47–58
+Selection of neuropsychological tests[edit]
+It is not uncommon for patients to be anxious about being tested; explaining that tests are designed so that they will challenge everyone and that no one is expected to answer all questions correctly may be helpful.[10] An important consideration of any neuropsychological assessment is a basic coverage of all major cognitive functions. The most efficient way to achieve this is the administration of a battery of tests covering: attention, visual perception and reasoning, learning and memory, verbal function, construction, concept formation, executive function, motor abilities and emotional status. Beyond this basic battery, choices of neuropsychological tests to be administered are mainly made on the basis of which cognitive functions need to be evaluated in order to fulfill the assessment objectives.[12]
+Report writing[edit]
+Following a neuropsychological assessment it is important to complete a comprehensive report based on the assessment conducted. The report is for other clinicians, as well as the patient and their family so it is important to avoid jargon or the use of language which has different clinical and lay meanings (e.g. intellectually disabled as the correct clinical term for an IQ below 70, but offensive in lay language).[11]:62 The report should cover background to the referral, relevant history, reasons for assessment, neuropsychologists observations of patient’s behaviour, test administered and results for cognitive domains tested, any additional findings (e.g. questionnaires for mood) and finish the report with a summary and recommendations. In the summary it is important to comment on what the profile of results indicates regarding the referral question. The recommendations section contains practical information to assist the patient and family, or improve the management of the patient’s condition.[13]
+Educational requirements of different countries[edit]
+The educational requirements for becoming a clinical neuropsychologist differ between countries. In some countries it may be necessary to complete a clinical psychology degree, before specialising with further studies in clinical neuropsychology. While some countries offer clinical neuropsychology courses to students who have completed 4 years of psychology studies. All clinical neuropsychologists require a postgraduate qualification, whether it be a Masters or Doctorate (Ph.D, Psy.D. or D.Psych).
+Australia[edit]
+To become a clinical neuropsychologist in Australia requires the completion of a 3-year Australian Psychology Accreditation Council (APAC) approved undergraduate degree in psychology, a 1-year psychology honours, followed by a 2-year Masters or 3-year Doctorate of Psychology (D.Psych) in clinical neuropsychology. These courses involve coursework (lectures, tutorials, practicals etc.), supervised practice placements and the completion of a research thesis. Masters and D.Psych courses involve the same amount of coursework units, but differ in the amount of supervised placements undertaken and length of research thesis. Masters courses require a minimum of 1,000 hours (125 days) and D.Psych courses require a minimum of 1,500 hours (200 days), it is mandatory that these placements expose students to acute neurology/neurosurgery, rehabilitation, psychiatric, geriatric and paediatric populations.[14]
+Canada[edit]
+To become a clinical neuropsychologist in Canada requires the completion of a 4-year honours degree in psychology and a 4-year doctoral degree in clinical neuropsychology. Often a 2-year master's degree is required before commencing the doctoral degree. The doctoral degree involves coursework and practical experience (practicum and internship). Practicum is between 600 and 1,000 hours of practical application of skills acquired in the program. At least 300 hours must be supervised, face-to-face client contact. The practicum is intended to prepare students for the internship/residency. Internships/residencies are a year long experience in which the student functions as a neuropsychologist, under supervision. Currently, there are 3 CPA-accredited Clinical Neuropsychology internships/residencies in Canada,[15] although other unaccredited ones exist. Prior to commencing the internship students must have completed all doctoral coursework, received approval for their thesis proposal (if not completed the thesis) and the 600 hours of practicum.[16]
+United Kingdom[edit]
+To become a clinical neuropsychologist in the UK, requires prior qualification as a clinical or educational psychologist as recognised by the Health Professions Council, followed by further postgraduate study in clinical neuropsychology. In its entirety, education to become a clinical neuropsychologist in the UK consists of the completion of a 3-year British Psychological Society accredited undergraduate degree in psychology, 3-year Doctorate in clinical (usually D.Clin.Psy.) or educational psychology (D.Ed.Psy.), followed by a 1-year Masters (MSc) or 9-month Postgraduate Diploma (PgDip) in Clinical Neuropsychology.[17]
+United States[edit]
+In order to become a clinical neuropsychologist in the US and be compliant with Houston Conference Guidelines, the completion of a 4-year undergraduate degree in psychology and a 4 to 5-year doctoral degree (Psy.D. or Ph.D.) must be completed. After the completion of the doctoral coursework, training and dissertation, students must complete a 1-year internship, followed by an additional 2 years of supervised residency. The doctoral degree, internship and residency must all be undertaken at American Psychological Association approved institutions.[18] After the completion of all training, students must apply to become licensed in their state to practice psychology. The American Board of Clinical Neuropsychology, The American Board of Professional Neuropsychology, and The American Board of Pediatric Neuropsychology all award board certification to neuropsychologists that demonstrate competency in specific areas of neuropsychology, by reviewing the neuropsychologist's training, experience, submitted case samples, and successfully completing both written and oral examinations. Although these requirements are standard according to Houston Conference Guidelines, even these guidelines have stated that the completion of all of these requirements is still aspirational, and other ways of achieving clinical neuropsychologist status are possible.
+Journals[edit]
+The following represents an (incomplete) listing of significant journals in or related to the field of clinical neuropsychology.
+
+
+Aging, Neuropsychology and Cognition
+Applied Neuropsychology
+Archives of Clinical Neuropsychology
+Archives of Neurology
+Brain
+Child Neuropsychology
+The Clinical Neuropsychologist
+Cognitive Neuropsychology
+Cortex
+Developmental Neuropsychology
+Journal of Clinical and Experimental Neuropsychology
+Journal of Cognitive Neuroscience
+Journal of the International Neuropsychological Society
+Journal of Neuropsychology
+Neurocase
+Neuropsychologia
+Neuropsychological Rehabilitation
+Neuropsychology
+Neuropsychology Review
+Psychological Assessment
+
+
+See also[edit]
+
+Abnormal psychology
+Neurolaw
+Neuropsychological test
+Neuropsychological assessment
+Neuropsychology
+
+References[edit]
+
+
+^ National Academy of Neuropsychology. "NAN definition of a Clinical Neuropsychologist". National Academy of Neuropsychology website. Retrieved 7 December 2011. 
+^ a b c d e f g Goldstein, Laura H.; McNeil, Jane E., eds. (2013). Clinical neuropsychology : a practical guide to assessment and management for clinicians (2nd ed. ed.). Chichester, West Sussex: Wiley-Blackwell. pp. 3–18. ISBN 9780470683712. CS1 maint: Extra text (link)
+^ Marshall, John C.; Gurd, Jennifer (2010). "Chapter 1: Neuropsychology: Past, present, and future". In Gurd, Jennifer; Kischka, Udo; Marshall, John C. Handbook of clinical neuropsychology (2nd ed. ed.). Oxford: Oxford University Press. ISBN 9780199234110. CS1 maint: Extra text (link)
+^ a b c d e f g Nelson, Greg J. Lamberty, Nathaniel W. (2012). Specialty competencies in clinical neuropsychology. Oxford: Oxford University Press. pp. 3–9. ISBN 978-0195387445. 
+^ a b c d e f g h i j k l Holtz, Leslie (2010). Applied clinical neuropsychology : an introduction. New York: Springer. pp. 4–20. ISBN 9780826104748. 
+^ a b c d e f g h i j k l m n o p Horton, Jr., Arthur MacNeill; Wedding, Danny, eds. (2008). The Neuropsychology Handbook (3rd ed. ed.). New York: Springer. pp. 3–7. ISBN 9780826102515. CS1 maint: Extra text (link)
+^ a b c d e f g h Barisa, Mark T. (2010). The business of neuropsychology : a practical guide. Oxford: Oxford University Press. pp. 19–22. ISBN 9780195380187. 
+^ a b c d e f g h i Gurd, Jennifer; Kischka, Udo; Marshall, John C., eds. (2010). Handbook of clinical neuropsychology (2nd ed. ed.). Oxford: Oxford University Press. pp. 1–7. ISBN 9780199234110. CS1 maint: Extra text (link)
+^ a b Lezak, M.D.; Howieson, D.B.; Loring, D.W. (2004). Neuropsychological Assessment (4th ed.). Oxford: Oxford University Press. ISBN 0-19-511121-4. 
+^ a b Clare, L. (2010). "Chpt 25: Neuropsychological Assessment". In Abou-Saleh, M. T.; Katona, C. L. E.; Kumar, A. Principles and Practice of Geriatric Psychiatry (PDF) (3rd ed.). Wiley-Blackwell. p. 138. ISBN 978-0-470-74723-0. 
+^ a b c d Hebben, Nancy; Milberg, William (2009). Essentials of neuropsychological assessment (2nd ed. ed.). Hoboken, N.J.: John Wiley & Sons. ISBN 978-0-470-43747-6. CS1 maint: Extra text (link)
+^ Jurado, M. A.; Pueyo, R. (2012). "Doing and reporting neuropsychological assessment". International Journal of Clinical and Health Psychology. 12 (1): 123–141. 
+^ Clare, L. (2010). "Chpt 25: Neuropsychological Assessment". In Abou-Saleh, M. T.; Katona, C. L. E.; Kumar, A. Principles and Practice of Geriatric Psychiatry (PDF) (3rd ed.). Wiley-Blackwell. p. 139. ISBN 978-0-470-74723-0. 
+^ The Australian Psychological Society. "College Course Approval Guidelines for Postgraduate Specialist Courses" (PDF). Australian Psychological Society. p. 15. Retrieved 10 March 2012. 
+^ http://www.cpa.ca/accreditation/cpaaccreditedprograms/
+^ Canadian Psychological Association. "Accreditation Standards and Procedures for Doctoral Programmes and Internships in Professional Psychology (5th revision)". Canadian Psychological Association. Retrieved 29 December 2011. 
+^ British Psychological Society. "Qualification in Clinical Neuropsychology". BPS website. British Psychological Society. Retrieved 3 December 2011. 
+^ National Academy of Neuropsychology. "The Houston Conference on Specialty Education and Training in Clinical Neuropsychology" (PDF). Policy Statement. Retrieved 29 December 2011. 
+
+
+Further reading[edit]
+
+Broks, Paul (2003). Into the Silent Land: Travels in Neuropsychology. Atlantic Monthly Press. ISBN 978-0-87113-901-6. 
+Davis, Andrew, ed. (2011). Handbook of Pediatric Neuropsychology. New York: Springer Publishing. ISBN 978-0-8261-0629-2. Retrieved 28 May 2013. Lay summary – Archives of Clinical Neuropsychology (17 June 2014). 
+Loring, David W., ed. (1999). INS Dictionary of Neuropsychology. New York: Oxford University Press. ISBN 978-0-19-506978-5. Lay summary (21 November 2010).  This standard reference book includes entries by Kimford J. Meador, Ida Sue Baron, Steven J. Loring, Kerry deS. Hamsher, Nils R. Varney, Gregory P. Lee, Esther Strauss, and Tessa Hart.
+Miller, Daniel C. (3 January 2013). Essentials of School Neuropsychological Assessment (2nd ed.). John Wiley & Sons. ISBN 978-1-118-17584-2. Retrieved 9 June 2014. 
+Parsons, Michael W.; Hammeke, Thomas A., eds. (April 2014). Clinical Neuropsychology: A Pocket Handbook for Assessment (Third ed.). American Psychological Association. ISBN 978-1-4338-1687-1.  This handbook for practitioners includes chapters by Michael W. Parsons, Alexander Rae-Grant, Ekaterina Keifer, Marc W. Haut, Harry W. McConnell, Stephen E. Jones, Thomas Krewson, Glenn J. Larrabee, Amy Heffelfinger, Xavier E. Cagigas, Jennifer J. Manly, David Nyenhuis, Sara J. Swanson, Jessica S. Chapin, Julie K. Janecek, Michael McCrea, Matthew R. Powell, Thomas A. Hammeke, Andrew J. Saykin, Laura A. Rabin, Alexander I. Tröster, Sonia Packwood, Peter A. Arnett, Lauren B. Strober, Mariana E. Bradshaw, Jeffrey S. Wefel, Roberta F. White, Maxine Krengel, Rachel Grashow, Brigid Waldron-Perrine, Kenneth M. Adams, Margaret G. O'Connor, Elizabeth Race, David S. Sabsevitz, Russell M. Bauer, Ronald A. Cohen, Paul Malloy, Melissa Jenkins, Robert Paul, Darlene Floden, Lisa L. Conant, Robert M. Bilder, Rishi K. Bhalla, Ruth O'Hara, Ellen Coman, Meryl A. Butters, Michael L. Alosco, Sarah Garcia, Lindsay Miller, John Gunstad, Dawn Bowers, Jenna Dietz, Jacob Jones, Greg J. Lamberty, and Anita H. Sim.
+Reddy, Linda A.; Weissman, Adam S.; Hale, James B., eds. (2013). Neuropsychological Assessment and Intervention for Youth: An Evidence Based Approach to Emotional and Behavioral Disorders. American Psychological Association. ISBN 978-1-4338-1266-8. OCLC 810409783. Retrieved 15 June 2014.  This collection of articles for practitioners includes chapters by Linda A. Reddy, Adam S. Weissman, James B. Hale, Allison Waters, Lara J. Farrell, Elizabeth Schilpzand, Susanna W. Chang, Joseph O’Neill, David Rosenberg, Steven G. Feifer, Gurmal Rattan, Patricia D. Walshaw, Carrie E. Bearden, Carmen Lukie, Andrea N. Schneider, Richard Gallagher, Jennifer L. Rosenblatt, Jean Séguin, Mathieu Pilon, Matthew W. Specht, Susanna W. Chang, Kathleen Armstrong, Jason Hangauer, Heather Agazzi, Justin J. Boseck, Elizabeth L. Roberds, Andrew S. Davis, Joanna Thome, Tina Drossos, Scott J. Hunter, Erin L. Steck-Silvestri, LeAdelle Phelps, William S. MacAllister, Jonelle Ensign, Emilie Crevier-Quintin, Leonard F. Koziol, and Deborah E. Budding.
+Riccio, Cynthia A.; Sullivan, Jeremy R.; Cohen, Morris J. (28 January 2010). Neuropsychological Assessment and Intervention for Childhood and Adolescent Disorders. John Wiley & Sons. doi:10.1002/9781118269954. ISBN 978-0-470-18413-4. Retrieved 15 June 2014. Lay summary (15 June 2014). 
+Strauss, Esther; Sherman, Elizabeth M.; Spreen, Otfried (2006). A Compendium of Neuropsychological Tests: Administration, Norms, and Commentary. Oxford: Oxford University Press. ISBN 978-0-19-515957-8. Retrieved 14 July 2013. 
+Sherman, Elizabeth M.; Brooks, Brian L., eds. (2012). Pediatric Forensic Neuropsychology (Third ed.). Oxford: Oxford University Press. ISBN 978-0-19-973456-6. Retrieved 14 July 2013. Lay summary – Archives of Clinical Neurology (17 June 2014). 
+Whishaw, Ian Q.; Kolb, Bryan (1 July 2009). Fundamentals of human neuropsychology (Sixth ed.). New York: Worth Publishers. ISBN 978-0-7167-9586-5. Retrieved 17 June 2014. Lay summary (PDF) – Journal of Undergraduate Neuroscience Education (18 July 2010). 
+
+External links[edit]
+
+UNC School of Medicine Department of Neurology (24 February 2011). "Neuropsychological Evaluation FAQ". University of North Carolina Chapel Hill. Retrieved 17 June 2014. 
+
+
+
+
+
+Categories: NeuropsychologyHidden categories: CS1 maint: Extra textArticles with limited geographic scope from July 2011Pages using div col without cols and colwidth parameters

@@ -1,0 +1,169 @@
+言语行为理论
+言语行为理论（speech act theory）是由英国哲学家约翰·奥斯丁(Austin, J.L.)于1962年#注1提出。这个理论认为，我们日常的对话可以分为六种话语区类型：
+
+命令
+要求
+祝愿 / 致歉
+询问 / 祈使
+邀请
+感叹
+
+利用这种分类，有利于学习，而这种好处并不单单局限于第二语言的学习。
+香港作家毕华流先生曾就这个理论，在他的作品《顽皮教室》里用“下课了”这三个字来“说明”：在不同的场合下，同一句句子可以有不同的意思，并符合上述的六种话语分类。
+例子[编辑]
+
+透过说，“小心！地滑”，玛丽做出提醒皮特要当心的言语行为。
+透过说，“我会尽我所能，在家里吃晚饭。”，皮特做出承诺在家里吃晚饭的言语行为。
+透过说，“各位先生女士，请您们留心喔！”，玛丽请求听众安静。
+透过说，“和我比一下！目的地是那座建筑物。”，皮特向玛丽下战书。
+
+参考资料[编辑]
+
+
+约翰·奥斯丁: How to Do Things With Words. Cambridge (Mass.) 1962 - Paperback: Harvard University Press, 2nd edition, 2005, ISBN 0-674-41152-8.
+William P. Alston: 'Illocutionary Acts and Sentence Meaning'. Ithaca: Cornell University Press 2000, ISBN 0-8014-3669-9.
+Doerge, Friedrich Christoph. Illocutionary Acts - Austin's Account and What Searle Made Out of It. . Tuebingen 2006.
+Dorschel, Andreas, 'What is it to understand a directive speech act?', in: Australasian Journal of Philosophy LXVII (1989), nr. 3, pp. 319-340.
+约翰·罗杰斯·希尔勒, Speech Acts, Cambridge University Press 1969, ISBN 0-521-09626-X..
+约翰·罗杰斯·希尔勒, "Indirect speech acts." In Syntax and Semantics, 3: Speech Acts, ed. P. Cole & J. L. Morgan, pp. 59–82. New York: Academic Press. (1975). Reprinted in Pragmatics: A Reader, ed. S. Davis, pp. 265–277. Oxford: Oxford University Press. (1991)
+Geo Siegwart, "Alethic Acts and Alethiological Reflection. An Outline of Constructive Philosophy of Truth." In Truth and Speech Acts: Studies in the philosophy of language, ed. D. Greimann & G. Siegwart, pp. 41–58. New York: Routledge. (2007)
+Winograd, T. & Flores, F., Understanding Computers and Cognition: A New Foundation for Design, Ablex Publishing Corp, (Norwood), 1986. ISBN 0-89391-050-3.
+Birgit Erler: The speech act of forbidding and its realizations: A linguistic analysis. Saarbrücken: VDM Verlag Dr. Müller, 2010, ISBN 978-3-639-23275-2.
+Robert Maximilian de Gaynesford: Illocutionary acts, Subordination, and Silencing in Analysis, July 2009.
+Outi, Malmivuori; Zu Stand und Entwicklung der Sprechakttheorie. Zu Grundsätzen der Theorie des spachlichen Handelns. AkademikerVerlag. 2012. ISBN 978-3-639-44043-0
+
+
+外部链接[编辑]
+
+Speech Acts entry from Routledge Encyclopedia of Philosophy, by Kent Bach
+Barry Smith, Towards a History of Speech Act Theory
+Foundation for Intelligent Physical Agents
+Speech Acts. Mitchell Green, in the Stanford Encyclopedia of Philosophy
+Strategies for Learning Speech Acts in Japanese by Noriko Ishihara
+Moumni, Hassan (2005). Politeness in Parliamentary Discourse : A Comparative Pragmatic Study of British and Moroccan MPs’ Speech Acts at Question Time. Unpub. Ph.D. Thesis. Mohammed V University, Rabat, Morocco.
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+语法情态及语法语气
+
+
+
+
+
+
+已然语气
+(是什么)
+
+
+
+直陈/宣告语气
+攻击语气
+精力充沛语气
+传信语气 (感知语气)
+警句语态
+Mirative
+
+
+
+
+
+
+
+
+非已然语气
+
+
+
+
+
+道义情态
+(应该是什么)
+
+
+
+
+言语行为理论 (promises, threats)
+指令语气 (commands, requests, requirements)
+Deliberative
+Hortative (+ subtypes)
+祈使语气
+Jussive
+Necessitative
+Permissive
+Precative
+抑制语气
+Propositive
+Volitive (hopes, wishes, fears)
+Desiderative
+Imprecative
+祈愿语气
+
+
+
+
+
+
+
+
+
+认识情态
+(可能是什么)
+
+
+
+
+(inferences, possibilities, questions, etc.)
+Alethic
+Assumptive
+Deductive
+Dubitative
+Hypothetical
+Inferential/renarrative/oblique
+Interrogative
+Potential
+Speculative
+Subjunctive
+
+
+
+
+
+
+
+
+
+依赖情况
+(会是什么)
+
+
+
+
+条件语气
+Eventive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：语言学隐藏分类：使用ISBN魔术链接的页面

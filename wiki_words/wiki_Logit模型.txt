@@ -1,0 +1,601 @@
+逻辑回归
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。（2016年9月17日） 
+请邀请适合的人士改善本条目。更多的细节与详情请参见讨论页。 
+
+
+
+
+统计学系列条目
+
+
+回归分析
+
+
+
+
+
+模型
+
+
+
+
+线性回归
+简单回归（英语：Simple linear regression）
+普通最小二乘法（英语：Ordinary least squares）
+多项式回归（英语：Polynomial regression）
+一般线性模型
+
+
+
+
+
+
+广义线性模式
+离散选择（英语：Discrete choice）
+逻辑回归
+多项罗吉特（英语：Multinomial logit）
+混合罗吉特
+波比（英语：Probit model）
+多项式波比（英语：Multinomial probit）
+排序性模型（英语：Ordered logit）
+有序波比（英语：Ordered probit）
+泊松回归
+
+
+
+
+
+
+等级线性模型
+固定效应（英语：Fixed effects model）
+随机效应（英语：Random effects model）
+混合模型（英语：Mixed model）
+
+
+
+
+
+
+非线性回归（英语：Nonlinear regression）
+非参数（英语：Nonparametric regression）
+半参数（英语：Semiparametric regression）
+稳健（英语：Robust regression）
+分位数回归
+保序回归
+主成分（英语：Principal component regression）
+最小角
+局部（英语：Local regression）
+分段（英语：Segmented regression）
+
+
+
+
+
+
+含误差变量（英语：Errors-in-variables models）
+
+
+
+
+估计
+
+
+
+
+最小二乘法
+普通最小二乘法（英语：Ordinary least squares）
+线性
+偏最小二乘回归
+总体（英语：Total least squares）
+广义（英语：Generalized least squares）
+加权
+非线性（英语：Non-linear least squares）
+非负（英语：Non-negative least squares）
+重复再加权（英语：Iteratively reweighted least squares）
+岭回归（英语：Tikhonov regularization）
+LASSO
+
+
+
+
+
+
+最小绝对值导数法（英语：Least absolute deviations）
+贝叶斯（英语：Bayesian linear regression）
+贝叶斯多元（英语：Bayesian multivariate linear regression）
+
+
+
+
+背景
+
+
+
+
+回归模型检验（英语：Regression model validation）
+平均响应和预测响应（英语：Mean and predicted response）
+误差和残差
+拟合优度（英语：Goodness of fit）
+学生化残差（英语：Studentized residual）
+高斯－马尔可夫定理
+
+
+
+
+
+
+ 概率与统计主题
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+逻辑回归（英语：Logistic regression 或logit regression），即逻辑模型（英语：Logit model，也译作“评定模型”、“分类评定模型”）是离散选择法模型之一，属于多重变量分析范畴，是社会学、生物统计学、临床、数量心理学、计量经济学、市场营销等统计实证分析的常用方法。
+
+
+
+目录
+
+
+1 逻辑分布公式
+2 IIA假设
+
+2.1 IIA假设示例
+2.2 满足IIA假设的优点
+2.3 IIA假设的检验
+
+2.3.1 Hausman检验
+2.3.2 一般化模型的检验
+
+
+2.4 IIA问题的解决方法
+
+2.4.1 多项式Probit模型
+2.4.2 一般化极值模型
+
+2.4.2.1 巢式Logit模型
+2.4.2.2 对偶组合Logit模型
+2.4.2.3 一般化分簇Logit模型
+
+
+2.4.3 混合Logit模型
+
+
+
+
+3 二类评定模型（Binary Logit Model）
+4 参见
+5 参考书目
+6 外部链接
+
+
+
+逻辑分布公式[编辑]
+
+
+
+
+逻辑分布函数图像
+
+
+
+
+
+
+
+P
+(
+Y
+=
+1
+
+|
+
+X
+=
+x
+)
+=
+
+
+
+e
+
+
+x
+′
+
+β
+
+
+
+1
++
+
+e
+
+
+x
+′
+
+β
+
+
+
+
+
+.
+
+
+{\displaystyle P(Y=1|X=x)={\frac {e^{x'\beta }}{1+e^{x'\beta }}}.}
+
+
+
+其中参数
+
+
+
+β
+
+
+{\displaystyle \beta }
+
+常用最大似然估计。
+IIA假设[编辑]
+“Independent and irrelevant alternatives”假设，也称作“IIA效应”，指Logit模型中的各个可选项是独立的不相关的。
+IIA假设示例[编辑]
+市场上有A，B，C三个商品相互竞争，分别占有市场份额：60%，30%和10%，三者比例为：6:3:1
+一个新产品D引入市场，有能力占有20%的市场——
+如果满足IIA假设，各个产品独立作用，互不关联：新产品D占有20%的市场份额，剩下的80%在A、B、C之间按照6:3:1的比例瓜分，分别占有48%，24%和8%。
+如果不满足IIA假设，比如新产品D跟产品B几乎相同，则新产品D跟产品B严重相关：新产品D夺去产品B的部分市场，占有总份额的20%，产品B占有剩余的10%，而产品A和C的市场份额保持60%和10%不变。
+满足IIA假设的优点[编辑]
+
+可以获得每个个性化的选择集合的一致的参数估计
+各个类别的子集的一般化的估计
+大大节省时间
+可选项数目很多的时候尤其如此
+
+IIA假设的检验[编辑]
+Hausman检验[编辑]
+Hausman和McFadden提出的。
+一般化模型的检验[编辑]
+IIA问题的解决方法[编辑]
+多项式Probit模型[编辑]
+一般化极值模型[编辑]
+可以将可选项间的相关性建模
+巢式Logit模型[编辑]
+巢式（Nested）表示可选项被分作不同的组，组与组之间不相关，组内的可选项相关，相关程度用1-λg来表示（1-λg越大，相关程度越高）
+对偶组合Logit模型[编辑]
+一般化分簇Logit模型[编辑]
+混合Logit模型[编辑]
+二类评定模型（Binary Logit Model）[编辑]
+
+仅有两个可选项：V1n，V2n
+
+
+
+variable
+type
+
+
+统计量
+
+
+组别比较
+
+
+regression
+
+model
+
+
+
+numerical
+
+
+mean
+
+
+t-test/ANOVA
+
+
+Linear
+regression
+
+
+
+
+categorical
+
+
+percentage
+
+
+Chi-square test
+
+
+Logistic
+regression
+
+
+
+
+persontime
+
+
+KM estimates
+(survival curves)
+
+
+Log-rank test
+
+
+Cox regression
+
+
+
+
+参见[编辑]
+
+多重变量分析
+
+参考书目[编辑]
+
+
+Agresti, Alan: Categorical Data Analysis. New York: Wiley, 1990.
+Amemiya, T., 1985, Advanced Econometrics，Harvard University Press.
+Hosmer, D. W. and S. Lemeshow: Applied logistic regression. New York; Chichester, Wiley, 2000.
+
+
+外部链接[编辑]
+
+UFLDL：逻辑回归
+南佛罗里达大学Logistic回归课程
+线上计算Logistic回归
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+统计学
+
+
+
+
+
+
+描述统计学
+
+
+
+
+
+连续概率
+
+
+
+
+
+
+集中趋势
+
+
+平均数（平方 · 算术 · 几何 · 调和 · 算术-几何 · 几何-调和 · 希罗|平均数不等式） · 中位数 · 众数
+
+
+
+
+
+
+
+离散程度
+
+
+全距 · 标准差 · 变异系数 · 百分位数 · 四分差 · 四分位数 · 方差 · 标准分数 · 切比雪夫不等式
+
+
+
+
+
+
+
+分布形态（英语：Shape of the distribution）
+
+
+偏态 · 峰态
+
+
+
+
+
+
+
+
+
+
+离散概率
+
+
+次数（英语：Count data） · 列联表（英语：Contingency table）
+
+
+
+
+
+
+
+
+
+
+
+
+推论统计学
+和 假设检定
+
+
+
+
+
+推论统计学
+
+
+置信区间 · 区间估计（英语：Interval estimation） · 显著性差异 · 元分析 · 贝氏推论
+
+
+
+
+
+
+
+实验设计
+
+
+统计总量 · 抽样 · 重复（英语：Replication (statistics)） · 阻碍 · 特敏度 · 区集（英语：Blocking (statistics)）
+
+
+
+
+
+
+
+样本量（英语：Sample size）
+
+
+统计功效 · 效应值 · 标准误 · 虚无假设 · 对立假设（英语：Alternative hypothesis） · 第一型和第二型误差 · 统计检定力
+
+
+
+
+
+
+
+常规估计
+
+
+贝叶斯推论 · 区间估计（英语：Interval estimation） · 最大似然估计 · 最小距离估计（英语：Minimum distance estimation） · 矩量法 · 最大间距
+
+
+
+
+
+
+
+特效检验
+
+
+Z检验 · 学生t检验 · F检验 · 卡方检验 · Wald检验（英语：Wald test） · 曼-惠特尼检验（英语：Mann–Whitney U test） · 秩和检验
+
+
+
+
+
+
+
+生存分析
+
+
+生存函数 · 乘积极限估计量 · 对数秩和检定 · 失效率 · 危险比例模式
+
+
+
+
+
+
+
+
+
+相关及
+回归分析
+
+
+
+
+
+相关性
+
+
+混淆变项（英语：Confounding） · 皮尔森积差相关系数 · 等级相关（英语：Rank correlation） (史匹曼等级相关系数 · 肯德等级相关系数（英语：Kendall tau rank correlation coefficient）)
+
+
+
+
+
+
+
+线性回归
+
+
+线性模式（英语：Linear model） · 一般线性模式 · 广义线性模式 · 方差分析 · 协方差分析（英语：Analysis of covariance）
+
+
+
+
+
+
+
+非线性回归（英语：Nonlinear regression）
+
+
+非参数回归模型（英语：Nonparametric regression） · 半参数回归模型（英语：Semiparametric regression） · Logit模型
+
+
+
+
+
+
+
+
+
+统计图形
+
+饼图 · 条形图 · 双标图 · 箱形图 · 管制图 · 森林图（英语：Forest plot） · 直方圖 · QQ图 · 趋势图 · 散布图（英语：Scatter plot） · 茎叶图（英语：Stem-and-leaf display） · 雷达图（英语：Radar chart） · 示意地图
+
+
+
+
+
+
+
+
+
+分类
+主题
+共享资源
+ 专题
+
+
+
+
+
+
+
+
+
+
+
+
+分类：统计学市场营销社会学心理学生物学回归分析隐藏分类：自2016年9月需要专业人士关注的页面

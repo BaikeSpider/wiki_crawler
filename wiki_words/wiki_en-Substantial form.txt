@@ -1,0 +1,210 @@
+Substantial form
+A theory of substantial forms asserts that forms (or ideas) organize matter and make it intelligible. Substantial forms are the source of properties, order, unity, identity, and information about objects.
+The idea of substantial forms dominates ancient Greek philosophy and medieval philosophy, but has fallen out of favour in modern philosophy.[1] The idea of substantial forms has been abandoned for a mechanical, or "bottom-up" theory of organization.[2] However, such mechanistic treatments have been criticized for the same reasons atomism has received criticism, viz., for merely denying the existence of certain kinds of substantial forms in favor of others (here, that of atoms, which are then thought to be arranged into things possessing accidental forms) and not denying substantial forms as such, an impossible move.
+
+
+
+Contents
+
+
+1 Articulation
+
+1.1 Platonic forms
+1.2 Aristotelian forms
+1.3 Early adoption
+
+
+2 Criticism
+3 Response to criticism
+4 References
+
+
+
+Articulation[edit]
+Platonic forms[edit]
+Main article: Theory of Forms
+Plato maintains in the Phaedo regarding our knowledge of equals:
+
+"Do they [equal things] seem to us to be equal in the same sense as what is Equal itself? Is there some deficiency in their being such as the Equal, or is there not?
+
+
+
+[Simias]-A considerable deficiency.
+
+
+
+
+Whenever someone, on seeing something, realizes that that which he now sees wants to be like some other reality but falls short and cannot be like that other since it is inferior, do we agree that the one who thinks this must have prior knowledge of that to which he says it is like, but deficiently so?
+
+
+
+[Simmias] Necessarily. ...
+
+
+
+
+We must then possess knowledge of the Equal before that time when we first saw the equal objects and realized that all these objects strive to be like the Equal but are deficient in this."
+
+Aristotelian forms[edit]
+Main articles: Hylomorphism and Aristotle's biology
+Aristotle was the first to distinguish between matter (hyle) and form (morphe). For Aristotle, matter is the undifferentiated primal element: it is rather that from which things develop than a thing in itself. The development of particular things from this germinal matter consists in differentiation, the acquiring of particular forms of which the knowable universe consists (cf. Formal cause). The perfection of the form of a thing is its entelechy in virtue of which it attains its fullest realization of function (De anima, ii. 2). Thus the entelechy of the body is the soul. The origin of the differentiation process is to be sought in a prime mover, i.e. pure form entirely separate from all matter, eternal, unchangeable, operating not by its own activity but by the impulse which its own absolute existence excites in matter.[3]
+Early adoption[edit]
+Both Platonic and Aristotelian forms appear in medieval philosophy.
+Medieval theologians, newly exposed to Aristotle's philosophy, applied hylomorphism to Christianity, such as to the transubstantiation of the Eucharist's bread and wine to the body and blood of Jesus. Theologians such as Duns Scotus developed Christian applications of hylomorphism.
+The Aristotelian conception of form was adopted by the Scholastics, to whom, however, its origin in the observation of the physical universe was an entirely foreign idea. The most remarkable adaptation is probably that of Aquinas, who distinguished the spiritual world with its subsistent forms (formae separatae) from the material with its inherent forms which exist only in combination with matter.
+Criticism[edit]
+Descartes, referring to substantial forms, says:
+
+"[...] They were introduced by philosophers solely to account for the proper action of natural things, of which they were supposed to be the principles and bases ... But no natural action at all can be explained by these substantial forms, since their defenders admit that they are occult, and that they do not understand them themselves. If they say that some action proceeds from a substantial form, it is as if they said it proceeds from something they do not understand; which explains nothing. [...]"[4]
+
+Response to criticism[edit]
+Leibniz made efforts to return to forms. Substantial forms, in the strictest sense for Leibniz, are primitive active forces and are required for his metaphysics.[5][6]
+In the Discourse on Metaphysics (§10):
+
+"[...] the belief in substantial forms has a certain basis in fact, but that these forms effect no changes in the phenomena and must not be employed for the explanation of particular events. [...]"[7]
+
+References[edit]
+
+
+
+^ David Banach. What Killed Substantial Form?
+^ Benjamin Hill. Substantial Forms and the Rise of Modern Science
+^  This article incorporates text from a publication now in the public domain: Chisholm, Hugh, ed. (1911). "Form". Encyclopædia Britannica (11th ed.). Cambridge University Press. 
+^ Descartes. "Letter to Regius," January 1642, in Oeuvres de Descartes.
+^ Adams, Robert Merrihew. Leibniz: Determinist, Theist, Idealist, February 1999, pp. 308-341 (34)
+^ Internet Encyclopedia of Philosophy
+^ G W Leibniz. "Discourse on Metaphysics". Archived from the original on 12 June 2002. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Aristotelianism
+
+
+
+Overview
+
+
+
+Peripatetic school
+Physics
+Biology
+Ethics
+Logic
+Theology (unmoved mover)
+
+
+
+
+
+
+
+
+Ideas and interests
+
+
+
+Correspondence theory of truth
+Hexis
+Virtue ethics (golden mean)
+Four causes
+Telos
+Phronesis
+Eudaimonia
+Arete
+Temporal finitism
+Antiperistasis
+Philosophy of nature (sublunary sphere)
+Potentiality and actuality
+Universals (substantial form)
+Hylomorphism
+Mimesis
+Catharsis
+Substance (hypokeimenon, ousia, transcendentals)
+Essence–accident
+Category of being
+Minima naturalia
+Magnanimity
+Sensus communis
+Rational animal
+Genus–differentia
+Mythos
+
+
+
+
+
+Corpus Aristotelicum
+
+
+
+Physics
+Organon
+Nicomachean Ethics
+Politics
+Metaphysics
+On the Soul
+Rhetoric
+Poetics
+
+
+
+
+
+Followers
+
+
+
+Alexander the Great
+Theophrastus
+Avicenna
+Averroes
+Maimonides
+Thomas Aquinas
+Mortimer Adler
+Alasdair MacIntyre
+Martha Nussbaum
+
+
+
+
+
+Related topics
+
+
+
+Platonism
+Commentaries on Aristotle
+Recovery of Aristotle
+Scholasticism
+Conimbricenses
+Pseudo-Aristotle
+Views on women
+Aristotle's wheel paradox
+Aristotle's razor
+
+
+
+
+
+
+ Philosophy portal
+
+
+
+
+
+
+
+
+Categories: PlatonismAristotelianismConcepts in metaphysicsEquivalence classesHidden categories: Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource referenceWikipedia articles incorporating text from the 1911 Encyclopædia Britannica

@@ -1,0 +1,467 @@
+Naïve realism
+
+For the psychological theory called "naïve realism", see naïve realism (psychology)
+
+
+
+
+
+Naïve realism argues we perceive the world directly
+
+
+In philosophy of mind, naïve realism, also known as direct realism or common sense realism, is the idea that the senses provide us with direct awareness of objects as they really are. Objects obey the laws of physics and retain all their properties whether or not there is anyone to observe them.[1] They are composed of matter, occupy space and have properties, such as size, shape, texture, smell, taste and colour, that are usually perceived correctly.
+In contrast, some forms of idealism claim that no world exists apart from mind-dependent ideas, and some forms of skepticism say we cannot trust our senses. Naïve realism is known as direct as against indirect or representative realism when its arguments are developed to counter the latter position, also known as epistemological dualism;[2] that our conscious experience is not of the real world but of an internal representation of the world.
+
+
+
+Contents
+
+
+1 Theory
+2 Philosophy
+3 Naïve and scientific realism or direct and indirect realism
+
+3.1 Realism and quantum physics
+
+
+4 Virtual reality and realism
+5 See also
+6 References
+7 Sources and further reading
+8 External links
+
+
+
+Theory[edit]
+The naïve realist theory may be characterized as the acceptance of the following five beliefs:
+
+There exists a world of material objects.
+Some statements about these objects can be known to be true through sense-experience.
+These objects exist not only when they are being perceived but also when they are not perceived. The objects of perception are largely perception-independent.
+These objects are also able to retain properties of the types we perceive them as having, even when they are not being perceived. Their properties are perception-independent.
+By means of our senses, we perceive the world directly, and pretty much as it is. In the main, our claims to have knowledge of it are justified."[3]
+
+In the area of visual perception in psychology, the leading direct realist theorist was J. J. Gibson. Other psychologists were heavily influenced by this approach, including William Mace, Claire Michaels,[4] Edward Reed,[5] Robert Shaw, and Michael Turvey. More recently, Carol Fowler has promoted a direct realist approach to speech perception.
+Philosophy[edit]
+Among contemporary philosophers one might refer to, for example, John R. Searle,[6] John McDowell,[7] Hilary Putnam,[8] or Galen Strawson[9] as defenders of direct realism in various works.
+Searle, for instance, addresses the popular but perhaps mistaken assumption that we can only directly perceive our own subjective experiences, but never objects and states of affairs in the world themselves. According to Searle, it has influenced many thinkers to reject direct realism. But Searle contends that the rejection of direct realism is based on a bad argument: the Argument from illusion, which in turn relies on vague assumptions on the nature or existence of "sense data". Various sense data theories were deconstructed in 1962 by the British philosopher J. L. Austin in a book titled 'Sense and Sensibilia'.[10]
+Talk of sense data has been replaced by talk of representational perception in a broader sense, and scientific realists typically assume representational perception. But the assumption is philosophical, and arguably little prevents scientific realists from assuming direct perception, as in direct or "naïve" realism. In a blog-post on "Naive realism and color realism" Putnam[11] sums up with the following words:
+"... Being an apple is not a natural kind in physics, but it is in biology, recall. Being complex and of no interest to fundamental physics isn't a failure to be "real". I think green is as real as applehood.".
+Simon Blackburn has argued that whatever positions they may take in books, articles or lectures, naive realism is the view of "philosophers when they are off-duty."[12]
+Naïve and scientific realism or direct and indirect realism[edit]
+It is not uncommon to think of naïve realism as distinct from scientific realism, which states that the universe contains just those properties that feature in a scientific description of it, not properties like colour per se but merely objects that reflect certain wavelengths owing to their microscopic surface texture. This lack of supervenience of experience on the physical world has influenced many thinkers to reject naïve realism as a physical theory.[13]
+One should add, however, that naïve realism does not claim that reality is only what we see, hear etc.. Likewise, scientific realism does not claim that reality is only what can be described by fundamental physics. It follows that the relevant distinction to make is not between naïve and scientific realism but between direct and indirect realism.
+The direct realist claims that the experience of a sunset, for instance, is the real sunset that we directly experience. The indirect realist claims that our relation to reality is indirect, so the experience of a sunset is a subjective copy of what really is radiation as described by physics. But the direct realist does not deny that the sunset is radiation; the experience has a hierarchical structure,[14] and the radiation is part of what amounts to the direct experience.
+An example of a scientific realist is John Locke, who held the world only contains the primary qualities that feature in a corpuscularian scientific account of the world (see corpuscular theory), and that other properties were entirely subjective, depending for their existence upon some perceiver who can observe the objects."[1]
+The modern philosopher of science Howard Sankey argues for a form of scientific realism which has commonsense realism as one of its foundations.[15]
+Realism and quantum physics[edit]
+Main article: Principle of locality
+Realism in physics refers to the fact that any physical system must have definite properties whether measured/observed or not. Physics up to the 19th century was always implicitly and sometimes explicitly taken to be based on philosophical realism.
+Scientific realism in classical physics has remained compatible with the naïve realism of everyday thinking on the whole but there is no known, consistent way to visualize the world underlying quantum theory in terms of ideas of the everyday world. "The general conclusion is that in quantum theory naïve realism, although necessary at the level of observations, fails at the microscopic level."[16] Experiments such as the Stern–Gerlach experiment and quantum phenomena such as complementarity lead quantum physicists to conclude that "[w]e have no satisfactory reason for ascribing objective existence to physical quantities as distinguished from the numbers obtained when we make the measurements which we correlate with them. There is no real reason for supposing that a particle has at every moment a definite, but unknown, position which may be revealed by a measurement of the right kind... On the contrary, we get into a maze of contradiction as soon as we inject into quantum mechanics such concepts as carried over from the language and philosophy of our ancestors... It would be more exact if we spoke of 'making measurements' of this, that, or the other type instead of saying that we measure this, that, or the other 'physical quantity'."[17] It is no longer possible to adhere to both the principle of locality (that distant objects cannot affect local objects), and counterfactual definiteness, a form of ontological realism implicit in classical physics. Some interpretations of quantum mechanics hold that a system lacks an actualized property until it is measured, which implies that quantum systems exhibit a non-local behaviour. Bell's theorem proved that every quantum theory must either violate locality or counterfactual definiteness. This has given rise to a contentious debate of the interpretation of quantum mechanics. Although locality and 'realism', in the sense of counterfactual definiteness, are jointly false, it is possible to retain one of them. The majority of working physicists discard counterfactual definiteness in favor of locality, since non-locality is held to be contrary to relativity. The implications of this stance are rarely discussed outside of the microscopic domain but the thought experiment of Schrödinger's cat illustrates the difficulties presented. As quantum mechanics is applied to larger and larger objects even a one-ton bar, proposed to detect gravity waves, must be analysed quantum mechanically, while in cosmology a wave function for the whole universe is written to study the Big Bang. It is difficult to accept the quantum world as somehow not physically real, so "Quantum mechanics forces us to abandon naïve realism",[18] though it can also be argued that the counterfactual definiteness 'realism' of physics is a much more specific notion than general philosophical realism.[19]
+"'[W]e have to give up the idea of realism to a far greater extent than most physicists believe today.' (Anton Zeilinger)... By realism, he means the idea that objects have specific features and properties—that a ball is red, that a book contains the works of Shakespeare, or that an electron has a particular spin... for objects governed by the laws of quantum mechanics, like photons and electrons, it may make no sense to think of them as having well defined characteristics. Instead, what we see may depend on how we look."[20]
+Yet many scientists are mathematical realists, and since there are currently several competing Interpretations of quantum mechanics there is little reason for contemporary realists to worry about anti-realist interpretations of quantum strangeness.
+Virtual reality and realism[edit]
+"Virtual realism"[21] is closely related to the above theories.
+In the research paper The reality of virtual reality it is proposed that, "virtuality is itself a bona fide mode of reality, and that 'virtual reality' must be understood as 'things, agents and events that exist in cyberspace'. These proposals resolve the incoherences found in the ordinary uses of these terms... 'virtual reality', though based on recent information technology, does not refer to mere technological equipment or purely mental entities, or to some fake environment as opposed to the real world, but that it is an ontological mode of existence which leads to an expansion of our ordinary world."[22]
+"The emergence of teleoperation and virtual environments has greatly increased interest in "synthetic experience", a mode of experience made possible by both these newer technologies and earlier ones, such as telecommunication and sensory prosthetics... understanding synthetic experience must begin by recognizing the fallacy of naïve realism and with the recognition that the phenomenology of synthetic experience is continuous with that of ordinary experience."[23]
+The alleged necessity to recognize a "fallacy of naïve realism" seems, however, unwarranted. One should not be misled by the word "naïve", for a naïve realist normally understands what a picture is: that the depicted face on a photograph, for instance, is not the real face, and that the things seen on a computer-screen are symbols or electronic depictions, and so on. A majority of the population arguably subscribes to naïve common sense notions of reality, without a recognizable loss in capacity to interact in cyberspace.
+See also[edit]
+
+
+Philosophy of mind
+Philosophy of perception
+Qualia
+Representative realism
+Eliminative materialism
+Scientific realism
+Confirmation holism
+Critical realism
+Disjunctivism
+Instrumentalism
+Objectivism
+Misconception
+Consciousness
+Worldview
+Étienne Gilson
+Jacques Maritain
+Joseph Owens (Redemptorist)
+John F. X. Knasas
+Thomas Reid
+Everett W. Hall
+P. F. Strawson
+James J. Gibson
+James McCosh
+History of philosophy in Poland
+Model-dependent realism
+
+
+References[edit]
+
+
+^ a b Naïve Realism, Theory of Knowledge.com.
+^ Lehar, Steve. Representationalism Archived 2012-09-05 at the Wayback Machine.
+^ Naïve Realism, University of Reading.
+^ http://ione.psy.uconn.edu:16080/~corr/Pages/MichaelsProfile.htm
+^ http://www.us.oup.com/us/catalog/general/subject/Psychology/Cognitive/?view=usa&ci=9780195073010
+^ John R. Searle, 'Seeing Things as They Are; A Theory of Perception', Oxford University Press. 2015.
+^ John McDowell. 'Mind and World'. Harvard University Press, Cambridge, Mass. 1994.
+^ Hilary Putnam, 'How to Be a Sophisticated "Naive Realist"'. In 'Philosophy in an Age of Science'. Harvard University Press, Cambridge, Mass. 2012.
+^ Galen Strawson, On “Real Direct Realism”, a lecture recorded 2014 at Marc Sanders Foundation, Vimeo https://vimeo.com/91346935
+^ Austin, J. L. "Sense and Sensibilia", Oxford: Clarendon. 1962.
+^ Hilary Putnam's blog 'Sardonic comment' at http://putnamphil.blogspot.se/2015/05/naive-realism-and-color-realism-in-1976.html. 2015.
+^ Blackburn, Simon (2008). Oxford Dictionary of Philosophy (Second edition, revised), Oxford University Press ISBN 9780199541430
+^ Michaels, Claire & Carello, Claudia. (1981). Direct Perception. Prentice-Hall.
+^ John R. Searle, 'Seeing Things as They Are; A Theory of Perception', Oxford University Press. 2015. p.111-114
+^ Sankey, Howard (December 2001). "Scientific Realism: An Elaboration and a Defence". Theoria. Berghahn Books (98): 35–54. JSTOR 41802172. 
+^ Gomatam, Ravi. (2004). Physics and Commonsense - Reassessing the connection in the light of the quantum theory, arXiv.org.
+^ Kemble E. C. in Peres Asher, (1993). Quantum Theory: Concepts and Methods, Springer 1993 p. 17 ISBN 978-0-7923-2549-9.
+^ Rosenblum, Bruce & Kuttner, Fred. (2006). Quantum Enigma: Physics Encounters Consciousness, Oxford University Press US. p. 112. ISBN 978-0-19-517559-2.
+^ "We examine the prevalent use of the phrase “local realism” in the context of Bell’s Theorem and associated experiments, with a focus on the question: what exactly is the ‘realism’ in ‘local realism’ supposed to mean?". Norsen, T.Against 'Realism'
+^ Ball, Philip. (2007). Physicists bid farewell to reality? Quantum mechanics just got even stranger, Nature, April 18, 2007.
+^ Heim, Michael. (2000). Virtual Realism, Oxford University Press US. ISBN 978-0-19-513874-0.
+^ (Requires login) Yoh, Myeung-Sook. (2001). The reality of virtual reality, Virtual Systems and Multimedia. pp. 666-674.
+^ Loomis, Jack. (1993). Understanding Synthetic Experience Must Begin with the Analysis of Ordinary Perceptual Experience, IEEE 1993 Symposium on Research Frontiers in Virtual Reality, 54-57.
+
+
+Sources and further reading[edit]
+
+Ahlstrom, Sydney E. "The Scottish Philosophy and American Theology," Church History, Vol. 24, No. 3 (Sep., 1955), pp. 257–272 in JSTOR
+Cuneo, Terence, and René van Woudenberg, eds. The Cambridge companion to Thomas Reid (2004)
+Gibson, J.J. (1972). A Theory of Direct Visual Perception. In J. Royce, W. Rozenboom (Eds.). The Psychology of Knowing. New York: Gordon & Breach.
+Graham, Gordon. "Scottish Philosophy in the 19th Century" Stanford Encyclopedia of Philosophy (2009) online
+Marsden, George M. Fundamentalism and American Culture (2006) excerpt and text search
+S. A. Grave, "Common Sense", in The Encyclopedia of Philosophy, ed. Paul Edwards (Collier Macmillan, 1967).
+Peter J. King, One Hundred Philosophers (2004: New York, Barron's Educational Books), ISBN 0-7641-2791-8.
+Selections from the Scottish Philosophy of Common Sense, ed. by G.A. Johnston (1915) online, essays by Thomas Reid, Adam Ferguson, James Beattie, and Dugald Stewart
+David Edwards & Steven Wilcox (1982). "Some Gibsonian perspectives on the ways that psychologists use physics" (PDF). Acta Psychologia. 52: 147–163. doi:10.1016/0001-6918(82)90032-4. 
+Fowler, C. A. (1986). "An event approach to the study of speech perception from a direct-realist perspective". Journal of Phonetics. 14: 3–28. 
+James J. Gibson. The Ecological Approach to Visual Perception. Lawrence Erlbaum Associates, 1987. ISBN 0-89859-959-8
+Claire F. Michaels and Claudia Carello. Direct Perception. Prentice-Hall. ISBN 978-0-13214-791-0. 1981. Download this book at http://ione.psy.uconn.edu/~psy254/MC.pdf
+Edward S. Reed. Encountering the World. Oxford University Press, 2003. ISBN 0-19-507301-0
+Sophia Rosenfeld. Common Sense: A Political History (Harvard University Press; 2011) 346 pages; traces the paradoxical history of common sense as a political ideal since 1688
+Shaw, R. E./Turvey, M. T./Mace, W. M. (1982): Ecological psychology. The consequence of a commitment to realism. In: W. Weimer & D. Palermo (Eds.), Cognition and the symbolic processes. Vol. 2, Hillsdale, NJ: Lawrence Erlbaum Associates, Inc., pp. 159–226.
+Turvey, M. T., & Carello, C. (1986). "The ecological approach to perceiving-acting a pictorial essay". Acta Psychologica. 63 (1-3): 133–155. doi:10.1016/0001-6918(86)90060-0. PMID 3591430. CS1 maint: Multiple names: authors list (link)
+Nicholas Wolterstorff. Thomas Reid and the Story of Epistemology. Cambridge University Press, 2006. ISBN 0-521-53930-7
+Nelson, Quee. (2007). The Slightest Philosophy Dog's Ear Publishing. ISBN 978-1-59858-378-6
+J L. Austin. (1962). Sense and Sensibilia. Oxford University Press. ISBN 978-0195003079
+John R., Searle. (2015). Seeing Things as They Are; A Theory of Perception. Oxford University Press. ISBN 978-0-19-938515-7
+
+External links[edit]
+
+James Feiser, "A Bibliography of Scottish Common Sense Philosophy"
+Theory of knowledge: Naïve Realism
+Naïve Realism and the Argument from Illusion
+The Function of Conscious Experience
+Representationalism
+Naïve Realism in Contemporary Philosophy
+The Science and Philosophy of Consciousness
+Stanford Encyclopedia of Philosophy: Epistemological Problems of Perception
+Physics and Commonsense: Reassessing the connection in the light of quantum theory
+Quantum Theory: Concepts and Methods
+Nature Journal: Physicists bid farewell to reality?
+Quantum Enigma: Physics Encounters Consciousness
+Virtual Realism
+The reality of virtual reality
+IEEE Symposium on Research Frontiers in Virtual Reality: Understanding Synthetic Experience Must Begin with the Analysis of Ordinary Perceptual Experience
+Realism, article form the Stanford Encyclopedia of Philosophy.
+Sense Data, article from the Stanford Encyclopedia of Philosophy.
+Skepticism and the Veil of Perception, book defending direct realism.
+Pierre Le Morvan, "Arguments against direct realism and how to counter them", American Philosophical Quarterly 41, no. 3 (2004): 221-234. (pdf)
+Steven Lehar, "Gestalt Isomorphism" (2003), paper criticizing direct realism.
+A Direct Realist Account of Perceptual Awareness, dissertation on direct realism.
+Epistemological debate on PSYCHE-D mailing list
+A Cartoon Epistemology
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of mind
+
+
+
+Theories
+
+
+
+Behaviorism (Radical)
+Biological naturalism
+Cognitive psychology
+Mind–body dualism
+Eliminative materialism
+Emergent materialism
+Emergentism
+Epiphenomenalism
+Functionalism
+Idealism
+Interactionism
+Materialism
+Monism
+Naïve realism
+
+Neurophenomenology
+
+
+Neutral monism
+Occasionalism
+Psychoanalysis
+Parallelism
+Phenomenalism
+Phenomenology
+Physicalism
+
+identity theory
+
+
+Property dualism
+Representational
+Solipsism
+Substance dualism
+
+
+
+
+
+Concepts
+
+
+
+Abstract object
+Artificial intelligence
+Chinese room
+Cognition
+Cognitive closure
+Concept
+Concept and object
+Consciousness
+Hard problem of consciousness
+Hypostatic abstraction
+Idea
+Identity
+Ingenuity
+Intelligence
+Intentionality
+Introspection
+Intuition
+Language of thought
+Materialism
+Mental event
+Mental image
+Mental process
+Mental property
+Mental representation
+Mind
+Mind–body problem
+
+Non-physical entity
+
+
+New mysterianism
+Pain
+Problem of other minds
+Propositional attitude
+Qualia
+Tabula rasa
+Understanding
+Zombie
+more...
+
+
+
+
+
+Related topics
+
+
+
+Metaphysics
+Philosophy of artificial intelligence / information / perception / self
+
+
+
+
+
+
+
+
+Portal
+Category
+Philosophers category
+Project
+Task Force
+
+
+
+
+
+
+
+
+
+
+Categories: Theory of mindPerceptionEpistemological theoriesMetaphysical realism18th century in Scotland19th century in Scotland18th-century philosophy19th-century philosophyPhilosophical schools and traditionsScottish EnlightenmentScottish societyMetaphysics of mindHidden categories: Webarchive template wayback linksPages using div col without cols and colwidth parametersCS1 maint: Multiple names: authors list

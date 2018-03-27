@@ -1,0 +1,656 @@
+Wikipedia:Books
+
+This page is about Wikipedia-Books. You may be looking for Help:Books, WikiProject Wikipedia-Books, WikiProject Books, Wikipedia:Notability (books), Print Wikipedia, or Wikibooks.
+
+
+
+
+ Wikipedia books
+
+Create a book
+Bookshelf
+FAQ
+Help for beginners
+Help for experts
+Post feedback
+
+
+
+
+
+WARNING: Part or all of the Book Creator software may currently be disabled while a completely rewritten version is being installed. For the latest information, see here.
+
+
+
+
+
+At the time of writing, you can create a book and upload it to Pedia Press for print-on-demand rendering and ordering in (approximately) A5 format.
+For Help with downloading a Wikipedia page as a PDF, see Help:Download as PDF.
+An alternative open source tool, MediaWiki2LaTeX, is also available and works with any website running MediaWiki, such as Wikipedia and Wikibooks.
+
+
+
+
+
+Information in this page may relate to an earlier version, which has now been disabled.
+
+
+Status last updated 16 December 2017.
+
+
+
+Overview
+
+A Wikipedia Book is an organized collection of Wikipedia articles that can be rendered electronically in PDF format, or ordered as a printed book. The book is compiled afresh each time it is downloaded or ordered, so will always reflect the latest versions of the articles.
+Note: Currently (2017) not all information in an article will be displayed when rendered in book format - in particular, since 2014 information held in tables (including infoboxes) has not been displayed. Nor has maths markup.
+For information and help on Wikipedia books in general, see Help:Books (general tips) and WikiProject Wikipedia-Books (questions and assistance).
+
+Bookshelf
+
+
+
+ 
+
+
+Browse all 54,807 Wikipedia books.
+
+All 5,995 community-maintained books · All 48,812 user-maintained books
+
+Featured and good topics
+
+
+Featured topics and Good topics are collections of some of Wikipedia's best articles.
+Each topic has a dedicated book linked in the upper-left corners of the topic boxes.
+
+
+
+
+
+Book namespace
+
+
+
+
+Wikipedia data structure
+
+
+
+
+Namespaces
+
+
+
+Subject namespaces
+Talk namespaces
+
+
+0
+(Main/Article)
+Talk
+1
+
+
+2
+User
+User talk
+3
+
+
+4
+Wikipedia
+Wikipedia talk
+5
+
+
+6
+File
+File talk
+7
+
+
+8
+MediaWiki
+MediaWiki talk
+9
+
+
+10
+Template
+Template talk
+11
+
+
+12
+Help
+Help talk
+13
+
+
+14
+Category
+Category talk
+15
+
+
+100
+Portal
+Portal talk
+101
+
+
+108
+Book
+Book talk
+109
+
+
+118
+Draft
+Draft talk
+119
+
+
+446
+Education Program
+Education Program talk
+447
+
+
+710
+TimedText
+TimedText talk
+711
+
+
+828
+Module
+Module talk
+829
+
+
+2300
+Gadget
+Gadget talk
+2301
+
+
+2302
+Gadget definition
+Gadget definition talk
+2303
+
+
+
+Virtual namespaces
+
+
+
+-1
+Special
+
+
+-2
+Media
+
+
+
+
+
+
+
+See also
+
+Bibliography of Wikipedia
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Wikipedia technical help
+
+
+
+
+Get personal technical help at the Teahouse, Help desk, Village pump (technical), talk pages or IRC.
+
+
+
+General technical
+help
+
+
+
+Editing
+
+Edit toolbar
+CharInsert
+Edit conflict
+Reverting
+
+
+VisualEditor
+
+User guide
+
+
+Create a page
+Page history
+Page information
+Page name
+
+Introduction
+
+
+Browser notes
+
+Keyboard shortcuts
+Troubleshooting
+Bypass cache
+
+
+Mobile access
+Multilingual support
+Special Characters
+
+Entering
+
+
+Printing
+User access levels
+Software notices
+
+Editnotice
+
+
+IRC
+
+Tutorial
+
+
+
+
+
+
+
+Special page related
+
+
+
+Special page help
+Searching
+
+Advanced search
+Linksearch
+
+
+Logging in
+
+Reset passwords
+
+
+Notifications/Echo
+
+FAQ
+
+
+Moving a page
+
+Fixing cut-and-paste moves
+
+
+Watching pages
+User contributions
+Emailing users
+Random pages
+Logs
+What links here
+Related changes
+Recent changes
+Pending changes
+Page Curation
+Page import
+Edit filter
+Tags
+
+
+
+
+
+Wikitext
+
+
+
+Wikitext main page
+
+Cheatsheet
+
+
+Colours use
+Columns
+Line-break handling
+Lists
+Magic words
+
+For beginners
+Conditional expressions
+Switch parser function
+Time function
+
+
+Redirects
+Sections and TOCs
+Tables
+
+Introduction
+Basics
+Conditional tables
+Sorting
+Collapsing
+Advanced table formatting
+
+
+
+
+
+
+
+Links and diffs
+
+
+
+URLs
+Links
+Permanent link
+Interwikimedia links
+Interlanguage links
+Link color
+Pipe trick
+Colon trick
+Magic links
+Diffs
+
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+
+
+
+
+
+
+
+Media files: images,
+videos and sounds
+
+
+
+Media help
+Options to hide an image
+Uploading images
+
+Introduction
+
+
+Files
+
+Creation and usage
+Moving files to Commons
+
+
+Visual file markup
+Images
+
+Preparing images for upload
+Picture tutorial
+Extended image syntax
+
+
+Gallery tag
+Graphics tutorials
+
+Basic bitmap image editing
+How to improve image quality
+
+
+Graphics Lab resources
+Sound file markup
+SVG help
+
+
+
+
+
+Other graphics
+
+
+
+Family trees
+Graphs and charts
+
+How to create
+To scale charts
+Barcharts
+
+
+Math formula
+
+Math symbols
+Rendering math
+LaTeX symbols
+
+
+Musical scores
+
+Musical symbols
+
+
+Timeline
+
+EasyTimeline syntax
+
+
+WikiHiero syntax
+
+
+
+
+
+Templates
+and Lua modules
+
+
+
+Templates
+Template messages
+Citation templates
+Transclusion
+
+Labeled section
+
+
+Substitution
+Advanced template coding
+Template limits
+Template sandbox and test cases
+Template documentation
+Purge
+
+Job queue
+
+
+Lua help
+Lua project
+
+To do
+Resources
+
+
+Guide to Scribbling
+
+
+
+
+
+Data structure
+
+
+
+Namespaces
+Main/Article
+Talk namespaces
+
+Archiving
+
+
+User
+
+User page design
+
+
+Project/Wikipedia
+File
+
+File description page
+
+
+MediaWiki
+
+Bug reports and feature requests
+System message
+
+
+Template
+Help
+Category
+Portal
+Book
+Draft
+Education Program
+TimedText
+Module/Lua
+Topic/Flow
+Special
+Media
+
+
+
+
+
+HTML and CSS
+
+
+
+HTML in wikitext
+Markup validation
+Span tags
+Cascading Style Sheets
+Catalogue of CSS classes
+Useful styles
+Classes used in microformats
+Ambox classes
+Common.js and common.css
+User CSS for monospaced coding font
+
+
+
+
+
+Customisation and tools
+
+
+
+Preferences
+Skins
+Customizing watchlists
+
+Hide pages
+
+
+Gadgets
+Beta Features
+User scripts
+
+Guide
+Techniques
+
+
+IRC Scripts
+User styles
+Tools
+
+Navigation shortcuts
+Browser tools
+Alternative browsing
+Editing tools
+Optimum tool set
+
+
+Cleaning up vandalism tools
+Citation tools
+Wikimedia Cloud Services
+
+
+
+
+
+Automating editing
+
+
+
+Bots
+
+Creating
+
+
+Twinkle
+HotCat
+WPCleaner
+igloo
+AutoWikiBrowser
+Navigation popups
+STiki
+AfC helper script
+Huggle
+
+
+
+
+
+
+
+
+See also: Category:Wikipedia information pages
+Category:Wikipedia how-to
+Further navigation at: Help pages
+
+Administrators
+
+
+Templates
+Referencing
+
+Citation metadata
+
+
+Accessibility
+Bots
+User scripts
+Accounts
+
+
+
+
+
+
+
+
+
+
+Categories: Wikipedia book tool

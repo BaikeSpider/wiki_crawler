@@ -1,0 +1,546 @@
+海什木
+
+
+
+
+
+本条目可参照英语维基百科相应条目来扩充。 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+
+阿尔·哈金
+
+
+
+阿尔·哈金(伊本·海什木)
+
+
+
+出生
+公元(965-07-01)965年7月1日[1] (伊斯兰历354 年)[2]
+现今伊拉克的巴士拉
+
+
+逝世
+1040年3月6日(1040-03-06)（74岁）[1] (伊斯兰历430年)[3]
+开罗, 埃及, 法蒂玛王朝
+
+
+居住地
+巴士拉
+开罗
+
+
+知名于
+《光学之书》、《有关托勒密的疑点》、《世界的结构》、《运动模式》、《光论》、《地方论》等, 科学方法, 实验科学, 实验物理学, 实验心理学, 视知觉, 解析几何, 天文学, 天体力学
+
+
+科学生涯
+
+
+研究领域
+物理学 数学
+
+
+受影响于
+亚里士多德, 欧几里得, 托勒密
+
+
+施影响于
+伊本·鲁世德, 威特罗, 罗吉尔·培根, 开普勒
+
+
+海什木（阿拉伯语：محمد بن الحسن بن الحسن بن الهيثم أبو على البصري，拉丁化：Abū ʿAlī al-Ḥasan ibn al-Ḥasan ibn al-Haytham）是阿拉伯学者、物理学家、数学家，全名穆哈默德·本·哈桑·本·海什木·巴士拉，西方人把它称作Al Hazen，中文译作“海桑”、“哈金”等。有大量著作和被现代科学证明了的科学发现，尤其在光学研究方面有突出成就。
+
+
+
+目录
+
+
+1 生平
+2 科学成就
+3 著作
+4 注释
+5 参考文献
+6 扩展阅读
+
+6.1 主要文献
+6.2 其他文献
+
+
+
+
+
+生平[编辑]
+海什木出生于公元965年7月1日（伊斯兰历354年）在伊拉克的巴士拉城。被认为是在不同学科都有杰出的成绩，如数学、天文学、医学等等，他早期学习工程，读希腊科学的书，和关于安达卢西亚学说的精华，接收并发展了这些学说。当时的埃及哈里发召集他参与控制尼罗河泛滥的工程，但是经过他的研究发现那是不可能实现的，从而招致哈里发非常愤怒。于是海什木就以装疯的方式避免了严重惩罚，转而被软禁，直到哈里发1021年死去。在此期间他完成了大量重要的数学论文。
+科学成就[编辑]
+著作[编辑]
+注释[编辑]
+
+
+^ 1.0 1.1 Lorch 2008
+^ Charles M. Falco, Ibn al-Haytham and the Origins of Computerized Image Analysis (PDF), International Conference on Computer Engineering & Systems (ICCES), November 27–29, 2007 [2010-01-30] [失效链接]
+^ Franz Rosenthal, Al-Mubashshir ibn Fâtik. Prolegomena to an Abortive Edition, Oriens (Brill Publishers), 1960–1961, 13: 132–158 [136–7], JSTOR 1580309 
+^ 引用错误：没有为名为mathsong.com的参考文献提供内容
+
+
+参考文献[编辑]
+
+
+Aaen-Stockdale, C. R., Ibn al-Haytham and psychophysics (PDF), Perception, 2008, 37 (4): 636–638, PMID 18546671, doi:10.1068/p5940 
+Professor Abattouy, Mohammed, The Arabic Science of weights: A Report on an Ongoing Research Project, The Bulletin of the Royal Institute for Inter-Faith Studies, 2002, 4: 109–130 
+Abbott, David, Biographical Dictionary of Scientists I, Frederick Muller Ltd, December 1983, ISBN 0-584-10854-0, OCLC 10505374 
+Agrawal, Amit; Taguchi, Yuichi; Ramalingam, Srikumar, Beyond Alhazen's Problem: Analytical Projection Model for Non-Central Catadioptric Cameras with Quadric Mirrors, IEEE Conference on Computer Vision and Pattern Recognition, 2011, （原始内容存档于2012-03-07） 
+Agrawal, Amit; Taguchi, Yuichi; Ramalingam, Srikumar, Analytical Forward Projection for Axial Non-Central Dioptric and Catadioptric Cameras, European Conference on Computer Vision, 2010, （原始内容存档于2012-03-07） 
+
+
+Arjomand, Kamran, The emergence of scientific modernity in Iran: controversies surrounding astrology and modern astronomy in the mid-nineteenth century, Iranian Studies, 1997, 30 (1) 
+Bettany, Laurence, Ibn al-Haytham: an answer to multicultural science teaching?, Physics Education, 1995, 30: 247–252, Bibcode:1995PhyEd..30..247B, doi:10.1088/0031-9120/30/4/011 
+El-Bizri, Nader, La perception de la profondeur: Alhazen, Berkeley et Merleau-Ponty, Oriens-Occidens: sciences, mathématiques et philosophie de l’antiquité à l’âge classique (Cahiers du Centre d’Histoire des Sciences et des Philosophies Arabes et Médiévales) (Centre National de la Recherche Scientifique), 2004, 5: 171–184 
+El-Bizri, Nader, A Philosophical Perspective on Alhazen’s Optics, Arabic Sciences and Philosophy (Cambridge University Press), 2005a, 15 (2): 189–218, doi:10.1017/S0957423905000172 
+El-Bizri, Nader, Ibn al-Haytham, (编) Wallis, Faith, Medieval Science, Technology, and Medicine: An Encyclopedia, New York & London: Routledge: 237–240, 2005b, ISBN 0-415-96930-1, OCLC 218847614 58829023 61228669 
+El-Bizri, Nader, Ibn al-Haytham or Alhazen, (编) Meri, Josef W., Medieval Islamic Civilization: An Encyclopaedia II, New York & London: Routledge: 343–345, 2006, ISBN 0-415-96692-2, OCLC 224371638 59360024 
+El-Bizri, Nader, In Defence of the Sovereignty of Philosophy: Al-Baghdadi's Critique of Ibn al-Haytham's Geometrisation of Place, Arabic Sciences and Philosophy (Cambridge University Press), 2007, 17: 57–80, doi:10.1017/S0957423907000367 
+El-Bizri, Nader, Ibn al-Haytham et le problème de la couleur, Oriens-Occidens: sciences, mathématiques et philosophie de l’antiquité à l’âge classique (Cahiers du Centre d’Histoire des Sciences et des Philosophies Arabes et Médiévales) (Centre National de la Recherche Scientifique), 2004, 7: 201–226 
+Bouali, Hamid-Eddine; Zghal, Mourad; Lakhdar, Zohra Ben, Popularisation of Optical Phenomena: Establishing the First Ibn Al-Haytham Workshop on Photography (PDF), The Education and Training in Optics and Photonics Conference, 2005 [2008-07-08] 
+Burns, Robert, Some fear Iraq may be rebuilding its weapons of mass destruction, Topeka Capital-Journal, 1999-08-08 [2008-09-21] 
+Child, John; Shuter, Paul; Taylor, David, Understanding History, Heinemann, 1992, ISBN 0-435-31211-1, OCLC 27338645 
+Corbin, Henry, History of Islamic Philosophy, Translated by Liadain Sherrard, Philip Sherrard, London: Kegan Paul International in association with Islamic Publications for The Institute of Ismaili Studies, 1993; original French 1964, ISBN 0-7103-0416-1, OCLC 22109949 221646817 22181827 225287258  请检查|date=中的日期值 (帮助)
+Crombie, A. C., Robert Grosseteste and the Origins of Experimental Science, 1100–1700, Clarendon Press, Oxford University, 1971 
+Dr. Al Deek, Mahmoud, Ibn Al-Haitham: Master of Optics, Mathematics, Physics and Medicine, Al Shindagah, 2004, (November–December 2004) 
+Dessel, Norman F.; Nehrich, Richard B.; Glenn I., Voran, Science and Human Destiny, McGraw-Hill, 1973, ISBN 0-07-016580-7, OCLC 409664 
+Duhem, Pierre, To Save the Phenomena: An Essay on the Idea of Physical theory from Plato to Galileo, University of Chicago Press, Chicago, 1908, 1969, ISBN 0-226-16921-9, OCLC 12429405  请检查|date=中的日期值 (帮助)
+Eder, Michelle, Views of Euclid's Parallel Postulate in Ancient Greece and in Medieval Islam, Rutgers University, 2000 [2008-01-23] 
+Elliott, Robert Stratman, Electromagnetics, New York: McGraw-Hill, 1966 
+Falco, Charles M., Ibn al-Haytham and the Origins of Modern Image Analysis (PDF), Sharjah, United Arab Emirates (U.A.E.): presented at a plenary session at the International Conference on Information Sciences, Signal Processing and its Applications, 12–15 February 2007 [2008-01-23] [失效链接]
+Faruqi, Yasmeen M., Contributions of Islamic scholars to the scientific enterprise, International Education Journal, 2006, 7 (4): 391–396 
+Gondhalekar, Prabhakar M., The Grip of Gravity: The Quest to Understand the Laws of Motion and Gravitation, Cambridge University Press, 2001, ISBN 0-521-80316-0, OCLC 224074913 45418963 
+Grant, Edward, A source book in medieval science, Volume One, Cambridge MA: Harvard University Press, 1974 
+Grant, Edward, Alhazen, [[Encarta]] Online Encyclopedia, Microsoft, 2008 [2008-09-16]  网址－维基内链冲突 (帮助)
+Hamarneh, Sami, Review: Hakim Mohammed Said, Ibn al-Haitham, Isis, 1972, 63 (1): 118–119, doi:10.1086/350861 
+Hassan, Ahmad Y., Al-Jazari And the History of the Water Clock, 2007 [2008-01-23] 
+Hatfield, Gary, Was the Scientific Revolution Really a Revolution in Science?, (编) Ragep, F. J.; Ragep, Sally P.; Livesey, Steven John, Tradition, Transmission, Transformation: Proceedings of Two Conferences on Pre-modern Science held at the University of Oklahoma, Brill Publishers, 1996, ISBN 90-04-09126-2, OCLC 19740432 234073624 234096934 
+Heeffer, Albrecht, Kepler’s near discovery of the sine law: A qualitative computational model, Third International workshop: Computer models of scientific reasoning and applications (PDF), Buenos Aires: National Library of the Argentine Republic, September 14–15, 2003 [2008-01-23] 
+Hershenson, Maurice, The Moon Illusion, Lawrence Erlbaum Associates, 1989 [2008-09-22], ISBN 0-8058-0121-9, OCLC 20091171 231045807 
+Highfield, Roger, Don solves the last puzzle left by ancient Greeks, The Daily Telegraph, 1 April 1997, 676 [2008-09-24] 
+Hockney, David, Secret Knowledge: Rediscovering the Lost Techniques of the Old Masters, 2006, ISBN 0-14-200512-6  (New and Expanded Edition). 328 pages. index. list of illustrations. bibliography. 'textual evidence' section cites Alhazen 240, 242, 277, 279, 284. Entire book records Hockney's investigation of the camera obscura and his rediscovery of its use in portraiture.
+Hodgson, Peter Edward, Theology And Modern Physics, Burlington, VT: Ashgate Publishing, 2006 (2006-01-15), ISBN 978-0-7546-3622-9, OCLC 56876894, DDC: 201.653, LCC: BL265.P4 H63 2005 
+Howard, Ian P., Alhazen's neglected discoveries of visual phenomena, Perception, 1996, 25 (10): 1203–1217, PMID 9027923, doi:10.1068/p251203 
+Howard, Ian P.; Wade, Nicholas J., Ptolemy's contributions to the geometry of binocular vision, Perception, 1996, 25 (10): 1189–201, PMID 9027922, doi:10.1068/p251189 
+Katz, Victor J., Ideas of Calculus in Islam and India, Mathematics Magazine, 1995, 68 (3): 163–174, doi:10.2307/2691411 
+Katz, Victor J., History of Mathematics: An Introduction, Addison-Wesley, 1998, ISBN 0-321-01618-1, OCLC 38199387 60154481 
+Kelley, David H.; Milone, E. F.; Aveni, A. F., Exploring Ancient Skies: An Encyclopedic Survey of Archaeoastronomy, Birkhäuser, 2005, ISBN 0-387-95310-8, OCLC 213887290 
+Khaleefa, Omar, Who Is the Founder of Psychophysics and Experimental Psychology?, American Journal of Islamic Social Sciences, 1999, 16 (2) 
+Langerman, Y. Tzvi, Ibn al Haytham's On the Configuration of the World, 1990 
+Lindberg, David C., Alhazen's Theory of Vision and Its Reception in the West, Isis, 1967, 58 (3): 321–341, PMID 4867472, doi:10.1086/350266 
+Lindberg, David C., Theories of Vision from al-Kindi to Kepler, University of Chicago Press, Chicago, 1976, ISBN 0-226-48234-0, OCLC 1676198 185636643 
+Lindberg, David C., Roger Bacon and the Origins of Perspectiva in the Middle Ages, Clarendon Press, 1996 
+Lorch, Richard, Ibn al-Haytham, [[Encyclopædia Britannica]], 2008 [2008-08-06]  网址－维基内链冲突 (帮助)
+MacKay, R. J.; Oldford, R. W., Scientific Method, Statistical Method and the Speed of Light, Statistical Science, August 2000, 15 (3): 254–78, doi:10.1214/ss/1009212817 
+Marshall, O. S., Alhazen and the Telescope, Astronomical Society of the Pacific Leaflets, 1950, 6: 4 
+Mihas, Pavlos, Use of History in Developing ideas of refraction, lenses and rainbow, Eighth International History, Philosophy, Sociology & Science Teaching Conference (PDF), University of Leeds, July 15–18, 2005 [2008-01-23], （原始内容 (PDF)存档于2007-09-27） 
+Mohamed, Mohaini, Great Muslim Mathematicians, Penerbit UTM, 2000, ISBN 983-52-0157-9, OCLC 48759017 
+Montada, Josep Puig, Ibn Bajja, [[Stanford Encyclopedia of Philosophy]], September 28, 2007 [2008-07-11]  网址－维基内链冲突 (帮助)
+Morelon, Régis; Rashed, Roshdi, Encyclopedia of the History of Arabic Science 2, Routledge, 1996, ISBN 0-415-12410-7, OCLC 34731151 
+Murphy, Dan, No more 'Saddams': Iraqis get new currency, The Christian Science Monitor, 2003-10-17 [2008-09-21] 
+Nasr, Seyyed Hossein, The achievements of Ibn Sina in the field of science and his contributions to its philosophy, Islam & Science, 2003, (December 2003) 
+O'Connor, J. J.; Robertson, E. F., Abu Ali al-Hasan ibn al-Haytham, November 1999 [2008-09-20] 
+O'Connor, J. J.; Robertson, E. F., Light through the ages: Ancient Greece to Maxwell, August 2002 [2008-09-20] 
+Omar, Saleh Beshara, Ibn al-Haytham's Optics: A Study of the Origins of Experimental Science, Minneapolis: Bibliotheca Islamica, 1977, ISBN 0-88297-015-1, OCLC 3328963 
+Pines, Shlomo, Studies in Arabic Versions of Greek Texts and in Mediaeval Science, Brill Publishers, 1986, ISBN 965-223-626-8, OCLC 14217211 165468475 46823952 60041227 
+Plott, C., Global History of Philosophy: The Period of Scholasticism, Motilal Banarsidass, 2000, ISBN 81-208-0551-8 
+Powers, Richard, Best Idea; Eyes Wide Open, [[The New York Times]] (PDF), April 18, 1999 [2008-01-23], （原始内容 (PDF)存档于2008年2月29日）  网址－维基内链冲突 (帮助)
+Qadir, Asghar, Relativity: An Introduction to the Special Theory, World Scientific Publishing Co., Singapore, 1989 
+Qadir, C. A., Philosophy and Science in the lslamic World, London: Routledge, 1990 
+Rashed, Roshdi, A Polymath in the 10th century, Science, August 2002a, 297 (5582): 773, ISSN 0036-8075, PMID 12161634, doi:10.1126/science.1074591 
+Rashed, Roshdi, PORTRAITS OF SCIENCE: A Polymath in the 10th Century, Science (Science magazine), 2002-08-02, 297 (5582): 773 [2008-09-16], ISSN 0036-8075, PMID 12161634, doi:10.1126/science.1074591 
+Rashed, Roshdi, The Celestial Kinematics of Ibn al-Haytham, Arabic Sciences and Philosophy (Cambridge University Press), 2007, 17: 7–55, doi:10.1017/S0957423907000355 
+Rosen, Edward, The Dissolution of the Solid Celestial Spheres, Journal of the History of Ideas, 1 January 1985, 46 (1): 13–31, ISSN 0022-5037, doi:10.2307/2709773 
+Rottman, J., A first course in Abstract Algebra, Prentice Hall, February 28, 2000, ISBN 0-13-011584-3, OCLC 42960682 59576116 
+Rozenfeld, Boris A., A History of Non-Euclidean Geometry: Evolution of the Concept of a Geometric Space, Springer Science+Business Media, 1988, ISBN 0-387-96458-4, OCLC 15550634 230166667 230980046 77693662 
+Rozenfeld, Boris Abramovich; Youschkevitch, Adolf P., Geometry, (编) Rashed, Roshdi, Encyclopedia of the History of Arabic Science 2, London & New York: Routledge: 447–494, 1996 
+Saad, Bashar; Azaizeh, Hassan; Said, Omar, Tradition and Perspectives of Arab Herbal Medicine: A Review, Evidence-based Complementary and Alternative Medicine (Oxford University Press), October 2005, 2 (4): 475–479, PMC 1297506, PMID 16322804, doi:10.1093/ecam/neh133 
+Sabra, A. I., The astronomical origin of Ibn al-Haytham’s concept of experiment, Actes du XIIe congrès international d’histoire des sciences (Albert Blanchard, Paris), 1971, 3: 133–136 . Reprinted in Sabra, A. I., Optics, Astronomy and Logic: Studies in Arabic Science and Philosophy, Collected Studies Series 444, Variorum, Aldershot, 1994, ISBN 0-86078-435-5, OCLC 29847104 30739740 .
+Sabra, A. I., Ibn al-Haytham and the Visual Ray Hypothesis, (编) Nasr, Seyyed Hossein, Ismaili Contributions to Islamic Culture, Boston: Shambhala Publications: 178–216, 1978a, ISBN 0-87773-731-2 
+Sabra, A. I., An Eleventh-Century Refutation of Ptolemy's Planetary Theory, (编) Hilfstein, Erna; Czartoryski, Paweł; Grande, Frank D., Science and History: Studies in Honor of Edward Rosen, Studia Copernicana XVI, Ossolineum, Wrocław: 117–131, 1978b 
+Sabra, A. I., Theories of Light from Descartes to Newton, Cambridge University Press, 1981 
+Sabra, A. I., Configuring the Universe: Aporetic, Problem Solving, and Kinematic Modeling as Themes of Arabic Astronomy, Perspectives on Science, 1998, 6 (3): 288–330 
+Sabra, A. I., Ibn al-Haytham: Brief life of an Arab mathematician, [[Harvard Magazine]], October–December 2003 [2008-01-23], （原始内容存档于2007-09-27）  网址－维基内链冲突 (帮助)
+Sabra, A. I.; Hogendijk, J. P., The Enterprise of Science in Islam: New Perspectives, MIT Press, 2003, ISBN 0-262-19482-1, OCLC 237875424 50252039 
+Saliba, George, A History of Arabic Astronomy: Planetary Theories During the Golden Age of Islam, New York University Press, 1994, ISBN 0-8147-8023-7, OCLC 35666761 
+Salih, H.; Al-Amri, M.; El Gomati, M., The Miracle of Light, A World of Science (UNESCO), 2005, 3 (3) 
+Samuelson, James; Crookes, William, The Journal of Science, and Annals of Astronomy, Biology, Geology 
+Sardar, Ziauddin, Science in Islamic philosophy, Islamic Philosophy, Routledge Encyclopedia of Philosophy, 1998 [2008-02-03] 
+Sarton, George, Introduction To The History of Science, Volume I: From Homer To Omar Khayyam, Baltimore, Maryland: Carnegie Institution for Science, 1927 
+Van Sertima, Ivan, Golden Age Of The Moor, Transaction Publishers, 2004, ISBN 1-56000-581-5, OCLC 123168739 25416243 29837541 44748929 50901951 56571741 57559516 
+Smith, A. Mark, Alhacen's theory of visual perception: a critical edition, with English translation and commentary, of the first three books of Alhacen's De aspectibus, the medieval Latin version of Ibn al-Haytham's Kitab al-Manazir, Transactions of the American Philosophical Society, 91-4, 91-5, Philadelphia: American Philosophical Society & DIANE Publishing, 2001, ISBN 978-0-87169-914-5, OCLC 163278528 163278565 185537919 47168716 
+Smith, A. Mark, The Alhacenian Account Of Spatial Perception And Its Epistemological Implications, Arabic Sciences and Philosophy (Cambridge University Press), 2005, 15, doi:10.1017/S0957423905000184 
+Smith, John D., The Remarkable Ibn al-Haytham, The Mathematical Gazette (Mathematical Association), 1 March 1992, 76 (475): 189–198, ISSN 0025-5572, doi:10.2307/3620392 
+Thiele, Rüdiger, In Memoriam: Matthias Schramm, Arabic Sciences and Philosophy (Cambridge University Press), 2005, 15: 329–331, doi:10.1017/S0957423905000214 
+Toomer, G. J., Review: Ibn al-Haythams Weg zur Physik by Matthias Schramm, Isis, December 1964, 55 (4): 463–465, doi:10.1086/349914 
+Topdemir, Hüseyin Gazi, Takîyüddîn'in Optik Kitabi, Ankara: Ministry of Culture Press, 1999 
+Topdemir, Hüseyin Gazi, Kamal Al-Din Al-Farisi’s Explanation of the Rainbow (PDF), Humanity & Social Sciences Journal, 2007a, 2 (1): 75–85 [2008-09-16] 
+Topdemir, Huseyin Gazi, Ibn al-Haytham (965-1039) His Life and Works, July 18, 2007  引文格式1维护：日期与年 (link)
+Topdemir, Hüseyin Gazi, Taqi al-Din ibn Ma‘ruf and the Science of Optics: The Nature of Light and the Mechanism of Vision, FSTC Limited, 30 June 2008 [2008-07-04] 
+Verma, R. L., Al-Hazen: father of modern optics, Al-Arabi, August 1969, 8: 12–3, PMID 11634474 
+Vernet, J., Ibn al- Hayt̲h̲am, Abū ʿalī al-Ḥasan b. al-Ḥasan (or Ḥusayn) b. al-Hayt̲h̲am al-Baṣrī al-Miṣrī, (编) Bearman, P.; Bianquis, Th.; Bosworth, C. E.; van Donzel, E.; Heinrichs, W. P., [[Encyclopaedia of Islam]], Brill Online: Brill Publishers, 4 April 2008 [2008-09-16]  网址－维基内链冲突 (帮助)
+Wade, Nicholas J., A Natural History of Vision, Cambridge, MA: MIT Press, 1998 
+Wade, Nicholas J.; Finger, Stanley, The eye as an optical instrument: from camera obscura to Helmholtz's perspective, Perception, 2001, 30 (10): 1157–1177, PMID 11721819, doi:10.1068/p3210 
+Weisstein, Eric, Alhazen's Billiard Problem, Mathworld, [2008-09-24] 
+Whitaker, Brian, Centuries in the House of Wisdom, The Guardian, 2004-09-23 [2008-09-16] 
+
+
+扩展阅读[编辑]
+主要文献[编辑]
+
+Sabra, A. I., ed., The Optics of Ibn al-Haytham, Books I-II-III: On Direct Vision. The Arabic text, edited and with Introduction, Arabic-Latin Glossaries and Concordance Tables, Kuwait: National Council for Culture, Arts and Letters, 1983 
+Sabra, A. I., ed., The Optics of Ibn al-Haytham. Edition of the Arabic Text of Books IV-V: On Reflection and Images Seen by Reflection. 2 vols, Kuwait: The National Council for Culture, Arts and Letters, 2002 
+Sabra, A. I., trans., The Optics of Ibn al-Haytham. Books I-II-III: On Direct Vision. English Translation and Commentary. 2 vols, Studies of the Warburg Institute, vol. 40, London: The Warburg Institute, University of London, 1989, ISBN 0-85481-072-2, OCLC 165564751 165564771 180528350 180528355 180528359 21530166 230045836 24910015 59836570 
+Smith, A. Mark, ed. and trans., 写于Philadelphia, Alhacen's Theory of Visual Perception: A Critical Edition, with English Translation and Commentary, of the First Three Books of Alhacen's De aspectibus, the Medieval Latin Version of Ibn al-Haytham's Kitāb al-Manāzir, 2 vols., Transactions of the American Philosophical Society (Philadelphia: American Philosophical Society), 2001, 91 (4-5), ISBN 0-87169-914-1, OCLC 47168716 
+Smith, A. Mark, ed. and trans., Alhacen on the Principles of Reflection: A Critical Edition, with English Translation and Commentary, of Books 4 and 5 of Alhacen's De Aspectibus, the Medieval Latin version of Ibn-al-Haytham's Kitāb al-Manāzir, 2 vols, Transactions of the American Philosophical Society (Philadelphia: American Philosophical Soc.), 2006, 96 (2–3), ISBN 0-87169-962-1, OCLC 123464885 185359947 185359957 219328717 219328739 70078653 
+
+其他文献[编辑]
+
+Graham, Mark. How Islam Created the Modern World. Amana Publications, 2006.
+Omar, Saleh Beshara, Ibn al-Haytham and Greek optics: a comparative study in scientific methodology, PhD Dissertation, University of Chicago, Department of Near Eastern Languages and Civilizations, June 1975 
+Saliba, George, Islamic Science and the Making of the European Reneissance, MIT Press, 2007, ISBN 0-262-19557-7 
+Belting, Hans, Afterthoughts on Alhazen’s Visual Theory and Its Presence in the Pictorial Theory of Western Perspective, in: Variantology 4. On Deep Time Relations of Arts, Sciences and Technologies In the Arabic-Islamic World and Beyond, ed. by Siegfried Zielinski and Eckhard Fürlus in cooperation with Daniel Irrgang and Franziska Latell (Cologne: Verlag der Buchhandlung Walther König, 2010), pp. 19–42. [1]
+Siegfried Zielinski & Franziska Latell, How One Sees, in: Variantology 4. On Deep Time Relations of Arts, Sciences and Technologies In the Arabic-Islamic World and Beyond, ed. by Siegfried Zielinski and Eckhard Fürlus in cooperation with Daniel Irrgang and Franziska Latell (Cologne: Verlag der Buchhandlung Walther König, 2010), pp. 19–42. [2]
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+光学
+
+
+
+
+
+
+
+视觉 · 仪器 · 历史
+
+
+
+
+
+
+几何光学
+
+
+
+反射
+折射
+菲涅耳方程
+斯涅尔定律
+费马原理
+马吕斯定理
+透镜
+实像
+虚像
+像差
+像散
+色差
+
+
+
+
+
+
+
+
+物理光学
+
+
+
+
+
+
+
+干涉
+衍射
+散射
+双缝干涉
+迈克耳孙干涉仪
+马赫-曾德尔干涉仪
+法布里－珀罗干涉仪
+惠更斯－菲涅耳原理
+
+
+
+
+
+
+
+
+
+
+
+菲涅耳－基尔霍夫衍射公式
+夫琅禾费衍射
+菲涅耳衍射
+光栅
+瑞利散射
+米氏散射
+光的色散
+偏振
+傅里叶光学（英语：Fourier optics）
+
+
+
+
+
+
+
+
+
+
+
+现代光学
+
+
+
+激光
+光谱学
+量子光学
+非线性光学
+晶体光学（英语：Crystal optics）
+
+
+
+
+
+
+
+
+光学工程
+
+
+
+光子学
+光纤
+光通讯
+光学仪器
+显微镜
+望远镜
+
+
+
+
+
+
+
+
+自然光象
+
+
+
+晕
+幻日
+日柱
+火彩虹
+彩虹
+月虹
+华
+光环
+彩云
+海市蜃楼
+绿闪光
+环天顶弧
+草露宝光
+
+
+
+
+
+
+
+
+物理学者
+
+
+
+菲涅耳
+夫琅和费
+海什木
+惠更斯
+牛顿
+瑞利
+斯涅尔
+托马斯·杨
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+中世纪哲学
+
+
+
+
+
+
+伊斯兰教
+
+
+
+
+早期
+
+贾希兹（英语：Al-Jahiz） · 肯迪 · 伊本·拉瓦迪（英语：Ibn al-Rawandi） · 拉齐 · 法拉比 · 伊本·马萨拉（英语：Ibn Masarrah） · 艾尔·阿米利（英语：Al Amiri） · 伊本·米斯凯韦（英语：Ebn Meskavayh） · 海什木 · 比鲁尼 · “精诚兄弟会（英语：Brethren of Purity）”
+
+
+
+
+
+
+全盛
+
+伊本·西那 [阿维森纳] · 伊本·哈兹姆（英语：Ibn Hazm） · 安萨里 [加札利] · 阿布·巴拉卡特·巴格哈达迪（英语：Abu'l-Barakāt al-Baghdādī） · 伊本·巴哲 [阿芬巴塞] · 奎扎特·哈玛达尼（英语：Ayn-al-Quzat Hamadani） · 伊本·图法尔（英语：Ibn Tufail） · 伊本·鲁世德 [阿威罗伊]
+
+
+
+
+
+
+晚期
+
+伊本·萨宾（英语：Ibn Sab'in） · 沙哈伯·迪·苏瑞瓦尔迪（英语：Shahab al-Din Suhrawardi） · 法克哈尔·迪·拉辛（英语：Fakhr al-Din al-Razi） · 伊本·阿拉比 · 匝加利亚·卡兹维尼（英语：Zakariya al-Qazwini） · 拉提夫（英语：Abd al-Latif al-Baghdadi (medieval writer)） · 阿提尔·迪·阿布哈里（英语：Athīr al-Dīn al-Abharī） · 纳西尔丁·图西 · 伊本·纳斐斯（英语：Ibn al-Nafis） · 库特伯·迪·息拉辛 · 伊本·泰米伊哈 · 伊本·赫勒敦
+
+
+
+
+
+
+
+
+
+犹太教
+
+
+
+
+中世纪
+
+迈蒙尼德 · 拉施德丁 · 吉尔松尼德（英语：Gersonides） · 纳哈玛尼德
+
+
+
+
+
+
+
+
+
+基督教
+
+
+
+
+中世纪早期
+
+“教父时期”：希波的奥古斯丁 · 波爱修斯 · 圣依西多禄 · 爱留根纳 · 阿尔琴
+
+
+
+
+
+
+11～12世纪
+
+“经院哲学”：坎特伯雷的安瑟莫 · 皮埃尔·阿伯拉尔 · 拉昂的安瑟莫（英语：Anselm of Laon） · 圣维克托的休格 · 圣维克托的理查（英语：Richard of St. Victor） · 罗塞林 · 伯多禄·隆巴迪 · 亚历山大的亚勒斯（英语：Alexander of Hales） · 沙特尔的伯尔纳铎（英语：Bernard of Chartres） · 多明我·冈迪萨林（英语：Dominicus Gundissalinus） · 普瓦捷的吉尔伯特（英语：Gilbert de la Porrée） · 里尔的亚兰因（英语：Alain de Lille）
+
+
+
+
+
+
+13～14世纪
+
+罗伯特·格罗斯泰斯特 · 艾尔伯图斯·麦格努斯 [大阿尔伯特] · 文德 · 托马斯·阿奎那 · 达契亚的波提乌斯（英语：Boetius of Dacia） · 根特的亨利（英语：Henry of Ghent） · 罗吉尔·培根 · 若望·伯克汉姆（英语：John Peckham） · 拉蒙·柳利 · 伯多禄·奥勒鲁斯（英语：Petrus Aureolus） · 皮埃罗·马里库尔（英语：Pierre de Maricourt） · 杜兰杜斯（英语：Durandus of Saint-Pourçain） · 罗马的吉尔斯（英语：Giles of Rome） · 芳登的古德斐尔（英语：Godfrey of Fontaines） · 邓斯·司各脱 [董思高] · 奥卡姆的威廉
+
+
+
+
+
+
+中世纪晚期
+
+让·布里丹 · 尼克尔·奥里斯姆 · 萨克逊的亚伯特（英语：Albert of Saxony (philosopher)） · 方济·爱希蒙（英语：Francesc Eiximenis） · 味增爵·斐勒略（英语：Vincent Ferrer） · 威尼斯的保禄（英语：Paul of Venice） · 兰伯特·德·蒙特（英语：Lambertus de Monte） · 若望·恩农（英语：John Hennon） · 格弥斯托士·卜列东 · 贝萨里翁 · 弗朗西斯科·维多利亚
+
+
+
+
+
+
+
+
+
+
+参见文艺复兴时期哲学（英语：Renaissance philosophy）
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 90038995
+LCCN: n81027793
+ISNI: 0000 0001 1774 221X
+GND: 118648160
+SELIBR: 34961
+SUDOC: 08612756X
+BNF: cb12028218d（数据）
+NKC: xx0083904
+BNE: XX824608
+
+
+
+
+
+
+
+
+
+
+
+
+分类：阿拉伯人亚洲纸币上的人物隐藏分类：有参考文献错误的页面带有失效链接的条目条目有永久失效的外部链接调用重复模板参数的页面需要从英语维基百科翻译的条目含有hCards的条目本地相关图片与维基数据相同使用未知科学家信息框参数的页面引文格式1错误：日期引文格式1错误：网址－维基内链冲突引文格式1维护：日期与年包含规范控制信息的维基百科条目

@@ -1,0 +1,488 @@
+Sense and reference
+"Sinn" redirects here. For the watchmaker, see Sinn (watchmaker). For the river in Germany, see Sinn (river).
+
+
+
+
+Die Gleichheit fordert das Nachdenken heraus durch Fragen, die sich daran knüpfen und nicht ganz leicht zu beantworten sind. Equality gives rise to challenging questions which are not altogether easy to answer
+
+
+In the philosophy of language, the distinction between sense and reference was an innovation of the German philosopher and mathematician Gottlob Frege in 1892 (in his paper "On Sense and Reference"; German: "Über Sinn und Bedeutung"),[1] reflecting the two ways he believed a singular term may have meaning.
+The reference (or "referent"; Bedeutung) of a proper name is the object it means or indicates (bedeuten), its sense (Sinn) is what the name expresses. The reference of a sentence is its truth value, its sense is the thought that it expresses.[1] Frege justified the distinction in a number of ways.
+
+Sense is something possessed by a name, whether or not it has a reference. For example, the name "Odysseus" is intelligible, and therefore has a sense, even though there is no individual object (its reference) to which the name corresponds.
+The sense of different names is different, even when their reference is the same. Frege argued that if an identity statement such as "Hesperus is the same planet as Phosphorus" is to be informative, the proper names flanking the identity sign must have a different meaning or sense. But clearly, if the statement is true, they must have the same reference.[2] The sense is a 'mode of presentation', which serves to illuminate only a single aspect of the referent.[3]
+
+Much of analytic philosophy is traceable to Frege's philosophy of language.[4] Frege's views on logic (i.e., his idea that some parts of speech are complete by themselves, and are analogous to the arguments of a mathematical function) led to his views about what we now call theory of reference.[4]
+
+
+
+Contents
+
+
+1 Background
+2 Sense
+3 Sense and description
+4 Translation of Bedeutung
+5 Precursors
+
+5.1 Antisthenes
+5.2 John Stuart Mill
+
+
+6 See also
+7 Footnotes
+
+
+
+Background[edit]
+Frege developed his original theory of meaning in early works like Begriffsschrift ('concept script') of 1879 and Grundlagen ('foundations of arithmetic') of 1884. On this theory, the meaning of a complete sentence consists in its being true or false,[5] and the meaning of each significant expression in the sentence is an extralinguistic entity which Frege called its Bedeutung, literally 'meaning' or 'significance', but rendered by Frege's translators as 'reference', 'referent', 'Meaning', 'nominatum', etc. Frege supposed that some parts of speech are complete by themselves, and are analogous to the arguments of a mathematical function, but that other parts are incomplete, and contain an empty place, by analogy with the function itself.[6] Thus 'Caesar conquered Gaul' divides into the complete term 'Caesar', whose reference is Caesar himself, and the incomplete term '—conquered Gaul', whose reference is a Concept. Only when the empty place is filled by a proper name does the reference of the completed sentence – its truth value – appear. This early theory of meaning explains how the significance or reference of a sentence (its truth value) depends on the significance or reference of its parts.
+Sense[edit]
+
+
+
+
+Hesperus
+
+
+
+
+
+
+Phosphorus
+
+
+Frege introduced the notion of Sense (German: Sinn) to accommodate difficulties in his early theory of meaning.
+First, if the entire significance of a sentence consists in its truth value, it follows that the sentence will have the same significance if we replace a word of the sentence with one having an identical reference, for this will not change the truth value of the sentence.[7] The reference of the whole is determined by the reference of the parts. If 'the evening star' has the same reference as 'the morning star', it follows that 'the evening star is a body illuminated by the Sun' has the same truth value as 'the morning star is a body illuminated by the Sun'. But someone may think that the first sentence is true, but the second is false, and so the thought corresponding to the sentence cannot be its reference, but something else, which Frege called its sense.
+Second, sentences which contain proper names that have no reference cannot have a truth value at all. Yet the sentence 'Odysseus was set ashore at Ithaca while sound asleep' obviously has a sense, even though 'Odysseus' has no reference. The thought remains the same whether or not 'Odysseus' has a reference.[8] Furthermore, a thought cannot contain the objects which it is about. For example, Mont Blanc, 'with its snowfields', cannot be a component of the thought that Mont Blanc is more than 4,000 metres high. Nor can a thought about Etna contain lumps of solidified lava.[9]
+Frege's notion of sense is somewhat obscure, and neo-Fregeans have come up with different candidates for its role.[10] Accounts based on the work of Carnap[11] and Church[12] treat sense as an intension, or a function from possible worlds to extensions. For example, the intension of ‘number of planets’ is a function that maps any possible world to the number of planets in that world. John McDowell supplies cognitive and reference-determining roles.[13] Devitt[14] treats senses as causal-historical chains connecting names to referents.
+Sense and description[edit]
+In his theory of descriptions, Bertrand Russell held the view that most proper names in ordinary language are in fact disguised definite descriptions. For example, 'Aristotle' can be understood as "The pupil of Plato and teacher of Alexander," or by some other uniquely applying description. This is known as the descriptivist theory of names. Because Frege used definite descriptions in many of his examples, he is often taken to have endorsed the descriptivist theory. Thus Russell's theory of descriptions was conflated with Frege's theory of sense, and for most of the twentieth century this 'Frege-Russell' view was the orthodox view of proper name semantics. However, Saul Kripke argued compellingly against the descriptivist theory. According to Kripke,[15] proper names are rigid designators which designate the same object in every possible world. Descriptions such as 'the President of the U.S. in 1970' do not designate the same in every possible world. For example, someone other than Richard Nixon, e.g. Hubert Humphrey, might have been the President in 1970. Hence a description (or cluster of descriptions) cannot be a rigid designator, and thus a proper name cannot mean the same as a description.[16]
+However, the Russellian descriptivist reading of Frege has been rejected by many scholars, in particular by Gareth Evans in The Varieties of Reference[17] and by John McDowell in "The Sense and Reference of a Proper Name,"[18] following Michael Dummett, who argued that Frege's notion of sense should not be equated with a description. Evans further developed this line, arguing that a sense without a referent was not possible. He and McDowell both take the line that Frege's discussion of empty names, and of the idea of sense without reference, are inconsistent, and that his apparent endorsement of descriptivism rests only on a small number of imprecise and perhaps offhand remarks. And both point to the power that the sense-reference distinction does have (i.e., to solve at least the first two problems), even if it is not given a descriptivist reading.
+Translation of Bedeutung[edit]
+As noted above, translators of Frege have rendered the German Bedeutung in various ways. The term 'reference' has been the most widely adopted, but this fails to capture the meaning of the original German ('meaning' or 'significance'), and does not reflect the decision to standardise key terms across different editions of Frege's works published by Blackwell.[19] The decision was based on the principle of exegetical neutrality, namely that 'if at any point in a text there is a passage that raises for the native speaker legitimate questions of exegesis, then, if at all possible, a translator should strive to confront the reader of his version with the same questions of exegesis and not produce a version which in his mind resolves those questions'.[20] The term 'meaning' best captures the standard German meaning of Bedeutung, and Frege's own use of the term sounds as odd when translated into English as it does in German. Moreover, 'meaning' captures Frege's early use of Bedeutung well,[21] and it would be problematic to translate Frege's early use as 'meaning' and his later use as 'reference', suggesting a change in terminology not evident in the original German.
+Precursors[edit]
+Antisthenes[edit]
+The Greek philosopher Antisthenes, a pupil of Socrates, apparently distinguished "a general object that can be aligned with the meaning of the utterance” from “a particular object of extensional reference." This "suggests that he makes a distinction between sense and reference."[22] The principal basis of this claim is a quotation in Alexander of Aphrodisias's “Comments on Aristotle's 'Topics'” with a three-way distinction:
+
+the semantic medium, δι' ὧν λέγουσι
+an object external to the semantic medium, περὶ οὗ λέγουσιν
+the direct indication of a thing, σημαίνειν … τὸ …[23]
+
+John Stuart Mill[edit]
+The sense-reference distinction is commonly confused with that between connotation and denotation, which originates with John Stuart Mill.[24] According to Mill, a common term like 'white' denotes all white things, as snow, paper. But according to Frege, a common term does not refer to any individual white thing, but rather to an abstract Concept (Begriff). We must distinguish between the relation of reference, which holds between a proper name and the object it refers to, such as between the name 'Earth', and the planet Earth, and the relation of 'falling under', such as when the Earth falls under the concept planet. The relation of a proper name to the object it designates is direct, whereas a word like 'planet' has no such direct relation at all to the Earth at all, but only to a concept that the Earth falls under. Moreover, judging of anything that it falls under this concept is not in any way part of our knowledge of what the word 'planet' means.[25] The distinction between connotation and denotation is closer to that between Concept and Object, than to that between 'sense' and 'reference'.
+See also[edit]
+
+
+
+Wikisource has original text related to this article:
+On Sense and Reference
+
+
+
+
+Descriptivist theory of names
+Definite description
+Frege's puzzles
+Mediated reference theory
+Theories of language
+Use–mention distinction
+
+Footnotes[edit]
+
+
+^ a b "On Sense and Reference" ["Über Sinn und Bedeutung"], Zeitschrift für Philosophie und philosophische Kritik, vol. 100 (1892), pp. 25–50, esp. p. 31.[non-primary source needed]
+^ "On Sense and Reference", p. 25
+^ "On Sense and Reference", p. 27
+^ a b Jeff Speaks, "Frege's theory of reference" (2011)
+^ Gareth Evans, The Varieties of Reference, Oxford: Clarendon 1982, p. 8
+^ "Function and Concept", p. 16.
+^ "On Sense and Reference", p. 32
+^ "On Sense and Reference", p. 32
+^ See Frege's undated letter to Philip Jourdain, published in Frege's Philosophical and Mathematical Correspondence, ed. Gottfried Gabriel, Hans Hermes, Friedrich Kanbartel, Christian Thiel and Albet Veraart, transl. Hans Kaal, Oxford: Blackwell 1980. (See also Frege's letter to Russell dated 1904, in the same collection.)
+^ Sam Cumming, Names, Stanford Encyclopedia of Philosophy 2013
+^ Meaning and Necessity, Chicago: University of Chicago Press, 1947.
+^ “A Formulation of the Logic of Sense and Denotation”, in P. Henle, M. Kallen, and S. K. Langer, eds., Structure, Method, and Meaning, New York: Liberal Arts Press, 1951
+^ “On the Sense and Reference of a Proper Name”, Mind, 86: 159–85, 1977.
+^ Designation, New York: Columbia University Press, 1981.
+^ Naming and Necessity, Cambridge, MA: Harvard University Press, 1980, 48-9
+^ Naming and Necessity p.57
+^ Evans, Gareth (1982). John McDowell, ed. The Varieties of Reference. Oxford: Oxford University Press. 
+^ McDowell, John (April 1977). "On the Sense and Reference of a Proper Name". Mind. New Series. 86 (342). 
+^ According to Beaney (The Frege Reader, Oxford: Blackwell 1997, p. 36) 'the decision was taken at a meeting in the early 1970s attended by Michael Dummett, Peter Geach, William Kneale, Roger White and a representative from Blackwell. The translation of Bedeutung by 'meaning' was unanimously agreed after lengthy discussion'.
+^ Long, P. and White, A., 'On the Translation of Frege's Bedeutung: A Reply to Dr. Bell', Analysis 40 pp. 196-202, 1980, p. 196. See also Bell, D., "On the Translation of Frege's Bedeutung", Analysis Vol. 40, No. 4 (Oct., 1980), pp. 191-195.
+^ Beaney, p. 37
+^ Prince, Susan (2015). Antisthenes of Athens: Texts, Translations, and Commentary. University of Michigan Press.  p. 20
+^ Prince 2015, pp. 518–522 (Antisthenes' literary remains: t. 153B.1).
+^ See section §5 of book I, chapter i of Mill's A System of Logic
+^ Frege, "A critical elucidation of some points in E. Schroeder's Vorlesungen Ueber Die Algebra der Logik, Archiv fur systematische Philosophie 1895, pp. 433-456, transl. Geach, in Geach & Black 86-106.[non-primary source needed]
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of language
+
+
+
+Philosophers
+
+
+
+Plato (Cratylus)
+Gorgias
+Confucius
+Xunzi
+Aristotle
+Stoics
+Pyrrhonists
+Scholasticism
+Ibn Rushd
+Ibn Khaldun
+Thomas Hobbes
+Gottfried Wilhelm Leibniz
+Johann Herder
+Ludwig Noiré
+Wilhelm von Humboldt
+Fritz Mauthner
+Paul Ricœur
+Ferdinand de Saussure
+Gottlob Frege
+Franz Boas
+Paul Tillich
+Edward Sapir
+Leonard Bloomfield
+Zhuangzi
+Henri Bergson
+Lev Vygotsky
+Ludwig Wittgenstein
+
+Philosophical Investigations
+Tractatus Logico-Philosophicus
+
+
+Bertrand Russell
+Rudolf Carnap
+Jacques Derrida
+
+Of Grammatology
+Limited Inc
+
+
+Benjamin Lee Whorf
+Gustav Bergmann
+J. L. Austin
+Noam Chomsky
+Hans-Georg Gadamer
+Saul Kripke
+A. J. Ayer
+G. E. M. Anscombe
+Jaakko Hintikka
+Michael Dummett
+Donald Davidson
+Roger Gibson
+Paul Grice
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Hilary Putnam
+David Lewis
+John Searle
+Joxe Azurmendi
+Scott Soames
+Stephen Yablo
+John Hawthorne
+Stephen Neale
+Paul Watzlawick
+
+
+
+
+
+Theories
+
+
+
+Causal theory of reference
+Contrast theory of meaning
+Contrastivism
+Conventionalism
+Cratylism
+Deconstruction
+Descriptivist theory of names
+Direct reference theory
+Dramatism
+Expressivism
+Linguistic determinism
+Logical atomism
+Logical positivism
+Mediated reference theory
+Nominalism
+Non-cognitivism
+Phallogocentrism
+Quietism
+Relevance theory
+Semantic externalism
+Semantic holism
+Structuralism
+Supposition theory
+Symbiosism
+Theological noncognitivism
+Theory of descriptions
+Verification theory
+
+
+
+
+
+Concepts
+
+
+
+Ambiguity
+Linguistic relativity
+Meaning
+Language
+Truth-bearer
+Proposition
+Use–mention distinction
+Concept
+Categories
+Set
+Class
+Intension
+Logical form
+Metalanguage
+Mental representation
+Principle of compositionality
+Property
+Sign
+Sense and reference
+Speech act
+Symbol
+Entity
+Sentence
+Statement
+more...
+
+
+
+
+
+Related articles
+
+
+
+Analytic philosophy
+Philosophy of information
+Philosophical logic
+Linguistics
+Pragmatics
+Rhetoric
+Semantics
+Formal semantics
+Semiotics
+
+
+
+
+
+
+
+
+Category
+Task Force
+Discussion
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Analytic philosophy
+
+
+
+Philosophers
+
+
+
+J. L. Austin
+A. J. Ayer
+G. E. M. Anscombe
+Nick Bostrom
+Robert Brandom
+C. D. Broad
+Patricia Churchland
+David Chalmers
+Noam Chomsky
+James F. Conant
+Alice Crary
+Donald Davidson
+Daniel Dennett
+Cora Diamond
+Michael Dummett
+Paul Feyerabend
+Antony Flew
+Bas van Fraassen
+Gottlob Frege
+Jerry Fodor
+Philippa Foot
+Peter Geach
+Paul Grice
+Ian Hacking
+R. M. Hare
+Carl Gustav Hempel
+Peter van Inwagen
+Christine Korsgaard
+Saul Kripke
+Thomas Kuhn
+David Lewis
+Alasdair MacIntyre
+J. L. Mackie
+Norman Malcolm
+John McDowell
+G. E. Moore
+Ernest Nagel
+Thomas Nagel
+Robert Nozick
+Derek Parfit
+Alvin Plantinga
+Karl Popper
+Hilary Putnam
+W. V. O. Quine
+John Rawls
+Hans Reichenbach
+Richard Rorty
+Bertrand Russell
+Gilbert Ryle
+Moritz Schlick
+John Searle
+Wilfrid Sellars
+Peter Singer
+Richard Swinburne
+Charles Taylor
+Michael Walzer
+Bernard Williams
+Timothy Williamson
+Ludwig Wittgenstein
+
+
+
+
+
+Theories
+
+
+
+Actualism
+Analytical feminism
+Analytical Marxism
+Anti-realism
+Berlin Circle
+Descriptivist theory of names
+Emotivism
+Functional contextualism
+Linguistic turn
+Logical positivism
+Modal realism
+Model-dependent realism
+Neopragmatism
+Neurophilosophy
+Ordinary language philosophy
+Postanalytic philosophy
+Pragmatic theory of truth
+Verificationism
+Vienna Circle
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+Causal / Deductive / epistemic closure
+Concept
+Counterfactual
+Denotation / reference
+Definite description
+Factive
+Family resemblance
+Intuition
+Meaning (Proposition)
+Modality
+Natural kind / projectability
+Necessary–sufficient conditions
+Paradox of analysis
+Possible world
+Reduction
+Reflective equilibrium
+Rigid–flaccid designators
+Sense data
+Supervenience
+Thought experiment
+Truth function
+Truthmaker
+Truth-bearer
+Type–token distinction
+
+
+
+
+
+Related articles
+
+
+
+Aretaic turn
+Australian realism
+Communitarianism
+Ordinary language philosophy
+Philosophical logic
+Philosophy of language
+Philosophy of science
+Postanalytic philosophy
+
+
+
+
+
+
+
+
+ Index
+ Category
+
+
+
+
+
+
+
+
+
+
+Categories: Philosophy of languagePhilosophical logicConceptual distinctionsMeaning (philosophy of language)Hidden categories: All pages needing factual verificationWikipedia articles needing factual verification from December 2016

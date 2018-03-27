@@ -1,0 +1,309 @@
+本体语言
+
+
+
+
+
+本条目部分链接不符合格式手册规范。跨语言链接及章节标题等处的链接可能需要清理。（2015年12月12日） 
+请协助改善此条目。参见WP:LINKSTYLE、WP:MOSIW以了解细节。突出显示跨语言链接可以便于检查。 
+
+
+在计算机科学和人工智能领域，本体语言（ontology language、又称为本体论语言）是指用于构建本体的形式语言。此类语言允许对有关特定领域的知识加以编码，且常常还包括为处理这些知识提供支持的推理规则。本体语言通常为描述性语言（又称为表述型语言、说明性语言），几乎总是属于框架语言的泛化形式，且一般都基于一阶逻辑或描述逻辑。
+
+
+
+目录
+
+
+1 分类
+
+1.1 传统本体语言
+1.2 按语法分类
+
+1.2.1 标记本体语言
+
+
+1.3 按结构分类
+
+1.3.1 基于框架的本体语言
+1.3.2 基于描述逻辑的本体语言
+1.3.3 基于一阶逻辑的本体语言
+
+
+
+
+2 参考文献
+3 参见
+
+
+
+分类[编辑]
+
+
+
+
+本体之可视化展现形式示例：Mason-ontology。
+
+
+传统本体语言[编辑]
+
+CycL
+DOGMA（Developing Ontology-Grounded Methods and Applications，字面意思为“建立基于本体的方法和应用”）
+F-Logic（Frame Logic，框架逻辑，F-逻辑）
+KIF（Knowledge Interchange Format，知识交换格式）
+
+基于KIF的Ontolingua
+
+
+KL-ONE
+KM编程语言
+LOOM（本体论）
+OCML（Operational Conceptual Modelling Language，操作型概念建模语言）
+OKBC（Open Knowledge Base Connectivity，开放知识库连接）
+PLIB（Parts LIBrary，字面意思为“部件库“）
+RACER系统（推理机）
+
+按语法分类[编辑]
+标记本体语言[编辑]
+此类语言采用某种标记方案来编码知识，且最为常用的标记语言是XML。
+
+DAML+OIL
+OIL（本体语言）（Ontology Inference Layer或者Ontology Interchange Language，OIL，本体推理层或者本体交换语言）
+网络本体语言（OWL，Web Ontology Language）
+资源描述框架（RDF，Resource Description Framework）
+RDF模式
+SHOE（本体语言）
+
+按结构分类[编辑]
+基于框架的本体语言[编辑]
+F-Logic、OKBC和KM编程语言属于是完全或者部分基于框架的语言。
+基于描述逻辑的本体语言[编辑]
+描述逻辑提供了对于框架语言的一种扩展，但同时其变动幅度又没有大到跃迁至一阶逻辑以及支持任意的谓词。此类语言的例子包括KL-ONE、RACER系统和OWL。
+Gellish即是综合性本体语言的例子，同时又属于是基于描述逻辑的本体。除了别的之外，Gellish尤其区分下列关系类型之间的语义差别：
+
+概念（类）之间关系的关系类型
+个体之间关系的关系类型
+个体与类之间关系的关系类型
+
+同时，Gellish之中还包含用于表达查询以及交际意图的构造。
+基于一阶逻辑的本体语言[编辑]
+CycL和KIF（知识交换格式）属于是支持一阶逻辑表达式的语言，尤其是允许通用谓词（general predicates）。
+参考文献[编辑]
+
+
+
+Oscar Corcho, Asuncion Gomez-Perez, 本体形式化说明语言（Ontology Specification Languages）路线图 (2000)
+Enrico Franconi. 描述逻辑入门课程。意大利博尔札诺自由大学计算机科学院。
+
+
+参见[编辑]
+
+
+计算机科学主题
+语言主题
+
+
+
+
+人工语言
+
+形式语言
+
+
+本体
+
+本体工程
+
+
+形式化概念分析
+一阶逻辑
+描述逻辑
+知识表达
+晶格
+论域理论（domain theory）
+伽罗瓦连接
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+语义网
+
+
+
+
+
+
+背景
+
+
+
+知识
+万维网
+因特网
+数据库
+语义网络
+本体工程
+本体
+
+
+
+
+
+
+
+
+分主题
+
+
+
+数据网（英语：Data Web）
+数据空间（英语：Dataspaces）
+Dereferenceable URIs
+Hyperdata
+键连资料
+本体
+规则库
+
+
+
+
+
+
+
+
+应用
+
+语义维基（英语：Semantic wiki） · 语义发布（英语：Semantic publishing） · 语义搜索 · 语义宣传（英语：Semantic advertising） · 语义推理程序（英语：Semantic reasoner） · 语义匹配（英语：Semantic matching） · 语义映射程序（英语：Semantic mapper） · 语义代理程序（英语：Semantic broker） · 语义分析方法（英语：Semantic analytics） · 面向语义服务型架构（英语：Semantic service oriented architecture） · 语义检索
+
+
+
+
+
+
+相关主题
+
+
+
+集体智慧
+描述逻辑
+信息架构
+知识管理
+知识表示
+图书馆2.0
+元数据
+引用
+Web 2.0
+Plain Old Semantic HTML
+搜索引擎优化
+开放数据库连接(ODBC)
+主题地图
+心智图
+XML
+描述逻辑
+分众分类法
+
+
+
+
+
+
+
+
+人物
+
+蒂姆·伯纳斯-李 · James Hendler（英语：James Hendler） · Ora Lassila · Nigel Shadbolt · Wendy Hall
+
+
+
+
+
+
+关键的语义网组织
+
+W3C · WSRI · MIT · OpenLink软件 · Talis工作组 · ClearForest · 南安普敦大学 · DERI
+
+
+
+
+
+
+标准
+
+
+
+
+语法及支持技术
+
+
+
+HTTP
+IRI（英语：Internationalized resource identifier）
+
+URI
+
+
+资源描述框架(RDF)
+
+Notation 3（英语：Notation 3）
+Turtle (语法)（英语：Turtle (syntax)）
+JSON-LD（英语：JSON-LD）
+N-Triples（英语：N-Triples）
+
+
+SPARQL
+XML
+
+
+
+
+
+
+
+
+模式、本体和规则
+
+RDFS · OWL · 规则交换格式 · 语义网规则语言
+
+
+
+
+
+
+语义标注
+
+RDFa · eRDF · GRDDL · 微格式
+
+
+
+
+
+
+公共词表
+
+FOAF · SIOC · Dublin Core · SKOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：本体语言隐藏分类：自2015年12月连结格式不正确的条目含有英语的条目

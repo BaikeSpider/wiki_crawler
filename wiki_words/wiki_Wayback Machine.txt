@@ -1,0 +1,643 @@
+互联网档案馆
+
+
+提示：本条目的主题不是archive.is或arXiv。
+
+
+关于在中文维基百科中引用互联网档案的资料，请见“维基百科:使用时光机”。
+
+
+
+
+
+
+
+
+
+
+
+
+
+互联网档案馆
+Internet Archive
+
+
+
+
+
+互联网档案馆的主页截图
+
+
+
+公司类型
+501(c)条款非盈利组织
+
+
+网站类型
+数字图书馆
+
+
+语言
+英语
+
+
+成立
+1996年 (1996)
+
+
+服务
+互联网档案馆，开放式图书馆，时光机（Wayback Machine）（2001年起），Netlabels，NASA Images，Prelinger Archives
+
+
+员工
+200
+
+
+标语
+Universal access to all knowledge
+
+
+网站
+archive.org
+
+
+Alexa排名
+▲ 260（2016年10月[update]）[1]
+
+
+推出时间
+2001
+
+
+互联网档案馆（英语：Internet Archive）是一个非营利性的数字图书馆。成立于1996年，由Alexa创始人布鲁斯特·卡利创办。提供数字数据如网站、音乐、动态图像、和数百万书籍的永久性免费存储及获取。迄至2012年10月，其信息储量达到10PB[2][3]。除此之外，该档案馆也是网络开放与自由化的倡议者之一。
+其数据是由自带的网络爬虫自动搜集的，其网站典藏（英语：Web archiving）档案馆网站时光机（英语：Wayback Machine），抓取了超过1500亿的网页[4][5]。
+其年度预算约为1000万美元，来源则是其网页爬虫服务、合作关系、赞助以及卡利-奥斯丁基金会[6]。总部位于旧金山里奇蒙德区，此地雇员只有数十人，大部分雇员工作于书籍扫描中心，在红木城也有数据中心。
+该数据库是国际互联网保存联盟成员[7]，2007年被加利福尼亚州选为官方指定图书馆[8]。档案馆收集的数据是各种各样的。截止2015年年初，互联网档案馆共收录了2400经典游戏[9]。
+
+
+
+目录
+
+
+1 历史
+2 网页存档
+
+2.1 时光机
+2.2 Archive-It
+
+
+3 收集书目
+
+3.1 各语言的文本数
+3.2 各个年代的文本数
+
+
+4 视频资料
+5 镜像网站
+6 参考文献
+7 延伸阅读
+8 外部链接
+9 参见
+
+
+
+历史[编辑]
+1996年，卡利在创建盈利性的Alexa Internet时同时也创立了互联网档案馆；同年10月开始收集存储数据[10][11]。不过，直到2001年开发了“时光机”前，这些数据都无法访问。1999年末扩展收集范围[12]。
+2012年8月，宣布[13]将在其现存的130万文件的下载选项中加入BitTorrent[14][15]。因为通过两个文件数据中心协调，这成为从该档案馆下载数据的最快方法[14][16]。
+2013年11月6日，档案馆在里奇蒙德区的总部失火，损坏了许多设备和一些附近的公寓[17][18]，预计损失达到60万美元[19]。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1996年至2009年时档案馆的总部，位于美国旧金山 
+
+
+
+
+
+
+
+
+
+
+
+
+
+2009年以来的总部，原旧金山基督教科学派第四教会 
+
+
+
+
+
+
+
+
+
+
+
+
+
+互联网档案馆在亚历山大图书馆的宣传标板 
+
+
+
+
+
+
+
+
+
+
+
+
+
+总部内的大厅 
+
+
+
+
+
+
+网页存档[编辑]
+时光机[编辑]
+时光机（Wayback Machine）是互联网档案馆最重要的服务之一。其名取自一部名为The Rocky and Bullwinkle Show（英语：The Rocky and Bullwinkle Show）的美国卡通片，时光机允许人们去搜索和访问其网页存档。在一些国家和地区，时光机这个术语的使用已经非常普遍，“时光机”和“互联网档案馆”甚至开始被当做同义词使用。
+
+
+年份
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+
+
+存档页面的数量
+（亿）
+
+400[20]
+850[21]
+850[22]
+850[23]
+1500[24]
+1500[25]
+1500[26]
+1500[27]
+3730[28]
+4000[29]
+
+
+Archive-It[编辑]
+
+
+播放媒体
+
+
+创始人布鲁斯特·卡利正在谈论Archive-It
+
+
+Archive-it是一款帮助机构和个人创建存档的工具。一旦目标网站的URL被输入并保存且该网站允许互联网档案馆所使用的Robots.txt访问，该网页将会成为时光机的一部分。[30]截至2014年3月 (2014-03)[update]，Archive-it在美国的46个州和其他16个国家共有超过275个机构是其合作伙伴，共有超过74亿个网页的在线存档。
+收集书目[编辑]
+
+
+
+
+互联网档案馆的“抄写员”图书扫描工作站
+
+
+互联网档案馆收集了世界各地的数字化图书以及各大图书馆和文化遗产机构的特殊藏品。互联网档案馆在5个国家经营着33个图书扫描中心，其活动受图书馆和基金会的财政支持。[31][32]截至2013年7月 (2013-07)[update]，档案馆共收集了440万本书，每月的下载量超过1500万。[31]截至2008年11月 (2008-11)[update]，档案馆共有100万个网络文本，总大小高达0.5PB，涵盖了原始照相图像、裁剪和歪斜的图像、PDF文件和原始OCR数据。[33]
+各语言的文本数[编辑]
+
+
+1
+语言
+英语
+法语
+德语
+西班牙语
+汉语
+阿拉伯语
+
+
+文本数（2015年11月27日）
+6,553,945[34]
+358,721[35]
+344,810[36]
+134,170[37]
+84,147[38]
+66,786[39]
+
+
+2
+语言
+荷兰语
+葡萄牙语
+俄语
+乌尔都语
+日语
+合计（2016年10月30日）
+
+
+文本数（2015年11月27日）
+30,237[40]
+25,938[41]
+22,731[42]
+14,978[43]
+14,795[44]
+10,612,003[45]
+
+
+各个年代的文本数[编辑]
+
+
+1
+年代
+1800年代
+1810年代
+1820年代
+1830年代
+1840年代
+1850年代
+
+
+文本数
+（2015年11月27日）
+
+39,842[46]
+51,151[47]
+79,476[48]
+105,021[49]
+127,649[50]
+180,950[51]
+
+
+2
+年代
+1860年代
+1870年代
+1880年代
+1890年代
+1900年代
+1910年代
+
+
+文本数
+（2015年11月27日）
+
+210,574[52]
+214,505[53]
+285,984[54]
+370,726[55]
+504,000[56]
+455,539[57]
+
+
+3
+年代
+1920年代
+1930年代
+1940年代
+1950年代
+1960年代
+1970年代
+
+
+文本数
+（2015年11月27日）
+
+185,876[58]
+70,190[59]
+85,062[60]
+81,192[61]
+125,977[62]
+206,870[63]
+
+
+4
+年代
+1980年代
+1990年代
+2000年代
+2010年代
+
+
+
+
+文本数
+（2015年11月27日）
+
+181,129[64]
+272,848[65]
+579,905[66]
+855,253[67]
+
+
+
+
+视频资料[编辑]
+
+
+
+
+读卡器
+
+
+
+
+
+
+互联网档案馆的缩微胶片
+
+
+
+
+
+
+互联网档案馆的录影带
+
+
+除了上述内容之外，互联网档案库还收集了大量的数字媒体，这些数字媒体均匹配美国公共领域或CC授权协议。这些媒体文件均会根据媒体类型（moving images、audio、text、etc.）被组织成集合，并根据各项标准被分入子集合。例如大都会艺术博物馆提供的相关资料就会被分入一个子集，目前该集合相关资料的数量已经超过了140,000个[68]。每个主集合都含有一个“社区”子集合（以前被称为“开源”）用于存储公众的贡献。
+镜像网站[编辑]
+死机或数据库出错时，可于新亚历山大图书馆镜像网站查询1996至2007年的备份数据[69]。
+参考文献[编辑]
+
+
+^ archive.org Site Info. Alexa Internet. [2016年10月18日]. （原始内容存档于2016年6月18日）. 
+^ 10,000,000,000,000,000 bytes archived!. Collections Team blog. Internet Archive. 2012-10-26 [2012-10-27]. On Thursday, 25 October, hundreds of Internet Archive supporters, volunteers, and staff celebrated addition of the 10,000,000,000,000,000th byte to the Archive's massive collections. 
+^ Brown, A. (2006) Archiving websites: A practical guide for information management professionals. London: Facet Publishing. pp. 9.
+^ Internet Archive: Projects. Internet Archive. [2013-03-06]. 
+^ Grotke, A. (2011). Web Archiving at the Library of Congress. Computers In Libraries, 31 no. 10 (December 2011), p. 15-19.
+^ Womack, David. Who Owns History?. Cabinet Magazine. No. 10. Spring 2003 [2013-04-13]. 
+^ "Members" International Internet Preservation Consortium. Netpreserve.org
+^ "Internet Archive officially a library", May 2, 2007. Archive.org
+^ Internet Archive 放大招，2400 款 MS-DOS 游戏任你玩. ifanr爱范儿. 2015-01-07 [2017-01-29]. 
+^ 互联网真能帮人类历史存档吗？. 腾讯科技. 2015-01-24 [2016-10-30]. 
+^ Internet Archive: In the Collections. Wayback Machine. 2000-06-06 [2016-03-15]. （原始内容存档于2000-06-06）. 
+^ "Daisy Books for the Print Disabled", February 25, 2013. Internet Archive.
+^ Kahle, Brewster (August 7, 2012). "Over 1,000,000 Torrents of Downloadable Books, Music, and Movies". Internet Archive Blogs.
+^ 14.0 14.1 Van der Sar, Ernesto. Internet Archive Starts Seeding 1,398,875 Torrents. TorrentFreak（英语：TorrentFreak）. 2012-08-07. 
+^ "Hot List for bt1.us.archive.org (Updated August 7 2012, 7:31 pm PDT)". US Cluster. Internet Archive.
+^ "Welcome to Archive torrents". Internet Archive.
+^ Alexander, Kurtis. Internet Archive's S.F. office damaged in fire. San Francisco Chronicle. 2013-11-06. 
+^ Fire Update: Lost Many Cameras, 20 Boxes. No One Hurt. Internet Archive Blogs. 2013-11-06. 
+^ Shu, Catherine. Internet Archive Seeking Donations To Rebuild Its Fire-Damaged Scanning Center. TechCrunch. 2013-11-06. 
+^ Internet Archive. Internet Archive. [2014-03-02]. （原始内容存档于2005-12-31）. 
+^ Internet Archive. Internet Archive. [2014-03-02]. （原始内容存档于2006-12-28）. 
+^ Internet Archive. Internet Archive. [2014-03-02]. （原始内容存档于2007-12-28）. 
+^ Internet Archive. Internet Archive. [2014-03-02]. （原始内容存档于2008-12-24）. 
+^ Internet Archive. Internet Archive. [2014-03-02]. （原始内容存档于2009-12-20）. 
+^ Internet Archive. Internet Archive. [2014-03-02]. （原始内容存档于2010-12-30）. 
+^ Internet Archive. Internet Archive. [2014-03-02]. （原始内容存档于2011-08-30）. 
+^ Internet Archive. Internet Archive. [2014-03-02]. （原始内容存档于2012-12-31）. 
+^ Internet Archive. Internet Archive. [2014-03-02]. （原始内容存档于2013-12-31）. 
+^ Wayback Machine Hits 400,000,000,000!. Internet Archive. [2014-09-01]. 
+^ Rossi, Alexis. Fixing Broken Links on the Internet. Internet Archive. 2013-10-25 [2013-12-29]. 
+^ 31.0 31.1 Hoffelder, Nate (July 9, 2013). "Internet Archive Now Hosts 4.4 Million eBooks, Sees 15 Million eBooks Downloaded Each Month". The Digital Reader.
+^ Kahle, Brewster (May 23, 2008). "Books Scanning to be Publicly Funded". Internet Archive Forums.
+^ "Bulk Access to OCR for 1 Million Books". Open Library Blog. November 24, 2008.
+^ Internet Archive Search : (language:eng OR language:"English"). Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : (language:fre OR language:"French"). Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : (language:ger OR language:"German"). Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : (language:spa OR language:"Spanish"). Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : (language:Chinese OR language:"chi") AND mediatype:texts. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : (language:ara OR language:"Arabic"). Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : (language:Dutch OR language:"dut") AND mediatype:texts. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : (language:Portuguese OR language:"por") AND mediatype:texts. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : (language:rus OR language:"Russian") AND mediatype:texts. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : (language:urd OR language:"Urdu") AND mediatype:texts. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : (language:Japanese OR language:"jpn") AND mediatype:texts. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1800-01-01 TO 1809-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1810-01-01 TO 1819-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1820-01-01 TO 1829-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1830-01-01 TO 1839-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1840-01-01 TO 1849-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1850-01-01 TO 1859-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1860-01-01 TO 1869-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1870-01-01 TO 1879-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1880-01-01 TO 1889-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1890-01-01 TO 1899-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1900-01-01 TO 1909-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1910-01-01 TO 1919-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1920-01-01 TO 1929-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1930-01-01 TO 1939-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1940-01-01 TO 1949-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1950-01-01 TO 1959-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1960-01-01 TO 1969-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1970-01-01 TO 1979-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1980-01-01 TO 1989-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[1990-01-01 TO 1999-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[2000-01-01 TO 2009-12-31]. Internet Archive. [2015-11-27]. 
+^ Internet Archive Search : mediatype:texts AND date:[2010-01-01 TO 2015-11-27]. Internet Archive. [2015-11-27]. 
+^ Metropolitan Museum of Art - Gallery Images: Free Image : Download & Streaming : Internet Archive. Internet Archive. [2014-12-04]. 
+^ International School of Information Science (ISIS). www.bibalex.org. International School of Information Science. [2016-10-30]. 
+
+
+延伸阅读[编辑]
+
+
+Kahle, Brewster. Archiving the Internet. Scientific America. November 1996. 
+Kahle, Brewster. Scanning Center Fire — Please Help Rebuild. Internet Archive Blogs. 2013-11-06. 
+Jill Lepore. The Cobweb. The New Yorker. 2015-01-26. 
+Ringmar, Erik. Liberate and Disseminate. Times Higher Education Supplement. 2008-04-10. 
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：互联网档案馆
+
+
+
+官方网站
+官方博客
+互联网档案馆的Twitter账户 （英文）
+Internet Archive Mirror于埃及亚历山大图书馆
+Netlabels release collection
+The Other Minds Archive – 来自radiom.org的新音乐资源
+Web Archiving at archive.org，关于互联网档案馆运营的详情
+Pictures and descriptions of the Wayback Machine hardware in 2003 (prior to the Petabox), with cost information
+Current Petabox storage hardware
+Earliest known website of Internet Archive (www.archive.org) from 1997
+Early websites from 1996
+brewster. Scanning Center Fire — Please Help Rebuild. Internet Archive Blogs. 2013-11-06 [2013-11-07]. 
+互联网真能帮人类历史存档吗？. 腾讯网. 2015-01-24 [2015-09-04] （中文（中国大陆）‎）. 
+
+参见[编辑]
+
+
+互联网主题
+信息技术主题
+历史主题
+
+
+
+互联网档案馆存档列表（英语：Lists of Internet Archive's collections）
+公共领域音乐（英语：Public domain music）
+网页存档（英语：Web archiving）
+数字图书馆
+
+
+
+
+
+
+
+类似的项目
+
+
+Archive.is
+互联网记忆基金会（英语：Internet Memory Foundation）
+LibriVox
+国家数字信息基础设施和保护计划（英语：National Digital Information Infrastructure and Preservation Program） (NDIIPP)
+国家数字图书馆计划（英语：National Digital Library Program） (NDLP)
+古腾堡计划
+英国国家档案馆的英国政府网页存档（英语：UK Government Web Archive）
+英国网页存档联盟（英语：UK Web Archiving Consortium）
+WebCite（英语：WebCite）
+Google图书
+
+
+
+
+
+
+其他
+
+
+Archive Team（英语：Archive Team）
+数字黑暗时代
+数字保存（英语：Digital preservation）
+Heritrix（英语：Heritrix）
+Link rot（英语：Link rot）
+忘怀洞
+PetaBox（英语：PetaBox）
+网络蜘蛛
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+电子书
+
+
+
+
+
+
+格式
+
+Comic Book Archive（英语：Comic Book Archive） · DjVu · ePub · FictionBook · LIT（英语：Microsoft Reader） · Mobipocket/Kindle · 便携式文档格式 · XPS · 纯文本
+
+
+
+
+
+
+
+
+
+阅读
+
+
+
+
+
+设备
+
+
+Alex Reader（英语：Alex Reader） · Bambook  · Bookeen（英语：Bookeen） · 电子计算机 · COOL-ER（英语：COOL-ER） · Elonex ebook（英语：Elonex ebook） · enTourage eDGe（英语：enTourage eDGe） · pocket eDGe（英语：pocket eDGe） · eSlick（英语：eSlick） · FLEPia（英语：Fujitsu FLEPia） · 翰林电子书 · iRex（英语：iRex） · Kindle系列 · Kobo（英语：Kobo eReader） · Nook系列 · Oyo（英语：Oyo (e-reader)） · Plastic Logic Reader（英语：Plastic Logic） · PocketBook · Qisda ES900（英语：Qisda ES900） · Samsung Papyrus（英语：Samsung Papyrus） · 智能手机 · 平板手机 · 平板电脑 · SoftBook（英语：SoftBook） · Sony Reader · 汉王电纸书
+
+
+
+
+
+
+
+软件
+
+
+Adobe Acrobat · Adobe Digital Editions（英语：Adobe Digital Editions） · Aldiko（英语：Aldiko） · Blio（英语：Blio） · Bookglutton · 口径 (火器) · FBReader · IBooks · Stanza · Sony Reader Library · STDU Viewer（英语：STDU Viewer）
+
+
+
+
+
+
+
+
+
+编辑
+
+Adobe InDesign · Atlantis Word Processor（英语：Atlantis Word Processor） · Feedbooks（英语：Feedbooks） · Sigil（英语：Sigil (application)） · iBooks Author（英语：iBooks Author）
+
+
+
+
+
+
+来源
+
+
+
+
+
+免费
+
+
+Bookglutton · 互联网档案馆 · Feedbooks（英语：Feedbooks） · Google图书 · Manybooks.net · 古腾堡计划 · 维基文库 · 青空文库
+
+
+
+
+
+
+
+付费
+
+
+亚马逊公司 · 巴诺书店 · BooksOnBoard · 边界 · Feedbooks（英语：Feedbooks） · Fictionwise（英语：Fictionwise） · Google图书 · IBooks · Kobo（英语：Kobo） · Sony Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：美国互联网公司2001年建立的网站网络搜索引擎互联网的历史数字图书馆被中华人民共和国封锁的网站隐藏分类：使用过时图像语法的页面使用未知Infobox website参数的页面官方博客在维基数据与维基百科不同与维基数据相同的Twitter用户名

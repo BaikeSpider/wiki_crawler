@@ -1,0 +1,1157 @@
+核磁共振成像
+
+
+
+
+
+
+
+提示：本条目的主题不是功能性磁共振成像。
+
+
+磁共振成像
+
+
+诊断技术
+
+
+
+播放媒体
+人脑纵切面的磁共振成像图
+
+
+
+ICD-9-CM
+88.91
+
+
+MeSH
+D008279
+
+
+MedlinePlus
+003335
+
+
+核磁共振成像（英语：Nuclear Magnetic Resonance Imaging，简称NMRI），又称自旋成像（英语：spin imaging），也称磁共振成像（Magnetic Resonance Imaging，简称MRI），台湾又称磁振造影，香港又称磁力共振成像，是利用核磁共振（nuclear magnetic resonance，简称NMR）原理，依据所释放的能量在物质内部不同结构环境中不同的衰减，通过外加梯度磁场检测所发射出的电磁波，即可得知构成这一物体原子核的位置和种类，据此可以绘制成物体内部的结构图像。
+将这种技术用于人体内部结构的成像，就产生出一种革命性的医学诊断工具。快速变化的梯度磁场的应用，大大加快了核磁共振成像的速度，使该技术在临床诊断、科学研究的应用成为现实，极大地推动了医学、神经生理学和认知神经科学的迅速发展。
+从核磁共振现象发现到MRI技术成熟这几十年期间，有关核磁共振的研究领域曾在三个领域（物理学、化学、生理学或医学）内获得了6次诺贝尔奖，足以说明此领域及其衍生技术的重要性。
+
+
+
+目录
+
+
+1 物理原理
+
+1.1 原理概述
+1.2 数学运算
+
+
+2 系统组成
+
+2.1 NMR实验装置
+2.2 MRI系统的组成
+
+2.2.1 磁铁系统
+2.2.2 射频系统
+2.2.3 计算机图像重建系统
+
+
+2.3 MRI的基本方法
+
+
+3 技术应用
+
+3.1 MRI在医学上的应用
+
+3.1.1 检查目的
+3.1.2 原理概述
+3.1.3 磁共振成像的优点
+3.1.4 MRI的缺点及可能存在的危害
+
+
+3.2 MRI在化学领域的应用
+3.3 磁共振成像的其他进展
+
+
+4 诺贝尔获奖者的贡献
+5 相关条目
+
+5.1 磁化准备
+5.2 取像方法
+5.3 医学生理性应用
+
+
+6 禁忌
+7 参考文献
+8 参见
+9 引用
+
+
+
+物理原理[编辑]
+原理概述[编辑]
+核磁共振成像是随着电子计算机、电子学、电路学、超导体等技术的发展而迅速发展起来的一种生物磁学核自旋成像技术。医生考虑到患者对“核”的恐惧心理，故常将这门技术称为“磁共振成像”。
+核磁共振成像的“核”指的是氢原子核，因为人体大约70%是由水组成的，MRI即依赖水中氢原子。
+当把物体放置在磁场中，用适当的电磁波照射它，以改变氢原子的旋转排列方向，使之共振，然后分析它释放的电磁波，由于不同的组织会产生不同的电磁波讯号，经电脑处理，就可以得知构成这一物体的原子核的位置和种类，据此可以绘制成物体内部的精确立体图像。
+原子核在进动中，吸收与原子核进动频率相同的射频脉冲，即外加交变磁场的频率等于拉莫频率，原子核就发生共振吸收，去掉射频脉冲之后，原子核磁矩又把所吸收的能量中的一部分以电磁波的形式发射出来，称为共振发射。共振吸收和共振发射的过程叫做“核磁共振”。
+数学运算[编辑]
+原子核带正电荷并有自旋这一属性，其自旋产生磁矩，称为核磁矩。研究表明，核磁矩
+
+
+
+μ
+
+
+{\displaystyle \mu }
+
+与原子核的自旋角动量S成正比，即
+
+
+
+
+
+μ
+=
+γ
+S
+
+(
+1
+)
+
+
+{\displaystyle \mu =\gamma S\qquad (1)}
+
+
+
+式中γ为比例系数，称为原子核的旋磁比。在外磁场中，原子核自旋角动量的空间取向是量子化的，它在外磁场方向上的投影值可表示为
+
+
+
+
+
+
+I
+
+z
+
+
+=
+m
+ℏ
+
+(
+2
+)
+
+
+{\displaystyle I_{z}=m\hbar \qquad (2)}
+
+
+
+m为核自旋量子数。依据核磁矩与自旋角动量的关系，核磁矩在外磁场中的取向也是量子化的，它在磁场方向上的投影值为
+
+
+
+
+
+
+μ
+
+z
+
+
+=
+m
+γ
+ℏ
+
+(
+3
+)
+
+
+{\displaystyle \mu _{z}=m\gamma \hbar \qquad (3)}
+
+
+
+对于不同的核，m分别取整数或半整数。在外磁场中，具有磁矩的原子核具有相应的能量，其数值可表示为
+
+
+
+
+
+E
+=
+−
+μ
+B
+=
+−
+
+μ
+
+z
+
+
+B
+=
+m
+γ
+ℏ
+B
+
+(
+4
+)
+
+
+{\displaystyle E=-\mu B=-\mu _{z}B=m\gamma \hbar B\qquad (4)}
+
+
+
+式中B为磁感应强度。可见，原子核在外磁场中的能量也是量子化的。由于磁矩和磁场的相互作用，自旋能量分裂成一系列分立的能级，相邻的两个能级之差
+
+
+
+Δ
+E
+=
+γ
+ℏ
+B
+
+
+{\displaystyle \Delta E=\gamma \hbar B}
+
+。用频率适当的电磁辐射照射原子核，如果电磁辐射光子能量
+
+
+
+h
+ν
+
+
+{\displaystyle h\nu }
+
+恰好为两相邻核能级之差
+
+
+
+Δ
+E
+
+
+{\displaystyle \Delta E}
+
+，则原子核就会吸收这个光子，发生核磁共振的频率条件是：
+
+
+
+
+
+h
+ν
+=
+γ
+ℏ
+B
+=
+γ
+h
+B
+
+/
+
+2
+π
+,
+
+
+ or 
+
+
+ω
+=
+2
+π
+ν
+=
+γ
+B
+
+(
+5
+)
+
+
+{\displaystyle h\nu =\gamma \hbar B=\gamma hB/2\pi ,{\mbox{ or }}\omega =2\pi \nu =\gamma B\qquad (5)}
+
+
+
+式中
+
+
+
+ν
+
+
+{\displaystyle \nu }
+
+为频率，
+
+
+
+ω
+
+
+{\displaystyle \omega }
+
+为角频率。对于确定的核，旋磁比
+
+
+
+γ
+
+
+{\displaystyle \gamma }
+
+可被精确地测定。可见，通过测定核磁共振时辐射场的频率
+
+
+
+ν
+
+
+{\displaystyle \nu }
+
+，就能确定磁感应强度；反之，若已知磁感应强度，即可确定核的共振频率。
+系统组成[编辑]
+NMR实验装置[编辑]
+采用调节频率的方法来达到核磁共振。由线圈向样品发射电磁波，调制振荡器的作用是使射频电磁波的频率在样品共振频率附近连续变化。当频率正好与核磁共振频率吻合时，射频振荡器的输出就会出现一个吸收峰，这可以在示波器上显示出来，同时由频率计即刻读出这时的共振频率值。核磁共振谱仪是专门用于观测核磁共振的仪器，主要由磁铁、探头和谱仪三大部分组成。磁铁的功用是产生一个恒定的磁场；探头置于磁极之间，用于探测核磁共振信号；谱仪是将共振信号放大处理并显示和记录下来。
+MRI系统的组成[编辑]
+
+
+
+
+现代临床高场（3.0T）MRI扫描器
+
+
+MRI是一台巨大的圆筒状机器，能在受检者的周围制造一个强烈磁场区的环境，借由无线电波的脉冲撞击身体细胞中的氢原子核，改变身体内氢原子的排列，当氢原子再次进入适当的位置排列时，会发出无线电讯号，此讯号借由电脑的接收并加以分析及转换处理，可将身体构造及器官中的氢原子活动，转换成二2D影像，因MRI运用了生化、物理特性来区分组织，获得的影像会比电脑断层更加详细。[1]
+磁铁系统[编辑]
+
+静磁场：又称主磁场。当前临床所用超导磁铁，磁场强度有0.2T到7.0T（特斯拉），常见的为1.5T和3.0T；动物实验用的小型MRI则有4.7T、7.0T与9.4T等多种主磁场强度。另有匀磁线圈（shim coil）协助达到磁场的高均匀度。
+梯度场（gradient coils）：用来产生并控制磁场中的梯度，以实现NMR信号的空间编码。这个系统有三组线圈，产生x、y、z三个方向的梯度场，线圈组的磁场叠加起来，可得到任意方向的梯度场。
+
+射频系统[编辑]
+
+射频（RF）发生器：产生短而强的射频场，以脉冲方式加到样品上，使样品中的氢核产生NMR现象。
+射频（RF）接收器：接收NMR信号，放大后进入图像处理系统。
+
+计算机图像重建系统[编辑]
+由射频接收器送来的信号经A/D转换器，把模拟信号转换成数字信号，根据与观察层面各体素的对应关系，经计算机处理，得出层面图像数据，再经D/A转换器，加到图像显示器上，按NMR的大小，用不同的灰度等级显示出欲观察层面的图像。
+MRI的基本方法[编辑]
+
+选择梯度场Gz
+相位编码和频率编码
+图像重建
+
+技术应用[编辑]
+
+
+
+
+三维重建核磁共振影像
+
+
+MRI在医学上的应用[编辑]
+检查目的[编辑]
+
+侦测及诊断心脏疾病、脑血管意外及血管疾病
+胸腔及腹腔的器官疾病的侦测与诊断
+诊断及评价、追踪肿瘤的情况及功能上的障碍
+
+MRI被广泛运用在运动相关伤害的诊断上，对近骨骼和骨骼周围的软组织，包括韧带与肌肉，可呈现清晰影像，因此在脊椎及关节问题上，是极具敏感的检查。
+因MRI没有辐射暴露的危险，因此经常被使用在生殖系统、乳房、骨盆及膀胱病的侦测及诊断上。
+原理概述[编辑]
+氢核是人体成像的首选核种：人体各种组织含有大量的水和碳氢化合物，所以氢核的核磁共振灵活度高、信号强，这是人们首选氢核作为人体成像元素的原因。NMR信号强度与样品中氢核密度有关，人体中各种组织间含水比例不同，即含氢核数的多少不同，则NMR信号强度有差异，利用这种差异作为特征量，把各种组织分开，这就是氢核密度的核磁共振图像。人体不同组织之间、正常组织与该组织中的病变组织之间氢核密度、弛豫时间T1、T2三个参数的差异，是MRI用于临床诊断最主要的物理基础。
+当施加一射频脉冲信号时，氢核能态发生变化，射频过后，氢核返回初始能态，共振产生的电磁波便发射出来。原子核振动的微小差别可以被精确地检测到，经过进一步的计算机处理，即可能获得反应组织化学结构组成的三维图像，从中我们可以获得包括组织中水分差异以及水分子运动的信息。这样，病理变化就能被记录下来。
+人体2/3的重量为水分，如此高的比例正是磁共振成像技术能被广泛应用于医学诊断的基础。人体内器官和组织中的水分并不相同，很多疾病的病理过程会导致水分形态的变化，即可由磁共振图像反应出来。
+MRI所获得的图像非常清晰精细，大大提高了医生的诊断效率，避免了剖胸或剖腹探查诊断的手术。由于MRI不使用对人体有害的X射线和易引起过敏反应的造影剂，因此对人体没有损害。MRI可对人体各部位多角度、多平面成像，其分辨力高，能更客观更具体地显示人体内的解剖组织及相邻关系，对病灶能更好地进行定位定性。对全身各系统疾病的诊断，尤其是早期肿瘤的诊断有很大的价值。
+磁共振成像的优点[编辑]
+与1901年获得诺贝尔物理学奖的普通X射线或1979年获得诺贝尔医学奖的计算机层析成像（computerized tomography, CT）相比，磁共振成像的最大优点是它是目前少有的对人体没有任何伤害的安全、快速、准确的临床诊断方法。如今全球每年至少有6000万病例利用核磁共振成像技术进行检查。具体说来有以下几点：
+
+对软组织有极好的分辨力。对膀胱、直肠、子宫、阴道、骨、关节、肌肉等部位的检查比CT优胜；
+各种参数都可以用来成像，多个成像参数能提供丰富的诊断信息，这使得医疗诊断和对人体内代谢和功能的研究方便、有效。例如肝炎和肝硬化的T1值变大，而肝癌的T1值更大，作T1加权图像，可区别肝部良性肿瘤与恶性肿瘤；
+通过调节磁场可自由选择所需剖面。能得到其它成像技术所不能接近或难以接近部位的图像。对于椎间盘和脊髓，可作矢状面、冠状面、横断面成像，可以看到神经根、脊髓和神经节等。不像CT只能获取与人体长轴垂直的横断面；
+对人体没有电离辐射损伤；
+原则上所有自旋不为零的核元素都可以用以成像，例如氢（1H）、碳（13C）、氮（14N和15N）、磷（31P）等。
+
+
+
+
+
+人类腹部冠状切面磁共振影像。
+（所采成像脉冲序列：Turbo Spin Echo, TSE。）
+
+
+MRI的缺点及可能存在的危害[编辑]
+虽然MRI对患者没有致命性的损伤，但还是给患者带来了一些不适感。在MRI诊断前应当采取必要的措施，把这种负面影响降到最低限度。其缺点主要有：
+
+和CT一样，MRI也是解剖性影像诊断，很多病变单凭核磁共振检查仍难以确诊，不像内窥镜可同时获得影像和病理两方面的诊断；
+对肺部的检查不优于X射线或CT检查，对肝脏、胰腺、肾上腺、前列腺的检查不比CT优越，但费用要高昂得多；
+对胃肠道的病变不如内窥镜检查；
+扫描时间长，空间分辨力不够理想；
+由于强磁场的原因，MRI对诸如体内有磁金属或起搏器的特殊病人不能适用。
+
+MRI系统可能对人体造成伤害的因素主要包括以下方面：
+
+强静磁场：在有铁磁性物质存在的情况下，不论是埋植在患者体内还是在磁场范围内，都可能是危险因素；
+随时间变化的梯度场：可在受试者体内诱导产生电场而兴奋神经或肌肉。外周神经兴奋是梯度场安全的上限指标。在足够强度下，可以产生外周神经兴奋（如刺痛或叩击感），甚至引起心脏兴奋或心室振颤；
+射频场（RF）的致热效应：在MRI聚焦或测量过程中所用到的大角度射频场发射，其电磁能量在患者组织内转化成热能，使组织温度升高。RF的致热效应需要进一步探讨，临床扫描仪对于射频能量有所谓“特定吸收率”（specific absorption rate, SAR）的限制；
+噪声：MRI运行过程中产生的各种噪声，可能使某些患者的听力受到损伤；
+
+MRI在化学领域的应用[编辑]
+MRI在化学领域的应用没有医学领域那么广泛，主要是因为技术上的难题及成像材料上的困难，目前主要应用于以下几个方面：
+
+在高分子化学领域，如碳纤维增强环氧树脂的研究、固态反应的空间有向性研究、聚合物中溶剂扩散的研究、聚合物硫化及弹性体的均匀性研究等；
+在金属陶瓷中，通过对多孔结构的研究来检测陶瓷制品中存在的沙眼；
+在火箭燃料中，用于探测固体燃料中的缺陷以及填充物、增塑剂和推进剂的分布情况；
+在石油化学方面，主要侧重于研究流体在岩石中的分布状态和流通性以及对油藏描述与强化采油机理的研究。
+
+磁共振成像的其他进展[编辑]
+核磁共振分析技术是通过核磁共振谱线特征参数（如谱线宽度、谱线轮廓形状、谱线面积、谱线位置等）的测定来分析物质的分子结构与性质。它可以不破坏被测样品的内部结构，是一种完全无损的检测方法。同时，它具有非常高的分辨本领和精确度，而且可以用于测量的核也比较多，所有这些都优于其它测量方法。因此，核磁共振技术在物理、化学、医疗、石油化工、考古等方面获得了广泛的应用。
+
+磁共振显微术（MR microscopy, MRM/μMRI）是MRI技术中稍微晚一些发展起来的技术，MRM最高空间分辨率是4μm，已经可以接近一般光学显微镜像的水平。MRM已经非常普遍地用作疾病和药物的动物模型研究。
+活体磁共振能谱（in vivo MR spectroscopy, MRS）能够测定动物或人体某一指定部位的NMR谱，从而直接辨认和分析其中的化学成分。
+
+诺贝尔获奖者的贡献[编辑]
+2003年10月6日，瑞典卡罗林斯卡医学院宣布，2003年诺贝尔生理学或医学奖授予美国化学家保罗·劳特伯（Paul C. Lauterbur）和英国物理学家彼得·曼斯菲尔德（Peter Mansfield），以表彰他们在医学诊断和研究领域内所使用的核磁共振成像技术领域的突破性成就。
+劳特伯在纽约州立大学石溪分校化学系当副教授时看到因为仪器老旧，研究生与博士后研究员实验皆做不出理想结果，于是苦思解决之道。劳特布尔的贡献是，在主磁场内附加一个不均匀的磁场，把梯度引入磁场中，从而创造了一种可视的用其他技术手段却看不到的物质内部结构的二维结构图像。他描述了怎样把梯度磁体添加到主磁体中，然后能看到沉浸在重水中的装有普通水的试管的交叉截面。除此之外没有其他图像技术可以在普通水和重水之间区分图像。通过引进梯度磁场，可以逐点改变核磁共振电磁波频率，通过对发射出的电磁波的分析，可以确定其信号来源。
+曼斯菲尔德进一步发展了有关在稳定磁场中使用附加的梯度磁场理论，推动了其实际应用。他发现磁共振信号的数学分析方法，为该方法从理论走向应用奠定了基础。这使得10年后磁共振成像成为临床诊断的一种现实可行的方法。他利用磁场中的梯度更为精确地显示共振中的差异。他证明，如何有效而迅速地分析探测到的信号，并且把它们转化成图像。曼斯菲尔德还提出了极快速的梯度变化可以获得瞬间即逝的图像，即平面回波扫描成像（echo-planar imaging, EPI）技术，成为20世纪90年代开始蓬勃兴起的功能磁共振成像（functional MRI, fMRI）研究的主要手段。
+
+
+
+
+雷蒙德·达马蒂安的“用于癌组织检测的设备和方法”
+
+
+值得一提的是，2003年诺贝尔物理学奖获得者们在超导体和超流体理论上做出的开创性贡献，为获得2003年度诺贝尔生理学或医学奖的两位科学家开发核磁共振扫描仪提供了理论基础，为核磁共振成像技术铺平了道路。由于他们的理论工作，核磁共振成像技术才取得了突破，使人体内部器官高清晰度的图像成为可能。
+此外，在2003年10月10日的《纽约时报》和《华盛顿邮报》上，同时出现了佛纳（Fonar）公司的一则整版广告：“雷蒙德·达马蒂安（英语：Raymond Vahan Damadian），应当与彼得·曼斯菲尔德和保罗·劳特布尔分享2003年诺贝尔生理学或医学奖。没有他，就没有核磁共振成像技术。”指责诺贝尔奖委员会“篡改历史”而引起广泛争议。事实上，对MRI的发明权归属问题已争论了许多年，而且争得颇为激烈。在学界看来，由于几个相关人物的长期宣传，达马蒂安更多地被描绘成是一个生意人，而不是科学家。不过，有关的答案可能要相当长的一段时间以后才能有定论。
+相关条目[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：核磁共振成像
+
+
+
+核磁共振
+扩散磁振造影
+核磁共振中的弛缓现象
+射频
+射频线圈
+梯度磁场
+k空间
+
+磁化准备[编辑]
+
+反转回复（inversion recovery）
+饱和回复（saturation recovery）
+驱返平衡（driven equilibrium）
+
+取像方法[编辑]
+
+自旋回波（spin echo）
+梯度回波（gradient echo）
+平行成像（parallel imaging）
+面回波成像（echo-planar imaging, EPI）
+定常态自由进动成像（steady-state free precession imaging, SSFP）
+
+医学生理性应用[编辑]
+
+磁振血管摄影（MR angiography）
+磁振胆胰摄影（MR cholangiopancreatogram, MRCP）
+扩散权重影像（diffusion-weighted image）
+扩散张量影像（diffusion tensor image）
+灌流权重影像（perfusion-weighted image）
+功能性磁共振成像（functional MRI, fMRI）
+磁敏感加权成像（sensetivity weighted image）
+磁共振波谱成像（MR Spectroscopy Imaging）
+
+禁忌[编辑]
+孕妇、心脏装有节律器者、身体任何部位装置有对磁力有感应的金属者。
+美国食品与药物管理局（FDA）于2006年6月发出警讯，中末期肾脏疾病及慢性肾衰竭患者使用含钆MRI显影剂可能造成肾因性全身皮肤硬化症/肾因性纤维化皮肤病变（Nephrogenic Systemic Fibrosis/Nephrogenic Fibrosing Dermopathy，NSF/NFD）。
+参考文献[编辑]
+
+傅杰青《核磁共振——获得诺贝尔奖次数最多的一个科学专题》《自然杂志》，2003,（06）:357-261
+别业广、吕桦《再谈核磁共振在医学方面的应用》《物理与工程》，2004,（02）:34, 61
+金永君、艾延宝《核磁共振技术及应用》《物理与工程》，2002,（01）:47-48, 50
+刘东华、李显耀、孙朝晖《核磁共振成像》《大学物理》，1997,（10）:36-39, 29
+阮萍《核磁共振成像及其医学应用》《广西物理》，1999,（02）:50-53, 28
+Lauterbur P C Nature, 1973, 242:190
+黄卫华《走近核磁共振》《医药与保健》，2004,（03）:15
+叶朝辉《磁共振成像新进展》《物理》，2004,（01）:12-17
+田建广、刘买利、夏照帆、叶朝辉《磁共振成像的安全性》《波谱学杂志》，2002,（06）:505-511
+蒋子江《核磁共振成像NMRI在化学领域中的应用》《化学世界》，1995,（11）:563-565
+樊庆福《核磁共振成像与诺贝尔奖》《上海生物医学工程》，2003,（04）：封三
+
+参见[编辑]
+
+计算机图形学
+可视化
+
+信息可视化
+科学可视化
+
+
+
+引用[编辑]
+
+^ 医学检验手册
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+科学、技术、信息的可视化
+
+
+
+
+
+
+领域划分
+
+
+
+生物学数据可视化（英语：Biological data visualization）
+化学成像（英语：Chemical imaging）
+罪行绘图
+数据可视化
+教育可视化
+流动可视化（英语：Flow visualization）
+地理可视化
+信息可视化
+数学可视化（英语：Mathematical diagram）
+医学影像
+分子图形学（英语：Molecular graphics）
+产品可视化
+科学可视化
+软件可视化（英语：Software visualization）
+工程制图
+用户界面设计
+视觉文化（英语：Visual culture）
+立体渲染
+
+
+
+
+
+
+
+
+图像类型
+
+
+
+统计图表
+图解（英语：Diagram）
+工程图
+函数图形
+形意文字
+地图
+相片
+象形文字
+Plot（英语：Plot）
+概要图（英语：Schematic）
+统计图形
+表格
+工程制图
+技术插图（英语：Technical illustration）
+用户界面
+图
+
+
+
+
+
+
+
+
+相关人士
+
+
+
+Jacques Bertin
+Jim Blinn
+Stuart Card
+Thomas A. DeFanti
+迈克尔·弗兰德利
+George Furnas
+Nigel Holmes
+Alan MacEachren
+Jock D. Mackinlay
+Michael Maltz
+Bruce H. McCormick
+Charles Joseph Minard
+Otto Neurath
+Florence Nightingale
+Clifford A. Pickover
+William Playfair
+Adolphe Quetelet
+George G. Robertson
+Arthur H. Robinson
+Lawrence J. Rosenblum
+Ben Shneiderman
+Edward Tufte
+Fernanda Viegas
+Manuel Lima
+Gaspard Monge
+
+
+
+
+
+
+
+
+相关软件
+
+
+
+
+
+可视化软件
+
+
+
+
+维基百科可视化编辑器
+Protege
+Sirius可视化软件
+VisIt
+
+
+
+
+
+
+
+
+
+数值分析软件
+
+
+
+
+Scilab
+
+
+
+
+
+
+
+
+
+
+
+相关主题
+
+
+
+
+
+计算机图形学
+
+
+
+
+位图
+
+计算机的可视化
+视觉化
+图像处理
+
+又称影像处理
+
+
+计算机图形
+计算机动画
+计算机模拟
+科学建模（英语：Scientific modelling）
+
+模板：计算机建模
+
+
+
+
+
+
+
+
+
+
+
+人机交互
+
+
+
+
+用户界面
+
+图形用户界面
+所见即所得
+图示
+
+
+虚拟现实
+
+
+
+
+
+
+
+
+
+图像式思考辅助工具
+
+
+
+
+故事板
+鱼骨图
+导引图
+记忆树
+心智图
+流程图
+欧拉图
+
+
+
+
+
+
+
+地图学
+
+又称制图学
+
+
+无效的图表（英语：Chartjunk）
+图形绘制（英语：Graph drawing）
+平面设计
+
+又称图形设计
+
+
+成像科学（英语：Imaging science）
+信息学
+信息图形
+心像（英语：Mental image）
+误导性影像（英语：Misleading graph）
+神经成像
+专利图（英语：Patent drawing）
+空间分析
+可视化分析论
+视知觉
+统计学
+图意学
+图像记谱
+
+
+
+
+
+
+
+
+
+参见： 科学 ·  信息科技 ·  设计 ·  摄影 ·  图表 ·  图论 ·  计算机图形学 ·  视觉化程式设计语言 ·  计算机科学主要领域
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+医学影像 (ICD-9-CM V3 87–88, ICD-10-PCS B（英语：ICD-10 Procedure Coding System）, CPT（英语：Current Procedural Terminology） 70010–79999)
+
+
+
+
+
+
+X射线/
+放射摄影技术（英语：Radiography）
+
+
+
+
+2D（英语：Projectional radiography）
+
+
+
+
+医用：
+
+
+
+气脑造影成像（英语：Pneumoencephalography）
+牙科放射摄影（英语：Dental radiography）
+Sialography（英语：Sialography）
+Myelography（英语：Myelography）
+CXR（英语：Chest radiograph）
+
+Bronchography（英语：Bronchography）
+
+
+AXR（英语：Abdominal x-ray）
+KUB（英语：Kidneys, ureters, and bladder x-ray）
+DXA（英语：Dual-energy X-ray absorptiometry）/DXR（英语：Digital X-ray radiogrammetry）
+Upper gastrointestinal series（英语：Upper gastrointestinal series）/Small-bowel follow-through（英语：Small-bowel follow-through）/大肠钡剂灌肠造影
+Cholangiography（英语：Cholangiography）/Cholecystography（英语：Cholecystography）
+乳房摄影术
+Pyelogram（英语：Pyelogram）
+Cystography（英语：Cystography）
+Arthrogram（英语：Arthrogram）
+Hysterosalpingography（英语：Hysterosalpingography）
+Skeletal survey（英语：Skeletal survey）
+血管摄影
+
+Angiocardiography（英语：Angiocardiography）
+Aortography（英语：Aortography）
+
+
+静脉成像
+Lymphogram（英语：Lymphogram）
+
+
+
+
+
+
+
+
+商用：
+
+
+
+Radiographic testing（英语：Radiographic testing）
+
+
+
+
+
+
+
+
+
+
+
+3D / XCT
+
+
+
+
+医用：
+
+
+
+CT pulmonary angiogram（英语：CT pulmonary angiogram）
+Computed tomography of the heart
+Computed tomography of the abdomen and pelvis（英语：Computed tomography of the abdomen and pelvis）
+
+Virtual colonoscopy（英语：Virtual colonoscopy）
+
+
+CT angiography
+Computed tomography of the head（英语：Computed tomography of the head）
+Quantitative computed tomography（英语：Quantitative computed tomography）
+Spiral computed tomography（英语：Spiral computed tomography）
+High resolution CT（英语：High resolution CT）
+Whole body imaging（英语：Whole body imaging）
+
+Full-body CT scan（英语：Full-body CT scan）
+
+
+X-ray microtomography（英语：X-ray microtomography）
+Electron beam tomography（英语：Electron beam tomography）
+
+
+
+
+
+
+
+
+商用：
+
+
+
+Industrial computed tomography（英语：Industrial computed tomography）
+
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+荧光镜检查（英语：Fluoroscopy）
+X-ray motion analysis（英语：X-ray motion analysis）
+
+
+
+
+
+
+
+
+
+
+
+核磁共振
+
+
+
+MRI of the brain（英语：Magnetic resonance imaging of the brain）
+MR neurography（英语：Magnetic resonance neurography）
+心血管磁共振成像/Cardiac MRI perfusion（英语：Cardiac MRI perfusion）
+MR angiography（英语：Magnetic resonance angiography）
+MR cholangiopancreatography（英语：Magnetic resonance cholangiopancreatography）
+Breast MRI（英语：Breast MRI）
+功能性磁共振成像
+扩散磁振造影
+Synthetic MRI（英语：Synthetic MRI）
+
+
+
+
+
+
+
+
+医学超声检查
+
+
+
+超声心动图
+Doppler echocardiography（英语：Doppler echocardiography）
+
+TTE（英语：Transthoracic echocardiogram）
+TEE（英语：Transesophageal echocardiogram）
+
+
+Intravascular（英语：Intravascular ultrasound）
+Gynecologic（英语：Gynecologic ultrasonography）
+Obstetric（英语：Obstetric ultrasonography）
+Echoencephalography（英语：Echoencephalography）
+Transcranial Doppler（英语：Transcranial Doppler）
+Abdominal ultrasonography（英语：Abdominal ultrasonography）
+Transrectal（英语：Transrectal ultrasonography）
+Breast ultrasound（英语：Breast ultrasound）
+Transscrotal ultrasound（英语：Transscrotal ultrasound）
+Carotid ultrasonography（英语：Carotid ultrasonography）
+超声造影成像
+3D ultrasound（英语：3D ultrasound）
+Endoscopic ultrasound（英语：Endoscopic ultrasound）
+Emergency ultrasound（英语：Emergency ultrasound）
+
+FAST（英语：Focused assessment with sonography for trauma）
+Pre-hospital ultrasound（英语：Pre-hospital ultrasound）
+
+
+Duplex（英语：Duplex ultrasonography）
+
+
+
+
+
+
+
+
+核医学
+
+
+
+
+2D / 闪烁显象术（英语：scintigraphy）
+
+
+
+
+
+
+
+Cholescintigraphy（英语：Cholescintigraphy）
+Scintimammography（英语：Scintimammography）
+Ventilation/perfusion scan（英语：Ventilation/perfusion scan）
+Radionuclide ventriculography（英语：Radionuclide ventriculography）
+Radionuclide angiography（英语：Radionuclide angiography）
+Radioisotope renography（英语：Radioisotope renography）
+Sestamibi parathyroid scintigraphy（英语：Sestamibi parathyroid scintigraphy）
+Radioactive iodine uptake test（英语：Radioactive iodine uptake test）
+Bone scintigraphy（英语：Bone scintigraphy）
+Immunoscintigraphy（英语：Immunoscintigraphy）
+
+
+
+
+
+
+
+
+全身：
+
+
+
+Octreotide scan（英语：Octreotide scan）
+Gallium 67 scan（英语：Gallium 67 scan）
+Indium-111 WBC scan（英语：Indium-111 WBC scan）
+
+
+
+
+
+
+
+
+
+
+
+3D / ECT（英语：emission computed tomography）
+
+
+
+
+
+
+
+SPECT（英语：Single-photon emission computed tomography）
+
+gamma ray: Myocardial perfusion imaging（英语：Myocardial perfusion imaging）
+
+
+
+
+
+
+
+
+
+
+PET（正电子）：
+
+
+
+Brain PET（英语：Brain positron emission tomography）
+Cardiac PET（英语：Cardiac PET）
+PET mammography（英语：Positron emission mammography）
+PET-CT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+光学（英语：Optical imaging）激光
+
+
+
+Optical tomography（英语：Optical tomography）
+
+光学相干断层扫描
+
+
+共聚焦显微镜
+Endomicroscopy（英语：Endomicroscopy）
+
+
+
+
+
+
+
+
+热成像仪
+
+
+
+non-contact thermography（英语：non-contact thermography）
+contact thermography
+dynamic angiothermography（英语：dynamic angiothermography）
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh85079741
+GND: 4120806-7
+BNF: cb120656832（数据）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：计算机图形学可视化磁振造影医疗设备隐藏分类：使用过时图像语法的页面含有英语的条目本地链接的维基共享资源分类与Wikidata不同包含规范控制信息的维基百科条目

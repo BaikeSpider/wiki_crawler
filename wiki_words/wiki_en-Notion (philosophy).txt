@@ -1,0 +1,32 @@
+Notion (philosophy)
+A notion in philosophy is a reflection in the mind of real objects and phenomena in their essential features and relations. Notions are usually described in terms of scope and content. This is because notions are often created in response to empirical observations (or experiments) of covarying trends among variables.
+Notion is the common translation for Begriff as used by Hegel in his Science of Logic (1816).
+Primitive notion[edit]
+A primitive notion is used in logic or mathematics as an undefined term or concept at the foundation of an axiomatic system to be constructed.
+However, in philosophy the term "primitive notion" has historical content. For example, Gottfried Leibniz wrote De Alphabeto Cogitationum Humanarum (English: An Alphabet for Human Thought). Jaap Maat (2004) reviewed Leibniz for Philosophical Languages of the 17th Century. According to Leibniz, "The alphabet of human thought is a catalogue of primitive notions, or those we cannot render clearer by any definitions." Maat explains, "a thing which is known without other intermediate notions can be considered to be primitive," and further, "a primitive notion is said to be conceived through itself".
+Another example is in the Meditations of René Descartes:
+
+I think that there are certain primitive notions in us which are like originals. There are very few such notions. For apart from the most general notions of being, number, duration, etc which apply to everything that we can conceive, we have only the notion of extension that is specifically for the body, and from that flow the notions of shape and movement; and for the soul on its own we have only the concept of thought, which includes perceptions of the understanding and inclinations of the will. Finally, for the body and soul together, we have only the concept of their union, on which depends the notion of the soul's power to move the body and the body's power to act on the soul by causing its sensations and passions.[1]
+
+
+"[Descartes'] claim that mind-body unity is a primitive notion on a par with the primitive notions of thinking and extended substance..."[2]
+
+See also[edit]
+
+Concept
+Definition
+
+References[edit]
+
+
+
+^ Desmond M. Clarke (2003) Descartes Theory of Mind, page 38
+^ Daniel Garber (1992) Descartes' Metaphysical Physics, page 92
+
+
+
+
+
+
+
+Categories: Concepts in metaphysicsConceptsAssumption

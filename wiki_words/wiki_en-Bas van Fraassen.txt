@@ -1,0 +1,848 @@
+Bas van Fraassen
+
+
+Bas van Fraassen
+
+
+Born
+(1941-04-05) 5 April 1941 (age 76)
+Goes, Netherlands
+
+
+Alma mater
+University of Alberta
+University of Pittsburgh
+
+
+
+
+
+Era
+21st-century philosophy
+
+
+Region
+Western philosophy
+
+
+School
+Analytic philosophy
+
+
+
+Main interests
+
+
+
+
+Philosophy of science
+Epistemology
+Philosophical logic
+
+
+
+
+
+
+Notable ideas
+
+
+
+
+Constructive empiricism
+Empiricist structuralism
+Reflection principle[1]
+
+
+
+
+
+
+
+Influences
+
+
+
+
+
+Hans Reichenbach
+Wilfrid Sellars
+Adolf Grünbaum
+
+
+
+
+
+
+
+
+
+
+
+Influenced
+
+
+
+
+
+Alvin Plantinga
+Elisabeth Lloyd
+Nancy Cartwright
+Michael Rea
+Arthur Fine
+Hans Halvorson
+
+
+
+
+
+
+
+
+
+
+
+
+Bastiaan Cornelis van Fraassen (/væn ˈfrɑːsən/; born 5 April 1941) is Distinguished Professor of Philosophy at San Francisco State University and the McCosh Professor of Philosophy Emeritus at Princeton University, noted for his seminal contributions to philosophy of science.
+
+
+
+Contents
+
+
+1 Biography and career
+2 Philosophical work
+3 Bibliography
+4 See also
+5 Notes
+6 External links
+
+
+
+Biography and career[edit]
+Van Fraassen earned his B.A. (1963) from the University of Alberta and his M.A. (1964) and Ph.D. (1966, under the direction of Adolf Grünbaum) from the University of Pittsburgh. He previously taught at Yale University, the University of Southern California, the University of Toronto and, from 1982 to 2008, at Princeton University, where he is now emeritus.[2] At San Francisco State University, he teaches courses in the philosophy of science, philosophical logic and the role of models in scientific practice.[3][4]
+Van Fraassen is an adult convert to the Roman Catholic Church[5] and is one of the founders of the Kira Institute. He is a fellow of the American Academy of Arts and Sciences; an overseas member of the Royal Netherlands Academy of Arts and Sciences since 1995;[6] and a member of the Académie Internationale de Philosophie des Sciences ("International Academy of the Philosophy of Science").[7] In 1986, van Fraassen received the Lakatos Award for his contributions to the philosophy of science and, in 2012, the Philosophy of Science Association's inaugural Hempel Award for lifetime achievement in philosophy of science.[8]
+Among his many students are the philosophers Elisabeth Lloyd at Indiana University, Anja Jauernig at New York University, and Professor of Mathematics Jukka Keranen at UCLA.
+Philosophical work[edit]
+Van Fraassen coined the term "constructive empiricism" in his 1980 book The Scientific Image, in which he argued for agnosticism about the reality of unobservable entities. That book was "widely credited with rehabilitating scientific anti-realism."[9] As the Stanford Encyclopedia explains: "The constructive empiricist follows the logical positivists in rejecting metaphysical commitments in science, but parts with them regarding their endorsement of the verificationist criterion of meaning, as well as their endorsement of the suggestion that theory-laden discourse can and should be removed from science. Before van Fraassen's The Scientific Image, some philosophers had viewed scientific anti-realism as dead, because logical positivism was dead. Van Fraassen showed that there were other ways to be an empiricist with respect to science, without following in the footsteps of the logical positivists."[9]
+In his 1989 book Laws and Symmetry, van Fraassen, attempted to lay the ground-work for explaining physical phenomena without assuming that such phenomena are caused by rules or laws which can be said to cause or govern their behavior. Focusing on the problem of underdetermination, he argued for the possibility that theories could have empirical equivalence but differ in their ontological commitments. He rejects the notion that the aim of science is to produce an account of the physical world that is literally true and instead maintains that its aim is to produce theories that are empirically adequate.[10] Van Fraassen has also studied the philosophy of quantum mechanics, philosophical logic, and epistemology.
+Van Fraassen has been the editor of the Journal of Philosophical Logic and co-editor of the Journal of Symbolic Logic.[11]
+In his paper "Singular Terms, Truth-value Gaps, and Free Logic", van Fraassen opens with a very brief introduction of the problem of non-referring names.
+Instead of any unique formalization, though, he simply adjusts the axioms of a standard predicate logic such as that found in Quine's Methods of Logic. Instead of an axiom like 
+
+
+
+∀
+x
+
+P
+x
+⇒
+∃
+x
+
+P
+x
+
+
+{\displaystyle \forall x\,Px\Rightarrow \exists x\,Px}
+
+ he uses 
+
+
+
+(
+∀
+x
+
+P
+x
+∧
+∃
+x
+
+(
+x
+=
+a
+)
+)
+⇒
+∃
+x
+
+P
+x
+
+
+{\displaystyle (\forall x\,Px\land \exists x\,(x=a))\Rightarrow \exists x\,Px}
+
+; this will naturally be true if the existential claim of the antecedent is false. If a name fails to refer, then an atomic sentence containing it, that is not an identity statement, can be assigned a truth value arbitrarily. Free logic is proved to be complete under this interpretation.
+He indicates that, however, he sees no good reason to call statements which employ them either true or false. Some have attempted to solve this problem by means of many-valued logics; van Fraassen offers in their stead the use of supervaluations. Questions of completeness change when supervaluations are admitted, since they allow for valid arguments that do not correspond to logically true conditionals [12]
+In his essay "The Anti-Realist Epistemology of van Fraassen's The Scientific Image ", Paul M. Churchland, one of van Fraassen's critics, contrasted van Fraassen's idea of unobservable phenomena with the idea of merely unobserved phenomena.[13]
+Bibliography[edit]
+
+Scientific Representation: Paradoxes of Perspective, OUP, 2008.
+The Empirical Stance, Yale University Press, 2002.
+Quantum Mechanics: An Empiricist View, Oxford University Press, 1991.
+Laws and Symmetry, Oxford University Press 1989.
+The Scientific Image, Oxford University Press 1980.
+Derivation and Counterexample: An Introduction to Philosophical Logic (with Karel Lambert), Dickenson Publishing Company, Inc. 1972.
+Formal Semantics and Logic, Macmillan, New York 1971.
+An Introduction to the Philosophy of Time and Space, Random House, New York 1970.
+
+See also[edit]
+
+American philosophy
+List of American philosophers
+
+Notes[edit]
+
+
+^ Bayesian Epistemology (Stanford Encyclopedia of Philosophy)
+^ https://www.princeton.edu/~fraassen/cv/index.htm
+^ SF State News at SFSU
+^ SF State Campus Memo: New tenure-track faculty 2008-09
+^ New Blackfriars Vol. 80, No. 938, 1999.
+^ "B.C. van Fraassen". Royal Netherlands Academy of Arts and Sciences. Retrieved 17 July 2015. 
+^ LES MEMBRES ACTUELS DE L'A.I.P.S. Archived 2013-09-19 at the Wayback Machine.
+^ Hempel Award recipients
+^ a b http://plato.stanford.edu/entries/constructive-empiricism/
+^ Jarrett Leplin (1984), Scientific Realism, University of California Press, p. 1, ISBN 0-520-05155-6 
+^ Bas C. van Fraassen, Curriculum Vitae
+^ The Journal of Philosophy, Vol. 63, No. 17, (Sept. 15, 1966), pp. 481–495
+^ Churchland, Paul M., "The anti-realist epistemology of van Fraassen's The Scientific Image.", The Los Angeles Pacific Philosophical Quarterly, 63.3 (1982): 226-235.
+
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to: Bas van Fraassen
+
+
+
+van Fraassen's homepage at Princeton.
+van Fraassen's faculty page (2009) at the Department of Philosophy, San Francisco State University.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Analytic philosophy
+
+
+
+Philosophers
+
+
+
+J. L. Austin
+A. J. Ayer
+G. E. M. Anscombe
+Nick Bostrom
+Robert Brandom
+C. D. Broad
+Patricia Churchland
+David Chalmers
+Noam Chomsky
+James F. Conant
+Alice Crary
+Donald Davidson
+Daniel Dennett
+Cora Diamond
+Michael Dummett
+Paul Feyerabend
+Antony Flew
+Bas van Fraassen
+Gottlob Frege
+Jerry Fodor
+Philippa Foot
+Peter Geach
+Paul Grice
+Ian Hacking
+R. M. Hare
+Carl Gustav Hempel
+Peter van Inwagen
+Christine Korsgaard
+Saul Kripke
+Thomas Kuhn
+David Lewis
+Alasdair MacIntyre
+J. L. Mackie
+Norman Malcolm
+John McDowell
+G. E. Moore
+Ernest Nagel
+Thomas Nagel
+Robert Nozick
+Derek Parfit
+Alvin Plantinga
+Karl Popper
+Hilary Putnam
+W. V. O. Quine
+John Rawls
+Hans Reichenbach
+Richard Rorty
+Bertrand Russell
+Gilbert Ryle
+Moritz Schlick
+John Searle
+Wilfrid Sellars
+Peter Singer
+Richard Swinburne
+Charles Taylor
+Michael Walzer
+Bernard Williams
+Timothy Williamson
+Ludwig Wittgenstein
+
+
+
+
+
+Theories
+
+
+
+Actualism
+Analytical feminism
+Analytical Marxism
+Anti-realism
+Berlin Circle
+Descriptivist theory of names
+Emotivism
+Functional contextualism
+Linguistic turn
+Logical positivism
+Modal realism
+Model-dependent realism
+Neopragmatism
+Neurophilosophy
+Ordinary language philosophy
+Postanalytic philosophy
+Pragmatic theory of truth
+Verificationism
+Vienna Circle
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+Causal / Deductive / epistemic closure
+Concept
+Counterfactual
+Denotation / reference
+Definite description
+Factive
+Family resemblance
+Intuition
+Meaning (Proposition)
+Modality
+Natural kind / projectability
+Necessary–sufficient conditions
+Paradox of analysis
+Possible world
+Reduction
+Reflective equilibrium
+Rigid–flaccid designators
+Sense data
+Supervenience
+Thought experiment
+Truth function
+Truthmaker
+Truth-bearer
+Type–token distinction
+
+
+
+
+
+Related articles
+
+
+
+Aretaic turn
+Australian realism
+Communitarianism
+Ordinary language philosophy
+Philosophical logic
+Philosophy of language
+Philosophy of science
+Postanalytic philosophy
+
+
+
+
+
+
+
+
+ Index
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Logic
+
+
+
+
+
+
+Outline
+History
+
+
+
+
+
+Fields
+
+
+
+Argumentation theory
+Axiology
+Critical thinking
+Logic in computer science
+Mathematical logic
+Metalogic
+Metamathematics
+Non-classical logic
+Philosophical logic
+Philosophy of logic
+Set theory
+
+
+
+
+
+Foundations
+
+
+
+Abduction
+Analytic and synthetic propositions
+Antinomy
+A priori and a posteriori
+Deduction
+Definition
+Description
+Induction
+Inference
+Logical form
+Logical consequence
+Logical truth
+Name
+Necessity and sufficiency
+Meaning
+Paradox
+Possible world
+Presupposition
+Probability
+Reason
+Reference
+Semantics
+Statement
+Strict implication
+Substitution
+Syntax
+Truth
+Validity
+
+
+
+
+
+Lists
+
+
+
+
+topics
+
+
+
+Mathematical logic
+Boolean algebra
+Set theory
+
+
+
+
+
+other
+
+
+
+Logicians
+Rules of inference
+Paradoxes
+Fallacies
+Logic symbols
+
+
+
+
+
+
+
+
+
+
+
+Portal
+Category
+WikiProject (talk)
+changes
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of science
+
+
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+A priori and a posteriori
+Causality
+Commensurability
+Consilience
+Construct
+Creative synthesis
+Demarcation problem
+Empirical evidence
+Explanatory power
+Fact
+Falsifiability
+Feminist method
+Ignoramus et ignorabimus
+Inductive reasoning
+Intertheoretic reduction
+Inquiry
+Nature
+Objectivity
+Observation
+Paradigm
+Problem of induction
+Scientific law
+Scientific method
+Scientific revolution
+Scientific theory
+Testability
+Theory choice
+Theory-ladenness
+Underdetermination
+Unity of science
+
+
+
+
+
+Metatheory
+of science
+
+
+
+Coherentism
+Confirmation holism
+Constructive empiricism
+Constructive realism
+Constructivist epistemology
+Contextualism
+Conventionalism
+Deductive-nomological model
+Hypothetico-deductive model
+Inductionism
+Epistemological anarchism
+Evolutionism
+Fallibilism
+Foundationalism
+Instrumentalism
+Pragmatism
+Model-dependent realism
+Naturalism
+Physicalism
+Positivism / Reductionism / Determinism
+Rationalism / Empiricism
+Received view / Semantic view of theories
+Scientific realism / Anti-realism
+Scientific essentialism
+Scientific formalism
+Scientific skepticism
+Scientism
+Structuralism
+Uniformitarianism
+Vitalism
+
+
+
+
+
+Philosophy of
+
+
+
+Physics
+
+thermal and statistical
+Motion
+
+
+Chemistry
+Biology
+Environment
+Geography
+Social science
+Technology
+
+Engineering
+Artificial intelligence
+Computer science
+
+
+Information
+Mind
+Psychiatry
+Psychology
+Perception
+Space and time
+
+
+
+
+
+Related topics
+
+
+
+Alchemy
+Criticism of science
+Epistemology
+Faith and rationality
+History and philosophy of science
+History of science
+History of evolutionary thought
+Logic
+Metaphysics
+Pseudoscience
+Relationship between religion and science
+Rhetoric of science
+Sociology of scientific knowledge
+Sociology of scientific ignorance
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philosophers of science by era
+
+
+
+
+
+
+
+Ancient
+
+
+
+Plato
+Aristotle
+Stoicism
+Epicureans
+
+
+
+
+
+Medieval
+
+
+
+Averroes
+Avicenna
+Roger Bacon
+William of Ockham
+Hugh of Saint Victor
+Dominicus Gundissalinus
+Robert Kilwardby
+
+
+
+
+
+Early modern
+
+
+
+Francis Bacon
+Thomas Hobbes
+René Descartes
+Galileo Galilei
+Pierre Gassendi
+Isaac Newton
+David Hume
+
+
+
+
+
+Classical modern
+
+
+
+Immanuel Kant
+Friedrich Schelling
+William Whewell
+Auguste Comte
+John Stuart Mill
+Herbert Spencer
+Wilhelm Wundt
+Charles Sanders Peirce
+Wilhelm Windelband
+Henri Poincaré
+Pierre Duhem
+Rudolf Steiner
+Karl Pearson
+
+
+
+
+
+Late modern
+
+
+
+Alfred North Whitehead
+Bertrand Russell
+Albert Einstein
+Otto Neurath
+C. D. Broad
+Michael Polanyi
+Hans Reichenbach
+Rudolf Carnap
+Karl Popper
+Carl Gustav Hempel
+W. V. O. Quine
+Thomas Kuhn
+Imre Lakatos
+Paul Feyerabend
+Jürgen Habermas
+Ian Hacking
+Bas van Fraassen
+Larry Laudan
+Daniel Dennett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portal
+Category
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 32016743
+LCCN: n50082187
+ISNI: 0000 0001 1051 3350
+GND: 123955432
+SELIBR: 200467
+SUDOC: 028799232
+BNF: cb12056065h (data)
+NDL: 00459522
+SNAC: w68x6378
+
+
+
+
+
+
+
+
+
+Wikiquote has quotations related to: Bas van Fraassen
+
+
+
+
+
+
+Categories: 1941 birthsLiving people20th-century American philosophers21st-century American philosophers20th-century Dutch philosophers21st-century Dutch philosophersAmerican logiciansAmerican Roman CatholicsChristian philosophersConverts to Roman CatholicismDutch logiciansDutch Roman CatholicsMembers of the Royal Netherlands Academy of Arts and SciencesPeople from GoesPrinceton University facultyRoman Catholic philosophersUniversity of Alberta alumniUniversity of Pittsburgh alumniUniversity of Southern California facultyUniversity of Toronto facultyYale University facultySan Francisco State University facultyAnalytic philosophersPhilosophers of sciencePhilosophy of physicsHidden categories: Webarchive template wayback linksArticles with hCardsWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with SELIBR identifiersWikipedia articles with BNF identifiersWikipedia articles with SNAC-ID identifiers

@@ -1,0 +1,510 @@
+Non-game
+
+Not to be confused with application software that is unrelated to gaming.
+
+
+
+
+
+
+Part of a series on the:
+
+
+Video game industry
+
+
+
+
+Activities/jobs
+
+
+Video game design
+Game design
+Game art design
+Game development / Game developer
+Game modification
+Game producer
+Game programming / Game programmer
+Game publisher
+Game studies
+Game testing
+Game journalism
+Level design
+
+
+
+
+
+
+
+
+Development
+
+
+Game AI
+Game design
+Interaction design
+Game programming
+Level design
+Video game art
+Video game design
+Video game graphics
+Video game music
+
+
+
+
+
+
+
+
+Types
+
+
+Adult game
+Casual game
+Indie game
+Non-game
+
+Interactive art
+Interactive movie
+
+
+Nonviolent video game
+Serious game
+
+Advergame
+Art game
+Edugame
+Exergame
+
+
+
+
+
+
+
+
+
+
+Topics
+
+
+Digital rights management (DRM)
+Outsourcing
+Software license
+End-user license agreement (EULA)
+
+
+
+
+
+
+
+
+Related
+
+
+Video game
+History of video games
+
+
+
+
+
+
+
+
+Lists
+
+
+List of indie game developers
+List of video game developers
+List of video game industry people
+List of video game publishers
+List of video game websites
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+
+
+Art and video games
+
+
+ 
+
+
+
+
+Video games as an art form
+
+
+Video games as an art form
+Arthouse game
+The Art of Video Games (exhibition)
+Alternate reality game
+
+
+
+
+
+
+
+
+Artistic expression within video games
+
+
+Video game art
+Non-game
+Machinima
+Interactive movie
+
+
+
+
+
+
+
+
+Video game art creation
+
+
+Game art design
+Video game graphics
+Video game music
+Storytelling
+Pixel art
+Video game artists
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Non-games are a class of software on the border between video games and toys. The original term "non-game game" was coined by late Nintendo president Satoru Iwata, who describes it as "a form of entertainment that really doesn't have a winner, or even a real conclusion".[1] Will Wright had previously used the term "software toy" for the same purpose.[2] The main difference between non-games and traditional video games is the lack of structured goals, objectives, and challenges.[3] This allows the player a greater degree of self-expression through freeform play, since he or she can set up his or her own goals to achieve.
+
+
+
+Contents
+
+
+1 History
+2 See also
+3 References
+4 External links
+
+
+
+History[edit]
+Non-games have existed since the early days of video games, although there hasn't been a specific term for them. One of the first examples is Atari's 1977 Surround, a two-player snake game for the Atari 2600, which contains a free-form drawing mode called "Video Graffiti." Later examples are Jaron Lanier's Alien Garden (Epyx, 1982) and Moondust (Creative Software, 1983), Worms? (one of the 1983 launch titles from Electronic Arts), I, Robot (Atari, 1983), which features a special "ungame mode" called "Doodle City," and Jeff Minter's Psychedelia (Llamasoft, 1984), which is an interactive light synthesizer.
+Bill Budge's Pinball Construction Set (Electronic Arts, 1983) popularized software where building something is more entertaining than playing the finished product. To a lesser extent, some games became construction sets through the inclusion of level editors, like Doug Smith's Lode Runner (Broderbund, 1983), Ron Rosen's Mr. Robot and His Robot Factory (Datamost 1984), and John Anderson's Rally Speedway (Adventure International, 1983). Other more proper construction sets followed, such as EA's Adventure Construction Set (1984) and Racing Destruction Set (1985).
+In January 1984, Joel Gluck presented a simple toy called Bounce in his game design column in ANALOG Computing.[4] Bounce lets users draw low-resolution lines, then release a disc that leaves a permanent trail as it moves across the screen, making patterns as it reflects off of obstacles. The program is specifically designed not to have goals or scorekeeping, other than what's in the user's head. Bounce was revisited several times in ANALOG, including a version which allows multiple discs.[5]
+The 1989 simulation game SimCity was called a software toy by its creator Will Wright, since there is no ultimate objective in the main game (scenarios with objectives existed in some incarnations of the game, such as Sim City 2000, but these were not the focus).[6]
+Non-games have been particularly successful on the Nintendo DS and Wii platforms, where a broad range of Japanese titles have appealed to a growing number of casual gamers.[7][8]
+See also[edit]
+
+Video games as art
+
+References[edit]
+
+
+
+^ IGN: GDC 2005: Iwata Keynote Transcript, March 2005
+^ "I want my software toy". Brainy Gamer. September 25, 2008. 
+^ Francisco Queiroz: Insular, Critical Appraisal. September 2005
+^ Gluck, Joel (January 1984). "Our Game". ANALOG Computing (15). 
+^ Gluck, Joel (February 1985). "More Fun with Bounce!". ANALOG Computing (27). 
+^ The History of Civilization at GamaSutra
+^ Gpara.com: non-games sales figures in Japan, May 2007 (in Japanese)
+^ IGN: Non-Game Flood: Twelve more non games are set for the Japanese DS, July 2006
+
+
+
+External links[edit]
+
+gamesindustry.biz: When is a game not a game?
+Lost Garden: Nintendogs: The case of the non-game that barked like a game
+Qubrix Brain Twister - a 3D combinatorics toy.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Video game genres (List)
+
+
+
+Action
+
+
+
+Beat 'em up
+
+Hack and slash
+
+
+Fighting
+Maze
+
+Pac-Man clone
+
+
+Platform
+Shooter
+
+First-person
+Third-person
+Side-scrolling
+Top-down
+isometric
+Light gun
+Shoot 'em up
+Tactical
+
+
+Survival
+
+Battle royale
+
+
+
+
+
+
+
+Action-adventure
+
+
+
+Grand Theft Auto clone
+Immersive sim
+Metroidvania
+Stealth
+Survival horror
+
+Psychological horror
+
+
+
+
+
+
+
+Adventure
+
+
+
+Escape the room
+Interactive fiction
+Interactive movie
+Point n' click
+Visual novel
+
+
+
+
+
+MMO
+
+
+
+MMOFPS
+MMORPG
+MMORTS
+MUD
+
+
+
+
+
+Role-playing
+
+
+
+Action role-playing
+Dungeon crawl
+Roguelike
+Tactical role-playing
+
+
+
+
+
+Simulation
+
+
+
+Construction and management
+
+Business
+City
+Government
+
+
+Life simulation
+
+Dating sim
+Digital pet
+God
+Social simulation
+
+
+Sports
+
+
+
+
+
+Strategy
+
+
+
+4X
+Multiplayer online battle arena
+Real-time strategy
+
+Tower defense
+Time management
+
+
+Real-time tactics
+Turn-based strategy
+Turn-based tactics
+Wargame
+
+
+
+
+
+Vehicle simulation
+
+
+
+Flight simulator
+
+Amateur
+Combat
+Space
+
+
+Racing
+
+Kart racing
+Sim racing
+
+
+Submarine simulator
+Train simulator
+Vehicular combat
+
+
+
+
+
+Other genres
+
+
+
+Artillery
+Breakout clone
+Eroge
+Exergame
+Incremental
+Music
+
+Rhythm
+
+
+Non-game
+Party
+Programming
+Puzzle
+
+Sokoban
+Tile-matching
+
+
+
+
+
+
+
+Related concepts
+
+
+
+Advertising
+Arcade game
+Art game
+Audio game
+Casual game
+Christian game
+Crossover game
+Cult game
+Educational game
+FMV
+Gamification
+Indie game
+Multiplayer video game
+Nonlinear gameplay
+
+Open world
+
+
+Nonviolent video game
+Online game
+
+Browser game
+Multiplayer online game
+Online gambling
+Social network game
+
+
+Pervasive game
+Serious game
+Toys-to-life
+Twitch gameplay
+Video game clone
+
+
+
+
+
+
+
+
+
+
+Categories: Video game genresHidden categories: Articles with Japanese-language external links

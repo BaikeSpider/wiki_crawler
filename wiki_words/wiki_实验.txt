@@ -1,0 +1,229 @@
+实验
+
+
+
+
+
+本条目可参照英语维基百科相应条目来扩充。 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+实验（德语、英语、瑞典语、荷兰语: Experiment），区别于试验，实验是在科学研究中，在设定的条件下，用来检验某种假设，或者验证或质疑某种已经存在的理论而进行的操作。科学实验是可以重复的，不同的实验者在前提一致，操作步骤一致的情况下，能够得到相同的结果。通常实验最终以实验报告的形式发表。（而试验指的是在已知某种事物的时候，为了了解它的性能或者结果而进行的试用操作。） “实验”一词，在教育学/教学法文献中有着各种各样的定义。因此在这里对实验的定义进行解释和讨论。
+
+
+
+目录
+
+
+1 著名的实验
+2 另一种实验
+3 参考文献
+4 参见
+
+
+
+著名的实验[编辑]
+
+相传伽利略在比萨斜塔上曾经做过自由落体比萨斜塔实验，证明了自由落体下落的规律。但后来美国语言与信息研究中心的执行主任凯斯·达维林指出这是一个误传，伽利略并没有做过这项实验。
+伽利略的斜面滚球实验。
+拉瓦锡证明空气是由氧气和氮气组成的实验。
+青蛙实验，在缓慢升高温度的水中的青蛙不会跳出水面而被烫死，这证明了心理学中人若对于环境的不适应程度不明显，危机感将下降的说法。
+密立根的油滴实验。
+牛顿的色散实验。
+迈克耳孙-莫雷实验
+
+另一种实验[编辑]
+
+思想实验
+
+参考文献[编辑]
+
+参见[编辑]
+
+
+科学主题
+
+
+
+变因
+实验系统
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+试验设计
+
+
+
+
+
+
+科学方法
+
+
+
+科学实验
+统计设计
+控制
+内部效度 & 外部效度
+Experimental unit
+双盲实验
+
+
+Optimal design: Bayesian
+Random assignment
+Randomization
+Restricted randomization
+Replication versus subsampling
+Sample size
+
+
+
+
+
+
+
+
+实验
+& 阻塞
+
+
+
+Treatment
+效应值
+Contrast
+Interaction
+Confounding
+正交
+Blocking
+Covariate
+Nuisance variable
+
+
+
+
+
+
+
+
+概率模型
+& 推论统计学
+
+
+
+线性回归
+Ordinary least squares
+Bayesian
+
+
+Random effect
+Mixed model
+等级线性模型: 贝氏网络
+
+
+ANOVA
+Cochran's theorem
+Manova (multivariate)
+Ancova (covariance)
+
+
+Compare means
+Multiple comparison
+
+
+
+
+
+
+
+
+试验设计:
+
+完全随机设计
+
+
+
+Factorial
+Fractional factorial
+Plackett-Burman
+田口方法
+
+
+反应曲面法
+Polynomial & rational modeling
+Box-Behnken
+Central composite
+
+
+Block
+Generalized randomized block design (GRBD)
+拉丁方阵
+希腊拉丁方阵
+Orthogonal array
+拉丁超立方
+Repeated measures design
+Crossover study
+
+
+随机对照试验
+Sequential analysis
+Sequential probability ratio test
+
+
+
+
+
+
+
+
+
+
+
+Glossary
+实验设计分类
+概率与统计
+Statistical outline
+Statistical topics
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4015999-1
+NDL: 00574737
+
+
+
+
+
+
+
+
+
+
+
+
+分类：实验评价方法日语借词隐藏分类：需要从英语维基百科翻译的条目包含规范控制信息的维基百科条目

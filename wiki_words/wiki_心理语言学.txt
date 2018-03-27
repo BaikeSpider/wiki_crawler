@@ -1,0 +1,468 @@
+心理语言学
+
+
+
+
+
+本条目没有列出任何参考或来源。（2011年3月22日） 
+维基百科所有的内容都应该可供查证。请协助添加来自可靠来源的引用以改善这篇条目。无法查证的内容可能被提出异议而移除。 
+
+
+
+
+语言学
+
+
+理论语言学
+
+
+
+
+语音学
+音韵学
+构词学
+语法学
+语义学
+
+词汇语义学
+结构语义学
+原型语义学
+
+
+语用学
+
+
+
+
+
+
+
+应用语言学
+
+
+
+
+心理语言学
+社会语言学
+生成语言学
+认知语言学
+神经语言学
+计算语言学
+共时语言学
+
+对照语言学
+
+
+历史语言学
+
+比较语言学
+
+
+文体学
+
+规范语言学
+语源学
+
+
+语料库语言学
+
+
+
+
+其他
+
+
+
+
+语言学史
+语言学家列表
+未解的问题
+
+
+
+
+
+
+心理学
+
+
+
+
+
+
+
+心理学大纲
+心理学史
+心理学的子领域（英语：Subfields of psychology）
+
+
+
+
+心理学基础（英语：Basic science (psychology)）
+
+
+
+
+
+异常心理学
+行为遗传学
+生物心理学
+认知心理学
+比较心理学
+跨文化心理学（英语：Cross-cultural psychology）
+文化心理学（英语：Cultural psychology）
+差异心理学（英语：Differential psychology）
+发展心理学
+演化心理学
+实验心理学
+数学心理学
+神经心理学
+人格心理学
+正面心理学
+定量心理学（英语：Quantitative psychology）
+社会心理学
+
+
+
+
+
+应用心理学
+
+
+
+
+
+应用行为分析
+临床心理学
+社区心理学
+消费行为
+咨商心理学
+批判社区心理学
+教育心理学
+环境心理学（英语：Environmental psychology）
+人因工程学
+法庭心理学
+健康心理学
+人本主义心理学
+工业与组织心理学
+本体解释学（英语：Ontological hermeneutics）
+法律心理学
+医学心理学（英语：Medical psychology）
+军事心理学（英语：Military psychology）
+音乐心理学（英语：Music psychology）
+职业健康心理学（英语：Occupational health psychology）
+政治心理学
+宗教心理学
+学校心理学（英语：School psychology）
+运动心理学
+交通心理学
+
+
+
+
+
+心理学列表
+
+
+
+
+
+心理学学科列表
+心理学组织列表（英语：List of psychology organizations）
+心理学家
+心理治疗列表（英语：List of psychotherapies）
+重要著作列表（英语：List of important publications in psychology）
+重要研究列表（英语：List of psychological research methods）
+心理学学派列表
+心理学的时间表（英语：Timeline of psychology）
+心理学文章索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+ 心理学主题  神经科学主题  医学主题  社会主题
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+心理语言学是通过心理学来研究语言学的学科。他从心理过程和语言结构的对应关系来研究人类语言机制的构造和功能。从心理学的角度，它属于认知心理学；从语言学的角度，它属于实验语言学。
+
+
+
+目录
+
+
+1 历史
+2 研究范围
+3 参见
+4 延伸阅读
+5 参见
+6 外部链接
+
+
+
+历史[编辑]
+心理语言学（Psycholinguistics）一词是1936年美国心理学家坎特在其著作《语法的客观心理学》中开始使用的。但是作为心理语言学成为一个学科的标志则是1953年在美国印第安纳大学举办的“心理语言学”讨论会，以及1954年奥斯古德和西比奥克在此基础上合编的《心理语言学——理论和研究问题概述》。
+心理语言学在1950年代时，其理论基础主要是行为主义心理学。此时认为语言的学习就是不断的刺激、强化，儿童对语言的学习就是不断地对环境刺激做出反应，反复强化，形成语言习惯，从而形成语言行为。在语言教学中，注重于强调语法结构，忽视语义变化；强调句型练习。此时的心理语言学对语言行为进行了狭义的编码和译码研究，并且对语言与意义、人格、文化等问题进行了研究，并且对失语症和精神分裂症的语言病理进行了临床研究。
+1957年，乔姆斯基发表了《句法结构》一书，提出生成语法理论，从而引起了心理语言学对人类利用语言时的心理过程的激烈讨论，研究的问题主要是：
+
+语言运用的模式
+语言结构和语义的储存与记忆
+人脑对各种句子的处理
+
+1959年，美国语言学家乔姆斯基撰文指出，虽然通过实验能够有效地支持对动物的行为进行刺激、反应和强化的解释，但是人类语言本身非常复杂，很难确定应该刺激什么和使什么发生反应，因此行为主义心理学关于语言的解释含糊不清，无法说明问题。此后心理语言学开始检验乔姆斯基的理论是否适用于心理学和实证语言学中心理世纪的研究和试验。多数心理语言学家的结论是，语言结构和使用它的人的心理实际结构之间存在着某种对应关系，但不见得是一一对应的。
+研究范围[编辑]
+心理语言学研究人类如何使用和学习语言，并且如何通过语言来表达思想，进行思维。它的研究基础主要是来自心理学、认知科学、语言学的理论和研究方法。
+语言学方面:
+
+语音学及音韵学关注语言发音的问题. 在心理语言学的范畴里，则研究脑部如何理解及处理语言的声音。
+
+
+构词学是研究字的结构，特别是有相同字根的字 (例如：dog和dogs)，以及产生这些字的规则。
+
+
+语法学是研究语言的规则，以及文法。乔姆斯基提出转换-生成语法的理论，令心理语言学的研究视语法学为语言中非常重要的研究对象。
+
+
+语义学则处理字词和句子的含意。
+
+
+语用学就关注语言环境对语意理解的影响。
+
+心理学方面：
+心理语言学主要集中研究认字和阅读的过程，去了解人类思维的运作。而认知心理学中运作记忆 (Working Memory) 模型则成为心理语言学研究人类在处理语言 (听、讲、读、写四方面) 的研究基础方向。
+而发展心理语言学则集中研究幼儿及小童如何学习语言，通常使用实验方法或量性研究去进行研究。（相对于让·皮亚杰以自然观察的方法去研究儿童认知发展）
+参见[编辑]
+
+
+Animal language
+教育心理学
+人脑
+语言习得
+Language processing
+萨丕尔-沃夫假说
+神经语言学
+先天论
+第二语言习得
+Speech perception
+TRACE model
+
+
+延伸阅读[编辑]
+
+A short list of books that deal with psycholinguistics, written in language accessible to the non-expert, includes:
+
+Belyanin V.P (Белянин, Валерий Павлович). Foundations of Psycholinguistic Diagnostics (Models of the World). Moscow, 2000 (in Russian)
+Chomsky, Noam. (2000) New Horizons in the Study of Language and Mind. Cambridge: Cambridge University Press.
+Harley, Trevor. (2008) The Psychology of Language: From data to theory (3rd. ed.) Hove: Psychology Press.
+Harley, Trevor. (2009) Talking the talk: Language, psychology and science. Hove: Psychology Press.
+Lakoff, George. (1987) Women, fire, and dangerous things: what categories reveal about the mind. Chicago: University of Chicago Press.
+Menn, Lise. (2016). Psycholinguistics: Introduction and Applications, 2nd ed. San Diego: Plural Publishing, Inc.
+Piattelli-Palmarini, Massimo. (ed.) (1980) Language and learning: the debate between Jean Piaget and Noam Chomsky. Cambridge, Mass.: Harvard University Press.
+Pinker, Steven. (1994) The Language Instinct. New York: William Morrow.
+Rayner, K. and Pollatsek, A. (1989) The Psychology of Reading. New York:Prentice Hall.
+Steinberg, Danny D., Hiroshi Nagata, and David P. Aline, ed. (2001) Psycholinguistics: Language, Mind and World, 2nd ed. Longman
+Aitchison, Jean. (1998). The Articulate Mammal: An Introduction to Psycholinguistics. Routledge.
+Scovel, Thomas. (1998). Psycholinguistics. Oxford University Press.
+
+
+参见[编辑]
+
+语言学
+认知心理学
+转换-生成语法
+语言习得
+关键期假说 （critical period hypothesis）
+
+外部链接[编辑]
+
+
+语言学主题
+心理学主题
+
+
+
+
+关于心理语言学
+的图书馆资源
+
+
+
+
+
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+
+
+维基学院中的相关学习资源：
+
+心理语言学
+
+
+
+
+
+开放式目录计划中和心理语言学相关的内容
+
+
+
+心理学
+
+
+
+
+
+
+
+心理学大纲
+心理学史
+心理学的子领域（英语：Subfields of psychology）
+
+
+
+
+心理学基础（英语：Basic science (psychology)）
+
+
+
+
+
+异常心理学
+行为遗传学
+生物心理学
+认知心理学
+比较心理学
+跨文化心理学（英语：Cross-cultural psychology）
+文化心理学（英语：Cultural psychology）
+差异心理学（英语：Differential psychology）
+发展心理学
+演化心理学
+实验心理学
+数学心理学
+神经心理学
+人格心理学
+正面心理学
+定量心理学（英语：Quantitative psychology）
+社会心理学
+
+
+
+
+
+应用心理学
+
+
+
+
+
+应用行为分析
+临床心理学
+社区心理学
+消费行为
+咨商心理学
+批判社区心理学
+教育心理学
+环境心理学（英语：Environmental psychology）
+人因工程学
+法庭心理学
+健康心理学
+人本主义心理学
+工业与组织心理学
+本体解释学（英语：Ontological hermeneutics）
+法律心理学
+医学心理学（英语：Medical psychology）
+军事心理学（英语：Military psychology）
+音乐心理学（英语：Music psychology）
+职业健康心理学（英语：Occupational health psychology）
+政治心理学
+宗教心理学
+学校心理学（英语：School psychology）
+运动心理学
+交通心理学
+
+
+
+
+
+心理学列表
+
+
+
+
+
+心理学学科列表
+心理学组织列表（英语：List of psychology organizations）
+心理学家
+心理治疗列表（英语：List of psychotherapies）
+重要著作列表（英语：List of important publications in psychology）
+重要研究列表（英语：List of psychological research methods）
+心理学学派列表
+心理学的时间表（英语：Timeline of psychology）
+心理学文章索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+ 心理学主题  神经科学主题  医学主题  社会主题
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4127537-8
+NDL: 00562340
+NKC: ph124802
+
+
+
+
+
+
+
+
+
+
+
+
+分类：语言学分支心理学分支心理语言学隐藏分类：自2011年3月缺少来源的条目含有英语的条目包含规范控制信息的维基百科条目

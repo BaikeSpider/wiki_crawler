@@ -1,0 +1,146 @@
+Reformed epistemology
+
+
+
+
+Sixteenth-century portrait of John Calvin by an unknown artist. From the collection of the Bibliothèque de Genève (Library of Geneva)
+
+
+In the philosophy of religion, Reformed epistemology is a school of philosophical thought concerning the nature of knowledge (epistemology) as it applies to religious beliefs.[1] The central proposition of Reformed epistemology is that beliefs can be justified by more than evidence alone, contrary to the positions of evidentialism, which argues that while belief other than through evidence may be beneficial, it violates some epistemic duty.[2] Central to Reformed epistemology is the proposition that belief in God may be "properly basic" and not need to be inferred from other truths to be rationally warranted.[3] William Lane Craig describes Reformed epistemology as "One of the most significant developments in contemporary Religious Epistemology . . . which directly assaults the evidentialist construal of rationality."[2]
+Alvin Plantinga distinguishes between what he calls de facto from de jure objections to Christian belief. A de facto objection is one that attempts to show that Christian truth claims are false. In contrast, de jure objections attempt to undermine Christian belief even if it is, in fact, true. Plantinga argues that there are no successful objections to Christian belief apart from de facto (fact-based) objections.[3]
+"Reformed epistemology", was so named because it represents a continuation of the 16th century Reformed theology of John Calvin, who postulated a sensus divinitatis, an innate divine awareness of God's presence.[4] More recent influences on reformed epistemology are found in philosopher Nicholas Wolterstorff's Reason within the Bounds of Religion,[5] published in 1976, and Alvin Plantinga's "Reason and Belief in God",[6] published in 1983.
+Although Plantinga's Reformed epistemology developed over three decades, it was not fully articulated until 1993 with the publication of two books in an eventual trilogy: Warrant: The Current Debate,[3] and Warrant and Proper Function,[7]. The third in the series was Warranted Christian Belief,[8] published in 2000. Other prominent defenders of Reformed epistemology include William Lane Craig, William Alston, and Michael C. Rea.[9]
+
+
+
+Contents
+
+
+1 Concepts, definitions, and background
+
+1.1 Plantinga's Reformed epistemology
+
+
+2 Criticisms
+
+2.1 Great Pumpkin Objection
+
+2.1.1 Rebuttal
+
+
+2.2 Other objections
+
+
+3 References
+4 Bibliography
+5 External links
+
+
+
+Concepts, definitions, and background[edit]
+Plantinga's Reformed epistemology includes two arguments against classical foundationalism. The first grew out of his earlier argument in God and Other Minds (1967). In that work Plantinga argued that if our belief in other minds is rational without propositional or physical evidence, then belief in God is also rational. In his 1993 works, Plantinga argued that according to classical foundationalism most of us are irrational for having many beliefs we cannot justify, but which foundationalism does not accept as properly basic. Plantinga's second argument against classical foundationalism is that it is self-referentially incoherent. It fails the test of its own rules, which require that it be either self-evident, incorrigible, or evident to the senses.
+In Plantinga's view, warrant is defined as the property of beliefs that makes them knowledge. Plantinga argues that a properly basic belief in God is warranted when produced by a sound mind, in an environment supportive of proper thought in accord with a design plan successfully aimed at truth.[10] Because there is an epistemically possible model according to which theistic belief is properly basic and designed to form true belief in God, belief in God is probably warranted if theism is true. Plantinga does not argue that this model is true, but only that if it is true, theistic belief is also likely true, because then theistic belief would result from our belief-forming faculties functioning as they were designed.
+This connection between the truth value of theism and its positive epistemic status suggests to some that the goal of showing theistic belief to be externally warranted requires reasons for supposing that theism is true (Sudduth, 2000). This point is answered by many theistic arguments which purport to provide sufficient propositional and physical evidence to warrant that belief, apart from reformed epistemology.
+Plantinga's Reformed epistemology[edit]
+The best-known defender of reformed epistemology is Alvin Plantinga. According to Reformed epistemology, belief in God can be rational and justified even without arguments or evidence for the existence of God. More specifically, Plantinga argues that belief in God is properly basic, and due to a religious externalist epistemology, he claims belief in God could be justified independently of evidence. His externalist epistemology, called "Proper functionalism", is a form of epistemological reliabilism.[11]
+Plantinga discusses his view of Reformed epistemology and proper functionalism in a three-volume series. In the first book of the trilogy, Warrant: The Current Debate, Plantinga introduces, analyzes, and criticizes 20th-century developments in analytic epistemology, particularly the works of Chisholm, BonJour, Alston, and Goldman.[12] Plantinga argues that the theories of what he calls "warrant"—what many others have called justification (Plantinga draws out a difference: justification is a matter of fulfilling one's epistemic duties, whereas warrant is what transforms true belief into knowledge)—put forth by these epistemologists have failed to capture in full what is required for knowledge.[13]
+In the second book, Warrant and Proper Function, he introduces the notion of warrant as an alternative to justification and discusses topics like self-knowledge, memories, perception, and probability.[14] Plantinga's "proper function" account argues that as a necessary condition of having warrant, one's "belief-forming and belief-maintaining apparatus of powers" are functioning properly—"working the way it ought to work".[15] Plantinga explains his argument for proper function with reference to a "design plan", as well as an environment in which one's cognitive equipment is optimal for use. Plantinga asserts that the design plan does not require a designer: "it is perhaps possible that evolution (undirected by God or anyone else) has somehow furnished us with our design plans",[16] but the paradigm case of a design plan is like a technological product designed by a human being (like a radio or a wheel). Ultimately, Plantinga argues that epistemological naturalism- i.e. epistemology that holds that warrant is dependent on natural faculties – is best supported by supernaturalist metaphysics – in this case the belief in a creator God or in some designer who has laid out a design plan that includes cognitive faculties conducive to attaining knowledge.[17]
+According to Plantinga, a belief, B, is warranted if:
+
+(1) the cognitive faculties involved in the production of B are functioning properly…; (2) your cognitive environment is sufficiently similar to the one for which your cognitive faculties are designed; (3) … the design plan governing the production of the belief in question involves, as purpose or function, the production of true beliefs…; and (4) the design plan is a good one: that is, there is a high statistical or objective probability that a belief produced in accordance with the relevant segment of the design plan in that sort of environment is true.[18]
+
+Plantinga seeks to defend this view of proper function against alternative views of proper function proposed by other philosophers which he groups together as "naturalistic", including the "functional generalization" view of John Pollock, the evolutionary/etiological account provided by Ruth Millikan, and a dispositional view held by John Bigelow and Robert Pargetter.[19] Plantinga also discusses his evolutionary argument against naturalism in the later chapters of Warrant and Proper Function.[20]
+In 2000 Plantinga's third volume, Warranted Christian Belief, was published. In this volume, Plantinga's warrant theory is the basis for his theological end: providing a philosophical basis for Christian belief, an argument for why Christian theistic belief can enjoy warrant. In the book, he develops two models for such beliefs, the "A/C" (Aquinas/Calvin) model, and the "Extended A/C" model. The former attempts to show that a belief in God can be justified, warranted and rational, while the Extended model tries to show that core Christian theological beliefs, including the Trinity, the Incarnation, the resurrection of Christ, the atonement, salvation, etc.[clarification needed] can be warranted. Under this model, Christians are warranted in their beliefs because of the work of the Holy Spirit in bringing those beliefs about in the believer.
+James Beilby has argued that the purpose of Plantinga's Warrant trilogy, and specifically of his Warranted Christian Belief, is firstly to make a form of argument against religion impossible—namely, the argument that whether or not Christianity is true, it is irrational—so "the skeptic would have to shoulder the formidable task of demonstrating the falsity of Christian belief"[21] rather than simply dismiss it as irrational. In addition, Plantinga is attempting to provide a philosophical explanation of how Christians should think about their own Christian belief.
+Criticisms[edit]
+Although Reformed epistemology has been defended by several theistic philosophers, it has both Christian and non-Christian critics.
+Great Pumpkin Objection[edit]
+
+
+
+
+Linus awaits the Great Pumpkin in the comic Peanuts.
+
+
+A common objection, known as "The Great Pumpkin Objection", which Alvin Plantinga (1983) describes as follows:
+
+It is tempting to raise the following sort of question. If belief in God can be properly basic, why cannot just any belief be properly basic? Could we not say the same for any bizarre aberration we can think of? What about voodoo or astrology? What about the belief that the Great Pumpkin returns every Halloween? Could I properly take that as basic? Suppose I believe that if I flap my arms with sufficient vigor, I can take off and fly about the room; could I defend myself against the charge of irrationality by claiming this belief is basic? If we say that belief in God is properly basic, will we not be committed to holding that just anything, or nearly anything, can properly be taken as basic, thus throwing wide the gates to irrationalism and superstition? (p. 74)
+
+Rebuttal[edit]
+Plantinga's answer to this line of thinking is that the objection simply assumes that the criteria for "proper basicality" propounded by classical foundationalism (self-evidence, incorrigibility, and sense-perception) are the only possible criteria for properly basic beliefs. It is as if the Great Pumpkin objector feels that if properly basic beliefs cannot be arrived at by way of one of these criteria, then it follows that just 'any' belief could then be properly basic, precisely because there are no other criteria. But Plantinga says it simply doesn't follow from the rejection of classical foundationalist criteria that all possibility for criteria has been exhausted and this is exactly what the Great Pumpkin objection assumes.[6]
+Plantinga takes his counter-argument further, asking how the great pumpkin objector "knows" that such criteria are the only criteria. The objector certainly seems to hold it as 'basic' that the classical foundationalist criteria are all that is available. Yet, such a claim is neither self-evident, incorrigible, nor evident to the senses. This rebuts the Great Pumpkin objection by demonstrating the classical foundationalist position to be internally incoherent, propounding an epistemic position which it itself does not follow.[6]
+Other objections[edit]
+Other common criticisms of Plantinga's Reformed epistemology are that belief in God--like other sorts of widely debated and high-stakes beliefs--is "evidence-essential" rather than properly basic;[22] that plausible naturalistic explanations can be given for humans' supposedly "natural" knowledge of God;[23]; that it is arbitrary and arrogant for Christians to claim that their faith-beliefs are warranted and true (because vouched for by the Holy Spirit) while denying the validity of non-Christians' religious experiences;[24] and that there are important possible "defeaters" of Christian belief that Plantinga fails to address (e.g., passages in the Bible that seem hard to reconcile with his assumption of divine authorship and inerrancy).
+References[edit]
+
+
+^ "The Epistemology of Religion". Stanford Encyclopedia of Philosophy. Retrieved 1 October 2016. 
+^ a b Craig, William Lane. "Religious Epistemology". BeThinking. Retrieved 1 October 2016. 
+^ a b c Plantinga, Alvin (1993). Warrant: The Current Debate (PDF). 1. Oxford: Oxford University Press. ISBN 9780195078619. 
+^ See Calvin's Institutes of the Christian Religion Bk. I, Chap. III.
+^ Wolterstorff, Nicholas (1976). Reason within the bounds of religion. Eerdmans, William B. Publishing Company. ISBN 9780802816436. 
+^ a b c Plantinga, Alvin; Wolterstorff, Nicolas (1983). "'Reason and Belief in God' in Faith and Rationality". Notre Dame: University of Notre Dame Press: 16–93. 
+^ Plantinga, Alvin (1993). Warrant and Proper Function. 2. Oxford University Press. ISBN 9780195078640. 
+^ Plantinga, Alvin (2000). Warranted Christian Belief. 3. Oxford: Oxford University Press. ISBN 978-0195131925. 
+^ Cowan, Steven (2000). Five Views on Apologetics. Grand Rapids, MI: Zondervan. pp. 19–20. ISBN 978-0-310-22476-1. 
+^ Warrant and Proper Function, New York: Oxford UP, 1993, viii
+^ Compare "L'epistemologia riformata (Plantinga)", article on Philosophia Reformata. (in Italian) Accessed 3 May 2016
+^ Alvin Plantinga, Warrant: The Current Debate, New York: Oxford University Press, 1993.
+^ Plantinga, Warrant: The Current Debate, 1993. 3.
+^ Alvin Plantinga, Warrant and Proper Function, New York: Oxford University Press, 1993.
+^ WPF, p. 4
+^ WPF, p. 21
+^ WPF, 237.
+^ Plantinga, Warrant and Proper Function, 1993. 194.
+^ WPF, p. 199-211.
+^ Fales, E. (1996). "Plantinga's Case against Naturalistic Epistemology". Philosophy of Science. 63 (3): 432–451. doi:10.1086/289920. 
+^ Beilby, James (2007). "Plantinga's Model of Warranted Christian Belief". In Baker, Deane-Peter. Alvin Plantinga. Cambridge: Cambridge University Press. pp. 125–165. ISBN 0-521-67143-4. 
+^ Wykstra, Stephen. "Toward a Sensible Evidentialism: on the Notion of ‘Needing Evidence’." In Philosophy of Religion, 2d ed., edited by William Rowe and William Wainwright. New York: Harcourt Brace Jovanovich (1989): 426-437.
+^ Barrett, Justin L., 2004, Why Would Anyone Believe in God?, Lanham: AltaMira.
+^ Feldman, Richard. “Plantinga on Exclusivism”. In Faith and Philosophy 20 (2003): 85-90.
+
+
+Bibliography[edit]
+
+Alston, William P. (1991). Perceiving God: The Epistemology of Religious Experience. Cornell University Press.
+Alston, William P. (1996). "Belief, Acceptance, and Religious Faith". In Faith, Freedom, and Rationality: Philosophy of Religion Today, Jordan & Howard-Snyder (eds.). Lanham: Rowman & Littlefield Publishers.
+Clark, Kelly James. (1990) Return to Reason. Grand Rapids: Eerdmans.
+Plantinga, A. & Wolterstorff, N., eds. (1983). Faith and Rationality: Reason and Belief in God. Notre Dame: University of Notre Dame Press.
+Plantinga, Alvin. (1967). God and Other Minds: A Study of the Rational Justification of Belief in God. Cornell University Press.
+Plantinga, Alvin. (1983). "Reason and Belief in God". In Plantinga & Wolterstorff (1983), pp. 16–93.
+Plantinga, Alvin. (1993a). Warrant: the Current Debate. Oxford University Press.
+Plantinga, Alvin. (1993b). Warrant and Proper Function. Oxford University Press.
+Plantinga, Alvin. (2000a). Warranted Christian Belief. Oxford University Press.
+Plantinga, Alvin. (2000b). "Arguments for the Existence of God". In the Routledge Encyclopedia of Philosophy. New York: Routledge.
+Plantinga, Alvin. (2000c). "Religion and Epistemology". In the Routledge Encyclopedia of Philosophy. New York: Routledge.
+Plantinga, Alvin (2015). Knowledge and Christian Belief. Eerdmans: Grand Rapids, MI.
+Sudduth, Michael. (2000). "Reformed Epistemology and Christian Apologetics". <http://academics.smcvt.edu/philosophy/faculty/Sudduth/3_frameset.htm>.
+Wolterstorff, Nicholas. "How Calvin Fathered a Renaissance in Christian Philosophy". Lecture at Calvin College.
+Wolterstorff, Nicholas. (1976). Reason within the Bounds of Religion. Grand Rapids: Eerdmans.
+Wolterstorff, Nicholas. (2001). Thomas Reid and the Story of Epistemology. New York: Cambridge University Press.
+
+External links[edit]
+
+
+Philosophy portal
+
+
+
+Religious Epistemology by Kelly James Clark in the Internet Encyclopedia of Philosophy (IEP).
+Reformed Epistemology by Anthony Bolos and Kyle Scott Internet Encyclopedia of Philosophy (IEP).
+The Epistemology of Religion: Reformed Epistemology - by Peter Forrest, Jul 10, 2006.
+Reformed Epistemology and Christian Apologetics by Michael Sudduth. Saint Michael's College. April 2000
+Voodoo Epistemology by Keith DeRose. (A critical assessment of Plantinga's response to the "Great Pumpkin Objection.")
+Why Alston's Mystical Doxastic Practice Is Subjective by Richard Gale, originally published in Philosophy and Phenomenological Research, Vol. LIV, No. 4, December 1994.
+Reformed Epistemology Bibliography & time line compiled and categorized by Michael Sudduth.
+Reforming Reformed Epistemology (PDF) Duncan Pritchard. University of Stirling, Scotland.
+Are Christian Beliefs Properly Basic? by Keith DeRose. (A critical examination of Alvin Plantinga's provocative claim that Christian beliefs can be justified even without any evidence for them.)
+Articles on Christian Epistemology - from solagratia.org.
+VIDEO: Esther Meek, "Knowing, Knowing, Knowing God: Contours of Covenant Epistemology." Henry Center lecture (2008).
+"Proper Functionalism". Internet Encyclopedia of Philosophy. 
+
+
+
+
+
+Categories: Christian theologyEpistemological theoriesEpistemology of religionHidden categories: Articles with Italian-language external linksWikipedia articles needing clarification from January 2017

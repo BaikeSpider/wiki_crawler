@@ -1,0 +1,2 @@
+摹状词理论
+摹状词理论（theory of descriptions 或 Russell's Theory of Descriptions，简称RTD）是数理逻辑、语言哲学和分析哲学上的一个极重要的理论，被誉为分析哲学的典范。运用这个理论可以将日常语言中的描述语（摹状词）进行改写，得到数理逻辑的形式，从而避免一些日常语言中可能出现的逻辑悖论。该理论的最早阐发是由伯特兰·罗素（Bertrand Russell）在1905年的一篇论文《论指称》（On Denoting）中完成的。

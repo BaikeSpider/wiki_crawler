@@ -1,0 +1,129 @@
+道德怀疑主义
+道德怀疑主义（或道德怀疑论）是后设伦理学领域的其中一类理论，大多由蕴涵“没人有道德知识”（即“每个人都永远没有任何道德知识”）的想法组成。许多道德怀疑主义者也针对“道德”提出更尖锐的并模态的“道德知识是不可能的”、“道德知识是不可能发生的”，或“不存在道德”这些主张。与道德怀疑主义特别相对应的是道德实在主义，后者主要的想法是“有可知的并客观的道德真理”。
+道德怀疑主义拥护者包括大卫·休谟，John Leslie Mackie[1]，麦克斯·施蒂纳，弗里德里希·尼采，Richard Joyce[2]，迈克尔·鲁斯，Joshua Greene，Richard Garner，Walter Sinnott-Armstrong[3][4]，和心理学家James Flynn。严格地说，Gilbert Harman支持道德相对主义[5]，而不是道德怀疑主义；然而，他已经影响了一些当代道德怀疑主义者。
+
+
+
+目录
+
+
+1 类型
+2 道德错误理论
+3 表现主义
+4 知识论型
+5 相关条目
+6 注脚
+7 延伸阅读
+8 外部链接
+
+
+
+类型[编辑]
+主要有三个类型[6]：
+
+以道德错误理论（英文：moral error theory）表达的道德虚无主义（英文：moral nihilism或ethical nihilism）
+以表现主义（英文：expressivism）（归属于非认知主义（英文：non-cognitivism））表达的道德虚无主义
+知识论型道德怀疑主义
+
+三类皆有相同结论：(a) 人永不有理据地相信任何道德主张（例：“某个事务的状态是好的”；“某个行为是道德义务”）；甚至更因此，(b) 人永不知道任何道德主张是否正确；但各类有不同的论证方法。
+道德错误理论[编辑]
+论证架构：
+(i) 所有道德主张都是错的；
+(ii) 我们有理由相信“所有道德主张都是错的”；
+(iii) 对于我们有理由否认的那些主张，我们不是有理据地相信（例：考虑“吸毒有益健康”此主张，我们有理由否认“吸毒有益健康”，所以我们不是有理据地相信“吸毒有益健康”；把(ii): “我们有理由相信所有道德主张都是错的”转换为“我们有理由否认‘所有道德主张’”，配合(iii)），因此“我们不是有理据地相信‘所有道德主张’”，即(a)。
+
+简短批判
+1. 论证架构中可能有某些有争议的隐含的预设，例：(ii)和(iii)间可能隐含“相信‘X是错的’⇒否认X”。（“相信‘X是错的’”内特别用引号‘’是为了与“‘相信X’是错的”有区别，因此不使用“相信X是错的”；可参考下方“转换后之接续批判的三、和四、”提到¬B(X)与B(¬X)不一定等价之疑虑。）
+2. （针对(i)）违反直觉、经验，和普世价值，例：“不应该滥杀无辜”是错的，如何阐释？以及内在矛盾的疑虑：若Pn为某一道德主张，根据(i)所以Pn是错的，因此¬Pn（Pn的否命题）是对的，而道德主张的否命题仍然是道德主张，因此矛盾。
+3. （针对(ii)）类似(i)的内在矛盾的疑虑：若Pn为某一道德主张，根据(ii)所以我们有理由相信“Pn是错的”，因此我们有理由相信“¬Pn是对的”，而道德主张的否命题仍然是道德主张，因此矛盾。（特别用引号“”的理由类似简短批判的1.的后方（）中内容，即区别“‘有理由相信Pn’是错的”与“有理由相信‘Pn是错的’”，也可参考下方“转换后之接续批判的四、”提到JB(¬X)、J¬B(X)，与¬JB(X)不一定等价之疑虑。）
+4. （针对(iii)）以上述“吸毒有益健康”为例，仔细考虑可发现“前”“后”意思不同。其它举例：(1)“我们有理由否认‘欺骗是好事’”，所以“我们不是有理据地相信‘欺骗是好事’”，这样的推论真的合理吗？（同时考虑“我们有理据地相信善意谎言是好事”）；(2)我们有理由否认“归纳所得的规律广泛适用”，我们却又有理据地相信“归纳所得的规律广泛适用”。也就是“有些主张，我们有理由否认而且同时有理据地相信”。
+5. （针对论证策略）某件事“真的”成立，和“相信”其成立不同，因此可感觉到(ii)比(i)更与(iii)有关联，以及证明难度是(i)比(ii)更困难，甚至(i)本身有内在矛盾的疑虑，以及“提出(i)”即和(b)不一致，因此省略(i)更容易论证成功。
+
+参考传统对知识之分析（“Knowing that X(以下以K(X)表示)⇔X is a justified and true belief(以下以JTB(X)表示)”）做转换
+由于在英文版条目中提到“justified in believing”、“true”，和“false”，因此尝试转换。
+转换规则：
+
+称呼任一道德主张为Pn
+
+
+有理由X⇔有理据地X
+
+
+否认X⇔相信“X是错的”
+
+所以转换上述(i)至(iii)论证架构如下：
+1. ¬Pn
+2. JB(¬Pn)
+3. JB(¬X)⇒¬JB(X)
+∴ ¬JB(Pn) by 2.3. Modus Ponens
+
+转换后之接续批判
+一、
+猜测
+1. ¬Pn
+2. JB(¬Pn)
+之间隐含某些过程，较完整地重新表达：
+1. ¬Pn
+2. X⇒K(X)
+3. K(¬Pn) by 1.2. Modus Ponens
+4. K(X)⇔JTB(X)
+5. (K(X)⇒JTB(X))∧(K(X)⇐JTB(X)) by 4. Equivalence
+6. K(X)⇒JB(X) by 5. Simplification
+7. JB(¬Pn) by 3.6. Modus Ponens
+二、　（针对转换）“有理由X”和“有理据地X”是否等价？或是问“have reason”和“justified”之间有何关联？不合理的理由也可以是“有理据地”？或是“理由”一词即表示其合理性，所以没有不合理的理由？
+三、　（针对转换）“相信”和“认为”似乎差不多，但“否认X”和“相信‘X是错的’”是否等价？再同时考虑“不相信X”，此三者有何关联？或是问“not believe that X”、“believe that X is false”（或“believe that not X”），和“deny X”之间有何关联？
+四、　除此之外还继承传统知识分析的挑战与其它讨论空间，例：重新仔细考虑X、K(X)、JTB(X)、¬X、¬B(X)、B(¬X)、JB(¬X)、J¬B(X)，及¬JB(X)，而这些彼此之间有何关联？何者是否为何者之充分或必要条件？还有其它不是JTB定义知识的可能性作为讨论道德知识的途径。
+表现主义[编辑]
+表现主义者认为(b)，因为道德主张无法是对的或错的（道德主张没有真假值）；道德主张是命令（例：“不要使用暴力！”），情绪表达（例：“趁火打劫，无耻！”），或态度表达（例：“应该废除奴隶！”）。
+道德虚无主义的表达形式之一是表现主义。表现主义者认为，当某人说某事“不道德”时，他并未论及此事的对错；人们作道德判断时，仅是表达情感，而非陈述事实。某些表现主义者认为，人们并不是在描述行为、动机，和政策中具有的道德特征，而是在发泄情绪，或是指挥他人以某些方式行动，例如，当我们谴责酷刑时，我们表达反对和厌恶、抗拒，并鼓动他人一同谴责。[7]
+知识论型[编辑]
+主要可再细分为皮浪主义（、皮浪道德怀疑主义，或绝对怀疑主义）和教条式道德怀疑主义。知识论型道德怀疑主义者之特点：他们认为(a)，并且他们对于(i)抱持不可知的态度。
+
+皮浪主义者主张(a)的理由是：相信任何道德主张对或错，对我们都是不合理的；因此，除了对于(i)抱持不可知的态度以外，还否认(ii)。
+另一方面，教条式道德怀疑主义者坚称(ii)并以其为理由支持(a)。
+
+相关条目[编辑]
+
+伦理学
+Amoralism
+观点主义
+心理决定论
+“是—应该”问题
+尼采
+
+注脚[编辑]
+
+^ Mackie, J. L. (1977). Ethics: Inventing Right and Wrong, Penguin.
+^ Joyce, Richard (2001). The Myth of Morality, Cambridge University Press.
+^ Sinnott-Armstrong, Walter (2006a). "Moral Skepticism", The Stanford Encyclopedia of Philosophy, Edward N. Zalta (ed.). (link)
+^ Sinnott-Armstrong, Walter (2006b). Moral Skepticisms, Oxford University Press.
+^ Harman, Gilbert (1975). "Moral Relativism Defended," Philosophical Review, pp. 3–22.
+^ Moral Skepticism (Stanford Encyclopedia of Philosophy)
+^ Landau, Russ Shafer (2010). The Fundamentals of ethics. Oxford University Press. ISBN 978-0-19-532086-2. p. 292
+
+延伸阅读[编辑]
+
+Butchvarov, Panayot (1989). Skepticism in Ethics, Indiana University Press.
+Gibbard, Allan (1990). Wise Choices, Apt Feelings. Cambridge: Harvard University Press.
+Harman, Gilbert (1977). The Nature of Morality. New York: Oxford University Press.
+Joyce, Richard (2006). The Evolution of Morality, MIT Press. (link)
+Lillehammer, Halvard (2007). Companions in Guilt: arguments for ethical objectivity, Palgrave MacMillan.
+Olson, Jonas (2014). Moral Error Theory: History, Critique, Defence, Oxford University Press.
+Annas, Julia (2011). Intelligent Virtue, Oxford University Press.
+Annas, Julia (2001). "Moral Knowledge as Practical Knowledge", Social Philosophy and Policy 18(2).
+Stichter, Matt (2007). "Ethical Expertise: The Skill Model of Vitue", Ethical Theory and Moral Practice 10(2).
+Tsai, C. (2016). "Ethical Expertise and the Articulacy Requirement", Synthese.
+
+外部链接[编辑]
+
+道德怀疑主义在PhilPapers
+Walter Sinnott-Armstrong著. 道德怀疑主义在Stanford Encyclopedia of Philosophy
+Richmond Campbell著. 道德怀疑主义在Stanford Encyclopedia of Philosophy
+Henry S. Richardson著. 道德怀疑主义在Stanford Encyclopedia of Philosophy
+道德怀疑主义在Indiana Philosophy Ontology Project
+
+
+
+
+
+分类：伦理理论元伦理学道德怀疑主义隐藏分类：使用ISBN魔术链接的页面

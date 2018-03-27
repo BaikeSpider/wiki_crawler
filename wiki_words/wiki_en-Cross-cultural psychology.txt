@@ -1,0 +1,852 @@
+Cross-cultural psychology
+
+
+Part of a series on
+
+
+Psychology
+
+
+
+
+
+
+
+Outline
+History
+Subfields
+
+
+
+
+
+
+Basic types
+
+
+Abnormal
+Behavioral genetics
+Biological
+Cognitive/Cognitivism
+Comparative
+Cross-cultural
+Cultural
+Differential
+Developmental
+Evolutionary
+Experimental
+Mathematical
+Neuropsychology
+Personality
+Positive
+Quantitative
+Social
+
+
+
+
+
+
+
+
+Applied psychology
+
+
+Applied behavior analysis
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Environmental
+Ergonomics
+Forensic
+Health
+Humanistic
+Industrial and organizational
+Legal
+Medical
+Military
+Music
+Occupational health
+Political
+Religion
+School
+Sport
+Traffic
+
+
+
+
+
+
+
+
+Lists
+
+
+Disciplines
+Organizations
+Psychologists
+Psychotherapies
+Publications
+Research methods
+Theories
+Timeline
+Topics
+
+
+
+
+
+
+
+
+ Psychology portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Cross-cultural psychology is the scientific study of human behavior and mental processes, including both their variability and invariance, under diverse cultural conditions.[1] Through expanding research methodologies to recognize cultural variance in behavior, language, and meaning it seeks to extend and develop psychology.[2] Since psychology as an academic discipline was developed largely in North America and Europe, some psychologists became concerned that constructs accepted as universal were not as invariant as previously assumed, especially since many attempts to replicate notable experiments in other cultures had varying success.[3] Since there are questions as to whether theories dealing with central themes, such as affect, cognition, conceptions of the self, and issues such as psychopathology, anxiety, and depression, may lack external validity when "exported" to other cultural contexts, cross-cultural psychology re-examines them using methodologies designed to factor in cultural differences so as to account for cultural variance.[4] Although some critics have pointed to methodological flaws in cross-cultural psychological research and claim that serious shortcomings in the theoretical and methodological bases used impede rather than help the scientific search for universal principles in psychology, cross-cultural psychologists are turning more to the study of how differences (variance) occur, rather than searching for universals in the style of physics or chemistry.[2][3]
+While cross-cultural psychology represented only a minor area of psychology prior to WWII, it began to grow in importance during the 1960s. In 1971, the interdisciplinary Society for Cross-Cultural Research (SCCR) was founded, and in 1972 the International Association of Cross-Cultural Psychology (IACCP) was established.[5] Since then, this branch of psychology has continued to expand as there has been an increasing popularity of incorporating culture and diversity into studies of numerous psychological phenomena.
+Cross-cultural psychology is differentiated from cultural psychology, which refers to the branch of psychology that holds that human behavior is strongly influenced by cultural differences, meaning that psychological phenomena can only be compared with each other across cultures to a limited extent. In contrast, cross-cultural psychology includes a search for possible universals in behavior and mental processes. Cross-cultural psychology "can be thought of as a type [of] research methodology, rather than an entirely separate field within psychology".[5][6] In addition, cross-cultural psychology can be distinguished from international psychology which centers around the global expansion of psychology especially during recent decades. Nevertheless, cross-cultural psychology, cultural psychology, and international psychology are united by a common concern for expanding psychology into a universal discipline capable of understanding psychological phenomena across cultures and in a global context.
+
+
+
+Contents
+
+
+1 Definitions and early work
+2 Etic v. emic perspectives
+3 Research and applications
+
+3.1 Geert Hofstede and the dimensions of culture
+3.2 Counseling and clinical psychology
+3.3 Five-factor model of personality
+3.4 Emotion judgments
+3.5 Differences in subjective well-being
+3.6 How different cultures resolve conflict
+3.7 Gender-role and gender-identity differences and similarities
+3.8 Cross-cultural human development
+
+
+4 Future developments
+5 See also
+6 Notes
+7 References
+8 Further reading
+
+8.1 Online publications
+
+
+9 External links
+
+
+
+Definitions and early work[edit]
+Two definitions of the field include: "the scientific study of human behavior and its transmission, taking into account the ways in which behaviors are shaped and influenced by social and cultural forces"[7] and "the empirical study of members of various cultural groups who have had different experiences that lead to predictable and significant differences in behavior".[8] Culture, as a whole, may also be defined as "the shared way of life of a group of people."[7] In contrast to sociologists, most cross-cultural psychologists do not draw a clear dividing line between social structure and cultural belief systems.
+Early work in cross-cultural psychology was suggested in Lazarus and Steinthal's journal Zeitschrift für Völkerpsychologie und Sprachwissenschaft [Journal of Folk Psychology and Language Science], which began to be published in 1860. More empirically oriented research was subsequently conducted by Williams H. R. Rivers (1864–1922) who attempted to measure the intelligence and sensory acuity of indigenous people residing in the Torres Straits area, located between Australia and New Guinea.[9] The father of modern psychology, Wilhelm Wundt, published ten volumes on Völkerpsychologie (a kind of historically oriented cultural psychology), but these volumes have had only limited influence in the English-speaking world.[10] Wundt's student Franz Boas, an anthropologist at Columbia University, challenged several of his students such as Ruth Benedict and Margaret Mead to study psychological phenomena in nonwestern cultures such as Japan, Samoa, and New Guinea. They emphasized the enormous cultural variability of many psychological phenomena thereby challenging psychologists to prove the cross-cultural validity of their favorite theories.
+Etic v. emic perspectives[edit]
+Other fields of psychology focus on how personal relationships impact human behavior; however, they fail to take into account the significant impact that culture may have on human behavior.[5] The Malinowskian dictum focuses on the idea that there is a necessity to understand the culture of a society in its own terms instead of the common search for finding universal laws that apply to all human behavior.[11] Cross-culture psychologists have used the emic/etic distinction for some time.[12] The emic approach studies behavior from within the culture, and mostly is based on one culture; the etic approach studies behavior from outside the culture system, and is based on many cultures.[13] Currently, many psychologists conducting cross-cultural research are said to use what is called a pseudoetic approach.[14] This pseudoetic approach is actually an emic based approach developed in a Western culture while being designed to work as an etic approach.[14] Irvine and Carroll brought an intelligence test to another culture without checking whether the test was measuring what it was intended to measure. This can be considered pseudoetic work because various cultures have their own concepts for intelligence.[13]
+Research and applications[edit]
+Geert Hofstede and the dimensions of culture[edit]
+The Dutch psychologist Geert Hofstede revolutionized the field doing worldwide research on values for IBM in the 1970s. Hofstede's cultural dimensions theory is not only the springboard for one of the most active research traditions in cross-cultural psychology, but is also cited extensively in the management literature. His initial work found that cultures differ on four dimensions: power distance, uncertainty avoidance, masculinity-femininity, and individualism-collectivism.[15] Later, after The Chinese Culture Connection extended his research using indigenous Chinese materials, he added a fifth dimension - long-term orientation (originally called Confucian dynamism) - which can be found in other cultures besides China.[16] Still later, after work with Michael Minkov using data from the World Values Survey, he added a sixth dimension - indulgence versus restraint.[17][18]
+Despite its popularity, Hofstede's work has been seriously questioned by McSweeney (2002).[19] Furthermore, Berry et al. challenge some of the work of Hofstede, proposing alternative measures to assess individualism and collectivism. Indeed, the individualism-collectivism debate has itself proven to be problematic, with Sinha and Tripathi (1994) arguing that strong individualistic and collectivistic orientations may coexist in the same culture (they discuss India in this connection).[20]
+Counseling and clinical psychology[edit]
+Cross-cultural clinical psychologists (e.g., Jefferson Fish[21][22][23]) and counseling psychologists (e.g., Lawrence H. Gerstein,[24] Roy Moodley,[25][26] and Paul Pedersen[27][28]) have applied principles of cross-cultural psychology to psychotherapy and counseling. Additionally, the book by Uwe P. Gielen, Juris G. Draguns, and Jefferson M. Fish titled "Principles of Multicultural Counseling and Therapy" contains numerous chapters on the application of culture in counseling. Joan D. Koss-Chioino, Louise Baca, and Luis A. Varrga are all listed in this book (in the chapter titled "Group Therapy with Mexican American and Mexican Adolescents: Focus on Culture) as working with Latinos in their way of therapy that is known to be "culturally sensitive". For example, in their therapy they create a "fourth life space" that allows children/adolescents to reflect on difficulties they may be facing.[22] Furthermore, in the book it is stated that various countries are now starting to incorporate multicultural interventions into their counseling practices. The countries listed included: Malaysia, Kuwait, China, Israel, Australia, and Serbia.[22] Lastly, in the chapter titled "Multiculturalism and School Counseling: Creating Relevant Comprehensive Guidance and Counseling Programs," Hardin L. K. Coleman, and Jennifer J. Lindwall propose a way to incorporate cultural components into school counseling programs. Specifically, they emphasize the necessity of the counselor's having multicultural competence and the ability to apply this knowledge when working with persons of varying ethnic backgrounds.[22] In addition, several recent volumes have reviewed the state of counseling psychology and psychotherapy around the world while discussing cross-cultural similarities and differences in counseling practices.[24][25][26]
+Five-factor model of personality[edit]
+Can the traits defined by American psychologists be generalized across people from different countries? In response to this questions, cross-cultural psychologists have often questioned how to compare traits across cultures. To examine this question, lexical studies measuring personality factors using trait adjectives from various languages have been conducted.[29] Over time these studies have concluded that the factors of Extraversion, Agreeableness, and Conscientiousness almost always appear, yet Neuroticism and Openness to Experience sometimes do not. Therefore, it is difficult to determine whether these traits are nonexistent in certain cultures or whether different sets of adjectives must be used to measure them. However, many researches believe that the FFM is a universal structure and can be used within cross-cultural research and research studies in general. However, other cultures may include even more significant traits that go beyond those traits included in the FFM.[29]
+Emotion judgments[edit]
+Researchers have often wondered whether people across various cultures interpret emotions in similar ways. In the field of cross-cultural psychology, Paul Ekman has conducted research examining judgments in facial expression cross-culturally. One of his studies included participants from ten different cultures who were required to indicate emotions and the intensity of each emotion based upon picture of persons expressing various emotions. The results of the study showed that there was agreement across cultures as to which emotions were the most and second most intense.[30] These findings provide support for the view that there are at least some universal facial expressions of emotion. Nevertheless, it is also important to note that in the study there were differences in the way in which participants across cultures rated emotion intensity.[30]
+While there are said to be universally recognized facial expressions, Yueqin Huang and his colleagues performed research that looked at how a culture may apply different labels to certain expressions of emotions. Huang et al. (2001) in particular compared Chinese versus American perceptions of facial emotion expressions. They found that the Chinese participants were not as skilled as the American participants at perceiving the universal emotional expressions of people coming from a culture different than their own.[31] These findings show support for the notion that cross-cultural differences exist in emotional judgement. Huang et al. (2001) suggest that Asians may use different cues on the face to interpret the emotional expression. Also, because every culture has different values and norms, it is important to analyze those differences in order to gain a better understanding as to why certain emotions are either interpreted differently or not at all. For example, as Huang et al. (2001) point out, it is common for ‘negative emotions’ not to be welcomed in many Asian cultures. This important information may be critical in recognizing the cross-cultural difference between Asian and American judgments of the universal emotional expressions.[31]
+Differences in subjective well-being[edit]
+The term "subjective well-being" is frequently used throughout psychology research and is made up of three main parts: 1) life satisfaction (a cognitive evaluation of one's overall life), 2) the presence of positive emotional experiences, and 3) the absence of negative emotional experiences.[32] Across cultures people may have differing opinions on the "ideal" level of subjective well-being. For example, Brazilians have been shown in studies to find positive emotions very desirable whereas the Chinese did not score as highly on the desire for positive emotions.[32] Consequently, when comparing subjective well-being cross-culturally it appears important to take into account how the individuals in one culture may rate one aspect differently from individuals from another culture. It is difficult to identify a universal indicator as to how much subjective well-being individuals in different societies experience over a period of time.[32] One important topic is whether individuals from individualistic or collectivistic countries are happier and rate higher on subjective well-being. Diener, Diener, and Diener, 1995, noted that individualist cultural members are found to be happier than collectivist cultural members.[33] It is also important to note that happier nations may not always be the wealthier nations. While there are strong associations between cultural average income and subjective well-being, the "richer=happier" argument is still a topic of hot debate. One factor that may contribute to this debate is that nations that are economically stable may also contain various non-materialistic features such as a more stable democratic government, better enforcement of human rights, etc. that could overall contribute to a higher subjective well-being. Therefore, it has yet to be determined whether a higher level of subjective well-being is linked to material affluence or whether it is shaped by other features that wealthy societies often possess and that may serve as intermediate links between affluence and well-being.[32]
+How different cultures resolve conflict[edit]
+Grossmann et al. use evidence to show how cultures differ in the ways they approach social conflict and how culture continues to be an important factor in human development even into old age. Specifically, the paper examines aging-related differences in wise reasoning among the American and Japanese cultures. Participants' responses revealed that wisdom (e.g., recognition of multiple perspectives, one's limits of personal knowledge, and the importance of compromise) increased with age among Americans, but older age was not directly associated with wiser responses amongst the Japanese participants. Furthermore, younger and middle-aged Japanese participants illustrated higher scores than Americans for resolving group conflicts.[34] Grossmann et al. found that Americans tend to emphasize individuality and solve conflict in a direct manner, while the Japanese place an emphasis on social cohesion and settle conflict more indirectly. The Japanese are motivated to maintain interpersonal harmony and avoid conflict, resolve conflict better, and are wiser earlier in their lives. Americans experience conflict gradually, which results in continuous learning about how to solve conflict and increased wisdom in their later years. The current study supported the concept that varying cultures use different methods to resolve conflict.[34]
+Differences in conflict resolution across cultures can also be seen with the inclusion of a third party. These differences can be found when a third party becomes involved and provides a solution to the conflict.[35] Asian and American cultural practices play a role in the way the members of the two cultures handle conflict. A technique used by Korean-Americans may reflect Confucian values[35] while the American technique will be consistent with their individualistic and capitalistic views. Americans will have more structure in their processes which provides standards for similar situations in the future. Contrary to American ways, Korean-Americans will not have as much structure in resolving their conflicts, but more flexibility while solving a problem. For Korean-Americans, the correct way may not always be set but can usually be narrowed down to a few possible solutions.
+Gender-role and gender-identity differences and similarities[edit]
+Williams and Best (1990) have looked at different societies in terms of prevailing gender stereotypes, gender-linked self-perceptions, and gender roles. The authors found both universal similarities as well as differences between and within more than 30 nations.[36] The Handbook of Cross-Cultural Psychology also contains a fine review on the topic of Sex, Gender, and Culture. One of the main findings overall was that under the topic of sex and gender, pan-cultural similarities were shown to be greater than cultural differences.[37] Furthermore, across cultures the way in which men and women relate to one another in social groups has been shown to be fairly similar.[37] Further calls have been made to examine theories of gender development as well as how culture influences the behavior of both males and females.[37]
+Cross-cultural human development[edit]
+This topic represents a specialized area of cross-cultural psychology and can be viewed as the study of cultural similarities and differences in developmental processes and their outcomes as expressed by behavior and mental processes in individuals and groups. As presented by Bornstein (2010),[38] Gielen and Roopnarine (2016) and Gardiner and Kosmitzki (2010), researchers in this area have examined various topics and domains of psychology (e.g., theories and methodology, socialization, families, gender roles and gender differences, the effects of immigration on identity), human development across the human life cycle in various parts of the world, children in difficult circumstances such as street children and war-traumatized adolescents, and global comparisons between, and influences on, children and adults. Because only 3.4% of the world's children live in the United States, such research is urgently needed to correct the ethnocentric presentations that can be found in many American textbooks (Gielen, 2016)
+Berry et al. refer to evidence that a number of different dimensions have been found in cross-cultural comparisons of childrearing practices, including differences on the dimensions of obedience training, responsibility training, nurturance training (the degree to which a sibling will care for other siblings or for older people), achievement training, self-reliance, and autonomy;[39][40] Moreover, the Handbook of Cross-Cultural Psychology Volume 2 contains an extensive chapter (The Cultural Structuring of Child Development by Charles M. Super and Sara Harkness) on cross-cultural influences on child development. They stated that three recurring topics were shown to consistently come up during their review: "how best to conceptualize variability within and across cultural settings, to characterize activities of the child's mind, and to improve methodological research in culture and development."[41]
+Future developments[edit]
+The rise of cross-cultural psychology reflects a general process of globalization in the social sciences that seeks to purify specific areas of research which have western biases. In this way, cross-cultural psychology (together with international psychology) aims to make psychology less ethnocentric in character than it has been in the past. Cross-cultural psychology is now taught at numerous universities located around the world, both as a specific content area as well as a methodological approach designed to broaden the field of psychology.
+See also[edit]
+
+Cross-cultural psychiatry
+Cross-cultural leadership
+Cross-cultural studies
+Cultural psychology
+International psychology
+Social Axioms Survey
+
+Notes[edit]
+
+
+
+^ Ho, D. Y. F., & Wu, M. (2001). Introduction to cross-cultural psychology. In L. L. Adler & U. P. Gielen (Eds.), Cross-cultural topics in psychology (pp. 3–13). Westport, CT: Praeger.
+^ a b Gielen, U. P., & Roopnarine, J. L. (Eds.).(2016). Childhood and adolescence: Cross-cultural perspectives and applications (2nd ed.). Santa Barbara, CA: Praeger.
+^ a b Smith, Peter B., Fischer, R., Vignoles, V. L. & Bond, M. H. (Eds.). (2013). Understanding Social Psychology Across Cultures: Engaging with others in a changing world (2nd ed.). Thousand Oaks, California: Sage.
+^ Vijver, Fons van de, and Kwok Leung. Methods and Data Analysis for Cross-Cultural Research. Thousand Oaks, CA: Sage, 1997
+^ a b c Cherry, Kendra. "What is Cross Cultural Psychology". Retrieved 19 November 2012. 
+^ Lonner, W. J. (2000). On the growth and continuing importance of cross-cultural psychology. Eye on Psi Chi, 4(3), 22-26.
+^ a b Berry, J. W., & Poortinga, Y. H. (2011). Cross-cultural psychology: Research and applications (3rd ed.). Cambridge: Cambridge University Press.
+^ Brislin, Lonner, & Thorndike, 1973 as cited in Berry, J. W., Poortinga, Y. H., Segall, M. H., & Dasen, P. R. (1992). Cross-cultural psychology: Research and applications. Cambridge: Cambridge University Press.
+^ Jahoda, G. (1993). Crossroads between culture and mind. Cambridge, MA: Harvard University Press.
+^ Wundt, W. (1900-1920). Völkerpsychologie (Comparative Psychology of Peoples), vols.1-10. Leipzig, Germany: Engelmann.
+^ Triandis, Harry; Roy S. Malpass; Andrew R. Davidson (1971). "Biennial Review of Anthropology". 7: 1–84. JSTOR 2949227. 
+^ Berry, John (1969). "On cross-culture comparability". International Journal of Psychology. 4. 
+^ a b Berry, John (1980). Handbook of Cross-Cultural Psychology: Vol. 2. Methodology. Boston: Allyn and Bacon. p. 11. 
+^ a b Triandis, H. C.; Marin, G. (1983). "Etic Plus Emic Versus Pseudoetic: A Test of a Basic Assumption of Contemporary Cross-Cultural Psychology". Journal of Cross-Cultural Psychology. 14 (4): 489–500. doi:10.1177/0022002183014004007. ISSN 0022-0221. 
+^ Hofstede, G. (2001). Culture's consequences: Comparing values, behaviors, institutions, and organizations across nations (2nd ed.). Thousand Oaks, CA: Sage.
+^ The Chinese Culture Connection. (1987). Chinese values and the search for culture-free dimensions of culture. Journal of Cross-Cultural Psychology, 18, 143-164
+^ Minkov, Michael (2007). What makes us different and similar: A new interpretation of the World Values Survey and other cross-cultural data. Sofia, Bulgaria: Klasika y Stil Publishing House. ISBN 978-954-327-023-1
+^ Hofstede, Geert, Hofstede, Gert Jan, and Minkov, Michael. (2010). Cultures and organizations: Software of the Mind (3rd ed.). New York: McGraw-Hill.
+^ McSweeney (2002). Hofstede's model of national cultural differences and their consequences: A triumph of faith – a failure of analysis. Human Relations, 55(1), 89–118.
+^ Kim, U., Triandis, H. C., Choi, S. C., Kağitçibaşi, Ç., & Yoon, G. (Eds.). (1994). Individualism and collectivism: Theory, method, and applications. Thousand Oaks, CA: Sage.
+^ Fish, J. M. (1996). Culture and therapy: An integrative approach. Northvale, NJ: Jason Aronson.
+^ a b c d Gielen, U. P., Draguns, J. G., & Fish, J. M. (Eds.) (2008). Principles of multicultural counseling and therapy. New York City, NY: Routledge.
+^ Fish, J. M. (2011). The concept of race and psychotherapy. New York: Springer Science + Business Media.
+^ a b Gerstein, L.H., Heppner, P. P., AEgisdottir, Leung, S.-M. A., & Norsworthy, K. L. (Eds.). (2009). International handbook of cross-cultural counseling: Cultural assumptions and practices worldwide. Los Angeles, CA: Sage.
+^ a b Moodley, R., Gielen, U. P., & Wu, R. (Eds.). (2013). Handbook of counseling and psychotherapy in an international context. New York: Routledge.
+^ a b Moodley, R., Lengyell, M., Wu, R., & Gielen, U. P. (Eds.). (2015). International counseling case studies handbook. Alexandria, VA: American Counseling Association.
+^ Pedersen, P., Draguns J.G., Lonner W., & Trimble J. (2015). Counseling across cultures (7th ed.). Thousand Oaks, CA: Sage.
+^ Pedersen, P. (1999). Hidden messages in culture-centered counseling: A Triad Training Model. Thousand Oaks, CA: Sage.
+^ a b McCrae, R. R. "Cross-cultural research on the five-factor model of personality". In W. J. Lonner, D. L. Dinnel, S. A. Hayes, & D. N. Sattler (Eds.) Online Readings in Psychology and Culture (Unit 6, Chapter 1). Center for Cross-Cultural Research, Western Washington University Bellingham, Washington USA. Retrieved 29 November 2012. 
+^ a b Ekman, Paul; Wallace V. Friesen; Maureen O' Sullivan; Anthony Chan; Irene Diacoyanni-Tarlatzis; Karl Heider; Rainer Krause; William Ayhan LeCompte; Tom Pitcairn; Pio E. Ricci-Bitti; Klaus Scherer; Masatoshi Tomita; Athanase Tzavaras (13 March 1987). "Universals and Cultural Differences in the Judgements of Facial Expressions of Emotion". Journal of Personality and Social Psychology,. 53 (4): 712–717. doi:10.1037/0022-3514.53.4.712. 
+^ a b Huang, Yueqin; Tang, Siu; Helmeste, Daiga; Shioiri, Toshiki; Someya, Toshiyuki (2001). "Differential judgement of static facial expressions of emotions in three cultures". Psychiatry and Clinical Neurosciences,. 55 (5): 479–483. doi:10.1046/j.1440-1819.2001.00893.x. ISSN 1323-1316. 
+^ a b c d Suh, E.M; Oishi, S. "Subjective well-being across cultures". In W. J. Lonner, D. L. Dinnel, S., Online Readings in Psychology and Culture A. Hayes, & D. N. Sattler. Retrieved 30 November 2012. 
+^ Diener, E.; M. Diener; C. Diener (1995). "Factors predicting subjective well-being of nations". Journal of Personality and Social Psychology,. 69: 851–864. doi:10.1037/0022-3514.69.5.851. 
+^ a b Grossmann, I.; Karasawa, M.; Izumi, S.; Na, J.; Varnum, M. E. W.; Kitayama, S.; Nisbett, R. E. (2012). "Aging and Wisdom: Culture Matters". Psychological Science,. 23 (10): 1059–1066. doi:10.1177/0956797612446025. ISSN 0956-7976. 
+^ a b Lieche, Diane (1992). "Comparison of the American mediation process with a Korean-American harmony restoration process". Conflict Resolution Quarterly,. 9 (4): 323–339. doi:10.1002/crq.3900090405. ISSN 1536-5581. 
+^ Williams, J. E., & Best, D. L. (1990). Sex and psyche: Gender and self viewed cross-culturally. Newbury Park, CA: Sage.
+^ a b c Best, D.; J. Williams (1997). "Social Behavior and Applications; Sex, Gender, and Culture". Handbook of Cross-Cultural Psychology. 3: 163–212. 
+^ Bornstein, M.E. (Eds.). (2010). Handbook of cultural developmental science. New York: Psychology Press.
+^ Berry, J. W., Poortinga, Y. H., & Pandey, J. (Eds.).(1997). Handbook of cross-cultural psychology (2nd ed., Vols. 1–3). Boston: Allyn & Bacon.
+^ Berry, J. W., Poortinga, Y. H., Segall, M. H., & Dasen, P. R. (1992). Cross-cultural psychology: Research and applications. Cambridge: Cambridge University Press.
+^ Super, Charles M.; Sara Harkness (1997). "Basic Processes and Human Development: The Cultural Structuring of Child Development". The Handbook of Cross-Cultural Psychology. 2: 1–39. 
+
+
+
+References[edit]
+
+Berry, J. W., Poortinga, Y. H., Breugelmans, S. M., Chasiotis, A. & Sam, D. L. (2011). Cross-cultural psychology: Research and applications (3rd ed.). New York, NY: Cambridge University Press.
+
+Further reading[edit]
+
+Journal of Cross-Cultural Psychology (JCCP)
+Cross-Cultural Research (SCCR)
+Robert T. Carter (Editor). (2005). Handbook of Racial-cultural Psychology and Counselling. Vols. 1–2 New Jersey: John Wiley & Sons. ISBN 0-471-65625-9 (set).
+
+Volume 1: Theory and Research ISBN 0-471-38628-6
+Volume 2: Training and Practice. ISBN 0-471-38629-4
+
+
+Pandey, J., Sinha, D., & Bhawal, D. P. S. (1996). Asian contributions to cross-cultural psychology. London, UK: Sage.
+Shiraev, E., & Levy, D. (2013). Cross-cultural psychology: Critical thinking and contemporary applications (5th ed.). Boston: Allyn & Bacon.
+Smith, P. K., Fischer, R., Vignoles, V. L., & Bond, M. H. (2013). Understanding social psychology across cultures: Engaging with others in a changing world (2nd ed.). Thousand Oaks, CA: Sage.
+Singh, R. & Dutta, S. (2010). Race" and culture: Tools, techniques and trainings. A manual for professionals. London: Karnac Systemic Thinking and Practice Series.
+
+Major reviews of literature in Cross-Cultural Psychology[1] - 1. Five chapters in the Lindzey and Aronson Handbook of Social Psychology (Whiting 1968 on the methodology of one kind of cross-cultural research, Tajfek 1969 on perception, DeVos and Hippler 1969 on cultural psychology, Inkeles and Levinson 1969 on national character, and Etzioni 1969 on international relations) 2. Child (1968) reviewed the culture and personality area in the Borgatta and Lambert Handbook of Personality Theory and Research 3. Honigmann's (1967) book on personality and culture
+Online publications[edit]
+The following publications on the subject have been made available online on Google Book Search in their entirety or with substantial preview:
+
+Berry, John W; Poortinga, Ype H; Segall, Marshall H; Dasen, Pierre R (2002), Cross-cultural psychology: Research and applications (2nd ed.), Cambridge: Cambridge University Press, ISBN 0-521-64617-0, retrieved 24 June 2010 
+Berry, John W; Poortinga, Ype H; Pandey, Janak (Editors) (1997), Handbook of Cross-cultural Psychology, Vol 1: Theory and method (2nd ed.), Boston: Allyn and Bacon, ISBN 0-205-16074-3, retrieved 24 June 2010 CS1 maint: Extra text: authors list (link)
+Berry, John W; Dasen, Pierre R; Saraswathi, T.S. (Editors) (1997), Handbook of Cross-cultural Psychology, Vol 2: Basic processes and human development (2nd ed.), Boston: Allyn and Bacon, ISBN 0-205-16074-3, retrieved 24 June 2010 CS1 maint: Extra text: authors list (link)
+Berry, John W; Segall, Marshall H; Kagitcibasi, Cigdem (Editors) (1997), Handbook of Cross-cultural Psychology, Vol 3: Social behavior and applications (2nd ed.), Boston: Allyn and Bacon, ISBN 0-205-16074-3, retrieved 24 June 2010 CS1 maint: Extra text: authors list (link)
+
+External links[edit]
+
+
+Library resources about
+Cross-cultural psychology
+
+
+
+
+
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+ Learning materials related to Cross-cultural psychology at Wikiversity
+Culture readings online
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychology
+
+
+
+
+
+
+History
+Philosophy
+Portal
+Psychologist
+
+
+
+
+
+Basic psychology
+
+
+
+Abnormal
+Affective science
+Affective neuroscience
+Behavioral genetics
+Behavioral neuroscience
+Behaviorism
+Cognitive/Cognitivism
+Cognitive neuroscience
+Comparative
+Cross-cultural
+Cultural
+Developmental
+Differential
+Ecological
+Evolutionary
+Experimental
+Gestalt
+Intelligence
+Mathematical
+Neuropsychology
+Personality
+Positive
+Psycholinguistics
+Psychophysics
+Psychophysiology
+Quantitative
+Social
+Theoretical
+
+
+
+
+
+Applied psychology
+
+
+
+Anomalistic
+Applied behavior analysis
+Assessment
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Ergonomics
+Feminist
+Forensic
+Health
+Industrial and organizational
+Legal
+Media
+Military
+Music
+Occupational health
+Pastoral
+Political
+Psychometrics
+Psychotherapy
+Religion
+School
+Sport and exercise
+Suicidology
+Systems
+Traffic
+
+
+
+
+
+Methodologies
+
+
+
+Animal testing
+Archival research
+Behavior epigenetics
+Case study
+Content analysis
+Experiments
+Human subject research
+Interviews
+Neuroimaging
+Observation
+Qualitative research
+Quantitative research
+Self-report inventory
+Statistical surveys
+
+
+
+
+
+
+Psychologists
+
+
+
+
+William James (1842–1910)
+Ivan Pavlov (1849–1936)
+Sigmund Freud (1856–1939)
+Edward Thorndike (1874–1949)
+Carl Jung (1875–1961)
+John B. Watson (1878–1958)
+Clark L. Hull (1884–1952)
+Kurt Lewin (1890–1947)
+Jean Piaget (1896–1980)
+Gordon Allport (1897–1967)
+J. P. Guilford (1897–1987)
+Carl Rogers (1902–1987)
+Erik Erikson (1902–1994)
+B. F. Skinner (1904–1990)
+Donald O. Hebb (1904–1985)
+Ernest Hilgard (1904–2001)
+Harry Harlow (1905–1981)
+Raymond Cattell (1905–1998)
+Abraham Maslow (1908–1970)
+Neal E. Miller (1909–2002)
+Jerome Bruner (1915–2016)
+Donald T. Campbell (1916–1996)
+Hans Eysenck (1916–1997)
+Herbert A. Simon (1916–2001)
+David McClelland (1917–1998)
+Leon Festinger (1919–1989)
+George Armitage Miller (1920–2012)
+Richard Lazarus (1922–2002)
+Stanley Schachter (1922–1997)
+Robert Zajonc (1923–2008)
+Albert Bandura (b. 1925)
+Roger Brown (1925–1997)
+Endel Tulving (b. 1927)
+Lawrence Kohlberg (1927–1987)
+Noam Chomsky (b. 1928)
+Ulric Neisser (1928–2012)
+Jerome Kagan (b. 1929)
+Walter Mischel (b. 1930)
+Elliot Aronson (b. 1932)
+Daniel Kahneman (b. 1934)
+Paul Ekman (b. 1934)
+Michael Posner (b. 1936)
+Amos Tversky (1937–1996)
+Bruce McEwen (b. 1938)
+Larry Squire (b. 1941)
+Richard E. Nisbett (b. 1941)
+Martin Seligman (b. 1942)
+Ed Diener (b. 1946)
+Shelley E. Taylor (b. 1946)
+John Anderson (b. 1947)
+Ronald C. Kessler (b. 1947)
+Joseph E. LeDoux (b. 1949)
+Richard Davidson (b. 1951)
+Susan Fiske (b. 1952)
+Roy Baumeister (b. 1953)
+
+
+
+
+
+Lists
+
+
+
+Counseling topics
+Disciplines
+Important publications
+Organizations
+Outline
+Psychologists
+Psychotherapies
+Research methods
+Schools of thought
+Timeline
+Topics
+
+
+
+
+
+
+
+
+Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Culture
+
+
+
+
+Outline
+
+
+
+Sciences
+
+
+
+Cultural anthropology
+Cultural astronomy
+Cultural ecology
+Cultural geography
+Cultural neuroscience
+Cultural studies
+Culturology
+Culture theory
+Neuroculture
+
+
+
+
+
+Subfields
+
+
+
+Bioculture
+Cross-cultural studies
+
+Cross-cultural communication
+Cross-cultural leadership
+Cross-cultural psychiatry
+Cross-cultural psychology
+
+
+Cultural analytics
+Cultural economics
+Cultural entomology
+Cultural health
+Cultural history
+Cultural mapping
+Cultural mediation
+Cultural psychology
+Culturomics
+Intercultural learning
+Intercultural relations
+Philosophy of culture
+Popular culture studies
+Semiotics of culture
+Sociology of culture
+Sound culture
+Theology of culture
+Transcultural nursing
+
+
+
+
+
+Types
+
+
+
+Constructed culture
+Dominant culture
+Folk culture
+High culture
+Individualistic culture
+Legal culture
+Low culture
+Microculture
+Official culture
+Political culture
+
+Civic
+
+
+Popular culture
+
+Urban
+
+
+Primitive culture
+Subculture
+
+Alternative culture
+list
+
+
+Super culture
+Vernacular culture
+Culture by location
+
+
+
+
+
+Aspects
+
+
+
+Acculturation
+Cultural appropriation
+Cultural area
+Cultural artifact
+Cultural baggage
+Cultural behavior
+Cultural bias
+Cultural capital
+
+Cross-cultural
+
+
+Cultural communication
+Cultural conflict
+Cultural cringe
+Cultural dissonance
+Cultural emphasis
+Cultural framework
+Cultural heritage
+Cultural icon
+Cultural identity
+Cultural industry
+Cultural invention
+Cultural landscape
+Cultural learning
+Cultural leveling
+Cultural memory
+Cultural pluralism
+Cultural practice
+Cultural property
+Cultural reproduction
+Cultural system
+Cultural technology
+Cultural universal
+Cultureme
+Enculturation
+High- and low-context cultures
+Interculturality
+Manuscript culture
+Material culture
+Non-material culture
+Organizational culture
+Print culture
+Protoculture
+Safety culture
+Technoculture
+Trans-cultural diffusion
+Transculturation
+Visual culture
+
+
+
+
+
+Politics
+
+
+
+Colonial mentality
+Consumer capitalism
+Cross cultural sensitivity
+Cultural assimilation
+Cultural attaché
+Cultural backwardness
+Cultural Bolshevism
+Cultural conservatism
+Cultural contracts
+Cultural deprivation
+Cultural diplomacy
+Cultural environmentalism
+Cultural exception
+Cultural feminism
+Cultural genocide
+Cultural globalization
+Cultural hegemony
+Cultural imperialism
+Cultural intelligence
+Cultural liberalism
+Cultural nationalism
+Cultural pessimism
+Cultural policy
+Cultural racism
+Cultural radicalism
+Cultural retention
+Cultural Revolution
+Cultural rights
+Cultural safety
+Cultural silence
+Cultural subsidy
+Cultural Zionism
+Culture change
+Culture minister
+Culture of fear
+Culture war
+Deculturalization
+Dominator culture
+Interculturalism
+Intraculturalism
+Monoculturalism
+Multiculturalism
+
+Biculturalism
+
+
+Pluriculturalism
+Security culture
+Transculturism
+
+
+
+
+
+Related
+
+
+
+Animal culture
+Archaeological culture
+Bennett scale
+Bullying culture
+Cannabis culture
+Circuit of culture
+Coffee culture
+Cross-cultural
+Cultural center
+Cultural Christian
+
+Cultural Mormon
+
+
+Cultural competence
+Cultural critic
+Cultural Detective
+Cultural determinism
+Cultural diversity
+Cultural encoding
+Cultural evolutionism
+Cultural Hindu
+Cultural homogenization
+Cultural institution
+Cultural jet lag
+Cultural Judaism
+Cultural lag
+Cultural literacy
+Cultural mosaic
+Cultural movement
+Cultural mulatto
+Cultural Muslim
+Cultural probe
+Cultural relativism
+Culture speculation
+Cultural tourism
+
+Pop-culture
+
+
+Cultural translation
+Cultural turn
+Cultural sensibility
+Culture and positive psychology
+Culture and social cognition
+Culture gap
+Culture hero
+Culture industry
+Culture shock
+Culturgen
+Children's culture
+Culturalism
+Cyberculture
+Death and culture
+Disability culture
+
+Deaf culture
+
+
+Emotions and culture
+Intercultural communication
+Intercultural competence
+Languaculture
+Living things in culture
+Media culture
+Oppositional culture
+Participatory culture
+Permission culture
+Rape culture
+Remix culture
+Tea culture
+Transformation of culture
+Urban culture
+Welfare culture
+
+
+
+
+
+
+
+
+Category
+Portal
+ Commons
+WikiProject
+changes
+
+
+
+
+
+
+
+
+^ Triandis, Harry C.; Roy S. Malpass; Andrew R. Davidson (1971). "Biennial Review of Anthropology". 7: 1–84. JSTOR 2949227. 
+
+
+
+
+
+
+Categories: Cross-cultural psychologyBranches of psychologyHidden categories: CS1 maint: Extra text: authors list

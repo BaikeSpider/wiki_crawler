@@ -1,0 +1,855 @@
+古英语
+
+
+古英语
+
+
+Ænglisc、Anglisc、Englisc
+
+
+
+《贝奥武夫》首页，图中文字为“ofer hron rade”，意为“鲸路（海）之上”。此为古英语表达形式之一，称比喻复合辞。
+
+
+
+区域
+今英格兰（除西南端和西北端），苏格兰南部和东部、威尔士东部边缘。
+
+
+年代
+13世纪前发展为中古英语
+
+
+语系
+
+印欧语系
+
+日耳曼语族
+
+西日耳曼语支
+
+盎格鲁-弗里西语组
+
+英语组（英语：English languages）
+
+古英语
+
+
+
+
+
+
+
+
+
+
+
+
+
+方言
+
+肯特语（英语：Kentish dialect (Old English)）
+麦西亚语（英语：Mercian dialect）
+诺森布里亚语（英语：Northumbrian dialect）
+西撒克逊语（英语：West Saxon dialect (Old English)）
+
+
+
+文字
+卢恩字母（英语：Anglo-Saxon runes）、后拉丁字母（古英语字母（英语：Old English Latin alphabet））。
+
+
+语言代码
+
+
+ISO 639-2
+ang
+
+
+ISO 639-3
+ang
+
+
+Glottolog
+olde1238[1]
+
+
+本条目包含国际音标符号。部分操作系统及浏览器需要特殊字母与符号支持才能正确显示，否则可能显示为乱码、问号、空格等其它符号。
+
+
+古英语（古英语：Ænglisc，英语：Old English）或盎格鲁-撒克逊语（英语：Anglo-Saxon）是指从449年到1066年间在对应于今天英格兰和苏格兰东南部的人说的英语。古英语属于西日耳曼语，和古弗里西语及古撒克逊语有密切关系。古英语和近代英语无论在读音、拼写、词汇和语法上都很不一样。古英语的语法和拉丁语[来源请求]、德语及冰岛语比较相近，形态变化很复杂。
+
+
+
+目录
+
+
+1 文字字母
+2 代表时期
+3 音系
+4 文法
+5 文学
+
+5.1 古英语文选
+
+
+6 参看
+7 引用
+
+
+
+文字字母[编辑]
+
+
+字母
+IPA 转述
+
+
+a
+/ɑ/, /ɑː/
+
+
+ā
+/ɑː/
+
+
+æ
+/æ/, /æː/
+
+
+ǣ
+/æː/
+
+
+b
+/b/
+
+
+[v] ( /f/ 的一个异音)
+
+
+c
+/k/
+
+
+/tʃ/
+
+
+cg
+/ddʒ/ (其发音为 /jj/ 的初期形式)
+
+
+/ɡɡ/ (偶尔)
+
+
+d
+/d/
+
+
+ð
+/θ/, 包括其异音 [ð]
+
+
+e
+/e/, /eː/
+
+
+ę
+
+
+
+ē
+/eː/
+
+
+ea
+/æɑ/, /æːɑ/
+
+
+ēa
+/æːɑ/
+
+
+eo
+/eo/, /eːo/
+
+
+ēo
+/eːo/
+
+
+f
+/f/，包括其异音 /v/ (同见 b).
+
+
+g
+/ɡ/，包括其异音 /ɣ/；或 /j/，包括其异音/dʒ/，后来变为 〈n〉
+
+
+h
+/h/，包括其异音/ç/, /x/
+
+
+i
+/i/, /iː/
+
+
+ī
+/iː/
+
+
+ie
+/iy/, /iːy/
+
+
+/e/, /eː/
+
+
+īe
+/iːy/
+
+
+io
+/iu/, /iːu/
+
+
+k
+/k/
+
+
+l
+/l/
+
+
+m
+/m/
+
+
+n
+/n/，包括其异音 /ŋ/ (以前为 /k/, /g/).
+
+
+o
+/o/, /oː/
+
+
+ō
+/oː/
+
+
+oe
+/ø/, /øː/ （部分地区方言含有其音）.
+
+
+ōe
+/øː/
+
+
+p
+/p/
+
+
+qu
+/kw/
+
+
+r
+/r/
+
+
+s
+/s/包括其异音 /z/.
+
+
+sc
+/ʃ/，偶尔ye/sk/.
+
+
+t
+/t/
+
+
+th
+/θ/ ，最早写为 (同见 þ).
+
+
+þ
+/θ/，包括其异音/ð/
+
+
+u
+/u/，/uː/ 有时也用 /w/表示 (可见于下方的ƿ).
+
+
+uu
+有时使用 /w/ (可见于下方的ƿ).
+
+
+ū
+现代版本， 用 /uː/ 以区别于 /u/
+
+
+w
+/w/
+
+
+ƿ
+/w/
+
+
+x
+/ks/ （或[xs ~ çs] 存在不确定）
+
+
+y
+/y/ 或 /yː/
+
+
+ȳ
+/yː/
+
+
+z
+/ts/
+
+
+双辅音在此阶段属于萌发期，双辅音 〈ðð〉或〈þþ〉、 〈ff〉 以及 〈ss〉 在古英语中不能被发音。[2]
+代表时期[编辑]
+古英语可以分为：
+史前古英语（450-650年），在这段时期，因为缺乏相关文献，古英语只能构拟出来，是当时盎格鲁人、撒克逊人和朱特人在英格兰地区的语言。
+早期古英语（650-900年），在这段时期，开始出现最古老的英语文献。
+后期古英语（900-1066年），古英语的最后阶段，随着诺曼征服，过渡至中古英语。
+音系[编辑]
+主条目：古英语音系
+古英语的音位表重构如下：
+
+
+ 
+双唇音
+唇齿音
+齿音
+齿龈音
+龈后音
+硬腭音
+软腭音
+声门音
+
+
+鼻音
+m
+ 
+ 
+n
+ 
+ 
+(ŋ)
+ 
+
+
+塞音
+p  b
+ 
+ 
+t  d
+ 
+ 
+k  ɡ
+ 
+
+
+塞擦音
+ 
+ 
+ 
+ 
+tʃ  (dʒ)
+ 
+ 
+ 
+
+
+擦音
+ 
+f  (v)
+θ  (ð)
+s  (z)
+ʃ
+(ç)
+(x)  (ɣ)
+h
+
+
+近音
+ 
+ 
+ 
+r
+ 
+j
+w
+ 
+
+
+边音
+ 
+ 
+ 
+l
+ 
+ 
+ 
+ 
+
+
+括号中的是同位异音:
+
+[dʒ] 是 /j/ 的同位异音，出现于 /n/ 之后与长辅音中
+[ŋ] 是 /n/ 的同位异音，出现在 /k/ 和 /ɡ/ 之前
+[v, ð, z] 分别是 /f, θ, s/ 的同位异音，出现在元音或浊音之间
+[ç, x] 是 /h/ 的同位异音，分别出现于在前和后元音之后的音节韵尾
+[ɣ] 是 /ɡ/ 的同位异音，出现于元音之后和早期的词首辅音丛中
+
+
+
+单元音
+短
+长
+
+
+前
+后
+前
+后
+
+
+闭
+i  y
+u
+iː  yː
+uː
+
+
+中
+e  (ø)
+o
+eː  (øː)
+oː
+
+
+开
+æ
+ɑ
+æː
+ɑː
+
+
+前中圆唇元音 /ø(ː)/ 出现在某些方言中，但在信料最好的后期西撒克逊方言中未出现。
+
+
+双元音
+短(单音重)
+长(双音重)
+
+
+前音素闭
+iy[3]
+iːy
+
+
+二音素中
+eo
+eːo
+
+
+二音素开
+æɑ
+æːɑ
+
+
+文法[编辑]
+古英语的名词有数和格的分别。数分为单数、复数；格分为主格、属格、与格、宾格。因此一个名词的变化数目，将数与格的变化相乘之后，共有8种变化形式。此外，名词还分三个性别：阳性、中性和阴性。这些性的区分并不是以自然性别来判断的。例如妇女（wifmann）就是阳性的。
+形容词的形态变化分为强、弱两种，它的数和格也共有8种变化。
+动词只有现在式和过去式两种时态变化。
+文学[编辑]
+古英语重要的文学作品包括《贝奥武夫》（Beowolf）、《盎格鲁撒克逊编年史》（Anglo-Saxon Chronicle）等。
+古英语文选[编辑]
+下文节选自《贝奥武夫》，约于公元900年
+
+
+行
+原始
+直译
+
+
+[1]
+Hwæt! wē Gār-Dena in geār-dagum,
+What! We [of] Gar-Danes (lit. spear-danes) in yore-days,
+
+
+[2]
+þeod-cyninga, þrym gefrunon,
+[of] people-kings, trim (glory) afrained (have learned of by asking),
+
+
+[3]
+hu ða æþelingas ellen fremedon.
+how those athelings (princes) arm-strong feats framed (made/performed).
+
+
+[4]
+Oft Scyld Scefing sceaþena þreatum,
+Oft Scyld Scefing, [from] scathers (enemies) [in] threats (armed bands),
+
+
+[5]
+monegum mægþum, meodosetla ofteah,
+[from] many magths (clans, groups of sons, cf. Irish cognate Mac-), mead-settles took,
+
+
+[6]
+egsode eorl. Syððan ærest wearð
+awed earls (leaders of men). Sith (since) erst (first) [he] worth (came to be)
+
+
+[7]
+feasceaft funden, he þæs frofre gebad,
+fewshiped (helpless, in "fewship") founden, he [in a state of] loving care abode (lived),
+
+
+[8]
+weox under wolcnum, weorðmyndum þah,
+wex (waxed) under welkin (the clouds), [in] mind's-worth (honour) thrived,
+
+
+[9]
+oðþæt him æghwylc þara ymbsittendra
+oth that (until that) [to] him each [of] those [who were] by-sitting ("sitting" or dwelling roundabout)
+
+
+[10]
+ofer hronrade hyran scolde,
+over whale-road (kenning for sea) hear (obedience) should (owed),
+
+
+[11]
+gomban gyldan. Þæt wæs god cyning!
+gifts [to] yield. That was [a] good king!
+
+
+现代英语意译:
+
+“Listen! We have heard of the glory of the Spear-Danes, of the kings of the people, in days of yore, [and] how those princes did deeds of glory. Often Scyld Scefing deprived armed bands of foes, many clans of mead-benches, [and] terrified warriors. Since he first was found helpless (he experienced comfort for that), he grew under the heavens, thrived with honours, until each of the nearby peoples over the sea were obliged to pay him tribute. That was a good king!”
+
+
+下文节选自《主祷文》（The Lord's Prayer）
+
+
+行
+原始
+直译
+
+
+[1]
+Fæder ūre þū þe eart on heofonum,
+Father of ours, thou who art in heavens,
+
+
+[2]
+Sī þīn nama ġehālgod.
+Be thy name hallowed.
+
+
+[3]
+Tōbecume þīn rīċe,
+Come thy riche (kingdom),
+
+
+[4]
+ġewurþe þīn willa, on eorðan swā swā on heofonum.
+Worth (manifest) thy will, on earth as also in heaven.
+
+
+[5]
+Ūre ġedæġhwāmlīcan hlāf syle ūs tō dæġ,
+Our daily loaf do sell (give) to us today,
+
+
+[6]
+and forġyf ūs ūre gyltas, swā swā wē forġyfað ūrum gyltendum.
+And forgive us our guilts as also we forgive our guilters [4]
+
+
+[7]
+And ne ġelǣd þū ūs on costnunge, ac ālȳs ūs of yfele.
+And do not lead thou us into temptation, but alese (release/deliver) us of (from) evil.
+
+
+[8]
+Sōþlīċe.
+Soothly.
+
+
+
+下文节选自《Charter of Cnut》
+
+
+原始
+直译
+
+
+¶ Cnut cyning gret his arcebiscopas and his leod-biscopas and Þurcyl eorl and ealle his eorlas and ealne his þeodscype, twelfhynde and twyhynde, gehadode and læwede, on Englalande freondlice.
+¶ Cnut, king, greets his archbishops and his lede'(people's)'-bishops and Thorkell, earl, and all his earls and all his peopleship, greater (having a 1200 shilling weregild) and lesser (200 shilling weregild), hooded(ordained to priesthood) and lewd(lay), in England friendly.
+
+
+And ic cyðe eow, þæt ic wylle beon hold hlaford and unswicende to godes gerihtum and to rihtre woroldlage.
+And I kithe(make known/couth to) you, that I will be [a] hold(civilised) lord and unswiking(uncheating) to God's rights(laws) and to [the] rights(laws) worldly.
+
+
+¶ Ic nam me to gemynde þa gewritu and þa word, þe se arcebiscop Lyfing me fram þam papan brohte of Rome, þæt ic scolde æghwær godes lof upp aræran and unriht alecgan and full frið wyrcean be ðære mihte, þe me god syllan wolde.
+¶ I nam(took) me to mind the writs and the word that the Archbishop Lyfing me from the Pope brought of Rome, that I should ayewhere(everywhere) God's love(praise) uprear(promote), and unright(outlaw) lies, and full frith(peace) work(bring about) by the might that me God would(wished) [to] sell'(give).
+
+
+¶ Nu ne wandode ic na minum sceattum, þa hwile þe eow unfrið on handa stod: nu ic mid godes fultume þæt totwæmde mid minum scattum.
+¶ Now, ne went(withdrew/changed) I not my shot(financial contribution, cf. Norse cognate in scot-free) the while that you stood(endured) unfrith(turmoil) on-hand: now I, mid(with) God's support, that [unfrith] totwemed(separated/dispelled) mid(with) my shot(financial contribution).
+
+
+Þa cydde man me, þæt us mara hearm to fundode, þonne us wel licode: and þa for ic me sylf mid þam mannum þe me mid foron into Denmearcon, þe eow mæst hearm of com: and þæt hæbbe mid godes fultume forene forfangen, þæt eow næfre heonon forð þanon nan unfrið to ne cymð, þa hwile þe ge me rihtlice healdað and min lif byð.
+Tho(then) [a] man kithed(made known/couth to) me that us more harm had found(come upon) than us well liked(equalled): and tho(then) fore(travelled) I, meself, mid(with) those men that mid(with) me fore(travelled), into Denmark that [to] you most harm came of(from): and that[harm] have [I], mid(with) God's support, afore(previously) forefangen(forestalled) that to you never henceforth thence none unfrith(breach of peace) ne come the while that ye me rightly hold(behold as king) and my life beeth.
+
+
+参看[编辑]
+
+中古英语
+近代英语
+现代英语
+
+引用[编辑]
+
+
+^ Hammarström, Harald; Forkel, Robert; Haspelmath, Martin; Bank, Sebastian (编). Old English. Glottolog 2.7. Jena: Max Planck Institute for the Science of Human History. 2016. 
+^ Old English. Wikipedia. 2017-06-25 （英语）. 
+^ 无法确定拼作ie/īe的双元音对究竟是[i(ː)y]还是[i(ː)e]. 该构拟基于许多方言并之入/y(ː)/.
+^ Lit. a participle: "guilting" or "[a person who is] sinning"; cf. Latin cognate -ant/-ent.
+
+
+
+
+
+前罗马铁器时代（英语：Pre-Roman Iron Age）
+前500年–前100年
+罗马铁器时代（英语：Roman Iron Age）早期
+前100年–100年
+罗马铁器时代（英语：Roman Iron Age）晚期
+100年–300年
+迁徙时期
+300年–600年
+中世纪前期
+600年–1100年
+中世纪
+1100–1350年
+中世纪后期2
+1350年–1500年
+近代早期
+1500年–1700年
+现代
+1700年至今
+
+
+原始日耳曼语
+西日耳曼语
+厄尔米诺内语
+（易北河日耳曼语）
+原始高地德语
+古高地德语、
+伦巴底语（英语：Lombardic language）1
+中古高地德语
+早期现代高地德语（英语：Early New High German）
+高地德语各变种
+
+
+标准德语
+
+
+伊斯特沃内语
+（威悉-莱茵日耳曼语）
+原始法兰克语
+古法兰克语
+古中部德语
+中古中部德语
+早期现代中部德语（英语：Early New High German）
+
+
+中部德语各变种
+
+
+古低地法兰克语（英语：Old Dutch）
+（古荷兰语）
+早期林堡语
+中古荷兰语（英语：Middle Dutch）
+晚期林堡语
+中古荷兰语（英语：Middle Dutch）
+早期林堡语
+林堡语
+
+
+早期
+中古荷兰语（英语：Middle Dutch）
+晚期
+中古荷兰语（英语：Middle Dutch）
+早期
+现代荷兰语
+荷兰语各变种
+
+
+南非语
+
+
+因格沃内语
+（北海日耳曼语）
+原始撒克逊语
+（东南因格沃内语）
+古撒克逊语（英语：Old Saxon）
+中古低地德语（英语：Middle Low German）
+低地德语各变种
+
+
+盎格鲁-弗里西语
+（西北因格沃内语）
+原始弗里西语
+古弗里西语（英语：Old Frisian）
+中古弗里西语（英语：Middle Frisian）
+弗里西语各变种
+
+
+原始英语
+古英语
+（盎格鲁-撒克逊）
+早期
+中古英语
+晚期
+中古英语
+近代英语
+英语各变种
+
+
+早期苏格兰语（英语：Early Scots）3
+中古苏格兰语（英语：Middle Scots）
+苏格兰语各变种（英语：Modern Scots）
+
+
+北日耳曼语
+原始诺尔斯语
+卢恩
+古西诺尔斯语
+古冰岛语
+晚期
+古冰岛语
+冰岛语
+
+
+古挪威语6
+古法罗语
+法罗语
+
+
+古诺恩语
+诺恩语
+灭绝4
+
+
+卢恩
+古东诺尔斯语
+中古挪威语
+挪威语
+
+
+早期
+古丹麦语
+晚期
+古丹麦语
+丹麦语
+
+
+早期
+古瑞典语（英语：Old Swedish）
+晚期
+古瑞典语（英语：Old Swedish）
+瑞典语
+
+
+达拉纳方言（英语：Dalecarlian dialects）
+
+
+卢恩
+古哥得兰语（英语：Old Gutnish）
+早期
+古哥得兰语（英语：Old Gutnish）
+晚期
+古哥得兰语（英语：Old Gutnish）
+哥得兰语5
+
+
+东日耳曼语
+哥特语
+（未证实哥特语方言）
+克里米亚哥特语（英语：Crimean Gothic language）
+灭绝
+
+
+汪达尔语（英语：Vandalic language）
+灭绝
+
+
+勃艮第语
+灭绝
+
+
+
+注解
+
+
+^1 伦巴底语的谱系学界分类存在争议。其亦被归类为同古撒克逊语相近。
+^2 中世纪后期指黑死病时期之后。黑死病对当时挪威语言状况的影响尤甚。
+^3 自早期北部中古英语产生[1]。麦克鲁尔认为应为诺森布里亚古英语[2]。《牛津简明英语语言词典》（第894页）中称苏格兰语的“来源”为“伯尼西亚王国的古英语”和“12至13世纪来自北英格兰和英格兰中部移民受到斯堪的纳维亚影响的英语”。“早期-中古-现代苏格兰语”的阶段划分在《简明苏格兰语词典》[3]及《古苏格兰语辞典》[4]中得到使用。
+^4 诺恩语的使用者为现代苏格兰语所同化（海岛苏格兰语（英语：Insular Scots））。
+^5 现代哥得兰语（Gutamål）为古哥得兰语（Gutniska）的直系继承，现已成为标准瑞典语的哥得兰岛方言（Gotländska）。
+^6 大陆古挪威语为介于古西诺尔斯语和古东诺尔斯语之间的方言。
+
+
+
+
+维基百科有此种语言版本：
+古英语维基百科
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4112501-0
+SUDOC: 027269434
+NDL: 00560256
+
+
+
+
+
+
+
+
+
+^ Aitken, A. J. and McArthur, T. Eds. (1979) Languages of Scotland. Edinburgh,Chambers. p. 87
+^ McClure (1991) in The Cambridge History of the English Language Vol. 5. p. 23.
+^ Robinson M. (ed.) (1985) the "Concise Scots Dictionary, Chambers, Edinburgh. p. xiii
+^ Dareau M., Pike l. and Watson, H (eds) (2002) "A Dictionary of the Older Scottish Tongue" Vol. XII, Oxford University Press. p. xxxiv
+
+
+
+
+
+分类：ISO 639-2代码的语言英语史隐藏分类：CS1英语来源 (en)含有古英语的条目有未列明来源语句的条目含有非中文内容的条目含有英语的条目包含规范控制信息的维基百科条目

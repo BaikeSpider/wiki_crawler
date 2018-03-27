@@ -1,0 +1,1350 @@
+伯尔赫斯·弗雷德里克·斯金纳
+
+
+
+
+
+
+
+
+
+
+
+
+B·F·斯金纳
+
+
+
+Skinner at the Harvard Psychology Department, 约 1950
+
+
+
+出生
+(1904-03-20)1904年3月20日
+宾夕法尼亚州萨斯奎汉纳（英语：Susquehanna Depot, Pennsylvania）
+
+
+逝世
+1990年8月18日(1990-08-18)（86岁）
+马萨诸塞州剑桥
+
+
+国籍
+美国
+
+
+母校
+汉密尔顿学院（英语：Hamilton College (New York)）
+哈佛大学
+
+
+知名于
+操作制约
+操作制约箱（英语：operant conditioning chamber）
+激进行为主义（英语：radical behaviorism）
+
+
+配偶
+Yvonne (Eve) Blue (-after 1990)[1]
+
+
+儿女
+Julie (1938-)
+Deborah
+
+
+奖项
+美国国家科学奖章（1968年）
+
+
+科学生涯
+
+
+研究领域
+心理学、语言学、哲学
+
+
+机构
+明尼苏达大学
+印第安纳大学
+哈佛大学
+
+
+受影响于
+查尔斯·达尔文
+巴甫洛夫
+恩斯特·马赫
+雅克·洛布
+爱德华·桑代克
+威廉·詹姆斯
+让-雅克·卢梭
+亨利·戴维·梭罗
+
+
+签名
+
+
+
+
+
+伯尔赫斯·弗雷德里克·斯金纳（英语：Burrhus Frederic Skinner，1904年3月20日－1990年8月18日）出生于美国宾夕法尼亚州萨斯奎汉纳，逝世于马萨诸塞州坎布里奇。斯金纳是一位美国心理学家，行为学家，作家，发明家，社会学者及新行为主义的主要代表。他在1958至1974年间担任哈佛大学心理教授的职位。他引入了操作条件性刺激，还写了著名的小说《桃源二村》。
+斯金纳发明了著名的斯金纳盒，引入了操作条件性刺激来解释这一现象（下文有详述）。 他改革了激进行为主义并且创立了自己的实验型研究心理学——实验型分析行为学。他在人类行为学上的作为在《言语行为》一书的出版后达到顶峰。
+在心理学研究中，斯金纳首先提出并改进了反应率这一概念作为因变量。他还发明了累积性记录作为测量反应率的工具，后者为他的著名行为学理念强化的提出奠定了基础。在2002年六月的一个调查中，斯金纳被认为是20世纪最有影响力的心理学家之一。[2]
+
+
+
+目录
+
+
+1 生平
+
+1.1 斯金纳箱
+1.2 奖赏作为学习的动机
+1.3 战鸽
+1.4 生活在一个计划社会中
+1.5 程序学习和语言实验室
+
+
+2 操作条件性刺激简述
+3 行为取向学习理论的建构
+4 参见
+5 参考资料
+
+
+
+生平[编辑]
+斯金纳出生于宾夕法尼亚洲的沙士魁海纳河畔。他的父亲叫做威廉·斯金纳，是一个律师。他的母亲叫做格蕾丝·斯金纳，是长老教会的成员。他幼年时祖母曾跟他描述过地狱，那使他非常害怕。后来在一位自由主义基督教老师试图减轻这种恐惧之后，斯金纳变成了一位无神论者。[3] 他在纽约读中学，到1926年为止他在大学里学艺术和语言学。本来他想成为作家，但他在给学校投稿时因为是无神论者而与所在的宗教学校理念背道而驰，仅仅在报纸中发表了约十多篇文章。按他的女儿写的传记他是在这个时候读了伊万·巴甫洛夫和约翰·华生的著作的。因此，在1926年收到文学学士学位后，他进入了哈佛大学。毕业后，他在父母的家里呆了一年试图成为一名小说家。可是很快他的作家梦破灭了，因为他没有什么文字功底，也不知道要写些什么。一次偶然让他拜读了沃森的行为学，这让他首次接触到了心理学，并为他日后在行为学的作为铺平了道路。 1931年，斯金纳收到了哈佛大学的哲学博士学位，并作为研究者留任至1936年。在1946年到1947年左右，他先后前往明尼苏达大学和印第安纳大学任心理部门主任。1958年，他回到哈佛大学成为了哈佛大学终身教授直到他因白血病死于1990年。 斯金纳是一个颇受争议的人物。有人叫他魔鬼，也有人认为他是神明。事实上，他的个性非常符合一个创新科学家的形象——勤勉认真，注重实际，尊重事实，也有一点小小的神经质。
+斯金纳箱[编辑]
+斯金纳箱（英语：Skinner Box）内装有一个操纵杆，下面有一个是食物盘，操纵杆与提供食丸的装置相连。只要箱内的动物按压操纵杆，就会有一粒食丸滚到食物盘内。斯金纳将饥饿的白鼠放于箱内，白鼠在箱内乱跑，活动中偶尔踏上操作杆，就有一粒食丸掉落在食物盘内，白鼠便吃到了食丸。白鼠经过几次尝试，会不断按压杠杆，直到吃饱为止。于是斯金纳认为，有机体做出的反应与其随后出现的刺激条件之间的关系对行为起着控制作用，它能影响以后反应发生的概率。
+奖赏作为学习的动机[编辑]
+通过他的试验他发现老鼠不仅由“事先”的刺激激发拨动开关，而且也由“事后”的刺激拨动开关。他发现动物的行动不仅仅是简单的“刺激-反应”，动物的行动也受到周围环境的影响，比如事后的饲料奖赏。斯金纳将这个行为称为“条件性刺激”，他不用“学习”这个词，因为他认为学习这个词含有动物有意图地做一件事的含义，而这个意图并没有在这个试验中反映出来，因此是不科学的。
+战鸽[编辑]
+由于他的动物心理学试验非常成功，因此他1931年获得博士学位后继续在哈佛待了五年，继续他的独立研究。1936年他转到明尼亚波利斯的明尼苏达大学，但在那里他没有继续他的工作。1944年，在第二次世界大战中德国开始使用火箭攻击英国，而盟军当时还没有类似的武器，因此斯金纳又开始了他的试验研究。他的研究（今天看来非常古怪）是一个绝对保密的军事研究。他打算训练鸽子，让它们用它们的啄的动作来控制火箭的飞行。后来这个控制由雷达来指挥，没有用鸽子。但他的试验也获得了一些科学结果，一些鸽子的行为的电影非常有效地证明了迷信的起源。之后斯金纳开始借由老鼠来进行实验，因为老鼠活得更久且较易处理及饲养。
+生活在一个计划社会中[编辑]
+1948年斯金纳回到哈佛并在那里一直待到他1974年退休。同年他发表了《桃源二村》。在这部小说中他描写了在一个操作条件性刺激所形成的社会中的生活。直到今天这部小说依然有很大的意义。这本至今很值得读的小说也是斯金纳最著名的著作。由于书中所描写的社会和行为技术它被看作是一个反面的乌托邦，这与斯金纳本来的意图正好相反。书中并未回答一个非常重要的问题：谁有资格创造控制着每个人每个生活细节之社会规则的权力。
+程序学习和语言实验室[编辑]
+使用他的动物试验的经验和他在《桃源二村》(Walden two)中已经描写过的学习理论斯金纳提出了程序学习的学习方法。他将学习的内容分为许多小块。学习的人在学会后获得可以学下一步的奖励。这样尤其是自学的人可以不断鼓励自己学习和控制学习的进展。语言实验室也是斯金纳的发明。
+斯金纳的主要著作《科学与人类行为》是1953年发表的，但他一直到高龄依然写书和文章，甚至在1989年他被诊断患白血病后依然在写作。在他逝世前十天他还在美国心理学协会作报告。他的女儿说：“他在1990年8月18日，他逝世的当日，完成了这次报告的文章。”
+操作条件性刺激简述[编辑]
+斯金纳引入了操作条件性刺激这个概念来与传统的条件性刺激相区别。
+最初由伊万·巴甫洛夫发现的传统的条件性刺激是对一个固定的刺激的反应。除一般的刺激（比如饲料）外同时还有另一个完全不同的刺激（比如铃声），因此在条件性刺激成功地建立后只要铃声响就会有唾液流出。
+操作条件性刺激与此不同的是在这里还增加了一个新的元素：行为后还有一个后果。尤其对试验动物好的后果的效果特别有效，比如奖励饲料。但不好的后果也可以训练出来，比如对猫或其它试验动物使用水枪进行惩罚。
+也就是说，传统的条件性刺激只是基于已存在的反应上对它进行变化，而操作条件性反应则产生了新的行为模式。训马早就采纳了斯金纳系统化的行为研究所获得的技术了。
+用公式来表示：
+
+刺激 ⇒ 反应
+刺激 ⇒ 反应 ⇒ 后果
+
+行为取向学习理论的建构[编辑]
+借由史肯纳箱的实验，即是让受试者置于一个控制稳定的情境，对于行为后果给予系统性的改变，并观察行为改变的情形。也因为史肯纳操作制约的研究，使得行为取向的学习理论大体建立，并产生了若干原则，可以提供教育现场进行观察与应用。
+(一)行为后果: 行为会因为立即性后果而改变，比如奖赏、惩罚学生都必须重视时效。
+(二)增强物: 不仅限于食物以及金钱等原级增强物(primary reinforcer)，尚有次级增强物(secondary reinforcer)，如社会增强物、活动增强物、代币增强物等。亦有正增强物及负增强物，负增强物并非等于惩罚。比如前几周的新闻，家长与学生对话内容，将加油站小弟视为是一种低贱的工作，即是一种负增强作用。
+(三)内在外在增强物: 由于内在动机从事增强物及行为，即是内在增强物，其他均属外在动机。
+(四)惩罚物与惩罚: 进行惩罚时，如果没有减少该行为出现的频率，后果就不是惩罚物。有如学生借由离开教室以躲避教室内的上课环境。在方法普遍上有两种：呈现型惩罚(责骂、体罚)及撤离型惩罚(暂停法)。
+(五)后果的立即性: 小而立即的增强效果，高于大而延宕的增强物。
+(六)塑造: 指学习一个新技能或行为，只要对象更接近终点行为，就给予增强，直到学会为止。
+(七)消弱: 增强物可以强化行为，但是当增强物取消时，行为一般很容易弱化，最后消失不见。在教学现场老师可用忽视于学生的课堂不当行为。
+(八)增强的时制: 一开始固定时距比例增强可以帮助激励一个人做大量的工作，然而若以长时间来看，不定比例时距增强效果还远高过固定比例时距增强。
+(九)维持: 行为本身就有增强力量，透过从事学习行为本身就能带来乐趣；也因此即使他们并未得到原先的增强，仍能达到行为维持的效果。
+(十)先行物的角色: 不是行为之后的后果有影响力，行为前的刺激如辨别、类化技巧都可以发挥作用。在班级经营上，透过辨别行动，可以避免学生浪费时间尝试错误；类化技巧则可以帮助学生将学习到的新观念类化到不同情境之上。
+参见[编辑]
+
+操作条件反射
+
+参考资料[编辑]
+
+
+^ Sobel, Dava. B. F. Skinner, the Champion Of Behaviorism, Is Dead at 86. The New York Times. August 20, 1990 [30 August 2015]. 
+^ Haggbloom, Steven J.; et al., Renee; Warnick, Jason E.; Jones, Vinessa K.; Yarbrough, Gary L.; Russell, Tenea M.; Borecky, Chris M.; McGahhey, Reagan et al. (2002). "The 100 most eminent psychologists of the 20th century". Review of General Psychology 6 (2): 139–152. doi:10.1037/1089-2680.6.2.139.
+^ "Within a year I had gone to Miss Graves to tell her that I no longer believed in God. 'I know,' she said, 'I have been through that myself.' But her strategy misfired: I never went through it." B.F. Skinner, pp. 387-413, E.G. Boring and G. Lindzey's A History of Psychology in Autobiography (Vol. 5), New York: Appleton Century-Crofts, 1967.
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+美国国家科学奖章得主
+
+
+
+
+
+
+
+
+
+
+ 
+行为与社会科学
+
+
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1964年：罗杰·亚当斯
+Othmar H. Ammann
+费奥多西·多布然斯基
+Neal Elgar Miller
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1986年：赫伯特·亚历山大·西蒙
+1987年：Anne Anastasi
+乔治·斯蒂格勒
+1988年：米尔顿·傅利曼
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：里奥尼德·赫维克兹
+Patrick Suppes
+1991年：Robert W. Kates
+乔治·A·米勒
+1992年：埃莉诺·吉布森
+1994年：罗伯特·金·莫顿
+1995年：Roger N. Shepard
+1996年：保罗·萨缪尔森
+1997年：William K. Estes
+1998年：William Julius Wilson
+1999年：罗伯特·梭罗
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：盖瑞·贝克
+2001年：George Bass
+2003年：R. Duncan Luce
+2004年：肯尼斯·约瑟夫·阿罗
+2005年：戈登·霍华德·鲍尔
+2008年：Michael I. Posner
+2009年：Mortimer Mishkin
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2011年：Anne Treisman
+2014年：罗伯特·阿克塞尔罗
+2015年：亚伯特·班度拉
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+生物学
+
+
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1963年：C. B. van Niel
+1964年：马歇尔·沃伦·尼伦伯格
+1965年：裴顿·劳斯
+乔治·盖洛德·辛普森
+Donald D. Van Slyke
+1966年：Edward F. Knipling
+弗里茨·阿尔贝特·李普曼
+William C. Rose
+Sewall Wright
+1967年：Kenneth S. Cole
+哈里·哈洛
+Michael Heidelberger
+Alfred H. Sturtevant
+1968年：Horace Barker
+伯纳德·布罗迪
+Detlev W. Bronk
+Jay Lush
+伯尔赫斯·弗雷德里克·斯金纳
+1969年：Robert Huebner
+恩斯特·瓦尔特·迈尔
+
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+
+1970年：芭芭拉·麦克林托克
+阿尔伯特·沙宾
+1973年：Daniel I. Arnon
+厄尔·威尔伯·萨瑟兰
+1974年：布立顿·强斯
+埃尔文·查戈夫
+James V. Neel
+James Augustine Shannon
+1975年：Hallowell Davis
+Paul Gyorgy
+Sterling B. Hendricks
+Orville lvin Vogel
+1976年：罗歇·吉耶曼
+Keith Roberts Porter
+Efraim Racker
+艾德华·威尔森
+1979年：Robert H. Burris
+Elizabeth C. Crosby
+阿瑟·科恩伯格
+塞韦罗·奥乔亚
+Earl Reece Stadtman
+George Ledyard Stebbins
+Paul Alfred Weiss
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1981年：Philip Handler
+1982年：西摩·本泽
+Glenn W. Burton
+Mildred Cohn
+1983年：Howard L. Bachrach
+保罗·伯格
+Wendell L. Roelofs
+Berta Scharrer
+1986年：斯坦利·科恩
+Donald A. Henderson
+Vernon B. Mountcastle
+乔治·埃米尔·帕拉德
+Joan A. Steitz
+1987年：Michael E. DeBakey
+西奥多·O·迪纳
+Harry Eagle
+哈尔·葛本·科拉纳
+丽塔·列维-蒙塔尔奇尼
+1988年：迈克尔·斯图亚特·布朗
+斯坦利·诺曼·科恩
+约瑟夫·里欧纳德·戈尔茨坦
+Maurice R. Hilleman
+埃里克·坎德尔
+罗莎琳·萨斯曼·雅洛
+1989年：Katherine Esau
+Viktor Hamburger
+Philip Leder
+乔舒亚·莱德伯格
+罗杰·斯佩里
+Harland G. Wood
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：巴茹·贝纳塞拉夫
+赫伯特·博耶
+Daniel E. Koshland, Jr.
+爱德华·路易斯
+David G. Nathan
+唐纳德尔·托马斯
+1991年：Mary Ellen Avery
+乔治·埃维林·哈钦森
+Elvin A. Kabat
+萨尔瓦多·卢瑞亚
+Paul A. Marks
+Folke K. Skoog
+Paul C. Zamecnik
+1992年：Maxine Singer
+霍华德·马丁·特明
+1993年：丹尼尔·那森斯
+Salome G. Waelsch
+1994年：Thomas Eisner
+伊丽莎白·诺伊费尔德
+1995年：亚历克山大·里奇
+1996年：Ruth Patrick
+1997年：詹姆斯·杜威·华生
+罗伯特·温伯格
+1998年：布卢姆斯·艾姆斯
+珍妮特·罗利
+1999年：戴维·巴尔的摩
+贾德·戴蒙
+琳·马古利斯
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：Nancy C. Andreasen
+彼得·雷文
+卡尔·乌斯
+2001年：Francisco J. Ayala
+马里奥·卡佩奇
+安·格雷比尔
+Gene E. Likens
+维克托·麦库西克
+哈罗德·瓦慕斯
+2002年：James E. Darnell
+Evelyn M. Witkin
+2003年：迈克尔·毕晓普
+所罗门·斯奈德
+Charles Yanofsky
+2004年：诺曼·布劳格
+菲利普·夏普
+Thomas E. Starzl
+2005年：安托尼·弗契
+托斯坦·威泽尔
+2006年：Rita R. Colwell
+Nina Fedoroff
+Lubert Stryer
+2007年：罗伯特·莱夫科维茨
+Bert W. O'Malley
+2008年：弗朗西斯·科林斯
+伊莱恩·富克斯
+克莱格·凡特
+2009年：苏珊·林德奎斯特
+史坦利·布卢姆希纳
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2010年：Ralph L. Brinster
+钱煦
+鲁道夫·耶尼施
+2011年：露西·夏皮罗
+Leroy Hood
+Sallie Chisholm
+2014年：May Berenbaum
+布卢姆斯·艾伯茨
+2015年：Stanley Falkow
+Rakesh Jain
+Mary-Claire King
+Simon A. Levin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+化学
+
+
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1964年：罗杰·亚当斯
+
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+
+1975年：肯尼斯·皮策（英语：Kenneth Pitzer）
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1982年：弗兰克·阿尔伯特·科顿
+吉尔伯特·斯托克
+1983年：罗德·霍夫曼
+George C. Pimentel
+理查德·扎尔
+1986年：哈里·格雷
+李远哲
+Carl S. Marvel
+Frank H. Westheimer
+1987年：William S. Johnson
+Walter H. Stockmayer
+Max Tishler
+1988年：William O. Baker
+康拉德·布洛赫
+艾里亚斯·詹姆斯·科里
+1989年：Richard B. Bernstein
+梅尔文·卡尔文
+鲁道夫·马库斯
+Harden M. McConnell
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：Elkan Blout
+Karl Folkers
+约翰·东布罗夫斯基·罗伯茨
+1991年：Ronald Breslow
+格特鲁德·B·埃利恩
+达德利·赫施巴赫
+格伦·西奥多·西博格
+1992年：Howard E. Simmons, Jr.
+1993年：唐纳德·克拉姆
+Norman Hackerman
+1994年：George S. Hammond
+1995年：托马斯·切赫
+Isabella L. Karle
+1996年：Norman Davidson
+1997年：Darleane C. Hoffman
+Harold S. Johnston
+1998年：John W. Cahn
+乔治·怀特塞兹
+1999年：斯图尔特·A·赖斯
+John Ross
+Susan Solomon
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：John D. Baldeschwieler
+Ralph F. Hirschmann
+2001年：Ernest R. Davidson
+加博尔·绍莫尔尧伊
+2002年：John I. Brauman
+2004年：斯蒂芬·利帕德
+2006年：Marvin H. Caruthers
+Peter B. Dervan
+2007年：Mostafa A. El-Sayed
+2008年：Joanna Fowler
+JoAnne Stubbe
+2009年：斯蒂芬·J·本科维奇
+Marye Anne Fox
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2010年：杰奎琳·巴顿
+彼得·斯唐
+2011年：艾伦·J·巴德
+M. Frederick Hawthorne
+2014年：Judith P. Klinman
+Jerrold Meinwald
+2015年：保罗·阿利维萨托斯
+Geraldine L. Richmond
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+工程科学
+
+
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1962年：西奥多·冯·卡门
+1963年：万尼瓦尔·布什
+约翰·罗宾森·皮尔斯
+1964年：Charles S. Draper
+1965年：Hugh L. Dryden
+克拉伦斯·约翰逊
+沃伦·坎达儿·路易斯
+1966年：克劳德·夏农
+1967年：Edwin H. Land
+伊戈尔·伊万诺维奇·西科尔斯基
+1968年：J. Presper Eckert
+Nathan M. Newmark
+1969年：杰克·基尔比
+
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+
+1970年：George E. Mueller
+1973年：Harold E. Edgerton
+Richard T. Whitcomb
+1974年：Rudolf Kompfner
+Ralph Brazelton Peck
+Abel Wolman
+1975年：Manson Benedict
+威廉·海达德·皮克林
+弗雷德里克·特曼
+华纳·冯·布朗
+1976年：Morris Cohen
+Peter C. Goldmark
+Erwin Wilhelm Müller
+1979年：Emmett N. Leith
+Raymond D. Mindlin
+罗伯特·诺伊斯
+Earl R. Parker
+Simon Ramo
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1982年：Edward H. Heinemann
+Donald L. Katz
+1983年：威廉·惠利特
+George M. Low
+John G. Trump
+1986年：Hans Wolfgang Liepmann
+林同炎
+Bernard M. Oliver
+1987年：罗伯特·拜伦·柏德
+H. Bolton Seed
+Ernst Weber
+1988年：Daniel C. Drucker
+Willis M. Hawkins
+George W. Housner
+1989年：Harry George Drickamer
+Herbert E. Grier
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：米尔德里德·德雷斯尔豪斯
+尼克·何伦亚克
+1991年：乔治·哈利·海尔迈耶
+Luna B. Leopold
+H. Guyford Stever
+1992年：Calvin F. Quate
+John Roy Whinnery
+1993年：卓以和
+1994年：Ray W. Clough
+1995年：Hermann A. Haus
+1996年：James L. Flanagan
+C. Kumar N. Patel
+1998年：Eli Ruckenstein
+1999年：Kenneth N. Stevens
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：冯元桢
+2001年：Andreas Acrivos
+2002年：Leo Beranek
+2003年：John M. Prausnitz
+2004年：埃德温·尼布洛克·莱特富特
+2005年：Jan D. Achenbach
+Tobin J. Marks
+2006年：罗伯特·兰格
+2007年：戴维·瓦恩兰
+2008年：鲁道夫·卡尔曼
+2009年：Amnon Yariv
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2010年：钱煦
+2011年：Sidney Drell
+Sandra Faber
+Sylvester James Gates
+约翰·B·古迪纳夫
+2014年：Thomas Kailath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+数学、统计与计算机科学
+
+
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1963年：诺伯特·维纳
+1964年：所罗门·莱夫谢茨
+H. Marston Morse
+1965年：奥斯卡·扎里斯基
+1966年：约翰·米尔诺
+1967年：保罗·寇恩
+1968年：耶日·内曼
+1969年：威廉·费勒
+
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+
+1970年：Richard Brauer
+1973年：约翰·图基
+1974年：库尔特·哥德尔
+1975年：约翰·巴科斯
+陈省身
+乔治·伯纳德·丹齐格
+1976年：Kurt Otto Friedrichs
+哈斯勒·惠特尼
+1979年：Joseph L. Doob
+高德纳
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1982年：Marshall Harvey Stone
+1983年：Herman Goldstine
+艾沙道尔·辛格
+1986年：拉克斯·彼得
+Antoni Zygmund
+1987年：拉乌尔·博特
+迈克尔·弗里德曼
+1988年：Ralph E. Gomory
+Joseph B. Keller
+1989年：Samuel Karlin
+桑德斯·麦克兰恩
+Donald C. Spencer
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：George F. Carrier
+斯蒂芬·科尔·克莱尼
+约翰·麦卡锡
+1991年：Alberto Calderón
+1992年：艾伦·纽厄尔
+1993年：Martin David Kruskal
+1994年：约翰·科克
+1995年：路易·尼伦伯格
+1996年：理查德·卡普
+史蒂芬·斯梅尔
+1997年：丘成桐
+1998年：Cathleen Synge Morawetz
+1999年：Felix Browder
+Ronald R. Coifman
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：约翰·格里格斯·汤普森
+Karen K. Uhlenbeck
+2001年：Calyampudi R. Rao
+埃利亚斯·施泰因
+2002年：James G. Glimm
+2003年：Carl R. de Boor
+2004年：丹尼斯·苏利文
+2005年：Bradley Efron
+2006年：Hyman Bass
+2007年：莱昂纳多·克莱洛克
+安德鲁·维特比
+2009年：戴维·芒福德
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2010年：Richard A. Tapia
+斯里尼瓦瑟·瓦拉德汉
+2011年：所罗门·格伦布
+Barry Mazur
+2014年：Alexandre Chorin
+Thomas Kailath
+戴维·布莱克韦尔
+2015年：迈克尔·阿廷
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+物理科学
+
+
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1963年：路易斯·阿尔瓦雷茨
+1964年：朱利安·施温格
+哈罗德·尤里
+罗伯特·伯恩斯·伍德沃德
+1965年：约翰·巴丁
+彼得·德拜
+利昂·莱德曼
+William Rubey
+1966年：Jacob Bjerknes
+苏布拉马尼扬·钱德拉塞卡
+亨利·艾林
+约翰·凡扶累克
+弗拉基米尔·佐利金
+1967年：Jesse Beams
+Francis Birch
+Gregory Breit
+Louis Hammett
+George Kistiakowsky
+1968年：Paul Bartlett
+赫尔伯特·傅利曼
+拉斯·昂萨格
+尤金·维格纳
+1969年：赫伯特·布朗
+Wolfgang Panofsky
+
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+
+1970年：Robert H. Dicke
+艾伦·桑德奇
+John C. Slater
+约翰·惠勒
+Saul Winstein
+1973年：卡尔·杰拉西
+Maurice Ewing
+Arie Jan Haagen-Smit
+Vladimir Haensel
+Frederick Seitz
+Robert Rathbun Wilson
+1974年：尼古拉斯·布隆伯根
+保罗·弗洛里
+威廉·福勒
+莱纳斯·鲍林
+Kenneth Sanborn Pitzer
+1975年：汉斯·贝特
+Joseph O. Hirschfelder
+Lewis Sarett
+E. Bright Wilson
+吴健雄
+1976年：Samuel Goudsmit
+Herbert S. Gutowsky
+Frederick Rossini
+维尔纳·索米
+亨利·陶布
+乔治·乌伦贝克
+1979年：理查德·费曼
+赫尔曼·马克
+爱德华·珀塞尔
+John Sinfelt
+莱曼·史匹哲
+维克托·魏斯科普夫
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1982年：菲利普·安德森
+南部阳一郎
+爱德华·泰勒
+查尔斯·汤斯
+1983年：玛格丽特·伯比奇
+Maurice Goldhaber
+Helmut Landsberg
+沃尔特·芒克
+弗雷德里克·莱因斯
+Bruno B. Rossi
+约翰·施里弗
+1986年：Solomon J. Buchsbaum
+H. Richard Crane
+Herman Feshbach
+罗伯特·霍夫施塔特
+杨振宁
+1987年：菲力普·艾比尔森
+Walter Elsasser
+保罗·劳特伯
+George Pake
+詹姆斯·范·艾伦
+1988年：D. Allan Bromley
+朱经武
+沃尔特·科恩
+诺曼·拉姆齐
+杰克·施泰因贝格尔
+1989年：Arnold O. Beckman
+尤金·派克
+Robert Sharp
+Henry Stommel
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：阿兰·麦克莱德·科马克
+埃德温·麦克米伦
+Robert Pound
+Roger Revelle
+1991年：阿瑟·肖洛
+Ed Stone
+史蒂文·温伯格
+1992年：尤金·舒梅克
+1993年：瓦尔·菲奇
+薇拉·鲁宾
+1994年：Albert Overhauser
+Frank Press
+1995年：汉斯·德默尔特
+Peter Goldreich
+1996年：Wallace S. Broecker
+1997年：Marshall Rosenbluth
+马丁·史瓦西
+George Wetherill
+1998年：Don L. Anderson
+John N. Bahcall
+1999年：詹姆斯·克罗宁
+Leo Kadanoff
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：威利斯·兰姆
+耶利米·保罗·欧斯垂克
+Gilbert F. White
+2001年：Marvin L. Cohen
+雷蒙德·戴维斯
+Charles Keeling
+2002年：Richard Garwin
+威廉·杰森·摩根
+爱德华·威滕
+2003年：G. Brent Dalrymple
+里卡尔多·贾科尼
+2004年：Robert N. Clayton
+2005年：拉尔夫·阿尔菲
+Lonnie Thompson
+2006年：丹尼尔·克莱普纳
+2007年：Fay Ajzenberg-Selove
+Charles P. Slichter
+2008年：Berni Alder
+James E. Gunn
+2009年：亚基尔·阿哈罗诺夫
+Esther M. Conwell
+Warren M. Washington
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2011年：Sidney Drell
+珊德拉·法比尔
+Sylvester James Gates
+2014年：伯顿·里克特
+Sean C. Solomon
+2015年：Shirley Ann Jackson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 92601840
+LCCN: n79023302
+ISNI: 0000 0000 8400 5968
+GND: 118614878
+SELIBR: 225919
+SUDOC: 027140970
+BNF: cb11924970w（数据）
+BIBSYS: 90088822
+MGP: 155510
+NDL: 00456770
+BNE: XX939349
+
+
+
+
+
+
+
+
+
+
+
+
+分类：1904年出生1990年逝世美国心理学家美国无神论者美国哲学家美国怀疑论者动物行为学家罹患白血病逝世者美国国家科学奖获奖者哈佛大学校友哈佛大学教师明尼苏达州人明尼苏达大学教师隐藏分类：含有签名的传记作品含有hCards的条目本地相关图片与维基数据相同包含规范控制信息的维基百科条目

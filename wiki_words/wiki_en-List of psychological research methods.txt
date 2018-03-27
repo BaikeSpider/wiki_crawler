@@ -1,0 +1,397 @@
+List of psychological research methods
+
+
+Part of a series on
+
+
+Psychology
+
+
+
+
+
+
+
+Outline
+History
+Subfields
+
+
+
+
+
+
+Basic types
+
+
+Abnormal
+Behavioral genetics
+Biological
+Cognitive/Cognitivism
+Comparative
+Cross-cultural
+Cultural
+Differential
+Developmental
+Evolutionary
+Experimental
+Mathematical
+Neuropsychology
+Personality
+Positive
+Quantitative
+Social
+
+
+
+
+
+
+
+
+Applied psychology
+
+
+Applied behavior analysis
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Environmental
+Ergonomics
+Forensic
+Health
+Humanistic
+Industrial and organizational
+Legal
+Medical
+Military
+Music
+Occupational health
+Political
+Religion
+School
+Sport
+Traffic
+
+
+
+
+
+
+
+
+Lists
+
+
+Disciplines
+Organizations
+Psychologists
+Psychotherapies
+Publications
+Research methods
+Theories
+Timeline
+Topics
+
+
+
+
+
+
+
+
+ Psychology portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+A wide range of research methods are used in psychology. These methods vary by the sources from which information is obtained, how that information is sampled, and the types of instruments that are used in data collection. Methods also vary by whether they collect qualitative data, quantitative data or both.
+Qualitative psychological research is where the research findings are not arrived at by statistical or other quantitative procedures. Quantitative psychological research is where the research findings result from mathematical modeling and statistical estimation or statistical inference. Since qualitative information can be handled as such statistically, the distinction relates to method, rather than the topic studied.
+There are three main types of psychological research:
+
+Correlational research
+Descriptive research
+Experimental research
+
+The following are common research designs and data collection methods:
+
+Archival research
+Case study
+Computer simulation (modeling)
+Content analysis
+Event sampling methodology, also referred to as experience sampling methodology (ESM), diary study, or ecological momentary assessment (EMA)
+Experiment, often with separate treatment and control groups (see scientific control and design of experiments). See Experimental psychology for many details.
+Field experiment
+Interview, can be structured or unstructured.
+Meta-analysis
+Neuroimaging and other psychophysiological methods
+Observational study, can be naturalistic (see natural experiment), participant or controlled.
+Quasi-experiment
+Self-report inventory
+Survey, often with a random sample (see survey sampling)
+Twin study
+
+Research designs vary according to the period(s) of time over which data are collected:
+
+Retrospective cohort study: Subjects are chosen, then data are collected on their past experiences.
+Prospective cohort study: Subjects are recruited prior to the proposed independent effects being administered or occurring.
+Cross-sectional study, in which a population are sampled on all proposed measures at one point in time.
+Longitudinal study: Subjects are studied at multiple time points: May address the cohort effect and indicate causal directions of effects.
+
+Research in psychology has been conducted with both animals and human subjects:
+
+Animal study
+Human subject research
+
+References[edit]
+
+Stangor, Charles. (2007). Research Methods for the Behavioral Sciences. 3rd ed. Boston, MA: Houghton Mifflin Company.
+Weathington, B.L., Cunningham, C.J.L., & Pittenger, D.P. (2010). Research Methods for the Behavioral and Social Sciences. Hoboken, NJ: John Wiley & Sons, Inc.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychology
+
+
+
+
+
+
+History
+Philosophy
+Portal
+Psychologist
+
+
+
+
+
+Basic psychology
+
+
+
+Abnormal
+Affective science
+Affective neuroscience
+Behavioral genetics
+Behavioral neuroscience
+Behaviorism
+Cognitive/Cognitivism
+Cognitive neuroscience
+Comparative
+Cross-cultural
+Cultural
+Developmental
+Differential
+Ecological
+Evolutionary
+Experimental
+Gestalt
+Intelligence
+Mathematical
+Neuropsychology
+Personality
+Positive
+Psycholinguistics
+Psychophysics
+Psychophysiology
+Quantitative
+Social
+Theoretical
+
+
+
+
+
+Applied psychology
+
+
+
+Anomalistic
+Applied behavior analysis
+Assessment
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Ergonomics
+Feminist
+Forensic
+Health
+Industrial and organizational
+Legal
+Media
+Military
+Music
+Occupational health
+Pastoral
+Political
+Psychometrics
+Psychotherapy
+Religion
+School
+Sport and exercise
+Suicidology
+Systems
+Traffic
+
+
+
+
+
+Methodologies
+
+
+
+Animal testing
+Archival research
+Behavior epigenetics
+Case study
+Content analysis
+Experiments
+Human subject research
+Interviews
+Neuroimaging
+Observation
+Qualitative research
+Quantitative research
+Self-report inventory
+Statistical surveys
+
+
+
+
+
+
+Psychologists
+
+
+
+
+William James (1842–1910)
+Ivan Pavlov (1849–1936)
+Sigmund Freud (1856–1939)
+Edward Thorndike (1874–1949)
+Carl Jung (1875–1961)
+John B. Watson (1878–1958)
+Clark L. Hull (1884–1952)
+Kurt Lewin (1890–1947)
+Jean Piaget (1896–1980)
+Gordon Allport (1897–1967)
+J. P. Guilford (1897–1987)
+Carl Rogers (1902–1987)
+Erik Erikson (1902–1994)
+B. F. Skinner (1904–1990)
+Donald O. Hebb (1904–1985)
+Ernest Hilgard (1904–2001)
+Harry Harlow (1905–1981)
+Raymond Cattell (1905–1998)
+Abraham Maslow (1908–1970)
+Neal E. Miller (1909–2002)
+Jerome Bruner (1915–2016)
+Donald T. Campbell (1916–1996)
+Hans Eysenck (1916–1997)
+Herbert A. Simon (1916–2001)
+David McClelland (1917–1998)
+Leon Festinger (1919–1989)
+George Armitage Miller (1920–2012)
+Richard Lazarus (1922–2002)
+Stanley Schachter (1922–1997)
+Robert Zajonc (1923–2008)
+Albert Bandura (b. 1925)
+Roger Brown (1925–1997)
+Endel Tulving (b. 1927)
+Lawrence Kohlberg (1927–1987)
+Noam Chomsky (b. 1928)
+Ulric Neisser (1928–2012)
+Jerome Kagan (b. 1929)
+Walter Mischel (b. 1930)
+Elliot Aronson (b. 1932)
+Daniel Kahneman (b. 1934)
+Paul Ekman (b. 1934)
+Michael Posner (b. 1936)
+Amos Tversky (1937–1996)
+Bruce McEwen (b. 1938)
+Larry Squire (b. 1941)
+Richard E. Nisbett (b. 1941)
+Martin Seligman (b. 1942)
+Ed Diener (b. 1946)
+Shelley E. Taylor (b. 1946)
+John Anderson (b. 1947)
+Ronald C. Kessler (b. 1947)
+Joseph E. LeDoux (b. 1949)
+Richard Davidson (b. 1951)
+Susan Fiske (b. 1952)
+Roy Baumeister (b. 1953)
+
+
+
+
+
+Lists
+
+
+
+Counseling topics
+Disciplines
+Important publications
+Organizations
+Outline
+Psychologists
+Psychotherapies
+Research methods
+Schools of thought
+Timeline
+Topics
+
+
+
+
+
+
+
+
+Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+[[Category:Research] MKJGKM,]
+
+
+
+
+Categories: Experimental psychologyPsychology listsCognitive science lists

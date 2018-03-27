@@ -1,0 +1,287 @@
+Reliabilism
+Reliabilism, a category of theories in the philosophical discipline of epistemology, has been advanced as a theory both of justification and of knowledge. Process reliabilism has been used as an argument against philosophical skepticism, such as the brain in a vat thought experiment.[1] Process reliabilism is a form of epistemic externalism.[1] A broadly reliabilist theory of knowledge is roughly as follows:
+Reliabilism breaks into four branches. Firstly, Process Reliabilism focuses on the contribution of the truth, mainly the process of producing reliable or certain belief. Secondly, Virtue Reliabilism focuses on the agent’s believing performance and the agent’s rational traits. Thirdly, Anti- luck Reliabilism focuses on the truth of conduciveness of the token-process constructing a certain belief or knowledge. Lastly, Proper Function Reliabilism focuses on the requirement for the purposeful fit between mind and world. The objection of reliabilism is mainly about the difficulties of coming to a proper formulation.
+A broadly reliabilist theory of justified belief can be stated as follows:
+
+One has a justified belief that p if, and only if, the belief is the result of a reliable process.
+
+Moreover, a similar account can be given (and an elaborate version of this has been given by Alvin Plantinga) for such notions as 'warranted belief' or 'epistemically rational belief'.
+Leading proponents of reliabilist theories of knowledge and justification have included Alvin Goldman, Marshall Swain, Kent Bach and more recently, Alvin Plantinga. Goldman's article "A Causal Theory of Knowing" (Journal of Philosophy, v. 64 (1967), pp. 357–372) is generally credited as being the first full treatment of the theory, though D. M. Armstrong is also regarded as an important source, and (according to Hugh Mellor) Frank Ramsey was the very first to state the theory, albeit in passing.
+One classical or traditional analysis of 'knowledge' is justified true belief. In order to have a valid claim of knowledge for any proposition, one must be justified in believing "p" and "p" must be true. Since Gettier[2] proposed his counterexamples the traditional analysis has included the further claim that knowledge must be more than justified true belief. Reliabilist theories of knowledge are sometimes presented as an alternative to that theory: rather than justification, all that is required is that the belief be the product of a reliable process. But reliabilism need not be regarded as an alternative, but instead as a further explication of the traditional analysis. On this view, those who offer reliabilist theories of justification further analyze the 'justification' part of the traditional analysis of 'knowledge' in terms of reliable processes. Not all reliabilists agree with such accounts of justification, but some do.
+Objections[edit]
+
+
+
+
+
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2011) (Learn how and when to remove this template message)
+
+
+
+Some find reliabilism of justification objectionable because it entails externalism, which is the view that one can have knowledge, or have a justified belief, despite not knowing (having "access" to) the evidence, or other circumstances, that make the belief justified. Most reliabilists maintain that a belief can be justified, or can constitute knowledge, even if the believer does not know about or understand the process that makes the belief reliable. In defending this view, reliabilists (and externalists generally) are apt to point to examples from simple acts of perception: if one sees a bird in the tree outside one's window and thereby gains the belief that there is a bird in that tree, one might not at all understand the cognitive processes that account for one's successful act of perception; nevertheless, it is the fact that the processes worked reliably that accounts for why one's belief is justified. In short, one finds one holds a belief about the bird, and that belief is justified if any is, but one is not acquainted at all with the processes that led to the belief that justified one's having it. Of course, internalists do not let the debate rest there; see externalism (epistemology).
+Another of the most common objections to reliabilism, made first to Goldman's reliable process theory of knowledge and later to other reliabilist theories, is the so-called generality problem.[3] For any given justified belief (or instance of knowledge), one can easily identify many different (concurrently operating) "processes" from which the belief results. My belief that there is a bird in the tree outside my window might be accorded a result of the process of forming beliefs on the basis of sense-perception, of visual sense-perception, of visual sense-perception through non-opaque surfaces in daylight, and so forth, down to a variety of different very specifically described processes. Some of these processes might be statistically reliable, while others might not. It would no doubt be better to say, in any case, that we are choosing not which process to say resulted in the belief, but instead how to describe the process, out of the many different levels of generality on which it can be accurately described.
+An objection in a similar line was formulated by Stephen Stich in The Fragmentation of Reason. Reliabilism usually considers that for generating justified beliefs a process needs to be reliable in a set of relevant possible scenarios. However, according to Stich, these scenarios are chosen in a culturally biased manner. Stich does not defend any alternative theory of knowledge or justification, but instead argues that all accounts of normative epistemic terms are culturally biased and instead only a pragmatic account can be given.
+Another objection to reliabilism is called the new evil demon problem.[4] The evil demon problem originally motivated skepticism, but can be resuited to object to reliabilist accounts as follows: If our experiences are controlled by an evil demon, it may be the case that we believe ourselves to be doing things that we are not doing. However, these beliefs are clearly justified. Robert Brandom has called for a clarification of the role of belief in reliabilist theories. Brandom is concerned that unless the role of belief is stressed, reliabilism may attribute knowledge to things that would otherwise be considered incapable of possessing it. Brandom gives the example of a parrot that has been trained to consistently respond to red visual stimuli by saying 'that's red'. The proposition is true, the mechanism that produced it is reliable, but Brandom is reluctant to say that the parrot knows it is seeing red because he thinks it cannot believe that it is. For Brandom, beliefs pertain to concepts: without the latter there can be no former. Concepts are products of the 'game of giving and asking for reasons'. Hence, only those entities capable of reasoning, through language in a social context, can for Brandom believe and thus have knowledge. Brandom may be regarded as hybridising externalism and internalism, allowing knowledge to be accounted for by reliable external process so long as a knower possess some internal understanding of why the belief is reliable.
+Problem for process Reliabilism The first problem is the that some of the statement is too weak to be justified. Weak justification means that the method that is produced and believe by an agent is unreliable or nonsense. This statement of weak and strong justify are made by Goldman as he thinks that mainly there are two type or concepts of justification. He describes a strong justification as a belief or knowledge that is well contribute to a suitable and certain method or procedure and this is called a strong justification as it is more powerful. Thirdly reliabilism had been arguing that it isn’t sufficient and significant enough for justification. The fourth problem is state by Goldman “What Is Justified Belief?”. In order for that belief to justify its solution must be “high-principled” and “decent”. Secondly, it should have a reliability tangibly related to the justification status of that belief. Third, the solution must true and honest to the main purpose of Reliabilism. The fifth problem is what we called “easy knowledge”, is made and motivated by Jonathan Vogel and Stewart Cohen. For instance, a driver who believes everything the gas gauge “says” about the state of the fuel tank, although the driver has no preliminary reasons to believe and justify that it is reliable. The last problem is the “value problem”.
+References[edit]
+
+
+
+^ a b DeRose, Keith (1999). "Responding to Skepticism". Archived from the original on 14 November 2000. 
+^ Gettier, Edmund L. (1963). "Is Justified True Belief Knowledge?". Analysis. 23 (6): 121–123. doi:10.1093/analys/23.6.121. JSTOR 3326922. 
+^ Conee, E.; Feldman, R. (1998). "The Generality Problem for Reliabilism". Philosophical Studies: an International Journal for Philosophy in the Analytic Tradition. 89 (1): 1–29. JSTOR 4320806. 
+^ Comesaña, Juan (2002). "The Diagonal and the Demon" (PDF). Philosophical Studies. 110: 249–266. doi:10.1023/a:1020656411534. 
+
+
+
+External links[edit]
+
+Reliabilism at PhilPapers
+Zalta, Edward N. (ed.). "Reliabilist Epistemology". Stanford Encyclopedia of Philosophy. 
+"Reliabilism". Internet Encyclopedia of Philosophy. 
+Reliabilism at the Indiana Philosophy Ontology Project
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Skepticism
+
+
+
+Types
+
+
+
+Academic
+Moral
+Scientific
+Philosophical
+Religious (Jewish)
+Local
+Environmental
+Pyrrhonian
+Cartesian
+Daoist
+Pseudoskepticism
+Zététique
+
+
+
+
+
+Skeptical hypotheses
+
+
+
+Evil genius
+Brain in a vat
+Dream argument
+Omphalos hypothesis
+
+
+
+
+
+Responses
+
+
+
+Here is one hand
+Semantic externalism
+Process reliabilism
+Epistemic closure
+Contextualism
+Relativism
+
+
+
+
+
+Lists
+
+
+
+List of books about skepticism
+List of notable skeptics
+List of skeptical conferences
+List of skeptical magazines
+List of skeptical organizations
+List of skeptical podcasts
+
+
+
+
+
+
+
+
+
+
+Categories: Epistemological theoriesInternalism and externalismJustificationHidden categories: Articles needing additional references from April 2011All articles needing additional references

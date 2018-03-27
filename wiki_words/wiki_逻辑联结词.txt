@@ -1,0 +1,1268 @@
+逻辑运算符
+在形式逻辑中，逻辑运算符或逻辑联结词把语句连接成更复杂的复杂语句。例如，假设有两个逻辑命题，分别是“正在下雨”和“我在屋里”，我们可以将它们组成复杂命题“正在下雨，并且我在屋里”或“没有正在下雨”或“如果正在下雨，那么我在屋里”。一个将两个语句组成的新的语句或命题叫做复合语句或复合命题。
+基本运算符[编辑]
+基本的操作符有：“非”（¬）、“与”（∧）、“或”（∨）、“条件”（→）以及“双条件”（↔）。“非”是一个一元操作符，它只操作一项（¬ P）。剩下的是二元操作符，操作两项来组成复杂语句（P ∧ Q, P ∨ Q, P → Q, P ↔ Q）。
+注意，符号“与”（∧）和交集（∩），“或”（∨）和并集（∪）的相似性。这不是巧合：交集的定义使用“与”，并集的定义是用“或”。
+这些连接符的真值表:
+
+
+P
+Q
+¬P
+P ∧ Q
+P ∨ Q
+P → Q
+P ↔ Q
+
+
+T
+T
+F
+T
+T
+T
+T
+
+
+T
+F
+F
+F
+T
+F
+F
+
+
+F
+T
+T
+F
+T
+T
+F
+
+
+F
+F
+T
+F
+F
+T
+T
+
+
+为了减少需要的括号的数量，有以下的优先规则：¬高于∧，∧高于∨，∨高于→。例如，P ∨ Q ∧ ¬ R → S是 (P ∨ (Q ∧ (¬ R)) → S的简便写法。
+二元逻辑联结词表[编辑]
+下面是在输入P和Q上的16个二元布尔函数。
+
+
+
+
+
+永假
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+
+
+
+
+⊥
+
+
+{\displaystyle \bot }
+
+
+P 
+
+
+
+∧
+
+
+{\displaystyle \wedge }
+
+ ¬P
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 0 
+ 0 
+
+
+1  
+ 0 
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+永真
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+
+
+
+
+⊤
+
+
+{\displaystyle \top }
+
+
+P 
+
+
+
+∨
+
+
+{\displaystyle \vee }
+
+ ¬P
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 1 
+ 1 
+
+
+1  
+ 1 
+ 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+合取
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+P 
+
+
+
+∧
+
+
+{\displaystyle \wedge }
+
+ Q
+P & Q
+P · Q
+P AND Q
+P 
+
+
+
+↛
+
+
+{\displaystyle \not \rightarrow }
+
+¬Q
+¬P 
+
+
+
+↚
+
+
+{\displaystyle \not \leftarrow }
+
+ Q
+¬P 
+
+
+
+↓
+
+
+{\displaystyle \downarrow }
+
+ ¬Q
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 0 
+ 0 
+
+
+1  
+ 0 
+ 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+与非
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+P ↑ Q
+P | Q
+P NAND Q
+P → ¬Q
+¬P ← Q
+¬P ∨ ¬Q
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 1 
+ 1 
+
+
+1  
+ 1 
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+非蕴涵
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+P 
+
+
+
+↛
+
+
+{\displaystyle \not \rightarrow }
+
+ Q
+P 
+
+
+
+⊅
+
+
+{\displaystyle \not \supset }
+
+ Q
+P & ¬Q
+¬P ↓ Q
+¬P 
+
+
+
+↚
+
+
+{\displaystyle \not \leftarrow }
+
+ ¬Q
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 0 
+ 0 
+
+
+1  
+ 1 
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+蕴涵
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+P → Q
+P 
+
+
+
+⊃
+
+
+{\displaystyle \supset }
+
+ Q
+P ↑ ¬Q
+¬P ∨ Q
+¬P ← ¬Q
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 1 
+ 1 
+
+
+1  
+ 0 
+ 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+命题P
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+P
+
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 0 
+ 0 
+
+
+1  
+ 1 
+ 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+非P
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+¬P
+~P
+
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 1 
+ 1 
+
+
+1  
+ 0 
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+反非蕴涵
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+P 
+
+
+
+↚
+
+
+{\displaystyle \not \leftarrow }
+
+ Q
+P 
+
+
+
+⊄
+
+
+{\displaystyle \not \subset }
+
+ Q
+P ↓ ¬Q
+¬P & Q
+¬P 
+
+
+
+↛
+
+
+{\displaystyle \not \rightarrow }
+
+ ¬Q
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 0 
+ 1 
+
+
+1  
+ 0 
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+反蕴涵
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+P 
+
+
+
+←
+
+
+{\displaystyle \leftarrow }
+
+ Q
+P 
+
+
+
+⊂
+
+
+{\displaystyle \subset }
+
+ Q
+P ∨ ¬Q
+¬P ↑ Q
+¬P → ¬Q
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 1 
+ 0 
+
+
+1  
+ 1 
+ 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+命题Q
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+Q
+
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 0 
+ 1 
+
+
+1  
+ 0 
+ 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+非Q
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+¬Q
+~Q
+
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 1 
+ 0 
+
+
+1  
+ 1 
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+异或
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+P 
+
+
+
+↮
+
+
+{\displaystyle \not \leftrightarrow }
+
+ Q
+P 
+
+
+
+≢
+
+
+{\displaystyle \not \equiv }
+
+ Q
+P 
+
+
+
+⊕
+
+
+{\displaystyle \oplus }
+
+ Q
+P XOR Q
+P ↔ ¬Q
+¬P ↔ Q
+¬P 
+
+
+
+↮
+
+
+{\displaystyle \not \leftrightarrow }
+
+ ¬Q
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 0 
+ 1 
+
+
+1  
+ 1 
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+双条件
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+P ↔ Q
+P ≡ Q
+P XNOR Q
+P IFF Q
+P 
+
+
+
+↮
+
+
+{\displaystyle \not \leftrightarrow }
+
+ ¬Q
+¬P 
+
+
+
+↮
+
+
+{\displaystyle \not \leftrightarrow }
+
+ Q
+¬P ↔ ¬Q
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 1 
+ 0 
+
+
+1  
+ 0 
+ 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+析取
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+P ∨ Q
+P ∨ Q
+P OR Q
+P 
+
+
+
+←
+
+
+{\displaystyle \leftarrow }
+
+ ¬Q
+¬P → Q
+¬P ↑ ¬Q
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 0 
+ 1 
+
+
+1  
+ 1 
+ 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+或非
+
+
+符号
+等价公式
+真值表
+文氏图
+
+
+P ↓ Q
+P NOR Q
+P 
+
+
+
+↚
+
+
+{\displaystyle \not \leftarrow }
+
+ ¬Q
+¬P 
+
+
+
+↛
+
+
+{\displaystyle \not \rightarrow }
+
+ Q
+¬P ∧ ¬Q
+
+
+
+ 
+Q
+
+
+0
+1
+
+
+P
+0  
+ 1 
+ 0 
+
+
+1  
+ 0 
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+图示[编辑]
+
+
+
+
+真值表
+
+哈斯图
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+（文件）
+
+（文件） （放大）
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+逻辑联结词
+
+
+
+
+
+
+
+恒真（
+
+
+
+⊤
+
+
+{\displaystyle \top }
+
+）
+
+
+
+
+
+
+
+
+
+
+与非（
+
+
+
+↑
+
+
+{\displaystyle \uparrow }
+
+） · 反蕴涵（
+
+
+
+←
+
+
+{\displaystyle \leftarrow }
+
+） · 蕴涵（
+
+
+
+→
+
+
+{\displaystyle \rightarrow }
+
+） · 或（
+
+
+
+∨
+
+
+{\displaystyle \lor }
+
+）
+
+
+
+
+
+
+
+非（
+
+
+
+¬
+
+
+{\displaystyle \neg }
+
+） · 异或（
+
+
+
+⊕
+
+
+{\displaystyle \oplus }
+
+） · 双条件（
+
+
+
+↔
+
+
+{\displaystyle \leftrightarrow }
+
+） · 命题
+
+
+
+
+
+
+
+或非（
+
+
+
+↓
+
+
+{\displaystyle \downarrow }
+
+） · 非蕴涵（
+
+
+
+↛
+
+
+{\displaystyle \nrightarrow }
+
+） · 反非蕴涵（
+
+
+
+↚
+
+
+{\displaystyle \nleftarrow }
+
+） · 与（
+
+
+
+∧
+
+
+{\displaystyle \land }
+
+）
+
+
+
+
+
+
+
+恒假（
+
+
+
+⊥
+
+
+{\displaystyle \bot }
+
+）
+
+
+
+
+
+
+
+
+
+
+分类：布尔代数逻辑联结词

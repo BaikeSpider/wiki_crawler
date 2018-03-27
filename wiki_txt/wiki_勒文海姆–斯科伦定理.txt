@@ -1,0 +1,34 @@
+勒文海姆–斯科伦定理
+在数理逻辑中，经典 Löwenheim–Skolem 定理声称对于标识(signature)为 
+
+
+
+<
+
+C
+
+,
+
+F
+
+,
+
+R
+
+,
+σ
+>
+
+
+{\displaystyle <\mathbf {C} ,\mathbf {F} ,\mathbf {R} ,\sigma >}
+
+ 的任何可数一阶逻辑语言 L 和 L-结构 M，存在一个可数无限基本子结构 N 
+
+
+
+⊆
+
+
+{\displaystyle \subseteq }
+
+ ' 这个定理的自然和有用的推论是所有一致的 L-理论都有可数的模型。

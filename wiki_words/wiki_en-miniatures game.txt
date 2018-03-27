@@ -1,0 +1,411 @@
+Miniature wargaming
+
+
+
+
+American Civil War miniature battle at the HMGS Cold Wars convention in Lancaster, Pennsylvania.
+
+
+
+
+Part of a series on:
+
+
+Wargaming
+
+
+
+
+
+
+
+Types
+
+
+Scales
+
+
+Grand strategy wargame
+Strategic wargame
+Operational wargame
+Tactical wargame
+Skirmish
+
+
+Genres
+
+
+Air wargaming
+Board wargames
+Computer wargame
+Fantasy wargame
+Miniature wargaming
+Naval wargaming
+
+
+
+
+
+
+
+
+People
+
+
+Founders
+
+
+Charles S. Roberts
+Don Featherstone
+H. G. Wells
+Jack Scruby
+Jim Dunnigan
+Paddy Griffith
+
+
+Groups
+
+
+Castle & Crusade Society
+Game Manufacturers Association
+International Federation of Wargaming
+International Wargames Federation
+Johnny Reb Gaming Society
+Naval Wargames Society
+Society of Fantasy and Science Fiction Wargamers
+Society of Twentieth Century Wargamers
+
+
+Events
+
+
+Charles S. Roberts Award
+Gen Con
+Origins Game Fair
+World Boardgaming Championships
+
+
+
+
+
+
+
+
+Lists
+
+
+List of board wargames
+List of miniature wargames
+List of wargame publishers
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Miniature wargaming is a form of wargaming which incorporates miniature figures, miniature armor and modeled terrain as the main components of play and which was first invented at the beginning of the 19th century in Prussia. Like other types of wargames, they can be generally considered to be a type of simulation game, generally about tactical combat, as opposed to computer and board wargames which have greater variety in scale.
+While such games could also be played with counters on a table with colored paper to denote terrain types, the visual attractiveness and tactile satisfaction of painted miniatures moving around on a table with model trees, hills and other scenery has such an alluring power to convince many wargamers to prefer model/miniature games over the cheaper and easier board-and-chits alternatives.
+The miniatures and scenario items at the core of the model wargaming experience are available in different scales, and many sets of rules are written with the assumption that a particular scale is being used.
+The hobby got its start around the beginning of the 20th century, with the publication of Jane's naval war rules and H. G. Wells' Little Wars in 1913. A similar book titled Shambattle: How to Play with Toy Soldiers was published by Harry Dowdall and Joseph Gleason in 1929. Commercial products just for miniatures wargamers and awareness as a single community of people with similar interests date back to the 1950s with the efforts of Jack Scruby.[1] Major developments in the field since then include the rise in the 1960s and 1970s of fantasy and science fiction wargames as an alternative to games based on historical conflicts, and the emergence of companies like Games Workshop, Privateer Press, Catalyst Game Labs, Corvus Belli, Spartan Games, Warlord Games, Wyrd, Hawk Wargames, Battlefront, Foundry, and many others.
+
+
+
+Contents
+
+
+1 General overview
+
+1.1 Scale
+
+
+2 Rulesets
+
+2.1 Role-playing games
+2.2 Naval wargames
+2.3 Air wargames
+
+
+3 Community and culture
+
+3.1 Notable miniature wargame organizations
+3.2 Notable miniature wargamers and miniature wargame designers
+
+
+4 See also
+5 References
+6 External links
+
+
+
+General overview[edit]
+Miniature wargaming is a recreational hobby where players simulate a battle, which is played out using small figurines to represent the land, sea and/or air units involved. Many miniatures games are played on a floor or tabletop, with terrain represented by miniature scenery (hills, forests, roads, fences, etc.). Movement of the miniatures is regulated using a measuring device such as a ruler, tape measure, cut sticks or other prepared standardized-length instruments. However, like boardgames, miniature games can also be played using gridded terrain (demarcated into squares or hexagons) or even gameboards.[citation needed]
+One of the main reasons for playing miniature wargames, in both these respects, is because it offers players more freedom of play and a more aesthetically pleasing tactical element over traditional games or computer games. Additionally, many hobbyists enjoy the challenge of painting miniatures and constructing scenery. In many ways, miniature wargaming may be seen as combining many of the aesthetics of tabletop train modelling with an open strategy game predominantly, though not exclusively, with a military theme. There is also a large social component to wargames as very often games are played with several participants on a side.[2]
+The miniatures and scenery used vary greatly in scale, from 6mm figures up to 54mm or larger (90 mm for example). The miniature figures are typically plastic or metal and are often sold unpainted. Scenery is often home-made, and figures are painted by the players, who will sometimes even "convert" shop-bought figures to better represent the units they are trying to depict.[3][4][5]
+There are any number of sets of miniature wargaming rules, some of which are available without charge on the Internet. Scenarios may depict actual historical situations and battles, or they may be hypothetical "what if?" situations. There are also fantasy and science fiction games with attendant wizards, spacecraft and other genres. Rules also vary in the scale they depict: one figure to one soldier is the most common for fantasy and some historical rules, but many historical systems presume that one figure represents hundreds or even thousands of men.
+Generally, these games are turn based strategy, like chess.
+Scale[edit]
+Main article: Miniature figure (gaming)
+
+
+
+
+Two units of 15mm spearmen from a Phokian Greek army under De Bellis Antiquitatis rules.
+
+
+Scale is generally expressed as the approximate height of a humanoid figure from base of foot to eyeline (though some count to top of head – hence the possible confusion) in millimeters, this is sometimes referred to as the Barret Scale, as opposed to the ratio values used in scale modeling.
+Popular sizes and roughly equivalent scale ratios
+
+
+mm
+54
+45
+28
+25
+20
+15
+12
+10
+6
+3
+2
+
+
+scale
+1:32
+1:35
+1:56
+1:72
+1:76
+1:100
+1:144
+1:161
+1:300
+1:600
+1:914
+
+
+For more detailed information on common scales see miniature scale. The naval wargaming branch of the hobby almost exclusively uses ratios.
+"O" (1:48), "HO" (1:87), and "N" (1:160) scale are popular among model railroad hobbyists. Some model railroad scales are close enough to the smaller-scale figures to provide usable structures and/or vehicles, possibly requiring some modification. For example, 1:144, N Scale, and 10mm miniatures typically mix well on the game table. Some wargamers use paper model structures because of their economy and the ease of scaling them to appropriate sizes, and many wargamers scratchbuild their structures. 1:144 scale is not very common for wargames but notable exceptions like Dream Pod 9's Heavy Gear do exist along with Dropzone Commander by Hawk Wargames and Planetfall by Spartan Games.
+Part of the reason for the profusion of miniature sizes is the need for manufacturers to differentiate themselves in what is a niche market. This results in what has been termed "scale creep" where miniatures listed in a catalog may be identified by a measurement, but in reality may vary significantly from that advertised size. This is to encourage the purchaser into brand loyalty based on the aesthetic desire to maintain a look of uniformity on the tabletop.
+Over the years the size of new miniatures has tended to increase. For example, 25 mm figures from the 70s are visibly smaller than the 25 mm figures today. Some can even be used alongside modern 20 mm figures. Currently most manufacturers and gamers refer to 25 mm figures as 28 mm figures, since they are so much bigger than the earlier 25 mm figures. Some figures are still being called 25 mm, even if by the foot to eyeline ratio they should be 30 mm or bigger.
+Moreover, the anatomy features of 25–30 mm miniatures can vary notably from manufacturer to manufacturer and even from sculptor to sculptor: some of them rely on heavily emphasized features (to the point of distortion) closely resembling the exaggerated anatomies of comic-book characters, and are aptly called "heroic"-style figures; other, more consistent with actual human physiques, are termed "realistic" figures.
+Usually "heroic" anatomies are more common in fantasy and SF miniatures and some odder para-realistic subgenres, like zombie apocalypse or pulp heroes figures; "realistic" figures feature more prominently in miniatures dedicated to actual or historical military conflicts. A player's choice of which scale to use is a direct reflection of the scope of the game to be played. For historical games, 15 mm seems to be the most popular scale, because it is small enough to allow for large battles.[2] Smaller scaled miniatures are typically mounted in groups and moved as groups. This creates the visual effect of a large mass of combatants, allowing games simulating platoon, company, battalion, and even corps level actions. In these cases, the miniatures are often mounted on trays, or bases, for ease of mass movement.[2]
+Larger scaled figures (primarily 25 mm and up) tend to be used in skirmish games where the single miniature represents a single man/animal/vehicle. This is because, although scales in this region provide greater detail that is easier to paint, their higher cost and larger size limits the size of battles that might be recreated.[2] Games of this scale that are not mounted on trays (and thus not locked in block formation) tend to offer greater flexibility of movement.[6]
+The perceived and agreed ratios of representative models to represent "real world" objects are generally explicitly stated. This is particularly true of rules systems that claim some form of historical authority, whereas a minority of rules sets do not state any representative scale.
+Rulesets[edit]
+Main article: List of miniature wargames
+There are many miniature wargaming rulesets, not all of which are currently in print, including some which are available free on the internet. Most rulesets are intended for a specific historical period or fictional genre. Rules also vary in the model scale they use: one infantry figure may represent one man, one squad, or much larger numbers of actual troops.
+Wargaming in general owes its origins to military simulations, most famously to the Prussian staff training system Kriegsspiel. Consequently, rules designers struggle with the perceived obligation to actually 'simulate' something, and with the seldom compatible necessity to make an enjoyable 'game'. Historical battles were seldom fair or even, and the potential detail that can be brought to bear to represent this in a set of rules always comes at the cost of pace of the game and enjoyment. In Osprey Publishing's book about the Battle of Crécy, from its series on historical campaigns, there is included a detailed section on wargaming the battle, in which Stuart Asquith writes:
+
+
+“
+When refighting a particular battle, it is important to adhere as closely as possible to the original historical engagement. The counter-argument is that the wargamer(s) know who is going to win. Fair comment, but knowing the outcome of any battle does not usually prevent one from reading about that action, so why should such knowledge debar a refight?[7]
+”
+
+
+He adds that unless at least the initial moves are recreated, "then an interesting medieval battle may well take place, but it will not be a re-creation of Crécy."[7] Still, rules aimed at the non-professional hobby market therefore inevitably contain abstractions. It is generally in the area of the abstraction liberties taken by the designers that the differences between rules can be found. Most follow tried and true conventions to the extent that a chess player would recognize wargaming merely as a different scaled version of his or her own game.
+Role-playing games[edit]
+
+
+
+
+The Chainmail rulebook.
+
+
+Main article: Role-playing game
+During the 1960s and 1970s, two new trends in wargaming emerged: First were small-unit rules sets which allowed individual players to portray small units down to even a single figure. These rules expanded the abilities of the smaller units accordingly, to magnify their effect on the overall battle.
+Second was an interest in fantasy miniatures wargaming. J.R.R. Tolkien's novel The Hobbit and his epic cycle The Lord of the Rings were gaining strong interest in the United States, and as a result, rules were quickly developed to play medieval and Roman-era wargames, where these eras had previously been largely ignored in favor of Napoleonic and Civil War gaming.
+The two converged in a set of miniatures rules entitled Chainmail, published by a tiny company called Guidon Games, headquartered in Lake Geneva, Wisconsin. Later, in 1974, TSR designer E. Gary Gygax wrote a set of rules for individual characters under Chainmail, and entitled it Dungeons & Dragons. Further developments ensued, and the role-playing game hobby quickly became distinct from the wargaming hobby which preceded it.
+Naval wargames[edit]
+Main article: Naval wargaming
+Although generally less popular than wargames set on land, naval wargaming nevertheless enjoys a degree of support around the world. Model ships have long been used for wargaming, but it was the introduction of elaborate rules in the early 20th century that made the hobby more popular. Small miniature ships, often in 1:1200 scale and 1:1250 scale, were maneuvered on large playing surfaces to recreate historical battles. Prior to World War II, firms such as Bassett-Lowke in England and the German company Wiking marketed these to the public.[8][9] After World War II, several manufacturers started business in Germany, which remains the center of production to this day,[10] while other companies started in England and the United States.
+Rules can vary greatly between game systems; both in complexity and era. Historical rulesets range from the ancient and medieval ships to the fleets of the Age of Sail and the modern era. Often the hobbyists have to provide their own scale models of ships. The 1972 game, Don't Give Up The Ship!, called for pencil and paper, six-sided dice, rulers and protractors, and model ships, ideally of 1:1200 scale. The elaborate rules cover morale, sinking, fires, broken masts, and boarding. Dice determined wind speed and direction, and hence the ship's speed and the use of its cannon by measuring angles with the protractor.[11]
+In naval wargaming of the modern period, General Quarters, primarily (though not exclusively) using six-sided dice, has established itself as one of the leading sets of World War I and II era rules.[12]
+Some land-based miniature wargames have also been adapted to naval wargaming. All at Sea, for example, is an adaptation of The Lord of the Rings Strategy Battle Game rules for naval conflicts. The game's mechanics centered around boarding parties, with options for ramming actions and siege engines.[13] As such, the ship's scale ratio corresponds to the 25 mm scale miniatures used by The Lord of the Rings. Model ships are built by hobbyists, just as normal miniature terrain, such as "great ships" of Pelargir, cogs of Dol Amroth and Corsair galleys.[14]
+Air wargames[edit]
+Main article: Air wargaming
+Air wargaming, like naval wargaming, is a smaller niche within the larger hobby of miniatures wargaming. Aerial combat has developed over a relatively short time compared with naval or land warfare. As such, air wargaming tends to break down into three broad periods:
+
+World War I – from the earliest air combat to the 1920s
+World War II – 1930s to the early 1950s
+"Modern" – the missile age
+
+In addition there are science fiction and "alternative history" games such as Aeronefs and those in the Crimson Skies universe.
+Community and culture[edit]
+Miniature games tend to be more social than do other forms of commercial wargames, and very often games are played with several participants on a side.[2] This manifests itself in wargame organisations, conventions, community websites and other social events. Some conventions have become very large affairs, such as Gen-Con, Origins and Historical Miniatures Gaming Society's Historicon, called the "mother of all wargaming conventions".[2] Sometimes the wargamer stereotypes are parodied, such as in "Wargamers, a spotters guide" and the comic strip "Larry Leadhead".[15][16]
+Notable miniature wargame organizations[edit]
+
+International Wargames Federation (IWF) promotes historical wargaming competitions between players or teams from different countries. [1]
+Historical Miniatures Gaming Society (HMGS) is the collective name for several regional miniature wargaming societies/organizations. Each HMGS chapter holds its own wargaming conventions. The largest group, HMGS East, holds three major conventions: Cold Wars, Historicon, and Fall In!. HMGS East also supports several smaller conventions. There are chapters of HMGS in most regions of the United States. [2].
+Johnny Reb Gaming Society – the leading international gaming society devoted exclusively to wargaming the American Civil War; publishes the quarterly CHARGE! newsletter for members of the society.
+Wargame Developments (WD) was founded by game designer and author Paddy Griffith in 1980, and is an international group dedicated to developing all types of wargames. It publishes a journal, The Nugget, nine times per year and holds an annual 3-day long conference – COW (The Conference of Wargamers) – every July.
+Mind Sports South Africa started as the South African Wargames Union in 1984. It was the first wargaming body to have wargames recognized as a sport in the same way as which chess is so recognized. As a result, South African teams were awarded Springbok Colours (1991–1994) and Protea Colours (1995 to date).
+The Solo Wargamers Association (SWA) founded in 1976 supports solo players in all branches of wargaming – historical, science fiction, fantasy, miniatures, board games etc. Publishes a quarterly journal Lone Warrior.
+The British Historical Games Society (BHGS) promotes historical wargaming in Britain, holding events including tournaments periodically.
+The War Gaming Society (WGS) was founded in May 1975. The Joaquin Valley War Gaming Association (SJVWGA), founded in 1972 by Jack Scruby, Ray Jackson and other miniature wargamers, is a subdivision of the War Gaming Society.
+The Pike & Shot Society promotes wargaming based on the "Pike and shot" period (c. 1500–1700), publishing a journal called The Arquebusier. [3]
+The Society of Ancients, founded in the '60s, promoting ancient wargaming and historical research through Slingshot, the society journal.
+Warhammer Player's Society. Dedicated to all versions (Fantasy, Ancients and Science-Fiction) of Warhammer [4]
+Society of Twentieth Century Wargamers. (SOTCW) covers all periods 1900 – present [land, sea or air] the society has a magazine, The Journal, which is produced quarterly. [5]
+Society of Fantasy and Science Fiction Wargamers (SFSFW). For fantastical and future, including retro-future, wargames. Publishers of Ragnarok magazine. [6]
+Naval Wargames Society. The NWS is an international society devoted to the advancement of naval wargames, publishing a quarterly journal, Battlefleet. [7]
+
+Notable miniature wargamers and miniature wargame designers[edit]
+
+
+
+
+Little Wars, by H. G. Wells (1913).
+
+
+
+H.G. Wells – Known as the "Father of Miniature Wargaming" and author of the miniature wargaming classic Little Wars.[17]
+Jack Scruby – The "Father of Modern Miniature Wargaming".[18] Popularized modern miniature wargaming and organized perhaps the first miniatures convention in 1956. Jack Scruby was also a manufacturer of military miniatures whose efforts led to a rebirth of the miniature wargaming hobby in the late 1950s.
+Gary Gygax – Co-creator of Dungeons & Dragons and a number of miniature wargames.
+Duke Seifried – Sculptor of over 10,000 miniatures, one of the earliest American miniature manufacturers: Heritage, Custom Cast, Der Kreigspielers Napoleonic, and Fantastiques Fantasy Figures.
+Bruce Rea Taylor - Designer of the Firefly, Challenger, Corps Commander and Korps Commander rules.
+Charles Grant – Author and founder member of the UK wargaming scene in the 1960s. Helped popularize miniature wargaming.
+Donald Featherstone – A respected military historian,[19] introduced to the hobby in 1955.[20] Since then, he was one of the most prolific authors on the subject, and very influential in the development of the hobby.
+Fletcher Pratt – Science fiction writer (often in collaboration with L. Sprague de Camp) and originator of a popular set of rules for naval miniature wargaming.
+Kevin Cabai-Armor Officer and wagamer- Kevin has used in many years in the Armor Branch to write a number of highly realistic and yet playable rules sets. His first Jagdpanzer- cover mechanized combat in World War II. The game was first seen at major conventions in 1985. It has been though a revised 2nd edition and is widely available. Sand Oil and Blood- was co-authored, with Marty Fenelon. It was the modern warfare version of tank combat. Already in the works to be published during Desert Shield, it was released 30 days after Desert Storm. Finally Mekong- A rule set covering Riverine Warfare in Viet Nam. Again co-authored with Marty Fenelon, it was picked up and sold by GHQ.
+Terry Wise- Historian and writer- many Osprey publications to his credit along with the seminal "Introduction to Battlegaming" of 1969. Published rules for Ancients, Pike and Shot and American Civil wargaming that are fast, fun and easy to use.
+Walter ("Wally") Simon – One of the original founders of the Historical Miniature Gaming Society. First President of HMGS and Organizer of the Potomac Wargamers, publisher of the PW Review.
+Dick Bryant – Co-founder with Wally Simon of HMGS and editor since 1969 of The Courier Miniature Wargaming Magazine. His editorial in that magazine castigating GAMA for choosing cardboard counters as "The Best New Historical Miniature" started the search for an organization that supported and promulgated the hobby of Historical Miniature Wargaming that resulted in the "Meeting in Wally's Basement" that was the initialization of HMGS.
+David Waxtel – Publisher of over 20 sets of rules, and supplement books.
+George Gush – Noted for A Guide to Wargaming (1980) as well as the WRG Renaissance Rules
+John Hill – Known for his classic Squad Leader and other Avalon Hill board games, also the author of the popular Johnny Reb miniatures rules.
+Raymond ("Ray") James Jackson – Author of Classic Napoleonics, an "Old School" set of miniature wargame rules which have been in existence since 1961. Chairman and CEO of both HMGS-West and the War Gaming Society. A miniature wargamer since 1958.
+Frank Chadwick – Author of the Command Decision and Volley & Bayonet rules, Space: 1889 and Traveller, and co-founder of Game Designers' Workshop.
+Phil Barker – Founder of the Wargames Research Group, and inventor of the De Bellis Antiquitatis game series.
+Arty Conliffe – Designer of Armati, Crossfire, Spearhead, Shako and Tactica rules.
+Bob Jones – Founder of Piquet and designer of the Piquet wargame series.
+Brigadier Peter Young, DSO, MC – Highly decorated World War II commando leader, commander of the 9th Regiment of the Arab Legion, founder of the Sealed Knot English Civil War reenactment society, Reader of Military History at Sandhurst, author of several books on military history, also author of Charge! Or How to Play Wargames and The War Game: Ten Great Battles Recreated from History.
+Phil Dunn – Founder of the Naval Wargames Society and author of Sea Battle Games.
+John McEwan – Creator of the first science fiction ground combat miniatures game Starguard! in 1974 along with over 200 figures and models for this game.
+Tony Bath – Author and veteran wargamer, founding member of the Society of Ancients, best known as umpire of one of the longest running and well known of all wargames campaigns, set in the fictional land of Hyboria.
+David Manley – Author of many sets of naval rules including Action Stations, Fire When Ready, Iron and Fire, Bulldogs Away, and Form Line of Battle, as well as numerous articles and technical papers on naval wargaming, history, and warship design.
+Scott Mingus – founder of the international Johnny Reb Gaming Society and one of the world's most prolific authors of American Civil War scenario books.
+Neville Dickinson – One of the original members of the UK wargaming scene and founder of Miniature Figurines, the first firm in the UK to popularize metal miniatures.
+Larry Brom - designer of The Sword and The Flame, one of the most popular colonial era wargames.
+Andy Chambers – Known for his work in rules design and revision for Games Workshop Inc. and Mongoose Publishing. Notable games he helped develop include Warhammer 40,000 and Starship Troopers: The Miniatures Game.
+Bryan Ansell - Creator of Laserburn, Rules with No Name, co-creator/co-author of Warhammer, author Warhammer 40,000 and a host of other game credits. Associated primarily with Games Workshop and Citade Miniatures, also Asgard Miniatures
+Rick Priestley – co-creator/co-author of Warhammer, author Warhammer 40,000 and a host of other game credits. Associated primarily with Games Workshop and Citadel but earlier work included co-authoring the seminal fantasy wargame rulebook Reaper.
+Rusty Gronewold – Lead designer with Tactical Command Games, has developed many different miniature games, such as Stellar Fire, Legions Unleashed, Conflict 2000, Stellar Conflicts & Uprisings, Gunslingers & Desperados, Pirates & Buccaneers just to name a few.
+Paddy Griffith - Military historian and founder of Wargame Developments, he devised and ran the first Megagames as well as many experimental wargames that were designed to give military historians a greater insight into how battles and campaigns were actually fought. Many of his wargames posed ethical and moral dilemmas for the players and challenged orthodox thinking.
+Alessio Cavatore - Writer of many popular rulesets. Famous for his work with Games Workshop, Mantic and Warlord.
+
+See also[edit]
+
+Simulation game
+Nation-simulation game
+Grand strategy
+Fantasy wargame
+Tabletop game
+
+List of miniature wargames
+List of wargame publishers
+Scale model
+
+
+Computer and video games
+Computer-assisted gaming
+
+References[edit]
+
+
+
+^ Richard Gehman, "A Little War Can Be A Lot Of Fun", Sports Illustrated January 4, 1965, visited January 21, 2014.
+^ a b c d e f "What is Wargaming?". Article. HMGS. Archived from the original on June 9, 2007. Retrieved 2007-06-16. 
+^ "Warhammer 40,000 Modelling articles". Article. Games Workshop. Archived from the original on June 16, 2007. Retrieved June 16, 2007. 
+^ "Warhammer Fantasy Modelling articles". Article. Games Workshop. Archived from the original on June 16, 2007. Retrieved June 16, 2007. 
+^ "The Lord of the Rings Modelling articles". Article. Games Workshop. Archived from the original on June 18, 2007. Retrieved 2007-06-16. 
+^ "A discussion simplicity in wargames". November 12, 2005. Retrieved 2007-06-16. 
+^ a b Crécy 1346: Triumph of the longbow, p 93-94
+^ Head, Derek. Bassett-Lowke Waterline Ship Models London 1996 ISBN 1-872727-72-7
+^ Schönfeld, Peter Wiking-Modelle Die Schiffe und Flugseuge Hamburg 1998 ISBN 3-7822-0731-9
+^ Jacobs, Paul 1250 History on the steelnavy.com website
+^ Don't Give Up The Ship!, 1st Edition, 1972, Guidon Games, 50 pages, blue & black cover
+^ Survey of Naval Wargames Rules, NWS journal "Battlefleet" 1996
+^ Nick Davis. "All At Sea Part One". Ruleset. White Dwarf. Archived from the original on October 9, 2007. Retrieved June 14, 2007. 
+^ "The Ports of Pelargir". Website. Archived from the original on March 13, 2007. Retrieved June 14, 2007. 
+^ "Wargamers, a spotters guide". Article. Archived from the original on June 17, 2007. Retrieved June 16, 2007. 
+^ "Larry Leadhead's Website". Website. Retrieved 2007-06-16. 
+^ The Miniatures Page. The World of Miniatures – An Overview.
+^ Timeline of the Historical Miniatures Wargaming Hobby
+^ Sadler, p 27
+^ Tony Bath Obituary
+
+
+
+
+David Nicolle & Stuart Asquith, Crécy 1346: Triumph of the longbow, Osprey Publishing Paperback; June 25, 2000; ISBN 978-1-85532-966-9
+Sadler, John (2006). Flodden 1513: Scotland's greatest defeat (Campaign 168). Osprey Publishing. ISBN 978-1-84176-959-2. 
+
+External links[edit]
+
+What is wargaming? History and discussion of wargaming and miniature wargaming.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Scale modeling
+
+
+
+
+
+
+1:6 scale modeling
+Architectural models
+Building models
+Brass models
+Diecast models
+Dioramas
+Dollhouse
+Gundam model
+Matchstick models
+Miniature arts
+Miniature wargaming
+Model aircraft
+Model cars
+Model commercial vehicles
+Model construction vehicles
+Model figures
+Model horses
+Model military vehicles
+Model robots
+Model rockets
+Model ships
+Model trains
+Room box
+List of scale model kit manufacturers
+
+
+
+
+
+
+
+
+
+
+Categories: Miniatures gamesWargamesScale modelingPlayscale miniaturismHidden categories: Use mdy dates from June 2013Use American English from February 2014All Wikipedia articles written in American EnglishAll articles with unsourced statementsArticles with unsourced statements from March 2014

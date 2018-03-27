@@ -1,0 +1,82 @@
+可判定性
+一个语言
+
+
+
+L
+
+
+{\displaystyle L}
+
+，是一个集合，且其补集为
+
+
+
+
+
+
+L
+¯
+
+
+
+
+
+{\displaystyle {\bar {L}}}
+
+ 。
+当
+
+
+
+L
+
+
+{\displaystyle L}
+
+是图灵机可识别时，语言
+
+
+
+L
+
+
+{\displaystyle L}
+
+则称为半可判定。
+当语言
+
+
+
+L
+
+
+{\displaystyle L}
+
+不是图灵机可识别，则为不可判定语言。
+当且仅当
+
+
+
+L
+
+
+{\displaystyle L}
+
+和
+
+
+
+
+
+
+L
+¯
+
+
+
+
+
+{\displaystyle {\bar {L}}}
+
+都是图灵机可识别的时候，L才能称为可判定语言。

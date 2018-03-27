@@ -1,0 +1,98 @@
+Functional neuroimaging
+
+
+
+
+Functional magnetic resonance imaging data
+
+
+Functional neuroimaging is the use of neuroimaging technology to measure an aspect of brain function, often with a view to understanding the relationship between activity in certain brain areas and specific mental functions. It is primarily used as a research tool in cognitive neuroscience, cognitive psychology, neuropsychology, and social neuroscience.
+
+
+
+Contents
+
+
+1 Overview
+2 Functional neuroimaging topics
+3 Critique and careful interpretation
+4 See also
+5 References
+6 Further reading
+7 External links
+
+
+
+Overview[edit]
+Common methods of functional neuroimaging include
+
+Positron emission tomography (PET)
+Functional magnetic resonance imaging (fMRI)
+Electroencephalography (EEG)
+Magnetoencephalography (MEG)
+Functional near-infrared spectroscopy (fNIRS)
+Single-photon emission computed tomography (SPECT)
+
+PET, fMRI and fNIRS can measure localized changes in cerebral blood flow related to neural activity. These changes are referred to as activations. Regions of the brain which are activated when a subject performs a particular task may play a role in the neural computations which contribute to the behaviour. For instance, widespread activation of the occipital lobe is typically seen in tasks which involve visual stimulation (compared with tasks that do not). This part of the brain receives signals from the retina and is believed to play a role in visual perception.
+Other methods of neuroimaging involve recording of electrical currents or magnetic fields, for example EEG and MEG. Different methods have different advantages for research; for instance, MEG measures brain activity with high temporal resolution (down to the millisecond level), but is limited in its ability to localize that activity. fMRI does a much better job of localizing brain activity for spatial resolution, but with a much lower time resolution.[1]
+Functional neuroimaging topics[edit]
+The measure used in a particular study is generally related to the particular question being addressed. Measurement limitations vary amongst the techniques. For instance, MEG and EEG record the magnetic or electrical fluctuations that occur when a population of neurons is active. These methods are excellent for measuring the time-course of neural events (on the order of milliseconds,) but generally bad at measuring where those events happen. PET and fMRI measure changes in the composition of blood near a neural event. Because measurable blood changes are slow (on the order of seconds), these methods are much worse at measuring the time-course of neural events, but are generally better at measuring the location.
+Traditional "activation studies" focus on determining distributed patterns of brain activity associated with specific tasks. However, scientists are able to more thoroughly understand brain function by studying the interaction of distinct brain regions, as a great deal of neural processing is performed by an integrated network of several regions of the brain. An active area of neuroimaging research involves examining the functional connectivity of spatially remote brain regions. Functional connectivity analyses allow the characterization of interregional neural interactions during particular cognitive or motor tasks or merely from spontaneous activity during rest. FMRI and PET enable creation of functional connectivity maps of distinct spatial distributions of temporally correlated brain regions called functional networks. Several studies using neuroimaging techniques have also established that posterior visual areas in blind individuals may be active during the performance of nonvisual tasks such as Braille reading, memory retrieval, and auditory localization as well as other auditory functions.[2]
+A direct method to measure functional connectivity is to observe how stimulation of one part of the brain will affect other areas. This can be done noninvasively in humans by combining transcranial magnetic stimulation with one of the neuroimaging tools such as PET, fMRI, or EEG. Massimini et al. (Science, September 30, 2005) used EEG to record how activity spreads from the stimulated site. They reported that in non-REM sleep, although the brain responds vigorously to stimulation, functional connectivity is much attenuated from its level during wakefulness. Thus, during deep sleep, "brain areas do not talk to each other".
+Functional neuroimaging draws on data from many areas other than cognitive neuroscience and social neuroscience, including biological sciences (such as neuroanatomy and neurophysiology), physics and maths, to further develop and refine the technology.
+Critique and careful interpretation[edit]
+Functional neuroimaging studies have to be carefully designed and interpreted with care. Statistical analysis (often using a technique called statistical parametric mapping) is often needed so that the different sources of activation within the brain can be distinguished from one another. This can be particularly challenging when considering processes which are difficult to conceptualise or have no easily definable task associated with them (for example belief and consciousness).
+Functional neuroimaging of interesting phenomena often gets cited in the press. In one case a group of prominent functional neuroimaging researchers felt compelled to write a letter to New York Times in response to an op-ed article about a study of so-called neuropolitics.[3]
+They argued that some of the interpretations of the study were "scientifically unfounded".[4]
+The Hastings Center issued a report in March 2014 entitled "Interpreting Neuroimages: An Introduction to the Technology and Its Limits",[5] with articles by leading neuroscientists and bioethicists. The report briefly explains neuroimaging technologies and mostly critiques, but also somewhat defends, their current state, import and prospects.
+See also[edit]
+
+Analysis of Functional NeuroImages
+Automated Anatomical Labeling
+Dynamic causal modelling
+Electroencephalography
+Event related potential
+FMRIB Software Library
+FreeSurfer
+Functional integration (neurobiology)
+Magnetoencephalography
+Mental event
+Near-infrared spectroscopy
+Perfusion scanning
+Single photon emission computed tomography
+Statistical parametric mapping
+
+References[edit]
+
+
+
+^ Poldrack, R. A.; Sandak, R. (2004). "Introduction to This Special Issue: The Cognitive Neuroscience of Reading". Scientific Studies of Reading. 8 (3): 199. doi:10.1207/s1532799xssr0803_1. 
+^ Gougoux, F. D. R.; Zatorre, R. J.; Lassonde, M.; Voss, P.; Lepore, F. (2005). "A Functional Neuroimaging Study of Sound Localization: Visual Cortex Activity Predicts Performance in Early-Blind Individuals". PLoS Biology. 3 (2): e27. doi:10.1371/journal.pbio.0030027. PMC 544927 . PMID 15678166.  
+^ Marco Iacoboni et al. (2007). "This Is Your Brain on Politics". In: The New York Times 11 November 2007.
+^ Chris Frith et al. (2007). "Politics and the Brain". In: The New York Times, 14 November 2007.
+^ Johnston, J., & Parens, E. (2014)."Interpreting Neuroimages: An Introduction to the Technology and Its Limits", The Hastings Center Report, Volume 44, Issue s2, March-April 2014.
+
+
+
+Further reading[edit]
+
+Cabeza, R., & Kingstone, K. (eds.) (2006). Handbook of Functional Neuroimaging of Cognition. MIT Press.
+Cacioppo, J.T., Tassinary, L.G., & Berntson, G. G. (2007). Handbook of Psychophysiology. Cambridge University Press.
+Hillary, F.G., & DeLuca, J. (2007). Functional Neuroimaging in Clinical Populations.
+Kanwisher, N., & Duncan, J. (2004). Functional Neuroimaging of Visual Cognition.
+Silbersweig, D., & Stern, E. (2001). Functional Neuroimaging and Neuropsychology Fundamentals and Practice.
+Thatcher, R, W. (1994). Functional Neuroimaging: Technical Foundations.
+
+External links[edit]
+
+The Whole Brain Atlas @ Harvard
+The American Society of Neuroimaging (ASN).
+UCLA Neuroimaging Training Program.
+BrainMapping.org, a free BrainMapping community information portal
+
+..
+
+
+
+
+Categories: NeuroimagingCognitive neuroscience

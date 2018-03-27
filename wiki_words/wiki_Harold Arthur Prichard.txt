@@ -1,0 +1,171 @@
+Harold Arthur Prichard
+
+
+Harold Arthur Prichard
+
+
+Born
+1871
+London
+
+
+Died
+1947
+
+
+Alma mater
+New College, Oxford
+
+
+
+
+
+Era
+20th-century philosophy
+
+
+Region
+Western philosophy
+
+
+School
+Analytic philosophy
+Ethical intuitionism
+
+
+
+Main interests
+
+Ethics
+
+
+
+Notable ideas
+
+Ethical intuitionism
+
+
+
+
+Influences
+
+
+John Cook Wilson
+
+
+
+
+
+
+
+
+Influenced
+
+
+H. H. Price, John Rawls, W. D. Ross, J. L. Austin[1]
+
+
+
+
+
+
+
+
+
+Harold Arthur Prichard (1871–1947), usually cited as H. A. Pritchard, was an English philosopher. He was born in London in 1871, the eldest child of Walter Stennett Prichard (a solicitor) and his wife Lucy. Harold Prichard was a scholar of Clifton College from where he won a scholarship to New College, Oxford, to study mathematics. But after taking First Class honours in mathematical moderations (preliminary examinations) in 1891, he studied Greats (ancient history and philosophy) taking First Class Honours in 1894. He also played tennis for Oxford against Cambridge. On leaving Oxford he spent a brief period working for a firm of solicitors in London, before returning to Oxford where he spent the rest of his life, first as Fellow of Hertford College (1895–98) and then of Trinity College (1898–1924). He took early retirement from Trinity in 1924 on grounds of ill health, but recovered and was elected White's Professor of Moral Philosophy in 1928 and became a fellow of Corpus Christi College. He retired in 1937.[1]
+
+
+
+Contents
+
+
+1 "Does Moral Philosophy Rest on a Mistake?"
+
+1.1 Criticism of Utilitarianism
+1.2 Deriving moral obligation
+
+
+2 Writings
+3 Notes
+4 References
+5 External links
+
+
+
+"Does Moral Philosophy Rest on a Mistake?"[edit]
+Prichard gave an influential defence of ethical intuitionism in his "Does Moral Philosophy Rest on a Mistake?" (1912), wherein he contended that moral philosophy rested chiefly on the desire to provide arguments, starting from non-normative premises, for the principles of obligation that we pre-philosophically accept, such as the principle that one ought to keep one's promises or that one ought not steal. This is a mistake, he argued, both because it is impossible to derive any statement about what one ought to do from statements not concerning obligation (even statements about what is good), and because there is no need to do so since common sense principles of moral obligation are self-evident. The essay laid a groundwork for ethical intuitionism and provided inspiration for some of the most influential moral philosophers, such as John Rawls.[2][1]
+Criticism of Utilitarianism[edit]
+Prichard attacks Utilitarianism as not being capable of forming obligation. He states that one cannot justify an obligation by pointing to the consequences of the obligated action because pointing to the consequences only shows that the action is desirable or advisable, not that it is obligatory. In other words, he claims that, while Utilitarianism may encourage people to do actions which a moral person would do, it cannot create a moral obligation to do those actions.[3]
+Deriving moral obligation[edit]
+H. A. Prichard is an ethical intuitionist, meaning he believed that it is through our moral intuitions that we come to know right and wrong. Further, while he believes that moral obligations are justified by reasons, he does not believe that the reasons are external to the obligation itself. For instance, if a person is asked why he ought not torture chipmunks, the only satisfying answer that could be given is that he ought not torture chipmunks.[1]
+Prichard, along with other intuitionists, adopts a foundationalist approach to morality. Foundationalism is a theory of epistemology which states that there are certain fundamental principles which are the basis for all other knowledge. In the case of ethics, foundationalists hold that certain fundamental moral rules are their own justification. Walter Sinnott-Armstrong explains:
+
+The deepest challenge in moral epistemology, as in general epistemology, is raised by a skeptical regress argument: Someone is justified in believing something only if the believer has a reason that is expressible in an inference with premises that the believer is already justified in believing. This requires a chain of inferences that must continue infinitely, close into a circle, or stop arbitrarily. Academic skeptics reject all three options and conclude that there is no way for anyone to be justified in believing anything. The same regress arises for moral beliefs . . . The simplest way to stop this regress is simply to stop. If a believer can work back to a premise that the believer is justified in believing without being able to infer that premise from anything else, then there is no new premise to justify, so the regress goes no further. That is how foundationalists stop the regress in general epistemology. Moral intuitionists apply foundationalism to moral beliefs as a way to stop the skeptical regress regarding moral beliefs.[4]
+
+Therefore, Prichard concludes that just as observation of other people necessitates that other people exist, the observation of a moral obligation necessitates that the obligation exists. Prichard finishes his essay by answering a few obvious problems. Most notably, he explains how people should guarantee the accuracy of their moral intuitions. Clearly, observations can be misleading. For instance, if someone sees a pencil in water, he may conclude that the object in the water is bent. However, when he pulls the pencil from the water, he sees that it is straight. The same can occur with moral intuition. If one begins to doubt one's intuition, one should try to imagine oneself in the moral dilemma related to the decision. If the intuition persists, then the intuition is accurate. Prichard further supports these claims by pointing out how it is illegitimate to doubt previously believed moral intuitions:[3]
+
+With these considerations in mind, consider the parallel which, as it seems to me, is presented though with certain differences by Moral Philosophy. The sense that we ought to do certain things arises in our unreflective consciousness, being an activity of moral thinking occasioned by the various situations in which we find ourselves. At this stage our attitude to these obligations is one of unquestioning confidence. But inevitably the appreciation of the degree to which the execution of these obligations is contrary to our interest raises the doubt whether after all these obligations are, really obligatory, i.e., whether our sense that we ought not to do certain things is not illusion. We then want to have it proved to us that we ought to do so, i.e., to be convinced of this by a process which, as an argument, is different in kind from our original and unreflective appreciation of it. This demand IS, as I have argued, illegitimate. Hence in the first place, if, as is almost universally the case, by Moral Philosophy is meant the knowledge which would satisfy this demand, there is no such knowledge, and all attempts to attain it are doomed to failure because they rest on a mistake, the mistake of supposing the possibility of proving what can only be apprehended directly by an act of moral thinking.[3]
+
+Writings[edit]
+
+Kant's Theory of Knowledge, (1909)
+"Does Moral Philosophy Rest on a Mistake?" Mind 21 (1912): 21–37. Reprinted in Moral Obligation.
+Moral Obligation (London, 1949; 1968)
+Knowledge and Perception, Essays and Lectures (London, 1950)
+
+Notes[edit]
+
+
+^ a b c d Dancy, Jonathan. "Harold Arthur Prichard". Stanford Encyclopedia of Philosophy. Retrieved 19 June 2012. 
+^ Rawls, John (1971). A Theory of Justice. Harvard University Press. pp. 30,307–308. ISBN 0-674-00077-3. 
+^ a b c Prichard, Harold Arthur (1912). "Does Moral Philosophy Rest on a Mistake?". Mind. 21 (81): 21–37. doi:10.1093/0199250197.003.0002. 
+^ Sinnott-Armstrong, Walter (2005). "Moral Intuitionism Meets Empirical Psychology". 
+
+
+References[edit]
+
+Jim McAdam, "Introduction", Moral Writings by H.A. Prichard, (Volume 3 of British moral philosophers), Oxford University Press, 2002, ISBN 0-19-925019-7, pp.xiv-xv
+William J. O'Brien, "H.A. Prichard's Moral Epistemology" Doctoral Dissertation, University of Iowa, 1988.
+H.H. Price, "Harold Arthur Prichard", Proceedings of the British Academy, XXXIII, 1947.
+
+External links[edit]
+
+
+
+Wikisource has original works written by or about:
+Harold Arthur Prichard
+
+
+
+Reflections on Harold Prichard, paper about Prichard's theory of ethics.
+Works by Harold Arthur Prichard at Project Gutenberg
+Works by or about Harold Arthur Prichard at Internet Archive
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 44426959
+LCCN: nr97040193
+ISNI: 0000 0001 0893 3604
+GND: 119339978
+SUDOC: 066856000
+BNF: cb12847328j (data)
+NLA: 36587737
+NKC: jx20120203020
+SNAC: w6m624q9
+
+
+
+
+
+
+
+
+
+
+Categories: 1871 birthsPeople educated at Clifton College1947 deathsEnglish philosophersAlumni of New College, OxfordFellows of Hertford College, OxfordFellows of Trinity College, OxfordFellows of Corpus Christi College, OxfordWhite's Professors of Moral PhilosophyHidden categories: EngvarB from August 2014Use dmy dates from August 2014Articles with hCardsArticles with Project Gutenberg linksArticles with Internet Archive linksWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with NLA identifiersWikipedia articles with SNAC-ID identifiers

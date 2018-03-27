@@ -1,0 +1,607 @@
+格斗游戏
+
+
+本条目介绍的是一对一竞争打斗游戏。关于卷轴式面对众多敌人的打斗游戏，请见“清版动作游戏”。
+
+
+
+
+本条目是
+
+
+动作游戏的一部分
+
+
+
+
+
+
+
+类型
+
+
+动作冒险游戏
+
+动作角色扮演游戏
+隐蔽类游戏
+惊悚游戏
+开放世界
+
+类侠盗猎车手游戏
+
+
+
+
+清版动作游戏
+格斗游戏
+平台动作游戏
+射击游戏
+
+第一人称射击游戏
+光枪射击游戏
+清版射击游戏
+战术射击游戏
+第三人称射击游戏
+
+
+节奏游戏
+
+
+
+
+
+
+
+
+话题
+
+
+夺旗
+第一人称射击游戏引擎
+自由视野（英语：Free look）
+方向键
+掩体系统（英语：Cover system）
+快速反应事件
+
+
+
+
+
+
+
+
+列表
+
+
+清版动作游戏列表（英语：List of beat 'em ups）
+格斗游戏公司列表
+格斗游戏列表（英语：List of fighting games）
+第一人称射击游戏列表（英语：List of first-person shooters）
+免费第一人称射击游戏列表（英语：List of freeware first-person shooters）
+第三人称射击游戏列表（英语：List of third-person shooters）
+战术射击游戏公司列表
+光枪射击游戏列表（英语：List of gun games）
+迷宫游戏列表（英语：List of maze video games）
+平台动作游戏列表（英语：List of platform game series）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+查询维基词典中的Appendix:Glossary of fighting game。
+
+
+
+
+
+
+
+格斗游戏（Fighting Game）是电子游戏类型之一，玩家操纵屏幕上的自己角色和对手进行近身格斗。这些角色倾向于设计成实力均衡，并在某个舞台以数个回合较劲。玩家必需精熟诸如防御、反击、或连段的操作技巧。在1990年早期，大部分格斗游戏允许玩家通过完成特定按键组合以执行特殊攻击。和清版动作游戏明显不同的是，后者涉及了大量的敌人。
+最早以拳头格斗为特色的游戏是1976年的街机《重量级拳王（英语：Heavyweight Champ）》，但1984年的游艺街机《空手道》将本类型推广为一对一武术对战游戏。1985年的《功夫》特色在于敌手会使用不同型态的打斗方式，《截拳道（英语：The Way of the Exploding Fist）》则更进一步在家用主机普及了本游戏类型。1987年《街头霸王》（日语：ストリートファイター，英语：Street Fighter）引进了隐藏的特殊攻击。1991年卡普空的高度成功作品《街头霸王II》问世，改进并使格斗游戏类型的许多常规通俗化。随后格斗游戏在1990年代早期至中期成为竞技电子游戏的卓越类型，尤其是在街机平台。这时期产生了大量的热门格斗游戏，除了《街头霸王》之外，还有长期系列的《拳皇》、《真人快打》、《VR战士》和《铁拳》。
+1990年代末，格斗游戏日趋复杂以及街机流失的客群转往功能越来越强大的家用主机，造成本类型的普及停滞，尽管新的游戏系列《死或生》（日语：デッド・オア・アライヴ，英语：Dead or Alive）和《魂之系列》（日语：ソウル，英语：Soul）取得了成功。在新的千禧年，类型仍受欢迎，但由于其他类型的普及率提升和网络多人游戏的关系，留下的热衷者比例已不如从前。
+
+
+
+目录
+
+
+1 定义
+2 游戏设计
+
+2.1 特殊攻击
+2.2 回合竞赛
+2.3 选择角色
+2.4 多人模式
+
+
+3 历史
+
+3.1 1970年代后期至1980年代
+3.2 1990年代前期
+3.3 1990年代后期
+3.4 2000年代前期
+3.5 2000年代后期至今
+
+
+4 参见
+5 参考文献
+
+
+
+定义[编辑]
+格斗游戏属于动作游戏的一种类型，屏幕上的角色彼此互相打斗。[1][2][3]这些游戏通常拥有特殊动作，在时间限制内通过细腻地连续迅速压下按键与摇杆操作达成。传统上以侧面视点展示对战者，不论是二维（2D）或演进后的三维（3D）图形。[1]《街头霸王II》虽然不是第一款格斗游戏，但其普及和标准化了格斗游戏类型，[4]早于《街头霸王II》推出的类似游戏如今已更明确地归类为本类型。[3][4]格斗游戏通常指涉肉搏战，但有些也使用近战武器。[5]
+格斗游戏（fighting game）有别于清版动作游戏（beat 'em up），后者玩家角色必需同时面对许多弱小敌人。[3]1980年代英语出版物的用语“fighting game”和“beat 'em up”两者可互换，其他用语还有像是“武术模拟”（或更特定的“柔道模拟”）[6][7][8]以后人角度来看，评论家认为这两种类型随着演进逐渐分歧，尽管这两个用语仍可能混为一谈。[3][9]格斗游戏有时被分组为拳击和职业摔角。[5][9]激烈的拳击游戏更常分类为体育类游戏而非动作游戏，因为它们致力于更真实的拳击技巧模型，而格斗游戏的动作则往往是高度夸张的亚洲武术技巧模型。[1]因此拳击游戏和摔角游戏通常和本类型区别开来，不与格斗游戏并论。[10][11]
+游戏设计[编辑]
+在格斗游戏中，角色之间使用高度夸张的武打动作交手。[1]游戏类型一般主要以人物纷争或技击运动（英语：Combat sport）为话题，[2][5]有些以武器对战为特色。[5]通常以侧面视点显示出屏幕上的角色，即使3D格斗游戏大部分也以2D平面动作进行。[1]游戏通常局限角色左右移动及跳跃，某些游戏如《饿狼传说》允许角色进行水平移动（换线）。[1][12]2000年育碧推出的3D械斗游戏《汤姆和杰瑞之毛绒之拳》(Tom & Jerry in Fists of Furry)允许玩家向四个方向自由移动，还允许玩家拾取和更换武器[13]，但限制了武器的使用次数，也没有格斗招数的设定。新的游戏倾向于渲染三维效果并允许“短跳跃（ステップ，side-stepping）”，但其他方面的游戏进行则像是二维渲染。[5]
+
+
+
+
+《铁拳5》的跳跃攻击
+
+
+除了围绕着有限空间移动，格斗游戏对玩家招式的限制使其采取不同的进攻和防守策略。玩家必须经过反复的试错练习，才能了解哪些攻击和防守方式能有效对抗敌手。[1]玩家可用防御（ガード，blocking）招式抵御对手的攻击。[14]一些游戏设计了更高级的防御技巧，例如卡普空《街头霸王III》的“格挡（ブロッキング，parrying）”能使玩家避开攻击伤害且在短时间内使攻击的一方无法采取行为应对（在SNK的《饿狼－群狼之证》中也有类似招式设定，但称其为“瞬防（just defended）”）。[15][16]在拳打脚踢不奏效时，玩家可以使用投掷（英语：Throw (grappling)）或摔技克制对手的“防御”招式。反过来，投掷技能又受普通拳脚的克制。预测对手的动作并反击，称为“反制”，是游戏互动的一个普遍元素。[5]格斗游戏中不同高度的跳跃攻击所造成的伤害也往往有所差异。[17][18]因此及时预测对手的招式甚为重要，就像是剪刀、石头、布。[1]
+特殊攻击[编辑]
+格斗游戏的一项特色就是“特殊攻击”（或称“隐藏招式”或“必杀技”）的设计，[17]玩家必须按下复杂的组合按键才能将其招式发出来。[19]必杀技的设定最早源于日本游戏公司SNK的《龙虎之拳》。[20]不过多数“必杀技”在游戏中并不能真的做到“一击必杀”。自《街头霸王II》发行后，通过基本拳脚攻击达成多重连续攻击的连段方式，已经成为格斗游戏另一项不可或缺的基本特征。[21]一些格斗游戏会显示“连击数”以表示玩家连段的进展。完成连击可以获得更高分数评价，其成败通常和连招施展难度及不小心扑空的风险程度相关。练习发动连招往往超越休闲游戏玩家的能力，需要同时拥有卓越的记忆力和掌握优秀时机的反应力。[1]“嘲讽”动作是某些游戏的另一项特色，由SNK的《龙虎之拳》最早引进。[22][23]嘲讽可用来增加游戏幽默乐趣，但也有增进角色攻击强度的效果。[24]有的角色的嘲讽动作会引起玩家的特别注意，例如《街头霸王ZERO》的火引弹（英语：Dan Hibiki）。[25][26]
+回合竞赛[编辑]
+格斗游戏竞赛通常由数个回合构成（一般为三战两胜）；胜利回合数最多的玩家赢得比赛。[27]以醒目的血条（或称“血槽”）展示人物生命值是格斗游戏普遍特征之一，当角色遭受攻击时会变少。[12][28]每次成功的攻击都会耗损受攻击角色的生命值，直到其中一方生命值为零才宣告回合结束。[1]因此游戏的主要目的在完全削减对手的血条，达成“击倒”对方的结局。[16]自Midway1992年推出的《真人快打》开始，《真人快打系列》的胜利者皆以阴森的表现方式击倒对手。[29]《VR战士》之类的游戏允许角色以被推出比赛场地的方式击败，裁定“场外犯规”。[14]回合的判决也可以由时间结束时决定（若有计时），将裁定剩余血量较多的一方为胜者。格斗游戏一般含有单人玩家战役或联赛，玩家必需连续打败多名电脑控制的敌手。联赛胜利后通常会揭示一段特别故事结局的剧情画面，某些游戏会在通关后奖励玩家使用隐藏角色或特殊功能的权限。[30]
+选择角色[编辑]
+在大多数格斗游戏，玩家可以从多种具有独特战斗风格和特殊招式的角色中选择。自《街头霸王II》后这成为了此类型游戏的牢固惯例，而角色的选择带来更深层次的博弈策略和重玩价值（英语：Replay value）。[31]格斗游戏也提供女性角色，但形象通常趋于过度强调其性别特征，并且将其刊登在游戏杂志的封面女郎作为宣传噱头。全世界第一个在格斗游戏中登场的而可以供玩家操作的女性角色是 张春丽/Chun Li《街头霸王Il》。[32][33]男性角色往往具有宽厚胸膛和肩膀、坚实肌肉和突出的下巴。[1]部分游戏允许订制角色，让玩家可以改变角色的外观或招式组合。《超级火焰职业摔角X（日语：スーパーファイヤープロレスリングX）》是第一款拥有这项功能的游戏。[34]而在后来的《2D格斗游戏工具（日语：2D格闘ツクール2nd.）》[35]、《灵魂能力III》[36]、《真人快打：末日战场（英语：Mortal Kombat: Armageddon）》[37]等游戏也都采用了这个概念。[38]某些对战游戏允许玩家创造有别于原版游戏内容的元素，例如《任天堂明星大乱斗X》能够建立自定义舞台。[39]
+多人模式[编辑]
+部分格斗游戏也可提供多人模式让玩家互别苗头，有时是让第二位玩家在第一位玩家进行单人模式时随时可以插入挑战。[2]少数作品允许最多4名玩家同时竞争。[40]一些游戏具有特别的“搭档组队”模式，虽然对战仍是一对一，但角色可以从舞台中离开，由另一名队友替换。[41]部分格斗游戏还提供车轮战的挑战模式，以测试玩家的持久力。[30]较新的作品具备了网络游戏服务的优势，虽然缓慢数据传输的延迟会造成对战的开始瞬间不同时。[30][42]延迟造成的影响可以通过使用GGPO（英语：GGPO）技术得到减缓。这项技术通过快速回溯至最近精确的游戏状态、校正错误、再跳回当前影格等步骤，令游戏得以保持同步。使用该技术的作品有《骷髅少女（英语：Skullgirls）》和《街头霸王III 3rd STRIKE（英语：Street Fighter III: 3rd Strike）》。[43][44]
+历史[编辑]
+1970年代后期至1980年代[编辑]
+格斗游戏溯源于拳击游戏，但发展走向具有奇特能力角色之间的战斗，和复杂的特殊操纵。[45]SEGA1976年推出的黑白拳击街机游戏《重量级拳王（英语：Heavyweight Champ (1976 arcade game)）》被认为是第一款拳打特色的格斗游戏。[46]另一款1979年的《Warrior (街机)（英语：Warrior (arcade game)）》有时会被视为最早的拳打格斗游戏。[47]和《重量级拳王》及最新作品相比，《Warrior》设计为剑戟决斗并采用鸟瞰视点（英语：Top-down perspective）。[3]1983年SEGA推出另一款拳击游戏《拳击冠军（英语：Champion Boxing）》，[48]，这是铃木裕在SEGA最初的作品。[49][50]然而1984年Data East和开发商Technōs Japan的《空手道》树立并推广了一对一格斗游戏类型。[51]在游戏中的各种动作可以通过双摇杆操纵来完成，作品采用了后来格斗游戏常见的三战两胜制，并且设计了加分关卡（英语：Bonus stage）。其更影响了科乐美（Konami）于1985年1月[52]推出的《功夫》，此作品更要求了玩家运用机智对付各种拥有独特攻击方式的敌手。[51][53]玩家可以执行多达16种不同的动作，[54]包括抛射攻击。[55]1985年6月问世的武术游戏《截拳道（英语：The Way of the Exploding Fist）》[56]取得了关键性的成功并接着为格斗游戏类型在家用系统上带来进一步的蓬勃发展。[8][57]其他众多游戏开发商尝试以类似的作品仿效《空手道》、《功夫》、《截拳道》的商业成就；Data East为了《国际空手道（英语：International Karate）》和发行商Epyx（英语：Epyx）对簿公堂（英语：Data East USA, Inc. v. Epyx, Inc.）。[58]
+《空手道》和《功夫》为后来1987年卡普空的《街头霸王》提供了一个范本。[4]《街头霸王》找出在游戏世界中属于自己的利基，[4]尤其1980年代当时许多街机游戏开发商更专注于制作清版动作游戏（beat 'em up）和清版射击游戏（Shoot 'em up）。[59]部分游戏的魅力为使用特殊动作，只能通过游戏操纵体验才能发现，这创造了一种神秘感及邀请玩家实践游戏，[60]不过类似的扭打（英语：grappling）操控动作在《内腿（英语：Brian Jacks Uchi Mata）》（英语：Brian Jacks Uchi Mata）则显得太过艰涩。[8]在《街头霸王》的引领之下，指令式隐藏动作开始在兴旺的其他格斗游戏类型作品中流行。[60]《街头霸王》还提出了一些本类型的必备要素，像是防御（英语：Blocking (martial arts)）技巧以及另一位玩家可以在游戏进行中随时插入挑战比赛。该作品还引进了感压控制器以决定攻击的强度，由于这造成一些街机筐体毁损的情况，卡普空随即以6键控制器方案提供轻中重的拳脚攻击，这并成为格斗游戏类型的另一项不可或缺的要素。[61]1988年Home Data（英语：Magical Company）的《霊界导士》是最早采用数字化精灵以及动作捕捉动画的作品。[62]同时，家用电子游戏机大多忽略的格斗游戏类型。Mega Drive平台的《武道馆：大和魂（英语：Budokan: The Martial Spirit）》是少数推出的游戏之一，但受欢迎程度不如其他类型。[59]技术课题限制了早期格斗游戏的普及。程序员难以制作出能够认识高速摇杆移动的游戏，而玩家也不容易准确完成特殊动作。[4][59]
+1990年代前期[编辑]
+1991年《街头霸王II》的问世一般被认为是格斗游戏类型的革命性时刻。冈本吉起的团队开发了此类型至今最精良的摇杆和按键以扫描子程序。这允许玩家能够可靠地执行过去需要些运气达成的多按键特殊动作。《街头霸王II》也是高度成功的作品，其绘图运算功能仰赖卡普空CPS街机芯片组的优势，能够细致地描绘出角色与关卡。过去的作品仅允许玩家和不同的电脑控制角色对战，该游戏则能让玩家互相较劲。《街头霸王II》的普及撼动了整个游戏产业，街机业者添购更多机器以跟上需求。[4]《街头霸王II》还推广连段技巧，熟练玩家知道若能正确测时，便能够结合多个攻击让对手没有时间恢复。[63][64][65]
+SNK在《街头霸王II》后几个月推出了《饿狼传说》。[12]游戏由《街头霸王》的开发者西山隆志所设计，以期成为精神继承作品。[66]《饿狼传说》更着重于故事性和特殊动作的时机，[66]并加入了线移动系统令角色可以在平行的远近两线之间位移。与此同时，SEGA推出实验性的《黑暗刀锋（英语：Dark Edge (arcade game)）》（日语：ダークエッジ），这是角色可以全方位移动的早期3D格斗游戏尝试作品。然而SEGA从未在日本以外地区发行该游戏，因为“无拘束的”3D格斗游戏会使人感到不愉快。[59]SEGA也在1992年的《全息竞技场（英语：Holosseum）》（日语：ホロシアム）尝试引进3-D投像技术，虽然并未获得成功。[67]一些格斗游戏得到不错的成绩，包含SNK的《龙虎之拳》、《侍魂》和SEGA的《永恒斗士（英语：Eternal Champions）》。不过《街头霸王II》仍然是最受欢迎的作品，[59]另外还推出了“加强版”改进游戏平衡及增加可选角色。[4]《街头霸王II》的普及使得其推出家用游戏机版本，并奠定格斗游戏移植模式典范。[4][59]很快地格斗游戏在1990年代街机产业成为了主流类型。[68]
+许多美国开发商企图搭上《街头霸王II》的顺风车，[4]但芝加哥公司Midway1992年推出的《真人快打》（Mortal Kombat）却背负了空前的臭名。这款游戏有从真实演员取形描绘成的数位角色、大量密技、[59][69]以及完成操作后可以杀害对手角色的“终结”（Fatality）系统。作品因为无端的暴力演出得到名声，[69]仍旧移植到了家用游戏机平台。[59]家用版《真人快打》于1993年9月13日发售，宣传为“致命星期一”（Mortal Monday），并造成了排队购买人潮以及紧接而来政客对游戏中暴力的抨击。[69]《真人快打》系列最终得到了和《街头霸王》相近的偶像地位，拥有多个后续作品，电影、电视剧改编，以及广泛的销售成绩。[29][70]众多其他厂商极欲以类似游戏复制《街头霸王II》和《真人快打》的商业成功；美国卡普空为了1993年的街机游戏《格斗列传（英语：Fighter's History）》和Data East杠上，但没有胜诉。[17]Data East在法庭上最大的反论意见为，他们1984年的《空手道》才是竞技格斗游戏类型的鼻祖，远比初代《街头霸王》早了3年。[71]
+SEGA-AM2（日语：SEGA-AM2）最初踏入本类型的作品是1993年的街机游戏《燃烧格斗（英语：Burning Rival）》，[72]但同年一样在街机推出的《VR战士》才开始引起人们注意。这是第一款3D polygon贴图、并能够随着角色行动缩放及旋转视点的格斗游戏。在其他格斗游戏，角色会被推回且仅止于前后移动。《VR战士》只使用到3个按键，比具有5、6个不同按键的《街头霸王》和《真人快打》更容易学习。当时在日本游戏发布到Sega Saturn平台上，游戏和主机几乎是一比一的数字销售出去。[59]同时，1993年的《真人快打II》虏获了西方玩家的心，2008年的回顾评论更认为是《真人快打》系列的颠峰作品。[73]
+1994年PlayStation的《斗神传（英语：Battle Arena Toshinden）》被认为是将格斗游戏类型带向“真3D”的作品，因为其引进了“侧移动”（sidestep）操作，IGN描述为“一小步移动”“改变了战士一生”[74]同一年SNK推出街机的《格斗天王'94》，玩家选择3个角色组成队伍进行一对一淘汰赛。[75]卡普空也推出《街头霸王II》的进阶版《超级街头霸王II》和《超级街头霸王II加速版》，带来更多角色和新的动作，部分是应厌倦了初版《街头霸王II》玩家的希望而加入。然而玩家的批评声浪成长为要求正统的续作。到1995年，在美国的主流作品是《真人快打》系列，日本则是《VR战士》系列，《街头霸王ZERO》已无法和《街头霸王II》时的人气相提并论。[4]在此期间，格斗游戏是竞技类电子游戏的主流类型，热衷者频繁进入游艺场以寻找人类对手。[29]
+1990年代后期[编辑]
+在1990年代后期，格斗游戏类型开始走下坡，部分系列陷入困境。《电子游戏月刊》额外授予格斗游戏一项1995年“最糟趋势”奖。[76]虽然《街头霸王EX（英语：Street Fighter EX）》引进3D图形并承接了《街头霸王II》和《街头霸王ZERO》的成功，[77][78][79]但街机游戏《街头霸王电影版（英语：Street Fighter: The Movie (arcade game)）》是个失败作品。其使用了取自《街头霸王（英语：Street Fighter (1994 film)）》真人电影的数位影像，[4]但PlayStation和Sega Saturn的家用主机版取了同样的标题《街头霸王真人版（英语：Street Fighter: The Movie (arcade game)）》（北美版街机与家用版皆为Street Fighter: The Movie），虽然都使用了真人电影的影像不过后者并非移植作品，游戏内容大相径庭。[80]卡普空接着在1997年推出了《街头霸王III》，改善了画面效果和角色深度，但依然不及《街头霸王II》的影响力。[4]尽管《VR战士3》在日本街机市场热络，Sega Saturn的硬件容量限制造成SEGA在家用版发售延宕。[59]SEGA最终将作品在Dreamcast平台上推出，[81]但公司无法获利并被迫不再开发家用主机。[82]在此期间，SNK推出了数款格斗游戏在自家的NEOGEO平台，包括1994年《真侍魂 霸王丸地狱变》（俗称侍魂2）、1995年《REAL BOUT 饿狼传说（日语：リアルバウト餓狼伝説）》、1997年《月华剑士》、以及历年更新版本的《格斗天王》系列。[83] 1999年的《饿狼－群狼之证》被认为是SNK最后一款优异作品，[84]该公司并于2001年宣告破产。[85]
+回头来看，许多开发商把格斗游戏类型的衰微归因于日益复杂和特化的游戏系统。把休闲玩家拒之门外，格斗游戏市场更加萎缩及专业化。[86][87]此外在整个1990年代街机利润逐年下滑，因为家用主机的技术力和普及程度不断攀升。[17][83]纵使人气减少，格斗游戏类型仍然继续发展；几款强大的3D格斗游戏也在1990年代后期崭露头角。南梦宫（Namco）的《铁拳》（街机1994年、PlayStation版1995年）实证了PlayStation早期成功的关键，续作更成为家用主机重要的作品。[88]兵器格斗游戏的《魂之系列》也取得相当大的成功，系列自1995年的《刀魂》至2012年的《灵魂能力V（英语：Soulcalibur V）》。[89][90]特库摩（Tecmo）在1996年于日本推出街机版《死或生（英语：Dead or Alive (video game)）》，1998年移植到PlayStation。其促成了长红系列作品，以快节奏操控系统和创新的反制攻击为人著知。系列中最重要的成功作品莫过于Xbox 360平台的《死或生4（英语：Dead or Alive 4）》。[30][91][92]1998年史克威尔发行的《武士道之刃（英语：Bushido Blade (video game)）》采用了逼真的的格斗引擎提供三度空间环境，并舍弃时间限制和血量表以利于创新的身体伤害系统，每当剑砍到特定身体部位时可以造成截肢或斩首。[93]
+电子游戏热衷者对将几个系列游戏的角色融合在一起的游戏跨界作品表现出兴趣。[94]早期例子像是1998年街机游戏《MARVEL VS. CAPCOM（英语：Marvel vs. Capcom: Clash of Super Heroes）》，结合漫画书超级英雄和《街头霸王》的角色。[4]1999年任天堂推出任天堂明星大乱斗系列的第一款游戏，实现皮卡丘和马里奥的捉对厮杀。[94]
+2000年代前期[编辑]
+本世纪初可以看到主要国际格斗游戏比赛如斗剧、进化冠军系列赛（英语：Evolution Championship Series）（EVO），以及著名选手梅原大吾（日语：梅原大吾）。[95][96]更多了一些格斗游戏跨界作品在新的千禧年发售。最富产的2D格斗游戏厂商卡普空和SNK，结合两家的知识产权制作出《SNK VS. CAPCOM（日语：SNK VS. CAPCOM）》。由SNK率先于1999年在自家掌上主机Neo Geo Pocket Color上推出《顶上决战最强战士 SNK VS. CAPCOM。GameSpot评为“大概是古往今来最先发制人的作品”并赞扬为掌机最棒的格斗游戏。[97][98]卡普空2000年在街机和Dreamcast推出《CAPCOM VS. SNK MILLENNIUM FIGHT 2000（英语：Capcom vs. SNK: Millennium Fight 2000）》，隔年又紧接着发售续作。虽然不若SNK掌机版般成功，《CAPCOM VS. SNK 2 EO》被记录为第一款成功利用网络对战的格斗游戏。[98][99]2008年的跨界作品还有《龙之子 VS. CAPCOM（英语：Tatsunoko vs. Capcom: Ultimate All-Stars）》和《真人快打 vs DC漫画英雄（英语：Mortal Kombat vs. DC Universe）》。[100][101]然而最成功的跨界作品是同样2008年的《任天堂明星大乱斗X》，发售在Wii主机上。角色来自任天堂各个系列作品，游戏获得巨大商业成功，且众评论家不吝给予赞赏。[39][40][102]
+在新的千禧年，格斗游戏变得比1990年代中期更式微且少产，多人竞技游戏陆续转往其他类型。[29][103]而SNK在2003年以SNK Playmore之姿重出江湖并继续推出新作。[83]Arc System Works于2000年推出的《罪恶装备X（英语：Guilty Gear X）》和续作《罪恶装备XX（英语：Guilty Gear XX）》获得热烈好评，两款作品都是2D格斗游戏，特征为醒目的动画风格美术。[104]格斗游戏目前在日本是业余和同人创作者的热门类型。2002年的《Melty Blood》由同人游戏社团法国面包（日语：フランスパン (同人サークル)）所开发，并得到一些个人电脑玩家的推崇。真正流行是在2005年街机版推出后，翌年随即移植到PlayStation 2主机上。[105]
+纵使格斗游戏类型风光不再，[29]这段期间街机市场和格斗游戏在日本仍然有一定的支持率，并维持到今日。《VR战士5》缺少了联机模式但依然是在家用主机和街机保有不错的成绩；玩家在家里练习后到游艺场和对手面对面较劲。[106]除了《VR战士》和《铁拳》之外，《魂之系列》及《死或生》系列也持续发表新作。[30][90]经典的《街头霸王》和《真人快打》作品重新在PlayStation Network和Xbox Live Arcade上发布，允许网络对战，部分更有HD（英语：High-definition video）高分辨率图形。[29][107][108]
+2000年代后期至今[编辑]
+
+
+
+
+在E3 2011展场上试玩《街头霸王 X 铁拳》的参观者
+
+
+2009上半年发售的《街头霸王IV》纳入了多人联机模式，获得一致好评，[109]其自2008年在日本推出街机版以来便佳评如潮。[110]家用版和《超级街头霸王IV（英语：Super Street Fighter IV）》[111]总共卖出了6百万套。[112]《街头霸王IV》的成功鼓舞了格斗游戏类型的复兴，[111][113][114]引领新玩家踏入而增加的受众亦成就了其他格斗游戏系列的中兴。[115]《铁拳6》首当其冲，至2010年8月6日全球共销售出超过3百万套。[116]其他成功的作品还有《苍翼默示录》、《MARVEL VS. CAPCOM 3（英语：Marvel vs. Capcom 3: Fate of Two Worlds）》、[111][114]《真人快打2011年版（英语：Mortal Kombat (2011 video game)）》、[111][117]《街头霸王 X 铁拳》、[113]以及《格斗天王XIII》。[117]
+尽管广受好评的《VR战士5》在2007年推出时相当低调，[115]2012年的更新版《VR战士5 最终对决》获得众所瞩目，其为格斗游戏界带来了新的乐趣。[115][117]《死或生5》最为人所知的是它大量使用了可破坏造景（英语：destructible environment）。[117]格斗游戏复兴后的作品还有《女神异闻录4 终极深夜斗技场》、《铁拳Tag Tournament 2》、[117]《灵魂能力V（英语：Soulcalibur V）》、[118]以及跨界作品的《PlayStation明星大乱斗》[117]和《铁拳 X 街头霸王（英语：Tekken X Street Fighter）》。[113]
+参见[编辑]
+
+格斗游戏列表（英语：List of fighting games）
+格斗游戏公司列表
+
+
+
+参考文献[编辑]
+
+
+^ 1.00 1.01 1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 Rollings, Andrew; Ernest Adams. Fundamentals of Game Design. Prentice Hall. 2006. 
+^ 2.0 2.1 2.2 Ashcraft, Brian. Arcade Mania! The Turbo-Charged World of Japan's Game Centers. Kodansha International. 2008: 90. 
+^ 3.0 3.1 3.2 3.3 3.4 Spencer, Spanner. The Tao of Beat-'em-ups. Eurogamer. [2009-04-29]. 
+^ 4.00 4.01 4.02 4.03 4.04 4.05 4.06 4.07 4.08 4.09 4.10 4.11 4.12 The History of Street Fighter. GameSpot. [2008-10-11]. 
+^ 5.0 5.1 5.2 5.3 5.4 5.5 Treit, Ryan. Novice Guides: Fighting. Xbox.com. [2009-01-15]. （原始内容存档于2009-05-15）. 
+^ Way of the Tiger (28). Crash. 1986-05-28. 
+^ Bielby, Matt. Oriental Games (53). Your Sinclair: 31. May 1990. 
+^ 8.0 8.1 8.2 Candy, Robin & Eddy, Ricky. Run it Again! (45). Crash. October 1987. 
+^ 9.0 9.1 Staff. E3 Feature: Fighting Games Focus. Edge Online. 2006-05-03 [2009-02-11]. 
+^ Bramwell, Tom. Fighting in the Backyard. Eurogamer. 2003-02-13 [2009-02-11]. 
+^ Walters, Stefan. Let's play: Mike Tyson Heavyweight Boxing. BBC Sport. 2004-04-26 [2009-02-11]. 
+^ 12.0 12.1 12.2 Provo, Frank. Fatal Fury: King of Fighters Review. GameSpot. 2007-10-11 [2009-01-11]. （原始内容存档于2012-07-07）. 
+^ Gin_Tama. Tom and Jerry in Fists of Furry. GameSpot. 2006年6月26日 [2017年3月2日]. 
+^ 14.0 14.1 The Essential 50: Virtua Fighter. 1UP. [2009-01-30]. 
+^ Gerstmann, Jeff. Street Fighter III: Double Impact Review. GameSpot. 1999-12-29 [2009-01-15]. （原始内容存档于2012-07-15）. 
+^ 16.0 16.1 Chau, Anthony. Fatal Review: Mark of the Wolves. IGN. 2001-12-11 [2009-01-15]. （原始内容存档于2008-10-07）. 
+^ 17.0 17.1 17.2 17.3 The Essential 50: 32. Street Fighter II. 1UP. [2009-01-15]. 
+^ Ekberg, Brian. TGS '07: K-1 World Grand Prix Hands-On. GameSpot. 2007-09-22 [2009-01-15]. （原始内容存档于2012-07-15）. 
+^ Towell, Justin. The Best Special Attacks Ever. GamesRadar. [2009-01-29]. 
+^ "罗马企鹅". 盘点格斗游戏史上的必杀技TOP10. 17173.com. 2016年7月4日 [2017年3月2日]. 《龙虎拳》里的霸王翔吼拳是格斗史上第一个必杀，必杀技的概念就是从这款游戏中诞生的。 
+^ The making of Street Fighter II. Edge presents Retro. 2003, ('The Making of...' Special). [Combos] became the base for future fighting titles 
+^ Arcade Mania!, pp. 100–101.
+^ Park, Andrew. Art of Fighting Anthology Review. GameSpot. 2007-06-05 [2009-01-11]. （原始内容存档于2012-07-17）. 
+^ Rose, Martyn. Designing Kung-Fu Chaos, Part 3. Xbox.com. [2009-01-11]. （原始内容存档于2008-12-05）. 
+^ Top 20 Street Fighter Characters of All Time. GameDaily. [2009-01-11]. （原始内容存档于2009-03-01）. 
+^ Top 25 Most Bizarre Fighting Characters. GameDaily. [2009-01-11]. （原始内容存档于2009-02-06）. 
+^ Kasavin, Greg. Capcom Fighting Jam Review. GameSpot. 2004-11-16 [2009-02-05]. [失效链接]
+^ Staff. The Making of... Japan's First RPG. Edge Online. 2008-03-06 [2009-01-15]. （原始内容存档于2012-01-25）. 
+^ 29.0 29.1 29.2 29.3 29.4 29.5 Gertsmann, Jeff. Ultimate Mortal Kombat 3 Review. GameSpot. 2008-10-24 [2009-01-11]. （原始内容存档于2011-07-11）. 
+^ 30.0 30.1 30.2 30.3 30.4 Kasavin, Greg. Dead or Alive 4 Review. GameSpot. 2006-01-01 [2009-02-02]. （原始内容存档于2009-01-30）. 
+^ GameSpot: The History of Street Fighter – Street Fighter II: The World Warriors. GameSpot. [2009-04-29]. （原始内容存档于2004-09-02）. 
+^ Katie Salen, Eric Zimmerman. Rules of Play: Game Design Fundamentals. MIT Press. 2003: 526. ISBN 0-262-24045-9. 
+^ Most Attractive Female Fighters From Popular Games. 
+^ Craig Glenday (编). Record-Breaking Games. Guinness World Records Gamer's Edition 2008. Guinness World Records. Guinness. 2008-03-11: 84. ISBN 978-1-904994-21-3. 
+^ Craig Harris. Fighter Maker review. IGN. 1999-06-17 [2007-07-22]. （原始内容存档于2007-10-17）. 
+^ Soulcalibur III Review. PALGN. [2007-07-22]. （原始内容存档于2007-09-09）. 
+^ Mortal Kombat screens and Create-A-Fighter details. Gaming Target. [2007-07-22]. 
+^ Dragon Ball Z Budokai 3(PS2) preview. GameSpy. [2007-07-22]. 
+^ 39.0 39.1 Casamassina, Matt. Super Smash Bros. Brawl Review. IGN. 2008-03-04 [2009-01-31]. 
+^ 40.0 40.1 Anderson, Lark. Super Smash Bros. Brawl Review. GameSpot. 2008-03-08 [2009-02-02]. （原始内容存档于2009-02-10）. 
+^ Zdyrko, David. Tekken Tag Tournament. IGN. 2000-10-23 [2009-02-02]. 
+^ Arcade Mania!, p. 108.
+^ Interview: How A Fighting Game Fan Solved Internet Latency Issues. Gamasutra. [2011-04-23]. 
+^ Heart, Adam. Street Fighter III: 3rd Strike Online – 1st Trailer and Screens. Shoryuken. 6 June 2011 [6 June 2011]. Street Fighter III Third Strike Online Edition will be using GGPO netcode ... 
+^ Olli Leino, Hanna Wirman, Amyris Fernandez. Extending Experiences. Lapland University Press. 2008: 53. 
+^ Arcade Mania!, p. 94.
+^ "The Making of... Warrior". (December 2006) Edge Magazine 169, pp. 101–103
+^ Killer List of Videogames上的《格斗游戏》
+^ GameCenter CX – 2nd Season, Episode 13. Retrieved on 2009-04-04
+^ IGN Presents the History of SEGA: Coming Home, IGN
+^ 51.0 51.1 Ryan Geddes & Daemon Hatfield. IGN's Top 10 Most Influential Games. IGN. 2007-12-10 [2009-04-14]. 
+^ yie ar kung-fu, arcade video game, konami industry co., ltd. (1985)
+^ Hjul, Alison. Yie Ar Kung Fu (3). Your Sinclair: 19. March 1986. 
+^ Game of The Week: Yie Ar Kung-Fu, GameSpy, accessed 2011-02-27
+^ Ste Curran. Game Plan: Great Designs That Changed the Face of Computer Gaming. Rotovision. 2004: 40 [2011-04-10]. ISBN 2-88046-696-2 
+^ First Fist, Then ... In: Your Computer. August 1985, p. 40.
+^ Davies, Jonathan. Karate Ace (34). Your Sinclair: 46. October 1988. 
+^ Data East USA, Inc. v. Epyx, Inc., 862 F. 2d 204, 9 U.S.P.Q.2d (BNA) 1322 互联网档案馆的存档，存档日期2010-05-16. (9th Cir. 1988).
+^ 59.0 59.1 59.2 59.3 59.4 59.5 59.6 59.7 59.8 59.9 History of Sega Fighting Games. GameSpot. [2008-10-11]. （原始内容存档于2009-02-04）. 
+^ 60.0 60.1 Game Design Essentials: 20 Mysterious Games. Gamasutra. [2008-10-12]. 
+^ Nadia Oxford, 20 Years of Street Fighter, 1UP.com, 12/11/2007
+^ Hardcore Gaming 101: Pre-Street Fighter II Fighting Games
+^ 1up.com – The Essential 50, Part 32: Street Fighter II
+^ IGN staff. The Top 100 Games of All Time!. IGN.com. 2007 [16 June 2011]. 
+^ 20 Things You Didn't Know About Street Fighter II. 1UP.com. 2011-03-30 [16 June 2011]. 
+^ 66.0 66.1 Leone, Matt. The Man Who Created Street Fighter. 1UP.com. [19 December 2011]. 
+^ Blagdon, Jeff. Sega's 'Time Traveler' might have changed arcade games, if it wasn't for Street Fighter II. The Verge. May 2, 2012 [24 May 2012]. 
+^ Jay Carter, Insert Coin Here: Getting a Fighting Chance, Electronic Games, July 1993,, no. 10 [2014-12-16] 
+^ 69.0 69.1 69.2 Monday Bloody Monday. 1up. [2009-04-29]. 
+^ O'Neill, Cliff & Greeson, Jeff. History of Mortal Kombat. GameSpot. 1999-11-01 [2009-01-12]. （原始内容存档于2012-07-07）. 
+^ GAMEST Magazine. December 30, 1994, 134.  缺少或|title=为空 (帮助)
+^ SEGA-AM2 home page (Internet Archive). Retrieved on 09-21-2009
+^ Mortal Kombat II Review. IGN. [2008-10-11]. 
+^ Battle Arena Toshinden takes the fighter into true 3-D, but is it enough?. IGN. November 21, 1996 [31 August 2011]. （原始内容存档于2012年8月22日）.  "one little move" that "changed the fighter forever."
+^ IGN: King of Fighters '94. IGN. [2008-10-17]. 
+^ Electronic Gaming Monthly's Buyer's Guide. 1995. 
+^ Street Fighter EX Plus Alpha for PlayStation. GameRankings. 1997-09-30 [2011-06-01]. 
+^ Street Fighter EX Plus Alpha – PlayStation Review at IGN. Uk.psx.ign.com. 1997-10-26 [2011-06-01]. （原始内容存档于2011-08-31）. 
+^ Imagine Media's PSM Names Top 25 PlayStation Games of All Time. Imagine Media. August 3, 2011 [May 19, 2011]. 
+^ All About Capcom Head-to-Head Fighting Game 1987–2000, pg. 288
+^ Dreamcast Virtua Fighter 3 Ships. GameSpot. [2008-10-12]. 
+^ Sega Scraps the Dreamcast. BBC. 2001-01-31 [2008-08-22]. 
+^ 83.0 83.1 83.2 The History of SNK. GameSpot. [2009-01-12]. （原始内容存档于2009-02-16）. 
+^ Andrew Seyoon Park. Fatal Fury: Mark of the Wolves Review. GameSpot. 11-05-2001 [2008-11-12].  请检查|date=中的日期值 (帮助)
+^ The Best and Worst of 2001 – BEST FIGHTING GAME. GameSpot. 2001 [2008-11-12]. 
+^ Johnny Minkley. Rare "may do" new Killer Instinct. Eurogamer. 2008-11-26 [2008-11-28]. 
+^ Saving Street Fighter: Yoshi Ono on Building Street Fighter IV. GamaSutra. [2008-10-12]. 
+^ Gerstmann, Jeff. Tekken 3 Review. GameSpot. 1998-03-30 [2009-01-11]. （原始内容存档于2012-07-16）. 
+^ Robertson, Ed. Soul Blade Review. GameSpot. 1997-04-03 [2009-01-11]. （原始内容存档于2012-07-16）. 
+^ 90.0 90.1 Calvert, Justin. Soulcalibur IV Review. GameSpot. 2008-07-31 [2009-01-11]. [失效链接]
+^ Staff. Dead or Alive (PS). IGN. 1998-03-27 [2009-01-12]. （原始内容存档于2011-07-13）. 
+^ Rorie, Matthew. Two Men Enter, One Man Leaves.... GameSpot. 2006-01-09 [2009-01-12]. （原始内容存档于2012-07-07）. 
+^ Top 25 Beat-'Em-Ups: Part 1. Retro Gamer. 2 October 2009 [2011-03-17]. （原始内容存档于2011-07-14）. 
+^ 94.0 94.1 Nintendo designs fighting game for its Wii console. The Financial Express. [2008-10-12]. 
+^ Kevin Gifford. Being The Very Best at Fighting Games. 1UP. 2010-06-23 [2010-06-24]. 
+^ Daigo Umehara: The King of Fighters. Eurogamer. [2010-05-18]. 
+^ Mielke, James. SNK vs. Capcom: Match of the Millennium Review. GameSpot. 2000-01-28 [2009-02-05]. （原始内容存档于2012-07-15）. 
+^ 98.0 98.1 Lopez, Miguel. Capcom vs. SNK Review. GameSpot. 2000-09-14 [2009-02-05]. （原始内容存档于2012-07-07）. 
+^ Kasavin, Greg. Capcom vs. SNK 2 EO Review. GameSpot. 2003-02-14 [2009-02-05]. （原始内容存档于2012-07-23）. 
+^ Miller, Greg. Mortal Kombat vs. DC Universe Review. IGN. 2008-11-15 [2009-04-29]. 
+^ Tanaka, John. Tatsunoko VS Capcom Playtest. IGN. 2008-12-11 [2009-02-05]. 
+^ Super Smash Bros. Brawl Smashes Nintendo Sales Records. Nintendo.com. 2008-03-17 [2009-02-06]. 
+^ GameSpot's Best of 2007: Best Fighting Game Genre Awards. GameSpot. [2008-10-12]. （原始内容存档于2009-02-13）. 
+^ Kasavin, Greg. Guilty Gear X2 Review. GameSpot. 2003-02-01 [2009-02-05]. （原始内容存档于2012-07-16）. 
+^ Arcade Mania!, pp. 109–112.
+^ Arcade Mania!, pp. 108–109.
+^ Xbox Live: Street Fighter II Hyper Fighting. Xbox.com. [2009-02-06]. （原始内容存档于2009-04-30）. 
+^ Super Street Fighter II Turbo HD Remix, Super Street Fighter II Turbo HD Remix PS3 - GameSpot.com. Uk.gamespot.com. [2011-06-01]. （原始内容存档于2009-02-09）. 
+^ Chiappini, Dan. Street Fighter IV Review. GameSpot. 2009-02-18 [2009-02-26]. （原始内容存档于2009-02-25）. 
+^ Rogers, Tim. The 20 Best Games at TGS. Edge Online. 2008-10-12 [2009-02-09]. （原始内容存档于2008-10-15）. 
+^ 111.0 111.1 111.2 111.3 Marvel vs Capcom 3. Computer and Video Games. 5 February 2011 [2011-02-26]. 
+^ Platinum Titles. Capcom. 2012-12-31 [2012-02-08]. 
+^ 113.0 113.1 113.2 Top 10 Franchises Capcom Should Bring Back. 411mania.com. 2011-02-25 [2011-02-26]. 
+^ 114.0 114.1 Marvel vs. Capcom 3: Fate of Two Worlds Review. Shacknews. [2011-02-26]. 
+^ 115.0 115.1 115.2 Kemps, Heidi. Virtua Fighter 5 Final Showdown Review. GameSpot. June 14, 2012 [16 June 2012]. （原始内容存档于2012年6月18日）. 
+^ Tekken 6 breaks 3 million sales. Eurogamer. 2010-08-06 [2010-08-08]. 
+^ 117.0 117.1 117.2 117.3 117.4 117.5 Guzman, Eric. Dead or Alive 5, Persona 4 Arena, Virtua Fighter 5, and more – the E3 fighters. 2D-X. 11 June 2012 [16 June 2012]. （原始内容存档于2012年6月15日）. 
+^ Basile, Sal. SoulCalibur V Review. UGO Networks. January 31, 2012 [29 August 2012]. （原始内容存档于2012年2月2日）. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+电子游戏类型
+
+
+
+
+
+
+动作
+
+
+
+清版动作
+
+砍杀
+
+
+平台游戏
+格斗
+射击
+
+清版射击
+
+卷轴射击
+
+弹幕射击
+
+
+
+
+光线枪射击
+战术射击
+第一人称射击
+第三人称射击
+
+
+生存
+
+大逃杀
+
+
+
+
+
+
+
+
+
+
+动作冒险
+
+
+
+隐蔽类游戏
+恐怖游戏
+类侠盗猎车手游戏
+银河恶魔城
+
+
+
+
+
+
+
+
+冒险
+
+
+
+密室逃脱
+恋爱冒险
+
+日本成人游戏
+美少女
+
+
+文字冒险
+互动式电影
+视觉小说
+
+
+
+
+
+
+
+
+大型多人在线
+
+
+
+大型多人在线第一人称射击
+大型多人在线角色扮演
+大型多人在线即时战略
+
+
+
+
+
+
+
+
+角色扮演
+
+
+
+动作角色扮演
+迷宫探索
+Roguelike
+MUD
+
+多人在线角色扮演
+
+
+战略角色扮演
+
+
+
+
+
+
+
+
+模拟
+
+
+
+建造与经营
+
+经营
+城市
+政府
+
+
+生活模拟
+
+恋爱模拟
+宠物养成
+
+电子宠物
+
+
+上帝模拟
+社会模拟
+养成游戏
+
+
+体育
+
+
+
+
+
+
+
+
+战略
+
+
+
+4X
+即时战略
+
+多人在线战斗竞技场
+塔防
+大型多人在线即时战略
+对战平台
+
+
+即时战术
+回合制策略
+回合制战术
+
+炮术
+
+
+生存
+
+
+
+
+
+
+
+
+交通工具模拟
+
+
+
+飞行模拟
+
+空战
+
+
+竞速游戏
+
+赛车游戏
+
+
+列车模拟器
+
+
+
+
+
+
+
+
+其它类型
+
+
+
+打砖块
+音乐
+
+节奏
+
+
+益智
+
+仓库番
+消除类
+
+
+
+
+
+
+
+
+
+
+相关概念
+
+
+
+恋爱游戏
+听觉游戏
+休闲游戏
+迷宫探索
+全动态影像
+独立游戏
+小游戏
+沙盒类游戏
+
+开放世界
+
+
+网络游戏
+
+网页游戏
+大型多人在线游戏
+社交网络游戏
+
+
+教育
+游戏化
+广告游戏
+
+
+
+
+
+
+
+
+
+
+
+
+分类：格斗游戏电子游戏类型电子游戏术语隐藏分类：带有失效链接的条目条目有永久失效的外部链接参考文献格式不符的条目Webarchive模板wayback链接含有缺少标题的引用的页面引文格式1错误：日期含有英语的条目含有日语的条目

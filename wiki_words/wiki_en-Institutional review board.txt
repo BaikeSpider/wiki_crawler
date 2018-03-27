@@ -1,0 +1,388 @@
+Institutional review board
+This article is about research ethical oversight in the United States. For a worldwide perspective, see Ethics committee.
+An institutional review board (IRB), also known as an independent ethics committee (IEC), ethical review board (ERB), or research ethics board (REB), is a type of committee that applies research ethics by reviewing the methods proposed for research to ensure that they are ethical. Such boards are formally designated to approve (or reject), monitor, and review biomedical and behavioral research involving humans. They often conduct some form of risk-benefit analysis in an attempt to determine whether or not research should be completed.[1] The purpose of the IRB is to assure that appropriate steps are taken to protect the rights and welfare of humans participating as subjects in a research study. Along with developed countries, many developing countries have established National, regional or local Institutional Review Boards in order to safeguard ethical conduct of research concerning both national and international norms, regulations or codes.[2]
+
+
+
+Contents
+
+
+1 Description
+2 United States mandate for IRBs
+
+2.1 Exceptions
+
+
+3 International ethics review committees
+4 Naming and composition
+5 Convened and expedited reviews
+6 Pharmaceutical trials and good clinical practice
+7 Adapting IRB review to social science
+8 Adapting IRB review to big data research
+9 Managing conflicts of interest
+10 See also
+11 References
+12 Further reading
+13 External links
+
+
+
+Description[edit]
+A key goal of IRBs is to protect human subjects from physical or psychological harm, which they attempt to do by reviewing research protocols and related materials. The protocol review assesses the ethics of the research and its methods, promotes fully informed and voluntary participation by prospective subjects capable of making such choices (or, if that is not possible, informed permission given by a suitable proxy), and seeks to maximize the safety of subjects.
+In the United States, the Food and Drug Administration (FDA) and Department of Health and Human Services (specifically Office for Human Research Protections) regulations (see Human subject research legislation in the United States) have empowered IRBs to approve, require modifications in planned research prior to approval, or disapprove research. IRBs are responsible for critical oversight functions for research conducted on human subjects that are "scientific", "ethical", and "regulatory". The equivalent body responsible for overseeing U.S. federally funded research using animals is the Institutional Animal Care and Use Committee (IACUC).
+IRBs are most commonly used for studies in the fields of health and the social sciences, including anthropology, sociology, and psychology. Such studies may be clinical trials of new drugs or devices, studies of personal or social behavior, opinions or attitudes, or studies of how health care is delivered and might be improved.
+United States mandate for IRBs[edit]
+See also: Human subject research legislation in the United States
+Formal review procedures for institutional human subject studies were originally developed in direct response to research abuses in the 20th century. Among the most notorious of these abuses were the experiments of Nazi physicians, which became a focus of the post-World War II Doctors' Trial, the Tuskegee Syphilis Study, a long-term project conducted between 1932 and 1972 by the U.S. Public Health Service, and numerous human radiation experiments conducted during the Cold War. Other controversial U.S. projects undertaken during this era include the Milgram obedience experiment, the Stanford prison experiment, and Project MKULTRA, a series of classified mind control studies organized by the CIA.
+The result of these abuses was the National Research Act of 1974 and the development of the Belmont Report, which outlined the primary ethical principles in human subjects review; these include "respect for persons", "beneficence", and "justice". An IRB may only approve research for which the risks to subjects are balanced by potential benefits to society, and for which the selection of subjects presents a fair or just distribution of risks and benefits to eligible participants. A bona fide process for obtaining informed consent from participants is also generally needed. However, this requirement may be waived in certain circumstances – for example, when the risk of harm to participants is clearly minimal.
+In the United States, IRBs are governed by Title 45 Code of Federal Regulations Part 46.[3] These regulations define the rules and responsibilities for institutional review, which is required for all research that receives support, directly or indirectly, from the United States federal government. IRBs are themselves regulated by the Office for Human Research Protections (OHRP) within the Department of Health and Human Services (HHS). Additional requirements apply to IRBs that oversee clinical trials of drugs involved in new drug applications, or to studies that are supported by the United States Department of Defense.
+In addition to registering its IRB with the OHRP, an institution is also required to obtain and maintain a Federalwide Assurance or FWA, before undertaking federally funded human research.[4] This is an agreement in which the institution commits to abiding by the regulations governing human research. A secondary supplement to the FWA is required when institutions are undertaking research supported by the U.S. Department of Defense.[5] This DoD Addendum includes further compliance requirements for studies using military personnel, or when the human research involves populations in conflict zones, foreign prisoners, etc.[6]
+Exceptions[edit]
+U.S. regulations identify several research categories that are considered exempt from IRB oversight. These categories include:
+
+Research in conventional educational settings, such as those involving the study of instructional strategies or effectiveness of various techniques, curricula, or classroom management methods. In the case of studies involving the use of educational tests, there are specific provisions in the exemption to ensure that subjects cannot be identified or exposed to risks or liabilities.[7]
+Research involving the analysis of existing data and other materials if they are already publicly available, or where the data can be collected such that individual subjects cannot be identified in any way.[7]
+Studies intended to assess the performance or effectiveness of public benefit or service programs, or to evaluate food taste, quality, or consumer acceptance.[7]
+
+Generally, human research ethics guidelines require that decisions about exemption are made by an IRB representative, not by the investigators themselves.[8]
+International ethics review committees[edit]
+Numerous other countries have equivalent regulations or guidelines governing human subject studies and the ethics committees that oversee them. However, the organizational responsibilities and the scope of the oversight purview can differ substantially from one nation to another, especially in the domain of non-medical research. The United States Department of Health and Human Services maintains a comprehensive compilation of regulations and guidelines in other countries, as well as related standards from a number of international and regional organizations.[9]
+Naming and composition[edit]
+Although "IRB" is a generic term used in the United States by the FDA and HHS, each institution that establishes such a board may use whatever name it chooses. Many simply capitalize the term "Institutional Review Board" as the proper name of their instance. Regardless of the name chosen, the IRB is subject to the FDA's IRB regulations when studies of FDA-regulated products are reviewed and approved. At one time such a committee was named the "Committee for the Protection of Human Subjects". Originally, IRBs were simply committees at academic institutions and medical facilities to monitor research studies involving human participants, primarily to minimize or avoid ethical problems. Today, some of these reviews are conducted by for-profit organizations known as 'independent' or 'commercial' IRBs. The responsibilities of these IRBs are identical to those based at academic or medical institutions, and they are governed by the same U.S. federal regulations.
+The regulations set out the board's membership and composition requirements, with provisions for diversity in experience, expertise, and institutional affiliation. For example, the minimum number of members is five, at least one scientist, and at least one non-scientist. The guidance strongly suggests that the IRB contain both men and women, but there is no regulatory requirement for gender balance in the IRB's membership. The full requirements are set out in 21 CFR 56.107.[10]
+Convened and expedited reviews[edit]
+Unless a research proposal is determined to be exempt (see below), the IRB undertakes its work either in a convened meeting (a "full" review) or by using an expedited review procedure.[11] When a full review is required, a majority of the IRB members must be present at the meeting, at least one of whom has primary concern for the nonscientific aspects of the research.[11] The research can be approved if a majority of those present are in favor.[11]
+An expedited review may be carried out if the research involves no more than minimal risk to subjects, or where minor changes are being made to previously approved research.[12] The regulations provide a list of research categories that may be reviewed in this manner.[12] An expedited review is carried out by the IRB chair, or by their designee(s) from the board membership. Research activity cannot be disapproved by expedited review.[12]
+Pharmaceutical trials and good clinical practice[edit]
+The International Conference on Harmonisation sets out guidelines for registration of pharmaceuticals in multiple countries. It defines Good Clinical Practice (GCP), which is an agreed quality standard that governments can transpose into regulations for clinical trials involving human subjects.[13]
+Here is a summary of several key regulatory guidelines for oversight of clinical trials:
+
+Safeguard the rights, safety, and well-being of all trial subjects. Special attention should be paid to trials that may include vulnerable subjects, such as pregnant women, children, prisoners, the elderly, or persons with diminished comprehension.
+Obtain trial protocol(s)/amendment(s), written Informed Consent Form(s) (ICFs) and consent form updates the investigator proposes for use in the trial, subject recruitment procedures (e.g., advertisements), written information to be provided to subjects, investigator's brochure, available safety information, information about payments and compensation available to subjects, the investigator's current curriculum vitae and/or other documentation evidencing qualifications, and any other documents the IRB may need to fulfill its responsibilities.
+Review both the amount and method of payment to subjects to assure neither presents problems of coercion or undue influence on the trial subjects. Payments to a subject should be prorated and not wholly contingent on completion of the trial by the subject. Information regarding payment to subjects, including the methods, amounts, and schedule of payment to trial subjects, should be set forth in the written informed consent form and any other written information to be provided to subjects. The way payment will be prorated should be specified.
+Ensure that the proposed trial is reviewed within a reasonable time and document opinions and decisions in writing, clearly identifying the trial, the documents reviewed and recorded dates for approvals, required modifications prior to approval, disapproval of a proposed trial, or termination/suspension of any prior approval. Continuing review of ongoing trials is required at intervals appropriate to the degree of risk to human subjects, but at least once per year.
+
+The reviewers may also request that more information be given to subjects when, in their judgment, the additional information would add meaningfully to the protection of the rights, safety and/or well-being of the subjects. When a non-therapeutic trial is to be carried out with the consent of the subject's legally acceptable representative, reviewers should determine that the proposed protocol and/or other document(s) adequately address relevant ethical concerns and meets applicable regulatory requirements for such trials. Where the protocol indicates prior consent of the trial subject or the subject's legally acceptable representative is not possible, the review should determine that the proposed protocol and/or other document(s) adequately addresses relevant ethical concerns and meets applicable regulatory requirements for such trials (i.e., in emergency situations).
+Adapting IRB review to social science[edit]
+While the Belmont principles and U.S. federal regulations were formulated with biomedical and social-behavioral research in mind, the enforcement of the regulations, the examples used in typical presentations regarding the history of the regulatory requirements, and the extensiveness of written guidance have been predominantly focused on biomedical research.
+Numerous complaints by investigators about the fit between the federal regulations and its IRB review requirements as they relate to social science research have been received.[14] Broad complaints range from the legitimacy of IRB review, the applicability of the concepts of risk as it pertains to social science (e.g., possibly unneeded, over-burdensome requirements), and the requirements for the documentation of participants' informed consent (i.e., consent forms).[15] Researchers have tried to determine under what instances participants are more likely to read informed consent forms, and ways to improve their efficacy in the social sciences.[16] Social scientists have criticized biomedical IRBs for failing to adequately understand their research methods (such as ethnography). In 2003, the Office for Human Research Protections (OHRP), in conjunction with the Oral History Association and American Historical Association, issued a formal statement that taking oral histories, unstructured interviews (as if for a piece of journalism), collecting anecdotes, and similar free speech activities often do not constitute "human subject research" as defined in the regulations and were never intended to be covered by clinical research rules.[17]
+Other federal agencies supporting social science have attempted to provide guidance in this area, especially the National Science Foundation. In general, the NSF guidelines assure IRBs that the regulations have some flexibility and rely on the common sense of the IRB to focus on limiting harm, maximizing informed consent, and limiting bureaucratic limitations of valid research.[18]
+Adapting IRB review to big data research[edit]
+Aspects of big data research pose formidable challenges for research ethics and thus show potential for wider applicability of formal review processes.[19][20][21] One theme is data breaches, but another with high difficulty is potentially dangerous predictive analytics with unintended consequences, via false-positives or new ways to invade privacy. A 2016 article on the hope to expand ethics reviews of such research included an example of a data breach in which a big data researcher leaked 70,000 OkCupid profiles with usernames and sexual orientation data.[20] It also gave an example of potential privacy invasion and government repression in which machine learning was used to build automated gaydar, labeling strangers as "probably gay" based on their facial photographs.[20] Analogies with phrenology[19] and Nazis identifying people as "probably part-Jewish" based on facial features have been made to show what can go wrong with research whose authors may have failed to adequately think through the risks of harm. Such challenges broach familiar themes, such as mistaken identity, precrime, and persecution, in new applications.
+Managing conflicts of interest[edit]
+While the IRB approval and oversight process is designed to protect the rights and welfare of the research subjects, it has been the subject of criticism, by bioethicists and others, for conflicts of interest resulting in lax oversight.[22][23] In 2005, the for-profit Western Institutional Review Board claimed to conduct the majority of reviews for new drug submissions to the FDA.[24] In a 2006 study of 575 IRB members at university medical centers, over one-third reported industry financial ties and over one-third admitted they "rarely or never" disclosed conflicts of interest to other board members.[25]
+In 2009 the Government Accountability Office (GAO) set up a series of undercover tests to determine whether the IRB system was vulnerable to unethical manipulation. In one test, a fake product "Adhesiabloc" was submitted to a number of IRBs for approval for human tests. The product, company, and CVs of the supposed researchers were all fictitious and documents were forged by the GAO. The product was deliberately formulated to match some "significant risk" criteria of the FDA and was described by GAO as a "gel that would be poured into a patient’s stomach after surgery to collect the bits and pieces left over from an operation." Despite this, one IRB approved the device for human testing. Other IRBs to whom the device was submitted rejected the application, one of them saying it was "the riskiest thing I’ve ever seen on this board". However, none of the IRBs approached detected that the company and product were fake. The GAO also set up a fake IRB and obtained requests for approval from companies. They succeeded in getting assurance approval from the HHS for their fake IRB. HHS has only three staff to deal with 300 IRB registrations and 300 assurance applications per month. HHS stated that it would not be worthwhile to carry out additional evaluation even if they had the staff to do it.[26][27][28][29][30]
+See also[edit]
+
+Clinical trial
+Ethics committee (European Union)
+Unethical human experimentation in the United States
+Informed consent
+Data monitoring committee
+Declaration of Helsinki
+Office for Human Research Protections
+Ethical problems using children in clinical trials
+National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research
+Inside the Ethics Committee
+IRB: Ethics & Human Research (journal)
+
+References[edit]
+
+
+^ The Office of Human Research Protection. Institutional Review Board Guidebook. "Chapter 3, Section A: Risk/Benefit Analysis.” pp. 1-10 [1] Retrieved May 30, 2012
+^ Mohamadi, Amin; Asghari, Fariba; Rashidian, Arash (2014). "Continuing review of ethics in clinical trials: a surveillance study in Iran". Journal of Medical Ethics and History of Medicine. 7: 22. PMC 4648212 . PMID 26587202. 
+^ "Code of Federal Regulations". HHS.gov. 2010-01-15. Retrieved 2014-03-28. 
+^ Office of Human Research Protection - IRBs and Assurances
+^ Human Research Protection Program (HRPP). Archived 2014-09-16 at the Wayback Machine.
+^ HRPP Information Sheet for DoD Addendum. Archived 2014-09-16 at the Wayback Machine.
+^ a b c Office for Human Research Protections (January 15, 2009). "Code of Federal Regulations". hhs.gov. p. US 45 CFR 46.101. Retrieved 19 August 2014.  |chapter= ignored (help)
+^ Ritter, F. et al, Running Behavioral Studies with Human Participants, Sage Publications Inc. 2013., ISBN 9781452217420.
+^ International Compilation of Human Research Protections, Office for Human Research Protections, U.S. Department of Health and Human Services
+^ "PART 56 - INSTITUTIONAL REVIEW BOARDS". Food and Drug Administration (United States). 28 June 1991. Archived from the original on 13 August 2011. Retrieved 2009-05-12. 
+^ a b c Office for Human Research Protections (January 15, 2009). "Code of Federal Regulations". hhs.gov. p. US 45 CFR 46.108. Retrieved 19 August 2014.  |chapter= ignored (help)
+^ a b c Office for Human Research Protections (January 15, 2009). "Code of Federal Regulations". hhs.gov. p. US 45 CFR 46.110. Retrieved 19 August 2014.  |chapter= ignored (help)
+^ International Conference on Harmonisation of technical requirements for registration of pharmaceuticals for human use. "Good Clinical Practice". Retrieved 27 September 2012. 
+^ Gunsalus, C.K.; Bruner, Edward M.; Burbules, Nicholas C.; Dash, Leon; Finkin, Matthew; Goldberg, Joseph P.; Greenough, William T.; Miller, Gregory A.; Pratt, Michael G. (2016-06-29). "The Illinois White Paper". Qualitative Inquiry. 13 (5): 617–649. doi:10.1177/1077800407300785. 
+^ Perrault, E. K.; Nazione, S. A. (2016). "Informed Consent—Uninformed Participants: Shortcomings of Online Social Science Consent Forms and Recommendations for Improvement". Journal of Empirical Research on Human Research Ethics. 11 (3): 274–280. doi:10.1177/1556264616654610. 
+^ Perrault, Evan K.; Keating, David M. (2017-11-08). "Seeking Ways to Inform the Uninformed: Improving the Informed Consent Process in Online Social Science Research". Journal of Empirical Research on Human Research Ethics. doi:10.1177/1556264617738846. 
+^ Ritchie, Don; Shopes, Linda (2003). "Oral History Excluded from IRB Review: Application of the Department of Health and Human Services Regulations for the Protection of Human Subjects at 45 CFR Part 46, Subpart A to Oral History Interviewing". Oral History Association. Archived from the original on 17 January 2008. Retrieved 31 December 2008. . See also An Update on the Exclusion of Oral History from IRB Review (March 2004).
+^ NSF Frequently Asked Questions: Interpreting the Common Rule for the Protection of Human Subjects for Behavioral and Social Science Research
+^ a b Chen, Sophia (2017-09-18), "AI research is in desperate need of an ethical watchdog", Wired, retrieved 2017-09-18. 
+^ a b c Zhang, Sarah (2016-05-20), "Scientists are just as confused about the ethics of big-data research as you", Wired, retrieved 2017-09-18. 
+^ Gibney, Elizabeth (2017-10-03), "Ethics of Internet research trigger scrutiny: Concern over the use of public data spurs guideline update", Nature, doi:10.1038/550016a. 
+^ "Should Society Allow Research Ethics Boards to Be Run As For-Profit Enterprises?". PLOS Medicine. Retrieved 2014-03-28. 
+^ Caroline McNeil (2014-03-03). "Debate Over Institutional Review Boards Continues as Alternative Options Emerge". Jnci.oxfordjournals.org. Retrieved 2014-03-28. 
+^ Elliott, Carl (2005-12-13). "Ethics for sale". Slate.com. Retrieved 2014-03-28. 
+^ http://www.ahrp.org/cms/content/view/402/100/
+^ http://www.gao.gov/new.items/d09448t.pdf
+^ —By Carl Elliott. "Poor Reviews". Mother Jones. Retrieved 2014-03-28. 
+^ Mundy, Alicia (22 April 2009). "Coast IRB, Caught in Sting, to Close". The Wall Street Journal. 
+^ [2] Archived June 2, 2011, at the Wayback Machine.
+^ "FDA Approves Nonexistent Product from Nonexistent Company for Human Testing | Food Freedom". Foodfreedom.wordpress.com. 2011-01-17. Retrieved 2014-03-28. 
+
+
+Further reading[edit]
+Enfield, K. B. & Truwit, J. D. (2008). The Purpose, Composition, and Function of an Institutional Review Board: Balancing Priorities. Respiratory Care, 53, 1330-1336.
+Fairchild, A. L. & Bayer, R. (1999). Uses and Abuses of Tuskegee. American Association for the Advancement of Science, 284, 919-921.
+Perrault, E. K. & Nazione, S. A. (2016). Informed Consent—Uninformed Participants: Shortcomings of Online Social Science Consent Forms and Recommendations for Improvement. Journal of Empirical Research on Human Research Ethics. 11(3), 274-280. doi=10.1177/1556264616654610
+Pope, T. M. (2009). Multi-Institutional Healthcare Ethics Committees: The Procedurally Fair Internal Dispute Resolution Mechanism, 31 Campbell Law Review 257-331.
+External links[edit]
+
+"Human Research Report" - a monthly newsletter for IRBs
+Office for Human Research Protections (OHRP) at HHS
+IRB: Ethics & Human Research – a peer-reviewed journal of The Hastings Center
+Drug Industry Human Testing Masks Death, Injury, Compliant FDA, Bloomberg News Special Report, November 2, 2005
+Ethics for Sale: For-profit ethical review, coming to a clinical trial near you, Carl Elliott and Trudo Lemmens, Slate, December 13, 2005
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Research participant rights
+
+
+
+Rights
+
+
+
+Beneficence
+Justice
+Respect for persons
+Privacy for research participants
+Right to withdraw
+Return of results
+Informed consent
+
+
+
+
+
+Human subject research
+
+
+
+Clinical research
+Biobank
+Social research
+
+
+
+
+
+Ethical systems
+
+
+
+Research ethics
+Medical ethics
+Bioethics
+Clinical research ethics
+Biobank ethics
+
+
+
+
+
+Guidelines for human subject research
+
+
+
+List of medical ethics cases
+Nuremberg Code
+Declaration of Helsinki
+Belmont Report
+Common Rule
+
+
+
+
+
+Monitoring in clinical trials
+
+
+
+Ethics committee
+Institutional review board
+Data monitoring committee
+Community advisory board
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Bioethics
+
+
+
+Classic principles
+
+
+
+Autonomy
+Beneficence
+Non-maleficence
+Justice
+
+
+
+
+
+Other principles
+
+
+
+Authority
+Confidentiality
+Conscience
+Doctrine of double effect
+Equality
+Equity
+Guilt
+Mercy
+Oath
+Ownership
+Privacy
+Persuasion
+
+
+
+
+
+Theories
+
+
+
+Utilitarianism
+Deontology
+Consequentialism
+
+
+
+
+
+Reproduction
+
+
+
+Abortion
+Reproductive technology
+Gender assignment
+
+
+
+
+
+Genetics
+
+
+
+Gender
+Gene therapy
+Genetic testing
+Genetic modification
+
+
+
+
+
+Death, dying, and emergent situations
+
+
+
+Arbitration
+Brain death
+Cardiac death
+Consensus
+Court intervention
+Death
+Ethics committee
+Euthanasia
+Executor
+Family meeting
+Mediation
+Next of kin
+Health care proxy
+Suicide
+Transplant ethics
+
+
+
+
+
+Cultural differences
+
+
+
+Dignity
+Etiquette
+Jewish medical ethics
+Pain
+Suffering
+Religion
+Respect
+
+
+
+
+
+Personal conduct
+
+
+
+Abuse of trust
+Continuity of care
+Duty
+Gifts
+Liability
+Lying
+Misconduct
+Scientific misconduct
+Medical misconduct
+Competence (law)
+Competency
+Incompetency
+Termination of the patient-physician relationship
+
+
+
+
+
+Research ethics
+
+
+
+Informed consent
+Informed assent
+Human rights
+Institutional review board
+
+
+
+
+
+
+
+
+
+
+Categories: Design of experimentsHuman subject researchClinical research ethicsMedical ethicsNursing ethicsDrug safetySocial researchEthics organizationsEthics and statisticsApplied ethicsRegulatory complianceHidden categories: Webarchive template wayback linksCS1 errors: chapter ignored

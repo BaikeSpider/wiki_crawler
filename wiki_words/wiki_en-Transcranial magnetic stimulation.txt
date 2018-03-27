@@ -1,0 +1,406 @@
+Transcranial magnetic stimulation
+
+
+Transcranial magnetic stimulation
+
+
+
+Transcranial magnetic stimulation (schematic diagram)
+
+
+
+MeSH
+D050781
+
+
+
+[edit on Wikidata]
+
+
+
+Transcranial magnetic stimulation (TMS) is a method in which a changing magnetic field is used to cause electric current to flow in a small region of the brain via electromagnetic induction. During a TMS procedure, a magnetic field generator, or "coil", is placed near the head of the person receiving the treatment.[1]:3 The coil is connected to a pulse generator, or stimulator, that delivers a changing electric current to the coil.[2]
+TMS is used diagnostically to measure the connection between the brain and a muscle to evaluate damage from stroke, multiple sclerosis, amyotrophic lateral sclerosis, movement disorders, motor neuron disease, and injuries and other disorders affecting the facial and other cranial nerves and the spinal cord.[3]
+Evidence suggests it is useful for neuropathic pain[4] and treatment-resistant major depressive disorder.[4][5] A 2015 Cochrane review found that there was not enough evidence to determine its effectiveness in treating schizophrenia.[6] For negative symptoms another review found possible efficacy.[4] As of 2014, all other investigated uses of repetitive TMS have only possible or no clinical efficacy.[4]
+Matching the discomfort of TMS to distinguish true effects from placebo is an important and challenging issue that influences the results of clinical trials.[4][7][8][9] The greatest risks of TMS are the rare occurrence of syncope (fainting) and even less commonly, induced seizures.[7] Other adverse effects of TMS include discomfort or pain, transient induction of hypomania, transient cognitive changes, transient hearing loss, and induced currents in electrical circuits in implanted devices.[7]
+
+
+
+Contents
+
+
+1 Medical uses
+
+1.1 Diagnosis
+1.2 Treatment
+
+
+2 Adverse effects
+3 Devices and procedure
+4 Society and culture
+
+4.1 Regulatory approvals
+
+4.1.1 Neurosurgery planning
+4.1.2 Depression
+4.1.3 Migraine
+
+
+4.2 Others
+4.3 Health insurance
+
+4.3.1 United States
+
+4.3.1.1 Commercial health insurance
+4.3.1.2 Medicare
+
+
+4.3.2 United Kingdom's National Health Service
+
+
+
+
+5 Technical information
+
+5.1 Mechanism of action
+5.2 Coil types
+
+
+6 History
+7 Research
+
+7.1 Study blinding
+
+
+8 See also
+9 References
+10 Further reading
+11 External links
+
+
+
+Medical uses[edit]
+The use of TMS can be divided into diagnostic and therapeutic uses.
+Diagnosis[edit]
+TMS can be used clinically to measure activity and function of specific brain circuits in humans.[3] The most robust and widely accepted use is in measuring the connection between the primary motor cortex and a muscle to evaluate damage from stroke, multiple sclerosis, amyotrophic lateral sclerosis, movement disorders, motor neuron disease and injuries and other disorders affecting the facial and other cranial nerves and the spinal cord.[3][10][11][12] TMS has been suggested as a means of assessing short-interval intracortical inhibition (SICI) which measures the internal pathways of the motor cortex but this use has not yet been validated.[13]
+Treatment[edit]
+For neuropathic pain, for which there is little effective treatment, high-frequency (HF) repetitive TMS (rTMS) appears effective.[4] For treatment-resistant major depressive disorder, HF-rTMS of the left dorsolateral prefrontal cortex (DLPFC) appears effective and low-frequency (LF) rTMS of the right DLPFC has probable efficacy.[4][5] The Royal Australia and New Zealand College of Psychiatrists has endorsed rTMS for treatment resistant MDD.[14] As of October 2008, the US Food and Drug Administration authorized the use of rTMS as an effective treatment for clinical depression.[15]
+Adverse effects[edit]
+Although TMS is generally regarded as safe, risks increase for therapeutic rTMS compared to single or paired TMS for diagnostic purposes.[16] In the field of therapeutic TMS, risks increase with higher frequencies.[7]
+The greatest immediate risk is the rare occurrence of syncope (fainting) and even less commonly, induced seizures.[7][17]
+Other adverse short-term effects of TMS include discomfort or pain, transient induction of hypomania, transient cognitive changes, transient hearing loss, transient impairment of working memory, and induced currents in electrical circuits in implanted devices.[7]
+Devices and procedure[edit]
+During a transcranial magnetic stimulation (TMS) procedure, a magnetic field generator, or "coil" is placed near the head of the person receiving the treatment.[1]:3 The coil produces small electric currents in the region of the brain just under the coil via electromagnetic induction. The coil is positioned by finding anatomical landmarks on the skull including, but not limited to, the inion or the nasion.[18] The coil is connected to a pulse generator, or stimulator, that delivers electric current to the coil.[2]
+Most devices provide a shallow magnetic field that affects neurons mostly on the surface of the brain, delivered with coil shaped like the number eight. Some devices can provide magnetic fields that can penetrate deeper, are used for "deep TMS", and have different types of coils including the H-coil the C-core coil, and the circular crown coil; as of 2013 the H coil used in devices made by Brainsway were the most developed.[19]
+Society and culture[edit]
+Regulatory approvals[edit]
+Neurosurgery planning[edit]
+Nexstim obtained 510(k) FDA clearance for the assessment of the primary motor cortex for pre-procedural planning in December 2009[20] and for neurosurgical planning in June 2011.[21]
+Depression[edit]
+A number of deep TMS have received FDA 510k clearance to market for use in adults with treatment resistant major depressive disorders.[22][23][24][25][26]
+Migraine[edit]
+The use of single-pulse TMS was approved by the FDA for treatment of migraines in December 2013.[27] It is approved as a Class II medical device under the "de novo pathway".[28][29]
+Others[edit]
+In the European Economic Area, various versions of Deep TMS H-coils has CE marking for Alzheimer's disease,[30] autism,[30] bipolar disorder,[31] epilepsy [32] chronic pain[31] major depressive disorder[31] Parkinson's disease,[31][33] posttraumatic stress disorder (PTSD),[31]
+
+Schizophrenia (negative symptoms)[31] and to aid smoking cessation.[30] One review found tentative benefit for cognitive enhancement in healthy people.[34]
+
+Health insurance[edit]
+United States[edit]
+Commercial health insurance[edit]
+In 2013, several commercial health insurance plans in the United States, including Anthem, Health Net, and Blue Cross Blue Shield of Nebraska and of Rhode Island, covered TMS for the treatment of depression for the first time.[35] In contrast, UnitedHealthcare issued a medical policy for TMS in 2013 that stated there is insufficient evidence that the procedure is beneficial for health outcomes in patients with depression. UnitedHealthcare noted that methodological concerns raised about the scientific evidence studying TMS for depression include small sample size, lack of a validated sham comparison in randomized controlled studies, and variable uses of outcome measures.[36] Other commercial insurance plans whose 2013 medical coverage policies stated that the role of TMS in the treatment of depression and other disorders had not been clearly established or remained investigational included Aetna, Cigna and Regence.[37]
+Medicare[edit]
+Policies for Medicare coverage vary among local jurisdictions within the Medicare system,[38] and Medicare coverage for TMS has varied among jurisdictions and with time. For example:
+
+In early 2012 in New England, Medicare covered TMS for the first time in the United States.[39] However, that jurisdiction later decided to end coverage after October, 2013.[40]
+In August 2012, the jurisdiction covering Arkansas, Louisiana, Mississippi, Colorado, Texas, Oklahoma, and New Mexico determined that there was insufficient evidence to cover the treatment,[41] but the same jurisdiction subsequently determined that Medicare would cover TMS for the treatment of depression after December 2013.[42]
+
+United Kingdom's National Health Service[edit]
+The United Kingdom's National Institute for Health and Care Excellence (NICE) issues guidance to the National Health Service (NHS) in England, Wales, Scotland and Northern Ireland. NICE guidance does not cover whether or not the NHS should fund a procedure. Local NHS bodies (primary care trusts and hospital trusts) make decisions about funding after considering the clinical effectiveness of the procedure and whether the procedure represents value for money for the NHS.[43]
+NICE evaluated TMS for severe depression (IPG 242) in 2007, and subsequently considered TMS for reassessment in January 2011 but did not change its evaluation.[44] The Institute found that TMS is safe, but there is insufficient evidence for its efficacy.[44]
+In January 2014, NICE reported the results of an evaluation of TMS for treating and preventing migraine (IPG 477). NICE found that short-term TMS is safe but there is insufficient evidence to evaluate safety for long-term and frequent uses. It found that evidence on the efficacy of TMS for the treatment of migraine is limited in quantity, that evidence for the prevention of migraine is limited in both quality and quantity.[45]
+Technical information[edit]
+
+
+
+
+
+TMS – Butterfly Coils
+
+
+TMS uses electromagnetic induction to generate an electric current across the scalp and skull without physical contact.[46] A plastic-enclosed coil of wire is held next to the skull and when activated, produces a magnetic field oriented orthogonally to the plane of the coil. The magnetic field passes unimpeded through the skin and skull, inducing an oppositely directed current in the brain that activates nearby nerve cells in much the same way as currents applied directly to the cortical surface.[47]
+The path of this current is difficult to model because the brain is irregularly shaped and electricity and magnetism are not conducted uniformly throughout its tissues. The magnetic field is about the same strength as an MRI, and the pulse generally reaches no more than 5 centimeters into the brain unless using the deep transcranial magnetic stimulation variant of TMS.[48] Deep TMS can reach up to 6 cm into the brain to stimulate deeper layers of the motor cortex, such as that which controls leg motion.[49]
+Mechanism of action[edit]
+From the Biot–Savart law
+
+
+
+
+
+B
+
+=
+
+
+
+μ
+
+0
+
+
+
+4
+π
+
+
+
+I
+
+∫
+
+C
+
+
+
+
+
+d
+
+l
+
+×
+
+
+
+r
+^
+
+
+
+
+
+r
+
+2
+
+
+
+
+
+
+{\displaystyle \mathbf {B} ={\frac {\mu _{0}}{4\pi }}I\int _{C}{\frac {d\mathbf {l} \times \mathbf {\hat {r}} }{r^{2}}}}
+
+
+it has been shown that a current through a wire generates a magnetic field around that wire. Transcranial magnetic stimulation is achieved by quickly discharging current from a large capacitor into a coil to produce pulsed magnetic fields between 2 and 3 T.[50] By directing the magnetic field pulse at a targeted area of the brain, one can either depolarize or hyperpolarize neurons in the brain. The magnetic flux density pulse generated by the current pulse through the coil causes an electric field as explained by the Maxwell-Faraday equation,
+
+
+
+
+∇
+×
+
+E
+
+=
+−
+
+
+
+∂
+
+B
+
+
+
+∂
+t
+
+
+
+
+
+{\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B} }{\partial t}}}
+
+ .
+This electric field causes a change in the transmembrane current of the neuron, which leads to the depolarization or hyperpolarization of the neuron and the firing of an action potential.[50]
+The exact details of how TMS functions are still being explored. The effects of TMS can be divided into two types depending on the mode of stimulation:
+
+Single or paired pulse TMS causes neurons in the neocortex under the site of stimulation to depolarize and discharge an action potential. If used in the primary motor cortex, it produces muscle activity referred to as a motor evoked potential (MEP) which can be recorded on electromyography. If used on the occipital cortex, 'phosphenes' (flashes of light) might be perceived by the subject. In most other areas of the cortex, the participant does not consciously experience any effect, but his or her behaviour may be slightly altered (e.g., slower reaction time on a cognitive task), or changes in brain activity may be detected using sensing equipment.[51]
+Repetitive TMS produces longer-lasting effects which persist past the initial period of stimulation. rTMS can increase or decrease the excitability of the corticospinal tract depending on the intensity of stimulation, coil orientation, and frequency. The mechanism of these effects is not clear, though it is widely believed to reflect changes in synaptic efficacy akin to long-term potentiation (LTP) and long-term depression (LTD).[52]
+
+MRI images, recorded during TMS of the motor cortex of the brain, have been found to match very closely with PET produced by voluntary movements of the hand muscles innervated by TMS, to 5–22 mm of accuracy.[53] The localisation of motor areas with TMS has also been seen to correlate closely to MEG[54] and also fMRI.[55]
+Coil types[edit]
+The design of transcranial magnetic stimulation coils used in either treatment or diagnostic/experimental studies may differ in a variety of ways. These differences should be considered in the interpretation of any study result, and the type of coil used should be specified in the study methods for any published reports.
+The most important considerations include:
+
+the type of material used to construct the core of the coil
+the geometry of the coil configuration
+the biophysical characteristics of the pulse produced by the coil.
+
+With regard to coil composition, the core material may be either a magnetically inert substrate (i.e., the so-called 'air-core' coil design), or possess a solid, ferromagnetically active material (i.e., the so-called 'solid-core' design). Solid core coil design result in a more efficient transfer of electrical energy into a magnetic field, with a substantially reduced amount of energy dissipated as heat, and so can be operated under more aggressive duty cycles often mandated in therapeutic protocols, without treatment interruption due to heat accumulation, or the use of an accessory method of cooling the coil during operation. Varying the geometric shape of the coil itself may also result in variations in the focality, shape, and depth of cortical penetration of the magnetic field. Differences in the coil substance as well as the electronic operation of the power supply to the coil may also result in variations in the biophysical characteristics of the resulting magnetic pulse (e.g., width or duration of the magnetic field pulse). All of these features should be considered when comparing results obtained from different studies, with respect to both safety and efficacy.[56]
+A number of different types of coils exist, each of which produce different magnetic field patterns. Some examples:
+
+round coil: the original type of TMS coil
+figure-eight coil (i.e., butterfly coil): results in a more focal pattern of activation
+double-cone coil: conforms to shape of head, useful for deeper stimulation
+four-leaf coil: for focal stimulation of peripheral nerves[57]
+H-coil: for deep transcranial magnetic stimulation
+
+Design variations in the shape of the TMS coils allow much deeper penetration of the brain than the standard depth of 1.5–2.5 cm. Circular crown coils, Hesed (or H-core) coils, double cone coils, and other experimental variations can induce excitation or inhibition of neurons deeper in the brain including activation of motor neurons for the cerebellum, legs and pelvic floor. Though able to penetrate deeper in the brain, they are less able to produce a focused, localized response and are relatively non-focal.[7]
+History[edit]
+Luigi Galvani did pioneering research on the effects of electricity on the body in the late 1700s, and laid the foundations for the field of electrophysiology.[58] In the 1800s Michael Faraday discovered that an electrical current had a corresponding magnetic field, and that changing one, could change the other.[59] Work to directly stimulate the human brain with electricity started in the late 1800s, and by the 1930s electroconvulsive therapy has been developed by Italian physicians Cerletti and Bini.[58] ECT became widely used to treat mental illness and became overused as it began to be seen as a "psychiatric panacea", and a backlash against it grew in the 1970s.[58] Around that time Anthony T. Barker began exploring use of magnetic fields to alter electrical signalling in the brain, and the first stable TMS devices were developed around 1985.[58][59] They were originally intended as diagnostic and research devices, and only later were therapeutic uses explored.[58][59] The first TMS devices were approved by the FDA in October 2008.[58]
+Research[edit]
+TMS research in animal studies is limited due to early FDA approval of TMS treatment of drug-resistant depression. Because of this, there has been no specific coils for animal models. Hence, there are limited number of TMS coils that can be used for animal studies.[60] There are some attempts in the literature showing new coil designs for mice with an improved stimulation profile.[61]
+Areas of research include:
+
+rehabilitation of aphasia and motor disability after stroke,[4][7][11][12][62]
+tinnitus,[4][63]
+anxiety disorders,[4] including panic disorder[64] and obsessive-compulsive disorder.[4] The most promising areas to target for OCD appear to be the orbitofrontal cortex and the supplementary motor area.[65] Older protocols that targeted the prefrontal dorsal cortex were less successful in treating OCD.[66]
+amyotrophic lateral sclerosis,[4][67]
+multiple sclerosis,[4]
+epilepsy,[4][68]
+Alzheimer's disease,[4]
+Parkinson's disease,[69]
+schizophrenia,[4][6]
+substance abuse,[4] addiction,[4][70] and posttraumatic stress disorder (PTSD).[4]
+autism[71]
+brain death, coma, and other persistent vegetative states.[4]
+Functional connectivity between the cerebellum and other areas of the brain[72]
+Traumatic brain injury[73]
+Stroke[73]
+
+Study blinding[edit]
+It is difficult to establish a convincing form of "sham" TMS to test for placebo effects during controlled trials in conscious individuals, due to the neck pain, headache and twitching in the scalp or upper face associated with the intervention.[4][7] "Sham" TMS manipulations can affect cerebral glucose metabolism and MEPs, which may confound results.[74] This problem is exacerbated when using subjective measures of improvement.[7] Placebo responses in trials of rTMS in major depression are negatively associated with refractoriness to treatment, vary among studies and can influence results.[75]
+A 2011 review found that only 13.5% of 96 randomized control studies of rTMS to the dorsolateral prefrontal cortex had reported blinding success and that, in those studies, people in real rTMS groups were significantly more likely to think that they had received real TMS, compared with those in sham rTMS groups.[76] Depending on the research question asked and the experimental design, matching the discomfort of rTMS to distinguish true effects from placebo can be an important and challenging issue.[4][7][8][9]
+See also[edit]
+
+Cortical stimulation mapping
+Cranial electrotherapy stimulation
+Electrical brain stimulation
+Electroconvulsive therapy
+Low field magnetic stimulation
+Transcranial direct-current stimulation
+Transcranial alternating current stimulation
+Transcranial random noise stimulation
+
+References[edit]
+
+
+^ a b NiCE. January 2014 Transcranial magnetic stimulation for treating and preventing migraine
+^ a b Michael Craig Miller for Harvard Health Publications. July 26, 2012 Magnetic stimulation: a new approach to treating depression?
+^ a b c Groppa, S; Oliviero, A; Eisen, A; Quartarone, A; Cohen, LG; Mall, V; Kaelin-Lang, A; Mima, T; Rossi, S; Thickbroom, GW; Rossini, PM; Ziemann, U; Valls-Solé, J; Siebner, HR (2012). "A practical guide to diagnostic transcranial magnetic stimulation: Report of an IFCN committee". Clinical Neurophysiology. 123 (5): 858–882. doi:10.1016/j.clinph.2012.01.010. PMID 22349304. 
+^ a b c d e f g h i j k l m n o p q r s t u v Lefaucheur, JP; et al. (2014). "Evidence-based guidelines on the therapeutic use of repetitive transcranial magnetic stimulation (rTMS)". Clinical Neurophysiology. 125 (11): 2150–2206. doi:10.1016/j.clinph.2014.05.021. PMID 25034472. 
+^ a b
+
+George, MS; Post, RM (2011). "Daily Left Prefrontal Repetitive Transcranial Magnetic Stimulation for Acute Treatment of Medication-Resistant Depression". American Journal of Psychiatry. 168 (4): 356–364. doi:10.1176/appi.ajp.2010.10060864. PMID 21474597. 
+Gaynes BN, Lux L, Lloyd S, Hansen RA, Gartlehner G, Thieda P, Brode S, Swinson Evans T, Jonas D, Crotty K, Viswanathan M, Lohr KN, Research Triangle Park, North Carolina (September 2011). "Nonpharmacologic Interventions for Treatment-Resistant Depression in Adults. Comparative Effectiveness Review Number 33. (Prepared by RTI International-University of North Carolina (RTI-UNC) Evidence-based Practice Center)" (PDF). AHRQ Publication No. 11-EHC056-EF. Rockville, Maryland: Agency for Healthcare Research and Quality. p. 36. Archived from the original (PDF) on 2012-10-11. Retrieved 2011-10-11. CS1 maint: Multiple names: authors list (link)
+Berlim, MT; Van den Eynde, F; Jeff Daskalakis, Z (March 2013). "Clinically meaningful efficacy and acceptability of low-frequency repetitive transcranial magnetic stimulation (rTMS) for treating primary major depression: a meta-analysis of randomized, double-blind and sham-controlled trials". Neuropsychopharmacology. 38 (4): 543–551. doi:10.1038/npp.2012.237. PMC 3572468 . PMID 23249815. 
+Perera T, George M, Grammer G, Janicek P, Pascual-Leone, A, Wirecki, T (2015). "TMS Therapy For Major Depressive Disorder: Evidence Review and Treatment: Recommendations for Clinical Practice: A White Paper" (PDF). Clinical TMS Society. TMS Center of Colorado. Archived from the original (PDF) on 2016-02-18. Retrieved 2016-02-18. CS1 maint: Multiple names: authors list (link)
+Bersani FS; et al. (Jan 2013). "Deep transcranial magnetic stimulation as a treatment for psychiatric disorders: a comprehensive review". Eur Psychiatry. 28 (1): 30–9. doi:10.1016/j.eurpsy.2012.02.006. PMID 22559998. 
+
+
+^ a b Dougall, N; Maayan, N; Soares-Weiser, K; McDermott, LM; McIntosh, A (20 August 2015). "Transcranial magnetic stimulation (TMS) for schizophrenia". The Cochrane Database of Systematic Reviews. 8 (8): CD006081. doi:10.1002/14651858.CD006081.pub2. PMID 26289586. 
+^ a b c d e f g h i j k Rossi S, et al. (Dec 2009). "Safety, ethical considerations, and application guidelines for the use of transcranial magnetic stimulation in clinical practice and research". Clin Neurophysiol. 120 (12): 2008–39. doi:10.1016/j.clinph.2009.08.016. PMC 3260536 . PMID 19833552. 
+^ a b Duecker, F; Sack, AT (2015). "Rethinking the role of sham TMS". Frontiers in Psychology. 6: 210. doi:10.3389/fpsyg.2015.00210. PMC 4341423 . PMID 25767458. 
+^ a b Davis, NJ; Gold, E; Pascual-Leone, A; Bracewell, RM (2013). "Challenges of proper placebo control for non-invasive brain stimulation in clinical and experimental applications". European Journal of Neuroscience. 38 (7): 2973–2977. doi:10.1111/ejn.12307. PMID 23869660. 
+^ Rossini, P; Rossi, S (2007). "Transcranial magnetic stimulation: diagnostic, therapeutic, and research potential". Neurology. 68 (7): 484–488. doi:10.1212/01.wnl.0000250268.13789.b2. PMID 17296913. 
+^ a b Dimyan, MA; Cohen, LG (2009). "Contribution of Transcranial Magnetic Stimulation to the Understanding of Functional Recovery Mechanisms After Stroke". Neurorehabilitation and Neural Repair. 24 (2): 125–135. doi:10.1177/1545968309345270. PMC 2945387 . PMID 19767591. 
+^ a b Nowak, D; Bösl, K; Podubeckà, J; Carey, J (2010). "Noninvasive brain stimulation and motor recovery after stroke". Restorative Neurology and Neuroscience. 28 (4): 531–544. doi:10.3233/RNN-2010-0552. PMID 20714076. 
+^ Kujirai, T.; Caramia, M. D.; Rothwell, J. C.; Day, B. L.; Thompson, P. D.; Ferbert, A.; Wroe, S.; Asselman, P.; Marsden, C. D. (1993). "Corticocortical inhibition in human motor cortex". The Journal of Physiology. 471: 501–519. doi:10.1113/jphysiol.1993.sp019912. PMC 1143973 . PMID 8120818. 
+^ The Royal Australian and New Zealand College of Psychiatrists. (2013) Position Statement 79. Repetitive Transcranial Magnetic Stimulation. Practice and Partnerships Committee
+^ Slotema, C.W.; Blom, J. D.; Hoek, H.W.; Sommer, I. E. (2010). "Should we expand the toolbox of psychiatric treatment methods to include Repetitive Transcranial Magnetic Stimulation (rTMS)? A meta-analysis of the efficacy of rTMS in psychiatric disorders". J. Clin. Psychiatry. 71 (7): 873–84. PMID 20361902. 
+^ Van, den Noort M, Lim S, Bosch P (2014). "Recognizing the risks of brain stimulation". Science. 346 (6215): 1307. doi:10.1126/science.346.6215.1307-a. CS1 maint: Multiple names: authors list (link)
+^ Fitzgerald, PB; Daskalakis, ZJ (2013). "7. rTMS-Associated Adverse Events". Repetitive Transcranial Magnetic Stimulation for Depressive Disorders. Berlin Heidelberg: Springer-Verlag. pp. 81–90. doi:10.1007/978-3-642-36467-9. ISBN 978-3-642-36466-2.  At Google Books.
+^ Nauczyciel, C; Hellier, P; Morandi, X; Blestel, S; Drapier, D; Ferre, JC; Barillot, C; Millet, B (30 April 2011). "Assessment of standard coil positioning in transcranial magnetic stimulation in depression". Psychiatry Research. 186 (2–3): 232–8. doi:10.1016/j.psychres.2010.06.012. PMID 20692709. 
+^ Bersani, FS; Minichino, A; Enticott, PG; Mazzarini, L; Khan, N; Antonacci, G; Raccah, RN; Salviati, M; Delle Chiaie, R; Bersani, G; Fitzgerald, PB; Biondi, M (January 2013). "Deep transcranial magnetic stimulation as a treatment for psychiatric disorders: a comprehensive review". European psychiatry : the journal of the Association of European Psychiatrists. 28 (1): 30–9. doi:10.1016/j.eurpsy.2012.02.006. PMID 22559998.  
+^ "FDA clears Nexstim´s Navigated Brain Stimulation for non-invasive cortical mapping prior to neurosurgery – Archive – Press Releases – News – Nexstim". nexstim.com. 
+^ "Nexstim Announces FDA Clearance for NexSpeech® – Enabling Noninvasive Speech Mapping Prior to Neurosurgery – Business Wire". businesswire.com. 11 June 2012. 
+^ (July 2015) "BRAINSWAY DEEP TMS SYSTEM" (PDF). Jan 7, 2013. 
+^ (July 2015)FDA 510K
+^ Melkerson, MN (2008-12-16). "Special Premarket 510(k) Notification for NeuroStar® TMS Therapy System for Major Depressive Disorder" (pdf). Food and Drug Administration. Retrieved 2010-07-16. 
+^ "Letter to Magstim Company Limited" (PDF). May 8, 2015. 
+^ "FDA approves Brainsway's depression treatment device". Globes. January 9, 2013. Archived from the original on December 16, 2013. Retrieved December 16, 2013. 
+^ FDA 13 December 2013 FDA letter to eNeura re de novo classification review
+^ Michael Drues, for Med Device Online. 5 February 2014 Secrets Of The De Novo Pathway, Part 1: Why Aren't More Device Makers Using It?
+^ Schwedt TJ, Vargas B (Sep 2015). "Neurostimulation for Treatment of Migraine and Cluster Headache". Pain Med. 16 (9): 1827–34. doi:10.1111/pme.12792. PMC 4572909 . PMID 26177612. 
+^ a b c "Brainsway reports positive Deep TMS system trial data for OCD". Medicaldevice-network. September 6, 2013. Retrieved December 16, 2013. 
+^ a b c d e f "Brainsway's Deep TMS EU Cleared for Neuropathic Chronic Pain". medGadget. July 3, 2012. Retrieved December 16, 2013. 
+^ Gersner, R.; Oberman, L.; Sanchez, M. J.; Chiriboga, N.; Kaye, H. L.; Pascual-Leone, A.; Libenson, M.; Roth, Y.; Zangen, A. (2016-01-01). "H-coil repetitive transcranial magnetic stimulation for treatment of temporal lobe epilepsy: A case report". Epilepsy & Behavior Case Reports. 5 (Supplement C): 52–56. doi:10.1016/j.ebcr.2016.03.001. 
+^ Torres, Francisco; Villalon, Esteban; Poblete, Patricio; Moraga-Amaro, Rodrigo; Linsambarth, Sergio; Riquelme, Raúl; Zangen, Abraham; Stehberg, Jimmy (2015-10-26). "Retrospective Evaluation of Deep Transcranial Magnetic Stimulation as Add-On Treatment for Parkinson's Disease". Frontiers in Neurology. 6: 210. doi:10.3389/fneur.2015.00210. ISSN 1664-2295. PMC 4620693 . PMID 26579065. 
+^ Luber, B; Lisanby, SH (15 January 2014). "Enhancement of human cognitive performance using transcranial magnetic stimulation (TMS)". NeuroImage. 85 (3): 961–70. doi:10.1016/j.neuroimage.2013.06.007. PMC 4083569 . PMID 23770409. 
+^ (1) Anthem (2013-04-16). "Medical Policy: Transcranial Magnetic Stimulation for Depression and Other Neuropsychiatric Disorders". Policy No. BEH.00002. Anthem. Archived from the original on 2013-12-11. Retrieved 2013-12-11. 
+(2) Health Net (March 2012). "National Medical Policy: Transcranial Magnetic Stimulation" (PDF). Policy Number NMP 508. Health Net. Archived from the original (PDF) on 2012-10-11. Retrieved 2012-09-05. 
+(3) Blue Cross Blue Shield of Nebraska (2011-05-18). "Medical Policy Manual" (PDF). Section IV.67. Blue Cross Blue Shield of Nebraska. Archived from the original (PDF) on 2012-10-11. 
+(4) Blue Cross Blue Shield of Rhode Island (2012-05-15). "Medical Coverage Policy: Transcranial Magnetic Stimulation for Treatment of Depression and Other Psychiatric/Neurologic Disorders" (PDF). Blue Cross Blue Shield of Rhode Island. Archived from the original (PDF) on 2012-10-11. Retrieved 2012-09-05. 
+^ UnitedHealthcare (2013-12-01). "Transcranial Magnetic Stimulation" (PDF). UnitedHealthCare. p. 2. Archived from the original (PDF) on 2013-12-11. Retrieved 2013-12-11. 
+^ (1) Aetna (2013-10-11). "Clinical Policy Bulletin: Transcranial Magnetic Stimulation and Cranial Electrical Stimulation". Number 0469. Aetna. Archived from the original on 2013-12-11. Retrieved 2013-12-11. 
+(2) Cigna (2013-01-15). "Cigna Medical Coverage Policy: Transcranial Magnetic Stimulation" (PDF). Coverage Policy Number 0383. Cigna. Archived from the original (PDF) on 2013-12-11. Retrieved 2013-12-11. 
+(3) Regence (2013-06-01). "Medical Policy: Transcranial Magnetic Stimulation as a Treatment of Depression and Other Disorders" (PDF). Policy No. 17. Regence. Archived from the original (PDF) on 2013-12-11. Retrieved 2013-12-11. 
+^ "Medicare Administrative Contractors". Centers for Medicare and Medicaid Services. 2013-07-10. Archived from the original on 2014-02-17. Retrieved 2014-02-14. 
+^ (1) NHIC, Corp. (2013-10-24). "Local Coverage Determination (LCD) for Repetitive Transcranial Magnetic Stimulation (rTMS) (L32228)". Centers for Medicare and Medicaid Services. Retrieved 2014-02-17. 
+(2) "Important Treatment Option for Depression Receives Medicare Coverage". Press Release. PBN.com: Providence Business News. 2012-03-30. Archived from the original on 2012-10-11. Retrieved 2012-10-11. 
+(3) The Institute for Clinical and Economic Review (June 2012). "Coverage Policy Analysis: Repetitive Transcranial Magnetic Stimulation (rTMS)" (PDF). The New England Comparative Effectiveness Public Advisory Council (CEPAC). Archived from the original (PDF) on 2013-12-11. Retrieved 2013-12-11. 
+(4) "Transcranial Magnetic Stimulation Cites Influence of New England Comparative Effectiveness Public Advisory Council (CEPAC)". Berlin, Vermont: Central Vermont Medical Center. 2012-02-06. Archived from the original on 2012-10-13. Retrieved 2012-10-12. 
+^ National Government Services, Inc. (2013-10-25). "Local Coverage Determination (LCD): Transcranial Magnetic Stimulation (L32038)". Centers for Medicare and Medicaid Services. Retrieved 2014-02-17. 
+^ Novitas Solutions, Inc. (2013-12-04). "LCD L32752 – Transcranial Magnetic Stimulation for Depression". Contractor's Determination Number L32752. Centers for Medicare and Medicaid Services. Retrieved 2014-02-17. 
+^ Novitas Solutions, Inc. (2013-12-05). "LCD L33660 – Transcranial Magnetic Stimulation (TMS) for the Treatment of Depression". Contractor's Determination Number L33660. Centers for Medicare and Medicaid Services. Retrieved 2014-02-17. 
+^ NICE About NICE: What we do
+^ a b "Transcranial magnetic stimulation for severe depression (IPG242)". London, England: National Institute for Health and Clinical Excellence. 2011-03-04. 
+^ "Transcranial magnetic stimulation for treating and preventing migraine". London, England: National Institute for Health and Clinical Excellence. January 2014. 
+^ Cavaleri, Rocco; Schabrun, Siobhan; Chipchase, Lucy (2017). "The number of stimuli required to reliably assess corticomotor excitability and primary motor cortical representations using transcranial magnetic stimulation (TMS): a systematic review and meta-analysis". Systematic Reviews. 6 (48): 48. doi:10.1186/s13643-017-0440-8. PMC 5340029 . PMID 28264713. 
+^ Cacioppo, JT; Tassinary, LG; Berntson, GG., eds. (2007). Handbook of psychophysiology (3rd ed.). New York: Cambridge Univ. Press. p. 121. ISBN 0-521-84471-1. 
+^ "Brain Stimulation Therapies". National Institute of Mental Health. 2009-11-17. Retrieved 2010-07-14. 
+^ (1) Zangen, A.; Roth, Y.; Voller, B.; Hallett, M. (2005). "Transcranial magnetic stimulation of deep brain regions: Evidence for efficacy of the H-Coil". Clinical Neurophysiology. 116 (4): 775–779. doi:10.1016/j.clinph.2004.11.008. PMID 15792886. 
+(2) Huang, YZ; Sommer, M; Thickbroom, G; Hamada, M; Pascual-Leonne, A; Paulus, W; Classen, J; Peterchev, AV; Zangen, A; Ugawa, Y (2009). "Consensus: New methodologies for brain stimulation". Brain Stimulation. 2 (1): 2–13. doi:10.1016/j.brs.2008.09.007. PMC 5507351 . PMID 20633398. 
+^ a b V. Walsh and A. Pascual-Leone, "Transcranial Magnetic Stimulation: A Neurochronometrics of Mind." Cambridge, Massachusetts: MIT Press, 2003.
+^ Pascual-Leone A; Davey N; Rothwell J; Wassermann EM; Puri BK (2002). Handbook of Transcranial Magnetic Stimulation. London: Edward Arnold. ISBN 0-340-72009-3. CS1 maint: Multiple names: authors list (link)
+^ Fitzgerald, P; Fountain, S; Daskalakis, Z (2006). "A comprehensive review of the effects of rTMS on motor cortical excitability and inhibition". Clinical Neurophysiology. 117 (12): 2584–2596. doi:10.1016/j.clinph.2006.06.712. PMID 16890483. 
+^ Wassermann, EM; Wang, B; Zeffiro, TA; Sadato, N; Pascual-Leone, A; Toro, C; Hallett, M (1996). "Locating the Motor Cortex on the MRI with Transcranial Magnetic Stimulation and PET". NeuroImage. 3 (1): 1–9. doi:10.1006/nimg.1996.0001. PMID 9345470. 
+^ Morioka T.; Yamamoto T.; Mizushima A.; Tombimatsu S.; Shigeto H.; Hasuo K.; Nishio S.; Fujii K.; Fukui M. (1995). "Comparison of magnetoencephalography, functional MRI, and motor evoked potentials in the localization of the sensory-motor cortex". Neurol. Res. 17 (5): 361–367. 
+^ Terao, Y; Ugawa, Y; Sakai, K; Miyauchi, S; Fukuda, H; Sasaki, Y; Takino, R; Hanajima, R; Furubayashi, T; püTz, B; Kanazawa, I (1998). "Localizing the site of magnetic brain stimulation by functional MRI". Experimental Brain Research. 121 (2): 145–152. doi:10.1007/s002210050446. 
+^ Riehl M (2008). "TMS Stimulator Design". In Wassermann EM, Epstein CM, Ziemann U, Walsh V, Paus T, Lisanby SH. Oxford Handbook of Transcranial Stimulation. Oxford: Oxford University Press. pp. 13–23, 25–32. ISBN 0-19-856892-4. 
+^ Roth, BJ; MacCabee, PJ; Eberle, LP; Amassian, VE; Hallett, M; Cadwell, J; Anselmi, GD; Tatarian, GT (1994). "In vitro evaluation of a 4-leaf coil design for magnetic stimulation of peripheral nerve". Electroencephalography and Clinical Neurophysiology/Evoked Potentials Section. 93 (1): 68–74. doi:10.1016/0168-5597(94)90093-0. PMID 7511524. 
+^ a b c d e f Horvath, JC; Perez, JM; Forrow, L; Fregni, F; Pascual-Leone, A (March 2011). "Transcranial magnetic stimulation: a historical evaluation and future prognosis of therapeutically relevant ethical concerns". Journal of Medical Ethics. 37 (3): 137–43. doi:10.1136/jme.2010.039966. JSTOR 23034661. PMID 21106996. 
+^ a b c Noohi, S; Amirsalari, S (2016). "History, Studies and Specific Uses of Repetitive Transcranial Magnetic Stimulation (rTMS) in Treating Epilepsy". Iranian journal of child neurology. 10 (1): 1–8. PMC 4815479 . PMID 27057180. 
+^ Wassermann Eric M., Zimmermann Trelawny (2012). "Transcranial magnetic brain stimulation: Therapeutic promises and scientific gaps". Pharmacology. 133: 98–107. doi:10.1016/j.pharmthera.2011.09.003. 
+^ March Stephen D (2014). "Thermal and Mechanical Analysis of Novel Transcranial Magnetic Stimulation Coil for Mice". IEEE Transactions on Magnetics. 50 (9): 1–5. doi:10.1109/TMAG.2014.2316479. 
+^ (1) Martin, PI; Naeser, MA; Ho, M; Treglia, E; Kaplan, E; Baker, EH; Pascual-Leone, A (2009). "Research with Transcranial Magnetic Stimulation in the Treatment of Aphasia". Current Neurology and Neuroscience Reports. 9 (6): 451–458. doi:10.1007/s11910-009-0067-9. PMC 2887285 . PMID 19818232. 
+(2) Corti, M; Patten, C; Triggs, W (2012). "Repetitive Transcranial Magnetic Stimulation of Motor Cortex after Stroke". American Journal of Physical Medicine & Rehabilitation. 91 (3): 254–270. doi:10.1097/PHM.0b013e318228bf0c. PMID 22042336. 
+^ Kleinjung, T; Vielsmeier, V; Landgrebe, M; Hajak, G; Langguth, B (2008). "Transcranial magnetic stimulation: a new diagnostic and therapeutic tool for tinnitus patients". The international tinnitus journal. 14 (2): 112–8. PMID 19205161. 
+^ Li, H; Wang, J; Li, C; Xiao, Z (Sep 17, 2014). "Repetitive transcranial magnetic stimulation (rTMS) for panic disorder in adults". The Cochrane Database of Systematic Reviews. 9 (9): CD009083. doi:10.1002/14651858.CD009083.pub2. PMID 25230088. 
+^ Berlim MT, Neufeld NH, Van den Eynde F (2013). "Repetitive transcranial magnetic stimulation (rTMS) for obsessive-compulsive disorder (OCD): an exploratory meta-analysis of randomized and sham-controlled trials". Journal of Psychiatric Research. 47 (8): 999–1006. doi:10.1016/j.jpsychires.2013.03.022. PMID 23615189. 
+^ Saba G, Moukheiber A, Pelissolo A (2015). "Transcranial cortical stimulation in the treatment of obsessive-compulsive disorders: efficacy studies". Current Psychiatry Reports. 17 (5): 36. doi:10.1007/s11920-015-0571-3. PMID 25825002. 
+^ Fang, J; Zhou, M; Yang, M; Zhu, C; He, L (31 May 2013). "Repetitive transcranial magnetic stimulation for the treatment of amyotrophic lateral sclerosis or motor neuron disease". The Cochrane Database of Systematic Reviews (5): CD008554. doi:10.1002/14651858.CD008554.pub3. PMID 23728676. 
+^ Pereira, Luisa Santos; Müller, Vanessa Teixeira; da Mota Gomes, Marleide; Rotenberg, Alexander; Fregni, Felipe (2016). "Safety of repetitive transcranial magnetic stimulation in patients with epilepsy: A systematic review". Epilepsy & Behavior. 57: 167–176. doi:10.1016/j.yebeh.2016.01.015. ISSN 1525-5050. 
+^ Lefaucheur, JP (2009). "Treatment of Parkinson's disease by cortical stimulation". Expert Review of Neurotherapeutics. 9 (12): 1755–1771. doi:10.1586/ern.09.132. PMID 19951135. 
+(2) Arias-Carrión, O (2008). "Basic mechanisms of rTMS: Implications in Parkinson's disease". International Archives of Medicine. 1 (1): 2. doi:10.1186/1755-7682-1-2. PMC 2375865 . PMID 18471317. 
+^ Nizard J, Lefaucher JP, Helbert M, de Chauvigny E, Nguyen JP (2012). "Non-invasive stimulation therapies for the treatment of chronic pain". Discovery Medicine. 14 (74): 21–31. ISSN 1539-6509. PMID 22846200. Archived from the original on 2014-02-22. 
+^ Oberman LM, Enticott PG, Casanova MF, Rotenberg A, Pascual-Leone A, McCracken JT (2016). "Transcranial magnetic stimulation in autism spectrum disorder: Challenges, promise, and roadmap for future research". Autism Research. 9 (2): 184–203. doi:10.1002/aur.1567. PMC 4956084 . PMID 26536383. 
+^ Dun, Kim van; Bodranghien, Florian; Manto, Mario; Mariën, Peter (2016-12-28). "Targeting the Cerebellum by Noninvasive Neurostimulation: a Review". The Cerebellum. 16 (3): 1–47. doi:10.1007/s12311-016-0840-7. ISSN 1473-4222. 
+^ a b Shin, SS; Dixon, CE; Okonkwo, DO; Richardson, RM (November 2014). "Neurostimulation for traumatic brain injury". Journal of Neurosurgery. 121 (5): 1219–31. doi:10.3171/2014.7.JNS131826. PMID 25170668. 
+^ Marangell, LB; Martinez, M; Jurdi, RA; Zboyan, H (2007). "Neurostimulation therapies in depression: a review of new modalities". Acta Psychiatrica Scandinavica. 116 (3): 174–181. doi:10.1111/j.1600-0447.2007.01033.x. PMID 17655558. 
+^ Brunoni, A. R.; Lopes, M.; Kaptchuk, T. J.; Fregni, F. (2009). Hashimoto, Kenji, ed. "Placebo Response of Non-Pharmacological and Pharmacological Trials in Major Depression: A Systematic Review and Meta-Analysis". PLoS ONE. 4 (3): e4824. doi:10.1371/journal.pone.0004824. PMC 2653635 . PMID 19293925. 
+^ Broadbent, H. J.; Van Den Eynde, F.; Guillaume, S.; Hanif, E. L.; Stahl, D.; David, A. S.; Campbell, I. C.; Schmidt, U. (2011). "Blinding success of rTMS applied to the dorsolateral prefrontal cortex in randomised sham-controlled trials: A systematic review". World Journal of Biological Psychiatry. 12 (4): 240–8. doi:10.3109/15622975.2010.541281. PMID 21426265. 
+
+
+Further reading[edit]
+
+Wassermann, EM; Epstein, CM; Ziemann, U; Walsh, V; Paus, T; Lisanby, SH (2008). Oxford Handbook of Transcranial Stimulation (Oxford Handbooks). Oxford University Press, USA. ISBN 0-19-856892-4. 
+Freeston, I; Barker, A (2007). "Transcranial magnetic stimulation". Scholarpedia. 2 (10): 2936. doi:10.4249/scholarpedia.2936. 
+George, Mark S.; Belmaker, Robert H. (2000). Transcranial Magnetic Stimulation in Neuropsychiatry. American Psychiatric Press. ISBN 9780880489485. 
+Cohen, D.; Cuffin, B. N. (1991). "Developing a More Focal Magnetic Stimulator. Part I: Some Basic Principles". Journal of Clinical Neurophysiology. 8: 102–111. doi:10.1097/00004691-199101000-00013. 
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Transcranial magnetic stimulation.
+
+
+
+Stuttering Triggered by Transcranial Magnetic Stimulation (video)
+
+
+
+
+
+Categories: Physical psychiatric treatmentsElectrotherapyMagnetic devicesNeurophysiologyNeuropsychologyNeurotechnologyTreatment of bipolar disorderTreatment of depression1985 introductions2008 introductionsHidden categories: CS1 maint: Multiple names: authors list

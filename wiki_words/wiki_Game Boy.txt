@@ -1,0 +1,813 @@
+Game Boy
+
+
+关于整个Game Boy家系，请见“Game Boy家系”。
+
+
+
+
+
+
+
+
+Game Boy
+
+
+
+
+
+
+
+制造商
+任天堂
+
+
+产品家族
+Game Boy系列
+
+
+型式
+便携式游戏机
+
+
+世代
+第四世代
+
+
+产品生命周期
+
+
+
+日本：1989年4月21日[1]
+北美：1989年8月[2]
+欧洲：1990年11月28日
+香港：1994年
+大陆：1994年[3]
+俄罗斯：1995年
+塞尔维亚：1996年
+
+
+
+
+
+停产日期
+2003年3月23日
+
+
+销售台数
+全球: 1亿1869万台（包含Game Boy Pocket和Game Boy Color的销量）[4]
+
+
+媒体
+Game Boy卡带
+
+
+最畅销游戏
+俄罗斯方块，3026万套 (含同捆版)
+口袋妖怪 红·绿 [5]
+
+
+前代机种
+Game & Watch
+
+
+后继机种
+Game Boy Pocket
+
+
+
+
+
+
+1993年希拉里·克林顿于专机上玩GameBoy
+
+
+Game Boy（日语：ゲームボーイ，简称GB）是任天堂公司在1989年发售的第一代便携式掌上游戏机。 Game Boy拥有三个改版机型，分别是小尺寸的Game Boy Pocket，加入背光功能的Game Boy Light，以及彩色的Game Boy Color。截止2003年3月23日停产后，Game Boy全球累计销量约1.18亿台，为目前世界上累计销量第2位的掌上型游戏机。任天堂Game Boy的下一代掌机为2001年推出的任天堂Game Boy Advance。
+
+
+
+目录
+
+
+1 硬件
+
+1.1 技术参数
+1.2 特性
+
+
+2 评价
+3 参考文献
+
+
+
+硬件[编辑]
+Game Boy具有四个按键︰“A”、“B”、选择和开始。此外还有一个方向键。[6]
+技术参数[编辑]
+最初经典型 Gameboy 主机技术参数：
+
+制造商：任天堂
+发表时间：1989年
+处理器：Z80- 改良型 (8Bit) 主频：4.194304 MHz
+
+Game Boy Color 则拥有双CPU
+
+
+内存：8 KByte RAM
+游戏卡带容量：256 KBit，512 KBit, 1 MBit，2 MBit, 4 MBit, 8 MBit, 16 MBit
+声音：4 声道（矩形波2音 任意波1音 杂波1音） 立体声，带耳机
+图形：反射式点阵式 液晶屏幕，2.45”英寸，最大分辨率 160×144 Pixel，四灰阶
+
+Game Boy Color型：56原始色调色盘可同时显示 32.786种颜色
+
+
+电源：4颗AA型（3号）电池（也可使用外接交流电源）
+
+最初的Game Boy主机与当时的移动电话大小相当。配有一块无夜光功能的黑、绿色小液晶显示器，一个十字体方向操纵钮、四个控制按钮以及一个可见的单声道扬声器。在游戏机的底部可以看到一个3.5毫米标准的立体声耳机插孔。
+游戏软件被放入ROM-卡带中出售，游戏卡带需要垂直放入Game Boy游戏机的背面的上部。
+在游戏主机侧面有一个联机线插孔，玩家可以通过Game Boy专用“连接线”与其他主机配和相应的游戏联机对战，更有可供最多4名玩家同时联机的桥接器，可使一部Game Boy与另外3部主机联机。除此之外还有许多附件如：外接交流电电源、屏幕放大镜、辅助灯、Game Boy照相机、Game Boy打印机。
+特性[编辑]
+
+使用可以随时更换的游戏卡储存游戏。
+为了能够显示所有游戏画面，Game Boy使用反射式四灰阶液晶屏幕。此类屏幕常见于小型电子装置如计算器、POS终端等，图像由一个个液晶“方块”构成，每个方块可以显示四种不同深度的灰色，屏幕本身不提供光源。
+能够通过连接线与其他Game Boy通信，进行联机对战。
+能够外置音箱
+
+评价[编辑]
+自1989年4月21日在日本地区发行的前2个月，共有30万台游戏机售出。几个月后的1989年7月31日，Game Boy在北美地区发行。发行首日共售出4万台。[7]
+
+
+
+
+
+
+
+能转换卡带至超级任天堂的转卡
+
+
+
+
+
+
+
+
+
+照相机卡
+
+
+
+
+
+
+
+
+
+照相机卡拍出的效果
+
+
+
+
+
+
+
+
+
+打印照相机卡照片的Game Boy Printer
+
+
+
+
+
+
+
+
+
+联机对打电缆
+
+
+
+
+参考文献[编辑]
+
+
+^ retrodiary: 1 April – 28 April. Retro Gamer (Bournemouth: Imagine Publishing). April 2011, (88): 17. ISSN 1742-3155. OCLC 489477015. 
+^ White, Dave. Gameboy Club. Electronic Gaming Monthly. July 1989, (3): 68. 
+^ 万信国行初代GB 任天堂 GAME BOY 开箱
+^ http://www.vgchartz.com/platforms/
+^ ELSPA Sales Awards: Platinum. Entertainment and Leisure Software Publishers Association. [2009-01-18]. （原始内容存档于2009-05-15）. 
+^ Owner's Manual, p. 5. "(12) Operation buttons — The controls for playing games. (See game manuals for button functions.)"
+^ Fahs, Travis. IGN Presents the History of Game Boy. IGN. IGN Entertainment, Inc.: 2. [October 2, 2013]. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Game Boy家系
+
+
+
+
+
+
+游戏机
+
+
+
+Game Boy
+
+Pocket
+Light
+
+
+Color
+Advance
+
+Advance SP
+Micro
+
+
+
+
+
+
+
+
+
+
+外设
+
+
+
+播放君
+任天堂力量
+
+
+
+
+
+
+
+
+游戏
+
+
+
+Game Boy游戏
+
+畅销游戏
+
+
+Game Boy Advance游戏
+
+畅销游戏
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+任天堂游戏硬件
+
+
+
+
+
+
+家用游戏机
+
+
+
+Color TV-Game
+红白机
+
+夏普任天堂电视
+红白机编辑
+Twin Famicom
+
+
+超级任天堂
+
+mini
+
+
+任天堂64
+
+神游机
+
+
+任天堂GameCube
+Wii
+
+Mini
+
+
+Wii U
+任天堂Switch
+
+
+
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+Game & Watch
+Game Boy
+
+Pocket
+Light
+
+
+Game Boy Color
+Virtual Boy
+Game Boy Advance
+
+SP
+Micro
+
+
+任天堂DS家族
+
+任天堂DS
+Lite
+DSi
+
+
+任天堂3DS家族
+
+3DS
+2DS
+新3DS
+新2DS LL
+
+
+任天堂Switch
+
+
+
+
+
+
+
+
+街机基板
+
+
+
+任天堂对战系统
+
+
+
+
+
+
+
+
+周边配件
+
+
+
+磁碟机
+播放君
+Satellaview
+64DD
+GBA传输线
+Wii遥控器
+任天堂力量
+Joy-Con
+
+
+
+
+
+
+
+
+技术
+
+
+
+任天堂光盘
+Broadway（Wii）
+Espresso（Wii U）
+Erista（Switch）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+第四世代游戏机
+
+
+
+
+
+
+家用游戏机
+
+
+
+Neo Geo
+CD-i
+Pioneer LaserActive
+Mega Drive
+Super A'Can
+超级任天堂
+PC Engine
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+Game Boy
+
+Light
+Color
+
+
+雅达利Lynx
+Game Gear
+PC Engine GT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+掌上游戏机
+
+
+
+
+
+
+万代
+
+
+
+WonderSwan
+
+WonderSwan Color
+SwanCrystal
+
+
+拓麻歌子
+携带机
+
+
+
+
+
+
+
+
+Entex
+
+
+
+Select-A-Game
+Adventurevision
+
+
+
+
+
+
+
+
+Game Park（英语：Game Park）/Holdings（英语：GamePark Holdings）
+
+
+
+GP32（英语：GP32）
+GP2X（英语：GP2X）
+XGP（英语：XGP）（从未发售）
+GP2X Wiz（英语：GP2X Wiz）
+GP2X Caanoo（英语：GP2X Caanoo）
+
+
+
+
+
+
+
+
+任天堂
+
+
+
+Game & Watch
+Game Boy
+
+Pocket
+Light
+Color
+
+
+Game Boy Advance
+
+SP
+Micro
+
+
+任天堂DS
+
+任天堂DS Lite
+任天堂DSi
+
+
+任天堂3DS
+
+2DS
+新3DS
+新2DS XL/LL
+
+
+任天堂Switch
+
+
+
+
+
+
+
+
+诺基亚
+
+
+
+N-Gage
+N-Gage QD（英语：N-Gage QD）
+
+
+
+
+
+
+
+
+世嘉
+
+
+
+Game Gear
+Nomad
+Jewelpod
+
+
+
+
+
+
+
+
+SNK
+
+
+
+Neo Geo Pocket
+Neo Geo Pocket Color
+Neo Geo X（英语：Neo Geo X）
+
+
+
+
+
+
+
+
+索尼
+
+
+
+PlayStation Portable
+
+Slim & Lite
+PSP Go
+
+
+PlayStation Vita
+
+PlayStation Vita TV
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+
+1970年代
+
+
+
+
+Microvision
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+Nelsonic Industries（英语：Nelsonic Industries）
+Electronika（英语：Electronika）
+Epoch Game Pocket Computer
+Atari Lynx
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+PC Engine GT
+Game Master (游戏机)（英语：Game Master (console)）
+Gamate（英语：Gamate）
+Barcode Battler（英语：Barcode Battler）
+Watara Supervision（英语：Watara Supervision）
+Mega Duck（英语：Mega Duck）
+R-Zone（英语：R-Zone）
+Game.com（英语：Game.com）
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+Tapwave Zodiac（英语：Tapwave Zodiac）
+GameKing（英语：GameKing）
+GPANG service（英语：GPANG）
+Didj（英语：Leapfrog Didj）
+Leapster（英语：Leapster）
+Gizmondo（英语：Gizmondo）
+Coleco Sonic（英语：Coleco Sonic）
+Dingoo（英语：Dingoo A320）
+V-Smile Pocket（英语：V-Smile Pocket）
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+JXD devices（英语：JXD）
+Pandora (游戏机)（英语：Pandora (console)）
+DragonBox Pyra（英语：DragonBox Pyra）
+Shield Portable
+GCW Zero（英语：GCW Zero）
+GPD Win（英语：GPD Win）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+列表
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4266734-3
+
+
+
+
+
+
+
+
+
+
+
+
+分类：掌上游戏机Game Boy游戏机第四世代游戏机任天堂游戏机1990年代玩具1989年面世的产品隐藏分类：使用过时图像语法的页面包含规范控制信息的维基百科条目

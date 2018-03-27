@@ -1,0 +1,861 @@
+Logical atomism
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2008) (Learn how and when to remove this template message)
+
+
+
+
+
+Part of a series on
+
+
+Bertrand Russell
+
+
+
+Russell in 1916
+
+
+
+
+
+Views on philosophy
+Views on society
+Russell's paradox
+Russell's teapot
+Theory of descriptions
+Logical atomism
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+
+
+Part of a series on
+
+
+Ludwig Wittgenstein
+
+
+
+
+
+
+Wittgenstein (second from right), Summer 1920
+
+
+
+
+
+Early philosophy
+
+
+
+Picture theory of language
+Truth tables
+Truth conditions
+Truth functions
+State of affairs
+Logical necessity
+
+
+
+
+
+
+
+
+
+Later philosophy
+
+
+"Meaning is use"
+Language-game
+Private language argument
+Family resemblance
+Ideal language analysis
+Rule-following
+Form of life
+Anti-skepticism
+Philosophy of mathematics
+
+
+
+
+
+
+
+
+Movements
+
+
+Analytic philosophy
+Linguistic turn
+Ideal language philosophy
+Logical atomism
+Logical positivism
+Ordinary language philosophy
+Fideism
+Quietism
+Therapeutic approach
+
+
+
+
+
+
+
+
+Works
+
+
+Tractatus Logico-Philosophicus
+Some Remarks on Logical Form
+Blue and Brown Books
+Philosophical Remarks
+Philosophical Investigations
+On Certainty
+Culture and Value
+Remarks on Frazer's Golden Bough
+
+Remarks on the
+Foundations of Mathematics
+
+Zettel
+Remarks on Colour
+
+Lectures and Conversations on
+Aesthetics, Psychology
+and Religious Belief
+
+
+
+
+
+
+
+
+
+People
+
+
+
+Bertrand Russell
+G. E. Moore
+John Maynard Keynes
+Paul Engelmann
+Friedrich Waismann
+Moritz Schlick
+Rudolf Carnap
+Francis Skinner
+Frank Ramsey
+Vienna Circle
+G. E. M. Anscombe
+Norman Malcolm
+Rush Rhees
+Peter Winch
+Peter Geach
+G. H. von Wright
+
+
+
+
+
+
+
+
+
+Interpreters
+
+
+
+Gordon Baker
+Stanley Cavell
+James F. Conant
+Alice Crary
+Cora Diamond
+Terry Eagleton
+Juliet Floyd
+A. C. Grayling
+Peter Hacker
+Oswald Hanfling
+Jaakko Hintikka
+Anthony Kenny
+Saul Kripke
+Warren Goldfarb
+Sandra Laugier
+Sabina Lovibond
+John McDowell
+Colin McGinn
+Marie McGinn
+D. Z. Phillips
+Rupert Read
+Barry Stroud
+Stephen Toulmin
+Michael Williams
+Crispin Wright
+
+
+
+
+
+
+
+
+
+Other topics
+
+
+Cambridge Apostles
+
+Cambridge University
+Moral Sciences Club
+
+New Wittgenstein
+Stonborough House
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Logical atomism is a philosophical belief that originated in the early 20th century with the development of analytic philosophy. Its principal exponents were the British philosopher Bertrand Russell, the early work of his Austrian-born pupil and colleague Ludwig Wittgenstein, and his German counterpart Rudolf Carnap.[1]
+The theory holds that the world consists of ultimate logical "facts" (or "atoms") that cannot be broken down any further. Having originally propounded this stance in his Tractatus Logico-Philosophicus, Wittgenstein rejected it in his later Philosophical Investigations (secs. 46–49, 91 and sec. 81).
+The name for this kind of theory was coined in 1918 by Russell in response to what he called "logical holism"—i.e., the belief that the world operates in such a way that no part can be known without the whole being known first.[2] This belief is commonly called monism, and in particular, Russell (and G. E. Moore) were reacting to the absolute idealism dominant then in Britain and exemplified in works of F. H. Bradley and J. M. E. McTaggart.[2]
+
+
+
+Contents
+
+
+1 Origin
+2 Principles
+
+2.1 Russell's principles
+2.2 Wittgenstein's principles
+2.3 Differences between Russell's and Wittgenstein's atomism
+
+
+3 Influence and decline
+4 See also
+5 References
+6 External links
+
+
+
+Origin[edit]
+The term was first coined in a 1911 essay by Russell entitled "The Basis of Realism." However, it became widely known only when Russell gave a series of lectures in 1918 entitled "The Philosophy of Logical Atomism". Russell was much influenced by Ludwig Wittgenstein, as an introductory note explicitly acknowledges.
+Russell and Moore broke themselves free from British Idealism which, for nearly 90 years, had dominated British philosophy. Russell would later recall in "My Mental Development"[3] that "with a sense of escaping from prison, we allowed ourselves to think that grass is green, that the sun and stars would exist if no one was aware of them".
+Principles[edit]
+Russell referred to his atomistic doctrine as contrary to the tier "of the people who more or less follow Hegel" (PLA 178).
+The first principle of logical atomism is that the World contains "facts". The facts are complex structures consisting of objects ("particulars"). This he defines as "objects' relations in terms of atomic facts" (PLA 199) is a fact, either from an object with a simple property or from different objects, in relation to each other more easily. In addition, there are judgments ("beliefs"), which are in a relationship to the facts, and by this relationship either true or false.
+According to this theory, even ordinary objects of daily life "are apparently complex entities". According to Russell, words like "this" and "that" are used to denote particulars. In contrast, ordinary names such as "Socrates" actually are definitive descriptions. In the analysis of "Plato talks with his pupils", "Plato" needs to be replaced with something like "the man who was the teacher of Aristotle".
+In 1905, Russell had already criticized Alexius Meinong, whose theories led to the paradox of the simultaneous existence and non-existence of fictional objects. This theory of descriptions was crucial to logical atomism, as Russell believed that language mirrored reality.
+Russell's principles[edit]
+Bertrand Russell's theory of logical atomism consists of three interworking parts: the atomic proposition, the atomic fact, and the atomic complex. An atomic proposition, also known as an elemental judgement, is a fundamental statement describing a single entity. Russell refers to this entity as an atomic fact, and recognizes a range of elements within each fact that he refers to as particulars and universals. A particular denotes a signifier such as a name, many of which may apply to a single atomic fact, while a universal lends quality to these particulars, e.g. color, shape, disposition. In Russell's Theory of Acquaintance, awareness of these particulars and universals comes through sense data. Every system consists of many atomic propositions and their corresponding atomic facts, known together as an atomic complex. In respect to the nomenclature that Russell used for his theory, these complexes are also known as molecular facts in that they possess many atoms. Rather than decoding the complex in a top-down manner, logical atomism analyzes its propositions individually before considering their collective effect. According to Russell, the atomic complex is a product of human thought and ideation that combines the various atomic facts in a logical manner.
+Russell's perspective on belief proved a point of contention between him and Wittgenstein, causing it to shift throughout his career. In logical atomism, belief is a complex that possesses both true and untrue propositions. Initially, Russell plotted belief as the special relationship between a subject and a complex proposition. Later, he amended this to say that belief lacks a proposition, and instead associates with universals and particulars directly. Here, the link between psychological experience – sense data – and components of logical atomism – universals and particulars – causes a breach in the typical logic of the theory; Russell’s logical atomism is in some respects defined by the crossover of metaphysics and analytical philosophy, which characterizes the field of naturalized epistemology.[4]
+In his theory of Logical Atomism, Russell posited the highly controversial idea that for every positive fact exists a parallel negative fact: a fact that is untrue. The correspondence theory maintains that every atomic proposition coordinates with exactly one atomic fact, and that all atomic facts exist. The Theory of Acquaintance says that for any given statement taking the form of an atomic proposition, we must be familiar with the assertion it makes. For example, in the positive statement, “the leaf is green,” we must be acquainted with the atomic fact that the leaf is green, and we know that this statement corresponds to exactly this one fact. Along this same line, the complementary negative statement, “the leaf is not green," is clearly false given what we know about the color of the leaf, but our ability to form a statement of this nature means that a corresponding fact must exist. Regardless of whether the second statement is or isn't true, the connection between its proposition and a fact must itself be true. One central doctrine of Logical Atomism, known as the Logically Perfect Language Principle, enables this conclusion. This principle establishes that everything exists as atomic proposition and fact, and that all language signifies reality. In Russell’s viewpoint, this necessitates the negative fact, whereas Wittgenstein maintained the more conventional Principle of Bivalence, in which the states "P" and "Not (P)" cannot coexist.
+Wittgenstein's principles[edit]
+In his Tractatus Logico-Philosophicus, Ludwig Wittgenstein explains his version of logical atomism as the relationship between proposition, state of affairs, object, and complex, often referred to as “Picture theory”.[5] In view of Russell’s version, the propositions are congruent in that they are both not convoluted statements about an atomic entity. Every atomic proposition is constructed from “names” that correspond to “objects”, and the interaction of these objects generate “states of affairs,” which are analogous to what Russell called atomic facts. Where Russell identifies both particulars and universals, Wittgenstein amalgamates these into objects for the sake of protecting the truth-independence of his propositions; a self-contained state of affairs defines each proposition, and the truth of a proposition cannot be proven by the sharing or exclusion of objects between propositions. In Russell’s work, his concept of universals and particulars denies truth-independence, as each universal accounts for a specific set of particulars, and the exact matching of any two sets implies equality, difference implies inequality, and this acts as a qualifier of truth. In Wittgenstein’s theory, an atomic complex is a layered proposition subsuming many atomic propositions, each representing its own state of affairs.
+Wittgenstein's handling of belief was dismissive and reflects his abstention from the epistemology that concerned Russell. Because his theory dealt with understanding the nature of reality, and because any item or process of the mind barring positive fact, i.e. something absolute and without interpretation, may become altered and thus divorced from reality, belief exists as a sign of reality but not reality itself. Wittgenstein was decidedly skeptical of epistemology, which tends to value unifying metaphysical ideas while depreciating the casewise and methodological inspection of philosophy that dominates his Tractatus Logico-Philosophicus.[6] Furthermore, Wittgenstein concerned himself with defining the exact correspondence between language and reality wherein any explanation of reality that defies or overburdens these semantic structures, namely metaphysics, becomes unhinged. Wittgenstein’s work bears the exact philosophical determinants that he openly admonished, hence his later abandonment of this theory altogether.
+Differences between Russell's and Wittgenstein's atomism[edit]
+At the time Russell delivered his lectures on logical atomism, he had lost contact with Wittgenstein. After World War I, Russell met with Wittgenstein again and helped him publish the Tractatus Logico Philosophicus, Wittgenstein's own version of Logical Atomism.
+Although Wittgenstein did not use the expression Logical Atomism, the book espouses most of Russell's logical atomism except for Russell's Theory of Knowledge (T 5.4 and 5.5541). By 1918 Russell had moved away from this position. Nevertheless, the Tractatus differed so fundamentally from the philosophy of Russell that Wittgenstein always believed that Russell misunderstood the work.[citation needed]
+The differences relate to many details, but the crucial difference is in a fundamentally different understanding of the task of philosophy. Wittgenstein believed that the task of philosophy was to clean up linguistic mistakes. Russell was ultimately concerned with establishing sound epistemological foundations. Epistemological questions such as how practical knowledge is possible did not interest Wittgenstein. Wittgenstein investigated the "limits of the world" and later on meaning. For Wittgenstein, metaphysics and ethics were nonsensical, though he did not mean to devalue their importance in life by describing them in this way. Russell, on the other hand, believed that these subjects, particularly ethics, though belonging not to philosophy nor science and of possessing an inferior epistemological foundation, were of certain interest.
+Influence and decline[edit]
+The immediate effect of the Tractatus was enormous, particularly by the reception it received by the Vienna Circle. However, it is now claimed by many contemporary analytic philosophers, that the Vienna Circle misunderstood certain sections of the Tractatus. The indirect effect of the method, however, was perhaps even greater long-term, especially on Logical Positivism. Like Russell, Wittgenstein eventually rejected Logical Atomism. This rejection culminated in the posthumously published book, Philosophical Investigations.
+See also[edit]
+
+Logical positivism
+Philosophy of language
+Logic
+Ordinary language philosophy
+Theory of descriptions
+"On Denoting"
+
+References[edit]
+
+
+
+^ Carnap, R. (1934), "On the Character of Philosophic Problems (Über den Charakter der philosophischen Probleme)," translation by W. M. Malisoff, Philosophy of Science, 1, pp. 5–19.
+^ a b Zalta, Edward N. (ed.). "Russell's Logical Atomism". Stanford Encyclopedia of Philosophy. 
+^ Russell B., (1944) "My Mental Development", in Schilpp, Paul Arthur: The Philosophy of Betrand Russell, New York, Tudor, 1951, pp. 3–20.
+^ Kitchener, Richard F. (2004). "Bertrand Russell's Flirtation with Behaviorism". Behaviorism and Philosophy. 
+^ "Wittgenstein, Ludwig | Internet Encyclopedia of Philosophy". www.iep.utm.edu. Retrieved 2015-12-14. 
+^ Temelini, Michael (2015). Wittgenstein and The Study of Politics, Chapter 3 – Wittgenstein's Method of Perspicuous Representation. Toronto/Buffalo/London: University of Toronto Press. pp. 68–94. ISBN 978-1-4426-4633-9.  External link in |title= (help)
+
+
+
+External links[edit]
+
+Logical atomism at PhilPapers
+Logical atomism at the Indiana Philosophy Ontology Project
+"Russell's Metaphysics". Internet Encyclopedia of Philosophy. 
+Peter Schulte: Bertrand Russell: Philosophie des Logischen Atomismus
+Kevin Klement: Russell's Logical Atomism
+Ian Proops: Wittgenstein's Logical Atomism
+Jeff Speaks: Russell on logical constructions and logical atomism, McGill University 2004
+Logical Atomism Overview: [1]
+Lecture on Bertrand Russell at Wheaton College: [2]
+Lecture on Ludwig Wittgenstein at Wheaton College: [3]
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophical logic
+
+
+
+Critical thinking and
+informal logic
+
+
+
+Analysis
+Ambiguity
+Argument
+Belief
+Bias
+Credibility
+Evidence
+Explanation
+Explanatory power
+Fact
+Fallacy
+Inquiry
+Opinion
+Parsimony (Occam's razor)
+Premise
+Propaganda
+Prudence
+Reasoning
+Relevance
+Rhetoric
+Rigor
+Vagueness
+
+
+
+
+
+Theories of deduction
+
+
+
+Constructivism
+Dialetheism
+Fictionalism
+Finitism
+Formalism
+Intuitionism
+Logical atomism
+Logicism
+Nominalism
+Platonic realism
+Pragmatism
+Realism
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Computable knowledge
+
+
+
+Topics and
+concepts
+
+
+
+Alphabet of human thought
+Authority control
+Automated reasoning
+Commonsense knowledge
+Commonsense reasoning
+Computability
+Formal system
+Inference engine
+Knowledge base
+Knowledge-based systems
+Knowledge engineering
+Knowledge extraction
+Knowledge representation
+Knowledge retrieval
+Library classification
+Logic programming
+Ontology
+Personal knowledge base
+Question answering
+Semantic reasoner
+
+
+
+
+
+Proposals and
+implementations
+
+
+
+Zairja
+Ars Magna (1300)
+An Essay towards a Real Character, and a Philosophical Language (1688)
+Calculus ratiocinator and characteristica universalis (1700)
+Dewey Decimal Classification (1876)
+Begriffsschrift (1879)
+Mundaneum (1910)
+Logical atomism (1918)
+Tractatus Logico-Philosophicus (1921)
+Hilbert's program (1920s)
+Incompleteness theorem (1931)
+World Brain (1938)
+Memex (1945)
+General Problem Solver (1959)
+Prolog (1972)
+Cyc (1984)
+Semantic Web (2001)
+Evi (2007)
+Wolfram Alpha (2009)
+Watson (2011)
+Siri (2011)
+Knowledge Graph (2012)
+Wikidata (2012)
+Cortana (2014)
+Viv (2016)
+
+
+
+
+
+In fiction
+
+
+
+The Engine (Gulliver's Travels, 1726)
+Joe ("A Logic Named Joe", 1946)
+The Librarian (Snow Crash, 1992)
+Dr. Know (A.I. Artificial Intelligence, 2001)
+Waterhouse (The Baroque Cycle, 2003)
+
+See also: Logic machines in fiction and List of fictional computers
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of language
+
+
+
+Philosophers
+
+
+
+Plato (Cratylus)
+Gorgias
+Confucius
+Xunzi
+Aristotle
+Stoics
+Pyrrhonists
+Scholasticism
+Ibn Rushd
+Ibn Khaldun
+Thomas Hobbes
+Gottfried Wilhelm Leibniz
+Johann Herder
+Ludwig Noiré
+Wilhelm von Humboldt
+Fritz Mauthner
+Paul Ricœur
+Ferdinand de Saussure
+Gottlob Frege
+Franz Boas
+Paul Tillich
+Edward Sapir
+Leonard Bloomfield
+Zhuangzi
+Henri Bergson
+Lev Vygotsky
+Ludwig Wittgenstein
+
+Philosophical Investigations
+Tractatus Logico-Philosophicus
+
+
+Bertrand Russell
+Rudolf Carnap
+Jacques Derrida
+
+Of Grammatology
+Limited Inc
+
+
+Benjamin Lee Whorf
+Gustav Bergmann
+J. L. Austin
+Noam Chomsky
+Hans-Georg Gadamer
+Saul Kripke
+A. J. Ayer
+G. E. M. Anscombe
+Jaakko Hintikka
+Michael Dummett
+Donald Davidson
+Roger Gibson
+Paul Grice
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Hilary Putnam
+David Lewis
+John Searle
+Joxe Azurmendi
+Scott Soames
+Stephen Yablo
+John Hawthorne
+Stephen Neale
+Paul Watzlawick
+
+
+
+
+
+Theories
+
+
+
+Causal theory of reference
+Contrast theory of meaning
+Contrastivism
+Conventionalism
+Cratylism
+Deconstruction
+Descriptivist theory of names
+Direct reference theory
+Dramatism
+Expressivism
+Linguistic determinism
+Logical atomism
+Logical positivism
+Mediated reference theory
+Nominalism
+Non-cognitivism
+Phallogocentrism
+Quietism
+Relevance theory
+Semantic externalism
+Semantic holism
+Structuralism
+Supposition theory
+Symbiosism
+Theological noncognitivism
+Theory of descriptions
+Verification theory
+
+
+
+
+
+Concepts
+
+
+
+Ambiguity
+Linguistic relativity
+Meaning
+Language
+Truth-bearer
+Proposition
+Use–mention distinction
+Concept
+Categories
+Set
+Class
+Intension
+Logical form
+Metalanguage
+Mental representation
+Principle of compositionality
+Property
+Sign
+Sense and reference
+Speech act
+Symbol
+Entity
+Sentence
+Statement
+more...
+
+
+
+
+
+Related articles
+
+
+
+Analytic philosophy
+Philosophy of information
+Philosophical logic
+Linguistics
+Pragmatics
+Rhetoric
+Semantics
+Formal semantics
+Semiotics
+
+
+
+
+
+
+
+
+Category
+Task Force
+Discussion
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Analytic philosophy
+
+
+
+Philosophers
+
+
+
+J. L. Austin
+A. J. Ayer
+G. E. M. Anscombe
+Nick Bostrom
+Robert Brandom
+C. D. Broad
+Patricia Churchland
+David Chalmers
+Noam Chomsky
+James F. Conant
+Alice Crary
+Donald Davidson
+Daniel Dennett
+Cora Diamond
+Michael Dummett
+Paul Feyerabend
+Antony Flew
+Bas van Fraassen
+Gottlob Frege
+Jerry Fodor
+Philippa Foot
+Peter Geach
+Paul Grice
+Ian Hacking
+R. M. Hare
+Carl Gustav Hempel
+Peter van Inwagen
+Christine Korsgaard
+Saul Kripke
+Thomas Kuhn
+David Lewis
+Alasdair MacIntyre
+J. L. Mackie
+Norman Malcolm
+John McDowell
+G. E. Moore
+Ernest Nagel
+Thomas Nagel
+Robert Nozick
+Derek Parfit
+Alvin Plantinga
+Karl Popper
+Hilary Putnam
+W. V. O. Quine
+John Rawls
+Hans Reichenbach
+Richard Rorty
+Bertrand Russell
+Gilbert Ryle
+Moritz Schlick
+John Searle
+Wilfrid Sellars
+Peter Singer
+Richard Swinburne
+Charles Taylor
+Michael Walzer
+Bernard Williams
+Timothy Williamson
+Ludwig Wittgenstein
+
+
+
+
+
+Theories
+
+
+
+Actualism
+Analytical feminism
+Analytical Marxism
+Anti-realism
+Berlin Circle
+Descriptivist theory of names
+Emotivism
+Functional contextualism
+Linguistic turn
+Logical positivism
+Modal realism
+Model-dependent realism
+Neopragmatism
+Neurophilosophy
+Ordinary language philosophy
+Postanalytic philosophy
+Pragmatic theory of truth
+Verificationism
+Vienna Circle
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+Causal / Deductive / epistemic closure
+Concept
+Counterfactual
+Denotation / reference
+Definite description
+Factive
+Family resemblance
+Intuition
+Meaning (Proposition)
+Modality
+Natural kind / projectability
+Necessary–sufficient conditions
+Paradox of analysis
+Possible world
+Reduction
+Reflective equilibrium
+Rigid–flaccid designators
+Sense data
+Supervenience
+Thought experiment
+Truth function
+Truthmaker
+Truth-bearer
+Type–token distinction
+
+
+
+
+
+Related articles
+
+
+
+Aretaic turn
+Australian realism
+Communitarianism
+Ordinary language philosophy
+Philosophical logic
+Philosophy of language
+Philosophy of science
+Postanalytic philosophy
+
+
+
+
+
+
+
+
+ Index
+ Category
+
+
+
+
+
+
+
+
+
+
+Categories: Bertrand RussellTheories of languageTheories of deductionMetaphysical theoriesHidden categories: CS1 errors: external linksArticles needing additional references from January 2008All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from September 2011

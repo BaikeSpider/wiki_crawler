@@ -1,0 +1,1455 @@
+方差分析
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。（2011年2月11日） 
+请邀请适合的人士改善本条目。更多的细节与详情请参见讨论页。 
+
+
+
+
+
+
+
+
+
+
+
+方差分析或变方分析（Analysis of variance，简称ANOVA）为数据分析中常见的统计模型，主要为探讨连续型（Continuous）资料型态之因变量（Dependent variable）与类别型资料型态之自变量（Independent variable）的关系，当自变项的因子中包含等于或超过三个类别情况下，检定其各类别间平均数是否相等的统计模式，广义上可将T检定中方差相等（Equality of variance）的合并T检定（Pooled T-test）视为是方差分析的一种，基于T检定为分析两组平均数是否相等，并且采用相同的计算概念，而实际上当方差分析套用在合并T检定的分析上时，产生的F值则会等于T检定的平方项。
+方差分析依靠F-分布为概率分布的依据，利用平方和（Sum of square）与自由度（Degree of freedom）所计算的组间与组内均方（Mean of square）估计出F值，若有显著差异则考量进行事后比较（英语：Post-hoc analysis）或称多重比较（Multiple comparison），较常见的为Scheffé's method（英语：Scheffé's method）、Tukey-Kramer method（英语：Tukey-Kramer method）与Bonferroni correction，用于探讨其各组之间的差异为何。
+在方差分析的基本运算概念下，依照所感兴趣的因子数量而可分为单因子方差分析、双因子方差分析、多因子方差分析三大类，依照因子的特性不同而有三种型态，固定效应方差分析（fixed-effect analysis of variance）、随机效应方差分析（random-effect analysis of variance）与混合效应方差分析（Mixed-effect analaysis of variance），然而第三种型态在后期发展上被认为是Mixed model的分支，关于更进一步的探讨可参考Mixed model的部分。
+方差分析优于两组比较的T检定之处，在于后者会导致多重比较（multiple comparisons）的问题而致使第一型错误（Type one error）的机会增高，因此比较多组平均数是否有差异则是方差分析的主要命题。
+在统计学中，方差分析（ANOVA）是一系列统计模型及其相关的过程总称，其中某一变量的方差可以分解为归属于不同变量来源的部分。其中最简单的方式中，方差分析的统计测试能够说明几组数据的平均值是否相等，因此得到两组的T检定。在做多组双变量T检定的时候，错误的概率会越来越大，特别是第一型错误，因此方差分析只在二到四组平均值的时候比较有效。
+
+
+
+目录
+
+
+1 背景和名称
+2 ANOVA的模式型态
+
+2.1 固定效应模式（Fixed-effects models）
+2.2 随机效应模式（Random-effects models）
+2.3 混合效应模式（Mixed-effects models）
+
+
+3 ANOVA的模式假设
+
+3.1 2. Random-effect
+3.2 双因子方差分析（Two-way ANOVA）
+
+3.2.1 1. Fixed-effect
+3.2.2 2. Random-effect
+3.2.3 3. Mixed-effect
+
+
+3.3 多因子方差分析（Factorial ANOVA）
+3.4 重复测量方差分析（Repeated measure ANOVA）
+3.5 共变数分析（ANCOVA）
+3.6 多变量方差分析（MANOVA）
+
+
+4 事后检定
+5 相关条目
+6 参考文献
+7 延伸阅读
+8 外部链接
+
+
+
+背景和名称[编辑]
+方差分析（ANOVA）是一种特殊形式的统计假设检定，广泛应用于实验数据的分析中。统计假设检定是一种根据数据进行决策的方法。测试结果（通过零假设进行计算）如果不仅仅是因为运气，则在统计学上称为显著。统计显著的结果（当可能性的p值小于临界的“显著值”）则可以推翻零假设。
+在方差分析的经典应用中，原假设是假设所有数据组都是整体测试对象的完全随机抽样。这说明所有方法都有相同效果（或无效果）。推翻原假设说明不同的方法，会得到不同的效果。在操作中，假设测试限定I类型错误（假阳性导致的假科学论断）达到某一具体的值。实验者也希望II型错误（假阴性导致的缺乏科学发现）有限。II型错误受到多重因素作用，例如取样范围（很可能与试验成本有关），相关度（当实验标准高的时候，忽视发现的可能性也大）和效果范围（当对一般观察者来说效果明显，II型错误发生率就低）。
+ANOVA的模式型态[编辑]
+方差分析分为三种型态：
+固定效应模式（Fixed-effects models）[编辑]
+用于方差分析模型中所考虑的因子为固定的情况，换言之，其所感兴趣的因子是来自于特定的范围，例如要比较五种不同的汽车销售量的差异，感兴趣的因子为五种不同的汽车，反应变数为销售量，该命题即限定了特定范围，因此模型的推论结果也将全部着眼在五种汽车的销售差异上，故此种状况下的因子便称为固定效应。
+随机效应模式（Random-effects models）[编辑]
+不同于固定效应模式中的因子特定性，在随机效应中所考量的因子是来自于所有可能的母群体中的一组样本，因子方差分析所推论的并非着眼在所选定的因子上，而是推论到因子背后的母群体，例如，借由一间拥有全部车厂种类的二手车公司，从所有车厂中随机挑选5种车厂品牌，用于比较其销售量的差异，最后推论到这间二手公司的销售状况。因此在随机效应模型下，研究者所关心的并非局限在所选定的因子上，而是希望借由这些因子推论背后的母群体特征。
+混合效应模式（Mixed-effects models）[编辑]
+此种混合效应绝对不会出现在单因子方差分析中，当双因子或多因子方差分析同时存在固定效应与随机效应时，此种模型便是典型的混合型模式。
+ANOVA的模式假设[编辑]
+方差分析之统计分析假设通常会依照各种模式型态不同而有差异，但广义而言，方差分析一共有三大前提假设：
+1.各组样本背后所隐含的族群分布必须为正态分布或者是逼近正态分布。
+2.各组样本必须独立。
+3.族群的方差必须相等。
+总变量（TSS）：
+
+
+
+
+∑
+
+i
+
+
+
+∑
+
+j
+
+
+(
+
+Y
+
+i
+j
+
+
+−
+
+
+
+Y
+¯
+
+
+
+t
+o
+t
+a
+l
+
+
+
+)
+
+2
+
+
+
+
+{\displaystyle \sum _{i}\sum _{j}(Y_{ij}-{\overline {Y}}_{total})^{2}}
+
+
+i为组别（i=1,2...,I），j为观测值个数（j=1,2,3,...,J），
+
+
+
+
+Y
+
+i
+j
+
+
+
+
+{\displaystyle Y_{ij}}
+
+为第i组第j个观测值，
+
+
+
+
+
+
+Y
+¯
+
+
+
+t
+o
+t
+a
+l
+
+
+
+
+{\displaystyle {\overline {Y}}_{total}}
+
+为所有观测值的平均数。
+组间变异量（BSS）：
+
+
+
+
+∑
+
+i
+
+
+
+n
+
+i
+
+
+(
+
+
+
+Y
+¯
+
+
+
+i
+
+
+−
+
+
+
+Y
+¯
+
+
+
+t
+o
+t
+a
+l
+
+
+
+)
+
+2
+
+
+
+
+{\displaystyle \sum _{i}n_{i}({\overline {Y}}_{i}-{\overline {Y}}_{total})^{2}}
+
+
+
+
+
+
+
+n
+
+i
+
+
+
+
+{\displaystyle n_{i}}
+
+为i组内观测值总数，
+
+
+
+
+
+
+Y
+¯
+
+
+
+i
+
+
+
+
+{\displaystyle {\overline {Y}}_{i}}
+
+为第i组的平均数
+组内变异量（WSS）：
+
+
+
+
+∑
+
+i
+
+
+
+∑
+
+j
+
+
+(
+
+Y
+
+i
+j
+
+
+−
+
+
+
+Y
+¯
+
+
+
+i
+
+
+
+)
+
+2
+
+
+
+
+{\displaystyle \sum _{i}\sum _{j}(Y_{ij}-{\overline {Y}}_{i})^{2}}
+
+
+由上述的计算公式可知，BSS代表所有观测值的期望值与分组后各组内的期望值差异，换言之，当各组的期望值没有差异的时候，BSS=0，这个时候我们会认为各组间平均值就没有差异存在，但并不代表所有观测值的一致性也会很高，因此计算WSS来帮助我们判断所有期望值的差异量多寡，当WSS=0的情况，代表各组内的所有观测值与各组的期望值没有差异存在，因此只有WSS与BSS都为0情况下，我们才能断定所有观测值达到完美的一致，然而当WSS>0, BSS=0的情况，则是各组期望值达到一致，但组内却存在变异，WSS=0, BSS>0，则是组内没有变异存在，但各组间却存在差异，然后真实状况不可能如此极端，因此必须比较WSS与BSS的差异来判断方差分析的结果，也就是各组期望值是否有差异存在。而这个部分在比较变异量的过程中，必须考量到各组变易量会受到观测数量与组别数量的多寡而有所差异，因此必须进行自由度的调整，也就是计算出均方值来比较组内变异与组间变异量。
+组间均方BMSS（between means sum of squares）：
+
+
+
+
+
+
+B
+S
+S
+
+
+k
+−
+1
+
+
+
+
+
+{\displaystyle {\frac {BSS}{k-1}}}
+
+ = 
+
+
+
+
+
+
+
+∑
+
+i
+
+
+
+n
+
+i
+
+
+(
+
+
+
+Y
+¯
+
+
+
+i
+
+
+−
+
+
+
+Y
+¯
+
+
+
+t
+o
+t
+a
+l
+
+
+
+)
+
+2
+
+
+
+
+k
+−
+1
+
+
+
+
+
+{\displaystyle {\frac {\sum _{i}n_{i}({\overline {Y}}_{i}-{\overline {Y}}_{total})^{2}}{k-1}}}
+
+
+组内均方WMSS（within means sum of squares）：
+
+
+
+
+
+
+W
+S
+S
+
+
+N
+−
+k
+
+
+
+
+
+{\displaystyle {\frac {WSS}{N-k}}}
+
+ = 
+
+
+
+
+
+
+
+∑
+
+i
+
+
+
+∑
+
+j
+
+
+(
+
+Y
+
+i
+j
+
+
+−
+
+
+
+Y
+¯
+
+
+
+i
+
+
+
+)
+
+2
+
+
+
+
+N
+−
+k
+
+
+
+
+
+{\displaystyle {\frac {\sum _{i}\sum _{j}(Y_{ij}-{\overline {Y}}_{i})^{2}}{N-k}}}
+
+
+其中k为组别数量，N为观测值总数。两个均方值的比较为
+
+
+
+
+
+
+B
+M
+S
+S
+
+
+W
+M
+S
+S
+
+
+
+
+
+{\displaystyle {\frac {BMSS}{WMSS}}}
+
+
+此比较值也就是目前惯称的F检定值，F越大，则组间均方大于组内均方，也就是组间变异量大于组内变异量，各组间的差异远超出总期望值离差，代表各组的平均数存在明显的差异，相反的，F越小甚至于逼近于0，则是组间变异量小于组内变异量，代表各组间的差异很小，各组平均数则不存在明显的差异。整个分析概念中，受到方差分析所规范的族群的方差必须相等的条件下，组内变异量成为了基准，因此组间变异量的多寡就成了判定方差分析结论的重要数值，然而F值仅为提供判断虚拟假设存在的可能性，为了方便下结论，由alpha值决定可容许的错误判断概率为5%，因此F值所计算的虚拟假设概率值若小于0.05，则下定论为各组存在差异，其隐含的意义则是否定了各组间无差异的概率，也就是容许了各组无差异可能成真的错误判断概率，因为判断错误的概率太小而能容许，但并不代表不可能判断错误，因此任何F检定的结果均只能下定论为达到统计上的意义，而非绝对意义。
+2. Random-effect[编辑]
+虽然在单因子方差分析中有随机效应的存在，但运算上与Fixed-effect并无太大差异，其F检定的结果相同，唯一的差别是在于均方期望值上。
+双因子方差分析（Two-way ANOVA）[编辑]
+在许多情境下，某现象并非仅受单一因子的影响，甚至存在另一个因子的效应，例如要比较五个都市的空气污染总指标差异，除了都市别的因素之外，还必须考量汽机车密度的因素，在这样的情境下，都市别与汽机车密度可能就存在着某种效应影响着空气污染的多寡，因此在双因子方差分析中，除了考量双因子彼此的效应之外，也可能存在因子之间的联合效应，也就是因子间的交互作用（interaction），这也使得双因子方差分析变的比较复杂。
+1. Fixed-effect[编辑]
+延续单因子方差分析的基本概念，双因子方差分析也能将总变异量分解成双因子的主效应与双因子的联合效应，还有表示误差项的组内差异量，为了简化问题，其下列的计算均表示为各组间样本数一致的情况下，其线性关系为TSS=ASS+BSS+WSS+ABSS。
+总变异量（TSS）：
+
+
+
+
+∑
+
+i
+
+
+
+∑
+
+j
+
+
+
+∑
+
+z
+
+
+(
+
+Y
+
+i
+j
+z
+
+
+−
+
+
+
+Y
+¯
+
+
+
+t
+o
+t
+a
+l
+
+
+
+)
+
+2
+
+
+
+
+{\displaystyle \sum _{i}\sum _{j}\sum _{z}(Y_{ijz}-{\overline {Y}}_{total})^{2}}
+
+
+A因子的主效应（ASS）：
+
+
+
+n
+b
+
+∑
+
+i
+
+
+(
+
+
+
+Y
+¯
+
+
+
+i
+
+
+−
+
+
+
+Y
+¯
+
+
+
+t
+o
+t
+a
+l
+
+
+
+)
+
+2
+
+
+
+
+{\displaystyle nb\sum _{i}({\overline {Y}}_{i}-{\overline {Y}}_{total})^{2}}
+
+ 其均方AMSS为：
+
+
+
+
+
+
+A
+S
+S
+
+
+a
+−
+1
+
+
+
+
+
+{\displaystyle {\frac {ASS}{a-1}}}
+
+
+B因子的主效应（BSS）：
+
+
+
+n
+a
+
+∑
+
+j
+
+
+(
+
+
+
+Y
+¯
+
+
+
+j
+
+
+−
+
+
+
+Y
+¯
+
+
+
+t
+o
+t
+a
+l
+
+
+
+)
+
+2
+
+
+
+
+{\displaystyle na\sum _{j}({\overline {Y}}_{j}-{\overline {Y}}_{total})^{2}}
+
+ 其均方BMSS为：
+
+
+
+
+
+
+B
+S
+S
+
+
+b
+−
+1
+
+
+
+
+
+{\displaystyle {\frac {BSS}{b-1}}}
+
+
+AB因子的交互作用（ABSS）：
+
+
+
+n
+
+∑
+
+i
+
+
+
+∑
+
+j
+
+
+(
+
+
+
+Y
+¯
+
+
+
+i
+j
+
+
+−
+
+
+
+Y
+¯
+
+
+
+i
+
+
+−
+
+
+
+Y
+¯
+
+
+
+j
+
+
++
+
+
+
+Y
+¯
+
+
+
+t
+o
+t
+a
+l
+
+
+
+)
+
+2
+
+
+
+
+{\displaystyle n\sum _{i}\sum _{j}({\overline {Y}}_{ij}-{\overline {Y}}_{i}-{\overline {Y}}_{j}+{\overline {Y}}_{total})^{2}}
+
+ 其均方ABMSS为：
+
+
+
+
+
+
+A
+B
+S
+S
+
+
+(
+a
+−
+1
+)
+(
+b
+−
+1
+)
+
+
+
+
+
+{\displaystyle {\frac {ABSS}{(a-1)(b-1)}}}
+
+
+组内差异量（WSS）：
+
+
+
+
+∑
+
+i
+
+
+
+∑
+
+j
+
+
+
+∑
+
+z
+
+
+(
+
+Y
+
+i
+j
+z
+
+
+−
+
+
+
+Y
+¯
+
+
+
+i
+j
+
+
+
+)
+
+2
+
+
+
+
+{\displaystyle \sum _{i}\sum _{j}\sum _{z}(Y_{ijz}-{\overline {Y}}_{ij})^{2}}
+
+ 其均方WMSS为：
+
+
+
+
+
+
+W
+S
+S
+
+
+a
+b
+(
+n
+−
+1
+)
+
+
+
+
+
+{\displaystyle {\frac {WSS}{ab(n-1)}}}
+
+
+在F检定中，由于考虑的双因子的个别主效应与交互作用，因此会出现三个检定方向，其一为A因子检定、B因子检定与交互作用的检定。
+A因子的F检定为：
+
+
+
+
+
+
+A
+M
+S
+S
+
+
+W
+M
+S
+S
+
+
+
+
+
+{\displaystyle {\frac {AMSS}{WMSS}}}
+
+
+B因子的F检定为：
+
+
+
+
+
+
+B
+M
+S
+S
+
+
+W
+M
+S
+S
+
+
+
+
+
+{\displaystyle {\frac {BMSS}{WMSS}}}
+
+
+交互作用的F检定为：
+
+
+
+
+
+
+A
+B
+M
+S
+S
+
+
+W
+M
+S
+S
+
+
+
+
+
+{\displaystyle {\frac {ABMSS}{WMSS}}}
+
+
+互作用不显著的情况，才会考虑依照各别因子主效应的检定结果做为双因子方差分析的结论。
+2. Random-effect[编辑]
+3. Mixed-effect[编辑]
+多因子方差分析（Factorial ANOVA）[编辑]
+重复测量方差分析（Repeated measure ANOVA）[编辑]
+共变数分析（ANCOVA）[编辑]
+多变量方差分析（MANOVA）[编辑]
+事后检定[编辑]
+当方差分析检定结果呈现统计显著，代表反应变数的平均值在与所感兴趣的因子有差异存在，因此事后检定用于进一步探讨其反应变数的平均数差异为何。在其事后检定的统计发展上有不少各具特色的方法，至今仍然陆续有新方法发表，但其运算理念都大同小异，都是为了修正第一型误差因为多重比较而出现上升的状况。较常用的为Bonferroni、Tukey、Duncan、Scheffé四种，其余方法如下所列：
+
+Bonferroni T tests
+土其范围检定(Tukey's range test)
+丹肯新多重范围检定(Duncan's new multiple range test)
+Dunnett's two-tailed test
+Dunnett's one-tailed test
+Gabriel's multiple-comparison procedure
+雷文检定(Levene's test)
+Waller-Duncan test
+Ryan-Einot-Gabriel-Welsch multiple range test
+Scheffé's multiple-comparison procedure
+Student-Newman-Keuls multiple range test
+Fisher's least-significant-difference test
+Waller-Duncan K-ratio T test
+
+相关条目[编辑]
+
+假设检定
+方差分析测试
+Total sum of squares（英语：Total sum of squares）
+单因子方差分析（One Way ANOVA）
+
+参考文献[编辑]
+
+
+Anscombe, F. J. The Validity of Comparative Experiments. Journal of the Royal Statistical Society. Series A (General). 1948, 111 (3): 181–211. JSTOR 2984159. MR 30181. doi:10.2307/2984159. 
+Bailey, R. A. Design of Comparative Experiments. Cambridge University Press. 2008. ISBN 978-0-521-68357-9.  Pre-publication chapters are available on-line.
+Belle, Gerald van. Statistical rules of thumb 2nd. Hoboken, N.J: Wiley. 2008. ISBN 978-0-470-14448-0. 
+Cochran, William G.; Cox, Gertrude M. Experimental designs 2nd. New York: Wiley. 1992. ISBN 978-0-471-54567-5. 
+Cohen, Jacob (1988). Statistical power analysis for the behavior sciences (2nd ed.). Routledge ISBN 978-0-8058-0283-2
+Cohen, Jacob. Statistics a power primer. Psychology Bulletin. 1992, 112 (1): 155–159. PMID 19565683. doi:10.1037/0033-2909.112.1.155. 
+Cox, David R. (1958). Planning of experiments. Reprinted as ISBN 978-0-471-57429-3
+Cox, D. R. Principles of statistical inference. Cambridge New York: Cambridge University Press. 2006. ISBN 978-0-521-68567-2. 
+Freedman, David A.(2005). Statistical Models: Theory and Practice, Cambridge University Press. ISBN 978-0-521-67105-7
+Gelman, Andrew. Analysis of variance? Why it is more important than ever. The Annals of Statistics. 2005, 33: 1–53. doi:10.1214/009053604000001048. 
+Gelman, Andrew. Variance, analysis of. The new Palgrave dictionary of economics 2nd. Basingstoke, Hampshire New York: Palgrave Macmillan. 2008. ISBN 978-0-333-78676-5. 
+Hinkelmann, Klaus & Kempthorne, Oscar. Design and Analysis of Experiments. I and II Second. Wiley. 2008. ISBN 978-0-470-38551-7. 
+Howell, David C. Statistical methods for psychology 5th. Pacific Grove, CA: Duxbury/Thomson Learning. 2002. ISBN 0-534-37770-X. 
+Kempthorne, Oscar. The Design and Analysis of Experiments Corrected reprint of (1952) Wiley. Robert E. Krieger. 1979. ISBN 0-88275-105-0. 
+Lehmann, E.L. (1959) Testing Statistical Hypotheses. John Wiley & Sons.
+Montgomery, Douglas C. Design and Analysis of Experiments 5th. New York: Wiley. 2001. ISBN 978-0-471-31649-7. 
+Moore, David S. & McCabe, George P. (2003). Introduction to the Practice of Statistics (4e). W H Freeman & Co. ISBN 978-0-7167-9657-2
+Rosenbaum, Paul R. (2002). Observational Studies (2nd ed.). New York: Springer-Verlag. ISBN 978-0-387-98967-9
+Scheffé, Henry. The Analysis of Variance. New York: Wiley. 1959. 
+Stigler, Stephen M. The history of statistics : the measurement of uncertainty before 1900. Cambridge, Mass: Belknap Press of Harvard University Press. 1986. ISBN 0-674-40340-1. 
+Wilkinson, Leland. Statistical Methods in Psychology Journals; Guidelines and Explanations. American Psychologist. 1999, 54 (8): 594–604. doi:10.1037/0003-066X.54.8.594. 
+
+
+延伸阅读[编辑]
+
+
+Box, G. E. P. Non-Normality and Tests on Variances. Biometrika (Biometrika Trust). 1953, 40 (3/4): 318–335. JSTOR 2333350. 
+Box, G. E. P. Some Theorems on Quadratic Forms Applied in the Study of Analysis of Variance Problems, I. Effect of Inequality of Variance in the One-Way Classification. The Annals of Mathematical Statistics. 1954, 25 (2): 290. doi:10.1214/aoms/1177728786. 
+doi:10.1214/aoms/1177728717
+本引用来源将会在数十分钟后自动完成。您可以检查英文对应模板或手动扩充
+Caliński, Tadeusz & Kageyama, Sanpei. Block designs: A Randomization approach, Volume I: Analysis. Lecture Notes in Statistics 150. New York: Springer-Verlag. 2000. ISBN 0-387-98578-6. 
+Christensen, Ronald. Plane Answers to Complex Questions: The Theory of Linear Models Third. New York: Springer. 2002. ISBN 0-387-95361-2. 
+Cox, David R. & Reid, Nancy M. (2000). The theory of design of experiments. (Chapman & Hall/CRC). ISBN 978-1-58488-195-7
+Fisher, Ronald. Studies in Crop Variation. I. An examination of the yield of dressed grain from Broadbalk (PDF). Journal of Agricultural Science. 1918, 11: 107–135. （原始内容 (PDF)存档于2005-11-17）. 
+Freedman, David A.; Pisani, Robert; Purves, Roger (2007) Statistics, 4th edition. W.W. Norton & Company ISBN 978-0-393-92972-0
+Hettmansperger, T. P.; McKean, J. W. Edward Arnold, 编. Robust nonparametric statistical methods. Kendall's Library of Statistics. Volume 5 First. New York: John Wiley & Sons, Inc. 1998: xiv+467 pp. ISBN 0-340-54937-8. MR 1604954. 
+Lentner, Marvin; Thomas Bishop. Experimental design and analysis Second. P.O. Box 884, Blacksburg, VA 24063: Valley Book Company. 1993. ISBN 0-9616255-2-X.  引文使用过时参数coauthor (帮助)
+Tabachnick, Barbara G. & Fidell, Linda S. (2007). Using Multivariate Statistics (5th ed.). Boston: Pearson International Edition. ISBN 978-0-205-45938-4
+Wichura, Michael J. The coordinate-free approach to linear models. Cambridge Series in Statistical and Probabilistic Mathematics. Cambridge: Cambridge University Press. 2006: xiv+199. ISBN 978-0-521-86842-6. MR 2283455. 
+
+
+外部链接[编辑]
+
+
+
+维基学院中的相关学习资源：
+
+方差分析
+
+
+
+
+
+方差分析在线计算
+SOCR ANOVA Activity and interactive applet.
+Examples of all ANOVA and ANCOVA models with up to three treatment factors, including randomized block, split plot, repeated measures, and Latin squares, and their analysis in R
+NIST/SEMATECH e-Handbook of Statistical Methods, section 7.4.3: "Are the means equal?"
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+试验设计
+
+
+
+
+
+
+科学方法
+
+
+
+科学实验
+统计设计
+控制
+内部效度 & 外部效度
+Experimental unit
+双盲实验
+
+
+Optimal design: Bayesian
+Random assignment
+Randomization
+Restricted randomization
+Replication versus subsampling
+Sample size
+
+
+
+
+
+
+
+
+实验
+& 阻塞
+
+
+
+Treatment
+效应值
+Contrast
+Interaction
+Confounding
+正交
+Blocking
+Covariate
+Nuisance variable
+
+
+
+
+
+
+
+
+概率模型
+& 推论统计学
+
+
+
+线性回归
+Ordinary least squares
+Bayesian
+
+
+Random effect
+Mixed model
+等级线性模型: 贝氏网络
+
+
+ANOVA
+Cochran's theorem
+Manova (multivariate)
+Ancova (covariance)
+
+
+Compare means
+Multiple comparison
+
+
+
+
+
+
+
+
+试验设计:
+
+完全随机设计
+
+
+
+Factorial
+Fractional factorial
+Plackett-Burman
+田口方法
+
+
+反应曲面法
+Polynomial & rational modeling
+Box-Behnken
+Central composite
+
+
+Block
+Generalized randomized block design (GRBD)
+拉丁方阵
+希腊拉丁方阵
+Orthogonal array
+拉丁超立方
+Repeated measures design
+Crossover study
+
+
+随机对照试验
+Sequential analysis
+Sequential probability ratio test
+
+
+
+
+
+
+
+
+
+
+
+Glossary
+实验设计分类
+概率与统计
+Statistical outline
+Statistical topics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+统计学
+
+
+
+
+
+
+描述统计学
+
+
+
+
+
+连续概率
+
+
+
+
+
+
+集中趋势
+
+
+平均数（平方 · 算术 · 几何 · 调和 · 算术-几何 · 几何-调和 · 希罗|平均数不等式） · 中位数 · 众数
+
+
+
+
+
+
+
+离散程度
+
+
+全距 · 标准差 · 变异系数 · 百分位数 · 四分差 · 四分位数 · 方差 · 标准分数 · 切比雪夫不等式
+
+
+
+
+
+
+
+分布形态（英语：Shape of the distribution）
+
+
+偏态 · 峰态
+
+
+
+
+
+
+
+
+
+
+离散概率
+
+
+次数（英语：Count data） · 列联表（英语：Contingency table）
+
+
+
+
+
+
+
+
+
+
+
+
+推论统计学
+和 假设检定
+
+
+
+
+
+推论统计学
+
+
+置信区间 · 区间估计（英语：Interval estimation） · 显著性差异 · 元分析 · 贝氏推论
+
+
+
+
+
+
+
+实验设计
+
+
+统计总量 · 抽样 · 重复（英语：Replication (statistics)） · 阻碍 · 特敏度 · 区集（英语：Blocking (statistics)）
+
+
+
+
+
+
+
+样本量（英语：Sample size）
+
+
+统计功效 · 效应值 · 标准误 · 虚无假设 · 对立假设（英语：Alternative hypothesis） · 第一型和第二型误差 · 统计检定力
+
+
+
+
+
+
+
+常规估计
+
+
+贝叶斯推论 · 区间估计（英语：Interval estimation） · 最大似然估计 · 最小距离估计（英语：Minimum distance estimation） · 矩量法 · 最大间距
+
+
+
+
+
+
+
+特效检验
+
+
+Z检验 · 学生t检验 · F检验 · 卡方检验 · Wald检验（英语：Wald test） · 曼-惠特尼检验（英语：Mann–Whitney U test） · 秩和检验
+
+
+
+
+
+
+
+生存分析
+
+
+生存函数 · 乘积极限估计量 · 对数秩和检定 · 失效率 · 危险比例模式
+
+
+
+
+
+
+
+
+
+相关及
+回归分析
+
+
+
+
+
+相关性
+
+
+混淆变项（英语：Confounding） · 皮尔森积差相关系数 · 等级相关（英语：Rank correlation） (史匹曼等级相关系数 · 肯德等级相关系数（英语：Kendall tau rank correlation coefficient）)
+
+
+
+
+
+
+
+线性回归
+
+
+线性模式（英语：Linear model） · 一般线性模式 · 广义线性模式 · 方差分析 · 协方差分析（英语：Analysis of covariance）
+
+
+
+
+
+
+
+非线性回归（英语：Nonlinear regression）
+
+
+非参数回归模型（英语：Nonparametric regression） · 半参数回归模型（英语：Semiparametric regression） · Logit模型
+
+
+
+
+
+
+
+
+
+统计图形
+
+饼图 · 条形图 · 双标图 · 箱形图 · 管制图 · 森林图（英语：Forest plot） · 直方圖 · QQ图 · 趋势图 · 散布图（英语：Scatter plot） · 茎叶图（英语：Stem-and-leaf display） · 雷达图（英语：Radar chart） · 示意地图
+
+
+
+
+
+
+
+
+
+分类
+主题
+共享资源
+ 专题
+
+
+
+
+
+
+
+
+
+
+
+
+分类：统计学隐藏分类：自2011年2月需要专业人士关注的页面包含未完成DOI引用来源的页面含有过时参数的引用的页面使用ISBN魔术链接的页面

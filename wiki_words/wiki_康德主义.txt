@@ -1,0 +1,97 @@
+康德义务主义
+
+
+
+
+
+本条目格式需要修正以符合格式手册。（2016年10月26日） 
+请协助添加相关的内部链接，并使用百科全书的语气来改善这篇条目。 
+
+
+
+
+
+
+
+本条目的内容翻译自英语维基百科，需要校对翻译。 
+如果您熟知条目内容及来源语言，并且中文流畅，欢迎您积极参与校对与修订，原文在en:Kantianism。 
+
+
+
+
+“康德”重定向至此。关于与此名称相似的其他条目，详见“康德 (消歧义)”。
+
+
+康德义务主义或康德主义（Kantianism）是由18世纪德国哲学家伊曼努尔·康德所提出有关人类道德义务的一套道德理论。康德义务主义时常用于当今的精神哲学、知识论以及伦理学。
+
+
+
+目录
+
+
+1 伦理学
+2 绝对命令公式
+3 参考资料
+4 参考书目
+
+
+
+伦理学[编辑]
+康德伦理 (Kantian Ethics)是属于义务伦理学，注重于责任，而非感情或结果。
+所有的行为应该遵照某种基础的原则 (maxim)，由此决定每个行为的道德标准。
+康德伦理创建于康德对于合理性的看法：极限程度的善行 (ultimate good)以及人类所拥有的理性。
+由此看法，康德建立了绝对命令来决定一个原则的善恶。
+透过思想实验来标准化一个原则：透过想像所有的人类都完全地遵守并执行该原则的后果，借此来判断该原则是否可接受。
+例如：“杀死所有干扰你的人”并将这个原则标准化，你将会杀死许多人，且许多人将会杀死更多的人，世界中所有人将会把所有人杀的一个都不剩。
+因此这个原则是无法执行且不合道德理论的。
+原则标准化(Universalizing a maxim)将会表示有效的原则，或者以下的矛盾：
+
+矛盾观念：当一个原则被标准化后，世事无法正常执行，因此世界将被终止。
+
+反之如果一个原则不被遵守而导致世界无法正常执行，我们有绝对责任 (perfect duty)。
+“不自杀”当所有人都不遵守，所有人都会死，因此我们有绝对责任来执行这个原则。
+
+矛盾意愿：当某人的原则标准化后，该原则并非其原本的意愿。
+
+矛盾意愿将带来 非绝对责任(imperfect duty)。
+“帮别人修车”并非所有人可以遵守这个原则，仅有汽车技师可以，因此这是非绝对责任，人类并非总是要遵守。
+
+康德主义注重于原则，用做事的理由批判一个人的行为的善恶。康德表示许多的常识符合他的理论。
+但他否认没有理由性行为是好的："没有理由的"救起溺水的人并非好的道德的行为。
+同时康德认为一个行为的结果不影响道德的标准，他的理由是：物质世界并不在人类的掌控之中，因此我们无法对已发生的事情负责。
+绝对命令公式[编辑]
+
+把原则当作世界的规律来遵守.[1]
+行动时对待人性的方式是，不论是自己或他人，绝对不把对待人性成只是一种手段，而永远要把对待人性当成是目的。[2]
+因此，所有理性的人必须把自己当作一位世界目标的立法委员来遵守原则。[3]
+
+参考资料[编辑]
+
+
+^ Kant, Immanuel; translated by James W. Ellington [1785]. Grounding for the Metaphysics of Morals 3rd ed.. Hackett. 1993: 30. ISBN 0-87220-166-X.  引文使用过时参数coauthors (帮助)
+^ Kant, Immanuel; translated by James W. Ellington [1785]. Grounding for the Metaphysics of 3rd ed.. Hackett. 1993: 36. ISBN 0-87220-166-X.  引文使用过时参数coauthors (帮助)
+^ Kant, Immanuel; translated by James W. Ellington [1785]. Grounding for the Metaphysics of Morals 3rd ed.. Hackett. 1993: 43. ISBN 0-87220-166-X.  引文使用过时参数coauthors (帮助)
+
+
+参考书目[编辑]
+
+Henry Allison (2004) Kant's transcendental Idealism (Yale University Press)
+Thomas Auxter (1982) Kant's Moral Teleology (Mercer University Press)
+Lewis White Beck (1960) A Commentary on Kant's Critique of Practical Reason (University of Chicago Press)
+R. Beiner and W.J. Booth (eds.) (1993) Kant and Political Philosophy (Yale University Press)
+Gary Banham (2000) Kant and the Ends of Aesthetics (Macmillan)
+Gary Banham (2000) "Teleology, Transcendental Reflection and Artificial Life" Tekhnehma: Journal of Philosophy and Technology Number 6.
+Gary Banham (2003) Kant's Practical Philosophy: From Critique to Doctrine (Palgrave Macmillan)
+Gary Banham (2006) Kant's Transcendental Imagination (Palgrave Macmillan)
+Howard Caygill (1989) Art of Judgment (Blackwell)
+Howard Caygill (1995) A Kant Dictionary (Blackwell)
+Mary Gregor (1963) Laws of Freedom: A Study of Kant's Method of Applying the Categorical Imperative in the Metaphysik Der Sitten (Basil Blackwell)
+Palmquist, Stephen. Kant's system of perspectives: an architectonic interpretation of the critical philosophy. Lanham: University Press of America. 1993. ISBN 9780819189271.  Online.
+Palmquist, Stephen. Kant's critical religion. Aldershot, Hants, England Burlington, Vermont: Ashgate. 2000. ISBN 9780754613336.  Online.
+John Rawls (2000) Lectures on the History of Moral Philosophy (Harvard University Press)
+
+
+
+
+
+分类：哲学流派哲学理论隐藏分类：含有过时参数的引用的页面自2016年10月需要维基化的页面需要校对的英语维基百科翻译页面

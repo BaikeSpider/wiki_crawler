@@ -1,0 +1,493 @@
+递归
+
+
+
+
+
+
+本条目存在以下问题，请协助改善本条目或在讨论页针对议题发表看法。
+
+
+
+
+
+
+本条目可参照英语维基百科相应条目来扩充。 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+
+
+
+
+本条目需要扩充。（2013年2月14日） 
+请协助改善这篇条目，更进一步的信息可能会在讨论页或扩充请求中找到。请在扩充条目后将此模板移除。 
+
+
+
+
+
+
+
+本条目需要编修，以确保文法、用词、语气、格式、标点等使用恰当。（2011年12月22日） 
+请按照校对指引，帮助编辑这个条目。（帮助、讨论） 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+此条目讲述的是递归的概念。关于另一部同名小说，参见递归 (小说)。关于计算机程序设计，参见递归 (计算机科学)。其他用法，参见递归 (消歧义)。
+
+
+
+
+
+
+德罗斯特效应是递归的一种视觉形式。图中女性手持的物体中有一幅她本人手持同一物体的小图片，进而小图片中还有更小的一幅她手持同一物体的图片，依此类推。
+
+
+递归（英语：Recursion），又译为递回，在数学与计算机科学中，是指在函数的定义中使用函数自身的方法。递归一词还较常用于描述以自相似方法重复事物的过程。例如，当两面镜子相互之间近似平行时，镜中嵌套的图像是以无限递归的形式出现的。也可以理解为自我复制的过程。
+
+
+
+目录
+
+
+1 语言例子
+2 正式定义
+3 计算机科学之应用
+4 数学之应用
+
+4.1 实例：自然数
+4.2 实例：可导出的命题集合
+4.3 有限次分区法
+
+
+5 参见
+6 参考文献
+
+6.1 脚注
+6.2 书目
+
+
+7 外部链接
+
+
+
+语言例子[编辑]
+从前有座山，山里有座庙，庙里有个老和尚，正在给小和尚讲故事呢！故事是什么呢？“从前有座山，山里有座庙，庙里有个老和尚，正在给小和尚讲故事呢！故事是什么呢？‘从前有座山，山里有座庙，庙里有个老和尚，正在给小和尚讲故事呢！故事是什么呢？……’”
+一只狗来到厨房，偷走一小块面包。厨子举起杓子，把那只狗打死了。于是所有的狗都跑来了，给那只狗掘了一个坟墓，还在墓碑上刻了墓志铭，让未来的狗可以看到：“一只狗来到厨房，偷走一小块面包。厨子举起杓子，把那只狗打死了。于是所有的狗都跑来了，给那只狗掘了一个坟墓，还在墓碑上刻了墓志铭，让未来的狗可以看到：‘一只狗来到厨房，偷走一小块面包。厨子举起杓子，把那只狗打死了。于是所有的狗都跑来了，给那只狗掘了一个坟墓，还在墓碑上刻了墓志铭，让未来的狗可以看到……’”
+正式定义[编辑]
+在数学和计算机科学中，递归指由一种（或多种）简单的基本情况定义的一类对象或方法，并规定其他所有情况都能被还原为其基本情况。
+例如，下列为某人祖先的递归定义：
+
+某人的双亲是他的祖先（基本情况）。
+某人祖先的双亲同样是某人的祖先（递归步骤）。
+
+斐波那契数列是典型的递归案例：
+
+
+
+
+
+
+F
+
+0
+
+
+=
+0
+
+
+{\displaystyle F_{0}=0}
+
+（初始值）
+
+
+
+
+
+F
+
+1
+
+
+=
+1
+
+
+{\displaystyle F_{1}=1}
+
+（初始值）
+对所有大于1的整数n：
+
+
+
+
+F
+
+n
+
+
+=
+
+F
+
+n
+−
+1
+
+
++
+
+F
+
+n
+−
+2
+
+
+
+
+{\displaystyle F_{n}=F_{n-1}+F_{n-2}}
+
+（递归定义）
+
+尽管有许多数学函数均可以递归表示，但在实际应用中，递归定义的高开销往往会让人望而却步。例如：
+
+
+
+
+
+0
+!
+=
+1
+
+
+{\displaystyle 0!=1}
+
+（初始值）
+对所有大于0的整数n：
+
+
+
+n
+!
+=
+n
+×
+(
+n
+−
+1
+)
+!
+
+
+{\displaystyle n!=n\times (n-1)!}
+
+（递归定义）
+
+一种便于理解的心理模型，是认为递归定义对对象的定义是按照“先前定义的”同类对象来定义的。例如：你怎样才能移动100个箱子？答案：你首先移动一个箱子，并记下它移动到的位置，然后再去解决较小的问题：你怎样才能移动99个箱子？最终，你的问题将变为怎样移动一个箱子，而这是你已经知道该怎么做的。
+如此的定义在数学中十分常见。例如，集合论对自然数的正式定义是：1是一个自然数，每个自然数都有一个后继，这一个后继也是自然数。
+以下是另一个可能更有利于理解递归过程的解释：
+
+我们已经完成了吗？如果完成了，返回结果。如果没有这样的终止条件，递归将会永远地继续下去。
+如果没有，则简化问题，解决较容易的问题，并将结果组装成原始问题的解决办法。然后返回该解决办法。
+
+这样就有一种更有趣的描述：“为了理解递归，则必须首先理解递归。”或者更准确地，按照安德鲁·普洛特金（英语：Andrew Plotkin）的解释：“如果你已经知道了什么是递归，只需记住答案。否则，找一个比你更接近侯世达的人；然后让他／她来告诉你什么是递归。”[1]
+数学中常见的以递归形式定义的案例参见函数、集合以及分形等。
+计算机科学之应用[编辑]
+主条目：递归 (计算机科学)
+递归经常被用于解决计算机科学的问题。在一些编程语言（如Scheme、Haskell中），递归是进行循环的一种方法。
+举例： 编写一个程序使用递归求n的阶乘
+
+
+fac 0 = 1
+fac n = n * fac (n-1)
+
+main = print( fac 10 )
+
+数学之应用[编辑]
+
+
+
+
+谢尔宾斯基三角形-由封闭递归的三角形所形成之碎形
+
+
+递归定义集
+主条目：递归定义
+实例：自然数[编辑]
+关于递归定义集的经典示例，可通过自然数来说明
+The canonical example of a recursively defined set is given by the natural numbers:
+
+0 属于自然数 
+
+
+
+
+N
+
+
+
+{\displaystyle \mathbb {N} }
+
+
+若 n 属于 
+
+
+
+
+N
+
+
+
+{\displaystyle \mathbb {N} }
+
+， 则 n + 1 亦属于 
+
+
+
+
+N
+
+
+
+{\displaystyle \mathbb {N} }
+
+
+满足上述两个条件之最小集合，即为自然数集合
+
+实例：可导出的命题集合[编辑]
+另一个有趣示例为，公理系统中，所有可导出命题之集合
+
+若一个命题为公理，则其为可导出之命题
+通过推理规则方式，若一个命题可以从可导出之命题所推论，则其为可导出之命题
+满足上述条件之最小集合，为可导出之命题之集合
+
+此集合称为，可导出之命题之集合，因为在数学基础方法中，依非创建性法构建的命题之集合，可能大于由公理系统及推理规则所递归构建出之集合，详细请参见 哥德尔不完备定理
+有限次分区法[编辑]
+主条目：Finite subdivision rule
+有限次分区法为几何形式之递归，可用以创建类碎形之图案。次分区原则的运作如后所述，从多个已被有限个标签标注的多边形开始，接着每个多边形仅根据其标签，继续细切到更小的多边形，此一细切的过程可不断重复。
+参见[编辑]
+
+分形
+差分
+递归关系式
+塔珀自指公式
+
+参考文献[编辑]
+脚注[编辑]
+
+^ 原文：“If you already know what recursion is, just remember the answer. Otherwise, find someone who is standing closer to Douglas Hofstadter than you are; then ask him or her what recursion is.”
+
+书目[编辑]
+
+Johnsonbaugh, Richard. Discrete Mathematics. Prentice Hall. 2004. ISBN 0-13-117686-2. 
+Hofstadter, Douglas. Gödel, Escher, Bach: an Eternal Golden Braid. Basic Books. 1999. ISBN 0-465-02656-7. 
+Shoenfield, Joseph R. Recursion Theory. A K Peters Ltd. 2000. ISBN 1-56881-149-7. 
+Causey, Robert L. Logic, Sets, and Recursion. Jones & Bartlett. 2001. ISBN 0-7637-1695-2. 
+Cori, Rene; Lascar, Daniel; Pelletier, Donald H. Recursion Theory, Godel's Theorems, Set Theory, Model Theory. Oxford University Press. 2001. ISBN 0-19-850050-5. 
+Barwise, Jon; Moss, Lawrence S. Vicious Circles. Stanford Univ Center for the Study of Language and Information. 1996. ISBN 0-19-850050-5.  - offers a treatment of corecursion.
+Rosen, Kenneth H. Discrete Mathematics and Its Applications. McGraw-Hill College. 2002. ISBN 0-07-293033-0. 
+Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, Clifford Stein. Introduction to Algorithms. Mit Pr. 2001. ISBN 0-262-03293-7. 
+Kernighan, B.; Ritchie, D. The C programming Language. Prentice Hall. 1988. ISBN 0-13-110362-8. 
+Stokey, Nancy,; Robert Lucas; Edward Prescott. Recursive Methods in Economic Dynamics. Harvard University Press. 1989. ISBN 0674750969. 
+
+外部链接[编辑]
+
+Recursion - tutorial by Alan Gauld
+A Primer on Recursion- contains pointers to recursion in Formal Languages, Linguistics, Math and Computer Science
+Google easter for recursion
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+分形
+
+
+
+
+
+
+特性
+
+
+
+分形维数
+
+豪斯多夫维数
+拓扑维数
+计盒维数
+
+
+递归
+自相似
+
+
+
+
+Barnsley fern（英语：Barnsley fern）
+
+
+
+
+
+
+迭代函数系统
+
+
+
+巴恩斯利蕨叶（英语：Barnsley fern）
+康托尔集
+龙形曲线
+科赫雪花
+门格海绵
+谢尔宾斯基地毯
+谢尔宾斯基三角形
+空间填充曲线（英语：Space-filling curve）
+T型方间（英语：T-square (fractal)）
+魏尔斯特拉斯函数
+单峰镜像
+莱维C形曲线
+希尔伯特曲线
+
+
+
+
+
+
+
+
+奇异吸子
+
+
+
+多重分形系统（英语：Multifractal system）
+
+
+
+
+
+
+
+
+L系统
+
+
+
+空间填充曲线（英语：Space-filling curve）
+H树
+
+
+
+
+
+
+
+
+逃逸时间分形
+
+
+
+燃烧巨轮分形（英语：Burning Ship fractal）
+朱利亚集合
+李亚普诺夫分形（英语：Lyapunov fractal）
+曼德博集合
+牛顿分形（英语：Newton fractal）
+
+
+
+
+
+
+
+
+随机分形
+
+
+
+布朗运动
+布朗树（英语：Brownian tree）
+扩散限制凝聚（英语：Diffusion-limited aggregation）
+分形地形（英语：Fractal landscape）
+莱维飞行（英语：Lévy flight）
+逾渗理论（英语：Percolation theory）
+自避行走（英语：Self-avoiding walk）
+
+
+
+
+
+
+
+
+学者
+
+
+
+格奥尔格·康托尔
+费利克斯·豪斯多夫
+加斯东·朱利亚（英语：Gaston Julia）
+海里格·冯·科赫
+保罗·皮埃尔·莱维
+亚历山大·李亚普诺夫
+本华·曼德博
+刘易斯·弗雷·理查森（英语：Lewis Fry Richardson）
+瓦茨瓦夫·谢尔宾斯基
+
+
+
+
+
+
+
+
+其他相关
+
+
+
+“英国的海岸线有多长？”
+
+海岸悖论（英语：Coastline paradox）
+
+
+以豪斯多夫维数排列分形列表（英语：List of fractals by Hausdorff dimension）
+分形压缩
+仿射变换
+
+
+
+
+
+
+
+
+
+
+
+
+分类：数理逻辑计算理论隐藏分类：需要从英语维基百科翻译的条目自2013年2月扩充中的条目自2011年12月需要校对的页面含有多个问题的条目

@@ -1,0 +1,72 @@
+Causal closure
+Physical causal closure is a metaphysical theory about the nature of causation in the physical realm with significant ramifications in the study of metaphysics and the mind. In a strongly stated version, the physical causal closure says that "all physical states have pure physical causes" — Jaegwon Kim,[1] or that "physical effects have only physical causes" — Agustin Vincente, p. 150.[2]
+Those who accept the physical causal closure tend to think that all entities that exist are physical entities (physicalists), but not necessarily. As Karl Popper says, "The physicalist principle of closedness of the physical ... is of decisive importance and I take it as the characteristic principle of physicalism or materialism."[3]
+
+
+
+Contents
+
+
+1 Definition
+2 Importance
+3 Criticism
+
+3.1 Ignoring phenomena
+3.2 Fallacious
+3.3 Trivial
+
+
+4 See also
+5 References
+
+
+
+Definition[edit]
+The physical causal closure has stronger and weaker formulations.[4]
+The stronger formulations of the physical causal closure assert that "No physical event has a cause outside the physical domain." — Jaegwon Kim.[1] That is, the stronger formulations assert that for physical events, causes other than physical causes do not exist. (Physical events that are not causally determined may be said to have their objective chances of occurrence determined by physical causes.)[5]
+Weaker forms of the physical causal closure state that "Every physical event has a physical cause." — Barbara Montero,[4] or that "Every physical effect (that is, caused event) has physical sufficient causes" — Agustin Vincente,[2] (According to Vincente, a number of caveats have to be observed, among which is the postulate that "physical entities" are entities postulated by a true theory of physics, a theory of which we are ignorant today, and that such a true theory "will not include mental (or in general, dubious) concepts" (Note 5, p. 168).[2]) or that "if we trace the causal ancestry of a physical event we need never go outside the physical domain." — Jaegwon Kim.[1] Weaker forms of the physical causal closure are synonymous with the causal completeness,[6] the notion that "Every physical effect that has a sufficient cause has a sufficient physical cause."[5] That is, weaker forms of the physical causal closure allow that in addition to physical causes, there may be other kinds of causes for physical events.
+The notion of reductionism supplements the physical causal closure with the claim that all events ultimately can be reduced to physical events. Under these circumstances, mental events are a subset of physical events and caused by them.[7]
+Importance[edit]
+The physical causal closure is especially important when considering dualist theories of mind. If no physical event has a cause outside the physical realm, it would follow that non-physical mental events would be causally impotent in the physical world. However, as Kim has agreed, it seems intuitively problematic to strip mental events of their causal power.[1] Only epiphenomenalists would agree that mental events do not have causal power, but epiphenomenalism is objectionable to many philosophers. One way of maintaining the causal powers of mental events is to assert token identity non-reductive physicalism—that mental properties supervene on neurological properties. That is, there can be no change in the mental without a corresponding change in the physical. Yet this implies that mental events can have two causes (physical and mental), a situation which apparently results in overdetermination (redundant causes), and denies the strong physical causal closure.[1] Kim argues that if the strong physical causal closure argument is correct, the only way to maintain mental causation is to assert type identity reductive physicalism—that mental properties are neurological properties.[7]
+Criticism[edit]
+The validity of the physical causal closure has long been debated.[8] In modern times, it has been pointed out that science is based on removing the subject from investigations, and by seeking objectivity. This outsider status for the observer, a third-person perspective, is said by some philosophers to have automatically severed science from the ability to examine subjective issues like consciousness and free will.[9][10][11] A different attack upon the physical causal closure discussed by Hodgson is to claim science itself does not support the physical causal closure.[12] Some philosophers have criticized the argument for the physical causal closure by supporting teleology and mental-to-physical causation via a soul.[13]
+Ignoring phenomena[edit]
+There seem prima facie to be irreducible purpose-based (or teleological) explanations of some natural phenomena. For instance, the movement of a writer's fingers on the keyboard and a reader's eyes across the screen is irreducibly explained in reference to the goal of writing an intelligible sentence or of learning about the physical causal closure arguments, respectively. On the face of it, an exclusively non-teleological (descriptive) account of the neurological and biological features of hand movement and eye movement misses the point. To say, "I am moving my fingers because my brain signals are triggering muscle motion in my arms" is true, but does not exhaustively explain all the causes. Both are causes. In Aristotelian terms, a neurological account explains the efficient cause, while the purpose-based account explains the final cause.[14]
+The physical causal closure thesis challenges this account. It attempts to reduce all teleological final (and formal) causes to efficient causes. Goetz and Taliaferro urge that this challenge is unjustified, partly because it would imply that the real cause of arguing for the physical causal closure is neurobiological activity in the brain, not (as we know it is) the purpose-based attempt to understand the world and explain it to others.
+Fallacious[edit]
+One way of clarifying the physical causal closure argument is to add a premise specifying that there are no irreducible teleological causes. This, of course, is the attempted conclusion of the argument. Putting the conclusion as one of the premises of the argument is formally valid, but fallacious (begging the question). It is no more sound than the argument that "I believe in the Bible because it is the written word of God through his prophets. Obviously, God would not lie to his prophets. After all, the Bible says so."[citation needed]
+Trivial[edit]
+Another way of clarifying the physical causal closure argument is to specify that "Every physical effect [that has a physical cause] has a physical cause." But this is a tautology, and therefore true but trivial, like the statement "Every angel that has wings is an angel that has wings" or "Every white male who is bald is a bald white male."[citation needed]
+See also[edit]
+
+Antireductionism
+Epiphenomenalism
+Physical determinism
+Reductionism
+
+References[edit]
+
+
+
+^ a b c d e Jaegwon Kim (1993). Supervenience and Mind: Selected Philosophical Essays. Cambridge University Press. p. 280. ISBN 0521439965. 
+^ a b c Vicente, A. (2006). "On the Causal Completeness of Physics" (PDF). International Studies in the Philosophy of Science. 20: 149–171. doi:10.1080/02698590600814332. 
+^ Popper and Eccles, Karl (1977). The Self and its Brain. New York: Springer. p. 51. ISBN 0415058988. 
+^ a b Barbara Montero (2003). "Chapter 8: Varieties of causal closure". In Sven Walter; Heinz-Dieter Heckmann. Physicalism and Mental Causation: The Metaphysics of Mind and Action. Imprint Academic. pp. 173 ff. ISBN 0907845460. 
+^ a b Sahotra Sarkar; Jessica Pfeifer (2006). "Physicalism: The causal impact argument". Physicalism. The Philosophy of Science: N-Z, Index. Taylor & Francis. p. 566. ISBN 041597710X. 
+^ Max Velmans; Susan Schneider (15 April 2008). The Blackwell Companion to Consciousness. John Wiley & Sons. ISBN 978-0-470-75145-9. Retrieved 6 February 2013. 
+^ a b Jaegwon Kim (1989). "The Myth of Non-Reductive Materialism". Proceedings and Addresses of the American Philosophical Association. 63 (3): 31–47. doi:10.2307/3130081. 
+^ Benjamin Libet; Anthony Freeman; Keith Sutherland (2000). "Editors' introduction: The volitional brain". The Volitional Brain: Towards a Neuroscience of Free Will. Academic. pp. ix–xxii. ISBN 9780907845119. 
+^ > FT Hong (2005). Vladimir B. Bajić; Tin Wee Tan, eds. Information Processing and Living Systems. Imperial College Press. p. 388. ISBN 9781860946882. The origination of free will is an illusion from the third-person perspective. However, it is a reality from the first-person perspective... 
+^ > Thomas Nagel (2012). "Chapter 4: Cognition". Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False. Oxford University Press. p. 71. ISBN 9780199919758. [Higher-level cognitive capacities] cannot be understood through physical science alone, and..their existence cannot be explained by a version of evolutionary theory that is physically reductive. 
+^ U Mohrhoff (2000). "The physics of interactionism". In Benjamin Libet; Anthony Freeman; Keith Sutherland. The Volitional Brain: Towards a Neuroscience of Free Will. Academic. p. 166. ISBN 9780907845119. But the laws of physics presuppose causal closure...Hence it follows that the behaviour of matter in the presence of a causally efficacious non-material mind cannot be fully governed by those laws. 
+^ David Hodgson (2012). "Chapter 7: Science and determinism". Rationality + Consciousness = Free Will. Oxford University Press. ISBN 9780199845309.  Hodgson relies upon the free will theorem1,2 of scientists John Conway and Simon Kochen based upon the role of the observer in quantum mechanics, which supports the view that "belief in determinism may thus come to be seen as notably unscientific." (p. 121)
+^ Stewart Goetz; Charles Taliaferro (2008). "Strict naturalism, purposeful explanation, and freedom". Naturalism (Intervensions) (Paperback ed.). Eerdmans. p. 26. ISBN 0802807682. 
+^ Falcon, Andrea. "Aristotle on Causality". Stanford Encyclopedia of Philosophy. Stanford. Retrieved 2014-03-10. 
+
+
+
+
+
+
+
+Categories: CausalityConcepts in metaphysicsMetaphysics of mindDualism (philosophy of mind)PhysicalismHidden categories: All articles with unsourced statementsArticles with unsourced statements from December 2016

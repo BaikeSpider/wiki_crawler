@@ -1,0 +1,175 @@
+结构 (数理逻辑)
+在数学学科模型论中，语言 
+
+
+
+
+
+L
+
+
+
+
+{\displaystyle {\mathcal {L}}}
+
+ 的结构 
+
+
+
+
+
+A
+
+
+
+
+{\displaystyle {\mathfrak {A}}}
+
+(也叫做 '
+
+
+
+
+
+L
+
+
+
+
+{\displaystyle {\mathcal {L}}}
+
+-结构'，并通常写为哥特体大写)是一个有序对，它的第一个成员是论域或全集 
+
+
+
+
+
+A
+
+
+ 
+
+
+{\displaystyle {\mathit {A}}\ }
+
+ (对应于可能带有定义在其上的关系和函数的集合，并通常写为相应于结构名字的罗马体大写)，它的第二个成员是一个释义 
+
+
+
+
+
+I
+
+
+
+
+{\displaystyle {\mathcal {I}}}
+
+，就是 
+
+
+
+
+
+L
+
+
+
+
+{\displaystyle {\mathcal {L}}}
+
+ 的一个偏函数，它完全定义在 
+
+
+
+
+
+L
+
+
+
+
+{\displaystyle {\mathcal {L}}}
+
+ 的非逻辑符号之上，使得 
+
+
+
+
+
+L
+
+
+
+
+{\displaystyle {\mathcal {L}}}
+
+ 的常量符号对应于 
+
+
+
+
+
+A
+
+
+ 
+
+
+{\displaystyle {\mathit {A}}\ }
+
+ 上的元素，如果有的话；
+
+
+
+
+
+L
+
+
+
+
+{\displaystyle {\mathcal {L}}}
+
+ 的函数符号对应于 
+
+
+
+
+
+A
+
+
+ 
+
+
+{\displaystyle {\mathit {A}}\ }
+
+ 上的函数，如果有的话；而 
+
+
+
+
+
+L
+
+
+
+
+{\displaystyle {\mathcal {L}}}
+
+ 的关系符号对应于 
+
+
+
+
+
+A
+
+
+ 
+
+
+{\displaystyle {\mathit {A}}\ }
+
+ 上的关系；如果有的话。

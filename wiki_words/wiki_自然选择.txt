@@ -1,0 +1,386 @@
+自然选择
+
+
+
+
+
+本条目需要扩充。（2008年2月19日） 
+请协助改善这篇条目，更进一步的信息可能会在讨论页或扩充请求中找到。请在扩充条目后将此模板移除。 
+
+
+
+
+“物竞天择”重定向至此。关于电子游戏模组，详见“物竞天择 (游戏)”。
+
+
+
+
+
+
+加拉巴哥群岛（Galápagos Islands）拥有13个雀鸟物种（Darwin's finches），他们相当亲近，主要的特征差异在于鸟喙的形状。不同种类的鸟喙皆与合适于它们的食性。达尔文认为，这是自然选择造成的演化后果。
+
+
+自然选择（英语：natural selection，传统上也译为天择）指生物的遗传特征在生存竞争中，由于具有某种优势或某种劣势，因而在生存能力上产生差异，并进而导致繁殖能力的差异，使得这些特征被保存或是淘汰。自然选择则是演化的主要机制，经过自然选择而能够称成功生存，称为“适应”。自然选择是唯一可以解释生物适应环境的机制。
+这个理论最早是由达尔文在1859年出版的《物种起源》中提出，其于早年在加拉巴哥群岛观察了数种动物后发现，岛上很少有与邻近大陆相似的物种，并且还演化出许多独有物种，如巨型的加拉巴哥象龟，达尔文于开始以为，岛上的鸴鸟应与南美洲发现的为同种，经研究，十三种燕雀中只有一种是与其大陆近亲类似的，其余皆或多或少发生了演化现象，他们为了适应岛上的生存环境，改变了鸟喙的大小。
+
+
+
+目录
+
+
+1 自然选择的因素
+2 类别
+3 单位
+4 参考文献
+5 延伸阅读
+6 外部链接
+
+
+
+自然选择的因素[编辑]
+因为生物族群呈指数成长，但资源有限，因此不是每个个体都能存活。影响存活率的因素包括无机环境，如温度、湿度、日照、空气；以及生物因子，如掠食者、共生、种内竞争、食物、疾病等等。个体之间存在的个体差异（变异）使每个个体的存活率不同，如果个体可以耐干旱、在空中飞、在海里呼吸、用爪子掠食、抵抗病原、制造工具、或是合作猎食等等，就会有不同的适应力，因此个体间的存活率不同。这些个体差异如果可以遗传，则会造成演化。
+类别[编辑]
+
+
+
+
+定向选择、平衡选择和破坏选择。横轴是性状，纵轴是个体数量。红线代表原本的性状分布，蓝色是选择后的结果。
+
+
+
+定向选择（Directional selection）：往某一方向偏离平均的个体存活率最高，例如较白的北极熊毛。
+平衡选择（Balancing selection）：性状位在中间的个体存活率最高，例如大小适中的鹿角。
+破坏选择（Disruptive selection）：性状位在中间的个体存活率最低，例如环境中有黑色和白色石头时，灰色的蛾无保护色。可能导致种化。
+
+性择和生殖选择和人择有时被视为广意的自然选择的次分类。狭义的自然选择（又称生态选择）指个体在自然环境中存活率的差异，性择是取得交配对象的能力差异，而生殖选择则是交配后生育后代的数目差异。人工选择则将自然选择概念应用在受人类圈养的生物上，例如家畜、宠物与农作物的育种。
+单位[编辑]
+最容易观察到的自然选择是作用在个体上，依据个体之间性状的不同。
+因为是基因带有个体的大多数资讯并且能自我复制，George C. Williams和理察·道金斯主张以基因为单位的演化观点。个体只是基因为了自我复制所制造的“机器”。这种观点在解释转座子和亲缘选择上较为方便。
+在癌症的例子中，基因突变造成细胞的性状差异，引发在细胞层次的自然选择。
+自然选择作用在族群上时，称为族群选择（group selection）。族群选择在自然界中的普遍程度仍有争议。
+自然选择也可能运作在物种的层次。当一个物种中的不同族群因为自然选择而产生生物分类学上的差异时，则称为“物种形成”；若是族群因为不受自然选择青睐而导致族群规模缩小进而消失，则称为“灭绝”，物种形成和灭绝的速率决定一个支系的适应力。
+参考文献[编辑]
+
+延伸阅读[编辑]
+
+For technical audiences
+
+
+Gould, Stephen Jay. The Structure of Evolutionary Theory. Harvard University Press. 2002. ISBN 0-674-00613-5. 
+Maynard Smith, John. The Theory of Evolution: Canto Edition. Cambridge University Press. 1993. ISBN 0-521-45128-0. 
+Popper, Karl (1978) Natural selection and the emergence of mind. Dialectica 32:339-55. See [1]
+Sober, Elliott (1984) The Nature of Selection: Evolutionary Theory in Philosophical Focus. University of Chicago Press.
+Williams, George C. (1966) Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought. Oxford University Press.
+Williams, George C. (1992) Natural Selection: Domains, Levels and Challenges. Oxford University Press.
+
+
+For general audiences
+
+
+Dawkins, Richard (1996) Climbing Mount Improbable. Penguin Books, ISBN 978-0-670-85018-1.
+Dennett, Daniel (1995) Darwin's Dangerous Idea: Evolution and the Meanings of Life. Simon & Schuster ISBN 978-0-684-82471-0.
+Gould, Stephen Jay (1997) Ever Since Darwin: Reflections in Natural History. Norton, ISBN 978-0-393-06425-4.
+Jones, Steve (2001) Darwin's Ghost: The Origin of Species Updated. Ballantine Books ISBN 978-0-345-42277-4. Also published in Britain under the title Almost Like a Whale: The Origin of Species Updated. Doubleday. ISBN 978-1-86230-025-5.
+Lewontin, Richard (1978) Adaptation. Scientific American 239:212-30
+Mayr, Ernst (2001) What Evolution Is. Weidenfeld & Nicolson, London. ISBN 978-0-297-60741-0
+Weiner, Jonathan (1994) The Beak of the Finch: A Story of Evolution in Our Time. Vintage Books, ISBN 978-0-679-73337-9.
+
+
+Historical
+
+
+Zirkle, C. Natural Selection before the "Origin of Species. Proceedings of the American Philosophical Society. 1941, 84 (1): 71–123. 
+Kohm M (2004) A Reason for Everything: Natural Selection and the English Imagination. London: Faber and Faber. ISBN 978-0-571-22392-3. For review, see [2] van Wyhe J (2005) Human Nature Review 5:1-4
+
+外部链接[编辑]
+
+On the Origin of Species by Charles Darwin – Chapter 4, Natural Selection
+Natural Selection- Modeling for Understanding in Science Education, University of Wisconsin
+Natural Selection from University of Berkeley education website
+T. Ryan Gregory: Understanding Natural Selection: Essential Concepts and Common Misconceptions Evolution: Education and Outreach
+ENCODE threads explorer Impact of functional information on understanding variation. Nature (journal)
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+演化生物学
+
+
+
+
+
+
+
+
+
+共同起源
+演化的证据
+生命演化历程
+生命进化史（英语：Evolutionary history of life）
+
+
+
+
+
+
+
+
+进化过程
+
+
+
+自然发生
+生命起源
+适应
+宏演化
+微演化
+物种形成
+灭绝
+多态性
+适应
+
+
+
+
+
+
+
+
+
+
+
+群体遗传学机制
+
+
+
+基因流动
+遗传漂变
+突变
+自然选择
+性选择
+族群选择
+亲属选择
+
+
+
+
+
+
+
+
+演化发育生物学机制
+
+
+
+渠道导向（英语：Canalisation (genetics)）
+反演（英语：Inversion (evolutionary biology)）
+模块化（英语：modularity (biology)）
+表型的可塑性（英语：Phenotypic plasticity）
+
+
+
+
+
+
+
+
+类群的演化
+
+
+
+鸟类（英语：Evolution of birds）
+腕足动物（英语：Evolutionary history of brachiopods）
+头足纲（英语：Evolutionary history of cephalopods）
+恐龙
+鱼类（英语：Evolution of fish）
+真菌（英语：Evolution of fungi）
+昆虫（英语：Evolution of insects）
+
+蝴蝶（英语：Butterfly evolution）
+
+
+生命（英语：Evolutionary history of life）
+哺乳动物（英语：Evolution of mammals）
+
+猫（英语：Cat gap）
+狗（英语：Origin of the domestic dog）
+马（英语：Evolution of the horse）
+人类演化
+狐猴（英语：Evolutionary history of lemurs）
+鲸豚（英语：Evolution of cetaceans）
+海牛（英语：Evolution of sirenians）
+
+
+软体动物（英语：Evolution of Mollusca）
+植物（英语：Evolution of plants）
+爬行动物（英语：Evolution of reptiles）
+蜘蛛（英语：Evolution of spiders）
+四足类
+病毒（英语：Viral evolution）
+
+流感（英语：Evolution of Influenza）
+
+
+
+
+
+
+
+
+
+
+特定构造的进化
+
+
+
+细胞（英语：Evolution of cells）
+DNA（英语：Models of DNA evolution）
+真核生物
+
+染色体
+
+
+内膜系统
+眼睛（英语：Evolution of the eye）
+鞭毛（英语：Evolution of flagella）
+头发
+线粒体
+哺乳动物听小骨进化
+神经系统（英语：Evolution of nervous systems）
+
+大脑（英语：Evolution of the brain）
+
+
+细胞核
+色素体
+
+
+
+
+
+
+
+
+生物进程（英语：Biological process）的演化
+
+
+
+衰老（英语：Evolution of ageing）
+Avian flight（英语：Origin of avian flight）
+Biological complexity
+Cooperation（英语：Co-operation (evolution)）
+彩色视觉（英语：Evolution of color vision）
+
+灵长目彩色视觉的演化
+
+
+情绪（英语：Evolution of emotion）
+同理心
+伦理
+Eusociality（英语：Evolution of eusociality）
+代谢
+Monogamy（英语：Monogamous pairing in animals）
+道德（英语：Evolution of morality）
+Mosaic evolution（英语：Mosaic evolution）
+多细胞生物
+有性生殖的演化
+
+
+
+
+
+
+
+
+形态模式
+
+
+
+Anagenesis（英语：Anagenesis）
+Catagenesis（英语：catagenesis (biology)）
+Cladogenesis（英语：Cladogenesis）
+异域物种形成
+Peripatric（英语：Peripatric）
+Parapatric（英语：Parapatric）
+Sympatric（英语：Sympatric speciation）
+Hybrid speciation（英语：Hybrid speciation）
+
+
+
+
+
+
+
+
+相关领域
+
+
+
+生态遗传学
+分子进化
+系统发生学
+原初生命体
+系统分类学
+比较解剖学
+演化心理学
+文化演化
+
+
+
+
+
+
+
+
+历史
+
+
+
+演化思想史
+查尔斯·达尔文
+
+物种起源
+
+
+生物分类法
+Gene-centered view of evolution（英语：Gene-centered view of evolution）
+生命 (classification trees)
+现代进化综论
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 共享
+
+
+
+
+
+
+
+
+
+
+
+
+分类：演化生物学自然史隐藏分类：自2008年2月扩充中的条目使用ISBN魔术链接的页面

@@ -1,0 +1,537 @@
+Conventionalism
+Conventionalism is the philosophical attitude that fundamental principles of a certain kind are grounded on (explicit or implicit) agreements in society, rather than on external reality. Although this attitude is commonly held with respect to the rules of grammar, its application to the propositions of ethics, law, science, mathematics, and logic is more controversial.
+
+
+
+Contents
+
+
+1 Linguistics
+2 Geometry
+3 Epistemology
+4 Legal philosophy
+5 See also
+6 References
+7 Sources
+
+
+
+Linguistics[edit]
+The debate on linguistic conventionalism goes back to Plato's Cratylus and the Mīmāṃsā philosophy of Kumārila Bhaṭṭa.[citation needed] It has been the standard position of modern linguistics since Ferdinand de Saussure's l'arbitraire du signe, but there have always been dissenting positions of phonosemantics, recently defended by Margaret Magnus and Vilayanur S. Ramachandran.[citation needed]
+Geometry[edit]
+The French mathematician Henri Poincaré was among the first to articulate a conventionalist view. Poincaré's use of non-Euclidean geometries in his work on differential equations convinced him that Euclidean geometry should not be regarded as a priori truth. He held that axioms in geometry should be chosen for the results they produce, not for their apparent coherence with human intuitions about the physical world.
+Epistemology[edit]
+Conventionalism was adopted by logical positivists, chiefly A. J. Ayer and Carl Hempel, and extended to both mathematics and logic. To deny rationalism, Ayer sees two options for empiricism regarding the necessity of the truth of formal logic (and mathematics): 1) deny that they actually are necessary, and then account for why they only appear so, or 2) claim that the truths of logic and mathematics lack factual content - they are not "truths about the world" - and then explain how they are nevertheless true and informative.[1] John Stuart Mill adopted the former, which Ayer criticized, opting himself for the latter. Ayer's argument relies primarily on the analytic/synthetic distinction.
+The French philosopher Pierre Duhem espoused a broader conventionalist view encompassing all of science. Duhem was skeptical that human perceptions are sufficient to understand the "true," metaphysical nature of reality and argued that scientific laws should be valued mainly for their predictive power and correspondence with observations.
+Karl Popper broadened the meaning of conventionalism still more. In The Logic of Scientific Discovery, he defined a "conventionalist stratagem" as any technique that is used by a theorist to evade the consequences of a falsifying observation or experiment. Popper identified four such stratagems:
+
+introducing an ad hoc hypothesis which makes the refuting evidence seem irrelevant;
+modifying the ostensive definitions so as to alter the content of a theory;
+doubting the reliability of the experimenter; declaring that the observations that threaten the tested theory are irrelevant;
+casting doubt on the acumen of the theorist when she does not produce ideas that can save the theory.
+
+Popper argued that it was crucial to avoid conventionalist stratagems if falsifiability of a theory was to be preserved. It has been argued that the standard model of cosmology is built upon a set of conventionalist stratagems.[2]
+Legal philosophy[edit]
+Conventionalism, as applied to legal philosophy is one of the three rival conceptions of law constructed by American legal philosopher Ronald Dworkin in his work Law's Empire. The other two conceptions of law are legal pragmatism and law as integrity.
+According to conventionalism as defined by Dworkin, a community's legal institutions should contain clear social conventions relied upon which rules are promulgated. Such rules will serve as the sole source of information for all the community members because they demarcate clearly all the circumstances in which state coercion will and will not be exercised.
+Dworkin nonetheless has argued that this justification fails to fit with facts as there are many occasions wherein clear applicable legal rules are absent. It follows that, as he maintained, conventionalism can provide no valid ground for state coercion. Dworkin himself favored law as integrity as the best justification of state coercion.
+One famous criticism of Dworkin's idea comes from Stanley Fish who argues that Dworkin, like the Critical Legal Studies movement, Marxists and adherents of feminist jurisprudence, was guilty of a false 'Theory Hope'. Fish claims that such mistake stems from their mistaken belief that there exists a general or higher 'theory' that explains or constrains all fields of activity like state coercion.
+Another criticism is based on Dworkin's assertion that positivists' claims amount to conventionalism. H. L. A. Hart, as a soft positivist, denies such claim as he had pointed out that citizens cannot always discover the law as plain matter of fact. It is however unclear as to whether Joseph Raz, an avowed hard positivist, can be classified as conventionalist as Raz has claimed that law is composed "exclusively" of social facts which could be complex, and thus difficult to be discovered.
+In particular, Dworkin has characterized law as having the main function of restraining state's coercion.[citation needed] Nigel Simmonds has rejected Dworkin's disapproval of conventionalism, claiming that his characterization of law is too narrow.
+See also[edit]
+
+True name
+
+References[edit]
+
+
+
+^ Ayer, Alfred Jules. Language, Truth and Logic, Dover Publications, Inc.: New York. 1952. p. 73.
+^ Merritt, David. "Cosmology and Convention", Studies In History and Philosophy of Science Part B: Studies In History and Philosophy of Modern Physics, 57(1):41-52, February 2017.
+
+
+
+Sources[edit]
+
+The Internet Encyclopedia of Philosophy entry on Henri Poincaré
+"Pierre Duhem". Notes by David Huron
+Mary Jo Nye, "The Boutroux Circle and Poincare's Conventionalism," Journal of the History of Ideas, Vol. 40, No. 1. (Jan. - Mar., 1979), pp. 107–120.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of language
+
+
+
+Philosophers
+
+
+
+Plato (Cratylus)
+Gorgias
+Confucius
+Xunzi
+Aristotle
+Stoics
+Pyrrhonists
+Scholasticism
+Ibn Rushd
+Ibn Khaldun
+Thomas Hobbes
+Gottfried Wilhelm Leibniz
+Johann Herder
+Ludwig Noiré
+Wilhelm von Humboldt
+Fritz Mauthner
+Paul Ricœur
+Ferdinand de Saussure
+Gottlob Frege
+Franz Boas
+Paul Tillich
+Edward Sapir
+Leonard Bloomfield
+Zhuangzi
+Henri Bergson
+Lev Vygotsky
+Ludwig Wittgenstein
+
+Philosophical Investigations
+Tractatus Logico-Philosophicus
+
+
+Bertrand Russell
+Rudolf Carnap
+Jacques Derrida
+
+Of Grammatology
+Limited Inc
+
+
+Benjamin Lee Whorf
+Gustav Bergmann
+J. L. Austin
+Noam Chomsky
+Hans-Georg Gadamer
+Saul Kripke
+A. J. Ayer
+G. E. M. Anscombe
+Jaakko Hintikka
+Michael Dummett
+Donald Davidson
+Roger Gibson
+Paul Grice
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Hilary Putnam
+David Lewis
+John Searle
+Joxe Azurmendi
+Scott Soames
+Stephen Yablo
+John Hawthorne
+Stephen Neale
+Paul Watzlawick
+
+
+
+
+
+Theories
+
+
+
+Causal theory of reference
+Contrast theory of meaning
+Contrastivism
+Conventionalism
+Cratylism
+Deconstruction
+Descriptivist theory of names
+Direct reference theory
+Dramatism
+Expressivism
+Linguistic determinism
+Logical atomism
+Logical positivism
+Mediated reference theory
+Nominalism
+Non-cognitivism
+Phallogocentrism
+Quietism
+Relevance theory
+Semantic externalism
+Semantic holism
+Structuralism
+Supposition theory
+Symbiosism
+Theological noncognitivism
+Theory of descriptions
+Verification theory
+
+
+
+
+
+Concepts
+
+
+
+Ambiguity
+Linguistic relativity
+Meaning
+Language
+Truth-bearer
+Proposition
+Use–mention distinction
+Concept
+Categories
+Set
+Class
+Intension
+Logical form
+Metalanguage
+Mental representation
+Principle of compositionality
+Property
+Sign
+Sense and reference
+Speech act
+Symbol
+Entity
+Sentence
+Statement
+more...
+
+
+
+
+
+Related articles
+
+
+
+Analytic philosophy
+Philosophy of information
+Philosophical logic
+Linguistics
+Pragmatics
+Rhetoric
+Semantics
+Formal semantics
+Semiotics
+
+
+
+
+
+
+
+
+Category
+Task Force
+Discussion
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of science
+
+
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+A priori and a posteriori
+Causality
+Commensurability
+Consilience
+Construct
+Creative synthesis
+Demarcation problem
+Empirical evidence
+Explanatory power
+Fact
+Falsifiability
+Feminist method
+Ignoramus et ignorabimus
+Inductive reasoning
+Intertheoretic reduction
+Inquiry
+Nature
+Objectivity
+Observation
+Paradigm
+Problem of induction
+Scientific law
+Scientific method
+Scientific revolution
+Scientific theory
+Testability
+Theory choice
+Theory-ladenness
+Underdetermination
+Unity of science
+
+
+
+
+
+Metatheory
+of science
+
+
+
+Coherentism
+Confirmation holism
+Constructive empiricism
+Constructive realism
+Constructivist epistemology
+Contextualism
+Conventionalism
+Deductive-nomological model
+Hypothetico-deductive model
+Inductionism
+Epistemological anarchism
+Evolutionism
+Fallibilism
+Foundationalism
+Instrumentalism
+Pragmatism
+Model-dependent realism
+Naturalism
+Physicalism
+Positivism / Reductionism / Determinism
+Rationalism / Empiricism
+Received view / Semantic view of theories
+Scientific realism / Anti-realism
+Scientific essentialism
+Scientific formalism
+Scientific skepticism
+Scientism
+Structuralism
+Uniformitarianism
+Vitalism
+
+
+
+
+
+Philosophy of
+
+
+
+Physics
+
+thermal and statistical
+Motion
+
+
+Chemistry
+Biology
+Environment
+Geography
+Social science
+Technology
+
+Engineering
+Artificial intelligence
+Computer science
+
+
+Information
+Mind
+Psychiatry
+Psychology
+Perception
+Space and time
+
+
+
+
+
+Related topics
+
+
+
+Alchemy
+Criticism of science
+Epistemology
+Faith and rationality
+History and philosophy of science
+History of science
+History of evolutionary thought
+Logic
+Metaphysics
+Pseudoscience
+Relationship between religion and science
+Rhetoric of science
+Sociology of scientific knowledge
+Sociology of scientific ignorance
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philosophers of science by era
+
+
+
+
+
+
+
+Ancient
+
+
+
+Plato
+Aristotle
+Stoicism
+Epicureans
+
+
+
+
+
+Medieval
+
+
+
+Averroes
+Avicenna
+Roger Bacon
+William of Ockham
+Hugh of Saint Victor
+Dominicus Gundissalinus
+Robert Kilwardby
+
+
+
+
+
+Early modern
+
+
+
+Francis Bacon
+Thomas Hobbes
+René Descartes
+Galileo Galilei
+Pierre Gassendi
+Isaac Newton
+David Hume
+
+
+
+
+
+Classical modern
+
+
+
+Immanuel Kant
+Friedrich Schelling
+William Whewell
+Auguste Comte
+John Stuart Mill
+Herbert Spencer
+Wilhelm Wundt
+Charles Sanders Peirce
+Wilhelm Windelband
+Henri Poincaré
+Pierre Duhem
+Rudolf Steiner
+Karl Pearson
+
+
+
+
+
+Late modern
+
+
+
+Alfred North Whitehead
+Bertrand Russell
+Albert Einstein
+Otto Neurath
+C. D. Broad
+Michael Polanyi
+Hans Reichenbach
+Rudolf Carnap
+Karl Popper
+Carl Gustav Hempel
+W. V. O. Quine
+Thomas Kuhn
+Imre Lakatos
+Paul Feyerabend
+Jürgen Habermas
+Ian Hacking
+Bas van Fraassen
+Larry Laudan
+Daniel Dennett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portal
+Category
+
+
+
+
+
+
+
+
+
+
+Categories: Metatheory of scienceEthical theoriesTheories of deductionTheories of lawHidden categories: All articles with unsourced statementsArticles with unsourced statements from January 2008Articles with unsourced statements from January 2011

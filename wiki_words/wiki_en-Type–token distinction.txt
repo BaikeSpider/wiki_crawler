@@ -1,0 +1,348 @@
+Type–token distinction
+
+
+Play media
+
+
+Although this flock is made of the same type of bird, each individual bird is a different token. (50 MB video of a flock of birds in Rome)
+
+
+The type–token distinction is used in disciplines such as logic, linguistics, metalogic, typography, and computer programming to clarify what words mean.
+
+
+
+Contents
+
+
+1 Overview
+2 Occurrences
+3 Typography
+4 Charles Sanders Peirce
+5 See also
+6 References
+
+6.1 Sources
+
+
+7 External links
+
+
+
+Overview[edit]
+The sentence "they drive the same car" is ambiguous. Do they drive the same type of car (the same model) or the same instance of a car type (a single vehicle)? Clarity requires us to distinguish words that represent abstract types from words that represent objects that embody or exemplify types. The type–token distinction separates types (representing abstract descriptive concepts) from tokens (representing objects that instantiate concepts).
+For example: "bicycle" is a type that represents the concept of a bicycle; whereas "my bicycle" is a token that represents an object that instantiates that type. In the sentence "the bicycle is becoming more popular" the word "bicycle" is a type representing a concept; whereas in the sentence "the bicycle is in the garage" the word "bicycle" is a token representing a particular object.
+(The distinction in computer programming between classes and objects is related, though in this context, "class" sometimes refers to a set of objects (with class-level attribute or operations) rather than a description of an object in the set.)
+The words type, concept, property, quality, feature and attribute (all used in describing things) tend to be used with different verbs. E.g. Suppose a rose bush is defined as a plant that is "thorny", "flowering" and "bushy". You might say a rose bush instantiates these three types, or embodies these three concepts, or exhibits these three properties, or possesses these three qualities, features or attributes.
+Property types (e.g "height in metres" or "thorny") are often understood ontologically as concepts. Property instances (e.g. height = 1.74) are sometimes understood as measured values, and sometimes understood as sensations or observations of reality.
+Some say types exist in descriptions of objects, but not as tangible physical objects. They say one can show someone a particular bicycle, but cannot show someone the type "bicycle", as in "the bicycle is popular.". However types do exist in the sense that they appear in mental and documented models.
+Some say tokens represent objects that are tangible, exist in space and time as physical matter and/or energy. However, tokens can represent intangible objects of types such as "thought", "tennis match", "government" and "act of kindness".
+Occurrences[edit]
+There is a related distinction very closely connected with the type-token distinction. This distinction is the distinction between an object, or type of object, and an occurrence of it. In this sense, an occurrence is not necessarily a token. Considering the sentence: "A rose is a rose is a rose". We may equally correctly state that there are eight or three words in the sentence. There are, in fact, three word types in the sentence: "rose", "is" and "a". There are eight word tokens in a token copy of the line. The line itself is a type. There are not eight word types in the line. It contains (as stated) only the three word types, 'a', 'is' and 'rose', each of which is unique. So what do we call what there are eight of? They are occurrences of words. There are three occurrences of the word type 'a', two of 'is' and three of 'rose'.
+The need to distinguish tokens of types from occurrences of types arises, not just in linguistics, but whenever types of things have other types of things occurring in them.[1] Reflection on the simple case of occurrences of numerals is often helpful.[citation needed]
+Typography[edit]
+In typography, the type–token distinction is used to determine the presence of a text printed by movable type:[2]
+
+The defining criteria which a typographic print has to fulfill is that of the type identity of the various letter forms which make up the printed text. In other words: each letter form which appears in the text has to be shown as a particular instance ("token") of one and the same type which contains a reverse image of the printed letter.
+
+Charles Sanders Peirce[edit]
+
+There are only 26 letters in the English alphabet and yet there are more than 26 letters in this sentence. Moreover, every time a child writes the alphabet 26 new letters have been created.
+
+The word 'letters' was used three times in the above paragraph, each time in a different meaning. The word 'letters' is one of many words having "type–token ambiguity". This section disambiguates 'letters' by separating the three senses using terminology standard in logic today. The key distinctions were first made by the American logician-philosopher Charles Sanders Peirce in 1906 using terminology that he established.[3]
+The letters that are created by writing are physical objects that can be destroyed by various means: these are letter TOKENS or letter INSCRIPTIONS. The 26 letters of the alphabet are letter TYPES or letter FORMS.
+Peirce's type–token distinction, also applies to words, sentences, paragraphs, and so on: to anything in a universe of discourse of character-string theory, or concatenation theory. There is only one word type spelled el-ee-tee-tee-ee-ar,[4] namely, 'letter'; but every time that word type is written, a new word token has been created.
+Some logicians consider a word type to be the class of its tokens. Other logicians counter that the word type has a permanence and constancy not found in the class of its tokens. The type remains the same while the class of its tokens is continually gaining new members and losing old members.
+The word type 'letter' uses only four letter types: el, ee, tee, and ar. Nevertheless, it uses ee twice and tee twice. In standard terminology, the word type 'letter' has six letter OCCURRENCES and the letter type ee OCCURS twice in the word type 'letter'. Whenever a word type is inscribed, the number of letter tokens created equals the number of letter occurrences in the word type.
+Peirce's original words are the following. "A common mode of estimating the amount of matter in a ... printed book is to count the number of words. There will ordinarily be about twenty 'thes' on a page, and, of course, they count as twenty words. In another sense of the word 'word,' however, there is but one word 'the' in the English language; and it is impossible that this word should lie visibly on a page, or be heard in any voice .... Such a ... Form, I propose to term a Type. A Single ... Object ... such as this or that word on a single line of a single page of a single copy of a book, I will venture to call a Token. .... In order that a Type may be used, it has to be embodied in a Token which shall be a sign of the Type, and thereby of the object the Type signifies." – Peirce 1906, Ogden-Richards, 1923, 280-1.
+These distinctions are subtle but solid and easy to master. This section ends using the new terminology to disambiguate the first paragraph.
+
+There are 26 letter types in the English alphabet and yet there are more than 26 letter occurrences in this sentence type. Moreover, every time a child writes the alphabet 26 new letter tokens have been created.
+
+See also[edit]
+
+
+Class (philosophy)
+Formalism (philosophy)
+Is-a
+Map–territory relation
+Mental model
+Problem of universals § Peirce
+Type theory
+Type physicalism
+
+
+References[edit]
+
+
+
+^ Stanford Encyclopedia of Philosophy, Types and Tokens
+^ Brekle, Herbert E.: Die Prüfeninger Weiheinschrift von 1119. Eine paläographisch-typographische Untersuchung, Scriptorium Verlag für Kultur und Wissenschaft, Regensburg 2005, ISBN 3-937527-06-0, p. 23
+^ Charles Sanders Peirce, Prolegomena to an apology for pragmaticism, Monist, vol.16 (1906), pp. 492–546.
+^ Using a variant of Alfred Tarski's structural-descriptive naming found in John Corcoran, Schemata: the Concept of Schema in the History of Logic, Bulletin of Symbolic Logic, vol. 12 (2006), pp. 219–40.
+
+
+
+Sources[edit]
+
+Baggin J., and Fosl, P. (2003) The Philosopher's Toolkit. Blackwell: 171-73. ISBN 978-0-631-22874-5.
+Peper F., Lee J., Adachi S., Isokawa T. (2004) Token-Based Computing on Nanometer Scales, Proceedings of the ToBaCo 2004 Workshop on Token Based Computing, Vol.1 pp. 1–18.
+
+External links[edit]
+
+The Stanford Encyclopedia of Philosophy: "Types and Tokens" by Linda Wetzel.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Metalogic
+Metamathematics
+
+
+
+
+
+
+
+
+
+Cantor's theorem
+Entscheidungsproblem
+Church–Turing thesis
+Consistency
+Effective method
+Foundations of mathematics
+(geometry)
+Gödel's completeness theorem
+Gödel's incompleteness theorems
+Soundness
+Completeness
+Decidability
+Interpretation
+Löwenheim–Skolem theorem
+Metatheorem
+Satisfiability
+Independence
+Type–token distinction
+Use–mention distinction
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Metaphysics
+
+
+
+Metaphysicians
+
+
+
+Parmenides
+Plato
+Aristotle
+Plotinus
+Duns Scotus
+Thomas Aquinas
+Francisco Suárez
+Nicolas Malebranche
+René Descartes
+John Locke
+David Hume
+Thomas Reid
+Immanuel Kant
+Isaac Newton
+Arthur Schopenhauer
+Baruch Spinoza
+Georg W. F. Hegel
+George Berkeley
+Gottfried Wilhelm Leibniz
+Henri Bergson
+Friedrich Nietzsche
+Charles Sanders Peirce
+Joseph Maréchal
+Ludwig Wittgenstein
+Martin Heidegger
+Alfred N. Whitehead
+Bertrand Russell
+Dorothy Emmet
+G. E. Moore
+Jean-Paul Sartre
+Gilbert Ryle
+Hilary Putnam
+P. F. Strawson
+R. G. Collingwood
+Adolph Stöhr
+Rudolf Carnap
+Saul Kripke
+Willard V. O. Quine
+G. E. M. Anscombe
+Donald Davidson
+Michael Dummett
+David Malet Armstrong
+David Lewis
+Alvin Plantinga
+Peter van Inwagen
+Derek Parfit
+more ...
+
+
+
+
+
+Theories
+
+
+
+Abstract object theory
+Action theory
+Anti-realism
+Determinism
+Dualism
+Enactivism
+Essentialism
+Existentialism
+Free will
+Idealism
+Libertarianism
+Liberty
+Materialism
+Meaning of life
+Monism
+Naturalism
+Nihilism
+Phenomenalism
+Realism
+Physicalism
+Pirsig's metaphysics of Quality
+Platonic idealism
+Relativism
+Scientific realism
+Solipsism
+Subjectivism
+Substance theory
+Type theory
+
+
+
+
+
+Concepts
+
+
+
+Abstract object
+Anima mundi
+Being
+Category of being
+Causality
+Choice
+Cogito ergo sum
+Concept
+Embodied cognition
+Entity
+Essence
+Existence
+Experience
+Hypostatic abstraction
+Idea
+Identity
+Identity and change
+Information
+Insight
+Intelligence
+Intention
+Linguistic modality
+Matter
+Meaning
+Memetics
+Mental representation
+Mind
+Motion
+Necessity
+Notion
+Object
+Pattern
+Perception
+Physical body
+Principle
+Property
+Qualia
+Quality
+Reality
+Soul
+Subject
+Substantial form
+Thought
+Time
+Truth
+Type–token distinction
+Universal
+Unobservable
+Value
+more ...
+
+
+
+
+
+Related topics
+
+
+
+Axiology
+Cosmology
+Epistemology
+Feminist metaphysics
+Interpretations of quantum mechanics
+Meta-
+Ontology
+Philosophy of mind
+Philosophy of psychology
+Philosophy of self
+Philosophy of space and time
+Teleology
+Theoretical physics
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+Categories: MetalogicConceptual distinctionsKnowledge representationAbstractionConcepts in metaphysicsPhilosophy of logicPhilosophy of languageLinguisticsHidden categories: All articles with unsourced statementsArticles with unsourced statements from January 2017Articles containing video clips

@@ -1,0 +1,561 @@
+Affective neuroscience
+
+
+
+
+
+
+This article's lead section does not adequately summarize key points of its contents. Please consider expanding the lead to provide an accessible overview of all important aspects of the article. Please discuss this issue on the article's talk page. (May 2015)
+
+
+
+
+
+Part of a series on
+
+
+Psychology
+
+
+
+
+
+
+
+Outline
+History
+Subfields
+
+
+
+
+
+
+Basic types
+
+
+Abnormal
+Behavioral genetics
+Biological
+Cognitive/Cognitivism
+Comparative
+Cross-cultural
+Cultural
+Differential
+Developmental
+Evolutionary
+Experimental
+Mathematical
+Neuropsychology
+Personality
+Positive
+Quantitative
+Social
+
+
+
+
+
+
+
+
+Applied psychology
+
+
+Applied behavior analysis
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Environmental
+Ergonomics
+Forensic
+Health
+Humanistic
+Industrial and organizational
+Legal
+Medical
+Military
+Music
+Occupational health
+Political
+Religion
+School
+Sport
+Traffic
+
+
+
+
+
+
+
+
+Lists
+
+
+Disciplines
+Organizations
+Psychologists
+Psychotherapies
+Publications
+Research methods
+Theories
+Timeline
+Topics
+
+
+
+
+
+
+
+
+ Psychology portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Affective neuroscience is the study of the neural mechanisms of emotion. This interdisciplinary field combines neuroscience with the psychological study of personality, emotion, and mood.[1] The putative existence of 'basic emotions' and their defining attributes represents a long lasting and yet unsettled issue in psychology.[2]
+
+
+
+Contents
+
+
+1 Brain areas related to emotion
+
+1.1 Main structures of the limbic system
+1.2 Other brain structures related to emotion
+1.3 Role of the right hemisphere in emotion
+
+1.3.1 The right hemisphere hypothesis
+1.3.2 The valence hypothesis
+
+
+
+
+2 Relationship to cognitive neuroscience
+3 Cognitive neuroscience tasks in affective neuroscience research
+
+3.1 Emotion Go/No-Go
+3.2 Emotional Stroop
+3.3 Ekman 60 faces task
+3.4 Dot probe (emotion)
+3.5 Fear potentiated startle
+
+
+4 Learning
+5 Meta-analyses
+
+5.1 Locationist approaches
+5.2 Psychological constructionist approaches
+5.3 Phan et al. 2002
+5.4 Murphy et al. 2003
+5.5 Barrett et al. 2006
+5.6 Kober et al. 2008
+5.7 Vytal et al. 2010
+5.8 Lindquist et al. 2012
+
+
+6 See also
+7 References
+8 Further reading
+
+
+
+Brain areas related to emotion[edit]
+Emotions are thought to be related to activity in brain areas that direct our attention, motivate our behavior, and determine the significance of what is going on around us. Pioneering work by Paul Broca (1878),[3] James Papez (1937),[4] and Paul D. MacLean (1952)[5] suggested that emotion is related to a group of structures in the center of the brain called the limbic system, which includes the hypothalamus, cingulate cortex, hippocampi, and other structures. Research has shown that limbic structures are directly related to emotion, but non-limbic structures have been found to be of greater emotional relevance. The following brain structures are currently thought to be involved in emotion:[6]
+Main structures of the limbic system[edit]
+
+Amygdala – The amygdalae are two small, round structures located anterior to the hippocampi near the temporal poles. The amygdalae are involved in detecting and learning what parts of our surroundings are important and have emotional significance. They are critical for the production of emotion, and may be particularly so for negative emotions, especially fear.[7] Multiple studies have shown amygdala activation when perceiving a potential threat; various circuits allow the amygdala to use related past memories to better judge the possible threat.[8]
+Thalamus – The thalamus is involved in relaying sensory and motor signals to the cerebral cortex,[9] especially visual stimuli. The thalamus also plays an important role in regulating states of sleep and wakefulness.[10]
+Hypothalamus – The hypothalamus is involved in producing a physical output associated with an emotion as well as in reward circuits[11]
+Hippocampus – The hippocampus is a structure of the medial temporal lobes that is mainly involved in memory. It works to form new memories and also connecting different senses such as visual input, smell or sound to memories. The hippocampus allows memories to be stored long term and also retrieves them when necessary. It is this retrieval that is used within the amygdala to help evaluate current affective stimulus.[12]
+Fornix – The fornix is the main output pathway from the hippocampus to the mammillary bodies. It has been identified as a main region in controlling spatial memory functions, episodic memory and executive functions.[13]
+Mammillary body – Mammillary bodies are important for recollective memory.[14]
+Olfactory bulb – The olfactory bulbs are the first cranial nerves, located on the ventral side of the frontal lobe. They are involved in olfaction, the perception of odors.[15]
+Cingulate gyrus – The cingulate gyrus is located above the corpus callosum and is usually considered to be part of the limbic system. The different parts of the cingulate gyrus have different functions, and are involved with affect, visceromotor control, response selection, skeletomotor control, visuospatial processing, and in memory access.[16] A part of the cingulate gyrus is the anterior cingulate cortex, that is thought to play a central role in attention[17] and behaviorally demanding cognitive tasks.[18] It may be particularly important with regard to conscious, subjective emotional awareness. This region of the brain may also play an important role in the initiation of motivated behavior.[18] The subgenual cingulate is more active during both experimentally induced sadness and during depressive episodes.[19]
+
+Other brain structures related to emotion[edit]
+
+Basal ganglia – Basal ganglia are groups of nuclei found on either side of the thalamus. Basal ganglia play an important role in motivation,[20] action selection and reward learning.[21]
+Orbitofrontal cortex – Is a major structure involved in decision making and the influence by emotion on that decision.[22]
+Prefrontal cortex – The term prefrontal cortex refers to the very front of the brain, behind the forehead and above the eyes. It appears to play a critical role in the regulation of emotion and behavior by anticipating the consequences of our actions. The prefrontal cortex may play an important role in delayed gratification by maintaining emotions over time and organizing behavior toward specific goals.[23]
+Ventral striatum – The ventral striatum is a group of subcortical structures thought to play an important role in emotion and behavior. One part of the ventral striatum called the nucleus accumbens is thought to be involved in the experience pleasure.[24] Individuals with addictions experience increased activity in this area when they encounter the object of their addiction.
+Insula – The insular cortex is thought to play a critical role in the bodily experience of emotion, as it is connected to other brain structures that regulate the body’s autonomic functions (heart rate, breathing, digestion, etc.). The insula is implicated in empathy and awareness of emotion.[25]
+Cerebellum – Recently, there has been a considerable amount of work that describes the role of the cerebellum in emotion as well as cognition, and a "Cerebellar Cognitive Affective Syndrome" has been described.[26] Both neuroimaging studies as well as studies following pathological lesions in the cerebellum (such as a stroke) demonstrate that the cerebellum has a significant role in emotional regulation. Lesion studies[27] have shown that cerebellar dysfunction can attenuate the experience of positive emotions. While these same studies do not show an attenuated response to frightening stimuli, the stimuli did not recruit structures that normally would be activated (such as the amygdala). Rather, alternative limbic structures were activated, such as the ventromedial prefrontal cortex, the anterior cingulate gyrus, and the insula. This may indicate that evolutionary pressure resulted in the development of the cerebellum as a redundant fear-mediating circuit to enhance survival. It may also indicate a regulatory role for the cerebellum in the neural response to rewarding stimuli, such as money,[28] drugs of abuse,[29] and orgasm.[30]
+
+Role of the right hemisphere in emotion[edit]
+The right hemisphere has been proposed over time as being directly involved in the processing of emotion. Scientific theory regarding the role of the right hemisphere has developed over time and resulted in several models of emotional functioning. C.K. Mills was one of the first researchers to propose a direct link between the right hemisphere and emotional processing, having observed decreased emotional processing in patients with lesions to the right hemisphere.[31][32] Emotion was originally thought to be processed in the limbic system structures such as the hypothalamus and amygdala.[33] As of the late 1980s to early 1990s however, neocortical structures were shown to have an involvement in emotion.[34] These findings led to the development of the right hemisphere hypothesis and the valence hypothesis.
+The right hemisphere hypothesis[edit]
+The right hemisphere hypothesis asserts that the right hemisphere of the neocortical structures is specialized for the expression and perception of emotion.[35] The Right hemisphere has been linked with mental strategies that are nonverbal, synthetic, integrative, holistic, and Gestalt which makes it ideal for processing emotion.[34] The right hemisphere is more in touch with subcortical systems of autonomic arousal and attention as demonstrated in patients that have increased spatial neglect when damage is associated to the right brain as opposed to the left brain.[36] Right hemisphere pathologies have also been linked with abnormal patterns of autonomic nervous system responses.[37] These findings would help signify the relationship of the subcortical brain regions to the right hemisphere as having a strong connection.
+The valence hypothesis[edit]
+The valence hypothesis acknowledges the right hemisphere's role in emotion, but asserts that it is mainly focused on the processing of negative emotions whereas the left hemisphere processes positive emotions. The mode of processing of the two hemispheres has been the discussion of much debate. One version suggests the lack of a specific mode of processes, stating that the right hemisphere is solely negative emotion and the left brain is solely positive emotion.[38] A second version suggests that there is a complex mode of processing that occurs, specifically that there is a hemispheric specialization for the expressing and experiencing of emotion, with the right hemisphere predominating in the experiencing of both positive and negative emotion.[39][40] More recently, the frontal lobe has been the focus of a large amount of research, stating that the frontal lobes of both hemispheres are involved in the emotional state, while the right posterior hemisphere, the parietal and temporal lobes, is involved in the processing of emotion.[41] Decreased right parietal lobe activity has been associated with depression[42] and increased right parietal lobe activity with anxiety arousal.[43] The increasing understanding of the role the different hemispheres play has led to increasingly complicated models, all based some way on the original valence model.[44]
+Relationship to cognitive neuroscience[edit]
+Despite their interactions, the study of cognition has historically excluded emotion and focused on non-emotional processes (e.g., memory, attention, perception, action, problem solving and mental imagery).[45] As a result, the study of the neural basis of non-emotional and emotional processes emerged as two separate fields: cognitive neuroscience and affective neuroscience. The distinction between non-emotional and emotional processes is now thought to be largely artificial, as the two types of processes often involve overlapping neural and mental mechanisms.[46] Thus, when cognition is taken at its broadest definition, affective neuroscience could also be called the cognitive neuroscience of emotion.
+Cognitive neuroscience tasks in affective neuroscience research[edit]
+Emotion Go/No-Go[edit]
+The emotion go/no-go task has been frequently used to study behavioral inhibition, particularly emotional modulation of this inhibition.[47] A derivation of the original go/no-go paradigm, this task involves a combination of affective “go cues”, where the participant must make a motor response as quickly as possible, and affective “no-go cues,” where a response must be withheld. Because “go cues” are more common, the task is able to measure one’s ability to inhibit a response under different emotional conditions.[48]
+The task is common in tests of emotion regulation, and is often paired with neuroimaging measures to localize relevant brain function in both healthy individuals and those with affective disorders.[47][49][50] For example, go/no-go studies converge with other methodology to implicate areas of the prefrontal cortex during inhibition of emotionally valenced stimuli.[51]
+Emotional Stroop[edit]
+The emotional Stroop task, an adaptation to the original Stroop, measures attentional bias to emotional stimuli.[52][53] Participants must name the ink color of presented words while ignoring the words themselves.[54] In general, participants have more difficulty detaching attention from affectively valenced words, than neutral words.[55][56] This interference from valenced words is measured by the response latency in naming the color of neutral words as compared with emotional words.[53]
+This task has been often used to test selective attention to threatening and other negatively valenced stimuli, most often in relation to psychopathology.[57] Disorder specific attentional biases have been found for a variety of mental disorders.[57][58] For example, participants with spider phobia show a bias to spider-related words but not other negatively valenced words.[59] Similar findings have been attributed to threat words related to other anxiety disorders.[57] However, other studies have questioned these findings. In fact, anxious participants in some studies show the Stroop interference effect for both negative and positive words, when the words are matched for emotionality.[60][61] This means that the specificity effects for various disorders may be largely attributable to the semantic relation of the words to the concerns of the disorder, rather than simply the emotionality of the words.[57]
+Ekman 60 faces task[edit]
+The Ekman faces task is used to measure emotion recognition of six basic emotions.[62][63] Black and white photographs of 10 actors (6 male, 4 female) are presented, with each actor displaying each basic emotion. Participants are usually asked to respond quickly with the name of the displayed emotion. The task is a common tool to study deficits in emotion regulation in patients with dementia, Parkinson's, and other cognitively degenerative disorders.[64] However, the task has also been used to analyze recognition errors in disorders such as borderline personality disorder, schizophrenia, and bipolar disorder.[65][66][67]
+Dot probe (emotion)[edit]
+The emotional dot-probe paradigm is a task used to assess selective visual attention to and failure to detach attention from affective stimuli.[68][69] The paradigm begins with a fixation cross at the center of a screen. An emotional stimulus and a neutral stimulus appear side by side, after which a dot appears behind either the neutral stimulus (incongruent condition) or the affective stimulus (congruent condition). Participants are asked to indicate when they see this dot, and response latency is measured. Dots that appear on the same side of the screen as the image the participant was looking at will be identified more quickly. Thus, it is possible to discern which object the participant was attending to by subtracting the reaction time to respond to congruent versus incongruent trials.[68]
+The best documented research with the dot probe paradigm involves attention to threat related stimuli, such as fearful faces, in individuals with anxiety disorders. Anxious individuals tend to respond more quickly to congruent trials, which may indicate vigilance to threat and/or failure to detach attention from threatening stimuli.[68][70] A specificity effect of attention has also been noted, with individuals attending selectively to threats related to their particular disorder. For example, those with social phobia selectively attend to social threats but not physical threats.[71] However, this specificity may be even more nuanced. Participants with obsessive-compulsive disorder symptoms initially show attentional bias to compulsive threat, but this bias is attenuated in later trials due to habituation to the threat stimuli.[72]
+Fear potentiated startle[edit]
+Fear-potentiated startle (FPS) has been utilized as a psychophysiological index of fear reaction in both animals and humans.[73] FPS is most often assessed through the magnitude of the eyeblink startle reflex, which can be measured by electromyography.[74] This eyeblink reflex is an automatic defensive reaction to an abrupt elicitor, making it an objective indicator of fear.[75] Typical FPS paradigms involve bursts of noise or abrupt flashes of light transmitted while an individual attends to a set of stimuli.[75] Startle reflexes have been shown to be modulated by emotion. For example, healthy participants tend to show enhanced startle responses while viewing negatively valenced images and attenuated startle while viewing positively valenced images, as compared with neutral images.[76][77]
+The startle response to a particular stimulus is greater under conditions of threat.[78] A common example given to indicate this phenomenon is that one’s startle response to a flash of light will be greater when walking in a dangerous neighborhood at night than it would under safer conditions. In laboratory studies, the threat of receiving shock is enough to potentiate startle, even without any actual shock.[79]
+Fear potentiated startle paradigms are often used to study fear learning and extinction in individuals with posttraumatic stress disorder and other anxiety disorders.[80][81][82] In fear conditioning studies, an initially neutral stimulus is repeatedly paired with an aversive one, borrowing from classical conditioning.[83] FPS studies have demonstrated that PTSD patients have enhanced startle responses during both danger cues and neutral/safety cues as compared with healthy participants.[83][84]
+Learning[edit]
+There are many ways affect plays a role during learning. Recently, affective neuroscience has done much to discover this role. Deep, emotional attachment to a subject area allows a deeper understanding of the material and therefore, learning occurs and lasts.[85] When reading, the emotions one is feeling in comparison to the emotions being portrayed in the content affects ones comprehension. Someone who is feeling sad will understand a sad passage better than someone feeling happy.[86] Therefore, a student’s emotion plays a big role during the learning process.
+Emotion can also be embodied or perceived from words read on a page or a person’s facial expression. Neuroimaging studies using fMRI have demonstrated that the same area of the brain being activated when one is feeling disgust is also activated when one observes another person feeling disgust.[87] In a traditional learning environment, the teacher's facial expression can play a critical role in students' language acquisition. Showing a fearful facial expression when reading passages that contain fearful tones facilitates students learning of the meaning of certain vocabulary words and comprehension of the passage.[88]
+Meta-analyses[edit]
+A meta-analysis is a statistical approach to synthesizing results across multiple studies. Several meta-analyses examining the brain basis of emotion have been conducted. In each meta-analysis, studies were included that investigate healthy, unmedicated adults and that used subtraction analysis to examine the areas of the brain that were more active during emotional processing than during a neutral control condition. The meta-analyses to date predominantly focus on two theoretical approaches, locationist approaches and psychological construction approaches.
+It is being debated regarding the existence of the neurobiological basis of emotion.[2] The existence of so-called 'basic emotions' and their defining attributes represents a long lasting and yet unsettled issue in psychology.[2] The available research suggests that the neurobiological existence of basic emotions is still tenable and heuristically seminal, pending some reformulation.[2]
+Locationist approaches[edit]
+These approaches to emotion hypothesize that several emotion categories (including happiness, sadness, fear, anger, and disgust) are biologically basic.[89][90] In this view, emotions are inherited biologically based modules that cannot be broken down into more basic psychological components.[89][90][91] Models following a locationist approach to emotion hypothesize that all mental states belonging to a single emotional category can be consistently and specifically localized to either a distinct brain region or a defined networks of brain regions.[90][92] Each basic emotion category also shares other universal characteristics: distinct facial behavior, physiology, subjective experience and accompanying thoughts and memories.[89]
+Psychological constructionist approaches[edit]
+This approach to emotion hypothesizes that emotions like happiness, sadness, fear, anger and disgust (and many others) are constructed mental states that occur when many different systems in the brain work together.[93] In this view, networks of brain regions underlie psychological operations (e.g., language, attention, etc.) that interact to produce many different kinds of emotion, perception, and cognition.[94] One psychological operation critical for emotion is the network of brain regions that underlie valence (feeling pleasant/unpleasant) and arousal (feeling activated and energized).[93] Emotions emerge when neural systems underlying different psychological operations interact (not just those involved in valence and arousal), producing distributed patterns of activation across the brain. Because emotions emerge from more basic components, there is heterogeneity within each emotion category; for example, a person can experience many different kinds of fear, which feel differently, and which correspond to different neural patterns in the brain. Thus, this view presents a different approach to understanding the neural bases of emotion than locationist approaches.
+Phan et al. 2002[edit]
+In the first neuroimaging meta-analysis of emotion, Phan et al. (2002) analyzed the results of 55 studies published in peer reviewed journal articles between January 1990 and December 2000 to determine if the emotions of fear, sadness, disgust, anger, and happiness were consistently associated with activity in specific brain regions. All studies used fMRI or PET techniques to investigate higher-order mental processing of emotion (studies of low-order sensory or motor processes were excluded). The authors’ analysis approach was to tabulate the number of studies that reported activation in specific brain regions during tasks inducing fear, sadness, disgust, anger, and happiness. For each brain region, statistical chi-squared analysis was conducted to determine if the proportion of studies reporting activation during one emotion was significantly higher than the proportion of studies reporting activation during the other emotions. Two regions showed this statistically significant pattern across studies. In the amygdala, 66% of studies inducing fear reported activity in this region, as compared to ~20% of studies inducing happiness, ~15% of studies inducing sadness (with no reported activations for anger or disgust). In the subcallosal cingulate, 46% of studies inducing sadness reported activity in this region, as compared to ~20% inducing happiness and ~20% inducing anger. This pattern of clear discriminability between emotion categories was in fact rare, with a number of other patterns occurring in limbic regions (including amydala, hippocampus, hypothalamus, and orbitofrontal cortex), paralimbic regions (including subcallosal cingulate, medial prefrontal cortex, anterior cingulate cortex, posterior cingulate cortex, insula, and temporal pole), and uni/heteromodal regions (including lateral prefrontal cortex, primary sensorimotor cortex, temporal cortex, cerebellum, and brainstem). Brain regions implicated across discrete emotion included the basal ganglia (~60% of studies inducing happiness and ~60% of studies inducing disgust reported activity in this region) and medial prefrontal cortex (happiness ~60%, anger ~55%, sadness ~40%, disgust ~40%, and fear ~30%).[95]
+Murphy et al. 2003[edit]
+Murphy, et al. 2003 analyzed 106 peer reviewed journals published between January 1994 and December 2001 to examine the evidence for regional specialization of discrete emotions (fear, disgust, anger, happiness and sadness) across a larger set of studies that Phan et al. Studies included in the meta-analysis measured activity in the whole brain and regions of interest (activity in individual regions of particular interest to the study). 3-D Kolmogorov-Smirnov (KS3) statistics were used to compare rough spatial distributions of 3-D activation patterns to determine if statistically significant activations (consistently activated across studies) were specific to particular brain regions for all emotional categories. This pattern of consistently activated, regionally specific activations was identified in four brain regions: amygdala with fear, insula with disgust, globus pallidus with disgust, and lateral orbitofrontal cortex with anger. The amygdala was consistently activated in ~40% of studies inducing fear, as compared to less than 20% studies inducing happiness, sadness, or anger. The insula was consistently activated in ~ 70% of studies inducing disgust, as compared to sadness (~40%), anger (~20%), fear (~20%), and happiness (~10%). Similar to the insula, the globus pallidus was consistently activated in ~70% of studies inducing disgust, as compared to less than 25% of studies inducing sadness, fear, anger or happiness. The lateral orbitofrontal cortex was consistently activated in over 80% of studies inducing anger, as compared to fear (~30%), sadness (~20%), happiness (< 20%) and disgust (< 20%). Other regions showed different patterns of activation across categories. For example, both the dorsal medial prefrontal cortex and the rostral anterior cingulate cortex showed consistent activity across emotions (happiness ~50%, sadness ~50%, anger ~ 40%, fear ~30%, and disgust ~ 20%).[96]
+Barrett et al. 2006[edit]
+Barrett, et al. 2006 examined 161 studies published between 1990-2001, subsets of which were analyzed in previous meta-analyses (Phan, et al. 2002 and Murphy et al. 2003). In this review, the authors examined the locationist hypothesis by comparing the consistency and specificity of prior meta-analytic findings specific to each hypothesized basic emotion (fear, anger, sadness, disgust, and happiness). Consistent neural patterns were defined by brain regions showing increased activity for a specific emotion (relative to a neutral control condition), regardless of the method of induction used (for example, visual vs. auditory cue). Specific neural patterns were defined as architecturally separate circuits for one emotion vs. the other emotions (for example, the fear circuit must be discriminable from the anger circuit, although both circuits may include common brain regions). In general, the results supported consistency among the findings of Phan et al. and Murphy et al., but not specificity. Consistency was determined through the comparison of chi-squared analyses that revealed whether the proportion of studies reporting activation during one emotion was significantly higher than the proportion of studies reporting activation during the other emotions. Specificity was determined through the comparison of emotion-category brain-localizations by contrasting activations in key regions that were specific to particular emotions. Increased amygdala activation during fear was the most consistently reported across induction methods (but not specific). Both meta-analyses also reported increased activations in regions of the anterior cingulate cortex during sadness, although this finding was less consistent (across induction methods) and was not specific to sadness. Both meta-analyses also found that disgust was associated with increased activity in the basal ganglia, but these findings were neither consistent nor specific. Neither consistent nor specific activity was observed across the meta-analyses for anger or for happiness. This meta-analysis additionally introduced the concept of the basic, irreducible elements of emotional life as dimensions such as approach and avoidance. This dimensional approach involved in psychological constructionist approaches is further examined in later meta-analyses of Kober et al. 2008 and Lindquist et al. 2012.[93]
+Kober et al. 2008[edit]
+Instead of investigating specific emotions, Kober, et al. 2008 reviewed 162 neuroimaging studies published between 1990-2005 to determine if groups of brain regions show consistent patterns of activation during emotional experience (that is, actively experiencing an emotion first-hand) and during emotion perception (that is, perceiving a given emotion as experienced by another). This meta-analysis used multilevel kernal density analysis (MKDA) to examine fMRI and PET studies, a technique that prevents single studies from dominating the results (particularly if they report multiple nearby peaks) and that enables studies with large sample sizes (those involving more participants) to exert more influence upon the results. MKDA was used to establish a neural reference space that includes the set of regions showing consistent increases across all studies (for further discussion of MDKA see Wager et al. 2007).[97] Next, this neural reference space was partitioned into functional groups of brain regions showing similar activation patterns across studies by first using multivariate techniques to determine co-activation patterns and then using data-reduction techniques to define the functional groupings (resulting in six groups). Consistent with a psychological construction approach to emotion, the authors discuss each functional group in terms more basic psychological operations. The first “Core Limbic” group included the left amygdala, hypothalamus, periaqueductal gray/thalamus regions, and amygdala/ventral striatum/ventral globus pallidus/thalamus regions, which the authors discuss as an integrative emotional center that plays a general role in evaluating affective significance. The second “Lateral Paralimbic” group included the ventral anterior insula/frontal operculum/right temporal pole/ posterior orbitofrontal cortex, the anterior insula/ posterior orbitofrontal cortex, the ventral anterior insula/ temporal cortex/ orbitofrontal cortex junction, the midinsula/ dorsal putamen, and the ventral striatum /mid insula/ left hippocampus, which the authors suggest plays a role in motivation, contributing to the general valuation of stimuli and particularly in reward. The third “Medial Prefrontal Cortex” group included the dorsal medial prefrontal cortex, pregenual anterior cingulate cortex, and rostral dorsal anterior cingulate cortex, which the authors discuss as playing a role in both the generation and regulation of emotion. The fourth “Cognitive/ Motor Network” group included right frontal operculum, the right interior frontal gyrus, and the pre-supplementray motor area/ left interior frontal gyrus, regions that are not specific to emotion, but instead appear to play a more general role in information processing and cognitive control. The fifth “Occipital/ Visual Association” group included areas V8 and V4 of the primary visual cortex, the medial temporal lobe, and the lateral occipital cortex, and the sixth “Medial Posterior” group included posterior cingulate cortex and area V1 of the primary visual cortex. The authors suggest that these regions play a joint role in visual processing and attention to emotional stimuli.[98]
+Vytal et al. 2010[edit]
+Vytal, et al. 2010 examined 83 neuroimaging studies published between 1993-2008 to examine whether neuroimaging evidence supports the idea of biologically discrete, basic emotions (i.e. fear, anger, disgust, happiness, and sadness). Consistency analyses identified brain regions that were associated with a given emotion. Discriminability analyses identified brain regions that were significantly, differentially active when contrasting pairs of discrete emotions. This meta-analysis examined PET or fMRI studies that reported whole brain analyses identifying significant activations for at least one of the five emotions relative to a neutral or control condition. The authors used activation likelihood estimation (ALE) to perform spatially sensitive, voxel-wise (sensitive to the spatial properties of voxels) statistical comparisons across studies. This technique allows for direct statistical comparison between activation maps associated with each discrete emotion. Thus, discriminability between the five discrete emotion categories was assessed on a more precise spatial scale than what had been accomplished in prior meta-analyses. Consistency was first assessed by comparing the ALE map generated across studies for each emotion (for example, the ALE map identifying regions consistently activated by studies inducing fear) to ALE map generated by random permutations. Discriminability was then assessed by pair-wise contrasts of individual emotion ALE maps (for example, fear ALE map vs. anger ALE map; fear ALE map vs. disgust map) across all basic emotions pairings. Consistent and discriminable patterns of neural activation were observed for the five emotional categories. Happiness was consistently associated with activity in 9 regional brain clusters, the largest located in the right superior temporal gyrus. For the first time, happiness was discriminated from the other emotional categories, with the largest clusters of activity specific to happiness (vs. the other emotion categories) located in right superior temporal gyrus and left rostral anterior cingulate cortex. Sadness was consistently associated with 35 clusters (the largest activation cluster located in the left medial frontal gyrus) and was discriminated from the other emotion categories by significantly greater activity in left medial frontal gyrus, right middle temporal gyrus, and right inferior frontal gyrus. Anger was consistently associated with activity in 13 clusters (the largest of which was located in the left inferior frontal gyrus), and was discriminated from the other emotion categories by significantly greater activity in bilateral inferior frontal gyrus, and in right parahippocampal gyrus. Fear was consistently associated with 11 clusters (the largest activation cluster in the left amygdala) and was discriminated from the other emotion categories by significantly greater activity in the left amygdala and left putamen. Disgust was consistently activated with 16 clusters (the largest activation cluster in the right insula/ right inferior frontal gyrus) and was discriminated from the other emotion categories by significantly greater activity in the right putamen and the left insula.[99]
+Lindquist et al. 2012[edit]
+Lindquist, et al. 2012 reviewed 91 PET and fMRI studies published between January 1990 and December 2007. The studies included in this meta-analysis used induction methods that elicit emotion experience or emotion perception of fear, sadness, disgust, anger, and happiness. The goal was to compare locationist approaches with psychological constructionist approaches to emotion. Similar to Kober et al. described above, a Multilevel Peak Kernel Density Analysis[97] transformed the individual peak activations reported across study contrasts into a neural reference space (in other words, the set of brain regions consistently active across all study contrasts assessing emotion experience or perception). The density analysis was then used to identify voxels within the neural reference space with more consistent activations for a specific emotion category (anger, fear, happiness, sadness, and disgust) than all other emotions. Chi-squared analysis was used to create statistical maps that indicated if each previously identified and consistently active regions (those identified during density analysis) were more frequently activated in studies of each emotion category versus the average of all other emotions, regardless of activations elsewhere in the brain. Chi-squared analysis and density analysis both defined functionally consistent and selective regions, or regions which showed a relatively more consistent increase in activity for the experience or perception of one emotion category across studies in the literature. Thus, a selective region could present increased activations relatively more so to one emotion category while also having a response to multiple other emotional categories. A series of logistic regressions were then performed to identify if any of the regions that were identified as consistent and selective to an emotion category were additionally specific to a given category. Regions were defined as specific to a given emotion if they showed increased activations for only one emotional category, and never showed increased activity during instances of the other emotional categories. In other words, a region could be defined as consistent, selective and specific for e.g. fear perception if it only showed significantly greater increases in activation during the perception of fear and did not show increased activity during any other emotion categories. However, the same region would be defined as only consistent and selective (and not specific) to fear perception if it additionally displayed increased activations during anger perception. Strong support for the locationist approach was defined as evidence that basic emotion categories (anger, disgust, fear, happiness and sadness) consistently map onto areas of the brain that specifically activate in response to instances of only one emotional category. Strong support for the constructionist approach was defined as evidence that multiple psychological operations (some of which are not specific or selective to emotion) consistently occur across many brain regions and multiple emotional categories.
+The results indicated that many brain regions demonstrated consistent and selective activations in the experience or perception of an emotion category (versus all the other emotion categories). Consistent with constructionist models, however, no region demonstrated functional specificity for the emotions of fear, disgust, happiness, sadness or anger. Based on the existing scientific literature, the authors proposed different roles for the brain regions that have traditionally been associated with only one emotion category. The authors propose that the amygdala, anterior insula, orbitofrontal cortex each contribute to “core affect,” which are basic feelings that are pleasant or unpleasant with some level of arousal. The amygdala, for example, appears to play a more general role in indicating if external sensory information is motivationally salient, and is particularly active when a stimulus is novel or evokes uncertainty. The anterior insula may represent core affective feelings in awareness across a number of emotion categories, driven largely by sensations originating in the body. The orbitofrontal cortex appears to function as a site for integrating sensory information from the body and sensory information from the world to guide behavior. Closely related to core affect, the authors propose that anterior cingulate and dorsolateral prefrontal cortex play vital roles in attention, with anterior cingulate supporting the use of sensory information for directing attention and motor responses during response selection and with dorsolateral prefrontal cortex supporting executive attention. In many psychological construction approaches, emotions also involve the act of interpreting one’s situation in the world relative to the internal state of the body, or what is referred to as “conceptualization.” In support of this idea, the dorsomedial prefrontal cortex and hippocampus were consistently active in this meta-analysis, regions that appear to play an important role conceptualizing during emotion, which are also involved in simulating previous experience (e.g. knowledge, memory). Language is also central to conceptualizing, and regions that support language, including ventrolateral prefrontal cortex, were also consistently active across studies of emotion experience and perception.[94]
+See also[edit]
+
+
+Affective science
+Affective spectrum
+Affect (psychology)
+Emotion
+Endocrinology
+Music therapy
+Neuroendocrinology
+Outline of brain mapping
+Outline of the human brain
+Psychiatry
+Psychology
+Psychophysiology
+
+
+References[edit]
+
+
+^ Panksepp J (1992). "A role for "affective neuroscience" in understanding stress: the case of separation distress circuitry". In Puglisi-Allegra S, Oliverio A. Psychobiology of Stress. Dordrecht, Netherlands: Kluwer Academic. pp. 41–58. ISBN 0-7923-0682-1. 
+^ a b c d Celeghin, Alessia; Diano, Matteo; Bagnis, Arianna; Viola, Marco; Tamietto, Marco (2017). "Basic Emotions in Human Neuroscience: Neuroimaging and Beyond". Frontiers in Psychology. 8: 1432. doi:10.3389/fpsyg.2017.01432. ISSN 1664-1078. PMC 5573709 . PMID 28883803.  This article incorporates text by Alessia Celeghin, Matteo Diano, Arianna Bagnis, Marco Viola, and Marco Tamietto available under the CC BY 4.0 license.
+^ Broca, P. (1878). "Anatomie comparée des circonvolutions cérébrales: le grand lobe limbique". Rev. Anthropol. 1: 385–498. 
+^ Papez, J.W. (1937). "A proposed mechanism of emotion". J Neuropsychiatry Clin Neurosci. 7 (1): 103–12. doi:10.1176/jnp.7.1.103. PMID 7711480. 
+^ Maclean, P.D. (1952). "Psychiatric implications of physiological studies on frontotemporal portion of limbic system (visceral brain)". Electroencephalogr Clin Neurophysiol Suppl. 4 (4): 407–18. doi:10.1016/0013-4694(52)90073-4. PMID 12998590. 
+^ Dalgleish, T. (2004). "The emotional brain". Nature Reviews Neuroscience. 5 (7): 583–9. doi:10.1038/nrn1432. PMID 15208700. 
+^ Ledoux, J.E (1995). "Emotion: clues from the brain". Annual Review of Psychology. 46: 209–35. doi:10.1146/annurev.ps.46.020195.001233. PMID 7872730. 
+^ Breiter, Hans; N. Etcoff; Whalen, Paul J; Kennedy, William A; Rauch, Scott L; Buckner, Randy L; Strauss, Monica M; Hyman, Steven E; Rosen, Bruce R (November 1996). "Response and Habituation of the Human Amygdala during Visual Processing of Facial Expression". Neuron. 17 (5): 875–887. doi:10.1016/s0896-6273(00)80219-6. PMID 8938120. 
+^ Sherman, S. (2006). "Thalamus". Scholarpedia. 1 (9): 1583. doi:10.4249/scholarpedia.1583. 
+^ Steriade, Mircea; Llinás, Rodolfo R. (1988). "The Functional States of the Thalamus and the Associated Neuronal Interplay". Physiological Reviews. 68 (3): 649–742. PMID 2839857. 
+^ The Cambridge handbook of human affective neuroscience (1. publ. ed.). Cambridge [u.a.]: Cambridge Univ. Press. 2013. pp. 421, 29 and 616. ISBN 978-0-521-17155-7.  |first1= missing |last1= in Authors list (help)CS1 maint: Extra text: authors list (link)
+^ Fischer, Hakan; C.Wright; Whalen, Paul J; McInerney, Sean C; Shin, Lisa M; Rauch, Scott L (2002). "Brain habituation during repeated exposure to fearful and neutral faces: a functional MRI study". Brain Research Bulletin. 59 (5): 387–92. doi:10.1016/s0361-9230(02)00940-1. PMID 12507690. 
+^ Modi, Shilpi; R. Trivedi; K. Singh; P. Kumar; R. Rathore; R. Tripathi; S. Khushu (2012). "Individual differences in trait anxiety are associated with white matter tract integrity in fornix and uncinate fascicles: Preliminary evidence from a DTI based tractography study". Behavioural Brain Research. 238: 188–192. doi:10.1016/j.bbr.2012.10.007. PMID 23085341. 
+^ Seralynne D. Vann (2010). "Re-evaluating the role of the mammillary bodies in memory" (PDF). Neuropsychologia. 48 (8): 2316–2327. doi:10.1016/j.neuropsychologia.2009.10.019. PMID 19879886. 
+^ "olfactory bulb". Archived from the original on 2009-11-16. Retrieved 2009-11-20. 
+^ Brent A.; Leslie J. Vogt. "Cingulate Gyrus: Functional Correlations of the 4 Cingulate Regions". Cingulum NeuroSciences Institute. Retrieved 2013-04-23. 
+^ D.H. Weissman; A. Gopalakrishnan; C.J. Hazlett; M.G. Woldorff (2005). "Dorsal Anterior Cingulate Cortex Resolves Conflict from Distracting Stimuli by Boosting Attention toward Relevant Events". Cerebral Cortex. 15 (2): 229–237. doi:10.1093/cercor/bhh125. PMID 15238434. 
+^ a b Medford N; Critchley HD. (June 2010). "Conjoint activity of anterior insular and anterior cingulate cortex: awareness and response" (PDF). Brain Struct Funct. 214 (5–6): 535–549. doi:10.1007/s00429-010-0265-x. PMC 2886906 . PMID 20512367. 
+^ Drevets, Wayne C.; Savitz, Jonathan; Trimble, Michael (15 December 2016). "The Subgenual Anterior Cingulate Cortex in Mood Disorders". CNS spectrums. 13 (8): 663–681. doi:10.1017/s1092852900013754. ISSN 1092-8529. PMC 2729429 . PMID 18704022. 
+^ Da Cunha C; Gomez-A A; Blaha CD. (2012). "The role of the basal ganglia in motivated behavior". Rev Neurosci. 23 (5–6): 747–67. doi:10.1515/revneuro-2012-0063. PMID 23079510. 
+^ Mikhael, John G.; Bogacz, Rafal (2 September 2016). "Learning Reward Uncertainty in the Basal Ganglia". PLOS Computational Biology. 12 (9): e1005062. doi:10.1371/journal.pcbi.1005062. ISSN 1553-7358. PMC 5010205 . PMID 27589489. 
+^ Bechara, Antoine; H. Damasio; A. Damasio (2000). "Emotion, Decision Making and the Orbitofrontal Cortex". Oxford Journals. 10 (3): 295–307. doi:10.1093/cercor/10.3.295. PMID 10731224. 
+^ Davidson, R.J.; Sutton, S.K. (1995). "Affective neuroscience: The emergence of a discipline". Current Opinion in Neurobiology. 5 (2): 217–224. doi:10.1016/0959-4388(95)80029-8. 
+^ Kringelbach, Morten L.; Berridge, Kent C. (15 December 2016). "The Functional Neuroanatomy of Pleasure and Happiness". Discovery medicine. 9 (49): 579–587. ISSN 1539-6509. PMC 3008353 . PMID 20587348. 
+^ Gu, Xiaosi; Hof, Patrick R.; Friston, Karl J.; Fan, Jin (15 October 2013). "Anterior Insular Cortex and Emotional Awareness". The Journal of Comparative Neurology. 521 (15): 3371–3388. doi:10.1002/cne.23368. ISSN 0021-9967. PMC 3999437 . PMID 23749500. 
+^ Parvizi; Anderson; Damasio; Damasio (2001). "Pathological laughing and crying: a link to the cerebellum". Brain. 124 (9): 1708–19. doi:10.1093/brain/124.9.1708. PMID 11522574. 
+^ Turner, Paradiso; Marvel, Pierson; Ponto, Boles; Hichwa, Robinson; Boles Ponto, L. L.; Hichwa, R. D.; Robinson, R. G. (March 2007). "The cerebellum and emotional experience". Neuropsychologia. 45 (6): 1331–1341. doi:10.1016/j.neuropsychologia.2006.09.023. PMC 1868674 . PMID 17123557. 
+^ Martin-Solch, C; Magyar, S; Kunig, G; Missimer, J; Schultz, W; Leenders, KL. (2001). "Changes in brain activation associated with reward processing in smokers and nonsmokers. A positron emission tomography study". Experimental Brain Research. 139 (3): 278–286. doi:10.1007/s002210100751. PMID 11545466. 
+^ Sell, LA; Morris, J; Bearn, J; Frackowiak, RS; Friston, KJ; Dolan, RJ. (1999). "Activation of reward circuitry in human opiate addicts". European Journal of Neuroscience. 11 (3): 1042–1048. doi:10.1046/j.1460-9568.1999.00522.x. PMID 10103096. 
+^ Holstege, G; Georgiadis, JR; Paans, AM; Meiners, LC; der Graaf, FH; Reinders, AA. (2003). "Brain activation during human male ejaculation". Journal of Neuroscience. 23 (27): 9185–9193. PMID 14534252. 
+^ Mills, C. K. (1912a). "The cerebral mechanism of emotional expression". Transactions of the College of Physicians of Philadelphia. 34: 381–390. 
+^ Mills, C. K. (1912b). "The cortical representation of emotion, with a discussion of some points in the general nervous mechanism of expression in its relation to organic nervous disease and insanity". Proceedings of the American Medico-Psychological Association. 19: 297–300. 
+^ Papez, J. W. (1937). "A proposed mechanism of emotion". Archives of Neurology and Psychiatry. 38 (4): 725–743. doi:10.1001/archneurpsyc.1937.02260220069003. 
+^ a b Borod, J. C. (1992). "Intel-hemispheric and intrahemispheric control of emotion: A focus on unilateral brain damage". Journal of Consulting and Clinical Psychology. 60 (3): 339–348. doi:10.1037/0022-006x.60.3.339. PMID 1619088. 
+^ Borod, J. C., Koff, E., & Caron, H. S. (1983). Right hemispheric specialization for the expression and appreciation of emotion: A focus on the face. In E. Perecman (Ed.), Cognitive functions in the right hemisphere (pp. 83-110). New York: Academic Press.
+^ Heilman, K. M. (February 1982). Discussant comments. In J. C. Borod & R. Buck (Chairs), Asymmetries in facial expression: Method and meaning. Symposium conducted at the International Neuropsychological Society, Pittsburgh, PA.
+^ Yokoyama, K.; Jennings, R.; Ackles, P.; Hood, B. S.; Boiler, F. (1987). "Lack of heart rate changes during an attention-demanding task after right hemisphere lesions". Neurology. 37 (4): 624–630. doi:10.1212/wnl.37.4.624. PMID 3561774. 
+^ Silberman, E. K.; Weingartner, H. (1986). "Hemispheric lateralization of functions related to emotion". Brain and Cognition. 5 (3): 322–353. doi:10.1016/0278-2626(86)90035-7. PMID 3530287. 
+^ Fox, N. A. (1991). "If it's not left, it's right". American Psychologist. 46 (8): 863–872. doi:10.1037/0003-066x.46.8.863. PMID 1928939. 
+^ Davidson, R.; Ekman, P.; Saron, C. D.; Senulis, J. A.; Friesen, W V (1990). "Approach-withdrawal and cerebral asymmetry: Emotional expression and brain physiology I". Journal of Personality and Social Psychology. 58 (2): 330–341. doi:10.1037/0022-3514.58.2.330. PMID 2319445. 
+^ Borod, J.C.; Cicero, B.A.; Obler, L.K.; Welkowitz, J.; Erhan, H.M.; Santschi, C.; et al. (1998). "Right hemisphere emotional perception: Evidence across multiple channels". Neuropsychology. 12 (3): 446–458. doi:10.1037/0894-4105.12.3.446. PMID 9673999. 
+^ Levin, RL; Heller, W; Mohanty, A; Herrington, JD; Miller, GA. (2007). "Cognitive deficits in depression and functional specificity of regional brain activity". Cognitive Therapy and Research. 31 (2): 211–233. doi:10.1007/s10608-007-9128-z. 
+^ Engels, AS; Heller, W; Mohanty, A; Herrington, JD; Banich, MT; Webb, AG; Miller, GA (2007). "Specificity of regional brain activity in anxiety types during emotion processing". Psychophysiology. 44 (3): 352–363. doi:10.1111/j.1469-8986.2007.00518.x. PMID 17433094. 
+^ Spielberg, J.; Stewart, J; Levin, R.; Miller, G.; Heller, W. (2008). "Prefrontal Cortex, Emotion, and Approach/Withdrawal Motivation". Soc Personal Psychol Compass. 2 (1): 135–153. doi:10.1111/j.1751-9004.2007.00064.x. PMC 2889703 . PMID 20574551. 
+^ Cacioppo, J.T.; Gardner, W.L. (1999). "Emotion". Annual Review of Psychology. 50: 191–214. doi:10.1146/annurev.psych.50.1.191. PMID 10074678. 
+^ Davidson, R.J. (2000). "Cognitive neuroscience needs affective neuroscience (and vice versa)". Brain & Cognition. 42: 89–92. doi:10.1006/brcg.1999.1170. 
+^ a b Drevets, W.C.; Raichle, M.E. (1998). "Reciprocal suppression of regional cerebral blood flow during emotional versus higher cognitive processes: Implications for interactions between emotion and cognition". Cognition and Emotion. 12 (3): 353–385. doi:10.1080/026999398379646. 
+^ Schulz, K.P.; Fan, J.; Magidina, O.; Marks, D.J.; Hahn, B.; Halperin, J.M. (2007). "Does the emotional go/no-go task really measure behavioral inhibition? Convergence with measures on a non-emotional analog". Archives of Clinical Neuropsychology. 22 (2): 151–160. doi:10.1016/j.acn.2006.12.001. PMC 2562664 . PMID 17207962. 
+^ Elliott, R.; Ogilvie, A.; Rubinsztein, J.S.; Calderon, G.; Dolan, R.J.; Sahakian, B.J. (2004). "Abnormal ventral frontal response during performance of an affective go/no go task in patients with mania". Biological Psychiatry. 55 (12): 1163–1170. doi:10.1016/j.biopsych.2004.03.007. PMID 15184035. 
+^ Elliott, R.; Rubinsztein, J.S.; Sahakian, B.J.; Dolan, R.J. (2000). "Selective attention to emotional stimuli in a verbal go/no-go task: An fMRI study". Brain Imaging. 11 (8): 1739–1744. doi:10.1097/00001756-200006050-00028. 
+^ Hare, T.A.; Tottenham, N.; Davidson, M.C.; Glover, G.H.; Casey, B.J. (2005). "Contributions of amygdala and striatal activity in emotion regulation". Biological Psychiatry. 57 (6): 624–632. doi:10.1016/j.biopsych.2004.12.038. PMID 15780849. 
+^ Stroop, J.R. (1935). "Studies of interference in serial verbal reactions". Journal of Experimental Psychology. 18 (6): 643–662. doi:10.1037/h0054651. 
+^ a b Epp, A.M.; Dobson, K.S.; Dozois, D.J.A.; Frewen, P.A. (2012). "A systematic meta-analysis of the stroop task in depression". Clinical Psychology Review. 32 (4): 316–328. doi:10.1016/j.cpr.2012.02.005. PMID 22459792. 
+^ Pratto, F.; John, O. P. (1991). "Automatic vigilance: The attention grabbing power of negative social information". Journal of Personality & Social Psychology. 61 (3): 380–391. doi:10.1037/0022-3514.61.3.380. PMID 1941510. 
+^ Wentura, D.; Rothermund, K.; Bak, P. (2000). "Automatic vigilance: The attention-grabbing power of approach and avoidance-related social information". Journal of Personality and Social Psychology. 78 (6): 1024–1037. doi:10.1037/0022-3514.78.6.1024. PMID 10870906. 
+^ Williams, J.M.; Broadbent, K. (1986). "Distraction by emotional stimuli: use of a Stroop task with suicide attempters". British Journal of Clinical Psychology. 25 (2): 101–110. doi:10.1111/j.2044-8260.1986.tb00678.x. 
+^ a b c d Williams, M.G.; Matthews, A.; MacLeod, C. (1996). "The emotional stroop task and psychopathology". Psychological Bulletin. 120 (1): 3–24. doi:10.1037/0033-2909.120.1.3. PMID 8711015. 
+^ Gotlib, I.H., Roberts, J.E., & Gilboa, E. (1996). Cognitive interference in depression. in I.G. Sarason, G.R. Pierce, & B.R. Sarason (Eds.), Cognitive interference: Theories, methods, and findings, Lawrence Erlbaum Associates Inc., Hillsdale, NJ, pp. 347–377.
+^ Watts, E N.; McKenna, E P.; Sharrock, R.; Trezise, L. (1986). "Colour naming of phobia-related words". British Journal of Psychology. 77: 97–108. doi:10.1111/j.2044-8295.1986.tb01985.x. PMID 2869817. 
+^ Martin, M.; Williams, R. M.; Clark, D. M. (1991). "Does anxiety lead to selective processing of threat-related information?". Behaviour Research and Therapy. 29 (2): 147–160. doi:10.1016/0005-7967(91)90043-3. PMID 2021377. 
+^ Mogg, K.; Mathews, A. M.; Weinman, J. (1989). "Selective processing of threat cues in anxiety states: A replication". Behaviour Research and Therapy. 27 (4): 317–323. doi:10.1016/0005-7967(89)90001-6. PMID 2775141. 
+^ Diehl-Schmid, J.; Pohl, C.; Ruprecht, C.; Wagenpfeil, S.; Foerstl, H.; Kurz, A. (2007). "The Ekman 60 faces test as a diagnostic instrument in frontotemporal dementia". Archives of Clinical Neuropsychology. 22 (4): 459–464. doi:10.1016/j.acn.2007.01.024. PMID 17360152. 
+^ Ekman, P., & Friesen, W. (1976). Pictures of facial affect. Consulting Psychologists Press: Palo Alto, CA.
+^ Diehl-Schmida, J.; Pohla, C.; Ruprechta, C.; Wagenpfeilb, S.; Foerstla, H.; Kurza, A. (2007). "The Ekman 60 faces test as a diagnostic instrument in frontotemporal dementia". Archives of Clinical Neuropsychology. 22 (4): 459–464. doi:10.1016/j.acn.2007.01.024. PMID 17360152. 
+^ Ibarretxe-Bilbao, N.; Junque, C.; Tolosa, E.; Marti, M.; Valldeoriola, F.; Bargalloand, N.; Zareio, M. (2009). "Neuroanatomical correlates of impaired decision-making and facial emotion recognition in early Parkinson's disease". European Journal of Neuroscience. 30 (6): 1162–1171. doi:10.1111/j.1460-9568.2009.06892.x. PMID 19735293. 
+^ Soeiro-de-Souza, M.G.; Bio, D.S.; David, D.P.; Santos, D.R.; Kerr, D.S.; Moreno, R.A.; Machado-Vieira, Rodrigo; Moreno, Ricardo Albeto (2012). "COMT Met (158) modulates facial emotion recognition in bipolar I disorder mood episodes". Journal of Affective Disorders. 136 (3): 370–376. doi:10.1016/j.jad.2011.11.021. PMID 22222175. 
+^ Ebert, A.; Haussleiter, I.S.; Juckel, G.; Brune, M.; Roser, P. (2012). "Impaired facial emotion recognition in a ketamine model of psychosis". Psychiatry Research. 200 (2–3): 724–727. doi:10.1016/j.psychres.2012.06.034. PMID 22776754. 
+^ a b c Koster, E.H.W.; Crombez, G.; Verschuere, B.; De Houwer, J. (2004). "Selective attention to threat in the dot probe paradigm: Differentiating vigilance and difficulty to disengage". Behaviour Research and Therapy. 42 (10): 1183–1192. doi:10.1016/j.brat.2003.08.001. PMID 15350857. 
+^ MacLeod, C.; Mathews, A.; Tata, P. (1986). "Attentional bias in emotional disorders". Journal of Abnormal Psychology. 95 (1): 15–20. doi:10.1037/0021-843x.95.1.15. PMID 3700842. 
+^ Mogg, K.; Bradley, B. P. (1998). "A cognitive–motivational analysis of anxiety". Behaviour Research and Therapy. 36 (9): 809–848. doi:10.1016/s0005-7967(98)00063-1. 
+^ Asmundson, G.J.G.; Stein, M.B. (1994). "Selective processing of social threat in patients with generalized social phobia: Evaluation using a dot-probe paradigm". Journal of Anxiety Disorders. 8 (2): 107–117. doi:10.1016/0887-6185(94)90009-4. 
+^ Amir, N.; Naimi, S.; Morrison, A.S. (2009). "Attenuation of attention bias in obsessive-compulsive disorder". Behaviour Research and Therapy. 47 (2): 153–157. doi:10.1016/j.brat.2008.10.020. PMC 2662360 . PMID 19046576. 
+^ Davis, M. (1986). "Pharmacological and anatomical analysis of fear conditioning using the fear-potentiated startle paradigm". Behavioral Neuroscience. 100 (6): 814–824. doi:10.1037/0735-7044.100.6.814. PMID 3545257. 
+^ Baskin-Sommers, A.R.; Vitale, J.E.; MacCoon, D.; Newman, J.P. (2012). "Assessing emotion sensitivity in female offenders with borderline personality symptoms: Results from a fear-potentiated startle paradigm". Journal of Abnormal Psychology. 121 (2): 477–483. doi:10.1037/a0026753. PMC 3358451 . PMID 22250659. 
+^ a b Vaidyanathan, U.; Patrick, C.J.; Cuthbert, B.N. (2009). "Linking dimensional models of internalizing psychopathology to neurobiological systems: Affect-modulated startle as an indicator of fear and distress disorders and affiliated traits". Psychological Bulletin. 135 (6): 909–942. doi:10.1037/a0017222. PMC 2776729 . PMID 19883142. 
+^ Lang, P. J.; Bradley, M. M.; Cuthbert, B. N. (1990). "Emotion, attention, and the startle reflex". Psychological Review. 97 (3): 377–395. doi:10.1037/0033-295x.97.3.377. PMID 2200076. 
+^ Vrana, S. R.; Spence, E. L.; Lang, P. J. (1988). "The startle probe response: A new measure of emotion?". Journal of Abnormal Psychology. 97 (4): 487–491. doi:10.1037/0021-843x.97.4.487. PMID 3204235. 
+^ Norrholm, S.D.; Anderson, K.M.; Olin, I.W.; Jovanovic, T.; Kwon, C.; Warren, Victor T.; Bradley, B.; Bosshardt, Lauren; Sabree, Justin; Duncan, Erica J.; Rothbaum, Barbara O.; Bradley, Bekh (2011). "Versatility of fear-potentiated startle paradigms for assessing human conditioned fear extinction and return of fear". Behavioral Neuroscience. 5: 77. doi:10.3389/fnbeh.2011.00077. 
+^ Grillon, C.; Ameli, R.; Woods, S. W.; Merikangas, K.; Davis, M. (1991). "Fear-potentiated startle in humans: Effects of anticipatory anxiety on the acoustic blink reflex". Psychophysiology. 28 (5): 588–595. doi:10.1111/j.1469-8986.1991.tb01999.x. PMID 1758934. 
+^ Norrholm, S.; Jovanovic, Tanja (2011). "Translational fear inhibition models as indices of trauma-related psychopathology". Current Psychiatry Reviews. 7 (3): 194–204. doi:10.2174/157340011797183193. 
+^ Norrholm, S. D.; Jovanovic, T.; Olin, I. W.; Sands, L.; Karapanou, I.; Bradley, B.; Ressler, K. J. (2010). "Fear extinction in traumatized civilians with posttraumatic stress disorder: relation to symptom severity". Biological Psychiatry. 69 (6): 556–563. doi:10.1016/j.biopsych.2010.09.013. PMC 3052965 . PMID 21035787. 
+^ Lang, P. J.; McTeague, L. M. (2009). "The anxiety disorder spectrum: Fear imagery, physiological reactivity, and differential diagnosis". Anxiety, Stress & Coping. 22 (1): 5–25. doi:10.1080/10615800802478247. 
+^ a b Cousens, G.A.; Kearns, A.; Laterza, F.; Tundidor, J. (2012). "Excitotoxic lesions of the medial amygdala attenuate olfactory fear-potentiated startle and conditioned freezing behavior". Behavioural Brain Research. 229 (2): 427–432. doi:10.1016/j.bbr.2012.01.011. PMID 22249137. 
+^ Jovanovic, T; Norrholm, Seth D.; Fennell, Jennifer E.; Keyes, Megan; Fiallos, Ana M.; Myers, Karyn M.; Davis, Michael; Duncan, Erica J. (15 May 2009). "Posttraumatic stress disorder may be associated with impaired fear inhibition: relation to symptom severity". Psychiatry Research. 167 (1–2): 151–160. doi:10.1016/j.psychres.2007.12.014. PMC 2713500 . PMID 19345420. 
+^ Picard, R. W.; Papert, S; Bender, W; Blumberg, B; Breazeal, C; Cavallo, D; Machover, T; Resnick, M; Roy, D; Strohecker, C (2004). "Affective Learning – a manifesto". BT Technology Journal. 22 (4): 253–269. doi:10.1023/b:bttj.0000047603.37042.33.  
+^ Havas, D.A.; Glenberg, A.M.; Rinck, M. (2007). "Emotion simulation during language comprehension". Psychonomic Bulletin & Review. 14 (3): 436–441. doi:10.3758/bf03194085. 
+^ Wicker, B.; Keysers, Christian; Plailly, Jane; Royet, Jean-Pierre; Gallese, Vittorio; Rizzolatti, Giacomo (2003). "Both of Us Disgusted in My Insula: The Common Neural Basis of Seeing and Feeling Disgust". Neuron. 40 (3): 655–664. doi:10.1016/s0896-6273(03)00679-2. PMID 14642287. 
+^ Niedenthal, P. M. (2007). "Embodying emotion". Science. 316 (5827): 1002–1005. doi:10.1126/science.1136930. PMID 17510358. 
+^ a b c Ekman, P.; Cordaro, D. (2011). "What is meant by calling emotions basic". Emotion Review. 3 (4): 364–370. doi:10.1177/1754073911410740. 
+^ a b c Panksepp, J.; Watt, D. (2011). "What is basic about basic emotions? Lasting lessons from affective neuroscience". Emotion Review. 3 (4): 387–396. doi:10.1177/1754073911410741. 
+^ Izard, C.E. (2011). "Forms and functions in emotions: Matters of emotion-cognition interactions". Emotion Review. 3 (4): 371–378. doi:10.1177/1754073911410737. 
+^ Panksepp, J. (1998). Affective Neuroscience: The foundations of human and animal emotions. New York: Oxford University Press. 
+^ a b c Barrett, L.F.; Wager, T. (2006). "The structure of emotion: Evidence from the neuroimaging of emotion". Current Directions in Psychological Science. 15 (2): 79–85. doi:10.1111/j.0963-7214.2006.00411.x. 
+^ a b Lindquist, K.; Wager, T.; Kober, Hedy; Bliss-Moreau, Eliza; Barrett, Lisa Feldman (2012). "The brain basis of emotion: A meta-analytic review". Behavioral and Brain Sciences. 35 (3): 121–143. doi:10.1017/s0140525x11000446. PMC 4329228 . PMID 22617651. 
+^ Phan, K.L.; Wager, T.D.; Taylor, S.F.; Liberzon, I. (2002). "Functional neuroanatomy of emotion: A meta-analysis of emotion activation studies in PET and fMRI". NeuroImage. 16 (2): 331–348. doi:10.1006/nimg.2002.1087. PMID 12030820. 
+^ Murphy, F.C.; Nimmo-Smith, I.; Lawrence, A.D. (2003). "Functional Neuroanatomy: A meta-analysis". Cognitive, Affective & Behavioral Neuroscience. 3 (3): 207–233. doi:10.3758/cabn.3.3.207. 
+^ a b Wager, T.D.; Lindquist, M.; Kaplan, L. (2007). "Meta-analysis of functional neuroimaging data: Current and future directions". Social, Cognitive, and Affective Neuroscience. 2 (2): 150–158. doi:10.1093/scan/nsm015. 
+^ Kober, H.; Barrett, L.F.; Joseph, J.; Bliss-Moreau, E.; Lindquist, K.; Wager, T.D. (2008). "Functional grouping and cortical-subcortical interactions in emotion: A meta-analysis of neuroimaging studies". NeuroImage. 42 (2): 998–1031. doi:10.1016/j.neuroimage.2008.03.059. PMC 2752702 . PMID 18579414. 
+^ Vytal, K.; Hamann, S. (2010). "Neuroimaging support for discrete neural correlates of basic emotions: A voxel-based meta-analysis". Journal of Cognitive Neuroscience. 22 (12): 2864–2885. doi:10.1162/jocn.2009.21366. PMID 19929758. 
+
+
+Further reading[edit]
+
+Davidson, R.J.; Irwin, W. (1999). "The functional neuroanatomy of emotion and affective style". Trends in Cognitive Science. 3: 11–21. doi:10.1016/s1364-6613(98)01265-0. 
+Freitas-Magalhaes, A. (2009). Emotional Expression: The Brain and The Face. Porto: University Fernando Pessoa Press. ISBN 978-989-643-034-4
+Panksepp, J. (1992). "A critical role for affective neuroscience in resolving what is basic about basic emotions". Psychological Review. 99 (3): 554–60. doi:10.1037/0033-295x.99.3.554. PMID 1502276. 
+Harmon-Jones E, & Winkielman P. (Eds.) Social Neuroscience: Integrating Biological and Psychological Explanations of Social Behavior. New York: Guilford Publications.
+Cacioppo, J.T., & Berntson, G.G. (2005). Social Neuroscience. Psychology Press.
+Cacioppo, J.T., Tassinary, L.G., & Berntson, G.G. (2007). Handbook of Psychophysiology. Cambridge University Press.
+Panksepp J. (1998). Affective Neuroscience: The Foundations of Human and Animal Emotions (Series in Affective Science). Oxford University Press, New York, New York.
+Brain and Cognition, Vol. 52, No. 1, pp. 1–133 (June, 2003). Special Issue on Affective Neuroscience.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Neuroscience
+
+
+
+
+Outline of neuroscience
+
+
+
+Basic
+science
+
+
+
+Behavioral epigenetics
+Behavioral genetics
+Cellular neuroscience
+Computational neuroscience
+Connectomics
+Imaging genetics
+Integrative neuroscience
+Molecular neuroscience
+Neural engineering
+Neuroanatomy
+Neurochemistry
+Neuroendocrinology
+Neurogenetics
+Neuroinformatics
+Neurometrics
+Neuromorphology
+Neurophysics
+Neurophysiology
+
+
+
+
+
+
+
+
+Clinical
+neuroscience
+
+
+
+Behavioral neurology
+Clinical neurophysiology
+Neurocardiology
+Neuroepidemiology
+Neurogastroenterology
+Neuroimmunology
+Neurointensive care
+Neurology
+Neurooncology
+Neuro-ophthalmology
+Neuropathology
+Neuropharmacology
+Neuroprosthetics
+Neuropsychiatry
+Neuroradiology
+Neurorehabilitation
+Neurosurgery
+Neurotology
+Neurovirology
+Nutritional neuroscience
+Psychiatry
+
+
+
+
+
+Cognitive
+neuroscience
+
+
+
+Affective neuroscience
+Behavioral neuroscience
+Chronobiology
+Molecular cellular cognition
+Motor control
+Neurolinguistics
+Neuropsychology
+Sensory neuroscience
+Social neuroscience
+Systems neuroscience
+
+
+
+
+
+Interdisciplinary
+fields
+
+
+
+Consumer neuroscience
+Cultural neuroscience
+Educational neuroscience
+Evolutionary neuroscience
+Neuroanthropology
+Neurobioengineering
+Neurobiotics
+Neurocriminology
+Neuroeconomics
+Neuroepistemology
+Neuroesthetics
+Neuroethics
+Neuroethology
+Neurohistory
+Neurolaw
+Neuromarketing
+Neurophenomenology
+Neurophilosophy
+Neuropolitics
+Neurorobotics
+Neurosociology
+Neurotheology
+Paleoneurology
+
+
+
+
+
+Concepts
+
+
+
+Brain–computer interface
+Neural development
+Neural network (artificial)
+Neural network (biological)
+Detection theory
+Intraoperative neurophysiological monitoring
+Neurochip
+Neurodegeneration
+Neurodevelopmental disorder
+Neurodiversity
+Neurogenesis
+Neuroimaging
+Neuroimmune system
+Neuromanagement
+Neuromodulation
+Neuroplasticity
+Neurotechnology
+Neurotoxin
+
+
+
+
+
+
+
+
+ Book
+ Category
+ Commons
+ Portal
+ Wikiproject
+
+
+
+
+
+
+
+
+
+
+Categories: NeuroscienceNeuropsychologyEmotionHidden categories: Articles with imported freely licensed textCS1 errors: missing author or editorCS1 maint: Extra text: authors listWikipedia introduction cleanup from May 2015All pages needing cleanupArticles covered by WikiProject Wikify from May 2015All articles covered by WikiProject Wikify

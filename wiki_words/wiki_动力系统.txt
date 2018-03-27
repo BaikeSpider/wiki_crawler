@@ -1,0 +1,512 @@
+动力系统
+
+
+
+
+在洛伦兹振荡器，一个动力系统的研究中出现洛伦茨吸引子。
+
+
+动态系统（dynamical system）是数学上的一个概念。动态系统是一种固定的规则，它描述一个给定空间（如某个物理系统的状态空间）中所有点随时间的变化情况。例如描述钟摆晃动、管道中水的流动，或者湖中每年春季鱼类的数量，凡此等等的数学模型都是动态系统。
+在动态系统中有所谓状态的概念，状态是一组可以被确定下来的实数。状态的微小变动对应这组实数的微小变动。这组实数也是一种流形的几何空间坐标。动态系统的演化规则是一组函数的固定规则，它描述未来状态如何依赖于当前状态的。这种规则是确定性的，即对于给定的时间间隔内，从现在的状态只能演化出一个未来的状态。
+若只是在一系列不连续的时间点考察系统的状态，则这个动态系统为离散动态系统；若时间连续，就得到一个连续动态系统。如果系统以一种连续可微的方式依赖于时间，我们就称它为一个光滑动态系统。
+
+
+
+目录
+
+
+1 参见
+2 参考书籍
+3 延伸阅读
+4 外部链接
+
+
+
+参见[编辑]
+
+混沌理论
+洛伦兹系统
+复变动态系统
+线性动态系统
+
+参考书籍[编辑]
+
+
+Geometrical theory of dynamical systems Nils Berglund's lecture notes for a course at ETH at the advanced undergraduate level.
+Dynamical systems. George D. Birkhoff's 1927 book already takes a modern approach to dynamical systems.
+Chaos: classical and quantum. An introduction to dynamical systems from the periodic orbit point of view.
+Introduction to Social Macrodynamics. Mathematical models of the World System development
+Differential Equations, Dynamical Systems, and an Introduction to Chaos 微分方程、动力系统与混沌导论
+
+
+延伸阅读[编辑]
+
+Works providing a broad coverage:
+
+Ralph Abraham and Jerrold E. Marsden. Foundations of mechanics. Benjamin–Cummings. 1978. ISBN 0-8053-0102-X.  (available as a reprint: ISBN 0-201-40840-6)
+Encyclopaedia of Mathematical Sciences (ISSN 0938-0396) has a sub-series on dynamical systems with reviews of current research.
+Christian Bonatti; Lorenzo J. Díaz; Marcelo Viana. Dynamics Beyond Uniform Hyperbolicity: A Global Geometric and Probabilistic Perspective. Springer. 2005. ISBN 3-540-22066-6. 
+Stephen Smale. Differentiable dynamical systems. Bulletin of the American Mathematical Society. 1967, 73 (6): 747–817. doi:10.1090/S0002-9904-1967-11798-1. 
+
+Introductory texts with a unique perspective:
+
+V. I. Arnold. Mathematical methods of classical mechanics. Springer-Verlag. 1982. ISBN 0-387-96890-3. 
+Jacob Palis and Welington de Melo. Geometric theory of dynamical systems: an introduction. Springer-Verlag. 1982. ISBN 0-387-90668-1. 
+David Ruelle. Elements of Differentiable Dynamics and Bifurcation Theory. Academic Press. 1989. ISBN 0-12-601710-7. 
+Tim Bedford, Michael Keane and Caroline Series, eds.. Ergodic theory, symbolic dynamics and hyperbolic spaces. Oxford University Press. 1991. ISBN 0-19-853390-X. 
+Ralph H. Abraham and Christopher D. Shaw. Dynamics—the geometry of behavior, 2nd edition. Addison-Wesley. 1992. ISBN 0-201-56716-4. 
+
+Textbooks
+
+Kathleen T. Alligood, Tim D. Sauer and James A. Yorke. Chaos. An introduction to dynamical systems. Springer Verlag. 2000. ISBN 0-387-94677-2. 
+Oded Galor. Discrete Dynamical Systems. Springer. 2011. ISBN 978-3-642-07185-0. 
+Morris W. Hirsch, Stephen Smale and Robert L. Devaney. Differential Equations, dynamical systems, and an introduction to chaos. Academic Press. 2003. ISBN 0-12-349703-5. 
+Anatole Katok; Boris Hasselblatt. Introduction to the modern theory of dynamical systems. Cambridge. 1996. ISBN 0-521-57557-5. 
+Stephen Lynch. Dynamical Systems with Applications using Maple 2nd Ed.. Springer. 2010. ISBN 0-8176-4389-3. 
+Stephen Lynch. Dynamical Systems with Applications using Mathematica. Springer. 2007. ISBN 0-8176-4482-2. 
+Stephen Lynch. Dynamical Systems with Applications using MATLAB 2nd Edition. Springer International Publishing. 2014. ISBN 3319068199. 
+James Meiss. Differential Dynamical Systems. SIAM. 2007. ISBN 0-89871-635-7. 
+David D. Nolte. Introduction to Modern Dynamics: Chaos, Networks, Space and Time. Oxford University Press. 2015. ISBN 978-0199657032. 
+Julien Clinton Sprott. Chaos and time-series analysis. Oxford University Press. 2003. ISBN 0-19-850839-5. 
+Steven H. Strogatz. Nonlinear dynamics and chaos: with applications to physics, biology chemistry and engineering. Addison Wesley. 1994. ISBN 0-201-54344-3. 
+Teschl, Gerald. Ordinary Differential Equations and Dynamical Systems. Providence: American Mathematical Society. 2012. ISBN 978-0-8218-8328-0. 
+Stephen Wiggins. Introduction to Applied Dynamical Systems and Chaos. Springer. 2003. ISBN 0-387-00177-8. 
+
+Popularizations:
+
+Florin Diacu and Philip Holmes. Celestial Encounters. Princeton. 1996. ISBN 0-691-02743-9. 
+James Gleick. Chaos: Making a New Science. Penguin. 1988. ISBN 0-14-009250-1. 
+Ivar Ekeland. Mathematics and the Unexpected (Paperback). University Of Chicago Press. 1990. ISBN 0-226-19990-8. 
+Ian Stewart. Does God Play Dice? The New Mathematics of Chaos. Penguin. 1997. ISBN 0-14-025602-4. 
+
+
+外部链接[编辑]
+
+动态系统介绍
+Dynamical systems at SUNY：纽约州立大学石溪校区研究小组的网站，有会议、研究者和未解决问题等资料（英）
+Oliver Knill：以JavaScript说明一些动态系统的例子（英）
+Arxiv preprint server：关于此范畴每日的新论文（英）
+Chaos @ UMD：主攻应用层面（英）
+动态系统的稳定性分析[失效链接]
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+数学领域
+
+
+
+
+
+
+
+注释：数学的领域也可根据“MSC分类标准”或“中国学科分类国家标准”进行分类。
+
+
+
+
+
+
+领域
+
+
+
+数理逻辑
+集合论
+范畴论
+代数
+
+初等
+线性
+多重线性
+抽象
+
+
+数论
+分析/微积分
+微分方程/动态系统
+数学物理
+数理统计
+几何
+
+离散
+代数
+解析
+微分
+有限
+
+
+拓扑
+动力系统
+组合
+泛函分析
+博弈论
+信息论
+图论
+数学教育
+数理逻辑
+数学物理
+数值分析
+最优化
+序理论
+数学哲学
+趣味数学
+计算
+概率
+表示
+统计
+三角
+
+
+
+
+
+
+
+
+分支
+
+
+
+纯粹数学
+应用数学
+离散数学
+计算数学
+元数学
+
+
+
+
+
+
+
+
+
+
+
+分类
+主题
+共享资源
+专题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+系统科学
+
+
+
+
+
+
+系统分类
+
+
+
+解剖系统
+生物系统
+复杂系统
+数据库
+动态系统
+生态系统
+经济系统
+形式系统
+全球定位系统
+资讯系统
+法律系统
+量度系统
+公制系统
+多智能体系统
+神经系统
+操作系统
+行星系统
+社会系统
+恒星系统
+
+
+
+
+
+
+
+
+系统理论
+
+
+
+
+
+
+
+混沌理论
+控制理论
+模控学
+生命系统理论
+社会系统理论
+世界体系理论
+系统分析
+系统生物学
+系统动力学
+系统工程
+系统科学
+系统思维
+
+
+
+
+
+
+
+
+
+
+
+系统科学家
+
+
+
+贝拉·巴纳锡
+林益
+陈翰馥
+大卫·伊斯顿
+何毓琦
+约翰·霍兰德
+尼克拉斯·卢曼
+塔尔科特·帕森斯
+谢广明
+张锺俊
+伊利亚·普里高津
+钱学森
+彼得·圣吉
+克劳德·香农
+爱德华·劳仑次
+艾兹赫尔·戴克斯特拉
+乔治·丹齐格
+肯尼思·博尔丁
+
+
+
+
+
+
+
+
+应用
+
+
+
+人类学中的系统理论（英语：Systems theory in anthropology）
+考古学中的系统理论（英语：Systems theory in archaeology）
+政治系统理论
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 共享资源
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+混沌理论
+
+
+
+
+
+
+混沌理论
+
+
+
+Anosov diffeomorphism
+分岔理论
+蝴蝶效应
+Chaos theory in organizational development
+复杂
+Control of chaos
+动态系统
+混沌的边缘
+分形
+Predictability
+Quantum chaos
+圣菲研究所
+Synchronization of chaos
+Unintended consequences
+
+
+
+
+
+
+
+
+
+
+
+
+
+混沌映射(列表（英语：List of chaotic maps）)
+
+
+
+Arnold tongue
+Arnold's cat map
+Baker's map
+Complex quadratic map
+Complex squaring map
+Coupled map lattice
+双摆
+多卷波混沌吸引子
+杜芬振子
+Duffing map
+Dyadic transformation
+Dynamical billiards
+
+outer
+
+
+Exponential map
+高斯映射
+Gingerbreadman map
+厄农映射
+马蹄映射
+Ikeda map
+Interval exchange map
+Kaplan–Yorke map
+单峰映象
+Lorenz system
+拉比诺维奇-法布里康特方程
+若斯叻吸引子
+Standard map
+Swinging Atwood's machine
+帐篷映射
+Tinkerbell map
+范德波尔振荡器
+Zaslavskii map
+
+
+
+
+
+
+
+
+混沌系统
+
+
+
+Bouncing ball dynamics
+蔡氏电路
+经济泡沫
+Tilt-A-Whirl
+
+
+
+
+
+
+
+
+混沌理论学家
+
+
+
+迈克尔·贝里
+蔡少棠
+米切尔·费根鲍姆
+Martin Gutzwiller
+Brosl Hasslacher
+Michel Hénon
+Edward Norton Lorenz
+亚历山大·李亚普诺夫
+本华·曼德博
+儒勒·昂利·庞加莱
+Otto Rössler
+David Ruelle
+Oleksandr Mykolaiovych Sharkovsky
+Floris Takens
+詹姆士·约克
+古茨威勒
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+NDL: 00576625
+
+
+
+
+
+
+
+
+
+
+
+
+分类：系统理论动力系统隐藏分类：含有英语的条目带有失效链接的条目条目有永久失效的外部链接有蓝链却未移除内部链接助手模板的页面

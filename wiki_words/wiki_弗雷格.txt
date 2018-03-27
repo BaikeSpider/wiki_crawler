@@ -1,0 +1,1290 @@
+戈特洛布·弗雷格
+
+
+
+
+
+本条目已列出参考文献，但因为没有文内引注而使来源仍然不明。（2014年3月18日） 
+请通过加入合适的行内引用来改善这篇条目。 
+
+
+
+
+弗里德里希·路德维希·戈特洛布·弗雷格
+
+
+
+1879年时的弗雷格
+
+
+
+出生
+1848年11月8日
+德意志邦联维斯马
+
+
+逝世
+1925年7月26日
+魏玛共和国巴特克莱嫩
+
+
+
+
+
+时代
+十九世纪哲学
+
+
+地区
+西方哲学
+
+
+学派
+分析哲学
+
+
+
+主要领域
+
+数学哲学、数理逻辑、 语言哲学
+
+
+
+著名思想
+
+谓词演算, 逻辑主义, Sense and reference, Mediated reference theory
+
+
+
+
+受影响于
+
+陆宰、恩斯特·阿贝、休谟、莱布尼兹
+
+
+
+
+
+
+
+影响于
+
+皮亚诺、罗素、卡尔纳普、维特根斯坦、胡塞尔，以及数理逻辑和分析哲学
+
+
+
+
+
+弗里德里希·路德维希·戈特洛布·弗雷格（德语：Friedrich Ludwig Gottlob Frege，宽式IPA：/ˈɡɔtlop ˈfʁeːɡə/；1848年11月8日－1925年7月26日），著名德国数学家、逻辑学家和哲学家。是数理逻辑和分析哲学的奠基人。
+
+
+
+目录
+
+
+1 生平
+2 逻辑学家
+3 思想
+4 参考
+
+4.1 主要的
+4.2 次要的
+
+
+5 外部链接
+
+
+
+生平[编辑]
+弗雷格的父亲是擅长数学的学校教师。1869年弗雷格进入耶拿大学学习，两年后转至哥廷根大学，1873年在那里得到了他在数学领域的哲学博士学位。 根据Sluga的资料(1980)， 弗雷格在大学所受的逻辑和哲学教育仍是未知。1875年，他回到耶拿担任讲师，并于1879年成为助理教授， 1896年成为教授。弗雷格只有一名注册学生，鲁道夫·卡尔纳普。 弗雷格的孩子都在成年前死去，而他于1905年领养了一名男孩。
+弗雷格的工作没有在有生之年得到广泛的赞誉，但是受到伯特兰·罗素和路德维希·维特根斯坦和卡尔纳普的称赞，认为他注定会产生重大的影响。二战后他的工作才在英语世界广为人知，部分原因是一些哲学家和逻辑学家移居到了美国——例如卡尔纳普，塔尔斯基，和哥德尔——那些了解尊敬弗雷格工作并将他的主要著作翻译成英文的人。弗雷格的工作对分析哲学产生了巨大的影响。
+逻辑学家[编辑]
+主条目：概念文字
+弗雷格被公认为伟大的逻辑学家，如同亚里士多德，哥德尔，塔尔斯基。他于1879年出版的《概念文字》标志着逻辑学史的转折。《概念文字》开辟了新的领域。
+思想[编辑]
+弗雷格是政治立场保守的德国数学家，他重新激起人们对逻辑学的哲学兴趣。他试图找出算术的“基础”，以演绎的方式证明“二加二等于四”这类基本恒等式必然为真。从亚里斯多德以降，逻辑学一直是研究命题与命题彼此关系的学问，弗雷格则扩大逻辑学的内容，创造了“量化”逻辑 ( 与“全部”、“有些”、“无”等范畴有关)，使其成为今日哲学家熟知与沿用的知识。正如笛卡儿与洛克沿着知识论大道发展现代哲学，弗雷格也沿着逻辑学与语言分析之路发展当代哲学。“语言学转向”是个令人兴奋的突破，它试图以“分析”哲学为基础，解释所有的理论。
+参考[编辑]
+主要的[编辑]
+
+Online bibliography of Frege's works and their English translations.
+1879. Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens. Halle a. S.: Louis Nebert. Translation: Concept Script, a formal language of pure thought modelled upon that of arithmetic, by S. Bauer-Mengelberg in Jean Van Heijenoort, ed., 1967. From Frege to Gödel: A Source Book in Mathematical Logic, 1879-1931. Harvard University Press.
+1884. Die Grundlagen der Arithmetik: eine logisch-mathematische Untersuchung über den Begriff der Zahl. Breslau: W. Koebner. Translation: J. L. Austin, 1974. The Foundations of Arithmetic: A logico-mathematical enquiry into the concept of number, 2nd ed. Blackwell.
+1891. "Funktion und Begriff." Translation: "Function and Concept" in Geach and Black (1980).
+1892a. "Über Sinn und Bedeutung" in Zeitschrift für Philosophie und philosophische Kritik 100: 25-50. Translation: "On Sense and Reference" in Geach and Black (1980).
+1892b. "Über Begriff und Gegenstand" in Vierteljahresschrift für wissenschaftliche Philosophie 16: 192-205. Translation: "Concept and Object" in Geach and Black (1980).
+1893. Grundgesetze der Arithmetik, Band I. Jena: Verlag Hermann Pohle. Band II, 1903. Partial translation: Furth, M, 1964. The Basic Laws of Arithmetic. Uni. of California Press.
+1904. "Was ist eine Funktion?" in Meyer, S., ed., 1904. Festschrift Ludwig Boltzmann gewidmet zum sechzigsten Geburtstage, 20. Februar 1904. Leipzig: Barth: 656-666. Translation: "What is a Function?" in Geach and Black (1980).
+Peter Geach and Max Black, eds., and trans., 1980. Translations from the Philosophical Writings of Gottlob Frege, 3rd ed. Blackwell.
+
+Frege intended that the following three papers be published together in a book titled Logical Investigations. The English translati/ns thereof were so published in 1975.
+
+1918-19. "Der Gedanke: Eine logische Untersuchung (Thought: A Logical Investigation)" in Beiträge zur Philosophie des Deutschen Idealismus I: 58-77.
+1918-19. "Die Verneinung" (Negation)" in Beiträge zur Philosophie des deutschen Idealismus I: 143-157.
+1923. "Gedankengefüge (Compound Thought)" in Beiträge zur Philosophie des Deutschen Idealismus III: 36-51.
+
+次要的[编辑]
+
+George Boolos, 1998. Logic, Logic, and Logic. MIT Press. Contains several influential papers on Frege's philosophy of arithmetic and logic.
+Michael Dummett, 1973. Frege: Philosophy of Language. Harvard University Press.
+Michael Dummett, 1991. Frege: Philosophy of Mathematics. Harvard University Press.
+Demopoulos, William, 1995. "Frege's Philosophy of Mathematics". Harvard University Press. A nice collection that explores the significance of Frege's theorem, and his mathematical and intellectural background.
+Gillies, Douglas A., 1982. Frege, Dedekind, and Peano on the foundations of arithmetic. Assen, Netherlands: Van Gorcum.
+Ferreira, F. and Wehmeier, K., 2002, "On the consistency of the Delta-1-1-CA fragment of Frege's Grundgesetze," Journal of Philosophic Logic 31: 301–11.
+Ivor Grattan-Guinness, 2000. The Search for Mathematical Roots 1870-1940. Princeton Uni. Press. Fair to the mathematician, less so to the philosopher.
+Hatcher, William, 1982. The Logical Foundations of Mathematics. Pergamon. Uses natural deduction to rederive Peano's axioms from the Grundgesetze system, recast in modern notation.
+Hill, C. O. Word and Object in Husserl, Frege and Russell: The Roots of Twentieth-Century Philosophy. Athens: Ohio University Press, 1991.
+Hill, C. O., and Rosado Haddock, G. E., 2000. Husserl or Frege: Meaning, Objectivity, and Mathematics. Open Court. The Frege-Husserl-Cantor triangle.
+Hans Sluga, 1980. Gottlob Frege. Routledge.
+
+外部链接[编辑]
+
+
+
+维基文库中该作者的作品：
+Gottlob Frege
+
+
+
+A comprehensive guide to Fregean material available on the web; by Brian Carver.
+Stanford Encyclopedia of Philosophy: Gottlob Frege.
+Stanford Encyclopedia of Philosophy: Frege's Logic.
+Internet Encyclopedia of Philosophy: Gottlob Frege.
+Internet Encyclopedia of Philosophy: Frege and Language.
+Frege on Being, Existence and Truth.
+O'Connor, John J.; Robertson, Edmund F., Frege, MacTutor History of Mathematics archive （英语） 
+
+
+
+哲学主题
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 51689723
+LCCN: n79117996
+ISNI: 0000 0001 2132 6294
+GND: 118535161
+SELIBR: 187415
+SUDOC: 026874229
+BNF: cb119035228（数据）
+BIBSYS: 90079249
+MGP: 46166
+NLA: 35102466
+NDL: 00440110
+NKC: jn20000700561
+BNE: XX933058
+CiNii: DA0032858X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+分析哲学
+
+
+
+
+
+
+哲学家
+
+
+
+罗伯特·亚当斯（英语：Robert Merrihew Adams）
+威廉·阿尔斯顿（英语：William Alston）
+约翰·奥斯丁
+艾耶尔
+伊丽莎白·安斯康姆
+阿姆斯特朗（英语：David Malet Armstrong）
+Robert Audi（英语：Robert Audi）
+布劳德（英语：C. D. Broad）
+泰勒·伯奇（英语：Tyler Burge）
+伯吉斯（英语：John P. Burgess）
+鲁道夫·卡尔纳普
+罗德里克·齐硕姆（英语：Roderick Chisholm）
+帕特丽夏·丘奇兰德（英语：Patricia Churchland）
+保罗·M.丘奇兰德（英语：Paul M. Churchland）
+大卫·查默思（英语：David Chalmers）
+诺姆·乔姆斯基
+唐纳德·戴维森
+丹尼尔·丹尼特
+迈克尔·达米特（英语：Michael Dummett）
+戈特洛布·弗雷格
+杰瑞·福多
+彼得·吉奇（英语：Peter Geach）
+葛瑞林（英语：A. C. Grayling）
+保罗·格莱斯
+阿尔文·戈德曼（英语：Alvin Goldman）
+彼得·范·因维根（英语：Peter van Inwagen）
+克里普克
+彼得∙哈克（英语：Peter Hacker）
+伊恩‧哈金（英语：Ian Hacking）
+卡尔·亨普尔
+雅各·辛提卡
+David Lewis
+麦凯（英语：J. L. Mackie）
+马尔康姆（英语：Norman Malcolm）
+麦克道威尔（英语：John McDowell）
+G.E.摩尔
+汤玛斯·内格尔
+德里克·帕菲特
+菲利浦（英语：D. Z. Phillips）
+普兰丁格
+普特南
+亚瑟·普莱尔（英语：A. N. Prior）
+W.V.O.蒯因
+赖欣巴哈
+伯特兰·罗素
+吉尔伯特·赖尔（英语：Gilbert Ryle）
+希尔勒
+塞拉斯（英语：Wilfred Sellars）
+彼得·辛格
+斯特劳森
+理察·斯温伯恩
+彼得·昂格尔（英语：Peter Unger）
+弗拉森（英语：Bas van Fraassen）
+威廉姆森（英语：Timothy Williamson）
+威兹德姆（英语：John Wisdom）
+维特根斯坦
+亚布罗（英语：Stephen Yablo）
+更多...
+
+
+
+
+
+
+
+
+哲学理论
+
+
+
+紧缩理论
+直接指称理论（英语：Direct reference theory）
+经验主义
+整全观
+逻辑原子论（英语：Logical atomism）
+逻辑实证主义
+自然主义
+自然主义知识论（英语：Naturalized_epistemology）
+实用主义
+中性一元论（英语：Neutral monism）
+特殊主义（英语：Moral_particularism）
+还原论
+科学主义
+怀疑论
+验证论（英语：Verificationism）
+更多...
+
+
+
+
+
+
+
+
+概念
+
+
+
+分析
+分析-综合区别
+封闭律、认知（英语：Deductive closure）和因果（英语：Causal closure）
+概念
+反事实
+意义/指称（英语：Sense and Reference）
+确定性描述（英语：Definite description）
+叙实
+家族相似性（英语：Family resemblance）
+直觉
+语意 (和命题)
+模态
+自然类（英语：Natural kind）
+充分必要条件
+分析悖论（英语：Paradox of analysis）
+可能世界
+还原
+反思平衡（英语：Reflective equilibrium）
+严格与不严格指示词（英语：Rigid designator）
+感觉材料（英语：Sense data）
+随附性
+思想实验
+真理 函数、制造者（英语：Truthmaker）和载体（英语：Truth-bearer）
+类型–个例 区分（英语：Type–token_distinction）
+
+
+
+
+
+
+
+
+相关条目
+
+
+
+奥地利现实主义（英语：Australian realism）
+日常语言哲学
+哲学逻辑
+语言哲学
+科学哲学
+后分析哲学（英语：Postanalytic philosophy）
+更多...
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+专题
+历史
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+逻辑
+
+
+
+
+
+
+
+
+
+
+ 
+概要
+
+
+
+
+
+
+
+
+
+
+学术领域
+
+
+
+辩论法
+价值论
+审辩式思维
+可计算性理论
+形式语义学
+逻辑史
+非形式逻辑
+计算器逻辑
+数理逻辑
+数学
+元逻辑
+元数学
+模型论
+哲学逻辑
+哲学
+逻辑哲学
+数学哲学
+证明论
+集合论
+
+
+
+
+
+
+
+
+基础概念
+
+
+
+溯因推理
+分析真理
+二律背反
+先验
+演绎推理
+定义
+描述
+蕰涵
+归纳推理
+推论
+逻辑结论
+逻辑形式
+逻辑蕰涵
+逻辑真理
+名称
+充分条件
+意义
+悖论
+可能世界
+假定
+机率
+理智
+推理
+指涉
+语义学
+语句
+严格条件
+交换区
+语法学
+真理
+真值
+有效性
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+哲学逻辑
+
+
+
+
+
+
+
+
+
+
+审辩式思维
+和非形式逻辑
+
+
+
+分析
+歧义性
+论证
+信仰
+偏见
+公信力
+证据
+解释
+解释力
+事实
+谬论
+探究
+意见
+奥卡姆剃刀
+前提
+政治宣传
+审慎
+推理
+关联
+修辞学
+严格
+含糊
+
+
+
+
+
+
+
+
+演绎理论
+
+
+
+结构主义
+双面真理说
+虚构主义
+有限主义
+形式主义
+直觉主义
+逻辑原子论
+逻辑主义
+唯名论
+柏拉图唯实论
+实用主义
+唯实论
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+元逻辑和元数学
+
+
+
+
+
+
+
+
+
+康托尔定理
+可判定性
+邱奇-图灵论题
+兼容性
+有效方法
+数学基础
+哥德尔完备性定理
+哥德尔不完备定理
+可靠性
+完备性
+可判定性
+解释
+勒文海姆–斯科伦定理
+元定理
+可满足性
+独立性
+类型-记号区别
+使用-提及区别
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+数理逻辑
+
+
+
+
+
+
+
+
+
+
+一般
+
+
+
+形式语言
+形成规则
+形式系统
+演绎系统
+形式证明
+形式语义学
+合式公式
+集合
+元素
+类
+经典逻辑
+公理
+自然演绎
+推理规则
+关系
+定理
+逻辑结论
+公理系统
+类型论
+符号
+语法学
+定律
+
+
+
+
+
+
+
+
+传统逻辑
+
+
+
+命题
+推论
+论证
+有效性
+说服力
+直言三段论
+对立四边形
+文氏图
+
+
+
+
+
+
+
+
+命题逻辑
+和逻辑代数
+
+
+
+布尔函数
+命题逻辑
+命题公式
+逻辑联结词
+真值表
+
+
+
+
+
+
+
+
+谓词逻辑
+
+
+
+一阶逻辑
+量化
+谓词
+二阶逻辑
+一元谓词演算
+
+
+
+
+
+
+
+
+集合论
+
+
+
+集合
+空集
+枚举法
+外延性
+有限集合
+函数
+子集
+幂集
+可数集
+递归集合
+定义域
+值域
+有序对
+不可数集
+
+
+
+
+
+
+
+
+模型论
+
+
+
+模型
+解释
+非标准模型
+有限模型论
+真值
+有效性
+
+
+
+
+
+
+
+
+证明论
+
+
+
+形式证明
+演绎系统
+形式系统
+定理
+逻辑结论
+推理规则
+语法学
+
+
+
+
+
+
+
+
+可计算性理论
+
+
+
+递归
+递归集合
+递归可枚举集合
+决定性问题
+邱奇-图灵论题
+可计算函数
+原始递归函数
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+非传统逻辑
+
+
+
+
+
+
+
+
+
+
+模态逻辑
+
+
+
+真性逻辑
+价值逻辑
+道义逻辑
+信念逻辑
+认识逻辑
+时间逻辑
+
+
+
+
+
+
+
+
+直觉主义
+
+
+
+直觉主义逻辑
+结构分析
+海廷算术
+直觉类型论
+结构集合论
+
+
+
+
+
+
+
+
+模糊逻辑
+
+
+
+真实度
+模糊规则
+模糊集
+模糊有限元素
+模糊集合运算
+
+
+
+
+
+
+
+
+亚结构逻辑
+
+
+
+结构规则
+相干逻辑
+线性逻辑
+
+
+
+
+
+
+
+
+次协调逻辑
+
+
+
+双面真理说
+
+
+
+
+
+
+
+
+描述逻辑
+
+
+
+本体论
+本体语言
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+逻辑学家
+
+
+
+
+
+
+
+
+
+安德逊
+亚里斯多德
+鲁世德
+西那
+贝恩
+巴威斯
+博内斯
+布尔
+布勒斯
+康托尔
+卡尔纳普
+邱奇
+克吕西波
+加里
+德摩根
+弗雷格
+吉奇
+根岑
+哥德尔
+希尔伯特
+克莱尼
+克里普克
+莱布尼兹
+勒文海姆
+皮亚诺
+皮尔士
+普特南
+奎因
+罗素
+施罗德
+司各脱
+斯科伦
+史慕扬
+塔斯基
+图灵
+怀特黑德
+奥卡姆的威廉
+维根斯坦
+策梅洛
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+列表
+
+
+
+
+
+
+
+
+
+
+主题
+
+
+
+逻辑概要
+数理逻辑
+布尔代数
+集合论
+
+
+
+
+
+
+
+
+其它
+
+
+
+逻辑学家
+推理规则
+悖论
+谬论
+逻辑符号
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+常见逻辑符号
+
+
+
+
+
+
+
+
+
+&    ∨    ¬    ~    →    ⊃    ≡    |    ∀    ∃    ⊤    ⊥    ⊢    ⊨    ∴    ∵
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+语言哲学
+
+
+
+
+
+
+哲学家
+
+
+
+柏拉图（“克拉底鲁（英语：Cratylus (dialogue)）”）
+高尔吉亚
+亚里士多德
+斯多亚学派
+皮浪主义
+经院哲学
+伊本·鲁世德
+伊本·赫勒敦
+托马斯·霍布斯
+莱布尼茨
+赫尔德
+Ludwig Noire（英语：Ludwig Noire）
+洪堡
+阿苏尔门迪（英语：Joxe Azurmendi）
+毛特纳（英语：Fritz Mauthner）
+保罗·利科
+索绪尔
+弗雷格
+博厄斯
+田立克
+萨丕尔
+布龙菲尔德（英语：Leonard Bloomfield）
+柏格森
+维谷斯基
+维特根斯坦
+
+“哲学研究”
+“逻辑哲学论”
+
+
+罗素
+卡尔纳普
+德里达
+
+“论文字学（英语：Of Grammatology）”
+“Limited Inc（英语：Limited Inc）”
+
+
+沃尔夫（英语：Benjamin Lee Whorf）
+北亚哥曼
+奥斯丁
+乔姆斯基
+伽达默尔
+克里普克
+艾耶尔
+安斯康姆
+迈克尔·达米特（英语：Michael Dummett）
+戴维森
+格莱斯
+吉伯特·赖尔（英语：Gilbert Ryle）
+斯特劳森
+蒯因
+普特南
+希尔勒
+
+
+
+
+
+
+
+
+理论
+
+
+
+指称的因果理论（英语：Causal theory of reference）
+对比主义（英语：Contrastivism）
+因袭主义（英语：Conventionalism）
+Cratylism（英语：Cratylism）
+解构主义
+名称的摹状词理论（英语：Descriptivist theory of names）
+中介指称理论（英语：Direct reference theory）
+Dramatism（英语：Dramatism）
+表现主义
+语言决定论（英语：Linguistic determinism）
+逻辑原子论（英语：Logical atomism）
+逻辑实证主义
+指称理论（英语：Mediated reference theory）
+唯名论
+非认知主义（英语：Non-cognitivism）
+阳性中心主义（英语：Phallogocentrism）
+寂静主义
+关联理论（英语：Relevance theory）
+语义外在论（英语：Semantic externalism）
+语义整体论（英语：Semantic holism）
+结构主义
+指代理论（英语：Supposition theory）
+共生哲学（英语：Symbiosism）
+神学语言无认知上的意义（英语：Theological noncognitivism）
+摹状词理论
+验证理论
+
+
+
+
+
+
+
+
+概念
+
+
+
+歧义
+语言相对论
+语意
+语言
+真值载体（英语：Truth-bearer）
+命题
+使用-提及区别（英语：Use–mention distinction）
+概念
+分类
+集合
+类（英语：Class (philosophy)）
+内涵
+逻辑形式（英语：Logical form）
+元语言
+心理表征
+复合性原理
+Property（英语：Property (philosophy)）
+符号（英语：Sign (semiotics)）
+意义和指称（英语：Sense and reference）
+言语行为理论
+符号
+实体
+句子
+陈述
+更多...
+
+
+
+
+
+
+
+
+相关条目
+
+
+
+分析哲学
+情报哲学
+哲学逻辑
+语言学
+语用学
+修辞学
+语义学
+形式语义学（英语：Formal semantics (linguistics)）
+符号学
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+历史
+
+
+
+
+
+
+
+
+
+
+
+
+分类：1848年出生1925年逝世20世纪哲学家20世纪数学家19世纪数学家德国哲学家德国数学家逻辑学家耶拿大学教师哥廷根大学校友耶拿大学校友梅克伦堡-前波门人分析哲学家德国逻辑学家语言学转向集合论者隐藏分类：自2014年3月缺少注脚的条目使用受影响于参数的人物信息框含有hCards的条目本地相关图片与维基数据相同含有德语的条目CS1英语来源 (en)使用2号参数传递Portal模板图像的页面包含14元素的规范控制包含规范控制信息的维基百科条目

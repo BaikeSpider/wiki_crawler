@@ -1,0 +1,863 @@
+Environmental psychology
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2014) (Learn how and when to remove this template message)
+
+
+
+
+
+Part of a series on
+
+
+Psychology
+
+
+
+
+
+
+
+Outline
+History
+Subfields
+
+
+
+
+
+
+Basic types
+
+
+Abnormal
+Behavioral genetics
+Biological
+Cognitive/Cognitivism
+Comparative
+Cross-cultural
+Cultural
+Differential
+Developmental
+Evolutionary
+Experimental
+Mathematical
+Neuropsychology
+Personality
+Positive
+Quantitative
+Social
+
+
+
+
+
+
+
+
+Applied psychology
+
+
+Applied behavior analysis
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Environmental
+Ergonomics
+Forensic
+Health
+Humanistic
+Industrial and organizational
+Legal
+Medical
+Military
+Music
+Occupational health
+Political
+Religion
+School
+Sport
+Traffic
+
+
+
+
+
+
+
+
+Lists
+
+
+Disciplines
+Organizations
+Psychologists
+Psychotherapies
+Publications
+Research methods
+Theories
+Timeline
+Topics
+
+
+
+
+
+
+
+
+ Psychology portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Environmental psychology is an interdisciplinary field that focuses on the interplay between individuals and their surroundings. The field defines the term environment broadly, encompassing natural environments, social settings, built environments, learning environments, and informational environments.
+Since its conception, the field has been committed to the development of a discipline that is both value oriented and problem oriented, prioritizing research aimed at solving complex environmental problems in the pursuit of individual well-being within a larger society.[1] When solving problems involving human-environment interactions, whether global or local, one must have a model of human nature that predicts the environmental conditions under which humans will respond well. This model can help design, manage, protect and/or restore environments that enhance reasonable behavior, predict the likely outcomes when these conditions are not met, and diagnose problem situations. The field develops such a model of human nature while retaining a broad and inherently multidisciplinary focus. It explores such dissimilar issues as common property resource management, wayfinding in complex settings, the effect of environmental stress on human performance, the characteristics of restorative environments, human information processing, and the promotion of durable conservation behavior. Lately, alongside the increased focus on climate change in society and the social sciences and the re-emergence of limits-to-growth concerns, there has been increased focus on environmental sustainability issues within the field.[2]
+This multidisciplinary paradigm has not only characterized the dynamic for which environmental psychology is expected to develop. It has also been the catalyst in attracting other schools of knowledge in its pursuit, aside from research psychologists. Geographers, economists, landscape architects, policy-makers, sociologists, anthropologists, educators, and product developers all have discovered and participated in this field.[1]
+Although "environmental psychology" is arguably the best-known and most comprehensive description of the field, it is also known as human factors science, cognitive ergonomics, ecological psychology, ecopsychology, environment–behavior studies, and person–environment studies. Closely related fields include architectural psychology, socio-architecture, behavioral geography, environmental sociology, social ecology, and environmental design research.
+
+
+
+Contents
+
+
+1 History
+2 Orientations
+
+2.1 Problem oriented
+
+2.1.1 Personal space and territory
+
+
+2.2 Systems oriented
+2.3 Interdisciplinary oriented
+2.4 Space-over-time orientation
+
+
+3 Concepts
+
+3.1 Place identity
+3.2 Place attachment
+3.3 Environmental consciousness
+3.4 Behavior settings
+
+
+4 Applications
+
+4.1 Impact on the built environment
+4.2 Organizations
+
+
+5 Challenges
+6 University courses
+7 Other contributors
+8 See also
+9 References
+
+9.1 Notes
+9.2 Bibliography
+
+
+10 External links
+
+
+
+History[edit]
+The origins of this field of study are unknown, however, Willy Hellpach is said to be the first to mention "environmental psychology". One of his books, Geopsyche, discusses topics such as how the sun and the moon affect human activity, the impact of extreme environments, and the effects of color and form (Pol, E., 2006, Blueprints for a history of environmental psychology (I): From firtst birth to American transition. Medio Ambiente y Comportamiento Humano, 7(2), 95-113). Among the other major scholars at the roots of environmental psychology were Jakob von Uexküll, Kurt Lewin, Egon Brunswik, and later Gerhard Kaminski and Carl Friedrich Graumann.[3]
+The end of World War II brought about a higher demand for developments in the field of social psychology particularly in the areas of attitude change, small group processes, and intergroup conflict. This demand caused psychologists to begin applying social psychology theories to a number of social issues such as prejudice, war and peace. It was thought that if these problems were addressed, underlying notions and principles would surface.
+Although this period was crucial to the development of the field, the methodologies used to carry out the studies were questionable.[according to whom?] At the time, studies were being conducted in a laboratory setting, which caused some doubt[to whom?] as to their validity in the real world. Consequently, environmental psychologists began to conduct studies outside of the laboratory, enabling the field to continue to progress.[citation needed] Today environmental psychology is being applied to many different areas such as architecture and design, television programs and advertisements. [4]
+Orientations[edit]
+[clarification needed]
+Problem oriented[edit]
+Environmental psychology is a direct study of the relationship between an environment and how that environment affects its inhabitants. Specific aspects of this field work by identifying a problem and through the identification of said problem, discovering a solution. Therefore, it is necessary for environmental psychology to be problem oriented.
+One important aspect of a problem-oriented field is that by identifying problems, solutions arise from the research acquired. The solutions can aid in making society function better as a whole and create a wealth of knowledge about the inner workings of societies. Environmental psychologist Harold Proshansky discusses how the field is also "value oriented" because of the field's commitment to bettering society through problem identification.[5] Proshansky discusses the importance of not only understanding the problem but also the necessity of a solution. Proshansky also points out some of the problems of a problem-oriented approach for environmental psychology. First the problems being identified must be studied under certain specifications: it must be ongoing and occurring in real life, not in a laboratory. Second, the notions about the problems must derive directly from the source – meaning they must come directly from the specific environment where the problem is occurring.[5] The solutions and understanding of the problems cannot come from an environment that has been constructed and modeled to look like real life. Environmental psychology needs to reflect the actual society not a society built in a laboratory setting. The difficult task of the environmental psychologist is to study problems as they are occurring in everyday life.[6] It is hard to reject all laboratory research because laboratory experiments are where theories may be tested without damaging the actual environment or can serve as models when testing solutions. Proshansky makes this point as well, discussing the difficulty in the overall problem oriented approach. He states that it is important, however, for the environmental psychologist to utilize all aspects of research and analysis of the findings and to take into account both the general and individualized aspects of the problems.[7]
+Environmental psychology addresses environmental problems such as density and crowding, noise pollution, sub-standard living, and urban decay.[5] Noise increases environmental stress. Although it has been found that control and predictability are the greatest factors in stressful effects of noise; context, pitch, source and habituation are also important variables [3]. Environmental psychologists have theorized that density and crowding can also have an adverse effect on mood and may cause stress-related illness. To understand and solve environmental problems, environmental psychologists believe concepts and principles should come directly from the physical settings and problems being looked at.[5] For example, factors that reduce feelings of crowding within buildings include:
+
+Windows – particularly ones that can be opened and ones that provide a view as well as light
+High ceilings
+Doors to divide spaces (Baum and Davies)[full citation needed] and provide access control
+Room shape – square rooms feel less crowded than rectangular ones (Dresor)[full citation needed]
+Using partitions to create smaller, personalized spaces within an open plan office or larger work space.
+Providing increases in cognitive control over aspects of the internal environment, such as ventilation, light, privacy, etc.
+Conducting a cognitive appraisal of an environment and feelings of crowding in different settings. For example, one might be comfortable with crowding at a concert but not in school corridors.
+Creating a defensible space (Calhoun)[full citation needed]
+
+Personal space and territory[edit]
+Having an area of personal territory in a public space, e.g., at the office, is a key feature of many architectural designs. Having such a 'defensible space' can reduce the negative effects of crowding in urban environments. The term, coined by John B. Calhoun in 1947, is the result of multiple environmental experiments conducted on rats. Originally beginning as an experiment to measure how many rats could be accommodated in a given space, it expanded into determining how rats, given the proper food, shelter and bedding would behave under a confined environment.
+Under these circumstances, the males became aggressive, some exclusively homosexual. Others became pansexual and hypersexual, seeking every chance to mount any rat they encountered. As a result, mating behaviors were upset with an increase in infant mortalities. With parents failing to provide proper nests, thoughtlessly ditching their young and even attacking them, infant mortality rose as high as 96% in certain sections. Calhoun published the results as "Population Density and Social Pathology" in a 1962 edition of Scientific American.[8]
+Creating barriers and customizing the space are ways of creating personal space, e.g., using pictures of one's family in an office setting. This increases cognitive control as one sees oneself as having control over the competitors to the personal space and therefore able to control the level of density and crowding in the space.
+Systems oriented[edit]
+The systems oriented approach to experimenting is applied to individuals or people that are a part of communities, groups, and organizations. This approach particularly examines group interaction, as opposed to an individual's interaction and it emphasizes on factors of social integration. In the laboratory, experiments focus on cause and effect processes within human nature.[9]
+Interdisciplinary oriented[edit]
+Environmental psychology relies on interaction with other disciplines in order to approach problems with multiple perspectives. The first discipline is the category of behavioral sciences, which include: sociology, political science, anthropology, and economics. Environmental psychology also interacts with the interspecializations of the field of psychology, which include: developmental psychology, cognitive science, industrial and organizational psychology, psychobiology, psychoanalysis,[10] and social neuroscience. In addition to the more scientific fields of study, environmental psychology also works with the design field which includes: the studies of architecture, interior design, urban planning, industrial and object design, landscape architecture, and preservation.[11]
+Space-over-time orientation[edit]
+Space over time orientation highlights the importance of the past. Examining problems with the past in mind creates a better understanding of how past forces, such as social, political, and economic forces, may be of relevance to present and future problems.[12] Time and place are also important to consider. It's important to look at time over extended periods. Physical settings change over time; they change with respect to physical properties and they change because individuals using the space change over time.[13] Looking at these spaces over time will help monitor the changes and possibly predict future problems.
+There are a variety of tests that can be administered to children in order to determine their temperament. Temperament is split up into three types: "easy", "difficult", and "slow-to-warm-up". Alexander Thomas, Stella Chess, Herbert G. Birch, Margaret Hertzig and Sam Korn created an infant temperament test in the 1950s and rated them using nine temperament criteria.[14] By finding out a child's temperament at birth, it enables us to know what to expect as the child progresses into adulthood.
+Concepts[edit]
+Place identity[edit]
+Main article: Place identity
+For many years Harold Proshansky and his colleagues at the Graduate School and University Center of the City University of New York, explored the concept of place identity. Place identity has been traditionally defined as a 'sub-structure of the self-identity of the person consisting of broadly conceived cognitions about the physical world in which the individual lives'.[15] These cognitions define the daily experiences of every human being. Through one's attitudes, feelings, ideas, memories, personal values and preferences toward the range and type of physical settings, he/she can then understand the environment they live in and their overall experience.
+As a person interacts with various places and spaces, he/she is able to evaluate which properties in different environments fulfill his/her various needs. When a place contains components that satisfy a person biologically, socially, psychologically and/or culturally, it creates the environmental past of a person. Through 'good' or 'bad' experiences with a place, a person is then able to reflect and define their personal values, attitudes, feelings and beliefs about the physical world.
+Place identity has been described as the individual's incorporation of place into the larger concept of self; a "potpourri of memories, conceptions, interpretations, ideas, and related feelings about specific physical settings, as well as types of settings".[16] Other theorists have been instrumental in the creation of the idea of place identity. Three humanistic geographers, Tuan (1980), Relph (1976) and Buttimer (1980),[full citation needed] share a couple of basic assumptions. As a person lives and creates memories within a place, attachment is built and it is through one's personal connection to a place, that he/she gains a sense of belonging and purpose, which then gives significance and meaning to their life.
+Five central functions of place-identity have been depicted: recognition, meaning, expressive-requirement, mediating change, and anxiety and defense function. Place identity becomes a cognitive "database" against which every physical setting is experienced.[16] The activities of a person often overlap with physical settings, which then create a background for the rest of life's interactions and events. The individual is frequently unaware of the array of feelings, values or memories of a singular place and simply becomes more comfortable or uncomfortable with certain broad kinds of physical settings, or prefers specific spaces to others. In the time since the term "place identity" was introduced, the theory has been the model for identity that has dominated environmental psychology.
+Place attachment[edit]
+Main article: Place attachment
+Many different perceptions of the bond between people and places have been hypothesized and studied. The most widespread terms include place attachment[17] and sense of place.[18] One consistent thread woven throughout most recent research on place attachment deals with the importance of the amount of time spent at a certain place (the length of association with a place). While both researchers and writers[19] have made the case that time and experience in a place are important for deepening the meanings and emotional ties central to the person-place relationship, little in-depth research has studied these factors and their role in forging this connection.[20]
+Place attachment is defined as one's emotional or affective ties to a place, and is generally thought to be the result of a long-term connection with a certain environment.[21] This is different from a simple aesthetic response such as saying a certain place is special because it is beautiful. For example, one can have an emotional response to a beautiful (or ugly) landscape or place, but this response may sometimes be shallow and fleeting. This distinction is one that Schroeder labeled "meaning versus preference". According to Schroeder the definition of "meaning" is "the thoughts, feelings, memories and interpretations evoked by a landscape"; whereas "preference" is "the degree of liking for one landscape compared to another".[22] For a deeper and lasting emotional attachment to develop (Or in Schroeder's terms, for it to have meaning) an enduring relationship with a place is usually a critical factor.[23] Chigbu carried out a rural study of place-attachment using a qualitative approach to check its impact on a community, Uturu (in Nigeria), and found that it has direct relationship to level of community development.[24]
+Environmental consciousness[edit]
+Leanne Rivlin theorized that one way to examine an individual's environmental consciousness is to recognize how the physical place is significant, and look at the people/place relationship.
+Environmental cognition (involved in human cognition) plays a crucial role in environmental perception. All different areas of the brain engage with environmentally relevant information. Some believe that the orbitofrontal cortex integrates environmentally relevant information from many distributed areas of the brain. Due to its anterior location within the frontal cortex, the orbitofrontal cortex may make judgments about the environment, and refine the organism's "understanding" through error analysis, and other processes specific to prefrontal cortex. But to be certain, there is no single brain area dedicated to the organism's interactions with its environment. Rather, all brain areas are dedicated to this task. One area (probably the orbitofrontal cortex) may collate the various pieces of the informational puzzle in order to develop a long term strategy of engagement with the ever-changing "environment." Moreover, the orbitofrontal cortex may show the greatest change in blood oxygenation (BOLD level) when an organism thinks of the broad, and amorphous category referred to as "the environment."[25] Because of the recent concern with the environment, environmental consciousness or awareness has come to be related to the growth and development of understanding and consciousness toward the biophysical environment and its problems.[citation needed]
+Behavior settings[edit]
+The earliest noteworthy discoveries in the field of environmental psychology can be dated back to Roger Barker who created the field of ecological psychology. Founding his research station in Oskaloosa, Kansas in 1947, his field observations expanded into the theory that social settings influence behavior. Empirical data gathered in Oskaloosa from 1947 to 1972 helped him develop the concept of the "behavior setting" to help explain the relationship between the individual and the immediate environment. This was further explored in his work with Paul Gump in the book Big School, Small School: High School Size and Student Behavior.[citation needed] One of the first insightful explanations on why groups tend to be less satisfying for their members as they increase in size, their studies illustrated that large schools had a similar number of behavior settings to that of small schools. This resulted in the students' ability to presume many different roles in small schools (e.g. be in the school band and the school football team) but in larger schools there was a propensity to deliberate over their social choices.
+In his book Ecological Psychology (1968) Barker stresses the importance of the town's behavior and environment as the residents' most ordinary instrument of describing their environment. "The hybrid, eco-behavioral character of behavior settings appear to present Midwest's inhabitants with no difficulty; nouns that combine milieu and standing behavior are common, e.g. oyster supper, basketball game, turkey dinner, golden gavel ceremony, cake walk, back surgery, gift exchange, livestock auction, auto repair."[26]
+Barker argued that his students should implement T-methods (psychologist as 'transducer': i.e. methods in which they studied man in his 'natural environment') rather than O-methods (psychologist as "operators" i.e. experimental methods). Basically, Barker preferred fieldwork and direct observation rather than controlled experiments. Some of the minute-by-minute observations of Kansan children from morning to night, jotted down by young and maternal graduate students, may be the most intimate and poignant documents in social science. Barker spent his career expanding on what he called ecological psychology, identifying these behavior settings, and publishing accounts such as One Boy's Day (1952) and Midwest and Its Children (1955).[full citation needed]
+Applications[edit]
+Impact on the built environment[edit]
+Environmental psychologists rejected the laboratory-experimental paradigm because of its simplification and skewed view of the cause-and-effect relationships of human's behaviors and experiences. Environmental psychologists examine how one or more parameters produce an effect while other measures are controlled. It is impossible to manipulate real-world settings in a laboratory.[1]
+Environmental psychology is oriented towards influencing the work of design professionals (architects, engineers, interior designers, urban planners, etc.) and thereby improving the human environment.
+On a civic scale, efforts towards improving pedestrian landscapes have paid off, to some extent, from the involvement of figures like Jane Jacobs and Copenhagen's Jan Gehl. One prime figure here is the late writer and researcher William H. Whyte. His still-refreshing and perceptive "City", based on his accumulated observations of skilled Manhattan pedestrians, provides steps and patterns of use in urban plazas.
+The role and impact of architecture on human behavior is debated within the architectural profession. Views range from: supposing that people will adapt to new architectures and city forms; believing that architects cannot predict the impact of buildings on humans and therefore should base decisions on other factors; to those who undertake detailed precedent studies of local building types and how they are used by that society.
+Environmental psychology has conquered the whole architectural genre which is concerned with retail stores and any other commercial venues that have the power to manipulate the mood and behavior of customers (e.g. stadiums, casinos, malls, and now airports). From Philip Kotler's landmark paper on Atmospherics and Alan Hirsch's "Effects of Ambient Odors on Slot-Machine Usage in a Las Vegas Casino", through the creation and management of the Gruen transfer, retail relies heavily on psychology, original research, focus groups, and direct observation. One of William Whyte's students, Paco Underhill, makes a living as a "shopping anthropologist". Most of this advanced research remains a trade secret and proprietary.
+Organizations[edit]
+
+Project for Public Spaces (PPS) is a nonprofit organization that works to improve public spaces, particularly parks, civic centers, public markets, downtowns, and campuses. The staff of PPS is made up of individuals trained in environmental design, architecture, urban planning, urban geography, urban design, environmental psychology, landscape architecture, arts administration and information management. The organization has collaborated with many major institutions to improve the appearance and functionality of public spaces throughout the United States. In 2005, PPS co-founded The New York City Streets Renaissance, a campaign that worked to develop a new campaign model for transportation reform. This initiative implemented the transformation of excess sidewalk space in the Meatpacking District of Manhattan into public space. Also, by 2008, New York City reclaimed 49 acres (200,000 m2) of traffic lanes and parking spots away from cars and gave it back to the public as bike lanes and public plazas.[citation needed]
+The Center for Human Environments at the CUNY Graduate Center is a research organization that examines the relationship between people and their physical settings. CHE has five subgroups that specialize in aiding specific populations: The Children's Environments Research Group, the Health and Society Research Group, the Housing Environments Research Group, the Public Space Research Group, and the Youth Studies Research Group.[27]
+The most relevant scientific groups are the International Association of People-Environment Studies (IAPS) and the Environmental Design Research Association (EDRA).
+
+Challenges[edit]
+The field saw significant research findings and a fair surge of interest in the late 1970s and early 1980s, but has seen challenges of nomenclature, obtaining objective and repeatable results, scope, and the fact that some research rests on underlying assumptions about human perception, which is not fully understood. Being an interdisciplinary field is difficult because it lacks a solid definition and purpose. It is hard for the field to fit into organizational structures.[28] In the words of Guido Francescato, speaking in 2000, environmental psychology encompasses a "somewhat bewildering array of disparate methodologies, conceptual orientations, and interpretations... making it difficult to delineate, with any degree of precision, just what the field is all about and what might it contribute to the construction of society and the unfolding of history."
+Environmental psychology has not received nearly enough supporters to be considered an interdisciplinary field within psychology. Harold M. Proshanksy was one of the founders of environmental psychology and was quoted as saying "As I look at the field of environmental psychology today, I am concerned about its future. It has not, since its emergence in the early 1960s grown to the point where it can match the fields of social, personality, learning or cognitive psychology. To be sure, it has increased in membership, in the number of journals devoted to it, and even in the amount of professional organizational support it enjoys, but not enough so that one could look at any major university and find it to be a field of specialization in a department of psychology, or, more importantly, in an interdisciplinary center or institute".[29]
+University courses[edit]
+
+Antioch University New England Graduate School offers graduate programs involving environmental education through a planning approach. With environmental psychology being such a diverse field with many different approaches, students have a variety of programs to choose from.
+Arizona State University offers a master's in Environmental Resources, which takes more of a planning approach to the field.
+The Environmental Psychology Ph.D program at the CUNY Graduate Center takes a multidisciplinary approach to examining and changing "the serious problems associated with the urban environment with a view towards affecting public policy" using social science theory and research methods. The GC-CUNY was the first academic institution in the U.S. to grant a PhD in Environmental Psychology. As discussed in detail on the program website, "recent research has addressed the experiences of recently housed homeless people, the privatization of public space, socio-spatial conflicts, children's safety in the public environment, relocation, community based approaches to housing, the design of specialized environments such as museums, zoos, gardens and hospitals, the changing relationships between home, family and work, the environmental experiences of gay men and lesbians, and access to parks and other urban 'green spaces'."[30] See also The Center for Human Environments.
+Cornell University's department of Design and Environmental Analysis offers undergraduate and graduate (Master of Science in Human Environment Relations, Master of Arts in Design, and Ph.D in Human Behavior and Design) studies in environmental psychology, interior design, sustainable design studies, human factors and ergonomics, and facility planning and management.[31]
+Drexel University offers a Master of Science degree in Design Research. Of two degree paths, the Environmental Design and Health path includes study with community practitioners and researchers in design and related fields, including health, community design, and public policy. Research typically includes data collection and engaged research practices of design thinking and participatory design. This area of investigation has potential to create innovative health and educational partnerships, economic opportunities and neighborhood initiatives and relates to the strategic mission of the university to be highly engaged in civic sustainability.[32]
+The Ohio State University City & Regional Planning Program, in the School of Architecture, offers a specialization in environmental psychology (urban design/physical planning and behavior) at both the master's and PhD level. Dissertations have examined such topics as environmental aesthetics, spatial cognition, ethnic enclaves, neighborhood decline, neighborhood satisfaction, restorative and livable places, and behavior change.
+Prescott College offers a master's program that incorporates a number of the foundations of environmental psychology as well. The sub-fields in which the program provides includes environmental education, environmental studies, ecology, botany, resource policy, and planning. Another description about the program is as follows: "(The program) Includes instruction in contextual theory; statistics; physiological, social, and psychological responses to natural and technological hazards and disease; environmental perception and cognition; loneliness and stress; and psychological aspects of environmental design and planning."[this quote needs a citation]
+University of California, Irvine offers a doctoral specialization in Design & Behavior Research within the Department of Planning, Policy, and Design in the School of Social Ecology, and undergraduate coursework in Environmental Psychology offered jointly by the Departments of Psychology and Social Behavior, Planning, Policy, and Design, and the Program in Public Health.[33]
+The University of Michigan offers Master of Science and Master of Arts degrees in its new School for Sustainability and Environment (SEAS). The focus is on how people affect and are affected by environments, and includes a pragmatic approach to promoting environmental stewardship behavior, as well as a focus on how "nearby nature" affects people's mental vitality, physical health and well-being. An emerging theme is helping people to remain optimistic while learning to respond well to increasingly difficult biophysical circumstances.
+Another strain of environmental psychology developed out of ergonomics in the 1960s. The beginning of this movement can be traced back to David Canter's work and the founding of the "Performance Research Unit" at the University of Strathclyde in Glasgow, Scotland, in 1966, which expanded traditional ergonomics to study broader issues relating to the environment and the extent to which human beings were "situated" within it (cf situated cognition). Canter led the field in the UK for years and was the editor of the Journal of Environmental Psychology for over 20 years, but has recently turned his attention to criminology.
+The University of Surrey was the first institution that offered an architectural psychology course in the UK starting in 1973. Since then, there have been over 250 graduates from over 25 countries. The Environmental Psychology Research Group (EPRG) within the University of Surrey, of which students on the M.Sc in Environmental Psychology are automatically members, has been undertaking research for more than thirty years. EPRG's mission is to gain a better understanding of the environmental and psychological effects of space, no matter the size, with help from social sciences, psychology, and methodologies. There are four categories under which the research projects fall: sustainable development, environmental risk, architectural assessment and environmental design, and environmental education and interpretation. Other universities in the UK now offer courses on the subject, which is an expanding field.
+
+See the APA's list of additional environmental psychology graduate programs here: http://www.apadivisions.org/division-34/about/resources/graduate-programs.aspx
+Other contributors[edit]
+
+
+
+
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2010) (Learn how and when to remove this template message)
+
+
+
+Other significant researchers and writers in this field include:
+
+Irwin Altman Distinguished Professor Emeritus, University of Utah
+Robert Gifford, Ph.D. Department of Psychology University of Victoria. Current Editor of the Journal of Environmental Psychology and author of Environmental Psychology: Principles and Practice (5th edition, 2014).
+James J. Gibson, Best known for coining the word affordance, a description of what the environment offers the animal in terms of action
+Roger Hart Professor of Environmental Psychology, Director of the Center for Human Environments and the Children's Environments Research Group, The Graduate Center, City University of New York
+Rachel and Stephen Kaplan Professors of psychology at the University of Michigan, the Kaplans are known for their research on the effect of nature on people's relationships and health, including Attention Restoration Theory and are renowned in the field of environmental psychology
+Cindi Katz Professor of Environmental Psychology, The Graduate Center, City University of New York
+Dak Kopec Professor and Director of Design for Human Health, Boston Architectural College, Boston MA; Author Environmental Psychology for Design 2nd Edition (2012) and Health, Sustainability and The Built Environment (2008).
+Setha Low Professor of Environmental Psychology and Director of the Public Space Research Group, The Graduate Center, City University of New York
+Kevin A. Lynch and his research into the formation of mental maps
+Francis T. McAndrew Cornelia H. Dudley Professor of Psychology at Knox College and author of "Environmental Psychology" (1993).
+Bill Mollison developed the Environmental Psychology Unit at the University of Tasmania, and also Permaculture with David Holmgren
+Amos Rapoport Distinguished Professor Emeritus Department of Architecture
+Leanne Rivlin Professor of Environmental Psychology, The Graduate Center, City University of New York
+Susan Saegert, Director of the Environmental Psychology PhD Program and of the Housing Environments Research Group at the City University of New York
+Robert Sommer, a pioneer of the field who first studied personal space in the 1950s and is perhaps best known for his 1969 book Personal Space: The Behavioral Basis of Design, but is also the author of numerous other books, including Design Awareness, and hundreds of articles.
+Daniel Stokols, Chancellor's Professor, School of Social Ecology, University of California, Irvine; edited Handbook of Environmental Psychology with Irwin Altman; author, Perspectives on Environment and Behavior; co-author, Health, Behavior, and Environmental Stress with Sheldon Cohen, Gary Evans, and David Krantz
+Allan Wicker, who expanded behavior setting theories to include other areas of study, including qualitative research, and social psychology.
+Gary Winkel Professor of Environmental Psychology, The Graduate Center, City University of New York
+James A. Swan professor, media producer and writer who authored one of the first popular articles on environmental education, produced symposiums on the Gaia Hypothesis and the significance of place, produced several documentary films on environmental topics and Co-Executive Producer of the "Wild Justice" TV series on the National Geographic Channel.
+
+See also[edit]
+
+
+Environment portal
+Psychology portal
+
+
+
+
+Aesthetics
+Architecture
+Behavioural sciences
+Biophilia hypothesis
+Children, Youth and Environments (journal)
+Climatotherapy
+Connectedness to nature scale
+Conservation psychology
+Disciplinary architecture
+Deep ecology
+Ecopsychology
+Environmental dependence syndrome
+Environmental design
+Environmental design and planning
+Ergonomics
+Evolutionary psychology
+Feng shui
+Healing environments
+Human factors
+Interior design psychology
+Journal of Environmental Psychology
+Neighborhood watch
+Nidotherapy
+Psychology
+Situational strength
+Social sciences
+Urban design
+
+
+References[edit]
+Notes[edit]
+
+
+^ a b c Proshansky 1987
+^ DeYoung 2013
+^ Allesch 2003
+^ Enric Pol
+^ a b c d Proshansky 1987, p.1477
+^ Proshansky 1987, p.1478
+^ Proshansky 1987, p.1479
+^ Calhoun, John B. (February 1, 1962). "Population density and social pathology". Scientific American. 206 (2): 139–148. Retrieved June 28, 2016. 
+^ Proshansky 1987, p.1481
+^ Hendrix, John Shannon (April 12, 2013). "Architecture and dream construction". Center. Center for American Architecture & Design. 17 (Space & Psyche). ISBN 0-934951-17-9. 
+^ Proshansky 1987, p.1482
+^ Rivlin 1990, p.175
+^ Proshansky 1987, p.1485
+^ Thomas, Chess & Birch, 1968
+^ Proshansky et al. 1983, p.59
+^ a b Proshansky et al. 1983
+^ Low & Altman 1992, Williams et al. 1992
+^ Cantrill 1998; Hay 1998; Shamai 1991; Steele 1981; Williams & Stewart 1998
+^ Low & Altman 1992; Moore & Graefe 1994; Relph 1976; Tuan 1977
+^ Smaldone 2006
+^ Low & Altman 1992
+^ Schroeder 1991, p. 232
+^ Smaldone, 2007
+^ Chigbu 2013
+^ "Orbitofrontal Cortex". Orbitofrontal Cortex. wrongdiagnosis.com. Retrieved 14 July 2011. 
+^ Barker, Roger G. (1968). Ecological Psychology: Concepts and Methods for Studying the Environment of Human Behavior. Stanford: Stanford University Press. p. 94. ISBN 9780804706582. Retrieved 2 February 2017. 
+^ Center for Human Environments, CUNY Graduate Center website
+^ Proshansky 1987, p.1476
+^ Proshansky 1995 Sammy Sum
+^ "Environmental Psychology at the CUNY Graduate Center". Retrieved 11 October 2016. 
+^ "Design and Environmental Analysis". Retrieved 11 October 2016. 
+^ "Curriculum - Westphal College of Media Arts & Design". Westphal College of Media Arts & Design. Retrieved 2016-11-08. 
+^ "Welcome to Environmental Psychology". Retrieved 11 October 2016. 
+
+
+Bibliography[edit]
+
+Alfirevic, Djordje. (2011). Visual Expression in Architecture. Arhitektura i urbanizam (Belgrade), 31, 3–15.
+Allesch, Christian G. (2003). "Person and Environment: Reflections on the roots of environmental psychology".[publisher missing]
+Barker, Roger Garlock (1968). "Ecological Psychology: Concepts and Methods for Studying the Environment of Human Behavior."[publisher missing]
+Bell P., Greene T., Fisher, J., & Baum, A. (1996). Environmental Psychology. Ft Worth: Harcourt Brace.
+Chigbu, U.E. (2013). "Fostering rural sense of place: the missing piece in Uturu, Nigeria," Development In Practice 23 (2): 264-277. doi:10.1080/09614524.2013.772120
+De Young, R. (2013). "Environmental Psychology Overview." In Ann H. Huffman & Stephanie Klein [Eds.] Green Organizations: Driving Change with IO Psychology. (Pp. 17-33). NY: Routledge.
+Gifford, R. (2014). Environmental Psychology: Principles and Practice (5th ed.). Colville, WA: Optimal Books.
+Gifford, R. (Ed.)(2016). Research Methods for Environmental Psychology. New York: Wiley.
+Ittelson, W. H., Proshansky, H., Rivlin, L., & Winkel, G. (1974). An Introduction to Environmental Psychology. New York: Holt, Rinehart and Winston. Translated into German and Japanese.
+Markovic Slobodan, Alfirevic Djordje. Basic dimensions of experience of architectural objects' expressiveness: Effect of expertise. Psihologija (Belgrade), Vol. 48, No. 1 (2015), pp. 61–78.
+Markovic, Slobodan and Alfirevic, Djordje. (2012). Basic Dimensions of Architecture Expressiveness Experience. Empirijska istraživanja u psihologiji, p. 23.
+Proshansky, H. M. (1987). "The field of environmental psychology: securing its future." In Handbook of Environmental Psychology, eds. D. Stokols and I. Altman. New York: John Wiley & Sons.
+Proshansky, Harold, Abbe Fabian, and Robert Kaminoff. (1983). "Place Identity: Physical World Socialization of the Self," Journal of Environmental Psychology 3 (1): 57-83.
+Rivlin, L. G. (1990). "Paths towards environmental consciousness." pp. 169–185 in Environment and Behavior Studies: Emergence of Intellectual Traditions, eds. I. Altman and K. Christensen. NY: Plenum.
+Stokols, D., and I. Altman, eds. (1987). Handbook of Environmental Psychology. New York: John Wiley & Sons.
+Zube, E.H., and G. T. Moore, eds. (1991). Advances in Environment, Behavior, and Design, Volume 3. New York: Plenum Press.
+
+External links[edit]
+
+
+Library resources about
+Environmental psychology
+
+
+
+
+
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+ Learning materials related to Environmental psychology at Wikiversity
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Environmental social science
+
+
+
+Fields
+
+
+
+Ecological anthropology
+Ecological economics
+Environmental anthropology
+Environmental economics
+Environmental communication
+Environmental history
+Environmental politics
+Environmental psychology
+Environmental sociology
+Human ecology
+Human geography
+Political ecology
+Regional science
+
+
+
+
+
+
+
+
+Related
+
+
+
+Agroecology
+Anthrozoology
+Behavioral geography
+Community studies
+Demography
+Design
+
+ecological
+environmental
+
+
+Ecological humanities
+Economics
+
+energy
+thermo
+
+
+Environmental
+
+education
+ethics
+law
+science
+studies
+
+
+Ethnobiology
+
+botany
+ecology
+zoology
+
+
+Forestry
+Industrial ecology
+Integrated geography
+Permaculture
+Rural sociology
+Science, technology and society
+
+science studies
+
+
+Sustainability
+
+science
+studies
+
+
+Systems ecology
+Urban
+
+ecology
+geography
+metabolism
+studies
+
+
+
+
+
+
+
+Applied
+
+
+
+Architecture
+
+landscape
+sustainable
+
+
+Ecopsychology
+Engineering
+
+ecological
+environmental
+
+
+Green criminology
+Health
+
+environmental
+epidemiology
+occupational
+public
+
+
+Management
+
+environmental
+fisheries
+forest
+natural resource
+waste
+
+
+Planning
+
+environmental
+land use
+regional
+spatial
+urban
+
+
+Policy
+
+energy
+environmental
+
+
+
+
+
+
+
+
+
+
+ Environment portal
+ Category
+Concepts
+Degrees
+Journals
+Research institutes
+Scholars
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Sustainability
+
+
+
+Principles
+
+
+
+Anthropocene
+Earth system governance
+Ecological modernization
+Environmental governance
+Environmentalism
+Global catastrophic risk
+Human impact on the environment
+Planetary boundaries
+Social sustainability
+Stewardship
+Sustainable development
+
+
+
+
+
+Consumption
+
+
+
+Anthropization
+Anti-consumerism
+Earth Overshoot Day
+Ecological footprint
+Ethical
+Over-consumption
+Simple living
+Sustainability advertising
+Sustainability brand
+Sustainability marketing myopia
+Sustainable
+Systemic change resistance
+Tragedy of the commons
+
+
+
+
+
+Population
+
+
+
+Birth control
+Family planning
+Control
+Overpopulation
+Zero growth
+
+
+
+
+
+Technology
+
+
+
+Appropriate
+Environmental
+Sustainable
+
+
+
+
+
+Biodiversity
+
+
+
+Biosecurity
+Biosphere
+Conservation biology
+Deep ecology
+Endangered species
+Holocene extinction
+Invasive species
+
+
+
+
+
+Energy
+
+
+
+Carbon footprint
+Climate change mitigation
+Conservation
+Descent
+Efficiency
+Emissions trading
+Fossil-fuel phase-out
+Peak oil
+Renewable
+Energy poverty
+
+
+
+
+
+Food
+
+
+
+Forest gardening
+Local
+Permaculture
+Security
+Sustainable agriculture
+Sustainable fishery
+Urban horticulture
+
+
+
+
+
+Water
+
+
+
+Conservation
+Crisis
+Efficiency
+Footprint
+Reclaimed
+
+
+
+
+
+Accountability
+
+
+
+Sustainability accounting
+Sustainability measurement
+Sustainability metrics and indices
+Sustainability reporting
+Standards and certification
+Sustainable yield
+
+
+
+
+
+Applications
+
+
+
+Advertising
+Architecture
+Art
+Business
+City
+College programs
+Community
+Design
+Ecovillage
+Education for Sustainable Development
+Fashion
+Gardening
+Geopark
+Green marketing
+Industries
+Landscape architecture
+Living
+Low-impact development
+Sustainable market
+Organizations
+Packaging
+Practices
+Procurement
+Tourism
+Transport
+Urban drainage systems
+Urban infrastructure
+Urbanism
+
+
+
+
+
+Management
+
+
+
+Environmental
+Fisheries
+Forest
+Materials
+Natural resource
+Planetary
+Waste
+
+
+
+
+
+Agreements
+
+
+
+UN Conference on the Human Environment (Stockholm 1972)
+Brundtlandt Commission Report (1983)
+Our Common Future (1987)
+Earth Summit (1992)
+Rio Declaration on Environment and Development
+Agenda 21 (1992)
+Convention on Biological Diversity (1992)
+ICPD Programme of Action (1994)
+Earth Charter
+Lisbon Principles
+UN Millennium Declaration (2000)
+Earth Summit 2002 (Rio+10, Johannesburg)
+United Nations Conference on Sustainable Development (Rio+20, 2012)
+Sustainable Development Goals
+
+
+
+
+
+
+
+
+Category
+Lists
+Outline
+Portal
+Science
+Studies
+Degrees
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+NDL: 00576155
+
+
+
+
+
+
+
+
+
+
+Categories: Environmental psychologyEnvironmental social scienceHidden categories: Articles needing additional references from July 2014All articles needing additional referencesAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from July 2014All articles with unsourced statementsArticles with unsourced statements from July 2014Wikipedia articles needing clarification from July 2014Articles needing more detailed referencesArticles with unsourced statements from November 2016Articles with unsourced statements from March 2013Articles with unsourced quotesArticles needing additional references from July 2010Pages using div col with deprecated parameters

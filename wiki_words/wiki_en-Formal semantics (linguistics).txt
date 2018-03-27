@@ -1,0 +1,73 @@
+Formal semantics (linguistics)
+For other uses, see Formal semantics.
+In linguistics, formal semantics seeks to understand linguistic meaning by constructing precise mathematical models of the principles that speakers use to define relations between expressions in a natural language and the world that supports meaningful discourse.[1] The mathematical tools used are the confluence of formal logic and formal language theory, especially typed lambda calculi.
+
+
+
+Contents
+
+
+1 Overview
+2 See also
+3 References
+4 Further reading
+
+
+
+Overview[edit]
+Linguists rarely employed formal semantics until Richard Montague showed how English (or any natural language) could be treated like a formal language.[2] His contribution to linguistic semantics, which is now known as Montague grammar, was the basis for further developments, like the categorial grammar of Bar-Hillel and colleagues, and the more recent type-logical semantics (or grammar) based on Lambek calculus.[3]
+Another line of inquiry, using linear logic, is Glue semantics, which is based on the idea of "interpretation as deduction", closely related to the "parsing as deduction" paradigm of categorial grammar.[4]
+Cognitive semantics emerged and developed as a reaction against formal semantics, but there have been recently several attempts at reconciling both positions[5].
+See also[edit]
+
+Computational semantics
+Discourse representation theory
+
+References[edit]
+
+
+
+^ Mark Aronoff; Janie Rees-Miller (2003). The handbook of linguistics. Wiley-Blackwell. ISBN 978-1-4051-0252-0. , chapter 15: An Introduction to Formal semantics.
+^ For a very readable and succinct overview of how formal semantics found its way into linguistics, please refer to The formal approach to meaning: Formal semantics and its recent developments by Barbara Abbott. In: Journal of Foreign Languages (Shanghai), 119:1 (January 1999), 2–20.
+^ Michael Moortgat (1988). Categorial investigations: logical and linguistic aspects of the Lambek calculus. Walter de Gruyter. ISBN 978-90-6765-387-9. Retrieved 5 April 2011. 
+^ Harry Bunt (2008). Computing Meaning. 3. Springer. p. 458. ISBN 978-1-4020-5957-5. 
+^ Hamm, Fritz; Kamp, Hans; Lambalgen, Michiel van (2006-09-01). "There is no opposition between Formal and Cognitive Semantics". Theoretical Linguistics. 32 (1): 1–40. doi:10.1515/tl.2006.001. ISSN 1613-4060. 
+
+
+
+Further reading[edit]
+
+Max Cresswell (2006). "Formal semantics". In Michael Devitt, Richard Hanley. The Blackwell guide to the philosophy of language. Wiley-Blackwell. ISBN 978-0-631-23142-4.  An very accessible overview of the main ideas in the field.
+John I. Saeed (2008). Semantics. Introducing linguistics (3rd ed.). Wiley-Blackwell. ISBN 978-1-4051-5639-4.  Chapter 10, Formal semantics, contains the best chapter-level coverage of the main technical directions
+Johan van Benthem; Alice Ter Meulen (2010). Handbook of Logic and Language (2nd ed.). Elsevier. ISBN 978-0-444-53726-3.  The most comprehensive reference in the area.
+Emmon W. Bach (1989). Informal lectures on formal semantics. SUNY Press. ISBN 978-0-88706-772-3.  One of the first textbooks. Accessible to undergraduates.
+Ronnie Cann (1993). Formal semantics: an introduction. Cambridge University Press. ISBN 978-0-521-37610-5. 
+Irene Heim; Angelika Kratzer (1998). Semantics in generative grammar. Wiley-Blackwell. ISBN 978-0-631-19713-3. 
+Gennaro Chierchia; Sally McConnell-Ginet (2000). Meaning and grammar: an introduction to semantics (2nd ed.). MIT Press. ISBN 978-0-262-53164-1. 
+Sean A. Fulop (2004). On the Logic and Learning of Language. Trafford Publishing. ISBN 978-1-4120-2381-8. [self-published source]
+Glyn V. Morrill (1994). Type logical grammar: categorial logic of signs. Springer. ISBN 978-0-7923-3095-0. 
+Reinhard Muskens Type-logical Semantics to appear in the Routledge Encyclopedia of Philosophy Online.
+Bob Carpenter (1998). Type-logical semantics. MIT Press. ISBN 978-0-262-53149-8. 
+Johan van Benthem (1995). Language in action: categories, lambdas, and dynamic logic. MIT Press. ISBN 978-0-262-72024-3. 
+Barbara H. Partee: Reflections of a formal semanticist as of Feb 2005. Ample historical information. (an extended version of the introductory essay in Barbara H. Partee: Compositionality in Formal Semantics: Selected Papers of Barbara Partee. Blackwell Publishers, Oxford, 2004.)
+
+
+
+
+
+This semantics article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+Categories: SemanticsSemiotics stubsLinguistics stubsHidden categories: All articles with self-published sourcesArticles with self-published sources from January 2018All stub articles

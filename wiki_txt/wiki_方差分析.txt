@@ -1,0 +1,2 @@
+方差分析
+方差分析或变方分析（Analysis of variance，简称ANOVA）为数据分析中常见的统计模型，主要为探讨连续型（Continuous）资料型态之因变量（Dependent variable）与类别型资料型态之自变量（Independent variable）的关系，当自变项的因子中包含等于或超过三个类别情况下，检定其各类别间平均数是否相等的统计模式，广义上可将T检定中方差相等（Equality of variance）的合并T检定（Pooled T-test）视为是方差分析的一种，基于T检定为分析两组平均数是否相等，并且采用相同的计算概念，而实际上当方差分析套用在合并T检定的分析上时，产生的F值则会等于T检定的平方项。

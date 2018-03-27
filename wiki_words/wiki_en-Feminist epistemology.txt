@@ -1,0 +1,544 @@
+Feminist epistemology
+
+
+Part of a series on
+
+
+Feminist philosophy
+
+
+Major works
+
+
+
+
+
+A Vindication of the Rights of Woman (1792)
+
+The Subjection of Women (1869)
+
+The Origin of the Family, Private Property and the State (1884)
+
+The Second Sex (1949)
+The Feminine Mystique (1963)
+Sexual Politics (1969)
+The Dialectic of Sex (1970)
+The Female Eunuch (1970)
+Gyn/Ecology (1978)
+The Politics of Reality (1983)
+The Creation of Patriarchy (1986)
+Gender Trouble (1990)
+Black Feminist Thought (1990)
+Feminism and the Mastery of Nature (1993)
+Revolution, She Wrote (1993)
+
+
+
+
+Major theorists
+
+
+
+
+
+Bartky
+Beauvoir
+Butler
+Collins
+Daly
+Davis
+Fraser
+Firestone
+Friedan
+Frye
+Greer
+hooks
+Steinem
+Lerner
+Mill
+Taylor Mill
+Millett
+Nussbaum
+Plumwood
+Saadawi
+Wollstonecraft
+Martineau
+
+
+
+
+
+Ideas
+
+
+
+
+
+Feminism
+
+analytical
+epistemology
+ethics
+existentialism
+metaphysics
+
+
+Gender
+
+equality
+performativity
+
+
+
+
+
+
+
+Journals
+
+
+
+
+
+Hypatia
+
+2017 Hypatia controversy
+
+
+philoSOPHIA
+Radical Philosophy
+
+
+
+
+
+Category
+
+
+
+
+Feminist philosophers
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Feminist epistemology is an examination of the subject matter of epistemology, i.e., the theory of knowledge, from a feminist standpoint. Elizabeth Anderson describes feminist epistemology as being concerned with the way in which gender influences our concept of knowledge and "practices of inquiry and justification".[1] It is generally regarded as falling under the umbrella of social epistemology.
+
+
+
+Contents
+
+
+1 Overview
+2 Feminist empiricism
+
+2.1 Two paradoxes
+
+
+3 Standpoint epistemology
+4 Post-modernism
+
+4.1 "Theory in the Flesh"
+4.2 "Feminist Epistemic Virtue Theory"
+
+
+5 Feminist science criticism and feminist science
+
+5.1 Feminist science criticism : bias as error
+5.2 Feminist science: bias as resource
+
+
+6 References
+7 External links
+
+
+
+Overview[edit]
+Feminist epistemology emphasizes how important ethical and political values are in shaping epistemic practices, and interpretations of evidence. Feminist epistemology studies how gender influences our understanding of knowledge, justification and theory of knowledge; it describes how knowledge and justification disadvantage women. Scientists of feminist epistemology claim that knowledge discriminate women by: preventing them from inquiry and presenting women as an inferior, because these theories of knowledge satisfy only male interests, which strengthen gender hierarchies.[2]
+The central idea of feminist epistemology is that knowledge reflects the particular perspectives of the theory. The main interest of feminist philosophers is how gender stereotypes situate knowing subjects. They approach this interest from three different perspectives: feminist standpoint theory, feminist postmodernism, and feminist empiricism. Standpoint theory defines a specific social perspective as epistemically privileged. Feminist postmodernism emphasizes the instability of the social identity explorers and therefore their representations. Empiricism focuses on combining the main ideas of feminism and their observations to prove feministic theories through evidence.[2]
+Elizabeth Anderson argues that the concept of situated knowledge is central to feminist epistemology. Donna Haraway asserts that most knowledge (in particular academic knowledge) is always situated and "produced by positioned actors working in/between all kinds of locations, working up/on/through all kinds of research relation(ships)" (Cook, et al.),[3] and thus what is known and the ways in which this knowledge can be known is subject to the position—the situation and perspective—of the knower.
+The English feminist philosopher Miranda Fricker has argued that in addition to social or political injustices, there can be epistemic injustices in two forms: testimonial injustice and hermeneutical injustice. Testimonial injustice consists in prejudices that cause one to "give a deflated level of credibility to a speaker's word":[4] Fricker gives the example of a woman who due to her gender is not believed in a business meeting. She may make a good case, but prejudice causes the listeners to believe her arguments to be less competent or sincere and thus less believable. In this kind of case, Fricker argues that as well as there being an injustice caused by possible outcomes (such as the speaker missing a promotion at work), there is a testimonial injustice: "a kind of injustice in which someone is wronged specifically in her capacity as a knower".[5]
+In the case of hermeneutical injustice, "speakers' knowledge claims fall into lacunae in the available conceptual resources, thus blocking their capacity to interpret, and thence to understand or claim a hearing for their experiences."[6] For example, when the language of 'sexual harassment' or 'homophobia' were not generally available, those who experienced these wrongs lacked the resources to make a claim to being wronged in morally relevant ways.
+The philosopher Susan Haack is a notable critic of feminist epistemology.[7][8]
+Sandra Harding organized feminist epistemology into three categories: feminist empiricism, standpoint epistemology, and post-modern epistemology.[9] While potentially a limited set of categories, post-modern feminism was a transitional ideology that denounced absolute objectivity and asserted the death of the meta-narrative.[9] While these three categories of feminist epistemology have their place in history (see feminist empiricism, standpoint feminism, postmodern feminism), as ideological frameworks they hold important epistemic insights arguably still relevant in contemporary feminist method.
+Feminist empiricism[edit]
+Feminist empiricism emerged from a feminist critique that gave attention to male bias in positivistic practices of science.[9] 2nd Wave feminist researchers identified how quantification and objectivity, as facets of positivism, have been held as the “gold standard” for social and political science research.[10] Quantification, and its political relationships to notions of objectivity, maintains methodological dominance and preference primarily in the United States.[10] This is perpetuated by how funding authorities tend to prioritize quantitative research with positivist frameworks.[10]
+Feminist empiricists believe in the concept of positivism; that all knowledge can be understood objectively and can be accessed through empirical research.[11] They assert that pre-feminist positivism was actually not objective at all, since traditional positivism’s ‘androcentric bias’ led to only partial or ‘subjective’ knowledge of the world.[11] In essence, all empirical inquiry is inherently skewed by value judgments and biased interpretation of evidence by male-biased authorities.[9] For instance, it was not until retrieving statistical data on the prevalence of women in the workplace experiencing (what is now known to be) ‘sexual harassment’ through surveys in the 1970s that sexual harassment became identified by political authorities as a commonality.[11] Without this intervention of feminists in an empirical field, this commonality would never have been identified as an issue, since males had no reason to pursue this phenomenon.[11] Londa Schiebinger further asserts that empirical research “embodies many core feminist values”, in that feminist empiricists are actively seeking out and eliminating exploitative research whilst resisting strategic, oppressive explanations of data.[12]
+Feminist empiricism is critiqued for its belief that “objectivity” is best achieved through quantification, whether or not viewed through a feminist lens or utilized for feminist ideals. The division between quantitative and qualitative data has historically reinforced gendered dichotomies of “hard/soft, emotional/rational, worthy/worthless”.[10] Many assert that ‘objective truth’ is a false concept, and thus feminist empiricists may overestimate the extent to which they can increase objectivity.[13] Furthermore, positivism and quantitative research has been critiqued as a “detached” philosophical framework that inherently objectifies its research subjects.[9]
+Feminist empiricists respond to the problem of value-neutrality by lengthening Quine's argument: theory is not determined by evidence. Any observation counts as proof for particular thesis only if connected with certain background presumptions, because similar observation might support different hypotheses. In daily life, scientists face some restrictions in selecting the background assumptions, that are based on cognitive values like simplicity and conservatism, which a political and social philosophy that is based on retaining traditional social establishments. Feminist empiricists state that no logical or methodological principle categorically prohibits scientists from choosing their background assumptions as their political and social values or other interests. Therefore, feminist scientists may select their background presumptions on account of their opinions on some feminist values.[2]
+Two paradoxes[edit]
+There are two central paradoxes with feminist empiricism
+The paradoxes of bias The first one is many feminist empiricist advocates on exposing the androcentric and sexist biases in scientific research, which people have a bias towards gender difference and sexuality. However, while they urge that the feminist inquiry helps the development of science, they adopted certain bias about gender and science.[2]
+The paradox of social construction The second paradox is about many science criticisms expose that the scientific inquiry is influenced by both social and political factors.The theories of androcentric and sexist are influenced by the most society are what they advocate, which can be understood as in order to eliminate the bias, the term like “ individualist epistemology” would be used. However, they want scientific to be open to different social influences, which the bias of female is also a part of social influence.[2]
+Criticism of empiricism theory: It is the most criticized theory by others, for its assumptions that transhistorical subject of knowledge exists outside of social determination (Harding 1990). Also feminist empiricism theory states that science will correct all the biases and errors in theories about women and other groups by itself.[2]
+Standpoint epistemology[edit]
+At a basic level, standpoint epistemology asserts that marginalized groups such as women are bestowed with an “epistemic privilege”, where there exists the potential for less distorted understandings of the world than dominant groups, such as men.[9] This methodology presents many new ideas to the Feminist Empiricist notion that androcentric dominance and bias presents an incomplete understanding of the world. A “standpoint” is not so much about a subject’s biased perspective, but instead the ‘realities’ that structure social relationships of power.
+Standpoint theories portray the universe from a concrete situated perspective. Every standpoint theory must specify: the social location from the feminist perspective, the scope of its privileges, the social role and the identity that generates knowledge and the justification of these privileges. Feminist standpoint theory states a privilege in gender relations, various feminist standpoint theories are based on the statement about the epistemic privilege in different feministic situations. Feminist standpoint theory is one of the types of critical theory, their main intention is to improve their situation. In order to achieve this critical aim, social theories must represent the understanding of feministic problems and try to improve their condition. Critical theory is theory of, by, and for the subjects of study. Feminism and feminist epistemology is all about inquiry, assumptions, and theories. Through these methods feminist epistemology overcomes the tension between bias on which feminist empiricism is based on.[2][14] It presents an elaborate map or method for maximizing “strong objectivity” in natural and social science,[14] yet does not necessarily focus on encouraging positivistic scientific practices, like is central to Feminist Empiricism.[9]
+Although standpoint epistemology has been critiqued for focusing too closely on a distinctive women’s perspective which may render invisible concepts of historically and sociologically variable knowledge,[13] Harding strongly asserts that standpoint epistemology does not essentialize any particular marginalized identity.[14] Harding further argues that the methodology does not subscribe to notions of “maximizing neutrality” between groups in an effort to maximize objectivity, but instead recognizes that the power relations between groups are what complicate these relationships.[14] This is in some ways contrary to Doucet’s assertion[9] that the controversy of how power influenced knowledge production is a post-standpoint, more contemporary debate. Standpoint epistemology also poses a necessity to ask critical questions about the lives and social institutions created by dominant groups; where the field becomes a sociology for women and not solely about women.[14]
+In practicality, standpoint theory has widespread use as "a philosophy of knowledge, a philosophy of science, a sociology of knowledge, a moral/political advocacy of the expansion of democratic rights".[14] Although it has been asserted that “epistemic privilege” is inherent to marginalized groups,[9] Harding poses standpoint theory as an explanatory means for both marginalized and dominant group individuals to be able to achieve liberatory perspectives.[14]
+Criticism of standpoint theory: Longino is against standpoint theory, because he claims that standpoint theory can not provide the knowledge of which standpoints have the most privilege. Bar On (1993) said that if feminine ethics of care provides privileged perspective on morality, then our moral knowledge is convinced only by existence of gender relations. Bar On also claims that theory which explains structural relationship between advanced and less developed, which dictates epistemic privilege can not be applied to women. Marx claimed that class conflict derives other conflicts such as racism, sexism, national and religious conflicts.
+Feminist epistemology is criticized by different philosophers. Feminist postmodernists blame feminist empiricists for assuming the existence of an individual and for admitting an uncritical concept of experience. Naturalized Quine epistemology of some feminist empiricists perceives knowers as socially situated; Hundleby, a standpoint theorist, criticizes feminist empiricism for disregarding the key role of women in political activities.[2]
+Post-modernism[edit]
+Post-modern thought marks a feminist group shift away from dominant, positivistic ideals of objectivity and universal understanding.[13] Instead, it acknowledges a diversity of unique human perspectives, none of which can claim absolute knowledge authority.[9] Post-Modern feminism has thus been critiqued for having a relativist-stance, where ongoing power relations between key identities have been often neglected attention.[13] It is possible to see this political stance in direct opposition to the “emancipatory aspirations” of women.[9] However, Saba Mahmood[15] would argue this critique is in some ways oppositional to global understandings of female desire, where the idea of ‘freedom’ is an essential, conditionally oppressive component to western feminism which may wrongly assume that women of eastern countries dominated by male power are victims needing to be liberated.
+Donna Haraway, a post-modern feminist, shows how post-modern feminism recognizes positivism as an inherently oppressive ideology, where ‘science’s’ rhetoric of ‘truth’ was used to undermine marginalized people’s agency and delegitimize ‘embodied’ accounts of truth.[16] Furthermore, they argue that ‘objectivity’ is an external, disembodied point of view left only to privileged (unmarked bodies), because marginalized (marked bodies) cannot have perspectives dissociated from ‘who they are’.[16] Despite post-modern relativist criticism,[13] this theory resists relativism in firmly recognizing power relations in that objectivity is a privilege of unmarked bodies. Harding’s theory of “situated knowledges” holds true to post-modern ideology, where knowledge should be placed in context; this creates a more limited range of knowledge than theoretical “objectivity”, but is richer in allowing for exchange of understanding between individual experiences.[16] Positivism inherently gives way to authoritarian positions of knowledge which hinder discussion and render limited understanding of the world.[16] Both positivist science and relativism have been recognized as contrary to post-modern feminist thought, since both minimize the significance of context (geographic, demographic, power) on knowledge claims.[17]
+Criticism of postmodernism: Key features of postmodernism: “Women” not the category of analysis and contains of perspectives which are controversial with feminist theory. The fact that women are in different social position can experience sexism differently, does not mean that they do not suffer from it (MacKinnon 2000). The postmodernism theory dissolves all groups, and supports the ideas that knowledge from any source is better than no knowledge at all (Bordo 1990).[2]
+"Theory in the Flesh"[edit]
+Post-modern feminism’s assertion of “situated knowledges”,[16] plays well into Cherrie Moraga’s piece “Theory in the Flesh”, where the ‘physical realities’ of indigenous peoples’ lives are said to be the means of creating a decolonial politic against oppressive, inaccessible, Eurowestern academic methods of knowledge production.[18] This epistemological framework has been utilized by feminists like bell hooks, who claims that theorizing is often tied to a process of self-recovery and collective liberation; it is not thus limited to those in the western academic realm, nor does it require ‘scientific’ research.[19] Hooks asserts that theory and practical application of emancipatory politics can, and often do, exist simultaneously and reciprocally.[19] Post-Modern feminism has given way to the question of whether or not there should be any particular feminist ways of knowing.[9] A 'theory in the flesh' seems to suggest that prioritizing or normalizing any specific feminist epistemology would in itself be, and has been, oppressive.
+"Feminist Epistemic Virtue Theory"[edit]
+This theory focuses on how power and gender relations behave in terms of value theory and epistemology. Bordo’s (1990) and Lloyd’s (1984) examined how “maleness” and “femaleness” are used in philosophical theories and discussions about relationship such as, reason/unreason, reason/emotion and objectivity/subjectivity. Lorraine Code’s (1987, 1991, 1995, 1996) with other feminist co-workers determined in which ways political and social routine shapes our identities and perspectives of our world and especially gender, how it leads to understanding of epistemic responsibility. Code’s works also have been influential in epistemological fields, which can be described as version of naturalism takes and reinvents simple and uncontroversial empirical beliefs, for example the belief like “I know that I am seeing a bird”, deforms the epistemic animal nature. Feminist epistemic virtue theorists rejects almost all the assumptions. Skeptical problems can not get any connections with it, so it is ignored and considered as a pseudo-problem.[20]
+Feminist science criticism and feminist science[edit]
+Feminist science criticism : bias as error[edit]
+Feminist science criticism mainly has five different kinds of research about gender and science to address five identified biases. These are studies of how:
+
+Exclusion or marginalization of women scientists impair scientific progress.
+Applications of science and technology disadvantage women and other vulnerable groups and treat their interests as less important.
+Science has ignored women and gender, and how turning attention to these issues may require revisions of accepted theories.
+Biases toward working with “masculine” cognitive styles (and in some cases even the words related to them) that may — through limiting, partial, or incomplete perspective — lead to errors of omission or unjustified conclusions.
+Research into sex differences that reinforces sex stereotypes and sexist practices fail to live up to standards of good science.[2]
+
+Feminist science: bias as resource[edit]
+Feminist science argues that the inquiry of science which informed by feminist epistemology is based on legalizing and produce the limiting partial bias. Pluralist feminist scientists and philosophers of science define feminist science as preferred content and “feminine” method.[2]
+
+References[edit]
+
+
+
+^ Anderson, Elizabeth S. (2004), "Feminist epistemology and philosophy of science", in Zalta, Edward N., The Stanford Encyclopedia of Philosophy (Summer 2004 Edition) 
+^ a b c d e f g h i j k Young, I. M. (1990), "Throwing like a girl and other essays in feminist political theory.", Bloomington: Indiana University Press. 
+^ Ian Cook, 'Positionality/Situated Knowledge' for David Sibley et al. (eds)Critical Concepts in Cultural Geography. London, IB: Taurus http://www.gees.bham.ac.uk/downloads/gesdraftpapers/iancook-situatedknowledge.pdf Archived September 25, 2006, at the Wayback Machine.
+^ Miranda Fricker (August 2009). Epistemic Injustice: Power and the Ethics of Knowing. Oxford University Press. p. 1. ISBN 978-0-19-957052-2. Retrieved 8 March 2011. 
+^ Miranda Fricker (August 2009). Epistemic Injustice: Power and the Ethics of Knowing. Oxford University Press. p. 20. ISBN 978-0-19-957052-2. Retrieved 8 March 2011. 
+^ Lorraine Code, 2008. Review of Epistemic Injustice.
+^ Haack, Susan (2000) [1998]. Manifesto of a Passionate Moderate: Unfashionable Essays. University of Chicago Press. ISBN 978-0-226-31137-1. 
+^ Lynn Hankinson Nelson (1995). "The Very Idea of Feminist Epistemology". Hypatia. 10 (3): 31–49. doi:10.1111/j.1527-2001.1995.tb00736.x. JSTOR 3810236. 
+^ a b c d e f g h i j k l Doucet, A., & Mauthner, N. (2006). Feminist methodologies and epistemology. Handbook of 21st Century Sociology. Thousand Oaks, CA: Sage, 36-45.
+^ a b c d Hughes, C.; Cohen, R. L. (2010). "Feminists really do count: The complexity of feminist methodologies". International Journal of Social Research Methodology. 13 (3): 189–196. doi:10.1080/13645579.2010.482249. 
+^ a b c d Hesse-Biber, S. N. & Leavy, P. L. (2007). Feminist empiricism: challenging gender bias and “setting the record straight”. In Hesse-Biber, S. N. & Leavy, P. L. Feminist research practice (pp. 26-52). : SAGE Publications Ltd doi: 10.4135/9781412984270.n2
+^ Schiebinger, L (2003). "Introduction: Feminism inside the sciences". Signs: Journal of Women in Culture and Society. 28 (3): 859–886. doi:10.1086/345319. 
+^ a b c d e Bart, J. (1998, January 19). Feminist Theories of Knowledge: The Good, The Bad, and The Ugly. Retrieved October, from http://www.dean.sbc.edu/bart.html
+^ a b c d e f g Harding, S. (1996). Borderlands Epistemologies. In A. Ross (ed.), Science wars. Durham, North Carolina: Duke University Press 331-340. https://femmethodsuwyo.files.wordpress.com/2012/01/hardingborderlandsepist.pdf
+^ Mahmood, S (2001). "Feminist Theory, Embodiment, and the Docile Agent: Some Reflections on the Egyptian Islamic Revival". Cultural Anthropology. 16 (2): 202–236. doi:10.1525/can.2001.16.2.202. 
+^ a b c d e Haraway, D (September–October 1988). "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective". Feminist Studies. 14 (3): 575–599. doi:10.2307/3178066. 
+^ Collins, P. H. (1990). "Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment". Contemporary Sociology. 21 (1): 221–238. doi:10.2307/2074808. 
+^ Moraga, C., & Anzaldúa, G. (1983). Theory in the Flesh. In This bridge called my back: Writings by radical women of color. New York: Kitchen Table, Women of Color Press. 23.
+^ a b Hooks, B. (1994). Theory as a Liberatory Practice. In Teaching to transgress: Education as the practice of freedom. New York: Routledge.
+^ Feminist Epistemology. (n.d.). Retrieved February 9, 2017 from Internet Encyclopedia of Philosophy: http://www.iep.utm.edu/fem-epis/
+
+
+
+External links[edit]
+
+Feminist epistemology at PhilPapers
+Zalta, Edward N. (ed.). "Feminist Epistemology and Philosophy of Science". Stanford Encyclopedia of Philosophy. 
+Feminist epistemology at the Indiana Philosophy Ontology Project
+"Feminist epistemology". Internet Encyclopedia of Philosophy. 
+'Positionality/Situated Knowledge', by Ian Cook (PDF)[1]
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Feminist theory
+
+
+
+Academic fields
+
+
+
+Anthropology
+Archaeology
+Architecture
+Art
+
+Art criticism
+Film theory
+Literary criticism
+
+
+Biology
+Composition studies
+Criminology
+Digital humanities
+Economics
+FPDA
+Geography
+History
+International relations (Constructivism)
+Legal theory
+Pedagogy
+Philosophy
+
+Aesthetics
+Empiricism
+Epistemology
+Ethics
+Existentialism
+Metaphysics
+
+
+Political ecology
+Political theory
+Postmodernism
+Psychology
+Sexology
+Sociology
+Technoscience
+Theology
+
+Thealogy
+Womanist theology
+
+
+
+
+
+
+
+
+
+Feminism portal
+
+
+
+
+
+
+Related subjects
+
+
+
+Ecofeminism
+Feminist method
+Hegemonic masculinity
+Women's history
+Women's studies
+
+
+
+
+
+Feminist theorists
+
+
+
+Elizabeth Anderson
+Simone de Beauvoir
+Wendy Brown
+Nancy Bauer
+Judith Butler
+Hélène Cixous
+Alice Crary
+Andrea Dworkin
+Cynthia Enloe
+Martha Fineman
+Nancy Fraser
+Germaine Greer
+Donna Haraway
+Sandra Harding
+Luce Irigaray
+Julia Kristeva
+Catharine MacKinnon
+Martha Nussbaum
+Val Plumwood
+Avital Ronell
+Diana E. H. Russell
+Dorothy E. Smith
+Marilyn Waring
+
+
+
+
+
+Lists
+
+
+
+Women's studies journals
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+Categories: FeminismSocial epistemologyFeminist philosophyPostmodernismPostmodern theoryHidden categories: Webarchive template wayback links

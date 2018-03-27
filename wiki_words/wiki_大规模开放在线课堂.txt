@@ -1,0 +1,271 @@
+大规模开放在线课堂
+
+
+
+
+
+
+
+
+
+慕课海报中的每一个字母带可协商性问题，以探讨慕课（大规模开发式在线课程）的含义。
+
+
+
+
+
+
+Dave Cormier讲到MOOC。
+
+
+大规模开放在线课堂（课程），又称慕课（英语：Massive Open Online Course/MOOC)，是一种针对于大众人群的在线课堂，人们可以通过网络来学习在线课堂。MOOC是远程教育的最新发展，它是一种通过开放教育资源形式而发展来的。[1]
+MOOC的设计和课堂参与类似于学院和大学课堂，但MOOC一般不会像在校付费的学生那样要求学分。尽管如此，学习的奖励可能通过证书来证明。
+MOOC起源于开放教育资源运动和学习连接主义的思潮。最近，大量MOOC类似的计划已经独立地浮出水面，例如Coursera, Udacity, edX和Marginal Revolution University [2]；华文MOOC自2012年开始布局，至2014年较知名的MOOC网站包括MOOC学院、学堂在线、中国大学mooc[3]、ewant育网、Share Course、Proera等。这些引人注目的计划的创始者投资机构和金融投资，帮助MOOC在2012年获取了显著的公众关注。[4]
+MOOC没有完全既定的定义，但有两个显著的特点：
+
+Open access/开放共享：MOOC参与者不必是在校的注册学生，也不要求学费，它是让大家共享的。
+Scalability/可扩张性：许多传统课堂针对于一小群学生对应一位老师，但MOOC里的“大规模”课堂是针对于不确定的参与者而言来设计的。
+
+早期MOOC的其它特点，例如内容的开放授权，开放结构和学习目标，以社区为中心等的特点，它们也不是在所有MOOC计划里都出现。[5]
+
+
+
+目录
+
+
+1 参考资料
+2 参见
+3 外部链接
+
+3.1 视频
+
+3.1.1 TED大会演讲
+
+
+3.2 线上文档
+
+
+4 相关书籍
+
+
+
+参考资料[编辑]
+
+
+^ Kaplan Andreas M., Haenlein Michael (2016) Higher education and the digital revolution: About MOOCs, SPOCs, social media, and the Cookie Monster, Business Horizons, Volume 59.
+^ Smith, Lindsey "5 education providers offering MOOCs now or in the future". July 31, 2012.
+^ 中国大学MOOC(慕课)_最好的在线课程学习平台
+^ Laura Pappano. The Year of the MOOC - The New York Times . November 2, 2012
+^ Wiley, David. "The MOOC Misnomer". July, 2012
+
+
+参见[编辑]
+
+在线学习
+数字学习
+行动学习
+遥距教育
+E化教室
+
+外部链接[编辑]
+
+Coursera Blog : The Birth of MOOC
+MOOC pedagogy: the challenges of developing for Coursera
+Babson Survey Research Group: National reports on growth of online learning in US Higher Education
+Amanda Kraus, "Opinion Time! Udacity, Pearson, MOOCs and UVA" Blog post, "Worst Professor Ever", June 18, 2012
+Dialogue and Connectivism: A New Approach to Understanding and Promoting Dialogue-Rich Networked Learning Andrew Ravenscroft International Review of Research in Open and Distance Learning Vol. 12.3 March – 2011, Learning Technology Research Institute (LTRI), London Metropolitan University, UK
+Stephen Carson and Jan Philipp Schmidt. The Massive Open Online Professor. Academic Matters: The Journal of Higher Education, May 2012.
+MOOC学院：中文互联网内最大的MOOC学习社区。
+卡卡MOOC资源站 - MOOC 慕课平台收集
+
+视频[编辑]
+
+Discussion on a new trend in higher education: Massive open online courses or MOOCs Washington Journal August 7, 2012
+What is a MOOC?
+
+TED大会演讲[编辑]
+
+Shimon Schocken: 自组织式计算机课程
+Peter Norvig：容纳十万人的教室
+Daphne Koller: 我们从在线教育学到了什么
+
+线上文档[编辑]
+
+A. McAuley, B. Stewart, G, Siemens and D. Cormier, The MOOC Model for Digital Practice (2010)
+D. Levy, Lessons Learned from Participating in a Connectivist Massive Online Open Course (MOOC), (2011)
+S.F. John Mak, R. Williams, and J. Mackness, Blogs and Forums as Communication and Learning Tools in a MOOC, Proceedings of the 7th International Conference on Networked Learning (2010)
+Siemens, G. Learning and Knowing in Networks: Changing roles for Educators and Designers. Presented to ITFORUM for Discussion (January 27, 2008)
+
+相关书籍[编辑]
+
+Graham Vickery, Sacha Wunsch-Vincent, Organisation for Economic Co-operation and DevelopmentParticipative web and user-created content: web 2.0, wikis and social networking (2007)
+Siemens, G. (2005). Connectivism: A learning theory for a digital age. International Journal of Instructional Technology and Distance Learning, 2(1), 3–10.
+UNLOCKING the GATES: How and Why Leading Universities Are Opening Up Access To Their Courses; Taylor Walsh, Princeton University Press, 2011. ISBN 978-0-691-14874-8
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+大规模开放在线学习（MOOC）
+
+
+
+
+
+
+概念
+
+
+
+大规模开放在线课堂
+关系主义（英语：Connectivism）
+网上学习娱乐（英语：Category:Online edutainment）
+开放教育资源
+开放教育（英语：Open education）
+开放数据
+游戏化
+分拆（英语：Unbundling）
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+地球学术
+ALISON（英语：ALISON (company)）
+Canvas（英语：Instructure）
+中国开放教育资源联合体
+Edulanka（英语：Edulanka）
+MIT OpenCourseWare
+可汗学院
+开放式课程网页
+OpenLearn（英语：OpenLearn）
+网络同伴互助点对点大学（英语：Peer to Peer University）
+PhET模拟教学（英语：PhET Interactive Simulations）
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+Codecademy
+Coursera
+Crash Course
+Duolingo
+EduKart（英语：EduKart）
+edX
+ewant
+FutureLearn（英语：FutureLearn）
+iversity（英语：iversity）
+澳洲公开大学（英语：Open Universities Australia）
+OpenHPI（英语：OpenHPI）
+OpenLearning（英语：OpenLearning）
+NovoEd（英语：NovoEd）
+Udacity
+Udemy（英语：Udemy）
+学堂在线
+均一教育平台
+
+
+
+
+
+
+
+
+游戏化学习
+
+
+
+Duolingo
+可汗学院
+Codecademy
+Code.org
+
+
+
+
+
+
+
+
+创作者内容发布平台
+
+
+
+地球学术
+ALISON（英语：ALISON (company)）
+Coursera
+Canvas（英语：Instructure）
+中国开放教育资源联合体
+edX
+FutureLearn（英语：FutureLearn）
+NovoEd（英语：NovoEd）
+开放式课程网页
+OpenLearning（英语：OpenLearning）
+网络同伴互助点对点大学（英语：Peer to Peer University）
+Udacity
+Udemy（英语：Udemy）
+
+
+
+
+
+
+
+
+人物
+
+
+
+阿南特·阿加瓦尔（英语：Anant Agarwal）
+斯蒂芬·唐斯（英语：Stephen Downes）
+麦克·费瑞克（英语：Mike Feerick）
+葛林兄弟
+
+汉克·葛林（英语：Hank Green）
+约翰·葛林
+
+
+布雷迪·哈兰
+萨尔曼·可汗
+达芙妮·科勒（英语：Daphne Koller）
+德里克·穆勒（英语：Derek Muller）
+彼德·诺米格
+吴恩达
+乔治·西门子（英语：George Siemens）
+塞巴斯蒂安·史朗（英语：Sebastian Thrun）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：教育机构教育网站网站内容开放开放教育资源隐藏分类：使用ISBN魔术链接的页面

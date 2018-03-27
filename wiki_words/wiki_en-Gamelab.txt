@@ -1,0 +1,343 @@
+Gamelab
+
+Gamelab
+
+
+
+
+
+Former type
+
+Private
+
+
+Industry
+Video game industry
+
+
+Founded
+2000
+
+
+Founder
+Eric Zimmerman
+Peter Seung-Taek Lee
+
+
+Defunct
+2009 (assets acquired by Arkadium)
+
+
+
+Key people
+
+Eric Zimmerman (co-founder, chief executive)
+Peter Seung-Taek Lee (co-founder, president)
+Frank Lantz (director of game design)
+Nicholas Fortugno (director of game design)
+Katie Salen
+
+
+Products
+Video games
+
+
+
+Number of employees
+
+40[1]
+
+
+Gamelab was an independent game studio in New York City founded by game designer Eric Zimmerman and Peter Seung-Taek Lee in 2000. It is best known for creating Diner Dash, one of the most downloaded games of all time (over half a billion times across multiple platforms in its first six years[2]), as well as its two spin-off companies, the non-profit Institute of Play and the online game and community site Gamestar Mechanic.
+
+
+
+Contents
+
+
+1 History
+2 Video games
+3 Massively Multiplayer Social Games at GDC
+4 References
+
+
+
+History[edit]
+Zimmerman and Lee (with audio by Michael Sweet) created a game called BLiX, which was named a Finalist (and eventually won Best Audio) at the 2000 Independent Games Festival[3] at the Game Developers Conference; Zimmerman and Lee then incorporated gameLab and used an advance on BLiX royalties from their exclusivity deal with Shockwave.com to open an office in downtown Manhattan.[4] gameLab released 34 video games on multiple platforms between 2000 and 2009, published by companies like LEGO, HBO, PlayFirst, VH-1, and iWin, plus eight massively multiplayer social games created exclusively for and played at the yearly Game Developers Conference from 2001 to 2008.
+In 2004, gameLab released the award-winning Diner Dash, a strategy and time management game published by PlayFirst;[5] then-director of game design Frank Lantz and students in his Big Games class (including gameLab employees Greg Trefry and Mattia Romeo) at New York University's Interactive Telecommunications Program created Pac-Manhattan, a real life version of Pac-Man played in the streets surrounding NYU, which was one of the earliest and most influential pervasive games, covered by the New York Times[6] and receiving worldwide press.[7] In 2005, gameLab employees Trefry, Romeo, Nicholas Fortugno, and Catherine Herdlick plus co-founder Lee co-founded Come Out & Play, an annual festival of new original big games played in the streets of New York City;[8] Lantz left to co-found the game studio area/code, which was acquired by Zynga in 2011 and became Zynga New York, and is now the director of New York University's Game Center.[9]
+In 2007, gameLab spun off the non-profit Institute of Play to promote game design and play as educational tools for students; within six months of its founding, Institute of Play received a grant from the John D. and Catherine T. MacArthur Foundation to develop Quest to Learn, a New York City public school designed around game design principles.[10] In 2009, supported by another grant from the John D. and Catherine T. MacArthur Foundation, gameLab partnered with Katie Salen and released the award-winning game and community site Gamestar Mechanic. gameLab closed its doors in 2009 and sold its assets to Arkadium.[11]
+Video games[edit]
+
+
+Year
+Title
+Type
+Publisher/Financer
+
+
+2000
+BLiX
+web
+gameLab
+
+
+2001
+FLUID
+touchscreen installation
+Swiss Re Center for Global Dialog
+
+
+2001
+Junkbot
+web
+LEGO
+
+
+2001
+LEGO Stack-It
+web
+LEGO
+
+
+2001
+LOOP
+web
+Shockwave.com
+
+
+2002
+BLiX Level Constructor Kit
+web
+gameLab
+
+
+2002
+Drome Racing Challenge
+web
+LEGO
+
+
+2002
+Junkbot Undercover
+web
+LEGO
+
+
+2002
+LEGO Worldbuilder
+web
+LEGO
+
+
+2002
+Spybotics: The Nightfall Incident
+web
+LEGO
+
+
+2003
+Arcadia
+web
+gameLab
+
+
+2003
+Crash
+web
+gameLab
+
+
+2003
+FATE: The Carnivale Game
+web
+HBO
+
+
+2003
+LEGO Inventor
+web
+LEGO
+
+
+2003
+LEGO Worldbuilder 2
+web
+LEGO
+
+
+2003
+Motobike Blast
+web
+LEGO
+
+
+2004
+LEGO X-Pod Playoff
+boardgame
+LEGO
+
+
+2004
+Mighty Beanz Trading Card Game
+collectible card game
+Genio
+
+
+2004
+Subway Scramble
+PC/web
+PlayFirst
+
+
+2005
+Arcadia Remix
+PC/web
+gameLab
+
+
+2005
+Diner Dash
+PC/web
+PlayFirst
+
+
+2005
+Lego X-Pod Playoff 2
+board game
+LEGO
+
+
+2005
+Shopmania
+PC/web
+iWin
+
+
+2006
+Ayiti: The Cost of Life
+web
+gameLab/Global Kids
+
+
+2006
+Downbeat
+web
+VH-1
+
+
+2006
+Egg vs Chicken
+PC/web
+PlayFirst
+
+
+2006
+LEGO Fever
+PC/web
+LEGO
+
+
+2006
+Miss Management
+PC/web
+gameLab
+
+
+2006
+Plantasia
+PC/web
+PlayFirst
+
+
+2007
+Jojo's Fashion Show
+PC/web
+iWin
+
+
+2007
+Out of Your Mind
+PC/web
+gameLab/Curious Pictures
+
+
+2008
+Jojo's Fashion Show 2: Las Cruces
+PC/web
+iWin
+
+
+2008
+Top Chef
+PC/web
+Brighter Minds Media
+
+
+2009
+Gamestar Mechanic
+web
+gameLab
+
+
+Massively Multiplayer Social Games at GDC[edit]
+
+
+Year
+Title
+
+
+2002
+Bite Me
+
+
+2002
+Leviathan
+
+
+2003
+Alphabet City
+
+
+2004
+Supercollider
+
+
+2005
+ConfQuest
+
+
+2006
+Pantheon
+
+
+2007
+Gangs of GDC
+
+
+2008
+Destroy All Developers
+
+
+References[edit]
+
+
+
+^ http://thecreatorsproject.vice.com/en_uk/creators/peter-lee
+^ https://venturebeat.com/2010/09/21/with-diner-dash-playfirst-has-a-game-that-goes-everywhere/
+^ "Archived copy". Archived from the original on 2010-02-10. Retrieved 2009-10-23. 
+^ http://www.gamasutra.com/view/feature/130740/a_man_for_all_seasons_gamelabs_.php
+^ https://www.nytimes.com/2005/06/27/technology/27casual.html
+^ https://www.nytimes.com/2004/05/09/fashion/09GAME.html
+^ http://www.pacmanhattan.com/press.php
+^ http://www.gamasutra.com/php-bin/news_index.php?story=24037
+^ http://gamecenter.nyu.edu/people
+^ http://www.instituteofplay.org/wp-content/uploads/2011/04/MACARTHUR+NYC+School+Press+Release.pdf
+^ https://venturebeat.com/2009/09/29/arkadium-acquires-gamelabcom-game-development-firm/
+
+
+
+
+
+
+
+Categories: Companies established in 2000Video game development companiesDefunct video game companiesVideo game companies of the United States

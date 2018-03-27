@@ -1,0 +1,260 @@
+合式公式
+在形式系统与逻辑中，WFF是合式公式（well-formed formula）的缩写。给定一个形式文法，WFF是这个文法生成的任何字符串。
+例如，在命题演算中符号序列
+
+
+
+(
+(
+α
+→
+β
+)
+→
+(
+¬
+β
+→
+¬
+α
+)
+)
+
+
+{\displaystyle ((\alpha \rightarrow \beta )\rightarrow (\neg \beta \rightarrow \neg \alpha ))}
+
+是一个WFF，因为它在文法上正确。符号序列
+
+
+
+(
+(
+α
+→
+β
+)
+→
+(
+β
+β
+)
+)
+α
+)
+)
+
+
+{\displaystyle ((\alpha \rightarrow \beta )\rightarrow (\beta \beta ))\alpha ))}
+
+不是WFF，因为它不符合命题演算的文法。
+在形式逻辑中，证明是有特定性质的WFF序列，而序列中最终的WFF就是要证明的。
+
+
+
+目录
+
+
+1 命题逻辑中的合式公式
+2 谓词逻辑中的合式公式
+3 参见
+4 参考文献
+5 外部链接
+
+
+
+命题逻辑中的合式公式[编辑]
+设S是联结词的集合. 由S生成的合式公式定义如下：
+
+原子公式是由S生成的合式公式.
+若c是S中的0元联结词，则c是由S生成的合式公式.
+若n
+
+
+
+⩾
+
+
+{\displaystyle \geqslant }
+
+1，
+
+
+
+F
+
+
+{\displaystyle F}
+
+是S中的n元联结词，
+
+
+
+
+A
+
+1
+
+
+,
+
+A
+
+2
+
+
+,
+.
+.
+.
+,
+
+A
+
+n
+
+
+
+
+{\displaystyle A_{1},A_{2},...,A_{n}}
+
+是由S生成的公式，则
+
+
+
+F
+
+A
+
+1
+
+
+
+A
+
+2
+
+
+.
+.
+.
+
+A
+
+n
+
+
+
+
+{\displaystyle FA_{1}A_{2}...A_{n}}
+
+是由S生成的合式公式.
+
+谓词逻辑中的合式公式[编辑]
+合式公式是按以下规则构成的有穷长符号串：
+
+每个原子公式是合式公式.
+若
+
+
+
+A
+
+
+{\displaystyle A}
+
+是合式公式，则
+
+
+
+⌝
+A
+
+
+{\displaystyle \urcorner A}
+
+是合式公式.
+若
+
+
+
+A
+,
+B
+
+
+{\displaystyle A,B}
+
+是合式公式，则
+
+
+
+(
+A
+→
+B
+)
+
+
+{\displaystyle (A\rightarrow B)}
+
+是合式公式.
+若
+
+
+
+A
+
+
+{\displaystyle A}
+
+是合式公式，
+
+
+
+x
+
+
+{\displaystyle x}
+
+是变元，则
+
+
+
+∀
+x
+A
+
+
+{\displaystyle \forall xA}
+
+是合式公式.
+
+参见[编辑]
+
+公式 (数理逻辑)
+
+参考文献[编辑]
+
+
+Allen, Layman E., Toward Autotelic Learning of Mathematical Logic by the WFF 'N PROOF Games, Mathematical Learning: Report of a Conference Sponsored by the Committee on Intellective Processes Research of the Social Science Research Council, Monographs of the Society for Research in Child Development, 1965, 30 (1): 29–41 
+Boolos, George; Burgess, John; Jeffrey, Richard, Computability and Logic 4th, Cambridge University Press, 2002, ISBN 978-0-521-00758-0 
+Ehrenberg, Rachel. He's Positively Logical. Michigan Today (University of Michigan). Spring 2002 [2007-08-19]. （原始内容存档于2009-02-08）. 
+Enderton, Herbert, A mathematical introduction to logic 2nd, Boston, MA: Academic Press（英语：Academic Press）, 2001, ISBN 978-0-12-238452-3 
+Gamut, L.T.F., Logic, Language, and Meaning, Volume 1: Introduction to Logic, University Of Chicago Press, 1990, ISBN 0-226-28085-3 
+Hodges, Wilfrid, Classical Logic I: First-Order Logic, (编) Goble, Lou, The Blackwell Guide to Philosophical Logic, Blackwell, 2001, ISBN 978-0-631-20692-7 
+Hofstadter, Douglas, Gödel, Escher, Bach: An Eternal Golden Braid, Penguin Books, 1980, ISBN 978-0-14-005579-5 
+Kleene, Stephen Cole, Mathematical logic, New York: Dover Publications（英语：Dover Publications）, 2002 [1967], ISBN 978-0-486-42533-7, MR 1950307 
+Rautenberg, Wolfgang, A Concise Introduction to Mathematical Logic 3rd, New York: Springer Science+Business Media, 2010, ISBN 978-1-4419-1220-6, doi:10.1007/978-1-4419-1221-3 
+
+
+外部链接[编辑]
+
+Well-Formed Formula for First Order Predicate Logic - includes a short Java quiz.
+Well-Formed Formula at ProvenMath
+WFF N PROOF game site
+
+
+
+
+
+分类：数理逻辑

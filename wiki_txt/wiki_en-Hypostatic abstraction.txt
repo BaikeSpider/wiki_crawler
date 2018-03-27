@@ -1,0 +1,2 @@
+Hypostatic abstraction
+Hypostatic abstraction in mathematical logic, also known as hypostasis or subjectal abstraction, is a formal operation that transforms a predicate into a relation; for example "Honey is sweet" is transformed into "Honey has sweetness". The relation is created between the original subject and a new term that represents the property expressed by the original predicate.

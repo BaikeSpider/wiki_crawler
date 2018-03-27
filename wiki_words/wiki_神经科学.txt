@@ -1,0 +1,1093 @@
+神经科学
+
+
+
+
+
+医学
+
+
+
+
+
+基础医学
+
+
+
+人体解剖学 - 人体生理学
+组织学 - 胚胎学
+人体寄生虫学 - 免疫学
+病理学 - 病理生理学
+细胞学 - 营养学
+流行病学 -
+药理学 - 毒理学
+
+
+
+其他基础学科参见生物学模板
+
+
+
+
+
+
+
+内科学
+
+
+
+耳鼻喉科学 - 眼科学
+心脏病学 - 胸腔医学
+消化病学 胃肠病学
+肾脏学 - 肝脏学
+血液病学 - 神经病学
+传染病学 - 肿瘤学
+内分泌学 - 风湿病学
+儿童医学 - 老人医学
+皮肤病学 - 神经眼科学
+
+
+
+
+
+
+
+
+
+外科学
+
+
+
+普通外科学 - 神经外科学
+胸腔外科学 - 心脏外科学
+肝胆外科学 - 胃肠外科学
+泌尿外科学 - 血管外科学
+器官移植学 - 肿瘤外科学
+骨科学 - 整型外科学
+小儿外科学
+
+
+
+
+
+
+
+
+
+其他专门医学
+
+
+
+妇产科学：
+妇科学 - 产科学
+牙医学 - 解剖学
+预防医学 - 临床医学
+急诊学 - 麻醉学
+安宁缓和医学 - 精神医学
+环境及职业病学 - 复健科学
+综合医学 - 家庭医学
+旅游医学
+
+
+
+
+
+
+
+
+
+替代医学
+
+
+
+信仰疗法 - 顺势疗法
+传统医学 - 草药学
+自然医学 - 脊骨神经医学
+
+
+
+
+
+
+
+
+
+医学诊断
+
+
+
+检验医学 - 影像医学
+病理医学 - 神经生理学
+核医学
+
+
+
+
+
+
+
+
+
+相关学科
+
+
+
+心理学 - 法医学
+生物数学 - 医学信息学
+社会医学 - 生物医学工程
+
+
+
+
+
+
+
+
+
+健康议题
+
+
+
+症状 - 症候群
+亚健康 - 老化
+病人安全
+
+
+
+
+
+
+
+
+
+医事人员
+
+
+
+专科医生 - 家庭医学科医师
+麻醉科医生 - 外科医生
+护理人员 - 医事检验师
+药剂师 - 物理治疗师
+职能治疗师 - 呼吸治疗师
+营养师 - 助产师
+医事放射师 - 临床心理师
+咨商心理师
+
+
+
+
+
+
+
+
+
+医疗行为
+
+
+
+药物治疗 - 外科手术
+化学疗法 - 心理治疗
+物理治疗 - 职能治疗
+
+
+
+
+
+
+
+
+
+主题与专题
+
+
+
+医学主题 - 心理学主题
+新陈代谢主题
+
+
+
+医学专题 - 药学专题
+药物专题
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+生物与医学词汇译名表
+Wikipedia:医学专题/资源
+Wikipedia:医学专题/工具
+医学史 医学伦理学
+医学警告模板
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+神经科学（英语：neuroscience），又称神经生物学，是专门研究神经系统的结构、功能、发育、演化、遗传学、生物化学、生理学、药理学及病理学的一门科学。对行为及学习的研究都是神经科学的分支。
+对人脑研究是个跨领域的范畴，当中涉及分子层面、细胞层面、神经小组、大型神经系统，如视觉神经系统、脑干、脑皮层。
+最高层次的研究就是结合认知科学成为认知神经科学，其专家被称为认知心理学家。一些研究人员相信认知神经科学提供对思维及知觉的全面了解，甚至可以代替心理学。
+神经科学致力于科学地研究神经系统。尽管神经科学学会成立于1969年，但是对于大脑的研究很早就已经开始。传统的神经科学是生物科学的一个分支。其研究范围包括对神经系统的结构，功能，进化史，发育，遗传，生理学，药理学和病理学研究，近年来神经科学的研究深度有了突破性成长，开始与其他学科有了越来越多的交叉与融合，如认知和神经心理学，精神疾病学，计算机科学，生物信息学，计算神经生物学，统计学，物理学，生物化学，犯罪学，医学科学和哲学陆续加入研究行列。
+
+
+
+
+人类大脑分析图
+
+
+暂时最关心的课题是：　
+
+神经突触的神经信号传递者
+学习在生物层面的操作原理
+基因在胚胎时期对神经系统的发育
+其他生物的简单神经系统的操作
+应用于感官、记忆及语言的复杂神经系统的结构及功能
+
+最近研究进展：近年来，在量化分析大脑处理信息运作过程方面有了一些新的进展，如近年发表的《大脑处理信息量化模型和细节综合报告》、《基于量化模型的对大脑高效可靠处理信息实现机制的分析》、《基于大脑处理信息量化模型的对若干认知问题的分析》等所介绍的一系列论文综合整理分析已有的各层面的知识，建立有坚实解剖学基础、能联系各层面、量化描述大脑信息处理过程的模型和框架，提出血液循环在大脑处理信息过程中有时序控制作用，用量化模型结合结构风险最小化相关理论分析说明时序控制作用对大脑高效可靠处理信息的意义；汇总介绍量化模型中的细节；分析了大脑能正确而高效处理信息，使智力能够诞生的原因；分析了理论建立和应用过程的神经生理学原理、只能有相对真理的神经生理学原因；还建立和介绍了另外一种量化分析方案；等。
+
+
+
+目录
+
+
+1 神经科学的分支
+2 参考文献
+
+2.1 引用
+2.2 教科书
+2.3 著名文献
+
+
+3 外部链接
+4 参见
+5 外部链接
+
+
+
+神经科学的分支[编辑]
+
+神经生物发展科学
+情感神经科学（Affective Neuroscience（英语：Affective Neuroscience））
+行为神经科学（Behavioural Neuroscience（英语：Behavioural Neuroscience））
+临床神经科学（Clinical Neuroscience（英语：Clinical Neuroscience））- 包括神经学、神经外科、精神医学及神经放射医学（Neuroradiology（英语：Neuroradiology））等
+认知神经科学
+计算神经科学
+神经系统的发育（Developmental Neuroscience（英语：Developmental Neuroscience））
+演化神经科学（Evolutionary Neuroscience（英语：Evolutionary Neuroscience））
+基因影像学（Imaging Genetics（英语：Imaging Genetics））
+分子神经科学（Molecular Neuroscience（英语：Molecular Neuroscience））
+神经工程学
+神经解剖学
+疾病的神经生物学（Neurobiology of disease）
+神经化学
+神经经济学
+神经胚胎学（Neuroembryology）
+神经内分泌学（Neuroendocrinology（英语：Neuroendocrinology））
+神经流行病学（Neuroepidemiology（英语：Neuroepidemiology））
+神经工效学（Neuroergonomics（英语：Neuroergonomics））
+神经行为学
+神经遗传学（Neurogenetics（英语：Neurogenetics））
+神经免疫学（Neuroimmunology（英语：Neuroimmunology））
+神经病理学（Neuropathology（英语：Neuropathology））
+神经药理学（Neuropharmacology（英语：Neuropharmacology））
+神经物理学（Neurophysics（英语：Neurophysics））
+神经生理学
+神经生物学
+神经毒理学（Neurotoxicology）
+感官神经科学（Sensory Neuroscience（英语：Sensory Neuroscience））
+系统神经科学（Systems Neuroscience（英语：Systems Neuroscience））
+
+参考文献[编辑]
+引用[编辑]
+
+教科书[编辑]
+
+Bear, M. F. et. al. Eds. (1995). Neuroscience: Exploring The Brain. Baltimore, Maryland, Williams and Wilkins. ISBN 0781739446
+Kandel, Eric, James Schwartz, and Thomas Jessel. 2000. Principles of Neural Science. 4th ed. McGraw-Hill, New York ISBN 0838577016
+
+著名文献[编辑]
+
+Damasio, A. R. (1994). Descarte's Error: Emotion, Reason, and the Human Brain. New York, Avon Books. ISBN 0399138943 (Hardcover) ISBN 0380726475 (Paperback)
+Andreason, N. C. (2001). Brave New Brain: Conquering Mental Illness in the Age of the Genome. Oxford, Oxford University Press. ISBN 0195145097 (Hardcover) ISBN 0195167287 (Paperback)
+Gardner, H. (1976). The Shattered Mind: The Person After Brain Damage. New York, Vintage Books, 1976 ISBN 0394719468
+Goldstein, K. (2000). The Organism. New York, Zone Books. ISBN 0942299965 (Hardcover) ISBN 0942299973 (Paperback)
+Luria, A. R. (1997). The Man with a Shattered World: The History of a Brain Wound. Cambridge, Massachusetts, Harvard University Press. ISBN 0224007920 (Hardcover) ISBN 0674546253 (Paperback)
+Luria, A. R. (1998). The Mind of a Mnemonist: A Little Book About A Vast Memory. New York, Basic Books, Inc. ISBN 0674576225
+Sacks, O. The Man Who Mistook His Wife for a Hat. Summit Books ISBN 0671554719 (Hardcover) ISBN 0060970790 (Paperback)
+Sacks, O. (1990). Awakenings. New York, Vintage Books. (See also Oliver Sacks) ISBN 0671648349 (Hardcover) ISBN 0060973684 (Paperback)
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：神经科学
+
+
+
+High-Resolution Cytoarchitectural Primate Brain Atlases
+Society for Neuroscience
+American Society for Neurochemistry
+Neurotransmitter.netNeuroscience resources and news
+BrainMetaA community site
+Neuroanatomy & Neuropathology on the InternetHigh quality links
+Neuroscience. 2nd ed. by Purves et al (online textbook)
+Neuroscience for Kids
+NeuroWiki[失效链接], a wiki website for Neuroscience related topics. All content (unless explicitly proclaimed otherwise) is published to the public domain thus can be relocated to the Wikipedia.
+Dana.org for information about brain research, immunology and arts education
+
+参见[编辑]
+
+精神控制
+
+外部链接[编辑]
+
+
+
+维基学院中的相关学习资源：
+
+神经科学
+
+
+
+
+
+
+您可以在维基教科书中查找此百科条目的相关电子教程：
+Neuroscience
+
+
+
+
+
+查询维基词典中的neuroscience。
+
+
+
+
+
+维基共享资源中相关的多媒体资源：神经科学
+
+
+
+
+Neuroscience，In Our Time (BBC Radio 4)（英语：BBC Radio 4）的《In Our Time》节目。(现在聆听)
+（英文）Neuroscience Information Framework (NIF)[失效链接]
+开放式目录计划中和Neurobiology相关的内容
+American Society for Neurochemistry
+Neuroscience Online (electronic neuroscience textbook)
+Faculty for Undergraduate Neuroscience (FUN)
+Neuroscience for Kids
+Neuroscience Discussion Group in ResearchGate
+Neuroscience Discussion Forum
+HHMI Neuroscience lecture series - Making Your Mind: Molecules, Motion, and Memory
+（法文）Société des Neurosciences
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+神经科学
+
+
+
+
+
+
+
+神经科学概要（英语：Outline of neuroscience）
+
+
+
+
+
+
+基础科学
+
+
+
+行为的遗传讯息学（英语：Behavioral epigenetics）
+行为遗传学
+细胞神经科学（英语：Cellular neuroscience）
+计算神经科学
+连接组学
+影像遗传学（英语：Imaging genetics）
+整合性神经科学（英语：Integrative neuroscience）
+分子神经科学（英语：Molecular neuroscience）
+神经工程
+神经解剖（构造）学
+神经化学
+神经内分泌学（英语：Neuroendocrinology）
+神经基因学（英语：Neurogenetics）
+神经信息学
+神经测量学（英语：Neurometrics）
+神经科学与生物形态学（英语：Neuromorphology）
+神经物理（英语：Neurophysics）
+神经生理学
+
+
+
+
+
+
+
+
+
+
+
+临床神经科学（英语：Clinical neuroscience）
+
+
+
+行为神经学
+临床神经生理学（英语：Clinical neurophysiology）
+神经心脏学（英语：Neurocardiology）
+神经流行病学（英语：Neuroepidemiology）
+神经与消化系统学（英语：Neurogastroenterology）
+神经免疫学（英语：Neuroimmunology）
+神经重症学
+神经内科
+神经肿瘤学（英语：Neurooncology）
+神经眼科学
+神经病理学（英语：Neuropathology）
+神经药学（英语：Neuropharmacology）
+神经假体
+神经与精神病学（英语：Neuropsychiatry）
+神经放射学（英语：Neuroradiology）
+神经复健学（英语：Neurorehabilitation）
+神经外科
+神经病毒学（英语：Neurotology）
+神经病毒学（英语：Neurovirology）
+营养与神经科学（英语：Nutritional neuroscience）
+精神病学
+
+
+
+
+
+
+
+
+认知神经科学
+
+
+
+情感神经科学（英语：Affective neuroscience）
+生物心理学
+时间生物学
+分子细胞的认知（英语：Molecular cellular cognition）
+肌肉运动的/运动神经的控制（英语：Motor control）
+神经语言学
+神经心理学
+感知神经科学（英语：Sensory neuroscience）
+社会神经科学
+系统神经科学（英语：Systems neuroscience）
+
+
+
+
+
+
+
+
+跨领域
+
+
+
+消费性神经科学（英语：Consumer neuroscience）
+文化的神经科学（英语：Cultural neuroscience）
+教育的神经科学（英语：Educational neuroscience）
+Evolutionary neuroscience（英语：Evolutionary neuroscience）
+神经人类学（英语：Neuroanthropology）
+神经生物工程（英语：Neurobioengineering）
+神经与生态学（英语：Neurobiotics）
+神经科学与犯罪学（英语：Neurocriminology）
+神经经济学
+神经科学与哲学的认识理论（英语：Neuroepistemology）
+Neuroesthetics（英语：Neuroesthetics）
+神经科学与伦理道德（英语：Neuroethics）
+神经行为学
+神经科学与历史学（英语：Neurohistory）
+神经科学与法律（英语：Neurolaw）
+神经科学与行销学（英语：Neuromarketing）
+神经科学与现象学
+神经科学与哲学（英语：Neurophilosophy）
+神经科学与政治学（英语：Neuropolitics）
+神经科学与机器人（英语：Neurorobotics）
+神经科学与社会学（英语：Neurosociology）
+神经科学与宗教学（英语：Neurotheology）
+神经科学与古生物学（英语：Paleoneurology）
+
+
+
+
+
+
+
+
+概念
+
+
+
+脑机界面
+神经发展（英语：Neural development）
+人工神经网络
+生物神经网络
+信号检测理论
+多执行之神经生理监测（英语：Intraoperative neurophysiological monitoring）
+神经芯片（英语：Neurochip）
+神经退行性疾病
+神经发展及疾患（英语：Neurodevelopmental disorder）
+神经多样性（英语：Neurodiversity）
+神经发生
+神经成像
+神经免疫系统（英语：Neuroimmune system）
+神经管理（英语：Neuromanagement）
+神经调节
+神经可塑性
+神经科技（英语：Neurotechnology）
+神经毒素
+
+
+
+
+
+
+
+
+
+
+
+ 相关书籍（英语：Book:Neuroscience）
+ 神经科学的条目分类
+ 共享资源
+ 神经科学主题
+ 专题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+生命科学和生物学的主要子域
+
+
+
+
+
+
+
+
+
+解剖学
+天体生物学
+生物化学
+生物地理学
+生物力学
+生物物理学
+生物信息学
+生物统计学
+植物学
+细胞生物学
+细胞微生物学（英语：Cellular microbiology）
+化学生物学
+时间生物学
+保护生物学
+发育生物学
+生态学
+流行病学
+表观遗传学
+演化生物学
+遗传学
+基因组学
+组织学
+人体生物学（英语：Human biology）
+免疫学
+海洋生物学
+生物数学
+微生物学
+分子生物学
+真菌学
+神经科学
+营养学
+生命起源
+古生物学
+寄生虫学
+病理学
+药理学
+生理学
+量子生物学
+社会生物学
+合成生物学
+结构生物学
+系统生物学
+生物分类学
+病毒学
+毒理学
+动物学
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+技术
+
+
+
+
+
+
+领域
+
+
+
+
+农业
+
+
+
+农业工程
+水产养殖
+水产学
+食品化学
+食品工程
+营养学
+食品技术
+食品微生物学（英语：Food microbiology）
+遗传利用限制技术（英语：Genetic use restriction technology）
+
+
+
+
+
+
+
+
+生物医学（英语：Biomedical technology）
+
+
+
+生物信息学
+生物医学工程
+生物工程学
+生物技术
+健康科学
+生化检验
+药理学
+神经科学
+组织工程学
+基因工程
+纳米医学
+化学信息学
+
+
+
+
+
+
+
+
+水利/土木建筑
+
+
+
+水利工程
+土木工程
+建筑工程
+建筑设备
+消防工程
+安全工程
+结构工程
+
+
+
+
+
+
+
+
+教育技术
+
+
+
+在线学习
+教育技术学
+教育软件（英语：Educational software）
+虚拟校园（英语：Virtual campus）
+
+
+
+
+
+
+
+
+能源
+
+
+
+核工程
+核技术
+储能技术
+石油工程
+
+
+
+
+
+
+
+
+军事
+
+
+
+弹药
+炸弹
+军事技术
+电子作战
+低可侦测性技术
+工兵
+军事通信（英语：Military communications）
+
+
+
+
+
+
+
+
+信息
+
+
+
+人工智能
+计算机工程
+计算机科学
+音乐工艺
+通信工程
+通信
+图形
+信息技术
+软件工程
+音乐
+语音识别
+可视化技术
+系统分类学
+本体工程
+信息学
+
+
+
+
+
+
+
+
+工业（英语：Industrial technology）
+
+
+
+纳米科技
+音频工程
+生物工程
+生化工程
+陶瓷工程
+化学工程
+控制工程
+低温学
+电机工程学
+电子工程
+工程技术
+工程学
+工业工程学
+企业工程
+水力学
+机械工程
+机械电子学
+冶金工程
+海洋工程
+光学工程
+系统工程
+运输工程
+电动机械学
+金融工程学
+制造
+机械
+采矿业
+自动化技术
+冶金学
+
+
+
+
+
+
+
+
+交通
+
+
+
+航空航天
+航空航天工程
+空间技术
+机动车
+车辆工程
+交通工程
+流量工程
+
+
+
+
+
+
+
+
+环境科技
+
+
+
+绿色建筑
+可再生能源
+永续设计
+环境工程
+生态工程
+洁净科技（英语：Clean technology）
+生态技术（英语：Ecotechnology）
+环境工程科学（英语：Environmental engineering science）
+
+
+
+
+
+
+
+
+应用科学
+
+
+
+考古
+电子学
+光学
+半导体物理学
+环境科学
+材料科学
+微系统
+微技术
+纳米技术
+
+
+
+
+
+
+
+
+其他领域
+
+
+
+机器人学
+机械电子学
+蛋白质工程
+系统工程
+聚合物工程
+
+
+
+
+
+
+
+
+
+
+
+组件
+
+
+
+基础设施
+发明
+发明年表
+知识
+机器
+技能
+工艺
+工具
+
+
+
+
+
+
+
+
+技术史
+
+
+
+新石器革命
+工业革命
+第二次工业革命
+数字化革命
+第三次工业革命
+信息时代
+史前技术（英语：Outline of prehistoric technology）
+古代技术（英语：Ancient technology）
+中世纪技术（英语：Medieval technology）
+文艺复兴技术（英语：Renaissance technology）
+喷气时代（英语：Jet Age）
+
+
+
+
+
+
+
+
+理论（英语：Theories of technology）
+和概念
+
+
+
+适用技术
+破坏性创新
+高科技
+技术成熟度曲线
+专家统治
+技术决定论
+技术官僚
+技术奇异点
+技术接受模型
+超人类主义
+军民两用技术（英语：Dual-use technology）
+技术伦理（英语：Ethics of technology）
+
+
+
+
+
+
+
+
+其他
+
+
+
+新兴技术列表
+卡尔达肖夫指数
+Category:各国科技
+Category:科技公司
+Category:技术大学和学院
+技术传播者
+技术新闻学
+
+
+
+
+
+
+
+
+
+
+
+ Category:技术
+ commons:Category:技术
+ 技术主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh91006099
+GND: 7555119-6
+NDL: 001137240
+
+
+
+
+
+
+
+
+
+
+
+
+分类：神经科学跨学科领域隐藏分类：本地链接的维基共享资源分类与Wikidata不同带有失效链接的条目条目有永久失效的外部链接有蓝链却未移除内部链接助手模板的页面包含规范控制信息的维基百科条目使用ISBN魔术链接的页面

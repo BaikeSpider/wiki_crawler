@@ -1,0 +1,273 @@
+Wisconsin Card Sorting Test
+
+
+
+
+
+
+This article needs attention from an expert in Psychology. See the talk page for details. WikiProject Psychology may be able to help recruit an expert. (September 2015)
+
+
+
+The Wisconsin Card Sorting Test (WCST) is a neuropsychological test of "set-shifting", i.e. the ability to display flexibility in the face of changing schedules of reinforcement.[1][2] The WCST was written by David A. Grant and Esta A. Berg. The Professional Manual for the WCST was written by Robert K. Heaton, Gordon J. Chelune, Jack L. Talley, Gary G. Kay, and Glenn Curtiss.
+
+
+
+Contents
+
+
+1 Method
+2 Clinical use
+3 Legal ownership of trademark
+4 External links
+5 References
+6 Further reading
+
+
+
+Method[edit]
+
+
+
+
+Screenshot from the PEBL computerized version of the Wisconsin Card sort.
+
+
+A number of stimulus cards are presented to the participant. The participant is told to match the cards, but not how to match; however, he or she is told whether a particular match is right or wrong. The original WCST used paper cards and was carried out with the experimenter on one side of the desk facing the participant on the other. The test takes approximately 12–20 minutes to carry out and generates a number of psychometric scores, including numbers, percentages, and percentiles of: categories achieved, trials, errors, and perseverative errors.
+
+
+
+
+This image shows the four lobes of the human brain: the frontal lobe (red), the parietal lobe (yellow), the temporal lobe (green), and the occipital lobe (light green). Also shown are the insular cortex (purple), the brain stem (black), and the cerebellum (blue).
+
+
+
+
+
+
+This image shows a midsagittal cross-section of a human brain. The portion in color is the left frontal lobe, destroyed in Phineas Gage's accident.
+
+
+Clinical use[edit]
+
+
+
+
+
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2015) (Learn how and when to remove this template message)
+
+
+
+Since 1948, the test has been used by neuropsychologists and clinical psychologists in patients with acquired brain injury, neurodegenerative disease, or mental illness such as schizophrenia. It is one of several psychological tests which can be administered to patients to measure frontal lobe dysfunction. When administered, the WCST allows the clinician speculate to the following "frontal" lobe functions: strategic planning, organized searching, utilizing environmental feedback to shift cognitive sets, directing behavior toward achieving a goal, and modulating impulsive responding. The test can be administered to those from 6.5 years to 89 years of age. The WCST, relies upon a number of cognitive functions including attention, working memory, and visual processing.
+The WCST test may be used to help measure an individual's competence in abstract reasoning, and the ability to change problem-solving strategies when needed.[3] In this test, a number of cards are presented to the participants. The figures on the cards differ with respect to color, quantity, and shape.[4]
+Psychological tests such as the WCST, administered alone, cannot be used to measure the effects of a frontal lobe injury, or the aspects of cognitive function it may affect, such as working memory; a variety of tests must be used.[citation needed] A subject may be good at one task but show dysfunction in executive function overall. Similarly, test results can be made misleading after testing the same individual over a long period of time. The subject may get better at a task, but not because of an improvement in executive cognitive function. He/she may have simply learned some strategies for doing this particular task that made it no longer a good measurement tool.[5]
+Legal ownership of trademark[edit]
+The trademark "Wisconsin Card Sorting Test" was registered in 2000 with the United States Patent and Trademark Office (Reg. #2320931, Ser # 75-588988) by Wells Print and Digital Services of Madison, Wisconsin. Although filed in 1998, the trademark application states the mark has been in use in commerce since at least 1970. The trademark covers "psychological testing materials, namely printed tests, printed cards, and printed instruction manuals in the field of psychological evaluation." This trademark does not cover the computer implementation of the test, distributed by Psychological Assessment Resources, Inc., sometimes referred to as simply WCST.
+External links[edit]
+
+Online demonstration of the Wisconsin Card Sorting Test via PsyToolkit
+
+References[edit]
+
+
+
+^ Monchi, O., Petrides, M. Petre, V., Worsley, K., & Dagher, A. (2001). Wisconsin card sorting revisited: Distinct neural circuits participating in different stages of the task identified by event-related functional magnetic resonance imaging. The Journal of Neuroscience, 21(19), 7733-7741.
+^ E. A. Berg. (1948). A simple objective technique for measuring flexibility in thinking J. Gen. Psychol. 39: 15-22.
+^ Biederam J, Faraone S, Monutaeux M, et al. (2000). "Neuropsychological functioning in nonreferred siblings of children with attention deficit/hyperactivity disorder". Journal of Abnormal Psychology. 109 (2): 252–65. doi:10.1037/0021-843X.109.2.252. 
+^ US National Library of Medicine National Institutes of Health, 2009
+^ Kane, M.J. & Engle, R.W. (2002). "The role of prefontal cortex in working-memory capacity, executive attention, and general fluid intelligence: An individual-differences perspective." Psychonomic Bulletin & Review 9(4), 637-671. Retrieved from "Archived copy" (PDF). Archived from the original (PDF) on 2011-12-27. Retrieved 2011-12-31. 
+
+
+
+Further reading[edit]
+
+Strauss, Esther; Sherman, Elizabeth M.; Spreen, Otfried (2006). A Compendium of Neuropsychological Tests: Administration, Norms, and Commentary. Oxford: Oxford University Press. ISBN 978-0-19-515957-8. Retrieved 14 July 2013. 
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Neuropsychological tests
+
+
+
+Battery
+
+
+
+Cognistat
+Halstead-Reitan Neuropsychological Battery
+Luria-Nebraska neuropsychological battery
+Montreal Cognitive Assessment
+Repeatable Battery for the Assessment of Neuropsychological Status
+
+
+
+
+
+Arousal/Attention
+
+
+
+Continuous Performance Task
+d2 Test of Attention
+Four boxes test
+Galveston Orientation and Amnesia Test
+Morningness-eveningness questionnaire
+Paced Auditory Serial Addition Test
+Posner cueing task
+Test of everyday attention
+Test of Variables of Attention
+
+
+
+
+
+Sensation/Perception
+
+
+
+Bender-Gestalt Test
+Benton Visual Retention Test
+Dot cancellation test
+Judgment of Line Orientation
+Navon figure
+Rey–Osterrieth complex figure
+
+
+
+
+
+Memory
+
+
+
+1-2-AX working memory task
+California Verbal Learning Test
+Corsi block-tapping test
+Digit symbol substitution test
+Doors and People
+MCI Screen
+Test of Memory Malingering
+Wechsler Memory Scale
+
+
+
+
+
+Language
+
+
+
+Boston Diagnostic Aphasia Examination
+Boston Naming Test
+Comprehensive Aphasia Test
+Controlled Oral Word Association Test
+Thurstone Word Fluency Test
+Token Test
+
+
+
+
+
+Motor
+
+
+
+Compensatory tracking task
+Purdue Pegboard Test
+
+
+
+
+
+Problem-solving
+
+
+
+Delis–Kaplan Executive Function System
+Hayling and Brixton tests
+Tower of London
+Trail Making Test
+Wisconsin Card Sorting Test
+
+
+
+
+
+Sleep
+
+
+
+Epworth Sleepiness Scale
+
+
+
+
+
+Specific impairments
+
+
+
+British Columbia Postconcussion Symptom Inventory
+Clinical Dementia Rating
+Digit Cancellation Test (Alzheimer's)
+Disability Rating Scale
+Florida Cognitive Activities Scale
+Glasgow Coma Scale
+Glasgow Outcome Scale
+Pediatric Attention Disorders Diagnostic Screener
+Rivermead post-concussion symptoms questionnaire
+
+
+
+
+
+Intelligence
+
+
+
+National Adult Reading Test
+Wechsler Adult Intelligence Scale
+Wechsler Intelligence Scale for Children
+Wechsler Preschool and Primary Scale of Intelligence
+Wechsler Test of Adult Reading
+
+
+
+
+
+Bed-side
+
+
+
+Abbreviated mental test score
+Addenbrooke's cognitive examination
+Brief Cognitive Assessment Tool
+General Practitioner Assessment Of Cognition
+Mini–mental state examination
+
+
+
+
+
+Social
+
+Vineland Social Maturity Scale
+
+
+
+
+
+
+
+
+Categories: Cognitive testsNeuropsychological testsHidden categories: Articles needing expert attention from September 2015All articles needing expert attentionPsychology articles needing expert attentionArticles needing additional references from September 2015All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from September 2015

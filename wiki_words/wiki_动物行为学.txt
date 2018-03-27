@@ -1,0 +1,663 @@
+动物行为学
+
+
+
+
+
+本条目没有列出任何参考或来源。（2008年7月30日） 
+维基百科所有的内容都应该可供查证。请协助添加来自可靠来源的引用以改善这篇条目。无法查证的内容可能被提出异议而移除。 
+
+
+
+
+动物学系列
+动物学
+
+
+
+
+动物学分支
+
+
+
+人类学 · 人与动物关系学
+蜜蜂学 · 节肢动物学
+医学节肢动物学 · 鲸类学
+贝类学 · 昆虫学
+动物行为学 · 蠕虫学
+爬虫两栖类学 · 鱼类学
+软体动物学 · 哺乳动物学
+鳞翅学．蚂蚁学 · 线虫学
+神经行为学 · 鸟类学
+古动物学 · 浮游生物学
+灵长类动物学
+
+
+
+历史
+
+
+
+动物学史
+本模板：
+
+查看
+讨论
+编辑
+
+
+
+
+
+动物行为学（ethology），或译作习性学，乃研究动物对环境和其他生物的互动等问题的学科，研究的对象包括动物的沟通行为、情绪表达、社交行为、学习行为、繁殖行为等。由于动物行为学对于动物学习和认知等方面的研究，以及与神经科学的相关性，它对心理学、教育学等学科产生一定的影响。
+著名的动物行为学家有凯文·理查德森、伊万·巴甫洛夫、康拉德·洛伦兹、卡尔·冯·弗利、尼可拉斯·庭伯根等。后三人因为动物行为学的研究得到了1973年的诺贝尔生理学或医学奖，伊万·巴甫洛夫则在1904年因为对消化系统的研究而得到该奖。
+
+
+
+目录
+
+
+1 名词解释
+2 比较心理学与行为学的差异
+3 达尔文主义与行为学初期发展
+4 固定行为型态与动物间的沟通
+5 印痕
+6 庭伯根的四个问题
+7 行为学的盛行
+8 群体行为学与当代的发展
+9 参见
+10 延伸阅读
+11 外部链接
+
+
+
+名词解释[编辑]
+英文中的动物行为学称做 ethology，这个字源自于希腊文中的 ethos，有风俗习惯、社会思潮的意思。一样源自于希腊文 ethos 的字还有 ethic（道德伦理）等。
+比较心理学与行为学的差异[编辑]
+比较心理学也探讨动物的行为，但是相对动物行为学来说，比较心理学属于心理学的一门，而不是生物学的一门。因此，比较心理学用人类心理学的角度来研究行为；而动物行为学从动物的解剖学、生理学的角度来研究行为。早期的比较心理学将重心放在人工环境下的行为，且专注于学习行为的研究；而早期动物行为学则是将重心放在自然环境，并且通常用本能来描述动物的行为。这两个学门的互补性大过竞争性，但是两者有不同的观点，而且有时候会在一些研究问题上产生冲突。
+在20世纪，比较心理学研究在北美洲有较大的发展，而动物行为学研究在欧洲较为风行，两种学科也导出了不同的哲学思想基础。实际上的差异是，在早期的比较心理学研究中，是从很少数的物种行为中得到广泛延伸的知识；而动物行为学家是从许多不同物种的行为中找出规则，而且动物行为学比比较心理学使用更多的比较方法。在北美，多数的动物行为学家属于大学心理学系。
+达尔文主义与行为学初期发展[编辑]
+由于动物行为学是生物学的一支，因此行为学家的研究也包括了行为的演化，以及行为受天择的影响。达尔文是最早研究动物行为的科学家之一，他的著作《动物与人类的情绪表达》（The expression of the emotions in animals and men），影响了后来的行为学家。
+乔治·罗曼斯（George Romanes）用拟人（anthropomorphic）和逸事认知主义（anecdotal cognitivism）的方法调查动物的学习和智力。而奥斯卡·海因洛斯和朱利安·赫胥黎，将重心放在以“自然的”、“本能的”来解释在特殊环境下整个物种共有的行为，并建立这些行为之间关联性的习性谱（ethogram）。
+固定行为型态与动物间的沟通[编辑]
+固定行为型态（Fixed action patterns、FAPs）的研究，是行为学研究重要的一步，归功于康拉德·劳伦兹以及他的良师益友奥斯卡·海因洛斯。这个研究是由海因洛斯和劳伦兹所做，而后由劳伦兹发表。
+劳伦兹的描述中，以发生在可辨识的刺激（称做信号刺激或释放刺激）产生的本能反应来解释固定行为型态。这些固定行为型态能够在不同物种间比拟，且行为的相似和差异能够轻易的和型态学上的相似和差异做比较。
+在海因洛斯所做最重要且最常被引用的鸭科（包括鸭、雁、鹅）研究中使用了这个方法。动物行为学家认为接受刺激并产生固定行为型态是一只动物与同物种的成员在行为上或外在表现上的共同特色，且少量几种固定行为型态便能在动物的沟通行为中扮演重要媒介。
+较为复杂的调查研究是由卡尔·冯·弗利所进行的被称做舞蹈语言的蜜蜂之间的沟通方式。此外，劳伦兹以对自然中的固定行为型态和动物发出这些行为的情况，发展了一个动物沟通方式的演化的理论。.
+印痕[编辑]
+印痕(imprinting)是洛伦兹所做的另一个重要研究，对象是幼年期的离巢鸟类。劳伦兹观察到这些雏鸟(如雁、鸡)自发性的从孵化后的第一天便跟随他们的母亲。劳伦兹并发现在人工孵养的情形中这种反应能够被强行的刺激，且只在出生后的一段关键时期（又称敏感时期）有效。（人类此关键时期约在 18 个月大至 3 岁左右。）
+庭伯根的四个问题[编辑]
+康拉德·洛伦兹的合作伙伴庭伯根认为研究动物行为有四个必须探讨的问题。
+
+1. 机能（Function）：行为如何影响动物的生存机会和繁殖机会?
+2. 因果关系（Causation）：引起反应的刺激是什么，这个反应如何在学习过程中修正?
+3. 发育（Development）：行为如何在年龄增加过程中变化，以及哪些早期的经验对行为的表现是必须的?
+4. 演化历程（Evolutionary history）：一个行为与其他亲源物种的相似行为的比较，以及这些行为的发展史。
+
+行为学的盛行[编辑]
+第二次世界大战前，经过了劳伦兹和庭伯根的研究，动物行为学在欧洲大陆发展旺盛。战后庭伯根到了牛津大学，并使得动物行为学在英国发展开来，除了庭伯根之外，还有剑桥大学的威廉·索伯（William Thorpe）、罗伯特·亨得（Robert Hinde）、派崔克·巴特森（Patrick Bateson）也是较有名的行为学家。
+1973年，劳伦兹、庭伯根、冯弗利因动物行为学的研究获得了诺贝尔奖。
+群体行为学与当代的发展[编辑]
+群体行为学，中文也可以称做社会行为学。在1970年，英国的动物行为学家约翰·克鲁克（John H. Crook）发表了一个重要论文，他将比较行为学和群体行为学做出分辨，并认为当时的行为学研究将动物以个体为单位做研究，应该算是比较行为学。而未来的动物行为学家应该更重视群体的行为与它们的群体结构。
+艾德华·威尔森在1975年出版了《社会生物学:新综合》（Sociobiology: The New Synthesis）。从那时开始，行为研究更为重视群体的观点。这也是受到艾德华·威尔森和理察·道金斯(Richard Dawkins)的达尔文主义的影响。
+行为生态学的发展也参与了行为学的改变。此外，动物行为学也与比较心理学结合，使得现代的行为研究，统合了动物的认知、比较心理学、动物行为学、社会生物学、行为生态学。
+参见[编辑]
+
+
+生物学主题
+
+
+
+神经行为学
+古典制约
+印痕
+蜜蜂舞蹈
+本能理论
+
+延伸阅读[编辑]
+
+
+Burkhardt, Richard W. Jr. "On the Emergence of Ethology as a Scientific Discipline." Conspectus of History 1.7 (1981).
+Klein, Z. The ethological approach to the study of human behavior (PDF). Neuroendocrinology Letters. 2000, (21): 477–481. 
+Karen Shanor and Jagmeet Kanwal: Bats Sing, Mice Giggle: Revealing the Secret Lives of Animals, Icon (2009). 'Accessible to the lay reader and acceptable to the scientific community' (The Daily Telegraph), 10 October 2009.
+Medicus Gerhard (2015). Being Human – Bridging the Gap between the Sciences of Body and Mind. Berlin: VWB
+
+
+外部链接[编辑]
+
+Konrad Lorenz Institute for Evolution and Cognitive Research
+Center for the Integrative Study of Animal behaviour
+Applied Ethology
+Ethology in the world of the horse — whisperers and new masters
+Abstracts of the XXIX Ethological Conference
+Center for Avian Cognition University of Nebraska (Alan Kamil, Alan Bond)
+Multimedia site about Applied Animal Behaviour topics by Michigan State University professor. knowledgenetwork.alumni.msu.edu. Michigan State University. （原始内容存档于2012-12-10）. 
+
+
+Diagrams on Tinbergen's four questions
+
+
+The Four Areas of Biology
+The Four Areas of Biology AND levels of inquiry
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+动物行为学
+
+
+
+
+
+
+分支
+
+
+
+动物认知
+动物交流
+动物意识（英语：Animal consciousness）
+动物文化（英语：Animal culture）
+Animal sexual behaviour
+Animal welfare science
+人与动物关系学
+Bee learning and communication
+行为生态学（英语：Behavioural ecology）
+行为遗传学
+认知动物行为学
+比较心理学
+Emotion in animals
+Evolutionary neuroscience
+Human ethology
+本能
+学习
+神经行为学
+Pain in animals
+社会生物学
+Tool use by animals
+Zoosemiotics
+Zoomusicology
+
+
+
+
+
+
+
+
+先驱动物行为学家
+
+
+
+Patrick Bateson
+查尔斯·达尔文
+理查德·道金斯
+Irenäus Eibl-Eibesfeldt
+戴安·弗西
+卡尔·冯·弗里希
+珍·古道尔
+Heini Hediger
+康拉德·洛伦兹
+Desmond Morris
+Thomas Sebeok
+William Homan Thorpe
+尼古拉斯·廷贝亨
+艾德华·威尔森
+Jakob von Uexküll
+
+
+
+
+
+
+
+
+相关话题
+
+
+
+ 生物学主题
+ 动物行为学(分类)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+生物学
+
+
+
+
+
+
+生物学分支
+
+
+
+解剖学
+天体生物学
+生物化学
+生物地理学
+生物力学
+生物物理学
+生物信息学
+生物统计学
+植物学
+细胞生物学
+细胞微生物学（英语：Cellular microbiology）
+化学生物学
+时间生物学
+保护生物学
+发育生物学
+生态学
+流行病学
+表观遗传学
+演化生物学
+遗传学
+基因组学
+组织学
+人体生物学（英语：Human biology）
+免疫学
+海洋生物学
+生物数学
+微生物学
+分子生物学
+真菌学
+神经科学
+营养学
+生命起源
+古生物学
+寄生虫学
+病理学
+药理学
+生理学
+量子生物学
+社会生物学
+合成生物学
+系统生物学
+生物分类学
+病毒学
+毒理学
+动物学
+
+
+
+
+
+
+
+
+
+
+
+生命的层次结构
+
+
+
+生物圈 >  生态系统 >  群落 >  种群 >  生命体 >  生物系统 >  器官 >  组织 >  细胞 >  细胞器 >  生物分子复合体（英语：Biomolecular complex） >  分子（高分子, 生物分子） >  原子
+
+
+
+
+
+
+
+
+基础
+
+
+
+细胞学说
+生态
+能量
+演化
+遗传学
+体内平衡
+合成生物学
+生物分类学
+
+
+
+
+
+
+
+
+原理
+
+
+
+
+
+演化
+
+
+
+
+适应
+遗传漂变
+基因流动
+巨演化
+微演化
+突变
+自然选择
+物种形成
+
+
+
+
+
+
+
+
+
+生态学
+
+
+
+
+生物多样性
+种间关系
+生态系统
+动物栖地
+生态位
+种群生态学
+资源 (生物)（英语：Resource (biology)）
+
+
+
+
+
+
+
+
+
+分子生物学
+
+
+
+
+细胞信号传送
+发育生物学
+表观遗传学
+基因调控（英语：Regulation of gene expression）
+减数分裂
+有丝分裂
+转录后修饰
+
+
+
+
+
+
+
+
+
+生物化学
+
+
+
+
+碳水化合物
+脂类
+代谢
+核酸
+光合作用
+蛋白质
+
+
+
+
+
+
+
+
+
+
+
+词汇表
+
+
+
+植物词汇（英语：Glossary of botanical terms）
+生态词汇（英语：Glossary of ecology）
+植物形态词汇（英语：Glossary of plant morphology）
+生物分类法
+
+
+
+
+
+
+
+
+
+ 分类 ·  主题 ·  共享资源 ·  专题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+社会生物学
+
+
+
+
+
+
+主题
+
+
+
+行为遗传学
+Challenge hypothesis
+Dual inheritance theory
+动物行为学
+演化心理学
+Evolution of morality
+族群选择
+Kin recognition
+亲属选择
+Male Warrior hypothesis
+Reciprocal altruism
+Sexual selection in human evolution
+Sex and psychology
+Sociality (真社会性, Evolution of eusociality, Presociality)
+邓巴数
+
+
+
+
+
+
+
+
+论述
+
+
+
+Not in Our Genes
+艾德华·威尔森
+
+Sociobiology: The New Synthesis
+
+
+
+
+
+
+
+
+
+
+
+Evolutionary biology portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+时间生物学
+
+
+
+
+
+
+内部节奏
+
+
+
+昼夜节律
+Infradian rhythm
+Ultradian rhythm
+Lunar rhythm
+年节奏
+
+
+
+
+
+
+
+
+
+
+
+外部循环
+
+
+
+昼行性
+
+Diurnal cycle
+
+
+夜行性
+Cathemeral
+Crepuscular
+
+Matutinal
+Vespertine
+
+
+季节性
+Photoperiodism
+春化现象
+
+
+
+
+
+
+
+
+领域
+
+
+
+行为生态学（英语：Behavioural ecology）
+时间生物学
+动物行为学
+
+
+
+
+
+
+
+
+参见
+
+
+
+Chronotype
+Diel vertical migration
+光害
+Solunar theory
+Parts of the day
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+NDL: 00561533
+
+
+
+
+
+
+
+
+
+
+
+
+分类：动物行为学隐藏分类：自2008年7月缺少来源的条目

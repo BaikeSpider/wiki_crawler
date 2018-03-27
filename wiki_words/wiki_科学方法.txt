@@ -1,0 +1,314 @@
+科学方法
+
+
+
+
+科学方法的几个步骤[1]
+
+
+科学方法（英语：scientific method）指的是检查自然现象、获取新知识或修正与整合先前已得的知识，所使用的一整套技术。[2][3]为了合乎科学精神，这方法必须建立于收集可观察、可经验（empirical）、可量度的证据，并且合乎明确的推理原则。[4]梅里亚姆-韦伯斯特辞典如此定义：[5]
+
+科学方法是一种有系统地寻求知识的程序，涉及了以下三个步骤：问题的认知与表述、实验数据的收集、假说的构成与测试。
+
+科学方法是一种持续不停的过程，通常其最初步骤是仔细观察大自然，人们天生就有一种摘三问四的习性，他们时常会对于周遭现象想出一些奇奇怪怪的问题，进而发展出一些假说来解释这些问题。最好的假说会导致能被多样检试的预言。基于检试的结果，被检查的假说可能需要加以改善或遭到毅然驳回。这整个循环，从预测、检试到改善，可能会重复多次，甚至会无限期地重复，直到假说被改善到能够给出预测符合检试的数据，这时，就可宣布一个科学理论出炉了。[1]
+概述[编辑]
+科学方法涉及到很多步骤，首先，需要观察大自然并且对于自然现象提出有意义的问题，然后再想出假说来解释自然现象，之后设计实验来检验这些假说，核对从这些假说所给出的预言是否正确无误。为了要防范在做实验时发生错误或误解，这些步骤必须具有可重复性。一个假说在被学术界广泛接受之前，必须先通过科学方法的严格验证，以有条有理的方式来将理论结果与实验数据互相比较。只有当理论结果和实验数据互相吻合时，这假说才能被学术界接受。涉及比较广泛学术领域的理论，可能会融合许多独立推出的假说在一起，配搭一致、相辅相成。通过严格检验的理论，又可以触类旁通，帮助形成新假说，或者设定其它假说的上下文。[1][6]
+为了减少获得偏差结果的机会，科学研究通常是要越客观越好。所有测量数据与实验程序都必须详细纪录，存档于安全的数据库，并且可供适当学者共享。这样，适当学者可以仔细检查，通过复制实验来核对结果。这种行为方式，称为充分公开（英语：full disclosure），容许建立这些数据在统计学的信度。[7]
+参考文献[编辑]
+
+
+^ 1.0 1.1 1.2 Garland, Jr., Theodore. The Scientific Method as an Ongoing Process. U C Riverside. （原始内容存档于2016-08-19）. 
+^ Goldhaber, Alfred Scharff; Nieto, Michael Martin, Photon and graviton mass limits, Review of Modern Physics (American Physical Society), January–March 2010, 82: pp. 940, doi:10.1103/RevModPhys.82.939  引文格式1维护：冗余文本 (link) 引文格式1维护：日期与年 (link)
+^ 费曼, 理查; 雷顿, 罗伯; 山德士, 马修, 费曼物理学讲义I (1)物理学与其它科学的关系, 台湾: 天下文化书: pp. 66ff, 2007, ISBN 9789864178582  引文格式1维护：冗余文本 (link)
+^ "[4] Rules for the study of natural philosophy", Newton, Isaac, 自然哲学的数学原理 3rd edition (1726); I. Bernard Cohen与Anne Whitman翻译，Julia Budenz协助翻译, Berkeley, CA: University of California Press: pp.794–796, 1999, ISBN 978-0520088160  引文格式1维护：冗余文本 (link)
+^ 梅里亚姆-韦伯斯特辞典对于scientific method的定义。
+^ Rooney, Anne. The History of Physics. The Rosen Publishing Group. 2012: pp. 9. ISBN 9781448873715.  引文格式1维护：冗余文本 (link)
+^ Grant, Andrew. Disputed dark-matter result gets put to the test. Physics Today (AIP Publishing). Jul 2016, 69 (7): pp. 28–30. doi:10.1063/PT.3.3229.  引文格式1维护：冗余文本 (link)
+
+
+相关条目[编辑]
+
+经验主义
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+科学哲学
+
+
+
+
+
+
+概念
+
+
+
+分析
+分析-综合区别
+先验
+因果
+可公度性
+构想（英语：Construct (philosophy)）
+划界问题
+解释力（英语：Explanatory power）
+事实
+可证伪性
+我们现在不知道，将来也不知道
+归纳推理
+智巧（英语：Ingenuity）
+探究（英语：Inquiry）
+科学探究模型（英语：Models of scientific inquiry）
+本性（英语：Nature (philosophy)）
+客观性
+观察
+范式
+归纳问题（英语：Problem of induction）
+科学解释（英语：Models of scientific inquiry）
+定律
+科学方法
+科学革命
+科学理论
+可测试性
+选择理论
+
+
+
+
+
+
+
+
+科学元理论
+
+
+
+验证整体论（英语：Confirmation holism）
+真理融贯论
+语境主义（英语：Contextualism）
+传统主义（英语：Conventionalism）
+演绎的法则的（英语：Deductive-nomological model）
+实证主义-还原论-决定论
+可谬论
+基础主义（英语：Foundationalism）
+假设－演绎模型（英语：Hypothetico-deductive model）
+无限主义（英语：Infinitism）
+工具主义
+实用主义
+理性主义 / 经验主义
+科学理论的接受观（英语：Received view of theories） / 语义观（英语：Semantic view of theories）
+科学实在论 / 反实在论（英语：Anti-realism）
+科学主义
+自然主义
+怀疑论
+均变论
+活力论
+
+
+
+
+
+
+
+
+科学哲学
+相关条目
+
+
+
+知识论
+科学哲学史（英语：History and philosophy of science）
+科学史
+物理哲学
+热力学和统计物理哲学（英语：Philosophy of thermal and statistical physics）
+化学哲学
+生物哲学
+演化思想史
+环境哲学
+时间和空间哲学（英语：Philosophy of space and time）
+神经科学哲学（英语：Neurophilosophy）
+精神哲学
+心理学哲学（英语：Philosophy of psychology）
+感知哲学（英语：Philosophy of perception）
+人工智能哲学
+计算机科学哲学（英语：Philosophy of computer science）
+信息哲学
+技术哲学（英语：Philosophy of technology）
+社会科学哲学（英语：Philosophy of social science）
+伪科学
+宗教与科学
+科学修辞学（英语：Rhetoric of science）
+科学知识社会学（英语：Sociology of scientific knowledge）
+更多...（英语：Index of philosophy of science articles）
+
+
+
+
+
+
+
+
+科学哲学家
+
+
+
+
+
+古典时期
+
+
+
+
+柏拉图
+亚里士多德
+伊壁鸠鲁
+斯多亚学派
+
+
+
+
+
+
+
+
+
+中世纪
+
+
+
+
+圣维克多的休
+罗吉尔·培根
+伊本·鲁世德
+多明尼库斯·贡狄萨利奴斯（英语：Dominicus Gundissalinus）
+罗伯特·基尔沃比（英语：Robert Kilwardby）
+奥卡姆的威廉
+
+
+
+
+
+
+
+
+
+近代
+
+
+
+
+弗兰西斯·培根
+皮埃尔·伽桑狄
+勒内·笛卡尔
+伽利略·伽利莱
+托马斯·霍布斯
+艾萨克·牛顿
+
+
+
+
+
+
+
+
+
+18~19世纪
+
+
+
+
+伊曼努尔·康德
+弗里德里希·谢林
+威廉·维赫维尔
+奥古斯特·孔德
+约翰·斯图尔特·密尔
+赫伯特·斯宾塞
+威廉·冯特
+查尔斯·桑德斯·皮尔士
+威廉·文德尔班
+儒勒·昂利·庞加莱
+皮埃尔·迪昂
+鲁道夫·斯坦纳
+卡尔·皮尔逊
+
+
+
+
+
+
+
+
+
+科学哲学创立
+
+
+
+
+卡尔·波普尔
+查理·邓巴·博尔德（英语：C. D. Broad）
+阿尔伯特·爱因斯坦
+托马斯·库恩
+拉卡托什·伊姆雷
+
+
+
+
+
+
+
+
+
+其他
+现代哲学家
+
+
+
+
+分析哲学：阿尔弗雷德·诺思·怀特黑德
+伯特兰·罗素
+卡尔·古斯塔夫·亨普尔（英语：Carl Gustav Hempel）
+威拉德·冯·奥曼·蒯因
+精神哲学：奥图·纽拉特
+鲁道夫·卡尔纳普
+尤尔根·哈贝马斯
+其他：保罗·费耶阿本德
+丹尼尔·丹尼特
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+主题
+分类
+
+
+
+
+
+
+
+
+
+
+
+
+分类：科学方法隐藏分类：引文格式1维护：冗余文本引文格式1维护：日期与年含有英语的条目

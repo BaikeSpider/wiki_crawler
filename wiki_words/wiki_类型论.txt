@@ -1,0 +1,392 @@
+类型论
+
+
+
+
+
+
+
+
+
+
+本条目已列出参考文献，但因为没有文内引注而使来源仍然不明。（2015年12月16日） 
+请通过加入合适的行内引用来改善这篇条目。 
+
+
+在最广泛的层面上，类型论是关注把实体分类到叫做类型的搜集中的数学和逻辑分支。在这种意义上，它与类型的形而上学概念有关。现代类型论在部分上是响应罗素悖论而发明的，并在伯特兰·罗素和阿弗烈·诺夫·怀海德的《数学原理》中起到重要作用。
+在计算机科学分支中的编程语言理论中，类型论提供了设计分析和研究类型系统的形式基础。实际上，很多计算机科学家使用术语“类型论”来称呼对编程语言的类型语言的形式研究，尽管有些人把它限制于对更加抽象的形式化如有类型lambda演算的研究。
+
+
+
+目录
+
+
+1 类型论体系
+
+1.1 主要
+1.2 次要
+1.3 活跃
+
+
+2 参考文献
+3 延伸阅读
+4 外部链接
+5 参见
+
+
+
+类型论体系[编辑]
+主要[编辑]
+
+简单类型λ演算，一种高阶逻辑；
+直觉类型论；
+系统F;
+LF经常用来定义其他类型论；
+构造演算及其派生理论。
+
+次要[编辑]
+
+Automath（英语：Automath）；
+ST类型论;
+组合逻辑的一些形式；
+λ立方体中定义的其他；
+其他有类型λ演算;
+其他纯类型系统（英语：pure type system）。
+
+活跃[编辑]
+
+正在研究中的同伦类型论
+
+参考文献[编辑]
+
+延伸阅读[编辑]
+
+Andrews, Peter B., 2002. An Introduction to Mathematical Logic and Type Theory: To Truth Through Proof, 2nd ed. Kluwer Academic Publishers.
+Cardelli, Luca, 1997, "Type Systems," in Allen B. Tucker, ed., The Computer Science and Engineering Handbook. CRC Press: 2208-2236.
+Mendelson, Elliot, 1997. Introduction to Mathematical Logic, 4th ed. Chapman & Hall.
+Pierce, Benjamin, 2002. Types and Programming Languages. MIT Press. ISBN 0-262-16209-1)
+Thompson, Simon, 1991. Type Theory and Functional Programming. Addison-Wesley. ISBN 0-201-41667-0.
+Winskel, Glynn, 1993. The Formal Semantics of Programming Languages, An Introduction. MIT Press. ISBN 0-262-23169-7.
+
+外部链接[编辑]
+
+Stanford Encyclopedia of Philosophy: Type Theory" -- by Thierry Coquand.
+National Institute of Standards and Technology: Abstract data type
+A summary paper on the formal basis of ADTs, relationship to category theory, and list of good references. Pages 3-4 appear relevant. Reference number [6] looks good, but it may not be available online.
+Constable, Robert L., 2002, "Naïve Computational Type Theory," in H. Schwichtenberg and R. Steinbruggen (eds.), Proof and System-Reliability: 213-259.
+The Nuprl Book: "Introduction to Type Theory."
+
+参见[编辑]
+
+罗素公理体系
+直觉类型论
+有类型lambda演算
+类型系统
+域理论
+范畴论
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+形而上学
+
+
+
+
+
+
+学者
+
+
+
+
+
+古代
+
+
+
+
+巴门尼德
+柏拉图
+亚里士多德
+
+
+
+
+
+
+
+
+
+中世纪
+
+
+
+
+迈蒙尼德
+迦毗罗
+普罗提诺
+邓斯·司各脱
+托马斯·阿奎那
+
+
+
+
+
+
+
+
+
+近代
+
+
+
+
+弗朗西斯科·苏亚雷斯（英语：Francisco Suárez）
+尼古拉·马勒伯朗士
+勒内·笛卡儿
+约翰·洛克
+大卫·休谟
+托马斯·里德
+戈特弗里德·莱布尼茨
+艾萨克·牛顿
+巴鲁赫·斯宾诺莎
+
+
+
+
+
+
+
+
+
+18~19世纪
+
+
+
+
+伊曼努尔·康德
+乔治·贝克莱
+G.W.F.黑格尔
+亚瑟·叔本华
+弗里德里希·尼采
+查尔斯·桑德斯·皮尔士
+若瑟·马雷夏（英语：Joseph Maréchal）
+
+
+
+
+
+
+
+
+
+19~20世纪
+
+
+
+
+亨利·柏格森
+阿尔弗雷德·诺思·怀特黑德
+路德维希·维特根斯坦
+伯特兰·罗素
+鲁道夫·卡尔纳普
+威拉德·冯·奥曼·蒯因
+
+
+
+
+
+
+
+
+
+当代
+
+
+
+
+马丁·海德格尔
+Dorothy Emmet（英语：Dorothy Emmet）
+乔治·爱德华·摩尔
+让-保罗·萨特
+吉尔伯特·赖尔（英语：Gilbert Ryle）
+希拉里·怀特哈尔·普特南
+P.F.斯特劳森
+柯林武德（英语：R. G. Collingwood）
+Adolph Stöhr（英语：Adolph Stöhr）
+索尔·阿伦·克里普克
+伊丽莎白·安斯康姆
+唐纳德·戴维森
+迈克尔·达米特（英语：Michael Dummett）
+阿尔文·普兰丁格
+彼得·范·因维根（英语：Peter van Inwagen）
+德里克·帕菲特
+更多...
+
+
+
+
+
+
+
+
+
+
+
+理论
+
+
+
+行动理论
+反实在论（英语：Anti-realism）
+决定论
+二元论
+生成论（英语：Enactivism）
+本质主义
+存在主义
+自由意志
+印度教唯心主义
+唯心主义
+自由意志主义（英语：Libertarianism (metaphysics)）
+自由
+唯物主义
+生命的意义
+一元论
+自然主义
+虚无主义
+现象论
+实在论
+物理主义
+柏拉图式唯心主义（英语：Platonic idealism）
+相对主义
+数论
+科学实在论
+唯我论
+主观主义
+实体论（英语：Substance theory）
+类型论
+
+
+
+
+
+
+
+
+概念
+
+
+
+抽象客体（英语：Abstract object）
+世界灵魂（英语：Anima mundi）
+存有（Being）
+范畴
+因果
+选择
+我思故我在
+概念
+涉身认知（英语：Embodied cognition）
+实体
+本质
+存在
+经验
+有实体设定的抽象（英语：Hypostatic abstraction）
+想法
+同一性
+同一性与变化
+信息
+洞察（英语：Insight）
+智力
+意思表示
+情态
+物质（英语：Matter (philosophy)）
+Meaning（英语：Meaning (existential)）
+模因学
+心灵
+运动
+必要性
+Notion（英语：Notion (philosophy)）
+客体
+模式
+知觉
+物体
+原理
+Property（英语：Property (philosophy)）
+感质
+Quality（英语：Quality (philosophy)）
+现实
+灵魂
+主体（英语：Subject (philosophy)）
+实体形式（英语：Substantial form）
+思想
+时间
+真理
+类型–个例之辨（英语：Type–token distinction）
+共相
+不可观测性
+价值
+更多...
+
+
+
+
+
+
+
+
+相关话题
+
+
+
+价值论
+宇宙学
+知识学
+后设
+本体论
+精神哲学
+科学哲学
+心理学哲学（英语：Philosophy of psychology）
+自我哲学
+时空的哲学（英语：Philosophy of space and time）
+目的论
+理论物理学
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 主题
+专题
+相关更改
+
+
+
+
+
+
+
+
+
+
+
+
+分类：数理逻辑计算机逻辑类型论隐藏分类：自2015年12月缺少注脚的条目有蓝链却未移除内部链接助手模板的页面使用ISBN魔术链接的页面

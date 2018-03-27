@@ -1,0 +1,66 @@
+公信力
+公信力指对信息或其来源可信度的主观及客观组成。
+传统意义上，公信力有两个基本要素：可信度和专业度，两者都由主观和客观组成。可信度更多地建立在主观因素基础上，但也包括客观衡量标准，如公认的可靠信息。专业度同样可被主观感知，同时也包括相关信息的客观的特征，如凭证、证书和信息质量等。[1]公信力的次要要素包括信息来源的活力和吸引力。
+1990年代中期开始，网络已成为一个重要的信息源，网络公信力也因此成为一个重要的研究课题。加州大学圣巴巴拉分校公信力和数字媒体工程正进行此方面的研究，并将其列为近期研究重点。研究内容包括数字媒体、青年人和公信力。此外，斯坦福大学的科技说服者实验室也已展开网络公信力的研究，并提出网络公信力的主要组成和概述性理论--显释论。
+
+
+
+目录
+
+
+1 新闻公信力
+2 科学公信力
+3 参考
+4 著作
+5 外链
+
+
+
+新闻公信力[编辑]
+根据职业记者协会制定的道德守则，职业操守是记者公信力的基石。（参阅前言）
+科学公信力[编辑]
+科学公信力被定义为，可提供公认可靠信息源的一般科学的延伸。[2]该术语也做狭义用，如针对科学家或某一领域研究的公信力评估。此地，科学公信力指研究成果是否遵循科学原理。[3]评估科学成果质量最常用的方法是同行评审和科学著作的发表。[4]其他方法也包括由一组专家共同评估，这一方法的能够产生很多专业的评论，发表在科克伦协作网[5]和政府间气候变化专门委员会[6]之类的网站上。
+社会大众左右着争议性问题的科学权威判断，如生物技术。[7]同时，科学的公信力和权威性受到非主流观点的质疑。他们鼓吹替代医学[8]，质疑科学共识（如提出艾滋病重估运动）。[9][10]
+参考[编辑]
+
+
+^ Flanagin and Metzger (2008), Digital media and youth: Unparalleled opportunity and unprecedented responsibility. In M. Metzger, & A. Flanagin (Editors), Digital media, youth, and credibility (pp. 5-28). Cambridge, MA: The MIT Press.
+^ Bocking, Stephen. Nature's experts: science, politics, and the environment. New Brunswick, NJ: Rutgers University Press. 2004: 164. ISBN 0-8135-3398-8. 
+^ Alkin, Marvin C. Evaluation roots: tracing theorists' views and influences. Thousand Oaks, Calif: Sage. 2004: 134. ISBN 0-7619-2894-4. 
+^ Bocking, Stephen. Nature's experts: science, politics, and the environment. New Brunswick, NJ: Rutgers University Press. 2004: 165. ISBN 0-8135-3398-8. 
+^ What is a Cochrane review The Cochrane Collaboration, Accessed 05 January 2009
+^ Agrawala, S. Structural and Process History of the Intergovernmental Panel on Climate Change (PDF). Climatic Change. 1998, 39 (4): 621–642. doi:10.1023/A:1005312331477. 
+^ Brossard, Dominique; Nisbet, Matthew C. Deference to Scientific Authority Among a Low Information Public: Understanding U.S. Opinion on Agricultural Biotechnology. International Journal of Public Opinion Research. 2007, 19 (1): 24. doi:10.1093/ijpor/edl003. Lay summary. 
+^ O'callaghan, F.V.; Jordan, N. Postmodern values, attitudes and the use of complementary medicine. Complementary Therapies in Medicine. 2003, 11 (1): 28–32. PMID 12667972. doi:10.1016/S0965-2299(02)00109-7. （原始内容存档于2012-07-21）. 
+^ Smith TC, Novella SP. HIV denial in the Internet era. PLoS Med. August 2007, 4 (8): e256. PMC 1949841. PMID 17713982. doi:10.1371/journal.pmed.0040256. （原始内容存档于2009-02-10）. 
+^ Epstein, Steven. Impure science: AIDS, activism, and the politics of knowledge. Berkeley: University of California Press. 1996. ISBN 0-520-21445-5. 
+
+
+著作[编辑]
+
+Chesney, T. (2006). An empirical examination of Wikipedia’s credibility. First Monday, 11(11), URL: http://firstmonday.org/issues/issue11_11/chesney/index.html
+Flanagin, A.J., & Metzger, M.J. (2007). The role of site features, user attributes, and information verification behaviors on the perceived credibility of web-based information. New Media & Society, 9(2), 319-342. Available at: https://web.archive.org/web/20110720074837/http://www.comm.ucsb.edu/documents/flanaginmetzger.pdf
+Flanagin, A. J., & Metzger, M. (2008). Digital media and youth: Unparalleled opportunity and unprecedented responsibility. In M. Metzger, & A. Flanagin (Editors), Digital media, youth, and credibility (pp. 5–28). Cambridge, MA: The MIT Press.
+Mattus, Maria (2007). Finding Credible Information: A Challenge to Students Writing Academic Essays. Human IT 9(2), 1-28. Hentet 2007-09-04 fra: http://www.hb.se/bhs/ith/2-9/mm.pdf[失效链接]
+Metzger, M.J., Flanagin, A.J., Eyal, K., Lemus, D.R., & McCann, R. (2003). Credibility in the 21st century: Integrating perspectives on source, message, and media credibility in the contemporary media environment. In P. Kalbfleisch (Ed.), Communication Yearbook 27 (pp. 293–335). Mahwah, NJ: Lawrence Erlbaum. Available at: http://www.comm.ucsb.edu/publications/flanagin/Metzger%20Flanagin%20et%20al%202003%20(CY).pdf
+Metzger, M.J., & Flanagin, A.J. (Eds.) (2008). Digital Media, Youth, and Credibility. Cambridge: MIT Press. Available at: http://www.mitpressjournals.org/toc/dmal/-/2
+Rieh, Soo Young & Danielson, David R. (2007). Credibility: A multidisciplinary framework. Annual Review of Information Science and Technology, 41, 307-364.
+Savolainen, R. (2007). Media credibility and cognitive authority. The case of seeking orienting information. Information Research, 12(3) paper 319. Available at http://InformationR.net/ir/12-3/paper319.html
+
+外链[编辑]
+
+
+
+查询维基词典中的公信力。
+
+
+
+Handbook of Management Scales: Credibility
+College students’ news habits, preferences, and credibility perceptions
+best essay writing service
+
+
+
+
+
+分类：信仰批判性思维隐藏分类：带有失效链接的条目条目有永久失效的外部链接

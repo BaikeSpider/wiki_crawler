@@ -1,0 +1,768 @@
+人工智能哲学
+人工智能哲学试图回答下列问题[1]:
+
+机械可以有智慧的运作吗? 可以解决人透过思考处理的所有问题吗?
+人类智慧和人工智能是一样的吗? 人脑本质上是电脑吗？
+机械可以如同人类一般拥有自己的精神、心理状态和意识吗？能感知东西是如何吗？
+
+这三个问题分别反映了人工智能开发者、语言学家、认知科学家和哲学家的不同兴趣。透过讨论 “智能”、“意识”的定义，和“机械”究竟是什么，来寻找这些问题的科学答案。
+人工智能哲学的重要主张包括：
+
+图灵的礼貌公约：如果一个机器的行为可以如人类一般，那么它就和人类拥有同样的智能。[2]
+
+
+达特茅斯提议：“如果可以精确的描述学习的所有面向，或智能的任何其它特征，一个机器就可以被制造来模拟它。”[3]
+
+
+纽厄尔和司马贺的物理符号系统（英语：Physical_symbol_system）假设：“物理符号系统具有执行一般智能动作必要的和充分的手段。”[4]
+
+
+塞尔强人工智能假设：“只要电脑有适当的程式让能够正确的输入和输出，就能拥有与人类精神相同意义的精神。”[5]
+
+
+霍布斯机制：“理性只是计算。”[6]
+
+参见[编辑]
+
+
+人工智能叛变
+人工意识
+人工智能
+脑
+聊天机器人
+中文房间
+心灵计算理论
+计算机与智能（英语：Computing Machinery and Intelligence）
+功能主义(精神哲学)（英语：Functionalism (philosophy of mind)）
+多智能体系统
+计算机科学哲学（英语：Philosophy of computer science）
+信息哲学
+精神哲学
+物理符号系统（英语：Physical symbol system）
+模拟现实
+综合智能（英语：Synthetic intelligence）
+
+
+参考文献[编辑]
+
+
+^ Russell & Norvig 2003，第947页 define the philosophy of AI as consisting of the first two questions, and the additional question of the ethics of artificial intelligence. Fearn 2007，第55页 writes "In the current literature, philosophy has two chief roles: to determine whether or not such machines would be conscious, and, second, to predict whether or not such machines are possible." The last question bears on the first two.
+^ This is a paraphrase of the essential point of the Turing test. Turing 1950, Haugeland 1985，第6–9页, Crevier 1993，第24页, Russell & Norvig 2003，第2–3 and 948页
+^ McCarthy等 1955. This assertion was printed in the program for the Dartmouth Conference of 1956, widely considered the "birth of AI."also Crevier 1993，第28页
+^ Newell & Simon 1976 and Russell & Norvig 2003，第18页
+^ This version is from Searle (1999), and is also quoted in Dennett 1991，第435页. Searle's original formulation was "The appropriately programmed computer really is a mind, in the sense that computers given the right programs can be literally said to understand and have other cognitive states." （Searle 1980，p.1）. Strong AI is defined similarly by Russell & Norvig (2003， p. 947): "The assertion that machines could possibly act intelligently (or, perhaps better, act as if they were intelligent) is called the 'weak AI' hypothesis by philosophers, and the assertion that machines that do so are actually thinking (as opposed to simulating thinking) is called the 'strong AI' hypothesis."
+^ Hobbes 1651，chpt. 5
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+精神哲学
+
+
+
+
+
+
+精神哲学家
+
+
+
+约翰·奥斯丁
+阿奎那
+安斯康姆
+贝恩（英语：Alexander Bain）
+亨利·柏格森
+斯瑞·奥罗宾多
+巴塔查亚（英语：Krishna Chandra Bhattacharya）
+内德·布洛克
+博若德
+丹尼尔·丹尼特
+法称
+海瑞得斯‧邱独利
+唐纳德·戴维森
+勒内·笛卡儿
+阿尔文·戈德尔曼
+马丁·海德格尔
+埃德蒙德·胡塞尔
+威廉·詹姆士
+索伦·奥贝·克尔凯郭尔
+戈特弗里德·莱布尼茨
+莫里斯·梅洛-庞蒂
+马文·闵斯基
+乔治·爱德华·摩尔
+汤玛斯·内格尔
+卡尔·波普尔
+理查德·罗蒂
+吉伯特‧赖尔
+约翰·罗杰斯·希尔勒
+巴鲁赫·斯宾诺莎
+艾伦·图灵
+世亲
+路德维希·维特根斯坦
+更多...
+
+
+
+
+
+
+
+
+理论
+
+
+
+行动主义
+生物自然主义（英语：Biological naturalism）
+取消唯物论（英语：Eliminative materialism）
+显现唯物论
+副现象论（英语：Epiphenomenalism）
+功能主义 (精神哲学)（英语：Functionalism (philosophy of mind)）
+物理主义
+同一论（英语：Type physicalism）
+互动论
+唯物主义
+一元论
+素朴实在论
+中性一元论
+二元论
+心身二分问题
+心物二元论
+现象主义
+现象学 （存在主义现象学（英语：Existential phenomenology））
+性质二元论
+实用主义
+表征式心理论
+唯我论
+
+
+
+
+
+
+
+
+概念
+
+
+
+概念论
+Proof of concept
+概念验证
+抽象对象
+人工智能
+中文房间
+认知
+概念
+Concept and object
+意识
+想法
+辨别
+创造力
+智力
+意向性
+内省
+直觉
+心语
+唯物主义
+心智事件
+心像
+心智历程
+Mental property
+心智表征
+心灵
+心身二分法
+疼痛 (哲学)（英语：Pain (philosophy)）
+他心问题
+命题态度
+感质
+白板
+理解
+哲学僵尸
+更多...
+
+
+
+
+
+
+
+
+相关条目
+
+
+
+形而上学
+人工智能哲学
+信息哲学
+Philosophy of perception
+Philosophy of self
+
+
+
+
+
+
+
+
+
+
+
+主题
+分类
+ 专题
+历史
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+科学哲学
+
+
+
+
+
+
+概念
+
+
+
+分析
+分析-综合区别
+先验
+因果
+可公度性
+构想（英语：Construct (philosophy)）
+划界问题
+解释力（英语：Explanatory power）
+事实
+可证伪性
+我们现在不知道，将来也不知道
+归纳推理
+智巧（英语：Ingenuity）
+探究（英语：Inquiry）
+科学探究模型（英语：Models of scientific inquiry）
+本性（英语：Nature (philosophy)）
+客观性
+观察
+范式
+归纳问题（英语：Problem of induction）
+科学解释（英语：Models of scientific inquiry）
+定律
+科学方法
+科学革命
+科学理论
+可测试性
+选择理论
+
+
+
+
+
+
+
+
+科学元理论
+
+
+
+验证整体论（英语：Confirmation holism）
+真理融贯论
+语境主义（英语：Contextualism）
+传统主义（英语：Conventionalism）
+演绎的法则的（英语：Deductive-nomological model）
+实证主义-还原论-决定论
+可谬论
+基础主义（英语：Foundationalism）
+假设－演绎模型（英语：Hypothetico-deductive model）
+无限主义（英语：Infinitism）
+工具主义
+实用主义
+理性主义 / 经验主义
+科学理论的接受观（英语：Received view of theories） / 语义观（英语：Semantic view of theories）
+科学实在论 / 反实在论（英语：Anti-realism）
+科学主义
+自然主义
+怀疑论
+均变论
+活力论
+
+
+
+
+
+
+
+
+科学哲学
+相关条目
+
+
+
+知识论
+科学哲学史（英语：History and philosophy of science）
+科学史
+物理哲学
+热力学和统计物理哲学（英语：Philosophy of thermal and statistical physics）
+化学哲学
+生物哲学
+演化思想史
+环境哲学
+时间和空间哲学（英语：Philosophy of space and time）
+神经科学哲学（英语：Neurophilosophy）
+精神哲学
+心理学哲学（英语：Philosophy of psychology）
+感知哲学（英语：Philosophy of perception）
+人工智能哲学
+计算机科学哲学（英语：Philosophy of computer science）
+信息哲学
+技术哲学（英语：Philosophy of technology）
+社会科学哲学（英语：Philosophy of social science）
+伪科学
+宗教与科学
+科学修辞学（英语：Rhetoric of science）
+科学知识社会学（英语：Sociology of scientific knowledge）
+更多...（英语：Index of philosophy of science articles）
+
+
+
+
+
+
+
+
+科学哲学家
+
+
+
+
+
+古典时期
+
+
+
+
+柏拉图
+亚里士多德
+伊壁鸠鲁
+斯多亚学派
+
+
+
+
+
+
+
+
+
+中世纪
+
+
+
+
+圣维克多的休
+罗吉尔·培根
+伊本·鲁世德
+多明尼库斯·贡狄萨利奴斯（英语：Dominicus Gundissalinus）
+罗伯特·基尔沃比（英语：Robert Kilwardby）
+奥卡姆的威廉
+
+
+
+
+
+
+
+
+
+近代
+
+
+
+
+弗兰西斯·培根
+皮埃尔·伽桑狄
+勒内·笛卡尔
+伽利略·伽利莱
+托马斯·霍布斯
+艾萨克·牛顿
+
+
+
+
+
+
+
+
+
+18~19世纪
+
+
+
+
+伊曼努尔·康德
+弗里德里希·谢林
+威廉·维赫维尔
+奥古斯特·孔德
+约翰·斯图尔特·密尔
+赫伯特·斯宾塞
+威廉·冯特
+查尔斯·桑德斯·皮尔士
+威廉·文德尔班
+儒勒·昂利·庞加莱
+皮埃尔·迪昂
+鲁道夫·斯坦纳
+卡尔·皮尔逊
+
+
+
+
+
+
+
+
+
+科学哲学创立
+
+
+
+
+卡尔·波普尔
+查理·邓巴·博尔德（英语：C. D. Broad）
+阿尔伯特·爱因斯坦
+托马斯·库恩
+拉卡托什·伊姆雷
+
+
+
+
+
+
+
+
+
+其他
+现代哲学家
+
+
+
+
+分析哲学：阿尔弗雷德·诺思·怀特黑德
+伯特兰·罗素
+卡尔·古斯塔夫·亨普尔（英语：Carl Gustav Hempel）
+威拉德·冯·奥曼·蒯因
+精神哲学：奥图·纽拉特
+鲁道夫·卡尔纳普
+尤尔根·哈贝马斯
+其他：保罗·费耶阿本德
+丹尼尔·丹尼特
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+主题
+分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+心理学
+
+
+
+
+
+
+
+
+
+历史
+专利
+心理学家
+
+
+
+
+
+
+
+
+基础心理学（英语：Basic science (psychology)）
+（尾缀有心理学者不赘述）
+
+
+
+异常
+生物
+认知
+比较
+文化（英语：Cultural psychology）
+发展
+差别（英语：Differential psychology）
+演化
+实验
+数学
+神经
+人格
+正面
+生理
+社会
+理论
+哲学
+科学
+心理语言学
+心理物理学
+人本主义
+情感科学（英语：Affective science）
+情感神经科学（英语：Affective neuroscience）
+行为主义
+精神分析学
+认知神经科学
+
+
+
+
+
+
+
+
+应用心理学
+
+
+
+应用行为分析
+心理测验
+临床心理学
+社区心理学
+消费行为
+咨询
+教育
+法医
+健康
+工业与组织
+法律心理学
+传媒心理学（英语：Media psychology）
+军事心理学（英语：Military psychology）
+职业心理健康（英语：Occupational health psychology）
+牧师心理学
+政治心理学
+心理统计学
+校园心理学（英语：School psychology）
+运动心理学
+自杀学（英语：Suicidology）
+系统心理学（英语：Systems psychology）
+交通
+
+
+
+
+
+
+
+
+研究方法（英语：List of psychological research methods）
+
+
+
+动物测试
+档案研究（英语：Archival research）
+行为遗传学
+行为表观遗传学（英语：Behavioral epigenetics）
+案例研究（英语：Case study）
+内容分析法
+实验心理学
+人体试验
+面谈
+神经成像
+观察
+定性研究（英语：Qualitative psychological research）
+定量研究（英语：Quantitative psychological research）
+自陈量表（英语：Self-report inventory）
+统计调查
+智力
+
+
+
+
+
+
+
+
+取向
+
+
+
+阿德勒心理学（英语：Adlerian psychology）
+分析心理学
+行为主义
+认知行为疗法
+认知主义
+描述心理学（英语：Descriptive psychology）
+生态系统理论
+存在主义治疗（英语：Existential therapy）
+家庭疗法（英语：Family therapy）
+女权主义疗法（英语：Feminist therapy）
+格式塔学派
+人本主义
+晤谈治疗法（英语：Narrative therapy）
+心理学哲学（英语：Philosophy of psychology）
+精神动力取向心理治疗（英语：Psychodynamic psychotherapy）
+理性情绪行为治疗法（英语：Rational emotive behavior therapy）
+精神分析学
+超个人
+
+
+
+
+
+
+
+
+著名心理学家
+
+
+
+阿尔弗雷德·阿德勒
+高尔顿·威拉德·奥尔波特
+阿尔波特·班杜拉
+阿龙·贝克
+约翰·鲍比
+雷蒙德·卡特尔
+肯尼斯和玛米·克拉克（英语：Kenneth and Mamie Clark）
+阿尔伯特·艾利斯
+爱利克·埃里克森
+汉斯·艾森克
+利昂·费斯廷格
+西格蒙德·弗洛伊德
+哈里·哈洛
+唐纳德·赫布
+克拉克·L·赫尔
+威廉·詹姆士
+卡尔·荣格
+杰罗姆·凯根（英语：Jerome Kagan）
+库尔特·勒温
+依瓦·洛瓦斯（英语：Ivar Lovaas）
+亚伯拉罕·马斯洛
+大卫·麦克利兰
+乔治·A·米勒
+尼尔·米勒（英语：Neal E. Miller）
+沃尔特·米歇尔
+巴甫洛夫
+让·皮亚杰
+卡尔·罗哲斯
+斯坦利·沙克特（英语：Stanley Schachter）
+伯尔赫斯·弗雷德里克·斯金纳
+爱德华·桑代克
+约翰·布罗德斯·华生
+威廉·冯特
+赫尔曼·艾宾浩斯
+
+
+
+
+
+
+
+
+心理学列表
+
+
+
+辅导
+学科
+重要出版物（英语：List of important publications in psychology）
+组织（英语：List of psychology organizations）
+概要
+心理学家
+心理疗法
+研究方法（英语：List of psychological research methods）
+心理学学派
+年表（英语：Timeline of psychology）
+条目索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+
+
+
+
+参见Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+
+
+分类：科学哲学科技哲学精神哲学人工智能哲学未解决的问题

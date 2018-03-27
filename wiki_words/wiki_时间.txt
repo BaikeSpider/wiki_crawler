@@ -1,0 +1,1088 @@
+时间
+
+
+本条目介绍的是一个相对空间而言的系统。关于同名音乐专辑，请见“时间 (专辑)”。关于俄罗斯第一频道的晚间新闻节目，请见“时间 (电视节目)”。关于同名电视制作人，请见“时间 (1963年出生)”。
+
+
+
+
+
+
+
+
+本条目存在以下问题，请协助改善本条目或在讨论页针对议题发表看法。
+
+
+
+
+
+
+本条目的引用需要进行清理，使其符合格式。（2015年8月1日） 
+参考文献应符合正确的引用、脚注及外部链接格式。 
+
+
+
+
+
+
+
+本条目可能包含原创研究或未查证内容。（2015年8月1日） 
+请协助添加参考资料以改善这篇条目。详细情况请参见讨论页。 
+
+
+
+
+
+
+
+本条目可参照外语维基百科相应条目来扩充。（2015年8月1日） 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+
+
+
+
+
+
+
+
+钟表是一种计时仪器。
+
+
+时间是一种尺度，在物理定义是标量，借着时间，事件发生之先后可以按过去-现在-未来之序列得以确定（时间点），也可以衡量事件持续的期间以及事件之间和间隔长短（时间段）[1][2] 。时间是除了空间三个维度以外的第四维度[3]。 长久以来，时间一直是宗教、哲学及科学领域的研究主题之一，但学者们尚且无法为时间找到一个可以适用于各领域、具有一致性且又不循环的定义[4]。然而在商业、工业、体育、科学及表演艺术等领域都有一些各自来标示及度量时间的方法[5][6][7]。一些简单，争议较小的定义包括“时间是时钟量测的物理量。”[8][9]及“时间使得所有事情不会同时发生。”[10][11][12][13]，
+哲学家对于时间有两派不同的观点：一派认为时间是宇宙的基本结构，是一个会依序列方式出现的维度，像艾萨克·牛顿就对时间有这样的观点。包括戈特弗里德·莱布尼茨及伊曼努尔·康德在内的另一派认为时间不是任何一种已经存在的维度，也不是任何会“流动”的实存物，时间只是一种心智的概念，配合空间和数可以让人类对事件进行排序和比较。换句话说，时间不过是人为便于思考宇宙，而对物质运动划分，是一种人定规则。例如：爱因斯坦就曾运用相对论的概念来描述比喻时间对心理层面上的影响，借此解释时间并非是绝对的。[14]
+
+
+
+目录
+
+
+1 丈量与记录
+
+1.1 计时仪器
+1.2 单位
+
+
+2 物理学
+3 天文学
+4 哲学
+5 宗教
+6 文学
+7 参见
+
+7.1 一些科学和艺术上的相关概念
+7.2 一些和时间有关的单位
+
+
+8 参考文献
+9 外部链接
+
+
+
+丈量与记录[编辑]
+计时仪器[编辑]
+中国古代的计时仪器有太阳钟和机械钟两类。太阳钟是以太阳的投影和方位来计时，分别以土圭、圭表、日晷为代表。由于地球轨道偏心率以及地球倾角的影响，真太阳时和平太阳时是不一致的，机械钟应运而生，代表有水钟、香篆钟、太阳仪。
+单位[编辑]
+主条目：时间单位
+时间的基本国际单位是秒。它现在以铯133原子基态的两个超精细能级间跃迁对应的辐射的9,192,631,770个周期的持续时间为标准[15]。
+物理学[编辑]
+
+
+
+
+位于塔干洛的水平日晷
+
+
+目前最广泛被接受关于时间的物理理论是阿尔伯特·爱因斯坦的相对论。在相对论中，时间与空间一起组成四维时空，构成宇宙的基本结构。时间与空间都不是绝对的，观察者在不同的相对速度或不同时空结构的测量点，所测量到时间的流易是不同的。狭义相对论预测一个具有相对运动的时钟之时间流易比另一个静止的时钟之时间流易慢。在1971年，物理学家哈菲尔（Joe Hafele）与基廷（Richard Keating）做了证明。他们将高度精确的原子钟放在飞机上绕着世界飞行，然后将读到的时间与留在地面上完全一样的时钟做比较。结果证实：在飞机上的时间流易得比实验室里的慢。据爱因斯坦的理论，当移动的速度越快，时间流易速度越慢，当移动速度达到光速的一半时，时间约慢13%。
+另外，广义相对论预测质量产生的重力场将造成扭曲的时空结构，并且在大质量（例如黑洞）附近的时钟之时间流易比在距离大质量较远的地方的时钟之时间流易要慢。现有的仪器已经证实了这些相对论关于时间所做精确的预测，并且其成果已经应用于全球定位系统。
+就今天的物理理论来说时间是连续的，不间断的，也没有量子特性。但有一些理论试图将相对论与量子力学结合起来，如量子引力，弦理论，M理论，预言时间是间断的，有量子特性的；但它们还没有被实验证明过的。另有一些理论猜测普朗克时间可能才是时间的最小单位。
+根据史提芬·霍金所解出广义相对论中的爱因斯坦方程式，显示宇宙的时间是有一个起始点，由大霹雳（或称大爆炸）开始的，在此之前的时间是毫无意义的。而物质与时空必须一起并存，没有物质存在，时间也无意义。
+人出生、成长、衰老、死亡，没有反过来的。玻璃瓶掉到地上摔破，没有破瓶子从地上跳起来合整的。古典力学无法解释时间的不可逆性。两个粒子弹性碰撞的过程顺过来反过去没有实质上的区别。时间的不可逆性只有在统计力学和热力学的观点下才可被理论地解释。热力学第二定律说在一个封闭的系统中（我们可以将宇宙看成是最大的可能的封闭系统）熵只能增大，不能减小。宇宙中的熵增大后不能减小，因此时间是不可逆的。
+天文学[编辑]
+最早研究时间的科学不是物理学，而是天文学。天文学的一个最重要的任务就是测量时间，从确定日的长短，四季的变化，到制定历法。在古代中国和在西方一样，制定历法的需要是推动天文学理论发展的重要因素之一。
+今天的天文学已与历法或时间测量毫无关联了，但天文学观测对时间概念的发展依然非常重要。天体发出的光到地球上被观测到需要一定的时间。离地球越远的天体发出的光需要的时间也越长，因此对宇宙越远的地方的观测也是对宇宙越古老的时间的观测。现在最被公认的宇宙学理论（宇宙大爆炸理论）认为时间与空间和宇宙内的质能一样是在140亿年前产生的。目前的天文学观测估计宇宙的扩展是没有尽头的，因此时间也应该是没有尽头的。
+哲学[编辑]
+传统哲学对时间研究：古代的本体论采取独断的口吻宣布时间的本质和属性，近代的认识论采取主客对立、非此即彼的态度判断时间的本质和属性，近现代的现象学和存在论者则从抽象的人出发去探索时间的本质问题。[来源请求]
+现在哲学家对于时间有两派不同的观点：一派认为时间是宇宙的基本结构，是一个会依序列方式出现的维度，艾萨克·牛顿就对时间有这様的观点，因此也称为“牛顿式的时间”[16]。另一派认为时间不是任何一种已经存在的维度，也不是任何会“流动”的实存物，时间只是一种心智的概念，配合空间和数可以让人类对事件排先后顺序及进行比较[17]。依照戈特弗里德·莱布尼茨及伊曼努尔·康德的传统[18][19]，第二派的观点认为空间和时间“本身并不存在，而是我们表达事物方式的产物”，
+宗教[编辑]
+科学对时间的存在观察，提供人类从自身既有的见解与实据出发 。宗教对时间的存在启发，即在于补足人类历代科学见解的不足之处，提出存在可能相对的观点与反思：
+1.关于时间的形态问题：有循环时间观和线性时间观。
+2.对时间结构的取向问题：过去取向、现在取向、未来取向。
+3.时间存在的方式问题：线性存在、非线性存在、瞬时存在的“点”、跨点存在的时间段（线段的形式），形象是清晰、模糊。www.baohuasi.org/e_book/xz-13641.pdf
+基督教、犹太教等对时间的纪录见诸《圣经》记载，形成圣经神学与系统神学等帮助人深入探讨时间的真实性，例如：“主看一日如千年，千年如一日。”《彼得后书3:8》，涉及提示出“地球时间”与“宇宙时间”的差异观念。[来源请求]
+文学[编辑]
+在文学中，时间的流易和不可逆性是一个古今中外一再提到的内容。光阴似箭，日月如梭，这句谚语既体现了古人对时间的最直接的领会：日与夜光与阴的交汇，也体现了古人对时间不可逆性的认识以及对此的感慨。
+在科幻小说中，时间旅行是常见题材之一。
+参见[编辑]
+
+
+
+查询维基词典中的时间。
+
+
+
+时空
+时区
+时间旅行
+报时
+ISO 8601
+
+
+
+
+一些科学和艺术上的相关概念[编辑]
+
+时代错误
+各地日期和时间表示法
+网络时间协定 (NTP)
+物理哲学
+
+
+
+一些和时间有关的单位[编辑]
+
+财政年度
+半衰期
+季节
+时间单位
+UNIX时间
+
+
+
+
+参考文献[编辑]
+
+
+^ Oxford Dictionaries:Time. Oxford University Press. 2011 [18 December 2011]. the indefinite continued of existence and events in the past, present, and future regarded as a whole 
+^ Webster's New World College Dictionary. 2010 [9 April 2011]. 1.indefinite, unlimited duration in which things are considered as happening in the past, present, or future; every moment there has ever been or ever will be… a system of measuring duration 2.the period between two events or during which something exists, happens, or acts; measured or measurable interval 
+^ "Newton did for time what the Greek geometers did for space, idealized it into an exactly measurable dimension." About Time: Einstein's Unfinished Revolution, Paul Davies, p. 31, Simon & Schuster, 1996, ISBN 978-0-684-81822-1
+^ Sean M Carroll. From Eternity to Here: The Quest for the Ultimate Theory of Time. Dutton. 2009. ISBN 978-0-525-95133-9. 
+^ Official Baseball Rules, 2011 Edition. Rules 8.03 and 8.04 (Free PDF download). Major League Baseball. 2011 [7 July 2012]. Rule 8.03 Such preparatory pitches shall not consume more than one minute of time...Rule 8.04 When the bases are unoccupied, the pitcher shall deliver the ball to the batter within 12 seconds...The 12-second timing starts when the pitcher is in possession of the ball and the batter is in the box, alert to the pitcher. The timing stops when the pitcher releases the ball 
+^ Guinness Book of Baseball World Records. Guinness World Records, Ltd. [7 July 2012]. The record for the fastest time for circling the bases is 13.3 seconds, set by Evar Swanson at Columbus, Ohio in 1932...The greatest reliably recorded speed at which a baseball has been pitched is 100.9 mph by Lynn Nolan Ryan (California Angels) at Anaheim Stadium in California on 20 August 1974. 
+^ Zeigler, Kenneth. Getting organized at work : 24 lessons to set goals, establish priorities, and manage your time. McGraw-Hill. 2008. ISBN 9780071591386.  108 pages
+^ 引用错误：没有为名为DefRefs01的参考文献提供内容
+^ 引用错误：没有为名为Burnham的参考文献提供内容
+^ Cummings, Raymond King. The Girl in the Golden Atom. U of Nebraska Press. 1922: 46 [9 April 2011]. ISBN 978-0-8032-6457-1.  Chapter 5. Cummings repeated this sentence in several of his novellas. Sources, such as this one, attribute it to his earlier work, The Time Professor, in 1921. Before taking book form, several of Cummings's stories appeared serialized in magazines. The first eight chapters of his The Girl in the Golden Atom appeared in All-Story Magazine on 15 March 1919. In the novel version the quote about time appears in Chapter V.
+^ International, Rotary. The Rotarian. Published by Rotary International: 47. Aug 1973 [9 April 2011]. ISSN 0035-838X. , What does a man possess? page 47
+^ Daintith, John. Biographical Encyclopedia of Scientists third. CRC Press. 2008: 796 [9 April 2011]. ISBN 1-4200-7271-4. , Page 796, quoting Wheeler from the American Journal of Physics, 1978
+^ Davies, Davies. About time: Einstein's unfinished revolution. Simon & Schuster. 1995: 236 [9 April 2011]. ISBN 0-671-79964-9. 
+^ 爱因斯坦曾说：“跟一个漂亮女孩并坐两小时，你会觉得那只是两分钟，叫你坐在热炉上坐两分钟，你会觉得那是两小时，这就是相对论。”见勒范恩﹙Robert Levine﹚著、冯克芸等译：《时间地图》，台北：台湾商务印书馆，1997年，第40页
+^ Leap Seconds. Time Service Department, United States Naval Observatory. [2006-12-31]. 
+^ Markosian, Ned. Time. (编) Edward N. Zalta. The Stanford Encyclopedia of Philosophy (Winter 2002 Edition). [23 September 2011]. The opposing view, normally referred to either as “Platonism with Respect to Time” or as “Absolutism with Respect to Time,” has been defended by Plato, Newton, and others. On this view, time is like an empty container into which events may be placed; but it is a container that exists independently of whether or not anything is placed in it. 
+^ Navratil, Gerhard. Research Trends in Geographic Information Science. Springer Japan. 2009: 217 [9 April 2011]. ISBN 3-540-88243-X. 
+^ Mattey, G. J. : UC Davis. Critique of Pure Reason, Lecture notes: Philosophy 175 UC Davis. 22 January 1997 [9 April 2011]. （原始内容存档于2005年3月14日）. What is correct in the Leibnizian view was its anti-metaphysical stance. Space and time do not exist in and of themselves, but in some sense are the product of the way we represent things. The[y] are ideal, though not in the sense in which Leibniz thought they are ideal (figments of the imagination). The ideality of space is its mind-dependence: it is only a condition of sensibility.... Kant concluded "absolute space is not an object of outer sensation; it is rather a fundamental concept which first of all makes possible all such outer sensation."...Much of the argumentation pertaining to space is applicable, mutatis mutandis, to time, so I will not rehearse the arguments. As space is the form of outer intuition, so time is the form of inner intuition.... Kant claimed that time is real, it is "the real form of inner intuition." 
+^ McCormick, Matt : California State University, Sacramento. Immanuel Kant (1724–1804) Metaphysics: 4. Kant's Transcendental Idealism. The Internet Encyclopedia of Philosophy. 2006 [9 April 2011]. Time, Kant argues, is also necessary as a form or condition of our intuitions of objects. The idea of time itself cannot be gathered from experience because succession and simultaneity of objects, the phenomena that would indicate the passage of time, would be impossible to represent if we did not already possess the capacity to represent objects in time.... Another way to put the point is to say that the fact that the mind of the knower makes the a priori contribution does not mean that space and time or the categories are mere figments of the imagination. Kant is an empirical realist about the world we experience; we can know objects as they appear to us. He gives a robust defense of science and the study of the natural world from his argument about the mind's role in making nature. All discursive, rational beings must conceive of the physical world as spatially and temporally unified, he argues. 
+
+
+外部链接[编辑]
+
+倪梁康：〈纵意向性：时间．发生．历史〉（2010）
+黄俊杰：〈传统中国历史思想中的“时间”与“超时间”概念〉
+时间科普网站（中国）
+时间与频率国家标准实验室（台湾全国性时频追溯体系）
+北京区时间网
+国家地理频道专题影片《超乎想像的宇宙-时间扭曲》
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+经典力学
+
+
+
+
+
+
+表述形式
+
+矢量力学 · 分析力学（拉格朗日力学 · 哈密顿力学）
+
+
+
+
+
+
+基础概念
+
+空间 · 时间 · 速度 · 加速度 · 质量 · 引力 · 力矩 · 参考系 · 力 · 力偶 · 冲量 · 动量 · 刚体 · 角动量 · 惯性 · 转动惯量 · 能量 · 动能 · 位能 · 虚功 · 作用量 · 拉格朗日量 · 哈密顿量 · 功
+
+
+
+
+
+
+重要理论
+
+牛顿运动定律 · 胡克定律 · 牛顿万有引力定律 · 简谐运动 · 达朗贝尔原理 · 欧拉方程式 · 哈密顿原理 · 拉格朗日方程式 · 最小作用量原理
+
+
+
+
+
+
+应用
+
+简单机械 · 斜面 · 杠杆 · 滑轮 · 螺旋 · 楔子 · 轮轴
+
+
+
+
+
+
+科学史
+
+发展史 · 开普勒 · 牛顿 · 欧拉 · 达朗贝尔 · 哈密顿 · 赫兹 · 拉格朗日 · 拉普拉斯 · 伽利略 · 雅可比 · 诺特
+
+
+
+
+
+
+分支
+
+静力学 · 动力学 · 运动学 · 工程力学 · 天体力学 · 连续介质力学 · 统计力学
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+时间
+
+
+
+
+
+
+主要概念
+
+
+
+过去
+
+历史
+地质时间（英语：deep time）
+
+
+现在
+未来
+未来学
+宗教中的遥远未来（英语：Far future in religion）
+科幻及流行文化中的遥远未来（英语：Far future in science fiction and popular culture）
+遥远未来的时间线
+永恒
+Eternity of the world（英语：Eternity of the world）
+
+
+
+
+
+
+
+
+测量及标准
+
+
+
+
+计时法（英语：Chronometry）
+
+
+
+协调世界时
+世界时
+原子时
+时间单位
+普朗克时间
+秒
+分钟
+小时
+日
+星期
+月
+季节
+年
+年代
+世纪
+千纪
+回归年
+恒星年
+Samvatsara（英语：Samvatsara）
+
+
+
+
+
+
+
+
+计量单位制
+
+
+
+时区
+六小时制（英语：Six-hour clock）
+十二小时制
+二十四小时制
+夏时制
+太阳日
+恒星时
+Metric time（英语：Metric time）
+十进时
+Hexadecimal time（英语：Hexadecimal time）
+
+
+
+
+
+
+
+
+历法
+
+
+
+公历
+儒略历
+希伯来历
+伊斯兰历
+阴历
+Solar Hijri（英语：Solar Hijri calendar）
+玛雅历
+置闰
+闰秒
+闰年
+
+
+
+
+
+
+
+
+
+
+
+时钟
+
+
+
+测时法（英语：Horology）
+计时工具的历史
+时钟
+
+astrarium（英语：astrarium）
+原子钟
+
+quantum（英语：Quantum clock）
+
+
+marine（英语：Marine chronometer）
+日晷
+sundial markup schema（英语：Schema for horizontal dials）
+手表
+水钟
+
+
+
+
+
+
+
+
+
+
+
+
+
+年代学
+历史
+
+
+
+
+
+
+Astronomical chronology（英语：Astronomical chronology）
+大历史
+纪年
+年代记
+地质时间（英语：Deep time）
+历史分期
+帝王纪年
+时间轴
+
+
+
+
+
+
+
+
+
+
+
+宗教
+神话
+
+
+
+
+
+
+Dreamtime（英语：Dreamtime）
+卡拉 (梵文)
+时轮
+预言
+Time and fate deities（英语：Time and fate deities）
+时间之轮（英语：Wheel of time）
+长生不老
+
+
+
+
+
+
+
+
+时间的哲学（英语：Philosophy of space and time）
+
+
+
+A系列与B系列
+时间的B理论
+因果关系
+Duration（英语：Duration (philosophy)）
+持续论
+永恒轮回
+Eternalism（英语：Eternalism (philosophy of time)）
+事件 (哲学)
+多时间维度
+接续论
+Presentism（英语：Philosophical presentism）
+Static interpretation of time（英语：Static interpretation of time）
+Temporal finitism（英语：Temporal finitism）
+Temporal parts（英语：Temporal parts）
+时间的不实在性
+
+
+
+
+
+
+
+
+人类的经验
+时间的使用
+
+
+
+Accounting period（英语：Accounting period）
+Chronemics（英语：Chronemics）
+财政年度
+Generation time（英语：Generation time）
+心理测时法
+Music（英语：Duration (music)）
+延宕
+Punctuality（英语：Punctuality）
+时间数据库
+Term（英语：Term (time)）
+Time discipline（英语：Time discipline）
+时间管理
+时间知觉
+
+Specious present（英语：Specious present）
+
+
+Time-tracking software（英语：Time-tracking software）
+Time-use research（英语：Time-use research）
+时间银行
+金钱的时间价值
+打卡机
+出勤卡
+昨天 – 现在 – 明天
+
+
+
+
+
+
+
+
+Time in
+
+
+
+
+地质学
+
+
+
+地质年代
+
+期 (地质学)
+chron（英语：Chronozone）
+地质年代
+世 (地质学)
+代 (地质学)
+纪 (地质学)
+
+
+地质年代学
+Geological history of Earth（英语：Geological history of Earth）
+
+
+
+
+
+
+
+
+物理（英语：Time in physics）
+
+
+
+绝对时空
+时间箭头
+Chronon（英语：Chronon）
+Coordinate time（英语：Coordinate time）
+虚时间
+普朗克单位制
+普朗克时间
+原时
+Rate（英语：Rate (mathematics)）
+时空
+相对论
+时间膨胀
+
+引力时间膨胀
+
+
+时域
+Time translation symmetry（英语：Time translation symmetry）
+时间反演对称
+
+
+
+
+
+
+
+
+其他学科领域
+
+
+
+Chronological dating（英语：Chronological dating）
+时间生物学
+昼夜节律
+Dating methodologies in archaeology（英语：Dating methodologies in archaeology）
+时间地理学
+
+
+
+
+
+
+
+
+
+
+
+相关主题
+
+
+
+活在当下
+Clock position（英语：Clock position）
+空间
+系统时间
+Tempus fugit（英语：Tempus fugit）
+时间囊
+时间复杂度
+拍号
+时间旅行
+
+
+
+
+
+
+
+
+
+
+
+ 时间主题
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+时间测量和标准
+
+
+
+
+
+
+主要科目
+
+时间 · 计时学 · 数量级 · 度量衡学
+
+
+
+
+
+
+国际标准
+
+UTC · UTC偏移量 · UT · DUT1 · IERS · ISO 31-1 · ISO 8601 · TAI · 十二小时制 · 二十四小时制 · 质心座标时 · 民用时 · 日光节约时间 · 地心座标时 · 国际换日线 · 闰秒 · 太阳时 · 地球时 · 时区
+
+
+
+
+
+
+废弃的标准
+
+质心力学时 · 历书时 · 格林尼治平时 · 本初子午线
+
+
+
+
+
+
+物理学时间
+
+绝对时空 · 时空 · 时元 · 连续时间 · 座标时 · Cosmological decade · 离散时间 · 普朗克时期 · 普朗克时间 · 原时 · 相对论 · 时间膨胀 · 引力时间膨胀 · 时域 · T-symmetry
+
+
+
+
+
+
+测时法
+
+时钟 · Astrarium · 原子钟 · Complication · 均时差 · 计时工具的历史 · 沙漏 · 船用精确时计 · Marine sandglass · 电波时计 · 日晷 · 手表 · 水钟
+
+
+
+
+
+
+历法
+
+天文计年 · 星期的计算 · 主日字母 · 闰余 · 分点 · 格勒哥里历 · 置闰 · 回历 · 儒略历 · 闰年 · 阴历 · 阴阳历 · Seven-day week · 阳历 · 至点 · 回归年 · 星期中的日子
+
+
+
+
+
+
+考古学和地质学
+
+Dating methodologies · 地质年代 · 国际地层委员会
+
+
+
+
+
+
+天文年表
+
+银河年 · 核时标 · 岁差 · 恒星时
+
+
+
+
+
+
+时间单位
+
+世纪 · 日 · 年代 · 节气 · 时 · 瞬间 · 五年时间 · 千纪 · 分 · 月 · 现在 · 秒 · Shake · Tide · 星期 · 年
+
+
+
+
+
+
+相关主题
+
+年代学 · Duration · 心理测时法 · Metric time · 系统时间 · 金钱的时间价值 · 计时器
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+国际单位
+
+
+
+
+
+
+基本单位
+
+
+
+秒
+米
+千克
+开尔文
+安培
+坎德拉
+摩尔
+
+
+
+
+
+
+
+
+
+
+
+导出单位
+
+
+
+赫茲
+弧度
+球面度
+牛顿
+帕斯卡
+焦耳
+瓦特
+库仑
+伏特
+欧姆
+法拉
+西门子
+韦伯
+特斯拉
+亨利
+摄氏度
+流明
+勒克斯
+贝克勒尔
+戈瑞
+希沃特
+开特
+
+
+
+
+
+
+
+
+可并用单位
+
+
+
+天文单位
+吨
+原子质量单位
+升
+分
+小时
+天
+度
+角分
+角秒
+电子伏
+分贝
+公顷
+奈培
+原子单位
+自然单位
+
+
+
+
+
+
+
+
+参阅
+
+
+
+计量单位
+单位换算
+国际单位制词头
+
+
+
+
+
+
+
+
+
+
+
+ 分类:国际单位制基本单位
+分类:国际单位制导出单位
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+历法（列表）
+
+
+
+
+
+
+历法种类
+
+阳历 · 阴历 · 阴阳历
+
+
+
+
+
+
+广泛使用
+
+天文计年 · 农历 · 公历 · ISO 8601
+
+
+
+
+
+
+区域使用
+
+
+
+
+
+阿坎族历 · 亚述历 · 亚美尼亚历 · 阿兹特克历：（阿兹特克神圣历 · 阿兹特克太阳历） · 巴比伦历 · 巴哈伊历 · 峇里岛历法：（峇里葩乌空历 · 峇里萨卡历） · 柏柏尔历 · 道历 · 佛历 · 伊斯兰历 · 保加尔历 · 拜占庭历 · 塞尔特历 · 科普特历 · 埃塞俄比亚历 · 格鲁吉亚历 · 希腊历 · 伊博族历 · 印加历 · 印度历法：（印度国定历 · 孟加拉历 · 希伯来历 · 法斯利历 · 印度历 · 耆那教历 · 马拉雅拉姆历 · 泰米尔历 · 维克拉姆历） · 伊朗历法：（琐罗亚斯德教历 · 伊朗历 · 太阳回历） · 盖尔历 · 日本历 · 爪哇历 · 库尔德历 · 立陶宛历 · 玛雅历法：（哈布历 · 卓尔金历） · 锡克哪哪克沙希历 · 尼瓦历 · 五旬节历 · 拉帕努伊历 · 达悟夜历 · 泰国历（泰国小历 · 泰国阳历） · 越南历 · 科萨历 · 约鲁巴历 · 敦煌历 · 蒙历 · 藏历 · 傣历 · 缅历 · 彝历
+
+
+
+
+
+
+
+特殊历法种类
+
+
+虑恩历法 · 中美洲历法：（长纪历 · 历法循环）
+
+
+
+
+
+
+
+
+
+停用历法
+
+古埃及历法 · 法国共和历 · 日耳曼历 · 罗马历 · 鲁米历 · 苏维埃革命历 · 瑞典历 · 土库曼历 · 圣人历 · 东正教礼仪历 · 教会年历 · 儒略改革历
+
+
+
+
+
+
+历史学用历法
+
+前儒略历 · 前格里历 · 儒略历
+
+
+
+
+
+
+人类学用历法
+
+全新世纪年
+
+
+
+
+
+
+另类历法
+
+不调和教历（Discordian calendar）
+
+
+
+
+
+
+新世纪运动历法
+
+梦语历（Dreamspell calendar）
+
+
+
+
+
+
+改革历法
+
+世界历 · 十三月历 · 闰周历 · ISO周日历
+
+
+
+
+
+
+火星用历法
+
+大流士火星历
+
+
+
+
+
+
+虚构历法
+
+中土历（《魔戒》） · 星历（《星际奇航记》） · 噩尽历（《噩尽岛》）  · 银河标准历（《星球大战》）
+
+
+
+
+
+
+历法呈现与应用
+
+万年历 · 历 (用品)
+
+
+
+
+
+
+编年方法
+
+纪年 · 0年 · 距今 · 公元纪年 · 人类纪年 · 民国纪年 · 黄帝纪元 · 檀君纪元 · 皇纪 · 岁星纪年 · 太岁纪年 · 干支（天干 · 地支） · 火空海 · 绕迥 · 佛历纪年 · 孔子纪年 · 成吉思汗纪年 · 帝王纪年 · 年号 · 罗马建城纪年 · 塞琉古纪年 · 世界纪元 · 塞种纪年 · 主体历 · 韩国历
+
+
+
+
+
+
+其他
+
+代日韵目 · 主日字母
+
+
+
+
+
+
+
+参见：历法、授时与时间相关主题
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4067461-7
+
+
+
+
+
+
+
+
+
+
+
+
+分类：历法时间物理量度量日语借词国际单位制基本量时空隐藏分类：有参考文献错误的页面使用ISBN魔术链接的页面自2015年8月维基百科来源清理自2015年8月可能带有原创研究的条目拒绝当选首页新条目推荐栏目的条目自2015年8月需要从外语维基百科翻译的条目需要从外语维基百科翻译的条目含有多个问题的条目有未列明来源语句的条目含有英语的条目包含规范控制信息的维基百科条目

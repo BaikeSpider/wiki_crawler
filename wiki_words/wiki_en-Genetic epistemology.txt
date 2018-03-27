@@ -1,0 +1,591 @@
+Genetic epistemology
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (October 2010) (Learn how and when to remove this template message)
+
+
+
+
+
+Part of a series on
+
+
+Psychology
+
+
+
+
+
+
+
+Outline
+History
+Subfields
+
+
+
+
+
+
+Basic types
+
+
+Abnormal
+Behavioral genetics
+Biological
+Cognitive/Cognitivism
+Comparative
+Cross-cultural
+Cultural
+Differential
+Developmental
+Evolutionary
+Experimental
+Mathematical
+Neuropsychology
+Personality
+Positive
+Quantitative
+Social
+
+
+
+
+
+
+
+
+Applied psychology
+
+
+Applied behavior analysis
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Environmental
+Ergonomics
+Forensic
+Health
+Humanistic
+Industrial and organizational
+Legal
+Medical
+Military
+Music
+Occupational health
+Political
+Religion
+School
+Sport
+Traffic
+
+
+
+
+
+
+
+
+Lists
+
+
+Disciplines
+Organizations
+Psychologists
+Psychotherapies
+Publications
+Research methods
+Theories
+Timeline
+Topics
+
+
+
+
+
+
+
+
+ Psychology portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Genetic epistemology or 'developmental theory of knowledge' is a study of the origins (genesis) of knowledge (epistemology) established by Jean Piaget.
+
+
+
+Contents
+
+
+1 Aims
+2 Piaget's schema theory
+3 Types of knowledge
+4 See also
+5 Notes
+6 References
+
+
+
+Aims[edit]
+The goal of genetic epistemology is to link the validity of knowledge to the model of its construction. It shows that how the knowledge was gained affects how valid it is. For example, our experience of gravity makes our knowledge of it more valid than our theory about black holes. Genetic epistemology also explains the process of how people develop cognitively from birth throughout their lives in four primary stages: sensorimotor (birth to age 2), pre-operational (2-7), concrete operational (7-11), and formal operational (11 years onward). The main focus is on the younger years of development. Assimilation occurs when the perception of a new event or object occurs to the learner in an existing schema and is usually used in the context of self-motivation. In Accommodation, one accommodates the experiences according to the outcome of the tasks. The highest form of development is equilibration. Equilibration encompasses both assimilation and accommodation as the learner changes how they think to get a better answer. This is the upper level of development.
+Piaget believed that knowledge is a biological function that results from the actions of an individual through change. He also stated that knowledge consists of structures, and comes about by the adaptation of these structures with the environment.
+Piaget's genetic epistemology is halfway between formal logic and dialectical logic. Piaget's epistemology is midway between objective idealism and materialism.
+Piaget's schema theory[edit]
+
+Thought passes through a series of stages of development; at each stage there applies formal logic at a specific stage of differentiation which may be characterized by an algebra in which exactly such-and-such a mathematical structure applies, corresponding to the axioms of logic at that stage; this logic is manifested first in actions, then at a relatively early stage in sensorimotor operations (in the specific mathematical sense of the word, as opposed to "actions" which are equivalent to relations but not yet mathematical operations), and finally in operations which express thoughts, conscious purposive activity.
+The material basis for transition from sensorimotor intelligence to representation and from representation to conceptual thought is the interiorisation of practical activity.
+The successive stages of concepts manifested in child development imply relations of deduction in mathematical logic and in the development of thinking in other planes of development, such as in the history of science and the history of knowledge in the anthropological domain.[1]
+
+Piaget draws on the full range of contemporary mathematical knowledge, a vast empirical base of observation of the learning of very young children built up at his institute and reports of observations of older children and a general knowledge of the development of knowledge in history.
+(1) From the standpoint of dialectical logic, we must agree that at each stage of development, at each "definition of the Absolute" in Hegel's terminology, formal logic is applicable. Piaget's proof of this is striking, and his demonstration of how the stages of development in child thought pass through a specific series which is deductive in a specific sense from the standpoint of mathematics is original and profound.
+However, from the standpoint of understanding development (and this is Piaget's standpoint), what is important is not the definition of each stage but the transition from one to the next; and for this it is necessary to demonstrate the internal contradiction within the logic of that plane.
+Since Piaget draws on mathematical logic more developed than what was known to Hegel, it will be necessary to investigate these structures to see if this speculative proposition proves to be valid.
+(2) The concept of interiorisation is indeed the basis of the materialist view of the development of thought. However, Piaget, as a professional child-psychologist falls prey to the objective idealism of any professional, of elevating the subject matter of his particular profession from being an aspect of the material world to being its master. [The charge of objective idealism is qualified, for Piaget is quite unambiguous that relations conceived of in thought exist objectively in the material world].
+Thus, since his body of authoritative empirical work is in relation to early childhood development, he imposes the schema appropriate to this semi-human subject on to adolescent development, speculates on its possible reflection in anthropological development and confounds it with the history of development of science and philosophy. I say "confounds" because Piaget is aware that his schemas do not seem to apply in this domain. In this sense, the charge of objective idealism would seem unfair, but from confounding he does not go further and seek the implication of this lack of correspondence, but seeks to minimize it.
+By focusing on early childhood (as indeed he must; that is his profession, and his institute has contributed a vast body of empirical material), Piaget sees what is biologically (zoologically?) human but not what is socially (historically) human, and humanity is essentially social, after all.
+(3) On the plus side, it has to be said that Piaget deals once and for all with any idea of innate intelligence, and makes fully convincing the prospect of a fully genetic (i.e. developmental) elaboration of intelligence, assuming only animal instincts such as grasping and sucking and sensorimotor "equipment" capable of reflecting highly developed relations. A weakness in Piaget's theory could be that there isn't proof in how one transitions from one stage to the next. Can someone progress from one stage forward, but revert backwards, and then move forward again?
+Types of knowledge[edit]
+Piaget proposes three types of knowledge: physical, logical mathematical, and social knowledge.
+Physical knowledge: It refers to knowledge related to objects in the world, which can be acquired through perceptual properties. The acquisition of physical knowledge has been equated with learning in Piaget's theory (Gruber and Voneche, 1995). In other words, thought is fit directly to experience.
+
+"Piaget also called his view constructivism, because he firmly believed that knowledge acquisition is a process of continuous self-construction. That is, Knowledge is not out there, external to the child and waiting to be discovered. But neither is it wholly performed within the child, ready to emerge as the child develops with the world surrounding her ... Piaget believed that children actively approach their environments and acquire knowledge through their actions."[2]
+
+
+"Piaget distinguished among three types of knowledge that children acquire: Physical, logical-mathematical, and social knowledge. Physical knowledge, also called empirical knowledge, has to do with knowledge about objects in the world, which can be gained through their perceptual properties... Logical-Mathematical knowledge is abstract and must be invented, but through actions on objects that are fundamentally different from those actions enabling physical knowledge.... Social Knowledge is culture-specific and can be learned only from other people within one's cultural group."[citation needed]
+
+See also[edit]
+
+Constructivist epistemology
+Educational psychology
+Evolutionary epistemology
+General semantics
+Genetic structuralism
+Learning styles
+Learning theory
+Ontogeny recapitulates phylogeny
+Theory of cognitive development
+
+Notes[edit]
+
+
+
+^ "Genetic Epistemology" by Jean Piaget (1968)
+^ Driscoll, Marcy P. (2005). Psychology of learning for instruction. Boston, MA: Pearson Allyn and Bacon. p. 191. ISBN 0-205-37519-7. 
+
+
+
+References[edit]
+
+Driscoll, Marcy Perkins (1994). "6". In Arnis Burvikovs. Psychology of Learning for Instruction (3rd ed.). Boston: Pearson Education, Inc. pp. 190–216. ISBN 0-205-37519-7. 
+Berly A. Geber, ed. (1977). Piaget and Knowing Studies in Genetic Epistemology (3rd ed.). London: Routledge & Kegan Paul Ltd. pp. 13–16. ISBN 0-7100-8500-1. 
+Vuyk, Rita (1981). "3". In Arnis Burvikovs. Overview and Critique of Piaget's Genetic Epistemology, 1965-1980, Volume 1 (1st ed.). London: Academic Press Inc. p. 26. ISBN 0-12-728501-6. 
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychology
+
+
+
+
+
+
+History
+Philosophy
+Portal
+Psychologist
+
+
+
+
+
+Basic psychology
+
+
+
+Abnormal
+Affective science
+Affective neuroscience
+Behavioral genetics
+Behavioral neuroscience
+Behaviorism
+Cognitive/Cognitivism
+Cognitive neuroscience
+Comparative
+Cross-cultural
+Cultural
+Developmental
+Differential
+Ecological
+Evolutionary
+Experimental
+Gestalt
+Intelligence
+Mathematical
+Neuropsychology
+Personality
+Positive
+Psycholinguistics
+Psychophysics
+Psychophysiology
+Quantitative
+Social
+Theoretical
+
+
+
+
+
+Applied psychology
+
+
+
+Anomalistic
+Applied behavior analysis
+Assessment
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Ergonomics
+Feminist
+Forensic
+Health
+Industrial and organizational
+Legal
+Media
+Military
+Music
+Occupational health
+Pastoral
+Political
+Psychometrics
+Psychotherapy
+Religion
+School
+Sport and exercise
+Suicidology
+Systems
+Traffic
+
+
+
+
+
+Methodologies
+
+
+
+Animal testing
+Archival research
+Behavior epigenetics
+Case study
+Content analysis
+Experiments
+Human subject research
+Interviews
+Neuroimaging
+Observation
+Qualitative research
+Quantitative research
+Self-report inventory
+Statistical surveys
+
+
+
+
+
+
+Psychologists
+
+
+
+
+William James (1842–1910)
+Ivan Pavlov (1849–1936)
+Sigmund Freud (1856–1939)
+Edward Thorndike (1874–1949)
+Carl Jung (1875–1961)
+John B. Watson (1878–1958)
+Clark L. Hull (1884–1952)
+Kurt Lewin (1890–1947)
+Jean Piaget (1896–1980)
+Gordon Allport (1897–1967)
+J. P. Guilford (1897–1987)
+Carl Rogers (1902–1987)
+Erik Erikson (1902–1994)
+B. F. Skinner (1904–1990)
+Donald O. Hebb (1904–1985)
+Ernest Hilgard (1904–2001)
+Harry Harlow (1905–1981)
+Raymond Cattell (1905–1998)
+Abraham Maslow (1908–1970)
+Neal E. Miller (1909–2002)
+Jerome Bruner (1915–2016)
+Donald T. Campbell (1916–1996)
+Hans Eysenck (1916–1997)
+Herbert A. Simon (1916–2001)
+David McClelland (1917–1998)
+Leon Festinger (1919–1989)
+George Armitage Miller (1920–2012)
+Richard Lazarus (1922–2002)
+Stanley Schachter (1922–1997)
+Robert Zajonc (1923–2008)
+Albert Bandura (b. 1925)
+Roger Brown (1925–1997)
+Endel Tulving (b. 1927)
+Lawrence Kohlberg (1927–1987)
+Noam Chomsky (b. 1928)
+Ulric Neisser (1928–2012)
+Jerome Kagan (b. 1929)
+Walter Mischel (b. 1930)
+Elliot Aronson (b. 1932)
+Daniel Kahneman (b. 1934)
+Paul Ekman (b. 1934)
+Michael Posner (b. 1936)
+Amos Tversky (1937–1996)
+Bruce McEwen (b. 1938)
+Larry Squire (b. 1941)
+Richard E. Nisbett (b. 1941)
+Martin Seligman (b. 1942)
+Ed Diener (b. 1946)
+Shelley E. Taylor (b. 1946)
+John Anderson (b. 1947)
+Ronald C. Kessler (b. 1947)
+Joseph E. LeDoux (b. 1949)
+Richard Davidson (b. 1951)
+Susan Fiske (b. 1952)
+Roy Baumeister (b. 1953)
+
+
+
+
+
+Lists
+
+
+
+Counseling topics
+Disciplines
+Important publications
+Organizations
+Outline
+Psychologists
+Psychotherapies
+Research methods
+Schools of thought
+Timeline
+Topics
+
+
+
+
+
+
+
+
+Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+Categories: Developmental psychologyEducational psychologyHistory of psychologyEpistemologyHidden categories: Articles lacking in-text citations from October 2010All articles lacking in-text citationsAll articles with unsourced statementsArticles with unsourced statements from December 2014

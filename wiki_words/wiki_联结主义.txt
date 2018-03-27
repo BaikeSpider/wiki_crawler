@@ -1,0 +1,252 @@
+联结主义
+
+
+
+
+
+本条目可参照英语维基百科相应条目来扩充。 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+联结主义是统合了认知心理学、人工智能和心理哲学领域的一种理论。联结主义建立了心理或行为现象模型的显现模型—单纯元件的互相连结网络。联结主义有许多不同的形式，但最常见的形式利用了神经网络模型。
+
+
+
+目录
+
+
+1 基本原则
+
+1.1 传递激活
+1.2 神经网络
+1.3 生物现实主义
+1.4 学习
+
+
+2 历史
+
+2.1 分布式并行处理（PDP）
+2.2 早期工作
+2.3 PDP以外的联结主义
+
+
+3 联结主义与计算主义之争
+4 参见
+5 参考文献
+6 外部链接
+
+
+
+基本原则[编辑]
+联结主义的中心原则是用简单单位的互联网络描述心理现象。联结的形式和单位可以从模型到模型修改。例如，网络的单位可以描述神经元，联结可以描述突触。另一个模型网络中每个单位用一个词表示，每个联结用一个语义类似的词表示。
+传递激活[编辑]
+神经网络[编辑]
+主条目：神经网络
+神经网络是今天联结主义模型的主导形式。
+生物现实主义[编辑]
+联结主义的神经网络分支认为心理活动研究其实就是神经系统研究。这将联结主义与神经科学联系起来,
+学习[编辑]
+联结主义通常在它们的模型中强调学习的重要性。
+历史[编辑]
+联结主义可以追溯到1个多世纪以前。联结主义观念在20世纪中后期之前很盛行。1980年代以后联结主义又被科学家广泛接受。
+分布式并行处理（PDP）[编辑]
+当时的联结理论，最初被称为分布式并行处理（PDP），这种神经网络理论，着重于强调神经处理的并行特性，以及神经表征的分布特性。
+PDP提供了一个通用的数学框架供研究者进行操作，主要包括八个方面：
+这八个方面指导了几乎所有联结主义模型。
+早期工作[编辑]
+PDP的直接根源是1950和1960年代弗兰克·罗森布拉特（Frank Rosenblatt）等人的感知机理论。但自从1969年马文·明斯基和西摩·佩伯特（Seymour Papert）发表了一本名为《感知机》的书以后，感知机（perceptron）模型就变得非常不得人心。明斯基和佩伯特通篇详述了感知机计算功能的局限性。显示甚至无法执行如异或问题（exclusive disjunction，如判断这是苹果还是桔子，但不是二者皆是）这样的简单功能（明斯基后来承认做得过分了）。PDP书克服了这些早期局限性
+PDP以外的联结主义[编辑]
+尽管PDP是联结主义的dominant形式，其他理论家的工作也可归类到联结主义。
+联结主义的许多原则可以追溯到心理学的早期工作，如威廉·詹姆士的工作, 尽管 必须指出心理学理论19世纪末对人脑的了解非常时髦。早在1869年，
+联结主义与计算主义之争[编辑]
+1980年代末，联结主义迅速变得流行，有一些研究者就起来反对联结主义，包括杰瑞·福多和Steven Pinker等许多人。这些理论家质疑当时发展起来的联结主义，是危险的
+参见[编辑]
+
+人工神经网络
+行为主义
+生物神经网络
+控制论
+Eliminative materialism（英语：Eliminative materialism）
+自组织映射
+
+参考文献[编辑]
+
+
+大卫·鲁梅尔哈特（Rumelhart, D.E.）、詹姆斯·麦克莱（J.L. McClelland）和PDP研究小组(1986)：平行分布式处理: Explorations in the Microstructure of Cognition.第1册: Foundations，Cambridge, MA: MIT Press
+詹姆斯·麦克莱（McClelland, J.L.）、大卫·鲁梅尔哈特（D.E. Rumelhart）和PDP研究小组(1986)：平行分布式处理: Explorations in the Microstructure of Cognition.第2册:心理和生物模型，Cambridge，MA: MIT Press
+Pinker, Steven and Mehler, Jacques (1988). 联结和Symbols, Cambridge MA: MIT Press.
+Jeffrey L. Elman, Elizabeth A. Bates, Mark H.Johnson, Annette Karmiloff-Smith, Domenico Parisi, Kim Plunkett (1996). Rethinking Innateness: A 联结主义 perspective on development，Cambridge MA: MIT Press.
+Marcus, Gary F. (2001). The Algebraic Mind: Integrating 联结主义和认知科学(学习、发展和Conceptual Change), Cambridge, MA: MIT Press
+
+
+外部链接[编辑]
+
+联结主义简史[失效链接]
+Dictionary of Philosophy of Mind entry on connectionism
+Stanford Encyclopedia of Philosophy entry on 联结主义
+A demonstration of Interactive Activation and Competition Networks
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+第二语言习得（大纲）
+
+
+
+
+
+
+学习者
+
+
+
+多语制
+Heritage language（英语：Heritage language）
+Multi-competence（英语：Multi-competence）
+
+
+
+
+
+
+
+
+学习者语言
+
+
+
+Contrastive analysis（英语：Contrastive analysis）
+Contrastive rhetoric（英语：Contrastive rhetoric）
+Error (linguistics)（英语：Error (linguistics)）
+Error analysis (linguistics)（英语：Error analysis (linguistics)）
+Error treatment (linguistics)（英语：Error treatment (linguistics)）
+Interlanguage fossilization（英语：Interlanguage fossilization）
+中介语
+Silent period（英语：Silent period）
+
+
+
+
+
+
+
+
+语言因素
+
+
+
+语言移转
+Linguistic universals（英语：Linguistic universals）
+Word lists by frequency（英语：Word lists by frequency）
+
+
+
+
+
+
+
+
+个体差异
+
+
+
+Language-learning aptitude（英语：Language-learning aptitude）
+关键期假设
+Motivation in second language learning（英语：Motivation in second language learning）
+Willingness to communicate（英语：Willingness to communicate）
+Foreign language anxiety（英语：Foreign language anxiety）
+Metalinguistic awareness（英语：Metalinguistic awareness）
+
+
+
+
+
+
+
+
+策略
+
+
+
+Language learning strategies（英语：Language learning strategies）
+Communication strategies in second language acquisition（英语：Communication strategies in second language acquisition）
+语码转换
+Good language learner studies（英语：Good language learner studies）
+
+
+
+
+
+
+
+
+SLA理论
+
+
+
+Skill-based theories of second-language acquisition（英语：Skill-based theories of second-language acquisition）
+Order of acquisition（英语：Order of acquisition）
+Input hypothesis（英语：Input hypothesis）
+Interaction hypothesis（英语：Interaction hypothesis）
+Comprehensible output（英语：Comprehensible output）
+Competition model（英语：Competition model）
+联结主义
+Noticing hypothesis（英语：Noticing hypothesis）
+Processability theory（英语：Processability theory）
+Interface hypothesis（英语：Interface hypothesis）
+Interface position（英语：Interface position）
+Generative second-language acquisition（英语：Generative second-language acquisition）
+
+
+
+
+
+
+
+
+课堂
+
+
+
+Focus on form（英语：Focus on form）
+Input enhancement（英语：Input enhancement）
+
+
+
+
+
+
+
+
+能力测试
+
+
+
+Modern Language Aptitude Test（英语：Modern Language Aptitude Test）
+Defense Language Aptitude Battery（英语：Defense Language Aptitude Battery）
+Pimsleur Language Aptitude Battery（英语：Pimsleur Language Aptitude Battery）
+CANAL-F（英语：CANAL-F）
+
+
+
+
+
+
+
+
+Template:Cybernetics
+
+
+
+
+分类：认知心理学学习主义涌现隐藏分类：需要从英语维基百科翻译的条目带有失效链接的条目条目有永久失效的外部链接

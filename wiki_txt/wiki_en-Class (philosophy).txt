@@ -1,0 +1,2 @@
+Class (philosophy)
+In at least one source,[1] a "class" is a set in which an individual member can be recognized in one or both of two ways: a) it is included in an extensional definition of the whole set (a list of set members) b) it matches an Intensional definition of one set member. By contrast, a "type" is an intensional definition; it is a description that is sufficiently generalized to fit every member of a set.

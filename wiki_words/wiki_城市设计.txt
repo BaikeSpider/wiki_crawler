@@ -1,0 +1,1034 @@
+城市设计
+
+
+设计主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+迪拜的城市设计模型，城市设计可以视同城市规划的细节执行层面，能精密到单一建筑的设计。
+
+
+城市设计（又称城市设计[1]，英文Urban Design）的具体定义在建筑界和规划界众说纷纭，通常是指以城市作为研究对象的设计工作，介于城市规划、景观建筑与建筑设计之间的一种设计。相对于城市规划的抽象性和数据化，城市设计更具有具体性和图形化；但是，因为二十世纪中叶以后实务上的城市设计多半是为景观设计或建筑设计提供指导、参考架构，因而与具体的景观设计或建筑设计有所区别。
+城市设计--为城市而设计--在人类历史上一直是众多空间专业者的重要工作课题。但是，一直到1950年代，欧美国家大学中才开始广泛地成立相关学程，城市设计师（英语：Urban Designer），这门专业与城市设计这门领域，才成为新名词而开始普遍地为世人所认知。[2]
+其研究范畴与工作对象过去仅局限于建筑和城市相关的狭义层面。但是，与城市规划、景观建筑、建筑学等较有历史传统的范畴类似地，城市设计这一范畴在二十世纪中叶已降，除了城市规划、景观建筑、建筑学等范畴的关系日趋绵密复杂，也逐渐与城市工程学、城市经济学、城市社会学、环境心理学、政治经济学、城市史、市政学、公共管理、永续发展（可持续发展）等知识与实务范畴产生密切关系，因而是为一门综合性跨领域学科。
+
+
+
+目录
+
+
+1 何谓城市设计？
+
+1.1 城市设计与建筑设计之差异
+1.2 城市设计与城市规划之差异
+
+
+2 城市设计与控制性详细规划的差异比较
+3 相关学术领域
+4 流派
+
+4.1 新城市主义
+
+
+5 著名学术与实务机构组织
+
+5.1 美国
+
+
+6 历史上著名的城市设计学者、城市设计师
+7 著名城市设计师（二十世纪以后）
+8 著名学者、作家（二十世纪以后）
+9 外部链接
+10 脚注
+
+
+
+何谓城市设计？[编辑]
+城市设计是一门介于城市规划、景观建筑与建筑设计之间的一个专业领域。它处理城市之中的大尺度组织与设计。在由许多建筑所共同组成的群体中，城市设计处理其建筑群体中的组织关系，以及建筑物之间的空间。城市设计并不处理个别建筑之建筑设计。
+城市设计与建筑设计之差异[编辑]
+许多人普遍误解城市设计为“设计一整个城市的建筑”。实际上，城市设计在应用对象、处理范围、工具、方法等方面，相对于建筑设计差异甚大。
+城市设计处理的空间与时间尺度远较建筑设计为大，它处理街区、社区、邻里，乃至于整个城市（虽然当代城市设计绝少至一整个城市的范围，除非城市规模较小），其实现的时程多半设定在十五年至二十年间。相对于建筑设计，仅需处理单一土地范围内的建筑工作，建筑物完工至多仅需三或五年，城市设计在空间时间方面有着相当大的尺度差异。
+城市设计所面对的变数也较建筑设计为多。一般城市设计的工作范围涉及城市交通系统、邻里认同、开放空间与行人空间组织等，需要顾及的因素还包含城市气候、城市社会等。变数众多，使得城市设计的内容较为复杂，另外加上实现城市设计案所必需的漫长时程，其结果是，城市设计方案与实现成果之间充满着高度不确定性。
+实务上，也由于城市设计涉及因素的复杂性，城市设计的手段较为间接，不像建筑设计可以对个别建筑物进行直接掌控。也因此，城市设计这门专业中，所应用的工具与策略与建筑设计差异极大。
+城市设计与城市规划之差异[编辑]
+在城市空间规划设计实务上，城市规划与城市设计虽然都处理城市空间问题，但是，两个领域在实务中所产生的效能差异非常大。
+当代城市设计的主要处理对象是“城市的一部分”。非常常见的情形则是，城市计划工作被镶嵌在更大范围、更长期的城市规划工作之中。当城市规划将城市区域中的各种主要机能区域（商业区、住宅区、文教区、自然或历史保存区等）予以选址之后，城市设计专业便得以接手城市规划未能更为详细处理的工作----在各个特定区块之中，建立其空间组织与其所属建筑量体的整体形构。
+城市规划所处理的空间范围较城市设计为大。城市规划工作的空间尺度，不仅超越城市中的分区，还涉及整个城市的整体构成、城市与周边其他城市乡村的关连。城市规划工作经常需要考虑城市在更大范围中的定位，此处所指更大范围，可以指涉城市群、“区域”（以区域计划专业角度所认定的区域）、省、邦、国家，甚至国际政经网络，而这些往往是城市设计较少着墨的问题。
+举例而言，在处理城市交通系统时，城市设计所面对的问题经常是捷运车站或轨道与社区的关系，例如社区居民如何便利安全地往返于住家与捷运车站、捷运车站在社区生活中的服务功能与其他社会意涵，捷运轨道与社区景观如何和谐地共构、捷运车辆行驶对社区生活的妨碍与防范等；相对的，城市规划专业经常需要考虑大众运输路线所延伸服务的其他城市、郊区或乡村，以及这些地区透过大众运输路线与城市所串连而产生的整体社会现象。
+城市设计与城市规划还在其他几个方面有所差异：
+
+城市设计不需要在互相冲突的城市机能之间决定城市内各分区的土地使用问题，这是城市规划的核心工作。
+城市设计专业者比城市规划专业者较少涉入城市政策形塑的政治过程。
+城市规划专业者与城市设计专业者，都需要面对相当广泛的社会、文化、实质空间规划设计议题，其差别主要是在于对象、尺度、程度等的差异。
+
+城市设计与控制性详细规划的差异比较[编辑]
+控制性详细规划和城市设计的差异可以从以下三个层面比较：地段层面、街区层面和建筑层面。
+
+地段层面。控制性详细类似总规，着重点在各种指标的平衡，例如交通容量、功能分区、用地开发强度等问题，而城市设计在此层面的重点是城市意象，如上海陆家嘴金融贸易区、巴黎拉德芳斯区等；
+街区层面。控制性详细规划的重点问题是建筑的高度、密度、容积率等技术数据，依然是数据平衡问题，例如底层架空奖励容积率的做法就是一种典型的规划做法，而城市设计的重点是建筑高度（不同于规划中的高度规定）、室外空间、街墙界面、人车分流的解决方案、整体材质色彩等等，例如深圳城市中心区城市设计中的“街墙”、南京河西新城区中心地区城市设计中的“绿轴”；
+建筑层面。控制性详细规划重点是建筑退后红线、交通出入口位置范围、停车容量等等，而城市设计的重点是与地铁站或相邻建筑的连接，街具、广告牌、环境艺术、西部麦田等等。
+
+相关学术领域[编辑]
+
+在学科发展传统上与城市设计密切关连的学科
+
+
+
+
+城市规划
+景观建筑
+建筑
+建筑学
+建筑设计
+
+
+
+
+与当代城市设计有所关连的学科
+
+
+
+
+环境艺术
+城市地理学
+城市工程学
+城市经济学
+城市社会学
+环境心理学
+政治经济学
+城市史
+市政学
+公共管理
+可持续发展
+
+
+
+流派[编辑]
+新城市主义[编辑]
+新城市主义是北美洲（美国）于1980年代逐渐兴起的一种城市设计运动。主要提倡者有：彼得·卡尔洛普（英语：Peter Calthorpe）、安得鲁·杜安伊（英语：Andrés Duany）、伊丽莎白·普莱特-吉伯克（英语：Elizabeth Plater-Zyberk）等人。其他多少认同此一思想的著名城市设计师、学者则包括雷昂·克立尔（英语：Leon Krier）等人。在思想上受到克里斯多夫·亚历山大（克里斯托佛·亚历山大）与珍·雅各（简·雅各布斯）影响甚深。
+新城市主义反对二十世纪初叶由CIAM（英语：CIAM）所提出的现代主义城市设计型态以及北美洲1950年代以降的郊区化发展。它主张当代的社区形式应该包括较高的人口密度、与大众运输系统的密切整合、便利步行者的开放空间（街道、后巷），反对郊区化形成城市郊区住宅区中依赖私有汽车、社区认同低落等现象。
+对新城市主义的批评则有：它的代表案例大多仍是另一种形式的郊区或小镇开发，表示它间接承认郊区发展的合理性，并未根本反对郊区化发展模式。它对于永续发展方面的态度不够集中，其提倡的开发模式仅消极地应付郊区生活中能源与资源过度消耗的问题。
+代表个案有：
+
+
+
+Greenbelt, Maryland
+Kentlands, Gaithersburg, Maryland（英语：Kentlands, Gaithersburg, Maryland）
+National Harbor（英语：National Harbor）
+Orenco Station, Oregon（英语：Orenco Station, Oregon）（新城市主义者的“运输导向开发”案例〔New Urbanist transit-oriented development〕）
+Beacon Cove（英语：Beacon Cove）
+庞德伯里
+Seaside, Florida（英语：Seaside, Florida）
+Stapleton Colorado Redevelopment
+加拿大温哥华
+
+
+
+著名学术与实务机构组织[编辑]
+美国[编辑]
+
+公共空间计划（英语：Project for Public Spaces）：一个1975年由William H. Whyte先生所创立，以美国纽约市为根据地的非营利组织，其宗旨为“协助人民创造并持续享有可以促进社区生活的公共空间”[3]。其工作内容以实务为主，但对城市设计学术工作亦有相当贡献，在美国城市规划与城市设计界有相当大的影响力。
+
+历史上著名的城市设计学者、城市设计师[编辑]
+
+欧洲
+
+
+
+
+米开朗基罗：以画家、雕塑家、建筑师等身份闻名于文艺复兴时代意大利，但其罗马坎皮多格里欧广场Piazza del Campidoglio将周边建筑物立面与广场中心雕塑重新整合于椭圆形广场中之城市空间设计，堪为城市设计的早期经典。
+奥斯曼男爵：获拿破仑三世重用，主持巴黎重建案，确立巴黎今日辐射状街道网的城市风貌。
+卡米洛·西提（卡米洛·西特）：十九世纪晚期奥地利建筑师，重要城市设计理论家，著有《依据艺术原则之城市计划》。学说曾遭现代主义者所漠视，在1960年代以后又获部分后现代主义者重视，视之为城市设计思想经典。
+
+
+
+著名城市设计师（二十世纪以后）[编辑]
+
+北美洲
+
+
+
+
+克里斯托佛·亚历山大
+Kevin Lynch（英语：Kevin Lynch）
+罗伯特·文丘里
+William H. Whyte
+
+
+
+
+欧洲
+
+
+
+
+Jan Gehl
+Aldo Rossi
+
+
+
+
+亚洲
+
+著名学者、作家（二十世纪以后）[编辑]
+
+北美洲
+
+
+
+
+克里斯托佛·亚历山大
+Frank Lloyd Wright
+Peter Calthorpe（英语：Peter Calthorpe）
+简·雅各布斯
+Kevin Lynch（英语：Kevin Lynch）
+Colin Rowe（英语：Colin Rowe）
+Roger Trancik
+Robert Venturi
+Peter Eisenman
+William H. Whyte
+
+
+
+
+欧洲
+
+
+
+
+Le Corbusier
+Peter Cook（英语：Peter Cook）
+Cedric Price（英语：Cedric Price）
+Archigram（英语：Archigram）
+Yona Friedman（英语：Yona Friedman）
+Norman Foster
+Jan Gehl
+Aldo Rossi
+Gordon Cullen（英语：Gordon Cullen）
+
+
+
+
+日本
+
+
+
+
+槇文彦（其建筑作品，以及普立兹克建筑奖的获奖名声，远远盖过他早期在城市设计研究方面之贡献。）
+丹下健三
+
+
+
+外部链接[编辑]
+
+内政部营建署
+
+魅力城乡主题网
+
+
+Principles of Urban Design in Words and Pictures
+公共空间计划 Project for Public Spaces (PPS)
+香港城市设计学会 HKIUD
+
+脚注[编辑]
+
+
+^ “城市设计”亦为其在日文、韩文中的称呼，部分华语地区（如台湾）也使用。
+^ Levy, M. John. 2006. Contemporary Urban Planning, Ch. 10, 'Urban Design'. P. 146-75. Upper Sadle River, NJ, USA: Pearson.
+^ 原文为“Project for Public Spaces (PPS) is a nonprofit organization dedicated to helping people create and sustain public places that build communities.”，译自公共空间计划（Project for Public Spaces）官方网站，读取日期时间：UTC时间2006年8月22日13时30分
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+城市与区域规划
+
+
+
+
+
+
+基本概念
+
+城市 - 区域 - 新区 - 市中心 - 中心商务区 - 建成区 - 城市化 - 逆城镇化 - 郊区城市化 - 再城市化 - 市区更新 - 城镇体系 - 城市群
+
+
+
+
+
+
+
+
+
+研究方向
+
+城市规划 - 区域规划 - 城镇体系规划 - 城市设计 - 环境设计 - 园林设计 - 景观设计 - 环境 - 绿色建筑 - 公共交通
+
+
+
+
+
+
+基本理论与实践
+
+田园城市理论 - 城市美化运动 - 300万人口的现代城市 - 雅典宪章 - 组合城市 - 中心城市 - 门户城市 - 卫星城市 - 新市镇 - 邻里单位 - 线型城市 - 放射型城市 - 组团式城市 - 有机疏散理论 - 广亩城市 - 理性主义规划理论 - 马丘比丘宪章 - 新城市主义 - 新城运动 - 外围城市 - 技术郊区 - 边缘城市 - 全球城市 - 紧凑城市理论 - 旧城改造 - 城市新区 - 新型城镇化 - 双城
+
+
+
+
+
+
+区域理论
+
+中心地理论 - 增长极理论 - 点轴理论 - 城镇体系
+
+
+
+
+
+
+前沿研究
+
+环境影响评估 - 城市承载力 - 生态城市 - TOD开发模式 - 可持续发展 - 数字城市 - 智慧城市 - 低冲击开发 - 韧性城市
+
+
+
+
+
+
+面临问题
+
+城市蔓延 - 卧城 - 贫民窟 - 城市衰退 - 屏风楼 - 烂尾建筑 - 交通堵塞 - 环境污染 - 鬼镇
+
+
+
+
+
+
+交叉学科
+
+地理学 - 建筑学 - 风景园林学 - 城市地理学 - 城市社会学 - 经济学 - 生态学 - 人口学 - 政治学 - 风水学 - 环境科学
+
+
+
+
+
+
+量化指标
+
+建筑容积率 - 城镇化水平 - 首位度
+
+
+
+
+
+
+其他
+
+近现代城市规划理论与实践列表 - 城市史
+
+
+
+
+
+
+地方实践
+
+台湾市区改正 - 天津城市规划 - 香港新市镇
+
+
+
+
+
+
+
+此模板是城市与区域规划学术研究
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+建筑
+
+
+
+
+
+
+
+建筑 - 建筑物 - 大楼 - 摩天大楼 - 非建筑结构物 - 塔／高台、高塔建筑 - 建筑学 - 建设 - 建筑材料 - 结构力学（结构反力 - 结构支承 - 结构构件 - 结构节点 - 结构荷重 - 自由度） - 建筑光学 - 建筑设备 - 建筑经济 - 建筑技术 - 建筑师 - 工人 - 建筑理论 - 建筑行为 - 建筑工程 - 土木工程 - 城市规划 - 城市设计 - 园林设计 - 景观设计 - 环境 - 环保 - 绿化 - 绿色建筑 - 职业安全 - 建筑美学 - 永续设计
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+设计
+
+
+
+
+
+
+
+
+
+设计纲要（英语：Outline of design）
+设计主题
+设计师
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+学科
+
+
+
+
+
+
+
+
+
+
+传媒设计
+
+
+
+广告
+装帧
+企业形象设计
+展会设计
+电影标题设计（英语：Film title design）
+平面设计
+
+运动图形设计（英语：Motion graphic design）
+邮票设计（英语：Postage stamp design）
+打印设计（英语：Print design）
+
+
+插画
+信息设计
+教学设计
+新闻设计（英语：News design）
+摄影
+零售设计（英语：Retail design）
+标示 / 交通标志设计（英语：交通标志设计）
+字体排印学 / 字体设计
+视频设计（英语：Video design）
+商品展示设计
+
+
+
+
+
+
+
+
+环境设计
+
+
+
+建筑
+建筑光学
+建筑设计
+
+被动太阳能建筑设计（英语：Passive solar building design）
+
+
+环境设计
+环境影响设计（英语：Environmental impact design）
+园林设计
+
+电脑辅助园林设计（英语：Computer-aided garden design）
+
+
+健康社区设计（英语：Healthy community design）
+旅店设计（英语：Hotel design）
+室内建筑（英语：Interior architecture）
+室内设计
+
+体验室内设计（英语：Experiential interior design）
+
+
+Keyline设计（英语：Keyline design）
+景观建筑
+
+可持续景观建筑（英语：Sustainable landscape architecture）
+
+
+景观设计（英语：Landscape design）
+空间设计（英语：Spatial design）
+城市设计
+
+
+
+
+
+
+
+
+工业设计
+
+
+
+汽车设计
+汽车悬架设计（英语：Automotive suspension design）
+CMF设计（英语：CMF design）
+瓦楞纸箱设计（英语：Corrugated box design）
+电吉他设计（英语：Electric guitar design）
+家具设计
+
+可持续家具设计（英语：Sustainable furniture design）
+
+
+硬件接口设计（英语：Hardware interface design）
+摩托车设计（英语：Motorcycle design）
+包装
+摄影镜头设计（英语：Photographic lens design）
+产品设计（英语：Product design）
+美术指导
+感官设计
+服务设计
+
+
+
+
+
+
+
+
+交互设计
+
+
+
+体验设计
+
+员工体验设计（英语：Employee experience design）
+
+
+游戏设计
+
+关卡设计（英语：Level design）
+电子游戏设计
+
+
+硬件接口设计（英语：Hardware interface design）
+图标设计
+沉浸式设计（英语：Immersive design）
+信息设计
+声音交互设计
+用户体验设计
+用户界面设计
+网页设计
+
+
+
+
+
+
+
+
+其他应用艺术
+
+
+
+公共艺术
+陶艺 / 玻璃设计（英语：Glass art）
+时尚设计
+
+剧装设计
+珠宝设计
+
+
+花卉设计（英语：Floral design）
+游戏艺术设计（英语：Game art design）
+道具设计师（英语：Property designer）
+风景设计（英语：Scenic design）
+音效设计（英语：Sound design）
+舞台/照明设计（英语：Lighting designer）
+纺织设计（英语：Textile design）
+
+
+
+
+
+
+
+
+其他设计和工程学
+
+
+
+算法设计
+锅炉设计（英语：Boiler design）
+概念设计（英语：Conceptual design）
+数据库设计（英语：Database design）
+药物设计
+电动系统设计（英语：Electrical system design）
+试验设计
+滤波器设计
+任务设计（英语：Job design）
+集成电路设计
+
+电路设计
+物理设计
+电力网络设计（英语：Power network design (IC)）
+
+
+核武器设计方案
+核酸设计（英语：核酸设计）
+组织设计（英语：组织设计）
+程序设计 (化工)
+CPU设计
+蛋白质设计（英语：蛋白质设计）
+研究设计（英语：研究设计）
+社会设计（英语：社会设计）
+软件设计
+宇宙飞船设计（英语：宇宙飞船设计）
+战略设计（英语：战略设计）
+系统设计（英语：系统设计）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+途径
+
+
+
+
+
+
+
+
+
+以活动为中心设计（英语：Activity-centered design）
+自适应网页设计（英语：Adaptive web design）
+情感设计（英语：Affective design）
+脑力激荡法
+按委员会设计（英语：Design by committee）
+契约式设计
+概念知识理论（英语：C-K theory）
+设计收敛
+参与式设计（英语：Participatory design）
+面向概念设计（英语：Concept-oriented design）
+配置设计（英语：Configuration design）
+语境设计（英语：Contextual design）
+持续设计（英语：Continuous design）
+从摇篮到摇篮设计
+创造性解决问题（英语：Creative problem-solving）
+创意技术（英语：Creativity techniques）
+关键设计（英语：Critical design）
+
+设计小说（英语：Design fiction）
+
+
+防守设计（英语：Defensive design）
+设计-招标-建造（英语：Design–bid–build）
+设计－建造
+
+建筑师主导设计（英语：Architect-led design–build）
+
+
+域驱动设计
+生态设计
+能源中性设计（英语：Energy neutral design）
+工程设计流程（英语：Engineering design process）
+
+概率设计（英语：Probabilistic design）
+
+
+容错设计（英语：Error-tolerant design）
+容许故障设计（英语：Fault-tolerant design）
+面向框架设计（英语：Framework-oriented design）
+为装配设计
+为改变行为设计（英语：Design for behaviour change）
+为制造设计
+为六西格玛设计（英语：Design for Six Sigma）
+可测试性设计
+为X设计（英语：Design for X）
+实用设计（英语：Functional design）
+生成设计（英语：Generative Design）
+地理设计（英语：Geodesign）
+顶层设计（英语：High-level design）
+集成设计（英语：Integrated design）
+集成顶层设计（英语：Integrated topside design）
+基于智能设计（英语：Intelligence-based design）
+迭代设计（英语：Iterative design）
+KISS原则
+底层设计（英语：Low-level design）
+元设计（英语：Metadesign）
+心智图
+模块化设计（英语：Modular design）
+新浪潮（英语：New Wave (design)）
+面向对象设计
+开放设计（英语：Open design）
+参数设计（英语：Parametric design）
+参与设计（英语：Participatory design）
+基于平台设计（英语：Platform-based design）
+基于原则设计
+流程为中心设计（英语：Process-centered design）
+公共利益设计（英语：Public interest design）
+理性设计（英语：Rational design）
+可再生设计（英语：Regenerative design）
+可靠度
+基于研究设计（英语：Research-based design）
+责任驱动设计（英语：Responsibility-driven design）
+响应式网页设计
+安全寿命设计
+永续设计
+系统设计（英语：Systemic Design）
+
+面向系统设计（英语：Systems Oriented Design）
+
+
+无表格网页设计
+限制理论
+自上而下和自下而上设计（英语：Top-down and bottom-up design）
+转型设计（英语：Transformation design）
+隔代设计（英语：Transgenerational design）
+TRIZ
+通用设计
+
+为所有人设计（英语：Design for All (in ICT)）
+
+
+以使用率为中心设计（英语：Usage-centered design）
+以使用为中心设计（英语：Use-centered design）
+以用户为中心的设计
+
+感情植入设计（英语：Empathic design）
+
+
+用户创新
+价值驱动设计（英语：Value-driven design）
+价值敏感设计（英语：Value sensitive design）
+
+为隐私设计（英语：Privacy by Design）
+
+
+
+
+设计选择（英语：Design choice）
+设计计算（英语：Design computing）
+设计控制（英语：Design controls）
+设计流程（英语：Design flow (EDA)）
+设计领导（英语：Design leadership）
+设计管理（英语：Design management）
+设计标记（英语：Design marker）
+设计方法（英语：Design methods）
+设计模式
+设计研究
+设计科学（英语：Design science）
+设计战略（英语：Design strategy）
+设计理论（英语：Design theory）
+设计思考
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+工具
+知识产权
+组织
+奖项
+
+
+
+
+
+
+
+
+
+
+
+
+
+设计工具（英语：Design tool）
+
+
+
+算法辅助设计（英语：Algorithms-Aided Design (AAD)）（AAD）
+建筑模型（英语：Architectural model）
+蓝图
+综合布局（英语：Comprehensive layout）
+计算机辅助设计（CAD）
+
+计算机辅助工业设计（英语：Computer-aided industrial design）（CAID）
+虚拟家居设计软件（英语：Virtual home design software）
+
+
+计算机自动设计（CAutoD）
+设计质量指标（英语：Design quality indicator）
+电子设计自动化
+流程图
+Mockup
+产品设计规格
+原型 (工程)
+写生
+分镜
+工程制图
+HTML编辑器
+网站线框（英语：Website wireframe）
+
+
+
+
+
+
+
+
+知识产权
+
+
+
+社区设计（英语：Community design）
+围绕设计（英语：Design around）
+设计专利（英语：Design patent）
+Geschmacksmuster（英语：Geschmacksmuster）
+工业设计权（英语：Industrial design right）
+
+欧盟工业设计权（英语：Industrial design rights in the European Union）
+
+
+
+
+
+
+
+
+
+
+组织
+
+
+
+美国平面设计协会
+特许设计师协会（英语：Chartered Society of Designers）
+设计与工业协会（英语：Design and Industries Association）
+设计委员会（英语：Design Council）
+国际论坛设计
+设计学会（英语：The Design Society）
+设计研究学会（英语：Design Research Society）
+
+
+
+
+
+
+
+
+奖项
+
+
+
+欧洲设计奖（英语：European Design Award）
+德国设计奖（英语：German Design Award）
+好设计奖 (芝加哥)（英语：Good Design Award (Chicago)）
+好设计奖
+Graphex（英语：Graphex）
+IF产品设计奖
+詹姆斯·戴森奖（英语：James Dyson Award）
+菲利浦亲王设计奖
+普利策克奖
+iF产品设计奖
+红点设计大奖
+菲尔·卡夫曼奖
+东京ADC赏
+日本文化厅媒体艺术祭
+时报广告奖
+台湾精品奖
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+相关主题
+
+
+
+
+
+
+
+
+
+美学
+概念艺术
+创意产业
+文化图标（英语：Cultural icon）
+.design
+企业架构
+未来学
+智能设计
+新产品开发
+设计哲学
+过程模拟（英语：Process simulation）
+慢设计（英语：Slow design）
+STEAM fields（英语：STEAM fields）
+非智能设计（英语：Unintelligent design）
+可视化
+恶性问题（英语：Wicked problem）
+
+
+设计概要
+设计改变（英语：Design change）
+经典设计（英语：Design classic）
+设计总监（英语：Design director）
+设计教育
+设计元素和原则（英语：Design elements and principles）
+设计工程师（英语：Design engineer）
+设计公司
+设计史
+设计知识（英语：Design knowledge）
+设计语言（英语：Design language）
+设计寿命（英语：Design life）
+设计负载（英语：Design load）
+设计博物馆
+设计范例（英语：Design paradigm）
+设计导向（英语：Design rationale）
+设计审查（英语：Design review）
+设计规格
+设计工作室（英语：Design studio）
+设计技术（英语：Design technology）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+维基共享资源
+维基教科书
+维基新闻
+维基语录
+维基文库
+维基词典
+
+
+
+
+
+
+
+
+
+
+
+
+分类：城市设计城市规划设计隐藏分类：有蓝链却未移除内部链接助手模板的页面

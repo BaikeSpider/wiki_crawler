@@ -1,0 +1,960 @@
+Philosophy of perception
+
+
+
+
+Do we see what is really there? The two areas of the image marked A and B, and the rectangle connecting them, are all of the same shade: our eyes automatically "correct" for the shadow of the cylinder.
+
+
+The philosophy of perception is concerned with the nature of perceptual experience and the status of perceptual data, in particular how they relate to beliefs about, or knowledge of, the world.[1] Any explicit account of perception requires a commitment to one of a variety of ontological or metaphysical views. Philosophers distinguish internalist accounts, which assume that perceptions of objects, and knowledge or beliefs about them, are aspects of an individual's mind, and externalist accounts, which state that they constitute real aspects of the world external to the individual.[1] The position of naïve realism—the 'everyday' impression of physical objects constituting what is perceived—is to some extent contradicted by the occurrence of perceptual illusions and hallucinations[2] and the relativity of perceptual experience[1] as well as certain insights in science.[3] Realist conceptions include phenomenalism and direct and indirect realism. Anti-realist conceptions include idealism and skepticism.[1]
+
+
+
+Contents
+
+
+1 Categories of perception
+2 Scientific accounts of perception
+3 Philosophical accounts of perception
+4 Spatial representation
+5 See also
+6 References
+7 Sources and further reading
+8 External links
+
+
+
+Categories of perception[edit]
+We may categorize perception as internal or external.
+
+Internal perception (proprioception) tells us what is going on in our bodies; where our limbs are, whether we are sitting or standing, whether we are depressed, hungry, tired and so forth.
+External or sensory perception (exteroception), tells us about the world outside our bodies. Using our senses of sight, hearing, touch, smell, and taste, we perceive colors, sounds, textures, etc. of the world at large. There is a growing body of knowledge of the mechanics of sensory processes in cognitive psychology.
+Mixed internal and external perception (e.g., emotion and certain moods) tells us about what is going on in our bodies and about the perceived cause of our bodily perceptions.
+
+The philosophy of perception is mainly concerned with exteroception.
+Scientific accounts of perception[edit]
+An object at some distance from an observer will reflect light in all directions, some of which will fall upon the corneae of the eyes, where it will be focussed upon each retina, forming an image. The disparity between the electrical output of these two slightly different images is resolved either at the level of the lateral geniculate nucleus or in a part of the visual cortex called 'V1'. The resolved data is further processed in the visual cortex where some areas have specialised functions, for instance area V5 is involved in the modelling of motion and V4 in adding colour. The resulting single image that subjects report as their experience is called a 'percept'. Studies involving rapidly changing scenes show the percept derives from numerous processes that involve time delays.[4] Recent fMRI studies [5] show that dreams, imaginings and perceptions of things such as faces are accompanied by activity in many of the same areas of brain as are involved with physical sight. Imagery that originates from the senses and internally generated imagery may have a shared ontology at higher levels of cortical processing.
+Sound is analyzed in term of pressure waves sensed by the cochlea in the ear. Data from the eyes and ears is combined to form a 'bound' percept. The problem of how this is produced, known as the binding problem.
+Perception is analyzed as a cognitive process in which information processing is used to transfer information into the mind where it is related to other information. Some psychologists propose that this processing gives rise to particular mental states (cognitivism) whilst others envisage a direct path back into the external world in the form of action (radical behaviourism). Behaviourists such as John B. Watson and B.F. Skinner have proposed that perception acts largely as a process between a stimulus and a response but have noted that Gilbert Ryle's "ghost in the machine of the brain" still seems to exist. "The objection to inner states is not that they do not exist, but that they are not relevant in a functional analysis".[6] This view, in which experience is thought to be an incidental by-product of information processing, is known as epiphenomenalism.
+Contrary to the behaviouralist approach to understanding the elements of cognitive processes, gestalt psychology sought to understand their organization as a whole, studying perception as a process of figure and ground.
+Philosophical accounts of perception[edit]
+Important philosophical problems derive from the epistemology of perception—how we can gain knowledge via perception—such as the question of the nature of qualia.[7] Within the biological study of perception naive realism is unusable.[8] However, outside biology modified forms of naive realism are defended. Thomas Reid, the eighteenth-century founder of the Scottish School of Common Sense, formulated the idea that sensation was composed of a set of data transfers but also declared that there is still a direct connection between perception and the world. This idea, called direct realism, has again become popular in recent years with the rise of postmodernism.
+The succession of data transfers involved in perception suggests that sense data are somehow available to a perceiving subject that is the substrate of the percept. Indirect realism, the view held by John Locke and Nicolas Malebranche, proposes that we can only be aware of mental representations of objects. however this may imply an infinite regress (a perceiver within a perceiver within a perceiver...), though a finite regress is perfectly possible.[9] It also assumes that perception is entirely due to data transfer and information processing, an argument that can be avoided by proposing that the percept does not depend wholly upon the transfer and rearrangement of data. This still involves basic ontological issues of the sort raised by Leibniz[10] Locke, Hume, Whitehead and others, which remain outstanding particularly in relation to the binding problem, the question of how different perceptions (e.g. color and contour in vision) are "bound" to the same object when they are processed by separate areas of the brain.
+Indirect realism (representational views) provides an account of issues such as perceptual contents,[11][12] qualia, dreams, imaginings, hallucinations, illusions, the resolution of binocular rivalry, the resolution of multistable perception, the modelling of motion that allows us to watch TV, the sensations that result from direct brain stimulation, the update of the mental image by saccades of the eyes and the referral of events backwards in time. Direct realists must either argue that these experiences do not occur or else refuse to define them as perceptions.
+Idealism holds that reality is limited to mental qualities while skepticism challenges our ability to know anything outside our minds. One of the most influential proponents of idealism was George Berkeley who maintained that everything was mind or dependent upon mind. Berkeley's idealism has two main strands, phenomenalism in which physical events are viewed as a special kind of mental event and subjective idealism. David Hume is probably the most influential proponent of skepticism.
+A fourth theory of perception in opposition to naive realism, enactivism, attempts to find a middle path between direct realist and indirect realist theories, positing that cognition arises as a result of the dynamic interplay between an organism's sensory-motor capabilities and its environment. Instead of seeing perception as a passive process determined entirely by the features of an independently existing world, enactivism suggests that organism and environment are structurally coupled and co-determining. The theory was first formalized by Francisco Varela, Evan Thompson, and Eleanor Rosch in "The Embodied Mind".[13]
+Spatial representation[edit]
+An aspect of perception that is common to both realists and anti-realists is the idea of mental or perceptual space. David Hume concluded that things appear extended because they have attributes of colour and solidity. A popular modern philosophical view is that the brain cannot contain images so our sense of space must be due to the actual space occupied by physical things. However, as René Descartes noticed, perceptual space has a projective geometry, things within it appear as if they are viewed from a point. The phenomenon of perspective was closely studied by artists and architects in the Renaissance, who relied mainly on the 11th century polymath, Alhazen (Ibn al-Haytham), who affirmed the visibility of perceptual space in geometric structuring projections.[14][15] Mathematicians now know of many types of projective geometry such as complex Minkowski space that might describe the layout of things in perception (see Peters (2000)) and it has also emerged that parts of the brain contain patterns of electrical activity that correspond closely to the layout of the retinal image (this is known as retinotopy). How or whether these become conscious experience is still unknown (see McGinn (1995)).
+See also[edit]
+
+
+Anil Gupta
+Argument from illusion
+Arthur Schopenhauer
+Āyatana (Sense Bases in Theravada Buddhism)
+Binding problem
+Consciousness
+Direct realism
+Epistemology
+George Berkeley
+Hallucinations in the sane
+Immanuel Kant
+Idealism
+Indirect realism
+Johann Ge Moll
+John McDowell
+Fiona Macpherson
+Map-territory relation
+Maurice Merleau-Ponty
+Mind's eye
+Multistable perception
+Perception
+Philosophical realism
+Roderick Chisholm
+Sensorium
+Subjective character of experience
+Susanna Schellenberg
+Susanna Siegel
+Thomas Reid
+Louise Richardson
+Transcendental idealism
+Visual perception
+Visual space
+
+
+References[edit]
+
+
+
+^ a b c d cf. http://plato.stanford.edu/entries/perception-episprob/ BonJour, Laurence (2007): "Epistemological Problems of Perception." Stanford Encyclopedia of Philosophy, accessed 1.9.2010.
+^ cf. http://plato.stanford.edu/entries/perception-problem/ Crane, Tim (2005): "The Problem of Perception." Stanford Encyclopedia of Philosophy, accessed 1.9.2010; Drestske, Fred (1999): "Perception." In: Robert Audi, The Cambridge Dictionary of Philosophy, Second Edition, Cambridge, Mass.: Cambridge University Press, pp. 654–658, here p. 656.
+^ cf. Alva Noë (2006): Perception. In: Sahotra Sarkar/Jessica Pfeifer (Eds.), The Philosophy of Science: An Encyclopedia, New York: Routledge, pp. 545–550, here p. 546 ff.
+^ see Moutoussis and Zeki (1997)
+^ "Brain decoding: Reading minds". 
+^ Skinner 1953
+^ Chalmers DJ. (1995) "Facing up to the hard problem of consciousness." Journal of Consciousness Studies 2, 3, 200–219
+^ Smythies J. (2003) "Space, time and consciousness." Journal of Consciousness Studies 10, 3, 47–64.
+^ Edwards JC. (2008) "Are our spaces made of words?" Journal of Consciousness Studies 15, 1, 63–83.
+^ Woolhouse RS and Franks R. (1998) GW Leibniz, Philosophical Texts, Oxford University Press.
+^ Siegel, S. (2011)."The Contents of Perception", The Stanford Encyclopedia of Philosophy (Winter 2011 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/win2011/entries/perception-contents/>.
+^ Siegel, S.: The Contents of Visual Experience. New York: Oxford University Press. 2010
+^ Varela F, Thompson E, Rosch E (1991) "The Embodied Mind: Cognitive Science and Human Experience" MIT Press
+^ Nader El-Bizri (2004). "La perception de la profondeur: Alhazen, Berkeley et Merleau-Ponty". Oriens-Occidens, CNRS. Centre National de la Recherche Scientifique. 5: 171–184. 
+^ Nader El-Bizri (2007). "In Defence of the Sovereignty of Philosophy: al-Baghdadi's Critique of Ibn al-Haytham's Geometrisation of Place". Arabic Sciences and Philosophy. Cambridge University Press. 17: 57–80. doi:10.1017/s0957423907000367. 
+
+
+
+Sources and further reading[edit]
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (February 2008) (Learn how and when to remove this template message)
+
+
+
+
+Chalmers DJ. (1995) "Facing up to the hard problem of consciousness." Journal of Consciousness Studies 2, 3, 200–219.
+Wikibooks: Consciousness Studies
+BonJour, Laurence (2001). "Epistemological Problems of Perception," The Stanford Encyclopedia of Philosophy, Edward Zalta (ed.). Online text
+Burge, Tyler (1991). "Vision and Intentional Content," in E. LePore and R. Van Gulick (eds.) John Searle and his Critics, Oxford: Blackwell.
+Crane, Tim (2005). "The Problem of Perception," The Stanford Encyclopedia of Philosophy, Edward Zalta (ed.). Online text
+Descartes, Rene (1641). Meditations on First Philosophy. Online text
+Dretske, Fred (1981). Knowledge and the Flow of Information, Oxford: Blackwell.
+Evans, Gareth (1982). The Varieties of Reference, Oxford: Clarendon Press.
+Flynn, Bernard (2004). "Maurice Merleau-Ponty," The Stanford Encyclopedia of Philosophy, Edward Zalta (ed.). Online text
+Hume, David (1739–40). A Treatise of Human Nature: Being An Attempt to Introduce the Experimental Method of Reasoning Into Moral Subjects. Online text
+Kant, Immanuel (1781). Critique of Pure Reason. Norman Kemp Smith (trans.) with preface by Howard Caygill, Palgrave Macmillan. Online text
+Lacewing, Michael (unpublished). "Phenomenalism." Online PDF
+Locke, John (1689). An Essay Concerning Human Understanding. Online text
+McCreery, Charles (2006). "Perception and Hallucination: the Case for Continuity." Philosophical Paper No. 2006-1. Oxford: Oxford Forum. Online PDF
+McDowell, John, (1982). "Criteria, Defeasibility, and Knowledge," Proceedings of the British Academy, pp. 455–79.
+McDowell, John, (1994). Mind and World, Cambridge, Mass.: Harvard University Press.
+McGinn, Colin (1995). "Consciousness and Space," In Conscious Experience, Thomas Metzinger (ed.), Imprint Academic. Online text
+Mead, George Herbert (1938). "Mediate Factors in Perception," Essay 8 in The Philosophy of the Act, Charles W. Morris with John M. Brewster, Albert M. Dunham and David Miller (eds.), Chicago: University of Chicago, pp. 125–139. Online text
+Moutoussis, K. and Zeki, S. (1997). "A Direct Demonstration of Perceptual Asynchrony in Vision," Proceedings of the Royal Society of London, Series B: Biological Sciences, 264, pp. 393–399.
+Noe, Alva/Thompson, Evan T.: Vision and Mind: Selected Readings in the Philosophy of Perception, Cambridge: MIT Press, 2002.
+Peacocke, Christopher (1983). Sense and Content, Oxford: Oxford University Press.
+Peters, G. (2000). "Theories of Three-Dimensional Object Perception - A Survey," Recent Research Developments in Pattern Recognition, Transworld Research Network. Online text
+Putnam, Hilary (1999). The Threefold Cord, New York: Columbia University Press.
+Read, Czerne (unpublished). "Dreaming in Color." Online text
+Russell, Bertrand (1912). The Problems of Philosophy, London: Williams and Norgate; New York: Henry Holt and Company. Online text
+Shoemaker, Sydney (1990). "Qualities and Qualia: What's in the Mind?" Philosophy and Phenomenological Research 50, Supplement, pp. 109–31.
+Siegel, Susanna (2005). "The Contents of Perception," The Stanford Encyclopedia of Philosophy, Edward Zalta (ed.). Online text
+Tong, Frank (2003). "Primary Visual Cortex and Visual Awareness," Nature Reviews, Neuroscience, Vol 4, 219. Online text
+Tye, Michael (2000). Consciousness, Color and Content, Cambridge, MA: MIT Press.
+Infoactivity Genesis of perception investigation
+
+External links[edit]
+
+O'Brien, Daniel. "Epistemology of Perception". Internet Encyclopedia of Philosophy. 
+O'Brien, Daniel. "Objects of Perception". Internet Encyclopedia of Philosophy. 
+Crane, T.; French, C. (2015). "The Problem of Perception". In Zalta, Edward N. Stanford Encyclopedia of Philosophy. 
+BonJour, L. "Epistemological Problems of Perception". In Zalta, Edward N. Stanford Encyclopedia of Philosophy. 
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychology
+
+
+
+
+
+
+History
+Philosophy
+Portal
+Psychologist
+
+
+
+
+
+Basic psychology
+
+
+
+Abnormal
+Affective science
+Affective neuroscience
+Behavioral genetics
+Behavioral neuroscience
+Behaviorism
+Cognitive/Cognitivism
+Cognitive neuroscience
+Comparative
+Cross-cultural
+Cultural
+Developmental
+Differential
+Ecological
+Evolutionary
+Experimental
+Gestalt
+Intelligence
+Mathematical
+Neuropsychology
+Personality
+Positive
+Psycholinguistics
+Psychophysics
+Psychophysiology
+Quantitative
+Social
+Theoretical
+
+
+
+
+
+Applied psychology
+
+
+
+Anomalistic
+Applied behavior analysis
+Assessment
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Ergonomics
+Feminist
+Forensic
+Health
+Industrial and organizational
+Legal
+Media
+Military
+Music
+Occupational health
+Pastoral
+Political
+Psychometrics
+Psychotherapy
+Religion
+School
+Sport and exercise
+Suicidology
+Systems
+Traffic
+
+
+
+
+
+Methodologies
+
+
+
+Animal testing
+Archival research
+Behavior epigenetics
+Case study
+Content analysis
+Experiments
+Human subject research
+Interviews
+Neuroimaging
+Observation
+Qualitative research
+Quantitative research
+Self-report inventory
+Statistical surveys
+
+
+
+
+
+
+Psychologists
+
+
+
+
+William James (1842–1910)
+Ivan Pavlov (1849–1936)
+Sigmund Freud (1856–1939)
+Edward Thorndike (1874–1949)
+Carl Jung (1875–1961)
+John B. Watson (1878–1958)
+Clark L. Hull (1884–1952)
+Kurt Lewin (1890–1947)
+Jean Piaget (1896–1980)
+Gordon Allport (1897–1967)
+J. P. Guilford (1897–1987)
+Carl Rogers (1902–1987)
+Erik Erikson (1902–1994)
+B. F. Skinner (1904–1990)
+Donald O. Hebb (1904–1985)
+Ernest Hilgard (1904–2001)
+Harry Harlow (1905–1981)
+Raymond Cattell (1905–1998)
+Abraham Maslow (1908–1970)
+Neal E. Miller (1909–2002)
+Jerome Bruner (1915–2016)
+Donald T. Campbell (1916–1996)
+Hans Eysenck (1916–1997)
+Herbert A. Simon (1916–2001)
+David McClelland (1917–1998)
+Leon Festinger (1919–1989)
+George Armitage Miller (1920–2012)
+Richard Lazarus (1922–2002)
+Stanley Schachter (1922–1997)
+Robert Zajonc (1923–2008)
+Albert Bandura (b. 1925)
+Roger Brown (1925–1997)
+Endel Tulving (b. 1927)
+Lawrence Kohlberg (1927–1987)
+Noam Chomsky (b. 1928)
+Ulric Neisser (1928–2012)
+Jerome Kagan (b. 1929)
+Walter Mischel (b. 1930)
+Elliot Aronson (b. 1932)
+Daniel Kahneman (b. 1934)
+Paul Ekman (b. 1934)
+Michael Posner (b. 1936)
+Amos Tversky (1937–1996)
+Bruce McEwen (b. 1938)
+Larry Squire (b. 1941)
+Richard E. Nisbett (b. 1941)
+Martin Seligman (b. 1942)
+Ed Diener (b. 1946)
+Shelley E. Taylor (b. 1946)
+John Anderson (b. 1947)
+Ronald C. Kessler (b. 1947)
+Joseph E. LeDoux (b. 1949)
+Richard Davidson (b. 1951)
+Susan Fiske (b. 1952)
+Roy Baumeister (b. 1953)
+
+
+
+
+
+Lists
+
+
+
+Counseling topics
+Disciplines
+Important publications
+Organizations
+Outline
+Psychologists
+Psychotherapies
+Research methods
+Schools of thought
+Timeline
+Topics
+
+
+
+
+
+
+
+
+Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of mind
+
+
+
+Theories
+
+
+
+Behaviorism (Radical)
+Biological naturalism
+Cognitive psychology
+Mind–body dualism
+Eliminative materialism
+Emergent materialism
+Emergentism
+Epiphenomenalism
+Functionalism
+Idealism
+Interactionism
+Materialism
+Monism
+Naïve realism
+
+Neurophenomenology
+
+
+Neutral monism
+Occasionalism
+Psychoanalysis
+Parallelism
+Phenomenalism
+Phenomenology
+Physicalism
+
+identity theory
+
+
+Property dualism
+Representational
+Solipsism
+Substance dualism
+
+
+
+
+
+Concepts
+
+
+
+Abstract object
+Artificial intelligence
+Chinese room
+Cognition
+Cognitive closure
+Concept
+Concept and object
+Consciousness
+Hard problem of consciousness
+Hypostatic abstraction
+Idea
+Identity
+Ingenuity
+Intelligence
+Intentionality
+Introspection
+Intuition
+Language of thought
+Materialism
+Mental event
+Mental image
+Mental process
+Mental property
+Mental representation
+Mind
+Mind–body problem
+
+Non-physical entity
+
+
+New mysterianism
+Pain
+Problem of other minds
+Propositional attitude
+Qualia
+Tabula rasa
+Understanding
+Zombie
+more...
+
+
+
+
+
+Related topics
+
+
+
+Metaphysics
+Philosophy of artificial intelligence / information / perception / self
+
+
+
+
+
+
+
+
+Portal
+Category
+Philosophers category
+Project
+Task Force
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of science
+
+
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+A priori and a posteriori
+Causality
+Commensurability
+Consilience
+Construct
+Creative synthesis
+Demarcation problem
+Empirical evidence
+Explanatory power
+Fact
+Falsifiability
+Feminist method
+Ignoramus et ignorabimus
+Inductive reasoning
+Intertheoretic reduction
+Inquiry
+Nature
+Objectivity
+Observation
+Paradigm
+Problem of induction
+Scientific law
+Scientific method
+Scientific revolution
+Scientific theory
+Testability
+Theory choice
+Theory-ladenness
+Underdetermination
+Unity of science
+
+
+
+
+
+Metatheory
+of science
+
+
+
+Coherentism
+Confirmation holism
+Constructive empiricism
+Constructive realism
+Constructivist epistemology
+Contextualism
+Conventionalism
+Deductive-nomological model
+Hypothetico-deductive model
+Inductionism
+Epistemological anarchism
+Evolutionism
+Fallibilism
+Foundationalism
+Instrumentalism
+Pragmatism
+Model-dependent realism
+Naturalism
+Physicalism
+Positivism / Reductionism / Determinism
+Rationalism / Empiricism
+Received view / Semantic view of theories
+Scientific realism / Anti-realism
+Scientific essentialism
+Scientific formalism
+Scientific skepticism
+Scientism
+Structuralism
+Uniformitarianism
+Vitalism
+
+
+
+
+
+Philosophy of
+
+
+
+Physics
+
+thermal and statistical
+Motion
+
+
+Chemistry
+Biology
+Environment
+Geography
+Social science
+Technology
+
+Engineering
+Artificial intelligence
+Computer science
+
+
+Information
+Mind
+Psychiatry
+Psychology
+Perception
+Space and time
+
+
+
+
+
+Related topics
+
+
+
+Alchemy
+Criticism of science
+Epistemology
+Faith and rationality
+History and philosophy of science
+History of science
+History of evolutionary thought
+Logic
+Metaphysics
+Pseudoscience
+Relationship between religion and science
+Rhetoric of science
+Sociology of scientific knowledge
+Sociology of scientific ignorance
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philosophers of science by era
+
+
+
+
+
+
+
+Ancient
+
+
+
+Plato
+Aristotle
+Stoicism
+Epicureans
+
+
+
+
+
+Medieval
+
+
+
+Averroes
+Avicenna
+Roger Bacon
+William of Ockham
+Hugh of Saint Victor
+Dominicus Gundissalinus
+Robert Kilwardby
+
+
+
+
+
+Early modern
+
+
+
+Francis Bacon
+Thomas Hobbes
+René Descartes
+Galileo Galilei
+Pierre Gassendi
+Isaac Newton
+David Hume
+
+
+
+
+
+Classical modern
+
+
+
+Immanuel Kant
+Friedrich Schelling
+William Whewell
+Auguste Comte
+John Stuart Mill
+Herbert Spencer
+Wilhelm Wundt
+Charles Sanders Peirce
+Wilhelm Windelband
+Henri Poincaré
+Pierre Duhem
+Rudolf Steiner
+Karl Pearson
+
+
+
+
+
+Late modern
+
+
+
+Alfred North Whitehead
+Bertrand Russell
+Albert Einstein
+Otto Neurath
+C. D. Broad
+Michael Polanyi
+Hans Reichenbach
+Rudolf Carnap
+Karl Popper
+Carl Gustav Hempel
+W. V. O. Quine
+Thomas Kuhn
+Imre Lakatos
+Paul Feyerabend
+Jürgen Habermas
+Ian Hacking
+Bas van Fraassen
+Larry Laudan
+Daniel Dennett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portal
+Category
+
+
+
+
+
+
+
+
+
+
+Categories: EpistemologyPhilosophy of mindPerceptionHidden categories: Pages using div col with deprecated parametersArticles lacking in-text citations from February 2008All articles lacking in-text citations

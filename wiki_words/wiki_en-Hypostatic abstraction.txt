@@ -1,0 +1,374 @@
+Hypostatic abstraction
+Hypostatic abstraction in mathematical logic, also known as hypostasis or subjectal abstraction, is a formal operation that transforms a predicate into a relation; for example "Honey is sweet" is transformed into "Honey has sweetness". The relation is created between the original subject and a new term that represents the property expressed by the original predicate.
+Hypostasis changes a propositional formula of the form X is Y to another one of the form X has the property of being Y or X has Y-ness. The logical functioning of the second object Y-ness consists solely in the truth-values of those propositions that have the corresponding abstract property Y as the predicate. The object of thought introduced in this way may be called a hypostatic object and in some senses an abstract object and a formal object.
+The above definition is adapted from the one given by Charles Sanders Peirce (CP 4.235, "The Simplest Mathematics" (1902), in Collected Papers, CP 4.227–323). As Peirce describes it, the main point about the formal operation of hypostatic abstraction, insofar as it operates on formal linguistic expressions, is that it converts an adjective or predicate into an extra subject, thus increasing by one the number of "subject" slots -- called the arity or adicity -- of the main predicate.
+The transformation of "honey is sweet" into "honey possesses sweetness" can be viewed in several ways:
+
+The grammatical trace of this hypostatic transformation is a process that extracts the adjective "sweet" from the predicate "is sweet", replacing it by a new, increased-arity predicate "possesses", and as a by-product of the reaction, as it were, precipitating out the substantive "sweetness" as a second subject of the new predicate.
+The abstraction of hypostasis takes the concrete physical sense of "taste" found in "honey is sweet" and gives it formal metaphysical characteristics in "honey has sweetness".
+See also[edit]
+
+
+
+
+
+Abstraction
+Abstraction in computing
+Abstraction in mathematics
+Analogy
+
+
+
+
+Category theory
+Continuous predicate
+Reification
+E-prime
+
+
+
+
+
+References[edit]
+
+Peirce, C.S., Collected Papers of Charles Sanders Peirce, vols. 1–6 (1931–1935), Charles Hartshorne and Paul Weiss, eds., vols. 7–8 (1958), Arthur W. Burks, ed., Harvard University Press, Cambridge, MA.
+
+External links[edit]
+
+J. Jay Zeman, Peirce on Abstraction
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of mind
+
+
+
+Theories
+
+
+
+Behaviorism (Radical)
+Biological naturalism
+Cognitive psychology
+Mind–body dualism
+Eliminative materialism
+Emergent materialism
+Emergentism
+Epiphenomenalism
+Functionalism
+Idealism
+Interactionism
+Materialism
+Monism
+Naïve realism
+
+Neurophenomenology
+
+
+Neutral monism
+Occasionalism
+Psychoanalysis
+Parallelism
+Phenomenalism
+Phenomenology
+Physicalism
+
+identity theory
+
+
+Property dualism
+Representational
+Solipsism
+Substance dualism
+
+
+
+
+
+Concepts
+
+
+
+Abstract object
+Artificial intelligence
+Chinese room
+Cognition
+Cognitive closure
+Concept
+Concept and object
+Consciousness
+Hard problem of consciousness
+Hypostatic abstraction
+Idea
+Identity
+Ingenuity
+Intelligence
+Intentionality
+Introspection
+Intuition
+Language of thought
+Materialism
+Mental event
+Mental image
+Mental process
+Mental property
+Mental representation
+Mind
+Mind–body problem
+
+Non-physical entity
+
+
+New mysterianism
+Pain
+Problem of other minds
+Propositional attitude
+Qualia
+Tabula rasa
+Understanding
+Zombie
+more...
+
+
+
+
+
+Related topics
+
+
+
+Metaphysics
+Philosophy of artificial intelligence / information / perception / self
+
+
+
+
+
+
+
+
+Portal
+Category
+Philosophers category
+Project
+Task Force
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Metaphysics
+
+
+
+Metaphysicians
+
+
+
+Parmenides
+Plato
+Aristotle
+Plotinus
+Duns Scotus
+Thomas Aquinas
+Francisco Suárez
+Nicolas Malebranche
+René Descartes
+John Locke
+David Hume
+Thomas Reid
+Immanuel Kant
+Isaac Newton
+Arthur Schopenhauer
+Baruch Spinoza
+Georg W. F. Hegel
+George Berkeley
+Gottfried Wilhelm Leibniz
+Henri Bergson
+Friedrich Nietzsche
+Charles Sanders Peirce
+Joseph Maréchal
+Ludwig Wittgenstein
+Martin Heidegger
+Alfred N. Whitehead
+Bertrand Russell
+Dorothy Emmet
+G. E. Moore
+Jean-Paul Sartre
+Gilbert Ryle
+Hilary Putnam
+P. F. Strawson
+R. G. Collingwood
+Adolph Stöhr
+Rudolf Carnap
+Saul Kripke
+Willard V. O. Quine
+G. E. M. Anscombe
+Donald Davidson
+Michael Dummett
+David Malet Armstrong
+David Lewis
+Alvin Plantinga
+Peter van Inwagen
+Derek Parfit
+more ...
+
+
+
+
+
+Theories
+
+
+
+Abstract object theory
+Action theory
+Anti-realism
+Determinism
+Dualism
+Enactivism
+Essentialism
+Existentialism
+Free will
+Idealism
+Libertarianism
+Liberty
+Materialism
+Meaning of life
+Monism
+Naturalism
+Nihilism
+Phenomenalism
+Realism
+Physicalism
+Pirsig's metaphysics of Quality
+Platonic idealism
+Relativism
+Scientific realism
+Solipsism
+Subjectivism
+Substance theory
+Type theory
+
+
+
+
+
+Concepts
+
+
+
+Abstract object
+Anima mundi
+Being
+Category of being
+Causality
+Choice
+Cogito ergo sum
+Concept
+Embodied cognition
+Entity
+Essence
+Existence
+Experience
+Hypostatic abstraction
+Idea
+Identity
+Identity and change
+Information
+Insight
+Intelligence
+Intention
+Linguistic modality
+Matter
+Meaning
+Memetics
+Mental representation
+Mind
+Motion
+Necessity
+Notion
+Object
+Pattern
+Perception
+Physical body
+Principle
+Property
+Qualia
+Quality
+Reality
+Soul
+Subject
+Substantial form
+Thought
+Time
+Truth
+Type–token distinction
+Universal
+Unobservable
+Value
+more ...
+
+
+
+
+
+Related topics
+
+
+
+Axiology
+Cosmology
+Epistemology
+Feminist metaphysics
+Interpretations of quantum mechanics
+Meta-
+Ontology
+Philosophy of mind
+Philosophy of psychology
+Philosophy of self
+Philosophy of space and time
+Teleology
+Theoretical physics
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+Categories: AbstractionMathematical analysisMathematical logicMathematical relationsMetaphysicsCharles Sanders Peirce

@@ -1,0 +1,111 @@
+数学之美
+
+
+
+
+
+本条目可能包含原创研究或未查证内容。（2015年1月7日） 
+请协助添加参考资料以改善这篇条目。详细情况请参见讨论页。 
+
+
+
+
+
+
+曼德博集合的边界
+
+
+
+
+
+
+以简单方法推论勾股定理
+
+
+数学之美指的是从数学里得出的美学。数学家形容数学是美丽的。有时，数学家会形容数学是一种艺术的形式，或是一个创造性的活动，通常与音乐和诗歌相比较。伯特兰·罗素以下列文字形容他对数学之美的感觉：
+
+数学，正确看待时，不仅具有真理，还具有至高的美-像雕塑一样冷酷而严肃，没有吸引到我们任何一种弱小本性，也没有绘画或音乐的华丽装饰，而是崇高地纯粹、绝对地完美，就如最伟大的艺术。数学中一定能找到最卓越的试金石——超越人类时之喜悦感，像写诗时一样。[1]
+
+保罗·埃尔德什认为数学不可言说：“为何数字美丽呢？这就像是在问为何贝多芬第九号交响曲美丽。若你不知道为何，其他人也无法告诉你。我知道数字是美丽的。且若它们不是美丽的话，世上也没有事物美丽了。[2]”
+
+
+
+目录
+
+
+1 解法之美
+2 结论之美
+3 体验之美
+4 绘图之美
+5 另见
+6 脚注
+7 参考文献
+8 外部链接
+
+
+
+解法之美[编辑]
+数学家形容部分特别的证明方法为“优美的”。依据其内容，这可以是指：
+
+用了少量的额外假设或之前结论的证明。
+极短的证明。
+由意外的方式导出的证明（即由一表面上无关的定理或一群定理）。
+基于新的及原本洞悉的证明。
+可轻易推至相似问题之解题的证明方法。
+
+为了寻找优美的证明，数学家常会寻求不同证明的方法，而第一个被找到的证明可能不是最好的。有着最多被找到的不同证明方法的定理为勾股定理，已有上百的证明被发表了出来。另一个被以许多不同方法证明出来的定理为二次互反律的定理，仅高斯一人便给出了此定理八种不同的证明。
+相反地，若结论是逻辑上正确的，但包含有费工的计算、过度复杂的方法、极普通的处理方法或需依靠大量有力的公理或不被认为优美的之前结论，则称此为“丑陋的”或“笨拙的”。这和奥卡姆剃刀的概念有关。
+结论之美[编辑]
+数学家看数学结论的美，于其在第一眼看似完全无关的两个数学领域间建立着关连性。这种结论通常被形容为“深奥的”。
+因为很难得到“一结论是否为深奥”的共识，某些例子便常被引用来说明。其中一个为欧拉恒等式eiπ + 1 = 0，它被费曼称为“数学内最著名的公式”。现代的例子则包含有建立起椭圆曲线与模形式之间关连性的谷山-志村定理（此结论使安德鲁·怀尔斯和罗伯特·郎兰兹得到了沃尔夫奖），和以弦理论接连了怪兽群与模函数的怪兽月光（理查·波杰蒂斯因此得到了菲尔兹奖）。
+和“深奥的”相对之为“当然的”。一当然的定理会是个可以由一已知结论经一明显及简单的方法导出的结论，或者是只应用在如空集合等特定集合的结论。但有时一定理的叙述亦可因够原始而被认为是深奥的。
+体验之美[编辑]
+对于操纵数字和符号的一些喜好是从事任何数学相关的必须要件。在科学及工程领域的数学工具，似乎都会在其技术社会和其科学哲学里主动地培育出美学里。
+对于大多数的数学家而言，数学之美最强烈的体验来自于积极地从事数学研究。以纯粹被动的方式是很难享受及欣赏数学的－在数学里，是没有观众及听众的。
+伯特兰·罗素指这是数学的“朴素之美”。
+绘图之美[编辑]
+在座标平面或座标立体上绘制方程式，有时会画出很美的东西。
+另见[编辑]
+
+美学
+叙述科学
+优美
+数学与艺术
+数学与建筑
+规范科学
+数学哲学
+真理
+
+脚注[编辑]
+
+^ Russell, Bertrand. The Study of Mathematics. Mysticism and Logic: And Other Essays. Longman. 1919: 60 [2008-08-22]. 
+^ Devlin, Keith. Do Mathematicians Have Different Brains?. The Math Gene: How Mathematical Thinking Evolved And Why Numbers Are Like Gossip. Basic Books. 2000: 140 [2008-08-22]. ISBN 978-0-465-01619-8. 
+
+参考文献[编辑]
+
+Aigner, Martin, and Ziegler, Gunter M. (2003), Proofs from THE BOOK, 3rd edition, Springer-Verlag.
+苏布拉马尼扬·钱德拉塞卡 (1987), Truth and Beauty. Aesthetics and Motivations in Science, University of Chicago Press, Chicago, IL.
+雅克·阿达马 (1949), The Psychology of Invention in the Mathematical Field, 1st edition, Princeton University Press, Princeton, NJ. 2nd edition, 1949. Reprinted, Dover Publications, New York, NY, 1954.
+G.H.Hardy (1940), A Mathematician's Apology, 1st published, 1940. Reprinted, C.P. Snow (foreword), 1967. Reprinted, Cambridge University Press, Cambridge, UK, 1992.
+Hoffman, Paul (1992), The Man Who Loved Only Numbers, Hyperion.
+Huntley, H.E. (1970), The Divine Proportion: A Study in Mathematical Beauty, Dover Publications, New York, NY.
+Loomis, Elisha Scott (1968), The Pythagorean Proposition, The National Council of Teachers of Mathematics. Contains 365 proofs of the Pythagorean Theorem.
+Peitgen, H.-O., and Richter, P.H. (1986), The Beauty of Fractals, Springer-Verlag.
+Strohmeier, John, and Westbrook, Peter (1999), Divine Harmony, The Life and Teachings of Pythagoras, Berkeley Hills Books, Berkeley, CA.
+
+外部链接[编辑]
+
+数学之美
+Is Mathematics Beautiful?
+Links Concerning Beauty and Mathematics
+Mathematics and Beauty[失效链接]
+The Beauty of Mathematics
+Justin Mullins
+Edna St. Vincent Millay (poet): Euclid alone has looked on beauty bare
+数学艺术
+
+
+
+
+
+分类：美学数学数学哲学隐藏分类：自2015年1月可能带有原创研究的条目拒绝当选首页新条目推荐栏目的条目带有失效链接的条目

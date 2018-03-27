@@ -1,0 +1,368 @@
+计算机模拟
+计算机模拟，又称为计算机仿真，是指用来模拟特定系统之抽象模型的计算机程序。
+
+
+
+
+使用使用天气研究和预报模型做台风Mawar的48小时电脑模拟。
+
+
+
+
+
+目录
+
+
+1 历史
+2 种类
+3 科学研究中的计算机模拟
+4 计算机模拟应用
+5 参见
+
+
+
+历史[编辑]
+计算机模拟的发展与电脑本身的迅速发展是分不开的。它的首次大规模开发是著名的曼哈顿计划中的一个重要部分。在第二次世界大战中，为了模拟核爆炸的过程，人们应用蒙特·卡罗方法用12个坚球模型进行了模拟。计算机模拟最初被作为其他的方面研究的补充，但当人们发现它的重要性之后，它便作为一门单独的课题被使用得相当广泛。 计算机模拟从运行数分钟到数小时到数天。通过计算机模拟被模拟事件的规模已远远超过使用传统纸和铅笔数学建模任何可能的（甚至想像）。
+
+种类[编辑]
+通常分为如下几类：
+
+离散模拟
+类比模拟
+基于探元的模拟
+随机过程或决定论模式的模拟
+
+科学研究中的计算机模拟[编辑]
+例如：蒙特·卡罗方法、模拟煺火、群体智能
+计算机模拟应用[编辑]
+参见[编辑]
+
+可视化
+
+
+
+
+信息可视化
+科学可视化
+
+
+
+
+Computer simulation
+数学模型
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+科学、技术、信息的可视化
+
+
+
+
+
+
+领域划分
+
+
+
+生物学数据可视化（英语：Biological data visualization）
+化学成像（英语：Chemical imaging）
+罪行绘图
+数据可视化
+教育可视化
+流动可视化（英语：Flow visualization）
+地理可视化
+信息可视化
+数学可视化（英语：Mathematical diagram）
+医学影像
+分子图形学（英语：Molecular graphics）
+产品可视化
+科学可视化
+软件可视化（英语：Software visualization）
+工程制图
+用户界面设计
+视觉文化（英语：Visual culture）
+立体渲染
+
+
+
+
+
+
+
+
+图像类型
+
+
+
+统计图表
+图解（英语：Diagram）
+工程图
+函数图形
+形意文字
+地图
+相片
+象形文字
+Plot（英语：Plot）
+概要图（英语：Schematic）
+统计图形
+表格
+工程制图
+技术插图（英语：Technical illustration）
+用户界面
+图
+
+
+
+
+
+
+
+
+相关人士
+
+
+
+Jacques Bertin
+Jim Blinn
+Stuart Card
+Thomas A. DeFanti
+迈克尔·弗兰德利
+George Furnas
+Nigel Holmes
+Alan MacEachren
+Jock D. Mackinlay
+Michael Maltz
+Bruce H. McCormick
+Charles Joseph Minard
+Otto Neurath
+Florence Nightingale
+Clifford A. Pickover
+William Playfair
+Adolphe Quetelet
+George G. Robertson
+Arthur H. Robinson
+Lawrence J. Rosenblum
+Ben Shneiderman
+Edward Tufte
+Fernanda Viegas
+Manuel Lima
+Gaspard Monge
+
+
+
+
+
+
+
+
+相关软件
+
+
+
+
+
+可视化软件
+
+
+
+
+维基百科可视化编辑器
+Protege
+Sirius可视化软件
+VisIt
+
+
+
+
+
+
+
+
+
+数值分析软件
+
+
+
+
+Scilab
+
+
+
+
+
+
+
+
+
+
+
+相关主题
+
+
+
+
+
+计算机图形学
+
+
+
+
+位图
+
+计算机的可视化
+视觉化
+图像处理
+
+又称影像处理
+
+
+计算机图形
+计算机动画
+计算机模拟
+科学建模（英语：Scientific modelling）
+
+模板：计算机建模
+
+
+
+
+
+
+
+
+
+
+
+人机交互
+
+
+
+
+用户界面
+
+图形用户界面
+所见即所得
+图示
+
+
+虚拟现实
+
+
+
+
+
+
+
+
+
+图像式思考辅助工具
+
+
+
+
+故事板
+鱼骨图
+导引图
+记忆树
+心智图
+流程图
+欧拉图
+
+
+
+
+
+
+
+地图学
+
+又称制图学
+
+
+无效的图表（英语：Chartjunk）
+图形绘制（英语：Graph drawing）
+平面设计
+
+又称图形设计
+
+
+成像科学（英语：Imaging science）
+信息学
+信息图形
+心像（英语：Mental image）
+误导性影像（英语：Misleading graph）
+神经成像
+专利图（英语：Patent drawing）
+空间分析
+可视化分析论
+视知觉
+统计学
+图意学
+图像记谱
+
+
+
+
+
+
+
+
+
+参见： 科学 ·  资讯科技 ·  设计 ·  摄影 ·  图表 ·  图论 ·  计算机图形学 ·  视觉化程式设计语言 ·  计算机科学主要领域
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh85029533
+GND: 4148259-1
+BNF: cb119412265（数据）
+BNE: XX535293
+
+
+
+
+
+
+
+
+
+
+
+这是一篇与计算机相关的小作品。你可以通过编辑或修订扩充其内容。
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+
+分类：科学建模科学方法虚拟现实计算机应用计算科学隐藏分类：包含规范控制信息的维基百科条目全部小作品电脑小作品

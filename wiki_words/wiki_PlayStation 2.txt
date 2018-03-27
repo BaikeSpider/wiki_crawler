@@ -1,0 +1,1664 @@
+PlayStation 2
+
+
+“PS2”重定向至此。关于与此名称相似的其他条目，详见“PS2 (消歧义)”。
+
+
+
+
+
+
+
+本条目可能使用了不合适的列表式记述。请协助将其改为散文式叙述以利读者获得更完整的讯息。（2017年4月29日） 
+角色介绍应按时间或关联性编排成数个较长的文章段落；作品列表适合项目列举；年表介于二者之间，例如：化学年表。此外的列举资料应该编写成散文体以符合维基百科质量标准。 
+
+
+
+
+
+
+
+
+PlayStation 2
+
+
+
+
+
+
+
+制造商
+索尼互动娱乐
+
+
+型式
+电视游戏机
+
+
+世代
+第六世代
+
+
+产品生命周期
+
+
+
+日本：2000年3月4日
+北美：2000年10月26日
+欧洲：2000年11月24日
+澳洲：2000年11月30日
+台湾：2002年1月24日
+韩国：2002年2月22日
+中国大陆：2004年1月1日
+巴西：2009年11月18日
+
+
+
+
+
+停产日期
+
+
+
+日本：2012年12月18日
+欧美：2013年1月4日
+全球：2013年2月4日
+
+
+
+
+
+销售台数
+1亿5768万部
+
+
+媒体
+CD、DVD
+
+
+CPU
+128-bit "Emotion Engine" clocked at 294 MHz
+
+
+储存空间
+
+PS2 记忆卡（8MB） PS 记忆卡（1MB）
+HDD（40GB）
+
+
+控制器输入
+DualShock 2（有线）、USB、遥控器
+
+
+连接界面
+USB、10/100BASE-T
+
+
+在线服务
+Dynamic Network Authentication System
+
+
+最畅销游戏
+侠盗猎车手：圣安地列斯（2081万套）
+
+
+向下兼容
+PlayStation
+
+
+前代机种
+PlayStation
+
+
+后继机种
+PlayStation 3
+
+
+PlayStation 2（日文：プレイステーション2，日文简称プレステ2。），简称PS2，是索尼互动娱乐（SCE）在2000年3月4日开始贩售的家用游戏机。在中国大陆，索尼（中国）的行销口号是：“△○×□，很有PS风格的感觉”。在台湾，索尼互动娱乐（台湾）则是以：“就是这一部”，强调不仅能玩游戏更能播放DVD。主要竞争对手是世嘉的Dreamcast、微软的Xbox和任天堂的GameCube。PS2平台上已推出了达10,828款游戏。[1]PS2拥有数个家用游戏机的纪录：史上最高销量（1亿5768万部）、销售时间最长（12年）、官方厂商支持时间最长。
+索尼娱乐于2012年12月28日在日本官网上发布消息，确认PS2正式终止销售，至此全世界累计销售1亿5000万部以上。[2]
+
+
+
+目录
+
+
+1 历史
+2 简介
+3 PlayStation 2 slimline
+4 硬件设计与PlayStation 3的兼容性
+5 详细规格
+6 累计生产销售量
+
+6.1 附属周边
+
+
+7 型号
+
+7.1 PlayStation 2
+7.2 PlayStation 2 Slimline
+
+7.2.1 型号说明
+
+
+7.3 区域代码
+7.4 颜色代码
+
+
+8 游戏
+
+8.1 IGN网站前百大经典游戏
+8.2 VGChartz网站票选前十大经典游戏
+8.3 Fami通台湾读者票选游戏
+8.4 Fami通满分40分游戏
+8.5 Fami通满分39分游戏
+8.6 Fami通满分38分游戏
+
+
+9 周边硬件
+10 加密与破解
+11 另见
+12 参考
+
+
+
+历史[编辑]
+1998年11月27日日本世嘉（SEGA）公司于1998年11月27日发售Dreamcast游戏机，SONY便开始积极及加快开发第六世代家用游戏机。PlayStation 2在1999年发表，2000年开始发售，由于生产延误，当时市场上很难购买到PS2。由于PS2发售同时也同时发售多款游戏大作，加上PS2采取当时较为先进的DVD-ROM，容量达4.7或8.5GB，而Dreamcast只使用1.2GB的GD-ROM，同时SONY为游戏开发商和为消费者提供更多的PS2支持，所以PS2很快便打败Dreamcast，更间接导致SEGA完全退出家用游戏机市场。
+尽管世嘉在2001年3月宣布停止生产Dreamcast，PS2又立即面临来自新对手的竞争，微软的Xbox和任天堂GameCube。许多分析家预计三大游戏机之间的密切的三方对决：Xbox拥有最强大的硬件，而GameCube的是最便宜的游戏机，加上任天堂改变其政策，以鼓励第三方开发者，而PlayStation 2则是最弱的规格，但有良好的开端（击败Dreamcast）、不少的游戏支持，加上SONY与开发商的承诺。虽然在PlayStation 2的阵容初步游戏被认为是平庸的，但最后也领先Xbox，GameCube。尤其是GT赛车系列、高达系列、侠盗猎车手系列等等令到PS2大卖一时。而微软推出联机功能的Xbox Live的发布之际，SONY在2002年底发布的PlayStation网络适配器，而且与开发商的推了不少联机游戏。
+2004年9月，索尼推出侠盗猎车手：圣安地列斯及PS2薄版PlayStation 2 slimline（SCPH-70000-90000）。及停止旧型号（SCPH-30000-50000）生产。使PS2再次大卖，更出现短缺现象。
+SONY原来设定PS2的寿命为10年（即2010年），但根据SONY表示，它的生命周期将继续下去，只要开发商继续开发新的游戏和有销售需求，SONY愿意继续生产及支持PS2。
+2012年12月28日，日本索尼电脑娱乐（SCEJ）在PlayStation 2（PS2）主机官方产品网页上公告，日本地区PS2主机的供货在今天正式结束，替PS2主机在日本长达12年9个月又24天的销售划下句点。
+太平洋标准时间2016年3月31日早上6点，PS2平台上《最终幻想XI》的线上服务正式停止。[3] 4月2日，索尼正式宣布，PS2游戏的所有线上服务已经全部结束。[4]
+简介[编辑]
+PlayStation 2
+
+是PlayStation的继承机种，
+销售统计资料：
+
+2000年3月4日开始于日本贩售，贩售后仅过了三日，日本当地就创下约98万部以上的生产销售纪录。
+2003年1月,PS2全球销量突破五千万部。
+2004年1月1日，PlayStation 2在因故延迟十多日后，终于在2004年元旦于中国大陆开卖。
+2005年11月在全球创下一亿部的生产销售部数纪录。
+2009年8月18日，索尼官方宣布PS2全球销量达到破纪录的一亿四千万部，是有史以来最畅销的游戏主机。
+2011年，PS2游戏机的全球销量已突破1.5亿大关。
+2011至2012年的SONY圣诞期间销售，根据Sony SCE发布的官方情报，PS2的销量为超过50万，竟然比PS Vita的接近50万为多。
+
+
+PlayStation 2本身可向下兼容PlayStation的游戏软件，并可播放DVD影音光盘。值得一提的是，PS2的下一代游戏机PlayStation 3的早期部分机型是可以向下支持PS2游戏的（详见“硬件设计与PlayStation 3的兼容性”）。
+PlayStation 2的游戏锁区。
+
+
+
+
+
+外观接口
+
+
+
+直至2012年，PS2仍然销售强悍，尤其是像东欧，中东，东南亚和南非的销量。许多人士表示，PS2拥有优惠的价格，众多游戏作品加上部分经典游戏，也能播放DVD，在未发展国家或发展中国家的良好家中游戏机，因此推出超过十二年仍未淘汰。
+2012年12月28日SCEJ宣布日本地区的PlayStation 2停止供货。
+
+PlayStation 2销售时期的竞争对手：
+
+世嘉的Dreamcast（2001年停产）
+
+由于未能打败SONY的PlayStation 2，SEGA宣布停产Dreamcast游戏主机，并退出家用游戏主机的市场，但仍继续开发游戏软件。
+
+
+任天堂的GameCube（2007年停产）
+
+任天堂的新游戏主机Wii发售后，宣布GameCube全部停产。
+
+
+微软的XBOX（2009年停产）
+
+为了给XBOX的继任机种Xbox360上市拓展道路，微软的XBOX主机秘密停止市场宣传，并在2009年宣布全部停产。
+
+
+
+PlayStation 2 slimline[编辑]
+2004年初，索尼宣布推出PlayStation 2的超薄版“PlayStation 2 slimline”，在2004年11月3日开售。价格与PlayStation 2一样。但机身尺寸大小足足减少了130%，由30.1 cm X 17.6 cm X 7.8 cm减少至23 cm x 15.2 cm x 2.8 cm。性能与功能和原版没有分别，依然兼容任何PS1的游戏。随后PS2原版退出市场。直到目前为止PlayStation 2 slimline还是全世界最轻薄的家用游戏机的记录保持者。
+硬件设计与PlayStation 3的兼容性[编辑]
+PS2的核心，中央处理器（CPU）是采用Emotion Engine（EE），EE为索尼与东芝合作开发的处理器，它是家用机领域首次采用的将GPU内存直接植入绘图芯片的设计，EE整合了CPU核心、2组向量处理单元（VPU）、1组图形处理单元（IPU），以及内存控制器、I/O界面、与图形合成器（Graphics Synthesizer, GS）沟通的界面，拥有16KB暂存内存（Scratchpad memory），8KB资料快取，16KB指令快取。
+EE是采用128位架构，相比起个人电脑流行的16、32或64位架构，EE的设计领先许多，目的是加强CPU的寻址能力，提高同时处理大量数据的能力，以应付同时间的复杂画面计算。
+GS是16管线的GPU，并无特殊之处。但是内存界面设计非常前卫。内存总线被分成3个系统，包括1024bit读取、1024bit写入、512bit读写双向，即总带宽高达2560 bit，嵌入于GPU的DRAM可以提供48GB/s的资料传输带宽。当时2000年的最强的显卡NVIDIA GeForce2 Ultra内存带宽只有7.36GB/s。
+PS2的后继机种 PlayStation 3（PS3）的GPU内存带宽只有22.4 GB/s，让PS3对PS2软件的兼容性出了很大的问题。早期的解决方法是在PS3主机内加入EE和GS，硬是把PS2的核心零件塞进去，这样PS3便能完全兼容PS2游戏。考虑到成本和PS2销售（PS2在PS3推出后一段长时间仍销售，在2007年更推出全新的PS2 SCPH-90000系列），因此索尼之后推出的PS3取消了EE，改以软件模拟的方式执行PS2游戏，但这会造成部分游戏无法顺利于PS3上运作，而且由于使用者无法得知哪一款PS2游戏能兼容以软件模拟的PS3，最后索尼在这之后推出的PS3便完全不兼容任何PS2的游戏。
+详细规格[编辑]
+
+
+
+
+xEmotion Engine CXD9615GB
+
+
+
+
+
+
+专用CD-ROM
+
+
+
+
+
+
+专用DVD-ROM
+
+
+
+
+
+
+PlayStation 2 slim's主板
+
+
+
+
+
+
+贩售PS2的商店
+
+
+
+CPU
+
+128 bit Emotion Engine
+运作主频：294.912 MHz
+16KB暂存内存RAM (SPRAM)
+8KB资料快取
+16KB指令快取
+主内存：32MB Direct Rambus DRAM
+主内存带宽：3.2GB/s
+浮点运算效能：6.2GFLOPS
+整数运算单元：64-bit
+多媒体扩充指令：128-bit * 107个
+通用暂存器：128-bit * 32个
+TLB (Translation-Lookaside Buffer): 48 double entries
+直接内存存取（DMA）: 10 channels
+辅助处理器1: FPU
+辅助处理器2: VU0
+向量处理器：VU1
+制程：0.18μm（厚版）、90nm（薄版）
+核心电压：1.8伏特
+耗电量：15W
+晶体管数：10.5 M
+芯片尺寸：240 mm^2
+封装：540 sockets, PBGA
+
+
+GPU
+
+Graphics Synthesizer
+GPU运作主频：147.456 MHz
+VRAM：混合搭载4MB DRAM
+DRAM带宽：48GB／秒
+DRAM带宽：2560 bit
+像素结构：64位（24位RGB，8位alpha通道，32位z缓冲）
+像素填充率：2.4G像素／秒
+
+
+音效
+
+SPU2+CPU (PCM)
+SPU2用RAM：2MB
+Dolby Digital、DTS 96/24
+
+
+媒体
+
+DVD-ROM光驱
+
+DVD为4倍速，CD为24倍速读取。
+
+
+
+
+影像输出能力
+
+AV端子、S-端子、色差端子
+
+
+原生输出分辨率
+
+480i、480p或1080i
+
+
+声音输出能力
+
+红白线、S/PDIF（光纤）
+
+
+
+累计生产销售量[编辑]
+
+2000年3月4日于日本全球首发
+2001年3月23日全球1,000万部
+2001年10月10日全球2,000万部
+2002年5月全球3,000万部
+2002年9月19日全球4,000万部
+2003年1月15日全球5,000万部
+2003年9月6日全球6,000万部
+2004年1月13日全球7,000万部
+2004年12月31日全球8,000万部
+2005年6月2日全球9,000万部
+2005年11月29日全球1亿部（PlayStation 2成为当时最快达到一亿部销量的游戏机，现纪录保持者为Nintendo DS）
+
+附属周边[编辑]
+
+Sony PlayStation 2 NETWORK ADAPTOR 网络卡（SCPH-10350）
+Sony PlayStation 2 EXPANSION BAYタイプ 40GB（3.5吋 40GB硬盘）（SCPH-20401）
+Sony PlayStation BB Unit（含PlayStation BB Navigator Version 0.10（CD-ROM 两张）和SCPH-10350及SCPH-20401）
+
+型号[编辑]
+
+
+迭代
+1代
+2代
+3代
+4代
+5代
+6代
+
+
+型号前缀
+SCPH-1x000
+SCPH-3x00x
+SCPH-5x00x
+SCPH-7000x
+SCPH-7500x
+SCPH-7700x
+SCPH-7900x
+SCPH-9000x
+
+
+GPU制程
+0.25μm
+0.18μm
+0.18μm
+90nm
+90nm
+90nm
+
+
+CPU制程
+0.25μm
+0.18μm
+0.18μm
+90nm
+90nm
+90nm
+
+
+硬盘槽
+无（有PCMCIA扩展卡槽）
+有（IDE界面）
+有（IDE界面）
+无
+无
+无
+
+
+HD Loader
+不支持
+支持
+支持
+支持（无硬盘位，需自行改造）
+不支持
+不支持
+
+
+USB端口
+2
+2
+2
+2
+2
+2
+
+
+制造地
+日本（至少有5家工厂参与组装）
+日本
+3900x为日本/中国（中国方面，委托生产商为华硕/MAINTEK或富士康）
+日本（第一批次）/中国
+中国（注：2003年底索尼宣布PS2组装工作完全移转至中国）
+中国
+中国
+
+
+备注
+只限日本发售，故障率高，有FMV（Full Motion Video）问题
+开始出口欧美，可靠性极大提高
+取消1394接口，降低风噪，生产简化
+第一代薄版，使用外置电源
+
+内建变压器，发热大幅降低
+
+
+
+PlayStation 2[编辑]
+
+PlayStation 2 型号列表
+
+
+
+迭代
+1代
+2代
+3代
+
+
+
+型号
+
+
+
+SCPH-10000
+SCPH-15000
+SCPH-18000
+
+
+
+
+SCPH-30000
+SCPH-30001
+SCPH-30001 R
+SCPH-30002
+SCPH-30002 R
+SCPH-30003
+SCPH-30003 R
+SCPH-30004
+SCPH-30004 R
+SCPH-30005 R
+SCPH-30006 R
+SCPH-30007 R
+
+
+
+
+
+SCPH-30000
+
+
+
+
+
+SCPH-35000 GT
+SCPH-35001 GT
+SCPH-35002 GT
+SCPH-35003 GT
+SCPH-35004 GT
+SCPH-35005 GT
+SCPH-35006 GT
+SCPH-35007 GT
+
+
+
+
+SCPH-37000
+SCPH-37000 B
+SCPH-37000 L
+
+
+
+
+SCPH-39000
+SCPH-39000 RC
+SCPH-39001
+SCPH-39001 N
+SCPH-39002
+SCPH-39003
+SCPH-39004
+SCPH-39005
+SCPH-39006
+SCPH-39007
+SCPH-39008
+
+
+
+
+
+SCPH-39000
+
+
+
+
+
+SCPH-50000
+SCPH-50000 MB/NH
+SCPH-50001
+SCPH-50001 N
+SCPH-50002
+SCPH-50003
+SCPH-50003 SS
+SCPH-50004
+SCPH-50004 SS
+SCPH-50005 N
+SCPH-50006
+SCPH-50007
+SCPH-50008
+SCPH-50009
+
+
+
+
+SCPH-55000 GT
+SCPH-55000 GU
+SCPH-55005 GTN
+SCPH-55006 GT
+SCPH-55007 GT
+
+
+
+
+
+
+PlayStation 2 Slimline[编辑]
+
+PlayStation 2 Slimline 型号列表
+
+
+
+迭代
+4代
+5代
+6代
+
+
+
+型号
+
+
+
+SCPH-70000 CB
+SCPH-70001 CB
+SCPH-70002 CB
+SCPH-70003 CB
+SCPH-70004 CB
+SCPH-70005 CB
+SCPH-70006 CB
+SCPH-70007 CB
+SCPH-70008 CB
+
+
+
+
+
+SCPH-70004
+
+
+
+
+
+SCPH-75000 CB/FF/SS
+SCPH-75001 CB
+SCPH-75002 CB
+SCPH-75003 CB
+SCPH-75004 CB
+SCPH-75005 CB
+SCPH-75006 CB
+SCPH-75007 CB
+SCPH-75008 CB
+
+
+
+
+
+SCPH-75007
+
+
+
+
+
+SCPH-77000 CB/PK (Limited)
+SCPH-77001 CB
+SCPH-77002 CB
+SCPH-77003 CB
+SCPH-77004 CB
+（无SCPH-77005 CB）
+SCPH-77006 CB
+SCPH-77007 CB
+SCPH-77008 CB
+
+
+
+
+SCPH-79000 CB
+SCPH-79001 CB
+SCPH-79002 CB
+SCPH-79003 CB
+SCPH-79004 CB
+（无SCPH-79005 CB）
+SCPH-79006 CB
+SCPH-79007 CB
+SCPH-79008 CB
+
+
+
+
+SCPH-90000 CB/CW/SS
+SCPH-90001 CB
+SCPH-90002 CB
+SCPH-90003 CB
+SCPH-90004 CB
+SCPH-90005 CB
+SCPH-90006 CB
+SCPH-90007 CB/CW/SS/CR
+SCPH-90008 CB
+
+
+
+
+型号说明[编辑]
+SCPH-9*为内置电源变压器，无需外置式电源变压器
+
+
+区域代码[编辑]
+
+
+结尾区域代码
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+地区
+日本
+北美、巴西等地区
+澳洲、新西兰等地区
+英国
+欧洲
+韩国
+新加坡、马来西亚、泰国、印度尼西亚、越南、香港等地区
+台湾
+俄罗斯、印度等地区
+中国大陆
+
+
+系统规格
+NTSC-J
+NTSC-U/C
+PAL
+PAL
+PAL
+NTSC-J
+NTSC-J
+NTSC-J
+PAL
+NTSC-C
+
+
+颜色代码[编辑]
+
+
+结尾颜色代码
+CB
+CW
+PK
+AQ
+SS
+CR
+
+
+颜色
+黑色
+白色
+粉红色
+蓝色
+银色
+红色
+
+
+游戏[编辑]
+参见：PlayStation 2游戏列表和最畅销的PlayStation 2游戏列表
+IGN网站前百大经典游戏[编辑]
+Top 100 PlayStation 2 Games
+VGChartz网站票选前十大经典游戏[编辑]
+
+汪达与巨像
+Final Fantasy X
+ICO古堡迷踪
+战神I
+侠盗猎车手圣安地列斯
+生化危机4
+合金装备3
+王国之心IIFinalMix+
+GT赛车GT4
+女神异闻录3
+
+Fami通台湾读者票选游戏[编辑]
+
+Final Fantasy X
+鬼武者3
+勇者斗恶龙VIII
+真三国无双4
+超级机器人大战MX
+Final Fantasy X-2
+战国无双
+合金装备3
+勇者斗恶龙V
+零-红蝶
+第三次超级机器人大战阿法终焉的银河
+真三国无双3
+GT赛车4
+王国之心
+火影忍者~终极英雄2
+零~刺青之声
+
+Fami通满分40分游戏[编辑]
+
+Final Fantasy XII
+
+Fami通满分39分游戏[编辑]
+
+OKAMI大神
+GT赛车3: A-Spec
+Final Fantasy X
+合金装备3
+王国之心II
+
+Fami通满分38分游戏[编辑]
+
+如龙2
+
+周边硬件[编辑]
+
+
+
+
+
+
+
+DualShock 2（型号为SCPH-10010）
+
+
+
+
+
+
+
+
+
+8MB记忆卡（型号为SCPH-10020）
+
+
+
+
+
+
+
+
+
+PlayStation BB Unit（Expansion Bay型）
+
+
+
+
+
+
+
+
+
+PS2 Linux套件
+
+
+
+
+
+
+
+
+
+EyeToy
+
+
+
+
+
+
+
+
+
+《电车GO!》专用控制器（第2型）
+
+
+
+
+加密与破解[编辑]
+与前代Playstation一样，Playstation 2具有防盗版保护机制。原装压制的盘片1-23道具有逻辑混乱的误码，主机正是通过读取这部分误码来判断游戏是否为正版。刻录复制的盘片，误码由于会被电脑刻录机的自动纠错机制修复或忽略，因此不能通过PS2的检查。同时，PS2播放DVD电影的功能也会检查DVD的区码。[5]
+唯一的例外是“开发机”(Playstation 2 Developer Kit，货号DTL-T10000HA）没有设置任何防盗版保护机制，可以运行复制光盘和自制软件。但这种机器发行量非常少，索尼将这种设备视为资产，只以租借的形式提供给授权开发商，在PS2失去商业价值后索尼放松管理，才有少量流入市场。
+传统的直读芯片（MODCHIP）法在PS2上市不久就被专业黑客开发出来，这种方法在PS1的破解上便有用到。他的原理是通过逻辑分析，定制出专门功能的单片机，让主机跳过误码判断直接读取盘片有效内容，一些MODCHIP也能帮助主机跳过DVD区码检查。索尼对MODCHIP曾采取过措施，包括硬件布局改动使得相关附加电路在物理上更难加装，后期出版的一些软件也具有在MODCHIP存在的情况下侦测并阻止复制光盘运行的功能。不过MODCHIP也是历经不断的改版升级，后期版本已经达到了接近完美的兼容性。
+后来索尼为网络游戏提速而增设的网卡/硬盘扩展装置被黑客加以利用，而开发了可直接利用机载硬盘读取游戏的功能。尤其是在2008年推出的免费软件Free Mcboot，利用了引导卡的权限漏洞，能以软件方式修改启动菜单使用户运行自制软件，一些自制软件，如HDLoader或OpenPS2Loader，功能强大，可突破原网卡套装40GB硬盘的限制(后期的版本甚至能识别48bit LBA，能支持市售容量最大的IDE硬盘，容量高达750GB），并且能通过USB（因接口版本为1.1，速度较慢），硬盘，和PC SMB网络服务器的方式直接运行游戏，完全绕开了原机光驱和防盗版的限制，而且根本不需对原机电路进行任何物理改造。由于此破解方式出现于PS2生命周期末期，索尼并没有下大力封堵，且网卡硬盘套件有限的售出量和2004年后生产的Slim型没有硬盘位的设计也限制了这种改造方式的影响，不过还是在PS2的最后一个版本（9000x后末期批次）在硬件上彻底堵绝了使用HDLoader的可能性，此举的象征意义大于经济意义。
+Free McBoot引导卡还有一种衍生软件叫做ESR，也叫做软直读，不需配套使用网卡或硬盘。原理是在电脑上处理原版镜像，把游戏盘伪装成DVD电影以欺骗主机开始读取。这种方法同样不需改装电路，只需有“引导卡”，但由于电影读取模式会把光驱的读取限定为单倍速，而在特定需要较大带宽的场合不能启用2倍速的高速模式，造成读取不够连贯的情况。
+另见[编辑]
+
+
+电子游戏主题
+PlayStation主题
+索尼主题
+
+
+
+
+
+维基共享资源中相关的多媒体资源：PlayStation 2
+
+
+
+PCSX2，Windows与Linux平台上的PlayStation 2模拟器
+PSX，基于PlayStation 2的多功能媒体设备
+第六世代游戏机历史
+
+参考[编辑]
+
+
+^ https://www.hollywoodreporter.com/news/sonys-playstation-2-reaches-150-99502
+^ 寿命长达12年的PS2昨日正式停止销售
+^ 《最终幻想11》网游历时十四年 主机版正式停运. 新浪游戏. 2016年4月1日 （中文（中国大陆）‎）. 
+^ PS2完美谢幕 史上最强游戏主机当之无愧. 腾讯网. 2016年4月12日 （中文（中国大陆）‎）. 
+^ http://www.ps2-chips.com/
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+PlayStation
+
+
+
+
+
+
+
+
+
+索尼互动娱乐
+索尼互动娱乐全球工作室
+
+
+
+
+
+
+
+
+游戏机
+
+
+
+
+家用平台
+
+
+
+PlayStation
+
+机型（英语：PlayStation models）
+硬件（英语：PlayStation technical specifications）
+
+
+PlayStation 2
+
+机型（英语：PlayStation models）
+硬件（英语：PlayStation technical specifications）
+
+
+PlayStation 3
+
+机型（英语：PlayStation models）
+硬件
+系统软件
+
+
+PlayStation 4
+
+硬件（英语：PlayStation technical specifications）
+系统软件
+
+
+
+
+
+
+
+
+
+
+便携平台
+
+
+
+PlayStation Portable
+
+系统软件
+
+
+PlayStation Vita
+
+系统软件
+
+
+
+
+
+
+
+
+
+
+多媒体平台
+
+
+
+PocketStation（英语：PocketStation）
+PSX
+PlayStation TV
+
+
+
+
+
+
+
+
+
+
+
+游戏
+
+
+
+
+PS1游戏
+
+
+
+最畅销
+最经典（英语：Lists of PS one Classics）
+
+北美（英语：List of PS one Classics (North America)）
+PAL区（英语：List of PS one Classics (PAL region)）
+日本（英语：List of PS one Classics (Japan)）
+
+
+
+
+
+
+
+
+
+
+PS2游戏
+
+
+
+最畅销
+在线游戏（英语：List of PlayStation 2 online games）
+高清游戏（英语：List of PlayStation 2 games with alternate display modes）
+兼容PS3的PS2游戏（英语：List of PlayStation 2 Classics for PlayStation 3）
+兼容PS4的PS2游戏（英语：List of PlayStation 2 games for PlayStation 4）
+
+
+
+
+
+
+
+
+PS3游戏
+
+
+
+最畅销（英语：List of best-selling PlayStation 3 video games）
+光盘发行
+数字发行（英语：List of download-only PlayStation 3 games）
+双渠道发行（英语：List of PlayStation 3 disc games released for download）
+兼容PS3的PS和PS2游戏（英语：List of PlayStation and PlayStation 2 games compatible with PlayStation 3）
+3D游戏（英语：List of PlayStation 3 games with 3D support）
+PS Move游戏（英语：List of PlayStation Move games）
+PS Now游戏（英语：List of PlayStation Now games）
+
+
+
+
+
+
+
+
+PS4游戏
+
+
+
+最畅销（英语：List of best-selling PlayStation 4 video games）
+光盘发行（英语：List of PlayStation 4 games released on disc）
+PSVR游戏（英语：List of PlayStation VR games）
+3D游戏
+
+
+
+
+
+
+
+
+PSP游戏
+
+
+
+双渠道发行（英语：List of downloadable PlayStation Portable games）
+系统软件兼容性（英语：List of PlayStation Portable system software compatibilities）
+PS Minis（英语：List of PlayStation minis）
+
+
+
+
+
+
+
+
+其他
+
+
+
+PSV游戏
+PS Mobile游戏（英语：List of PlayStation Mobile games）
+TurboGrafx-16游戏（英语：List of PlayStation Store TurboGrafx-16 games）
+NEOGEO Station（英语：NEOGEO Station）
+高清复刻游戏（英语：High-definition remasters for PlayStation consoles）
+即时游戏
+
+北美区（英语：List of Instant Game Collection games (North America)）
+PAL区（英语：List of Instant Game Collection games (PAL region)）
+亚洲区（英语：List of Instant Game Collection games (Asia)）
+日本区（英语：List of Instant Game Collection games (Japan)）
+中国区（英语：List of Instant Game Collection games (China)）
+
+
+
+
+
+
+
+
+
+
+再版
+
+
+
+Greatest Hits
+Essentials（英语：Essentials (PlayStation)）
+The Best
+BigHit Series（英语：BigHit Series）
+
+
+
+
+
+
+
+
+
+
+
+网络
+
+
+
+PlayStation Network
+2011年服务瘫痪
+中央车站（英语：Central Station (online gaming service)）
+FirstPlay（英语：FirstPlay）
+PlayStation App
+PlayStation Blog（英语：PlayStation Blog）
+PlayStation Home
+PlayStation Mobile（英语：PlayStation Mobile）
+PlayStation Music（英语：PlayStation Music）
+PlayStation Now
+PlayStation Store
+PlayStation Video（英语：PlayStation Video）
+PlayStation Vue（英语：PlayStation Vue）
+PS2在线（英语：PlayStation 2 online functionality）
+PSP网络会客室（英语：Room for PlayStation Portable）
+VidZone（英语：VidZone）
+
+
+
+
+
+
+
+
+配件
+
+
+
+
+控制器
+
+
+
+PS手柄（英语：PlayStation Controller）
+PS鼠标（英语：PlayStation Mouse）
+模拟游戏杆（英语：PlayStation Analog Joystick）
+双模拟手柄（英语：Dual Analog Controller）
+DualShock
+Sixaxis（英语：Sixaxis）
+PlayStation Move
+
+
+
+
+
+
+
+
+摄像头
+
+
+
+EyeToy（英语：EyeToy）
+Go!Cam（英语：Go!Cam）
+PS Eye（英语：PlayStation Eye）
+PS摄像头（英语：PlayStation Camera）
+
+
+
+
+
+
+
+
+杂项
+
+
+
+多接头插件（英语：PlayStation Multitap）
+链路电缆（英语：PlayStation Link Cable）
+PS2配件（英语：PlayStation 2 accessories）
+PS2耳机（英语：PlayStation 2 Headset）
+PS3配件（英语：PlayStation 2 accessories）
+PlayTV（英语：PlayTV）
+魔法书（英语：Wonderbook）
+PlayStation VR
+
+
+
+
+
+
+
+
+
+
+
+套件
+
+
+
+Net Yaroze（英语：Net Yaroze）
+PS2 Linux（英语：Linux for PlayStation 2）
+GScube（英语：GScube）
+OtherOS（英语：OtherOS）
+Zego（英语：Zego）
+
+
+
+
+
+
+
+
+媒体
+
+
+
+
+杂志
+
+
+
+PS美国官方杂志
+PS官方杂志
+PS英国官方杂志
+PS澳洲官方杂志（英语：PlayStation Official Magazine – Australia）
+PlayStation Underground（英语：PlayStation Underground）
+
+
+
+
+
+
+
+
+广告
+
+
+
+双重人生（英语：Double Life (PlayStation ad)）
+游戏巅峰（英语：Mountain (advertisement)）
+PS市场推广（英语：Sony marketing）
+
+
+
+
+
+
+
+
+角色
+
+
+
+多乐猫
+多边形人（英语：Polygon Man）
+凯文·巴特勒（英语：Kevin Butler (character)）
+马库斯·里弗斯（英语：Marcus Rivers）
+
+
+
+
+
+
+
+
+
+
+
+街机主板
+
+
+
+系统11（英语：Namco System 11）
+系统12（英语：Namco System 12）
+系统10（英语：Namco System 10）
+系统246
+系统357（英语：Namco System 357）
+
+
+
+
+
+
+
+
+相关产品
+
+
+
+Super NES CD-ROM（英语：Super NES CD-ROM）
+Sony Ericsson Xperia Play
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+第六世代游戏机
+
+
+
+
+
+
+家用游戏机
+
+
+
+Dreamcast
+任天堂GameCube
+PlayStation 2
+Xbox
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+Game Boy Advance
+N-Gage
+Neo Geo Pocket Color
+WonderSwan Color
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+家用游戏机
+
+
+
+
+
+
+雅达利
+
+
+
+雅达利2600
+雅达利5200
+雅达利7800
+雅达利Jaguar
+雅达利XEGS（英语：Atari XEGS）
+乓
+
+
+
+
+
+
+
+
+万代
+
+
+
+Apple Pippin
+Bandai Super Vision 8000（英语：Bandai Super Vision 8000）
+Playdia
+
+
+
+
+
+
+
+
+卡西欧
+
+
+
+卡西欧Loopy
+PV-1000（英语：PV-1000）
+
+
+
+
+
+
+
+
+Commodore国际
+
+
+
+Amiga CD32（英语：Amiga CD32）
+Amiga CDTV（英语：Amiga CDTV）
+Commodore 64 Games System（英语：Commodore 64 Games System）
+
+
+
+
+
+
+
+
+微软
+
+
+
+Xbox
+Xbox 360
+Xbox One
+
+
+
+
+
+
+
+
+日本电气
+
+
+
+PC Engine
+PC-FX
+
+
+
+
+
+
+
+
+任天堂
+
+
+
+红白机
+超级任天堂
+任天堂64
+GameCube
+Wii
+Wii U
+任天堂Switch
+
+
+
+
+
+
+
+
+飞利浦
+
+
+
+米罗华奥德赛²
+CD-i
+
+
+
+
+
+
+
+
+世嘉
+
+
+
+SG-1000
+世嘉Master System
+Mega Drive
+世嘉土星
+Dreamcast
+
+
+
+
+
+
+
+
+SNK Playmore
+
+
+
+Neo Geo
+Neo Geo CD（英语：Neo Geo CD）
+
+
+
+
+
+
+
+
+索尼
+
+
+
+PlayStation
+PlayStation 2
+PlayStation 3
+PlayStation 4
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+
+1970年代
+
+
+
+
+APF-MP1000
+Bally Astrocade
+Fairchild Channel F
+Intellivision
+米罗华奥德赛
+RCA Studio II
+VC 4000 / 1292高级可编程视频系统
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+Action Max（英语：Action Max）
+Arcadia 2001
+ColecoVision
+Cassette Vision
+Halcyon
+Vectrex
+VTech CreatiVision（英语：VTech CreatiVision）
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+3DO
+Amstrad GX4000（英语：Amstrad GX4000）
+CP System
+FM Towns Marty
+Pioneer LaserActive
+Super A'Can
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+Zeebo
+战斧F1
+刀锋TGPBOX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：PlayStation 2第六世代游戏机索尼游戏机家用游戏机2000年面世的产品隐藏分类：自2017年4月需要改写成文章叙述的条目使用过时图像语法的页面

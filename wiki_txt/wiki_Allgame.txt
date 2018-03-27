@@ -1,0 +1,2 @@
+AllGame
+AllGame（原名All Game Guide）是一个关于街机、电子游戏以及电子游戏机生产商的数据库。

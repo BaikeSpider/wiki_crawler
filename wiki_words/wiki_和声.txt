@@ -1,0 +1,160 @@
+和声
+
+
+
+
+
+本条目需要扩充。（2013年12月19日） 
+请协助改善这篇条目，更进一步的信息可能会在讨论页或扩充请求中找到。请在扩充条目后将此模板移除。 
+
+
+ 本文介绍的是广义的和声（harmony）。
+
+关于西方古典音乐和流行方乐常用的和弦（chord），请见“和弦”。
+关于以声乐进行和声的音乐家，请见“和声歌手”。
+
+
+
+
+
+
+大三和弦由三个不同频率的声音组成，而这三个频率的比例接近6:5:4.
+
+
+和声学是关于乐音音频同时性（也包括续时性）分布自然法则描述、总结性的音乐理论学科，对于理解音乐构成及其自然逻辑意义有着重要的作用。
+在音响（sound）的范畴里，广义的和声（harmony）可以是指任何由超过一个频率所组合而成的声音。但在西方音乐里面，和声也常常用来描述不同和弦（chord）的配搭手法，而和弦则通常较为狭义地描述同一时间演奏两个或以上不同音高，但这两个词语在许多时候可以通用。
+和声和旋律（melody）的分别是，旋律是指在不同的时间演奏不同的音高。和声学通常是研究如何在同一时间演奏不同的音高而获得协和或不协和的效果，而对位法则是研究如何在同一时间结合两个不同的旋律。在音乐史上不同的时期对和声学以及对位法都有不同的理解，对于何谓协和或者不协和的看法，随着时代不断改变。
+
+
+
+目录
+
+
+1 定义
+2 参考文献
+3 外部链接
+4 参见
+
+
+
+定义[编辑]
+“和声（harmony）”一词是从希腊语 ἁρμονία (harmonía)一词衍生出来的，其意为“联合，认同，和睦”[1] 。ἁρμόζω (harmozo)，“相互适应，去参与”。[2] 当“音乐”通常意义上的艺术一部分时，这个词经常在音乐界使用。在古希腊，这个词被定义为相对事物的一个整合: 在这里而言，就是相对的高音与相对的低音的一个整合。[3] 虽然有这样一个来源，但至于说“同时发声的一组音符是否是古希腊的音乐习惯的一部分”仍然不是很清楚；“harmonía”一词也许仅仅提供了一个对于“不同音高同时发声”这一现象的系统化的分类。在中世纪这个名词用来形容两个音高的同时发声，在文艺复兴时期这个概念被扩大到三个音高的同时发声。[3]
+
+
+
+
+让-菲利普·拉莫 在1722年所作的'Traité de l'harmonie' (《和声学》)
+
+
+直到1722年让-菲利普·拉莫所作的'Traité de l'harmonie' （《和声学》）都没有发表。这是因为这个著作里提到了许多音乐术语——即便这些术语前人已经用过了。经过整合著作中这些预先建立的创作的原则，在此之后的相关和声规则的原理著作就变得相互圆融了（那种状态更像是“友好”）。[4]
+在现在的词典中，经常试图给予简洁解释并更加强调这个词在现代的使用中的多重含义。多重含义包含两点：一方面是艺术的审美方面之互相认同（比如一种观点认为“愉快”的和谐从而达到均衡（harmonious）状态）；另一方面是指具体音乐（结构）上。(“和声的（harmonic）”(不同音高同时发声)有别于“对位的（contrapuntal）”（正确位置的音））[4]。阿诺德.惠托尔（Arnold Whittall）说：
+
+While the entire history of music theory appears to depend on just such a distinction between harmony and counterpoint, it is no less evident that developments in the nature of musical composition down the centuries have presumed the interdependence—at times amounting to integration, at other times a source of sustained tension—between the vertical and horizontal dimensions of musical space.
+——[4]
+
+汉语译文：
+
+“当音乐理论史看似取决于和声与对位之间的的差异, 这同时表明音乐创作的性质从古至今一直以［这两者间的］相互依靠为基础进行演化－有时体现为它们的相互契合，有时体现为它们的持续对峙－［这两者］是音乐空间里纵向以及横向的维度。”
+——[4]
+
+“现代西方音乐调性和声开始于十七世纪”这一观点已经成为了音乐理论中的常识。通常认为和声是横向(对位) 创作的“替代”，这种现象在文艺复兴时期的音乐普遍。曲谱的‘纵向' 元素成为了重点。现代的理论家，无论如何，往往将其视作一种并不令人愉快的概括。就像卡尔．达尔豪斯（Carl Dahlhaus）所说：
+
+It was not that counterpoint was supplanted by harmony (Bach’s tonal counterpoint is surely no less polyphonic than Palestrina’s modal writing) but that an older type both of counterpoint and of vertical technique was succeeded by a newer type. And harmony comprises not only the (‘vertical’) structure of chords but also their (‘horizontal’) movement. Like music as a whole, harmony is a process.
+——[5][6]
+
+参考文献[编辑]
+
+
+^ '1. Harmony' The Concise Oxford Dictionary of English Etymology in English Language Reference accessed via Oxford Reference Online (24 February 2007)
+^ Harmonia, Henry George Liddell, Robert Scott, "A Greek-English Lexicon", at Perseus
+^ 3.0 3.1 Dahlhaus, Carl. Harmony. (编) Macy, Laura. Grove Music Online. Oxford Music Online. Oxford University Press.  
+^ 4.0 4.1 4.2 4.3 Arnold Whittall, The Oxford Companion to Music, ed. Alison Latham, (Oxford University Press, 2002) (accessed via [Oxford Reference Online], 16 November 2007 is gayubview=Main&entry=t114.e3144 )
+^ Harmony, §3: Historical development. Carl Dahlhaus. (编) Macy, Laura. Grove Music Online. Oxford Music Online. Oxford University Press.  
+^ see also Whittall 'Harmony: 4. Practice and Principle', Oxford Companion to Music
+
+
+外部链接[编辑]
+
+和声学基础与和声学习的方法
+
+参见[编辑]
+
+乐理
+和弦
+音阶
+对位法
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4129030-6
+NDL: 00574160
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+和声
+
+
+
+
+
+
+
+
+
+伴奏
+阿尔贝蒂低音（英语：阿尔贝蒂低音）
+班卓琴伴奏模式（英语：班卓琴伴奏模式）
+终止
+和弦
+和弦进行（英语：和弦进行）
+四部和声（英语：四部和声）
+和声节奏（英语：和声节奏）
+协调（英语：协调）
+和弦列表（英语：和弦列表）
+和弦进行列表（英语：和弦进行列表）
+音符
+音高
+模进
+同时性（英语：同时性 (音乐)）
+声部进行（英语：声部进行）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：美学概念和声音乐理论隐藏分类：含有连结内容需订阅查看的页面自2013年12月扩充中的条目包含规范控制信息的维基百科条目

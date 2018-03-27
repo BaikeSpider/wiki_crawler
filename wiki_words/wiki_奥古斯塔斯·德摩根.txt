@@ -1,0 +1,149 @@
+奥古斯塔斯·德摩根
+
+
+
+
+
+本条目需要扩充。（2011年8月12日） 
+请协助改善这篇条目，更进一步的信息可能会在讨论页或扩充请求中找到。请在扩充条目后将此模板移除。 
+
+
+
+
+奥古斯塔斯·德摩根
+(Augustus De Morgan)
+
+
+
+奥古斯塔斯·德摩根(1806-1871)。
+
+
+
+出生
+(1806-06-27)1806年6月27日
+ 不列颠帝国马德拉斯行政区（英语：Madras Presidency）马杜赖 (今属印度)
+
+
+逝世
+1871年3月18日(1871-03-18)（64岁）
+ 英国伦敦
+
+
+居住地
+印度，英格兰
+
+
+国籍
+ 英国
+
+
+母校
+剑桥大学三一学院
+
+
+知名于
+德摩根定律
+德摩根代数（英语：De Morgan algebra）
+关系代数
+泛代数
+
+
+科学生涯
+
+
+研究领域
+数学，逻辑学
+
+
+机构
+伦敦大学学院
+University College School
+
+
+学术顾问
+John Philips Higman
+乔治·皮科克
+威廉·休厄尔
+
+
+著名学生
+爱德瓦·劳斯（英语：Edward Routh）
+詹姆斯·西尔维斯特
+Frederick Guthrie
+威廉·杰文斯
+爱达·勒芙蕾丝
+Francis Guthrie
+Stephen Joseph Perry
+
+
+受影响于
+乔治·布尔
+
+
+施影响于
+托马斯·寇文·门登哈尔（英语：Thomas Corwin Mendenhall）
+艾萨克·托德夯特（英语：Isaac Todhunter）
+
+
+备注
+
+
+
+他是陶匠兼任瓦片图案设计师威廉(William De Morgan)的父亲。
+
+
+
+奥古斯塔斯·德摩根（Augustus De Morgan，1806年6月27日－1871年3月18日，英语发音[ɔːˈgʌstəs də ˈmɔːgən]），英国数学家、逻辑学家。他明确陈述了德摩根定律，将数学归纳法的概念严格化。他生前多以报刊评论员的身份而知名。[1]
+
+
+
+目录
+
+
+1 生平
+
+1.1 童年
+1.2 大学教育
+1.3 伦敦大学
+1.4 退休至逝世
+
+
+2 数学成就
+3 思想
+4 纪念
+5 参考资料
+
+
+
+生平[编辑]
+童年[编辑]
+他生于印度马德拉斯行政区（英语：Madras Presidency）。其父在东印度公司工作，母亲是詹姆斯·多德森（英语：James Dodson）（曾编制反对数表）的后代。
+其姓氏中的“de”可作介词用，相当于英文的“of”；而“Morgan”本意为“早晨”。
+在他7个月大时，全家迁回英国。10岁时，父亲去世，她母亲带他搬到英国西部。其数学才华一直未被发现，直至十四岁时，一位家庭的朋友意外发现他精心绘制的尺规作图。
+他有一目失明。于是他求学时期没有参与任何体育活动，因此被同学取笑。
+他的母亲是英国教会的活跃分子，寄望儿子成为牧师。而他的中学老师，毕业于牛津大学奥里尔学院的帕森斯，是个擅长古典文学多于数学的人。可是他都不受这些长辈的影响。
+大学教育[编辑]
+1823年，16岁的他进入剑桥大学三一学院，与乔治·皮库克和威廉·修艾尔成为终身的好朋友。他受皮库克影响，引起了对代数和逻辑的兴趣。
+他主要的娱乐是笛。
+伦敦大学[编辑]
+退休至逝世[编辑]
+数学成就[编辑]
+思想[编辑]
+18世纪时仍有数学家怀疑负数的合法性，德摩根是其中的代表。德摩根自己在解代数方程时也会算出负数，但他认为当算出的答案为负数时，必需作特殊的说明，以回避负数本身的数学实在性。[2]德摩根使用负数和虚数，但他仍怀疑它们的数学意义。[3]他认为如果一个问题的最终答案算出来是负数，那说明原问题的提法不对。当算出最终答案为负数后，把原问题反过来提就可以保证答案为正数，困难就解决了。因此，他不认为负数一无是处，计算结果出现负数可以告诉解题者其问题的陈述方式搞反了。[1]
+纪念[编辑]
+
+月球上的德摩根环形山
+
+参考资料[编辑]
+
+
+^ 1.0 1.1 Ralph A. Raimi. Augustus De Morgan and the Absurdity of Negative Numbers. University of Rochester. 1996年 （英语）. In his own time he was better known as a newspaper columnist...","'For example, 8-3 is easily understood; 3 can be taken from 8 and the remainder is 5; but 3-8 is an impossibility; it requires you to take from 3 more than there is in 3, which is absurd. If such an expression as 3-8 should be the answer to a problem, it would denote either that there was some absurdity inherent in the problem itself, or in the manner of putting it into an equation. Nevertheless, as such answers will occur, the student must be aware what sort of mistakes give rise to them, and in what manner they affect the process of investigation...'","... that his general idea, as we shall see, is that playing with absurdities like 3-8 AS IF they made sense can be made to lead to correct final conclusions.","'The principle is, that a negative solution indicates that the nature of the answer is the very reverse of that which it was supposed to be in the solution; for example, if the solution supposes a line measured in feet in one direction, a negative answer, such as -c, indicates that c feet must be measured in the opposite direction; if the answer was thought to be a number of days after a certain epoch, the solution shows that it is c days before that epoch; if we supposed that A was to receive a certain number of pounds, it denotes that he is to pay c pounds, and so on.'  缺少或|url=为空 (帮助); 使用|accessdate=需要含有|url= (帮助)
+^ Negative Numbers. University of North Dakota. [2016年1月12日] （英语）. Augustus de Morgan (1806-1871), an English mathematician, thought numbers less than zero were unimaginable. 
+^ Daniel D. Merrill. Augustus De Morgan and the Logic of Relations. : 185–186. 
+
+
+
+
+
+
+分类：1806年出生1871年逝世英国数学家英国逻辑学家剑桥大学三一学院校友伦敦大学学院教授英国作家英国哲学家英格兰无神论者超心理学家计量语言学伦敦数学学会会长隐藏分类：含有缺少网址的网站引用的页面含有访问日期但无网址的引用的页面CS1英语来源 (en)自2011年8月扩充中的条目含有hCards的条目本地相关图片与维基数据相同使用未知科学家信息框参数的页面

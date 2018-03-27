@@ -1,0 +1,569 @@
+平板电脑
+
+
+
+
+
+
+本条目存在以下问题，请协助改善本条目或在讨论页针对议题发表看法。
+
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。（2013年7月29日） 
+请邀请适合的人士改善本条目。更多的细节与详情请参见讨论页。 
+
+
+
+
+
+
+
+本条目应避免有陈列杂项、琐碎资料的部分。（2011年8月27日） 
+请协助将有关资料重新编排成连贯性的文章，安置于适当章节或条目内。 
+
+
+
+
+
+
+
+本条目需要更新。（2013年12月14日） 
+请更新本文以反映近况和新增内容。完成修改时，请移除本模板。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+苹果公司的iPad平板电脑
+
+
+平板电脑是一种小型的、方便携带的个人电脑，以触摸屏作为基本的输入设备。它拥有的触摸屏（也称为数位板技术）允许用户通过触控笔或数字笔来进行作业而不是传统的键盘和鼠标。多数的平板电脑更支持手指操作，使用手指触控、书写、缩放画面与图片。
+用户可以通过内建的手写辨识、屏幕上的虚拟键盘、语音辨识或者一个真正的键盘（如果该机型配备的话）进行操作。平板电脑还拥有让用户通过触控笔来打字的快速输入软件。
+多数平板电脑使用Wacom数字板，该数字板能快速的将触控笔的位置“告诉”电脑。使用这种数字板的平板电脑会在其显示屏表面产生一个微弱的磁场，该磁场只能和触控笔内的设备发生作用。所以用户可以放心的将手放到显示屏上，因为只有触控笔才会影响到显示屏。然而，因为周围的设备存在干扰的可能，很多态号都发生过游标“颤抖”的问题，这个问题会加深某些操作的难度，例如当试着画直线、写小字等。此外制造这种数字板的公司还有UC Logic以及Finepoint公司。
+
+
+
+目录
+
+
+1 类型
+
+1.1 纯平板型
+1.2 可旋转型
+1.3 混合型
+
+
+2 历史
+3 操作系统
+
+3.1 早期操作系统
+
+
+4 平板电脑的优缺点
+
+4.1 优点
+4.2 缺点
+
+
+5 参考文献
+6 外部链接
+7 参见
+
+
+
+类型[编辑]
+纯平板型[编辑]
+只配置一个显示屏和触控笔的平板电脑为纯平板型；它们可以通过无线技术或USB接口连接键盘、鼠标及其它周边配备。最常见的生产商有Motion Computing/Gateway Computers、富士通、惠普/康柏、亚马逊Kindle、谷歌Nexus和苹果等等
+可旋转型[编辑]
+设备了键盘的平板电脑称为可旋转型。通常来说，键盘覆盖了主板并且通过一个可以水平、垂直180°前后旋转的连接点连接着显示屏。最常见的生产商有惠普、联想、宏碁和东芝。
+混合型[编辑]
+“混合型”的平板电脑跟“可旋转型”类似，但混合型平板电脑的键盘是可以分开的，因此您可以把它当作纯手写或可旋转型使用。最常见的混合型平板电脑生产商有华硕以及微软的Surface系列。
+历史[编辑]
+来自施乐帕洛阿尔托研究中心的艾伦·凯（Alan Kay）在60年代末提出了一种可以用笔输入信息的叫做Dynabook的新型笔记本电脑的构想。然而，帕洛阿尔托研究中心没有对该构想提供支持。第一部用作商业的平板电脑是1989年9月上市的GRiD Systems制造的GRiDPad，它的操作系统基于MS-DOS。另外一部Go Corporation制造的平板电脑Momenta Pentop于1991年上市。1992年，Go推出了一款专用操作系统，命名为PenPoint OS，同时微软公司也推出了Windows for Pen Computing。跟"ThinkPad"这个词暗示的一样，IBM ThinkPad系列的原始型号也都是平板电脑。这些早先的例子都失败了，那令人诟病的手写识别率根本就不匹配用户的需求，并且高居不下的价格和重量也很成问题。譬如说，Momenta重达7磅（大约3.2千克）并且价格高达5000美元。
+平板电脑自从2002年秋季因为微软公司大力推广Windows XP Tablet PC Edition而渐渐变得流行起来。在此之前平板电脑在工业、医学和政府等顾客群内有小型市场。现在它们的主要用户群为学生和专业人员。区分Tablet PC（运行Microsoft Windows XP Tablet PC Edition）和其它平板电脑是很重要的（英文的区别则是Tablet PC和tablet PC，小写“t”），很多厂商都直接称它们为“Tablet”（平板）。它们都是触控笔输入设备，有些软件是专为平板电脑设计的，不能运行在其它设备上。消费者一定要搞清楚软件和硬件的兼容问题因为“平板电脑”并不是单指微软公司一家的产品。
+2010年以后，苹果公司推出的“iPad”迅速热销，同时市场开始多用“Pad”来称呼平板电脑。
+操作系统[编辑]
+早期操作系统[编辑]
+在2000年代平板电脑主要都是运行Windows XP Tablet PC Edition。Tablet PC Edition 2005包含了Service Pack 2并且可免费升级。2005版带来了增强的手写识别率并且改善了输入面板，还让输入面板支持几乎所有程序。在CES 2005期间，微软向用户卖弄了一些下一次升级计划中的特性。下次升级将会允许用户直接在桌面上写字、增加手写便笺时的可视性。
+2006年，微软发布新一代操作系统Windows Vista，在家庭高级版（Home Premium）、商业版（Business）、旗舰版（Ultimate）中均加入了对平板电脑的支持，甚至还专门为之设计了名为“墨球”的自带游戏。
+到了2009年，微软发布了Windows 7系统，在家庭高级版（Home Premium）、商业版（Business）、旗舰版（Ultimate）中进一步加入了对平板电脑的支持，新增虚构键盘，但是平板电脑的市场仍是偏向以PC的角度优化，重量较重，速度又不及传统PC，所以平板电脑仍是无人问律。
+运行Linux是平板电脑的另一个选择。对于一些Linux销售和一些平板电脑，工作过程可能会冗长无味，除非直接购买预装了Linux的平板电脑，跟早期的Lycoris Desktop/LX Tablet Edition一样。Linux天生就缺乏平板电脑专用程序，但随着带有手写识别功能的EmperorLinux Raven X41 Tablet [1]，Linux平板电脑已经改善了许多。
+来自Novell公司的openSUSE Linux也对平板电脑有着部分的支持。作为定制性很强的操作系统，包括Ubuntu Linux，也有人自己动手修改使其支持平板电脑，甚至有人提出发行Tabuntu的Ubuntu派生版本。
+如日立VisionPlate平板电脑就可以选装Linux，并且能够迅速的作为无线X－Window系统终端，摆脱了运行实实在在的程序所需要的硬件，相反的，可以让所有在VisionPlate上的资源都可以用来显示在局域网或更广范围的网络的其他电脑运行的程序。这种方式可以使平板电脑作为一种无线图型终端用在垂直行销市场，比如餐馆的消费终端上。
+但是，在21世纪的最初十年中，平板电脑仍然没有任何起色，操作系统不外乎都是Windows系统，而且不受大众欢迎。
+
+2010年1月27日苹果公司发布了iPad
+2011年3月，Google因应平板电脑市场的成熟，专门为平板电脑设计，新增首页按钮，多功能操作。
+2010年和2011年6月间,平板电脑的销量已经超过一亿有多
+2011年10月，Google再接再励, 进一步优化平板电脑。
+在2011年的下半年，平板电脑市场高速成长，全球平板电脑出货量由以往的四亿急速增长至七亿，而且发展愈来愈成熟。
+到了2012年，平板电脑市场竞争白热化，中国国内厂商也在这年推出很多低价但性能较高的平板电脑
+
+平板电脑的优缺点[编辑]
+平板电脑的优缺点评估是相当主观的，吸引一个用户的特点可能会让另一个用户望而却步。下面列出纯平板电脑相较于一般笔记本电脑的优缺点：
+优点[编辑]
+
+触控是非常有用的工具，当同时和键盘使用时就能大幅度提高效率。例如，平板电脑的某些扩展就支持打开触控笔在屏幕上画的圈包含的所有链接。
+这些不能打字但能握住一支触控笔的用户可以用平板电脑以可接受的速度输入文字。
+大多数平板电脑不会干扰视线,例如开会的时候,因为它们可以平放在桌面或者用户的臂弯上。
+大多数平板电脑可以在用户站着和开会的时候托在臂弯。尺寸与重量也小于大多数的笔记本电脑，携带更为方便。
+目前平板电脑的价格大多在500至3500元范围之内，所以较笔记本电脑而言更容易普及。
+虽小于多数笔记本电脑，但远大于手机，阅读电子书及文件更为合适。
+是科技制造出来的产品
+
+缺点[编辑]
+
+文字输入速度慢：手写输入跟高达30至70个单词每分钟的实体键盘输入速度相比太慢了，目前的平板电脑虚拟键盘的打字速度也不能完全取代传统实体键盘。
+因为使用平板电脑需要长时间低头（在没有配置专用的底座时），对用户的颈椎造成一定损害，主要表现为脖子酸痛、僵硬，颈椎麻木等。
+屏幕尺寸：为便于携带及手持使用，平板电脑屏幕普遍较小，不利于年长者及视力较差者。
+电池使用时间：受目前电池技术的局限，过短的电池使用时间可能会使上面列出的优点湮灭；例如，学生们抄笔记需要能支持全天的电池寿命，否则就没有意义。
+计算机的控制输入设计是基于鼠标和键盘的，使用触控设备时，在操作环境中的文字输入的文本框的状态下，不能比较智能的在文字和字符输入事件鼠标指取事件的转换，没有将这个问题提升到于鼠标键盘同等重要的系统的级别上，除非触控设备在本身在固件上能在一些情况下用作键盘类似的设备，而不仅仅被当作鼠标类似的指取设备，除非触控设备兼有硬件上键盘和鼠标的作用。如果，在文本框输入时，自动启用触控设备来书写输入或软键盘输入或定区域的键盘输入，而在系统环境初始化时，就能进行文字和字符输入指取事件的智能的选择转换，才可较方便地使用计算机。
+在输入文字时，大多数仍使用传统的QWERTY键盘布局，需要人来适应，没有使用诸如工具包性质的工具程序让用户重现排布易用的由单个方块形状的按键重新结合在一起的键盘面貌，并使得每个按键可以由用户定义文字符号，如果可以便不需要记忆键盘布局的字母分布的情况了。
+
+参考文献[编辑]
+
+外部链接[编辑]
+
+Tablet PCs with Linux – installing Linux and tablet PC software
+[2]A Short History of the Tablet Computer
+[3]The History of the Tablet PC
+[4][失效链接] The Place for Tablet PC Comparisons, News, Reviews and Information
+Tablet PC Talk – news and forums on tablet PCs
+What Is New – news about tablet PCs
+Liuxers – tablet PC trend
+iRulu Tablet PC
+
+参见[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：平板电脑
+
+
+
+平板手机
+iPad
+Google Android
+Microsoft Windows
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+电子书
+
+
+
+
+
+
+格式
+
+Comic Book Archive（英语：Comic Book Archive） · DjVu · ePub · FictionBook · LIT（英语：Microsoft Reader） · Mobipocket/Kindle · 便携式文档格式 · XPS · 纯文本
+
+
+
+
+
+
+
+
+
+阅读
+
+
+
+
+
+设备
+
+
+Alex Reader（英语：Alex Reader） · Bambook  · Bookeen（英语：Bookeen） · 电子计算机 · COOL-ER（英语：COOL-ER） · Elonex ebook（英语：Elonex ebook） · enTourage eDGe（英语：enTourage eDGe） · pocket eDGe（英语：pocket eDGe） · eSlick（英语：eSlick） · FLEPia（英语：Fujitsu FLEPia） · 翰林电子书 · iRex（英语：iRex） · Kindle系列 · Kobo（英语：Kobo eReader） · Nook系列 · Oyo（英语：Oyo (e-reader)） · Plastic Logic Reader（英语：Plastic Logic） · PocketBook · Qisda ES900（英语：Qisda ES900） · Samsung Papyrus（英语：Samsung Papyrus） · 智能手机 · 平板手机 · 平板电脑 · SoftBook（英语：SoftBook） · Sony Reader · 汉王电纸书
+
+
+
+
+
+
+
+软件
+
+
+Adobe Acrobat · Adobe Digital Editions（英语：Adobe Digital Editions） · Aldiko（英语：Aldiko） · Blio（英语：Blio） · Bookglutton · 口径 (火器) · FBReader · IBooks · Stanza · Sony Reader Library · STDU Viewer（英语：STDU Viewer）
+
+
+
+
+
+
+
+
+
+编辑
+
+Adobe InDesign · Atlantis Word Processor（英语：Atlantis Word Processor） · Feedbooks（英语：Feedbooks） · Sigil（英语：Sigil (application)） · iBooks Author（英语：iBooks Author）
+
+
+
+
+
+
+来源
+
+
+
+
+
+免费
+
+
+Bookglutton · 互联网档案馆 · Feedbooks（英语：Feedbooks） · Google图书 · Manybooks.net · 古腾堡计划 · 维基文库 · 青空文库
+
+
+
+
+
+
+
+付费
+
+
+亚马逊公司 · 巴诺书店 · BooksOnBoard · 边界 · Feedbooks（英语：Feedbooks） · Fictionwise（英语：Fictionwise） · Google图书 · IBooks · Kobo（英语：Kobo） · Sony Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+电脑的体型（类别）
+
+
+
+
+
+
+大型
+
+
+
+超级计算机
+大型计算机
+次超级计算机
+
+
+
+
+
+
+
+
+中小型
+
+
+
+中型电脑（英语：Midrange computer）
+小型计算机
+超级小型电脑（英语：Superminicomputer）
+服务器
+
+
+
+
+
+
+
+
+微型
+
+
+
+
+个人电脑、移动设备与移动运算（英语：Mobile computing）
+
+
+
+
+台式机
+
+
+
+工作站
+电竞电脑
+家用电脑
+一体机
+小主板（英语：Small form factor）
+
+迷你台式机
+
+
+
+
+
+
+
+
+
+
+笔记本电脑
+
+
+
+行动工作站（英语：Desktop replacement computer）
+次笔记本电脑（英语：Subnotebook）
+
+上网本
+Smartbook
+超极本
+
+
+
+
+
+
+
+
+
+
+平板电脑
+
+
+
+超级移动计算机
+移动联网设备
+
+Internet tablet
+
+
+
+
+
+
+
+
+
+
+手持式个人电脑（英语：Handheld PC）
+
+
+
+掌上型电脑（英语：Palm-size PC）
+Pocket computer（英语：Pocket computer）
+
+
+
+
+
+
+
+
+PDA
+
+
+
+Electronic organizer（英语：Electronic organizer）
+企业数字助理（英语：Enterprise digital assistant）
+Pocket PC
+
+
+
+
+
+
+
+
+移动电话
+
+
+
+功能手机
+智能手机
+平板手机
+便携式媒体播放器
+
+
+
+
+
+
+
+
+计算器
+
+
+
+科学计算机（英语：Scientific calculator）
+程序计算机（英语：Programmable calculator）
+图形计算器
+
+
+
+
+
+
+
+
+可穿戴式电脑
+
+
+
+电子手表
+
+计算机手表（英语：Calculator watch）
+智能手表
+
+
+Virtual retinal display（英语：Virtual retinal display）
+头戴式显示器
+
+抬头显示器
+
+
+
+
+
+
+
+
+
+
+
+
+
+电子游戏机
+
+
+
+街机
+家用游戏机
+专用游戏机
+微型游戏机
+掌上游戏机
+
+
+
+
+
+
+
+
+影视用途产品
+
+
+
+智能电视
+家庭剧院个人电脑
+机顶盒
+
+
+
+
+
+
+
+
+其他终端设备
+
+
+
+交互式机台（英语：Interactive kiosk）
+
+多媒体机台
+
+
+自动柜员机
+可移动计算机
+电子书阅读器
+便携式数据终端机（英语：Portable data terminal）/可行动式数据终端机（英语：Mobile data terminal）
+Plug（英语：Plug computer）
+
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+单片机
+Nanocomputer（英语：Nanocomputer）
+Pizza box form factor（英语：Pizza box form factor）
+单板机
+智能微尘
+无线感测网络
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 7602964-5
+
+
+
+
+
+
+
+
+
+
+
+
+分类：平板电脑个人电脑隐藏分类：自2013年7月需要专业人士关注的页面自2011年8月需要清理的内容琐碎条目自2013年12月待更新条目含有多个问题的条目带有失效链接的条目条目有永久失效的外部链接包含规范控制信息的维基百科条目

@@ -1,0 +1,529 @@
+Sense data
+
+
+
+
+
+
+This article may require cleanup to meet Wikipedia's quality standards. No cleanup reason has been specified. Please help improve this article if you can. (June 2010) (Learn how and when to remove this template message)
+
+
+
+In the philosophy of perception, the theory of sense data was a popular view held in the early 20th century by philosophers such as Bertrand Russell, C. D. Broad, H. H. Price, A. J. Ayer, and G. E. Moore. Sense data are taken to be mind-dependent objects whose existence and properties are known directly to us in perception. These objects are unanalyzed experiences inside the mind, which appear to subsequent more advanced mental operations exactly as they are.
+Sense data are often placed in a time and/or causality series, such that they occur after the potential unreliability of our perceptual systems yet before the possibility of error during higher-level conceptual analysis and are thus incorrigible. They are thus distinct from the 'real' objects in the world outside the mind, about whose existence and properties we often can be mistaken.
+Talk of sense-data has since been largely replaced by talk of the closely related qualia. The formulation the given is also closely related. None of these terms has a single coherent and widely agreed-upon definition, so their exact relationships are unclear. One of the greatest troubling aspects to 20th century theories of sense data is its unclear rubric nature.
+
+
+
+Contents
+
+
+1 Examples
+2 The nature of sense data
+3 Abstract sense data
+4 Criticisms
+5 See also
+6 References
+7 External links
+
+
+
+Examples[edit]
+Bertrand Russell heard the sound of his knuckles rapping his writing table, felt the table's hardness and saw its apparent colour (which he knew 'really' to be the brown of wood) change significantly under shifting lighting conditions.
+H. H. Price found that although he was able to doubt the presence of a tomato before him, he was unable to doubt the existence of his red, round and 'somewhat bulgy' sense-datum and his consciousness of this sense-datum.
+When we twist a coin it 'appears' to us as elliptical. This elliptical 'appearance' cannot be identical with the coin (for the coin is perfectly round), and is therefore a sense datum, which somehow represents the round coin to us.
+Consider a reflection which appears to us in a mirror. There is nothing corresponding to the reflection in the world external to the mind (for our reflection appears to us as the image of a human being apparently located inside a wall, or a wardrobe). The appearance is therefore a mental object, a sense datum.
+The nature of sense data[edit]
+The idea that our perceptions are based on sense data is supported by a number of arguments. The first is popularly known as the argument from illusion.[1] From a subjective experience of perceiving something, it is theoretically impossible to distinguish perceiving something which exists independently of oneself from an hallucination or mirage. Thus, we do not have any direct access to the outside world that would allow us to reliably distinguish it from an illusion that caused identical experiences. Since (the argument claims) we must have direct access to some specific experiential entity in order to have the percepts that we do, and since this entity is not identical to the real object itself, there must be some sort of internal mental entity somehow correlated to the real world, about which we afterwards have perceptions, make judgments, etc. This entity is a sense-datum.
+Abstract sense data[edit]
+Abstract sense data is sense data without human judgement, sense data without human conception and yet evident to the senses, found in aesthetic experience. As opposed to; imaginary sense data which is more like a quasi substance and does not really exist; Imaginary sense data is abstract sense data as presented from the aestheticized senses to consciousness; i.e. imagination, power of reason and inner subjective states of self-awareness including: emotion, self-reflection, ego, and theory.[2] The theory of abstract and imaginary sense data operates on the tacit definition of imagination as "a power mediating between the senses and the reason by virtue of representing perceptual objects without their presence".[3] Imaginary sense data are 'imaginary' per Immanuel Kant's analysis that imagination is the primary faculty of mind capable of synthesizing input from the senses into a world of objects.[4][5][6][7] Abstract and imaginary sense data are key to understanding abstract art's relationship with the conscious and unconscious mind.
+Criticisms[edit]
+
+
+
+
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2017) (Learn how and when to remove this template message)
+
+
+
+Sense data theories have been criticised by philosophers such as J. L. Austin and Wilfrid Sellars (Sellars diagnosing in them The Myth of the Given), and more recently by Kevin O'Regan, Alva Noë and Daniel Dennett. Much of the early criticism may arise from a claim about sense data that was held by philosophers such as A. J. Ayer. This was that sense data really do have the properties they appear to have. Thus, in this account of sense data, the sense data that are responsible for the experience of a red tomato really "are red".
+In one sense this is ridiculous, since there is nothing red in a brain to act as a sense datum. However, in another sense it is perfectly consistent—in the sense that the data "are red" when experienced directly, even though the physical processes of perception may not appear red if they were experienced in a contrived and inappropriately indirect way, such as by examining the brain of the experiencer with scientific instruments.
+On some theories, the tomato itself is not red except in the eyes of a red-seeing being. Thus when one says that a neural state is or is not 'red' without referring the judgement of redness to the owner of the neurons concerned, there is an assumption that things can have innate appearances without reference to perceivers—which is implicitly denied by the sense data theory. Thus the criticism that sense data cannot really be red is made from a position of presupposition inconsistent with a theory of sense data—so it is bound to seem to make the theory seem wrong. More recent opposition to the existence of sense data appears to be simply regression to naïve realism.
+By objectifying and partially externalising a Subject's basic experiences of the world as 'sense-data', positing their necessity for perception and higher order thinking and installing them permanently between the perceiving Subject and the 'real world', sense-data theories tend towards Solipsism. Attempts to repair this must avoid both obscurantism and over-dependence on psychology (and therefore empiricism, and potentially circularity).
+See also[edit]
+
+Logical positivism[8]
+Phenomenalism
+Empirical evidence
+
+References[edit]
+
+
+
+^ Sense-Data (Stanford Encyclopedia of Philosophy)
+^ "Cubist paintings 1910-1912 and Piaget's theory of the development of object permanence: On the existence of abstract and imaginary sense data" by Jackson, Scott
+^ Brann, Eva T. H. The World of the Imagination: Sum and Substance. Savage, Md.: Rowman & Littlefield, 1991.
+^ Kant, Immanuel. Immanuel Kant's: Critique of Pure Reason. London: Macmillan and Co. Limited, 1933. pg 112.
+^ Kearney, Richard. The Wake of Imagination: Ideas of Creativity in Western Culture. London: Hutchinson, 1988. pg 169.
+^ McGinn, Collin. Mindsight.: Image, Dream, Meaning. Cambridge, Mass. Harvard University Press, 2004. pg 170.
+^ Code, Murray. Myths of Reason: Vagueness, Rationality, and the Lure of Logic. Atlantic Highlands, N.J.:Humanities Press, 1995. pg 94.
+^ For the logical positivists, there were only two basic kinds of meaningful statement: logical propositions and reports of simple sense data; see: Geoffrey Sampson, Schools of linguistics, Stanford University Press, 1980, p. 63.
+
+
+
+External links[edit]
+
+"Sense data". Internet Encyclopedia of Philosophy. 
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Analytic philosophy
+
+
+
+Philosophers
+
+
+
+J. L. Austin
+A. J. Ayer
+G. E. M. Anscombe
+Nick Bostrom
+Robert Brandom
+C. D. Broad
+Patricia Churchland
+David Chalmers
+Noam Chomsky
+James F. Conant
+Alice Crary
+Donald Davidson
+Daniel Dennett
+Cora Diamond
+Michael Dummett
+Paul Feyerabend
+Antony Flew
+Bas van Fraassen
+Gottlob Frege
+Jerry Fodor
+Philippa Foot
+Peter Geach
+Paul Grice
+Ian Hacking
+R. M. Hare
+Carl Gustav Hempel
+Peter van Inwagen
+Christine Korsgaard
+Saul Kripke
+Thomas Kuhn
+David Lewis
+Alasdair MacIntyre
+J. L. Mackie
+Norman Malcolm
+John McDowell
+G. E. Moore
+Ernest Nagel
+Thomas Nagel
+Robert Nozick
+Derek Parfit
+Alvin Plantinga
+Karl Popper
+Hilary Putnam
+W. V. O. Quine
+John Rawls
+Hans Reichenbach
+Richard Rorty
+Bertrand Russell
+Gilbert Ryle
+Moritz Schlick
+John Searle
+Wilfrid Sellars
+Peter Singer
+Richard Swinburne
+Charles Taylor
+Michael Walzer
+Bernard Williams
+Timothy Williamson
+Ludwig Wittgenstein
+
+
+
+
+
+Theories
+
+
+
+Actualism
+Analytical feminism
+Analytical Marxism
+Anti-realism
+Berlin Circle
+Descriptivist theory of names
+Emotivism
+Functional contextualism
+Linguistic turn
+Logical positivism
+Modal realism
+Model-dependent realism
+Neopragmatism
+Neurophilosophy
+Ordinary language philosophy
+Postanalytic philosophy
+Pragmatic theory of truth
+Verificationism
+Vienna Circle
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+Causal / Deductive / epistemic closure
+Concept
+Counterfactual
+Denotation / reference
+Definite description
+Factive
+Family resemblance
+Intuition
+Meaning (Proposition)
+Modality
+Natural kind / projectability
+Necessary–sufficient conditions
+Paradox of analysis
+Possible world
+Reduction
+Reflective equilibrium
+Rigid–flaccid designators
+Sense data
+Supervenience
+Thought experiment
+Truth function
+Truthmaker
+Truth-bearer
+Type–token distinction
+
+
+
+
+
+Related articles
+
+
+
+Aretaic turn
+Australian realism
+Communitarianism
+Ordinary language philosophy
+Philosophical logic
+Philosophy of language
+Philosophy of science
+Postanalytic philosophy
+
+
+
+
+
+
+
+
+ Index
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Positivism
+
+
+
+
+
+
+
+Perspectives
+
+
+
+Antihumanism
+Empiricism
+Rationalism
+Scientism
+
+
+
+
+
+Declinations
+
+
+
+Legal positivism
+Logical positivism / analytic philosophy
+Positivist school
+Postpositivism
+Sociological positivism
+Machian positivism (empiriocriticism)
+Rankean historical positivism
+Polish positivism
+Russian positivism (empiriomonism)
+
+
+
+
+
+Principal concepts
+
+
+
+Consilience
+Demarcation
+Evidence
+Induction
+Justificationism
+Pseudoscience
+Critique of metaphysics
+Unity of science
+Verificationism
+
+
+
+
+
+Antitheses
+
+
+
+Antipositivism
+Confirmation holism
+Critical theory
+Falsifiability
+Geisteswissenschaft
+Hermeneutics
+Historicism
+Historism
+Human science
+Humanities
+Problem of induction
+Reflectivism
+
+
+
+
+
+Related paradigm shifts
+in the history of science
+
+
+
+Non-Euclidean geometry (1830s)
+Heisenberg uncertainty principle (1927)
+
+
+
+
+
+Related topics
+
+
+
+Behavioralism
+Critical rationalism
+Criticism of science
+Epistemological idealism
+Epistemology
+Holism in anthropology
+Instrumentalism
+Modernism
+Naturalism in literature
+Nomothetic–idiographic distinction
+Objectivity in science
+Operationalism
+Phenomenalism
+Philosophy of science
+
+Deductive-nomological model
+Ramsey sentence
+Sense-data theory
+
+
+Qualitative research
+Relationship between religion and science
+Sociology
+Social science (Philosophy)
+Structural functionalism
+Structuralism
+Structuration theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+Positivist-related debate
+
+
+
+
+
+
+
+Method
+
+
+
+1890s Methodenstreit (economics)
+1909–1959 Werturteilsstreit
+1960s Positivismusstreit
+1980s Fourth Great Debate in international relations
+1990s Science Wars
+
+
+
+
+
+Contributions
+
+
+
+1830 The Course in Positive Philosophy
+1848 A General View of Positivism
+1869 Critical History of Philosophy
+1879 Idealism and Positivism
+1886 The Analysis of Sensations
+1927 The Logic of Modern Physics
+1936 Language, Truth, and Logic
+1959 The Two Cultures
+2001 The Universe in a Nutshell
+
+
+
+
+
+Proponents
+
+
+
+Richard Avenarius
+A. J. Ayer
+Auguste Comte
+Eugen Dühring
+Émile Durkheim
+Ernst Laas
+Ernst Mach
+Berlin Circle
+Vienna Circle
+
+
+
+
+
+Criticism
+
+
+
+1909 Materialism and Empirio-criticism
+1923 History and Class Consciousness
+1934 The Logic of Scientific Discovery
+1936 The Poverty of Historicism
+1942 World Hypotheses
+1951 Two Dogmas of Empiricism
+1960 Truth and Method
+1962 The Structure of Scientific Revolutions
+1963 Conjectures and Refutations
+1964 One-Dimensional Man
+1968 Knowledge and Human Interests
+1978 The Poverty of Theory
+1980 The Scientific Image
+1986 The Rhetoric of Economics
+
+
+
+
+
+Critics
+
+
+
+Theodor W. Adorno
+Gaston Bachelard
+Mario Bunge
+Wilhelm Dilthey
+Paul Feyerabend
+Hans-Georg Gadamer
+Thomas Kuhn
+György Lukács
+Karl Popper
+Willard Van Orman Quine
+Max Weber
+
+
+
+
+
+Concepts in contention
+
+
+
+Knowledge
+Phronesis
+Truth
+Verstehen
+
+
+
+
+
+
+
+
+
+
+
+
+Category
+
+
+
+
+
+
+
+
+Categories: PerceptionEmpiricismAnalytic philosophyPhilosophical conceptsEpistemology of scienceQualiaHidden categories: Articles needing cleanup from June 2010All pages needing cleanupCleanup tagged articles without a reason field from June 2010Wikipedia pages needing cleanup from June 2010Articles needing additional references from July 2017All articles needing additional references

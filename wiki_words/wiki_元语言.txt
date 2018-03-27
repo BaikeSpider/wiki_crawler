@@ -1,0 +1,144 @@
+元语言
+广义来说，元语言是指讨论或研究语言本身时所使用的语言或符号[1]。在逻辑和语言学里，元语言是用来对其他语言（对象语言）的句子形成另一个句子的语言。元语言通常会用斜体字、引号或写在单独一行里来和对象语言相区别。
+
+
+
+目录
+
+
+1 元语言的类型
+
+1.1 内嵌元语言
+1.2 有序元语言
+1.3 巢状元语言
+
+
+2 元语言的类别
+
+2.1 演绎系统
+2.2 元变数
+2.3 元定律和元定理
+2.4 解释
+
+
+3 另见
+4 字典
+5 参考资料
+6 外部结连
+
+
+
+元语言的类型[编辑]
+存在几种被承认的元语言，包括“内嵌”、“有序”和“巢状”等。
+内嵌元语言[编辑]
+内嵌元语言是一个形式地、自然地且牢固地固定在一个对象语言之中的语言。此一想法出现于侯世达所著《哥德尔、埃舍尔、巴赫》之中。侯世达在书中讨论了形式语言和数论之间的关系：“数论的任何形式化都自然会有个元语言内嵌在其中”[2]。
+这也出现在自然或非形式语言之中，如在英语里，形容词、副词和所有格代名词会构成一个内嵌元语言；名词、动词，有时还有形容词和副词则会构成一个对象语言[3]。因此，词组“red barn”中的形容词“red”即是英语的内嵌元语言中的一个词；名词“barn”则是对象语言中的一个词。在词组“slowly running”中，动词“running”是对象语言中的一个词；而副词“slowly”则是内嵌元语言中的一个词。
+有序元语言[编辑]
+有序元语言可类比于有序逻辑。举例来说，有序元语言是建构一个元语言来讨论一个对象语言，接着再生成另一个元语言来讨论前者。
+巢状元语言[编辑]
+巢状元语言和有序元语言相似，每一阶层都会代表更大程度的抽象化。不过，巢状元语言和有序元语言之间也有不同的处，前者的上层元语言会包括下层的元语言。巢状元语言的范式例子来自于生物学中的生物分类法。此系统中的每一层都由下一层所组成。用于讨论属的语言也可以用来讨论物种；用来讨论科的语言也可以用来讨论属；以此类推，直到界、域都是如此。
+元语言的类别[编辑]
+There are several entities commonly expressed in a metalanguage. In logic usually the object language that the metalanguage is discussing is a formal language, and very often the metalanguage as well.
+演绎系统[编辑]
+主条目：演绎系统
+形式系统的演绎系统是由公理（或公理模式）和推理规则所组成的，可用来推导系统中的定理[4]。
+元变数[编辑]
+主条目：元变数
+元变数是指元语言中的一个或一组符号，可用来代表对象语言中的一个或一组符号。例如，在句子：
+
+令A 和B 为形式语言
+
+
+
+
+
+L
+
+
+
+
+{\displaystyle {\mathcal {L}}}
+
+ 中的任意公式>。
+
+符号A 和B 不是对象语言
+
+
+
+
+
+L
+
+
+
+
+{\displaystyle {\mathcal {L}}}
+
+ 中的符号，而是用于讨论对象语言
+
+
+
+
+
+L
+
+
+
+
+{\displaystyle {\mathcal {L}}}
+
+ 的元语言中的元变数。
+元定律和元定理[编辑]
+主条目：元定律
+主条目：元定理
+解释[编辑]
+主条目：解释 (逻辑)
+解释是指对语言中的符号和文字赋予上意义。
+另见[编辑]
+
+
+范畴论
+Conduit metaphor
+面向语言的程序设计
+后设伦理学
+后设小说
+后设电影
+Metagraphy
+Metalinguistic abstraction
+Metalocutionary act
+元哲学
+元编程
+自然后设语义
+Paralanguage
+自指
+使用-提及区别
+
+
+字典[编辑]
+
+Audi, R. 1996. The Cambridge Dictionary of Philosophy. Cambridge: Cambridge University Press.
+Baldick, C. 1996. Oxford Concise Dictionary of Literary Terms. Oxford: Oxford University Press.
+Cuddon, J. A. 1999. The Penguin Dictionary of Literary Terms and Literary Theory. London: Penguin Books.
+Honderich, T. 1995. The Oxford Companion to Philosophy. Oxford: Oxford University Press.
+Matthews, P. H. 1997. The Concise Oxford Dictionary of Linguistics. Oxford: Oxford University Press. ISBN 978-0-19-280008-4
+McArthur, T. 1996. The Concise Oxford Companion to the English Language. Oxford: Oxford University Press.
+
+参考资料[编辑]
+
+
+^ 2010. Cambridge Advanced Learner‘s Dictionary. Cambridge: Cambridge University Press. Dictionary online. Available from http://dictionary.cambridge.org/dictionary/british/metalanguage Internet. Retrieved 20 November 2010
+^ Hofstadter, Douglas. 1980. Gödel, Escher, Bach: An Eternal Golden Braid. New York: Vintage Books ISBN 0-14-017997-6
+^ Nida, Eugene Albert. 1964. Toward a Science of Translation. Leiden: E.J. Brill, p. 56
+^ Hunter, Geoffrey. 1971. Metalogic: An Introduction to the Metatheory of Standard First-Order Logic. Berkeley:University of California Press ISBN 978-0-520-01822-8
+
+
+外部结连[编辑]
+
+Metalanguage, Principia Cybernetica
+Willard McCarty (submitted 2006) Problematic Metaphors, Humanist Discussion Group, Vol. 20, No. 92.
+
+
+
+
+
+分类：语言学证明论后设隐藏分类：使用ISBN魔术链接的页面

@@ -1,0 +1,832 @@
+条形码
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+本条目可参照外语维基百科相应条目来扩充。 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+
+
+
+
+当前条目的内容正在依照其他语言维基百科的内容进行翻译。（2017年1月24日）
+如果您熟知条目内容并擅长翻译，欢迎协助改善或校对这篇条目，长期闲置的非中文内容可能会被移除。  
+
+
+
+
+128B规格条形码，可扫描出Wikipedia字样
+
+
+
+
+
+
+以可口可乐瓶子的曲线为条形码的造型
+
+
+条形码或称条码（barcode）是将宽度不等的多个黑条和空白，按照一定的编码规则排列，用以表达一组信息的图形标识符。常见的条形码是由反射率相差很大的黑条（简称条）和白条（简称空）排成的平行线图案。条形码可以标出物品的生产国、制造厂家、商品名称、生产日期、图书分类号、邮件起止地点、类别、日期等信息，因而在商品流通、图书管理、邮政管理、银行系统等许多领域都得到了广泛的应用。
+
+
+
+目录
+
+
+1 条码的识别原理
+
+1.1 条形码的扫描
+1.2 条码的优越性
+
+
+2 条形码的发展历史
+3 条形码类型
+
+3.1 线性条形码
+3.2 矩阵（二维）条形码
+
+
+4 参考文献
+5 外部链接
+6 参见
+
+
+
+条码的识别原理[编辑]
+要将按照一定规则编译出来的条形码转换成有意义的信息，需要经历扫描和译码两个过程。物体的颜色是由其反射光的类型决定的，白色物体能反射各种波长的可见光，黑色物体则吸收各种波长的可见光，所以当条形码扫描器光源发出的光在条形码上反射后，反射光照射到条码扫描器内部的光电转换器上，光电转换器根据强弱不同的反射光信号，转换成相应的电信号。根据原理的差异，扫描器可以分为光笔、CCD、激光三种。电信号输出到条码扫描器的放大电路增强信号之后，再送到整形电路将模拟信号转换成数字信号。白条、黑条的宽度不同，相应的电信号持续时间长短也不同。然后译码器通过测量脉冲数字电信号0、1的数目来判别条和空的数目，通过测量0、1信号持续的时间来判别条和空的宽度。此时所得到的数据仍然是杂乱无章的，要知道条形码所包含的信息，则需根据对应的编码规则（例如：EAN-8码），将条形符号换成相应的数字、字符信息。最后，由计算机系统进行数据处理与管理，物品的详细信息便被识别了。
+条形码的扫描[编辑]
+
+
+
+
+条形码扫描仪
+
+
+
+
+
+
+扫描中的条形码
+
+
+条形码的扫描需要扫描器，扫描器利用自身光源照射条形码，再利用光电转换器接受反射的光线，将反射光线的明暗转换成数字信号。不论是采取何种规则印制的条形码，都由静区、起始字符、数据字符与终止字符组成。有些条码在数据字符与终止字符之间还有校验字符。
+
+静区：顾名思义，不携带任何信息的区域，起提示作用。
+起始字符：第一位字符，具有特殊结构，当扫描器读取到该字符时，便开始正式读取代码了。
+数据字符：条形码的主要内容。
+校验字符：检验读取到的数据是否正确。不同编码规则可能会有不同的校验规则。
+终止字符：最后一位字符，一样具有特殊结构，用于告知代码扫描完毕，同时还起到只是进行校验计算的作用。
+
+为了方便双向扫描，起止字符具有不对称结构。因此扫描器扫描时可以自动对条码信息重新排列。
+条码扫描器有光笔、CCD、激光三种：
+
+光笔：最原始的扫描方式，需要手动移动光笔，并且光笔笔尖部分需要与条形码直接接触。
+CCD：以CCD作为光电转换器，LED作为发光光源的扫描器。在一定范围内，可以实现自动扫描。并且可以阅读各种材料、不平表面上的条码，成本也较为低廉。但是与激光式相比，扫描距离较短。
+激光：以激光作为发光源的扫描器。又可分为线型、全角度等几种。
+
+线型：多用于手持式扫描器，范围远，准确性高。
+全角度：多为卧式，自动化程度高，在各种方向上都可以自动读取条码。
+
+
+
+条码的优越性[编辑]
+
+
+
+
+可揭除的条形码
+
+
+
+可靠性强。条形码的读取准确率远远超过人工记录，平均每15000个字符才会出现一个错误。
+效率高。条形码的读取速度很快，相当于每秒40个字符。
+成本低。与其它自动化识别技术相比较，条形码技术仅仅需要一小张贴纸和相对构造简单的光学扫描仪，成本相当低廉。
+易于制作。条形码的编写很简单，制作也仅仅需要印刷，被称作为“可印刷的计算机语言”。
+易于操作。条形码识别设备的构造简单，使用方便。
+灵活实用。条形码符号可以手工键盘输入，也可以和有关设备组成识别系统实现自动化识别，还可和其他控制设备联系起来实现整个系统的自动化管理。
+
+条形码的发展历史[编辑]
+
+1949年美国人诺曼·伍德兰[1](Norman Joseph Woodland)和伯纳德·西尔弗（Bernard Silver）申请了用于食品自动识别领域的环形条形码（公牛眼）。
+1963年在1963年10月号《控制工程》杂志上刊登了描述各种条形码技术的文章。
+1967年美国辛辛那提的一家KROGER超市首先使用条形码扫描器。
+1969年比利时邮政业采用用荧光条形码表示信函投递点的邮政编码。
+1970年美国成立UCC；美国邮政局采用长短形条形码表示信函的邮政编码。
+1971年欧洲的一些图书馆采用Plessey码。
+1972年美国人蒙那奇·马金（Monarch Marking）研制出库德巴码，同年交叉25码被开发出来。
+1973年美国统一编码协会（简称UCC）在IBM公司的条码系统基础上创建了UPC码系统，并且实现了该码制标准化。
+1974年美国Intermec公司的戴维·阿利尔（Davide·Allair）博士研制出39码。
+1977年欧洲共同体在UPC-A码基础上制定出欧洲物品编码EAN-13码和EAN-8码，签署了“欧洲商品编码”（European Article Number，简称EAN）协议备忘录，并且成立了欧洲物品编码协会。
+1978年日本在EAN的基础上开发出JAN码。
+1980年美国国防部采纳39码作为军事编码。
+1981年欧洲物品编码协会改组为国际物品编码协会（IAN）；实现自动识别的条形码译码技术；128码被推荐使用。
+1982年手持式激光条形码扫描器实用化；美国军用标准military标准1189被采纳；93码开始使用。
+1983年美国制定了ANSI标准MH10.8M，包括交叉25码、39码和库德巴码。
+1987年美国人David Allairs博士提出49码。
+1988年可见激光二极管研制成功；美国的Ted Willians提出适合激光系统识读的16K码。
+2005年EAN更名为GS1。
+
+条形码类型[编辑]
+线性条形码[编辑]
+第一代，“一维”的条码是由线条和空间的各种宽度，创建特定的模式。
+
+
+例如
+符号
+Continuous or discrete
+条纹宽度
+用途
+
+
+
+澳大利亚邮政条形码
+Discrete
+4 bar heights
+一个澳大利亚邮政条形码作为一个商业上的答复付费信封。
+
+
+
+Codabar
+Discrete
+Two
+在图书馆和血库和airbills使用的旧格式（过时）
+
+
+
+Code 25 – Non-interleaved 2 of 5
+Continuous
+Two
+产业
+
+
+
+Code 25 – Interleaved 2 of 5
+Continuous
+Two
+批发，图书馆国际标准ISO / IEC 16390
+
+
+
+Code11
+Discrete
+Two
+电话（过时）
+
+
+
+Farmacode or Code 32
+Discrete
+Two
+意大利 Pharmacode 成为-使用代码39 （无国际标准）
+
+
+
+Code39
+Discrete
+Two
+其他 - 国际标准ISO / IEC 16388
+
+
+
+Code49
+Continuous
+Many
+各个
+
+
+128px
+Code93
+Continuous
+Many
+各个
+
+
+
+Code128
+Continuous
+Many
+其他 - 国际标准ISO / IEC 15417
+
+
+
+CPC Binary
+Discrete
+Two
+
+
+
+
+DX film edge barcode
+Neither
+Tall/short
+Color print film
+
+
+
+EAN 2
+Continuous
+Many
+插件代码（杂志）， GS1 -approved -不是自己的符号-要只用一个EAN / UPC根据ISO / IEC 15420使用
+
+
+
+EAN 5
+Continuous
+Many
+插件代码（书）， GS1 -approved -不是自己的符号-要只用一个EAN / UPC根据ISO / IEC 15420使用
+
+
+
+EAN-8, 欧洲商品条形码
+Continuous
+Many
+全球零售， GS1 -approved -国际标准ISO / IEC 15420
+
+
+
+Facing Identification Mark
+Discrete
+Two
+美国邮政业务恢复邮件
+
+
+
+GS1-128（前身为UCC/ EAN-128），误称为EAN·UCC的128和128构仅仅是128码（ISO/ IEC15417）的应用。
+Continuous
+Many
+各种，GS1批准 - 只是应用程序代码128（ISO/ IEC15417）使用和mh10.8.2 AI的数据结构它不是一个独立的符号
+
+
+
+GS1的的 DataBar 的前身缩减码（RSS）
+Continuous
+Many
+各种，GS1批准
+
+
+
+Intelligent Mail barcode
+Discrete
+4 bar heights
+美国邮政服务，取代了 POSTNET 和 PLANET 符号（原名 OneCode ）
+
+
+
+ITF-14
+Continuous
+Two
+非零售包装的水平，GS1批准-仅仅是一个交错2/5码（ISO/ IEC16390）和一些额外的规格，根据GS1通用规范
+
+
+
+JAN
+Continuous
+Many
+用于日本，类似和兼容EAN-13（ISO/ IEC15420）
+
+
+
+日本邮政条形码 barcode
+Discrete
+4 bar heights
+日本邮政
+
+
+
+KarTrak ACI
+Discrete
+Coloured bars
+用于在北美铁路车辆装备
+
+
+
+MSI
+Continuous
+Two
+用于仓库货架和库存
+
+
+
+Pharmacode
+Discrete
+Two
+药品包装（无国际标准）
+
+
+
+PLANET
+Continuous
+Tall/short
+美国邮政服务（无国际标准）
+
+
+
+Plessey
+Continuous
+Two
+产品目录，商店的货架，库存（无国际标准）
+
+
+
+PostBar
+Discrete
+4 bar heights
+加拿大邮局
+
+
+
+POSTNET
+Discrete
+Tall/short
+美国邮政服务（无国际标准）
+
+
+
+RM4SCC / KIX
+Discrete
+4 bar heights
+皇家邮政/PostNL
+
+
+
+RM Mailmark C
+Discrete
+4 bar heights
+皇家邮政
+
+
+
+RM Mailmark L
+Discrete
+4 bar heights
+皇家邮政
+
+
+
+Telepen
+Continuous
+Two
+图书馆（英国）
+
+
+
+通用产品代码
+Continuous
+Many
+全球零售，-GS1批准的国际标准ISO/ IEC15420
+
+
+矩阵（二维）条形码[编辑]
+矩阵码，也被称为二维条形码或二维码，是一种以二维矩阵呈现数字信息的方式。它类似于线性（一维）条形码，但可以表示更多数据。
+
+
+例
+名称
+注记
+
+
+
+Aztec Code（英语：Aztec Code）
+Designed by Andrew Longacre at Welch Allyn (now Honeywell Scanning and Mobility). Public domain. – International Standard: ISO/IEC 24778
+
+
+
+Code 1
+Public domain. Code 1 is currently used in the health care industry for medicine labels and the recycling industry to encode container content for sorting.[2]
+
+
+
+ColorCode
+ColorZip[3] developed colour barcodes that can be read by camera phones from TV screens; mainly used in Korea.[4]
+
+
+
+Color Construct Code
+Color Construct Code is one of the few barcode symbologies designed to take advantage of multiple colors.[5][6]
+
+
+
+CrontoSign
+
+CrontoSign (also called photoTAN) is a visual cryptogram[7] containing encrypted order data and a one-time-use TAN.[8]
+
+
+
+
+CyberCode
+From Sony.
+
+
+
+d-touch
+readable when printed on deformable gloves and stretched and distorted[9][10]
+
+
+
+DataGlyphs
+From Palo Alto Research Center (also termed Xerox PARC).[11]
+Patented.[12] DataGlyphs can be embedded into a half-tone image or background shading pattern in a way that is almost perceptually invisible, similar to steganography.[13][14]
+
+
+
+
+Data Matrix
+From Microscan Systems, formerly RVSI Acuity CiMatrix/Siemens. Public domain. Increasingly used throughout the United States. Single segment Data Matrix is also termed Semacode. – International Standard: ISO/IEC 16022.
+
+
+
+Datastrip Code
+From Datastrip, Inc.
+
+
+128px
+digital paper
+patterned paper used in conjunction with a digital pen to create handwritten digital documents. The printed dot pattern uniquely identifies the position coordinates on the paper.
+
+
+
+EZcode
+Designed for decoding by cameraphones;[15] from ScanLife.[16]
+
+
+
+High Capacity Color Barcode
+Developed by Microsoft; licensed by ISAN-IA.
+
+
+
+Han Xin Barcode
+Barcode designed to encode Chinese characters introduced by Association for Automatic Identification and Mobility in 2011.
+
+
+
+HueCode
+From Robot Design Associates. Uses greyscale or colour.[17]
+
+
+
+InterCode
+From Iconlab, Inc. The standard 2D barcode in South Korea. All 3 South Korean mobile carriers put the scanner program of this code into their handsets to access mobile internet, as a default embedded program.
+
+
+
+MaxiCode
+Used by United Parcel Service. Now Public Domain
+
+
+
+MMCC
+Designed to disseminate high capacity mobile phone content via existing colour print and electronic media, without the need for network connectivity
+
+
+
+NexCode
+NexCode is developed and patented by S5 Systems.
+
+
+
+Nintendo e-Reader#Dot code
+Developed by Olympus Corporation to store songs, images, and mini-games for Game Boy Advance on Pokémon trading cards.
+
+
+
+PDF417
+Originated by Symbol Technologies. Public Domain. – International Standard: ISO/IEC 15438
+
+
+
+Qode
+American proprietary and patented 2D barcode from NeoMedia Technologies, Inc.[16]
+
+
+
+QR code
+Initially developed, patented and owned by Toyota subsidiary Denso Wave for car parts management; they have chosen not to exercise their patent rights. Can encode Japanese Kanji and Kana characters, music, images, URLs, emails. De facto standard for Japanese cell phones. Also used with BlackBerry Messenger to pickup contacts rather than using a PIN code. These codes are also the most frequently used type to scan with smartphones. Public Domain. – International Standard: ISO/IEC 18004
+
+
+
+ShotCode
+Circular barcodes for camera phones. Originally from High Energy Magic Ltd in name Spotcode. Before that probably termed TRIPCode.
+
+
+
+SPARQCode
+QR code encoding standard from MSKYNET, Inc.
+
+
+
+VOICEYE
+Developed and patented by VOICEYE, Inc. in South Korea, it aims to allow blind and visually impaired people to access printed information. It also claims to be the 2D barcode that has the world's largest storage capacity.
+
+
+参考文献[编辑]
+
+
+^ 《苹果日报》：条形码发明人因病过世　享寿91岁，2012年12月14日
+^ Adams, Russ. 2-Dimensional Bar Code Page. 15 June 2009 [2011-06-06]. （原始内容存档于7 七月 2011）.  请检查|archive-date=中的日期值 (帮助)
+^ Colorzip.com. Colorzip.com. [2011-11-28]. 
+^ Barcodes for TV Commercials. Adverlab. 31 January 2006 [2009-06-10]. 
+^ About. Colour Code Technologies. [2012-11-04]. （原始内容存档于2012-08-29）. 
+^ Frequently Asked Questions. ColorCCode. [2012-11-04]. 
+^ CrontoSign Image, Cronto .
+^ Neu bei comdirect: photoTAN [New at comdirect: photoTAN], Comdirect Bank Aktiengesellschaft, 9 April 2013 （德语） .
+^ d-touch topological fiducial recognition, MIT, （原始内容存档于2008-03-02） .
+^ d-touch markers are applied to deformable gloves, MIT, （原始内容存档于2008-06-21） .
+^ See Xerox.com for details.
+^ DataGlyphs: Embedding Digital Data. Microglyphs. 2006-05-03 [2014-03-10]. 
+^ "DataGlyph" Embedded Digital Data. Tauzero. [2014-03-10]. 
+^ DataGlyphs. Xerox. [2014-03-10]. 
+^ Scanbuy. [2011-11-28]. 
+^ 16.0 16.1 Steeman, Jeroen. Online QR Code Decoder. [9 January 2014]. 
+^ BarCode-1 2-Dimensional Bar Code Page. Adams. [2009-06-10]. （原始内容存档于2008-11-03）. 
+
+
+外部链接[编辑]
+
+EAN国际条形码会员国列表
+在线条码生成
+希创技术
+在线条形码生成
+
+参见[编辑]
+
+QR码
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+条形码
+
+
+
+
+
+
+一维条形码
+
+
+
+AEI（英语：Automatic equipment identification）
+Code 39
+Code 93（英语：Code 93）
+Code 128（英语：Code 128）
+Codabar（英语：Codabar）
+欧洲商品编码
+GS1 DataBar（英语：GS1 DataBar）
+ITF-14（英语：ITF-14）
+Interleaved 2 of 5（英语：Interleaved 2 of 5）
+MSI码（英语：MSI Barcode）
+Patch Code（英语：Patch Code）
+Pharmacode（英语：Pharmacode）
+Plessey码（英语：Plessey Code）
+Telepen（英语：Telepen）
+UPC
+
+
+
+
+
+
+
+
+
+
+
+UPC-A
+MaxiCode（英语：MaxiCode）
+
+
+
+
+
+
+
+
+
+邮政条形码
+
+
+
+CPC二进制条形码（英语：CPC Binary Barcode）
+面对识别标志（英语：Facing Identification Mark）
+PostBar（英语：PostBar）
+POSTNET（英语：POSTNET）
+RM4SCC（英语：RM4SCC）
+智能邮件条形码（英语：Intelligent Mail barcode）
+邮政阿尔法数字编码技术（英语：Postal Alpha Numeric Encoding Technique）
+
+
+
+
+
+
+
+
+二维条形码 (堆叠)
+
+
+
+PDF417
+
+
+
+
+
+
+
+
+二维条形码 (矩阵)
+
+
+
+Aztec Code（英语：Aztec Code）
+数据矩阵
+EZ码（英语：EZcode）
+MaxiCode（英语：MaxiCode）
+QuickMark（英语：QuickMark code）
+QR码
+汉信码
+
+
+
+
+
+
+
+
+极坐标条形码
+
+
+
+MaxiCode（英语：MaxiCode）
+ShotCode
+
+
+
+
+
+
+
+
+下一代条形码
+
+
+
+高容量彩色条形码 (微软标签)
+
+
+
+
+
+
+
+
+技术问题
+
+
+
+条形码阅读器（英语：Barcode reader）
+条形码打印机
+
+
+
+
+
+
+
+
+其他数据标签
+
+
+
+RFID
+Bokode（英语：Bokode）
+
+
+
+
+
+
+
+
+相关主题
+
+
+
+供应链管理
+超链接对象（英语：Object hyperlinking）
+矩阵
+手机标记（英语：Mobile tagging）
+CueCat（英语：CueCat）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+纸式数据存储（英语：Paper_data_storage）媒体
+
+
+
+
+
+
+古代
+
+
+
+在莎草纸上写作 (c.3000 BCE)
+纸 (105 CE)
+
+
+
+
+
+
+
+
+近代
+
+
+
+Punched tape (1846)
+Book music (1863)
+Ticker tape (1867)
+Piano roll (1880s)
+打孔卡 (1890)
+Edge-notched card（英语：Edge-notched_card） (1896)
+光学划记符号辨识 (1930s)
+光学字符识别 (1929)
+条形码 (1948)
+Paper disc（英语：Paper_disc） (2004)
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh93000312
+GND: 4121737-8
+NDL: 00575415
+
+
+
+
+
+
+
+
+
+
+
+
+分类：条码标准物流IEEE里程碑隐藏分类：引文格式1错误：日期CS1德语来源 (de)需要从外语维基百科翻译的条目自2017年1月正在翻译的条目正在翻译的条目缺少文件的条目有蓝链却未移除内部链接助手模板的页面包含规范控制信息的维基百科条目

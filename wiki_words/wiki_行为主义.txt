@@ -1,0 +1,126 @@
+行为主义
+行为主义（英语：Behaviorism）又称作行为论[1]，是20世纪初起源于美国的心理学流派，主张心理学应该研究可以被观察和直接测量的行为，反对研究没有科学根据的意识。其主要特色为以系统方法理解人类和动物行为，并假设所有行为的产生皆是由环境中的刺激所产生的反应，或是个体的生命史中所形塑而成的结果；特别个体在环境及生命史中所受到的惩罚、激励、刺激与行为结果所造成的强化。 因此，虽然行为主义者通常接受遗传因子是决定行为的重要因素，但他们主要仍较重视环境因素所带来的影响。许多行为主义者认为自由意志只是一种幻觉，并认为人类所有的行为都是由先天与后天环境所决定，也就是先天基因加上后天环境所产生的结果，由人类所经历过的联想或者增强所造成。
+行为主义结合了哲学、方法论和心理学理论。过往的深层心理学和其他形式的传统心理学通常是难以透过实验预测的。 行为主义的最早的衍生物可以追溯到19世纪末，爱德华·桑代克（Edward Thorndike）开创了效果律（law of effect） ，指出行为的结果会持续强化往后的行为。
+约翰·华生（John B. Watson）在二十世纪上半叶开创了方法学的行为主义，他反对内省的研究方法，主张以纯实验的方法研究心理学。伯尔赫斯·弗雷德里克·史金纳则对传统的心理学研究提出了道德上的问题，主张运用实用主义研究心理学。约翰·布罗德斯·华生与伊万·巴甫洛夫探讨了古典制约的刺激与反应过程，史金纳则探讨了操作制约，指出结果会产生后效强化，及能够产生控制性以及作为行为的前因。史金纳也在1930年代，主张包括思想与感觉等的私人因子也应该与可观察的行为一样受到变量控制，其哲学被认为是激进行为主义的基础[2]。
+与行为主义路线大相径庭的精神分析学也在20世纪展开。
+
+
+
+目录
+
+
+1 方法差异
+2 路线差异
+3 约翰·华生
+4 方法论的行为主义
+5 斯金纳和基本教义派行主义
+
+5.1 定义
+5.2 实验和理论的创新
+
+
+6 行为主义在哲学上
+7 行为主义者
+8 参见
+9 外部链接
+10 参考文献
+
+
+
+方法差异[编辑]
+依据重点的不同，行为主义有许多在研究方法上的分别。一些行为主义者认为观察一个人的行为，是最好也最方便的研究一个人心理和精神过程的方法。而有些人则认为，这事实上也是唯一一种真实有效的研究方法。还有一些人则认为，心理学唯一应该研究的对象就是“行为”，而其他常用的心理学用词（如信念、目标等等）则根本与“行为”无关、或者并非完全针对“行为”，因此他们往往将行为主义的领域称为“行为分析学”或“行为科学”，而不是常用的“心理学”一词。
+路线差异[编辑]
+关于行为主义路线分别到现在还没有一定的共识，以下只是简略的分别：
+
+正统（Classical）: 华生所论述的行为主义，主张客观的研究行为，否定心理的过程和内部状态。
+方法论（Methodological）: 以第三人称的客观观点观察行为，观察到的心理数据必须以主体间（inter-subjectively）可检验的方式记载，而不是理论上的方式。此方法被运用于一般的实验中，并被认知心理学所吸收。
+基本教义派（Radical）: 斯金纳派的行为主义，因为扩大了行为主义的原则至有机体内的过程，与方法论相较，并不需中介观察者的认同，不经过机械化或简化，假定“行为”并不是（心理的）内部状态所造成的，人的行为现象至少必须由他自身所体验到。
+逻辑式（Logical）: 由牛津大学哲学家吉伯特·赖尔（Gilbert Ryle）在他所著的The Concept of Mind（1949）一书中所建立。
+目的论（Teleological）: 后斯金纳派，目的论的行为主义，接近微观经济学概念。
+理论派（Theoretical）: 后斯金纳派，允许观察内部状态（“在皮肤内的状态”曾经被认为是“无法观察的”，但现代的科技技术将有可能办到）的心理动力学，但在理论的架构上采折衷路线，强调实验上的谨慎。
+生物学（Biological）: 后斯金纳派，注重于知觉和运动神经架构的行为，理论上属于行为主义之一。
+内部派（Interbehaviorism）: 由J·R·坎特（J. R. Kantor）在斯金纳提出理论前就已创建，目前正由L. Hayes、E. Ribes、S. Bijou等人继续研究。注重生物个体内部的过程，对行为广泛研究，重点在人的行为上。
+
+另外两派普遍却不太典型的是新: 克拉克·L·赫尔派和后赫尔派，属理论性的、聚集数据的非心理动力学，偏向生理学。和有目的地: 爱德华·C·托尔曼（Edward C. Tolman）的预测行为的认知心理学。
+约翰·华生[编辑]
+20世纪初期，华生（出版了《一个行为主义者心目中的心理学》一书，主张心理学的价值在对于行为的研究，而不是研究意识。这根本性的推翻了当时将内省作为主要研究方法并轻视行为研究的构造论心理学界。与他们相比，华生研究人体之于环境的变化，或者更明确的说：研究特定的刺激会引导人体作出何种反应。大多数华生的研究都属于比较心理学，比如他常研究动物的行为。华生深受俄国生理学家伊万·巴甫洛夫的影响，巴甫洛夫在研究狗的消化系统时，无意间发现了古典制约现象，并在接下来的研究里记载了细节。华生的理论强调生理学，认为以刺激能得到条件反射的反应—对比其他所有器官也会有类似的反射作用。也因此，华生可以被称为S-R（刺激—反应）心理学家。
+方法论的行为主义[编辑]
+华生的行为主义理论说服了许多的学院研究者，使他们相信在心理学的实验上研究行为的重要性。尤其是在比较心理学上，更早时便有人于这方面提出警告，批评当时有些研究者的研究越来越偏向拟人化。例如罗意德·摩根（C. Lloyd Morgan）便曾批评乔治·罗曼（George Romanes）在他的研究中竟直接地形容动物的心理过程。爱德华·桑代克也曾做了类似的研究（研究猫咪逃离迷箱的反应）。
+然而，大多心理学家采取了他们称为方法论的行为主义（methodological behaviorism）的立场，他们承认“行为”是唯一的、或最简单的用以观察心理的方法，但认为它可能只是表现了精神状态运作后的结果。支持这样立场的知名行为主义者，包括了自称为新行为主义的克拉克·L·赫尔，以及稍后发展了认知主义的爱德华·C·托尔曼（Edward C. Tolman）。托尔曼的实验发现，老鼠即使在缺乏奖励条件的情况下也能自行探索出迷宫的分布，他主张刺激与反应（S->R）之间还有第三者作连结—生物个体（organism），因此整个步骤应该是（S->O->R）。他的理论和其他一些理论一起被称为“有目的行为主义”（purposive behaviorism）。
+方法论的行为主义到今天仍是最强调实验的心理学流派，包括许多研究认知心理学的人，只要行为被定义为包括言语在内——至少非内省的言语都有研究价值。自从1980年代以来，越来越多的动物认知研究，以及一些非正统的观点如唐纳德·格利芬（Donald Griffin），在讨论动物的心理时也出现越来越多包括讨论意识的心灵性的用词，比较心理学与动物心理学，方法论的行为主义并不会出现矛盾。
+斯金纳和基本教义派行主义[编辑]
+斯金纳从1930年代至1950年代主要是从事实验性的比较心理学，但他一直是依然在世的行为主义理论家中最知名的，直到他于1990年去世为止。他发展了一套不同的行为主义哲学，被称为基本教义派行为主义（radical behaviorism）。在他出版了《生物个体的行为：一种实验分析》（The Behavior of Organisms: An Experimental Analysis Of Behavior）后他被归功于创造了另一种新的心理学变化形式—被称为行为分析学（behavior analysis ）或行为的实验性分析学（experimental analysis of behavior）。
+定义[编辑]
+斯金纳对于基本教义派行为主义的定义有很大影响，依据分类的法则他的研究被命名为行为的实验性分析学（experimental analysis of behavior, 简称EAB），EAB和其他行为研究在许多方法和理论上都不同。与方法论的行为主义相较，方法论者认同对于触觉的实验，并认为心灵和内省是存在且可以用科学解释，而基本教义派行为主义则否认这些看法。
+实验和理论的创新[编辑]
+基本教义派行为主义的哲学立场，从早期斯金纳成功训练老鼠和鸽子得以稳固；尤其是在关于操作制约的观念上。他早期对于老鼠操作开关的实验便成为典范。与一般心理学和古典制约不同的是，“操作”的步骤是整个架构的过程之一，也是功能上同等重要的一环。举例而言，老鼠用它左边或右边的爪子、或者用它的尾巴来打开控制杆，这些动作都在世界上以相同的方式产生相同的结果。“操作”于是被认为是“反应”的一种形式，在个体上或有不同，但在种类上依附着它的功能—承受操作的后果、并再次进行之前成功了的动作。这便是斯金纳的学说与刺激->反应（S->R）学说的清楚差异。
+行为主义在哲学上[编辑]
+行为主义不单是心理学、也是精神哲学的思想运动。基本教义派行为主义认为对于行为的研究应该属于自然科学的畴范，例如化学或物理学，排除任何属于有机体内部的推测和假设。其他的流派，例如“理论的行为主义”，认同对内部状态的研究，但不要求这些研究必须针对心理或其他任何主观意识有关的方面。行为主义者对于“行为”都抱持着功能上的观点。
+在分析哲学界里有些人也自称为行为主义。在逻辑的行为主义（logical behaviorism ）（例如卡尔纳普、卡尔·亨佩尔（Carl Hempel））者眼里，心理学陈述的涵义应该是可以证实的情况—也就是明显可见的行为。蒯因也受到了斯金纳的影响，在他的著作里运用了行为主义的一些形式。吉伯特·赖尔（Gilbert Ryle）则主张一种特殊的哲学上的行为主义，在他所著的The Concept of Mind(1949)一书中，他以此说明二元论者们表现了一种'分类上的错误'，也因此他们彻底误解了一般语言的使用。美国哲学家丹尼尔·德奈特也承认自己是行为主义的一种。[1]
+路德维希·维特根斯坦有时候也被认为拥护行为主义的立场，而且行为主义与他的哲学理论有很大一部分重叠，像是逻辑的行为主义和基本教义派行为主义。不过维特根斯坦事实上并非行为主义者，他思考混乱式的写作风格便能证明这点。
+艾伦·图灵有时候也被视为行为主义者，不过他本人并没有如此承认过。
+行为主义者[编辑]
+行为主义者的主要人物(依据时间先后粗略的排列):
+
+罗意德·摩根（C. Lloyd Morgan）
+伊万·巴甫洛夫
+爱德华·桑代克
+约翰·华生
+爱德华·C·托尔曼（Edward C. Tolman）
+克拉克·L·赫尔
+J·R·坎特（J. R. Kantor）
+吉伯特·赖尔（Gilbert Ryle）
+伯尔赫斯·弗雷德里克·斯金纳
+
+参见[编辑]
+
+古典制约
+操作制约
+精神哲学
+
+外部链接[编辑]
+
+有关行为主义的书籍和杂志
+https://web.archive.org/web/20040204234402/http://www.biozentrum.uni-wuerzburg.de/genetics/behavior/learning/behaviorism.html
+http://www.bfskinner.org
+http://www.behavior.org
+http://psychclassics.yorku.ca/Skinner/Theories
+Stanford Encyclopedia of Philosophy entry
+http://www.abainternational.org
+http://www.apa.org/divisions/div25/
+行为分析学协会
+behaviorMachine.com - Behavior Analysis for Everyone
+Theory of Behavioral Anthropology (Documents No. 9 and 10 in English)
+California Association for Behavior Analysis
+
+参考文献[编辑]
+
+Baum, W. M. (2005) Understanding behaviorism: Behavior, Culture and Evolution. Blackwell.
+Ferster, C. B., and Skinner, B. F. (1957). Schedules of reinforcement. New York: Appleton-Century-Crofts.
+Mills, John A., Control: A History of Behavioral Psychology, Paperback Edition, New York University Press 2000
+Lattal, K.A and Chase, P.N. (2003) "Behavior Theory and Philosophy". Plenum
+Plotnik, Rod. (2005) Introduction to Psychology. Thomson-Wadsworth (ISBN 0-534-63407-9)
+Rachlin, H. (1991) Introduction to modern behaviorism. (3rd edition.) New York: Freeman.
+Skinner,B.F., Beyond Freedom & Dignity, Hackett Publishing Co, Inc 2002
+Skinner, B. F. (1938). The behavior of organisms. New York: Appleton-Century-Crofts.
+Skinner, B. F. (1945). The operational analysis of psychological terms. Psychological Review. 52, 270-277, 290-294.
+Skinner, B. F. (1953). Science and Human Behavior (ISBN 0-02-929040-6)
+Skinner, B. F. (1957). Verbal behavior. Englewood Cliffs, NJ: Prentice-Hall.
+Skinner, B. F. (1969). Contingencies of reinforcement: a theoretical analysis. New York: Appleton-Century-Crofts
+Skinner, B. F. (1981). Selection by consequences. Science, 213, 501-514.
+Staddon, J. (2001) The new behaviorism: Mind, mechanism and society. Philadelphia, PA: Psychology Press. Pp. xiii, 1-211.
+Watson, J. B. (1913). Psychology as the behaviorist views it. Psychological Review, 20, 158-177. (on-line)
+Watson, J. B. (1919). Psychology from the Standpoint of a Behaviorist
+Zuriff, G. E. (1985). Behaviorism: A Conceptual Reconstruction, Columbia University Press
+
+
+
+
+^ 教育概论（第五版） 吴清山著ISBN 978-957-11-8263-6
+^ Dillenburger, Karola; Keenan, Mickey. None of the As in ABA stand for autism: Dispelling the myths. Journal of Intellectual & Developmental Disability. 2009-06-01, 34 (2): 193–195. ISSN 1366-8250. doi:10.1080/13668250902845244. 
+
+
+
+
+
+分类：心理学主义行为隐藏分类：使用ISBN魔术链接的页面

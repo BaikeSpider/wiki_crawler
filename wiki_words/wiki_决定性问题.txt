@@ -1,0 +1,219 @@
+决定性问题
+在可计算性理论与计算复杂性理论中，所谓的决定性问题（Decision problem）是一个在某些形式系统回答是或否的问题。例如：“给两个数字x与y，x是否可以整除y？”便是决定性问题，此问题可回答是或否，且依据其x与y的值。
+决定性问题与功能性问题（Function problem，或复杂型问题）密切相关，功能性问题的答案内容，较简单的是与非复杂许多。范例问题：“给予一个正整数x，则哪些数可整除x？”
+另一个与上述两类问题相关的是最佳化问题（Optimization problem），此问题关心的是寻找特定问题的最佳答案。
+解决决定性问题的方法称为决策程式或算法。一个针对决定性问题的算法将说明给予参数x和y的情况下如何决定x是否整除y。若是某些决定性问题可以被一些算法所解决，则称此问题可决定。
+计算复杂度的领域中，分类可决定问题的依据在于此问题有多难被解决。在此标准下，所谓的难是以解决某问题最有效率的算法所花费的计算资源为依据。在递回理论中，非决定性问题由图灵度决定，指的是一种在任何解答中隐含的不可计算性量词。
+计算性理论的研究集中在决定性问题上。在与功能性问题的等值问题中，并没有失去其普遍性。
+
+
+
+目录
+
+
+1 定义
+2 例子
+3 历史
+4 与函数问题的等价性
+5 参考
+
+
+
+定义[编辑]
+决定性问题指的是在一个数量为无限大的输入集合中，可产出任何是或非解答的问题之集合。因此传统上定义决定性问题，乃依其解答为是的输入之集合。在此情形下，一决定性问题亦等于一形式语言。
+形式上，决定性问题是一自然数子集A。借由使用哥德尔数，也可学习诸如形式语言的其他集合。非正规的定义决定性问题，就是判别一个给予的数字是否在此集合内。
+一决定性问题若其A是一个递归集合，则称做可决定的（decidable）或有效可解（effectively solvable）。若其A是一递归可枚举集合则称为部分可决定的（partially decidable）、半可决定的（semidecidable）、可解的（solvable）或可证明（provable）。除此之外，此问题称为不可决定的。
+例子[编辑]
+一个经典可决定的决定性问题是质数问题。借由测试每一个可能的因数，有可能有效决定一个自然数是否为质数。尽管存在很多效能更佳的质数判定方法，任何有效方法的存在就已足够建立可决定性。
+重要的不可决定的决定性问题包括停机问题，其他请见不可决定的问题列表。在计算复杂性理论中，完备的决定性问题通常用来判别其他决定性问题的复杂度类别。重要的实例包括SAT问题与其数变种，还有无向与有向图可达性问题。
+历史[编辑]
+德语“Entscheidungsproblem”，亦即“判定性问题”（Decision-problem），最早出自于大卫·希尔伯特的话：“在1928年的会议上，希尔伯特精确地描述了他的问题。首先，数学是否具有完备性？……其次，数学是否具有相容性？……再次，数学是否具有判定性？这些问题的意思是，是否存在这样一种确定的方法，在理论上可适用于任何假设，并且能够保证对无论是否正确的假设都能给出一个正确的结果”（Hodeges，p. 91）。希尔伯特相信“在数学上没有‘ignorabimus’”，亦即“我们将无从得之”。需要了解更多信息请参见大卫·希尔伯特和停机问题。
+与函数问题的等价性[编辑]
+参考[编辑]
+
+Hodges, A., Alan Turing: The Enigma, Simon and Schuster, New York. Cf Chapter "The Spirit of Truth" for some more history that led to Turing's work.
+
+
+
+
+Hodges references a biography of David Hilbert: Constance Reid, Hilbert（George Allen & Unwin; Springer-Verlag, 1970）. There are apparently more recent editions.
+
+
+
+
+Kozen, D.C.（1997）, Automata and Computability, Springer.
+Hartley Rogers, Jr., The Theory of Recursive Functions and Effective Computability, MIT Press, ISBN 0-262-68052-1 (paperback), ISBN 0-07-053522-1
+Sipser, M.（1996）, Introduction to the Theory of Computation, PWS Publishing Co.
+Robert I. Soare (1987), Recursively Enumerable Sets and Degrees, Springer-Verlag, ISBN 0-387-15299-7
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+重要的复杂度类（完整列表）
+
+
+
+
+
+
+易解复杂度类
+
+
+
+
+对数空间相关
+
+
+
+DLOGTIME
+AC0（英语：AC0）
+ACC0（英语：ACC0）
+TC0（英语：TC0）
+L · FL · SL · NL
+NC
+SC
+PolyL
+
+
+
+
+
+
+
+
+多项式空间相关
+
+
+
+P（P-完全）
+FP（英语：FP (complexity)）
+ZPP
+RP
+BPP
+BQP（QMA（英语：QMA）
+PostBQP（英语：PostBQP）
+EQP（英语：EQP））
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+怀疑难解复杂度类
+
+
+
+UP
+NP（NP完全
+NP困难
+反NP
+反NP完全（英语：co-NP-complete））
+FNP（英语：FNP (complexity)）（TFNP（英语：TFNP (complexity)））
+PH
+PP
+#P（#P-完全（英语：Sharp-P-complete））
+PSPACE（PSPACE完全（英语：PSPACE-complete））
+
+
+
+
+
+
+
+
+难解复杂度类
+
+
+
+EXPTIME
+NEXPTIME
+EXPSPACE
+ELEMENTARY
+PR
+R
+RE
+ALL
+
+
+
+
+
+
+
+
+复杂度类的谱系
+
+
+
+多项式谱系（英语：Polynomial hierarchy）
+指数谱系
+Grzegorczyk谱系（英语：Grzegorczyk hierarchy）
+算术谱系
+
+
+
+
+
+
+
+
+相关复杂度族
+
+
+
+DTIME
+NTIME
+DSPACE（英语：DSPACE）
+NSPACE
+可能性核对证明（英语：Probabilistically checkable proof）
+交互式证明系统
+量子复杂性理论
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+NDL: 00565667
+
+
+
+
+
+
+
+
+
+
+
+
+分类：数理逻辑计算理论计算问题递归论计算复杂性理论隐藏分类：含有英语的条目使用ISBN魔术链接的页面

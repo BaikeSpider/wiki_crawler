@@ -1,0 +1,436 @@
+演化心理学
+
+
+
+
+
+本条目需要编修，以确保文法、用词、语气、格式、标点等使用恰当。（2012年6月12日） 
+请按照校对指引，帮助编辑这个条目。（帮助、讨论） 
+
+
+
+
+心理学
+
+
+
+
+
+
+
+心理学大纲
+心理学史
+心理学的子领域（英语：Subfields of psychology）
+
+
+
+
+心理学基础（英语：Basic science (psychology)）
+
+
+
+
+
+异常心理学
+行为遗传学
+生物心理学
+认知心理学
+比较心理学
+跨文化心理学（英语：Cross-cultural psychology）
+文化心理学（英语：Cultural psychology）
+差异心理学（英语：Differential psychology）
+发展心理学
+演化心理学
+实验心理学
+数学心理学
+神经心理学
+人格心理学
+正面心理学
+定量心理学（英语：Quantitative psychology）
+社会心理学
+
+
+
+
+
+应用心理学
+
+
+
+
+
+应用行为分析
+临床心理学
+社区心理学
+消费行为
+咨商心理学
+批判社区心理学
+教育心理学
+环境心理学（英语：Environmental psychology）
+人因工程学
+法庭心理学
+健康心理学
+人本主义心理学
+工业与组织心理学
+本体解释学（英语：Ontological hermeneutics）
+法律心理学
+医学心理学（英语：Medical psychology）
+军事心理学（英语：Military psychology）
+音乐心理学（英语：Music psychology）
+职业健康心理学（英语：Occupational health psychology）
+政治心理学
+宗教心理学
+学校心理学（英语：School psychology）
+运动心理学
+交通心理学
+
+
+
+
+
+心理学列表
+
+
+
+
+
+心理学学科列表
+心理学组织列表（英语：List of psychology organizations）
+心理学家
+心理治疗列表（英语：List of psychotherapies）
+重要著作列表（英语：List of important publications in psychology）
+重要研究列表（英语：List of psychological research methods）
+心理学学派列表
+心理学的时间表（英语：Timeline of psychology）
+心理学文章索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+ 心理学主题  神经科学主题  医学主题  社会主题
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+演化心理学（简称ev-psych或 EP）是一种解释人类“有用”的精神及心理特点——如记忆、知觉、语言和适应——的一种心理学研究理论，也就是，作为自然选择的功能产物。这种研究方法的目的是带出机能心理学那种将例如免疫系统般的生物机制放进心理学范筹的思考方法，以及用类似方法探讨心理学机制。简短来说，演化心理学着眼于演化如何把思维定型。尽管此理论适用于任何拥有神经系统的生物，大部分演化心理学的研究集中于人类身上。
+
+
+
+目录
+
+
+1 概要
+2 演化心理学的原则
+3 一般演化理论
+
+3.1 内含适应性（Inclusive fitness）理论
+3.2 演化心理学
+
+
+4 中等程度的演化理论
+5 注释
+6 参考文献
+7 外部链接
+
+7.1 入门阅读
+
+
+
+
+
+概要[编辑]
+演化心理学为生理辨认运作于"个体生理的物理适应。"演化心理学之目的为研究"个体的心理其自然演变的情感和认知适应。演化心理学就Steven Pinker而言是“不止一种单一理论，但为集大成之假说。”和“并且是一个关于心智，重点放在适应、基因级选择的和心智区域modularity的特化演变理论。”演化心理学分析人类的大脑由很多功能机制组成,[1]，中止心理适应或由天择的演化认知机制设计。例如语言习得模组、乱伦退避机制、骗子侦测机制、智能于性-交配的特殊偏爱、搜寻食物机制、结盟伙伴关系、侦测觉知机制等。演化心理学是根基在认知心理学和演化生理学。它是描写行为环境、人工智能、遗传学、动物行为学、人类学、考古学、生理学和动物学。演化心理学是接近相似社会生物学[2]，但两者间不同的关键重点在“物种个体差异范围”与“物种全体范围”的机制。关于适合量的趋势，重要的配错理论为心理学而不是行为。然而很多的演化心理学争辩的心智包括“物种个体差异范围”和“物种全体范围”两者，主要在演化发展心理学。多数社会生理学研究现在发展在行为环境的领域。[3]
+演化心理学由Michael Ghiselin在他1973年里的学术文章中大略铸造范围。Jerome Barkow、Leda Cosmides和John Tooby普遍化了演化心理学的范围，在他们1992年著作的《The Adapted Mind: Evolutionary Psychology and The Generation of Culture》里有高度的影响。演化心理学向许多领域的研究，包括经济、侵略、法律、精神病学、政治、文学和性。
+演变心理学使用尼可拉斯·庭伯根的和动物行为的解释。二个类别是在种类级；二个在个体级。 种类级类别（经常叫做ultimate explanations）是
+
+适应行为功能（例如适应）和，
+导致演化历程这种功能（例如种系发展史）。
+
+个体级类别是
+
+个体发展（例如个体发生学）和
+近似机制（例如脑解剖学和激素）。
+
+演化心理学强调功能类别。
+演化心理学的原则[编辑]
+演化心理学是洞察于现代演化理论、生物、认知心理学、人类学、经济、计算机科学和古人类学所得出的一个混合学科。学科基于核心前提的基础。相应于David Buss，卓越的田野研究，这些包括：
+
+明显行为取决于心理机制之下，触发他们之活化作用的资讯处理设备被安置在脑，在与外部和内部触发同时发生。
+演化由选择是唯一已知的原因，过程能创造这样复杂有机机制。
+演化的心理机制于功能上被专门研究解决复发在人深刻的演化时间之能适应的问题。
+从环境中的资讯受个体适应影响于许多演化心理机制上选择决定资讯处理。
+人的心理学包括大量的专门功能演变机制，每个神经对上下输入的特殊形式得到结合、协调和集成互相引起明显行为。
+
+同样地，Leda Cosmides和John Tooby，二领域的创建者，提供这些演化心理学的五项基本原理的原则:
+
+脑是一个物理的系统。它类似电脑。它的电路被设计于适当的引起您对环境情况的行为。
+我们神经系统的电路由天择设计解决我们的祖先面对在我们种类于演化历史期间的问题。
+知觉是意识冰山的一角；多数讯息进入您头脑里为掩藏于您。结果，您意识清楚之经验可能误引您于认知上，我们的电路比它真正地简单。您体验的多数问题像是容易解决却是非常难解决--他们需要非常复杂的神经系统电路。
+不同的神经系统电路被专门研究为解决不同的适合问题。
+我们的现代头骨安置一个石器时期的头脑。[4]
+
+一般演化理论[编辑]
+
+
+演化与进化论
+
+
+
+
+现代生物分类群体从它们的
+共同祖先遗传分化的图示。
+
+
+
+关键议题
+
+
+
+进化论介绍（英语：Introduction to evolution）
+共同起源
+共同起源的证据
+
+
+
+机制与过程
+
+
+
+群体遗传学 · 遗传多样性
+突变 · 自然选择 · 适应
+遗传漂变 · 基因流
+物种形成 · 辐射适应
+共同演化 · 趋异演化 · 趋同演化
+平行演化 · 绝灭
+
+
+
+研究与历史
+
+
+
+证据
+历史
+现代综合理论
+社会影响
+
+
+
+演化生物学领域与应用
+
+
+
+社会生物学
+演化人类学
+生态遗传学
+演化发育生物学
+演化语言学
+演化心理学
+人类演化
+分子演化
+种系发生学
+系统发生学
+人工选择
+群体遗传学
+系统分类学
+
+
+
+生物学主题
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+主条目：演化
+William Paley得出许多其他的功能，争辩有机体是机器被设计于作用特别环境。Paley相信这些证俱是设计是于创物主—上帝。 达尔文反对Paley的论据，有机体被设计为特殊环境由亚当·史密斯和马尔萨斯两者所提。他断言，天择于有机体假想的好设计对环境是一个偶然结果。天择理论，公式化的细节由达尔文和华莱士提出，假设一个科学化的好处功能设计起源在自然世界。
+演化心理学根源于演化理论。它不简单地有时被视为心理学亚学科而是作为演化理论可能被使用作为一个阶理论框架在之内审查的方式于心理学的整个领域[4]但是许多演化生物学家向演化心理学挑战基本的演变前提[5].
+天择，演化理论的一个关键，介绍三种主要部分:
+
+基于特征基因上的继承--一些特征通过下来从父母到子孙在遗传
+变异--可遗传的特征变化在母群体中（现在知道 突变是基因变异的来源）。
+不同的幸存和繁育--这些特征将变化在他们强势促进他们的持有生物于生存和再繁衍。
+
+选择指以环境状况的过程挑选个体以适当的特征生存；这些个体将这样强势特征表显在下一代。这是演化能适应的依据. 达尔文的主要诉求是天择是有创造力的--它能导致新特征和甚至新种类，它围绕在个体生存且它能解释演化的宽广标准样式。
+许多特征被选择为个体实际上更加延长之生存以增加它的生殖机会。考虑孔雀尾巴的经典例子，它的新陈代谢是昂贵的、累赘的和根本上是吸引食肉动物。因而，达尔文称这被介绍的类型有选择性的过程为性择。性择可能被划分成二类：
+
+择偶，那些雌性一般喜欢雄性的特征（例如孔雀尾巴）。
+竞争，那些同性竞争的成员为争取对异性的交配权（例如二只雄锁鹿角）。
+
+内含适应性（Inclusive fitness）理论[编辑]
+内含适应性理论（又称概括适合度），在1964年由威廉·唐纳·汉弥尔顿作为进化论的修订而提出，主要是自然选择、性选择和亲属选择的混合体。它是指以总和的个人自身的繁殖成功率，再加上影响个人的行动，对繁殖成功率其亲缘关系。General evolutionary theory, in its modern form, is essentially inclusive fitness theory.
+内含适应性理论解决了有关“利他主义”的问题。Hamilton前期观点是利他主义和团体选择有关，也就是说利他主义对于个体所属团体本身是有利的
+演化心理学[编辑]
+演化心理学从演化生物学中借来了一些题材，并加上了这些基本假设：
+中等程度的演化理论[编辑]
+中等程度的演化理论（Middle-level evolutionary theories）是包含广泛功能领域的理论。他们与一般演化理论共容但是并非源自于它。另外，这些理论也是跨种族的。在70年代，罗伯特·泰弗士发表了三个非常重要的中等程度的演化理论：
+
+互惠式利他主义理论 解释了为何利他主义会发生在非亲属之间，只要在一段时间后对方很有可能予以互惠式的回馈。这种可能性是由Trivers首先提出，其后 Richard Alexander再度提出“间接利他主义”
+
+
+亲代投资 理论是指雄雌两性对于子代不同的投资程度。例如，大多雌性动物的配子比较大。人类女性大约一个月释放一颗大的卵子，相对而言，男性却是每天释放出上千万只精子。女性负责受孕、怀孕，而男性只需要进行性行为。所以女性比男性对于子女投资更多（某些动物则是相反，如蟋蟀、海马、巴拿马毒蛙等）。因为男女两性在子女上投资程度的不同，所以产生在交配和养育的问题。投资较多的那方在择偶上会更谨慎，而投资较少的那方则需要与同性竞争，以获得交配机会。所以男女两性因为投资程度的不同，也造成他们在各种行为上的差异。
+
+
+亲子冲突理论依赖一个事实，就是虽然亲子之间拥有50%的基因关系，但也因此拥有50%的基因差异。母亲可能想要把资源平均分配在子女身上，可是子女本身却希望获得比一半还多点的资源。因此子女想要的总是比父母想给的多。本质上来说，亲子冲突是指亲子之间“适应利益的冲突”。然而，母亲（或父亲）也有可能站在他们的立场下给予某一方（子或女）更多的资源。
+
+注释[编辑]
+
+
+^ evolutionary psychology Psyche Games. Accessed August 22 2007
+^ Seltin, Melissa. (August 1988) The Evolution of Evolutionary Psychology: From Sociobiology to Evolutionary Psychology Accessed August 22 2007
+^ 00265 Behavioral Ecology and Sociobiology Accessed August 22 2007
+^ 4.0 4.1 Cosmides、Leda和John Tooby。 January 13 1997年]Evolutionary Psychology: A Primer Accessed August 22 2007
+^ See for examples, Gould, S.J. (2002) The Structure of Evolutionary Theory
+
+
+参考文献[编辑]
+
+
+Barkow, Jerome; Cosmides, Leda; Tooby, John (1992) The Adapted Mind: Evolutionary Psychology and The Generation of Culture ISBN 0-19-510107-3.
+Buss, David, ed. (2005) The Handbook of Evolutionary Psychology. ISBN 0-471-26403-2.
+Buss, D.M. (2004). Evolutionary Psychology: The New Science of the Mind. Boston: Pearson Education, Inc.
+
+中文版：《进化心理学-心理的新科学(第二版)》，译者: 熊哲宏，华东师范大学出版社。
+
+
+Ghiselin, Michael T. (1973). Darwin and Evolutionary Psychology. Science 179: 964-968.
+Wilson, E.O. (1975) Sociobiology: The New Synthesis
+Wright, Robert (1995). The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psychology. ISBN 0-679-76399-6.
+Alcock, John (2001). The Triumph of Sociobiology. Oxford: Oxford University Press.
+Barkow, Jerome (Ed.). (2006) Missing the Revolution: Darwinism for Social Scientists. Oxford: Oxford University Press.
+Clarke, Murray (2004). Reconstructing Reason and Representation. Cambridge: MIT Press.
+Pinker, S. (1997). How the Mind Works. New York: W.W. Norton & Co.
+Pinker, S. (2002). The Blank Slate: The Modern Denial of Human Nature. New York: Viking.
+Richards, Janet Radcliffe (2000). Human Nature After Darwin: A Philosophical Introduction. London: Routledge.
+Segerstrale, Ullica (2000). Defenders of the Truth: The Battle for Science in the Sociobiology Debate and Beyond. Oxford: Oxford University Press.
+Miller, Geoffrey (2000). The Mating Mind: How Sexual Choice Shaped the Evolution of Human Nature. New York: Random House Inc.
+
+
+外部链接[编辑]
+入门阅读[编辑]
+
+Evolutionary Psychology: A Primer
+The Evolutionary Psychology FAQ
+Human Behavior and Evolution Society(HBES) Introduction to the Field
+On Scaffolds and Sweet Potatoes Introduction to Evolutionary Perspectives (registration required)
+Books listed at the Human Behavior and Evolution Society.
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+社会生物学
+
+
+
+
+
+
+主题
+
+
+
+行为遗传学
+Challenge hypothesis
+Dual inheritance theory
+动物行为学
+演化心理学
+Evolution of morality
+族群选择
+Kin recognition
+亲属选择
+Male Warrior hypothesis
+Reciprocal altruism
+Sexual selection in human evolution
+Sex and psychology
+Sociality (真社会性, Evolution of eusociality, Presociality)
+邓巴数
+
+
+
+
+
+
+
+
+论述
+
+
+
+Not in Our Genes
+艾德华·威尔森
+
+Sociobiology: The New Synthesis
+
+
+
+
+
+
+
+
+
+
+
+Evolutionary biology portal
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4636472-9
+NDL: 01155949
+
+
+
+
+
+
+
+
+
+
+
+
+分类：心理学分支演化生物学进化心理学跨学科领域性引诱人类行为生物学哲学隐藏分类：自2012年6月需要校对的页面包含规范控制信息的维基百科条目使用ISBN魔术链接的页面

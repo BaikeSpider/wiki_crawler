@@ -1,0 +1,277 @@
+动作捕捉
+
+
+
+
+
+
+
+播放媒体
+
+
+捕捉钢琴家在演奏时手指的动作（慢动作，无声）[1]
+
+
+动作捕捉（英语：Motion capture），又称为动态捕捉，是指记录并处理人或其他物体动作的技术。它广泛应用于军事、娱乐、体育、医疗应用、计算机视觉以及机器人技术等诸多领域。[2]在电影制作和电子游戏开发领域，它通常是记录人类演员的动作，并将其转换为数字模型的动作，并生成二维或三维的计算机动画。当它捕捉面部或手指的细微动作时，它通常被称为性能捕获（performance capture）。在许多领域，动作捕捉有时也被称为运动跟踪（motion tracking），但在电影制作和游戏开发领域，运动跟踪通常是指匹配移动（英语：Match_moving）（match moving）。
+参考文献[编辑]
+
+
+^ doi:10.1371/journal.pone.0050901
+本引用来源将会在数十分钟后自动完成。您可以检查英文对应模板或手动扩充
+^ David Noonan, Peter Mountney, Daniel Elson, Ara Darzi and Guang-Zhong Yang. A Stereoscopic Fibroscope for Camera Motion and 3D Depth Recovery During Minimally Invasive Surgery. In proc ICRA 2009 , pp. 4463-4468.
+
+
+
+
+
+这是一篇与计算机相关的小作品。你可以通过编辑或修订扩充其内容。
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+混合现实与虚拟现实
+
+
+
+
+
+
+概念
+
+
+
+虚拟现实
+Virtual cinematography
+增强现实
+Augmented virtuality
+Projection augmented model
+现实-虚拟连续统
+人工实境
+模拟现实
+普适计算
+虚拟世界 (Persistent world)
+Multimodal interaction
+Telepresence
+沉浸
+
+
+
+
+
+
+
+
+技术（英语：Immersive technology）
+
+
+
+Compositing
+Camera resectioning
+Haptic suit
+头戴式显示器 (光学（英语：Optical head-mounted display）)
+平视显示器
+Image-based modeling and rendering
+Real-time computer graphics
+Virtual retinal display
+可穿戴式电脑
+色键
+Visual hull
+Free viewpoint television
+Omnidirectional treadmill
+Hidden surface determination
+VR摄影
+
+
+
+
+
+3D眼镜
+
+
+
+
+计算机立体视觉系统（英语：Computer stereo vision）
+计算机视觉
+
+
+
+
+
+
+
+
+
+
+
+跟踪
+
+
+
+动作捕捉
+跟踪系统（英语：Tracking system）
+
+
+
+
+
+类型
+
+
+
+
+光学（英语：Video tracking）
+惯性
+磁性
+
+
+
+
+
+
+
+
+
+器件
+
+
+
+
+数据手套
+Gametrak
+HoloLens
+PlayStation Move
+Leap Motion
+Kinect
+Sixense TrueMotion
+
+
+
+
+
+
+
+
+
+
+
+沉浸式器件
+
+
+
+
+
+个人
+
+
+
+
+Daydream
+Google Cardboard
+HTC Vive
+Oculus Rift
+三星Gear VR
+PlayStation VR
+Razer OSVR
+
+
+
+
+
+
+
+
+
+房间
+
+
+
+
+AlloSphere
+Cave
+TreadPort
+
+
+
+
+
+
+
+
+
+历史
+
+
+
+
+Sensorama
+Virtual Boy
+Famicom 3D System
+达摩克利斯之剑
+Sega VR
+Virtuality
+
+
+
+
+
+
+
+
+
+
+
+应用
+
+
+
+Pervasive game
+ARToolKit
+交互艺术（英语：Interactive art）
+
+虚拟涂鸦（英语：Virtual graffiti）
+
+
+
+
+
+
+
+
+
+
+
+
+
+小说中的虚拟现实（英语：Simulated reality in fiction）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：电脑动画三维计算机图形学电脑输入装置隐藏分类：包含未完成DOI引用来源的页面全部小作品电脑小作品

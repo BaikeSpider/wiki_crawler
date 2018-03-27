@@ -1,0 +1,50 @@
+幂集
+数学上，给定集合
+
+
+
+S
+
+
+{\displaystyle S}
+
+，其幂集
+
+
+
+
+
+P
+
+
+(
+S
+)
+
+
+{\displaystyle {\mathcal {P}}(S)}
+
+（或作
+
+
+
+
+2
+
+S
+
+
+
+
+{\displaystyle 2^{S}}
+
+）是以
+
+
+
+S
+
+
+{\displaystyle S}
+
+的全部子集为元素的集合。以符号表示即为

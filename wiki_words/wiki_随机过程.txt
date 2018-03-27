@@ -1,0 +1,1013 @@
+随机过程
+
+
+
+
+
+在概率论概念中，随机过程是随机变量的集合。若一随机系统的样本点是随机函数，则称此函数为样本函数，这一随机系统全部样本函数的集合是一个随机过程。实际应用中，样本函数的一般定义在时间域或者空间域。随机过程的实例如股票和汇率的波动、语音信号、视频信号、体温的变化，反对法随机运动如布朗运动、随机徘徊等等。
+
+
+
+目录
+
+
+1 定义
+2 历史
+3 架构
+4 过滤
+
+4.1 自然过滤
+
+
+5 参考文献
+6 外部链接
+
+
+
+定义[编辑]
+设
+
+
+
+(
+Ω
+,
+
+
+F
+
+
+,
+P
+)
+
+
+{\displaystyle (\Omega ,{\mathcal {F}},P)}
+
+为一概率空间，另设集合T为一指标集合。如果对于所有
+
+
+
+t
+∈
+T
+
+
+{\displaystyle t\in T}
+
+，均有一随机变量
+
+
+
+
+ξ
+
+t
+
+
+(
+ω
+)
+
+
+{\displaystyle \xi _{t}(\omega )}
+
+定义于概率空间
+
+
+
+(
+Ω
+,
+
+
+F
+
+
+,
+P
+)
+
+
+{\displaystyle (\Omega ,{\mathcal {F}},P)}
+
+，则集合
+
+
+
+{
+
+ξ
+
+t
+
+
+(
+ω
+)
+
+|
+
+t
+∈
+T
+}
+
+
+{\displaystyle \{\xi _{t}(\omega )|t\in T\}}
+
+为一随机过程。
+通常，指标集合T代表时间，以实数或整数表示。以实数形式表示时，随机过程称为连续随机过程；以整数表示时，则为离散随机过程。随机过程中的参数
+
+
+
+ω
+
+
+{\displaystyle \omega }
+
+只为分辨同类随机过程中的不同实例，如上文下理不构成误会，通常略去。例如表达单次元布朗运动时，常以
+
+
+
+
+W
+
+t
+
+
+
+
+{\displaystyle W_{t}}
+
+表达，但若考虑两同时进行布朗运动的粒子，则会分别以
+
+
+
+
+W
+
+t
+
+
+(
+1
+)
+
+
+{\displaystyle W_{t}(1)}
+
+和
+
+
+
+
+W
+
+t
+
+
+(
+2
+)
+
+
+{\displaystyle W_{t}(2)}
+
+（或作
+
+
+
+
+W
+
+1
+
+
+(
+t
+)
+
+
+{\displaystyle W_{1}(t)}
+
+和
+
+
+
+
+W
+
+2
+
+
+(
+t
+)
+
+
+{\displaystyle W_{2}(t)}
+
+）表示。
+历史[编辑]
+为了了解金融市场和研究布朗运动，在19世纪后期人们开始研究随机过程。第一个用数学语言描述布朗运动的是数学家Thorvald N. Thiele。 他在1880年发表了第一篇关于布朗运动的文章。随后，在1900年， Louis Bachelier的博士论文“投机理论” 提出了股票和期权市场的随机分析。阿尔伯特·爱因斯坦（在他1905年的一篇论文中）和玛丽安·一维Smoluchowski（1906年）从物理界的角度出发，把它作为了一种间接证明了原子和分子的存在。他们所描述的布朗运动方程在1908年被让·佩兰核实。
+从爱因斯坦的文章的摘录描述了随机模型的基本原理：
+"它必须明确假定每个单个颗粒执行的运动是独立于所有其他的粒子的运动;它也将被认为是1的动作和相同的颗粒在不同的时间间隔是独立的过程，只要这些的时间间隔不是非常小"
+"我们引入一时间间隔
+
+
+
+τ
+
+
+{\displaystyle \tau }
+
+蛋白考虑，相对来说这是非常小的，但是我们可观察到的时间间隔，仍然过大，在两个连续时间间隔
+
+
+
+τ
+
+
+{\displaystyle \tau }
+
+蛋白，由粒子所执行的动作可以被认为是作为彼此独立的事件"。
+架构[编辑]
+在概率论的测量理论中，需要解决一个问题。如何构造一个Σ-代数的所有功能空间的衡量子集，然后把它有限化。为了解决这个问题，采用了 Kolmogorov扩展方法。
+
+Kolmogorov扩展方法过程：
+
+假定所有函数f的空间概率测度： 
+
+
+
+f
+:
+X
+→
+Y
+
+
+{\displaystyle f:X\to Y}
+
+ 存在，那么它可以被用来指定有限维随机变量 
+
+
+
+f
+(
+
+x
+
+1
+
+
+)
+,
+…
+,
+f
+(
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle f(x_{1}),\dots ,f(x_{n})}
+
+.的联合概率分布。现在从这个n维概率分布，我们可以推断出第（n - 1）维边缘概率为
+
+
+
+f
+(
+
+x
+
+1
+
+
+)
+,
+…
+,
+f
+(
+
+x
+
+n
+−
+1
+
+
+)
+
+
+{\displaystyle f(x_{1}),\dots ,f(x_{n-1})}
+
+。但是需要注意的是兼容性状态，即这种边际概率分布是在相同的类作为1从完全成熟的随机过程衍生。例如，如果该随机过程是一个Wiener过程（在这种情况下，边缘是指数类的所有高斯分布），但不是在一般对所有的随机过程。这种方程称为查普曼-洛夫方程。
+柯尔莫哥洛夫扩展定理保证了随机过程的有限维概率分布满足查普曼 - 柯尔莫哥洛夫的兼容性条件的存在..
+
+分离性
+
+回想一下，在洛夫公理化中存在对于概率问题有还是没有的不确定性。柯尔莫哥洛夫扩展首先声明是可衡量的功能，其中有限多个坐标
+
+
+
+[
+f
+(
+
+x
+
+1
+
+
+)
+,
+…
+,
+f
+(
+
+x
+
+n
+
+
+)
+]
+
+
+{\displaystyle [f(x_{1}),\dots ,f(x_{n})]}
+
+被限制在
+
+
+
+
+Y
+
+n
+
+
+
+
+{\displaystyle Y_{n}}
+
+中可测量的子集所有集合。如果一个是/否有关的问题都可以通过观察至多有限多个坐标的值回答，那么它有一个概率的答案。
+在测度理论，如果我们有一个可数无限集合测集，所有的人都那么的联合和交集是可测集。对于我们而言，这意味着是/否依赖于可数个坐标的问题有一个概率的答案。
+过滤[编辑]
+给定一个概率空间
+
+
+
+(
+Ω
+,
+
+
+F
+
+
+,
+P
+)
+
+
+{\displaystyle (\Omega ,{\mathcal {F}},P)}
+
+, 过滤是一个弱增长对 σ-代数 在 
+
+
+
+Ω
+
+
+{\displaystyle \Omega }
+
+, 
+
+
+
+{
+
+
+
+F
+
+
+
+t
+
+
+,
+t
+∈
+T
+}
+
+
+{\displaystyle \{{\mathcal {F}}_{t},t\in T\}}
+
+集合一些全序集T,上界由
+
+
+
+
+
+F
+
+
+
+
+{\displaystyle {\mathcal {F}}}
+
+决定。即对于 s,t  
+
+
+
+∈
+T
+
+
+{\displaystyle \in T}
+
+ 且 s < t, 有
+
+
+
+
+
+
+
+
+F
+
+
+
+s
+
+
+⊆
+
+
+
+F
+
+
+
+t
+
+
+⊆
+
+
+F
+
+
+
+
+{\displaystyle {\mathcal {F}}_{s}\subseteq {\mathcal {F}}_{t}\subseteq {\mathcal {F}}}
+
+
+
+自然过滤[编辑]
+给定一个随机过程 
+
+
+
+X
+=
+{
+
+X
+
+t
+
+
+:
+t
+∈
+T
+}
+
+
+{\displaystyle X=\{X_{t}:t\in T\}}
+
+。在这个过程中，需要过滤这里的 
+
+
+
+
+
+
+F
+
+
+
+t
+
+
+
+
+{\displaystyle {\mathcal {F}}_{t}}
+
+.这个通过 
+
+
+
+
+X
+
+s
+
+
+
+
+{\displaystyle X_{s}}
+
+和时间s = t产生。举个例子，
+
+
+
+
+
+
+F
+
+
+
+t
+
+
+=
+σ
+(
+{
+
+X
+
+s
+
+
+−
+1
+
+
+(
+A
+)
+:
+s
+≤
+t
+,
+A
+∈
+Σ
+}
+)
+
+
+{\displaystyle {\mathcal {F}}_{t}=\sigma (\{X_{s}^{-1}(A):s\leq t,A\in \Sigma \})}
+
+ 一个随机过程总是适应其自然过滤。
+参考文献[编辑]
+
+
+Papoulis, Athanasios & Pillai, S. Unnikrishna. Probability, Random Variables and Stochastic Processes. McGraw-Hill Science/Engineering/Math. 2001. ISBN 0-07-281725-9. 
+Boris Tsirelson. Lecture notes in Advanced probability theory. （原始内容存档于2008-11-28）. 
+J. L. Doob. Stochastic Processes. Wiley. 1953. 
+An Exploration of Random Processes for Engineers. Free e-book. July 2006. 
+
+
+外部链接[编辑]
+
+An 8 foot tall Probability Machine (named Sir Francis) comparing stock market returns to the randomness of the beans dropping through the quincunx pattern. from Index Funds Advisors IFA.com
+Stochastic Processes used in Quantitative Finance, sitmo.com
+Addressing Risk and Uncertainty
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+概率论：随机过程
+
+
+
+
+
+
+离散时间（英语：Discrete-time stochastic process）
+
+
+
+伯努利过程
+Branching process（英语：Branching process）
+中餐馆过程
+Galton–Watson process（英语：Galton–Watson process）
+Independent and identically distributed random variables（英语：Independent and identically distributed random variables）
+马尔可夫链
+Moran process（英语：Moran process）
+随机游走
+
+Loop-erased（英语：Loop-erased random walk）
+Self-avoiding（英语：Self-avoiding walk）
+
+
+
+
+
+
+
+
+
+
+连续时间（英语：Continuous-time stochastic process）
+
+
+
+Bessel process（英语：Bessel process）
+出生-死亡过程
+维纳过程/布朗运动
+
+布朗桥
+Excursion（英语：Brownian excursion）
+Fractional（英语：Fractional Brownian motion）
+几何布朗运动
+Meander（英语：Brownian meander）
+
+
+Cauchy process（英语：Cauchy process）
+Contact process（英语：Contact process (mathematics)）
+Cox process（英语：Cox process）
+Diffusion process（英语：Diffusion process）
+Empirical process（英语：Empirical process）
+Feller process（英语：Feller process）
+Fleming–Viot process（英语：Fleming–Viot process）
+Gamma process（英语：Gamma process）
+Hunt process（英语：Hunt process）
+Interacting particle system（英语：Interacting particle system）s
+伊藤积分
+伊藤过程
+Jump diffusion（英语：Jump diffusion）
+跳跃过程
+莱维过程
+Local time（英语：Local time (mathematics)）
+Markov additive process（英语：Markov additive process）
+McKean–Vlasov process（英语：McKean–Vlasov process）
+Ornstein–Uhlenbeck process（英语：Ornstein–Uhlenbeck process）
+泊松过程
+
+Compound（英语：Compound Poisson process）
+Non-homogeneous
+Point process
+
+
+Schramm–Loewner evolution（英语：Schramm–Loewner evolution）
+半鞅
+Sigma-martingale（英语：Sigma-martingale）
+Stable process（英语：Stable process）
+Superprocess（英语：Superprocess）
+Telegraph process（英语：Telegraph process）
+Variance gamma process（英语：Variance gamma process）
+维纳过程
+Wiener sausage（英语：Wiener sausage）
+
+
+
+
+
+
+
+
+Both
+
+
+
+Branching process（英语：Branching process）
+Gaussian process（英语：Gaussian process）
+隐马尔可夫模型（HMM）
+马尔可夫过程
+鞅
+
+Differences（英语：Martingale difference sequence）
+Local（英语：Local martingale）
+Sub-
+Super-（英语：Super-）
+
+
+Random dynamical system（英语：Random dynamical system）
+Regenerative process（英语：Regenerative process）
+Renewal process（英语：Renewal process）
+白噪声
+
+
+
+
+
+
+
+
+Fields and other
+
+
+
+Dirichlet process（英语：Dirichlet process）
+Gaussian random field（英语：Gaussian random field）
+Gibbs measure（英语：Gibbs measure）
+Hopfield神经网络
+易辛模型
+马尔可夫网络
+Percolation（英语：Percolation theory）
+Pitman–Yor process（英语：Pitman–Yor process）
+Point process（英语：Point process）
+
+Cox（英语：Point process#Cox point process）
+Poisson
+
+
+Potts model（英语：Potts model）
+随机场
+随机图
+
+
+
+
+
+
+
+
+时间序列模型
+
+
+
+ARCH模型
+ARIMA模型
+自回归模型
+ARMA模型
+广义ARCH模型
+滑动平均模型（英语：Moving-average model）
+
+
+
+
+
+
+
+
+金融模型
+
+
+
+Black–Derman–Toy（英语：Black–Derman–Toy model）
+Black–Karasinski（英语：Black–Karasinski model）
+布莱克-舒尔兹模型
+陈模型
+Constant elasticity of variance (CEV)（英语：Constant elasticity of variance model）
+Cox–Ingersoll–Ross (CIR)（英语：Cox–Ingersoll–Ross model）
+Garman–Kohlhagen（英语：Garman–Kohlhagen model）
+Heath–Jarrow–Morton (HJM)（英语：Heath–Jarrow–Morton framework）
+Heston（英语：Heston model）
+Ho–Lee（英语：Ho–Lee model）
+赫尔怀特模型
+LIBOR market（英语：LIBOR market model）
+SABR volatility（英语：SABR volatility model）
+Vašícek（英语：Vasicek model）
+
+
+
+
+
+
+
+
+精算学
+
+
+
+Bühlmann（英语：Bühlmann model）
+Cramér–Lundberg（英语：Cramér–Lundberg model）
+Risk process（英语：Risk process）
+Sparre–Anderson（英语：Sparre–Anderson model）
+
+
+
+
+
+
+
+
+等候理论
+
+
+
+Bulk（英语：Bulk queue）
+Fluid（英语：Fluid queue）
+Generalized queueing network（英语：G-network）
+M/G/1（英语：M/G/1 queue）
+M/M/1
+M/M/c（英语：M/M/c queue）
+
+
+
+
+
+
+
+
+性质
+
+
+
+右连左极函数
+Continuous（英语：Continuous stochastic process）
+Continuous paths（英语：Sample-continuous process）
+遍历性
+Exchangeable（英语：Exchangeable random variables）
+Feller-continuous（英语：Feller-continuous process）
+Gauss–Markov（英语：Gauss–Markov process）
+马尔可夫性质
+Mixing（英语：Mixing (mathematics)）
+Piecewise deterministic（英语：Piecewise deterministic Markov process）
+可预测过程
+循序可测过程
+Self-similar（英语：Self-similar process）
+平稳过程
+Time-reversible（英语：Time reversibility）
+
+
+
+
+
+
+
+
+Limit theorems
+
+
+
+中心极限定理
+Donsker's theorem（英语：Donsker's theorem）
+Doob's martingale convergence theorems（英语：Doob's martingale convergence theorems）
+遍历理论
+Fisher–Tippett–Gnedenko theorem（英语：Fisher–Tippett–Gnedenko theorem）
+Large deviation principle（英语：Large deviation principle）
+大数定律
+重对数律
+Maximal ergodic theorem（英语：Maximal ergodic theorem）
+Sanov's theorem（英语：Sanov's theorem）
+
+
+
+
+
+
+
+
+不等式
+
+
+
+Burkholder–Davis–Gundy（英语：Burkholder–Davis–Gundy inequalities）
+Doob's martingale（英语：Doob's martingale inequality）
+Kunita–Watanabe（英语：Kunita–Watanabe inequality）
+
+
+
+
+
+
+
+
+工具
+
+
+
+Cameron–Martin formula（英语：Cameron–Martin formula）
+随机变量的收敛
+Doléans-Dade exponential（英语：Doléans-Dade exponential）
+Doob decomposition theorem（英语：Doob decomposition theorem）
+Doob–Meyer decomposition theorem（英语：Doob–Meyer decomposition theorem）
+Doob's optional stopping theorem（英语：Doob's optional stopping theorem）
+Dynkin's formula（英语：Dynkin's formula）
+费曼－卡茨公式
+右连左极函数
+Girsanov theorem（英语：Girsanov theorem）
+Infinitesimal generator（英语：Infinitesimal generator (stochastic processes)）
+伊藤积分
+伊藤引理
+Kolmogorov continuity theorem（英语：Kolmogorov continuity theorem）
+Kolmogorov extension theorem（英语：Kolmogorov extension theorem）
+Lévy–Prokhorov metric（英语：Lévy–Prokhorov metric）
+Malliavin calculus（英语：Malliavin calculus）
+Martingale representation theorem（英语：Martingale representation theorem）
+Optional stopping theorem（英语：Optional stopping theorem）
+Prohorov theorem（英语：Prohorov theorem）
+Quadratic variation（英语：Quadratic variation）
+Reflection principle（英语：Reflection principle (Wiener process)）
+Skorokhod integral（英语：Skorokhod integral）
+Skorokhod's representation theorem（英语：Skorokhod's representation theorem）
+右连左极函数
+Snell envelope（英语：Snell envelope）
+随机微分方程
+
+Tanaka（英语：Tanaka equation）
+
+
+停时
+随机积分
+Uniform integrability（英语：Uniform integrability）
+Usual hypotheses（英语：Usual hypotheses）
+维纳空间
+
+Classical（英语：Classical Wiener space）
+Abstract
+
+
+
+
+
+
+
+
+
+
+Disciplines
+
+
+
+精算学
+计量经济学
+遍历理论
+极值理论（EVT）
+Large deviations theory（英语：Large deviations theory）
+金融数学
+数理统计学
+概率论
+等候理论
+Renewal theory（英语：Renewal theory）
+Ruin theory（英语：Ruin theory）
+统计学
+随机分析
+时间序列分析
+机器学习
+
+
+
+
+
+
+
+
+
+
+
+List of topics
+分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+NDL: 00564752
+
+
+
+
+
+
+
+
+
+
+
+
+分类：随机过程

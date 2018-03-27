@@ -1,0 +1,576 @@
+形式语言
+在数学、逻辑和计算机科学中，形式语言（英语：Formal language）是用精确的数学或机器可处理的公式定义的语言。
+如语言学中语言一样，形式语言一般有两个方面: 语法和语义。专门研究语言的语法的数学和计算机科学分支叫做形式语言理论，它只研究语言的语法而不致力于它的语义。在形式语言理论中，形式语言是一个字母表上的某些有限长字符串的集合。一个形式语言可以包含无限多个字符串。
+
+
+
+目录
+
+
+1 语言的形式定义
+
+1.1 字母表与字符串
+1.2 语言
+
+
+2 语言间的运算
+3 语言的表示方法
+
+3.1 枚举法
+3.2 形式文法
+3.3 正则表达式
+3.4 自动机
+
+
+4 参考文献
+5 外部链接
+6 参见
+
+
+
+语言的形式定义[编辑]
+字母表与字符串[编辑]
+语言定义在某一个特定的字母表上，字母表（经常记作 Σ ）可以为任意有限集合。例如集合
+
+
+
+{
+a
+,
+b
+,
+c
+.
+.
+.
+,
+z
+}
+
+
+{\displaystyle \{a,b,c...,z\}}
+
+就表示所有小写字母构成的字母表。
+字符串是字母表中的元素构成的有穷序列，以之前定义的小写字母表为例，“hello”，“wikipedia”,“abcjkg”都是上面的串，而“AbCd”就不是上面的串了。记号 ε 表示空串——它是一个特殊的长度为0的串。
+语言[编辑]
+直觉上，一个语言是字母表所能构成的所有串的集合的一个子集，具体来说：
+对于任意一个字母表，记全体长度为 n 的子串为
+
+
+
+
+Σ
+
+n
+
+
+
+
+{\displaystyle \Sigma ^{n}}
+
+，特别的，规定
+
+
+
+
+Σ
+
+0
+
+
+
+
+{\displaystyle \Sigma ^{0}}
+
+ 为{ε}，则还可以定义
+
+
+
+
+
+Σ
+
+∗
+
+
+=
+
+Σ
+
+0
+
+
+∪
+
+Σ
+
+1
+
+
+∪
+⋯
+∪
+
+Σ
+
+n
+
+
+∪
+⋯
+
+
+{\displaystyle \Sigma ^{*}=\Sigma ^{0}\cup \Sigma ^{1}\cup \cdots \cup \Sigma ^{n}\cup \cdots }
+
+
+
+
+
+
+
+Σ
+
+∗
+
+
+
+
+{\displaystyle \Sigma ^{*}}
+
+包含了字母表
+
+
+
+Σ
+
+
+{\displaystyle \Sigma }
+
+所能构成的所有字符串。语言（一般记为 L ）定义为
+
+
+
+
+Σ
+
+∗
+
+
+
+
+{\displaystyle \Sigma ^{*}}
+
+的任意子集。
+下面给出一些语言的例子，
+
+
+
+{
+h
+e
+l
+l
+o
+,
+w
+o
+r
+l
+d
+}
+
+
+{\displaystyle \{hello,world\}}
+
+是一个包含两个字符串的集合，也可以被视为小写字母构成的字母表上的一个语言。而实际上研究的语言的例子则常常更为复杂，例如所有合法的C语言程序串构成的集合也可以视作ASCII上的一个语言（假定编译器只支持英文符号）。
+需要注意的一点是，
+
+
+
+
+Σ
+
+∗
+
+
+
+
+{\displaystyle \Sigma ^{*}}
+
+ 的空子集 ∅ 与只包含空串的语言 {ε} 是两个不同的语言。
+语言间的运算[编辑]
+语言间的运算就是 Σ*幂集上的运算。
+
+字符串集合的交并补等运算。
+连接运算：L1L2 = { xy | x 属于L1并且 y 属于L2 }。
+幂运算：Ln = L … L （共 n 个 L 连接在一起），L0 = {ε}。
+闭包运算：L* = L0∪L1∪…∪Ln∪…。
+右商运算：L1/L2 = {x | 存在 y 属于L2使得 xy 属于L1}。
+设 S ⊆ Σ* 是一个语言，S 的补语言定义为集合 {ω | ω ∈ Σ* 且 ω ∉ S}
+
+语言的表示方法[编辑]
+不像自然语言，一个形式语言作为一个集合，需要有某种明确的标准来定义一个字符串是否是它的元素。这可以通过多种方法来完成，下面将给出一些例子：
+枚举法[编辑]
+如果一个形式语言的元素数目是有限的，那么可以通过枚举它的各个字串来严格地定义它。
+形式文法[编辑]
+通过形式文法来产生（参见乔姆斯基谱系）。
+正则表达式[编辑]
+主条目：正则表达式和正则语言
+正则表达式是一种很多编程语言和库都支持的语法，这种语法可以用于匹配符合一定条件的字符串，经常用于文本的搜索和过滤。从名称上来说，正则表达式应当是对应于正则语言的，在形式语言领域内所称的正则表达式确实如此。不过，在实际的编程语言中，很多正则表达式已经通过引入复杂的扩展，可以匹配正则表达式所不能描述的内容。形式语言中的正则表达式和一般编程语言中所称的正则表达式在语法上也有较大差异。
+自动机[编辑]
+直觉上来说，自动机消耗输入符号，并在自身的不同状态间转移，可以通过状态机消耗完整个字符串之后是否达到某些特定状态来定义一个字符串是否属于某一个语言。语言可以通过某种自动机来识别，比如图灵机、有限状态自动机。
+参考文献[编辑]
+
+
+
+Hamilton, A. G. Logic for Mathematicians. Cambridge University Press. 1978. ISBN 0-521-21838-1. 
+Ginsburg, Seymour. Algebraic and automata theoretic properties of formal languages. North-Holland. 1975. ISBN 0-7204-2506-9. 
+Harrison, Michael A. Introduction to Formal Language Theory. Addison-Wesley. 1978. 
+Hopcroft, John E.; Jeffrey D. Ullman. Introduction to Automata Theory, Languages, and Computation. Reading, Massachusetts: Addison-Wesley Publishing. 1979. ISBN 0-201-02988-X.  引文使用过时参数coauthors (帮助)
+Rozenberg, Grzegorz; Arto Salomaa. Handbook of Formal Languages: Volume I-III. Springer. 1997. ISBN 3-540-61486-9.  引文使用过时参数coauthors (帮助)
+Suppes, Patrick. Introduction to Logic. D. Van Nostrand. 1957. ISBN 0-442-08072-7. 
+
+
+外部链接[编辑]
+
+Formal Language Definitions website 1/24/04
+James Power, Notes on Formal Language Theory and Parsing, 29 November 2002.
+Alexandru Mateescu and Arto Salomaa, "Preface" in Vol.1, pp. v-viii, and "Formal Languages: An Introduction and a Synopsis", Chapter 1 in Vol. 1, pp.1-39
+Sheng Yu, "Regular Languages", Chapter 2 in Vol. 1
+Jean-Michel Autebert, Jean Berstel, Luc Boasson, "Context-Free Languages and Push-Down Automata", Chapter 3 in Vol. 1
+Christian Choffrut and Juhani Karhumäki, "Combinatorics of Words", Chapter 6 in Vol. 1
+Tero Harju and Juhani Karhumäki, "Morphisms", Chapter 7 in Vol. 1, pp. 439 - 510
+Jean-Eric Pin, "Syntactic semigroups", Chapter 10 in Vol. 1, pp. 679-746
+M. Crochemore and C. Hancart, "Automata for matching patterns", Chapter 9 in Vol. 2
+Dora Giammarresi, Antonio Restivo, "Two-dimensional Languages", Chapter 4 in Vol. 3, pp. 215 - 267
+
+参见[编辑]
+
+
+语言主题
+数学主题
+计算机科学主题
+
+
+
+形式文法
+形式方法
+形式科学
+形式系统
+数学符号
+编程语言
+本体语言
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+自动机理论：形式语言和形式文法
+
+
+
+
+
+
+
+
+
+
+乔姆斯基层级
+文法
+语言
+极小自动机
+
+
+类型 0
+无限制
+递归可枚举
+图灵机
+
+
+—
+(无公用名)
+递归
+判定器
+
+
+类型 1
+上下文有关
+上下文有关
+线性有界
+
+
+—
+附标
+附标
+嵌套堆栈
+
+
+—
+Linear context-free rewriting systems etc.
+Mildly context-sensitive
+Thread automata
+
+
+—
+树-邻接
+适度上下文有关
+嵌入下推
+
+
+类型 2
+上下文无关
+上下文无关
+非确定下推
+
+
+—
+确定上下文无关
+确定上下文无关
+确定下推
+
+
+—
+Visibly pushdown
+Visibly pushdown
+Visibly pushdown
+
+
+类型 3
+正则
+正则
+有限
+
+
+—
+—
+Star-free
+Counter-free (with aperiodic finite monoid)
+
+
+
+
+
+
+
+
+
+
+每个语言范畴都是其直接上面的范畴的真子集 每个语言范畴内的语言都可以用同一行的文法和自动机表示
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+语义网
+
+
+
+
+
+
+背景
+
+
+
+知识
+万维网
+因特网
+数据库
+语义网络
+本体工程
+本体
+
+
+
+
+
+
+
+
+分主题
+
+
+
+数据网（英语：Data Web）
+数据空间（英语：Dataspaces）
+Dereferenceable URIs
+Hyperdata
+键连资料
+本体
+规则库
+
+
+
+
+
+
+
+
+应用
+
+语义维基（英语：Semantic wiki） · 语义发布（英语：Semantic publishing） · 语义搜索 · 语义宣传（英语：Semantic advertising） · 语义推理程序（英语：Semantic reasoner） · 语义匹配（英语：Semantic matching） · 语义映射程序（英语：Semantic mapper） · 语义代理程序（英语：Semantic broker） · 语义分析方法（英语：Semantic analytics） · 面向语义服务型架构（英语：Semantic service oriented architecture） · 语义检索
+
+
+
+
+
+
+相关主题
+
+
+
+集体智慧
+描述逻辑
+信息架构
+知识管理
+知识表示
+图书馆2.0
+元数据
+引用
+Web 2.0
+Plain Old Semantic HTML
+搜索引擎优化
+开放数据库连接(ODBC)
+主题地图
+心智图
+XML
+描述逻辑
+分众分类法
+
+
+
+
+
+
+
+
+人物
+
+蒂姆·伯纳斯-李 · James Hendler（英语：James Hendler） · Ora Lassila · Nigel Shadbolt · Wendy Hall
+
+
+
+
+
+
+关键的语义网组织
+
+W3C · WSRI · MIT · OpenLink软件 · Talis工作组 · ClearForest · 南安普敦大学 · DERI
+
+
+
+
+
+
+标准
+
+
+
+
+语法及支持技术
+
+
+
+HTTP
+IRI（英语：Internationalized resource identifier）
+
+URI
+
+
+资源描述框架(RDF)
+
+Notation 3（英语：Notation 3）
+Turtle (语法)（英语：Turtle (syntax)）
+JSON-LD（英语：JSON-LD）
+N-Triples（英语：N-Triples）
+
+
+SPARQL
+XML
+
+
+
+
+
+
+
+
+模式、本体和规则
+
+RDFS · OWL · 规则交换格式 · 语义网规则语言
+
+
+
+
+
+
+语义标注
+
+RDFa · eRDF · GRDDL · 微格式
+
+
+
+
+
+
+公共词表
+
+FOAF · SIOC · Dublin Core · SKOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4017848-1
+NDL: 00576869
+
+
+
+
+
+
+
+
+
+
+
+
+分类：形式语言编译原理隐藏分类：含有过时参数的引用的页面包含规范控制信息的维基百科条目

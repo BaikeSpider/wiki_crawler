@@ -1,0 +1,967 @@
+马文·闵斯基
+
+
+马文·闵斯基
+Marvin Minsky (1927-2016)
+
+
+
+马文·闵斯基 在2008年照片
+
+
+
+出生
+(1927-08-09)1927年8月9日
+ 美国纽约市
+
+
+逝世
+2016年1月24日(2016-01-24)（88岁）
+ 美国波士顿
+
+
+国籍
+ 美国
+
+
+母校
+菲利普斯学院
+哈佛大学
+普林斯顿大学
+
+
+知名于
+人工智能[1]
+共轭焦显微镜[2]
+Useless machine[3]
+Triadex Muse[来源请求]
+Transhumanism[来源请求]
+Perceptrons (book)[4]
+Society of Mind[5]
+The Emotion Machine[6]
+
+
+奖项
+图灵奖 (1969)
+日本国际奖 (1990)
+IJCAI Award for Research Excellence (1991)
+富兰克林奖章 (2001), 2013 BBVA Foundation Frontiers of Knowledge Award
+
+
+网站
+web.media.mit.edu/~minsky
+
+
+科学生涯
+
+
+研究领域
+认知科学
+
+
+机构
+麻省理工学院
+
+
+论文
+Theory of Neural-Analog Reinforcement Systems and Its Application to the Brain Model Problem（1954）
+
+
+博士导师
+阿尔伯特·塔克[7][8]
+
+
+博士生
+曼纽尔·布卢姆
+丹尼尔·博伯罗（Daniel Bobrow）
+欧仁·查尔尼克（Eugene Charniak）
+大卫·达勒普尔（David Dalrymple）
+卡尔·希维特（Carl Hewitt）
+史科特·法赫尔曼（Scott Fahlman）
+丹尼·希利斯（Danny Hillis）
+本杰明·库佩斯（Benjamin Kuipers）
+David Levitt
+乔尔·莫塞斯（Joel Moses）
+贝特拉姆·拉斐尔（Bertram Raphael）
+杰拉德·杰伊·萨斯曼（Gerald Jay Sussman）
+伊凡·苏泽兰
+帕特里克·温斯顿（Patrick Winston）[7]
+
+
+施影响于
+David Waltz
+
+
+马文·李·闵斯基（英语：Marvin Lee Minsky，1927年8月9日－2016年1月24日），生于美国纽约州纽约市，美国科学家，专长于认知科学与人工智能领域，麻省理工学院人工智能实验室的创始人之一，著有几部人工智能和哲学方面的作品。1969年，因为在人工智能领域的贡献，获得图灵奖。
+生平[编辑]
+生于犹太人家庭中，高中就读菲利普斯学院。高中毕业后，在1944年至1945年间，服役于美国海军，参与第二次世界大战。1950年于哈佛大学获得数学学士学位，1954年于普林斯顿大学获得数学博士学位。自1958年起在麻省理工学院任教，担任东芝媒体艺术与科学教授（Toshiba Professor of Media Arts and Sciences）、麻省理工学院电子工程与计算机科学教授，直到他过世为止。
+他有数项发明，如1957年发表的共聚焦显微镜，1963年发表的头戴式显示器。他与西摩尔·派普特共同发展了第一个以Logo语言建构的机器人，命名为海龟（Turtle）。1951年，他设计并建构了第一部能自我学习的人工神经网络机器，SNARC。1952年，他发明会自行关闭电源的无用机器(Useless Machine)[9]
+1956年，他与约翰·麦卡锡组织了达特茅斯会议，在这场会议中，人工智能的概念被提出，在之后形成了一个新的学门。在麻省理工学院，他与约翰·麦卡锡共同创立了人工智能研究室（MIT计算机科学与人工智能实验室的前身）。
+闵斯基奠定了人工神经网络的研究基础。
+2016年1月24日，闵斯基因脑内出血病逝，享寿88岁[10]。
+荣誉[编辑]
+闵斯基曾获得多项荣誉。他是美国工程院和美国科学院院士，于1969年获得图灵奖，1990年获得日本国际奖，1991年获得IJCAI Award for Research Excellence，2001年获得富兰克林奖章（Benjamin Franklin Medal）。
+注释[编辑]
+
+
+^ doi:10.1109/JRPROC.1961.287775
+本引用来源将会在数十分钟后自动完成。您可以检查英文对应模板或手动扩充
+^ doi:10.1002/sca.4950100403
+本引用来源将会在数十分钟后自动完成。您可以检查英文对应模板或手动扩充
+^ Pesta, A. Looking for Something Useful to Do With Your Time? Don't Try This. WSJ. 12 March 2014 [24 March 2014]. 
+^ Papert, Seymour; Minsky, Marvin Lee. Perceptrons: an introduction to computational geometry. Cambridge, Mass: MIT Press. 1988. ISBN 0-262-63111-3. 
+^ Minsky, Marvin Lee. The society of mind. New York: Simon and Schuster. 1986. ISBN 0-671-60740-5.  The first comprehensive description of the Society of Mind theory of intellectual structure and development. See also The Society of Mind (CD-ROM version), Voyager, 1996.
+^ Minsky, Marvin Lee. The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind. New York: Simon & Schuster. 2007. ISBN 0-7432-7664-7. 
+^ 7.0 7.1 Marvin Lee Minsky 在数学谱系计划的资料。
+^ Template:AIGenealogy
+^ Pesta, Abigail. Looking for Something Useful to Do With Your Time? Don't Try This. Wall Street Journal. 12 March 2013: 1 [14 March 2013]. 
+^ 拥有怪兽大脑 人工智能先驱明斯基辞世，中央社，2016年1月26日
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+图灵奖获得者
+
+
+
+
+
+
+1960年代
+
+
+
+1966年：艾伦·佩利
+1967年：莫里斯·威尔克斯
+1968年：理查德·卫斯里·汉明
+1969年：马文·闵斯基
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+1970年：詹姆斯·哈迪·威尔金森
+1971年：约翰·麦卡锡
+1972年：艾兹赫尔·戴克斯特拉
+1973年：查尔斯·巴赫曼
+1974年：高德纳
+1975年：艾伦·纽厄尔
+司马贺
+1976年：迈克尔·拉宾
+达纳·斯科特
+1977年：约翰·巴科斯
+1978年：罗伯特·弗洛伊德
+1979年：肯尼斯·艾佛森
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+1980年：东尼·霍尔
+1981年：埃德加·科德
+1982年：史提芬·古克
+1983年：肯·汤普逊
+丹尼斯·里奇
+1984年：尼克劳斯·维尔特
+1985年：理查德·卡普
+1986年：约翰·霍普克罗夫特
+罗伯特·塔扬
+1987年：约翰·科克
+1988年：伊凡·苏泽兰
+1989年：威廉·卡亨
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+1990年：费尔南多·考巴托
+1991年：罗宾·米尔纳
+1992年：巴特勒·兰普森
+1993年：尤里斯·哈特马尼斯
+理查德·斯特恩斯
+1994年：爱德华·费根鲍姆
+拉吉·瑞迪
+1995年：曼纽尔·布卢姆
+1996年：阿米尔·伯努利
+1997年：道格拉斯·恩格尔巴特
+1998年：詹姆斯·尼古拉·格雷
+1999年：弗雷德里克·布鲁克斯
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+2000年：姚期智
+2001年：奥利-约翰·达尔
+克利斯登·奈加特
+2002年：罗纳德·李维斯特
+阿迪·萨莫尔
+伦纳德·阿德曼
+2003年：艾伦·凯
+2004年：文顿·瑟夫
+罗伯特·卡恩
+2005年：彼得·诺尔
+2006年：法兰·艾伦
+2007年：爱德蒙·克拉克
+艾伦·爱默生
+约瑟夫·斯发基斯
+2008年：芭芭拉·利斯科夫
+2009年：查尔斯·萨克尔
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+2010年：莱斯利·瓦利安特
+2011年：朱迪亚·珀尔
+2012年：莎菲·戈德瓦塞尔
+希尔维奥·米卡利
+2013年：莱斯利·兰波特
+2014年：迈克尔·斯通布雷克
+2015年：惠特菲尔德·迪菲
+马丁·赫尔曼
+2016年：蒂姆·伯纳斯-李
+2017年：约翰·轩尼诗
+大卫·帕特森
+
+
+
+
+
+
+
+
+
+Category:图灵奖获得者
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+日本国际奖获得者
+
+
+
+
+
+
+1980年代
+
+
+
+1985年：约翰·罗宾森·皮尔斯
+伊弗雷姆·卡齐尔
+1986年：大卫·吞布尔（英语：David Turnbull (materials scientist)）
+威廉·约翰·克福（英语：Willem Johan Kolff）
+1987年：亨利·贝切尔（英语：Henry Beachell）
+戈·辛·库西（英语：Gurdev Khush）
+希尔多·哈罗德·梅门
+1988年：乔治·房德里耶斯（George Vendryes）
+唐纳·亨德森（英语：Donald Henderson）
+蚁田功（日语：蟻田功）
+法兰克·芬奈尔（英语：Frank Fenner）
+吕克·蒙塔尼耶
+罗伯特·卡洛
+1989年：弗兰克·舍伍德·罗兰
+艾里亚斯·詹姆斯·科里
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+1990年：马文·闵斯基
+威廉·杰森·摩根
+丹·麦克肯泽
+萨维尔·勒·皮雄
+1991年：贾各路易·里翁
+约翰·朱里安·怀尔德（英语：John J. Wild）
+1992年：格哈德·埃特尔
+克里斯多佛·波巨（英语：Christopher Polge）
+1993年：弗兰克·普莱斯（英语：Frank Press）
+凯利·穆利斯
+1994年：威廉·海达德·皮克林
+阿尔维德·卡尔森
+1995年：尼克·何伦亚克
+爱德华·F·奈普林（英语：Edward F. Knipling）
+1996年：高锟
+伊藤正男（日语：伊藤正男）
+1997年：杉村隆
+布鲁斯·艾姆斯
+约瑟夫·F·恩格尔佰格（英语：Joseph Engelberger）
+吉川弘之（日语：吉川弘之）
+1998年：江崎玲于奈
+茹泽夫·谢尔（英语：Jozef Schell）
+马克·冯·蒙塔谷（英语：Marc Van Montagu）
+1999年：威廉·威斯利·皮特森（英语：W. Wesley Peterson）
+杰克·施特罗明格
+唐·克雷格·威尔利（英语：Don Craig Wiley）
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+2000年；英·玛哈
+石坂公成
+2001年：约翰·B·古迪纳夫
+提摩西·R·帕森斯（英语：Timothy R. Parsons）
+2002年：蒂姆·伯纳斯-李
+安妮·麦克拉伦
+安德烈·塔克斯基（英语：Andrzej Tarkowski）
+2003年：本华·曼德博
+詹姆士·A·约克
+小川诚二
+2004年：本多健一（日语：本多健一）
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+2010年：岩崎俊一（日语：岩崎俊一）
+彼德·维托塞克（英语：Peter Vitousek）
+2011年：肯尼斯·汤普逊
+丹尼斯·里奇
+岸本忠三
+平野俊夫（日语：平野俊夫）
+2012年：珍妮特·罗利
+布莱恩·德鲁克尔
+尼古拉斯·莱登
+佐川真人
+2013年：C·格兰特·威尔森
+让·弗雷谢
+约翰·弗雷德里克·葛拉斯雷（英语：John Frederick Grassle）
+2014年：末松安晴（日语：末松安晴）
+查尔斯·戴维·阿利斯
+2015年：高桥裕（日语：高橋裕）
+西奥多·弗里德曼
+阿兰·菲舍尔
+2016年：细野秀雄
+Steven D. Tanksley
+2017年：埃马纽埃尔·卡彭蒂耶
+詹妮弗·杜德纳
+阿迪·萨莫尔
+2018年：吉野彰
+马克斯·戴尔·库珀（英语：Max Dale Cooper）
+雅克·米勒
+
+
+
+
+
+
+
+
+
+Category:日本国际奖获得者
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+富兰克林研究所本杰明·富兰克林奖章获得者
+
+
+
+
+
+
+1990年代
+
+
+
+
+
+1998年
+
+
+
+
+崔琦
+霍斯特·施特默
+艾哈迈德·泽韦尔
+史坦利·布鲁希纳
+大卫·佩恩
+Emmanuel Desurvire
+
+
+
+
+
+
+
+
+
+1999年
+
+
+
+
+诺姆·乔姆斯基
+约翰·马瑟、外村彰
+Richard W. Shorthill
+Victor Vali
+沃尔特·卡明斯基
+巴里·马歇尔
+道格拉斯·恩格尔巴特
+
+
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+
+2000年
+
+
+
+
+沃尔夫冈·克特勒
+罗伯特·格拉布
+埃里克·康奈尔
+卡尔·威曼
+詹姆斯·R·鲍威尔（英语：James R. Powell）
+Eville Gorham
+Gordon Danby
+
+
+
+
+
+
+
+
+
+2001年
+
+
+
+
+阿兰·古斯
+巴里·夏普莱斯
+马文·闵斯基
+Rob Van der Voo
+犹大·福克曼
+Bernard Widrow
+
+
+
+
+
+
+
+
+
+2002年
+
+
+
+
+中村修二
+饭岛澄男
+Norman Allinger
+Mary-Dell Chilton
+Alexandra Navrotsky
+Lucy Suchman
+
+
+
+
+
+
+
+
+
+2003年
+
+
+
+
+小柴昌俊
+雷蒙德·戴维斯
+约翰·贝寇（英语：John N. Bahcall）
+约翰·麦卡锡
+珍·古道尔
+Bishnu S. Atal
+Robin M. Hochstrasser
+Joseph Smagorinsky
+Norman A. Phillips
+
+
+
+
+
+
+
+
+
+2004年
+
+
+
+
+哈里·格雷
+理查德·卡普
+罗杰·培根 (物理学家)
+Robert B. Meyer
+Robert E. Newnham
+
+
+
+
+
+
+
+
+
+2005年
+
+
+
+
+南部阳一郎
+安德鲁·维特比
+伊丽莎白·布莱克本
+Peter Vail
+Aravind Joshi
+
+
+
+
+
+
+
+
+
+2006年
+
+
+
+
+塞缪尔·丹尼谢夫斯基
+Ray William Clough
+Luna Leopold
+唐·诺曼
+Fernando Nottebohm
+Jan Peter Toennies
+Giacinto Scoles
+M. Gordon Wolman
+
+
+
+
+
+
+
+
+
+2007年
+
+
+
+
+户冢洋二
+阿瑟·麦克唐纳
+Merton C. Flemings
+Nancy Wexler
+Klaus Biemann
+罗伯特·丹纳德
+Steve Squyres
+
+
+
+
+
+
+
+
+
+2008年
+
+
+
+
+黛博拉·金（Deborah S. Jin）
+朱迪亚·珀尔
+加里·鲁夫昆
+维克托·安布罗斯
+戴维·鲍尔库姆
+阿尔伯特·艾申莫瑟
+Wallace Smith Broecker
+Arun G. Phadke
+James Thorp
+
+
+
+
+
+
+
+
+
+2009年
+
+
+
+
+斯蒂芬·J·本科维奇
+乔治·怀特塞兹
+J. Frederick Grassle
+Richard J. Robbins
+卢特菲·泽德
+Ruzena Bajcsy
+
+
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+
+2010年
+
+
+
+
+胡安·伊格纳西奥·西拉克·萨斯图赖因
+莎菲·戈德瓦塞尔
+Gerhard M. Sessler
+Brian Spalding
+JoAnne Stubbe
+彼得·佐勒
+彼得·诺威尔
+James Edward Maceo West
+戴维·瓦恩兰
+
+
+
+
+
+
+
+
+
+2011年
+
+
+
+
+约翰·罗伯特·安德森
+尼古拉·卡比博
+K·C·尼古劳
+狄恩·卡门
+Jillian Banfield
+英格丽·多贝西
+
+
+
+
+
+
+
+
+
+2012年
+
+
+
+
+拉希德·苏尼亚耶夫
+弗拉基米尔·万普尼克
+Lonnie Thompson
+Ellen Stone Mosley-Thompson
+杰里·尼尔森
+Zvi Hashin
+
+
+
+
+
+
+
+
+
+2013年
+
+
+
+
+亚历山大·达尔加诺
+鲁道夫·耶尼施
+Subra Suresh
+Robert Berner
+Jerrold Meinwald
+William Labov
+
+
+
+
+
+
+
+
+
+2014年
+
+
+
+
+丹尼尔·克莱普纳
+Mark H. Kryder
+Lisa Tauxe
+岩崎俊一
+Christopher T. Walsh
+约阿希姆·弗兰克
+Ali H. Nayfeh
+
+
+
+
+
+
+
+
+
+2015年
+
+
+
+
+斯蒂芬·利帕德
+Elissa L. Newport
+Roger Harrington
+科妮莉亚·巴格曼
+张首晟
+查尔斯·康恩
+尤金·米尔（英语：Eugene Mele）
+真锅淑郎
+Jon Huntsman Sr.
+
+
+
+
+
+
+
+
+
+2016年
+
+
+
+
+钱煦
+纳德里安·西曼
+罗伯特·兰格
+所罗门·格伦布
+Brian Atwater
+Yale Patt
+
+
+
+
+
+
+
+
+
+2017年
+
+
+
+
+克日什托夫·马蒂亚谢夫斯基
+泽本光男
+Michael Posner
+尼克·何伦亚克
+Douglas C. Wallace
+米尔德里德·德雷斯尔豪斯
+Marvin L. Cohen
+
+
+
+
+
+
+
+
+
+2018年
+
+
+
+
+Manijeh Razeghi
+Susan Trumbore
+Adrian Bejan
+海伦·奎恩
+约翰·B·古迪纳夫
+罗伯特·卡恩
+文顿·瑟夫
+
+
+
+
+
+
+
+
+
+
+
+
+Category:富兰克林研究所本杰明·富兰克林奖章获得者
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 22166315
+LCCN: n50032614
+ISNI: 0000 0001 1469 0776
+GND: 12009231X
+SELIBR: 394534
+SUDOC: 029097401
+BNF: cb12079407k（数据）
+MGP: 6869
+NLA: 35355124
+NDL: 00450165
+NKC: skuk0004141
+RLS: 000086976
+BNE: XX1033183
+
+
+
+
+
+
+
+
+
+
+
+
+分类：1927年出生2016年逝世图灵奖获得者美国计算机科学家犹太科学家普林斯顿大学校友哈佛大学校友美国犹太人纽约市人美国国家科学院院士美国国家工程院院士日本国际奖获得者富兰克林研究所本杰明·富兰克林奖章获得者隐藏分类：包含未完成DOI引用来源的页面有未列明来源语句的条目含有hCards的条目本地相关图片与维基数据不同包含规范控制信息的维基百科条目

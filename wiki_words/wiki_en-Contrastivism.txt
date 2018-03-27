@@ -1,0 +1,274 @@
+Contrastivism
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (May 2017) (Learn how and when to remove this template message)
+
+
+
+Contrastivism, or the contrast theory of meaning, is an epistemological theory proposed by Jonathan Schaffer that suggests that knowledge attributions have a ternary structure of the form 'S knows that p rather than q'. This is in contrast to the traditional view whereby knowledge attributions have a binary structure of the form 'S knows that p'. Contrastivism was suggested as an alternative to contextualism. Both are semantic theories that try to explain skepticism using semantic methods.
+Walter Sinnott-Armstrong proposed in a paper titled "A contrastivist manifesto"[1] a variant of contrastivism that, he argues, differs from contextualism, invariantism, and Schaffer’s contrastivism.
+Ernest Gellner in Words and Things "terms derive their meaning from the fact that there are or could be things which fall under them and that there are others which do not." (Emphasis in original.)[2]
+
+
+
+Contents
+
+
+1 The contrast clause
+2 See also
+3 References
+4 Further reading
+
+
+
+The contrast clause[edit]
+The '...rather than q' part of the knowledge attribution is known as the 'contrast clause'. This is what separates it from traditional binary formulations. Rather than taking the same road as contextualism and saying that the meaning of 'knows' can change with attributor context the contrastivist claims that it is the unspoken contrast clause that changes. This can be used to avoid skeptical problems.
+See also[edit]
+
+Contrast (linguistics)
+Meaning (linguistic), meaning which is communicated through the use of language.
+Meaning (non-linguistic)
+
+References[edit]
+
+
+
+^ "A Contrastivist Manifesto". Social Epistemology. 22: 257–270. doi:10.1080/02691720802546120. 
+^ Gellner, Ernest. Words and Things. p. 40. 
+
+
+
+Further reading[edit]
+
+Blaauw, M., 'Is there Evidence for Contrastivism?', forthcoming in Social Epistemology, 2007.
+Schaffer, J (2004). "From Contextualism to Contrastivism". Philosophical Studies. 119: 73–103. doi:10.1023/b:phil.0000029351.56460.8c. 
+Schaffer, J., “Contrastive Knowledge,” in Oxford Studies in Epistemology 1, eds. Gendler and Hawthorne (2005), 235-71: Oxford University Press
+Schaffer, J., “The Contrast-Sensitivity of Knowledge Ascriptions,” Social Epistemology (forthcoming)
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of language
+
+
+
+Philosophers
+
+
+
+Plato (Cratylus)
+Gorgias
+Confucius
+Xunzi
+Aristotle
+Stoics
+Pyrrhonists
+Scholasticism
+Ibn Rushd
+Ibn Khaldun
+Thomas Hobbes
+Gottfried Wilhelm Leibniz
+Johann Herder
+Ludwig Noiré
+Wilhelm von Humboldt
+Fritz Mauthner
+Paul Ricœur
+Ferdinand de Saussure
+Gottlob Frege
+Franz Boas
+Paul Tillich
+Edward Sapir
+Leonard Bloomfield
+Zhuangzi
+Henri Bergson
+Lev Vygotsky
+Ludwig Wittgenstein
+
+Philosophical Investigations
+Tractatus Logico-Philosophicus
+
+
+Bertrand Russell
+Rudolf Carnap
+Jacques Derrida
+
+Of Grammatology
+Limited Inc
+
+
+Benjamin Lee Whorf
+Gustav Bergmann
+J. L. Austin
+Noam Chomsky
+Hans-Georg Gadamer
+Saul Kripke
+A. J. Ayer
+G. E. M. Anscombe
+Jaakko Hintikka
+Michael Dummett
+Donald Davidson
+Roger Gibson
+Paul Grice
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Hilary Putnam
+David Lewis
+John Searle
+Joxe Azurmendi
+Scott Soames
+Stephen Yablo
+John Hawthorne
+Stephen Neale
+Paul Watzlawick
+
+
+
+
+
+Theories
+
+
+
+Causal theory of reference
+Contrast theory of meaning
+Contrastivism
+Conventionalism
+Cratylism
+Deconstruction
+Descriptivist theory of names
+Direct reference theory
+Dramatism
+Expressivism
+Linguistic determinism
+Logical atomism
+Logical positivism
+Mediated reference theory
+Nominalism
+Non-cognitivism
+Phallogocentrism
+Quietism
+Relevance theory
+Semantic externalism
+Semantic holism
+Structuralism
+Supposition theory
+Symbiosism
+Theological noncognitivism
+Theory of descriptions
+Verification theory
+
+
+
+
+
+Concepts
+
+
+
+Ambiguity
+Linguistic relativity
+Meaning
+Language
+Truth-bearer
+Proposition
+Use–mention distinction
+Concept
+Categories
+Set
+Class
+Intension
+Logical form
+Metalanguage
+Mental representation
+Principle of compositionality
+Property
+Sign
+Sense and reference
+Speech act
+Symbol
+Entity
+Sentence
+Statement
+more...
+
+
+
+
+
+Related articles
+
+
+
+Analytic philosophy
+Philosophy of information
+Philosophical logic
+Linguistics
+Pragmatics
+Rhetoric
+Semantics
+Formal semantics
+Semiotics
+
+
+
+
+
+
+
+
+Category
+Task Force
+Discussion
+
+
+
+
+
+
+
+
+
+
+This article about epistemology is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This linguistics article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+Categories: Theories of languageEpistemological theoriesSkepticismEpistemology stubsLinguistics stubsHidden categories: Articles lacking in-text citations from May 2017All articles lacking in-text citationsAll stub articles

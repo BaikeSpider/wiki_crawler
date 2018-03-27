@@ -1,0 +1,100 @@
+Natural kind
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2008) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+Chemical elements like gold are good candidates for natural kinds.
+
+
+In analytic philosophy, the term natural kind is used to refer to a "natural" grouping, not an artificial one. Or, it is something that a set of things (objects, events, beings) has in common which distinguishes it from other things as a real set rather than as a group of things arbitrarily lumped together by a person or group of people.
+
+
+
+Contents
+
+
+1 The objective "naturalness" of a "kind"
+2 Quine
+3 Cultural artifacts
+4 Philosophical issues
+5 Practical utility
+6 Linguistic issues
+7 See also
+8 Footnotes
+9 References
+10 External links
+
+
+
+The objective "naturalness" of a "kind"[edit]
+If any "natural kinds" exist at all, good candidates might include each of the chemical elements, like gold or potassium; and, also, physical particles, like quarks, might be natural kinds — namely, they would still be groups of "things", distinct from other "things" as a group, even if there was no-one around to say they were members of the same group.
+However, by contrast, and despite its practical utility, a set of objects weighing more than 50 pounds, almost certainly is not a natural kind — for, although someone might usefully group those objects together for a special purpose (e.g., determining shipping costs, location on a furniture van, etc.), there is no particular reason that anyone else would lump all of those objects together, rather than placing each of them in some other (equally useful) grouping: such as, for example, gas, liquid, square, round, regular shape, irregular shape, etc.
+Quine[edit]
+A more formal definition has it that a natural kind is a family of "entities possessing properties bound by natural law; we know of natural kinds in the form of categories of minerals, plants, or animals, and we know that different human cultures classify natural realities that surround them in a completely analogous fashion" (Molino 2000, p.168).
+The term was brought into contemporary analytic philosophy by W. V. Quine in his 1969 essay "Natural Kinds", where any set of objects forms a kind only if (and perhaps if) it is "projectible", meaning judgments made about some members of that set can plausibly be extended by scientific induction to other members.
+Hence "raven" and "black" refer to concepts that match natural kinds because any black raven constitutes at least some evidence that all ravens are black. But "nonblack" and "nonraven" are not, because a nonblack nonraven (an extremely wide category) is not evidence that all nonblack things are nonravens.[1] Nelson Goodman's problem predicate "grue", meaning "observed before 1 January 2050 and blue or observed after 1 January 2050 and green", turns out to be inappropriate because it does not denote a natural kind, according to Quine. He argued that kind-hood was logically primitive: it could not be reduced non-trivially to any other relation among individuals. See also: New riddle of induction#Quine.
+Cultural artifacts[edit]
+Cultural artifacts are not generally considered natural kinds. As one author puts it, "they never stop changing, and terms that designate them constitute only what Wittgenstein called 'family resemblance predicates'" (ibid, p.169). This point is more disputed; John McDowell has extensively argued that this opposition between "culture" and "nature" cannot be clearly formulated and that in any case it ought to lead us to construe cultural products not as unnatural, but as, adopting Aristotle's terminology, a kind of "second nature."
+Philosophical issues[edit]
+There is considerable debate in analytic philosophy about whether there are any natural kinds at all, and if so, what they are.
+Philosophers of biology argue about whether biological species, like the bald eagle (Haliaeetus leucocephalus), are natural kinds; even such familiar species as bird, cat, and dog cannot be established as natural types since any plausible definitions of those species leaves the classification of some animals ambiguous.
+Others debate whether races, sexes, or sexual orientations are natural kinds, or rather, to what extent they can be given the wide and continuous variety of race- and gender-related qualities. Meteorologists classify a number of different kinds of clouds, but it is not clear whether they are really different kinds, or whether those groups merely reflect the classifying interests of human beings – in order for them to classify as natural types, some clearly discrete circumstances would have to be shown to produce them in clearly distinguishable ways.
+Practical utility[edit]
+The argument, however, is not so much about whether natural kinds exist or whether any of our current concepts succeed in defining true natural kinds; but, rather, why certain concepts result in more reliable theories and successful interactions with the world.
+One possible explanation is that it is because some concepts are better approximations of natural types than others, even if no perfectly discrete natural kinds exist and we can only hope to define concepts that classify reality with fewer marginal cases than others. In other words, the concept of the "natural type" may itself not refer to a natural type, but rather to an unattainable ideal that paradoxically leads to actions and decisions that achieve the best possible outcomes for human beings.
+Linguistic issues[edit]
+Language is often drawn into the debate as a complicating factor.
+Those who contest that language heavily shapes abstract thought, or even that it makes abstract thought possible, tend to argue that the coincidental properties of one's native language(s) will inevitably influence one's concepts and interfere with the recognition of natural kinds. Words that reference ideas, such as "love" and "honor" — or metaphysical concepts, such as "karma" and "noumenon" — may be conceived of as not even attempting to refer to natural kinds as consistent delineations of objective reality.
+At the other extreme, a word may claim to refer to a natural kind in a dogmatic and infallible manner, leaving those who understand the word (as such) unable to recognize or understand evidence that defies their linguistic categories; for example, members of a culture that defines democracy as inherently good may be unable or unwilling to understand the fact that Athens voted to commit genocide on several occasions. The linguistic argument is that it is the way in which cultures inevitably bias words such as "democracy" (or, for that matter, "genocide") that makes us ultimately unable to apprehend natural types even if they did exist. Such approaches are associated with Hermeneutics and the family of subjectivist philosophies generally.
+See also[edit]
+
+Essentially contested concept
+Species problem
+
+Footnotes[edit]
+
+
+
+^ web.telia.com Archived September 26, 2007, at the Wayback Machine.
+
+
+
+References[edit]
+
+Andreasen, Robin O. 2005. The Meaning of 'Race': Folk Conceptions and the New Biology of Race. Journal of Philosophy 102(2): 94–106.
+Collins, Harry M. 1975. The Seven Sexes: A Study in the Sociology of a Phenomenon, or the Replication of Experiments in Physics. Sociology 9(2): 205–224.
+Dupré, John. 2001. In Defence of Classification. Studies in History and Philosophy of Biological and Biomedical Sciences 32(2): 203–219.
+Fausto-Sterling, Anne. 2000. Essay Review: The Sex/Gender Perplex. Studies in History and Philosophy of Biological and Biomedical Sciences 31(4): 637–646.
+Gadamer, Hans-Georg. "Truth and Method". Continuum International Publishing Group, 2004. ISBN 082647697X, 9780826476975.
+Hacking, Ian. 1990. Natural Kinds. in Robert B. Barrett and Roger Gibson, F., editors. Perspectives on Quine. Cambridge, Mass.: Blackwell.
+Hacking, Ian. 1991. "A Tradition of Natural Kinds", Philosophical Studies, Vol. 61, No.1/2, (February 1991), pp.109-126.
+Hacking, Ian. 2002. How "Natural" Are "Kinds" of Sexual Orientation? Law and Philosophy 21(3): 335–347.
+Kendig, Catherine (ed.), Natural Kinds and Classification in Scientific Practice, Routledge, (Abingdon), 2016. ISBN 978-1-848-93540-2.
+Markman, Ellen. 1989. Categorization and Naming in Children. Cambridge, Mass.: MIT Press.
+McOuat, Gordon. 2001. From Cutting Nature at Its Joints to Measuring It: New Kinds and New Kinds of People in Biology. Studies in History and Philosophy of Science 32(4): 613–645.
+Molino, Jean (2000). "Toward an Evolutionary Theory of Music and Natural Language", The Origins of Music. Cambridge, Mass: A Bradford Book, The MIT Press. ISBN 0-262-23206-5.
+Putnam, Hilary. 1975. The Meaning of 'Meaning'. in Keith Gunderson, editor. Minnesota Studies in the Philosophy of Science, vol. VII. Minneapolis: University of Minnesota Press.
+Willard Van Orman Quine (1970). "Natural Kinds" (PDF). In Nicholas Rescher; et al. Essays in Honor of Carl G. Hempel. Dordrecht: D. Reidel. pp. 41–56.  Reprinted in: Quine (1969), Ontological Relativity and Other Essays, Ch. 5, Columbia Univ. Press.
+Sokal, Robert R. 1974. Classification: Purposes, Principles, Progress, Prospects. Science 185(4157): 1115–1123.
+Waters, C. Kenneth. 1998. Causal Regularities in the Biological World of Contingent Distributions. Biology and Philosophy 13(1): 5–36.
+
+External links[edit]
+
+Natural Kinds, by Alexander Bird and Emma Tobin, in the Stanford Encyclopedia of Philosophy
+Project Cosmology Modern effort to produce a comprehensive list of major categories for natural kinds
+
+
+
+
+
+Categories: LogicPhilosophy of scienceSemanticsOntologyKind (grouping)Hidden categories: Webarchive template wayback linksArticles needing additional references from October 2008All articles needing additional references

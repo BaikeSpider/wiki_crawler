@@ -1,0 +1,85 @@
+恩斯特·策梅洛
+
+
+
+
+恩斯特·策梅洛
+
+
+恩斯特·策梅洛（德语：Ernst Friedrich Ferdinand Zermelo，1871年7月27日－1953年5月21日），生于柏林，是德国数学家，其工作主要为数学基础，因而对哲学有重要影响。
+
+
+
+目录
+
+
+1 生平
+2 参见
+3 文献
+4 外部链接
+
+
+
+生平[编辑]
+1889年，他毕业于柏林Luisenstädtisches Gymnasium。他然后在柏林大学、哈雷-维滕贝格大学和弗莱堡大学研究数学、物理和哲学。他于1894年在柏林大学完成博士学位，其博士论文是关于变分法的（Untersuchungen zur Variationsrechnung）。策梅洛留在柏林大学，他被聘为普朗克的助手，在其指导下，他开始研究流体力学。在1897年，策梅洛去了哥廷根，那里当时是整个世界的数学研究的中心，在那里他于1899年完成了教员资格论文。
+策海洛于1953年5月21日在弗赖堡逝世。
+参见[编辑]
+
+策梅洛-弗伦克尔公理系统（ZFC）
+策梅洛定理 (博弈论)
+选择公理
+巴拿赫-塔斯基定理（Banach–Tarski 悖论）
+
+文献[编辑]
+英语译本主要文献：
+
+Jean van Heijenoort, 1967. From Frege to Godel: A Source Book in Mathematical Logic, 1879-1931. Harvard Univ. Press.
+
+1904. "Proof that every set can be well-ordered," 139-41.
+1908. "A new proof of the possibility of well-ordering," 183-98.
+1908. "Investigations in the foundations of set theory I," 199-215.
+
+
+1930. "On boundary numbers and domains of sets: new investigations in the foundations of set theory" in Ewald, William B., ed., 1996. From Kant to Hilbert: A Source Book in the Foundations of Mathematics, 2 vols. Oxford Uni. Press: 1219-33.
+
+次要文献:
+
+Ivor Grattan-Guinness, 2000. The Search for Mathematical Roots 1870-1940. Princeton Uni. Press.
+
+外部链接[编辑]
+
+O'Connor, John J.; Robertson, Edmund F., Zermelo, MacTutor History of Mathematics archive （英语） 
+恩斯特·策梅洛 在数学谱系计划的资料。
+策梅洛的科学传记（1871－1953）。
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 62360107
+LCCN: n82088753
+ISNI: 0000 0001 0979 6322
+GND: 119514966
+SUDOC: 083809430
+BNF: cb155471355（数据）
+HDS: 43140
+MGP: 46828
+
+
+
+
+
+
+
+
+
+
+
+
+分类：1871年出生1953年逝世20世纪哲学家德国哲学家德国数学家哥廷根大学教师弗赖堡大学教师柏林洪堡大学校友弗莱堡大学校友哈雷-维滕贝格大学校友柏林人集合论者数理逻辑学家隐藏分类：含有德语的条目CS1英语来源 (en)包含规范控制信息的维基百科条目

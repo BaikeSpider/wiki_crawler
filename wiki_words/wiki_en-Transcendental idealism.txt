@@ -1,0 +1,441 @@
+Transcendental idealism
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (November 2013) (Learn how and when to remove this template message)
+
+
+
+
+
+Part of a series on
+
+
+Immanuel Kant
+
+
+
+
+
+Major works
+
+
+
+
+
+Critique of Pure Reason
+
+Prolegomena to Any Future Metaphysics
+
+
+Answering the Question: What is Enlightenment?
+
+
+Groundwork of the Metaphysic of Morals
+
+Critique of Practical Reason
+Critique of Judgment
+
+Religion within the Bounds of Bare Reason
+
+
+Perpetual Peace: A Philosophical Sketch
+
+The Metaphysics of Morals
+
+
+
+
+
+
+
+
+Kantianism
+Kantian ethics
+
+
+
+
+
+
+
+
+Transcendental idealism
+Critical philosophy
+Sapere aude
+Thing-in-itself
+Schema
+A priori and a posteriori
+Analytic–synthetic distinction
+Noumenon
+Categories
+Categorical imperative
+Hypothetical imperative
+"Kingdom of Ends"
+Political philosophy
+
+
+
+
+
+People
+
+
+
+
+
+George Berkeley
+René Descartes
+J. G. Fichte
+F. H. Jacobi
+G. W. F. Hegel
+David Hume
+Arthur Schopenhauer
+Baruch Spinoza
+African Spir
+Johannes Tetens
+
+
+
+
+
+Related topics
+
+
+
+
+
+Schopenhauer's criticism
+German idealism
+Neo-Kantianism
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Transcendental idealism is a doctrine founded by German philosopher Immanuel Kant in the 18th century. Kant's doctrine maintains that human experience of things is similar to the way they appear to us—implying a fundamentally subject-based component, rather than being an activity that directly (and therefore without any obvious causal link) comprehends the things as they are in themselves.
+
+
+
+Contents
+
+
+1 Background
+2 Kant
+3 Historical parallels
+4 Schopenhauer
+5 P. F. Strawson
+6 Henry E. Allison
+7 Opposing realism
+8 See also
+9 References
+10 External links
+
+
+
+Background[edit]
+Although it influenced the course of subsequent German philosophy dramatically, exactly how to interpret this concept was a subject of some debate among 20th century philosophers. Kant first describes it in his Critique of Pure Reason, and distinguished his view from contemporary views of realism and idealism, but philosophers do not agree how sharply Kant differs from each of these positions.
+Transcendental idealism is associated with formalistic idealism on the basis of passages from Kant's Prolegomena to any Future Metaphysics, although recent research has tended to dispute this identification. Transcendental idealism was also adopted as a label by the subsequent German philosophers Johann Gottlieb Fichte and Friedrich Wilhelm Joseph von Schelling, Arthur Schopenhauer, and in the early 20th century by Edmund Husserl in the novel form of transcendental-phenomenological idealism.
+Kant[edit]
+Kant presents an account of how we intuit (German: anschauen) objects and accounts of space and of time. Before Kant, some thinkers, such as Leibniz, had come to the conclusion that space and time were not things, but only the relations among things. Other thinkers, including Newton, maintained that space and time were real things or substances. Leibniz had arrived at a radically different understanding of the universe and the things found in it. According to his Monadology, all things that humans ordinarily understand as interactions between and relations among individuals (such as their relative positions in space and time) have their being in the mind of God but not in the Universe where we perceive them to be. In the view of realists, individual things interact by physical connection and the relations among things are mediated by physical processes that connect them to human brains and give humans a determinate chain of action to them and correct knowledge of them. Kant was aware of problems with both of these positions. He had been influenced by the physics of Newton and understood that there is a physical chain of interactions between things perceived and the one who perceives them. However, an important function of mind is to structure incoming data and to process it in ways that make it other than a simple mapping of outside data.[1]
+
+If we try to keep within the framework of what can be proved by the Kantian argument, we can say that it is possible to demonstrate the empirical reality of space and time, that is to say, the objective validity of all spatial and temporal properties in mathematics and physics. But this empirical reality involves transcendental ideality; space and time are forms of human intuition, and they can only be proved valid for things as they appear to us and not for things as they are in themselves.[2]
+
+The salient element here is that space and time, rather than being real things-in-themselves or empirically mediated appearances (German: Erscheinungen), are the very forms of intuition (German: Anschauung) by which we must perceive objects. They are hence neither to be considered properties that we may attribute to objects in perceiving them, nor substantial entities of themselves. They are in that sense subjective, yet necessary, preconditions of any given object insofar as this object is an appearance and not a thing-in-itself. Humans necessarily perceive objects as located in space and in time. This condition of experience is part of what it means for a human to cognize an object, to perceive and understand it as something both spatial and temporal: "By transcendental idealism I mean the doctrine that appearances are to be regarded as being, one and all, representations only, not things in themselves, and that time and space are therefore only sensible forms of our intuition…"[3] Kant argues for these several claims in the section of the Critique of Pure Reason entitled the "Transcendental Aesthetic". That section is devoted to inquiry into the a priori conditions of human sensibility, i.e. the faculty by which humans intuit objects. The following section, the "Transcendental Logic", concerns itself with the manner in which objects are thought.
+Historical parallels[edit]
+Xenophanes of Colophon in 530 BC anticipated Kant's epistemology in his reflections on certainty. "And as for certain truth, no man has seen it, nor will there ever be a man who knows about the gods and about all the things I mention. For if he succeeds to the full in saying what is completely true, he himself is nevertheless unaware of it; and Opinion (seeming) is fixed by fate upon all things."[4] Certain interpretations of some of the medieval Buddhists of India, such as Dharmakirti, may reveal them to be transcendental idealists, since they seemed to hold the position of mereological nihilism but transcendental idealists who held that their minds were distinct from the atoms. Some Buddhists often attempt to maintain that the minds are equal to the atoms of mereological nihilist reality, but Buddhists seem to have no explanation of how this is the case, and much of the literature on the aforementioned Buddhists involves straightforward discussion of atoms and minds as if they are separate. This makes their position very similar to transcendental idealism, resembling Kant's philosophy where there are only things-in-themselves (which are very much like philosophical atoms), and phenomenal properties.
+Schopenhauer[edit]
+Briefly, Schopenhauer described transcendental idealism as a "distinction between the phenomenon and the thing in itself", and a recognition that only the phenomenon is accessible to us because "we know neither ourselves nor things as they are in themselves, but merely as they appear."[5] Some of Schopenhauer's comments on the definition of the word "transcendental" are as follows:
+
+Transcendental is the philosophy that makes us aware of the fact that the first and essential laws of this world that are presented to us are rooted in our brain and are therefore known a priori. It is called transcendental because it goes beyond the whole given phantasmagoria to the origin thereof. Therefore, as I have said, only the Critique of Pure Reason and generally the critical (that is to say, Kantian) philosophy are transcendental.
+— Parerga and Paralipomena, Volume I, "Fragments for the History of Philosophy," § 13
+
+Schopenhauer contrasted Kant's transcendental critical philosophy with Leibniz's dogmatic philosophy.
+
+With Kant the critical philosophy appeared as the opponent of this entire method [of dogmatic philosophy]. It makes its problem just those eternal truths (principle of contradiction, principle of sufficient reason) that serve as the foundation of every such dogmatic structure, investigates their origin, and then finds this to be in man's head. Here they spring from the forms properly belonging to it, which it carries in itself for the purpose of perceiving and apprehending the objective world. Thus here in the brain is the quarry furnishing the material for that proud, dogmatic structure. Now because the critical philosophy, in order to reach this result, had to go beyond the eternal truths, on which all the previous dogmatism was based, so as to make these truths themselves the subject of investigation, it became transcendental philosophy. From this it follows also that the objective world as we know it does not belong to the true being of things-in-themselves, but is its mere phenomenon, conditioned by those very forms that lie a priori in the human intellect (i.e., the brain); hence the world cannot contain anything but phenomena.
+— The World as Will and Representation, Vol. I, Appendix: "Criticism of the Kantian Philosophy"
+
+P. F. Strawson[edit]
+In The Bounds of Sense, P. F. Strawson suggests a reading of Kant's first Critique that, once accepted, forces rejection of most of the original arguments, including transcendental idealism. Strawson contends that, if Kant had followed out the implications of all that he said, he would have seen that there were many self-contradictions implicit in the whole.
+Strawson views the analytic argument of the transcendental deduction as the most valuable idea in the text, and regards transcendental idealism as an unavoidable error in Kant's greatly productive system. In Strawson's traditional reading (also favored in the work of Paul Guyer and Rae Langton), the Kantian term phenomena (literally something that can be seen from the Greek word phainomenon, "observable") refers to the world of appearances, or the world of "things" sensed. They are tagged as "phenomena" to remind the reader that humans confuse these derivative appearances with whatever may be the forever unavailable "things in themselves" behind our perceptions. The necessary preconditions of experience, the components that humans bring to their apprehending of the world, the forms of perception such as space and time, are what make a priori judgments possible, but all of this process of comprehending what lies fundamental to human experience fails to bring anyone beyond the inherent limits of human sensibility. Kant's system requires the existence of noumena to prevent a rejection of external reality altogether, and it is this concept (senseless objects of which we can have no real understanding) to which Strawson objects in his book.
+Henry E. Allison[edit]
+In Kant's Transcendental Idealism, Henry E. Allison proposes a reading that opposes Strawson's interpretation.[6] Allison argues that Strawson and others misrepresent Kant by emphasising what has become known as the two-worlds reading (a view developed by Paul Guyer). This—according to Allison, false—reading of Kant's phenomena/noumena distinction suggests that phenomena and noumena are ontologically distinct from each other. It concludes on that basis that we somehow fall short of knowing the noumena due to the nature of the very means by which we comprehend them. On such a reading, Kant would himself commit the very fallacies he attributes to the transcendental realists. On Allison's reading, Kant's view is better characterized as a two-aspect theory, where noumena and phenomena refer to complementary ways of considering an object. It is the dialectic character of knowing, rather than epistemological insufficiency, that Kant wanted most to assert.
+Opposing realism[edit]
+Opposing Kantian transcendental idealism is the doctrine of philosophical realism, that is, the proposition that the world is knowable as it really is, without any consideration of the knower's manner of knowing. This has been propounded by philosophers such as Bertrand Russell, G. E. Moore, Ralph Barton Perry, and Henry Babcock Veatch. Realism claims, contrary to idealism, that perceived objects exist in the way that they appear, in and of themselves, independent of a knowing spectator's mind.
+See also[edit]
+
+
+Philosophy portal
+
+
+
+Schopenhauer's criticism of the Kantian philosophy
+Transcendence
+Transcendental empiricism
+
+References[edit]
+
+
+^ Gottfried Martin, Kant's Metaphysics and Theory of Science (Manchester: Manchester University Press, 1955), p. 57.
+^ Gottfried Martin, Kant's Metaphysics and Theory of Science (Manchester: Manchester University Press, 1955), p. 41.
+^ Immanuel Kant's Critique of Pure Reason, trans. Norman Kemp Smith (London: Macmillan, 1933), p. 345 (A 369).
+^ Kathleen Freeman, Ancilla to the Presocratic Philosophers, Xenophanes fragment 34.
+^ Parerga and Paralipomena, Vol. 2, "Sketch of a History of the Doctrine of the Ideal and the Real."
+^ Allison, H. E., Kant's Transcendental Idealism (New Haven: Yale University Press, 1983); Revised and Enlarged Edition, 2004.
+
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to: Transcendental idealism
+
+
+
+
+
+Wikisource has the text of the 1879 American Cyclopædia article Transcendental.
+
+
+
+"Kant's Transcendental Idealism". Stanford Encyclopedia of Philosophy.
+"Kant at the Bar: Transcendental Idealism in Daily Life". Philosophy Now.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Idealism
+
+
+
+Forms
+
+
+
+Absolute idealism
+Actual idealism
+British idealism
+German idealism
+Italian idealism
+Monistic idealism
+Epistemological idealism
+Platonic idealism
+Subjective idealism
+Objective idealism
+Transcendental idealism
+Indian idealism
+Monistic idealism (Shaivism)
+Magical (thaumaturgic) idealism
+Buddhist Idealism (consciousness-only)
+Practical Idealism
+Political idealism
+
+
+
+
+
+Related topics
+
+
+
+Idea
+Plato's Theory of Ideas
+Anti-realism
+consciousness-only
+rationalism
+mentalism
+panpsychism
+phenomenalism
+idealistic pluralism
+Idealistic Studies
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+Categories: Enlightenment philosophyKantianismGerman idealismMetaphysical theoriesEpistemological theoriesHidden categories: Articles lacking in-text citations from November 2013All articles lacking in-text citationsArticles containing German-language text

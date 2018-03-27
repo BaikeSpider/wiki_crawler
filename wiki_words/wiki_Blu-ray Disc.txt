@@ -1,0 +1,1482 @@
+蓝光光盘
+
+
+
+
+
+
+
+
+
+蓝光光盘
+
+
+
+
+
+
+
+媒体种类：
+高质量媒体存储光盘
+
+
+编码：
+H.262/MPEG-2 Part 2
+H.264/MPEG-4 AVC
+
+
+容量：
+25 GB（单层）
+50 GB（双层）
+100 GB（三层; BDXL）
+128 GB（四层; BDXL）
+
+
+读取机制：
+1x@36 Mbit/s
+2x@72 Mbit/s
+4x@144 Mbit/s
+6x@216 Mbit/s
+
+
+开发：
+蓝光光盘联盟
+
+
+用途：
+数据存储
+高清视频
+PlayStation 3游戏
+PlayStation 4游戏
+Xbox One游戏
+
+
+
+
+
+
+
+
+
+有外壳的单面单层BD-RE（25GB）有外壳的单面双层BD-RE（50GB）
+
+
+
+
+
+
+无外壳的单面单层BD-RE（25GB）
+
+
+
+
+
+
+无外壳的单面双层BD-RE（50GB）
+
+
+蓝光光盘（Blu-ray Disc，简称BD）是DVD之后的下一代光盘格式之一，用以存储高质量的影音以及高容量的数据。
+蓝光光盘是由索尼及松下电器等企业组成的蓝光光盘联盟（Blu-ray Disc Association）策划的次世代光盘规格，并以索尼为首于2006年开始全面推动相关产品。
+蓝光光盘命名是由于其采用波长405纳米的蓝色激光光束来进行读写操作（DVD采用650纳米波长的红光读写器，CD则是采用780纳米波长的红外线）。蓝光光盘的英文名称不使用“Blue-ray”的原因，是“Blue-ray Disc”这个词在欧美地区流于通俗、口语化，并具有说明性意义，不能申请注册商标，因此蓝光光盘联盟去掉英文字e来完成商标注册。
+2008年2月19日，随着HD DVD领导者东芝宣布在3月底结束所有HD DVD相关业务，最终由索尼主导的蓝光光盘胜出，持续多年的下一代光盘格式之争正式划上句号。
+2015年8月5日，蓝光光盘联盟（BDA）宣布将于2015年8月24日起开始定超高清蓝光光盘（Ultra HD Blu-ray）作为下一代格式。
+
+
+
+目录
+
+
+1 沿革
+2 物理格式
+3 软件格式
+
+3.1 Java软件支持
+3.2 区码
+3.3 数字版权管理
+
+3.3.1 AACS
+3.3.2 BD+
+3.3.3 ROM Mark
+
+
+
+
+4 应用
+
+4.1 兼容性
+4.2 电脑文件存储
+4.3 BD-Live
+
+
+5 播放软件
+
+5.1 系统支持
+5.2 主流软件
+
+
+6 企业支持
+
+6.1 设备供应商
+6.2 电子产品
+6.3 电影发行商
+
+
+7 竞争对手
+
+7.1 CD、DVD、HD DVD 与 BD 比较
+
+
+8 参考
+9 外部链接
+
+
+
+沿革[编辑]
+
+
+日期
+事件
+
+
+2002年4月30日
+“蓝光光盘联盟”的前身“Blu-ray Disc Founders”成立，“蓝光光盘”正式发表[1]。
+
+
+2004年5月18日
+“Blu-ray Disc Founders”正式更改名称为“蓝光光盘联盟”（Blu-ray Disc Association）。
+
+
+2004年9月21日
+索尼电脑娱乐宣布，次世代游戏机“PlayStation 3”将会采用蓝光光盘为标准格式。
+
+
+2006年1月5日
+蓝光光盘联盟原先准备在国际消费电子展发布蓝光光盘相关产品，后来因为蓝光规格问题将发布日期推迟到同年6月。
+
+
+2006年10月14日
+SONY集团推出全球首部配载蓝光光盘播放器的笔记本电脑“VAIO A”系列。
+
+
+2006年11月11日
+配备蓝光光盘播放器的次世代游戏机“PlayStation 3”在日本地区开始发售。
+
+
+2007年1月10日
+《日本经济新闻》报导，蓝光光盘在日本地区占有94.8%的次世代光盘市场，并预料蓝光光盘于次世代光盘格式之争中最终会获取胜利。
+
+
+2007年8月20日
+派拉蒙电影公司由原先同时支持蓝光光盘及HD DVD，改为以HD DVD作为派拉蒙唯一认可的高清电影存储光盘，同时宣布派拉蒙旗下的梦工厂、梦工厂动画SKG、Nickelodeon Movies以及MTV电影等子公司转为只支持HD DVD[2]。派拉蒙电影公司高层通过Viacom承认，派拉蒙共收取HD DVD阵营的1亿5千万美金，以提供一年半之HD DVD独占权，款项以现金及未来收益分帐支付。
+
+
+2007年9月1日
+蓝光光盘联盟于德国柏林消费电子产品展上宣布蓝光光盘目前已经压倒性占有日本90%的次世代光盘市场，在欧洲地区蓝光光盘的销量也一直以3:1的比例领先于HD DVD，在美国也有超过66%的次世代光盘市场被蓝光光盘占据。
+
+
+2007年11月29日
+东亚唱片（集团）推出首张香港红馆Blu-ray影碟《景福Show Mi郑秀文2007演唱会》。
+
+
+2008年1月4日
+华纳兄弟电影公司宣布脱离HD DVD阵营，并且由2008年6月开始停止发行HD DVD影碟，往后只支持蓝光光盘作为影碟格式。华纳兄弟的首席执行官Barry Meyer认为，支持蓝光光盘独占对整个高清市场普及化有利，长久的格式之争只会令影业在高清市场上错失良机[3]。
+
+
+2008年1月5日
+时代华纳附属的新线影业跟随华纳兄弟的决定，将会停止HD DVD影碟的发行[4]。
+
+
+2008年1月8日
+《金融时报》（Financial Times）报导派拉蒙电影公司正考虑行使与HD DVD阵营的独占协议中，“如华纳兄弟放弃HD DVD阵营，派拉蒙可以跟随离开”的一项条款，重新返回蓝光光盘联盟[5]。微软（Microsoft）则表示将来公司采用哪种格式，只会交由消费者的抉择[6]。
+
+
+2008年1月9日
+时代华纳另一附属公司HBO跟随华纳兄弟的决定，将会停止HD DVD影碟的发行[7]。
+
+
+2008年1月28日
+英国Woolworths Group PLC宣布，根据2007年圣诞假期的销售数字，蓝光光盘大幅度以九比一的销售数量领先HD DVD，所以决定全线商店即日开始只出售蓝光光盘的影碟[8]。
+
+
+2008年2月11日
+美国大型连锁零售商Best Buy宣布，为了避免消费者在选择次世代光盘格式播放器时感到困惑，决定全线商店即日开始全力支持蓝光光盘的播放器、影碟及相关产品，使消费者正确掌握高清娱乐的内容[9]。同日，在线影碟商店Netflix亦作出同样的决定，往后只支持蓝光光盘为唯一认可的次世代光盘格式[10]。
+
+
+2008年2月15日
+美国最大型连锁零售商沃尔玛（Wal-Mart）宣布，全线商店由6月开始只出售蓝光光盘的播放器、影碟及相关产品，HD DVD的产品将会逐步撤离货架[11]。
+
+
+2008年2月19日
+东芝社长西田厚聪宣布，公司决定停止所有HD DVD播放器及录制器的开发，同时即时停产电脑及游戏用HD DVD光盘驱动器，并预定将在3月底结束所有HD DVD相关业务。随着HD DVD领导者的退出，持续多年的次世代光盘格式之争正式划上句号，最终由蓝光光盘胜出[12]。
+
+
+物理格式[编辑]
+一个单层的蓝光光盘的容量为25GB，足够录制一个长达4小时的高质量视频。索尼称，以6x倍速刻录单层25GB的蓝光光盘只需大约50分钟。而双层的蓝光光盘容量为50GB，足够刻录一个长达8小时的高解析视频。2010年6月制定的BDXL规格，支持100GB和128GB的蓝光光盘。
+采用波长405nm的蓝色激光束进行读写，之所以能存储庞大容量，主要是因为这三种写入模式：
+一、缩小激光点以缩短轨距（0.32μm）增加容量，蓝光光盘构成0和1数字数据的讯坑（0.15μm）变的更小，因为读取讯坑用的蓝色激光波长比红色激光小。
+二、利用不同反射率达到多层写入效果。
+三、沟轨并写方式，增加记录空间。蓝光的高存储量是从改进激光光源波长与（405 nm）物镜数值孔镜（0.85）而来。
+软件格式[编辑]
+Java软件支持[编辑]
+在2005年蓝光光盘联盟宣布蓝光光盘会加入对甲骨文公司的Java技术的支持，蓝光光盘播放器与蓝光光盘可以作出交互功能。
+区码[编辑]
+
+
+
+
+蓝光光盘区码分布图
+
+
+
+
+区码
+地区[13]
+
+
+A/1
+美洲（格陵兰和法属圭亚那除外）、东亚（中国大陆和蒙古除外）、东南亚、大洋洲（澳大利亚和新西兰除外）
+
+
+B/2
+欧洲（俄罗斯、白俄罗斯、乌克兰、立陶宛和摩尔多瓦除外）、格陵兰、西亚、非洲、澳大利亚、新西兰、法国海外领地（如法属圭亚那）
+
+
+C/3
+俄罗斯、白俄罗斯、乌克兰、立陶宛、摩尔多瓦、中亚、南亚、阿富汗、中国大陆、蒙古
+
+
+FREE
+非正式用语，代表“全世界”。光盘同时标示A/B/C区，或不标示任何区码。
+
+
+注：在中国大陆境内，发展初期本土蓝光播放器发展速度较缓，所以片源多由香港（A区）流入，并导致部分境外（港产、日产等A区机型为主）蓝光机进入市场；且因PS3（台版、港版、日版、美版、韩版等蓝光A区机型）的大规模普及，导致市售标记“C区”蓝光光盘一般包含A、C区或者为全区。
+数字版权管理[编辑]
+蓝光光盘主要以3种方式进行数字版权管理（DRM），包括：
+AACS[编辑]
+AACS（Advanced Access Content System）负责保护光盘的内容，是数字版权保护中重要的一环。AACS是由AACS LA（AACS Licensing Administrator）负责制定，联合发展的企业包括迪士尼、英特尔、微软、三菱、松下电器、华纳兄弟、国际商业机器、东芝以及索尼。
+BD+[编辑]
+BD+是一个存储于蓝光光盘的微型虚拟机，允许获得授权的蓝光光盘播放器播放该蓝光光盘。
+ROM Mark[编辑]
+ROM Mark是一个密码封锁数据，附加于蓝光光盘的内容之中，负责监控及阻止该蓝光光盘的内容被未得到授权的播放程序解码。
+应用[编辑]
+兼容性[编辑]
+蓝光光盘联盟称所有获得授权的蓝光光盘播放器均可以向下支持，包括DVD-ROM、VCD以及CD，但部分CD和VCD在一些蓝光光盘播放器中无法播放。
+电脑文件存储[编辑]
+蓝光光盘使用的文件系统为UDF，可以用蓝光刻录机写入数据，分为BD-R（单次刻录）及BD-RE（多次刻录）格式。
+BD-Live[编辑]
+BD-live为索尼公司在2009年4月推出的一款基于Java ME的蓝光交互功能。通过网络连接，可以使影碟电影与互联网交互。例如下载海报、游戏等。
+播放软件[编辑]
+蓝光播放软件主要用于播放蓝光盘、文件夹和ISO文件，有些也支持其他影音格式的播放。大部分的蓝光播放器软件可以去除蓝光盘的加密保护以及区域码。
+系统支持[编辑]
+OS X及Windows系统并没有购买相关专利许可，因此没有操作系统本地的播放软件。最新的电脑大部分已配备了蓝光光驱，但麦金塔电脑并无配备蓝光光驱，用户通常需要外接蓝光光盘驱动器。这两点促使了蓝光播放器软件的出现。
+主流软件[编辑]
+最初这一些播放器并没有相关的专利许可，只是爱好者一时兴起制作。随着蓝光光盘的普及，以及用户对于在电脑上播放蓝光光盘需求的增加，蓝光播放软件的发展逐步走向商业化，目前这些软件的发展也逐步成熟。不过获得One-Blue蓝光组织授权专利许可的软件很少。
+目前较流行的蓝光播放软件主要有：
+
+Windows
+
+
+
+
+PowerDVD
+TotalMedia Theatre
+Nero Blu-ray Player
+
+
+
+
+
+
+
+
+
+OS X
+
+
+
+
+Mac Blu-ray Player
+iDeer Blu-ray Player
+BDMV Player
+Leawo Blu-ray Player
+
+
+
+
+
+
+
+
+
+Linux
+
+
+
+
+VLC
+
+
+
+
+
+
+
+
+企业支持[编辑]
+设备供应商[编辑]
+
+兆强（O-VIEW）
+奥迪恩（ADM）
+Singulus
+宏威科技
+M2
+ORIGIN
+
+电子产品[编辑]
+
+
+
+
+索尼公司（Sony）
+松下电器（Panasonic）
+三星电子（Samsung）
+先锋公司（Pioneer）
+三菱电机（Mitsubishi）
+飞利浦（Philips）
+
+
+
+
+日立（Hitachi）
+夏普（Sharp）
+戴尔电脑（Dell）
+华录（Hua Lu）
+宏碁（Acer）
+苹果公司（Apple）
+
+
+
+
+TDK
+JVC
+日本电气（NEC）
+理光（RICOH）
+佳能（Canon）
+富士软片（Fujifilm）
+
+
+
+
+联想集团（Lenovo）
+LG
+汤姆逊（Thomson）
+惠普公司（HP）
+东芝（TOSHIBA）
+
+
+
+
+电影发行商[编辑]
+
+
+
+
+索尼影业（SONY Pictures Entertainment）
+环球影业（Universal Studios）
+华特迪士尼公司（The Walt Disney Company）
+二十世纪福克斯（20th Century Fox）
+狮门（LIONSGATE）
+米高梅（MGM）
+
+
+
+
+派拉蒙影业（Paramount Pictures Corporation）
+华纳兄弟（Warner Bros. Entertainment）
+新线影业（New Line Cinema）
+HBO
+东映
+东宝株式会社
+
+
+
+
+竞争对手[编辑]
+由于蓝光光盘联盟跟制定DVD标准的国际组织DVD论坛存在极大的分歧，蓝光光盘格式并没有被提交到DVD论坛。相反，由东芝及NEC共同开发的HD DVD于2003年11月获得DVD论坛认可并正式命名，同时HD DVD获得微软及英特尔的支持。于是蓝光光盘跟HD DVD两大阵营正式展开格式上的竞争，争取成为次世代的标准光盘格式。竞争最后蓝光光盘胜出。
+CD、DVD、HD DVD 与 BD 比较[编辑]
+
+
+
+CD
+DVD
+HD DVD
+BD
+
+
+分辨率
+240、288[14]
+480i、576i
+480i、576i、720p、1080i、1080p
+480i、576i、720p、1080i、1080p、4k
+
+
+激光波长
+780 nm
+650nm红色激光
+405nm蓝色激光
+405nm蓝色激光
+
+
+最小讯坑长度
+0.8μm
+0.4μm
+0.2μm
+0.15μm
+
+
+轨距
+1.6μm
+0.74μm
+0.4μm
+0.32μm
+
+
+单层存储容量
+650M/700M只有单层
+4.7GB (双层8.5GB）
+15GB
+25GB（双层50GB，四层128GB）
+
+
+支持视频编码技术
+MPEG-1
+MPEG-1、MPEG-2
+MPEG-2、H.264/MPEG-4 AVC
+MPEG-2、H.264/MPEG-4 AVC
+
+
+支持音频编码技术
+MPEG-1 Audio Layer II
+Dolby Digital (AC-3)、 (选)DTS、 Linear PCM
+Dolby Digital (AC-3)、Dolby Digital Plus (E-AC-3)、DTS、(选)DTS-HD HR Audio、Linear PCM、Dolby TrueHD、(选)DTS-HD Master Audio
+Dolby Digital (AC-3)、(选)Dolby Digital Plus (E-AC-3)、DTS、(选)DTS-HD HR Audio、Linear PCM、(选)Dolby TrueHD、(选)DTS-HD Master Audio、(选)DRA
+
+
+※分辨率信息为用于标准视频光盘时的分辨率
+参考[编辑]
+
+
+光盘制作
+
+
+
+
+
+
+
+概念
+
+
+光盘
+光盘驱动器
+光盘制作
+制作软件
+刻录技术
+
+刻录模式
+数据包写入
+
+
+
+
+
+
+
+
+
+
+光介质类型
+
+
+蓝光光盘（BD）：BD-R，BD-RE
+DVD：DVD-R, DVD+R, DVD-R DL, DVD+R DL, DVD-RW, DVD+RW, DVD-RW DL, DVD+RW DL, DVD-RW2, DVD-RAM, DVD-D, HVD
+CD：CDDA，CD-ROM，CD-R，CD-RW，5.1 Music Disc，SACD，PhotoCD，CD Video (CDV), Video CD (VCD), SVCD, CD+G, CD-Text, CD-ROM XA, CD-i
+通用媒体光盘（UMD）
+增强型通用光盘（EVD）
+前卫通用光盘（FVD）
+全息通用光盘（HVD）
+HD DVD：HD DVD-R，HD DVD-RW，HD DVD-RAM
+高密度通用光盘（HDVD）
+高密度通用多层光盘（HD VMD）
+VCDHD
+GD-ROM
+MiniDisc (MD) (Hi-MD)
+激光影碟 (LD)
+Video Single Disc (VSD)
+超密度光盘 (UDO)
+叠层容积光盘 (SVOD)
+5D DVD
+任天堂光盘 (NOD)
+
+
+
+
+
+
+
+
+标准
+
+
+SFF ATAPI/MMC
+
+Mount Rainier (packet writing)
+Mount Fuji (layer jump recording)
+
+
+彩虹书
+文件系统
+
+ISO 9660
+
+Joliet (文件系统)
+Romeo
+Rock Ridge / SUSP
+El Torito
+Apple ISO 9660扩展
+
+
+通用光盘格式（UDF）
+ISO 13490
+
+
+
+
+
+
+
+
+
+
+延伸阅读
+
+
+光存储介质历史
+高密度光盘格式之战
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+^ 次世代光ディスク“Blu-ray Disc”に関する発表会を开催. 2002-02-02. 
+^ Paramount and Dreamworks Animation Support HD DVD. 2007-08-20. 
+^ Warner Bros. Entertainment to Release its High-Definition DVD Titles Exclusively in the Blu-Ray Disc Format Beginning Later This Year. 2008-01-04. 
+^ New Line Cinema abandons HD-DVD. 2008-01-05. 
+^ Matthew Garrahan and Mariko Sanchanta. Paramount in HD DVD blow. The Financial Times. 2008-01-08 [2008-01-09]. 
+^ Reuters. Microsoft's Xbox Could Consider Blu-Ray Support. InformationWeek. 2008-01-08 [2008-01-09]. 
+^ HBO Confirms Switch to Blu-ray Exclusivity. 2008-01-09. 
+^ Woolworths stores drop HD-DVD for Blu-ray. 2008-01-28. 
+^ Best Buy to Recommend Blu-ray as the Customer's Digital Format Choice. 2008-02-11. 
+^ Netflix Goes Blu-ray Exclusive. 2008-02-11. 
+^ Wal-Mart Moving Exclusively Toward Blu-ray Format Movies and Players. 2008-02-15. 
+^ ＨＤ ＤＶＤ事业の终息について. 2008-02-19. 
+^ The Authoritative Blu-ray Disc (BD) FAQ: What is Regional Playback Control?. 2006 [2006-08-29]. 
+^ 352x288分辨率为 VCD 3.0 版新增
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：蓝光光盘
+
+
+
+“蓝光光盘生产设备”获技术成果类市长奖 南方日报
+蓝光光盘
+The Authoritative Blu-ray Disc (BD) FAQ by Hugh Bennett
+One-Blue 蓝光专利组织
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+索尼公司
+
+
+
+
+
+
+组织架构
+
+
+
+
+重要人物
+
+
+
+井深大
+盛田昭夫
+岩间和夫
+大贺典雄
+出井伸之
+安藤国威
+霍华德·斯金格
+中钵良治
+久夛良木健
+平井一夫
+吉田宪一郎
+
+
+
+
+
+
+
+
+公司结构
+
+
+
+部件解决方案集团
+视频产品及解决方案部门
+
+专业解决方案集团
+数码视频业务集团
+
+
+音视频业务集团
+视觉产品
+医疗业务单元
+索尼金融控股
+索尼移动通信
+索尼交互娱乐
+索尼音乐娱乐
+索尼影视娱乐
+索尼/联合电视音乐出版
+
+
+
+
+
+
+
+
+海外分公司
+
+
+
+美国索尼
+英国索尼
+法国索尼
+德国索尼
+瑞士索尼
+台湾索尼
+索尼（中国）
+香港索尼
+
+
+
+
+
+
+
+100px
+
+
+
+
+
+
+电子业务
+
+
+
+
+制造设计
+
+
+
+Japan Display
+索尼光领
+EMCS
+LSI
+
+
+
+
+
+
+
+
+消费性电子
+
+
+
+α (Alpha)
+BRAVIA
+Cyber-shot
+Handycam
+Walkman
+Xperia
+Sony Tablet
+
+
+
+
+
+
+
+
+广播级设备
+
+
+
+BETACAM
+DVCAM
+XDCAM
+HDCAM
+CineAlta
+
+
+
+
+
+
+
+
+应用软件
+
+
+
+XMB
+SonicStage
+PMB
+Sony Vegas
+
+
+
+
+
+
+
+
+电子技术
+
+
+
+Aperios
+ATRAC3
+AVCHD
+BETAMAX
+Memory Stick
+CD
+DVD
+Cell
+BIONZ
+DRC-MF
+Blu-Ray
+MD
+MD Data
+UMD
+QRIO
+SACD
+DSD
+S/PDIF
+SDDS
+SXRD
+Trinitron
+RealityMAX
+FeliCa
+x.v.Color
+G镜头
+Archival Disc
+
+
+
+
+
+
+
+
+
+
+
+游戏业务
+
+
+
+
+游戏制作公司
+
+
+
+SIE全球工作室
+
+顽皮狗
+圣塔莫尼卡工作室
+日本工作室
+Polyphony Digital等
+
+
+Cellius（英语：Cellius）
+
+
+
+
+
+
+
+
+游戏主机
+
+
+
+PlayStation系列
+初代
+2
+
+X
+
+
+3
+4
+Portable
+
+GO
+
+
+Vita
+Vita TV
+
+
+
+
+
+
+
+
+网络服务
+
+
+
+PlayStation Network
+
+PlayStation Store
+PlayStation Plus
+PlayStation Now
+PlayStation Home
+
+
+
+
+
+
+
+
+
+
+开发工具提供
+
+
+
+SN Systems（英语：SN Systems）
+
+
+
+
+
+
+
+
+
+
+
+娱乐业务
+
+
+
+
+影视公司
+
+
+
+索尼影视娱乐
+
+台湾索尼影业
+
+
+哥伦比亚电影公司
+索尼经典视频
+索尼动画
+索尼影视电视
+三星影业
+
+
+
+
+
+
+
+
+媒体频道
+
+
+
+AXN
+Animax
+
+Animax Asia
+
+
+Sony Channel
+
+
+
+
+
+
+
+
+音乐公司
+
+
+
+索尼音乐娱乐
+
+台湾索尼音乐
+香港索尼音乐
+索尼音乐娱乐中国
+
+
+EMI
+Gracenote
+J唱片公司
+哥伦比亚唱片
+RCA唱片
+索尼/联合电视音乐出版
+日本索尼音乐
+
+
+
+
+
+
+
+
+动画公司
+
+
+
+Aniplex
+
+A-1 Pictures
+番町制作所
+
+
+
+
+
+
+
+
+
+
+
+
+
+网上发布平台
+
+
+
+索尼娱乐网络
+
+
+
+
+
+
+
+
+金融业务
+
+
+
+索尼金融控股
+
+索尼生命保险（日语：ソニー生命保険）
+索尼损害保险（日语：ソニー損害保険）
+索尼银行
+索尼Life Care
+
+
+
+
+
+
+
+
+
+
+其它业务
+
+
+
+So-net
+索尼仙台FC
+Sony Creative Software
+Sonic Foundry
+索尼学园
+
+湘北短期大学
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+销售
+
+
+
+Sony Store
+
+
+
+
+
+
+
+
+事件
+
+
+
+SONY定时器
+笔记本电脑锂电池全球召回
+看门人丑闻
+
+
+
+
+
+
+
+
+展览
+
+
+
+Sony Expo
+Sony Fair
+索尼博乐汇
+
+
+
+
+
+
+
+
+结束品牌
+
+
+
+VAIO
+AIBO
+AIWA
+Clié
+Discman
+PSX
+QUALIA
+Mylo
+WEGA
+LocationFree
+Mavica
+rolly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ 视频储存格式
+
+
+
+
+
+
+磁带
+
+
+
+
+
+模拟
+
+
+
+
+Quadruplex (1956) · VERA (1958) · Type A (1965) · CV-2000 (1965) · Akai (1967) · U-matic (1969) · EIAJ-1 (1969) · Cartrivision (1972) · Philips VCR (1972) · V-Cord (1974) · VX (1974) · Betamax (1975) · IVC (1975) · Type B (1976) · Type C (1976) · VHS (1976) · VK (1977) · SVR (1979) · Video 2000 (1980) · CVC (1980) · VHS-C (1982) · M (1982) · Betacam (1982) · Video8 (1985) · MII (1986) · S-VHS (1987) · S-VHS-C (1987) · Hi8 (1989) · W-VHS (1994)
+
+
+
+
+
+
+
+
+
+数字
+
+
+
+
+D1 (1986) · D2 (1988) · D3 (1991) · DCT (1992) · D5 (1994) · Digital Betacam (1993) · DV (1995) · Digital-S (D9) (1995) · DVCPRO (1995) · Betacam SX (1996) · DVCAM (1996) · HDCAM (1997) · DVCPRO50 (1998) · D-VHS (1998) · Digital8 (1999) · DVCPRO HD (2000) · D6 HDTV VTR (2000) · MicroMV (2001) · HDV (2003) · HDCAM SR (2003)
+
+
+
+
+
+
+
+
+
+
+
+光盘
+
+
+
+
+
+模拟
+
+
+
+
+Phonovision (1927) · TeD (1975) · Laserdisc (1978) · CED (1981) · VHD (1983) · Laserfilm (1984) · CD Video (1987)
+
+
+
+
+
+
+
+
+
+数字
+
+
+
+
+VCD (1993) · MovieCD (c.1995) · DVD/DVD-Video (1995) · MiniDVD (c.1995) · CVD (1998) · SVCD (1998) · EVD (2003) · XDCAM (2003) · HVD (2004) · FVD (2005) · UMD (2005) · VMD (2006) · HD DVD (2006) · Blu-ray Disc (2006) · HVD (2007) · CBHD (2008) · Archival Disc (2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+固态电子器件
+
+
+
+
+DVCPRO P2 (2004) · AVC-Intra (2006) · XDCAM EX (2007)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+数字无影带式
+
+
+
+
+MOD (2005) · AVCHD (2006) · TOD (2007)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+非视频式电视录影
+
+
+
+Kinescope (1947)
+Electronicam kinescope (1950s)
+Electronic Video Recording (1967)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+高清晰度（HD）
+
+
+
+
+
+
+概念
+
+
+
+高清电视
+高清视频（英语：High-definition video）
+超高清电视
+
+
+
+
+
+
+
+
+模拟信号广播（英语：Analog high-definition television system）
+（已淘汰）
+
+
+
+819线系统（英语：Analog high-definition television system）
+HD MAC（英语：Multiplexed Analogue Components）
+多重亚奈取样编码 （Hi-Vision）
+
+
+
+
+
+
+
+
+数字广播
+
+
+
+ATSC
+DTMB
+DVB
+ISDB
+SBTVD
+
+
+
+
+
+
+
+
+音频系统
+
+
+
+杜比数字
+环绕声（英语：Surround sound）
+DSD
+DXD（英语：Digital eXtreme Definition）
+DTS
+
+
+
+
+
+
+
+
+摄制储存
+
+
+
+DCI（英语：Digital Cinema Initiatives）
+HDV
+
+
+
+
+
+
+
+
+高清视频与压缩（英语：High-definition pre-recorded media and compression）
+
+
+
+超高清蓝光光盘
+蓝光光盘
+CBHD
+D-VHS（英语：D-VHS）
+DVD-Audio
+H.264
+HD DVD
+HD VMD（英语：Versatile Multilayer Disc）
+MPEG-2
+MVC（英语：Multiview Video Coding）
+Super Audio CD
+无压缩（英语：Uncompressed video）
+VC-1
+
+
+
+
+
+
+
+
+端口
+
+
+
+色差端子
+DisplayPort
+DVI
+HDMI
+VGA
+MHL
+
+
+
+
+
+
+
+
+部署
+
+
+
+各国数字电视部署（英语：List of digital television deployments by country）
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 7597887-8
+NDL: 01076562
+
+
+
+
+
+
+
+
+
+
+
+
+分类：索尼电脑储存媒体数位版权管理荷兰发明2003年面世的产品隐藏分类：缺少文件的条目包含规范控制信息的维基百科条目

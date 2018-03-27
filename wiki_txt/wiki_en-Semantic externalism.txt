@@ -1,0 +1,2 @@
+Semantic externalism
+In the philosophy of language, semantic externalism (the opposite of semantic internalism) is the view that the meaning of a term is determined, in whole or in part, by factors external to the speaker. According to an externalist position, one can claim without contradiction that two speakers could be in exactly the same brain state at the time of an utterance, and yet mean different things by that utterance, that is, the term picks out a different extension.

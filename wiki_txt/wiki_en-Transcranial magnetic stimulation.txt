@@ -1,0 +1,2 @@
+Transcranial magnetic stimulation
+Transcranial magnetic stimulation (TMS) is a method in which a changing magnetic field is used to cause electric current to flow in a small region of the brain via electromagnetic induction. During a TMS procedure, a magnetic field generator, or "coil", is placed near the head of the person receiving the treatment.[1]:3 The coil is connected to a pulse generator, or stimulator, that delivers a changing electric current to the coil.[2]

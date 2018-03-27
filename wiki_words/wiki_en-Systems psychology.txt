@@ -1,0 +1,623 @@
+Systems psychology
+Systems psychology is a branch of both theoretical psychology and applied psychology that studies human behaviour and experience in complex systems. It is inspired by systems theory and systems thinking, and based on the theoretical work of Roger Barker, Gregory Bateson, Humberto Maturana and others.[1] Groups and individuals are considered as systems in homeostasis. Alternative terms here are "systemic psychology", "systems behavior", and "systems-based psychology".[citation needed]
+
+
+
+Contents
+
+
+1 Types
+2 Related fields
+
+2.1 Ergonomics
+2.2 Family system therapy
+2.3 Organizational psychology
+2.4 Perceptual control theory
+
+
+3 See also
+4 References
+5 Further reading
+6 External links
+
+
+
+Types[edit]
+In the scientific literature different kind of systems psychology have been mentioned:
+
+Applied systems psychology
+In the 1970s the term applied systems psychology was being used as a specialism directly related to engineering psychology and human factor.[2][3]
+
+
+Cognitive systems theory
+Cognitive systems psychology is a part of cognitive psychology and like existential psychology, attempts to dissolve the barrier between conscious and the unconscious mind.[4]
+
+
+Concrete systems psychology
+Concrete systems psychology is the study of human systems across the varied biological contexts and situations of everyday life.[5][6][7]
+
+
+Contract-systems psychology
+Contract-systems psychology is about the human systems actualization through participative organizations.[8]
+
+
+Family systems psychology
+Family systems psychology is a more general name for the subfield of family therapists. E.g. Murray Bowen, Michael E. Kerr, and Baard[9] and researchers have begun to theorize a psychology of the family as a system.[10]
+
+
+Organismic-systems psychology
+Through the application of organismic-systems biology to human behavior Ludwig von Bertalanffy conceived and developed the organismic-systems psychology, as the theoretical prospect needed for the gradual comprehension of the various ways human personalities may evolve and how they could evolve properly, being supported by a holistic interpretation of human behavior.[11]
+
+Related fields[edit]
+Ergonomics[edit]
+Main article: Ergonomics
+Ergonomics, also called "human factors", is the application of scientific information concerning objects, systems and environment for human use (definition adopted by the International Ergonomics Association in 2007). Ergonomics is commonly described as the way companies design tasks and work areas to maximize the efficiency and quality of their employees’ work. However, ergonomics comes into everything which involves people. Work systems, sports and leisure, health and safety should all embody ergonomics principles if well designed.[citation needed]
+Equipment design is intended to maximize productivity by reducing operator fatigue and discomfort. The field is also called human engineering and human factors engineering. Ergonomic research is primarily performed by ergonomists who study human capabilities in relationship to their work demands. Information derived from ergonomists contributes to the design and evaluation of tasks, jobs, products, environments and systems in order to make them compatible with the needs, abilities and limitations of people.[citation needed]
+Family system therapy[edit]
+Main article: Family therapy
+Family system therapy, also referred to as "family therapy" and "couple and family therapy", is a branch of psychotherapy related to relationship counseling that works with families and couples in intimate relationships to nurture change and development. It tends to view the family as a system, family relationships as an important factor in psychological health. As such, family problems have been seen to arise as an emergent property of systemic interactions, rather than to be blamed on individual members. Marriage and Family Therapists (MFTs) are the most specifically trained in this type of psychotherapy.[citation needed]
+Organizational psychology[edit]
+Main article: Industrial and organizational psychology
+Industrial and organizational psychology also known as "work psychology", "occupational psychology" or "personnel psychology" concerns the application of psychological theories, research methods, and intervention strategies to workplace issues. Industrial and organizational psychologists are interested in making organizations more productive while ensuring workers are able to lead physically and psychologically healthy lives. Relevant topics include personnel psychology, motivation and leadership, employee selection, training and development, organization development and guided change, organizational behavior, and job and family issues.[citation needed]
+Perceptual control theory[edit]
+Main article: Perceptual control theory
+Perceptual control theory (PCT) is a psychological theory of animal and human behavior originated by William T. Powers. In contrast with other theories of psychology and behavior, which assume that behavior is a function of perception — that perceptual inputs determine or cause behavior — PCT postulates that an organism's behavior is a means of controlling its perceptions. In contrast with engineering control theory, the reference variable for each negative feedback control loop in a control hierarchy is set from within the system (the organism), rather than by an external agent changing the setpoint of the controller.[12] PCT also applies to nonliving autonomic systems.[13]
+See also[edit]
+
+
+
+
+
+Related fields
+
+
+Behavior settings
+Chaos theory
+Communication theory
+Community psychology
+Complex systems
+Constructivist epistemology
+Critical theory
+Environmental psychology
+Living systems theory
+New Cybernetics
+Neuro cybernetics
+Process-oriented psychology
+Social psychology
+Sociotechnical systems theory
+Somatic psychology
+
+
+
+
+Related scientists
+
+
+Lev Vygotsky
+Fritjof Capra
+Ken Wilber
+William Ross Ashby
+Gregory Bateson
+John Bowlby
+Urie Bronfenbrenner
+Donald deAvila Jackson
+Thomas Homer-Dixon
+Fred Emery
+Clare W. Graves
+Pim Haselager
+Bradford Keeney
+Kurt Lewin
+László Garai
+Humberto Maturana
+Enid Mumford
+Talcott Parsons
+Gordon Pask
+William T. Powers
+Anatol Rapoport
+Jeffrey Satinover
+Einar Thorsrud
+Eric Trist
+Stuart Umpleby
+Francisco Varela
+Ludwig von Bertalanffy
+Michael White
+
+
+
+
+Related concepts
+
+
+
+Systems science portal
+
+
+
+Awareness
+Child development
+Conatus
+Conceptual system
+Connectionism
+Consciousness
+Cultural system
+Embodied Embedded Cognition
+Equifinality
+Human ecosystem
+Model of hierarchical complexity
+Postcognitivism
+Self control
+Social network
+Social system
+
+
+
+
+
+References[edit]
+
+
+
+^ Jeanne M. Plas (1986) Systems psychology in the schools. p.xvi
+^ Kenyon B. De Greene, Earl A. Alluisi (1970), Systems Psychology, McGraw-Hill. p.44
+^ Ronald John Beishon, Geoff Peters (1976) Systems behaviour. p.144
+^ David Parrish (2006), "Nothing I See Means Anything: Quantum Questions, Quantum Answers", p.29
+^ Miller, J.G. (1971). A theoretical review of individual and group psychological reaction to stress, in Grosser G.H. The threat of impending disaster: contributions to the psychology of stress. Mit Press. ISBN 0262570270. 
+^ Stamps, J (1980). Holonomy: A Human Systems Theory. Intersystyems publications. ISBN 0914105175. 
+^ Tapu, C.S. (2001). Hypostatic personality: psychopathology of doing and being made. Premier. ISBN 9738030595. 
+^ Marcia Guttentag and Elmer L Struening (1975), Handbook of Evaluation Research. Sage. ISBN 0-8039-0429-0. page 200.
+^ Michael B. Goodman (1998), Corporate Communications for Executives, SUNY Press. ISBN 0-7914-3761-2. Page 72.
+^ Sara E. Cooper (2004), The Ties That Bind: Questioning Family Dynamics and Family Discourse, University Press of America. ISBN 0-7618-2649-1. Page 13.
+^ "Organsmic Systems Psychology". Bertalanffy Center for the Study of Systems Science. Archived from the original on 1 October 2008. Retrieved 21 March 2008. 
+^ Engineering control theory also makes use of feedforward, predictive control, and other functions that are not required to model the behavior of living organisms.
+^ For an introduction, see the Byte articles on robotics and the article on the origins of purpose in this collection.
+
+
+
+Further reading[edit]
+
+Ludwig von Bertalanffy (1968), Organismic Psychology and System Theory, Worcester, Clark University Press.
+Brennan (1994), History and Systems Psychology, Prentice Hall, ISBN 0-13-182668-9
+Molly Young Brown, Psychosynthesis – A “Systems” Psychology?,
+Kenyon B. De Greene, Earl A. Alluisi (1970), Systems Psychology, McGraw-Hill.
+W. Huitt (2003), "A systems model of human behavior", in: Educational Psychology Interactive, Valdosta, GA: Valdosta State University.
+Gerhard Medicus (2015). Being Human – Bridging the Gap between the Sciences of Body and Mind. Berlin: VWB
+Jon Mills (2000), "Dialectical Psychoanalysis: Toward Process Psychology", in: Psychoanalysis and Contemporary Thought, 23(3), 20-54.
+Alexander Zelitchenko (2009), "Is 'Mind-Body-Environment' Closed or Open System?" Preprint.
+Linda E. Olds (1992), Metaphors of Interrelatedness: Toward a Systems Theory of Psychology, SUNY Press, ISBN 0-7914-1011-0
+Jeanne M. Plas (1986), Systems Psychology in the Schools, Pergamon Press ISBN 0-08-033144-0
+David E. Roy (2000), Toward a Process Psychology: A Model of Integration. Fresno, CA, Adobe Creations Press, 2000
+David E. Roy (2005), Process Psychology and the Process of Psychology Or, Developing a Psychology of Integration While Leaving Home, Seminar paper, 2005.
+Wolfgang Tschacher and Jean-Pierre Dauwalder (2003) (eds.), The Dynamical Systems Approach to Cognition: Concepts and Empirical Paradigims Based on Self-Organization, Embodiment, and Coordination Dynamics, World Scientific. ISBN 981-238-610-6.
+W. T. Singleton (1989), The Mind at Work: Psychological Ergonomics, Cambridge University Press. ISBN 0-521-26579-7.
+
+External links[edit]
+
+ Media related to Systems psychology at Wikimedia Commons
+Association for Process Psychology
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychology
+
+
+
+
+
+
+History
+Philosophy
+Portal
+Psychologist
+
+
+
+
+
+Basic psychology
+
+
+
+Abnormal
+Affective science
+Affective neuroscience
+Behavioral genetics
+Behavioral neuroscience
+Behaviorism
+Cognitive/Cognitivism
+Cognitive neuroscience
+Comparative
+Cross-cultural
+Cultural
+Developmental
+Differential
+Ecological
+Evolutionary
+Experimental
+Gestalt
+Intelligence
+Mathematical
+Neuropsychology
+Personality
+Positive
+Psycholinguistics
+Psychophysics
+Psychophysiology
+Quantitative
+Social
+Theoretical
+
+
+
+
+
+Applied psychology
+
+
+
+Anomalistic
+Applied behavior analysis
+Assessment
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Ergonomics
+Feminist
+Forensic
+Health
+Industrial and organizational
+Legal
+Media
+Military
+Music
+Occupational health
+Pastoral
+Political
+Psychometrics
+Psychotherapy
+Religion
+School
+Sport and exercise
+Suicidology
+Systems
+Traffic
+
+
+
+
+
+Methodologies
+
+
+
+Animal testing
+Archival research
+Behavior epigenetics
+Case study
+Content analysis
+Experiments
+Human subject research
+Interviews
+Neuroimaging
+Observation
+Qualitative research
+Quantitative research
+Self-report inventory
+Statistical surveys
+
+
+
+
+
+
+Psychologists
+
+
+
+
+William James (1842–1910)
+Ivan Pavlov (1849–1936)
+Sigmund Freud (1856–1939)
+Edward Thorndike (1874–1949)
+Carl Jung (1875–1961)
+John B. Watson (1878–1958)
+Clark L. Hull (1884–1952)
+Kurt Lewin (1890–1947)
+Jean Piaget (1896–1980)
+Gordon Allport (1897–1967)
+J. P. Guilford (1897–1987)
+Carl Rogers (1902–1987)
+Erik Erikson (1902–1994)
+B. F. Skinner (1904–1990)
+Donald O. Hebb (1904–1985)
+Ernest Hilgard (1904–2001)
+Harry Harlow (1905–1981)
+Raymond Cattell (1905–1998)
+Abraham Maslow (1908–1970)
+Neal E. Miller (1909–2002)
+Jerome Bruner (1915–2016)
+Donald T. Campbell (1916–1996)
+Hans Eysenck (1916–1997)
+Herbert A. Simon (1916–2001)
+David McClelland (1917–1998)
+Leon Festinger (1919–1989)
+George Armitage Miller (1920–2012)
+Richard Lazarus (1922–2002)
+Stanley Schachter (1922–1997)
+Robert Zajonc (1923–2008)
+Albert Bandura (b. 1925)
+Roger Brown (1925–1997)
+Endel Tulving (b. 1927)
+Lawrence Kohlberg (1927–1987)
+Noam Chomsky (b. 1928)
+Ulric Neisser (1928–2012)
+Jerome Kagan (b. 1929)
+Walter Mischel (b. 1930)
+Elliot Aronson (b. 1932)
+Daniel Kahneman (b. 1934)
+Paul Ekman (b. 1934)
+Michael Posner (b. 1936)
+Amos Tversky (1937–1996)
+Bruce McEwen (b. 1938)
+Larry Squire (b. 1941)
+Richard E. Nisbett (b. 1941)
+Martin Seligman (b. 1942)
+Ed Diener (b. 1946)
+Shelley E. Taylor (b. 1946)
+John Anderson (b. 1947)
+Ronald C. Kessler (b. 1947)
+Joseph E. LeDoux (b. 1949)
+Richard Davidson (b. 1951)
+Susan Fiske (b. 1952)
+Roy Baumeister (b. 1953)
+
+
+
+
+
+Lists
+
+
+
+Counseling topics
+Disciplines
+Important publications
+Organizations
+Outline
+Psychologists
+Psychotherapies
+Research methods
+Schools of thought
+Timeline
+Topics
+
+
+
+
+
+
+
+
+Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Systems science
+
+
+
+Systems
+types
+
+
+
+Anatomical
+Art
+Biological
+Complex
+Complex adaptive
+Conceptual
+Coupled human–environment
+Database
+Dynamical
+Ecological
+Economic
+Energy
+Formal
+Holarchic
+Information
+Legal
+Measurement
+Metric
+Multi-agent
+Nervous
+Nonlinear
+Operating
+Physical
+Planetary
+Political
+Sensory
+Social
+Star
+Writing
+
+
+
+
+
+Theoretical
+fields
+
+
+
+
+
+
+
+Chaos theory
+Complex systems
+Control theory
+Cybernetics
+Earth system science
+Living systems
+Sociotechnical system
+Systemics
+Urban metabolism
+World-systems theory
+
+
+
+
+
+
+
+
+analysis
+biology
+dynamics
+ecology
+engineering
+neuroscience
+pharmacology
+psychology
+theory
+thinking
+
+
+
+
+
+
+
+
+Systems
+scientists
+
+
+
+Alexander Bogdanov
+Russell L. Ackoff
+William Ross Ashby
+Ruzena Bajcsy
+Béla H. Bánáthy
+Gregory Bateson
+Anthony Stafford Beer
+Richard E. Bellman
+Ludwig von Bertalanffy
+Margaret Boden
+Kenneth E. Boulding
+Murray Bowen
+Kathleen Carley
+Mary Cartwright
+C. West Churchman
+Manfred Clynes
+George Dantzig
+Edsger W. Dijkstra
+Heinz von Foerster
+Stephanie Forrest
+Jay Wright Forrester
+Barbara Grosz
+Charles A S Hall
+Lydia Kavraki
+James J. Kay
+Faina M. Kirillova
+George Klir
+Allenna Leonard
+Edward Norton Lorenz
+Niklas Luhmann
+Humberto Maturana
+Margaret Mead
+Donella Meadows
+Mihajlo D. Mesarovic
+James Grier Miller
+Radhika Nagpal
+Howard T. Odum
+Talcott Parsons
+Ilya Prigogine
+Qian Xuesen
+Anatol Rapoport
+Peter Senge
+Claude Shannon
+Katia Sycara
+Francisco Varela
+Manuela M. Veloso
+Kevin Warwick
+Norbert Wiener
+Jennifer Wilby
+Anthony Wilden
+
+
+
+
+
+Applications
+
+
+
+Systems theory in anthropology
+Systems theory in archaeology
+Systems theory in political science
+
+
+
+
+
+Organizations
+
+
+
+List
+Principia Cybernetica
+
+
+
+
+
+
+
+
+ Category
+ Portal
+ Commons
+
+
+
+
+
+
+
+
+
+
+Categories: Systems psychologyApplied psychologyBranches of psychologySystems scienceHidden categories: All articles with unsourced statementsArticles with unsourced statements from March 2013Articles with unsourced statements from April 2013Use dmy dates from April 2011

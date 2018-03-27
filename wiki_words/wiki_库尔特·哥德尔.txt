@@ -1,0 +1,1701 @@
+库尔特·哥德尔
+
+
+Kurt Gödel
+
+
+
+哥德尔像，摄于1925年。
+
+
+
+出生
+Kurt Friedrich Gödel
+(1906-04-28)1906年4月28日
+奥匈帝国布尔诺
+（今捷克布尔诺）
+
+
+逝世
+1978年1月14日(1978-01-14)（71岁）
+美国新泽西州普林斯顿
+
+
+居住地
+奥地利、美国
+
+
+国籍
+奥地利
+
+
+公民权
+奥地利、美国
+
+
+母校
+维也纳大学
+
+
+知名于
+哥德尔不完备定理、哥德尔完备性定理、Gödel metric（英语：Gödel metric）、哥德尔本体论证明、中间逻辑
+
+
+奖项
+
+
+
+阿尔伯特·爱因斯坦奖（1951年）
+美国国家科学奖章（1974年）
+ForMemRS（1968年）[1]
+英国国家学术院院士[来源请求]
+
+
+
+
+
+科学生涯
+
+
+研究领域
+数学、数理逻辑
+
+
+机构
+普林斯顿高等研究院
+
+
+论文
+Über die Vollständigkeit des Logikkalküls (On the Completeness of the Calculus of Logic)（1929年）
+
+
+博士导师
+汉斯·哈恩
+
+
+签名
+
+
+
+
+
+库尔特·弗雷德里希·哥德尔（德语：Kurt Friedrich Gödel，1906年4月28日－1978年1月14日），出生于奥匈帝国的数学家、逻辑学家和哲学家，维也纳学派（维也纳小组）的成员。其最杰出的贡献是哥德尔不完备定理和连续统假设的相对协调性证明。
+
+
+
+目录
+
+
+1 生平
+
+1.1 学术
+1.2 逝世
+
+
+2 性格
+3 社交
+4 国籍
+5 其他
+6 参见
+7 外部链接
+8 参考资料
+
+
+
+生平[编辑]
+学术[编辑]
+哥德尔的数学天分极高。他在维也纳大学时本来修读理论物理和基础数学，后来又在汉斯·哈恩的指导下研习数理逻辑、集合论。二十四岁时，完成哥德尔完备性定理，并获得同校博士学位。但1940年代中就将注意力投放在哲学上。
+大学时，哥德尔曾参加石里克小组的聚会。
+1930年9月7日，他正式宣布其哥德尔不完备定理，引起当时重要数学家如冯·诺伊曼和希尔伯特等的重视。后来又钻研连续统假设，但未能完全解决该问题。
+逝世[编辑]
+哥德尔自幼多病，而且从小就患了强迫症（疑病症）。他还患过抑郁症。后来他在普林斯顿的医院绝食而死，因为他认为那些食物有毒。
+性格[编辑]
+哥德尔是个要求严格的人。因此，他很多的想法在生前都没有正式发表甚至记录，要逝世后从其手稿找出。
+哥德尔不喜欢谈论自己或受到注目，亦讨厌旅行。哥德尔曾要求王浩在死后才可以发表一篇有关他的传记。他在学术研究之外的东西，都不公开发表意见。
+社交[编辑]
+哥德尔的妻子 Adele Nimbursky 比哥德尔大六岁。哥德尔21岁两人认识时，Adele 已婚且在夜总会 Der Nachtfalter 工作。他们的婚姻遭到哥德尔家人反对，但有情人终成眷属，在1938年9月20日结婚。他们没有小孩。
+他和家人感情不坏，哥德尔去了美国后还常常跟他们书信，之后接他们到美国。但其家人似乎对他了解不深：读大学时，哥德尔的兄长研习医学，从其他人口中才知道他在数学方面颇有名气。
+在普林斯顿时，哥德尔和爱因斯坦成了很好的朋友。后人常将他们比较。哥德尔和爱因斯坦都在自己的范畴有极为重大的贡献，很聪明，有好奇心，直率。但爱因斯坦性格开朗外向，这点和哥德尔大相径庭。爱因斯坦的死对哥德尔的情绪有很大打击。
+国籍[编辑]
+虽然他的传记列出很多国家，他通常被视为奥地利人。他出生在奥匈帝国的布尔诺，在十二岁时成为捷克斯洛伐克公民，在二十三岁时成为奥地利公民。当希特勒吞并奥地利时，哥德尔自动成为德国人。第二次世界大战后，他再次成为奥地利公民，而且取得美国公民权利。
+其他[编辑]
+哥德尔的大部分手稿使用加贝尔斯贝格速记法写成。格言：“有些事实被认知为真，但不必然可证。”
+参见[编辑]
+
+哥德尔定理
+哥德尔完备性定理
+哥德尔不完备定理
+哥德尔奖
+哥德尔本体论证明
+
+外部链接[编辑]
+
+《哥德尔》（Reflections on Kurt），王浩著，康宏逵译
+哥德尔，Kurt Godel（英文）
+
+参考资料[编辑]
+
+
+^ Kreisel, G. Kurt Godel. 28 April 1906-14 January 1978. Biographical Memoirs of Fellows of the Royal Society（英语：Biographical Memoirs of Fellows of the Royal Society）. 1980, 26: 148–126. doi:10.1098/rsbm.1980.0005. 
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+相对论
+
+
+
+
+
+
+狭义相对论
+
+
+
+
+
+背景
+
+
+
+
+相对性原理
+狭义相对论入门
+
+
+
+
+
+
+
+
+
+基础
+
+
+
+
+相对运动
+参考系
+光速
+马克士威方程组
+
+
+
+
+
+
+
+
+
+公式化
+
+
+
+
+伽利略变换
+洛伦兹变换
+
+
+
+
+
+
+
+
+
+结果
+
+
+
+
+时间膨胀
+狭义相对论中的质量
+质能等价
+长度收缩
+相对同时
+相对论性多普勒效应
+汤马斯进动
+特勒尔旋转
+
+
+
+
+
+
+
+
+
+时空
+
+
+
+
+闵可夫斯基时空
+世界线
+闵可夫斯基图
+光锥
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+广义相对论
+
+
+
+
+
+背景
+
+
+
+
+广义相对论入门
+广义相对论中的数学
+
+
+
+
+
+
+
+
+
+基本概念
+
+
+
+
+狭义相对论
+等效原理
+黎曼几何
+
+
+
+
+
+
+
+
+
+现象
+
+
+
+
+广义相对论中的开普勒问题
+引力透镜
+参考系拖拽
+测地线效应
+事件视界
+引力奇点
+黑洞
+
+
+
+
+
+
+
+
+
+方程式
+
+
+
+
+线性化重力
+参数化后牛顿重力形式
+爱因斯坦场方程
+测地线方程
+弗里德曼方程
+ADM质量
+BSSN形式（英语：BSSN formalism）
+哈密顿-雅可比-爱因斯坦方程
+
+
+
+
+
+
+
+
+
+进阶理论
+
+
+
+
+卡鲁扎-克莱因理论
+
+
+
+
+
+
+
+
+
+特殊解（英语：Exact solutions in general relativity）
+
+
+
+
+史瓦西度规
+凯斯纳度规（英语：Kasner metric）
+莱斯纳-诺德斯特洛姆度规
+哥德尔度规（英语：Gödel metric）
+克尔度规
+克尔-纽曼度规
+托布-NUT度规
+米尔恩模型
+弗里德曼-勒梅特-罗伯逊-沃尔克度规
+pp时空波（英语：pp-wave spacetime）
+凡斯塔格度规（英语：Van Stockum dust）
+
+
+
+
+
+
+
+
+
+
+
+科学家
+
+
+
+阿尔伯特·爱因斯坦
+亨德里克·洛伦兹
+大卫·希尔伯特
+儒勒·昂利·庞加莱
+卡尔·史瓦西
+威廉·德西特
+莱斯纳（英语：Hans Reissner）
+贡纳尔·诺斯特朗姆
+赫尔曼·外尔
+亚瑟·爱丁顿
+亚历山大·弗里德曼
+爱德华·亚瑟·米尔恩
+弗里茨·兹威基
+乔治·勒梅特
+库尔特·哥德尔
+约翰·惠勒
+霍华德·罗伯逊（英语：Howard Percy Robertson）
+詹姆斯·麦克斯威·巴丁（英语：James M. Bardeen）
+阿瑟·杰弗里·沃克（英语：Arthur Geoffrey Walker）
+罗伊·克尔
+苏布拉马尼扬·钱德拉塞卡
+尔根·埃勒斯（英语：Jürgen Ehlers）
+罗杰·潘洛斯
+史蒂芬·霍金
+约瑟夫·泰勒
+拉塞尔·赫尔斯
+威廉·雅各·凡斯塔格（英语：Willem Jacob van Stockum）
+亚伯拉罕·哈斯克尔·托布（英语：Abraham H. Taub）
+以斯拉·T·纽曼（英语：Ezra T. Newman）
+丘成桐
+基普·索恩
+莱纳·魏斯
+赫尔曼·邦迪
+唐·佩奇
+其他（英语：Contributors to general relativity）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+美国国家科学奖章得主
+
+
+
+
+
+
+
+
+
+
+ 
+行为与社会科学
+
+
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1964年：罗杰·亚当斯
+Othmar H. Ammann
+费奥多西·多布然斯基
+Neal Elgar Miller
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1986年：赫伯特·亚历山大·西蒙
+1987年：Anne Anastasi
+乔治·斯蒂格勒
+1988年：米尔顿·傅利曼
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：里奥尼德·赫维克兹
+Patrick Suppes
+1991年：Robert W. Kates
+乔治·A·米勒
+1992年：埃莉诺·吉布森
+1994年：罗伯特·金·莫顿
+1995年：Roger N. Shepard
+1996年：保罗·萨缪尔森
+1997年：William K. Estes
+1998年：William Julius Wilson
+1999年：劳勃·梭罗
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：盖瑞·贝克
+2001年：George Bass
+2003年：R. Duncan Luce
+2004年：肯尼斯·约瑟夫·阿罗
+2005年：戈登·霍华德·鲍尔
+2008年：Michael I. Posner
+2009年：Mortimer Mishkin
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2011年：Anne Treisman
+2014年：罗伯特·阿克塞尔罗
+2015年：亚伯特·班度拉
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+生物学
+
+
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1963年：C. B. van Niel
+1964年：马歇尔·沃伦·尼伦伯格
+1965年：裴顿·劳斯
+乔治·盖洛德·辛普森
+Donald D. Van Slyke
+1966年：Edward F. Knipling
+弗里茨·阿尔贝特·李普曼
+William C. Rose
+Sewall Wright
+1967年：Kenneth S. Cole
+哈里·哈洛
+Michael Heidelberger
+Alfred H. Sturtevant
+1968年：Horace Barker
+伯纳德·布罗迪
+Detlev W. Bronk
+Jay Lush
+伯尔赫斯·弗雷德里克·斯金纳
+1969年：Robert Huebner
+恩斯特·瓦尔特·迈尔
+
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+
+1970年：芭芭拉·麦克林托克
+阿尔伯特·沙宾
+1973年：Daniel I. Arnon
+厄尔·威尔伯·萨瑟兰
+1974年：布立顿·强斯
+埃尔文·查戈夫
+James V. Neel
+James Augustine Shannon
+1975年：Hallowell Davis
+Paul Gyorgy
+Sterling B. Hendricks
+Orville lvin Vogel
+1976年：罗歇·吉耶曼
+Keith Roberts Porter
+Efraim Racker
+艾德华·威尔森
+1979年：Robert H. Burris
+Elizabeth C. Crosby
+阿瑟·科恩伯格
+塞韦罗·奥乔亚
+Earl Reece Stadtman
+George Ledyard Stebbins
+Paul Alfred Weiss
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1981年：Philip Handler
+1982年：西摩·本泽
+Glenn W. Burton
+Mildred Cohn
+1983年：Howard L. Bachrach
+保罗·伯格
+Wendell L. Roelofs
+Berta Scharrer
+1986年：斯坦利·科恩
+Donald A. Henderson
+Vernon B. Mountcastle
+乔治·埃米尔·帕拉德
+Joan A. Steitz
+1987年：Michael E. DeBakey
+西奥多·O·迪纳
+Harry Eagle
+哈尔·葛宾·科拉纳
+丽塔·列维-蒙塔尔奇尼
+1988年：麦可·斯图亚特·布朗
+斯坦利·诺曼·科恩
+约瑟夫·里欧纳德·戈尔茨坦
+Maurice R. Hilleman
+埃里克·坎德尔
+罗莎琳·萨斯曼·雅洛
+1989年：Katherine Esau
+Viktor Hamburger
+Philip Leder
+乔舒亚·莱德伯格
+罗杰·斯佩里
+Harland G. Wood
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：巴茹·贝纳塞拉夫
+赫伯特·博耶
+Daniel E. Koshland, Jr.
+爱德华·路易斯
+David G. Nathan
+唐纳尔·汤玛斯
+1991年：Mary Ellen Avery
+乔治·伊夫林·哈钦森
+Elvin A. Kabat
+萨尔瓦多·卢瑞亚
+Paul A. Marks
+Folke K. Skoog
+Paul C. Zamecnik
+1992年：Maxine Singer
+霍华德·马丁·特明
+1993年：丹尼尔·那森斯
+Salome G. Waelsch
+1994年：Thomas Eisner
+伊丽莎白·诺伊费尔德
+1995年：亚历山大·里奇
+1996年：Ruth Patrick
+1997年：詹姆斯·杜威·华生
+罗伯特·温伯格
+1998年：布鲁斯·艾姆斯
+珍妮特·罗利
+1999年：戴维·巴尔的摩
+贾德·戴蒙
+琳·马古利斯
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：Nancy C. Andreasen
+彼得·雷文
+卡尔·乌斯
+2001年：Francisco J. Ayala
+马里奥·卡佩奇
+安·格雷比尔
+Gene E. Likens
+维克托·麦库西克
+哈罗德·瓦慕斯
+2002年：James E. Darnell
+Evelyn M. Witkin
+2003年：米高·毕晓普
+所罗门·斯奈德
+Charles Yanofsky
+2004年：诺曼·布劳格
+菲利普·夏普
+Thomas E. Starzl
+2005年：安东尼·弗契
+托斯坦·威泽尔
+2006年：Rita R. Colwell
+Nina Fedoroff
+Lubert Stryer
+2007年：罗伯特·莱夫科维茨
+Bert W. O'Malley
+2008年：法兰西斯·柯林斯
+伊莱恩·富克斯
+克莱格·凡特
+2009年：苏珊·林德奎斯特
+史坦利·布鲁希纳
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2010年：Ralph L. Brinster
+钱煦
+鲁道夫·耶尼施
+2011年：露西·夏皮罗
+Leroy Hood
+Sallie Chisholm
+2014年：May Berenbaum
+布鲁斯·艾伯茨
+2015年：Stanley Falkow
+Rakesh Jain
+Mary-Claire King
+Simon A. Levin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+化学
+
+
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1964年：罗杰·亚当斯
+
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+
+1975年：肯尼斯·皮策（英语：Kenneth Pitzer）
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1982年：弗兰克·阿尔伯特·科顿
+吉尔伯特·斯托克
+1983年：罗德·霍夫曼
+George C. Pimentel
+理查德·扎尔
+1986年：哈里·格雷
+李远哲
+Carl S. Marvel
+Frank H. Westheimer
+1987年：William S. Johnson
+Walter H. Stockmayer
+Max Tishler
+1988年：William O. Baker
+康拉德·布洛赫
+艾里亚斯·詹姆斯·科里
+1989年：Richard B. Bernstein
+梅尔文·卡尔文
+鲁道夫·马库斯
+Harden M. McConnell
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：Elkan Blout
+Karl Folkers
+约翰·东布罗夫斯基·罗伯茨
+1991年：Ronald Breslow
+格特鲁德·B·埃利恩
+达德利·赫施巴赫
+格伦·西奥多·西博格
+1992年：Howard E. Simmons, Jr.
+1993年：唐纳德·克拉姆
+Norman Hackerman
+1994年：George S. Hammond
+1995年：托马斯·切赫
+Isabella L. Karle
+1996年：Norman Davidson
+1997年：Darleane C. Hoffman
+Harold S. Johnston
+1998年：John W. Cahn
+乔治·怀特塞兹
+1999年：斯图尔特·A·赖斯
+John Ross
+Susan Solomon
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：John D. Baldeschwieler
+Ralph F. Hirschmann
+2001年：Ernest R. Davidson
+加博尔·绍莫尔尧伊
+2002年：John I. Brauman
+2004年：斯蒂芬·利帕德
+2006年：Marvin H. Caruthers
+Peter B. Dervan
+2007年：Mostafa A. El-Sayed
+2008年：Joanna Fowler
+JoAnne Stubbe
+2009年：斯蒂芬·J·本科维奇
+Marye Anne Fox
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2010年：杰奎琳·巴顿
+彼得·斯唐
+2011年：艾伦·J·巴德
+M. Frederick Hawthorne
+2014年：Judith P. Klinman
+Jerrold Meinwald
+2015年：保罗·阿利维萨托斯
+Geraldine L. Richmond
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+工程科学
+
+
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1962年：西奥多·冯·卡门
+1963年：万尼瓦尔·布希
+约翰·罗宾森·皮尔斯
+1964年：Charles S. Draper
+1965年：Hugh L. Dryden
+克拉伦斯·詹森
+沃伦·坎达儿·路易斯
+1966年：克劳德·夏农
+1967年：Edwin H. Land
+伊戈尔·伊万诺维奇·西科尔斯基
+1968年：J. Presper Eckert
+Nathan M. Newmark
+1969年：杰克·基尔比
+
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+
+1970年：George E. Mueller
+1973年：Harold E. Edgerton
+Richard T. Whitcomb
+1974年：Rudolf Kompfner
+Ralph Brazelton Peck
+Abel Wolman
+1975年：Manson Benedict
+威廉·海达德·皮克林
+弗雷德里克·特曼
+华纳·冯·布朗
+1976年：Morris Cohen
+Peter C. Goldmark
+Erwin Wilhelm Müller
+1979年：Emmett N. Leith
+Raymond D. Mindlin
+罗伯特·诺伊斯
+Earl R. Parker
+Simon Ramo
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1982年：Edward H. Heinemann
+Donald L. Katz
+1983年：威廉·惠利特
+George M. Low
+John G. Trump
+1986年：Hans Wolfgang Liepmann
+林同炎
+Bernard M. Oliver
+1987年：罗伯特·拜伦·柏德
+H. Bolton Seed
+Ernst Weber
+1988年：Daniel C. Drucker
+Willis M. Hawkins
+George W. Housner
+1989年：Harry George Drickamer
+Herbert E. Grier
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：米尔德里德·德雷斯尔豪斯
+尼克·何伦亚克
+1991年：乔治·哈利·海尔迈耶
+Luna B. Leopold
+H. Guyford Stever
+1992年：Calvin F. Quate
+John Roy Whinnery
+1993年：卓以和
+1994年：Ray W. Clough
+1995年：Hermann A. Haus
+1996年：James L. Flanagan
+C. Kumar N. Patel
+1998年：Eli Ruckenstein
+1999年：Kenneth N. Stevens
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：冯元桢
+2001年：Andreas Acrivos
+2002年：Leo Beranek
+2003年：John M. Prausnitz
+2004年：埃德温·尼布洛克·莱特富特
+2005年：Jan D. Achenbach
+Tobin J. Marks
+2006年：罗伯特·兰格
+2007年：戴维·瓦恩兰
+2008年：鲁道夫·卡尔曼
+2009年：Amnon Yariv
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2010年：钱煦
+2011年：Sidney Drell
+Sandra Faber
+Sylvester James Gates
+约翰·B·古迪纳夫
+2014年：Thomas Kailath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+数学、统计与计算机科学
+
+
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1963年：诺伯特·维纳
+1964年：所罗门·莱夫谢茨
+H. Marston Morse
+1965年：奥斯卡·扎里斯基
+1966年：约翰·米尔诺
+1967年：保罗·寇恩
+1968年：耶日·内曼
+1969年：威廉·费勒
+
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+
+1970年：Richard Brauer
+1973年：约翰·图基
+1974年：库尔特·哥德尔
+1975年：约翰·巴科斯
+陈省身
+乔治·伯纳德·丹齐格
+1976年：Kurt Otto Friedrichs
+哈斯勒·惠特尼
+1979年：Joseph L. Doob
+高德纳
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1982年：Marshall Harvey Stone
+1983年：Herman Goldstine
+艾沙道尔·辛格
+1986年：拉克斯·彼得
+Antoni Zygmund
+1987年：拉乌尔·博特
+麦可·弗里德曼
+1988年：Ralph E. Gomory
+Joseph B. Keller
+1989年：Samuel Karlin
+桑德斯·麦克兰恩
+Donald C. Spencer
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：George F. Carrier
+斯蒂芬·科尔·克莱尼
+约翰·麦卡锡
+1991年：Alberto Calderón
+1992年：艾伦·纽厄尔
+1993年：Martin David Kruskal
+1994年：约翰·科克
+1995年：路易·尼伦伯格
+1996年：理察·卡普
+史蒂芬·斯梅尔
+1997年：丘成桐
+1998年：Cathleen Synge Morawetz
+1999年：Felix Browder
+Ronald R. Coifman
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：约翰·格里格斯·汤普森
+Karen K. Uhlenbeck
+2001年：Calyampudi R. Rao
+埃利亚斯·施泰因
+2002年：James G. Glimm
+2003年：Carl R. de Boor
+2004年：丹尼斯·苏利文
+2005年：Bradley Efron
+2006年：Hyman Bass
+2007年：莱昂纳多·克莱洛克
+安德鲁·维特比
+2009年：戴维·芒福德
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2010年：Richard A. Tapia
+斯里尼瓦瑟·瓦拉德汉
+2011年：所罗门·格伦布
+Barry Mazur
+2014年：Alexandre Chorin
+Thomas Kailath
+戴维·布莱克韦尔
+2015年：麦可·阿廷
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+物理科学
+
+
+
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+
+1963年：路易斯·阿尔瓦雷茨
+1964年：朱利安·施温格
+哈罗德·尤里
+罗伯特·伯恩斯·伍德沃德
+1965年：约翰·巴丁
+彼得·德拜
+利昂·莱德曼
+William Rubey
+1966年：Jacob Bjerknes
+苏布拉马尼扬·钱德拉塞卡
+亨利·艾林
+约翰·凡扶累克
+弗拉基米尔·佐利金
+1967年：Jesse Beams
+Francis Birch
+Gregory Breit
+Louis Hammett
+George Kistiakowsky
+1968年：Paul Bartlett
+赫尔伯特·傅利曼
+拉斯·昂萨格
+尤金·维格纳
+1969年：赫伯特·布朗
+Wolfgang Panofsky
+
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+
+1970年：Robert H. Dicke
+艾伦·桑德奇
+John C. Slater
+约翰·惠勒
+Saul Winstein
+1973年：卡尔·杰拉西
+Maurice Ewing
+Arie Jan Haagen-Smit
+Vladimir Haensel
+Frederick Seitz
+Robert Rathbun Wilson
+1974年：尼古拉斯·布隆伯根
+保罗·弗洛里
+威廉·福勒
+莱纳斯·鲍林
+Kenneth Sanborn Pitzer
+1975年：汉斯·贝特
+Joseph O. Hirschfelder
+Lewis Sarett
+E. Bright Wilson
+吴健雄
+1976年：Samuel Goudsmit
+Herbert S. Gutowsky
+Frederick Rossini
+维尔纳·索米
+亨利·陶布
+乔治·乌伦贝克
+1979年：理查德·费曼
+赫尔曼·马克
+爱德华·珀塞尔
+John Sinfelt
+莱曼·史匹哲
+维克托·魏斯科普夫
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+1982年：菲利普·安德森
+南部阳一郎
+爱德华·泰勒
+查尔斯·汤斯
+1983年：玛格丽特·伯比奇
+Maurice Goldhaber
+Helmut Landsberg
+沃尔特·芒克
+弗雷德里克·莱因斯
+Bruno B. Rossi
+约翰·施里弗
+1986年：Solomon J. Buchsbaum
+H. Richard Crane
+Herman Feshbach
+罗伯特·霍夫施塔特
+杨振宁
+1987年：菲力普·艾贝尔森
+Walter Elsasser
+保罗·劳特伯
+George Pake
+詹姆斯·范·艾伦
+1988年：D. Allan Bromley
+朱经武
+沃尔特·科恩
+诺曼·拉姆齐
+杰克·施泰因贝格尔
+1989年：Arnold O. Beckman
+尤金·派克
+Robert Sharp
+Henry Stommel
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+1990年：阿兰·麦克莱德·科马克
+埃德温·麦克米伦
+Robert Pound
+Roger Revelle
+1991年：阿瑟·肖洛
+Ed Stone
+史蒂文·温伯格
+1992年：尤金·舒梅克
+1993年：瓦尔·菲奇
+薇拉·鲁宾
+1994年：Albert Overhauser
+Frank Press
+1995年：汉斯·德默尔特
+Peter Goldreich
+1996年：Wallace S. Broecker
+1997年：Marshall Rosenbluth
+马丁·史瓦西
+George Wetherill
+1998年：Don L. Anderson
+John N. Bahcall
+1999年：詹姆斯·克罗宁
+Leo Kadanoff
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+2000年：威利斯·兰姆
+耶利米·保罗·欧斯垂克
+Gilbert F. White
+2001年：Marvin L. Cohen
+雷蒙德·戴维斯
+Charles Keeling
+2002年：Richard Garwin
+威廉·杰森·摩根
+爱德华·威滕
+2003年：G. Brent Dalrymple
+里卡尔多·贾科尼
+2004年：Robert N. Clayton
+2005年：拉尔夫·阿尔菲
+Lonnie Thompson
+2006年：丹尼尔·克莱普纳
+2007年：Fay Ajzenberg-Selove
+Charles P. Slichter
+2008年：Berni Alder
+James E. Gunn
+2009年：亚基尔·阿哈罗诺夫
+Esther M. Conwell
+Warren M. Washington
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+2011年：Sidney Drell
+珊德拉·法贝尔
+Sylvester James Gates
+2014年：伯顿·里克特
+Sean C. Solomon
+2015年：Shirley Ann Jackson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+阿尔伯特·爱因斯坦奖获得者
+
+
+
+
+
+
+1950年代
+
+
+
+1951年：库尔特·哥德尔
+朱利安·施温格
+1954年：理查德·费曼
+1958年：爱德华·泰勒
+1959年：威拉德·利比
+
+
+
+
+
+
+
+
+1960年代
+
+
+
+1960年：利奥·西拉德
+1961年：路易斯·阿尔瓦雷茨
+1965年：约翰·惠勒
+1967年：马歇尔·罗森布鲁斯（英语：Marshall Rosenbluth）
+
+
+
+
+
+
+
+
+1970年代
+
+
+
+1970年：尤瓦尔·内埃曼（英语：Yuval Ne'eman）
+1972年：尤金·维格纳
+1978年：斯蒂芬·霍金
+1979年：图里奥·雷吉
+
+
+
+
+
+
+
+
+
+Category:阿尔伯特·爱因斯坦奖获得者
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 97851774
+LCCN: n79007770
+ISNI: 0000 0001 1031 567X
+GND: 11869569X
+SELIBR: 237197
+SUDOC: 028039734
+BNF: cb12133987b（数据）
+MGP: 19539
+NDL: 00549746
+NKC: jn20000602196
+ICCU: IT\ICCU\MILV\024928
+BNE: XX988655
+
+
+
+
+
+
+
+
+
+
+
+
+分类：1906年出生1978年逝世奥地利数学家逻辑学家20世纪哲学家死于绝食的奥地利人布尔诺人维也纳大学校友集合论者圣母大学教师饿死者美国国家科学奖获奖者普林斯顿高等研究院教职员阿尔伯特·爱因斯坦奖获得者隐藏分类：有未列明来源语句的条目含有签名的传记作品含有hCards的条目本地相关图片与维基数据相同含有德语的条目包含规范控制信息的维基百科条目

@@ -1,0 +1,245 @@
+Quality (philosophy)
+In philosophy, a quality is an attribute or a property characteristic of an object.[1] In contemporary philosophy the idea of qualities, and especially how to distinguish certain kinds of qualities from one another, remains controversial.[1]
+
+
+
+Contents
+
+
+1 Background
+2 Conceptions of quality as metaphysical and ontological
+3 References
+4 External links
+
+
+
+Background[edit]
+Further information: Property (philosophy)
+Aristotle analyzed qualities in his logical work, the Categories. To him, qualities are hylomorphically–formal attributes, such as "white" or "grammatical". Categories of state, such as "shod" and "armed" are also non–essential qualities (katà symbebekós).[2] Aristotle observed: "one and the selfsame substance, while retaining its identity, is yet capable of admitting contrary qualities. The same individual person is at one time white, at another black, at one time warm, at another cold, at one time good, at another bad. This capacity is found nowhere else... it is the peculiar mark of substance that it should be capable of admitting contrary qualities; for it is by itself changing that it does so".[3] Aristotle described four types of qualitative opposites: correlatives, contraries, privatives and positives.[4]
+John Locke presented a distinction between primary and secondary qualities in An Essay Concerning Human Understanding. For Locke, a quality is an idea of a sensation or a perception. Locke further asserts that qualities can be divided in two kinds: primary and secondary qualities. Primary qualities are intrinsic to an object—a thing or a person—whereas secondary qualities are dependent on the interpretation of the subjective mode and the context of appearance.[1] For example, a shadow is a secondary quality. It requires a certain lighting to be applied to an object. For another example, consider the mass of an object. Weight is a secondary quality since, as a measurement of gravitational force, it varies depending on the distance to, and mass of, very massive objects like the Earth, as described by Newton's law. It could be thought that mass is intrinsic to an object, and thus a primary quality. In the context of relativity, the idea of mass quantifying an amount of matter requires caution. The relativistic mass varies for variously traveling observers; then there is the idea of rest mass or invariant mass (the magnitude of the energy-momentum 4-vector[5]), basically a system's relativistic mass in its own rest frame of reference. (Note, however, that Aristotle drew a distinction between qualification and quantification; a thing's quality can vary in degree).[6] Only an isolated system's invariant mass in relativity is the same as observed in variously traveling observers' rest frames, and conserved in reactions; moreover, a system's heat, including the energy of its massless particles such as photons, contributes to the system's invariant mass (indeed, otherwise even an isolated system's invariant mass would not be conserved in reactions); even a cloud of photons traveling in different directions has, as a whole, a rest frame and a rest energy equivalent to invariant mass.[7] Thus, to treat rest mass (and by that stroke, rest energy) as an intrinsic quality distinctive of physical matter raises the question of what is to count as physical matter. Little of the invariant mass of a hadron (for example a proton or a neutron) consists in the invariant masses of its component quarks (in a proton, around 1%) apart from their gluon particle fields; most of it consists in the quantum chromodynamics binding energy of the (massless) gluons (see Quark#Mass).
+Conceptions of quality as metaphysical and ontological[edit]
+Main article: Qualia
+Philosophy and common sense tend to see qualities as related either to subjective feelings or to objective facts. The qualities of something depends on the criteria being applied to and, from a neutral point of view, do not determine its value (the philosophical value as well as economic value). Subjectively, something might be good because it is useful, because it is beautiful, or simply because it exists. Determining or finding qualities therefore involves understanding what is useful, what is beautiful and what exists. Commonly, quality can mean degree of excellence, as in, "a quality product" or "work of average quality". It can also refer to a property of something such as "the addictive quality of nicotine".[8] In his book, Zen and the Art of Motorcycle Maintenance, Robert M. Pirsig examines concepts of quality in classical and romantic, seeking a Metaphysics of Quality and a reconciliation of those views in terms of non-dualistic holism.
+References[edit]
+
+
+^ a b c Cargile, J. (1995). qualities. in Honderich, T. (Ed.) (2005). The Oxford Companion to Philosophy (2nd ed.). Oxford
+^ Edghill, E.M. trans. (2009). "The Internet Classics Archive – Aristotle Categories". MIT.  line 70.
+^ Edghill, E.M. trans. (2009). "The Internet Classics Archive – Aristotle Categories". MIT.  line 254.
+^ Edghill, E.M. trans. (2009). "The Internet Classics Archive – Aristotle Categories". MIT.  line 28.
+^ Taylor, Edwin F. and Wheeler, John Archibald, Spacetime Physics, 2nd edition, 1991, p. 195.
+^ Studtmann,P. (2007). Zalta, E.N., ed. "Aristotle's Categories". Stanford: Stanford Encyclopedia of Philosophy. [Regarding] Habits and Dispositions; Natural Capabilities and Incapabilities; Affective Qualities and Affections; and Shapes; [...] Ackrill finds Aristotle's division of quality at best unmotivated. 
+^ Taylor, Edwin F. and Wheeler, John Archibald, Spacetime Physics, 2nd edition, 1991, pp. 226-227 and 232-233.
+^ Reese, William L. (1996). Dictionary of Philosophy and Religion. Prometheus Books. ISBN 978-1-57392-621-8. 
+
+
+External links[edit]
+
+ "Quality". New International Encyclopedia. 1905. 
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Metaphysics
+
+
+
+Metaphysicians
+
+
+
+Parmenides
+Plato
+Aristotle
+Plotinus
+Duns Scotus
+Thomas Aquinas
+Francisco Suárez
+Nicolas Malebranche
+René Descartes
+John Locke
+David Hume
+Thomas Reid
+Immanuel Kant
+Isaac Newton
+Arthur Schopenhauer
+Baruch Spinoza
+Georg W. F. Hegel
+George Berkeley
+Gottfried Wilhelm Leibniz
+Henri Bergson
+Friedrich Nietzsche
+Charles Sanders Peirce
+Joseph Maréchal
+Ludwig Wittgenstein
+Martin Heidegger
+Alfred N. Whitehead
+Bertrand Russell
+Dorothy Emmet
+G. E. Moore
+Jean-Paul Sartre
+Gilbert Ryle
+Hilary Putnam
+P. F. Strawson
+R. G. Collingwood
+Adolph Stöhr
+Rudolf Carnap
+Saul Kripke
+Willard V. O. Quine
+G. E. M. Anscombe
+Donald Davidson
+Michael Dummett
+David Malet Armstrong
+David Lewis
+Alvin Plantinga
+Peter van Inwagen
+Derek Parfit
+more ...
+
+
+
+
+
+Theories
+
+
+
+Abstract object theory
+Action theory
+Anti-realism
+Determinism
+Dualism
+Enactivism
+Essentialism
+Existentialism
+Free will
+Idealism
+Libertarianism
+Liberty
+Materialism
+Meaning of life
+Monism
+Naturalism
+Nihilism
+Phenomenalism
+Realism
+Physicalism
+Pirsig's metaphysics of Quality
+Platonic idealism
+Relativism
+Scientific realism
+Solipsism
+Subjectivism
+Substance theory
+Type theory
+
+
+
+
+
+Concepts
+
+
+
+Abstract object
+Anima mundi
+Being
+Category of being
+Causality
+Choice
+Cogito ergo sum
+Concept
+Embodied cognition
+Entity
+Essence
+Existence
+Experience
+Hypostatic abstraction
+Idea
+Identity
+Identity and change
+Information
+Insight
+Intelligence
+Intention
+Linguistic modality
+Matter
+Meaning
+Memetics
+Mental representation
+Mind
+Motion
+Necessity
+Notion
+Object
+Pattern
+Perception
+Physical body
+Principle
+Property
+Qualia
+Quality
+Reality
+Soul
+Subject
+Substantial form
+Thought
+Time
+Truth
+Type–token distinction
+Universal
+Unobservable
+Value
+more ...
+
+
+
+
+
+Related topics
+
+
+
+Axiology
+Cosmology
+Epistemology
+Feminist metaphysics
+Interpretations of quantum mechanics
+Meta-
+Ontology
+Philosophy of mind
+Philosophy of psychology
+Philosophy of self
+Philosophy of space and time
+Teleology
+Theoretical physics
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+Categories: Concepts in aestheticsConcepts in ethicsConcepts in metaphysicsHidden categories: Wikipedia articles incorporating a citation from the New International Encyclopedia

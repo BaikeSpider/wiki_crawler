@@ -1,0 +1,315 @@
+Linguistic determinism
+Linguistic determinism is the idea that language and its structures limit and determine human knowledge or thought, as well as thought processes such as categorization, memory, and perception. The term implies that people who speak different languages as their mother tongues have different thought processes.[1] Though it played a considerable role historically, linguistic determinism is now discredited among mainstream linguists.[2]
+Linguistic determinism is the strong form of linguistic relativity (popularly known as the Sapir–Whorf hypothesis), which argues that individuals experience the world based on the structure of the language they habitually use. For example, studies have shown that people find it easier to recognise and remember shades of colours for which they have a specific name.[3] Another example is the Daniel Everett study analyzing conception of numbers in the Brazilian Pirahã people. These individuals could not conceive numbers beyond 'one' and 'two', for which there are actual terms in their language. After this all numbers are grouped under the term 'many.' Even after being taught in the Portuguese language for eight months, not one individual could count to ten.[4] However, Michael Frank et. al ran further experiments on the Pirahã published in "Numbers as a cognitive technology," and found that Everett was wrong, the Pirahã did not have words for "one," or "two," but instead had words for "small," "somewhat larger," and "many." Furthermore, many studies have documented the differences in identity formation in bilingual versus monolingual children, who have often reported a very different sense of self depending on language use. In one study with bilingual Latino students, it was determined that these children had "hybridized identities" visible in their linguistic brokering skills, and that "bilingualism, biculturalism, and biliteracy shaped and influenced the stance taken by the students toward their academic learning".[5] These students used different languages for different tasks, switching back and forth and revealing differences in identity and conception of literacy.
+Opponents of this theory maintain that thought exists prior to any conception of language, such as in the popular example of rainbows used in the Whorf hypothesis. One may perceive the different colors even while missing a particular word for each shade. Steven Pinker's theory embodies this idea. He proposed that all individuals are first capable of a "universal mentalese", of which all thought is composed prior to its linguistic form. Language then enables us to articulate these already existing thoughts into words and linguistic concepts.[6]
+
+
+
+Contents
+
+
+1 Role in literary theory
+2 Experimental languages
+3 See also
+4 References
+
+4.1 Citations
+4.2 Sources
+
+
+
+
+
+Role in literary theory[edit]
+
+
+
+
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2013) (Learn how and when to remove this template message)
+
+
+
+Linguistic determinism is a partial assumption behind a number of recent[when?] developments in rhetoric and literary theory. For example, French philosopher Jacques Derrida's dissected the terms of "paradigmatic" hierarchies (in language structures, some words exist only with antonyms, such as light/dark, and others exist only with relation to other terms, such as father/son and mother/daughter; Derrida targeted the latter). He believed that if one breaks apart the hidden hierarchies in language terms, one can open up a "lacuna" in understanding, an "aporia," and free the mind of the reader/critic. Similarly, Michel Foucault's New Historicism theory posits that there is a quasi-linguistic structure present in any age, a metaphor around which all things that can be understood are organized. This "episteme" determines the questions that people can ask and the answers they can receive. The episteme changes historically: as material conditions change, so the mental tropes change, and vice versa. When ages move into new epistemes, the science, religion, and art of the past age look absurd. Some Neo-Marxist historians[who?] have similarly looked at culture as permanently encoded in a language that changes with the material conditions. As the environment changes, so too do the language constructs.
+Experimental languages[edit]
+Main article: Experimental languages
+The possibility of linguistic determinism has been explored by a variety of authors, mostly in science fiction. There exist some languages, like Loglan, Ithkuil and Toki Pona for instance, which have been constructed for the purpose of testing the assumption. However, no formal tests appear to have been done.
+See also[edit]
+
+Determinism
+Embodied bilingual language
+Linguistic relativity
+Giambattista Vico
+Male as norm
+
+References[edit]
+Citations[edit]
+
+
+
+^ Hickmann, Maya (2000). "Linguistic relativity and linguistic determinism: some new directions". Linguistics. 38 (2): 410. doi:10.1515/ling.38.2.409. 
+^ Ahearn 2011, p. 69.
+^ D'Andrade, Roy (1995). The development of cognitive anthropology. New York: Cambridge University Press. ISBN 9780521459761. 
+^ Bower, Bruce (2005). "The pirahá challenge: An amazonian tribe takes grammar to a strange place". Science News. 168 (24): 376–377. doi:10.2307/4017032. 
+^ Jiménez, Robert T. (2000). "Literacy and the Identity Development of Latina/o Students". American Educational Research Journal. 37 (4): 971–1000. doi:10.3102/00028312037004971. 
+^ Pinker, Steven (2007). The Language Instinct. New York: Harper Perennial Modern Classics.  |access-date= requires |url= (help)
+
+
+
+Sources[edit]
+
+Whorf, B.L. (1956). "The Relation of Habitual Thought and Behavior to Language". In Carroll, J.B. Language, Thought, and Reality: Selected Writings of Benjamin Lee Whorf. Cambridge, Massachusetts: MIT Press. pp. 134–159. ISBN 0-262-73006-5. 
+Everett, D.L. (August–October 2005). "Cultural Constraints on Grammar and Cognition in Piraha: Another Look at the Design Features of Human Language" (PDF). Current Anthropology. 46 (4): 621–646. doi:10.1086/431525.  Supplementary material in electronic edition
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Determinism
+
+
+
+Types
+
+
+
+Biological
+Cultural
+Economic
+Environmental
+Genetic
+Historical
+Linguistic
+Parametric
+Psychological
+Social
+Technological
+Theological
+
+
+
+
+
+Related topics
+
+
+
+Illusionism
+Destiny
+Deterministic system
+Fatalism
+Compatibilism and incompatibilism
+Hard determinism
+Indeterminism
+Predeterminism
+Necessitarianism
+Uncertainty principle
+Libertarianism (metaphysics)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of language
+
+
+
+Philosophers
+
+
+
+Plato (Cratylus)
+Gorgias
+Confucius
+Xunzi
+Aristotle
+Stoics
+Pyrrhonists
+Scholasticism
+Ibn Rushd
+Ibn Khaldun
+Thomas Hobbes
+Gottfried Wilhelm Leibniz
+Johann Herder
+Ludwig Noiré
+Wilhelm von Humboldt
+Fritz Mauthner
+Paul Ricœur
+Ferdinand de Saussure
+Gottlob Frege
+Franz Boas
+Paul Tillich
+Edward Sapir
+Leonard Bloomfield
+Zhuangzi
+Henri Bergson
+Lev Vygotsky
+Ludwig Wittgenstein
+
+Philosophical Investigations
+Tractatus Logico-Philosophicus
+
+
+Bertrand Russell
+Rudolf Carnap
+Jacques Derrida
+
+Of Grammatology
+Limited Inc
+
+
+Benjamin Lee Whorf
+Gustav Bergmann
+J. L. Austin
+Noam Chomsky
+Hans-Georg Gadamer
+Saul Kripke
+A. J. Ayer
+G. E. M. Anscombe
+Jaakko Hintikka
+Michael Dummett
+Donald Davidson
+Roger Gibson
+Paul Grice
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Hilary Putnam
+David Lewis
+John Searle
+Joxe Azurmendi
+Scott Soames
+Stephen Yablo
+John Hawthorne
+Stephen Neale
+Paul Watzlawick
+
+
+
+
+
+Theories
+
+
+
+Causal theory of reference
+Contrast theory of meaning
+Contrastivism
+Conventionalism
+Cratylism
+Deconstruction
+Descriptivist theory of names
+Direct reference theory
+Dramatism
+Expressivism
+Linguistic determinism
+Logical atomism
+Logical positivism
+Mediated reference theory
+Nominalism
+Non-cognitivism
+Phallogocentrism
+Quietism
+Relevance theory
+Semantic externalism
+Semantic holism
+Structuralism
+Supposition theory
+Symbiosism
+Theological noncognitivism
+Theory of descriptions
+Verification theory
+
+
+
+
+
+Concepts
+
+
+
+Ambiguity
+Linguistic relativity
+Meaning
+Language
+Truth-bearer
+Proposition
+Use–mention distinction
+Concept
+Categories
+Set
+Class
+Intension
+Logical form
+Metalanguage
+Mental representation
+Principle of compositionality
+Property
+Sign
+Sense and reference
+Speech act
+Symbol
+Entity
+Sentence
+Statement
+more...
+
+
+
+
+
+Related articles
+
+
+
+Analytic philosophy
+Philosophy of information
+Philosophical logic
+Linguistics
+Pragmatics
+Rhetoric
+Semantics
+Formal semantics
+Semiotics
+
+
+
+
+
+
+
+
+Category
+Task Force
+Discussion
+
+
+
+
+
+
+
+
+
+
+Categories: Theories of languageDeterminismHidden categories: Pages using citations with accessdate and no URLArticles needing additional references from October 2013All articles needing additional referencesAll articles with vague or ambiguous timeVague or ambiguous time from October 2013All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from April 2014

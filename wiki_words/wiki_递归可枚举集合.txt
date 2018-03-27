@@ -1,0 +1,429 @@
+递归可枚举集合
+
+
+
+
+
+本条目已列出参考文献，但因为没有文内引注而使来源仍然不明。（2014年7月11日） 
+请通过加入合适的行内引用来改善这篇条目。 
+
+
+递归可枚举集合（英语：Recursively enumerable set）是可计算性理论或更狭义的递归论中的一个概念。可数集合S被称为是递归可枚举、计算可枚举的、半可判定的或可证明的，如果
+
+存在一个算法，只有当输入是S中的元素时，算法才会中止。
+
+或者等价的说，
+
+存在一个算法，可以将S中的成员枚举出来。也就是说该算法的输出就是 S 的成员列表: s1, s2, s3, ... 如果需要它可以永远运行下去。
+
+包含所有可递归枚举集合的复杂性类是 RE。
+共同的编程意义会暗示出如何转换一种算法到等价的另一种算法。第一种情况说明了为什么有时说半可判定的，而第二种情况说明了为什么叫计算可枚举的。
+
+
+
+目录
+
+
+1 定义
+2 等价定义
+3 注解
+4 例子
+5 性质
+6 引用
+
+
+
+定义[编辑]
+可数集合 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ 是递归可枚举的，如果存在一个偏可计算函数 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ 使得
+
+
+
+
+
+f
+(
+x
+)
+=
+
+{
+
+
+
+
+0
+
+
+
+
+if
+
+
+ 
+x
+∈
+S
+
+
+
+
+
+
+undef/does not halt
+
+
+ 
+
+
+
+
+if
+
+
+ 
+x
+∉
+S
+
+
+
+
+
+
+
+
+{\displaystyle f(x)=\left\{{\begin{matrix}0&{\mbox{if}}\ x\in S\\{\mbox{undef/does not halt}}\ &{\mbox{if}}\ x\notin S\end{matrix}}\right.}
+
+
+
+换句话说，
+
+
+
+S
+
+
+{\displaystyle S}
+
+ 是 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ 的域:
+
+
+
+
+
+
+d
+o
+m
+
+(
+f
+)
+=
+S
+
+
+{\displaystyle \mathrm {dom} (f)=S}
+
+
+
+(注意这是偏函数的域的两种可能意义之一，是在递归论中所偏好的定义域。参见在偏函数中的讨论。)
+集合 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ 被成为 co-递归可枚举的或 co-r.e.，如果 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ 的补集是递归可枚举的。
+等价定义[编辑]
+可数集合 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ 被叫做递归可枚举的，如果存在着一个偏可计算函数 
+
+
+
+f
+:⊆
+
+N
+
+→
+S
+
+
+{\displaystyle f:\subseteq \mathbb {N} \to S}
+
+，使得 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ 是 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ 的值域:
+
+
+
+
+
+
+r
+n
+g
+
+(
+f
+)
+=
+S
+
+
+{\displaystyle \mathrm {rng} (f)=S}
+
+
+
+
+
+
+
+f
+
+
+{\displaystyle f}
+
+ 被称为枚举函数，因为它关联上一个枚举上的次序(rank)到 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ 的每个元素。
+注解[编辑]
+因为邱奇-图灵论题声称可计算函数被图灵机和其他计算模型等价的定义，我们陈述定义为
+
+可数集合 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ 被称为递归可枚举的，如果有一个图灵机，在给定 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ 的一个元素作为输入的时候，总是停机，并在给定的输入不属于 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ 的时候永不停机。
+
+这也是递归可枚举集合的常见定义。
+例子[编辑]
+
+所有递归集合都是递归可枚举的，但不是所有递归可枚举集合都是递归的。
+递归可枚举语言是在形式语言的字母表上所有可能词的集合中的递归可枚举集合。
+Matiyasevich 定理声称所有丢番图集合都是递归可枚举的。
+简单集合是递归可枚举的但不是递归的。
+创造集合是递归可枚举的但不是递归的。
+生产集合不是递归可枚举的。
+对于偏可计算函数 
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+的哥德尔数
+
+
+
+i
+
+
+{\displaystyle i}
+
+，则集合 
+
+
+
+{
+⟨
+i
+,
+x
+⟩
+
+|
+
+
+ϕ
+
+i
+
+
+(
+x
+)
+↓
+}
+
+
+{\displaystyle \{\langle i,x\rangle |\phi _{i}(x)\downarrow \}}
+
+ (带有 
+
+
+
+⟨
+i
+,
+x
+⟩
+
+
+{\displaystyle \langle i,x\rangle }
+
+ 康拖尔配对函数) 是递归可枚举的。这个集合编码了停机问题，因为它描述了每个图灵机停机的输入参数。
+给定一个偏可计算函数
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+的哥德尔数
+
+
+
+x
+
+
+{\displaystyle x}
+
+，则集合 
+
+
+
+{
+
+⟨
+
+x
+,
+y
+,
+z
+
+⟩
+
+
+|
+
+
+ϕ
+
+x
+
+
+(
+y
+)
+=
+z
+}
+
+
+{\displaystyle \lbrace \left\langle x,y,z\right\rangle |\phi _{x}(y)=z\rbrace }
+
+ 是递归可枚举的。这个集合编码判定一个函数值的问题。
+
+性质[编辑]
+如果 A 和 B 是递归可枚举集合，则 A ∩ B、A ∪ B 和 A × B 是递归可枚举集合。集合 A 是递归集合，当且仅当 A 和 A 补集二者是递归可枚举集合。递归可枚举集合一个可计算函数下的原像是递归可枚举集合。
+引用[编辑]
+
+Rogers, H. The Theory of Recursive Functions and Effective Computability, MIT Press. ISBN 0-262-68052-1; ISBN 0-07-053522-1.
+Soare, R. Recursively enumerable sets and degrees. Perspectives in Mathematical Logic. Springer-Verlag, Berlin, 1987. ISBN 3-540-15299-7.
+Soare, Robert I. Recursively enumerable sets and degrees. Bull. Amer. Math. Soc. 84 (1978), no. 6, 1149–1181.
+
+
+
+
+
+分类：递归论计算理论隐藏分类：自2014年7月缺少注脚的条目含有英语的条目使用ISBN魔术链接的页面

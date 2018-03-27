@@ -1,0 +1,194 @@
+Self-report inventory
+
+
+Part of a series on
+
+
+Psychology
+
+
+
+
+
+
+
+Outline
+History
+Subfields
+
+
+
+
+
+
+Basic types
+
+
+Abnormal
+Behavioral genetics
+Biological
+Cognitive/Cognitivism
+Comparative
+Cross-cultural
+Cultural
+Differential
+Developmental
+Evolutionary
+Experimental
+Mathematical
+Neuropsychology
+Personality
+Positive
+Quantitative
+Social
+
+
+
+
+
+
+
+
+Applied psychology
+
+
+Applied behavior analysis
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Environmental
+Ergonomics
+Forensic
+Health
+Humanistic
+Industrial and organizational
+Legal
+Medical
+Military
+Music
+Occupational health
+Political
+Religion
+School
+Sport
+Traffic
+
+
+
+
+
+
+
+
+Lists
+
+
+Disciplines
+Organizations
+Psychologists
+Psychotherapies
+Publications
+Research methods
+Theories
+Timeline
+Topics
+
+
+
+
+
+
+
+
+ Psychology portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+A self-report inventory is a type of psychological test in which a person fills out a survey or questionnaire with or without the help of an investigator. Self-report inventories often ask direct questions about personal interests, values, symptoms, behaviors, and traits or personality types. Inventories are different from tests in that there is no objectively correct answer; responses are based on opinions and subjective perceptions. Most self-report inventories are brief and can be taken or administered within five to 15 minutes, although some, such as the Minnesota Multiphasic Personality Inventory (MMPI), can take several hours to fully complete. They are popular because they can be inexpensive to give and to score, and their scores can often show good reliability.
+There are three major approaches to developing self-report inventories: theory-guided, factor analysis, and criterion-keyed. Theory-guided inventories are constructed around a theory of personality or a prototype of a construct. Factor analysis uses statistical methods to organize groups of related items into subscales. Criterion-keyed inventories include questions that have been shown to statistically discriminate between a comparison group and a criterion group, such as people with clinical diagnoses of depression versus a control group.
+Items could use any of several formats: a Likert scale with ranked options, true-false, or forced choice, although other formats such as sentence completion or visual analog scales are possible. True-false involves questions that the individual denotes as either being true or false about themselves. Forced-choice is a set of statements that require the individual to choose one as being most representative of themselves.
+If the inventory includes items from different factors or constructs, the items can be mixed together or kept in groups. Sometimes the way people answer the item will change depending on the context offered by the neighboring items.
+
+
+
+Contents
+
+
+1 Personality inventories
+2 Problems
+3 Popular self-report inventories
+4 See also
+5 References
+
+
+
+Personality inventories[edit]
+Self-report personality inventories
+
+Personality assessment tests that include questions dealing with situations, symptoms, and feelings. Test-takers-are asked to indicate how well each item describes themselves or how much they agree with each item.
+
+Honesty of response may be the major problem with the self-report personality tests. Test questions are often transparent, and people can usually figure out how to respond to make themselves appear to possess whatever qualities they think the organization wants.
+Problems[edit]
+The biggest problem with self-report inventories is that patients may exaggerate symptoms in order to make their situation seem worse, or they may under-report the severity or frequency of symptoms in order to minimize their problems. For this reason, self-report inventories are more often used primarily for measuring levels of traits, or for symptom severity and change. Inventories should be used in isolation to diagnose a mental disorder. Clinical discretion is advised for all self-report inventories.
+Another issue is the social desirability bias, which can cause over-reporting of socially desirable and under-reporting of socially undesirable behaviors.
+Many personality tests, such as the MMPI or the MBTI add questions that are designed to make it difficult for a person to exaggerate traits and symptoms. However, these tests suffer from the inherent problems associated with personality theory and testing, in that personality is a fluid concept that can be difficult to define.
+Popular self-report inventories[edit]
+
+16 PF
+Beck Anxiety Inventory
+Beck Depression Inventory
+Beck Hopelessness Scale
+California Psychological Inventory
+Eysenck Personality Questionnaire
+Geriatric Depression Scale
+Hirschfeld Mood Disorder Questionnaire
+Kuder Occupational Interest Survey
+Major Depression Inventory
+Minnesota Multiphasic Personality Inventory
+Myers-Briggs Type Indicator
+Personality Inventory for Children-2
+Revised NEO Personality Inventory
+State-Trait Anxiety Inventory
+
+See also[edit]
+
+Self-report study
+Affect measures
+
+References[edit]
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (November 2014) (Learn how and when to remove this template message)
+
+
+
+
+Aiken, L. R. (2002) Psychological Testing and Assessment. New York: Allyn & Bacon
+Gregory, R. J. (2007) Psychological Testing: History, Principles, and Applications (5th ed.). Boston: Pearson Education
+Schultz, Sydney Ellen; Schultz, Duane P. (2005). Psychology and Work Today. New York: Prentice Hall. p. 116. ISBN 0-13-193212-8.
+
+
+
+
+
+Categories: Personality testsHidden categories: Articles lacking in-text citations from November 2014All articles lacking in-text citations

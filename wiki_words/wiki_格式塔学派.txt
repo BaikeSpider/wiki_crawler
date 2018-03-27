@@ -1,0 +1,303 @@
+格式塔学派
+
+
+心理学
+
+
+
+
+
+
+
+心理学大纲
+心理学史
+心理学的子领域（英语：Subfields of psychology）
+
+
+
+
+心理学基础（英语：Basic science (psychology)）
+
+
+
+
+
+异常心理学
+行为遗传学
+生物心理学
+认知心理学
+比较心理学
+跨文化心理学（英语：Cross-cultural psychology）
+文化心理学（英语：Cultural psychology）
+差异心理学（英语：Differential psychology）
+发展心理学
+演化心理学
+实验心理学
+数学心理学
+神经心理学
+人格心理学
+正面心理学
+定量心理学（英语：Quantitative psychology）
+社会心理学
+
+
+
+
+
+应用心理学
+
+
+
+
+
+应用行为分析
+临床心理学
+社区心理学
+消费行为
+咨商心理学
+批判社区心理学
+教育心理学
+环境心理学（英语：Environmental psychology）
+人因工程学
+法庭心理学
+健康心理学
+人本主义心理学
+工业与组织心理学
+本体解释学（英语：Ontological hermeneutics）
+法律心理学
+医学心理学（英语：Medical psychology）
+军事心理学（英语：Military psychology）
+音乐心理学（英语：Music psychology）
+职业健康心理学（英语：Occupational health psychology）
+政治心理学
+宗教心理学
+学校心理学（英语：School psychology）
+运动心理学
+交通心理学
+
+
+
+
+
+心理学列表
+
+
+
+
+
+心理学学科列表
+心理学组织列表（英语：List of psychology organizations）
+心理学家
+心理治疗列表（英语：List of psychotherapies）
+重要著作列表（英语：List of important publications in psychology）
+重要研究列表（英语：List of psychological research methods）
+心理学学派列表
+心理学的时间表（英语：Timeline of psychology）
+心理学文章索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+ 心理学主题  神经科学主题  医学主题  社会主题
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+格式塔学派（德语：Gestalttheorie）是心理学重要流派之一，兴起于20世纪初的德国，又称为完形心理学[1]。由马科斯·韦特墨（1880－1943）、沃尔夫冈·苛勒（1887－1967）和科特·考夫卡（1886－1941）三位德国心理学家在研究似动现象的基础上创立。格式塔是德文Gestalt的译音，意即“模式、形状、形式”等，意思是指“动态的整体（dynamic wholes）”。
+格式塔学派主张人脑的运作原理是整体的，“整体不同于其部件的总和”。例如，我们对一朵花的感知，并非纯粹单单从对花的形状、颜色、大小等感官资讯而来，还包括我们对花过去的经验和印象，加起来才是我们对一朵花的感知[2]。
+
+
+
+
+目录
+
+
+1 特征
+2 代表人物
+
+2.1 整体性
+2.2 具体化
+2.3 组织性
+2.4 恒常性
+
+
+3 起源
+4 理论框架和方法论
+5 蕴涵律
+6 参见
+7 参考文献
+8 外部链接
+
+
+
+特征[编辑]
+格式塔体系的关键特征是整体性、具体化、组织性和恒常性。
+代表人物[编辑]
+马科斯·韦特墨（1880－1943）、沃尔夫冈·苛勒（1887－1967）、科特·考夫卡（1886－1941）和库尔特·勒温（1890年9月9日－1947年2月12日）。
+整体性[编辑]
+整体性（integrity）的论据可见于“狗图片”的知觉，图片表现一条达尔马提亚狗在树荫下的地面上嗅。对狗的认知并不是首先确定它的各部分（脚、耳朵、鼻子、尾巴等等），并从这些组成部分来推断这是一条狗，而是立刻就将狗作为一个整体来认知。
+
+
+
+
+具体化
+
+
+具体化[编辑]
+具体化（Reification）是知觉的“建设性”的或“生成性的”方面，这种知觉经验，比起其所基于的感觉刺激，包括了更多外在的空间信息。例如，图形A可以被知觉为三角形，尽管在事实上并未画三角形。图形C可以被视为三维球体，事实上也没有画三维球体。
+
+
+
+
+组织性
+
+
+组织性[编辑]
+“组织性”（Multistability或“组织性知觉”multistable perception）是趋势模糊知觉经验，不稳定地在两个或两个以上不同解释之间往返。例如左图所示“内克尔立方体”和“鲁宾图/花瓶幻觉”。
+
+
+
+
+恒常性
+
+
+恒常性[编辑]
+恒常性（Invariance） 知觉认可的简单几何组件，形成独立的旋转，平移、大小以及其他一些变化（如弹性变形，不同的灯光和不同的组件功能）。例如图例'A'在图中都立即确认为相同的基本形式，立即有别于'B'的形式。在弹性变形的'C'，描绘时使用不同的图形元素，如'D'类。 产生“具体化”、“多重稳定性”、“不变性”和“不可分模块单独进行建模”，它们是不同方面的统一机制。
+起源[编辑]
+20世纪早期理论家，如考夫卡、韦特墨和苛勒（Carl Stumpf的学生）
+理论框架和方法论[编辑]
+有以下理论原则：
+
+总体原则
+
+
+
+心理物理学同型性原则
+
+
+方法论原则：
+
+现象实验分析
+生命实验 - 格式塔学派
+
+蕴涵律[编辑]
+格式塔学派最基本的规则是蕴涵律（Gesetz der Prägnanz），
+
+
+
+
+闭合律
+
+
+
+闭合律（Gesetz der Geschlossenheit）
+
+
+
+
+
+
+相似律
+
+
+
+相似律（Gesetz der Ähnlichkeit）
+
+
+
+
+
+接近律
+
+
+
+接近律（Gesetz der Nähe）
+
+
+
+
+
+
+连续律
+
+
+
+连续律（Gesetz der Kontinuität）
+
+
+
+参见[编辑]
+
+structural信息理论
+Wolfgang Metzger
+Kurt Goldstein
+Solomon Asch
+Fritz Perls
+格式塔therapy
+James Tenney
+Graz School
+格式塔心理学重要出版物
+视错觉
+
+参考文献[编辑]
+
+
+^ 心理学部落格-完形心理学. [2008-04-10]. [失效链接]
+^ Sternberg, R.J. (2006). Cognitive Psychology. Belmont, CA: Thomson Higher Education. ISBN 0-534-51421-9
+
+
+外部链接[编辑]
+
+格式塔心理学的知觉、阅读和解释 - Fiorenza Toccafondi
+Roy R. Behrens：艺术、设计和格式塔学派
+Roy R. Behrens: Rudolf Arnheim:The Little Owl on the Shoulder of Athene
+第14届国际格式塔学派大会，2005年2月，Graz（奥地利）
+格式塔心理学文献[失效链接]
+国际格式塔学派学会及其应用- GTA
+格式塔学派- 一份国际Multidisciplinary杂志
+格式塔学派心理学
+格式塔学派治疗网页
+格式塔学派疗法
+世界在你Head - Steven Lehar
+格式塔Isomorphism and the Primacy of Subjective Conscious Experience - Steven Lehar
+21世纪的新格式塔心理学
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4020725-0
+NDL: 00565401
+
+
+
+
+
+
+
+
+
+
+
+
+分类：知觉格式塔心理学辅导心理学隐藏分类：带有失效链接的条目条目有永久失效的外部链接使用ISBN魔术链接的页面包含规范控制信息的维基百科条目

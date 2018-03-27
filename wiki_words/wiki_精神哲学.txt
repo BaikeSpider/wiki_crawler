@@ -1,0 +1,1382 @@
+精神哲学
+
+
+
+
+
+本条目需要扩充。（2010年8月19日） 
+请协助改善这篇条目，更进一步的信息可能会在讨论页或扩充请求中找到。请在扩充条目后将此模板移除。 
+
+
+
+
+
+
+什么是心理? 颅相学试图回答此问题，认为心理功能与大脑各个部分的关系。
+
+
+心灵哲学（英语：philosophy of mind）或精神哲学是一个研究心灵、心理事件、心理功能、心理特性、意识以及它们与肉体（尤其是大脑）的关系的本质的哲学分支。虽然有很多有关心灵的课题都与肉体无关，但是大众总认为“心灵与肉体的关系”是核心的研究对象。[1]
+二元论与一元论是讨论“心灵与肉体的关系”最主要的两派思想。二元论可以追溯到西方的柏拉图[2]和亚里士多德[3]、东方古代印度哲学的瑜伽与数论派[4]，而现代最具代表的定义则是由17世纪勒奈·笛卡尔所给的。[5]实体二元论主张心灵是一种独立存在的实体，而性质二元论主张心灵是一组特性而非独特的实体，这些特性从大脑产生出来，而又不可还原为大脑本身。[6]
+一元论最早由西方的巴门尼德提出，一元论的现代定义由巴鲁赫·斯宾诺莎提出，主张在本体论的框架下心灵与肉体本来是一体的。在东方大致上类似的思想有印度教的婆罗门教和老子的道家。[7] 物理学家强调世上只有物质并由物理理论所解释，随着物理理论不断演进，最终将会能够解读心灵。唯心论者则认为世界上只有心灵存在，外在世界除了心灵，便是心灵所产生的幻觉。中立一元论者坚守一个立场，就是存在着一种中立的实体，物质与心灵都是这个实体的性质。在20世纪到21世纪，物理主义衍生了很多不同的思想，譬如行为主义、类型物理主义、无法则一元论（anomalous monism）和功能主义。[8]
+在认同心灵不能独立于物质存在的前提下，大部分现代心灵哲学家采纳还原物理主义或者非还原物理主义的立场。[8]这种手法在科学领域中有很大影响，特别是社会生物学、演化心理学及神经科学。[9][10][11][12]
+其他哲学家则采纳了非物理主义的立场，挑战物理主义认为心灵纯粹由物理方式构成的观念。还原物理主义的支持者坚称所有精神状态与特性最终可以由生理学过程与状态以科学方式解释。[13][14][15]非还原物理主义的支持者辩称，虽然脑袋是整个心灵的所在地，用于精神描述和解释的谓词和词汇是不可缺少的，但并不能简约为语言和物理学中较低级别的解释。[16][17]神经科学的发展帮助了人类弄清部分问题。可是，他们与答案之间还有很远的距离，现代心灵哲学家继续以自然主义的方式为精神状态与特质中的主观质素与意向找寻答案。[18][19]
+
+
+
+目录
+
+
+1 心灵与身体的问题
+2 二元论的解答
+
+2.1 二元论的争议
+2.2 相互作用二元论
+2.3 二元论的其他形式
+
+
+3 精神–身体问题的一元论解答
+
+3.1 行为主义
+3.2 同一理论
+3.3 机能主义
+3.4 非化约物理主义
+
+
+4 精神–身体问题的语言学批评
+5 自然主义及其问题
+
+5.1 感质
+5.2 意图
+
+
+6 精神哲学与科学
+
+6.1 神经生物学
+6.2 计算机科学
+6.3 心理学
+
+
+7 欧陆传统的精神哲学
+8 精神哲学的后果
+
+8.1 自由意志
+8.2 自我
+
+
+9 参见
+10 参考和注释
+11 延伸阅读
+
+11.1 入门书籍
+11.2 其他
+
+
+12 外部链接
+
+
+
+心灵与身体的问题[编辑]
+心灵与肉体之间的最主要的问题是解释心灵或心理过程与身体状态或过程之间关系的问题。这对我们所有人来说都是可证明的，例如，我们的五种感觉(视觉、听觉、味觉、嗅觉、触觉）是取决于刺激，这些刺激从外部世界通过我们不同感觉器官抵达大脑，并且改变了大脑的状态，最后最主要的是使我们感受到一种快乐或者不快乐。
+譬如，当某人渴求一片披萨的时候，这种欲望可能使他的身体向某种状态移动，直到他得到了他想要的东西。问题就是，这些意识经验怎样从大脑灰色神经组织的电化学物质产生出来？[8]同样，某个人的信念和欲望是如何促使他的神经细胞发放信息，并且使他的肌肉在完全正确的情况下运作的呢？至少自从笛卡儿以来，这便是一些主要的困扰著认识论学者与心灵哲学家的迷题。[5]
+二元论的解答[编辑]
+心物二元论是探讨精神和物质关系的理论，其宣称一般精神现象在某方面是指非物理现象。[6]心物二元论的首次展述可以追溯到公元前650年印度哲学的数论学派与瑜珈，他们认为世界被划分为灵魂（Purusha）与自性（prakrti）。[4]特别是波颠阇利的瑜珈经典展示了对心灵本质的分析。
+在西方的哲学，早期关于二元论的讨论见于柏拉图与亚里士多德的著作中。[2][20]可是，最多人认识的二元论则是笛卡儿的版本，其主张心灵不是物质。[5]笛卡儿是首位清晰地辨识到伴随心灵的意识与自我意识，并且指出大脑是智慧的所在地。他是首位能够清楚陈述心灵与肉体的问题。这个表达方式仍然被使用至今。[5]
+二元论的争议[编辑]
+二元论的主要争议对大部分未受哲学训练的人来说是直觉是常识。当被问及心灵是什么的时候，一般人会以自我、人格、灵魂来表达答案。他们都不认为心灵就是脑袋，并觉得只是玩弄本体论中的某个东西。[6]大部分现代的心灵哲学家这些直觉像其他的容易产生误会，应该利用我们吹毛求疵的能力，配合来自科学的完全可经验的证明，来检查一下这些假设，是否有真凭实据。[6]
+其他非常重要的支持二元论的论调就是心灵与物质看似拥有非常不一样，甚至互相矛盾的特质。[21]对于它们来说，心理事件有着一些主观质素，而物理学事件则明显没有。譬如，被烧伤的手指感觉到什么？蓝色的天空看来像怎样？优美的音乐是怎样的？心灵哲学家把它们称呼为心理事件的主观面貌－感质（qualia）。[21]譬如痛楚的感觉等等，常常在心理事件中发现感质。这些感质难以被简单化为其他物理学性质。[22]
+相互作用二元论[编辑]
+
+
+
+
+在1648年，由法兰斯·哈尔斯所画的勒奈·笛卡尔的画像
+
+
+相互作用二元论，或简称相互作用主义，是二元论的特殊形式
+二元论的其他形式[编辑]
+
+
+
+
+二元论的三个派别。箭号表示了因果关系。未有显示性质二元论。
+
+
+精神–身体问题的一元论解答[编辑]
+
+
+
+
+斯宾诺莎
+
+
+一元论与二元论相反，提倡只有一种基本物质。今天几乎西方哲学一元论的所有形式都是物理主义。[8]
+行为主义[编辑]
+同一理论[编辑]
+机能主义[编辑]
+非化约物理主义[编辑]
+精神–身体问题的语言学批评[编辑]
+自然主义及其问题[编辑]
+物理主义的论点是精神是物质（或物理）世界的一部分。
+感质[编辑]
+主条目：感质
+很多精神状态都拥有由不同的个体以不同的方式主观地经验得到的性质。[22]
+意图[编辑]
+
+
+
+
+John Searle - 最有影响的精神哲学家之一（Berkeley 2002）
+
+
+精神哲学与科学[编辑]
+神经生物学[编辑]
+生物学的理论背景，大体上与现代自然科学一样，基本上是唯物主义的。物理过程被认为是精神活动和行为的基础。
+计算机科学[编辑]
+心理学[编辑]
+欧陆传统的精神哲学[编辑]
+在黑格尔的《精神现象学》中，讨论了3种不同的精神类型：“主观精神”（个体精神）、“客观精神”（社会、国家精神）和“绝对精神”（所有概念的统一体）.[23]
+在现代，现象学和存在主义是在回应或者反对这种黑格尔传统的过程中发展起来的两个主要学派。现象学，由胡塞尔创立，它关注的焦点是人类心智的概念以及现象性逻辑如何塑造我们的经验。[24]存在主义，是萨特领军的一个学派，它关注经验的内容以及精神与这些经验的关系。[25]
+Ron McClamrock尽管不很出名，但是确实一个重要的精神哲学和认知科学家，他试图综合这两种传统。从Herbert Simon处取经，并且也受诸如Maurice Merleau-Ponty和Martin Heidegger的存在主义现象学观念的影响, McClamrock提出，通过抽离它，甚至把它当作是一个分离的经验性物体一样来检视，在其中他自己已经不是一个综合体，人的生存条件使他不可能这样来理解自己。[26]-->
+精神哲学的后果[编辑]
+自由意志[编辑]
+自我[编辑]
+参见[编辑]
+
+认知科学
+
+参考和注释[编辑]
+
+
+^ Kim, J., "精神哲学的问题". 牛津Companion to哲学. Ted Honderich（ed.）牛津大学出版社. 1995.
+^ 2.0 2.1 Plato. Phaedo.  ed. E.A. Duke, W.F. Hicken, W.S.M. Nicoll, D.B. Robinson and J.C.G. Strachan, Oxford: Clarendon Press, 1995.
+^ 亚里斯多德（前4世纪中叶）论灵魂, ed. R.D. Hicks，剑桥大学出版社，1907; Books II-III trans. D.W. Hamlyn, Clarendon Aristotle Series,牛津大学出版社, 1968.
+^ 4.0 4.1 Sri Swami Sivananda. Sankhya:印度哲学：The Sankhya. （原始内容存档于2006-05-15）. 
+^ 5.0 5.1 5.2 5.3 Descartes, René. Discourse on Method and Meditations on First Philosophy. Hacket Publishing Company. ISBN 978-0-87220-421-8. 
+^ 6.0 6.1 6.2 6.3 Hart, W.D.（1996）"Dualism", in Samuel Guttenplan (org) A Companion to the Philosophy of Mind, Blackwell, Oxford, 265-7.
+^ 斯宾诺莎（1670）Tractatus Theologico-Politicus（A Theologico-Political Treatise）.
+^ 8.0 8.1 8.2 8.3 Kim, J., "Mind-Body Problem", Oxford Companion to Philosophy. Ted Honderich（ed.）. Oxford:Oxford University Press. 1995.
+^ Pinel, J. Psychobiology,（1990）Prentice Hall, Inc. ISBN 978-88-15-07174-3
+^ LeDoux, J.（2002）The Synaptic Self: How Our Brains Become Who We Are, New York:Viking Penguin. ISBN 978-88-7078-795-5
+^ Russell, S. and Norvig, P. Artificial Intelligence: A Modern Approach, New Jersey:Prentice Hall. ISBN 978-0-13-103805-9
+^ Dawkins, R. The Selfish Gene（1976）Oxford:Oxford University Press. ISBN
+^ Churchland, Patricia. Neurophilosophy: Toward a Unified Science of the Mind-Brain.. MIT Press. 1986. ISBN 0-262-03116-7. 
+^ Churchland, Paul. Eliminative Materialism and the Propositional Attitudes. Journal of Philosophy. 1981, 78: 67–90. doi:10.2307/2025900. 
+^ Smart, J.J.C. Sensations and Brain Processes. Philosophical Review. 1956. 
+^ Donald Davidson. Essays on Actions and Events. Oxford University Press. 1980. ISBN 0-19-924627-0. 
+^ Putnam, Hilary (1967). "Psychological Predicates", in W. H. Capitan and D. D. Merrill, eds., Art, Mind and Religion（Pittsburgh: University of Pittsburgh Press.
+^ Dennett, Daniel. The intentional stance. Cambridge, Mass.: MIT Press. 1998. ISBN 0-262-54053-3. 
+^ Searle, John. Intentionality. A Paper on the Philosophy of Mind. Frankfurt a. M.: Nachdr. Suhrkamp. 2001. ISBN 3-518-28556-4. 
+^ Robinson, H.（1983）: "Aristotelian dualism", Oxford Studies in Ancient Philosophy 1, 123–44.
+^ 21.0 21.1 Jackson, F.（1982）“Epiphenomenal Qualia.” Reprinted in Chalmers, David ed. :2002. 心理哲学：Classical and Contemporary Readings.牛津大学出版社.
+^ 22.0 22.1 Nagel, T. What is it like to be a bat?. Philosophy Review. 1974., (83): 435–456.  请检查|date=中的日期值 (帮助)
+^ Hegel,G.W.F. 精神现象学. , A.V. Miller译with analysis of the text and foreword by J. N. Findlay（Oxford: Clarendon Press, 1977）ISBN 978-0-19-824597-1.
+^ 胡塞尔. Logische Untersuchungen.  trans.: Giovanni Piana. Milan: EST. ISBN 978-88-428-0949-4
+^ Flynn, Thomas, "Jean-Paul Sartre". The Stanford Encyclopedia of Philosophy Summer 2004. Edward N. Zalta（ed.）. 
+^ McClamrock, Ron. Existential Cognition: Computational Minds in the World. 芝加哥: 芝加哥大学出版社. 1995. 
+
+
+延伸阅读[编辑]
+入门书籍[编辑]
+
+（英文） S. Priest, Theories of the Mind, Penguin Books, 1991
+（英文） J. Searle,. Mind: A Brief Introduction. Oxford University Press Inc, USA. ISBN 978-0-19-515733-8
+（日文）信原幸弘‘考える脳・考えない脳―心と知识の哲学’（讲谈社现代新书、2000年ISBN 978-4-06-149525-8）
+
+其他[编辑]
+
+高新民，储昭华. 《心灵哲学》. 商务印书馆. 2002. ISBN 9787100033237 （中文（中国大陆）‎）. 
+Lowe, E. J. An Introduction to the Philosophy of Mind. Cambridge: Cambridge University Press,. 2000 （英语）. 
+Braddon-Mitchell, David and Jackson, Frank. Philosophy of Mind and Cognition. Oxford: Blackwell. 1996 （英语）. 
+Graham, George. Philosophy of Mind - An Introduction 2nd. Oxford: Blackwell. 1998 （英语）. 
+Guttenplan, Samuel (编). A Companion to the Philosophy of Mind. Oxford: Blackwell. 1994 （英语）. 
+Lycon, William G. (编). Mind and Cognition 2nd. Oxford: Blackwell. 1999 （英语）. 
+Ansgar Beckermann. Das Leib-Seele-Problem. Eine Einführung in die Philosophie des Geistes. München: UTB: Wilhelm Fink. 2008. ISBN 978-3-8252-2983-2 （德语）. 
+Friedrich Hermanni, Thomas Buchheim (编). Das Leib-Seele-Problem. Antwortversuche aus medizinisch-naturwissenschaftlicher, philosophischer und theologischer Sicht. München: Wilhem Fink. 2006. ISBN 978-3-7705-4279-6 （德语）. 
+Jaegwon Kim. Philosophie des Geistes. Wien u. a.: Springer. 1998. ISBN 3-211-83043-X （德语）. 
+Carsten Könneker (编). Wer erklärt den Menschen? Hirnforscher, Psychologen und Philosophen im Dialog. Frankfurt/Main: Fischer TB. 2006. ISBN 3-596-17331-0 （德语）. 
+Thomas Metzinger. Bewusstsein. Paderborn: mentis. 2006. ISBN 3-897-85551-8 （德语）. 
+Thomas Metzinger. Das Leib-Seele-Problem. Paderborn: mentis. 2007. ISBN 3-897-85552-6 （德语）. 
+Michael Pauen. Grundprobleme der Philosophie des Geistes. Eine Einführung. Frankfurt/Main: Fischer. 2005. ISBN 978-3-596-14568-3 （德语）. 
+Arno Ros. Materie und Geist: Eine philosophische Untersuchung. Paderborn: mentis. 2005. ISBN 3-89785-397-3 （德语）. 
+Jürgen Schröder. Einführung in die Philosophie des Geistes. Frankfurt/Main: Suhrkamp. 2004. ISBN 3-518-29271-4 （德语）. 
+Erwin Schrödinger. Geist und Materie. Wien: Zsolnay. 1986. ISBN 3-552-03810-8 （德语）. 
+John Searle. Geist. Eine Einführung. Frankfurt/Main: Suhrkamp. 2006. ISBN 3-518-58472-3 （德语）. 
+Zur Zukunft der Philosophie des Geistes. Paderborn: mentis. 2008. ISBN 978-3-89785-611-0 （德语）. 
+Dieter Sturma. Philosophie des Geistes. Leipzig: Reclam. 2005. ISBN 3-379-20122-7 （德语）. 
+Dieter Teichert. Einführung in die Philosophie des Geistes. Darmstadt: Wissenschaftliche Buchgesellschaft. 2006. ISBN 3-534-15463-0 （德语）. 
+
+外部链接[编辑]
+
+（英文） 精神哲学指南, compiled by David Chalmers.
+（英文） Contemporary精神哲学：An Annotated Bibliography, compiled by David Chalmers.
+（英文） 精神哲学辞典，Chris Eliasmith编。
+（英文） An Introduction to精神哲学, by Paul Newall, aimed at beginners.
+（英文） Hyponoesis
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+科学哲学
+
+
+
+
+
+
+概念
+
+
+
+分析
+分析-综合区别
+先验
+因果
+可公度性
+构想（英语：Construct (philosophy)）
+划界问题
+解释力（英语：Explanatory power）
+事实
+可证伪性
+我们现在不知道，将来也不知道
+归纳推理
+智巧（英语：Ingenuity）
+探究（英语：Inquiry）
+科学探究模型（英语：Models of scientific inquiry）
+本性（英语：Nature (philosophy)）
+客观性
+观察
+范式
+归纳问题（英语：Problem of induction）
+科学解释（英语：Models of scientific inquiry）
+定律
+科学方法
+科学革命
+科学理论
+可测试性
+选择理论
+
+
+
+
+
+
+
+
+科学元理论
+
+
+
+验证整体论（英语：Confirmation holism）
+真理融贯论
+语境主义（英语：Contextualism）
+传统主义（英语：Conventionalism）
+演绎的法则的（英语：Deductive-nomological model）
+实证主义-还原论-决定论
+可谬论
+基础主义（英语：Foundationalism）
+假设－演绎模型（英语：Hypothetico-deductive model）
+无限主义（英语：Infinitism）
+工具主义
+实用主义
+理性主义 / 经验主义
+科学理论的接受观（英语：Received view of theories） / 语义观（英语：Semantic view of theories）
+科学实在论 / 反实在论（英语：Anti-realism）
+科学主义
+自然主义
+怀疑论
+均变论
+活力论
+
+
+
+
+
+
+
+
+科学哲学
+相关条目
+
+
+
+知识论
+科学哲学史（英语：History and philosophy of science）
+科学史
+物理哲学
+热力学和统计物理哲学（英语：Philosophy of thermal and statistical physics）
+化学哲学
+生物哲学
+演化思想史
+环境哲学
+时间和空间哲学（英语：Philosophy of space and time）
+神经科学哲学（英语：Neurophilosophy）
+精神哲学
+心理学哲学（英语：Philosophy of psychology）
+感知哲学（英语：Philosophy of perception）
+人工智能哲学
+计算机科学哲学（英语：Philosophy of computer science）
+信息哲学
+技术哲学（英语：Philosophy of technology）
+社会科学哲学（英语：Philosophy of social science）
+伪科学
+宗教与科学
+科学修辞学（英语：Rhetoric of science）
+科学知识社会学（英语：Sociology of scientific knowledge）
+更多...（英语：Index of philosophy of science articles）
+
+
+
+
+
+
+
+
+科学哲学家
+
+
+
+
+
+古典时期
+
+
+
+
+柏拉图
+亚里士多德
+伊壁鸠鲁
+斯多亚学派
+
+
+
+
+
+
+
+
+
+中世纪
+
+
+
+
+圣维克多的休
+罗吉尔·培根
+伊本·鲁世德
+多明尼库斯·贡狄萨利奴斯（英语：Dominicus Gundissalinus）
+罗伯特·基尔沃比（英语：Robert Kilwardby）
+奥卡姆的威廉
+
+
+
+
+
+
+
+
+
+近代
+
+
+
+
+弗兰西斯·培根
+皮埃尔·伽桑狄
+勒内·笛卡尔
+伽利略·伽利莱
+托马斯·霍布斯
+艾萨克·牛顿
+
+
+
+
+
+
+
+
+
+18~19世纪
+
+
+
+
+伊曼努尔·康德
+弗里德里希·谢林
+威廉·维赫维尔
+奥古斯特·孔德
+约翰·斯图尔特·密尔
+赫伯特·斯宾塞
+威廉·冯特
+查尔斯·桑德斯·皮尔士
+威廉·文德尔班
+儒勒·昂利·庞加莱
+皮埃尔·迪昂
+鲁道夫·斯坦纳
+卡尔·皮尔逊
+
+
+
+
+
+
+
+
+
+科学哲学创立
+
+
+
+
+卡尔·波普尔
+查理·邓巴·博尔德（英语：C. D. Broad）
+阿尔伯特·爱因斯坦
+托马斯·库恩
+拉卡托什·伊姆雷
+
+
+
+
+
+
+
+
+
+其他
+现代哲学家
+
+
+
+
+分析哲学：阿尔弗雷德·诺思·怀特黑德
+伯特兰·罗素
+卡尔·古斯塔夫·亨普尔（英语：Carl Gustav Hempel）
+威拉德·冯·奥曼·蒯因
+精神哲学：奥图·纽拉特
+鲁道夫·卡尔纳普
+尤尔根·哈贝马斯
+其他：保罗·费耶阿本德
+丹尼尔·丹尼特
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+主题
+分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+精神哲学
+
+
+
+
+
+
+精神哲学家
+
+
+
+约翰·奥斯丁
+阿奎那
+安斯康姆
+贝恩（英语：Alexander Bain）
+亨利·柏格森
+斯瑞·奥罗宾多
+巴塔查亚（英语：Krishna Chandra Bhattacharya）
+内德·布洛克
+博若德
+丹尼尔·丹尼特
+法称
+海瑞得斯‧邱独利
+唐纳德·戴维森
+勒内·笛卡儿
+阿尔文·戈德尔曼
+马丁·海德格尔
+埃德蒙德·胡塞尔
+威廉·詹姆士
+索伦·奥贝·克尔凯郭尔
+戈特弗里德·莱布尼茨
+莫里斯·梅洛-庞蒂
+马文·闵斯基
+乔治·爱德华·摩尔
+汤玛斯·内格尔
+卡尔·波普尔
+理查德·罗蒂
+吉伯特‧赖尔
+约翰·罗杰斯·希尔勒
+巴鲁赫·斯宾诺莎
+艾伦·图灵
+世亲
+路德维希·维特根斯坦
+更多...
+
+
+
+
+
+
+
+
+理论
+
+
+
+行动主义
+生物自然主义（英语：Biological naturalism）
+取消唯物论（英语：Eliminative materialism）
+显现唯物论
+副现象论（英语：Epiphenomenalism）
+功能主义 (精神哲学)（英语：Functionalism (philosophy of mind)）
+物理主义
+同一论（英语：Type physicalism）
+互动论
+唯物主义
+一元论
+素朴实在论
+中性一元论
+二元论
+心身二分问题
+心物二元论
+现象主义
+现象学 （存在主义现象学（英语：Existential phenomenology））
+性质二元论
+实用主义
+表征式心理论
+唯我论
+
+
+
+
+
+
+
+
+概念
+
+
+
+概念论
+Proof of concept
+概念验证
+抽象对象
+人工智能
+中文房间
+认知
+概念
+Concept and object
+意识
+想法
+辨别
+创造力
+智力
+意向性
+内省
+直觉
+心语
+唯物主义
+心智事件
+心像
+心智历程
+Mental property
+心智表征
+心灵
+心身二分法
+疼痛 (哲学)（英语：Pain (philosophy)）
+他心问题
+命题态度
+感质
+白板
+理解
+哲学僵尸
+更多...
+
+
+
+
+
+
+
+
+相关条目
+
+
+
+形而上学
+人工智能哲学
+信息哲学
+Philosophy of perception
+Philosophy of self
+
+
+
+
+
+
+
+
+
+
+
+主题
+分类
+ 专题
+历史
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+哲学
+
+
+
+
+
+
+
+
+
+
+ 
+分支（形而上学 · 知识论 · 逻辑学 · 伦理学 · 美学）
+
+
+
+
+
+
+哲学与...
+
+
+
+行动
+艺术
+
+文化（英语：Philosophy_of_culture）
+设计
+音乐（英语：Philosophy_of_music）
+电影（英语：Philosophy_of_film）
+
+
+存在
+商业（英语：Philosophy_of_business）
+对话（英语：Philosophy_of_dialogue）
+教育
+环境
+医疗（英语：Philosophy of healthcare）
+历史
+人性
+幽默（英语：Theories_of_humor）
+语言
+文学
+数学
+精神
+
+痛苦（英语：Pain_(philosophy)）
+心理学（英语：Philosophy_of_psychology）
+神经哲学（英语：Neurophilosophy）
+
+
+哲学
+宗教
+科学
+
+物理
+化学
+生物
+地理
+
+
+性（英语：Philosophy_of_sex）
+社会科学（英语：Philosophy_of_social_science）
+
+经济
+公正
+法律
+政治
+社会
+
+
+时空（英语：Philosophy_of_space_and_time）
+技术（英语：Philosophy_of_technology）
+
+计算机（英语：Philosophy_of_computer_science）
+工程（英语：Philosophy_of_engineering）
+情报
+
+
+战争（英语：Philosophy_of_war）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+哲学学派
+
+
+
+
+
+
+哲学史
+
+
+
+西方
+古典
+中世纪
+文艺复兴（英语：Renaissance_philosophy）
+近代（巴洛克时期 · 启蒙时代 · 19世纪）
+当代
+东方
+
+
+
+
+
+
+
+
+古典
+
+
+
+
+中国
+
+
+
+儒家
+法家
+名家
+墨家
+魏晋玄学
+道家
+杨朱
+禅宗
+
+
+
+
+
+
+
+
+希腊-罗马（英语：Hellenistic_philosophy）
+
+
+
+前苏格拉底
+毕达哥拉斯主义
+诡辩学派
+柏拉图主义
+亚里斯多德主义（逍遥学派）
+犬儒学派
+伊比鸠鲁学派
+斯多亚学派
+新柏拉图主义
+解释学
+
+
+
+
+
+
+
+
+印度
+
+
+
+佛教（英语：Buddhist_philosophy）
+顺世论
+印度教（英语：Hindu_philosophy）
+耆那教（英语：Jain_philosophy）
+
+
+
+
+
+
+
+
+波斯（英语：Iranian philosophy）
+
+
+
+玛兹达教（英语：Mazdak#Mazdakism）
+祆教
+楚尔凡教义（英语：Zurvanism）
+
+
+
+
+
+
+
+
+
+
+
+中世纪
+9 – 16
+世纪
+
+
+
+
+
+基督欧洲
+
+
+
+经院哲学
+人文主义
+托马斯主义（阿奎那）
+
+
+
+
+
+
+
+
+东亚
+
+
+
+宋明理学（程朱理学 · 陆王心学 · 事功学派）
+韩国儒学
+日本朱子学
+
+
+
+
+
+
+
+
+印度
+
+
+
+新逻辑学派(印度哲学)（英语：Navya-Nyāya）
+有保留的非二元论（英语：Vishishtadvaita）
+二元论（英语：Dvaita）
+
+
+
+
+
+
+
+
+伊斯兰
+
+
+
+阿威罗伊主义（英语：Averroism）
+阿维森纳
+照明主义（英语：Illuminationism）
+伊斯兰教义学
+苏菲主义（英语：Sufi_philosophy）
+
+
+
+
+
+
+
+
+犹太教
+
+
+
+犹太-伊斯兰（英语：Judeo-Islamic philosophies (800–1400)）
+
+
+
+
+
+
+
+
+
+
+
+近代
+17 – 19
+世纪
+
+
+
+
+
+人物
+
+
+
+新托马斯主义
+笛卡尔主义
+康德主义
+新康德主义
+黑格尔主义（英语：Hegelianism）
+马克思主义哲学
+
+
+
+
+
+
+
+
+唯物-唯心
+
+
+
+辩证唯物主义
+唯心主义
+绝对唯心论（英语：Absolute_idealism）
+理性主义
+经验主义
+效益主义
+实用主义
+
+
+
+
+
+
+
+
+其他
+
+
+
+自由主义
+无政府主义
+现代主义
+现象学
+超验主义
+存在主义
+日本国学
+新儒家
+
+
+
+
+
+
+
+
+
+
+
+当代
+20 – 21
+世纪
+
+
+
+
+
+分析
+
+
+
+分析女性主义（英语：Analytical_feminism）
+结果论
+实验哲学
+内在主义与外在主义（英语：Internalism_and_externalism）
+证伪主义
+基础主义（英语：Foundationalism） 和 真理融贯论
+逻辑实证主义
+法律实证主义
+蒯因的自然主义（英语：Naturalized_epistemology）
+日常语言哲学
+寂静主义
+罗尔斯主义
+改革宗知识论（英语：Reformed epistemology）
+后分析哲学（英语：Postanalytic_philosophy）
+效益主义
+新亚里士多德主义
+维也纳学派
+维特根斯坦
+
+
+
+
+
+
+
+
+欧陆
+
+
+
+批判理论
+解构主义
+存在主义
+女性主义（英语：Feminist_philosophy）
+法兰克福学派
+后现代主义（英语：Postmodern_philosophy）
+后结构主义
+社会建构主义
+结构主义
+
+
+
+
+
+
+
+
+其他
+
+
+
+京都学派
+俄国宇宙主义（英语：Russian_cosmism）
+更多
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+领域
+
+
+
+
+
+
+美学
+
+
+
+形式主义
+Institutionalism（英语：Institutional theory of art）
+Aesthetic response（英语：Aesthetic emotions）
+
+
+
+
+
+
+
+
+伦理学
+
+
+
+相容论
+义务伦理学
+德性伦理学
+
+
+
+
+
+
+
+
+自由意志
+
+
+
+结果论
+决定论
+自由意志主义（英语：Libertarianism_(metaphysics)）
+
+
+
+
+
+
+
+
+形而上学
+
+
+
+原子论
+二元论
+一元论
+自然主义
+
+
+
+
+
+
+
+
+知识论
+
+
+
+建构主义（英语：Constructivist epistemology）
+经验主义
+唯心主义（英语：Epistemological idealism）
+特殊主义（英语：Epistemological particularism）
+信仰主义
+理性主义/Reasonism（英语：Reasonism）
+怀疑论（英语：Philosophical_skepticism#Epistemology_and_skepticism）
+唯我论
+
+
+
+
+
+
+
+
+精神
+
+
+
+行为主义
+取消主义（英语：Eliminative materialism）
+副现象论（英语：Epiphenomenalism）
+机能主义（英语：Functionalism_(philosophy_of_mind)）
+客观主义
+主观主义
+
+
+
+
+
+
+
+
+规范性（英语：Norm (philosophy)）
+
+
+
+绝对主义
+特殊主义（英语：Moral_particularism）
+相对主义
+虚无主义
+怀疑主义
+普遍主义
+
+
+
+
+
+
+
+
+本体论
+
+
+
+行动
+事件
+过程哲学（英语：Process philosophy）
+
+
+
+
+
+
+
+
+现实
+
+
+
+反实在论（英语：Anti-realism）
+概念论
+唯心主义
+唯物主义
+自然主义
+唯名论
+实在论
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+各地区哲学
+哲学相关列表
+
+
+
+
+
+
+
+
+
+各地区哲学
+
+
+
+非洲（埃塞俄比亚（英语：Ethiopian_philosophy））
+阿兹特克（英语：Aztec_philosophy）
+东方（中国 · 日本 · 朝韩（英语：Korean_philosophy） · 台湾 · 印度 · 伊朗（英语：Iranian philosophy） · 印尼（英语：Indonesian_philosophy） · 巴基斯坦（英语：Pakistani_philosophy））
+西方（美国（英语：American_philosophy） · 英国（英语：British_philosophy） · 丹麦（英语：Danish_philosophy） · 法国（英语：French_philosophy） · 德国 · 希腊 · 意大利（英语：Italian_philosophy） · 波兰（英语：Polish_philosophy） · 罗马尼亚（英语：Romanian_philosophy） · 俄国（英语：Russian_philosophy） · 斯洛文尼亚（英语：Slovene_philosophy））
+
+
+
+
+
+
+
+
+列表
+
+
+
+概要
+索引
+问题
+学派
+词汇表
+哲学概念列表
+哲学家
+运动
+出版物
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+主题
+分类
+专题
+最近更改
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4248301-3
+
+
+
+
+
+
+
+
+
+
+
+
+分类：心灵哲学心理学涌现隐藏分类：引文格式1错误：日期使用ISBN魔术链接的页面调用重复模板参数的页面自2010年8月扩充中的条目CS1英语来源 (en)CS1德语来源 (de)包含规范控制信息的维基百科条目

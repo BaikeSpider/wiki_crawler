@@ -1,0 +1,808 @@
+任天堂DS
+
+
+“NDS”重定向至此。关于“NDS”的其他意思，详见“NDS (消歧义)”。
+
+
+
+
+关于对整个任天堂DS家族的介绍，请见“任天堂DS家系”。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nintendo Dual Screen
+
+
+
+
+
+
+
+制造商
+任天堂
+
+
+型式
+掌上型游戏机
+
+
+世代
+第六世代
+
+
+产品生命周期
+
+
+
+北美：2004年11月21日
+日本：2004年12月2日
+台湾：2004年12月13日
+韩国：2004年12月29日
+澳洲：2005年2月24日
+欧洲：2005年3月11日
+大陆：2005年7月23日
+
+
+
+
+
+销售台数
+1亿5,402万部[1]
+
+
+媒体
+Nintendo DS专用卡带
+GBA专用卡带
+
+
+在线服务
+Wi-Fi
+
+
+最畅销游戏
+新超级马里奥兄弟（3,080万套）[2]
+
+
+向下兼容
+Game Boy Advance
+
+
+前代机种
+Game Boy Advance系列
+
+
+后继机种
+任天堂DS系列：任天堂DS Lite
+次世代机种：任天堂3DS
+
+
+任天堂DS（日语：ニンテンドーDS，英语：Nintendo DS，官方简称DS，中文圈民间简称NDS）是日本电玩游戏商任天堂公司开发的第三代掌上游戏机。DS是Dual Screen（双屏幕）的缩写。主要的特征包括双屏幕显示，其中下方的屏幕为触摸屏；并配置有麦克风声音输入装置和Wi-Fi无线网络功能。
+任天堂DS在北美地区于2004年11月21日发售，12月2日日本上市。台湾于12月13日正式发售。[3]而欧洲在2005年3月11日发售。中国大陆由神游科技使用“iQue DS（iDS）”的名称推出，于2005年7月23日发售。
+任天堂DS推出过三款改良机型，依时间顺序分别为任天堂DS Lite、任天堂DSi、任天堂DSi LL。
+在2006年7月底，任天堂正式宣布DS主机的日本销量突破1000万大关，为日本电玩史上销售最快的主机。截至2009年3月6日NDS主机在全球的累计销量突破1亿台。2004年11月21日问世的NDS主机用时4年3个月零2周的时间达到了1亿台的销售成绩，创造了家用游戏机史上的最快纪录。 截止2011年11月5日世界累计销量1.5亿台，即一星期平均销售约40万部。[4]打破同公司生产的GameBoy（约1.18亿部）的销量纪录，成为全世界最高销量的掌上型游戏机。
+任天堂DS的下一代掌机为任天堂3DS。
+
+
+
+目录
+
+
+1 特性
+
+1.1 双屏幕
+1.2 触摸屏
+1.3 声音识别
+1.4 网络通信
+1.5 无线通信
+1.6 双卡带插槽
+
+
+2 技术规格
+3 主机颜色
+4 改良机型
+
+4.1 任天堂DS Lite
+4.2 任天堂DSi
+4.3 任天堂DSi LL/XL
+
+
+5 参考资料
+6 外部链接
+
+
+
+特性[编辑]
+双屏幕[编辑]
+任天堂DS有上下两个包含背光的3英寸液晶屏幕，可显示26万色。以往许多游戏中必须要通过画面切换才能看到的消息，现在可以使用第二个屏幕来看。
+触摸屏[编辑]
+触摸屏为任天堂DS最大的特点之一。使用下方的触摸屏和附带的触控笔，玩家可以灵活自如地控制游戏进行。而且触摸屏引入了许多以前通过按键不能实现的游戏方式。
+声音识别[编辑]
+通过机身内的麦克风，玩家可以通过声音来操纵游戏。
+网络通信[编辑]
+主机支持Wi-Fi通信协议，可以通过任天堂公司的无线网络服务“Nintendo Wi-Fi Connection”与世界各地的玩家一起进行游戏。
+无线通信[编辑]
+任天堂DS主机内建的无线通信功能，可以将多部任天堂DS主机直接联机进行游戏。分为“Wireless Play（无线通信游玩）”和“Download Play（下载游玩）”两种方式。
+“Wireless Play（无线通信游玩）”需要准备与人数相同的NDS主机和游戏软件，最大人数无上限，依照游戏软件而有不同，例如“大合奏!バンドブラザーズ（大合奏）”游戏可支持无上限的同时游玩的人数。
+“Download Play（下载游玩）”只需要准备一份游戏软件，其他的NDS使用者就能够从装有游戏软件的NDS主机上下载游戏，并进行联机游玩。
+因为 Game Boy Advance 通信联机接头在任天堂DS上被取消的关系，Game Boy Advance的游戏软件在任天堂DS 上无法联机对战。
+双卡带插槽[编辑]
+机身上同时配置有任天堂DS和Game Boy Advance的游戏卡带插槽。
+技术规格[编辑]
+
+CPU：ARM946E-S 67MHz + ARM7TDMI 33MHz
+内存：4MB（中国大陆iQue DS具备简体中文操作界面，内存扩大至10MB）
+VRAM：656KB
+显示器：3英寸（对角线）附有背光的TFT彩色液晶显示器
+
+分辨率256x192，颜色数26万色
+
+
+ROM：日本MegaChips公司研发的特殊规格内存卡带，最大支持8Gbit（1024MB）以上
+三维性能：每秒十二万个多边形
+二维性能：每秒三千万点
+输入：十字键，A，B，L，R，X，Y，START，SELECT，触摸屏，麦克风
+网络功能：IEEE 802.11b(DS Lite采用IEEE 802.11g)（Wi-Fi）
+电源：内置充电式锂电池（3.7V/850mAh）
+声音：立体声喇叭
+重量 : 约275克（NDS Lite约218克）
+
+主机颜色[编辑]
+NDS 有六种主机颜色可供选择，分别是：
+
+铂银(Platinum Silver)：2004年12月2日发售
+墨黑(Graphite Black)：2005年3月24日发售
+纯白(Pure White)：2005年3月24日发售
+海蓝(Turquoise Blue)：2005年4月21日发售
+甜蜜粉红(Candy Pink)：2005年4月21日发售
+红(Red)：2005年8月8日发售
+
+改良机型[编辑]
+任天堂DS Lite[编辑]
+主条目：任天堂DS Lite
+任天堂DS Lite（Lite 即比旧版的任天堂DS更轻巧和更光亮的意思）已于2006年3月2日推出，比起旧版的任天堂DS主机体积和重量上都更加缩小，推出之际在日本造成一股抢购热潮。
+任天堂DSi[编辑]
+主条目：任天堂DSi
+任天堂于2008年10月2日任天堂战略发表会上公布的新款NDS系列主机。 NDSi是NDS家族继NDS Lite后最新的改版主机，改变之处有：
+
+取消GBA卡带插槽，也不支持GB/GBA向下兼容
+主机厚度比起NDSL薄2.6mm，重量减轻12%
+上下屏幕皆扩大为3.25吋 LCD屏幕
+内建两个30万画素相机镜头，分别放置于转轴与上盖外侧，拍摄的照片可直接传到Wii照片频道观看
+增加音乐播放功能，可自由调整播放速度，支持格式为AAC(延伸扩展名为：mp4、m4a)
+新增SD记忆卡插槽，并可以支持SDHC规格
+主机内部增加Flash内存，并开放DSi Ware服务，与WiiWare一样可上网下载购买最新游戏，沿用原本Wii点数，且Wii点数改名为任天堂点数
+内建应用程序，类似Wii频道设计，并内建Opera浏览器
+2010年3月之前登记DSi即可得到1000点任天堂点数
+
+于2008年11月1日在日本发售，第一波为黑、白两色，定价18900日元。
+自任天堂DSi起开始加入强制锁区功能，并一直延伸至任天堂3DS。[5]
+任天堂DSi LL/XL[编辑]
+任天堂于2009年11月21日在日本开始发售任天堂DSi LL/XL。 任天堂DSi LL/XL是NDSi的改良版，主要变更为︰
+
+上下屏幕皆扩大为4.2吋LCD屏幕
+电池续航力提升
+机身随屏幕变大，重量增加约100公克
+界面系统变更
+
+参考资料[编辑]
+
+
+^ ハード・ソフト贩売実绩. 任天堂. [2017-10-31]. 
+^ https://www.nintendo.co.jp/ir/finance/software/ds.html
+^ NDS 台湾专用机 12 月 13 日推出.巴哈姆特.2004-12-01.
+^ http://www.vgchartz.com/
+^ http://psp.tgbus.com/news/etc/201204/20120425165345.shtml
+
+
+外部链接[编辑]
+
+Nintendo DS（任天堂公司网站内的NDS网页）
+iQue DS（神游科技iDS系列官方网页）
+Nintendo Wi-Fi（任天堂Wi-Fi无线网络服务网页）
+Nintendo Inside（日本任天堂新闻）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+任天堂DS家族
+
+
+
+
+
+
+硬件
+
+
+
+任天堂DS
+任天堂DS Lite
+任天堂DSi
+
+
+
+
+
+
+
+
+
+
+
+游戏
+
+
+
+游戏列表
+畅销游戏
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+第七世代游戏机
+
+
+
+
+
+
+家用游戏机
+
+
+
+PlayStation 3
+Xbox 360
+Wii
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+任天堂DS家族
+
+任天堂DS
+DS Lite
+任天堂DSi
+
+
+PlayStation Portable
+
+
+
+
+
+
+
+
+微型游戏机
+
+
+
+Zeebo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+掌上游戏机
+
+
+
+
+
+
+万代
+
+
+
+WonderSwan
+
+WonderSwan Color
+SwanCrystal
+
+
+拓麻歌子
+携带机
+
+
+
+
+
+
+
+
+Entex
+
+
+
+Select-A-Game
+Adventurevision
+
+
+
+
+
+
+
+
+Game Park（英语：Game Park）/Holdings（英语：GamePark Holdings）
+
+
+
+GP32（英语：GP32）
+GP2X（英语：GP2X）
+XGP（英语：XGP）（从未发售）
+GP2X Wiz（英语：GP2X Wiz）
+GP2X Caanoo（英语：GP2X Caanoo）
+
+
+
+
+
+
+
+
+任天堂
+
+
+
+Game & Watch
+Game Boy
+
+Pocket
+Light
+Color
+
+
+Game Boy Advance
+
+SP
+Micro
+
+
+任天堂DS
+
+任天堂DS Lite
+任天堂DSi
+
+
+任天堂3DS
+
+2DS
+新3DS
+新2DS XL/LL
+
+
+任天堂Switch
+
+
+
+
+
+
+
+
+诺基亚
+
+
+
+N-Gage
+N-Gage QD（英语：N-Gage QD）
+
+
+
+
+
+
+
+
+世嘉
+
+
+
+Game Gear
+Nomad
+Jewelpod
+
+
+
+
+
+
+
+
+SNK
+
+
+
+Neo Geo Pocket
+Neo Geo Pocket Color
+Neo Geo X（英语：Neo Geo X）
+
+
+
+
+
+
+
+
+索尼
+
+
+
+PlayStation Portable
+
+Slim & Lite
+PSP Go
+
+
+PlayStation Vita
+
+PlayStation Vita TV
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+
+1970年代
+
+
+
+
+Microvision
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+Nelsonic Industries（英语：Nelsonic Industries）
+Electronika（英语：Electronika）
+Epoch Game Pocket Computer
+Atari Lynx
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+PC Engine GT
+Game Master (游戏机)（英语：Game Master (console)）
+Gamate（英语：Gamate）
+Barcode Battler（英语：Barcode Battler）
+Watara Supervision（英语：Watara Supervision）
+Mega Duck（英语：Mega Duck）
+R-Zone（英语：R-Zone）
+Game.com（英语：Game.com）
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+Tapwave Zodiac（英语：Tapwave Zodiac）
+GameKing（英语：GameKing）
+GPANG service（英语：GPANG）
+Didj（英语：Leapfrog Didj）
+Leapster（英语：Leapster）
+Gizmondo（英语：Gizmondo）
+Coleco Sonic（英语：Coleco Sonic）
+Dingoo（英语：Dingoo A320）
+V-Smile Pocket（英语：V-Smile Pocket）
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+JXD devices（英语：JXD）
+Pandora (游戏机)（英语：Pandora (console)）
+DragonBox Pyra（英语：DragonBox Pyra）
+Shield Portable
+GCW Zero（英语：GCW Zero）
+GPD Win（英语：GPD Win）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+列表
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+任天堂游戏硬件
+
+
+
+
+
+
+家用游戏机
+
+
+
+Color TV-Game
+红白机
+
+夏普任天堂电视
+红白机编辑
+Twin Famicom
+
+
+超级任天堂
+
+mini
+
+
+任天堂64
+
+神游机
+
+
+任天堂GameCube
+Wii
+
+Mini
+
+
+Wii U
+任天堂Switch
+
+
+
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+Game & Watch
+Game Boy
+
+Pocket
+Light
+
+
+Game Boy Color
+Virtual Boy
+Game Boy Advance
+
+SP
+Micro
+
+
+任天堂DS家族
+
+任天堂DS
+Lite
+DSi
+
+
+任天堂3DS家族
+
+3DS
+2DS
+新3DS
+新2DS LL
+
+
+任天堂Switch
+
+
+
+
+
+
+
+
+街机基板
+
+
+
+任天堂对战系统
+
+
+
+
+
+
+
+
+周边配件
+
+
+
+磁碟机
+播放君
+Satellaview
+64DD
+GBA传输线
+Wii遥控器
+任天堂力量
+Joy-Con
+
+
+
+
+
+
+
+
+技术
+
+
+
+任天堂光盘
+Broadway（Wii）
+Espresso（Wii U）
+Erista（Switch）
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 7633099-0
+
+
+
+
+
+
+
+
+
+
+
+
+分类：掌上游戏机任天堂DS任天堂游戏机第七世代游戏机2000年代玩具2004年面世的产品隐藏分类：包含规范控制信息的维基百科条目

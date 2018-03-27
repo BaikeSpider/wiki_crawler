@@ -1,0 +1,702 @@
+David Chalmers
+For other people with the same name, see David Chalmers (disambiguation).
+
+
+
+
+
+
+This biographical article relies too much on references to primary sources. Please improve this biographical article by adding secondary or tertiary sources. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if potentially libelous or harmful. (March 2013) (Learn how and when to remove this template message)
+
+
+
+
+
+David Chalmers
+
+
+
+Chalmers in 2008
+
+
+
+Born
+David John Chalmers
+(1966-04-20) 20 April 1966 (age 51)
+Sydney, Australia
+
+
+Alma mater
+University of Adelaide
+Lincoln College, Oxford
+Indiana University[1]
+
+
+
+
+
+Era
+Contemporary philosophy
+
+
+Region
+Western philosophy
+
+
+School
+Analytic
+
+
+
+Main interests
+
+Philosophy of mind
+Consciousness
+Philosophy of language
+
+
+
+Notable ideas
+
+Hard problem of consciousness; Extended mind; Two-dimensional semantics; Biological dualism
+
+
+
+
+Influences
+
+
+Douglas Hofstadter, Daniel Dennett, René Descartes, Rudolf Carnap
+
+
+
+
+
+
+
+
+Influenced
+
+
+Gualtiero Piccinini, Sam Harris, Tyler Burge
+
+
+
+
+
+
+
+
+
+David John Chalmers (/ˈtʃælmərz/;[2] born 20 April 1966) is an Australian philosopher and cognitive scientist specializing in the areas of philosophy of mind and philosophy of language. He is Professor of Philosophy and Director of the Centre for Consciousness at the Australian National University. He is also a University Professor, Professor of Philosophy and Neural Science, and a Director of the Center for Mind, Brain and Consciousness (along with Ned Block) at New York University.[3][4] In 2013, he was elected a Fellow of the American Academy of Arts & Sciences.
+
+
+
+Contents
+
+
+1 Life
+2 Thought
+
+2.1 Philosophy of mind
+2.2 Philosophy of language
+2.3 Philosophy of verbal disputes
+
+
+3 Bibliography
+4 See also
+5 Notes
+6 External links
+
+
+
+Life[edit]
+Since 2004, Chalmers has been Professor of Philosophy, Director of the Centre for Consciousness, and an ARC Federation Fellow at the Australian National University.
+Chalmers received his undergraduate degree in pure mathematics from the University of Adelaide in Australia and continued his studies at the University of Oxford, where he was a Rhodes Scholar.[5] Chalmers received his PhD in philosophy and cognitive science from Indiana University Bloomington under Douglas Hofstadter. He was a postdoctoral fellow in the Philosophy-Neuroscience-Psychology program directed by Andy Clark at Washington University in St. Louis from 1993 to 1995, and his first professorship was at UC Santa Cruz, from August 1995 to December 1998. Chalmers was subsequently appointed Professor of Philosophy (1999–2004) and, later, Director of the Center for Consciousness Studies (2002–2004) at the University of Arizona, sponsor of the Toward a Science of Consciousness[6] conference. After appearing as a plenary speaker at the first meeting, Chalmers has subsequently taken the role of co-organizer, alongside Stuart Hameroff, of this conference.
+Chalmers' 1996 book, The Conscious Mind, was described by The Sunday Times as "one of the best science books of the year".[7] In the book, Chalmers argues that all forms of physicalism (whether reductive or non-reductive) that have dominated modern philosophy and science fail to account for the existence (that is, presence in reality) of consciousness itself. He proposes an alternative dualistic view he calls naturalistic dualism (but which might also be characterized by more traditional formulations such as property dualism, neutral monism, or double-aspect theory).
+He is the lead singer of the Zombie Blues band which performed at the Qualia Fest in 2012[8] in New York. Chalmers is an editor on topics in the philosophy of mind for the Stanford Encyclopedia of Philosophy.[9]
+On 14 June 2016 David Chalmers visited Moscow to hold a lecture at Moscow State University focused on solving the Hard problem of consciousness.[10] He also gave an interview about it before holding a lecture at the Moscow State University.[11]
+Thought[edit]
+Philosophy of mind[edit]
+
+
+
+
+Chalmers on stage for an Alan Turing Year event at De La Salle University, Manila, March 27, 2012
+
+
+Chalmers is best known for his formulation of the notion of a hard problem of consciousness in both his 1996 book and in the 1995 paper "Facing Up to the Problem of Consciousness". He makes a distinction between "easy" problems of consciousness, such as explaining object discrimination or verbal reports, and the single hard problem, which could be stated "why does the feeling which accompanies awareness of sensory information exist at all?" The essential difference between the (cognitive) easy problems and the (phenomenal) hard problem is that the former are at least theoretically answerable via the standard strategy in philosophy of mind: functionalism. Chalmers argues for an "explanatory gap" from the objective to the subjective, and criticizes physical explanations of mental experience, making him a dualist. Chalmers characterizes his view as "naturalistic dualism": naturalistic because he believes mental states are caused by physical systems (such as brains); dualist because he believes mental states are ontologically distinct from and not reducible to physical systems.
+In support of this, Chalmers is famous for his commitment to the logical (though, importantly, not natural) possibility of philosophical zombies.[12] These zombies, unlike the zombie of popular fiction, are complete physical duplicates of human beings, lacking only qualitative experience. Chalmers argues that since such zombies are conceivable to us, they must therefore be logically possible. Since they are logically possible, then qualia and sentience are not fully explained by physical properties alone. Instead, Chalmers argues that consciousness is a fundamental property ontologically autonomous of any known (or even possible) physical properties[citation needed], and that there may be lawlike rules which he terms "psychophysical laws" that determine which physical systems are associated with which types of qualia. He further speculates that all information-bearing systems may be conscious, leading him to entertain the possibility of conscious thermostats and a qualified panpsychism he calls panprotopsychism. Chalmers maintains a formal agnosticism on the issue, even conceding that the viability of panpsychism places him at odds with the majority of his contemporaries. According to Chalmers, his arguments are similar to a line of thought that goes back to Leibniz's 1714 "mill" argument; the first substantial use of philosophical "zombie" terminology may be Robert Kirk's 1974 "Zombies vs. Materialists".[13]
+After the publication of Chalmers's landmark paper, more than twenty papers in response were published in the Journal of Consciousness Studies. These papers (by Daniel Dennett, Colin McGinn, Francisco Varela, Francis Crick, and Roger Penrose, among others) were collected and published in the book Explaining Consciousness: The Hard Problem. John Searle critiqued Chalmers's views in The New York Review of Books.[14]
+With Andy Clark, Chalmers has written The Extended Mind, an article about the borders of the mind.[15]
+Philosophy of language[edit]
+Chalmers has published works on the "theory of reference" concerning how words secure their referents. He, together with others such as Frank Jackson, proposes a kind of theory called two dimensionalism arguing against Saul Kripke. Before Kripke delivered the famous lecture series Naming and Necessity in 1970, the descriptivism advocated by Gottlob Frege and Bertrand Russell was the orthodoxy. Descriptivism suggests that a name is indeed an abbreviation of a description, which is a set of properties or, as later modified by John Searle, a disjunction of properties. This name secures its reference by a process of properties fitting: whichever object fits the description most, then it is the referent of the name. Therefore, the description is seen as the connotation, or, in Fregean terms, the sense of the name, and it is via this sense by which the denotation of the name is determined.
+However, as Kripke argued in Naming and Necessity, a name does not secure its reference via any process of description fitting. Rather, a name determines its reference via a historical-causal link tracing back to the process of naming. And thus, Kripke thinks that a name does not have a sense, or, at least, does not have a sense which is rich enough to play the reference-determining role. Moreover, a name, in Kripke's view, is a rigid designator, which refers to the same object in all possible worlds. Following this line of thought, Kripke suggests that any scientific identity statement such as "Water is H2O" is also a necessary statement, i.e. true in all possible worlds. Kripke thinks that this is a phenomenon that the descriptivist cannot explain.
+And, as also proposed by Hilary Putnam and Kripke himself, Kripke's view on names can also be applied to the reference of natural kind terms. The kind of theory of reference that is advocated by Kripke and Putnam is called the direct reference theory.
+However, Chalmers disagrees with Kripke, and all the direct reference theorists in general. He thinks that there are two kinds of intension of a natural kind term, a stance which is now called two dimensionalism. For example, the words,
+
+"Water is H2O"
+
+are taken to express two distinct propositions, often referred to as a primary intension and a secondary intension, which together compose its meaning.[16]
+The primary intension of a word or sentence is its sense, i.e., is the idea or method by which we find its referent. The primary intension of "water" might be a description, such as watery stuff. The thing picked out by the primary intension of "water" could have been otherwise. For example, on some other world where the inhabitants take "water" to mean watery stuff, but where the chemical make-up of watery stuff is not H2O, it is not the case that water is H2O for that world.
+The secondary intension of "water" is whatever thing "water" happens to pick out in this world, whatever that world happens to be. So if we assign "water" the primary intension watery stuff then the secondary intension of "water" is H2O, since H2O is watery stuff in this world. The secondary intension of "water" in our world is H2O, and is H2O in every world because unlike watery stuff it is impossible for H2O to be other than H2O. When considered according to its secondary intension, water means H2O in every world. Via this secondary intension, Chalmers proposes a way simultaneously to explain the necessity of the identity statement and to preserve the role of intension/sense in determining the reference.
+Philosophy of verbal disputes[edit]
+In recent work, Chalmers has concentrated on verbal disputes.[17] He argues that a dispute is best characterized as "verbal" when it concerns some sentence S which contains a term T such that (i) the parties to the dispute disagree over the meaning of T, and (ii) the dispute arises solely because of this disagreement. In the same work, Chalmers proposes certain procedures for the resolution of verbal disputes. One of these he calls the "elimination method", which involves eliminating the contentious term and observing whether any dispute remains.
+Bibliography[edit]
+
+The Conscious Mind: In Search of a Fundamental Theory (1996). Oxford University Press. hardcover: ISBN 0-19-511789-1, paperback: ISBN 0-19-510553-2
+Toward a Science of Consciousness III: The Third Tucson Discussions and Debates (1999). Stuart R. Hameroff, Alfred W. Kaszniak and David J. Chalmers (Editors). The MIT Press. ISBN 0-262-58181-7
+Philosophy of Mind: Classical and Contemporary Readings (2002). (Editor). Oxford University Press. ISBN 0-19-514581-X or ISBN 0-19-514580-1
+The Character of Consciousness (2010). Oxford University Press. hardcover: ISBN 0-19-531110-8, paperback: ISBN 0-19-531111-6
+Constructing The World (2012). Oxford University Press. hardcover: ISBN 978-0-19-960857-7, paperback: ISBN 978-0199608584
+"Why Isn’t There More Progress in Philosophy?"
+
+See also[edit]
+
+PhilPapers
+
+Notes[edit]
+
+
+
+^ CV
+^ "The Thinking Ape: The Enigma of Human Consciousness"
+^ philosophy.fas.nyu.edu
+^ "People – NYU Center for Mind, Brain and Consciousness". wp.nyu.edu. Retrieved 2016-12-11. 
+^ Cognitive Science Online
+^ consciousness.arizona.edu
+^ The Conscious Mind: In Search of a Fundamental Theory (1996), paperback edition, back cover.
+^ NYTimes.com
+^ "Editorial Board (Stanford Encyclopedia of Philosophy)". plato.stanford.edu. Retrieved 10 December 2016. 
+^ The hard problem of consciousness: 300 years on. Lecture at the MSU
+^ Consciousness and the Universe. Interview with David Chalmers
+^ Burkeman, Oliver (21 January 2015). "Why can't the world's greatest minds solve the mystery of consciousness?". The Guardian. Retrieved 7 January 2017. 
+^ David Chalmers. "Zombies on the web". consc.net. Retrieved 7 January 2017. As far as I know, the first paper in the philosophical literature to talk at length about zombies under that name was Robert Kirk's "Zombies vs. Materialists" in Mind in 1974, although Keith Campbell's 1970 book Body and Mind talks about an "imitation-man" which is much the same thing, and the idea arguably goes back to Leibniz's "mill" argument. 
+^ Searle's review of The Conscious Mind 6 March 1997 (subscription required)
+Chalmers' response to Searle and Searle's reply 15 May 1997 (free access)
+^ consc.net Analysis 58:10-23, 1998. Reprinted in The Philosopher's Annual, 1998.
+^ for a fuller explanation see Chalmers, David. The Conscious Mind. Oxford UP: 1996. Chapter 2, section 4.
+^ consc.net Philosophical Review, 120:4, 2011.
+
+
+
+External links[edit]
+
+Find more aboutDavid Chalmersat Wikipedia's sister projects
+
+Media from Wikimedia Commons
+Quotations from Wikiquote
+Data from Wikidata
+
+
+
+Official website
+An in-depth autobiographical interview with David Chalmers
+"The Singularity" a documentary film featuring Chalmers
+The Moscow Center for Consciousness Studies video interview with David Chalmers
+David Chalmers at TED 
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Analytic philosophy
+
+
+
+Philosophers
+
+
+
+J. L. Austin
+A. J. Ayer
+G. E. M. Anscombe
+Nick Bostrom
+Robert Brandom
+C. D. Broad
+Patricia Churchland
+David Chalmers
+Noam Chomsky
+James F. Conant
+Alice Crary
+Donald Davidson
+Daniel Dennett
+Cora Diamond
+Michael Dummett
+Paul Feyerabend
+Antony Flew
+Bas van Fraassen
+Gottlob Frege
+Jerry Fodor
+Philippa Foot
+Peter Geach
+Paul Grice
+Ian Hacking
+R. M. Hare
+Carl Gustav Hempel
+Peter van Inwagen
+Christine Korsgaard
+Saul Kripke
+Thomas Kuhn
+David Lewis
+Alasdair MacIntyre
+J. L. Mackie
+Norman Malcolm
+John McDowell
+G. E. Moore
+Ernest Nagel
+Thomas Nagel
+Robert Nozick
+Derek Parfit
+Alvin Plantinga
+Karl Popper
+Hilary Putnam
+W. V. O. Quine
+John Rawls
+Hans Reichenbach
+Richard Rorty
+Bertrand Russell
+Gilbert Ryle
+Moritz Schlick
+John Searle
+Wilfrid Sellars
+Peter Singer
+Richard Swinburne
+Charles Taylor
+Michael Walzer
+Bernard Williams
+Timothy Williamson
+Ludwig Wittgenstein
+
+
+
+
+
+Theories
+
+
+
+Actualism
+Analytical feminism
+Analytical Marxism
+Anti-realism
+Berlin Circle
+Descriptivist theory of names
+Emotivism
+Functional contextualism
+Linguistic turn
+Logical positivism
+Modal realism
+Model-dependent realism
+Neopragmatism
+Neurophilosophy
+Ordinary language philosophy
+Postanalytic philosophy
+Pragmatic theory of truth
+Verificationism
+Vienna Circle
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+Causal / Deductive / epistemic closure
+Concept
+Counterfactual
+Denotation / reference
+Definite description
+Factive
+Family resemblance
+Intuition
+Meaning (Proposition)
+Modality
+Natural kind / projectability
+Necessary–sufficient conditions
+Paradox of analysis
+Possible world
+Reduction
+Reflective equilibrium
+Rigid–flaccid designators
+Sense data
+Supervenience
+Thought experiment
+Truth function
+Truthmaker
+Truth-bearer
+Type–token distinction
+
+
+
+
+
+Related articles
+
+
+
+Aretaic turn
+Australian realism
+Communitarianism
+Ordinary language philosophy
+Philosophical logic
+Philosophy of language
+Philosophy of science
+Postanalytic philosophy
+
+
+
+
+
+
+
+
+ Index
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of mind
+
+
+
+Theories
+
+
+
+Behaviorism (Radical)
+Biological naturalism
+Cognitive psychology
+Mind–body dualism
+Eliminative materialism
+Emergent materialism
+Emergentism
+Epiphenomenalism
+Functionalism
+Idealism
+Interactionism
+Materialism
+Monism
+Naïve realism
+
+Neurophenomenology
+
+
+Neutral monism
+Occasionalism
+Psychoanalysis
+Parallelism
+Phenomenalism
+Phenomenology
+Physicalism
+
+identity theory
+
+
+Property dualism
+Representational
+Solipsism
+Substance dualism
+
+
+
+
+
+Concepts
+
+
+
+Abstract object
+Artificial intelligence
+Chinese room
+Cognition
+Cognitive closure
+Concept
+Concept and object
+Consciousness
+Hard problem of consciousness
+Hypostatic abstraction
+Idea
+Identity
+Ingenuity
+Intelligence
+Intentionality
+Introspection
+Intuition
+Language of thought
+Materialism
+Mental event
+Mental image
+Mental process
+Mental property
+Mental representation
+Mind
+Mind–body problem
+
+Non-physical entity
+
+
+New mysterianism
+Pain
+Problem of other minds
+Propositional attitude
+Qualia
+Tabula rasa
+Understanding
+Zombie
+more...
+
+
+
+
+
+Related topics
+
+
+
+Metaphysics
+Philosophy of artificial intelligence / information / perception / self
+
+
+
+
+
+
+
+
+Portal
+Category
+Philosophers category
+Project
+Task Force
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Consciousness
+
+
+
+Figures
+
+
+
+Antonio Damasio
+Benjamin Libet
+Bernard Baars
+Christof Koch
+Colin McGinn
+Daniel Dennett
+David Bohm
+David Chalmers
+David Pearce
+Douglas Hofstadter
+Eugene Wigner
+Francis Crick
+Frank Jackson
+George Berkeley
+Georges Rey
+Gerald Edelman
+Giulio Tononi
+John Eccles
+John Locke
+John Searle
+Joseph Levine
+Karl Popper
+Karl Pribram
+Max Velmans
+Michael Gazzaniga
+Michael Graziano
+Ned Block
+Patricia Churchland
+Patrick Wilken
+Paul Churchland
+René Descartes
+Roger Penrose
+Stanislas Dehaene
+Steven Novella
+Stuart Hameroff
+Susan Blackmore
+Thomas Nagel
+Victor J. Stenger
+William James
+William Lycan
+
+
+
+
+
+Theories
+
+
+
+Attention schema theory
+Global workspace theory
+Holonomic brain theory
+Integrated information theory
+Multiple drafts model
+
+
+
+
+
+Topics
+
+
+
+Altered state of consciousness
+Animal consciousness
+Artificial consciousness
+Attention
+Awareness
+Binding problem
+Brain
+Cartesian theater
+Collective consciousness
+Consciousness after death
+Disorders of consciousness
+Double-aspect theory
+Dual consciousness
+Electromagnetic theories of consciousness
+Eliminative materialism
+Epiphenomenalism
+Experience
+Explanatory gap
+Free will
+Functionalism (philosophy of mind)
+Hard problem of consciousness
+Heterophenomenology
+Higher consciousness
+Idealism
+Interactionism
+Introspection illusion
+Knowledge argument
+Level of consciousness
+Materialism
+Metaphysics
+Mind
+Mind–body dualism
+Mind–body problem
+Monism
+Neural correlates of consciousness
+Neurophenomenology
+Neutral monism
+New mysterianism
+Ontology
+Panpsychism
+Parallelism
+Phenomenology
+Philosophical zombie
+Philosophy of mind
+Physicalism
+Primary consciousness
+Problem of other minds
+Property dualism
+Reentry
+Reflexive monism
+Revisionary materialism
+Qualia
+Quantum mind
+Secondary consciousness
+Sentience
+Sociology of human consciousness
+Solipsism
+Stream of consciousness
+Subjective character of experience
+Subjective consciousness
+Subjectivity
+Type physicalism (reductive materialism, identity theory of mind)
+Unconscious mind
+Unconsciousness
+
+
+
+
+
+Works
+
+
+
+Association for the Scientific Study of Consciousness
+Consciousness and Cognition
+Consciousness Explained
+How the Self Controls Its Brain
+Journal of Consciousness Studies
+Online Consciousness Conference
+Psyche
+The Astonishing Hypothesis
+The Conscious Mind
+The Emperor's New Mind
+Toward a Science of Consciousness
+Understanding Consciousness
+What Is it Like to Be a Bat?
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 84833711
+LCCN: no93033565
+ISNI: 0000 0001 1074 3535
+GND: 129879630
+SUDOC: 034632107
+BNF: cb12536782g (data)
+NDL: 00863518
+
+
+
+
+
+
+
+
+
+
+Categories: 20th-century philosophers21st-century philosophers1966 birthsAnalytic philosophersAustralian philosophersAustralian academicsAustralian National University facultyAustralian Rhodes ScholarsConsciousness researchers and theoristsCognitive scientistsLiving peoplePhilosophers of mindQuantum mindAlumni of Lincoln College, OxfordUniversity of Adelaide alumniIndiana University alumniInternational Mathematical Olympiad participantsPhilosophers of languageAustralian atheistsHidden categories: Use Australian English from September 2016All Wikipedia articles written in Australian EnglishUse dmy dates from June 2013Articles lacking reliable references from March 2013All articles lacking reliable referencesBLP articles lacking sources from March 2013Articles with hCardsAll articles with unsourced statementsArticles with unsourced statements from May 2017Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers

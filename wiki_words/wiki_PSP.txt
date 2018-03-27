@@ -1,0 +1,2117 @@
+PlayStation Portable
+
+
+
+
+
+
+
+
+
+
+
+
+
+“PSP”重定向至此。关于“PSP”的其他意思，详见“PSP (消歧义)”。
+
+
+
+
+
+
+
+本条目需要补充更多来源。（2014年8月23日） 
+请协助添加多方面可靠来源以改善这篇条目，无法查证的内容可能会因为异议提出而移除。 
+
+
+
+PlayStation Portable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+制造商
+索尼电脑娱乐
+
+
+型式
+掌上型游戏机
+
+
+世代
+第七世代
+
+
+产品生命周期
+ 2004年12月12日
+   2005年3月24日
+ 2005年5月12日
+  2005年9月1日
+
+
+停产日期
+ 2014年6月
+ 2014年1月
+
+
+销售台数
+8082万部
+
+
+媒体
+UMD
+Memory Stick Duo
+
+
+CPU
+PSP CPU（MIPS 32bit Core R4000×2）
+
+
+存储空间
+Memory Stick Duo
+
+
+连接接口
+USB（miniB端子）
+
+
+在线服务
+PLAYSTATION Network
+
+
+最畅销游戏
+侠盗猎车手：自由城传奇（769万套）[1]
+
+
+后继机种
+PlayStation Vita
+
+
+PlayStation Portable（官方缩写：PSP）是索尼电脑娱乐于2004年12月12日发售的掌上型游戏机。2007年9月，轻量、薄型化的PSP-2000系列发售。2008年10月，提升液晶显示屏鲜艳及对比度并内置麦克风的PSP-3000系列发售。2009年，PSPgo发售。2014年PSP停产，在十年的全寿命周期中，售出超过8000万部。PSP停产之后，由2011年开始发售的PlayStation Vita取代。
+
+
+
+目录
+
+
+1 简介
+
+1.1 发行历史
+
+
+2 功能
+
+2.1 游戏
+2.2 外接画面输出
+2.3 媒体播放
+
+2.3.1 视频
+2.3.2 音乐
+2.3.3 图片
+2.3.4 动画
+
+
+2.4 无线网络连接
+
+2.4.1 网络浏览
+2.4.2 网上电台
+
+
+2.5 UMD视频
+
+
+3 特性
+
+3.1 控制
+3.2 睡眠功能
+
+
+4 型号
+5 主要规格
+
+5.1 PSP-1000
+5.2 PSP-2000
+5.3 PSP-3000
+
+
+6 软件
+7 周边附属配件
+
+7.1 SCEI制
+
+7.1.1 PSP-1000用
+7.1.2 PSP-2000、PSP-3000两用
+7.1.3 PSP-1000、PSP-2000、PSP-3000通用
+
+
+7.2 地区版本
+7.3 SONY制
+7.4 原厂以外的主要商品
+
+
+8 缺点
+9 参见
+10 参考文献
+11 外部链接
+
+
+
+简介[编辑]
+采用最大拥有1.8GB容量的UMD、4.3英寸的液晶显示屏和理论值达32GB容量（目前已达32GB，可以利用TF卡加"卡套"进行更大扩充）的Memory Stick Duo接口，可播放视频与音乐。经由WLAN机能以IEEE 802.11b（11Mbit/s工作在2.4 GHz）链接上浏览器与LocationFree、PS3以及USB port等扩张性，通过更新系统软件能追加各式的机能为其特征。
+精巧并有着双层加工过的透明感与富含光泽的外观设计机体上搭载着由SHARP开发的大型ASV液晶显示屏。在PSP发售以前家用机和便携式游戏机间有一定的性能差异，特别是于3D图形的表现上几乎是家用机独占优势，而如今却可让拥有不比家用机逊色绘图性能的游戏也能够于便携式游戏机上游玩。但有着高性能的同时也被指出采用对于随机存取较弱的CLV式光盘媒体所需的读取时间、电池持续时间短、机体表面的脆弱性等等问题（关于读取部分因软件制作公司的技术也存在着而可于短时间内处理完的软件）。详细性能参见主要规格。
+虽然有冠上“PlayStation”（PS）的名号却与PS、PS2等不同，并无互换性（但是，关于PS部分系统软件版本3.00后加入了可执行PLAYSTATION Store下载方式所贩售PlayStation软件的模拟器）。
+发行历史[编辑]
+
+
+
+
+2004年9月，东京电玩展上初次参展的PSP
+
+
+
+2007年9月20日，轻量化、薄型化的“PSP-2000”（PSP Slim／薄型PSP）于日本上市。新型号的主要优点包括：比原来的型号轻33%，亮33%，薄19%；更快的游戏加载；视频信号输出端子；内存升至64MB；更多的机身颜色。索尼电脑娱乐宣布现有的PSP（PSP-1000）将会停止生产。之后又出（PSP-3000）
+
+
+2008年1月7日，索尼于本年度“国际消费电子展”（CES）宣布，新版PSP娱乐系统（PSP-2000 series）中将加入“Skype”功能，预计将有超过246百万户登记用户有机会使用此项软件。新型PSP用家可随时随地使用经济又方便的Skype免费任打网上电话，进行PSP与PSP或PSP与PC用户的沟通。同日，日本索尼电脑娱乐宣布，将于日本地区首先推出PSP专用USB外接麦克风作单独贩售，支持Skype网络语音通话。
+
+
+2008年1月8日，索尼于CES第二日展期中宣布，将会推出利用PlayStation 3拷贝蓝光光盘视频并传输给PSP的功能，用户通过这种方式就可以享受可携式的高清电影。
+
+
+2008年1月9日，索尼发表将于2月28日在日本地区“花系列（Blume Series）”中推出新配色，款式为新型PSP主机“薄荷绿（Mint Green）”。
+
+
+2008年4月16日，SCET发表将于4月24日在台湾“花系列（Blume Series）”中推出新配色，款式为新型PSP主机“消光铜”。
+
+
+2008年8月20日，新一代改进设计的3000型PSP在Leipzig的媒体大会上被宣布。PSP-3000的设计基于PSP-2000，其包括有增强的防反射光线技术的LCD显示屏、一个内置的麦克风以及兼容隔行扫描的视频输出。该款型号的PSP预定于2008年10月在日本、亚洲地区、北美以及欧洲开始发行。
+
+
+2008年10月14日，索尼宣布PSP-3000正式发售。索尼电脑娱乐宣布现有的PSP（PSP-2000）将会停止生产。
+
+
+2011年1月27日，索尼在PlayStation®Meeting 2011上宣布下一代代号为“NGP”的便携式娱乐系统。[2]
+2011年8月17日，索尼在Gamescom上宣布将发售一款不带wifi，重新设计的PSP，型号为PSP E-1000，只在欧洲的PAL制式地区销售，售价99欧元。
+2014年6月4日，索尼正式宣布PSP停产。
+
+功能[编辑]
+
+
+
+
+PSP专用通用媒体光盘（正面）
+
+
+
+
+
+
+PSP专用通用媒体光盘（背面）
+
+
+
+
+
+
+通用媒体光盘插口
+
+
+
+
+
+
+通用媒体光盘标志
+
+
+游戏[编辑]
+
+PSP使用UMD作为游戏存储媒介，放入UMD并在游戏选项中引导UMD，即可以进行游戏。PSP的游戏是不锁区的。
+
+除了实体UMD光盘之外，于PlayStation Store也有贩售PSP专用下载版的游戏软件（试玩版免费，完整版要付费），以及提供PlayStation的经典游戏付费下载。
+下载版游戏需存储于另售的Memory Stick存储卡，可直接通过MS卡引导游戏。
+
+也另外可以改机直接下载游戏
+
+
+
+
+
+外接画面输出[编辑]
+
+PSP-2000型（含）后的PSP，可将主机画面输出至电视（无法同步显示）。
+有AV、S端子、色差与HDMI四种接口。
+
+媒体播放[编辑]
+能播放及阅览存放在UMD-VIDEO及Memory Stick里的视频文件、音乐与图片。
+视频[编辑]
+
+MPEG4
+
+MPEG4、H.264/MPEG-4 AVC等编码格式能在官方XMB里播放
+320x240、352x240、480x272、720x480、720x576等分辨率都能播放
+
+
+（5.00固件增加640×480分辨率支持）
+（5.50固件增加720x576分辨率支持30fps以下）
+
+30fps、Level3、>2000kbps（从6.20版本开始支持Main@L4.0/Main@L5.0画质格式）
+
+
+AVI
+
+MJPEG编码格式能在官方XMB里播放
+参数同上
+
+
+
+音乐[编辑]
+
+AAC、以AAC编码的其他文件如3GP
+MP3
+WAV、PCM
+ATRAC、ATRAC3 Plus
+WMA
+
+不支持WMA9 Professional、WMA9 Lossless与对应著作权保护机能的WMA文件
+需先接驳WiFi网络以引导WMA播放功能
+
+
+
+图片[编辑]
+
+JPEG
+TIFF
+BMP
+PNG
+GIF（需在Internet Browser内打开）
+
+动画[编辑]
+
+Adobe Flash 6.0
+
+PSP-1000需先接驳WiFi网络以引导Adobe Flash Lite
+仅可于Internet Browser内打开
+流量和体积有一定限制
+功能不完整
+
+
+Java
+
+支持Java及JavaScript
+流量和体积有一定限制
+
+
+
+无线网络连接[编辑]
+PSP能通过WiFi和他台PSP与个人电脑的无线接取器等连上。有Ad Hoc模式和infrastructure模式。
+
+
+
+
+配合PS3的Wireless LAN功能
+
+
+网络浏览[编辑]
+系统软件版本2.00开始可链接上互联网阅览网页，浏览器是采用爱可信的NetFront。
+
+保存书签
+变更文字大小
+变更显示的文字编码
+智能页面分区
+显示履历
+支持JavaScript
+代理服务器的使用
+文件的上传和下载
+显示Flash内容
+
+系统软件版本2.70开始支持
+必须要由[主机设置]-[引导FlashPlayer]接受认证
+
+PSP-2000系列以后机种不需认证
+
+
+不支持YouTube等FLV类型的视频网站
+
+
+标签页浏览功能
+
+有着红、蓝、橙色3个标签页，可同时打开3个网页。以按住□钮再按L钮及R钮来切换标签页。
+网上电台[编辑]
+系统软件版本3.80开始可收听网上电台。想要收听必须事先将广播电台或个人所提供的PSP专用网上电台播放器登录至Memory Stick。
+UMD视频[编辑]
+能观看提供给UMD-VIDEO的视频软件。由日本的‘最终幻想VII：降临之子’开始，世界不少厂商及电影公司陆续推出，价格与DVD相仿。有包括电影、电视剧、音乐视频等多种类型。大部分推出的视频都能提供多语言选择，以及内容、字幕选择和特别花絮。（日本版还提供更电子化的包含UMD/DVD两种介质的套装[3]，另外在日本还有大量UMD格式的成人视频）。
+第一张UMD介质的电影在2005年4月发行。最早一批在北美发售的目录包括索尼电影公司的《十面埋伏》、《极限特工》、《地狱男孩》、《墨西哥往事》、《蜘蛛人2》和《生化危机2：启示录》，还有米拉麦克斯公司的《追杀比尔》以及迪士尼公司的《加勒比海盗》，以及周杰伦、黄秋生、陈冠希、铃木杏主演的《头文字D》。
+2005年6月22日，：索尼宣布《十面埋伏》和《生化危机2》各售出超过100万部。
+2006年3月，Universal和Image Entertainment宣布停止对UMD格式的支持。
+2006年4月12日，一篇在The Digital Bits网站的文章显示Warner Home Video取消预计发行的UMD格式电影。而Paramount也停止对UMD格式的支持。
+特性[编辑]
+控制[编辑]
+PSP比以前Play Station系列新增视频和音乐播放能力，PSP的操控设计继续以游戏为基础。基本上按键均以Play Station的手把一体的方式而设计：
+
+两个上部按钮（L、R）
+PlayStation式的开始和选择键（START、SELECT）
+（○、×、□、△）
+一个十字体八向按键（↑、↓、←、→）
+一个模拟输入控制板，也被称为“模拟垫”，其设计并不是传统的模拟摇杆，而是一个可滑动的扁平控制板。在游戏中它能提供与传统模拟摇杆相似的控制，在网络浏览器里，更可以作模拟鼠标游标用。屏幕下方有一排控制键，包括：
+可调节音量（VOLUME +/-）
+音乐设置键（音乐符号），可在游戏中长按控制音效开／关；非游戏时选择不同的默认平衡器
+显示屏亮度（方型），可在听音乐时压此键维持2秒左右，使显示屏变黑屏以省电。
+主菜单键（Home），能离开游戏回到主菜单（HOME）。（3000型将Home按钮改成PlayStation图标按钮）
+
+睡眠功能[编辑]
+电源按钮短暂的往上扳一下，可以使游戏以现在的状态暂时中断，并将数据以低电压供电存储在内存中。再次引导只需约1～2秒打开后仍保持前一次的关机前的画面。睡眠时耗电量极少。也可设置过一定时间未使用即自动睡眠。另外，充电量少于1%时会自动进入睡眠来节省电池，但如果电池电力完全用完则会切断电源回到主画面。
+型号[编辑]
+
+
+型号
+图片
+Connectivity/storage
+无线连接
+RAM and Internal Storage
+CPU
+屏幕
+原始发行日期
+首版系统软件
+电池
+In Production
+
+
+PSP-1000
+
+USB 2.0, UMD, Serial Port, Headphone Jack, Memory Stick PRO Duo
+802.11b Wi-Fi, IRDA
+32 MB, 32 MB System Software
+MIPS R4000 at 1~333 MHz
+4.3英寸（110 mm） 16:9 TFT at 480 × 272, 16.77 million colors
+December 12, 2004 (Japan)
+1.00
+5 V DC 1800 mAh, Upgradeable to 2200 mAh
+否
+
+
+PSP-2000
+
+USB 2.0, UMD, Video Out and Mic Port, Headphone Jack, Memory Stick PRO Duo
+802.11b Wi-Fi
+64 MB, 64 MB System Software
+September 2007
+3.60
+5 V DC 1200 mAh, Upgradeable to 2200 mAh
+否
+
+
+PSP-3000
+
+USB 2.0, UMD, Video Out, Microphone, Headphone Jack, Memory Stick PRO Duo
+October 2008
+4.20
+是
+
+
+PSP Go (PSP-N1000)
+
+All in One Port, Headphone Jack, Mic, Memory Stick Micro (M2)
+802.11b Wi-Fi, Bluetooth 2.0 + EDR
+64 MB, 16 GB User and System Software Shared
+3.8英寸（97 mm） 16:9 TFT at 480 × 272, 16.77 million colors, sliding screen
+October 2009
+5.70
+5 V DC Non Removable Battery
+Discontinued outside of North America
+
+
+PSP-E1000
+
+USB 2.0, UMD, Headphone Jack, Memory Stick PRO Duo
+否
+64 MB, 64 MB System Software [4]
+4.3英寸（110 mm） 16:9 TFT at 480 × 272, 16.77 million colors
+October 2011
+6.50
+5 V DC Non Removable Battery
+是
+
+
+主要规格[编辑]
+PSP-1000[编辑]
+
+MIPS 32bit内核R4000×2)，1～333 MHz
+FLOPS：2.6Gflops（333MHz运作时）
+Cache：L1 32KB
+170 x 33 x 74毫米（长x高x宽）
+主内存：32MB
+自带DRAM：4MB
+4.3英寸SHARP制宽显示屏ASV LCD
+480×272 像素（16：9）、1,677万色
+最大亮度约400cd／m2；官方固件锁定为200/180/130/80 cd／m2四个亮度
+内置立体声扬声器
+IEEE 802.11b标准（Wi-Fi）
+USB 2.0 High Speed mini-B Type
+Memory Stick PRO Duo（MagicGate・高速发送）
+红外线通信（IrDA）
+外部电源供给端子
+本体电源输入端子（锂离子电池）
+耳机／麦克风端子
+播放专用UMD光盘驱动器
+内含锂离子电池（3.6V/1,800mAh。也有另售2,200mAh）
+PSP专用外接电源（5V DC，使用AC 100～240V转DC 5V）
+约280g（含电池）
+
+PSP-2000[编辑]
+
+
+
+
+插上UMD的PSP-2000
+
+
+主条目：PlayStation Portable Slim & Lite
+
+CPU同上
+170 x 18.6 x 74毫米（长x高x宽）
+主内存：64MB（较PSP-1000多出32MB，能缩短UMD选取次数（配合UMD CACHE功能）、上网时缓冲更多数据[来源请求])
+4.3英寸宽显示屏TFT液晶
+480×272 像素（16：9）、1,677万色
+最大亮度约400cd／m2；官方固件锁定为200/180/130/80 cd／m2四个亮度
+内置立体声扬声器
+IEEE 802.11b标准（Wi-Fi）
+USB 2.0 High Speed mini-B Type
+Memory Stick PRO Duo（MagicGate・高速发送）
+模拟视频输出（进行游戏必需使用色差或D端子）
+外部电源供给端子
+本体电源输入端子（锂离子电池）
+耳机／麦克风端子
+播放专用UMD光盘驱动器
+内含锂离子电池（3.6V/1,200mAh）
+PSP专用外接电源（100～240V）
+约189g（含电池）
+
+PSP-3000[编辑]
+
+PlayStation Portable-3000
+
+制造商
+Sony Computer Entertainment
+
+
+型式
+掌上型游戏机
+
+
+世代
+第七代
+
+
+产品生命周期
+
+ 2008年10月15日
+ 2008年10月14日
+ 2008年10月16日
+
+
+媒体
+UMD
+
+
+CPU
+MIPS R4000-based; clocked from 1 to 333 MHz
+
+
+存储空间
+Memory Stick PRO Duo
+
+
+连接接口
+Wi-Fi（802.11b）
+
+
+在线服务
+PSN
+
+
+前代机种
+PlayStation Portable Slim & Lite（Model PSP-2000）
+
+
+后继机种
+PlayStation Vita
+
+
+PSP-3000，是索尼电脑娱乐（SCEI）PlayStation Portable Slim & Lite的升级版，2008年10月14至16日在全球不同地区分别上市。[5]
+
+
+
+
+PSP-3007跃动蓝（PSP-3007 VB）
+
+
+
+MIPS 32bit内核R4000×2)，1～333 MHz
+FLOPS：2.6Gflops（333MHz运转时）
+Cache：L1 32k
+170 x 18.6 x 74毫米（长x高x宽）
+主记忆体：64MB
+4.3英寸宽屏幕TFT液晶
+480×272像素（16：9）、1,677万色
+内置立体声扬声器
+IEEE 802.11b标准（Wi-Fi）
+USB2.0 High Speed mini-B Type
+Memory Stick PRO Duo（MagicGate・高速传送）
+模拟图像输出
+外部电源供给端子
+本体电源输入端子（锂离子电池）
+图像／耳机／麦克风端子
+麦克风
+播放专用UMD光驱
+内含锂离子电池（3.6V/1,200mAh）
+PSP专用外接电源（100～240V）
+约189g（含电池）[6]
+
+软件[编辑]
+主条目：PlayStation Portable系统软件
+
+XMB（Cross Media Bar）可以直觉性的操作
+
+音乐
+视频
+图片
+
+
+安全技术
+
+128位AES加密
+
+
+访问控制
+
+区域码
+年龄限制
+
+
+无线通信功能
+
+Infrastructure mode（通过无线基台进行多部PSP的连接）
+Ad hoc mode（最大16部PSP之间直接互相连接）
+
+
+搭载爱可信制网页浏览器NetFront。
+搭载Adobe Systems制Macromedia Flash Player 6.0。
+搭载安全性软件RSA Security制RSA BSAFE。
+可从浏览器中对存储卡上的“.txt”，“.htm”及“.html”类型文件进行浏览（输入方式为“file:/*.txt”）。
+搭载R∞M功能（PlayStation Portable上的社区空间，和PlayStation Home功能相似）
+
+周边附属配件[编辑]
+
+
+
+
+PSP多款官方周边附属配件
+
+
+
+
+
+
+Memory Stick PRO Duo 1GB和Memory Stick Duo 32MB
+
+
+SCEI制[编辑]
+PSP-1000用[编辑]
+
+电池组
+
+PSP-110 DC 3.6V 1800mAh（与PSP-1000主机附属的相同）
+PSP-280G DC 3.6V 2200mAh
+
+
+电池充电器PSP-190
+线控设备与耳机（浮云白PSP-140G）
+
+PSP-2000、PSP-3000两用[编辑]
+
+电池组
+
+PSP-S110G DC 3.6V 1200mAh（与PSP-2000主机附属的相同）
+
+
+线控设备与耳机PSP-S140G
+模拟输出用接线
+
+视频色差连接线（游戏的映像输出必须要有支持循序扫描的电视）
+
+PSP-S180 色差连接线、约2.5m
+
+
+
+
+
+PSP-1000、PSP-2000、PSP-3000通用[编辑]
+
+交流电转换器（与PSP主机附属的相同）
+车用转接器PSP-180G
+吊带
+
+
+Memory Stick Duo
+
+Memory Stick PRO Duo 1GB\2GB\4GB\8GB\16GB\32G（更新3.8版本后可用）
+Memory Stick Duo 32MB
+
+
+PSP专用充电器（PSP-192T，台湾专用型)
+附属收藏包
+擦拭布
+
+地区版本[编辑]
+
+PSP-X000 日本
+PSP-X001 北美
+PSP-X002 澳大利亚/新西兰
+PSP-X003 英国
+PSP-X004 欧洲
+PSP-X005 韩国
+PSP-X006 香港/马来西亚/新加坡
+PSP-X007 台湾
+PSP-X008 俄罗斯
+PSP-X009 中国大陆
+PSP-X010 墨西哥
+PSP-X011
+PSP-X012
+
+SONY制[编辑]
+
+LocationFree Base Station (LF-PK1)
+
+链接上Base Station可以使PSP以LocationFree Player的方式来活用。
+
+
+
+原厂以外的主要商品[编辑]
+
+液晶保护膜
+由各厂商发售的液晶保护用膜，如HORI。于电玩店等贩售。因PSP的画面易沾上指纹及灰尘加上贩卖PSP主机利润低的关系（这是游戏机整体的状况，不限于专指PSP）有标注上“请使用保护膜”的电玩店也不少。依商品的不同而有透明度、视频清晰度、视角、易贴度等等差异，挑选时有必要注意且PSP不适应高温多湿而有会使机械的寿命缩短，最糟的情况下有破损的可能。
+Memory Stick
+由闪迪、Lexar等贩售。
+
+除此之外还有贩售坚固的EVA制的收纳包、大容量电池和UMD收纳盒等的产品。
+缺点[编辑]
+
+由于PSP的摇杆较为脆弱，不少玩家也有摇杆断裂的情况。
+PSP显示屏有入尘问题，而其UMD外表上的金属环也容易被刮伤。
+PSP1000型的部分机器存在飞盘问题。
+
+参见[编辑]
+
+PlayStation Portable系统软件
+UMD
+PlayStation Vita
+便携式游戏机
+
+参考文献[编辑]
+
+
+^ PlayStation Portable - VGChartz
+^ SONY COMPUTER ENTERTAINMENT ANNOUNCES ITS NEXT GENERATION PORTABLE ENTERTAINMENT SYSTEM. Sony Computer Entertainment Inc. [2011-01-27]. （原始内容存档于2011-01-28） （英语）. 
+^ Anoop Gantayat. Bandai Bundles DVDs and UMDs:New anime to be released on DVD and DVD and UMD. Trust us, that makes sense. IGN. 2005-04-18. 
+^ PSP E-1000 Review. PSP E-1000 Review. Eurogamer. [21 February 2012]. 
+^ [1]
+^ [2]
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：PlayStation Portable
+
+
+
+PlayStation Asia （亚洲语言）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+PlayStation
+
+
+
+
+
+
+
+
+
+索尼交互娱乐
+索尼交互娱乐全球工作室
+
+
+
+
+
+
+
+
+游戏机
+
+
+
+
+家用平台
+
+
+
+PlayStation
+
+机型（英语：PlayStation models）
+硬件（英语：PlayStation technical specifications）
+
+
+PlayStation 2
+
+机型（英语：PlayStation models）
+硬件（英语：PlayStation technical specifications）
+
+
+PlayStation 3
+
+机型（英语：PlayStation models）
+硬件
+系统软件
+
+
+PlayStation 4
+
+硬件（英语：PlayStation technical specifications）
+系统软件
+
+
+
+
+
+
+
+
+
+
+便携平台
+
+
+
+PlayStation Portable
+
+系统软件
+
+
+PlayStation Vita
+
+系统软件
+
+
+
+
+
+
+
+
+
+
+多媒体平台
+
+
+
+PocketStation（英语：PocketStation）
+PSX
+PlayStation TV
+
+
+
+
+
+
+
+
+
+
+
+游戏
+
+
+
+
+PS1游戏
+
+
+
+最畅销
+最经典（英语：Lists of PS one Classics）
+
+北美（英语：List of PS one Classics (North America)）
+PAL区（英语：List of PS one Classics (PAL region)）
+日本（英语：List of PS one Classics (Japan)）
+
+
+
+
+
+
+
+
+
+
+PS2游戏
+
+
+
+最畅销
+在线游戏（英语：List of PlayStation 2 online games）
+高清游戏（英语：List of PlayStation 2 games with alternate display modes）
+兼容PS3的PS2游戏（英语：List of PlayStation 2 Classics for PlayStation 3）
+兼容PS4的PS2游戏（英语：List of PlayStation 2 games for PlayStation 4）
+
+
+
+
+
+
+
+
+PS3游戏
+
+
+
+最畅销（英语：List of best-selling PlayStation 3 video games）
+光盘发行
+数字发行（英语：List of download-only PlayStation 3 games）
+双渠道发行（英语：List of PlayStation 3 disc games released for download）
+兼容PS3的PS和PS2游戏（英语：List of PlayStation and PlayStation 2 games compatible with PlayStation 3）
+3D游戏（英语：List of PlayStation 3 games with 3D support）
+PS Move游戏（英语：List of PlayStation Move games）
+PS Now游戏（英语：List of PlayStation Now games）
+
+
+
+
+
+
+
+
+PS4游戏
+
+
+
+最畅销（英语：List of best-selling PlayStation 4 video games）
+光盘发行（英语：List of PlayStation 4 games released on disc）
+PSVR游戏（英语：List of PlayStation VR games）
+3D游戏
+
+
+
+
+
+
+
+
+PSP游戏
+
+
+
+双渠道发行（英语：List of downloadable PlayStation Portable games）
+系统软件兼容性（英语：List of PlayStation Portable system software compatibilities）
+PS Minis（英语：List of PlayStation minis）
+
+
+
+
+
+
+
+
+其他
+
+
+
+PSV游戏
+PS Mobile游戏（英语：List of PlayStation Mobile games）
+TurboGrafx-16游戏（英语：List of PlayStation Store TurboGrafx-16 games）
+NEOGEO Station（英语：NEOGEO Station）
+高清复刻游戏（英语：High-definition remasters for PlayStation consoles）
+即时游戏
+
+北美区（英语：List of Instant Game Collection games (North America)）
+PAL区（英语：List of Instant Game Collection games (PAL region)）
+亚洲区（英语：List of Instant Game Collection games (Asia)）
+日本区（英语：List of Instant Game Collection games (Japan)）
+中国区（英语：List of Instant Game Collection games (China)）
+
+
+
+
+
+
+
+
+
+
+再版
+
+
+
+Greatest Hits
+Essentials（英语：Essentials (PlayStation)）
+The Best
+BigHit Series（英语：BigHit Series）
+
+
+
+
+
+
+
+
+
+
+
+网络
+
+
+
+PlayStation Network
+2011年服务瘫痪
+中央车站（英语：Central Station (online gaming service)）
+FirstPlay（英语：FirstPlay）
+PlayStation App
+PlayStation Blog（英语：PlayStation Blog）
+PlayStation Home
+PlayStation Mobile（英语：PlayStation Mobile）
+PlayStation Music（英语：PlayStation Music）
+PlayStation Now
+PlayStation Store
+PlayStation Video（英语：PlayStation Video）
+PlayStation Vue（英语：PlayStation Vue）
+PS2在线（英语：PlayStation 2 online functionality）
+PSP网络会客室（英语：Room for PlayStation Portable）
+VidZone（英语：VidZone）
+
+
+
+
+
+
+
+
+配件
+
+
+
+
+控制器
+
+
+
+PS手柄（英语：PlayStation Controller）
+PS鼠标（英语：PlayStation Mouse）
+模拟游戏杆（英语：PlayStation Analog Joystick）
+双模拟手柄（英语：Dual Analog Controller）
+DualShock
+Sixaxis（英语：Sixaxis）
+PlayStation Move
+
+
+
+
+
+
+
+
+摄像头
+
+
+
+EyeToy（英语：EyeToy）
+Go!Cam（英语：Go!Cam）
+PS Eye（英语：PlayStation Eye）
+PS摄像头（英语：PlayStation Camera）
+
+
+
+
+
+
+
+
+杂项
+
+
+
+多接头插件（英语：PlayStation Multitap）
+链路电缆（英语：PlayStation Link Cable）
+PS2配件（英语：PlayStation 2 accessories）
+PS2耳机（英语：PlayStation 2 Headset）
+PS3配件（英语：PlayStation 2 accessories）
+PlayTV（英语：PlayTV）
+魔法书（英语：Wonderbook）
+PlayStation VR
+
+
+
+
+
+
+
+
+
+
+
+包
+
+
+
+Net Yaroze（英语：Net Yaroze）
+PS2 Linux（英语：Linux for PlayStation 2）
+GScube（英语：GScube）
+OtherOS（英语：OtherOS）
+Zego（英语：Zego）
+
+
+
+
+
+
+
+
+媒体
+
+
+
+
+杂志
+
+
+
+PS美国官方杂志
+PS官方杂志
+PS英国官方杂志
+PS澳洲官方杂志（英语：PlayStation Official Magazine – Australia）
+PlayStation Underground（英语：PlayStation Underground）
+
+
+
+
+
+
+
+
+广告
+
+
+
+双重人生（英语：Double Life (PlayStation ad)）
+游戏巅峰（英语：Mountain (advertisement)）
+PS市场推广（英语：Sony marketing）
+
+
+
+
+
+
+
+
+角色
+
+
+
+多乐猫
+多边形人（英语：Polygon Man）
+凯文·巴特勒（英语：Kevin Butler (character)）
+马库斯·里弗斯（英语：Marcus Rivers）
+
+
+
+
+
+
+
+
+
+
+
+街机主板
+
+
+
+系统11（英语：Namco System 11）
+系统12（英语：Namco System 12）
+系统10（英语：Namco System 10）
+系统246
+系统357（英语：Namco System 357）
+
+
+
+
+
+
+
+
+相关产品
+
+
+
+Super NES CD-ROM（英语：Super NES CD-ROM）
+Sony Ericsson Xperia Play
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+第七世代游戏机
+
+
+
+
+
+
+家用游戏机
+
+
+
+PlayStation 3
+Xbox 360
+Wii
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+任天堂DS家族
+
+任天堂DS
+DS Lite
+任天堂DSi
+
+
+PlayStation Portable
+
+
+
+
+
+
+
+
+微型游戏机
+
+
+
+Zeebo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+掌上游戏机
+
+
+
+
+
+
+万代
+
+
+
+WonderSwan
+
+WonderSwan Color
+SwanCrystal
+
+
+拓麻歌子
+携带机
+
+
+
+
+
+
+
+
+Entex
+
+
+
+Select-A-Game
+Adventurevision
+
+
+
+
+
+
+
+
+Game Park（英语：Game Park）/Holdings（英语：GamePark Holdings）
+
+
+
+GP32（英语：GP32）
+GP2X（英语：GP2X）
+XGP（英语：XGP）（从未发售）
+GP2X Wiz（英语：GP2X Wiz）
+GP2X Caanoo（英语：GP2X Caanoo）
+
+
+
+
+
+
+
+
+任天堂
+
+
+
+Game & Watch
+Game Boy
+
+Pocket
+Light
+Color
+
+
+Game Boy Advance
+
+SP
+Micro
+
+
+任天堂DS
+
+任天堂DS Lite
+任天堂DSi
+
+
+任天堂3DS
+
+2DS
+新3DS
+新2DS XL/LL
+
+
+任天堂Switch
+
+
+
+
+
+
+
+
+诺基亚
+
+
+
+N-Gage
+N-Gage QD（英语：N-Gage QD）
+
+
+
+
+
+
+
+
+世嘉
+
+
+
+Game Gear
+Nomad
+Jewelpod
+
+
+
+
+
+
+
+
+SNK
+
+
+
+Neo Geo Pocket
+Neo Geo Pocket Color
+Neo Geo X（英语：Neo Geo X）
+
+
+
+
+
+
+
+
+索尼
+
+
+
+PlayStation Portable
+
+Slim & Lite
+PSP Go
+
+
+PlayStation Vita
+
+PlayStation Vita TV
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+
+1970年代
+
+
+
+
+Microvision
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+Nelsonic Industries（英语：Nelsonic Industries）
+Electronika（英语：Electronika）
+Epoch Game Pocket Computer
+Atari Lynx
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+PC Engine GT
+Game Master (游戏机)（英语：Game Master (console)）
+Gamate（英语：Gamate）
+Barcode Battler（英语：Barcode Battler）
+Watara Supervision（英语：Watara Supervision）
+Mega Duck（英语：Mega Duck）
+R-Zone（英语：R-Zone）
+Game.com（英语：Game.com）
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+Tapwave Zodiac（英语：Tapwave Zodiac）
+GameKing（英语：GameKing）
+GPANG service（英语：GPANG）
+Didj（英语：Leapfrog Didj）
+Leapster（英语：Leapster）
+Gizmondo（英语：Gizmondo）
+Coleco Sonic（英语：Coleco Sonic）
+Dingoo（英语：Dingoo A320）
+V-Smile Pocket（英语：V-Smile Pocket）
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+JXD devices（英语：JXD）
+Pandora (游戏机)（英语：Pandora (console)）
+DragonBox Pyra（英语：DragonBox Pyra）
+Shield Portable
+GCW Zero（英语：GCW Zero）
+GPD Win（英语：GPD Win）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+列表
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+索尼公司
+
+
+
+
+
+
+组织架构
+
+
+
+
+重要人物
+
+
+
+井深大
+盛田昭夫
+岩间和夫
+大贺典雄
+出井伸之
+安藤国威
+霍华德·斯金格
+中钵良治
+久夛良木健
+平井一夫
+吉田宪一郎
+
+
+
+
+
+
+
+
+公司结构
+
+
+
+部件解决方案集团
+视频产品及解决方案部门
+
+专业解决方案集团
+数码视频业务集团
+
+
+音视频业务集团
+视觉产品
+医疗业务单元
+索尼金融控股
+索尼移动通信
+索尼交互娱乐
+索尼音乐娱乐
+索尼影视娱乐
+索尼/联合电视音乐出版
+
+
+
+
+
+
+
+
+海外分公司
+
+
+
+美国索尼
+英国索尼
+法国索尼
+德国索尼
+瑞士索尼
+台湾索尼
+索尼（中国）
+香港索尼
+
+
+
+
+
+
+
+100px
+
+
+
+
+
+
+电子业务
+
+
+
+
+制造设计
+
+
+
+Japan Display
+索尼光领
+EMCS
+LSI
+
+
+
+
+
+
+
+
+消费性电子
+
+
+
+α (Alpha)
+BRAVIA
+Cyber-shot
+Handycam
+Walkman
+Xperia
+Sony Tablet
+
+
+
+
+
+
+
+
+广播级设备
+
+
+
+BETACAM
+DVCAM
+XDCAM
+HDCAM
+CineAlta
+
+
+
+
+
+
+
+
+应用软件
+
+
+
+XMB
+SonicStage
+PMB
+Sony Vegas
+
+
+
+
+
+
+
+
+电子技术
+
+
+
+Aperios
+ATRAC3
+AVCHD
+BETAMAX
+Memory Stick
+CD
+DVD
+Cell
+BIONZ
+DRC-MF
+Blu-Ray
+MD
+MD Data
+UMD
+QRIO
+SACD
+DSD
+S/PDIF
+SDDS
+SXRD
+Trinitron
+RealityMAX
+FeliCa
+x.v.Color
+G镜头
+Archival Disc
+
+
+
+
+
+
+
+
+
+
+
+游戏业务
+
+
+
+
+游戏制作公司
+
+
+
+SIE全球工作室
+
+顽皮狗
+圣塔莫尼卡工作室
+日本工作室
+Polyphony Digital等
+
+
+Cellius（英语：Cellius）
+
+
+
+
+
+
+
+
+游戏主机
+
+
+
+PlayStation系列
+初代
+2
+
+X
+
+
+3
+4
+Portable
+
+GO
+
+
+Vita
+Vita TV
+
+
+
+
+
+
+
+
+网络服务
+
+
+
+PlayStation Network
+
+PlayStation Store
+PlayStation Plus
+PlayStation Now
+PlayStation Home
+
+
+
+
+
+
+
+
+
+
+开发工具提供
+
+
+
+SN Systems（英语：SN Systems）
+
+
+
+
+
+
+
+
+
+
+
+娱乐业务
+
+
+
+
+影视公司
+
+
+
+索尼影视娱乐
+
+台湾索尼影业
+
+
+哥伦比亚电影公司
+索尼经典视频
+索尼动画
+索尼影视电视
+三星影业
+
+
+
+
+
+
+
+
+媒体频道
+
+
+
+AXN
+Animax
+
+Animax Asia
+
+
+Sony Channel
+
+
+
+
+
+
+
+
+音乐公司
+
+
+
+索尼音乐娱乐
+
+台湾索尼音乐
+香港索尼音乐
+索尼音乐娱乐中国
+
+
+EMI
+Gracenote
+J唱片公司
+哥伦比亚唱片
+RCA唱片
+索尼/联合电视音乐出版
+日本索尼音乐
+
+
+
+
+
+
+
+
+动画公司
+
+
+
+Aniplex
+
+A-1 Pictures
+番町制作所
+
+
+
+
+
+
+
+
+
+
+
+
+
+网上发布平台
+
+
+
+索尼娱乐网络
+
+
+
+
+
+
+
+
+金融业务
+
+
+
+索尼金融控股
+
+索尼生命保险（日语：ソニー生命保険）
+索尼损害保险（日语：ソニー損害保険）
+索尼银行
+索尼Life Care
+
+
+
+
+
+
+
+
+
+
+其它业务
+
+
+
+So-net
+索尼仙台FC
+Sony Creative Software
+Sonic Foundry
+索尼学园
+
+湘北短期大学
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+销售
+
+
+
+Sony Store
+
+
+
+
+
+
+
+
+事件
+
+
+
+SONY定时器
+笔记本电脑锂电池全球召回
+看门人丑闻
+
+
+
+
+
+
+
+
+展览
+
+
+
+Sony Expo
+Sony Fair
+索尼博乐汇
+
+
+
+
+
+
+
+
+结束品牌
+
+
+
+VAIO
+AIBO
+AIWA
+Clié
+Discman
+PSX
+QUALIA
+Mylo
+WEGA
+LocationFree
+Mavica
+rolly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 7553671-7
+
+
+
+
+
+
+
+
+
+
+
+
+分类：PlayStation Portable索尼游戏机掌上游戏机数字音频播放器第七世代游戏机2004年面世的产品隐藏分类：CS1英语来源 (en)自2014年8月需补充来源的条目拒绝当选首页新条目推荐栏目的条目使用过时图像语法的页面自2008年7月有未列明来源语句的条目缺少文件的条目包含规范控制信息的维基百科条目

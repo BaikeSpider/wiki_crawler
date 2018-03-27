@@ -1,0 +1,2 @@
+Paradox of analysis
+The paradox of analysis is a paradox that concerns how an analysis can be both correct and informative. Although the problem takes its origin from the conflict in Plato's Meno, it was formulated in its complete form by philosopher G. E. Moore in his book Principia Ethica, and first named by C. H. Langford in his 1942 article "The Notion of Analysis in Moore's Philosophy".

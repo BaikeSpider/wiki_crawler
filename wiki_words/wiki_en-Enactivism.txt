@@ -1,0 +1,221 @@
+Enactivism
+Enactivism argues that cognition arises through a dynamic interaction between an acting organism and its environment.[1] It claims that our environment is one which we selectively create through our capacities to interact with the world.[2] "Organisms do not passively receive information from their environments, which they then translate into internal representations. Natural cognitive systems...participate in the generation of meaning ...engaging in transformational and not merely informational interactions: they enact a world."[3] These authors suggest that the increasing emphasis upon enactive terminology presages a new era in thinking about cognitive science.[3] How the actions involved in enactivism relate to age-old questions about free will remains a topic of active debate.[4]
+The term 'enactivism' is close in meaning to 'enaction', defined as "the manner in which a subject of perception creatively matches its actions to the requirements of its situation".[5] The introduction of the term enaction in this context is attributed to Francisco Varela, Evan Thompson, and Eleanor Rosch,[5][6] who proposed the name to "emphasize the growing conviction that cognition is not the representation of a pre-given world by a pre-given mind but is rather the enactment of a world and a mind on the basis of a history of the variety of actions that a being in the world performs".[7] This was further developed by Thompson and others,[1] to place emphasis upon the idea that experience of the world is a result of mutual interaction between the sensorimotor capacities of the organism and its environment.[6]
+The initial emphasis of enactivism upon sensorimotor skills has been criticized as "cognitively marginal",[8] but it has been extended to apply to higher level cognitive activities, such as social interactions.[3] "In the enactive view,... knowledge is constructed: it is constructed by an agent through its sensorimotor interactions with its environment, co-constructed between and within living species through their meaningful interaction with each other. In its most abstract form, knowledge is co-constructed between human individuals in socio-linguistic interactions...Science is a particular form of social knowledge construction...[that] allows us to perceive and predict events beyond our immediate cognitive grasp...and also to construct further, even more powerful scientific knowledge."[9]
+Enactivism is closely related to situated cognition and embodied cognition, and is presented as an alternative to cognitivism, computationalism, and Cartesian dualism.
+
+
+
+Contents
+
+
+1 Philosophical aspects
+2 Psychological aspects
+
+2.1 Enactive views of perception
+2.2 Participatory sense-making
+
+
+3 Educational aspects
+4 Artificial intelligence aspects
+5 See also
+6 References
+7 Further reading
+8 Notes
+9 External links
+
+
+
+Philosophical aspects[edit]
+Enactivism is one of a cluster of related theories sometimes known as the 4Es.[10] As described by Mark Rowlands, mental processes are:
+
+Embodied involving more than the brain, including a more general involvement of bodily structures and processes.
+Embedded functioning only in a related external environment.
+Enacted involving not only neural processes, but also things an organism does.
+Extended into the organism's environment.
+
+Enactivism proposes an alternative to dualism as a philosophy of mind, in that it emphasises the interactions between mind, body and the environment, seeing them all as inseparably intertwined in mental processes.[11] The self arises as part of the process of an embodied entity interacting with the environment in precise ways determined by its physiology. In this sense, individuals can be seen to "grow into" or arise from their interactive role with the world.[12]
+
+"Enaction is the idea that organisms create their own experience through their actions. Organisms are not passive receivers of input from the environment, but are actors in the environment such that what they experience is shaped by how they act."[13]
+
+In The Tree of Knowledge Maturana & Varela proposed the term enactive[14] "to evoke the view of knowledge that what is known is brought forth, in contraposition to the more classical views of either cognitivism[Note 1] or connectionism.[Note 2] They see enactivism as providing a middle ground between the two extremes of representationalism and solipsism. They seek to "confront the problem of understanding how our existence-the praxis of our living- is coupled to a surrounding world which appears filled with regularities that are at every instant the result of our biological and social histories.... to find a via media: to understand the regularity of the world we are experiencing at every moment, but without any point of reference independent of ourselves that would give certainty to our descriptions and cognitive assertions. Indeed the whole mechanism of generating ourselves, as describers and observers tells us that our world, as the world which we bring forth in our coexistence with others, will always have precisely that mixture of regularity and mutability, that combination of solidity and shifting sand, so typical of human experience when we look at it up close."[Tree of Knowledge, p. 241]
+Enactivism also addresses the hard problem of consciousness, referred to by Thompson as part of the explanatory gap in explaining how consciousness and subjective experience are related to brain and body.[15] "The problem with the dualistic concepts of consciousness and life in standard formulations of the hard problem is that they exclude each other by construction".[16] Instead, according to Thompson's view of enactivism, the study of consciousness or phenomenology as exemplified by Husserl and Merleau-Ponty is to complement science and its objectification of the world. "The whole universe of science is built upon the world as directly experienced, and if we want to subject science itself to rigorous scrutiny and arrive at a precise assessment of its meaning and scope, we must begin by reawakening the basic experience of the world of which science is the second-order expression" (Merleau-Ponty, The phenomenology of perception as quoted by Thompson, p. 165). In this interpretation, enactivism asserts that science is formed or enacted as part of humankind's interactivity with its world, and by embracing phenomenology "science itself is properly situated in relation to the rest of human life and is thereby secured on a sounder footing."[17][18]
+Enaction has been seen as a move to conjoin representationalism with phenomenalism, that is, as adopting a constructivist epistemology, an epistemology centered upon the active participation of the subject in constructing reality.[19][20] However, 'constructivism' focuses upon more than a simple 'interactivity' that could be described as a minor adjustment to 'assimilate' reality or 'accommodate' to it.[21] Constructivism looks upon interactivity as a radical, creative, revisionist process in which the knower constructs a personal 'knowledge system' based upon their experience and tested by its viability in practical encounters with their environment. Learning is a result of perceived anomalies that produce dissatisfaction with existing conceptions.[22]
+How does constructivism relate to enactivism? From the above remarks it can be seen that Glasersfeld expresses an interactivity between the knower and the known quite acceptable to an enactivist, but does not emphasize the structured probing of the environment by the knower that leads to the "perturbation relative to some expected result" that then leads to a new understanding.[22] It is this probing activity, especially where it is not accidental but deliberate, that characterizes enaction, and invokes affect,[23] that is, the motivation and planning that lead to doing and to fashioning the probing, both observing and modifying the environment, so that "perceptions and nature condition one another through generating one another."[24] The questioning nature of this probing activity is not an emphasis of Piaget and Glasersfeld.
+Sharing enactivism's stress upon both action and embodiment in the incorporation of knowledge, but giving Glasersfeld's mechanism of viability an evolutionary emphasis,[25] is evolutionary epistemology. Inasmuch as an organism must reflect its environment well enough for the organism to be able to survive in it, and to be competitive enough to be able to reproduce at sustainable rate, the structure and reflexes of the organism itself embody knowledge of its environment. This biology-inspired theory of the growth of knowledge is closely tied to universal Darwinism, and is associated with evolutionary epistemologists such as Karl Popper, Donald T. Campbell, Peter Munz, and Gary Cziko.[26] According to Munz, "an organism is an embodied theory about its environment... Embodied theories are also no longer expressed in language, but in anatomical structures or reflex responses, etc."[26][27]
+Psychological aspects[edit]
+McGann & others[28] argue that enactivism attempts to mediate between the explanatory role of the coupling between cognitive agent and environment and the traditional emphasis on brain mechanisms found in neuroscience and psychology. In the interactive approach to social cognition developed by De Jaegher & others,[29][30][31] the dynamics of interactive processes are seen to play significant roles in coordinating interpersonal understanding, processes that in part include what they call participatory sense-making.[32][33] Recent developments of enactivism in the area of social neuroscience involve the proposal of The Interactive Brain Hypothesis[34] where social cognition brain mechanisms, even those used in non-interactive situations, are proposed to have interactive origins.
+Enactive views of perception[edit]
+In the enactive view, perception "is not conceived as the transmission of information but more as an exploration of the world by various means. Cognition is not tied into the workings of an 'inner mind', some cognitive core, but occurs in directed interaction between the body and the world it inhabits."[35]
+Alva Noë in advocating an enactive view of perception[36] sought to resolve how we perceive three-dimensional objects, on the basis of two-dimensional input. He argues that we perceive this solidity (or 'volumetricity') by appealing to patterns of sensorimotor expectations. These arise from our agent-active 'movements and interaction' with objects, or 'object-active' changes in the object itself. The solidity is perceived through our expectations and skills in knowing how the object's appearance would change with changes in how we relate to it. He saw all perception as an active exploration of the world, rather than being a passive process, something which happens to us.
+Noë's idea of the role of 'expectations' in three-dimensional perception has been opposed by several philosophers, notably by Andy Clark.[37] Clark points to difficulties of the enactive approach. He points to internal processing of visual signals, for example, in the ventral and dorsal pathways, the two-streams hypothesis. This results in an integrated perception of objects (their recognition and location, respectively) yet this processing cannot be described as an action or actions. In a more general criticism, Clark suggests that perception is not a matter of expectations about sensorimotor mechanisms guiding perception. Rather, although the limitations of sensorimotor mechanisms constrain perception, this sensorimotor activity is drastically filtered to fit current needs and purposes of the organism, and it is these imposed 'expectations' that govern perception, filtering for the 'relevant' details of sensorimotor input (called "sensorimotor summarizing").[37]
+Another application of enaction to perception is analysis of the human hand. The many remarkably demanding uses of the hand are not learned by instruction, but through a history of engagements that lead to the acquisition of skills. According to one interpretation, it is suggested that "the hand [is]...an organ of cognition", not a faithful subordinate working under top-down instruction, but a partner in a "bi-directional interplay between manual and brain activity."[38] According to Daniel Hutto: "Enactivists are concerned to defend the view that our most elementary ways of engaging with the world and others - including our basic forms of perception and perceptual experience - are mindful in the sense of being phenomenally charged and intentionally directed, despite being non-representational and content-free."[39] Hutto calls this position 'REC' (Radical Enactive Cognition): "According to REC, there is no way to distinguish neural activity that is imagined to be genuinely content involving (and thus truly mental, truly cognitive) from other non-neural activity that merely plays a supporting or enabling role in making mind and cognition possible."[39]
+Participatory sense-making[edit]
+Hanne De Jaegher and Ezequiel Di Paolo (2007)[32] have extended the enactive concept of sense-making[16] into the social domain. The idea takes as its departure point the process of interaction between individuals in a social encounter.[40] De Jaegher and Di Paolo argue that the interaction process itself can take on a form of autonomy (operationally defined). This allows them to define social cognition as the generation of meaning and its transformation through interacting individuals.
+The notion of participatory sense-making has led to the proposal that interaction processes can sometimes play constitutive roles in social cognition (De Jaegher, Di Paolo, Gallagher, 2010).[33] It has been applied to research in social neuroscience[34][41] and autism.[42]
+In a similar vein, "an inter-enactive approach to agency holds that the behavior of agents in a social situation unfolds not only according to their individual abilities and goals, but also according to the conditions and constraints imposed by the autonomous dynamics of the interaction process itself".[43] According to Torrance, enactivism involves five interlocking themes related to the question "What is it to be a (cognizing, conscious) agent?" It is:[43]
+
+1. to be a biologically autonomous (autopoietic) organism
+2. to generate significance or meaning, rather than to act via...updated internal representations of the external world
+3. to engage in sense-making via dynamic coupling with the environment
+4. to 'enact' or 'bring forth' a world of significances by mutual co-determination of the organism with its enacted world
+5. to arrive at an experiential awareness via lived embodiment in the world.
+
+Torrance adds that "many kinds of agency, in particular the agency of human beings, cannot be understood separately from understanding the nature of the interaction that occurs between agents." That view introduces the social applications of enactivism. "Social cognition is regarded as the result of a special form of action, namely social interaction...the enactive approach looks at the circular dynamic within a dyad of embodied agents."[44]
+In cultural psychology, enactivism is seen as a way to uncover cultural influences upon feeling, thinking and acting.[45] Baerveldt and Verheggen argue that "It appears that seemingly natural experience is thoroughly intertwined with sociocultural realities." They suggest that the social patterning of experience is to be understood through enactivism, "the idea that the reality we have in common, and in which we find ourselves, is neither a world that exists independently from us, nor a socially shared way of representing such a pregiven world, but a world itself brought forth by our ways of communicating and our joint action....The world we inhabit is manufactured of 'meaning' rather than 'information'.[46]
+Luhmann attempted to apply Maturana and Varela's notion of autopoiesis to social systems.[47] "A core concept of social systems theory is derived from biological systems theory: the concept of autopoiesis. Chilean biologist Humberto Maturana come up with the concept to explain how biological systems such as cells are a product of their own production." "Systems exist by way of operational closure and this means that they each construct themselves and their own realities."[48]
+Educational aspects[edit]
+The first definition of enaction was introduced by psychologist Jerome Bruner,[49][50] who introduced enaction as 'learning by doing' in his discussion of how children learn, and how they can best be helped to learn.[51][52] He associated enaction with two other ways of knowledge organization: Iconic and Symbolic.[53]
+
+"Any domain of knowledge (or any problem within that domain of knowledge) can be represented in three ways: by a set of actions appropriate for achieving a certain result (enactive representation); by a set of summary images or graphics that stand for a concept without defining it fully (iconic representation); and by a set of symbolic or logical propositions drawn from a symbolic system that is governed by rules or laws for forming and transforming propositions (symbolic representation)"
+
+The term 'enactive framework' was elaborated upon by Francisco Varela and Humberto Maturana.[54]
+Sriramen argues that enactivism provides "a rich and powerful explanatory theory for learning and being."[55] and that it is closely related to both the ideas of cognitive development of Piaget, and also the social constructivism of Vygotsky.[55] Piaget focused on the child's immediate environment, and suggested cognitive structures like spatial perception emerge as a result of the child's interaction with the world.[56] According to Piaget, children construct knowledge, using what they know in new ways and testing it, and the environment provides feedback concerning the adequacy of their construction.[57] In a cultural context, Vygotsky suggested that the kind of cognition that can take place is not dictated by the engagement of the isolated child, but is also a function of social interaction and dialogue that is contingent upon a sociohistorical context.[58] Enactivism in educational theory "looks at each learning situation as a complex system consisting of teacher, learner, and context, all of which frame and co-create the learning situation."[59] Enactivism in education is very closely related to situated cognition,[60] which holds that "knowledge is situated, being in part a product of the activity, context, and culture in which it is developed and used."[61] This approach challenges the "separating of what is learned from how it is learned and used."[61]
+Artificial intelligence aspects[edit]
+
+
+
+
+
+
+This section contains information of unclear or questionable importance or relevance to the article's subject matter. Please help improve this section by clarifying or removing superfluous information. If importance cannot be established, the section is likely to be moved to another article, pseudo-redirected, or removed.
+Find sources: "Enactivism" – news · newspapers · books · scholar · JSTOR (May 2014) (Learn how and when to remove this template message)
+
+
+
+Main article: Enactive interfaces
+The ideas of enactivism regarding how organisms engage with their environment have interested those involved in robotics and man-machine interfaces. The analogy is drawn that a robot can be designed to interact and learn from its environment in a manner similar to the way an organism does that,[62] and a human can interact with a computer-aided design tool or data base using an interface that creates an enactive environment for the user, that is, all the user's tactile, auditory, and visual capabilities are enlisted in a mutually explorative engagement, capitalizing upon all the user's abilities, and not at all limited to cerebral engagement.[63] In these areas it is common to refer to affordances as a design concept, the idea that an environment or an interface affords opportunities for enaction, and good design involves optimizing the role of such affordances.[64][65][66][67][68]
+The activity in the AI community also has influenced enactivism as whole. Referring extensively to modeling techniques for evolutionary robotics by Beer,[69] the modeling of learning behavior by Kelso,[70] and to modeling of sensorimotor activity by Saltzman,[71] McGann, De Jaegher, and Di Paolo discuss how this work makes the dynamics of coupling between an agent and its environment, the foundation of enactivism, "an operational, empirically observable phenomenon."[72] That is, the AI environment invents examples of enactivism using concrete examples that, although not as complex as living organisms, isolate and illuminate basic principles.
+See also[edit]
+
+
+Action-specific perception
+Autopoesis
+Biosemiotics
+Cognitive science
+Cognitive psychology
+Computational theory of mind
+Connectivism
+Cultural psychology
+Distributed cognition
+Embodied cognition
+Embodied embedded cognition
+Enactive interfaces
+Extended cognition
+Extended mind
+Externalism#Enactivism and embodied cognition
+Mind–body problem
+Phenomenology (philosophy)
+Representationalism
+Situated cognition
+Social cognition
+
+
+References[edit]
+
+
+^ a b Evan Thompson (2010). "Chapter 1: The enactive approach". Mind in life:Biology, phenomenology, and the sciences of mind (PDF). Harvard University Press. ISBN 978-0674057517.  ToC, first 65 pages, and index found here.
+^ Mark Rowlands (2010). "Chapter 3: The mind embedded §5 The mind enacted". The new science of the mind: From extended mind to embodied phenomenology. MIT Press. pp. 70 ff. ISBN 0262014556.  Rowlands attributes this idea to D M MacKay (1967). "Ways of looking at perception". In W Watthen-Dunn. Models for the perception of speech and visual form (Proceedings of a symposium). MIT Press. pp. 25 ff. 
+^ a b c Ezequiel A Di Paolo; Marieke Rhohde; Hanne De Jaegher (2014). "Horizons for the enactive mind: Values, social interaction, and play". In John Stewart; Oliver Gapenne; Ezequiel A Di Paolo. Enaction: Toward a New Paradigm for Cognitive Science. MIT Press. pp. 33 ff. ISBN 978-0262526012. 
+^ A collection of papers on this topic is introduced by Duccio Manetti; Silvano Zipoli Caiani (January 2011). "Agency: From embodied cognition to free will" (PDF). Humana Mente. 15: V–XIII. 
+^ a b John Protevi, ed. (2006). "Enaction". A Dictionary of Continental Philosophy. Yale University Press. pp. 169–170. ISBN 9780300116052. 
+^ a b Robert A Wilson; Lucia Foglia (July 25, 2011). Edward N. Zalta, ed. "Embodied Cognition: §2.2 Enactive cognition". The Stanford Encyclopedia of Philosophy (Fall 2011 Edition). 
+^ Francisco J Varela; Evan Thompson; Eleanor Rosch (1992). The embodied mind: Cognitive science and human experience. MIT Press. p. 9. ISBN 978-0262261234. 
+^ Andy Clark; Josefa Toribio (1994). "Doing without representing" (PDF). Synthese. 101: 401–434. doi:10.1007/bf01063896. 
+^ Marieke Rohde (2010). "§3.1 The scientist as observing subject". Enaction, Embodiment, Evolutionary Robotics: Simulation Models for a Post-Cognitivist Science of Mind. Atlantis Press. pp. 30 ff. ISBN 978-9078677239. 
+^ Mark Rowlands (2010, p. 3) attributes the term 4Es to Shaun Gallagher.
+^ Evan Thompson (2007). "The enactive approach". Mind in life (Paperback ed.). Harvard University Press. pp. 13 ff. ISBN 978-0674057517.  ToC, first 65 pages, and index found here
+^ Jeremy Trevelyan Burman (2006). "Book reviews: Consciousness & Emotion" (PDF). Journal of Consciousness Studies. 13 (12): 115–124.  From a review of Ralph D. Ellis; Natika Newton, eds. (2005). Consciousness & Emotion: Agency, conscious choice, and selective perception. John Benjamins Publishing. ISBN 9789027294616. 
+^ Edwin Hutchins (1996). Cognition in the Wild. MIT Press. p. 428. ISBN 9780262581462.  Quoted by Marcio Rocha (2011). "Cognitive, embodied or enacted? :Contemporary perspectives for HCI and interaction" (PDF). Transtechnology Research Reader. ISBN 978-0-9538332-2-1. 
+^ Humberto R Maturana; Francisco J Varela (1992). "Afterword". The tree of knowledge: the biological roots of human understanding (Revised ed.). Shambhala Publications Inc. p. 255. ISBN 978-0877736424. 
+^ Evan Thompson (2007). "Autonomy and emergence". Mind in life (Paperback ed.). Harvard University Press. pp. 37 ff. ISBN 978-0674057517.  See also the Introduction, p. x.
+^ a b Evan Thompson (2007). "Chapter 8: Life beyond the gap". Mind in life (Paperback ed.). Harvard University Press. p. 225. ISBN 978-0674057517. 
+^ Evan Thompson (2007). "Life can be known only by life". Mind in life (Paperback ed.). Harvard University Press. p. 165. ISBN 978-0674057517. 
+^ Thomas Baldwin (2003). "Part One: Merleau-Ponty's prospectus of his work". Maurice Merleau-Ponty: Basic Writings. Routledge. p. 65. ISBN 978-0415315869. Science has not and never will have, by its nature, the same significance qua form of being as the world which we perceive, for the simple reason that it is a rationale or explanation of that world. 
+^ Edmond Mutelesi (November 15, 2006). "Radical constructivism seen with Edmund Husserl as starting point". Constructivist foundations. 2 (1): 6–16. 
+^ Gabriele Chiari; M. Laura Nuzzo. "Constructivism". The Internet Encyclopaedia of Personal Construct Psychology. 
+^ Ernst von Glasersfeld (1974). "Report no. 14: Piaget and the Radical Constructivist Epistemology". In CD Smock; E von Glaserfeld. Epistemology and education. Follow Through Publications. pp. 1–24. 
+^ a b Ernst von Glasersfeld (1989). "Cognition, construction of knowledge and teaching" (PDF). Synthese. 80 (1): 121–140. doi:10.1007/bf00869951. 
+^ "The underpinnings of cognition are inextricable from those of affect, that the phenomenon of cognition itself is essentially bound up with affect.." See p. 104: Dave Ward; Mog Stapleton (2012). "Es are good. Cognition as enacted, embodied, embedded, affective and extended". In Fabio Paglieri. Consciousness in Interaction: The role of the natural and social context in shaping consciousness. John Benjamins Publishing. pp. 89 ff. ISBN 978-9027213525.  On-line version here.
+^ Olaf Diettrich (2006). "The biological boundary conditions for our classical physical world view". In Nathalie Gontier; Jean Paul van Bendegem; Diederik Aerts. Evolutionary Epistemology, Language and Culture. Springer. p. 88. ISBN 9781402033957. 
+^ "The notion of 'truth' is replaced with 'viability' within the subjects' experiential world." From Olaf Diettrich (2008). "Cognitive evolution; footnote 2". In Franz M. Wuketits; Christoph Antweiler. The handbook of evolution: The evolution of human societies and culture. Wiley-Blackwell. p. 61.  and in Evolutionary Epistemology, Language and Culture cited above, p. 90.
+^ a b Nathalie Gontier (2006). "Evolutionary Epistemology". Internet Encyclopedia of Philosophy. 
+^ Peter Munz (2002). Philosophical Darwinism: On the Origin of Knowledge by Means of Natural Selection. Routledge. p. 154. ISBN 9781134884841. 
+^ Marek McGann; Hanne De Jaegher; Ezequiel Di Paolo (2013). "Enaction and psychology". Review of General Psychology. 17 (2): 203–209. doi:10.1037/a0032935. 
+^ Shaun Gallagher (2001). "The practice of mind" (PDF). Journal of Consciousness Studies. 8 (5–7): 83–107. 
+^ Shaun Gallagher (2006). How the Body Shapes the Mind (Paperback ed.). Oxford University Press. ISBN 978-0199204168. 
+^ Matthew Ratcliffe (2008). Rethinking Commonsense Psychology: A Critique of Folk Psychology, Theory of Mind and Simulation. Palgrave Macmillan. ISBN 978-0230221208. 
+^ a b Hanne De Jaegher; Ezequiel Di Paolo (2007). "Participatory Sense-Making: An enactive approach to social cognition" (PDF). Phenomenology and the Cognitive Sciences. 6 (4): 485–507. doi:10.1007/s11097-007-9076-9. 
+^ a b Hanne De Jaegher; Ezequiel Di Paolo; Shaun Gallagher (2010). "Can social interaction constitute social cognition?" (PDF). Trends in Cognitive Sciences. 14 (10): 441–447. doi:10.1016/j.tics.2010.06.009. PMID 20674467. 
+^ a b Ezequiel Di Paolo; Hanne De Jaegher (June 2012). "The Interactive Brain Hypothesis". Frontiers in Human Neuroscience. 7 (6). doi:10.3389/fnhum.2012.00163. 
+^ Marek McGann; Steve Torrance (2005). "Doing It and Meaning It: And the relation between the two". In Ralph D. Ellis; Natika Newton. Consciousness & Emotion: Agency, conscious choice, and selective perception. John Benjamins Publishing. p. 184. ISBN 9789027294616. 
+^ Alva Noë (2004). "Chapter 1: The enactive approach to perception: An introduction". Action in Perception. MIT Press. pp. 1 ff. ISBN 9780262140881. 
+^ a b Andy Clark (March 2006). "Vision as Dance? Three Challenges for Sensorimotor Contingency Theory" (PDF). Psyche. 12 (1). 
+^ Daniel D Hutto, Erik Myin (2013). "A helping hand". Radicalizing Enactivism: Minds without content. MIT Press. pp. 46 ff. ISBN 9780262018548. 
+^ a b Daniel D Hutto; Erik Myin (2013). "Chapter 1: Enactivism: The radical line". Radicalizing Enactivism: Minds without content. MIT Press. pp. 12–13. ISBN 9780262018548. 
+^ Hanne De Jaegher; Ezequiel Di Paolo; Shaun Gallagher (2010). "Can social interaction constitute social cognition?". Trends in Cognitive Sciences. 14 (10): 441–447. doi:10.1016/j.tics.2010.06.009. PMID 20674467. 
+^ Leonhard Schilbach; Bert Timmermans; Vasudevi Reddy; Alan Costall; Gary Bente; Tobias Schlicht; Kai Vogeley (2013). "Toward a second-person neuroscience". Behavioral and Brain Sciences. 36 (4): 393–414. doi:10.1017/S0140525X12000660. 
+^ Hanne De Jaegher (2012). "Embodiment and sense-making in autism". Frontiers in Integrative Neuroscience. 7: 15. doi:10.3389/fnint.2013.00015. 
+^ a b Steve Torrance; Tom Froese (2011). "An Inter-Enactive Approach to Agency: Participatory Sense-Making, Dynamics, and Sociality" (PDF). Human Mente. 15: 21–53. 
+^ Thomas Fuchs; Hanne De Jaegher (2010). "Non-representational intersubjectivity". In Thomas Fuchs; Heribert C. Sattel; Peter Henningsen. The Embodied Self: Dimensions, Coherence and Disorders. Schattauer Verlag. p. 206. ISBN 9783794527915. 
+^ Cor Baerveldt; Theo Verheggen (May 2012). "Chapter 8: Enactivism". The Oxford Handbook of Culture and Psychology. pp. 165ff. doi:10.1093/oxfordhb/9780195396430.013.0009. ISBN 9780195396430. Whereas the enactive approach in general has focused on sense-making as an embodied and situated activity, enactive cultural psychology emphasizes the expressive and dynamically enacted nature of cultural meaning. 
+^ Cor Baerveldt; Theo Verheggen (1999). "Enactivism and the experiential reality of culture: Rethinking the epistemological basis of cultural psychology". Culture & Psychology. 5 (2): 183–206. doi:10.1177/1354067x9952006. 
+^ Niklas Luhmann (1995). Social systems. Stanford University Press. ISBN 9780804726252. 
+^ Hans-Georg Moeller (2011). "Part 1: A new way of thinking about society". Luhmann Explained: From Souls to Systems. Open Court. pp. 12 ff. ISBN 978-0812695984. 
+^ Roberto Pugliese; Klaus Lehtonen (2011). "A framework for motion based bodily enaction with virtual characters; §2.1 Enaction". Intelligent Virtual Agents:. Springer. p. 163. ISBN 9783642239731. 
+^ Stephanie A Hillen (2013). "Chapter III: What can research on technology for learning in vocational educational training teach media didactics?". In Klaus Beck; Olga Zlatkin-Troitschanskaia. From Diagnostics to Learning Success: Proceedings in Vocational Education and Training (Paperback ed.). Springer Science & Business. p. 104. ISBN 978-9462091894. 
+^ Jerome Bruner (1966). Toward a theory of instruction. Belknap Press of Harvard University Press. ISBN 978-0674897007. 
+^ Jerome Bruner (1968). Processes of cognitive growth: Infancy. Crown Pub. ISBN 978-0517517482. OCLC 84376. 
+^ Quote from Jerome Seymour Bruner (1966). Toward a Theory of Instruction (PDF). Harvard University Press. p. 44. ISBN 9780674897014.  as quoted from J Bruner (2004). "Chapter 10: Sustaining mathematical activity". In John Mason; Sue Johnston-Wilder. Fundamental Constructs in Mathematics Education (Paperback ed.). Taylor & Francis. p. 260. ISBN 0415326982. 
+^ Jeanette Bopry (2007). "Providing a warrant for constructivist practice: the contribution of Francisco Varela". In Joe L. Kincheloe; Raymond A. Horn. The Praeger Handbook of Education and Psychology, Volume 1. Greenwood Publishing Group. pp. 474 ff. ISBN 9780313331237. Varela's enactive framework beginning with his collaboration on autopoiesis theory with his mentor Humberto Maturana [and the development of] enaction as a framework within which these theories work as a matter of course. 
+^ a b Bharath Sriraman; Lyn English (2009). "Enactivism". Theories of Mathematics Education: Seeking New Frontiers. Springer. pp. 42 ff. ISBN 3642007422. 
+^ Wolff-Michael Roth (2012). "Epistemology and psychology: Jean Piaget and modern constructivism". Geometry as Objective Science in Elementary School Classrooms: Mathematics in the Flesh. Routledge. pp. 41 ff. ISBN 1136732209. 
+^ Gary Cziko (1997). "Chapter 12: Education; The provision and transmission of truth, or the selectionist growth of fallible knowledge?". Without Miracles: Universal Selection Theory and the Second Darwinian Revolution. MIT Press. p. 222. ISBN 9780262531474. 
+^ Joe L Kincheloe (2007). "Interpretivists drawing on the power of enactivism". In Joe L. Kincheloe; Raymond A. Horn. The Praeger Handbook of Education and Psychology, Volume 1. Greenwood Publishing Group. pp. 24 ff. ISBN 0313331235. 
+^ Chris Breen (2005). "Chapter 9: Dilemmas of change: seeing the complex rather than the complicated?". In Renuka Vithal; Jill Adler; Christine Keitel. Researching Mathematics Education in South Africa: Perspectives, Practices and Possibilities. HSRC Press. p. 240. ISBN 0796920478. 
+^ Ad J. W. van de Gevel, Charles N. Noussair (2013). "§3.2.2 Enactive artificial intelligence". The nexus between artificial intelligence and economics. Springer. p. 21. ISBN 3642336477. Enactivism may be considered as the most developed model of embodied situated cognition...Knowing is inseparable from doing. 
+^ a b John Seely Brown; Allan Collins; Paul Duguid (Jan–Feb 1989). "Situated cognition and the culture of learning". Educational Researcher. 18 (1): 32–42. doi:10.3102/0013189x018001032. Archived from the original on 2014-10-08. 
+^ Giulio Sandini; Giorgio Metta; David Vernon (2007). "The iCub cognitive humanoid robot: An open-system research platform for enactive cognition". In Max Lungarella; Fumiya Iida; Josh Bongard; Rolf Pfeifer. 50 Years of Artificial Intelligence: Essays Dedicated to the 50th Anniversary of Artificial Intelligence. Springer. ISBN 9783540772958. 
+^ Monica Bordegoni (2010). "§4.5.2 Design tools based upon enactive interfaces". In Shuichi Fukuda. Emotional Engineering: Service Development. Springer. pp. 78 ff. ISBN 9781849964234. 
+^ Don Norman (2013). "Affordances". The Design of Everyday Things (Revised and expanded ed.). Basic Books. p. 11. ISBN 978-0465050659. An affordance is a relationship between the properties of an object and the capabilities of the agent that determine just how the object could possibly be used. 
+^ Georgios S Christou (2006). "The use and evolution of affordance in HCI". In Claude Ghaoui. Encyclopedia of human computer interaction. Idea Group Inc. pp. 668 ff. ISBN 9781591407980. 
+^ Mauri Kaipainen; Niklas Ravaja; Pia Tikka; et al. (October 2011). "Enactive Systems and Enactive Media: Embodied Human-Machine Coupling beyond Interfaces". Leonardo. 44 (5): 433–438. doi:10.1162/LEON_a_00244. 
+^ Guy Boy (2012). Orchestrating Human-Centered Design. Springer. p. 118. ISBN 9781447143383. The organization producing the system can itself be defined as an autopoietic system in Maturana and Varela's sense. An autopoietic system is producer and product at the same time. HCD [Human Centered Design] is both the process of design and the design itself. 
+^ Markus Thannhuber; Mitchell M Tseng; Hans-Jörg Bullinger (2001). "An autopoietic approach for knowledge management systems in manufacturing enterprises". Annals of the CIRP-Manufacturing Technology. 50 (1): 313 ff. doi:10.1016/s0007-8506(07)62129-5. 
+^ Randall D Beer (1995). "A dynamical systems perspective on agent-environment interaction". Artificial Intelligence. 72: 173–215. doi:10.1016/0004-3702(94)00005-l. 
+^ James AS Kelso (2009). "Coordination dynamics". In R. A. Meyers. Encyclopedia of complexity and system science. pp. 1537–1564. ISBN 978-0-387-75888-6. 
+^ Eliot L. Saltzman (1995). "Dynamics and coordinate systems in skilled sensorimotor activity". In T. van Gelder; R. F. Port. Mind as motion: Explorations in the dynamics of cognition. MIT Press. p. 151 ff. ISBN 9780262161503. 
+^ Marek McGann; Hanne De Jaegher; Ezequiel Di Paolo (2013). "Enaction and psychology". Review of General Psychology. 17 (2): 203–209. doi:10.1037/a0032935. Such modeling techniques allow us to explore the parameter space of coupling between agent and environment...to the point that their basic principles (the universals, if such there are, of enactive psychology) can be brought clearly into view. 
+
+
+Further reading[edit]
+
+De Jaegher H.; Di Paolo E. A. (2007). "Participatory sense-making: An enactive approach to social cognition". Phenomenology and the Cognitive Sciences. 6 (4): 485–507. doi:10.1007/s11097-007-9076-9. 
+Di Paolo, E. A., Rohde, M. and De Jaegher, H., (2010). Horizons for the Enactive Mind: Values, Social Interaction, and Play. In J. Stewart, O. Gapenne and E. A. Di Paolo (eds), Enaction: Towards a New Paradigm for Cognitive Science, Cambridge, MA: MIT Press, pp. 33 – 87. ISBN 9780262014601
+Hutto, D. D. (Ed.) (2006). Radical Enactivism: Intentionality, phenomenology, and narrative. In R. D. Ellis & N. Newton (Series Eds.), Consciousness & Emotion, vol. 2. ISBN 90-272-4151-1
+McGann, M. & Torrance, S. (2005). Doing it and meaning it (and the relationship between the two). In R. D. Ellis & N. Newton, Consciousness & Emotion, vol. 1: Agency, conscious choice, and selective perception. Amsterdam: John Benjamins. ISBN 1-58811-596-8
+Tom Froese; Ezequiel A DiPaolo (2011). "The enactive approach: Theoretical sketches from cell to society". Pragmatics and Cognition. 19 (1): 1–36. CiteSeerX 10.1.1.224.5504 . doi:10.1075/pc.19.1.01fro. 
+Steve Torrance; Tom Froese (2011). "An inter-enactive approach to agency: participatory sense-making, dynamics, and sociality". Humana. Mente. 15: 21–53. CiteSeerX 10.1.1.187.1151 . 
+
+Notes[edit]
+
+
+
+^ Cognition as information processing like that of a digital computer. From Evan Thompson. Mind in Life. ISBN 978-0674057517.  Cognitivism, p. 4; See also Steven Horst (December 10, 2009). Edward N. Zalta, ed. "The computational theory of mind". The Stanford Encyclopedia of Philosophy (Spring 2011 Edition). 
+^ Cognition as emergent patterns of activity in a neural network. From Evan Thompson. Mind in Life. ISBN 978-0674057517.  Connectionism, p. 8; See also James Garson (July 27, 2010). Edward N. Zalta, ed. "Connectionism". The Stanford Encyclopedia of Philosophy (Spring 2011 Edition). 
+
+
+
+External links[edit]
+
+Pietro Morasso (2005). "Consciousness as the emergent property of the interaction between brain, body, & environment: the crucial role of haptic perception" (PDF). Archived from the original (PDF) on 2006-05-08.  Slides related to a chapter on haptic perception (recognition through touch): Pietro Morasso (2007). "Chapter 14: The crucial role of haptic perception". In Antonio Chella; Riccardo Manzotti. Artificial Consciousness. Academic. p. 234 ff. ISBN 978-1845400705. 
+John Stewart. Olivier Gapenne; Bruno Bachimont, eds. "Questioning Life and Cognition: Some Foundational Issues in the Paradigm of Enaction". Enaction Series: Online Collaborative Publishing. Enaction Series. Retrieved April 27, 2014. 
+George-Louis Baron; Eric Bruillard; Christophe Dansac (January 1999). "Educational Multimedia Task Force – MM 1045, REPRESENTATION" (PDF).  An overview of the rationale and means and methods for the study of representations that the learner constructs in his/her attempt to understand knowledge in a given field. See in particular §1.2.1.4 Toward social representations (p. 24)
+Randall Whittaker (2001). "Autopoiesis and enaction". Observer Web.  An extensive but uncritical introduction to the work of Francisco Varela and Humberto Maturana
+"Enactivism: Arguments & Applications". Avant. V (2/2014). Autumn 2014. doi:10.12849/50202014.0109.0002. Retrieved 27 November 2014.  Entire journal issue on enactivism's status and current debates.
+
+
+
+
+
+Categories: Behavioral neuroscienceCognitive scienceConsciousnessEducational psychologyEnactive cognitionEpistemology of scienceKnowledge representationMetaphysics of mindMotor cognitionNeuropsychologyPerceptionPhilosophical theoriesPhilosophy of psychologyPsychological conceptsPsychological theoriesSociology of knowledgeAction (philosophy)EmergenceHidden categories: Pages using div col without cols and colwidth parameters

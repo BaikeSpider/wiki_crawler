@@ -1,0 +1,37 @@
+发表偏差
+
+
+本文介绍的是一种研究上的倾向。关于数学定理，请见“抽屉原理”。
+
+
+发表偏差（英语：publication bias）或称为抽屉问题（英语：file drawer problem），是在学术出版过程发生的一种现象。当某项研究是否发表的决定受着该研究的结论影响时，发表偏差便会发生。发表偏差对文献分析和元分析有深远的负面影响，这是因为已发表的论文可能会因而侧重于支持或否定相关结论[1]。
+研究无论结果显著与否，都可能按照同样的标准执行和设计[2]。然而，效应显著的实验结果被发表的可能性为得到空结果（英语：Null result）论文的三倍。[3]
+发表偏差是由多种原因导致的。最常见的原因是研究人员根本不愿意在某些结论的情况下为研究撰文或投稿。研究人员或者认为自己犯了错误、对该研究失去兴趣、又或是预感同行对结论不感兴趣[2]。另一个例子是当某项结论已成为科学共识的时候，出版一项可靠但和共识相悖的研究很可能会带来更大的新闻价值[4]。
+目前，取得未被发表的研究甚为困难[5]。为了尽量避免发表偏差，有些期刊要求为研究项目在收集数据和进行分析前向开放科学中心（英语：Center for Open Science）等机构预先注册，或是不鼓励小规模的非随机研究，因为这类研究容易受错误及偏差影响[2] 。p曲线分析也是可取的做法[5]。
+参考文献[编辑]
+
+
+^ Song, F.; Parekh, S.; Hooper, L.; Loke, Y. K.; Ryder, J.; Sutton, A. J.; Hing, C.; Kwok, C. S.; Pang, C. Dissemination and publication of research findings: An updated review of related biases. Health technology assessment (Winchester, England). 2010, 14 (8): iii, iix–xi, iix–193. PMID 20181324. doi:10.3310/hta14080. 
+^ 2.0 2.1 2.2 Easterbrook, P. J.; Berlin, J. A.; Gopalan, R.; Matthews, D. R. Publication bias in clinical research. Lancet. 1991, 337 (8746): 867–872. PMID 1672966. doi:10.1016/0140-6736(91)90201-Y. 
+^ Dickersin, K.; Chan, S.; Chalmers, T. C.; 等. Publication bias and clinical trials. Controlled Clinical Trials. 1987, 8 (4): 343–353. PMID 3442991. doi:10.1016/0197-2456(87)90155-3. 
+^ Luijendijk, HJ; Koolman, X. The incentive to publish negative studies: how beta-blockers and depression got stuck in the publication cycle.. J Clin Epidemiol. May 2012, 65 (5): 488–92. doi:10.1016/j.jclinepi.2011.06.022. 
+^ 5.0 5.1 H. Rothstein, A. J. Sutton and M. Borenstein. (2005). Publication bias in meta-analysis: prevention, assessment and adjustments. Wiley. Chichester, England ; Hoboken, NJ.
+
+
+外部链接[编辑]
+
+The Truth Wears Off: Is there something wrong with the scientific method? -- Jonah Lehrer
+Register of clinical trials conducted in the US and around the world, maintained by the National Library of Medicine, Bethesda
+Skeptic's Dictionary: positive outcome bias.
+Skeptic's Dictionary: file-drawer effect.
+Journal of Negative Results in Biomedicine
+The All Results Journals
+Journal of Articles in Support of the Null Hypothesis
+Article on 'the decline effect' and the role of publication bias in that
+Psychfiledrawer.org: Archive for replication attempts in experimental psychology
+
+
+
+
+
+分类：研究方法学术出版元分析出版业系统综述

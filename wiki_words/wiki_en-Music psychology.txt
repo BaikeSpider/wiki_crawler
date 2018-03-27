@@ -1,0 +1,1662 @@
+Music psychology
+"Psychology of Music" redirects here. For the journal, see Psychology of Music (journal).
+
+
+Part of a series on
+
+
+Psychology
+
+
+
+
+
+
+
+Outline
+History
+Subfields
+
+
+
+
+
+
+Basic types
+
+
+Abnormal
+Behavioral genetics
+Biological
+Cognitive/Cognitivism
+Comparative
+Cross-cultural
+Cultural
+Differential
+Developmental
+Evolutionary
+Experimental
+Mathematical
+Neuropsychology
+Personality
+Positive
+Quantitative
+Social
+
+
+
+
+
+
+
+
+Applied psychology
+
+
+Applied behavior analysis
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Environmental
+Ergonomics
+Forensic
+Health
+Humanistic
+Industrial and organizational
+Legal
+Medical
+Military
+Music
+Occupational health
+Political
+Religion
+School
+Sport
+Traffic
+
+
+
+
+
+
+
+
+Lists
+
+
+Disciplines
+Organizations
+Psychologists
+Psychotherapies
+Publications
+Research methods
+Theories
+Timeline
+Topics
+
+
+
+
+
+
+
+
+ Psychology portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Music psychology, or the psychology of music, may be regarded as a branch of both psychology and musicology. It aims to explain and understand musical behavior and experience, including the processes through which music is perceived, created, responded to, and incorporated into everyday life.[1][2] Modern music psychology is primarily empirical; its knowledge tends to advance on the basis of interpretations of data collected by systematic observation of and interaction with human participants. Music psychology is a field of research with practical relevance for many areas, including music performance, composition, education, criticism, and therapy, as well as investigations of human attitude, skill, performance, intelligence, creativity, and social behavior.
+Music psychology can shed light on non-psychological aspects of musicology and musical practice. For example, it contributes to music theory through investigations of the perception and computational modelling of musical structures such as melody, harmony, tonality, rhythm, meter, and form. Research in music history can benefit from systematic study of the history of musical syntax, or from psychological analyses of composers and compositions in relation to perceptual, affective, and social responses to their music. Ethnomusicology can benefit from psychological approaches to the study of music cognition in different cultures.
+
+
+
+Contents
+
+
+1 History
+
+1.1 Early history (pre-1860)
+1.2 Rise of empirical (1860–1960)
+1.3 Modern (1960–present)
+
+
+2 Research areas
+
+2.1 Perception and cognition
+
+2.1.1 Affective response
+
+
+2.2 Neuropsychology
+
+2.2.1 Processing pitch
+
+2.2.1.1 Absolute pitch
+
+
+2.2.2 Processing rhythm
+2.2.3 Neural correlates of musical training
+2.2.4 Motor imagery
+
+
+2.3 Psychoacoustics
+2.4 Cognitive musicology
+2.5 Evolutionary musicology
+2.6 Cultural differences
+
+
+3 Applied research areas
+
+3.1 Music in society
+
+3.1.1 Musical preference
+3.1.2 Background music
+3.1.3 Music in marketing
+
+
+3.2 Music education
+
+3.2.1 Musical aptitude
+
+
+3.3 Music performance
+3.4 Music and health
+3.5 Music and audio engineering
+
+
+4 Journals
+5 Societies
+6 Centers of research and teaching
+7 See also
+8 References
+9 Further reading
+
+9.1 Encyclopedia entries
+9.2 Introductory reading
+9.3 Advanced reading
+
+
+10 External links
+
+
+
+History[edit]
+Early history (pre-1860)[edit]
+The study of sound and musical phenomenon prior to the 19th century was focused primarily on the mathematical modelling of pitch and tone.[3] The earliest recorded experiments date from the 6th century BCE, most notably in the work of Pythagoras and his establishment of the simple string length ratios that formed the consonances of the octave. This view that sound and music could be understood from a purely physical standpoint was echoed by such theorists as Anaxagoras and Boethius. An important early dissenter was Aristoxenus, who foreshadowed modern music psychology in his view that music could only be understood through human perception and its relation to human memory. Despite his views, the majority of musical education through the Middle Ages and Renaissance remained rooted in the Pythagorean tradition, particularly through the quadrivium of astronomy, geometry, arithmetic, and music.[3]
+Research by Vincenzo Galilei (father of Galileo) demonstrated that, when string length was held constant, varying its tension, thickness, or composition could alter perceived pitch. From this he argued that simple ratios were not enough to account for musical phenomenon and that a perceptual approach was necessary. He also claimed that the differences between various tuning systems were not perceivable, thus the disputes were unnecessary. Study of topics including vibration, consonance, the harmonic series, and resonance were furthered through the scientific revolution, including work by Galileo, Kepler, Mersenne, and Descartes. This included further speculation concerning the nature of the sense organs and higher-order processes, particularly by Savart, Helmholtz, and Koenig.[3]
+Rise of empirical (1860–1960)[edit]
+
+
+
+
+A brass, spherical Helmholtz resonator based on his original design, circa 1890-1900.
+
+
+The latter 19th century saw the development of modern music psychology alongside the emergence of a general empirical psychology, one which passed through similar stages of development. The first was structuralist psychology, led by Wilhelm Wundt, which sought to break down experience into its smallest definable parts. This expanded upon previous centuries of acoustic study, and included Helmholtz developing the resonator to isolate and understand pure and complex tones and their perception, the philosopher Carl Stumpf using church organs and his own musical experience to explore timbre and absolute pitch, and Wundt himself associating the experience of rhythm with kinesthetic tension and relaxation.[4]
+As structuralism gave way to Gestalt psychology and behaviorism at the turn of the century, music psychology moved beyond the study of isolated tones and elements to the perception of their inter-relationships and human reactions to them, though work languished behind that of visual perception.[4] In Europe Géza Révész and Albert Wellek developed a more complex understanding of musical pitch, and in the US the focus shifted to that of music education and the training and development of musical skill. Carl Seashore led this work, producing his The Measurement of Musical Talents and The Psychology of Musical Talent. Seashore used bespoke equipment and standardized tests to measure how performance deviated from indicated markings and how musical aptitude differed between students.
+Modern (1960–present)[edit]
+Music psychology in the second half of the 20th century has expanded to cover a wide array of theoretical and applied areas. From the 1960s the field grew along with cognitive science, including such research areas as music perception (particularly of pitch, rhythm, harmony, and melody), musical development and aptitude, music performance, and affective responses to music.[5]
+This period has also seen the founding of music psychology-specific journals, societies, conferences, research groups, centers, and degrees, a trend that has brought research toward specific applications for music education, performance, and therapy.[6] While the techniques of cognitive psychology allowed for more objective examinations of musical behavior and experience, the theoretical and technological advancements of neuroscience have greatly shaped the direction of music psychology into the 21st century.[7]
+While the majority of music psychology research has focused on music in a Western context, the field has expanded along with ethnomusicology to examine how the perception and practice of music differs between cultures.[8][9] It has also emerged into the public sphere. In recent years several bestselling popular science books have helped bring the field into public discussion, notably Daniel Levitin's This Is Your Brain On Music (2006) and The World in Six Songs (2008), Oliver Sacks' Musicophilia (2007), and Gary Marcus' Guitar Zero (2012). In addition, the controversial "Mozart effect" sparked lengthy debate among researchers, educators, politicians, and the public regarding the relationship between classical music listening, education, and intelligence.[10]
+Research areas[edit]
+Perception and cognition[edit]
+Much work within music psychology seeks to understand the cognitive processes that support musical behaviors, including perception, comprehension, memory, attention, and performance. Originally arising in fields of psychoacoustics and sensation, cognitive theories of how people understand music more recently encompass neuroscience, cognitive science, music theory, music therapy, computer science, psychology, philosophy, and linguistics.[11][12]
+Affective response[edit]
+Main article: Music and emotion
+Music has been shown to consistently elicit emotional responses in its listeners, and this relationship between human affect and music has been studied in depth.[13] This includes isolating which specific features of a musical work or performance convey or elicit certain reactions, the nature of the reactions themselves, and how characteristics of the listener may determine which emotions are felt. The field draws upon and has significant implications for such areas as philosophy, musicology, and aesthetics, as well the acts of musical composition and performance. The implications for casual listeners are also great; research has shown that the pleasurable feelings associated with emotional music are the result of dopamine release in the striatum—the same anatomical areas that underpin the anticipatory and rewarding aspects of drug addiction.[14]
+Neuropsychology[edit]
+Main article: Cognitive neuroscience of music
+A significant amount of research concerns brain-based mechanisms involved in the cognitive processes underlying music perception and performance. These behaviours include music listening, performing, composing, reading, writing, and ancillary activities. It also is increasingly concerned with the brain basis for musical aesthetics and musical emotion. Scientists working in this field may have training in cognitive neuroscience, neurology, neuroanatomy, psychology, music theory, computer science, and other allied fields, and use such techniques as functional magnetic resonance imaging (fMRI), transcranial magnetic stimulation (TMS), magnetoencephalography (MEG), electroencephalography (EEG), and positron emission tomography (PET).
+The cognitive process of performing music requires the interaction of neural mechanisms in both motor and auditory systems. Since every action expressed in a performance produces a sound that influences subsequent expression, this leads to impressive sensorimotor interplay.[15]
+Processing pitch[edit]
+
+
+
+
+The primary auditory cortex is one of the main areas associated with superior pitch resolution.
+
+
+Perceived pitch typically depends on the fundamental frequency, though the dependence could be mediated solely by the presence of harmonics corresponding to that fundamental frequency. The perception of a pitch without the corresponding fundamental frequency in the physical stimulus is called the pitch of the missing fundamental.[16] Neurons lateral to A1 in marmoset monkeys were found to be sensitive specifically to the fundamental frequency of a complex tone,[17] suggesting that pitch constancy may be enabled by such a neural mechanism.
+Pitch constancy refers to the ability to perceive pitch identity across changes in acoustical properties, such as loudness, temporal envelope, or timbre.[16] The importance of cortical regions lateral to A1 for pitch coding is also supported by studies of human cortical lesions and functional magnetic resonance imaging (fMRI) of the brain.[18][19][20] These data suggest a hierarchical system for pitch processing, with more abstract properties of sound stimulus processed further along the processing pathways.
+Absolute pitch[edit]
+Main article: Absolute pitch
+Absolute pitch (AP) is defined as the ability to identify the pitch of a musical tone or to produce a musical tone at a given pitch without the use of an external reference pitch.[21] Researchers estimate the occurrence of AP to be 1 in 10,000 people.[22] The extent to which this ability is innate or learned is debated, with evidence for both a genetic basis and for a "critical period" in which the ability can be learned, especially in conjunction with early musical training.[23][24]
+Processing rhythm[edit]
+Behavioural studies demonstrate that rhythm and pitch can be perceived separately,[25] but that they also interact[26] in creating a musical perception. Studies of auditory rhythm discrimination and reproduction in patients with brain injury have linked these functions to the auditory regions of the temporal lobe, but have shown no consistent localization or lateralization.[27][28][29] Neuropsychological and neuroimaging studies have shown that the motor regions of the brain contribute to both perception and production of rhythms.[30]
+Even in studies where subjects only listen to rhythms, the basal ganglia, cerebellum, dorsal premotor cortex (dPMC) and supplementary motor area (SMA) are often implicated.[31][32][33] The analysis of rhythm may depend on interactions between the auditory and motor systems.
+Neural correlates of musical training[edit]
+Although auditory–motor interactions can be observed in people without formal musical training, musicians are an excellent population to study because of their long-established and rich associations between auditory and motor systems. Musicians have been shown to have anatomical adaptations that correlate with their training.[16] Some neuroimaging studies have observed that musicians show lower levels of activity in motor regions than non-musicians during the performance of simple motor tasks, which may suggest a more efficient pattern of neural recruitment.[34][35][36][37]
+Motor imagery[edit]
+Previous neuroimaging studies have consistently reported activity in the SMA and premotor areas, as well as in auditory cortices, when non-musicians imagine hearing musical excerpts.[16] Recruitment of the SMA and premotor areas is also reported when musicians are asked to imagine performing[37][38]
+
+
+
+
+Deutsch's scale illusion: an auditory illusion in which two scales are presented with successive tones alternating between each ear but are perceived as simultaneous, unbroken scales.[39]
+
+
+Psychoacoustics[edit]
+Main article: Psychoacoustics
+Further information: Hearing (sense) and Auditory illusion
+Psychoacoustics is the scientific study of sound perception. More specifically, it is the branch of science studying the psychological and physiological responses associated with sound (including speech and music). Topics of study include perception of the pitch, timbre, loudness and duration of musical sounds and the relevance of such studies for music cognition or the perceived structure of music; and auditory illusions and how humans localize sound, which can have relevance for musical composition and the design of venues for music performance. Psychoacoustics is a branch of psychophysics.
+Cognitive musicology[edit]
+Main article: Cognitive musicology
+Cognitive musicology is a branch of cognitive science concerned with computationally modeling musical knowledge with the goal of understanding both music and cognition.[40]
+Cognitive musicology can be differentiated from the fields of music cognition and cognitive neuroscience of music by a difference in methodological emphasis. Cognitive musicology uses computer modeling to study music-related knowledge representation and has roots in artificial intelligence and cognitive science. The use of computer models provides an exacting, interactive medium in which to formulate and test theories.[41]
+This interdisciplinary field investigates topics such as the parallels between language and music in the brain. Biologically inspired models of computation are often included in research, such as neural networks and evolutionary programs.[42] This field seeks to model how musical knowledge is represented, stored, perceived, performed, and generated. By using a well-structured computer environment, the systematic structures of these cognitive phenomena can be investigated.[43]
+Evolutionary musicology[edit]
+Main article: Evolutionary musicology
+Evolutionary musicology concerns the "origins of music, the question of animal song, selection pressures underlying music evolution", and "music evolution and human evolution".[44] It seeks to understand music perception and activity in the context of evolutionary theory. Charles Darwin speculated that music may have held an adaptive advantage and functioned as a protolanguage,[45] a view which has spawned several competing theories of music evolution.[46][47][48] An alternate view sees music as a by-product of linguistic evolution; a type of "auditory cheesecake" that pleases the senses without providing any adaptive function.[49] This view has been directly countered by numerous music researchers.[50][51][52]
+Cultural differences[edit]
+Main article: Culture in music cognition
+See also: Ethnomusicology
+An individual's culture or ethnicity plays a role in their music cognition, including their preferences, emotional reaction, and musical memory. Musical preferences are biased toward culturally familiar musical traditions beginning in infancy, and adults' classification of the emotion of a musical piece depends on both culturally specific and universal structural features.[53][54] Additionally, individuals' musical memory abilities are greater for culturally familiar music than for culturally unfamiliar music.[55][56]
+Applied research areas[edit]
+
+
+
+
+This section needs expansion. You can help by adding to it. (April 2014)
+
+
+
+Many areas of music psychology research focus on the application of music in everyday life as well as the practices and experiences of the amateur and professional musician. Each topic may utilize knowledge and techniques derived from one or more of the areas described above. Such areas include:
+Music in society[edit]
+Including:
+
+everyday music listening
+musical rituals and gatherings (e.g. religious, festive, sporting, political, etc.)
+the role of music in forming personal and group identities
+the relation between music and dancing
+social influences on musical preference (peers, family, experts, social background, etc.)
+
+Musical preference[edit]
+Main article: Psychology of music preference
+Consumers' choices in music have been studied as they relate to the Big Five personality traits: openness to experience, agreeableness, extraversion, neuroticism, and conscientiousness. In general, the plasticity traits (openness to experience and extraversion) affect music preference more than the stability traits (agreeableness, neuroticism, and conscientiousness).[57] Gender has been shown to influence preference, with men choosing music for primarily cognitive reasons and women for emotional reasons.[58] Relationships with music preference have also been found with mood[59] and nostalgic association.[60]
+Background music[edit]
+Main article: Background music
+The study of background music focuses on the impact of music with non-musical tasks, including changes in behavior in the presence of different types, settings, or styles of music.[61] In laboratory settings, music can affect performance on cognitive tasks (memory, attention, and comprehension), both positively and negatively. Used extensively as an advertising aid, music may also affect marketing strategies, ad comprehension, and consumer choices. Background music can influence learning,[62][63] working memory and recall,[64][65] performance while working on tests,[66][67] and attention in cognitive monitoring tasks.[68][69] Background music can also be used as a way to relieve boredom, create positive moods, and maintain a private space.[70] Background music has been shown to put a restless mind at ease by presenting the listener with various melodies and tones.[70]
+Music in marketing[edit]
+Main article: Background music § Music in marketing
+In both radio and television advertisements, music plays an integral role in content recall,[71][72][73] intentions to buy the product, and attitudes toward the advertisement and brand itself.[74][75][76] Music's effect on marketing has been studied in radio ads,[73][75][76] TV ads,[71][72][74] and physical retail settings.[77][78]
+One of the most important aspects of an advertisement's music is the "musical fit", or the degree of congruity between cues in the ad and song content.[79] Advertisements and music can be congruous or incongruous for both lyrical and instrumental music. The timbre, tempo, lyrics, genre, mood, as well as any positive or negative associations elicited by certain music should fit the nature of the advertisement and product.[79]
+Music education[edit]
+
+
+
+
+A primary focus of music psychology research concerns how best to teach music and the effects this has on childhood development.
+
+
+Including:
+
+optimizing music education
+development of musical behaviors and abilities throughout the lifespan
+the specific skills and processes involved in learning a musical instrument or singing
+activities and practices within a music school
+individual versus group learning of a musical instrument
+the effects of musical education on intelligence
+optimizing practice
+
+Musical aptitude[edit]
+Musical aptitude refers to a person's innate ability to acquire skills and knowledge required for musical activity, and may influence the speed at which learning can take place and the level that may be achieved. Study in this area focuses on whether aptitude can be broken into subsets or represented as a single construct, whether aptitude can be measured prior to significant achievement, whether high aptitude can predict achievement, to what extent aptitude is inherited, and what implications questions of aptitude have on educational principles.[80]
+It is an issue closely related to that of intelligence and IQ, and was pioneered by the work of Carl Seashore. While early tests of aptitude, such as Seashore's The Measurement of Musical Talent, sought to measure innate musical talent through discrimination tests of pitch, interval, rhythm, consonance, memory, etc., later research found these approaches to have little predictive power and to be influenced greatly by the test-taker's mood, motivation, confidence, fatigue, and boredom when taking the test.[80]
+Music performance[edit]
+See also: Performance science
+Including:
+
+the physiology of performance
+music reading and sight-reading, including eye movement
+performing from memory and music-related memory
+acts of improvisation and composition
+flow experiences
+the interpersonal/social aspects of group performance
+music performance quality evaluation by an audience or evaluator(s) (e.g. audition or competition), including:
+
+influence of musical and non-musical factors
+the audience's positive evaluation shift as a result of an audio-visual presentation mode[81]
+
+
+
+Music and health[edit]
+See also: Music therapy
+Including:
+
+the effectiveness of music in healthcare and therapeutic settings
+music-specific disorders
+musicians' physical and mental health and well-being
+music performance anxiety (MPA, or stage fright)
+motivation, burnout, and depression among musicians
+noise-induced hearing loss among musicians
+
+Music and audio engineering[edit]
+Gestalt theory is also used as a perceptual model to discuss the psychophysical impressions established by those who mix audio (i.e., mix engineers). As with other design-based activities, such as user-interface design, Gestalt constructions provide a useful guide for creative technologists.[82]
+Journals[edit]
+Music psychology journals include:
+
+Music Perception
+Musicae Scientiae
+Psychology of Music
+Psychomusicology: Music, Mind and Brain
+Music and Science
+Jahrbuch Musikpsychologie[83]
+
+Music psychologists also publish in a wide range of mainstream musicology, music theory/analysis, psychology, music education, music therapy, music medicine, and systematic musicology journals. The latter include for example:
+
+Computer Music Journal
+Frontiers in Psychology
+Journal of New Music Research
+Empirical Musicology Review
+Journal of Mathematics and Music[84]
+Journal of the Acoustical Society of America
+Research Studies in Music Education
+
+Societies[edit]
+
+Asia-Pacific Society for the Cognitive Sciences of Music (APSCOM)
+Australian Music & Psychology Society (AMPS)
+Deutsche Gesellschaft für Musikpsychologie (DGM)
+European Society for the Cognitive Sciences of Music (ESCOM)
+Japanese Society for Music Perception and Cognition (JSMPC)
+Society for Education, Music and Psychology Research (SEMPRE, Britain)
+Society for Music Perception and Cognition (SMPC)
+
+Centers of research and teaching[edit]
+This list is incomplete; you can help by expanding it.
+
+Argentina:
+
+National University of La Plata
+
+Australia:
+
+Music, Sound and Performance Lab, Macquarie University[85]
+Music, Mind and Wellbeing Initiative, Melbourne University[86]
+Empirical Musicology Group, University of New South Wales[87]
+ARC Centre of Excellence for the History of Emotion, University of Western Australia[88]
+The MARCS Institute, University of Western Sydney[89]
+
+Austria:
+
+Centre for Systematic Musicology, University of Graz[90]
+Cognitive Psychology Unit, University of Klagenfurt[91]
+
+Belgium:
+
+Institute for Psychoacoustics and Electronic Music, Ghent University[92]
+
+Canada:
+
+Centre for Interdisciplinary Research in Music and Media and Technology, McGill University[93]
+Music and Health Research Collaboratory, University of Toronto[94]
+Music Cognition Lab, Queen's University[95]
+Auditory Perception and Music Cognition Research and Training Laboratory, University of Prince Edward Island[96]
+SMART Lab, Ryerson University[97]
+The Music, Acoustics, Perception, and LEarning (MAPLE) Lab, McMaster University[98]
+McMaster Institute for Music and the Mind, McMaster University[99]
+BRAMS - International Laboratory for Brain, Music, and Sound Research, University of Montreal and McGill University[100]
+Centre for Research on Brain, Language and Music, University of Montreal[101]
+Music and Neuroscience Lab, University of Western Ontario[102]
+
+Denmark:
+
+Center for Music in the Brain, Aarhus University[103]
+
+Finland:
+
+Finnish Centre of Excellence in Interdisciplinary Music Research, University of Jyväskylä[104]
+
+France:
+
+Auditory Cognition and Psychoacoustics team, Claude Bernard University Lyon 1[105]
+University of Burgundy
+IRCAM, Centre Pompidou[106]
+
+Germany:
+
+University of Halle-Wittenberg
+Institute for Systematic Musicology, Universität Hamburg[107]
+Institute of Music Physiology and Musicians' Medicine, Hochschule für Musik, Theater und Medien Hannover[108]
+Hanover Music Lab, Hochschule für Musik, Theater und Medien Hannover[109]
+University of Cologne
+University of Oldenburg
+Hochschule für Musik Würzburg
+Technische Universität Chemnitz
+
+Iceland:
+
+Centre for Music Research, University of Iceland[110]
+
+Ireland:
+
+University of Limerick
+
+Japan:
+
+Kyushu University
+
+Korea:
+
+Seoul National University
+
+Netherlands:
+
+Music Cognition Group, University of Amsterdam[111]
+
+Norway:
+
+Centre for Music and Health, Norwegian Academy of Music[112]
+
+Poland:
+
+Unit of Psychology of Music, Fryderyk Chopin University of Music[113]
+Music Performance and Brain Lab, University of Finance and Management in Warsaw[114]
+
+Spain:
+
+Music Technology Group, Pompeu Fabra University[115]
+
+Sweden:
+
+Speech, Music and Hearing, Royal Institute of Technology[116]
+Music Psychology Group, Uppsala University[117]
+
+United Kingdom:
+
+Centre for Music and Science, Cambridge University[118]
+Music and the Human Sciences Group, University of Edinburgh[119]
+Centre for Psychological Research, Keele University[120]
+Music and Science Lab, Durham University[121]
+Interdisciplinary Centre for Scientific Research in Music, University of Leeds[122]
+Social and Applied Psychology Group, University of Leicester[123]
+Music, Mind and Brain Group, Goldsmiths, University College London[124]
+International Music Education Research Centre, UCL Institute of Education, University College London[125]
+Music Cognition Lab, Queen Mary University of London[126]
+Faculty of Music, University of Oxford[127]
+Applied Music Research Centre, University of Roehampton[128]
+Centre for Performance Science, Royal College of Music[129]
+Centre for Music Performance Research, Royal Northern College of Music[130]
+Department of Music, Sheffield University[131]
+
+United States:
+
+Music Cognition Lab, University of Arkansas[132]
+Music and Neuroimaging Laboratory, Beth Israel Deaconess Medical Center and Harvard Medical School[133]
+Auditory Perception & Action Lab, University at Buffalo[134]
+Janata Lab, University of California, Davis[135]
+Systematic Musicology Lab, University of California, Los Angeles[136]
+Department of Psychology, University of California, San Diego[137]
+Music Dynamics Lab, University of Connecticut[138]
+The Music Cognition Laboratory, Cornell University[139]
+Music Cognition at Eastman School of Music, University of Rochester[140]
+Center for Music Research, Florida State University[141]
+Music Cognition and Computation Lab, Louisiana State University[142]
+Language and Music Cognition Lab, University of Maryland[143]
+Auditory Cognition and Development Lab, University of Nevada, Las Vegas[144]
+Auditory Neuroscience Laboratory, Northwestern University[145]
+Music Theory and Cognition Program, Northwestern University[146]
+Cognitive and Systematic Musicology Laboratory, Ohio State University[147]
+Music Learning, Perception, and Cognition Focus Group, University of Oregon[148]
+Center for Computer Research in Music and Acoustics, Stanford University[149]
+Dowling Laboratory, University of Texas at Dallas[150]
+Institute for Music Research, University of Texas at San Antonio[151]
+Laboratory for Music Cognition, Culture & Learning, University of Washington[152]
+Music, Imaging, and Neural Dynamics (MIND) Laboratory, Wesleyan University[153]
+Brain Research and Interdisciplinary Neurosciences Lab, Western Michigan University[154]
+
+
+See also[edit]
+
+
+Music portal
+
+
+
+Cognitive musicology
+Cognitive neuroscience of music
+Performance science
+Psychoacoustics
+Psychoanalysis and music
+Music and emotion
+Music-specific disorders
+Music therapy
+
+References[edit]
+
+
+^ Tan, Siu-Lan; Pfordresher, Peter; Harré, Rom (2010). Psychology of Music: From Sound to Significance. New York: Psychology Press. p. 2. ISBN 978-1-84169-868-7. 
+^ Thompson, William Forde. Music, Thought, and Feeling: Understanding the Psychology of Music, 2nd Edition. New York: Oxford University Press. p. 320. ISBN 0195377079. 
+^ a b c Deutsch, Diana. "Psychology of Music, History, Antiquity to the 19th century". Grove Music Online, Oxford Music Online. Oxford University Press. Retrieved 9 April 2014. 
+^ a b Gabrielsson, Alf. "Psychology of Music, History, 1860-1960". Grove Music Online, Oxford Music Online. Oxford University Press. Retrieved 9 April 2014. 
+^ Sloboda, John. "Psychology of Music, History, The late 20th century". Grove Music Online, Oxford Music Online. Oxford University Press. Retrieved 9 April 2014. 
+^ Ockelford, Adam (2009). "Beyond music psychology". In Hallam, Susan; Cross, Ian; Thaut, Michael. The Oxford Handbook of Music Psychology. Oxford: Oxford University Press. p. 539. ISBN 978-0-19-929845-7. 
+^ Thaut, Micahel (2009). "History and research". In Hallam, Susan; Cross, Ian; Thaut, Michael. The Oxford Handbook of Music Psychology. Oxford: Oxford University Press. p. 556. ISBN 978-0-19-929845-7. 
+^ Thaut, Micahel (2009). "History and research". In Hallam, Susan; Cross, Ian; Thaut, Michael. The Oxford Handbook of Music Psychology. Oxford: Oxford University Press. p. 559. ISBN 978-0-19-929845-7. 
+^ Thompson, William Forde; Balkwill, Laura-Lee (2010). "Cross-cultural similarities and differences". In Juslin, Patrik; Sloboda, John. Handbook of Music and Emotion: Theory, Research, Applications (ch. 27). Oxford: Oxford University Press. pp. 755–788. ISBN 9780199604968. 
+^ Abbott, Alison. "Mozart doesn't make you clever". Nature.com. Retrieved 2014-04-22. 
+^ Deutsch, Diana (Editor) (2013). The Psychology of Music, 3rd Edition. San Diego, California: Academic Press. ISBN 012381460X. CS1 maint: Extra text: authors list (link)
+^ Thompson, William Forde (Editor) (2014). Encyclopedia of Music in the Social and Behavioral Sciences. New York, New York: Sage Press. ISBN 9781452283036. CS1 maint: Extra text: authors list (link)
+^ Sloboda, John. "Psychology of Music, Affect". Grove Music Online, Oxford Music Online. Oxford University Press. Retrieved 16 April 2014. 
+^ Salimpoor, VN; Benovoy, M; Larcher, K; Dagher, A; Zatorre, RJ (2011). "Anatomically distinct dopamine release during anticipation and experience of peak emotion to music". Nature Neuroscience. 14 (2): 257–62. doi:10.1038/nn.2726. PMID 21217764. 
+^ Zatorre, Robert J.; Chen, Joyce L.; Penhune, Virginia B. (2007). "When the Brain Plays Music: Auditory–motor Interactions in Music Perception and Production". Nature Reviews Neuroscience. 8 (7): 547–58. doi:10.1038/nrn2152. 
+^ a b c d Zatorre, R. J.; Halpern, A. R. (2005). "Mental concerts: musical imagery and auditory cortex". Neuron. 47: 9–12. doi:10.1016/j.neuron.2005.06.013. PMID 15996544. 
+^ Bendor, D.; Wang, X. (2005). "The neuronal representation of pitch in primate auditory cortex". Nature. 436: 1161–1165. doi:10.1038/nature03867. PMC 1780171 . PMID 16121182. 
+^ Zatorre1, R. J. (1988). "Pitch perception of complex tones and human temporal-lobe function". J. Acoust. Soc. Am. 84: 566–572. doi:10.1121/1.396834. 
+^ Johnsrude, I. S.; Penhune, V. B.; Zatorre, R. J. (2000). "Functional specificity in the right human auditory cortex for perceiving pitch direction". Brain. 123: 155–163. doi:10.1093/brain/123.1.155. 
+^ Penagos, H.; Melcher, J. R.; Oxenham, A. J. (2004). "A neural representation of pitch salience in nonprimary human auditory cortex revealed with functional magnetic resonance imaging". J. Neurosci. 24: 6810–6815. doi:10.1523/jneurosci.0383-04.2004. 
+^ Takeuchi, Annie H.; Hulse, Stewart H. (1993). "Absolute pitch". Psychological Bulletin. 113 (2): 345–61. doi:10.1037/0033-2909.113.2.345. PMID 8451339. 
+^ Oliver Sacks (May 1995). "Letters: Musical Ability". Science. 268 (5211): 621–622. doi:10.1126/science.7732360. PMID 7732360. 
+^ Theusch, E., Basu, A., and Gitschier, J. (2009). "Genome-wide Study of Families with Absolute Pitch Reveals Linkage to 8q24.21 and Locus Heterogeneity". American Journal of Human Genetics. 85 (1): 112–119. doi:10.1016/j.ajhg.2009.06.010. PMC 2706961 . PMID 19576568. CS1 maint: Multiple names: authors list (link)
+^ Snyder, Bob (2009). "Memory for music". In Hallam, Susan; Cross, Ian; Thaut, Michael. The Oxford Handbook of Music Psychology. Oxford: Oxford University Press. p. 111. ISBN 978-0-19-929845-7. 
+^ Krumhansl, C. L. (2000). "Rhythm and pitch in music cognition". Psychol. Bull. 126: 159–179. doi:10.1037/0033-2909.126.1.159. 
+^ Jones, M. R.; Moynihan, H.; MacKenzie, N.; Puente, J. (2002). "Temporal aspects of stimulus-driven attending in dynamic arrays". Psychol Sci. 13: 313–319. doi:10.1111/1467-9280.00458. 
+^ Penhune, V. B.; Zatorre, R. J.; Feindel, W. H. (1999). "The role of auditory cortex in retention of rhythmic patterns in patients with temporal-lobe removals including Heschl's gyrus". Neuropsychologia. 37: 315–331. doi:10.1016/s0028-3932(98)00075-x. 
+^ Peretz, I. (1990). "Processing of local & global musical information by unilateral brain-damaged patients". Brain. 113: 1185–1205. doi:10.1093/brain/113.4.1185. 
+^ Kester, D. B.; et al. (1991). "Acute effect of anterior temporal lobectomy on musical processing". Neuropsychologia. 29: 703–708. doi:10.1016/0028-3932(91)90104-g. 
+^ Janata, P.; Grafton, S. T. (2003). "Swinging in the brain: shared neural substrates for behaviors related to sequencing and music". Nature Neuroscience. 6: 682–687. doi:10.1038/nn1081. PMID 12830159. 
+^ Sakai, K.; et al. (1999). "Neural representation of a rhythm depends on its interval ratio". J. Neurosci. 19: 10074–10081. 
+^ Grahn, J. A.; Brett, M. (2007). "Rhythm and beat perception in motor areas of the brain". J. Cogn. Neurosci. 19: 893–906. doi:10.1162/jocn.2007.19.5.893. 
+^ Chen, J. L., Penhune, V. B. & Zatorre, R. J. in Society for Neuroscience Abst. 747.15 (Atlanta GA, 2006).
+^ Hund-Georgiadis, M.; von Cramon, D. Y. (1999). "Motorlearning-related changes in piano players and nonmusicians revealed by functional magnetic-resonance signals". Exp Brain Res. 125: 417–425. doi:10.1007/s002210050698. 
+^ Jancke, L.; Shah, N. J.; Peters, M. (2000). "Cortical activations in primary and secondary motor areas for complex bimanual movements in professional pianists". Brain Res. Cogn Brain Res. 10: 177–183. doi:10.1016/s0926-6410(00)00028-8. 
+^ Koeneke, S.; Lutz, K.; Wustenberg, T.; Jäncke, L. (2004). "Longterm training affects cerebellar processing in skilled keyboard players". NeuroReport. 15: 1279–1282. doi:10.1097/01.wnr.0000127463.10147.e7. PMID 15167549. 
+^ a b Meister, I. G.; et al. (2004). "Playing piano in the mind—an fMRI study on music imagery and performance in pianists". Brain Res. Cogn Brain Res. 19: 219–228. doi:10.1016/j.cogbrainres.2003.12.005. 
+^ Callicott, J. H.; Mattay, V. S.; Duyn, J. H.; Weinberger, D. R. (2002). "Cortical systems associated with covert music rehearsal". NeuroImage. 16: 901–908. doi:10.1006/nimg.2002.1144. 
+^ Bregman, Albert (1994). Auditory Scene Analysis: The Perceptual Organization of Sound, p.76. ISBN 0-262-52195-4.
+^ Laske, Otto (1999). Navigating New Musical Horizons (Contributions to the Study of Music and Dance). Westport: Greenwood Press. ISBN 978-0-313-30632-7. 
+^ Laske, O. (1999). AI and music: A cornerstone of cognitive musicology. In M. Balaban, K. Ebcioglu, & O. Laske (Eds.), Understanding music with ai: Perspectives on music cognition. Cambridge: The MIT Press.
+^ Graci, C. (2009-2010) A brief tour of the learning sciences featuring a cognitive tool for investigating melodic phenomena. Journal of Educational Technology Systems, 38(2), 181-211.
+^ Hamman, M., 1999. "Structure as Performance: Cognitive Musicology and the Objectification of Procedure," in Otto Laske: Navigating New Musical Horizons, ed. J. Tabor. New York: Greenwood Press.
+^ Wallin, Nils L./Björn Merker/Steven Brown (1999): "An Introduction to Evolutionary Musicology." In: Wallin, Nils L./Björn Merker/Steven Brown (Eds., 1999): The Origins of Music, pp. 5–6. ISBN 0-262-23206-5.
+^ "The Descent of Man, and Selection in Relation to Sex". 1871.  Chapter III; Language
+^ Nils L. Wallin, Björn Merker, and Steven Brown (Editors) (2000). The Origins of Music. Cambridge, MA: MIT Press. ISBN 0-262-23206-5. CS1 maint: Multiple names: authors list (link) CS1 maint: Extra text: authors list (link)
+^ Steven Mithen, The Singing Neanderthals: the Origins of Music, Language, Mind and Body, Harvard University Press, 2006.
+^ Hagen, Edward H; Hammerstein P (2009). "Did Neanderthals and other early humans sing? Seeking the biological roots of music in the loud calls of primates, lions, hyenas, and wolves" (PDF). Musicae Scientiae. 
+^ Pinker, Steven (1997). How the Mind Works. New York: W. W. Norton. p. 534. ISBN 978-0-393-04535-2. 
+^ Perlovsky L. "Music. Cognitive Function, Origin, And Evolution Of Musical Emotions PSYCHOLOGY 2011;2(2):WMC001494
+^ Abbott, Alison (2002). "Neurobiology: Music, maestro, please!". Nature. 416: 12–14. doi:10.1038/416012a. 
+^ Honing, H.; Ploeger, A. (2012). "Cognition and the Evolution of Music: Pitfalls and Prospects". Topics in Cognitive Science. 4: 513–524. doi:10.1111/j.1756-8765.2012.01210.x. 
+^ Soley, G.; Hannon, E. E. (2010). "Infants prefer the musical meter of their own culture: A cross-cultural comparison". Developmental Psychology. 46: 286–292. doi:10.1037/a0017555. PMID 20053025. 
+^ Balkwill, L.; Thompson, W. F.; Matsunaga, R. (2004). "Recognition of emotion in Japanese, Western, and Hindustani music by Japanese listeners". Japanese Psychological Research. 46: 337–349. doi:10.1111/j.1468-5584.2004.00265.x. 
+^ Demorest, S. M.; Morrison, S. J.; Beken, M. N.; Jungbluth, D. (2008). "Lost in translation: An enculturation effect in music memory performance". Music Perception. 25 (3): 213–223. doi:10.1525/mp.2008.25.3.213. 
+^ Groussard, M.; Rauchs, G.; Landeau, B.; Viader, F.; Desgranges, B.; Eustache, F.; Platel, H. (2010). "The neural substrates of musical memory revealed by fMRI and two semantic tasks". NeuroImage. 53: 1301–1309. doi:10.1016/j.neuroimage.2010.07.013. PMID 20627131. 
+^ Miranda, Dave; Morizot, Julien; Gaudreau, Patrick (27 March 2012). "Personality Metatraits and Music Preferences in Adolescence: A Pilot Study". International Journal of Adolescence and Youth. 15 (4): 289–301. doi:10.1080/02673843.2010.9748036. 
+^ Chamorro-Premuzic, Tomas; Swami, Viren; Cermakova, Blanka (22 December 2010). "Individual differences in music consumption are predicted by uses of music and age rather than emotional intelligence, neuroticism, extraversion or openness". Psychology of Music. 40 (3): 285–300. doi:10.1177/0305735610381591. 
+^ Vuoskoski, Jonna K.; Eerola, Tuomas (13 July 2011). "Measuring music-induced emotion: A comparison of emotion models, personality biases, and intensity of experiences". Musicae Scientiae. 15 (2): 159–173. doi:10.1177/1029864911403367. 
+^ Barret, Frederick S.; Grimm, Kevin J.; Robins, Richard W.; Wildschut, Tim; Constantine, Sedikides; Janata, Petr (June 2010). "Music-evoked nostalgia: Affect, memory, and personality". Emotion. 10 (3): 390–403. doi:10.1037/a0019006. PMID 20515227. 
+^ Kampfe, J.; Sedlmeier, P.; Renkewitz, F. (8 November 2010). "The impact of background music on adult listeners: A meta-analysis". Psychology of Music. 39 (4): 424–448. doi:10.1177/0305735610376261. 
+^ de Groot, Annette M. B. (1 September 2006). "Effects of Stimulus Characteristics and Background Music on Foreign Language Vocabulary Learning and Forgetting". Language Learning. 56 (3): 463–506. doi:10.1111/j.1467-9922.2006.00374.x. 
+^ Aheadi, A.; Dixon, P.; Glover, S. (21 July 2009). "A limiting feature of the Mozart effect: listening enhances mental rotation abilities in non-musicians but not musicians". Psychology of Music. 38 (1): 107–117. doi:10.1177/0305735609336057. 
+^ Alley, Thomas R.; Greene, Marcie E. (16 October 2008). "The Relative and Perceived Impact of Irrelevant Speech, Vocal Music and Non-vocal Music on Working Memory". Current Psychology. 27 (4): 277–289. doi:10.1007/s12144-008-9040-z. 
+^ Cassidy, G.; MacDonald, R. A.R. (1 July 2007). "The effect of background music and background noise on the task performance of introverts and extraverts". Psychology of Music. 35 (3): 517–537. doi:10.1177/0305735607076444. 
+^ Patston, Lucy L. M.; Tippett, Lynette J. (1 December 2011). "The Effect of Background Music on Cognitive Performance in Musicians and Nonmusicians". Music Perception: An Interdisciplinary Journal. 29 (2): 173–183. doi:10.1525/mp.2011.29.2.173. 
+^ Avila, C.; Furnham, A.; McClelland, A. (9 November 2011). "The influence of distracting familiar vocal music on cognitive performance of introverts and extraverts". Psychology of Music. 40 (1): 84–93. doi:10.1177/0305735611422672. 
+^ Olivers, Christian N.L.; Nieuwenhuis, Sander (1 April 2005). "The Beneficial Effect of Concurrent Task-Irrelevant Mental Activity on Temporal Attention". Psychological Science. 16 (4): 265–269. doi:10.1111/j.0956-7976.2005.01526.x. PMID 15828972. 
+^ Beanland, Vanessa; Allen, Rosemary A.; Pammer, Kristen (1 December 2011). "Attending to music decreases inattentional blindness". Consciousness and Cognition. 20 (4): 1282–1292. doi:10.1016/j.concog.2011.04.009. 
+^ a b Schäfer, Thomas; Sedlmeier, Peter; Städtler, Christine; Huron, David (2013). "The psychological functions of music listening". Frontiers in Psychology. 4. doi:10.3389/fpsyg.2013.00511. ISSN 1664-1078. 
+^ a b Hahn, Minhi; Hwang, Insuk (1 December 1999). "Effects of tempo and familiarity of background music on message processing in TV advertising: A resource-matching perspective". Psychology and Marketing. 16 (8): 659–675. doi:10.1002/(SICI)1520-6793(199912)16:8<659::AID-MAR3>3.0.CO;2-S. 
+^ a b Park, C. Whan; Young, S. Mark (1 February 1986). "Consumer Response to Television Commercials: The Impact of Involvement and Background Music on Brand Attitude Formation". Journal of Marketing Research. 23 (1): 11. doi:10.2307/3151772. 
+^ a b Oakes, Steve; North, Adrian C. (1 May 2006). "The impact of background musical tempo and timbre congruity upon ad content recall and affective response". Applied Cognitive Psychology. 20 (4): 505–520. doi:10.1002/acp.1199. 
+^ a b Lalwani, Ashok K.; Lwin, May O.; Ling, Pee Beng (14 April 2009). "Does Audiovisual Congruency in Advertisements Increase Persuasion? The Role of Cultural Music and Products". Journal of Global Marketing. 22 (2): 139–153. doi:10.1080/08911760902765973. 
+^ a b Zander, M. F. (1 October 2006). "Musical influences in advertising: how music modifies first impressions of product endorsers and brands". Psychology of Music. 34 (4): 465–480. doi:10.1177/0305735606067158. 
+^ a b Lavack, Anne M.; Thakor, Mrugank V.; Bottausci, Ingrid (1 January 2008). "Music-brand congruency in highand low-cognition radio advertising". International Journal of Advertising. 27 (4): 549. doi:10.2501/S0265048708080141. 
+^ Eroglu, Sevgin A.; Machleit, Karen A.; Chebat, Jean-Charles (1 July 2005). "The interaction of retail density and music tempo: Effects on shopper responses". Psychology and Marketing. 22 (7): 577–589. doi:10.1002/mar.20074. 
+^ Chebat, Jean-Charles; Chebat, Claire Gélinas; Vaillant, Dominique (1 November 2001). "Environmental background music and in-store selling". Journal of Business Research. 54 (2): 115–123. doi:10.1016/S0148-2963(99)00089-2. 
+^ a b OAKES, STEVE (1 January 2007). "Evaluating Empirical Research into Music in Advertising: A Congruity Perspective". Journal of Advertising Research. 47 (1): 38. doi:10.2501/S0021849907070055. 
+^ a b O'Neill, Susan; Sloboda, John. "Psychology of Music, Musical ability". Grove Music Online, Oxford Music Online. Oxford University Press. Retrieved 17 April 2014. 
+^ Platz, F.; Kopiez, R. (September 2012). "When the Eye Listens: A Meta-analysis of How Audio-visual Presentation Enhances the Appreciation of Music Performance". Music Perception. 30 (1): 71–83. doi:10.1525/mp.2012.30.1.71. JSTOR 10.1525/mp.2012.30.1.71. 
+^ Shelvock, Matt. "Gestalt Theory and Mixing Audio". Innovation in Music II. 
+^ "Dt. Gesellsch. f. Musikpsychologie" (in German). Retrieved 23 July 2012. 
+^ "Journal of Mathematics and Music". Retrieved 6 April 2014. 
+^ "Macquarie University; Music, Sound and Performance Lab". Retrieved 6 April 2014. 
+^ "Melbourne University; Music, Music, Mind and Wellbeing Initiative". Retrieved 9 April 2014. 
+^ "UNSW; Empirical Musicology Group". Retrieved 8 December 2014. 
+^ "University of Western Australia; ARC Centre of Excellence for the History of Emotion". Retrieved 8 December 2014. 
+^ "University of Western Sydney; The MARCS Institute". Retrieved 9 April 2014. 
+^ "University of Graz; Centre for Systematic Musicology". Retrieved 6 April 2014. 
+^ "University of Klagenfurt; Cognitive Psychology Unit". Retrieved 8 April 2014. 
+^ "Ghent University; Institute for Psychoacoustics and Electronic Music". Retrieved 9 April 2014. 
+^ "McGill University; CIRMMT". Retrieved 6 April 2014. 
+^ "University of Toronto; MaHRC". Retrieved 6 April 2014. 
+^ "Queens University; Music Cognition Lab". Retrieved 6 April 2014. 
+^ "University of PEI; Auditory Perception and Music Cognition Research and Training Laboratory". Retrieved 6 April 2014. 
+^ "Ryerson University; SMART Lab". Retrieved 6 April 2014. 
+^ "McMaster University; MAPLE Lab". Retrieved 17 January 2015. 
+^ "McMaster University; MIMM". Retrieved 6 April 2014. 
+^ "BRAMS - International Laboratory for Brain, Music, and Sound Research". Retrieved 6 April 2014. 
+^ "University of Montreal; Centre for Research on Brain, Language and Music". Retrieved 6 April 2014. 
+^ "University of Western Ontario; Music and Neuroscience Lab". Retrieved 9 April 2014. 
+^ "Aarhus University; Center for Music in the brain". Retrieved 17 October 2017. 
+^ "University of Jyväskylä, Finnish Centre of Excellence in Interdisciplinary Music Research". Retrieved 9 April 2014. 
+^ "Claude Bernard University Lyon 1; CAP,". Retrieved 9 April 2014. 
+^ "Centre Pompidou; IRCAM; Research". Retrieved 19 April 2014. 
+^ "Institute for Systematic Musicology, Universität Hamburg". Retrieved 15 December 2017. 
+^ "HMTMH; Institute of Music Physiology and Musicians' Medicine". Retrieved 9 April 2014. 
+^ "HMTMH; Hanover Music Lab". Retrieved 15 December 2017. 
+^ "University of Iceland, Research Units". Retrieved 19 April 2014. 
+^ "University of Amsterdam; Music Cognition Group". Archived from the original on 22 May 2016. Retrieved 6 April 2014. 
+^ "Norwegian Academy of Music; Centre for Music and Health". Retrieved 21 April 2014. 
+^ "FC University of Music; Unit of Psychology of Music". Retrieved 6 April 2014. 
+^ "University of Finance and Management in Warsaw; Music Performance and Brain Lab". Retrieved 21 April 2014. 
+^ "Pompeu Fabra University; Music Technology Group". Retrieved 23 April 2014. 
+^ "Royal Institute of Technology, Speech, Music and Hearing". Retrieved 6 April 2014. 
+^ "Uppsala University; Music Psychology Group". Retrieved 21 April 2014. 
+^ "Cambridge University; Centre for Music and Science". Retrieved 6 April 2014. 
+^ "University of Edinburgh; Music and the Human Sciences". Retrieved 6 April 2014. 
+^ "Keele University; Centre for Psychological Research". Retrieved 6 April 2014. 
+^ "Durham University; Music and Science Lab". Retrieved 10 December 2017. 
+^ "University of Leeds; ICSRiM". Retrieved 6 April 2014. 
+^ "University of Leicester; Social and Applied Psychology Group". Retrieved 6 April 2014. 
+^ "Goldsmiths; Music, Mind and Brain". Retrieved 6 April 2014. 
+^ "UCL Institute of Education; International Music Education Research Centre". Retrieved 6 April 2014. 
+^ "Queen Mary University of London; Music Cognition Lab". Retrieved 22 April 2014. 
+^ "University of Oxford; Psychology of Music". Retrieved 12 April 2014. 
+^ "University of Roehampton; Applied Music Research Centre". Retrieved 6 April 2014. 
+^ "Royal College of Music; Centre for Performance Science". Retrieved 6 April 2014. 
+^ "Royal Northern College of Music; Centre for Music Performance Research". Retrieved 6 April 2014. 
+^ "Sheffield University; Department of Music, Psychology of Music Research". Retrieved 6 April 2014. 
+^ "University of Arkansas; Music Cognition Lab". Retrieved 6 April 2014. 
+^ "Music and Neuroimaging Laboratory". Retrieved 28 April 2014. 
+^ "University at Buffalo; Auditory Perception & Action Lab". Retrieved 29 April 2014. 
+^ "UCD; Janata Lab". Retrieved 29 April 2014. 
+^ "UCLA; Roger Kendall Bio". Retrieved 21 April 2014. 
+^ "UCSD; Diana Deutsch profile". Retrieved 29 April 2014. 
+^ Foran, Sheila. "Theoretical Neuroscientist Ed Large Joins UConn Faculty". UConn Today. Retrieved 4 May 2014. 
+^ "Cornell University; The Music Cognition Laboratory". Retrieved 28 April 2014. 
+^ "University of Rochester; Music Cognition at Eastman School of Music". Retrieved 8 April 2014. 
+^ "Florida State University; Center for Music Research". Retrieved 21 April 2014. 
+^ "Louisiana State University; Music Cognition and Computation Lab". Retrieved 29 February 2016. 
+^ "University of Maryland; Language and Music Cognition Lab". Retrieved 29 April 2014. 
+^ "UNLV; Auditory Cognition and Development Lab". Retrieved 29 April 2014. 
+^ "Northwestern University; Auditory Neuroscience Laboratory". Retrieved 29 April 2014. 
+^ "Northwestern University; Music Theory and Cognition Program". Retrieved 21 April 2014. 
+^ "Ohio State University; Cognitive and Systematic Musicology Laboratory". Retrieved 8 April 2014. 
+^ "University of Oregon; Music Learning, Perception, and Cognition Focus Group". Retrieved 21 April 2014. 
+^ "Stanford University; Center for Computer Research in Music and Acoustics". Retrieved 6 April 2014. 
+^ "University of Texas at Dallas; Dowling Laboratory". Retrieved 21 April 2014. 
+^ "University of Texas at San Antonio; Institute for Music Research". Retrieved 21 April 2014. 
+^ "University of Washington; MCCL". Retrieved 28 April 2014. 
+^ "Wesleyan University; MIND Lab". Retrieved 28 October 2014. 
+^ "Western Michigan University; BRAIN Lab". Retrieved 29 April 2014. 
+
+
+Further reading[edit]
+Encyclopedia entries[edit]
+
+Palmer, Caroline & Melissa K. Jungers (2003): Music Cognition. In: Lynn Nadel: Encyclopedia of Cognitive Science, Vol. 3, London: Nature Publishing Group, pp. 155–158.
+Deutsch, Diana (2013): Music. In Oxford Bibliographies in Music. Edited by Dunn, D.S. New York: Oxford University Press. 2013, Web Link
+Thompson, William Forde (2014): "Music in the Social and Behavioral Sciences, An Encyclopedia". Sage Publications Inc., New York. ISBN 9781452283036 Web Link
+
+Introductory reading[edit]
+
+Day, Kingsley (October 21, 2004). "Music and the Mind: Turning the Cognition Key". Observer online.
+Jourdain, Robert (1997). Music, the Brain, and Ecstasy: How Music Captures Our Imagination. New York: William Morrow and Company. ISBN 0-688-14236-2.
+Honing, Henkjan (2013). "Musical Cognition. A Science of Listening (2nd edition)." New Brunswick, N.J.: Transaction Publishers. ISBN 978-1412852920.
+Levitin, D. J. (2006). "This Is Your Brain on Music: The Science of a Human Obsession." New York: Dutton. ISBN 0-525-94969-0
+Margulis, Elizabeth Hellmuth. (2013). ''On Repeat: How Music Plays the Mind. New York, NY: Oxford University Press. ISBN 978-0199990825.
+Purwins; Hardoon (2009). "Trends and Perspectives in Music Cognition Research and Technology" (PDF). Connection Science. 21 (2–3): 85–88. doi:10.1080/09540090902734549. 
+Snyder, Bob (2000). "Music and Memory: an introduction" The MIT Press. ISBN 0-262-69237-6.
+J.P.E. Harper-Scott and Jim Samson 'An Introduction to Music Studies', Chapter 4: John Rink,The Psychology of Music, (Cambridge University Press, 2009), pp. 60.
+
+Advanced reading[edit]
+
+Deutsch, D. (Ed.) (1982). The Psychology of Music, 1st Edition. New York: Academic Press. ISBN 0-12-213562-8.
+Deutsch, D. (Ed.) (1999). The Psychology of Music, 2nd Edition. San Diego: Academic Press. ISBN 0-12-213565-2.
+Deutsch, D. (Ed.) (2013). The Psychology of Music, 3rd Edition. San Diego: Academic Press. ISBN 0-12-381460-X.
+Dowling, W. Jay and Harwood, Dane L. (1986). Music Cognition. San Diego: Academic Press. ISBN 0-12-221430-7.
+Hallam, Cross, & Thaut, (eds.) (2008). The Oxford Handbook of Music Psychology. Oxford: Oxford University Press.
+Krumhansl, Carol L. (2001). Cognitive Foundations of Musical Pitch. Oxford: Oxford University Press. ISBN 0-19-514836-3.
+Patel, Anirrudh D. (2010). Music, language, and the brain. New York: Oxford University Press.
+Parncutt, R. (1989). Harmony: A Psychoacoustical Approach. Berlin: Springer.
+Sloboda, John A. (1985). The Musical Mind: The Cognitive Psychology of Music. Oxford: Oxford University Press. ISBN 0-19-852128-6.
+Lerdahl, F. and Jackendoff, R. (21996) A Generative Theory of Tonal Music. The MIT Press. ISBN 978-0-262-62107-6.
+Jackendoff, Ray (1987): Consciousness and the Computational Mind. Cambridge: MIT Press. Chapter 11: Levels of Musical Structure, section 11.1: What is Musical Cognition?
+Temperley, D. (2004). The Cognition of Basic Musical Structures. The MIT Press. ISBN 978-0-262-70105-1.
+Thompson, W. F. (2009). Music, Thought, and Feeling: Understanding the Psychology of Music New York: Oxford University Press. ISBN 978-0-19-537707-1.
+Zbikowski, Lawrence M. (2004). Conceptualizing Music: Cognitive Structure, Theory, and Analysis. Oxford University Press, USA. ISBN 978-0-19-514023-1.
+North, A.C. & Hargreaves, D.J. (2008). The Social and Applied Psychology of Music. Oxford: Oxford University Press. ISBN 978-0-19-856742-4.
+
+External links[edit]
+
+MusicCognition.info - A Resource and Information Center
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Music psychology
+
+
+
+Areas
+
+
+
+Biomusicology
+Cognitive musicology
+Cognitive neuroscience of music
+Culture in music cognition
+Evolutionary musicology
+Psychoacoustics
+
+
+
+
+
+Topics
+
+
+
+Absolute pitch
+Auditory illusion
+Auditory imagery
+Background music
+Consonance and dissonance
+Deutsch's scale illusion
+Earworm
+Embodied music cognition
+Entrainment
+Exercise and music
+Eye movement in music reading
+Franssen effect
+Generative theory of tonal music
+Glissando illusion
+Hedonic music consumption model
+Illusory continuity of tones
+Levitin effect
+Lipps–Meyer law
+Melodic expectation
+Melodic fission
+Mozart effect
+Music and emotion
+Music and movement
+Music in psychological operations
+Music preference
+Music-related memory
+Musical gesture
+Musical semantics
+Musical syntax
+Octave illusion
+Relative pitch
+Shepard tone
+Temporal dynamics of music and language
+Tonal memory
+Tritone paradox
+
+
+
+
+
+Disorders
+
+
+
+Amusia
+Auditory arrhythmia
+Beat deafness
+Musical hallucinations
+Musician's dystonia
+Music-specific disorders
+Tone deafness
+
+
+
+
+
+Related fields
+
+
+
+Aesthetics of music
+Bioacoustics
+Ethnomusicology
+Hearing
+Melodic intonation therapy
+Music education
+Music therapy
+Musical acoustics
+Musicology
+Neurologic music therapy
+Neuronal encoding of sound
+Performance science
+Philosophy of music
+Psychoanalysis and music
+Sociomusicology
+Systematic musicology
+Zoomusicology
+
+
+
+
+
+Researchers
+
+
+
+Jamshed Bharucha
+Robert Cutietta
+Jane W. Davidson
+Irène Deliège
+Diana Deutsch
+Henkjan Honing
+Nina Kraus
+Carol L. Krumhansl
+Fred Lerdahl
+Daniel Levitin
+Leonard B. Meyer
+Max Friedrich Meyer
+James Mursell
+Richard Parncutt
+Oliver Sacks
+Carl Seashore
+Roger Shepard
+John Sloboda
+Carl Stumpf
+William Forde Thompson
+
+
+
+
+
+Books and journals
+
+
+
+Musicophilia
+Music, Thought, and Feeling
+Psychology of Music (journal)
+Psychomusicology: Music, Mind and Brain (journal)
+The World in Six Songs
+This Is Your Brain on Music
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Music
+
+
+
+History of music and
+Classical history
+
+
+
+Prehistoric
+Ancient
+Religious
+
+Biblical
+
+
+Secular
+
+
+
+
+Classical/art music
+
+
+
+Medieval
+Renaissance
+Baroque
+Classical period
+Romantic
+Impressionist
+20th century
+Contemporary
+21st century
+
+
+
+
+
+Vernacular music
+
+
+
+Blues
+Circus music
+Country music
+Jazz
+Folk music
+Popular music
+Hip hop music
+Pop music
+Progressive music
+Psychedelic music
+Rock music
+
+Heavy metal
+Punk rock
+Alternative
+
+
+Soul music
+
+
+
+
+
+
+
+
+
+
+
+Performance
+Ensembles
+
+
+
+
+
+
+Band (rock and pop)
+
+Backup band
+All-female band
+Rhythm section
+
+
+Big band
+Choir
+Concert band
+Conducting
+Disc jockey
+Musician
+Orchestra
+Singing
+
+Lead vocalist
+Backing vocalist
+
+
+
+
+
+
+
+
+
+
+Theory
+Composition
+
+
+
+
+
+
+Form
+Genre
+Notation
+Composer
+Improvisation
+Songwriter
+Lyrics
+Song
+
+
+
+
+
+Education and study
+
+
+
+Bachelor of Music
+Master of Music
+Doctor of Musical Arts
+PhD
+Music education
+Music history
+Music psychology
+
+Cultural aspects
+
+
+Musicology
+Ethnomusicology
+Music archaeology
+Ecomusicology
+
+
+
+
+
+Production
+
+
+
+Single
+
+A-side and B-side
+Extended play
+
+
+Album
+
+Compilation
+Live
+Remix
+
+
+Audio engineer
+Record label
+Record producer
+Sampling
+Music technology (electric)
+Music technology (electronic and digital)
+Sound recording and reproduction
+Cover
+Remix
+
+
+
+
+
+
+Cultural and
+regional genres
+
+
+
+
+African
+
+Central
+East
+North
+Southern
+West
+
+
+Asian
+
+Central
+East
+Middle-Eastern
+South
+Southeast
+
+
+European
+
+Central
+Eastern
+Northern
+Southeastern
+Southern
+Western
+
+
+Latin American
+
+Central American
+South American
+
+
+North American
+
+Caribbean
+
+
+Oceanian
+
+Melanesian
+Micronesian
+Polynesian
+
+
+
+
+
+
+
+By sovereign state
+
+
+
+
+
+ 
+
+
+
+
+
+
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Federated States of Micronesia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Macedonia
+Republic of the Congo
+Romania
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+São Tomé and Príncipe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Index
+Outline
+Terminology
+Instruments
+Musical forms by era
+Cultural and regional genres
+Popular music genres
+Albums
+Songs
+Jazz and popular music glossary
+Audio
+
+
+
+
+
+Related articles
+
+
+
+Music and politics
+Music festival
+Music therapy
+Musical instrument
+Women in music
+
+
+
+
+
+
+
+
+Category
+Portal
+WikiProject
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychology
+
+
+
+
+
+
+History
+Philosophy
+Portal
+Psychologist
+
+
+
+
+
+Basic psychology
+
+
+
+Abnormal
+Affective science
+Affective neuroscience
+Behavioral genetics
+Behavioral neuroscience
+Behaviorism
+Cognitive/Cognitivism
+Cognitive neuroscience
+Comparative
+Cross-cultural
+Cultural
+Developmental
+Differential
+Ecological
+Evolutionary
+Experimental
+Gestalt
+Intelligence
+Mathematical
+Neuropsychology
+Personality
+Positive
+Psycholinguistics
+Psychophysics
+Psychophysiology
+Quantitative
+Social
+Theoretical
+
+
+
+
+
+Applied psychology
+
+
+
+Anomalistic
+Applied behavior analysis
+Assessment
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Ergonomics
+Feminist
+Forensic
+Health
+Industrial and organizational
+Legal
+Media
+Military
+Music
+Occupational health
+Pastoral
+Political
+Psychometrics
+Psychotherapy
+Religion
+School
+Sport and exercise
+Suicidology
+Systems
+Traffic
+
+
+
+
+
+Methodologies
+
+
+
+Animal testing
+Archival research
+Behavior epigenetics
+Case study
+Content analysis
+Experiments
+Human subject research
+Interviews
+Neuroimaging
+Observation
+Qualitative research
+Quantitative research
+Self-report inventory
+Statistical surveys
+
+
+
+
+
+
+Psychologists
+
+
+
+
+William James (1842–1910)
+Ivan Pavlov (1849–1936)
+Sigmund Freud (1856–1939)
+Edward Thorndike (1874–1949)
+Carl Jung (1875–1961)
+John B. Watson (1878–1958)
+Clark L. Hull (1884–1952)
+Kurt Lewin (1890–1947)
+Jean Piaget (1896–1980)
+Gordon Allport (1897–1967)
+J. P. Guilford (1897–1987)
+Carl Rogers (1902–1987)
+Erik Erikson (1902–1994)
+B. F. Skinner (1904–1990)
+Donald O. Hebb (1904–1985)
+Ernest Hilgard (1904–2001)
+Harry Harlow (1905–1981)
+Raymond Cattell (1905–1998)
+Abraham Maslow (1908–1970)
+Neal E. Miller (1909–2002)
+Jerome Bruner (1915–2016)
+Donald T. Campbell (1916–1996)
+Hans Eysenck (1916–1997)
+Herbert A. Simon (1916–2001)
+David McClelland (1917–1998)
+Leon Festinger (1919–1989)
+George Armitage Miller (1920–2012)
+Richard Lazarus (1922–2002)
+Stanley Schachter (1922–1997)
+Robert Zajonc (1923–2008)
+Albert Bandura (b. 1925)
+Roger Brown (1925–1997)
+Endel Tulving (b. 1927)
+Lawrence Kohlberg (1927–1987)
+Noam Chomsky (b. 1928)
+Ulric Neisser (1928–2012)
+Jerome Kagan (b. 1929)
+Walter Mischel (b. 1930)
+Elliot Aronson (b. 1932)
+Daniel Kahneman (b. 1934)
+Paul Ekman (b. 1934)
+Michael Posner (b. 1936)
+Amos Tversky (1937–1996)
+Bruce McEwen (b. 1938)
+Larry Squire (b. 1941)
+Richard E. Nisbett (b. 1941)
+Martin Seligman (b. 1942)
+Ed Diener (b. 1946)
+Shelley E. Taylor (b. 1946)
+John Anderson (b. 1947)
+Ronald C. Kessler (b. 1947)
+Joseph E. LeDoux (b. 1949)
+Richard Davidson (b. 1951)
+Susan Fiske (b. 1952)
+Roy Baumeister (b. 1953)
+
+
+
+
+
+Lists
+
+
+
+Counseling topics
+Disciplines
+Important publications
+Organizations
+Outline
+Psychologists
+Psychotherapies
+Research methods
+Schools of thought
+Timeline
+Topics
+
+
+
+
+
+
+
+
+Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4127817-3
+NDL: 00568872
+
+
+
+
+
+
+
+
+
+
+Categories: Applied psychologyBranches of psychologyMusic psychologyMusicologyHidden categories: CS1 maint: Extra text: authors listCS1 maint: Multiple names: authors listCS1 German-language sources (de)Articles to be expanded from April 2014All articles to be expandedArticles using small message boxesIncomplete lists from April 2014Wikipedia articles with GND identifiers

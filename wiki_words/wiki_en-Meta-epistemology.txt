@@ -1,0 +1,55 @@
+Meta-epistemology
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (September 2013) (Learn how and when to remove this template message)
+
+
+
+Meta-epistemology is a metaphilosophical study of the subject, matter, methods and aims of epistemology and of approaches to understanding and structuring our knowledge of knowledge itself.
+In epistemology, there are two basic meta-epistemological approaches: traditional "normative" epistemology, and naturalized epistemology.
+Traditional epistemology has been concerned with "justification". According to the traditional model of knowledge, some proposition p is knowledge if and only if:
+
+some agent X believes p,
+p is true,
+X is justified in believing in p
+
+Since the time of Descartes, who sought to establish the criteria by which true beliefs could be acquired, and to determine those beliefs we are in fact justified in believing, the primary epistemological project has been the elucidation of the justificatory condition in the classic tripartite conception of knowledge (i.e. justified true belief).
+Naturalized epistemology had its beginnings in the twentieth century with W. V. Quine. Quine's proposal, which is commonly called "Replacement Naturalism," is to excise every trace of normativity from the epistemological body. Quine wanted to merge epistemology with empirical psychology such that every epistemological statement would be replaced by a psychological statement.
+Definition[edit]
+Epistemology is the study, or theory of knowledge, including the questions: What is knowledge? How is or should it be acquired, tested, stored, revised, updated, and retrieved?
+Some goals of meta-epistemology are to identify inaccurate traditional assumptions, or hitherto overlooked scope for generalization. Thus whereas epistemology has usually been seen as a branch of philosophy, the discussion below also takes examples from biology which seem equivalent in relevant ways. Also, insofar as philosophy is involved, there may be a case for extending it beyond its traditional domain of word-based definitions.
+References and further reading[edit]
+
+Ashby, William Ross (2011). Design for a Brain (reprint ed.). BiblioBazaar. ISBN 978-1-175-96872-2. 
+Beer, Anthony Stafford (1972/1981) Brain of the Firm. Wiley: NY & London.
+Beth, E.W. and Piaget, Jean (1966) Mathematical Epistemology and Psychology. D.Reidel: Dordrecht.
+Furth, H.J. (1969) Piaget and knowledge. Prentice-Hall: NJ.
+Gruber, H.E. and J.J.Vonèche (eds) (1977) The Essential Piaget. Routledge & Kegan Paul: London.
+Hebb, Donald Olding (1949/1964) The organization of behaviour. Wiley: NY & London.
+Kant, Immanuel (1781 "A" / 1787 "B" / 1993 / 2007) Critique of pure reason. Palgrave Macmillan: Boston; [N. Kemp Smith translation, ISBN 978-0-230-01338-4].
+Nitsch, F.A. (1796/1977) A View of Professor Kant's Principles of Man, World and the Deity. Yale University facsimile.
+Piaget, Jean (1923/1926) Language and Thought of the Child. Routledge & Kegan Paul: London.
+Piaget, Jean (1949/1950) Traité de logique, Armand Collin: Paris. — Republished (1972) as Essai de Logique Operatoire, Dunod.
+Piaget, Jean (1952) "La logistique axiomatique ou 'pure', la logistique operatoire ou psychologique, et les réalités auxelles elles correspondent". Methodos, 4(13), 72-85.
+Piaget, Jean (1967/1971) Biology and Knowledge. Chicago University Press.
+Popper, Karl (1934/1959/1972) Logik der Forschung / The Logic of Scientific Discovery. Hutchinson: London.
+Popper, Karl (1975/1994) "The rationality of scientific revolutions"; (i) in Rom Harré (ed.) (1975) Problems of Scientific Revolution. Scientific Progress and Obstacles to Progress in the Sciences, The Herbert Spencer Lectures 1973, Clarendon Press, Oxford. — Also in (ii) M.A.Notturno (ed.)(1994) The Myth of the Framework: In defence of science and rationality; Routledge, London; ISBN 0-415-11320-2; pp. 1–32.
+Thagard, Paul (1992) Conceptual Revolutions. Princeton University Press ISBN 0-691-02490-1 — Or try his actual "ECHO" software, now accessible online: [1]
+Traill, R.R. (1978) Thesis [on Piaget and Ashby etc.]. Cybernetics Department, Brunel University. [2] — plus collection of related papers (1976/2007) [3]
+Traill, R.R. (1999) "Four Learning-system Types (Epistemologies): with a Common Basic Strategy" — Chapter 4, within Mind and Micromechanism. Ondwelle, Melbourne. [4] — ISBN 0-9577737-0-6
+Traill, R.R. (2006 / 2008) Thinking by molecule, synapse, or both? — From Piaget's schema, to the selecting/editing of ncRNA Ondwelle, Melbourne. [5] — ["Table S" is in the 2008 Supplement, p. 31.] — also available in French / aussi en français: [6]
+Whitehead, A.N. and B.Russell (1910–1913) Principia Mathematica. Cambridge University Press.
+
+External links[edit]
+
+Meta-epistemology at PhilPapers
+
+
+
+
+
+Categories: EpistemologyMetaphilosophyHidden categories: Articles lacking in-text citations from September 2013All articles lacking in-text citations

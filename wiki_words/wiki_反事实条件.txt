@@ -1,0 +1,450 @@
+反事实条件
+反事实条件，或虚拟条件，致力于捕获在自然语言中的“如果-那么”陈述的条件陈述。与实质条件陈述不同，反事实条件可以为假即使它的前件为假。
+在自然语言中的"如果-那么"的意思不是总能正确的用实质条件所形式化。特别是，实质条件总是真的，只要它们的前件为假，而在自然语言中的"如果-那么"陈述，是直陈条件，可以在这种情况下为假。例如，陈述“如果小明在墨西哥，则小明在非洲”将典型的被认为是假。但是，如果小明当前不在墨西哥，则对应的逻辑条件是真。换句话说，如果陈述“小明在墨西哥”和 “小明在非洲”被分别的形式化为命题
+
+
+
+m
+
+
+{\displaystyle m}
+
+和
+
+
+
+a
+
+
+{\displaystyle a}
+
+，你可能不希望第一个蕴涵第二个。不过，如果
+
+
+
+m
+
+
+{\displaystyle m}
+
+当前为假，则
+
+
+
+m
+→
+a
+
+
+{\displaystyle m\rightarrow a}
+
+在命题逻辑中是真。
+为了区分反事实条件和实质条件，定义了符号
+
+
+
+>
+
+
+{\displaystyle >}
+
+，所以
+
+
+
+A
+>
+B
+
+
+{\displaystyle A>B}
+
+意味着“如果
+
+
+
+A
+
+
+{\displaystyle A}
+
+，则
+
+
+
+B
+
+
+{\displaystyle B}
+
+”。
+反事实条件
+
+
+
+A
+>
+B
+
+
+{\displaystyle A>B}
+
+的语义不能用条件
+
+
+
+A
+
+
+{\displaystyle A}
+
+和
+
+
+
+B
+
+
+{\displaystyle B}
+
+的真值表的方式定义，因为那是给实质条件用的。实际上有些不同的情况在
+
+
+
+A
+
+
+{\displaystyle A}
+
+和
+
+
+
+B
+
+
+{\displaystyle B}
+
+的真值上是一致的，但是仍希望给出不同的
+
+
+
+A
+>
+B
+
+
+{\displaystyle A>B}
+
+的求值。例如，如果小明在德国，则下列两个条件都有假的前件和假的后件：
+
+如果小明在美国，则小明在非洲
+如果小明在美国，则小明在北美洲
+
+实际上，如果小明在德国，则所有三个情况“小明在美国”、“小明在非洲”和 “小明在北美洲”都是假的。但是，第一种情况明显是假的：美国不在非洲；第二种情况是真的：美国是北美国家。
+语义[编辑]
+哲学家如David Lewis和Robert Stalnaker使用模态逻辑的可能世界语义建模了反事实条件。条件
+
+
+
+A
+>
+B
+
+
+{\displaystyle A>B}
+
+的语义所基于的是，考虑在其中
+
+
+
+A
+
+
+{\displaystyle A}
+
+是真的所有最可能的情况，并检查
+
+
+
+B
+
+
+{\displaystyle B}
+
+在所有它们之中是否是真的。形式的说：
+
+
+
+
+
+A
+>
+B
+
+
+{\displaystyle A>B}
+
+是在一个世界
+
+
+
+w
+
+
+{\displaystyle w}
+
+中是真的，如果在最接近于
+
+
+
+A
+
+
+{\displaystyle A}
+
+是真的世界
+
+
+
+w
+
+
+{\displaystyle w}
+
+的所有世界中
+
+
+
+B
+
+
+{\displaystyle B}
+
+也是真的。
+
+例如：
+
+如果braves已经获胜，则Keaton就已经吃了他的帽子。
+
+要求值这个陈述，考虑braves确实获胜的一个可能世界，并想象这个世界在其他方面尽可能的类似于实际世界（比如它不是一个纳粹统治的世界）。接着提问在这样的一个世界中，Keaton是否吃了他的帽子。
+反事实条件可以使用Ramsey测试来求值：
+
+
+
+A
+>
+B
+
+
+{\displaystyle A>B}
+
+成立，当且仅当向当前的知识团体增加
+
+
+
+A
+
+
+{\displaystyle A}
+
+，有着
+
+
+
+B
+
+
+{\displaystyle B}
+
+作为结论。这种条件把反事实条件关联于信仰修正，因为
+
+
+
+A
+>
+B
+
+
+{\displaystyle A>B}
+
+的求值可以通过首先用
+
+
+
+A
+
+
+{\displaystyle A}
+
+修正当前的知识，并接着检查
+
+
+
+B
+
+
+{\displaystyle B}
+
+是结果中是否为真来进行。在
+
+
+
+A
+
+
+{\displaystyle A}
+
+一致于当前信仰的时候修正是容易的，否则就可能是困难的。信仰修正的所有语义都可以用来求值条件陈述。反之，求值条件的所有方法都可以看作进行修正的一种方式。
+条件的一种语义已经被Ginsberg提出，它假定当前信仰形成命题公式的一个集合，考虑相容于
+
+
+
+A
+
+
+{\displaystyle A}
+
+的这些公式的所有最大集合，并把
+
+
+
+A
+
+
+{\displaystyle A}
+
+增加到每个。基本原理是每个这种最大集合都表示在其中
+
+
+
+A
+
+
+{\displaystyle A}
+
+为真的信仰一种可能状态，并尽可能的类似于最初的信仰。因此条件陈述
+
+
+
+A
+>
+B
+
+
+{\displaystyle A>B}
+
+成立，当且仅当
+
+
+
+B
+
+
+{\displaystyle B}
+
+在所有这些世界中都是真的。
+注解[编辑]
+实质条件的语义被定义为
+
+
+
+A
+→
+B
+
+
+{\displaystyle A\rightarrow B}
+
+等价于
+
+
+
+¬
+A
+∨
+B
+
+
+{\displaystyle \neg A\vee B}
+
+，因为这是基于真值表的唯一的语义，它能确保
+
+
+
+{
+A
+,
+A
+→
+B
+}
+
+
+{\displaystyle \{A,A\rightarrow B\}}
+
+蕴涵
+
+
+
+B
+
+
+{\displaystyle B}
+
+，并且
+
+
+
+{
+¬
+A
+,
+A
+→
+B
+}
+
+
+{\displaystyle \{\neg A,A\rightarrow B\}}
+
+不影响
+
+
+
+B
+
+
+{\displaystyle B}
+
+的真值。实质条件建模如如果
+
+
+
+A
+
+
+{\displaystyle A}
+
+是真，则
+
+
+
+B
+
+
+{\displaystyle B}
+
+同样必须真这样的推理规则，只要前提为假就假定它被平凡的满足了。
+引用[编辑]
+
+J. Bennett (2003). A Philosophical Guide to Conditionals, Oxford University Pres.
+D. Bonevac (2003). Deduction, Introductory Symbolic Logic, 2nd edition, Blackwell Publishers.
+M. L. Ginsberg (1986). Conterfactuals. Artificial Intelligence, 30:35-79.
+D. Lewis (1973). Counterfactuals, Blackwell Publishers.
+
+
+
+
+
+分类：模态逻辑

@@ -1,0 +1,70 @@
+视觉效果
+在电影制作中，视觉效果（visual effects，简称VFX）是形象在现场拍摄的镜头之外创建和/或被编辑操作的处理。
+视觉效果利用现场拍摄的镜头和计算机生成的图像的融合，来创造一个看起来真实，但真实拍摄会变得危险、昂贵、不切实际的、或者根本不可能实现的环境。得益于变得便宜而方便使用的动画和图像合成软件，最近利用电脑成像实现的视觉效果已经被许多独立电影制作人所使用。
+
+
+
+目录
+
+
+1 所属工作流程
+2 分类
+3 类型
+4 另请参阅
+5 延伸阅读
+6 外部链接
+
+
+
+所属工作流程[编辑]
+视觉特效通常是电影故事和整体效果中必不可少的部分。虽然大多数视觉特效都是在后期制作阶段完成，在前期制作和制作阶段经常也要对视觉特效做精心的设计和准备。视觉特效主要在后期制作中利用很多工具，例如图形设计、建模、动画和类似的软件和工具来完成，但特殊效果，例如爆炸和车辆追逐主要依靠布景来完成。一个视觉效果监督经常会在电影制作的初期就介入，并在制作电影过程中参与制作，把控电影导演的设计，指导并带领团队制作，以得到所期望的视觉效果。
+
+分类[编辑]
+视觉效果可能会被分到至少四个分类里：
+
+接景和静止画面：数码或者传统绘画或者摄影可以为3D角色、粒子特效、数码布景制作背景。
+数码特效（Digital effects，通常简写为digital FX或者FX）是一系列图像从拍摄素材经过编辑和/或创建的过程。数码特效经常牵涉到静态摄影和电脑合成图像（CGI）来创造一个看起来真实，但真的去拍摄会变得危险、昂贵、不切实际的、或者根本不可能实现的环境。FX经常和静态摄影联系起来，而视觉特效（VFX）经常和动态电影制作联系起来。
+
+类型[编辑]
+VFX 可以被归于:
+
+物理引擎
+接景
+图像合成
+
+另请参阅[编辑]
+
+动画
+运动跟踪
+色键
+图像合成
+电脑成像
+Front projection effect
+接景
+物理效果,  特殊效果的另一个分类
+Optics#Visual effects
+Rear projection effect
+Special effects
+VFX Creative Director
+Visual Effects Society
+
+延伸阅读[编辑]
+
+The VES Handbook of Visual Effects: Industry Standard VFX Practices and Procedures, Jeffrey A. Okun & Susan Zwerman, Publisher: Focal Press 2010
+T. Porter and T. Duff, "Compositing Digital Images", Proceedings of SIGGRAPH '84, 18 (1984).
+The Art and Science of Digital Compositing (ISBN 0-12-133960-2)
+McClean, Shilo T. Digital Storytelling: The Narrative Power of Visual Effects in Film. The MIT Press. 2007. ISBN 0-262-13465-9. 
+Mark Cotta Vaz; Craig Barron: The Invisible Art: The Legends of Movie Matte Painting. San Francisco, Cal.: Chronicle Books, 2002; ISBN 0-8118-3136-1
+Peter Ellenshaw; Ellenshaw Under Glass - Going to the Matte for Disney
+Richard Rickitt: Special Effects: The History and Technique. Billboard Books; 2nd edition, 2007; ISBN 0-8230-8408-6.
+Patel, Mayur. The Digital Visual Effects Studio: The Artists and Their Work Revealed. 2009. ISBN 1-4486-6547-7. 
+
+外部链接[编辑]
+
+Take Five Minutes to Watch 100 Years of Visual Effects by Rosa Golijan - Gizmodo.com - August 27, 2009
+
+
+
+
+
+分类：电影技术视频和电影技术电影特效视觉特效隐藏分类：使用ISBN魔术链接的页面

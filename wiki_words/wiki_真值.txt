@@ -1,0 +1,21 @@
+真值
+在逻辑中，真值（truth value），又称逻辑值（logical value），是指示一个陈述在什么程度上是真的。在计算机编程上多称做布林值、布尔值。
+在经典逻辑中，唯一可能的真值是真和假。但在其他逻辑中其他真值也是可能的：模糊逻辑和其他形式的多值逻辑使用比简单的真和假更多的真值。
+在代数上说，集合{真, 假}形成了简单的布尔代数。可以把其他布尔代数用作多值逻辑中的真值集合，但直觉主义逻辑把布尔代数推广为海廷代数。
+在topos理论中，topos的主客对象分类器接管了真值集合的位置。
+引用[编辑]
+
+Article on logical constants at the Stanford Encyclopedia of Philosophy;
+Weblog entry "How many is two?" by Andrej Bauer（英语：Andrej Bauer） discussing the relationship between truth values in intuitionistic logic and topos theory on the one hand and classical logic on the other.
+
+参见[编辑]
+
+逻辑连结词
+真值表
+真值函数
+
+
+
+
+
+分类：数理逻辑布尔代数

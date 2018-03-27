@@ -1,0 +1,497 @@
+Timothy Williamson
+For the American politician in Rhode Island, see Timothy A. Williamson.
+
+
+Timothy Williamson
+
+
+
+
+
+Born
+(1955-08-06) 6 August 1955 (age 62)
+Uppsala, Sweden
+
+
+Alma mater
+Oxford University
+
+
+
+
+
+Era
+Contemporary philosophy
+
+
+Region
+Western philosophy
+
+
+School
+Analytic
+
+
+
+Main interests
+
+Philosophical logic
+Epistemology
+Metaphysics
+Philosophy of language
+Philosophy of mathematics
+
+
+
+Notable ideas
+
+Epistemicism, modal logic as metaphysics, knowledge as conceptually primitive
+
+
+
+
+Influences
+
+
+Ruth Barcan Marcus
+
+
+
+
+
+
+
+
+Influenced
+
+
+John Hawthorne, Jason Stanley
+
+
+
+
+
+
+
+
+
+Timothy Williamson, FRSE, FBA (born 6 August 1955) is a British philosopher whose main research interests are in philosophical logic, philosophy of language, epistemology and metaphysics. He is the Wykeham Professor of Logic at the University of Oxford, and fellow of New College, Oxford.
+
+
+
+Contents
+
+
+1 Education and career
+2 Philosophical work
+3 Publications
+4 References
+5 External links
+
+
+
+Education and career[edit]
+Timothy Williamson's education began at Leighton Park School and continued at Henley Grammar School. He then went to Oxford University. He graduated in 1976 with a B.A. (first class honours) in Mathematics and Philosophy, and in 1981 with a doctorate in philosophy (D.Phil.) for a thesis examining "The Concept of Approximation to the Truth".
+Prior to taking up the Wykeham Professorship in 2000, Williamson was Professor of Logic and Metaphysics at the University of Edinburgh (1995–2000); fellow and lecturer in Philosophy at University College, Oxford (1988–1994); and lecturer in Philosophy at Trinity College, Dublin (1980–1988).
+He was president of the Aristotelian Society from 2004 to 2005.
+He is a Fellow of the British Academy (FBA),[1] the Norwegian Academy of Science and Letters,[2] Fellow of the Royal Society of Edinburgh (FRSE) and a Foreign Honorary Fellow of the American Academy of Arts & Sciences.
+Philosophical work[edit]
+Williamson has contributed to analytic philosophy of language, logic, metaphysics and epistemology.
+On vagueness, he holds a position known as epistemicism, which states that every seemingly vague predicate (like "bald", or "thin") actually has a sharp cutoff, which is impossible for us to know. That is, there is some number of hairs such that anyone with that number is bald, and anyone with even one more hair is not. In actuality, this condition will be spelled out only partly in terms of numbers of hairs, but whatever measures are relevant will have some precise cutoff. This solution to the difficult sorites paradox was considered an astonishing and unacceptable consequence, but has become a relatively mainstream view since his defense of it.[3] Williamson is fond of using the statement, "no one knows whether I am thin" to illustrate his view.[4]
+In epistemology, he suggests that the concept of knowledge is unanalyzable. This goes against the common trend in philosophical literature up to that point, which was to argue that knowledge could be analysed into constituent concepts. (Typically this would be justified true belief plus an extra factor.) He agrees that knowledge entails justification, truth and belief, but argues that it is conceptually primitive. He accounts for the importance of belief by discussing its connections with knowledge, but avoids the disjunctivist position of saying that belief can be analyzed as the disjunction of knowledge with some distinct, non-factive mental state.[citation needed]
+Publications[edit]
+
+Identity and Discrimination, Oxford: Blackwell, 1990.
+Vagueness, London: Routledge, 1994.
+Knowledge and Its Limits, Oxford: Oxford University Press, 2000.
+The Philosophy of Philosophy, Oxford: Blackwell, 2007.
+Modal Logic as Metaphysics, Oxford: Oxford University Press, 2013.
+Tetralogue: I'm Right, You're Wrong, Oxford: Oxford University Press, 2015.
+
+Williamson has also published more than 120 articles in peer-reviewed scholarly journals.
+References[edit]
+
+
+
+^ British Academy Fellowship record Archived 6 June 2011 at the Wayback Machine.
+^ "Gruppe 3: Idéfag" (in Norwegian). Norwegian Academy of Science and Letters. Retrieved 16 January 2011. 
+^ Zalta, Edward N. (ed.). "Vagueness". Stanford Encyclopedia of Philosophy. 
+^ Phil 2511: Paradoxes
+
+
+
+External links[edit]
+
+Find more aboutTimothy Williamsonat Wikipedia's sister projects
+
+Definitions from Wiktionary
+Media from Wikimedia Commons
+News from Wikinews
+Quotations from Wikiquote
+Texts from Wikisource
+Textbooks from Wikibooks
+Learning resources from Wikiversity
+
+
+
+Official website
+An in-depth autobiographical interview with Timothy Williamson
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Analytic philosophy
+
+
+
+Philosophers
+
+
+
+J. L. Austin
+A. J. Ayer
+G. E. M. Anscombe
+Nick Bostrom
+Robert Brandom
+C. D. Broad
+Patricia Churchland
+David Chalmers
+Noam Chomsky
+James F. Conant
+Alice Crary
+Donald Davidson
+Daniel Dennett
+Cora Diamond
+Michael Dummett
+Paul Feyerabend
+Antony Flew
+Bas van Fraassen
+Gottlob Frege
+Jerry Fodor
+Philippa Foot
+Peter Geach
+Paul Grice
+Ian Hacking
+R. M. Hare
+Carl Gustav Hempel
+Peter van Inwagen
+Christine Korsgaard
+Saul Kripke
+Thomas Kuhn
+David Lewis
+Alasdair MacIntyre
+J. L. Mackie
+Norman Malcolm
+John McDowell
+G. E. Moore
+Ernest Nagel
+Thomas Nagel
+Robert Nozick
+Derek Parfit
+Alvin Plantinga
+Karl Popper
+Hilary Putnam
+W. V. O. Quine
+John Rawls
+Hans Reichenbach
+Richard Rorty
+Bertrand Russell
+Gilbert Ryle
+Moritz Schlick
+John Searle
+Wilfrid Sellars
+Peter Singer
+Richard Swinburne
+Charles Taylor
+Michael Walzer
+Bernard Williams
+Timothy Williamson
+Ludwig Wittgenstein
+
+
+
+
+
+Theories
+
+
+
+Actualism
+Analytical feminism
+Analytical Marxism
+Anti-realism
+Berlin Circle
+Descriptivist theory of names
+Emotivism
+Functional contextualism
+Linguistic turn
+Logical positivism
+Modal realism
+Model-dependent realism
+Neopragmatism
+Neurophilosophy
+Ordinary language philosophy
+Postanalytic philosophy
+Pragmatic theory of truth
+Verificationism
+Vienna Circle
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+Causal / Deductive / epistemic closure
+Concept
+Counterfactual
+Denotation / reference
+Definite description
+Factive
+Family resemblance
+Intuition
+Meaning (Proposition)
+Modality
+Natural kind / projectability
+Necessary–sufficient conditions
+Paradox of analysis
+Possible world
+Reduction
+Reflective equilibrium
+Rigid–flaccid designators
+Sense data
+Supervenience
+Thought experiment
+Truth function
+Truthmaker
+Truth-bearer
+Type–token distinction
+
+
+
+
+
+Related articles
+
+
+
+Aretaic turn
+Australian realism
+Communitarianism
+Ordinary language philosophy
+Philosophical logic
+Philosophy of language
+Philosophy of science
+Postanalytic philosophy
+
+
+
+
+
+
+
+
+ Index
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 22271620
+LCCN: n90665594
+ISNI: 0000 0001 2123 8307
+ORCID: 0000-0002-4659-8672
+GND: 136468853
+SUDOC: 056827121
+BNF: cb12931257c (data)
+
+
+
+
+
+
+
+
+
+
+Categories: 1955 birthsLiving people20th-century philosophers21st-century philosophersAcademics of the University of EdinburghAnalytic philosophersBritish philosophersPhilosophers of languagePhilosophers of mindMetaphysiciansFellows of New College, OxfordFellows of the British AcademyFellows of the Royal Society of EdinburghFellows of University College, OxfordAcademics of Trinity College, DublinWykeham Professors of LogicMembers of the Norwegian Academy of Science and LettersPresidents of the Aristotelian SocietyPeople from UppsalaAtheist philosophersBritish social commentatorsHidden categories: Webarchive template wayback linksCS1 Norwegian-language sources (no)EngvarB from September 2017Use dmy dates from September 2017Articles with hCardsAll articles with unsourced statementsArticles with unsourced statements from June 2017Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with ORCID identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers

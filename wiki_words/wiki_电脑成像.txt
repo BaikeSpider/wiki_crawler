@@ -1,0 +1,364 @@
+电脑成像
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。 
+请邀请适合的人士改善本条目。更多的细节与详情请参见讨论页。 
+
+
+
+
+
+
+由Terragen生成的自然分形景观.
+
+
+电脑产生图像（英文：Computer-generated imagery，缩写：CGI），简称电脑成像，旧称电脑绘图（英文：Computer Graphics，缩写：CG），是指使用电脑产生的影像，更精确的如应用在影片中的三维特效，还有在电视节目、广告及印刷媒体中也很常见。在电脑游戏中常使用的即时运算图形都属于电脑生成图像的范围，也有些是用来做过场或是介绍用页面，有时这被称为全动态视频。
+
+
+
+目录
+
+
+1 历史
+2 图层
+3 参见
+4 来源
+5 外部链接
+
+
+
+历史[编辑]
+最早的二维电脑成像是在1973年的电影《Westworld》中使用。
+图层[编辑]
+在编辑图像的过程中，使用者可以随时新增、移动、隐藏、甚至删除个别的图层，造成不同的效果。
+举例来说，使用者可以将文字放到一个图层，影像则放到另外的图层。当需要修改文字时，可以隐藏文字图层以外的所有图层，先专注处理需要修改的文字。
+另外，如果需要为一幅图像配上不同语言的文字，可以把不同语言的文字分别放于个别图层；汇出档案或打印档案时，只要隐藏其他无关的文字版本的图层，就可以获得所需文字版本的文件[1]。
+参见[编辑]
+
+电脑动画
+计算机图形学
+可视化
+
+
+
+
+信息可视化
+科学可视化
+
+
+
+
+Magic Leap（英语：Magic Leap）
+
+来源[编辑]
+
+
+^ 图层面板. Microsoft Corporation. [2010-02-22]. 
+
+
+外部链接[编辑]
+
+
+关于电脑成像
+的图书馆资源
+
+
+
+
+
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+A Critical History of Computer Graphics and Animation – a course page at Ohio State University that includes all the course materials and extensive supplementary materials (videos, articles, links).
+CG101: A Computer Graphics Industry Reference ISBN 073570046X Unique and personal histories of early computer graphics production, plus a comprehensive foundation of the industry for all reading levels.
+F/X Gods, by Anne Thompson, Wired, February 2005.
+"History Gets A Computer Graphics Make-Over" Tayfun King, Click, BBC World News (2004-11-19)
+NIH Visible Human Gallery
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+科学、技术、信息的可视化
+
+
+
+
+
+
+领域划分
+
+
+
+生物学数据可视化（英语：Biological data visualization）
+化学成像（英语：Chemical imaging）
+罪行绘图
+数据可视化
+教育可视化
+流动可视化（英语：Flow visualization）
+地理可视化
+信息可视化
+数学可视化（英语：Mathematical diagram）
+医学影像
+分子图形学（英语：Molecular graphics）
+产品可视化
+科学可视化
+软件可视化（英语：Software visualization）
+工程制图
+用户界面设计
+视觉文化（英语：Visual culture）
+立体渲染
+
+
+
+
+
+
+
+
+图像类型
+
+
+
+统计图表
+图解（英语：Diagram）
+工程图
+函数图形
+形意文字
+地图
+相片
+象形文字
+Plot（英语：Plot）
+概要图（英语：Schematic）
+统计图形
+表格
+工程制图
+技术插图（英语：Technical illustration）
+用户界面
+图
+
+
+
+
+
+
+
+
+相关人士
+
+
+
+Jacques Bertin
+Jim Blinn
+Stuart Card
+Thomas A. DeFanti
+迈克尔·弗兰德利
+George Furnas
+Nigel Holmes
+Alan MacEachren
+Jock D. Mackinlay
+Michael Maltz
+Bruce H. McCormick
+Charles Joseph Minard
+Otto Neurath
+Florence Nightingale
+Clifford A. Pickover
+William Playfair
+Adolphe Quetelet
+George G. Robertson
+Arthur H. Robinson
+Lawrence J. Rosenblum
+Ben Shneiderman
+Edward Tufte
+Fernanda Viegas
+Manuel Lima
+Gaspard Monge
+
+
+
+
+
+
+
+
+相关软件
+
+
+
+
+
+可视化软件
+
+
+
+
+维基百科可视化编辑器
+Protege
+Sirius可视化软件
+VisIt
+
+
+
+
+
+
+
+
+
+数值分析软件
+
+
+
+
+Scilab
+
+
+
+
+
+
+
+
+
+
+
+相关主题
+
+
+
+
+
+计算机图形学
+
+
+
+
+位图
+
+计算机的可视化
+视觉化
+图像处理
+
+又称影像处理
+
+
+计算机图形
+计算机动画
+计算机模拟
+科学建模（英语：Scientific modelling）
+
+模板：计算机建模
+
+
+
+
+
+
+
+
+
+
+
+人机交互
+
+
+
+
+用户界面
+
+图形用户界面
+所见即所得
+图示
+
+
+虚拟现实
+
+
+
+
+
+
+
+
+
+图像式思考辅助工具
+
+
+
+
+故事板
+鱼骨图
+导引图
+记忆树
+心智图
+流程图
+欧拉图
+
+
+
+
+
+
+
+地图学
+
+又称制图学
+
+
+无效的图表（英语：Chartjunk）
+图形绘制（英语：Graph drawing）
+平面设计
+
+又称图形设计
+
+
+成像科学（英语：Imaging science）
+信息学
+信息图形
+心像（英语：Mental image）
+误导性影像（英语：Misleading graph）
+神经成像
+专利图（英语：Patent drawing）
+空间分析
+可视化分析论
+视知觉
+统计学
+图意学
+图像记谱
+
+
+
+
+
+
+
+
+
+参见： 科学 ·  资讯科技 ·  设计 ·  摄影 ·  图表 ·  图论 ·  计算机图形学 ·  视觉化程式设计语言 ·  计算机科学主要领域
+
+
+
+
+
+
+
+
+
+
+分类：视觉特效动画技术电脑动画电影特效隐藏分类：需要专业人士关注的页面使用ISBN魔术链接的页面

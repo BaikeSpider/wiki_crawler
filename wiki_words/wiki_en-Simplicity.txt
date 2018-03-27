@@ -1,0 +1,256 @@
+Simplicity
+For other uses, see Simplicity (disambiguation).
+Simplicity is the state or quality of being simple. Something easy to understand or explain seems simple, in contrast to something complicated. Alternatively, as Herbert A. Simon suggests, something is simple or complex depending on the way we choose to describe it.[1] In some uses, the label "simplicity" can imply beauty, purity, or clarity. "Simplicity" may also occur with negative connotations to suggest a deficit or insufficiency of nuance or of complexity of a thing, relative to what one supposes as required.
+In the context of human lifestyle, simplicity can denote freedom from hardship, effort or confusion.[citation needed] Specifically, it can refer to a simple living style.
+
+
+
+Contents
+
+
+1 In philosophy of science
+2 In religion
+3 Notes
+4 See also
+5 References
+6 External links
+
+
+
+In philosophy of science[edit]
+The concept of simplicity has been related to in[clarification needed] the field of epistemology and philosophy of science.
+According to Occam's razor, all other things being equal, the simplest theory is most likely true. In other words, simplicity is a meta-scientific criterion by which scientists evaluate competing theories.
+A distinction is often made[by whom?] between two senses of simplicity: syntactic simplicity (the number and complexity of hypotheses), and ontological simplicity (the number and complexity of things postulated). These two aspects of simplicity are often referred to as elegance and parsimony respectively.[2]
+John von Neumann defines simplicity as important esthetic criteria of scientific models:
+
+[...] (scientific model) must satisfy certain esthetic criteria - that is, in relation to how much it describes, it must be rather simple. I think it is worth while insisting on these vague terms - for instance, on the use of word rather. One cannot tell exactly how "simple" simple is. [...] Simplicity is largely a matter of historical background, of previous conditioning, of antecedents, of customary procedures, and it is very much a function of what is explained by it.[3]
+
+In religion[edit]
+Simplicity is a theme in the Christian religion. According to St. Thomas Aquinas, God is infinitely simple. The Roman Catholic and Anglican religious orders of Franciscans also strive for personal simplicity. Members of the Religious Society of Friends (Quakers) practice the Testimony of Simplicity, which involves simplifying one's life to focus on what is important and disregard or avoid what is least important. Simplicity is tenet of Anabaptistism, and some Anabaptist groups like the Bruderhof, make an effort to live simply. [4]
+Notes[edit]
+
+
+
+^ Simon 1962, p. 481
+^ Baker, Alan (2010-02-25). "Simplicity". In Zalta, Edward N. Stanford Encyclopedia of Philosophy (Fall 2013 ed.). Retrieved 2015-04-26. A distinction is often made between two fundamentally distinct senses of simplicity: syntactic simplicity (roughly, the number and complexity of hypotheses), and ontological simplicity (roughly, the number and complexity of things postulated). [...] These two facets of simplicity are often referred to as elegance and parsimony respectively. [...] The terms ‘parsimony’ and ‘simplicity’ are used virtually interchangeably in much of the philosophical literature. 
+^ von Neumann, John (1955). "Method in the Physical Sciences". In Leary, Lewis. The Unity Of Knowledge. N.J.: Garden City. 
+^ "Life Among The Bruderhof". The American Conservative. Retrieved 2017-12-07. 
+
+
+
+See also[edit]
+
+
+
+Wikiquote has quotations related to: Simplicity
+
+
+
+Concision
+Complexity
+Elegance
+KISS principle
+Minimalism
+Occam's razor
+Simple living
+Simplicity theory
+Testimony of Simplicity
+Worse is better
+John Maeda – 10 Laws of Simplicity
+
+References[edit]
+
+
+
+
+
+
+This article includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. Please help to improve this article by introducing more precise citations. (July 2010) (Learn how and when to remove this template message)
+
+
+
+
+Craig, E. Ed. (1998) Routledge Encyclopedia of Philosophy. London, Routledge. simplicity (in Scientific Theory) p. 780–783
+Dancy, J. and Ernest Sosa, Ed.(1999) A Companion to Epistemology. Malden, Massachusetts, Blackwell Publishers Inc. simplicity p. 477–479.
+Dowe, D. L., S. Gardner & G. Oppy (2007), "Bayes not Bust! Why Simplicity is no Problem for Bayesians", Brit. J. Phil. Sci., Vol. 58, Dec. 2007, 46pp. [Among other things, this paper compares MML with AIC.]
+Edwards, P., Ed. (1967). The Encyclopedia of Philosophy. New York, The Macmillan Company. simplicity p. 445–448.
+Hickey, Rich (2011) Simple Made Easy
+Kim, J. a. E. S., Ed.(2000). A Companion to Metaphysics. Oxford, Blackwell Publishers. simplicity, parsimony p. 461–462.
+Maeda, J., (2006) Laws of Simplicity, MIT Press
+Newton-Smith, W. H., Ed. (2001). A Companion to the Philosophy of Science. Malden, Massachusetts, Blackwell Publishers Ltd. simplicity p. 433–441.
+Richmond, Samuel A.(1996) "A Simplification of the Theory of Simplicity", Synthese 107 373–393.
+Sarkar, S. Ed. (2002). The Philosophy of Science—An Encyclopedia. London, Routledge. simplicity
+Schmölders, Claudia (1974). Simplizität, Naivetät, Einfalt – Studien zur ästhetischen Terminologie in Frankreich und in Deutschland, 1674–1771. PDF, 37MB (in German)
+Scott, Brian(1996) "Technical Notes on a Theory of Simplicity", Synthese 109 281–289.
+Simon, Herbert A (1962) The Architecture of Complexity Proceedings of the American Philosophical Society 106, 467–482.
+Wilson, R. A. a. K., Frank C., (1999). The MIT Encyclopedia of the Cognitive Sciences. Cambridge, Massachusetts, The MIT Press. parsimony and simplicity p. 627–629.
+If Not God, Then What? (2007) by Joshua Fost, p. 93
+
+External links[edit]
+
+Internet Encyclopedia of Philosophy entry
+Stanford Encyclopedia of Philosophy entry
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+Categories: AbstractionSimple livingRazors (philosophy)SimplificationHidden categories: All articles with unsourced statementsArticles with unsourced statements from April 2015Wikipedia articles needing clarification from April 2015Articles with specifically marked weasel-worded phrases from April 2015Articles lacking in-text citations from July 2010All articles lacking in-text citationsArticles with German-language external links

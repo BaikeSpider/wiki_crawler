@@ -1,0 +1,1971 @@
+PlayStation 3
+
+
+
+
+
+
+
+
+
+
+
+PlayStation 3
+
+
+
+
+
+
+制造商
+索尼互动娱乐
+
+
+型式
+电视游戏机
+
+
+世代
+第七世代
+
+
+推出日期
+
+
+
+日本：2006年11月11日
+台湾：2006年11月17日
+香港：2006年11月17日
+北美：2006年11月17日
+新加坡：2007年3月7日
+英国：2007年3月16日
+爱尔兰：2007年3月16日
+欧洲：2007年3月23日
+俄罗斯：2007年4月20日
+印度：2007年4月27日
+
+
+
+
+
+停产日期
+
+
+
+新西兰：2015年10月3日
+北美：2016年10月
+日本：2017年4月30日
+
+
+
+
+
+销售台数
+ 8,690万部[1]
+
+
+媒体
+BD-ROM
+DVD-ROM
+CD
+（所有型号）
+SACD
+（40 GB、120 GB、160 GB、250 GB、320 GB、CECHKxx、CECHLxx除外）[2]
+
+
+CPU
+Cell 3.2GHz, 1PPE+7SPE
+
+
+储存空间
+硬盘
+
+
+控制器输入
+SIXAXIS、DUALSHOCK 3、Bluetooth（最大7个）、USB
+
+
+连接界面
+USB2.0 x 4
+（40 GB、120 GB、160 GB、250 GB、320 GB、CECHKxx、CECHLxx除外，为x 2）
+IEEE 802.11 b/g
+1000BASE-T
+Bluetooth
+
+
+在线服务
+PlayStation Network
+
+
+最畅销游戏
+ 侠盗猎车手V（2,065万套）[3]
+
+
+向下兼容
+PlayStation
+（所有型号）
+PlayStation 2
+（40 GB、120 GB、160 GB、250 GB、320 GB、CECHKxx、CECHLxx除外）
+
+
+前代机种
+PlayStation 2
+
+
+后继机种
+PlayStation 4
+
+
+PlayStation 3[4]（简称为：PS3）是索尼互动娱乐所开发的家用游戏机，也是该公司推出的第三款电视游戏机。PlayStation 3于2006年11月11日在日本发售[5]，同年11月17日于美国、香港及台湾上市[6]，2007年3月23日于欧洲和大洋洲推出[7][8]。刚推出时分别是配有20 GB硬盘的基本款式，以及配有60 GB硬盘和部分额外功能（无线连网、3种记忆卡插槽）的高级机种[9]（20 GB的机种并未于欧洲和大洋洲发行）[10]。2009年9月，PlayStation 3推出较薄及更大容量的改良机型PS3 Slim[11]。2012年9月，推出更轻巧的新型PlayStation 3（Super Slim PlayStation 3）。2017年停产。
+PlayStation 3与前代机种的差异之处之一，是提供称为“PlayStation Network”的整合网络游戏服务[12]，与索尼之前由各家游戏厂商各自提供在线服务的政策不同[13]。此外，其他的主要特色包括强大的多媒体兼容功能[14]、与PlayStation Portable（PSP）及PlayStation Vita (PSVita)的链接能力[15]，以及使用蓝光光盘（Blu-ray Disc）作为主要的储存媒体[16]。PlayStation 3同时也是市场上第一款支持Blu-Ray 2.0的蓝光播放器[17]。PlayStation 3为微软Xbox 360和任天堂Wii的市场竞争者，同为第七世代游戏主机。
+
+
+
+目录
+
+
+1 简介
+2 历程
+
+2.1 发售状况
+2.2 发展历史
+
+2.2.1 初期构想
+2.2.2 2005年
+2.2.3 2006年
+2.2.4 2007年
+2.2.5 2008年
+2.2.6 2009年
+2.2.7 2010年
+2.2.8 2011年
+2.2.9 2012年
+2.2.10 2013年
+2.2.11 2014年
+2.2.12 2015年
+2.2.13 2016年
+2.2.14 2017年
+
+
+
+
+3 详细规格
+
+3.1 CPU
+3.2 GPU
+3.3 内存
+3.4 系统带宽
+3.5 音效
+3.6 影音输出
+3.7 光盘
+3.8 储存及输入输出接口
+3.9 科学运算
+3.10 各机型比较
+
+
+4 游戏
+5 控制器
+6 通信
+7 PlayStation Network
+
+7.1 Life with PlayStation
+
+
+8 CELL开发史
+9 黄灯故障
+10 评价
+11 相关条目
+12 参考
+13 外部链接
+
+
+
+简介[编辑]
+PlayStation 3（英语：PlayStation 3，日语：プレイステーションスリー）是由索尼电脑娱乐所开发的家用次世代多媒体影音娱乐平台，是PlayStation®、PlayStation® 2的新世代主机。
+和PlayStation、PlayStation 2一样，一般简称为“PS3”，PS3最初于2005年5月的E3电玩展上发表，于2006年11月相继在日本、美国、欧洲、台湾、英国、香港、东南亚及澳洲地区发售，全球统一的口号为“PLAY BEYOND”、“超越玩乐”。
+PlayStation 3作为一款游戏机，亦是一个家庭多媒体平台，同时带领玩家进入蓝光光盘及高品质影音时代。PlayStation 3以Blu-ray Disc（BD-ROM）作为光驱的主要规格，通过HDMI端子提供播放高品质画面及杜比音响，而且亦能够向下兼容CD-ROM及DVD-ROM，包括PlayStation和PlayStation 2的游戏光盘。但在新版本的主机（2008年8月后）已取消了对PlayStation 2游戏的兼容。
+在PlayStation 3发售的同时，索尼电脑娱乐设立了“PlayStation Network”（PSN），并且提供“PlayStation Store”（PS Store）服务。PS3玩家可以通过PSN在PS Store内购买以往的PlayStation游戏，或下载PS3游戏的相关资料、试玩版及限定游戏内容等等。此外，PlayStation Portable玩家通过USB装置与PS3进行连动时，玩家可以于PS Store下载PlayStation游戏或其他一些收费或免费的游戏相关资料、试玩版及限定游戏内容等等到PSP内，另外亦可通过PSN进行PSP游戏的对战功能。
+PlayStation 3专用的PSN于未来会投入更多服务，包括网上使用者虚拟的家“Home”，利用“Home”这个强大的网上社交平台，玩家可以与全世界玩家沟通，进行游戏心得交流。每个玩家会有自己独立的人物及房间，玩家可以设计自己的虚拟分身及任意装饰房间，日后玩家可以在PS Store下载扩充内容，或在PS3游戏上取得特殊的游戏纪念品放置于“Home”内。
+PlayStation 3于2009年9月1日全球发布新轻薄版PS3 slim，机器上的LOGO改为"PS3"（类似PS2及PSP的LOGO），标志英文名称从PLAYSTATION®3全部统一更改为PlayStation®3，内部电路板及外形全都进行尺寸缩减，并新增对Dolby TrueHD/DTS-HD MA位元串流输出及HDMI CEC规格BRAVIA Sync的支持，取消对加装其他操作系统的支持。外观上，将触摸感应式电源键及光盘退出键改为实体按键，原厚版机的钢琴烤漆也改为磨砂工艺，耗能减少34%、体积减少32%，在售价上亦大幅下调售价至299美元[18]。自从任天堂的Wii推出以体感游戏为主打的游戏机后，PlayStation亦在2010年9月15日发售其体感游戏控制器PS Move，装备包括了顶部载有发光球体的控制器，其后微软的Xbox 360亦推出Kinect体感游戏感应器。
+
+
+
+
+
+
+
+初版PS3（背面）
+
+
+
+
+
+
+
+
+
+PS3 Slim（背面）
+
+
+
+
+
+
+
+
+
+PS3专用遥控器
+
+
+
+
+
+
+
+
+
+PS3专用控制器“DualShock 3”
+
+
+
+
+
+
+
+
+
+PS3的专属体感控制器“PlayStation Move”
+
+
+
+
+历程[编辑]
+
+
+
+
+2005年E3会场上展出的银色PlayStation 3连接端口配置。与最后发售的版本相比，多了两个USB端口、两个以太网络连接端口、一个HDMI端口。
+
+
+索尼电脑娱乐在2005年5月16日于电子娱乐展览（E3）上正式对外宣布PlayStation 3的消息[19]。当时并未展出可实际操作的主机[20]，在2005年9月的东京电玩展中也没有试玩主机的设置[21]，但在两个展览中，索尼使用软件开发工具包（SDK）和兼容的电脑硬件进行部分游戏的展示[20][21]（例如《合金装备4：爱国者之枪》[20]）。同时也公开了PlayStation 3预测的性能画面示范影片（包含《Final Fantasy VII》的技术展示[22]）。
+在2005年5月公布的最初硬件配置包括两个HDMI连接端口、三个以太网路连接端口，以及六个USB连接端口[23]；然而，在一年后（2006年）的电子娱乐展览上，缩减为一个HDMI连接端口、一个以太网络连接端口，以及四个USB连接端口，目的是为了降低制造成本[9][24]。此外，当时也发表了两款机种：20 GB与60 GB的机型，分别定价499和599美元[9]。仅有60 GB的机种配置HDMI、Wi-Fi无线网络、读卡机和银色的立体标志[9]。同时也公布了全球发售时程：日本于2006年11月11日推出，北美洲和欧洲则紧接于11月17日发售[25]。
+在2006年9月6日，索尼宣布由于蓝光光盘（Blu-ray Disc）相关零件的短缺，PAL制式的机型（适用欧洲及大洋洲）将会延迟至2007年3月推出[26]。
+之后，于2006年9月22日的东京电玩展中，索尼宣布将在20 GB的机种上加入HDMI链接端口，但银色标志、读卡机、Wi-Fi功能则仅限60 GB机种独有[27]。此外，日本地区20 GB机种预定售价降低两成[28]，60 GB机种则采用开放售价（オープン価格）[28]。此外在电玩展中，索尼展出了27款可供游玩的游戏软件[29]。
+发售状况[编辑]
+
+
+
+
+2006年11月16日，PS3于美国推出前一天，群众正在排队等待购买
+
+
+PlayStation 3于2006年11月11日早上7:00在日本率先发售[5]。根据“Media Create”，发售后24小时内在日本卖出了81,693部[30]。
+接着2006年11月17日，于美国、香港和台湾推出[6]。在美国更发生了与PlayStation 3发售相关的暴力行为，其中包括了枪击[31]、抢劫[32]、BB弹驾车枪击[33]，以及60名顾客为了仅有10部的PS3斗殴等事件[34]。
+在2007年1月24日，索尼宣布PlayStation 3将于2007年3月23日在欧洲、澳洲、中东地区、非洲与及新西兰推出[7][8]。发售后的两天内，在这些地区共销售了约600,000部主机[35]。在2007年3月7日，60 GB的机种在新加坡发售，售价为799新加坡元[36]。接着于2007年6月16日，80 GB的机种在韩国上市[37]。市场调研公司Strategy Analytics近日发布最新报告称，截止到2010年年底，PS3的全球装机量达到4340万部，而比其早一年发售的Xbox 360，由于在欧洲和亚洲市场表现不抢眼，装机量为4290万部。任天堂Wii仍旧是主机界霸主，它的全球销量达到7550万部[38]。2011年，据索尼数据显示，自2006年11月发布到今2011年3月底，PS3的共计售出5000万部。除此之外，索尼公司拥有全球的PlayStation网络注册账户7500万个[39]。截至到2012年11月4日，PlayStation 3主机全球销量累计达到7000万部，比较Xbox 360于2012年9月份全球累计销量达到7000万部相约，但Xbox 360的推出时间比PlayStation 3早一年。[40]
+发展历史[编辑]
+初期构想[编辑]
+
+2001年3月9日 - 索尼互动娱乐（SCE）、IBM、东芝三社达成共识，决定共同开发能配合宽频世代的超并列处理器。
+2002年4月1日 - IBM、索尼、东芝宣布共同开发最新半导体制造处理器技术
+2004年9月21日 - 索尼互动娱乐宣布次世代游戏机将采用“蓝光光盘”作光盘格式。
+2004年12月7日 - 索尼互动娱乐与NVIDIA宣布共同开发次世代游戏机用图像处理器。
+
+2005年[编辑]
+
+2月8日 - IBM、索尼、东芝三社共同开发的“Cell”中央处理器架构发表。
+3月30日 - 索尼互动娱乐宣布次世代游戏机将采用东芝所开发的512Mb XDR内存。
+5月17日 - PlayStation 3正式命名及公开发表初为PLAYSTATION 3，发售时，正式名更改为PlayStation 3，当时预定2006春季全球发售。
+
+2006年[编辑]
+
+
+
+
+2006年11月11日推出的原始版PlayStation 3
+
+
+
+3月15日 - 由于蓝光光盘规格未定与HDMI内容制定进度延迟，索尼电脑娱乐宣布PlayStation 3延期至同年11月于日本、欧洲及北美地区同时上市。
+8月30日 - PlayStation 3官方网站开张。
+9月6日 - 由于“蓝光光盘”的关键蓝光二极管组件产量未达理想，索尼电脑娱乐宣布PlayStation 3在欧洲的上市日期推延至2007年3月。同时修正日本地区首发出货量为100,000部，预计11月11日上市；北美地区首发出货量为400,000部，预计11月17日上市。
+11月1日 - 香港索尼电脑娱乐宣布PlayStation 3在香港及台湾将于2006年11月17日与美国同步上市。
+11月11日 - PlayStation 3率先在日本全国发售，在Bic Camera东京旗舰店举行首卖会，第一批88,400部游戏机被抢购一空。
+11月17日 - PlayStation 3在美国、香港及台湾发售。香港索尼电脑娱乐分别在香港九龙尖沙咀及台湾台北西门町“Sony Digital Square”举行首卖会，两地首卖会中，香港200部以及台湾300部皆于会场销售一空。
+12月25日 - 美国《时代杂志》（Time Magazine）将PlayStation 3列为“5 Things That Went From Buzz to Bust”。
+12月31日 - PlayStation 3于日本销售量达46万部。
+
+2007年[编辑]
+
+1月8日 - 索尼电脑娱乐在“国际消费电子展”（CES）中表示PlayStation 3自2006年11月上市以来，已在全球销售超过一百万部，比预期更快达成目标。
+3月8日 - PlayStation 3专用网上社交平台“PlayStation Home”正式发表。
+3月23日 - PlayStation 3于欧洲、中东、非洲及澳洲发售。
+4月12日 - 宣布北美将会停止生产20 GB版本的PlayStation 3。
+5月16日 - PlayStation 3全球出货量达550万部。
+6月16日 - PlayStation 3于韩国发售，80 GB版本定价为518000韩圆。
+7月9日 - 宣布将PlayStation 3的60 GB版本在北美减价100美元，新售价为499美元，新型号80 GB版本PlayStation 3将会全面取代旧有60 GB型号。
+7月15日 - PlayStation 3于日本销售量突破一百万部（实际数字为1,010,492部）。
+9月15日 - 日经新闻报导索尼集团将会退出PlayStation 3的中央处理器“Cell”生产，以一千亿日元把半导体生产机器卖给共同参与开发的东芝。随后索尼集团发表新闻稿表示还没有具体的决定。[41]
+9月20日 - 宣布推出 DualShock 3，结合六轴感应及震动功能，预定于11月在日本率先推出，其他地区预定为2008年春季。同时，PlayStation 3专用网上社交平台“PlayStation Home”将会延期至2008年第一季推出。
+10月5日 - 宣布于欧洲推出40 GB版本的PlayStation 3，预定于10月下旬发售。
+10月9日 - 宣布于日本及亚洲推出40 GB版本的PlayStation 3，定于11月11日发售，售价为39,980日元，主机的颜色除了钢琴黑之外，还提供了新的陶瓷白颜色。同时还宣布“DualShock 3”于同日亦会作独立发售，售价为5,500日元。
+10月18日 - 索尼集团在官方网站刊登了由东芝、索尼集团与将合资成立PlayStation 3“Cell / B.E.”处理器与“RSX”绘图芯片生产新公司的新闻，并将把位于九州长崎的半导体生产设备出售给东芝，而东芝将会继续供应“CELL”给PlayStation 3[42]
+10月25日 - 宣布截至2007年9月底，PlayStation 3全球销量达559万部。
+11月27日 - 亚洲分部（SCE Asia）宣布成立台湾索尼电脑娱乐（SCET）。
+
+2008年[编辑]
+
+1月7日 - 宣布于2007年圣诞假期五星期之内，售出120万部PlayStation 3。
+1月8日 - 于“国际消费电子展”（CES）中宣布，将会推出利用PlayStation 3拷贝蓝光光盘影片并传输给PlayStation Portable的功能，使用者通过这种方式就可以享受可携式的高清电影。
+1月10日 - 日本索尼电脑娱乐宣布20 GB及60 GB版本的PlayStation 3在日本停止生产。
+
+2009年[编辑]
+
+
+
+
+2009年9月1日，推出名为PlayStation 3 slim的轻薄版，当时建议售价为29,980日元
+
+
+
+1月16日 - Google宣布推出旗下“YouTube”网站的电视最佳化版本“YouTube for Television”。可用PS3的网络浏览器链接“www.youtube.com/tv”，以经过调整最适合PS3的操作方式浏览YouTube网站[43]。
+1月29日 - 发表2008年第三季全世界PlayStation 3销售数量为446万部（与去年同期相比减少了9％）。[44]。
+9月1日 - 轻薄版PlayStation 3—PS3 slim于全球发售。
+
+2010年[编辑]
+
+3月1日 - 发生自发售以来最大规模的死机事件，以CECH-20xxA、CECH-20xxB之前等型号的旧型机（多为已停止生产的机型）在开机后会自动将时间调整为UTC时间1999年12月31日（其他时区的主机则依此为基准变化，例如+8时区时间就变为2000/1/1），且无法登录PlayStation Network，执行支持奖杯系统的游戏时会出现8001050F的错误码并跳出游戏，接着储存在该主机内的存档和奖杯会消失，也无法执行任何由PlayStation Network购入的游戏。已确认为该类机型内的时间计算功能发生错误，误将2010年判定为闰年，因此出现2010年2月29日的日期，导致系统发生混乱。
+3月2日 - 官方证实在UTC时间2010年3月2日（其他时区的主机则以此基准，如+8时区的主机在2010年3月2日上午八时）此时间错置问题会自动恢复，许多玩家抱怨因系统错误造成的奖杯和存档损毁却无法修复（奖杯若之前无与服务器同步过即无法恢复）。其实，在系统错误时玩家试图游玩的游戏的确会出现奖杯损毁问题，但是只要在系统恢复后再次放入奖杯损毁的游戏的光盘入内运行，失去的奖杯即会回归。官方的解决办法为，只要连接到PSN的状态下，在“奖杯收藏”项目中，可以按△键与服务器进行同步[45]。
+7月9日 - 2010年6月29日发布的PS3固件更新3.40修复了时间功能[45]。
+8月 - 第一款利用PS3内部漏洞开发出来的破解装置PSJailbreak出现，从此结束了PS3不破金身的神话。自此，本世代三大主机（Wii, Xbox360, PS3）全部告破。玩家可以利用此破解装置安装备份未授权的游戏，也可以在PS3进行自制软件的开发，但目前该破解装置只能支持3.41版系统，在此装置正式商业化后，索尼迅速发布了3.50版系统更新封堵了该装置运行。
+12月7日 - 索尼放出3.55版系统。
+
+2011年[编辑]
+
+1月 - 3.55版系统已被破解。
+
+2012年[编辑]
+
+9月20日 - 媒体透露索尼将推出更加轻薄的PS3主机：Super Slim PlayStation 3。该机型仅提供12GB , 250GB与500GB的版本。机体重量减轻至约2公斤，滑盖式取代了吸入式。较PS3 Slim体积上缩小约25%，重量上减轻约20%。[46]
+
+2013年[编辑]
+
+8月 - E3 TEAM推出针对3000和4000机型的E3 ODE 和E3 ODE Pro破解套件。[47]
+
+2014年[编辑]
+2015年[编辑]
+
+10月3日 索尼娱乐于2015年10月3日在新西兰官网发布消息 宣布新西兰PS3终止销售.
+
+2016年[编辑]
+索尼娱乐于2016年10月公布消息， 宣布北美欧洲PS3终止销售。
+2017年[编辑]
+　日本 PlayStation 官方网站今（3月17日）公布，将于近日停止 PlayStation 家族第 3 代电视游戏机主机“PlayStation 3（PS3）”的出货，替这台产品生命周期超过 10 年的长寿主机画下句点。本次宣布停产的，是第 2 代薄型 PS3 主机的改版 CECH-4300C 木炭黑 500GB 机种，是目前唯一还在日本销售的机种。由于官方并未发表新机种来取代，代表 PS3 产品线将就此画下句点。
+详细规格[编辑]
+主条目：PlayStation 3硬件
+CPU[编辑]
+
+
+
+
+Cell Broadband Engine
+
+
+主条目：Cell
+PS3的核心，中央处理器（CPU）是采用2000年由SCEI／SONY／IBM／东芝共同开发的“Cell”处理器。Cell处理器是1PPE+8SPE而构成的异质多核心处理器，共有9个核心并列运作。
+
+以PowerPC为基础的微处理器，主频3.2 GHz
+1个VMX向量处理单元
+512KB L2快取内存
+7个以单一3.2GHz主频运作，运用于向量整数、浮点数运算的SPE（原8个，1个作为提升芯片良率的备援用]
+
+每个SPE可同时执行两道指令（dual-issue，有限制）
+每个SPE具备128个128bit SIMD通用暂存器
+每个SPE具备256KB本地端暂存内存（local storage memory）
+
+
+浮点运算能力：218GFLOPS
+SPE不能直接存取主内存，需通过DMA方式存取
+
+GPU[编辑]
+SCE与Nvidia共同开发的“RSX”（Reality Synthesizer）。封装与移动版显卡类似，4颗显示内存集成在GPU基板上。RSX显示核心是建基于nVidia的G70，与G70不同之处就是内存带宽只是128Bit，但就拥有类似Nvidia Turbo Cache的技术容许RSX对XDR主内存作高速存取。
+
+图像处理器运作频率：550 MHz（有争议，可能为500MHz，但SONY后续并未公布详细规格）
+浮点数运算能力：150 GFLOPS
+Full HD（最大可输出1080p）1 channel
+Multi-way programmable parallel floating point shader pipelines
+
+内存[编辑]
+
+主内存：256MB XDR 3.2 GHz
+绘图内存：256MB GDDR3 650 MHz
+
+系统带宽[编辑]
+
+主内存：25.6GB/s
+绘图内存：22.4GB/s
+FlexIO带宽：20GB/s（Cell to RSX），15GB/s（RSX to Cell）
+南桥芯片总线带宽：双向各2.5GB/s
+
+音效[编辑]
+Dolby TrueHD、Dolby Digital 7.1ch（游戏时5.1ch）、DTS-HD Master Audio、DTS-HD High Resolution Audio、LPCM7.1ch等
+影音输出[编辑]
+
+支持480i、480p、720p、1080i、1080p
+支持Dolby TrueHD与DTS-HD Master Audio格式的音效，能以主机内部解码后，再以压缩过的LPCM格式输出，并以原始的位元串流格式输出给外部的AV解码扩大机等设备进行解码。（20 GB、40 GB、60 GB、80 GB、CECHPxx、CECHQxx除外）
+支持HDMI CEC规格的BRAVIA Sync功能，让能与支持的SONY BRAVIA液晶电视进行影音同步操控。（20 GB、40 GB、60 GB、80 GB、CECHPxx、CECHQxx除外）
+SONY依据AACS规范，2011年1月以后生产的PS3，将全面禁止以类比影像端子输出高分辨率蓝光影片，仅能输出标准分辨率蓝光影片；数位影像端子才可输出高分辨率与标准分辨率蓝光影片。（20 GB、40 GB、60 GB、80 GB、120 GB、250 GB、CECH-25xxA、CECH-25xxB除外）
+HDMI 1.3输出端子×1（当初只有60 GB版本是标准配置，不过，官方网站在2006年9月22日宣布20 GB也有配置。而随后的主机型号都有此配置）
+AV Multi输出端子×1
+光纤输出端子×1
+
+光盘[编辑]
+
+
+
+
+PlayStation 3的蓝光光盘装置
+
+
+PS3的光驱只供读取，没有写入资料的功能。光盘片置入方式为吸入式（slot-in），与PS2使用托盘有所不同。下列为PS3支持读取的光盘格式：
+
+CD：
+
+PlayStation：PlayStation/PlayStation 2 CD-ROM（40 GB、120 GB、160 GB、250 GB、320 GB、CECHKxx、CECHLxx除外）
+CD-DA：CD-DA（ROM）、CD-R、CD-RW
+SACD：SACD Hybrid（CD层）、SACD HD（40 GB、120 GB、160 GB、250 GB、320 GB、CECHKxx、CECHLxx款式除外；读取功能遭取消是因为破解后可以盗拷SACD）
+DualDisc：DualDisc（声音面／DVD面）
+CD-ROM Read-Speed：24X
+
+
+DVD：
+
+PlayStation：PlayStation 2 DVD-ROM（40 GB、120 GB、160 GB、250 GB、320 GB、CECHKxx、CECHLxx除外）
+DVD-Video：DVD-ROM、DVD±R、DVD±RW
+DVD-ROM Read-Speed：8X
+
+
+Blu-ray Disc：
+
+PlayStation：PLAYSTATION 3 BD-ROM
+BD-Video：BD-ROM、BD-R（HTL、LTH）、BD-RE
+BD-ROM Read-Speed：2X（CLV），传输速度恒定为72Mbps（9MBytes/sec）
+
+
+
+储存及输入输出接口[编辑]
+
+2.5吋SATA界面的硬盘槽
+Memory Stick：标准／Duo、PRO×1
+SD：标准／mini×1
+CompactFlash：Type I、II×1
+
+　※仅CECHAxx、CECHCxx（60 GB）与CECHExx（80GB）具备及支持上述3种记忆卡插槽
+
+USB：
+
+
+USB 2.0×4
+
+※仅CECHAxx/CECHCxx（60GB）、CECHBxx/CECHDxx（20GB）、CECHExx（80GB）具备
+
+USB 2.0×2
+
+※其余各型号
+科学运算[编辑]
+索尼互动娱乐已加入美国斯坦福大学的“Folding@home”计划，由于PlayStation 3能提供强大的运算性能，从PS3的1.6版本固件开始，利用PS3的Cell处理器来支持该项目科学运算。当PS3闲置时就会启动运算程序，精确计算蛋白质的折叠效应，利用所得的结果研究各种疑难杂症。当CELL处理器运算时，NVIDIA的RSX显核就会提供立体的蛋白质的折叠实时图形展示。该图形展示效果支持1080p输出，还有HDR效果，玩家可利用DualShock 3来控制观赏不同角度。 2007年东京电玩展上索尼互动娱乐宣布，PS3全球玩家们成功将“Folding@home”科研运算专案的资料处理速度推进到一个新里程碑，就是超越“1 petaflop”。“1 petaflop”运算量相当于1000万亿次运算每秒，目前全球最快的超级电脑IBM Roadrunner刚刚达到这一运算水平。索尼互动娱乐称，目前“Folding@home”项目在20万部PC平台上仅提供了“250 teraflps”运算能力，但是在60万部PS3参与后，将总数据运行能力首次推进到“1 petaflop”级别。 PlayStation 3的详细规格内容为，使用SCE、东芝及IBM共同开发的“Cell”中央处理器。“Cell”是一枚高性能的处理器，最大特征是称为“Cell运算”的网络分散运算功能。PS3内藏的Cell能将家庭服务器和电视机等连结成位元网络中的一部分。情况就好像网格运算一样，分散并即时处理各个指令。透过光纤网络，“Cell”能够与其他“Cell”连结成为可比拟超级电脑的运算能力。
+各机型比较[编辑]
+
+2006年9月，索尼互动娱乐于东京电玩展上公布了日本地区的价格，较北美地区的有较大的削减，而亚洲地区亦低于预期，其中以香港的价格为全球最低。
+2007年3月23日，PlayStation 3的60 GB版本于欧洲、中东、非洲及澳洲地区发售。此60 GB版本与其他地区的不同，不再内置PlayStation 2的EE+GS芯片，改为用软件模拟方式运行PS2游戏。PlayStation 3旧型号内置PlayStation 2的EE+GS芯片，可以兼容约90%以上的PS2游戏，而转用软件模拟方式的PS3新型号只可以兼容约50%的PS2游戏。
+2007年4月12日，索尼互动娱乐因为PlayStation 3的20 GB版本销量未如理想，率先全面停售该版本。
+2007年，索尼互动娱乐于E3电玩展上宣布，北美地区推出PlayStation 3的80GB版本，与欧洲等地区的60 GB版本相同，不再内置PlayStation 2的EE+GS芯片，并且计划80 GB版本将会取代原先的60 GB版本。其后亚洲地区相继引入80 GB版本，同时停止60 GB版本贩售。
+2007年10月5日，索尼互动娱乐宣布推出PlayStation 3的40 GB版本，此型号全面取消向下兼容PS2游戏，于10月下旬在欧洲地区率先发售。同时索尼互动娱乐亦调整了欧洲地区60 GB版本的价格，并且宣布60 GB版本于存货贩售完后将会停止发售。
+2007年10月9日，索尼互动娱乐宣布PlayStation 3的40 GB版本将于11月11日在日本及亚洲地区发售，提供钢琴黑及陶瓷白两种主机颜色选择。同时索尼互动娱乐亦调整了日本及亚洲地区20 GB及60 GB版本的价格，及公布新型控制器“DualShock 3”亦会于11月11日作独立发售。
+2007年10月18日,索尼互动娱乐宣布PlayStation 3的40 GB版本将于11月2日在北美地区发售，同样提供两种主机颜色。同时索尼互动娱乐亦调整了北美地区80 GB版本的价格至499美元。
+2008年1月10日，日本索尼互动娱乐宣布20 GB及60 GB版本的PlayStation 3在日本地区将会停止生产，意味着20 GB及60 GB版本完成历史任务，全球市场上再没有这两个版本发售。
+2008年2月5日，日本索尼互动娱乐宣布将于3月6日推出缎布银的40 GB版本PlayStation 3。
+2008年8月于美国、欧洲发行80 GB版本PlayStation 3。
+2008年10月于欧洲发行160 GB版本PlayStation 3，日本则发行80 GB版本PlayStation 3。
+2008年11月于美国发行160 GB版本PlayStation 3。
+2009年9月，全球发行120 GB的PlayStation 3 slim。
+2009年10月27日,于台湾、香港、10月于欧洲；同月15日于大洋洲、11月3日于北美、12月17日于日本发行250 GB的PlayStation 3 slim。
+2010年7月29日,于日本、香港发行320 GB的PlayStation 3 slim。
+2011年6月发行新型号之320 GBPlayStation 3 slim，并于同年随后发行新型号之160GB的PlayStation 3 slim。
+2012年9月19日，SCEH宣布月内推出外型更轻巧的新型PlayStation 3主机型号。新型PS3主机（CECH-4007系列）10月19日在台湾推出，提供250GB HDD/500GB HDD机型，新型主机尺寸大小和重量上都只有最早的60GB硬盘机种之一半以下；相比现行的PS3缩减了20 %与25%。
+
+
+
+机种
+型号[a]
+颜色
+USB 2.0
+链接端口
+802.11 b/g
+Wi-Fi
+读卡机
+SACD支持[48][49]
+PS2向下兼容
+Dolby TrueHD / DTS-HD MA位元串流输出
+支持HDMI CEC规格BRAVIA Sync
+类比影像端子输出高分辨率BD影片
+首次发售日期
+现况
+
+
+20 GB
+（NTSC）[50]
+CECHBxx
+CECHDxx
+钢琴黑
+4
+否
+否
+是
+是
+硬件（Emotion Engine）
+否
+否
+是
+2006-11-012006年11月
+停产[51]
+
+
+40 GB
+（PAL、NTSC）[52]
+CECHGxx
+CECHHxx
+CECHJxx
+钢琴黑
+陶瓷白[b]
+缎布银[c][53]
+金属灰[d][54]
+2
+是
+否
+否
+否
+否
+否
+是
+2007-10-012007年10月
+2007年11月
+停产[55]
+
+
+60 GB
+（NTSC）[50]
+CECHAxx
+钢琴黑
+4
+是
+是
+是
+是
+硬件（Emotion Engine）
+否
+否
+是
+2006-11-012006年11月
+停产
+
+
+60 GB
+（PAL）[50]
+CECHCxx
+钢琴黑
+4
+是
+是
+是
+是
+软件（模拟器）
+否
+否
+是
+2007-03-012007年3月
+停产
+
+
+80 GB
+（NTSC）[50]
+CECHExx
+钢琴黑
+4
+是
+是
+是
+是
+软件（模拟器）
+否
+否
+是
+2007-08-012007年8月
+停产
+
+
+80 GB
+（PAL、NTSC）[55][56]
+CECHKxx
+CECHLxx
+钢琴黑
+陶瓷白[b]
+缎布银[c]
+2
+是
+否
+否
+否
+否
+否
+是
+2008-08-012008年8月
+2008年10月
+停产
+
+
+160 GB
+（PAL、NTSC）[57][58]
+CECHPxx
+CECHQxx
+钢琴黑
+2
+是
+否
+否
+否
+否
+否
+是
+2008-10-012008年10月
+2008年11月
+停产
+
+
+120 GB
+（PAL、NTSC）
+CECH-20xxA
+CECH-21xxA
+
+木炭黑
+
+2
+是
+否
+否
+否
+是
+是
+是
+2009年9月
+停产
+
+
+250 GB
+（PAL、NTSC）
+CECH-20xxB
+CECH-21xxB
+木炭黑
+2
+是
+否
+否
+否
+是
+是
+是
+2009年10月27日
+2009年10月
+2009年10月15日
+2009年11月3日
+2009年12月17日
+停产
+
+
+160 GB
+（PAL、NTSC）
+CECH-25xxA
+木炭黑
+典雅白
+2
+是
+否
+否
+否
+是
+是
+是
+2010年7月29日
+停产
+
+
+320 GB
+（PAL、NTSC）
+CECH-25xxB
+木炭黑
+典雅白
+2
+是
+否
+否
+否
+是
+是
+是
+2010年7月29日
+停产
+
+
+160 GB
+（PAL、NTSC）
+CECH-30xxA
+木炭黑
+2
+是
+否
+否
+否
+是
+是
+否
+2011年
+停产
+
+
+320 GB
+（PAL、NTSC）
+CECH-30xxB
+木炭黑
+2
+是
+否
+否
+否
+是
+是
+否
+2011年6月
+停产
+
+
+120 GB
+（PAL）
+CECH-40xxA
+木炭黑
+2
+是
+否
+否
+否
+是
+是
+否
+2012年10月
+停产
+
+
+250 GB
+（NTSC）
+CECH-40xxB
+木炭黑
+典雅白
+
+2
+是
+否
+否
+否
+是
+是
+否
+2012年10月
+停产
+
+
+500 GB
+（PAL、NTSC）
+CECH-40xxC
+木炭黑
+典雅白
+石青蓝
+石榴红
+
+2
+是
+否
+否
+否
+是
+是
+否
+2012年10月
+停产
+
+
+所有机型皆包含：蓝光/DVD/CD光驱、HDMI 1.3a[59]、Bluetooth 2.0、以太网络（10BASE-T、100BASE-TX、1000BASE-T）、软件模拟的PlayStation One向下兼容力[60][61]以及亮面外观。[62]
+^ a型号依据发售区域不同而有所差异。参见PlayStation 3硬件型号。
+^ b陶瓷白仅于日本及亚洲地区发售。
+^ c缎布银仅于日本及亚洲地区发售。
+^ d金属灰仅限《合金装备4：爱国者之枪》同捆版。
+
+游戏[编辑]
+主条目：PlayStation 3游戏列表
+PlayStation 3的游戏以Blu-ray Disc作为储存媒体，且游戏是不锁区的。另外早期版本会以硬件形式向下兼容PlayStation 2游戏（40 GB、120 GB、160 GB、250 GB、320 GB、CECHKxx、CECHLxx除外），全系列的PlayStation 3都向下兼容PlayStation游戏。
+控制器[编辑]
+主条目：DualShock 3
+“DualShock 3”是索尼互动娱乐于2007年9月20日发布的新型控制器，结合了六轴感应及震动功能。其后于2007年10月9日，索尼互动娱乐宣布“DualShock 3”将会于11月11日作独立发售。
+主条目：PlayStation Move
+“PlayStation Move”是索尼互动娱乐发布的新型控制器，结合了体感及震动功能
+通信[编辑]
+
+GbE以太网络接头×1
+Wi-Fi：IEEE 802.11 b/g
+Bluetooth：Bluetooth 2.0（EDR）
+
+PlayStation Network[编辑]
+主条目：PlayStation Network和PlayStation Store
+
+
+
+
+PlayStation Network官方标志
+
+
+索尼在2006年东京PlayStation商业简报会议上宣布推出PS3适用的整合网络服务[63]。索尼同时确认这项服务将是24小时提供[64]、免费[65]，并包含多名玩者支持[66]。当服务网络推出时，注册界面仅能通过PS3或PSP链接[67]。之后变更为可通过个人电脑等网络装置链接“PlayStation Network”网站注册。
+在2006年9月21日的东京电玩展上，索尼宣布将在“PlayStation Network”上提供多款PlayStation和PlayStation 2的游戏作品销售下载，每款作品售价约为5～15美元[68]。
+在2007年5月8日，索尼互动娱乐宣布推出“PlayStation Network Card”[69]，这是一种能在在线商店中使用的电子钱币。“PlayStation Network Tickets”共有1,000、3,000、5,000和10,000日元的面额，能在日本的便利商店买到[70]。每一张卡片上记载了12字元的密码，可在“PlayStation Network”网站上输入后储值到电子钱包内[71]。这些卡片可在全日本超过26,957间的便利商店中买到，包括LAWSON、FamilyMart等[72]。此外超过26,000处的邮局提款机也有发售，但须通过手机在特定的网站注册[72]。
+韩国、香港和台湾也在2007年夏季推出了类似的储值卡机制[73]。台湾称为“预付卡”，刚开始仅有新台币800元的面额，现在有新台币500、1,000、2,000元的面额(但移除了新台币800元的面额的预付卡)，可在索尼合作的商店中购得[74]。2008年春天北美地区也引进了相同的制度[75]。
+Life with PlayStation[编辑]
+参见：Folding@Home
+2008年9月18日推出的免费网络服务。可通过此服务获取全世界约六十个都市的新闻、天气、气温等情报服务。画面中会显示即时的地球卫星云图。此外可切换频道，分别有取得世界各地情报的频道，以及Folding@Home频道。背景音乐可以硬盘中存放的歌曲中自由挑选。背景画面也会随着时间而有早晨、午间、夜晚等变化。
+“Folding@Home”是从2007年3月22日开始的分散运算计划。截至2008年2月5日，已有超过一百万人参与，目前与“Life with PlayStation”服务整合，成为频道之一。“Folding@home”是由美国斯坦福大学主导的医学研究相关计划，由于PlayStation 3能提供强大的运算性能，从PS3的1.6版本固件开始，利用PS3的Cell处理器来支持该项目科学运算。当PS3闲置时就会启动运算程序，精确计算蛋白质的折叠效应，利用所得的结果研究各种医学疑难杂症。当Cell处理器运算时，NVIDIA的RSX显核就会提供立体的蛋白质的折叠实时图形展示。该图形展示效果支持1080p输出，还有HDR效果，用家可利用控制器来控制观赏不同角度。
+2007年东京电玩展上索尼互动娱乐宣布，PS3全球玩家们成功将“Folding@home”计划的资料处理速度推进到一个新里程碑，就是超越“1 petaflop”。索尼互动娱乐表示，目前“Folding@home”项目在20万部个人电脑上仅提供了“250 teraflps”运算能力，但是在60万部PS3参与后，将总数据运行能力首次推进到“1 petaflop”级别，占据了总运算量的近八成，成为该计划最大的贡献者。（普通个人电脑的运算能力是约1GFlops，麦金塔电脑平均3GFlops，PS3的运算能力接近30GFlops。）
+2012年11月4日，Folding@home PS3客户端与其他所有基于Life with PlayStation的服务停止被支持，并在4.30的系统更新中被从XMB中移除。
+CELL开发史[编辑]
+
+
+
+此章节未列出参考或来源。
+（2014年1月8日）
+
+
+两位担任Cell处理器研发重梁的工程师David Shippy与Mikie Phipps，在新书The Race For A New Game Machine中回忆起2001年Sony/IBM/Toshiba三者投资40亿美元Cell五年计划如何与微软的新主机研发产生联系。IBM在整个计划中提供研发人力，设于美国德州Austin的研发总部有着Sony及Toshiba派遣的工程师团队，大家一同生活吃住，目标为2005年圣诞节让PS3上市。 就当2002年微软与IBM接触后，事情有了变化。在IBM的Adam Bennett甚至向微软公开正在开发中的Cell规格详图，微软决定交由IBM研发新主机的CPU，至此IBM两手掌握两大订单。 一段诡奇的回忆：同住于紧邻小卧间的IBM的员工得对来自Sony与Toshiba的工程师保密以防他们为微软设计处理器的合约计划泄漏，而360处理器芯片的验证进度也比Cell超前。Shippy先生感受到一股良知上的煎熬，称自己的本性已被污染，因为他是在用着之前为PS3主机处理器设计过程中所学到的经验在与微软工程师协同规划新处理器的架构需求。 Sony遭遇的惨事不只于此，就当IBM完成两大公司的设计合约后，IBM的芯片制造部门却发生问题。相比于未预料到此巨变的Sony因此遭受六周的推迟才拿到第一批Cell芯片，微软将备用产能转移于第三厂商的先见之明让微软比Sony还早拿到新主机的处理器芯片。微软拿到了Sony出钱培养工程师积累经验后研发的芯片，及时赶上2005年11月首发，而PS3最终因一连串阻扰导致推迟一年上市。
+黄灯故障[编辑]
+
+
+
+此章节未列出参考或来源。
+（2014年1月8日）
+
+
+初期PlayStation 3版本主机出现故障，情况是开机后先是绿灯，后出现红灯闪烁，伴有B.B.B.响三声，或者游戏过程中突然死机黑屏，红灯闪烁，触碰电源键后闪现黄灯而又变回红灯。“死亡黄灯”出现的主要原因与XBOX360类似，主要是由于主机过热造成的主板变形、元件老化以及脱焊。XBOX360的“三红”属于“急性”故障，因为一次或者几次的骤冷骤热直接就会导致“三红”，PS3的“死亡黄灯”则属于“慢性”的，随着时间的积累而发作。而长时间连续游戏的主机更易出现“死亡黄灯”。由于是过热导致的损坏，所以“死亡黄灯”较多发于初期的60GB以及20GB版本主机，老80GB与40GB次之。而最新批次的新80GB由于采用了双65NM制程，功耗与发热大大降低，出现“死亡黄灯”的概率较低。
+评价[编辑]
+
+
+
+
+2006年E3上展出的缎布银PS3
+
+
+在推出后不久，PlayStation 3被批评其过高的价格以及缺乏高品质的首批游戏[76][77]。然而，在接连的售价调降、蓝光光盘在市场上击败HD DVD[78]，以及多款受到好评的游戏推出后（包括神秘海域：德雷克船长的宝藏、合金装备4：爱国者之枪），PlayStation 3开始获得较多的正面评价。
+在《PC World》杂志的“2006年搞砸的科技产品排行榜”（The Top 21 Tech Screwups of 2006）中，PS3名列第八，该杂志认为“发售太晚、太贵、缺乏兼容性”[79]。GamesRadar将PS3选为游戏产业公关宣传灾难的第一名，探讨索尼为何将“史上最受欢迎的游戏主机（PS2）变成网络上恶评不断的糟糕产品”，但同时也认为除了这些问题之外，主机本身有“尚未利用到的潜能”[80]。美国《商业周刊》（Business Week）归纳了各方评价，做出“（PS3）未来的可能性比目前的表现更加引人关注”的结论。[81]
+发售初期获得的一些负面评价之外，部分知名网站也给予PS3正面的评论。英国CNET赞扬“PS3是一部令人惊艳的万能家庭娱乐装置，虽然售价高昂但物有所值”[82]。CNET在满分10分中将PS3评为8.8分，并选为“必买电子产品”的第一名[83]，赞扬其优越的绘图能力和时髦的外观设计，但同时也批评其游戏选择过少[84]。
+此外，《家庭剧院杂志》（Home Theater Magazine）和《终极视听》（Ultimate AV）皆给予PS3的蓝光播放能力极高的评价，两本杂志认为PS3的蓝光播放品质超越了许多市场上的蓝光播放机[85][86]。此外，“欧洲影音协会”（European Imaging and Sound Association，EISA）将PS3评为2007/2008年最佳媒体中心[87]。
+Hexus Gaming评论PAL版本的PS3并表示“......随着PlayStation 3逐渐成熟，开发者也开始努力制作游戏，我们将会看到PlayStation 3成为游戏的最佳选择。”[88]。在2007年的游戏开发者大会（Game Developers Conference，GDC）上，Shiny Entertainment公司的创办人大卫·派瑞（David Perry）表示︰“我认为索尼做出了最棒的游戏主机，毫无疑问这是硬件上的绝佳作品”[89]。而Ars Technica在2008年6月对PS3做出的第二篇评论，将分数由最初的6/10提升为8/10[90]。
+相关条目[编辑]
+
+索尼电脑娱乐
+IBM
+Cell (微处理器)
+PlayStation
+PlayStation 2
+PlayStation 3游戏列表
+PlayStation 3硬件
+PlayStation 3系统软件
+PlayStation 3配件
+PlayStation 3设定
+PlayStation 4
+XMB
+
+参考[编辑]
+
+
+^ http://www.vgchartz.com/platforms/
+^ PlayStation 3 Super Audio CD FAQ（英文）PS3SACD.com、2008年02月29日
+^ http://www.vgchartz.com/platform/3/playstation-3/
+^ PLAYSTATION is in capitals. Kotaku. 2006-08-10 [2008-01-18]. （原始内容存档于2012-05-26）. 
+^ 5.0 5.1 PS3 sells out at launch. BBC. 2006-11-11 [2008-01-14]. 
+^ 6.0 6.1 Sony's PS3 makes U.S. debut. USA Today. 2006-11-17 [2008-01-14]. 
+^ 7.0 7.1 SCEE official press release. Sony Computer Entertainment Europe. 2007-01-24 [2008-01-14]. （原始内容存档于2008-01-19）. 
+^ 8.0 8.1 Sony Confirms PS3 Euro Launch Details. Next Gen. 2007-01-24 [2008-01-14]. 
+^ 9.0 9.1 9.2 9.3 IGN: E3 2006: The final word on PlayStation. IGN. 2006-05-24 [2008-01-14]. 
+^ Reeves: No PAL 20GB/80GB PS3 Plans. Interactive Entertainment Today. 2007-06-10 [2007-08-31]. 
+^ Sony PlayStation 3 review. CNET. 2007-11-16 [2008-01-14]. 
+^ PlayStation 3 - Things to Know —PlayStation Network. SCEA. [2008-01-14]. 
+^ Sony confirms PS2 online plans. The Register. 2002-08-15 [2008-01-14]. 
+^ PlayStation 3 - Things to Know —Multimedia. Sony Computer Entertainment America. [2008-01-14]. 
+^ De Leon, Al. PlayStation Blog —PS3 Tips —Remote Play and PlayStation Store. SCEA. 2007-12-26 [2008-01-14]. 
+^ PlayStation 3 - Things to Know—Blu-ray Disc and movies. SCEA. [2008-01-14]. 
+^ Lempel, Eric. Firmware version 2.20 bringing BD-Live to PS3. Sony Computer Entertainment America. 2008-03-20 [2008-04-02]. 
+^ PS3 Slim正式发表ENGADGET中文版
+^ Sulic, Ivan. IGN: E3 2005: PS3 Official. IGN. 2005-05-16 [2008-01-14]. 
+^ 20.0 20.1 20.2 TGS 2005 booth round-up. Gamasutra. 2005-09-15 [2008-01-14]. 
+^ 21.0 21.1 Sony E3 2005 press conference video. IGN. 2005-05-17 [2008-01-14]. （原始内容存档于2007-12-11）. 
+^ Allen, Jason. E3 2005: Eyes-on the Final Fantasy VII Tech Demo. IGN. 2005-05-15 [2006-07-24]. 
+^ PlayStation 3 announced for 2006. GameSpot. 2005-05-16 [2008-01-14]. 
+^ IGN's Official PlayStation 3 FAQ. IGN PlayStation 3: 1 of 4. 2007-03-26 [2007-04-23]. 
+^ Sony Playstation 3 launch details. Arstechnica. 2006-05-09 [2008-01-18]. 
+^ PlayStation 3 Euro launch delayed. BBC. 2006-09-06 [2008-01-14]. 
+^ TGS 2006 - TGS 06: No US PS3 price drop; HDMI in 20 GB model. GameSpot. 2006-09-23 [2008-01-14]. 
+^ 28.0 28.1 Anoop Gantayat. TGS 2006: Price Drop For Japanese PS3. IGN PlayStation 3. 2006-09-22 [2007-01-15]. 
+^ Sony announces 27 playable titles for the September Tokyo Game Show.. IGN. 2006-08-16 [2006-08-16]. 
+^ Japanese PS3 Sales Data Also Depressing. Media Create Co. via Kotaku. 2006-11-14 [2008-10-24]. （原始内容存档于2012-05-26）. 
+^ 1 Shot in Conn. Playstation Waiting Line. ABC News. 2006-11-17 [2006-11-17]. 
+^ Camping PlayStation gamers robbed at gunpoint. KMTR. [2006-11-17]. （原始内容存档于2008-02-28）. 
+^ Four People Shot While Waiting for PlayStation Console, Including 27 NEWSFIRST Reporter. WKYT News. 2006-11-16 [2006-11-17]. （原始内容存档于2006-11-20）. 
+^ Playstation3 Crowd Gets More Than It Bargained for in Tysons. WTOP News. 2006-11-17 [2006-11-17]. 
+^ Sony’s PS3 has record launch in Europe. Financial Times. 2007-03-28 [2007-09-01]. 
+^ Singapore's PS3 launch party. CNET. 2007-03-08 [2008-01-14]. （原始内容存档于2008-02-19）. 
+^ PlayStation 3 (80 GB) Korean. SCEI. [2008-01-18]. （原始内容存档于2007-05-23）. 
+^ PS3已超越Xbox 360成第二大主机驱动之家2011-04-1
+^ 里程碑：索尼售出5000万部PS3、800万部Move驱动之家2011-04-16
+^ PS3全球销量突破7000万香港游戏信息网Nov - 16 - 2012
+^ http://www.sony.co.jp/SonyInfo/IR/news/qfhh7c00000e4wij-att/semiconductor.pdf
+^ http://www.sony.co.jp/SonyInfo/News/Press/200710/07-1018/index.html
+^ PS3やWiiから利用できる“テレビ用YouTube”スタート。，AV watch，2009年1月16日
+^ ソニー3Q、180亿円の営业赤字　PS3は“他社の低価格机と比べて伸びず”
+^ 45.0 45.1 PlayStation®3をご利用のお客様へ，日语
+^ http://www.pcworld.com/article/2010081/new-playstation-3-console-slims-down-for-the-holidays.html
+^ PS3全机型宣告破解！. 驱动之家. 2013-08-20. 
+^ PS3 SACD FAQ. ps3sacd.com. [2008-02-20]. 
+^ SACD支持被取消的原因是破解后可以盗拷SACD
+^ 50.0 50.1 50.2 50.3 About PlayStation­3 - Technical Specifications. PlayStation.com. [2008-02-25].  参数|title=值左起第18位存在软连字符 (帮助)
+^ Sony Scraps Sale of Priciest PlayStation 3s in Japan. 2008-01-10 [2008-01-10]. 
+^ New PLAYSTATION®3 Model to Take Holiday Season by Storm. Sony Computer Entertainment. 2007-10-05 [2007-10-05]. （原始内容存档于2007-10-11）. 
+^ Tanaka, John. New PS3 colour in Japan. IGN. 2008-02-04 [2008-02-05]. 
+^ Konami - Metal Gear Solid 4 Limited Edition PLAYSTATION®3 Bundle 互联网档案馆的存档，存档日期2008-11-03.
+^ 55.0 55.1 Randolph Ramsay and Luke Anderson. E3 08: 80GB PS3 coming to Europe, Australia on August 27. GameSpot. 2008-07-16 [2008-07-17]. 
+^ Tretton, Jack (speaker). E3 2008: Sony Press Conference (Part 3). Sony Computer Entertainment America (via IGN). 事件发生在 17:38. 2008-07-15 [2008-07-16]. 
+^ company press release. SCEE. 2008-08-20 [2008-08-20]. 
+^ Live from Leipzig: North American Hardware Announcements. SCEA. 2008-08-20 [2008-08-20]. 
+^ PLAYSTATION®3 HDD 20 GB EQUIPPED WITH HDMI AS STANDARD (PDF) (新闻稿). Sony Computer Entertainment. 2006-09-22 [2007-05-24]. （原始内容 (PDF)存档于2011-08-25）. 
+^ Boyes, Emma. UK PS3 drops price, 40GB finally official. GameSpot. CNET. 2007-10-05 [2007-10-06]. 
+^ Plunkett, Luke. Customer Service: Sony Could Run BC on 40GB PS3s. They Just Don't Want To.. [2007-10-09]. （原始内容存档于2012-12-16）. 
+^ PlayStation 3 40GB model official specifications. SCEI. [2008-01-15]. （原始内容存档于2008-01-23）. 
+^ Graft, Kris. PSBB: Kutaragi's 10 PlayStation Points. Next Gen. 2006-03-15 [2008-01-15]. 
+^ PlayStation 3 announced for 2006. GameSpot. 2005-05-16 [2007-04-04]. 
+^ Official PlayStation Website —PlayStation Network. SCEA. [2008-01-15]. 
+^ Official PlayStation Website —PlayStation Network —Online Gaming. SCEA. [2008-01-15]. （原始内容存档于2008-02-13）. 
+^ Frequently Asked Questions (FAQs) - How do I set up my PLAYSTATION Network master account or sub account?. SCEA Regional Online Manual. Sony Computer Entertainment America: 1 of 4. [2007-01-19]. 
+^ Shoemaker, Brad. Sony TGS 2006 keynote speech. GameSpot. 2006-09-21 [2008-01-15]. 
+^ Huang, Eugene. Sony introduces prepaid PlayStation Network cards (in Japan). GamePro.com. 2007-05-08 [2007-08-08]. 
+^ Sony will sell PlayStation Network Tickets at Japanese corner stores. digitalworldtokyo.com. 2007-05-10 [2008-01-15]. 
+^ Sony announces PlayStation Network Tickets. Monsters and Critics. 2007-05-08 [2008-01-15]. （原始内容存档于2007-12-26）. 
+^ 72.0 72.1 Sony Announces PlayStation Network Tickets. IGN. 2007-05-08 [2008-01-15]. 
+^ PlayStation Network cards released in Asia. PSU. 2007-09-04 [2008-01-15]. 
+^ 如何购买，PlayStation.com台湾
+^ Lempel, Eric. PlayStation Network Cards are coming. PlayStation Blog. 2007-12-14 [2008]. 
+^ Riyad Emeran. Sony PlayStation 3. Trustedreviews.com. 2007-03-23 [2007-07-10]. 
+^ Danny Allen. First review: PlayStation 3. PC Advisor. 2007-03-01 [2007-07-10]. 
+^ Toshiba Announces Discontinuation of HD DVD Businesses (新闻稿). Toshiba. 2008-02-19 [2008-08-31]. 
+^ Tynan, Dan. The Top 21 Tech Screwups of 2006. PC World. 2006-12-20 [2007-02-03]. 
+^ Reparaz, Mikel. The Top 7... PR disasters. GamesRadar. 2007-03-21 [2007-03-21]. 
+^ Cliff Edwards. PS3: Soon to Be a Great System. Business Week. 2006-11-16 [2007-07-10]. 
+^ Carnoy, Dave. PS3 Reviewed. CNet.co.uk. March 2007 [2007-04-21]. 
+^ CNET Staff. Top 10 Must-haves. CNET. 2006-11-21 [2007-02-22]. 
+^ Carnoy, David. Sony PlayStation 3 (60 GB) Reviews. CNET. 2006-11-14 [2007-02-03]. 
+^ Chiarella, Chris. Sony PlayStation 3. Home Theater Magazine. Primedia Magazines, Inc. December 2006 [2007-02-22]. （原始内容存档于2007-04-21）. 
+^ Buettner, Shane C. PlayStation3 Blu-ray Disc Player. Primedia Magazines, Inc.: 4 of 6. December 2006 [2007-02-22]. （原始内容存档于2007-10-09）. 
+^ Sony PLAYSTATION 3 | EISA —European Imaging and Sound Association. EISA Awards. [2008-01-30]. （原始内容存档于2008-08-19）.  参数|title=值左起第20位存在删除符 (帮助)
+^ Haywood, Nick. Review : Sony PlayStation 3. HEXUS.gaming: 6 of 6. 2007-03-23 [2007-04-25]. 
+^ Gibson, Ellie. GDC: What's Next for PS3?. GamesIndustry.biz. 2007-03-07 [2007-04-25]. 
+^ Kuchera, Ben. They say it got smart: a 2008 review of the PS3. Ars Technica. 2008-06-04 [2008-06-10]. 
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：PlayStation 3
+
+
+
+
+电子游戏主题
+
+
+
+
+
+维基新闻相关报导：
+
+
+SONY将推迟PlayStation 3的发布
+PlayStation 3尚未量产　年底上市可能缺货
+
+
+
+
+
+
+PlayStation.com全球首页
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+PlayStation 3家族
+
+
+
+
+
+
+配件
+
+
+
+PlayStation Eye
+PlayStation Move
+PlayTV
+Sixaxis
+DualShock 3
+配件
+
+
+
+
+
+
+
+
+软件
+
+
+
+系统软件
+OtherOS
+Remote Play
+PlayStation 3 XMB
+Life with PlayStation
+PSGL
+
+
+
+
+
+
+
+
+网络
+
+
+
+PlayStation Network
+PlayStation Home
+PlayStation Network Card
+Qore
+FirstPlay
+VidZone
+
+
+
+
+
+
+
+
+游戏
+
+
+
+Retail games
+下载游戏 (PSOne Classics
+TurboGrafx-16 games
+Minis)
+PlayStation Move游戏
+Classics HD
+3D游戏
+PlayStation以及PlayStation 2兼容游戏
+
+
+
+
+
+
+
+
+媒体
+
+
+
+PlayStation.Blog
+PlayStation: The Official Magazine
+PlayStation Official Magazine – UK
+PlayStation Official Magazine – Australia
+
+
+
+
+
+
+
+
+其他
+
+
+
+PlayStation 3硬件
+PlayStation 3 launch
+PlayStation Network outage
+Zego
+Folding@home
+PlayStation 3 cluster
+Cell (microprocessor)
+RSX 'Reality Synthesizer'
+PlayStation Jailbreak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+PlayStation
+
+
+
+
+
+
+
+
+
+索尼互动娱乐
+索尼互动娱乐全球工作室
+
+
+
+
+
+
+
+
+游戏机
+
+
+
+
+家用平台
+
+
+
+PlayStation
+
+机型（英语：PlayStation models）
+硬件（英语：PlayStation technical specifications）
+
+
+PlayStation 2
+
+机型（英语：PlayStation models）
+硬件（英语：PlayStation technical specifications）
+
+
+PlayStation 3
+
+机型（英语：PlayStation models）
+硬件
+系统软件
+
+
+PlayStation 4
+
+硬件（英语：PlayStation technical specifications）
+系统软件
+
+
+
+
+
+
+
+
+
+
+便携平台
+
+
+
+PlayStation Portable
+
+系统软件
+
+
+PlayStation Vita
+
+系统软件
+
+
+
+
+
+
+
+
+
+
+多媒体平台
+
+
+
+PocketStation（英语：PocketStation）
+PSX
+PlayStation TV
+
+
+
+
+
+
+
+
+
+
+
+游戏
+
+
+
+
+PS1游戏
+
+
+
+最畅销
+最经典（英语：Lists of PS one Classics）
+
+北美（英语：List of PS one Classics (North America)）
+PAL区（英语：List of PS one Classics (PAL region)）
+日本（英语：List of PS one Classics (Japan)）
+
+
+
+
+
+
+
+
+
+
+PS2游戏
+
+
+
+最畅销
+在线游戏（英语：List of PlayStation 2 online games）
+高清游戏（英语：List of PlayStation 2 games with alternate display modes）
+兼容PS3的PS2游戏（英语：List of PlayStation 2 Classics for PlayStation 3）
+兼容PS4的PS2游戏（英语：List of PlayStation 2 games for PlayStation 4）
+
+
+
+
+
+
+
+
+PS3游戏
+
+
+
+最畅销（英语：List of best-selling PlayStation 3 video games）
+光盘发行
+数字发行（英语：List of download-only PlayStation 3 games）
+双渠道发行（英语：List of PlayStation 3 disc games released for download）
+兼容PS3的PS和PS2游戏（英语：List of PlayStation and PlayStation 2 games compatible with PlayStation 3）
+3D游戏（英语：List of PlayStation 3 games with 3D support）
+PS Move游戏（英语：List of PlayStation Move games）
+PS Now游戏（英语：List of PlayStation Now games）
+
+
+
+
+
+
+
+
+PS4游戏
+
+
+
+最畅销（英语：List of best-selling PlayStation 4 video games）
+光盘发行（英语：List of PlayStation 4 games released on disc）
+PSVR游戏（英语：List of PlayStation VR games）
+3D游戏
+
+
+
+
+
+
+
+
+PSP游戏
+
+
+
+双渠道发行（英语：List of downloadable PlayStation Portable games）
+系统软件兼容性（英语：List of PlayStation Portable system software compatibilities）
+PS Minis（英语：List of PlayStation minis）
+
+
+
+
+
+
+
+
+其他
+
+
+
+PSV游戏
+PS Mobile游戏（英语：List of PlayStation Mobile games）
+TurboGrafx-16游戏（英语：List of PlayStation Store TurboGrafx-16 games）
+NEOGEO Station（英语：NEOGEO Station）
+高清复刻游戏（英语：High-definition remasters for PlayStation consoles）
+即时游戏
+
+北美区（英语：List of Instant Game Collection games (North America)）
+PAL区（英语：List of Instant Game Collection games (PAL region)）
+亚洲区（英语：List of Instant Game Collection games (Asia)）
+日本区（英语：List of Instant Game Collection games (Japan)）
+中国区（英语：List of Instant Game Collection games (China)）
+
+
+
+
+
+
+
+
+
+
+再版
+
+
+
+Greatest Hits
+Essentials（英语：Essentials (PlayStation)）
+The Best
+BigHit Series（英语：BigHit Series）
+
+
+
+
+
+
+
+
+
+
+
+网络
+
+
+
+PlayStation Network
+2011年服务瘫痪
+中央车站（英语：Central Station (online gaming service)）
+FirstPlay（英语：FirstPlay）
+PlayStation App
+PlayStation Blog（英语：PlayStation Blog）
+PlayStation Home
+PlayStation Mobile（英语：PlayStation Mobile）
+PlayStation Music（英语：PlayStation Music）
+PlayStation Now
+PlayStation Store
+PlayStation Video（英语：PlayStation Video）
+PlayStation Vue（英语：PlayStation Vue）
+PS2在线（英语：PlayStation 2 online functionality）
+PSP网络会客室（英语：Room for PlayStation Portable）
+VidZone（英语：VidZone）
+
+
+
+
+
+
+
+
+配件
+
+
+
+
+控制器
+
+
+
+PS手柄（英语：PlayStation Controller）
+PS鼠标（英语：PlayStation Mouse）
+模拟游戏杆（英语：PlayStation Analog Joystick）
+双模拟手柄（英语：Dual Analog Controller）
+DualShock
+Sixaxis（英语：Sixaxis）
+PlayStation Move
+
+
+
+
+
+
+
+
+摄像头
+
+
+
+EyeToy（英语：EyeToy）
+Go!Cam（英语：Go!Cam）
+PS Eye（英语：PlayStation Eye）
+PS摄像头（英语：PlayStation Camera）
+
+
+
+
+
+
+
+
+杂项
+
+
+
+多接头插件（英语：PlayStation Multitap）
+链路电缆（英语：PlayStation Link Cable）
+PS2配件（英语：PlayStation 2 accessories）
+PS2耳机（英语：PlayStation 2 Headset）
+PS3配件（英语：PlayStation 2 accessories）
+PlayTV（英语：PlayTV）
+魔法书（英语：Wonderbook）
+PlayStation VR
+
+
+
+
+
+
+
+
+
+
+
+套件
+
+
+
+Net Yaroze（英语：Net Yaroze）
+PS2 Linux（英语：Linux for PlayStation 2）
+GScube（英语：GScube）
+OtherOS（英语：OtherOS）
+Zego（英语：Zego）
+
+
+
+
+
+
+
+
+媒体
+
+
+
+
+杂志
+
+
+
+PS美国官方杂志
+PS官方杂志
+PS英国官方杂志
+PS澳洲官方杂志（英语：PlayStation Official Magazine – Australia）
+PlayStation Underground（英语：PlayStation Underground）
+
+
+
+
+
+
+
+
+广告
+
+
+
+双重人生（英语：Double Life (PlayStation ad)）
+游戏巅峰（英语：Mountain (advertisement)）
+PS市场推广（英语：Sony marketing）
+
+
+
+
+
+
+
+
+角色
+
+
+
+多乐猫
+多边形人（英语：Polygon Man）
+凯文·巴特勒（英语：Kevin Butler (character)）
+马库斯·里弗斯（英语：Marcus Rivers）
+
+
+
+
+
+
+
+
+
+
+
+街机主板
+
+
+
+系统11（英语：Namco System 11）
+系统12（英语：Namco System 12）
+系统10（英语：Namco System 10）
+系统246
+系统357（英语：Namco System 357）
+
+
+
+
+
+
+
+
+相关产品
+
+
+
+Super NES CD-ROM（英语：Super NES CD-ROM）
+Sony Ericsson Xperia Play
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+第七世代游戏机
+
+
+
+
+
+
+家用游戏机
+
+
+
+PlayStation 3
+Xbox 360
+Wii
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+任天堂DS家族
+
+任天堂DS
+DS Lite
+任天堂DSi
+
+
+PlayStation Portable
+
+
+
+
+
+
+
+
+微型游戏机
+
+
+
+Zeebo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+家用游戏机
+
+
+
+
+
+
+雅达利
+
+
+
+雅达利2600
+雅达利5200
+雅达利7800
+雅达利Jaguar
+雅达利XEGS（英语：Atari XEGS）
+乓
+
+
+
+
+
+
+
+
+万代
+
+
+
+Apple Pippin
+Bandai Super Vision 8000（英语：Bandai Super Vision 8000）
+Playdia
+
+
+
+
+
+
+
+
+卡西欧
+
+
+
+卡西欧Loopy
+PV-1000（英语：PV-1000）
+
+
+
+
+
+
+
+
+Commodore国际
+
+
+
+Amiga CD32（英语：Amiga CD32）
+Amiga CDTV（英语：Amiga CDTV）
+Commodore 64 Games System（英语：Commodore 64 Games System）
+
+
+
+
+
+
+
+
+微软
+
+
+
+Xbox
+Xbox 360
+Xbox One
+
+
+
+
+
+
+
+
+日本电气
+
+
+
+PC Engine
+PC-FX
+
+
+
+
+
+
+
+
+任天堂
+
+
+
+红白机
+超级任天堂
+任天堂64
+GameCube
+Wii
+Wii U
+任天堂Switch
+
+
+
+
+
+
+
+
+飞利浦
+
+
+
+米罗华奥德赛²
+CD-i
+
+
+
+
+
+
+
+
+世嘉
+
+
+
+SG-1000
+世嘉Master System
+Mega Drive
+世嘉土星
+Dreamcast
+
+
+
+
+
+
+
+
+SNK Playmore
+
+
+
+Neo Geo
+Neo Geo CD（英语：Neo Geo CD）
+
+
+
+
+
+
+
+
+索尼
+
+
+
+PlayStation
+PlayStation 2
+PlayStation 3
+PlayStation 4
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+
+1970年代
+
+
+
+
+APF-MP1000
+Bally Astrocade
+Fairchild Channel F
+Intellivision
+米罗华奥德赛
+RCA Studio II
+VC 4000 / 1292高级可编程视频系统
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+Action Max（英语：Action Max）
+Arcadia 2001
+ColecoVision
+Cassette Vision
+Halcyon
+Vectrex
+VTech CreatiVision（英语：VTech CreatiVision）
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+3DO
+Amstrad GX4000（英语：Amstrad GX4000）
+CP System
+FM Towns Marty
+Pioneer LaserActive
+Super A'Can
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+Zeebo
+战斧F1
+刀锋TGPBOX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 7574523-9
+
+
+
+
+
+
+
+
+
+
+
+
+分类：PlayStation 3第七世代游戏机索尼游戏机家用游戏机2006年面世的产品隐藏分类：引文格式1错误：不可见字符Webarchive模板wayback链接使用过时图像语法的页面在Vgrelease模板中使用命名参数的条目含有日语的条目自2014年1月需补充来源的条目使用2号参数传递Portal模板图像的页面包含规范控制信息的维基百科条目

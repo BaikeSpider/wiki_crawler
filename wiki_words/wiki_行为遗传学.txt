@@ -1,0 +1,792 @@
+行为遗传学
+行为遗传学研究领域集中在检视遗传在人类和动物的行为中扮演的角色。行为遗传学涵盖多个学科，包括生物学，遗传学，动物行为学，心理学，统计学，并且经常会涉及到“先天与后天”的讨论。行为遗传学主要研究行为特征的继承性。在人类研究中，通常通过研究双胞胎或者研究收养的子女来获得相关信息。在动物研究中，培育，转基因，和基因敲除技术被频繁使用；精神病遗传学则是和之联系最紧密的学科。
+
+
+
+目录
+
+
+1 历史
+2 方法
+3 重要人物
+4 相关刊物
+5 更多
+6 参考资料
+
+
+
+历史[编辑]
+法兰西斯·高尔顿爵士被认为是最先研究行为遗传学的科学家之一。高尔顿是查理斯·达尔文的表弟，在研究完人类技能的遗传之后，把精力集中在研究和他联系比较紧密的英国上层贵族的心理特点和他们独有的品格上。在1869年，高尔顿在其著作《遗传天赋》中发表了他的研究结果。[1] 在他的研究中，高尔顿“阐述了他的多元分析，并且为日后的被整个科学研究领域所使用的贝叶斯统计奠定了基础。”—开启了被称作 “统计学的春天”。[2]
+在1960年，行为遗传学获得了认可，被当作了一门研究学科，并且出版了教科书《行为遗传学》，作者是J.L. Fuller和W.R. Thompson.[3]
+因为研究演化在行为遗传学中的作用，在1972年，Theodosius Dobzhansky被选作了第一届行为遗传学协会（BGA）的主席；BGA会定期给在行为遗传学中做出杰出贡献的科学家颁发Dobzhansky奖。在90年代初，Dobzhansky的博士学生Lee Ehrman发表了开创性的论文，描述了果蝇基因型频率和成功交配的关系，[4][5][6]从而促使了行为遗传学对其他动物的进一步研究。
+方法[编辑]
+现代行为遗传学主要是研究双胞胎和收养的子女。其中包括多种研究方法设计，比如说不一致的双胞胎。现在这些方法已经被应用到很多方面，包括多元遗传分析，极端分析，还有最近的基因组方法，包括全基因组关联研究，连锁，候选基因方法等等。很多研究行为遗传学的方法会在遗传的页面里讨论.
+重要人物[编辑]
+行为遗传学的领域里重要的人物包括 Dorret Boomsma, John DeFries, Lindon Eaves, David Fulker, John Hewitt, Kenneth Kendler, John Loehlin, Nick Martin, Gerald McClearn, Robert Plomin, Theodore Reich（精神病遗传学的先驱）, Hans van Abeelen, Avshalom Caspi, 还有 Steven G. Vandenberg（ 杂志《行为遗传学》的创立编辑之一）。
+相关刊物[编辑]
+行为遗传学和很多研究学科都有联系，包括生物，医药，药理，精神病学，和心理学等等；因此行为遗传学的研究经常被发表在各种不同的科学刊物上，包括 自然和科学。专门行为遗传学的刊物则有《行为遗传学》，《分子精神病学》，《精神病遗传学》，《 双胞胎研究和人类遗传学》, 《基因，大脑和行为》，还有《神经遗传学杂志》。
+更多[编辑]
+
+生物文化演化
+
+参考资料[编辑]
+
+
+^ Hereditary Genius
+^ Darwin, Galton and the Statistical Enlightenment
+^ Fuller, J.L., & Thompson, W.R. (1960). Behavior Genetics. New York: Wiley.
+^ Ehrman, L. (1966). Mating success and genotype frequency in Drosophila. Animal Behaviour, 14, 332-339.
+^ Ehrman, L. (1970a). Simulation of the mating advantage of rare Drosophila males. Science, 167, 905-906.
+^ Ehrman, L. (1970b). The mating advantage of rare males in Drosophila. Proceedings of the National Academy of Sciences, 65, 345-348.
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+遗传学
+
+
+
+
+
+
+
+
+
+入门
+历史（英语：History of genetics）
+有关主题（英语：Index of genetics articles）
+组织列表（英语：List of genetics research organizations）
+
+
+
+
+
+
+
+
+构成要素
+
+
+
+染色体
+脱氧核糖核酸(DNA)
+核苷酸
+核糖核酸(RNA)
+基因组
+
+
+
+
+
+
+
+
+遗传学领域
+
+
+
+古典（英语：Classical genetics）
+保守（英语：Conservation genetics）
+生态
+免疫
+分子
+群体
+数量（英语：Quantitative genetics）
+
+
+
+
+
+
+
+
+古遗传学
+
+
+
+美洲（英语：Genetic history of indigenous peoples of the Americas）
+不列颠群岛（英语：Genetic history of the British Isles）
+欧洲（英语：Genetic history of Europe）
+意大利（英语：Genetic history of Italy）
+近东（英语：Archaeogenetics of the Near East）
+南亚（英语：Genetics and archaeogenetics of South Asia）
+
+
+
+
+
+
+
+
+有关主题
+
+
+
+表观遗传学
+遗传学家
+基因组学
+遗传密码
+医学遗传学
+分子进化
+逆向遗传学（英语：Reverse genetics）
+基因工程
+遗传多样性
+遗传
+遗传监测（英语：Genetic monitoring）
+遗传系谱学
+
+
+
+
+
+
+
+
+
+
+
+遗传学分类
+遗传学主题
+共享资源
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+神经科学
+
+
+
+
+
+
+
+神经科学概要（英语：Outline of neuroscience）
+
+
+
+
+
+
+基础科学
+
+
+
+行为的遗传讯息学（英语：Behavioral epigenetics）
+行为遗传学
+细胞神经科学（英语：Cellular neuroscience）
+计算神经科学
+连接组学
+影像遗传学（英语：Imaging genetics）
+整合性神经科学（英语：Integrative neuroscience）
+分子神经科学（英语：Molecular neuroscience）
+神经工程
+神经解剖（构造）学
+神经化学
+神经内分泌学（英语：Neuroendocrinology）
+神经基因学（英语：Neurogenetics）
+神经信息学
+神经测量学（英语：Neurometrics）
+神经科学与生物形态学（英语：Neuromorphology）
+神经物理（英语：Neurophysics）
+神经生理学
+
+
+
+
+
+
+
+
+
+
+
+临床神经科学（英语：Clinical neuroscience）
+
+
+
+行为神经学
+临床神经生理学（英语：Clinical neurophysiology）
+神经心脏学（英语：Neurocardiology）
+神经流行病学（英语：Neuroepidemiology）
+神经与消化系统学（英语：Neurogastroenterology）
+神经免疫学（英语：Neuroimmunology）
+神经重症学
+神经内科
+神经肿瘤学（英语：Neurooncology）
+神经眼科学
+神经病理学（英语：Neuropathology）
+神经药学（英语：Neuropharmacology）
+神经假体
+神经与精神病学（英语：Neuropsychiatry）
+神经放射学（英语：Neuroradiology）
+神经复健学（英语：Neurorehabilitation）
+神经外科
+神经病毒学（英语：Neurotology）
+神经病毒学（英语：Neurovirology）
+营养与神经科学（英语：Nutritional neuroscience）
+精神病学
+
+
+
+
+
+
+
+
+认知神经科学
+
+
+
+情感神经科学（英语：Affective neuroscience）
+生物心理学
+时间生物学
+分子细胞的认知（英语：Molecular cellular cognition）
+肌肉运动的/运动神经的控制（英语：Motor control）
+神经语言学
+神经心理学
+感知神经科学（英语：Sensory neuroscience）
+社会神经科学
+系统神经科学（英语：Systems neuroscience）
+
+
+
+
+
+
+
+
+跨领域
+
+
+
+消费性神经科学（英语：Consumer neuroscience）
+文化的神经科学（英语：Cultural neuroscience）
+教育的神经科学（英语：Educational neuroscience）
+Evolutionary neuroscience（英语：Evolutionary neuroscience）
+神经人类学（英语：Neuroanthropology）
+神经生物工程（英语：Neurobioengineering）
+神经与生态学（英语：Neurobiotics）
+神经科学与犯罪学（英语：Neurocriminology）
+神经经济学
+神经科学与哲学的认识理论（英语：Neuroepistemology）
+Neuroesthetics（英语：Neuroesthetics）
+神经科学与伦理道德（英语：Neuroethics）
+神经行为学
+神经科学与历史学（英语：Neurohistory）
+神经科学与法律（英语：Neurolaw）
+神经科学与行销学（英语：Neuromarketing）
+神经科学与现象学
+神经科学与哲学（英语：Neurophilosophy）
+神经科学与政治学（英语：Neuropolitics）
+神经科学与机器人（英语：Neurorobotics）
+神经科学与社会学（英语：Neurosociology）
+神经科学与宗教学（英语：Neurotheology）
+神经科学与古生物学（英语：Paleoneurology）
+
+
+
+
+
+
+
+
+概念
+
+
+
+脑机界面
+神经发展（英语：Neural development）
+人工神经网络
+生物神经网络
+信号检测理论
+多执行之神经生理监测（英语：Intraoperative neurophysiological monitoring）
+神经芯片（英语：Neurochip）
+神经退行性疾病
+神经发展及疾患（英语：Neurodevelopmental disorder）
+神经多样性（英语：Neurodiversity）
+神经发生
+神经成像
+神经免疫系统（英语：Neuroimmune system）
+神经管理（英语：Neuromanagement）
+神经调节
+神经可塑性
+神经科技（英语：Neurotechnology）
+神经毒素
+
+
+
+
+
+
+
+
+
+
+
+ 相关书籍（英语：Book:Neuroscience）
+ 神经科学的条目分类
+ 共享资源
+ 神经科学主题
+ 专题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+动物行为学
+
+
+
+
+
+
+分支
+
+
+
+动物认知
+动物交流
+动物意识（英语：Animal consciousness）
+动物文化（英语：Animal culture）
+Animal sexual behaviour
+Animal welfare science
+人与动物关系学
+Bee learning and communication
+行为生态学（英语：Behavioural ecology）
+行为遗传学
+认知动物行为学
+比较心理学
+Emotion in animals
+Evolutionary neuroscience
+Human ethology
+本能
+学习
+神经行为学
+Pain in animals
+社会生物学
+Tool use by animals
+Zoosemiotics
+Zoomusicology
+
+
+
+
+
+
+
+
+先驱动物行为学家
+
+
+
+Patrick Bateson
+查尔斯·达尔文
+理查德·道金斯
+Irenäus Eibl-Eibesfeldt
+戴安·弗西
+卡尔·冯·弗里希
+珍·古道尔
+Heini Hediger
+康拉德·洛伦兹
+Desmond Morris
+Thomas Sebeok
+William Homan Thorpe
+尼古拉斯·廷贝亨
+艾德华·威尔森
+Jakob von Uexküll
+
+
+
+
+
+
+
+
+相关话题
+
+
+
+ 生物学主题
+ 动物行为学(分类)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+心理学
+
+
+
+
+
+
+
+
+
+历史
+专利
+心理学家
+
+
+
+
+
+
+
+
+基础心理学（英语：Basic science (psychology)）
+（尾缀有心理学者不赘述）
+
+
+
+异常
+生物
+认知
+比较
+文化（英语：Cultural psychology）
+发展
+差别（英语：Differential psychology）
+演化
+实验
+数学
+神经
+人格
+正面
+生理
+社会
+理论
+哲学
+科学
+心理语言学
+心理物理学
+人本主义
+情感科学（英语：Affective science）
+情感神经科学（英语：Affective neuroscience）
+行为主义
+精神分析学
+认知神经科学
+
+
+
+
+
+
+
+
+应用心理学
+
+
+
+应用行为分析
+心理测验
+临床心理学
+社区心理学
+消费行为
+咨询
+教育
+法医
+健康
+工业与组织
+法律心理学
+传媒心理学（英语：Media psychology）
+军事心理学（英语：Military psychology）
+职业心理健康（英语：Occupational health psychology）
+牧师心理学
+政治心理学
+心理统计学
+校园心理学（英语：School psychology）
+运动心理学
+自杀学（英语：Suicidology）
+系统心理学（英语：Systems psychology）
+交通
+
+
+
+
+
+
+
+
+研究方法（英语：List of psychological research methods）
+
+
+
+动物测试
+档案研究（英语：Archival research）
+行为遗传学
+行为表观遗传学（英语：Behavioral epigenetics）
+案例研究（英语：Case study）
+内容分析法
+实验心理学
+人体试验
+面谈
+神经成像
+观察
+定性研究（英语：Qualitative psychological research）
+定量研究（英语：Quantitative psychological research）
+自陈量表（英语：Self-report inventory）
+统计调查
+智力
+
+
+
+
+
+
+
+
+取向
+
+
+
+阿德勒心理学（英语：Adlerian psychology）
+分析心理学
+行为主义
+认知行为疗法
+认知主义
+描述心理学（英语：Descriptive psychology）
+生态系统理论
+存在主义治疗（英语：Existential therapy）
+家庭疗法（英语：Family therapy）
+女权主义疗法（英语：Feminist therapy）
+格式塔学派
+人本主义
+晤谈治疗法（英语：Narrative therapy）
+心理学哲学（英语：Philosophy of psychology）
+精神动力取向心理治疗（英语：Psychodynamic psychotherapy）
+理性情绪行为治疗法（英语：Rational emotive behavior therapy）
+精神分析学
+超个人
+
+
+
+
+
+
+
+
+著名心理学家
+
+
+
+阿尔弗雷德·阿德勒
+高尔顿·威拉德·奥尔波特
+阿尔波特·班杜拉
+阿龙·贝克
+约翰·鲍比
+雷蒙德·卡特尔
+肯尼斯和玛米·克拉克（英语：Kenneth and Mamie Clark）
+阿尔伯特·艾利斯
+爱利克·埃里克森
+汉斯·艾森克
+利昂·费斯廷格
+西格蒙德·弗洛伊德
+哈里·哈洛
+唐纳德·赫布
+克拉克·L·赫尔
+威廉·詹姆士
+卡尔·荣格
+杰罗姆·凯根（英语：Jerome Kagan）
+库尔特·勒温
+依瓦·洛瓦斯（英语：Ivar Lovaas）
+亚伯拉罕·马斯洛
+大卫·麦克利兰
+乔治·A·米勒
+尼尔·米勒（英语：Neal E. Miller）
+沃尔特·米歇尔
+巴甫洛夫
+让·皮亚杰
+卡尔·罗哲斯
+斯坦利·沙克特（英语：Stanley Schachter）
+伯尔赫斯·弗雷德里克·斯金纳
+爱德华·桑代克
+约翰·布罗德斯·华生
+威廉·冯特
+赫尔曼·艾宾浩斯
+
+
+
+
+
+
+
+
+心理学列表
+
+
+
+辅导
+学科
+重要出版物（英语：List of important publications in psychology）
+组织（英语：List of psychology organizations）
+概要
+心理学家
+心理疗法
+研究方法（英语：List of psychological research methods）
+心理学学派
+年表（英语：Timeline of psychology）
+条目索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+
+
+
+
+参见Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+社会生物学
+
+
+
+
+
+
+主题
+
+
+
+行为遗传学
+Challenge hypothesis
+Dual inheritance theory
+动物行为学
+演化心理学
+Evolution of morality
+族群选择
+Kin recognition
+亲属选择
+Male Warrior hypothesis
+Reciprocal altruism
+Sexual selection in human evolution
+Sex and psychology
+Sociality (真社会性, Evolution of eusociality, Presociality)
+邓巴数
+
+
+
+
+
+
+
+
+论述
+
+
+
+Not in Our Genes
+艾德华·威尔森
+
+Sociobiology: The New Synthesis
+
+
+
+
+
+
+
+
+
+
+
+Evolutionary biology portal
+
+
+
+
+
+
+
+
+
+
+分类：行为科学遗传学神经科学

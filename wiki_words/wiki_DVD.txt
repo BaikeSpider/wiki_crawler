@@ -1,0 +1,950 @@
+数字多功能影音光盘
+
+
+
+
+
+本条目需要补充更多来源。（2008年7月26日） 
+请协助添加多方面可靠来源以改善这篇条目，无法查证的内容可能会因为异议提出而移除。 
+
+
+
+
+
+
+
+
+DVD
+
+
+DVD标识
+
+
+媒体种类：
+光盘
+
+
+编码：
+MPEG2格式
+
+
+容量：
+4.7 GB (单面层)
+8.5-8.7 GB (单面双层)
+9.4 GB (双面单层)
+17.08 GB (双面双层)
+
+
+读取机制：
+650 nm laser, 10.5 Mbit/s (1×)
+
+
+写入机制：
+10.5 Mbit/s (1×)
+
+
+标准：
+DVD论坛定义的DVD Books 和 DVD+RW 共用标准
+
+
+开发：
+Sony Panasonic Samsung Toshiba Philips
+
+
+用途：
+视频
+PS2 Xbox Xbox 360等游戏机
+
+
+
+
+
+
+
+光盘制作
+
+
+
+
+
+
+
+概念
+
+
+光盘
+光盘驱动器
+光盘制作
+制作软件
+刻录技术
+
+刻录模式
+数据包写入
+
+
+
+
+
+
+
+
+
+
+光介质类型
+
+
+蓝光光盘（BD）：BD-R，BD-RE
+DVD：DVD-R, DVD+R, DVD-R DL, DVD+R DL, DVD-RW, DVD+RW, DVD-RW DL, DVD+RW DL, DVD-RW2, DVD-RAM, DVD-D, HVD
+CD：CDDA，CD-ROM，CD-R，CD-RW，5.1 Music Disc，SACD，PhotoCD，CD Video (CDV), Video CD (VCD), SVCD, CD+G, CD-Text, CD-ROM XA, CD-i
+通用媒体光盘（UMD）
+增强型通用光盘（EVD）
+前卫通用光盘（FVD）
+全息通用光盘（HVD）
+HD DVD：HD DVD-R，HD DVD-RW，HD DVD-RAM
+高密度通用光盘（HDVD）
+高密度通用多层光盘（HD VMD）
+VCDHD
+GD-ROM
+MiniDisc (MD) (Hi-MD)
+激光影碟 (LD)
+Video Single Disc (VSD)
+超密度光盘 (UDO)
+叠层容积光盘 (SVOD)
+5D DVD
+任天堂光盘 (NOD)
+
+
+
+
+
+
+
+
+标准
+
+
+SFF ATAPI/MMC
+
+Mount Rainier (packet writing)
+Mount Fuji (layer jump recording)
+
+
+彩虹书
+文件系统
+
+ISO 9660
+
+Joliet (文件系统)
+Romeo
+Rock Ridge / SUSP
+El Torito
+Apple ISO 9660扩展
+
+
+通用光盘格式（UDF）
+ISO 13490
+
+
+
+
+
+
+
+
+
+
+延伸阅读
+
+
+光存储介质历史
+高密度光盘格式之战
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+数字多功能影音光盘（英语：Digital Versatile Disc；缩写：DVD），是一种光盘存储媒体，通常用来播放标清（标准解晰度）的电影，高音质的音乐与大容量存储数据用途。DVD与CD或Blu-ray Disc（蓝光光盘）的外观极为相似，直径有80mm、120mm规格等。
+
+
+
+目录
+
+
+1 历史
+2 用途
+3 DVD驱动器
+4 DVD容量规格
+
+4.1 DVD-5
+4.2 DVD-9
+4.3 DVD-10
+4.4 DVD-14
+4.5 DVD-18
+
+
+5 光盘种类与规格
+6 DVD-Video格式
+7 DVD-Audio
+8 DVD +/-
+9 相关条目
+10 注释
+
+
+
+历史[编辑]
+在1990年代早期，有两种高容量光盘标准正在研究阶段；一个是多媒体光盘（MMCD），支持者是飞利浦和索尼。另一个是超高密度光盘（Super High Density Disc），支持者分别是东芝、时代华纳、松下电器、日立、三菱电机、先锋、汤姆逊和JVC。IBM则出面希望合并两个标准，以免1980年代VHS和BETAMAX的标准之战又再出现。后来由于电脑界业者（包括微软、英特尔等厂商）坚持他们仅支持一种统一的规格，两大阵营于是将标准合并成为DVD，并于1995年推出。
+DVD原是Digital Video Disc（数字视频光盘）的首字母缩略字，因初推出时大多厂商只针对视频方面的宣传及推出产品，而且当时的电脑产业对高容量的存储媒体没有太大需求。后因定位更改，于1995年规格正式确立时，重新定义为Digital Versatile Disc（数字多用途光盘），但旧称的Digital Video Disc也有人继续沿用。现在一般都只以“DVD”作为其称呼。
+用途[编辑]
+
+
+
+
+从右至左依序为mini cd，CD，DVD4.7G，DVD8.5G，VCD，录像带，LD，录音带
+
+
+和CD不同，DVD于一开始已设计为多用途光盘。原始的DVD规格共有五种子规格：
+
+DVD-ROM：用作存储电脑数据
+DVD-Video：用作存储视频
+DVD-Audio：用作存储音乐
+DVD-R：只可写入一次刻录碟片
+DVD-RAM：可重复写入刻录碟片
+
+
+
+
+
+左：DVD-ROM的读取面
+右：DVD-R的读取面
+
+
+这些标准存储的内容虽然不同，目录和文件排列架构也不同，但除了DVD-RAM外，它们的基层结构是一样的。即是说，DVD-Video或DVD-Audio都只是DVD-ROM的应用特例，将DVD-Video或DVD-Audio放入电脑的DVD驱动器中都可看到里面的数据以文件的方式存储著（但未必能播放）。
+由于DVD-RAM的一些缺点及兼容性不佳，另一批厂家成立DVD+RW联盟（DVD+RW Alliance（英语：DVD+RW Alliance）），推出了兼容性较佳的可多次写入光盘DVD+RW和相关的单次写入光盘DVD+R标准。制定DVD标准的DVD论坛为了与DVD+RW联盟竞争，又推出可多次写入的DVD-RW，使用与CD-RW类似的技术，兼容普通DVD机。目前可写入DVD的标准仍然未统一，普遍的DVD刻录机都兼容双制式（DVD±RW/DVD±R）。亦有支持DVD-RW/DVD+RW/DVD-RAM三种规格的刻录机，称为“Super Multi”刻录机。
+
+
+
+
+一大一小的DVD-RAM
+
+
+DVD驱动器[编辑]
+主条目：光盘驱动器
+DVD容量规格[编辑]
+计算DVD的容量时，1GB 代表 1,000,000,000 bytes (10003 bytes)，而不是惯用的 1GiB (1,073,741,824 bytes, 10243 bytes)，详见文件大小转换。
+DVD-5[编辑]
+DVD-5是DVD论坛定义的规格，为标称容量4.7GB的单面单层DVD片，而刻录实务上，以简便方便为记，多半以4480MB省略。
+DVD-9[编辑]
+DVD-9的标称容量为8.5GB的单面双层DVD片，实际7.92GiB。
+DVD-10[编辑]
+DVD-10的标称容量为9.4GB的双面单层DVD片，实际8.75GiB。
+DVD-14[编辑]
+DVD-14的标称容量为13.2GB的单面单层+单面双层DVD片。 相较于其他四种容量的片子，较不广为人知及运用。
+DVD-18[编辑]
+DVD-18的标称容量为17GB的双面双层DVD片，实际15.8GiB。
+
+
+
+
+DVD 的读取记录器
+
+
+
+
+
+
+DVD 的记录层微观
+
+
+
+
+
+
+DVD 的记录层剖面
+
+
+光盘种类与规格[编辑]
+
+
+光盘种类与规格[1] [查 · 论 · 编]
+
+
+种类
+规格
+面
+层
+直径（cm）
+容量（GB）
+容量（GiB）
+段[2]
+容量（B）
+
+
+BD
+SS SL
+1
+1
+8
+7.8
+
+
+
+BD
+SS DL
+1
+2
+8
+15.6
+
+
+
+BD
+SS SL
+1
+1
+12
+25
+
+
+
+BD
+SS DL
+1
+2
+12
+50
+
+
+
+CD-ROM 74 min
+SS SL
+1
+1
+12
+0.682
+0.635
+333000
+681984000
+
+
+CD-ROM 80 min
+SS SL
+1
+1
+12
+0.737
+0.687
+360000
+737280000
+
+
+CD-ROM
+SS SL
+1
+1
+8
+0.194
+0.180
+
+
+DDCD-ROM
+SS SL
+1
+1
+12
+1.364
+1.270
+
+
+DDCD-ROM
+SS SL
+1
+1
+8
+0.387
+0.360
+
+
+DVD-1
+SS SL
+1
+1
+8
+1.46
+1.36
+
+
+DVD-2
+SS DL
+1
+2
+8
+2.66
+2.47
+
+
+DVD-3
+DS SL
+2
+2
+8
+2.92
+2.72
+
+
+DVD-4
+DS DL
+2
+4
+8
+5.32
+4.95
+
+
+DVD-5
+SS SL
+1
+1
+12
+4.70
+4.37
+
+
+DVD-9
+SS DL
+1
+2
+12
+8.54
+7.95
+
+
+DVD-10
+DS SL
+2
+2
+12
+9.40
+8.74
+
+
+DVD-14
+DS DL/SL
+2
+3
+12
+13.24
+12.32
+
+
+DVD-18
+DS DL
+2
+4
+12
+17.08
+15.90
+
+
+DVD+R, +RW
+SS SL
+1
+1
+12
+4.70
+4.37
+2295104
+4700372992
+
+
+DVD-R 1.0
+SS SL
+1
+1
+12
+3.95
+3.68
+
+
+DVD-R （2.0）, -RW
+SS SL
+1
+1
+12
+4.70
+4.37
+2298496
+4707319808
+
+
+DVD+R, +RW
+SS DL
+1
+1
+12
+8.5
+
+4173824
+8547991552
+
+
+DVD-R, -RW
+SS DL
+1
+1
+12
+8.5
+
+4171712
+8543666176
+
+
+DVD-R, +R, -RW, +RW
+DS SL
+2
+2
+12
+9.40
+8.75
+
+
+DVD-RAM
+SS SL
+1
+1
+8
+1.46
+1.36
+
+
+DVD-RAM
+DS SL
+2
+2
+8
+2.65
+2.47
+
+
+DVD-RAM 1.0
+SS SL
+1
+1
+12
+2.58
+2.40
+
+
+DVD-RAM 2.0
+SS SL
+1
+1
+12
+4.70
+4.37
+
+
+DVD-RAM 1.0
+DS SL
+2
+2
+12
+5.16
+4.80
+
+
+DVD-RAM 2.0
+DS SL
+2
+2
+12
+9.40
+8.75
+
+
+HD DVD
+SS SL
+1
+1
+8
+4.70
+
+
+
+HD DVD
+SS DL
+1
+2
+8
+9.40
+
+
+
+HD DVD
+DS SL
+2
+2
+8
+9.40
+
+
+
+HD DVD
+DS DL
+2
+4
+8
+18.80
+
+
+
+HD DVD
+SS SL
+1
+1
+12
+15.00
+
+
+
+HD DVD
+SS DL
+1
+2
+12
+30.00
+
+
+
+HD DVD
+DS SL
+2
+2
+12
+30.00
+
+
+
+HD DVD
+DS DL
+2
+4
+12
+60.00
+
+
+
+HD DVD-RAM
+SS SL
+1
+1
+12
+20.00
+
+
+
+
+
+读取速度与已量产最高倍速
+
+
+世代
+1倍速（Mbit/s）
+最高读取速度（Mbit/s）
+最高倍速
+
+
+1st（CD）
+1.17
+65.62
+56×
+
+
+2nd（DVD）
+10.55
+210.94
+24×
+
+
+3rd（BD）
+36
+432
+12× [3]
+
+
+
+DVD-Video格式[编辑]
+正常情况下，DVD影碟有以下2个目录：
+
+AUDIO_TS
+预留给DVD-AUDIO的目录
+
+
+VIDEO_TS
+存储所有DVD-VIDEO（包括音频，视频，字幕等）所有数据的目录
+
+注意：DVD-AUDIO是指只有AUDIO数据的DVD光盘，我们通常说的DVD影碟是指DVD-VIDEO碟。
+一个标准的VIDEO-TS目录中包含有3种类型的文件 VOB、IFO、BUP
+
+VOB文件
+视频目标文件(Video OBjects)
+
+
+VOB文件有视频、声音、字幕流组成。视频流是MPEG2格式，音频流是 Dolby Digital AC3或者LPCM、MPEG2、MP2、DTS等，AC3基本上是事实的标准，MPEG2多声道只在极少数2区碟上可以看到（比如In the line of fire，2区）。MP2只在非出版级DVD上有等。PCM是高质量无压缩数字音频，需要的空间太多，并不适合用于DVD电影光盘。AC3的比特率介于192－448kbps之间，192kbps用于2声道，384－448kbps用于5.1声道。 字幕流由字幕图片文件（.sub文件）和字幕索引文件（.idx文件）组成，为视频提供字幕功能。一个.sub文档可同时包含多个语言的字幕，此外，在DVD中，字幕是以图片方式呈现在用户面前的，即俗称的“硬字幕”。通常情况下，DVD中不会看到这两个文件，需要通过播放软件从VOB文件中进行分离。
+
+
+一个VOB文件可以包含一个主要的视频流和几个多语言声道和字幕。最大视频比特率是9.8Mbps，视频和音频比特率的上限是10Mbps。一张DVD最多可以有9种语言声道和32种字幕。
+
+
+IFO文件
+InFOrmation
+
+
+IFO文件告诉DVD机播放信息：比如章节的开始时间，声道流在哪里，字幕在哪里。也就是说，VOB文件是视频本身，而对应的IFO文件把组成视频的各个片段有连接起来。这样DVD机才“懂”得如何播放。
+
+
+BUP文件；备份文件(BackUP)
+
+
+和IFO文件完全相同，如果IFO文件出错的时候，DVD播放机也可以通过BUP来得到相应信息。从这里你也可以看到IFO文件的重要性，所以还有相应的BUP备份文件。
+
+一个实际的例子：
+⒈VIDEO_TS.IFO/VIDEO_TS.BUP是第一个被播放的文件。就像程序安装光盘一样，第一个要找的就是AUTORUN文件，然后就可以自动运行。DVD机会先找到VIDEO_TS文件，然后再运行对应的操作。通常VIDEO_TS是版权消息、FBI警告和杜比数字的介绍片段，有时包含菜单。（在我们的例子中，VIDEO_TS.IFO/VIDEO_TS.BUP就包含标题菜单，菜单的图像文件是"VIDEO_TS.VOB"。）
+⒉VTS_01_0.IFO 前两个数字是标题数字。例如：VTS_01_*是标题1，VTS_02_*是标题二。最多可以有99个标题，每个标题最多可以有10个VOB文件。由于通常都有一个含有菜单数据的VTS_XX_0.VOB，因此每一个标题至少会有2个VOB文件。
+DVD-Audio[编辑]
+DVD-Audio是DVD上的高传真音效格式，他允许多种声道的选项（从单声道到7.1声道）和各种不同的采样率（相对于CDDA的16-bits/44.1 kHz，最高可到24-bits/192 kHz）。相较于CD格式，DVD可容纳更长时间的音乐或更高质量的内容（在采样率和分辨率的提升，以及其容许多声道的内容） 。
+DVD +/-[编辑]
+
+DVD-R/RW
+
+由DVD论坛（DVD Forum）制定。
+
+DVD+R/RW
+
+由DVD+RW联盟（DVD+RW Alliance（英语：DVD+RW Alliance））制定，其宣称DVD+R/RW支持较多功能。[4]
+相关条目[编辑]
+
+
+
+
+光学存储介质比较
+
+
+
+DVD区域码
+DVD播放机
+蓝光光盘
+
+DVD驱动器
+
+
+DualDisc
+DeCSS
+影碟出租店
+
+注释[编辑]
+
+
+^ MPEG: DVD, Book A - Physical parameters
+^ 每段有2048B
+^ LG 6x Blu-ray Burner Available in Korea. CDRinfo.com. 
+^ Comparison with DVD-R/-RW Video Recorders. DVDplusRW.org - The ultimate unofficial DVD+RW & DVD+R resource site. [2014-06-04]. [失效链接]
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ 视频储存格式
+
+
+
+
+
+
+磁带
+
+
+
+
+
+模拟
+
+
+
+
+Quadruplex (1956) · VERA (1958) · Type A (1965) · CV-2000 (1965) · Akai (1967) · U-matic (1969) · EIAJ-1 (1969) · Cartrivision (1972) · Philips VCR (1972) · V-Cord (1974) · VX (1974) · Betamax (1975) · IVC (1975) · Type B (1976) · Type C (1976) · VHS (1976) · VK (1977) · SVR (1979) · Video 2000 (1980) · CVC (1980) · VHS-C (1982) · M (1982) · Betacam (1982) · Video8 (1985) · MII (1986) · S-VHS (1987) · S-VHS-C (1987) · Hi8 (1989) · W-VHS (1994)
+
+
+
+
+
+
+
+
+
+数字
+
+
+
+
+D1 (1986) · D2 (1988) · D3 (1991) · DCT (1992) · D5 (1994) · Digital Betacam (1993) · DV (1995) · Digital-S (D9) (1995) · DVCPRO (1995) · Betacam SX (1996) · DVCAM (1996) · HDCAM (1997) · DVCPRO50 (1998) · D-VHS (1998) · Digital8 (1999) · DVCPRO HD (2000) · D6 HDTV VTR (2000) · MicroMV (2001) · HDV (2003) · HDCAM SR (2003)
+
+
+
+
+
+
+
+
+
+
+
+光盘
+
+
+
+
+
+模拟
+
+
+
+
+Phonovision (1927) · TeD (1975) · Laserdisc (1978) · CED (1981) · VHD (1983) · Laserfilm (1984) · CD Video (1987)
+
+
+
+
+
+
+
+
+
+数字
+
+
+
+
+VCD (1993) · MovieCD (c.1995) · DVD/DVD-Video (1995) · MiniDVD (c.1995) · CVD (1998) · SVCD (1998) · EVD (2003) · XDCAM (2003) · HVD (2004) · FVD (2005) · UMD (2005) · VMD (2006) · HD DVD (2006) · Blu-ray Disc (2006) · HVD (2007) · CBHD (2008) · Archival Disc (2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+固态电子器件
+
+
+
+
+DVCPRO P2 (2004) · AVC-Intra (2006) · XDCAM EX (2007)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+数字无影带式
+
+
+
+
+MOD (2005) · AVCHD (2006) · TOD (2007)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+非视频式电视录影
+
+
+
+Kinescope (1947)
+Electronicam kinescope (1950s)
+Electronic Video Recording (1967)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4501545-4
+NDL: 01033369
+
+
+
+
+
+
+
+
+
+
+
+
+分类：DVD隐藏分类：带有失效链接的条目条目有永久失效的外部链接自2008年7月需补充来源的条目拒绝当选首页新条目推荐栏目的条目包含规范控制信息的维基百科条目

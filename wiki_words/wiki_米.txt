@@ -1,0 +1,766 @@
+米 (单位)
+
+
+
+
+
+
+
+
+
+
+米
+
+
+
+单位制
+国际单位制基本单位
+
+
+物理量名称
+长度
+
+
+符号
+m
+
+
+
+单位换算
+
+
+
+1 m
+相当于
+
+
+   美国常用单位
+   ≈ 3.2808 ft
+
+
+    
+   ≈ 39.370 in
+
+
+
+
+“米”的各地常用别名
+
+
+中国大陆
+米、公尺
+
+
+台湾
+公尺
+
+
+港澳
+米
+
+
+日本
+米
+
+
+米（法语：mètre → 英式英文：metre，美式英文：meter），中国大陆和香港音译为“米”（亦称“公尺”），台湾作“公尺”（口语偶称“米”），旧译“迈当”、“米达”。它是国际单位制基本长度单位，符号为m。[1]1米的长度最初定义为通过巴黎的经线上从地球赤道到北极点的距离的千万分之一。其后随着人们对度量衡学的认识加深，米的长度的定义几经修改。从1983年至今，米的长度已经被定义为“光在真空中于1/299792458秒内行进的距离”。[2]
+
+
+
+目录
+
+
+1 历史
+
+1.1 提出及命名
+1.2 子午线的定义
+1.3 米原器
+1.4 科学定义的演变
+
+
+2 米的各级单位
+3 和其他单位的转换
+4 参考来源
+
+4.1 参考书目
+
+
+5 参看
+
+
+
+历史[编辑]
+参见：单位米的历史（英语：History of the metre）
+提出及命名[编辑]
+1668年，英国哲学家和教士约翰·威尔金斯在一篇文章中提到，需要一个十进制的标准的长度单位系统[3]。1675年，意大利科学家提托·李维欧·布拉提尼（英语：Tito Livio Burattini）在他的著作Misura Universale使用了 metro cattolico这个词 （意思是 "天主的 [比如说通用] 米"），这个词是从希腊语 μέτρον καθολικόν（métron katholikón）衍生而来的，意思是"一种通用测量单位"。[4]1789年法国大革命胜利后，国民公会命令法国科学院组织一个委员会来标准的度量衡制度。委员会提议了一套新的十进制的度量衡制度，并建议以通过巴黎的子午线上从地球赤道到北极点的距离的千万分之一作为标准单位[5]。他们将这个单位称之为mètre，意即“测量”[6][7][8]。法国国民公会在1793年采纳了这套系统。metre出现在英语里可以追溯到1797年[9]。
+
+
+
+
+法国敦刻尔克钟楼，为米标准所测子午线弧的北端
+
+
+
+
+
+
+巴塞罗那的蒙特惠奇堡，为米标准所测子午线弧的南端
+
+
+子午线的定义[编辑]
+在1668年，威尔金斯建议用钟摆的方法来确定标准长度[3]。另外一种方法建议使用子午线上从地球赤道到北极点的距离的千万分之一来作为标准长度。最后法国科学院在1791年选定了子午线的定义。该院认为要确保基本单位恒定不变，应以自然的物理量为基础。而地球表面的各处的重力有轻微的不同，会影响钟摆的测量。 法国科学院指派了让·巴蒂斯特·约瑟夫·德朗布尔和皮埃尔·梅尚领导了一支勘测队，测定了从敦刻尔克钟楼到巴塞罗那的蒙特惠奇堡的距离，以确定这段子午线的弧长。这段弧长是巴黎子午线的一部分。这次勘测从1792年持续到1799年。
+尽管地球不规则的表面并不是完美的球形，但法国还是在1793年采纳了这次测量的结果来确定标准米的长度。日后人们发现，由于误算了地球的扁率而错算了弧长，第一个存档米原器的长度比子午线定义的米少1/5毫米。但这个长度还是被当作了标准。也因此，最后地球通过极点的周长要比4千万米多一点（40,007,863m）。[10]
+米原器[编辑]
+主条目：国际米原器
+
+
+
+
+1874年制作米原器。
+
+
+
+
+
+
+1889年国际计量局改良第一代米原器的设计，所制作了的Ｘ形铂铱合金棒，在1889年-1960年间都是米的标准。
+
+
+当子午线的测量还在进行时，委员会就根据临时结果定制了一系列的铂金棒。当最后结果出来后，委员会选取了最接近测量计算结果的铂金棒作为米原器（Mètre des Archives），并于1799年6月22日存放在国家档案馆内。[11]
+1880年代，处于对精确度的要求，召开了一系列的国际大会来设计新的米标准。1875年的米制公约要求在法国塞夫尔建立一个永久的国际计量局。这个新组织将保存新的米原器和国际千克原器，并向各国分发米原器复制品，以及管理米制单位和非米制单位间的转换。该组织在1889年在首届国际计量大会召开时用铂铱合金（90%的铂和10%的铱）制造了一个新的米原器，并规定在冰的熔点温度时所测量到的国际米原器上两道刻度之间的距离为“1米”。[12]
+科学定义的演变[编辑]
+1960年国际计量大会改用氪（86Kr）原子的2p10与5d5能级间跃迁辐射在真空中的波长的165,0763.73倍定为标准米。[13]
+最新的米的定义，1983年国际计量大会重新制定。因为氪（86Kr）不易取得，所以此次定义时使用了自然中随处可见的光，并且在1970年代光速的测定已非常精确，所以最终定义为“光在真空中行进
+
+
+
+
+
+1
+
+299
+,
+792
+,
+458
+
+
+
+
+
+{\displaystyle {\frac {1}{299,792,458}}}
+
+ 秒的距离”为“一标准米”[2]。故此，一旦光速得到更精准的量度，改变的数值会是米而非光速。
+米的各级单位[编辑]
+
+
+
+
+米（m）的SI倍数
+
+分数
+
+倍数
+
+
+值
+符号
+名称
+值
+符号
+名称
+
+
+10−1 m
+dm
+分米
+101 m
+dam
+十米
+
+
+10−2 m
+cm
+厘米
+102 m
+hm
+百米
+
+
+10−3 m
+mm
+毫米
+103 m
+km
+千米
+
+
+10−6 m
+µm
+微米
+106 m
+Mm
+兆米
+
+
+10−9 m
+nm
+纳米
+109 m
+Gm
+吉米
+
+
+10−12 m
+pm
+皮米
+1012 m
+Tm
+太米
+
+
+10−15 m
+fm
+飞米
+1015 m
+Pm
+拍米
+
+
+10−18 m
+am
+阿米
+1018 m
+Em
+艾米
+
+
+10−21 m
+zm
+仄米
+1021 m
+Zm
+泽米
+
+
+10−24 m
+ym
+幺米
+1024 m
+Ym
+尧米
+
+
+常用单位以粗体标示
+
+
+
+
+
+和其他单位的转换[编辑]
+
+
+米单位
+
+（= 非SI单位）
+非SI单位
+
+（= 米单位）
+
+
+1 米
+≈
+1.0936
+码
+
+1 码
+≡
+0.9144
+米
+
+
+1 米
+≈
+39.370
+英寸
+
+1 英寸
+≡
+0.0254
+米
+
+
+1 厘米
+≈
+0.39370
+英寸
+
+1 英寸
+≡
+2.54
+厘米
+
+
+1 毫米
+≈
+0.039370
+英寸
+
+1 英寸
+≡
+25.4
+毫米
+
+
+1 米
+≡
+1×1010
+埃
+
+1 埃
+≡
+1×10−10
+米
+
+
+1 纳米
+≡
+10
+埃
+
+1 埃
+≡
+100
+皮米
+
+
+参考来源[编辑]
+
+脚注
+
+
+
+^ Base unit definitions: Meter. National Institute of Standards and Technology. [2010-09-28]. 
+^ 2.0 2.1 17th General Conference on Weights and Measures (1983), Resolution 1.. [2012-09-19]. 
+^ 3.0 3.1 Wilkins c. 2007
+^ George Sarton. The First Explanation of Decimal Fractions and Measures (1585). Together with a History of the Decimal Idea and a Facsimile (No. XVII) of Stevin's Disme. Isis. 1935, 23 (1): 153–244. 
+^ ('decimalization is not of the essence of the metric system; the real significance of this is that it was the first great attempt to define terrestrial units of measure in terms of an unvarying astronomical or geodetic constant.) The metre was in fact defined as one ten millionth of one quarter of the earth's circumference at sea-level.' Joseph Needham, Science and Civilisation in China, Cambridge University Press, 1962 vol.4, pt.1, p.42.
+^ Paolo Agnoli,Il senso della misura: la codifica della realtà tra filosofia, scienza ed esistenza umana, Armando Editore, 2004 pp.93-94,101.
+^ Rapport sur le choix d'une unité de mesure, lu à l'Académie des sciences, le 19 mars 1791
+^ Paolo Agnoli and Giulio D’Agostini,'Why does the meter beat the second?,' December, 2004 pp.1-29.
+^ Oxford English Dictionary, Clarendon Press 2nd ed.1989, vol.IX p.697 col.3.
+^ Humerfelt 2010
+^ "Métrique", Grand dictionnaire universel du XIXe siècle, 11, Paris: Pierre Larousse, 1874, pp. 163–64.
+^ National Institute of Standards and Technology 2003; Historical context of the SI: Unit of length (meter)
+^ Marion, Jerry B. Physics For Science and Engineering. CBS College Publishing. 1982: 3. ISBN 4-8337-0098-0. 
+
+
+参考书目[编辑]
+
+Humerfelt, Sigurd. (26 October 2010). How WGS 84 defines Earth. Retrieved 29 April 2011.
+National Institute of Standards and Technology. (December 2003). The NIST Reference on Constants, Units, and Uncertainty: International System of Units (SI) (web site):
+
+SI base units. Retrieved 18 August 2008.
+Definitions of the SI base units. Retrieved 18 August 2008.
+Historical context of the SI: Metre. Retrieved 26 May 2010.
+
+
+Wilkins, J. (c. 2007). An essay towards a real character, and a philosophical language.[Also available without images of original.] Metrication Matters. (Reprinted from title page and pp. 190–194 of original, 1668, London: Royal Society)
+
+参看[编辑]
+
+国际单位制
+数量级
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+国际单位
+
+
+
+
+
+
+基本单位
+
+
+
+秒
+米
+千克
+开尔文
+安培
+坎德拉
+摩尔
+
+
+
+
+
+
+
+
+
+
+
+导出单位
+
+
+
+赫茲
+弧度
+球面度
+牛顿
+帕斯卡
+焦耳
+瓦特
+库仑
+伏特
+欧姆
+法拉
+西门子
+韦伯
+特斯拉
+亨利
+摄氏度
+流明
+勒克斯
+贝克勒尔
+戈瑞
+希沃特
+开特
+
+
+
+
+
+
+
+
+可并用单位
+
+
+
+天文单位
+吨
+原子质量单位
+升
+分
+小时
+天
+度
+角分
+角秒
+电子伏
+分贝
+公顷
+奈培
+原子单位
+自然单位
+
+
+
+
+
+
+
+
+参阅
+
+
+
+计量单位
+单位换算
+国际单位制词头
+
+
+
+
+
+
+
+
+
+
+
+ 分类:国际单位制基本单位
+分类:国际单位制导出单位
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+长度单位
+
+
+
+
+
+
+公制
+
+米（m） · 尧米（Ym） · 泽米（Zm） · 艾米（Em） · 拍米（Pm） · 太米（Tm） · 吉米（Gm） · 兆米（Mm） · 千米（km） · 百米（hm） · 十米（dam） · 分米（dm） · 厘米（cm） · 毫米（mm） · 丝米（dmm） · 忽米（cmm） · 微米（μm） · 纳米（nm） · 皮米（微微米）（pm） · 飞米（费米）（fm） · 阿米（am） · 仄米（zm） · 幺米（ym）
+
+
+
+
+
+
+市制
+
+里 · 引 · 丈 · 尺 · 寸 · 分 · 厘 · 毫
+
+
+
+
+
+
+英制
+
+英里（哩、咪）（mi） · 浪（furlong） · 链（chain） · 杆（rod） · 英寻（㖊）（fathom） · 码（yd） · 英尺（呎）（ft） · 英寸（吋）（in）
+
+
+
+
+
+
+东亚传统
+
+堂 · 里 · 引 · 丈、仞 · 尺、咫 · 寸 · 分 · 厘（换算另见度量衡）
+
+
+
+
+
+
+天文学
+
+秒差距（pc） · 光年（ly） · 天文单位（AU） · 月球距离（LD）
+
+
+
+
+
+
+台制
+
+尺 · 寸 · 分 · 厘
+
+
+
+
+
+
+专属单位
+
+海里（浬）（NM, nm, nmi, n mile） · 埃（Å） · 点（pt） · 派卡（pc） · 条
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+经典力学国际单位
+
+
+
+
+
+
+
+
+
+
+线性（平动）的量
+
+角度（转动）的量
+
+
+量纲
+—
+L
+L2
+量纲
+—
+—
+—
+
+
+T
+时间: t
+s
+absement（英语：absement）: A
+m s（英语：meter second）
+
+T
+时间: t
+s
+
+
+
+
+—
+
+距离: d, 位矢: r, s, x, 位移
+m
+面积: A
+m2
+—
+
+角度: θ, 角移: θ
+rad
+立体角: Ω
+rad2, sr
+
+
+T−1
+频率: f
+s−1（英语：inverse second）, Hz
+速率: v, 速度: v
+m s−1
+面积速率: ν,
+比角动量（英语：specific angular momentum）: h
+m2 s−1
+T−1
+频率: f
+s−1（英语：inverse second）, Hz
+角速率: ω, 角速度: ω
+rad s−1
+
+
+
+T−2
+
+加速度: a
+m s−2
+
+T−2
+
+角加速度: α
+rad s−2
+
+
+
+T−3
+
+加加速度: j
+m s−3
+
+T−3
+
+角加加速度: ζ
+rad s−3
+
+
+
+
+
+
+
+M
+质量: m
+kg
+
+
+ML2
+转动惯量: I
+kg m2
+
+
+
+
+MT−1
+
+动量: p, 冲量: J
+kg m s−1, N s（英语：newton second）
+作用量: 𝒮, actergy（英语：actergy）: ℵ
+kg m2 s−1, J s（英语：joule-second）
+ML2T−1
+
+角动量: L, 角冲量: ΔL
+kg m2 s−1
+作用量: 𝒮, actergy（英语：actergy）: ℵ
+kg m2 s−1, J s（英语：joule-second）
+
+
+MT−2
+
+力: F, 重量: Fg
+kg m s−2, N
+能量: E, 功: W
+kg m2 s−2, J
+ML2T−2
+
+力矩: τ, moment（英语：Moment (physics)）: M
+kg m2 s−2, N m
+能量: E, 功: W
+kg m2 s−2, J
+
+
+MT−3
+
+yank（英语：List_of_equations_in_classical_mechanics#Dynamics）: Y
+kg m s−3, N s−1
+功率: P
+kg m2 s−3, W
+ML2T−3
+
+rotatum（英语：rotatum）: P
+kg m2 s−3, N m s−1
+功率: P
+kg m2 s−3, W
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：国际单位制基本单位长度单位隐藏分类：含有日语的条目含有法语的条目含有非中文内容的条目含有英语的条目含有意大利语的条目

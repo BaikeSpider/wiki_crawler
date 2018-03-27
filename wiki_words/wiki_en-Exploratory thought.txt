@@ -1,0 +1,326 @@
+Exploratory thought
+
+
+Part of a series on
+
+
+Psychology
+
+
+
+
+
+
+
+Outline
+History
+Subfields
+
+
+
+
+
+
+Basic types
+
+
+Abnormal
+Behavioral genetics
+Biological
+Cognitive/Cognitivism
+Comparative
+Cross-cultural
+Cultural
+Differential
+Developmental
+Evolutionary
+Experimental
+Mathematical
+Neuropsychology
+Personality
+Positive
+Quantitative
+Social
+
+
+
+
+
+
+
+
+Applied psychology
+
+
+Applied behavior analysis
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Environmental
+Ergonomics
+Forensic
+Health
+Humanistic
+Industrial and organizational
+Legal
+Medical
+Military
+Music
+Occupational health
+Political
+Religion
+School
+Sport
+Traffic
+
+
+
+
+
+
+
+
+Lists
+
+
+Disciplines
+Organizations
+Psychologists
+Psychotherapies
+Publications
+Research methods
+Theories
+Timeline
+Topics
+
+
+
+
+
+
+
+
+ Psychology portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Exploratory thought is an academic term used in the field of psychology to describe reasoning that neutrally considers multiple points of view and tries to anticipate all possible objections to, or flaws in, a particular position, with the goal of seeking truth. The opposite of exploratory thought is confirmatory thought, which is reasoning designed to construct justification supporting a specific point of view.
+Both terms were coined by social psychologist Jennifer Lerner and psychology professor Philip Tetlock in the 2002 book Emerging Perspectives in Judgment and Decision Making.[1] The authors argue that most people, most of the time, make decisions based on gut feelings and poor logic, and reason through issues primarily to provide justification, to themselves and to others, of what they already believe.
+Lerner and Tetlock say that when people expect to need to justify their position to external parties, and they already know those parties' views, they will tend to adopt a similar position to theirs, and then engage in confirmatory thought with the goal of bolstering their own credibility rather than reaching a good conclusion. However, if the external parties are overly aggressive or critical, people will disengage from thought altogether, and simply assert their personal opinions without justification.[2] Lerner and Tetlock say that people only push themselves to think critically and logically when they know in advance they will need to explain themselves to external parties who are well-informed, genuinely interested in the truth, and whose views they don't already know.[3] Because those conditions rarely exist, they argue, most people are engaging in confirmatory thought most of the time.[4]
+
+
+
+Contents
+
+
+1 In statistics
+2 See also
+3 References
+4 Further reading
+
+
+
+In statistics[edit]
+Princeton statistician John Tukey wrote about selection between confirmation or rejection of existing hypotheses and exploration of new ones, focusing on how practicing statisticians might decide between the two modes of thought at various junctures.[5] Subsequent statisticians, philosophers of science, and organizational psychologists have expanded on the topic.[6][7]
+See also[edit]
+
+Empirical research
+Exploratory research
+Impartiality
+Neutrality (philosophy)
+
+References[edit]
+
+
+^ Schneider, ed. by Sandra L.; Shanteau, James (2003). Emerging perspectives on judgment and decision research. Cambridge [u.a.]: Cambridge Univ. Press. pp. 438–9. ISBN 052152718X. CS1 maint: Extra text: authors list (link)
+^ Schneider, ed. by Sandra L.; Shanteau, James (2003). Emerging perspectives on judgment and decision research. Cambridge [u.a.]: Cambridge Univ. Press. p. 445. ISBN 052152718X. CS1 maint: Extra text: authors list (link)
+^ Haidt, Jonathan (2012). The Righteous Mind : Why Good People are Divided by Politics and Religion. New York: Pantheon Books. pp. 1473–4 (e–book edition). ISBN 0307377903. 
+^ Lindzey, edited by Susan T. Fiske, Daniel T. Gilbert, Gardner (2010). The handbook of social psychology (5th ed.). Hoboken, N.J.: Wiley. p. 811. ISBN 0470137495. CS1 maint: Extra text: authors list (link)
+^ Tukey, J.W. (1980) "We Need Both Confirmatory and Exploratory" The American Statistician 34(1):23-25
+^ Hurley, A.E. et al. (1997) "Exploratory and confirmatory factor analysis: guidelines, issues, and alternatives" Journal of Organizational Behavior 18:667-83
+^ Thompson, B. (2004) Exploratory and confirmatory factor analysis: Understanding concepts and applications (Washington, DC: American Psychological Association) ISBN 1591470935
+
+
+Further reading[edit]
+
+Dayton, C.M. (2002) "Some Key Concepts for the Design and Review of Empirical Research" ERIC Digest report no. ED470591
+Shields, P. and Tajalli, H. (2006) "Intermediate Theory: The Missing Link in Successful Student Scholarship" Journal of Public Affairs Education 12(3):313-34
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+Categories: ReasoningDesign of experimentsEmpiricismConcepts in epistemologyHidden categories: CS1 maint: Extra text: authors list

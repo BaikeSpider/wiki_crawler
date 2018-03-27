@@ -1,0 +1,905 @@
+Social epistemology
+This article is about the discipline. For the journal, see Social Epistemology (journal).
+
+
+Sociology
+
+
+
+
+
+
+
+History
+Outline
+Portal
+
+
+
+
+Main theories
+
+
+
+
+Structural functionalism
+Conflict theory
+Symbolic interactionism
+
+
+
+
+Methods
+
+
+
+
+Quantitative
+Qualitative
+Historical
+Comparative
+Mathematical
+Computational
+Ethnography
+Ethnomethodology
+Network analysis
+Positivism
+Critical theory
+
+
+
+
+Subfields and other major theories
+
+
+
+
+Conflict
+Criminology
+Social constructionism
+Culture
+Development
+Deviance
+Demography
+Education
+Economic
+Environmental
+Family
+Feminist sociology
+Gender
+Health
+Industrial
+Inequality
+Knowledge
+Law
+Literature
+Medical
+Military
+Organizational
+Political
+Race and ethnicity
+Religion
+Rural
+Science
+Social change
+Social movements
+Social psychology in sociology
+Stratification
+Science and technology
+Technology
+Urban
+Utilitarianism
+
+
+
+
+Browse
+
+
+
+
+Bibliography
+By country
+Index
+Journals
+Organizations
+People
+Timeline
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Social Epistemology refers to a broad set of approaches that can be taken in the study of knowledge that construes human knowledge as a collective achievement. Another way of characterizing social epistemology is as the evaluation of the social dimensions of knowledge or information.[1] It is sometimes simplified to mean a social justification of belief.[2]
+One of the enduring difficulties with defining "Social Epistemology" that arises is the attempt to determine what the word "knowledge" means in this context. There is also a challenge in arriving at a definition of "social" which satisfies academics from different disciplines.[3] Social Epistemologists may exist working in many of the disciplines of the humanities and social sciences, most commonly in philosophy and sociology. In addition to marking a distinct movement in traditional and analytic epistemology, Social Epistemology is associated with the interdisciplinary field of Science and Technology Studies (STS).
+
+
+
+Contents
+
+
+1 History
+
+1.1 The rise of 'Social Epistemology'
+
+
+2 Social Epistemology as a field within analytic philosophy
+3 Major philosophers who influenced Social Epistemology
+4 Present and future concerns
+5 See also
+6 Notes
+7 Citations
+8 References
+9 External links
+
+
+
+History[edit]
+The consideration of Social dimensions of knowledge in relation to philosophy started in 380 B.C.E with Plato's dialogue: Charmides. In it he questions the degree of certainty an unprofessional in a field can have towards a person's claim to be a specialist in that same field. As the exploration of a dependence on authoritative figures constitutes a part of the study of Social Epistemology, it confirms the existence of the ideology in minds long before it was given its label.
+In 1936, Karl Mannheim turned Karl Marx's theory of ideology (which interpreted the 'social' aspect in Epistemology to be of a political or sociological nature) into an analysis of how the human society develops and functions.
+It was not until the 1970s that there was a powerful growth of interest amongst philosophers in topics such as epistemic value of testimony, the nature and function of expertise, proper distribution of cognitive labor and resources among individuals in the communities and the status of group reasoning and knowledge.
+The rise of 'Social Epistemology'[edit]
+The term "Social Epistemology" was firstly used by the library scientists Margaret Egan and Jesse Shera in the 1950s. Steven Shapin also used it in 1979. However, it was not until the late 1980s that its current sense began to emerge. In 1987, the philosophical journal Synthese published a special issue on "Social Epistemology" which included two authors that have since taken the branch of Epistemology in two divergent directions: Alvin Goldman and Steve Fuller3. Fuller founded a journal called Social Epistemology: a journal of knowledge, culture, and policy in 1987 and published his first book, Social Epistemology, in 1988. Goldman's Knowledge in a Social World came out in 1999. Goldman advocates for a type of epistemology which is sometimes called "veritistic epistemology" because of its large emphasis on truth.[4] This type of epistemology is sometimes seen to side with "essentialism" as opposed to "multiculturalism".[5] But Goldman has argued that this association between veritistic epistemology and essentialism is not necessary.[6] He describes Social Epistemology as knowledge derived from one's interactions with another person, group or society.
+Goldman looks into one of the two strategies of the socialization of Epistemology. This strategy includes the evaluation of social factors that impact knowledge formed on true belief. In contrast, Fuller takes preference for the second strategy that defines knowledge influenced by social factors as collectively accepted belief. The difference between the two can be simplified with exemplars e.g.: the first strategy means analyzing how your degree of wealth (a social factor) influences what information you determine to be valid whilst the second strategy occurs when an evaluation is done on wealth’s influence upon your knowledge acquired from the beliefs of the society in which you find yourself.[7]
+In 2012, on the occasion of the 25th anniversary of Social Epistemology, Fuller reflected upon the history and the prospects of the field, including the need for Social Epistemology to re-connect with the larger issues of knowledge production first identified by Charles Sanders Peirce as cognitive economy and nowadays often pursued by library and information science. As for the "analytic Social Epistemology", to which Goldman has been a significant contributor, Fuller concludes that it has "failed to make significant progress owing, in part, to a minimal understanding of actual knowledge practices, a minimised role for philosophers in ongoing inquiry, and a focus on maintaining the status quo of epistemology as a field."[1]
+The basic view of knowledge that motivated the emergence of Social Epistemology as it is perceived today can be traced to the work of Thomas Kuhn and Michel Foucault, which gained acknowledgment at the end of the 1960s. Both brought historical concerns directly to bear on problems long associated with the philosophy of science. Perhaps the most notable issue here was the nature of truth, which both Kuhn and Foucault described as a relative and contingent notion. On this background, ongoing work in the sociology of scientific knowledge (SSK) and the history and philosophy of science (HPS) was able to assert its epistemological consequences, leading most notably to the establishment of the "Strong Programme" at the University of Edinburgh. In terms of the two strands of social epistemology, Fuller is more sensitive and receptive to this historical trajectory (if not always in agreement) than Goldman, whose "veritistic" social epistemology can be reasonably read as a systematic rejection of the more extreme claims associated with Kuhn and Foucault.
+Social Epistemology as a field within analytic philosophy[edit]
+As a field within analytic philosophy, Social Epistemology foregrounds the social aspects of knowledge creation and dissemination. What precisely these social aspects are, and whether they have beneficial or detrimental effects upon the possibilities to create, acquire and spread knowledge is a subject of continuous debate.
+Within the field, `the social' is approached in two complementary and not mutually exclusive ways: `the social' character of knowledge can either be approached through inquiries in inter-individual epistemic relations or through inquiries focusing on epistemic communities. The inter-individual approach typically focuses on issues such as testimony, epistemic trust as a form of trust placed by one individual in another, epistemic dependence, epistemic authority, etc. The community approach typically focuses on issues such as community standards of justification, community procedures of critique, diversity, epistemic justice, and collective knowledge.[8]
+Social Epistemology as a field within analytic philosophy has close ties to, and often overlaps with Feminist Epistemology and Philosophy of Science. While parts of the field engage in abstract, normative considerations of knowledge creation and dissemination, other parts of the field are `naturalized Epistemology' in the sense that they draw on empirically gained insights---which could mean natural science research from, e.g., cognitive psychology, be that qualitative or quantitative social science research. (For the notion of `naturalized epistemology see Willard Van Orman Quine.) And while parts of the field are concerned with analytic considerations of rather general character, case-based and domain-specific inquiries in, e.g., knowledge creation in collaborative scientific practice, knowledge exchange on online platforms or knowledge gained in learning institutions play an increasing role.
+Important academic journals for Social Epistemology as a field within analytic philosophy are, e.g., Episteme,[9] Hypatia,[10] Social Epistemology,[11] and Synthese.[12] However, major works within this field are also published in journals that predominantly address philosophers of science and psychology or in interdisciplinary journals which focus on particular domains of inquiry (such as, e.g., Ethics and Information Technology[13]).
+Major philosophers who influenced Social Epistemology[edit]
+
+Plato in Charmides Dialogue
+John Locke in Problem of Testimony
+David Hume in Problem of Testimony
+Thomas Reid in Problem of Testimony
+Karl Marx in Conception of Ideology
+
+extended by Karl Mannheim who portrayed the sociological aspect of knowledge with the reasoning that a knowledge claim's validity is restricted by the social conditions wherein the claims were initially made.
+
+
+
+Present and future concerns[edit]
+In both stages, both varieties of "Social Epistemology" remain largely "academic" or "theoretical" projects. Yet both emphasize the social significance of knowledge and therefore the cultural value of social epistemology itself. A range of journals publishing Social Epistemology welcome papers that include a policy dimension.
+More practical applications of social epistemology can be found in the areas of library science, academic publishing, guidelines for scientific authorship and collaboration, knowledge policy and debates over the role over the Internet in knowledge transmission and creation.
+Social Epistemology is still considered a relatively new addition to philosophy, with its problems and theories still fresh and in rapid movement.[14]
+See also[edit]
+
+Epistemology
+Feminist Epistemology
+Sociology of knowledge
+Steve Fuller, Social Epistemologist
+Social constructionism
+Social philosophy
+Reflexivity (social theory)
+
+Notes[edit]
+1. "What Is Social Epistemology? A Smorgasbord of projects", in Pathways to Knowledge: Private and Public, Oxford University Press, Pg:182-204, ISBN 0-19-517367-8
+2. "Relativism, Rationalism and the Sociology of Knowledge", Barry Barnes and David Bloor, in Rationality and Relativism, Pg:22 ISBN 0-262-58061-6
+3. A comparison of Goldman and Fuller can be found in Legitimizing Scientific Knowledge: An Introduction to Steve Fuller's Social Epistemology, Francis Remedios, Lexington Books, 2003. pp. 106 –112.
+http://social-epistemology.com/2013/07/12/orienting-social-epistemology-francis-remedios/
+4. Social Epistemology, Steve Fuller, Indiana University Press, p. 3.
+Citations[edit]
+
+
+
+^ http://plato.stanford.edu/entries/epistemology-social/
+^ Goldman, Alvin; Blanchard, Thomas (2016-01-01). Zalta, Edward N., ed. The Stanford Encyclopedia of Philosophy (Winter 2016 ed.). Metaphysics Research Lab, Stanford University. 
+^ http://plato.stanford.edu/entries/epistemology-social/
+^ http://www.ed.uiuc.edu/EPS/PES-Yearbook/95_docs/goldman.html
+^ http://www.ed.uiuc.edu/EPS/PES-Yearbook/95_docs/goldman.html
+^ http://www.ed.uiuc.edu/EPS/PES-Yearbook/95_docs/goldman.html
+^ Rimkutė, Audronė (2014-09-28). "The Problem of Social Knowledge in Contemporary Social Epistemology: Two Approaches". Problemos (in Lithuanian). 0 (65): 4–19. doi:10.15388/Problemos.2004.65.6645. ISSN 1392-1126. 
+^ "Social Epistemology". Stanford Encyclopedia of Philosophy. Retrieved 7 March 2015. 
+^ "Episteme, a journal of individual and social epistemology". http://journals.cambridge.org/action/displayJournal?jid=EPI. Cambridge University Press.  External link in |website= (help); Missing or empty |url= (help); |access-date= requires |url= (help)
+^ "Hypatia". John Wiley & Sons. Retrieved 7 March 2015. 
+^ "Social Epistemology. A Journal of Knowledge, Culture and Policy". Taylor and Francis. Retrieved 7 March 2015. 
+^ "Synthese". Springer. Retrieved 7 March 2015. 
+^ "Ethics and Information Technology". Springer. Retrieved 7 March 2015. 
+^ Schmitt, Frederick F.; Scholz, Oliver R. (2010-02-01). "Introduction: The History of Social Epistemology". Episteme. 7 (1): 1–6. doi:10.3366/E174236000900077X. ISSN 1750-0117. 
+
+
+
+References[edit]
+
+Berlin, James A. Rhetorics, Poetics, and Cultures: Refiguring College English Studies, Indiana: Parlor Press, 2003. ISBN 0-9724772-8-4
+Egan, Margaret and Jesse Shera. 1952. "Foundations of a Theory of Bibliography." Library Quarterly 44:125-37.
+Goldman, Alvin; Blanchard, Thomas (2016-01-01). Zalta, Edward N., ed. The Stanford Encyclopedia of Philosophy (Winter 2016 ed.). Metaphysics Research Lab, Stanford University.
+Goldman, Alvin,. "Social Epistemology". stanford.library.sydney.edu.au. Retrieved 2017-02-22.
+Longino, Helen. 1990. Science as Social Knowledge. Princeton: Princeton University Press. ISBN 0-691-02051-5
+Longino, Helen. 2001. The Fate of Knowledge. Princeton: Princeton University Press. ISBN 0-691-08876-4
+Remedios, Francis. 2003. Legitimizing Scientific Knowledge: An Introduction to Steve Fuller’s Social Epistemology. Lexington Books. ISBN 0-7391-0667-8
+Rimkutė, Audronė (2014-09-28). "The Problem of Social Knowledge in Contemporary Social Epistemology: Two Approaches". Problemos (in Lithuanian). 0 (65): 4–19. doi:10.15388/Problemos.2004.65.6645. ISSN 1392-1126.
+Schmitt, Frederick F. 1994. Socializing Epistemology. Rowman & Littlefield. ISBN 0-8476-7959-4
+Schmitt, Frederick F.; Scholz, Oliver R. (2010-02-01). "Introduction: The History of Social Epistemology". Episteme. 7 (1): 1–6. doi:10.3366/E174236000900077X. ISSN 1750-0117.
+Solomon, Miriam. 2001. Social Empricism. Cambridge: MIT Press. ISBN 0-262-19461-9
+
+External links[edit]
+
+Zalta, Edward N. (ed.). "Social Epistemology". Stanford Encyclopedia of Philosophy. 
+Social epistemology at PhilPapers
+Social epistemology at the Indiana Philosophy Ontology Project
+The journal Social Epistemology
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Social and political philosophy
+
+
+
+Pre-modern
+philosophers
+
+
+
+Aquinas
+Aristotle
+Averroes
+Augustine
+Chanakya
+Cicero
+Confucius
+Al-Ghazali
+Han Fei
+Laozi
+Marsilius
+Mencius
+Mozi
+Muhammad
+Plato
+Shang
+Socrates
+Sun Tzu
+Thucydides
+
+
+
+
+
+Modern
+philosophers
+
+
+
+Bakunin
+Bentham
+Bonald
+Bosanquet
+Burke
+Comte
+Emerson
+Engels
+Fourier
+Franklin
+Grotius
+Hegel
+Hobbes
+Hume
+Jefferson
+Kant
+Kierkegaard
+Le Bon
+Le Play
+Leibniz
+Locke
+Machiavelli
+Maistre
+Malebranche
+Marx
+Mill
+Montesquieu
+Möser
+Nietzsche
+Paine
+Renan
+Rousseau
+Royce
+Sade
+Smith
+Spencer
+Spinoza
+Stirner
+Taine
+Thoreau
+Tocqueville
+Vivekananda
+Voltaire
+
+
+
+
+
+20th–21th-century
+Philosophers
+
+
+
+Ambedkar
+Arendt
+Aurobindo
+Aron
+Azurmendi
+Badiou
+Baudrillard
+Bauman
+Benoist
+Berlin
+Judith Butler
+Camus
+Chomsky
+De Beauvoir
+Debord
+Du Bois
+Durkheim
+Foucault
+Gandhi
+Gehlen
+Gentile
+Gramsci
+Habermas
+Hayek
+Heidegger
+Irigaray
+Kirk
+Kropotkin
+Lenin
+Luxemburg
+Mao
+Marcuse
+Maritain
+Michels
+Mises
+Negri
+Niebuhr
+Nozick
+Oakeshott
+Ortega
+Pareto
+Pettit
+Plamenatz
+Polanyi
+Popper
+Radhakrishnan
+Rand
+Rawls
+Rothbard
+Russell
+Santayana
+Sarkar
+Sartre
+Schmitt
+Searle
+Simonović
+Skinner
+Sombart
+Spann
+Spirito
+Strauss
+Sun
+Taylor
+Walzer
+Weber
+Žižek
+
+
+
+
+
+Social theories
+
+
+
+Ambedkarism
+Anarchism
+Authoritarianism
+Collectivism
+Communism
+Communitarianism
+Conflict theories
+Confucianism
+Consensus theory
+Conservatism
+Contractualism
+Cosmopolitanism
+Culturalism
+Fascism
+Feminist political theory
+Gandhism
+Individualism
+Legalism
+Liberalism
+Libertarianism
+Mohism
+National liberalism
+Republicanism
+Social constructionism
+Social constructivism
+Social Darwinism
+Social determinism
+Socialism
+Utilitarianism
+Vaisheshika
+
+
+
+
+
+Concepts
+
+
+
+Civil disobedience
+Democracy
+Four occupations
+Justice
+Law
+Mandate of Heaven
+Peace
+Property
+Revolution
+Rights
+Social contract
+Society
+War
+more...
+
+
+
+
+
+Related articles
+
+
+
+Jurisprudence
+Philosophy and economics
+Philosophy of education
+Philosophy of history
+Philosophy of love
+Philosophy of sex
+Philosophy of social science
+Political ethics
+Social epistemology
+
+
+
+
+
+
+
+
+Category
+Portal
+Task Force
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Science and technology studies
+
+
+
+Economics
+
+
+
+Economics of science
+Economics of scientific knowledge
+
+
+
+
+
+History
+
+
+
+History and philosophy of science
+History of science
+
+and technology
+
+
+History of technology
+
+
+
+
+
+Philosophy
+
+
+
+Antipositivism
+Empiricism
+Fuzzy logic
+Philosophy of science
+Philosophy of social science
+Philosophy of technology
+Positivism
+Postpositivism
+Social constructivism
+Social epistemology
+
+
+
+
+
+Sociology
+
+
+
+Actor–network theory
+Social
+
+construction of technology
+shaping of technology
+
+
+Sociology of knowledge
+
+scientific
+
+
+Sociology of scientific ignorance
+Sociology of the history of science
+Sociotechnology
+Strong programme
+
+
+
+
+
+Science
+studies
+
+
+
+Antiscience
+Bibliometrics
+Boundary-work
+Consilience
+Demarcation problem
+Double hermeneutic
+Mapping controversies
+Paradigm shift
+Pseudoscience
+Science
+
+citizen
+communication
+education
+normal
+post-normal
+rhetoric
+wars
+
+
+Scientific
+
+method
+consensus
+controversy
+enterprise
+misconduct
+
+
+Scientometrics
+Team science
+Traditional knowledge
+
+ecological
+
+
+Unity of science
+Women in science
+
+STEM
+
+
+
+
+
+
+
+Technology
+studies
+
+
+
+Coproduction
+Cyborg anthropology
+Digital anthropology
+Dematerialization
+Early adopter
+Hype cycle
+Innovation
+
+diffusion
+disruptive
+linear model
+system
+user
+
+
+Leapfrogging
+Normalization process theory
+Reverse salient
+Skunkworks project
+Sociotechnical system
+Technical change
+Technoscience
+
+feminist
+
+
+Technological
+
+change
+convergence
+determinism
+revolution
+transitions
+
+
+Technology
+
+and society
+critique of
+dynamics
+theories of
+transfer
+
+
+Engineering studies
+Women in engineering
+
+
+
+
+
+Policy
+
+
+
+Digital divide
+Evidence-based policy
+Factor 10
+Science policy
+
+history of
+science of
+
+
+Politicization of science
+Regulation of science
+Research ethics
+Socio-scientific issues
+Technology assessment
+Technology policy
+Transition management
+
+
+
+
+
+
+
+
+ Portals
+
+Science
+History of science
+Technology
+Sociology
+
+
+ Category
+
+Associations
+Journals
+Scholars
+
+
+
+
+
+
+
+
+
+
+
+
+Categories: Social epistemologyInterdisciplinary subfields of sociologyEpistemologyPhilosophy of scienceSocial philosophyHidden categories: CS1 Lithuanian-language sources (lt)CS1 errors: external linksPages using web citations with no URLPages using citations with accessdate and no URL

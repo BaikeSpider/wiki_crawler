@@ -1,0 +1,492 @@
+Tyler Burge
+
+
+Tyler Burge
+
+
+Born
+1946
+
+
+Alma mater
+Wesleyan University (BA)
+Princeton University (PhD)
+
+
+
+
+
+Era
+Contemporary philosophy
+
+
+Region
+Western philosophy
+
+
+School
+Analytic
+
+
+
+Main interests
+
+Philosophy of language, philosophy of mind, epistemology
+
+
+
+Notable ideas
+
+Anti-individualism
+
+
+
+
+Influences
+
+
+Donald Davidson (philosopher), Hilary Putnam, Gottlob Frege
+
+
+
+
+
+
+
+
+
+Tyler Burge (/bɜːrdʒ/; born 1946) is a Distinguished Professor of Philosophy at UCLA. Burge has made contributions to many areas of philosophy, including the philosophy of mind, philosophy of logic, epistemology, philosophy of language, and the history of philosophy.
+
+
+
+Contents
+
+
+1 Education and career
+2 Philosophical Work
+
+2.1 Anti-individualism
+2.2 Origins of Objectivity
+2.3 Other philosophical work
+
+
+3 Bibliography
+
+3.1 Books
+3.2 Articles
+
+
+4 Notes
+5 References and further reading
+6 External links
+
+
+
+Education and career[edit]
+Burge earned his Ph.D. in philosophy from Princeton University in 1971 where he worked with Donald Davidson and John Wallace.[1] He joined the UCLA faculty that year (1971), and has taught there ever since, with visiting professorships also at Stanford University, Harvard University, and MIT.[2] He is an elected Fellow of the American Academy of Arts and Sciences since 1993[3] and a Corresponding Fellow of the British Academy since 1999.[4] He was the recipient of the 2010 Jean Nicod Prize.[5]
+Philosophical Work[edit]
+Anti-individualism[edit]
+Burge has argued for anti-individualism. In Burge’s words, anti-individualism is a theory that asserts the following: “individuating many of a person or animal’s mental kinds … is necessarily dependent on relations that the person bears to the physical, or in some cases social, environment".[6] This view, and some variants, has been called "content externalism", or just "externalism." Burge favors "anti-individualism" over this terminology, in part because he considers the central issue to be what individuates content, rather than where contents may be located, as "externalism" may suggest. (Burge 2003, 435-6).
+
+
+
+
+The patient’s belief that arthritis is in his thigh depends on conventional meaning as determined by the linguistic community.
+
+
+Burge argues in a similar fashion that a person’s beliefs are dependent on the physical world. In his thought experiment he attempted to demonstrate that all thoughts and beliefs have wide contents.
+In “The Meaning of Meaning” (1975), Putnam had argued that the meaning of a natural kind term such as “water” depends on the nature of the physical world. Burge argues that the difference in the thoughts is attributable to the difference between the nature of stuffs in the respective physical environments. As with the "arthritis" thought experiment, dependence of thought on the physical environment is a conclusion that is supposed to follow purely from reflection on the cases in the thought experiment.
+Burge has extended the thesis of anti-individualism into the realm of the theory of vision, arguing that the contents of representations posited by a computational theory of vision, such as that pioneered by David Marr, are dependent on the environment of the organism's evolutionary history. (See Burge 1986.)
+Anti-individualism about thoughts is a controversial thesis. It has been disputed on a number of grounds. For example, it has been claimed that the thesis undermines a person’s authoritative knowledge of their own thought contents. (See, e.g., McKinsey 1991.) It has also been thought to cause problems for our understanding of the way that mental states cause behavior. (See, e.g., Fodor 1991.) Burge (1988) has argued that anti-individualism is compatible with knowledge of our own mental states. He has also argued that it presents no problems for our understanding of causation. (See Burge 1989.)
+Origins of Objectivity[edit]
+Burge published his first book-length monograph in 2010, offering a philosophical account of perception heavily informed by empirical psychology.[7] The book was described by one reviewer as "an absolutely terrific work, conceived and executed at a scale and level of ambition rarely seen in contemporary philosophy. The book's primary aim is to contribute a theory of perception; more broadly, however, it also delivers a subtle and nuanced query into the place of distinctively psychological capacities in the natural order."[8]
+Other philosophical work[edit]
+In the history of philosophy, he has published articles on the philosophy of Gottlob Frege, and René Descartes. A collection of his writings on Frege, along with a substantial introduction and several postscripts by the author, has been published (Burge, 2005). In epistemology, he has written on such topics as self-knowledge, interlocution, reasoning and memory, and reflection (Burge 2013). He is perhaps most well known for his contributions to the philosophy of mind, including his views on de re belief and, most notably, anti-individualism with respect to mental content, which is also known as externalism, the view that the content of one's thoughts depends partly on the external environment. A festschrift devoted mostly to Burge's work on anti-individualism, including extensive replies from Burge to the contributors, has also appeared (Hahn and Ramberg 2003). Since 1978, four of Burge's articles have been chosen as among "the ten best" of the year by The Philosopher's Annual.[9]
+Bibliography[edit]
+Books[edit]
+
+2005. Truth, Thought, Reason: Essays on Frege. Oxford University Press, ISBN 0-19-927853-9.
+2007. Foundations of Mind. Oxford University Press, ISBN 0-19-921623-1.
+2010. Origins of Objectivity. Oxford University Press, ISBN 978-0-19-958140-5.
+2013. Cognition Through Understanding: Self-Knowledge, Interlocution, Reasoning, Reflection. Oxford University Press, ISBN 978-0-19-967203-5.
+
+Articles[edit]
+
+1977. "Belief De Re". The Journal of Philosophy, Vol. 74, No. 6, pp. 338–362.
+1979. "Sinning against Frege". The Philosophical Review, Vol. 88, No. 3, pp. 398–432.
+1979. "Individualism and the Mental". Midwest Studies in Philosophy 4: 73-121.
+1982. "Other Bodies". In Woodfield, Andrew, ed., Thought and Object. New York: Oxford.
+1986. "Individualism and Psychology." Philosophical Review 45: 3-45.
+1986. "Frege on Truth". in Haaparanta & Hintikka (1986).
+1986. "Intellectual Norms and Foundations of Mind". The Journal of Philosophy, Vol. 83, No. 12, pp.  697-720.
+1988. "Individualism and Self-Knowledge". The Journal of Philosophy 85: 649-663.
+1989. "Individuation and Causation in Psychology". Pacific Philosophical Quarterly 70: 303-322.
+1990. "Frege on Sense and Linguistic Meaning". in Bell & Cooper (1990).
+1992. "Frege on Knowing the Third Realm". Mind, Vol. 101, pp. 633–650.12, pp.  697-720.
+1993. "Content Preservation". The Philosophical Review, Vol. 102, No. 4, pp. 457–488.
+1996. "Our Entitlement to Self-Knowledge". Proceedings of the Aristotelian Society, New Series, Vol. 96 (1996), pp. 91–116.
+2003. "Reply to Loar". In Hahn and Ramberg (1991).
+2003. "Perceptual Entitlement". Philosophy and Phenomenological Research, Vol. 67, pp. 503–548.
+2003. "Memory and Persons". The Philosophical Review, Vol. 112, No. 3, pp. 289–337.
+
+Notes[edit]
+
+
+
+^ http://www.philosophy.ucla.edu/people/55-tyler-burge.html
+^ http://www.philosophy.ucla.edu/people/55-tyler-burge.html
+^ http://www.ucla.edu/about/awards-and-honors/faculty/american-academy-of-arts-and-sciences
+^ http://www.britac.ac.uk/fellowship/sections/index.cfm?member=3203
+^ http://129.199.13.77/seminaires-colloques/conferences-et-prix-jean-nicod/archives/tyler-burge-2010/?lang=en
+^ Burge, Tyler (November 1988). "Individuation and Self-Knowledge" (PDF). The Journal of Philosophy. 85 (11): 650. Retrieved 26 December 2014. 
+^ http://ukcatalogue.oup.com/product/9780199581405.do
+^ https://ndpr.nd.edu/news/24627-origins-of-objectivity/
+^ http://www.philosophersannual.org
+
+
+
+References and further reading[edit]
+
+Bell, David & Cooper, Neil (eds.). 1990. The Analytic Tradition, Oxford: Blackwell.
+Fodor, Jerry. 1991. "A Modal Argument for Narrow Content". The Journal of Philosophy, Vol. 88, No. 1, pp. 5–26.
+Haaparanta, Leila & Hintikka, Jaakko (eds.). 1986. Frege Synthesized. Boston: D. Reidel.
+Hahn, Martin and Bjørn Ramberg (eds.). 2003. Reflections and Replies: Essays on the Philosophy of Tyler Burge. Cambridge, MA: MIT Press.
+McKinsey, Michael. 1991. "Anti-Individualism and Privileged Access". Analysis 51: 9-16.
+Maria J. Frapolli and Esther Romero (eds.). 2003. Meaning, Basic Self-Knowledge, and Mind: Essays on Tyler Burge, CSLI Publications, ISBN 1-57586-346-4.
+
+External links[edit]
+
+"Externalism about Mental Content" in the Stanford Encyclopedia of Philosophy
+"Narrow Mental Content" in the Stanford Encyclopedia of Philosophy
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Analytic philosophy
+
+
+
+Philosophers
+
+
+
+J. L. Austin
+A. J. Ayer
+G. E. M. Anscombe
+Nick Bostrom
+Robert Brandom
+C. D. Broad
+Patricia Churchland
+David Chalmers
+Noam Chomsky
+James F. Conant
+Alice Crary
+Donald Davidson
+Daniel Dennett
+Cora Diamond
+Michael Dummett
+Paul Feyerabend
+Antony Flew
+Bas van Fraassen
+Gottlob Frege
+Jerry Fodor
+Philippa Foot
+Peter Geach
+Paul Grice
+Ian Hacking
+R. M. Hare
+Carl Gustav Hempel
+Peter van Inwagen
+Christine Korsgaard
+Saul Kripke
+Thomas Kuhn
+David Lewis
+Alasdair MacIntyre
+J. L. Mackie
+Norman Malcolm
+John McDowell
+G. E. Moore
+Ernest Nagel
+Thomas Nagel
+Robert Nozick
+Derek Parfit
+Alvin Plantinga
+Karl Popper
+Hilary Putnam
+W. V. O. Quine
+John Rawls
+Hans Reichenbach
+Richard Rorty
+Bertrand Russell
+Gilbert Ryle
+Moritz Schlick
+John Searle
+Wilfrid Sellars
+Peter Singer
+Richard Swinburne
+Charles Taylor
+Michael Walzer
+Bernard Williams
+Timothy Williamson
+Ludwig Wittgenstein
+
+
+
+
+
+Theories
+
+
+
+Actualism
+Analytical feminism
+Analytical Marxism
+Anti-realism
+Berlin Circle
+Descriptivist theory of names
+Emotivism
+Functional contextualism
+Linguistic turn
+Logical positivism
+Modal realism
+Model-dependent realism
+Neopragmatism
+Neurophilosophy
+Ordinary language philosophy
+Postanalytic philosophy
+Pragmatic theory of truth
+Verificationism
+Vienna Circle
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+Causal / Deductive / epistemic closure
+Concept
+Counterfactual
+Denotation / reference
+Definite description
+Factive
+Family resemblance
+Intuition
+Meaning (Proposition)
+Modality
+Natural kind / projectability
+Necessary–sufficient conditions
+Paradox of analysis
+Possible world
+Reduction
+Reflective equilibrium
+Rigid–flaccid designators
+Sense data
+Supervenience
+Thought experiment
+Truth function
+Truthmaker
+Truth-bearer
+Type–token distinction
+
+
+
+
+
+Related articles
+
+
+
+Aretaic turn
+Australian realism
+Communitarianism
+Ordinary language philosophy
+Philosophical logic
+Philosophy of language
+Philosophy of science
+Postanalytic philosophy
+
+
+
+
+
+
+
+
+ Index
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of mind
+
+
+
+Theories
+
+
+
+Behaviorism (Radical)
+Biological naturalism
+Cognitive psychology
+Mind–body dualism
+Eliminative materialism
+Emergent materialism
+Emergentism
+Epiphenomenalism
+Functionalism
+Idealism
+Interactionism
+Materialism
+Monism
+Naïve realism
+
+Neurophenomenology
+
+
+Neutral monism
+Occasionalism
+Psychoanalysis
+Parallelism
+Phenomenalism
+Phenomenology
+Physicalism
+
+identity theory
+
+
+Property dualism
+Representational
+Solipsism
+Substance dualism
+
+
+
+
+
+Concepts
+
+
+
+Abstract object
+Artificial intelligence
+Chinese room
+Cognition
+Cognitive closure
+Concept
+Concept and object
+Consciousness
+Hard problem of consciousness
+Hypostatic abstraction
+Idea
+Identity
+Ingenuity
+Intelligence
+Intentionality
+Introspection
+Intuition
+Language of thought
+Materialism
+Mental event
+Mental image
+Mental process
+Mental property
+Mental representation
+Mind
+Mind–body problem
+
+Non-physical entity
+
+
+New mysterianism
+Pain
+Problem of other minds
+Propositional attitude
+Qualia
+Tabula rasa
+Understanding
+Zombie
+more...
+
+
+
+
+
+Related topics
+
+
+
+Metaphysics
+Philosophy of artificial intelligence / information / perception / self
+
+
+
+
+
+
+
+
+Portal
+Category
+Philosophers category
+Project
+Task Force
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 15031811
+LCCN: n2002103739
+ISNI: 0000 0001 0956 2171
+GND: 129529575
+SUDOC: 093467338
+BNF: cb146495511 (data)
+BIBSYS: 6002624
+SNAC: w6ht2tf8
+
+
+
+
+
+
+
+
+
+
+Categories: Philosophers of mindPrinceton University alumniUniversity of California, Los Angeles faculty20th-century philosophersLiving people21st-century philosophersAnalytic philosophers1946 birthsJean Nicod Prize laureatesUCLA PhilosophyPhilosophers of languageEpistemologistsThought experiments in philosophy of mindHidden categories: Articles with hCardsWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with BIBSYS identifiersWikipedia articles with SNAC-ID identifiers

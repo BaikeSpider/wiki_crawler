@@ -1,0 +1,156 @@
+Intersubjectivity
+Intersubjectivity, in philosophy, psychology, sociology, and anthropology, is the psychological relation between people. It is usually used in contrast to solipsistic individual experience, emphasizing our inherently social being.
+
+
+
+Contents
+
+
+1 Definition
+2 In philosophy
+
+2.1 Phenomenology
+
+
+3 In psychology
+4 In child development
+
+4.1 Across cultures
+
+
+5 See also
+6 References
+7 Further reading
+
+7.1 Psychoanalysis
+7.2 Philosophy
+
+
+8 External links
+
+
+
+Definition[edit]
+"Intersubjectivity" is a term coined by social scientists as a short-hand description for a variety of human interactions. For example, social psychologists Alex Gillespie and Flora Cornish list at least six definitions of intersubjectivity (and other disciplines have additional definitions).[1] It is important to recognize that "intersubjectivity" has no inherent existence other than as a noun.
+"Intersubjectivity" has been used as a term of social science jargon to refer to agreement. There is "intersubjectivity" between people if they agree on a given set of meanings or a definition of the situation. Thus, "intersubjectivity" in this sense is simply an academician's word for "agreement" Similarly, Thomas Scheff defines "intersubjectivity" as "the sharing of subjective states by two or more individuals."[2]
+"Intersubjectivity" also has been used to refer to the common-sense, shared meanings constructed by people in their interactions with each other and used as an everyday resource to interpret the meaning of elements of social and cultural life. If people share common sense, then they share a definition of the situation.[3]
+The term has also been used to refer to shared (or partially shared) divergences of meaning. Self-presentation, lying, practical jokes, and social emotions, for example, all entail not a shared definition of the situation but partially shared divergences of meaning. Someone who is telling a lie is engaged in an intersubjective act because they are working with two different definitions of the situation. Lying is thus genuinely intersubjective (in the sense of operating between two subjective definitions of reality).[citation needed]
+"Intersubjectivity" can also be understood as the process of so-called psychological energy moving between two or more subjects. In a room where someone is lying on their deathbed, for example, the room can appear enveloped in a shroud of gloom for people interacting with the dying person. The psychological weight of one subject comes to bear on the minds of others depending on how they react to it, thereby creating an intersubjective experience that, without multiple consciousnesses interacting with each other, would be otherwise strictly solitary. Love is a prime example of intersubjectivity that implies a shared feeling of care and affection, among others.[citation needed]
+Among the early authors who explored this conception in psychoanalysis, in an explicit or implicit way, were Heinz Kohut, Robert Stolorow, George E. Atwood, Jessica Benjamin in the United States, and Silvia Montefoschi in Italy.
+Psychoanalyst Jessica Benjamin, in The Bonds of Love, writes, "The concept of intersubjectivity has its origins in the social theory of Jürgen Habermas (1970), who used the expression 'the intersubjectivity of mutual understanding' to designate an individual capacity and a social domain."[4]
+In philosophy[edit]
+Contemporarily, intersubjectivity is a major topic in both the analytic and the continental traditions of philosophy. Intersubjectivity is considered crucial not only at the relational level but also at the epistemological and even metaphysical levels. For example, intersubjectivity is postulated as playing a role in establishing the truth of propositions, and constituting the so-called objectivity of objects.
+A central concern in consciousness studies of the past 50 years is the so-called problem of other minds, which asks how we can justify our belief that people have minds much like our own and predict others' mind-states and behavior, as our experience shows we often can.[5] Contemporary philosophical theories of intersubjectivity need to address the problem of other minds.
+In the debate between cognitive individualism and cognitive universalism, some aspects of thinking are neither solely personal nor fully universal. Cognitive sociology proponents argue for intersubjectivity—an intermediate perspective of social cognition that provides a balanced view between personal and universal views of our social cognition. This approach suggests that, instead of being individual or universal thinkers, human beings subscribe to "thought communities"—communities of differing beliefs. Thought community examples include churches, professions, scientific beliefs, generations, nations, and political movements.[6] This perspective explains why each individual thinks differently from each another (individualism): person A may choose to adhere to expiry dates on foods, but person B may believe that expiry dates are only guidelines and it is still safe to eat the food days past the expiry date. But not all human beings think the same way (universalism).
+Intersubjectivity argues that each thought community shares social experiences that are different from the social experiences of other thought communities, creating differing beliefs among people who subscribe to different thought communities. These experiences transcend our subjectivity, which explains why they can be shared by the entire thought community.[6] Proponents of intersubjectivity support the view that individual beliefs are often the result of thought community beliefs, not just personal experiences or universal and objective human beliefs. Beliefs are recast in terms of standards, which are set by thought communities.
+Phenomenology[edit]
+Edmund Husserl, the founder of phenomenology, recognized the importance of intersubjectivity, and wrote extensively on the topic. In German, his writings on intersubjectivity are gathered in volumes 13–15 of the Husserliana. In English, his best-known text on intersubjectivity is the Cartesian Meditations (it is this text that features solely in the Husserl reader entitled The Essential Husserl). Although Husserlian phenomenology is often charged with methodological solipsism, in the fifth Cartesian Meditation, Husserl attempts to grapple with the problem of intersubjectivity and puts forward his theory of transcendental, monadological intersubjectivity.[7]
+Husserl's student Edith Stein extended intersubjectivity's basis in empathy in her 1917 doctoral dissertation, On the Problem of Empathy (Zum Problem der Einfühlung).
+Intersubjectivity also helps to constitute objectivity: in the experience of the world as available not only to oneself, but also to the Other, there is a bridge between the personal and the shared, the self and the Others.
+In psychology[edit]
+Discussions and theories of intersubjectivity are prominent and of importance in contemporary psychology, theory of mind, and consciousness studies. Three major contemporary theories of intersubjectivity are theory theory, simulation theory, and interaction theory.
+Shannon Spaulding, Assistant Professor of Philosophy at Oklahoma State University, writes; "Theory theorists argue that we explain and predict behaviour by employing folk psychological theories about how mental states inform behaviour. With our folk psychological theories, we infer from a target's behaviour what his or her mental states probably are. And from these inferences, plus the psychological principles in the theory connecting mental states to behavior, we predict the target's behaviour (Carruthers and Smith 1996; Davies and Stone 1995a; Gopnik and Wellman 1992; Nichols and Stich 2003)."[8]
+Simulation theorists, on the other hand, claim that we explain and predict others' behaviour by using our own minds as a model and "putting ourselves in another's shoes"—that is, by imagining what our mental states would be and how we would behave if we were in the other's situation. More specifically, we simulate what the other's mental states could have been to cause the observed behaviour, then use the simulated mental states, pretend beliefs, and pretend desires as input, running them through our own decision-making mechanism. We then take the resulting conclusion and attribute it to the other person.[9] Recently, authors like Vittorio Gallese have proposed a theory of embodied simulation that refers to neuroscientific research on mirror neurons and phenomenological research.[10]
+Spaulding notes that this debate has stalled in the past few years, with progress limited to articulating various hybrid simulation theories—"theory theory" accounts.[8] To resolve this impasse, authors like Shaun Gallagher put forward interaction theory. Gallagher writes that an "...important shift is taking place in social cognition research, away from a focus on the individual mind and toward... participatory aspects of social understanding...." Interaction theory is put forward to "galvanize" the interactive turn in explanations of intersubjectivity.[11] Gallagher defines an interaction as two or more autonomous agents engaged in co-regulated coupling behavior. For example, when walking a dog, both the owner's behavior is regulated by the dog stopping and sniffing, and the dog's behavior is regulated by the lead and the owner's commands. Ergo, walking the dog is an example of an interactive process. For Gallagher, interaction and direct perception constitute what he terms "primary" (or basic) intersubjectivity.
+Studies of dialogue and dialogism reveal how language is deeply intersubjective. When we speak, we always address our interlocutors, taking their perspective and orienting to what we think they think (or, more often, don't think).[12] Within this tradition of research, it has been argued that the structure of individual signs or symbols, the basis of language, is intersubjective[13] and that the psychological process of self-reflection entails intersubjectivity.[14] Recent research on mirror neurons provides evidence for the deeply intersubjective basis of human psychology,[15] and arguably much of the literature on empathy and theory of mind relates directly to intersubjectivity.
+In child development[edit]
+Colwyn Trevarthen has applied intersubjectivity to the very rapid cultural development of new born infants.[16] Research suggests that as babies, humans are biologically wired to “coordinate their actions with others.”[17] This ability to coordinate and sync with others facilitates cognitive and emotional learning through social interaction. Additionally, the most socially productive relationship between children and adults is bidirectional, where both parties actively define a shared culture.[17] The bidirectional aspect lets the active parties organize the relationship how they see fit—what they see as important receives the most focus. Emphasis is placed on the idea that children are actively involved in how they learn, using intersubjectivity.[17]
+Across cultures[edit]
+The ways intersubjectivity occurs varies across cultures. In certain Indigenous American communities, nonverbal communication is so prevalent that intersubjectivity may occur regularly amongst all members of the community, in part perhaps due to a "joint cultural understanding" and a history of shared endeavors.[18] This "joint cultural understanding" may develop in small, Indigenous American communities where children have grown up embedded in their community's values, expectations, and livelihoods—learning through participation with adults rather than through intent verbal instruction—working in cohesion with one another in shared endeavors on a daily basis. Having grown up within this context may have led to members of this community to have what is described by some as a "blending of agendas,"[18] or by others as a "dovetailing of motives."[19] If community or family members have the same general goals in mind they may thus act cohesively within an overlapping state of mind. Whether persons are in each other's presence or merely within the same community this blending of agendas or dovetailing of motives enables intersubjectivity to occur within these shared endeavors.[18]
+The cultural value of respeto may also contribute to intersubjectivity in some communities; unlike the English definition of 'respect,' respeto refers loosely to a mutual consideration for others' activities, needs, wants, etc.[18] Similar to "putting yourself in one's shoes" the prevalence of respeto in certain Indigenous American communities in Mexico and South America may promote intersubjectivity as persons act in accordance with one another within consideration for the community or the individual's current needs or state of mind.
+Shared reference during an activity facilitates learning. Adults either teach by doing the task with children, or by directing attention toward experts. Children that had to ask questions in regard to how to perform a task were scolded for not learning by another's example, as though they were ignoring the available resources to learn a task, as seen in Tz’utujil Maya parents who scolded questioning children and asking "if they had eyes."[20]
+Children from the Chillihuani village in the Andean mountains learned to weave without explicit instruction. They learned the basic technique from others by observing, eager to participate in their community. The learning process was facilitated by watching adults and by being allowed to play and experiment using tools to create their own weaving techniques.[21]
+See also[edit]
+
+
+
+
+
+Intersubjective verifiability
+Objectivity
+Philosophy of social science
+Reproducibility
+
+
+
+Intersubjectivity and philosophy:
+
+Jean-Paul Sartre
+Martin Buber
+Gabriel Marcel
+Dialogue
+Edmund Husserl
+Phenomenology
+Eviatar Zerubavel
+Emmanuel Levinas
+
+
+
+Intersubjectivity in psychoanalysis:
+
+Jessica Benjamin
+Robert D. Stolorow
+George E. Atwood
+Donna M. Orange
+Bernard Brandchaft
+Daniel Stern
+Beatrice Beebe
+Daniel Schechter
+
+
+
+
+
+References[edit]
+
+
+^ Gillespie, A. & Cornish, F. (2010). [1]. Journal for the Theory of Social Behaviour, 40, 19-46
+^ Scheff, Thomas et al. (2006). Goffman Unbound!: A New Paradigm for Social Science (The Sociological Imagination), Paradigm Publishers (ISBN 978-1-59451-196-7)
+^ Clive Seale. Glossary, Researching Society and Culture.
+^ Benjamin, Jessica (July 12, 1988). The Bonds of Love: Psychoanalysis, Feminism, & the Problem of Domination. Pantheon. p. 320. ISBN 0394757300. 
+^ Hyslop, A (2010). "Other Minds", The Stanford Encyclopedia of Philosophy (Fall Edition), Edward N. Zalta (Ed.) Accessed from plato.stanford.edu/archives/fall2010/entries/other-minds/>. Section 1.
+^ a b Zerubavel, Eviatar (1997). Social Mindscapes: An Invitation to Cognitive Sociology. Cambridge, Massachusetts: Harvard University Press. 
+^ E. Husserl, Cartesian Meditations, Klumer Academic Publishers. Translated by Dorion Cairns.
+^ a b Spaulding, Shannon (2012-09-05). "Introduction to debates on Social Cognition". Phenomenology and the Cognitive Sciences. 11 (4): 432. doi:10.1007/s11097-012-9275-x. ISSN 1568-7759. 
+^ Spaulding, S. (2012) “Introduction to debates on Social Cognition.” Phenomenology and the Cognitive Sciences. Vol. 11. Pg. 433
+^ Gallese, V & Sinigaglia, C. (2011) What is so special about embodied simulation. Trends in Cognitive Sciences. Vol. 15, No. 11.
+^ De Jaeger, H., Di Paulo, E., & Gallagher, S. (2010) Can social interaction constitute social cognition? Trends in Cognitive Science. Vol. 14, No. 10. Pg 441. DOI:10.1016/j.tics.2010.06.009
+^ Linell, P. (2009). Rethinking language, mind and world dialogically. Charlotte, NC: Information Age Publishing
+^ Gillespie, A. (2009). The intersubjective nature of symbols. In Brady Wagoner (Ed), Symbolic transformations. London: Routledge
+^ Gillespie, A. (2007). The social basis of self-reflection. In Valsiner and Rosa (Eds), The Cambridge handbook of sociocultural psychology. Cambridge: Cambridge University press
+^ Rizzolatti, G. & Arbib, M. A. (1998). Language within our grasp. Trends in neurosciences, 21, 188-194.
+^ http://www.psych.uw.edu.pl/lasc/Trevarthen2.pdf
+^ a b c Stone, Lynda; Underwood, Charles; Hotchkiss, Jacqueline. "The Relational Habitus: Intersubjective Processes in Learning Settings". Retrieved 10 December 2014. 
+^ a b c d Correa-Chávez, M., & Roberts, A. (2012). A cultural analysis is necessary in understanding intersubjectivity. Culture & Psychology, 18(1), 99-108. doi: 10.1177/1354067X11427471
+^ Danziger, E., & Rumsey, A. (2013). Introduction: From Opacity to intersubjectivity across languages and cultures. Language & Communication, 33(3), 247-250.
+^ Paradise, Ruth; Rogoff, Barbara (2009). "Side by Side: Learning by Observing and Pitching In". Ethos. 37 (1). doi:10.1111/j.1548-1352.2009.01033.x. 
+^ Bolin, Inge (2006). Growing Up in a Culture of Respect: Childrearing in highland Peru (2 ed.). Austin: University of Texas. pp. 90–99. ISBN 978-0-292-71298-0. 
+
+
+Further reading[edit]
+Psychoanalysis[edit]
+
+Brandchaft, Doctors & Sorter (2010). Toward an Emancipatory Psychoanalysis. Routledge: New York.
+Laplanche, J. & Pontalis, J. B. (1974). The Language of Psycho-Analysis, Edited by W. W. Norton & Company, ISBN 0-393-01105-4
+Orange, Atwood & Stolorow (1997). Working Intersubjectively. The Analytic Press: Hillsdale, NJ.
+Stolorow, R. D., Atwood, G. E., & Orange, D. M. (2002). Worlds of Experience: Interweaving Philosophical and Clinical Dimensions in Psychoanalysis. New York: Basic Books.
+Stolorow & Atwood (1992). Contexts of Being. The Analytic Press: Hillsdale, NJ.
+Stolorow, Brandchaft & Atwood (1987). Psychoanalytic Treatment: An Intersubjective Approach. The Analytic Press:Hillsdale, NJ.
+
+Philosophy[edit]
+
+Edmund Husserl Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass 1905-1920
+Edmund Husserl Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass 1921-1928
+Edmund Husserl Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass 1929-1935
+Edmund Husserl Cartesian Meditations, Edited by S. Strasser, 1950. ISBN 978-90-247-0068-4
+
+External links[edit]
+
+Critique of intersubjectivity Article by Mats Winther
+Edmund Husserl: Empathy, intersubjectivity and lifeworld, Stanford Encyclopedia of Philosophy
+
+
+
+
+
+Categories: EpistemologyPhilosophy of mindSociological terminologyPhilosophical anthropologyHidden categories: All articles with unsourced statementsArticles with unsourced statements from May 2014

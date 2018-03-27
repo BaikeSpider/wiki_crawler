@@ -1,0 +1,1527 @@
+Philosophy of psychology
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2008) (Learn how and when to remove this template message)
+
+
+
+Philosophy of psychology refers to the many issues at the theoretical foundations of modern psychology.
+
+
+
+Contents
+
+
+1 Overview
+2 See also
+3 References
+4 Further reading
+5 External links
+
+
+
+Overview[edit]
+Some of the issues studied by the philosophy of psychology are epistemological concerns about the methodology of psychological investigation. For example:
+
+What is the most appropriate methodology for psychology: mentalism, behaviorism, or a compromise?
+Are self-reports a reliable data-gathering[1] method?
+What conclusions can be drawn from null hypothesis tests?
+Can first-person experiences (emotions, desires, beliefs, etc.) be measured objectively?
+
+Other issues in philosophy of psychology are philosophical questions about the nature of mind, brain, and cognition, and are perhaps more commonly thought of as part of cognitive science, or philosophy of mind, such as:
+
+What is a cognitive module?
+Are humans rational creatures?
+What psychological phenomena come up to the standard required for calling it knowledge?
+What is innateness?
+
+Philosophy of psychology also closely monitors contemporary work conducted in cognitive neuroscience, evolutionary psychology, and artificial intelligence, for example questioning whether psychological phenomena can be explained using the methods of neuroscience, evolutionary theory, and computational modeling, respectively. Although these are all closely related fields, some concerns still arise about the appropriateness of importing their methods into psychology. Some such concerns are whether psychology, as the study of individuals as information processing systems (see Donald Broadbent), is autonomous from what happens in the brain (even if psychologists largely agree that the brain in some sense causes behavior (see supervenience)); whether the mind is "hard-wired" enough for evolutionary investigations to be fruitful; and whether computational models can do anything more than offer possible implementations of cognitive theories that tell us nothing about the mind (Fodor & Pylyshyn 1988).
+Philosophy of psychology is a relatively young field because "scientific" psychology—that is, psychology that favors experimental methods over introspection—came to dominate psychological studies only in the late 19th century. One of philosophy of psychology's concerns is to evaluate the merits of the many different schools of psychology that have been and are practiced. For example, cognitive psychology's use of internal mental states might be compared with behaviorism, and the reasons for the widespread rejection of behaviorism in the mid-20th century examined.
+Topics that fall within philosophy of mind go back much farther. For example, questions about the very nature of mind, the qualities of experience, and particular issues like the debate between dualism and monism have been discussed in philosophy for many centuries.
+Related to philosophy of psychology are philosophical and epistemological inquiries about clinical psychiatry and psychopathology. Philosophy of psychiatry is mainly concerned with the role of values in psychiatry: derived from philosophical value theory and phenomenology, values-based practice is aimed at improving and humanizing clinical decision-making in the highly complex environment of mental health care.[2] Philosophy of psychopathology is mainly involved in the epistemological reflection about the implicit philosophical foundations of psychiatric classification and evidence-based psychiatry. Its aim is to unveil the constructive activity underlying the description of mental phenomena.[3]
+See also[edit]
+
+
+Psychology portal
+Mind and Brain portal
+Philosophy portal
+Mythology portal
+
+
+
+Philosophy of psychiatry
+Philosophy of social science
+Psychology of philosophy
+
+References[edit]
+
+
+
+^ R. Stewart Ellis (2010). "Research data gathering techniques". Kettering University. 
+^ Fulford KWM, Stanghellini G. (2008). "The Third Revolution: Philosophy into Practice in Twenty-first Century Psychiatry". Dialogues in Philosophy, Mental and Neuro Sciences. 1 (1): 5–14. 
+^ Aragona M (2009). Il mito dei fatti. Una introduzione alla Filosofia della Psicopatologia. Crossing Dialogues. Archived from the original on 2012-03-06. 
+
+
+
+Further reading[edit]
+The London Philosophy Study Guide offers many suggestions on what to read, depending on the student's familiarity with the subject: Philosophy of psychology.
+
+J. Stacy Adams. 1976. Advances in Experimental Social Psychology. Academic Press, 1976 ISBN 0120152096, 9780120152094.
+Leonard Berkowitz. 1972. Social psychology. Scott Foresman & Co, 1972.
+Ned Block. 1980. Readings in Philosophy of Psychology, Volume 1. Harvard University Press, 1980. ISBN 067474876X, 9780674748767.
+Stuart C. Brown, Royal Institute of Philosophy. 1974. Macmillan, 1974. Original from the University of Michigan
+Joseph Margolis. 2008. Philosophy of Psychology. Prentice-Hall foundations of philosophy series. Prentice-Hall, 1984. ISBN 0136643264, 9780136643265.
+Ken Richardson. 2008. Understanding psychology. Open University Press, 1988. ISBN 0335098428, 9780335098422.
+George Botterill, Peter Carruthers. 1999. The Philosophy of Psychology. Cambridge University Press. ISBN 0521559154, 9780521559157.
+Craig Steven Titus. 2009. Philosophical Psychology: Psychology, Emotions, and Freedom. CUA Press. ISBN 0977310361, 9780977310364.
+Jose Bermudez. 2005. Philosophy of Psychology: A Contemporary Introduction. Routledge. ISBN 9780415368629.
+Terence Horgan, John Tienson. 1996. Connectionism and the Philosophy of Psychology. MIT Press. ISBN 0262082489, 9780262082488
+
+External links[edit]
+
+Part 7 of MindPapers: Philosophy of Cognitive Science (contains over 1,500 articles, many with online copies)
+Philosophy of Psychology
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy
+
+
+
+
+
+
+
+
+Branches
+
+
+
+
+
+
+
+Traditional
+
+
+
+Metaphysics
+
+Ontology
+
+
+Epistemology
+Logic
+Ethics
+Aesthetics
+
+
+
+
+
+Philosophy of
+
+
+
+Action
+Art
+
+Culture
+Design
+Music
+Film
+
+
+Business
+Color
+Cosmos
+Dialogue
+Education
+Environment
+Futility
+Happiness
+Healthcare
+History
+Human nature
+Humor
+Feminism
+Language
+Life
+Literature
+Mathematics
+Mind
+
+Pain
+Psychology
+
+
+Philosophy of psychiatry
+Philosophy of perception
+Philosophy
+Religion
+Science
+
+Physics
+Chemistry
+Biology
+Geography
+
+
+Sexuality
+Social science
+
+Culture
+Economics
+Justice
+Law
+Politics
+Society
+
+
+Space and time
+Sport
+Technology
+
+Artificial intelligence
+Computer science
+Engineering
+Information
+
+
+War
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schools of thought
+
+
+
+
+
+
+
+By era
+
+
+
+Ancient
+Western
+
+Medieval
+Renaissance
+Early modern
+Modern
+Contemporary
+
+
+
+
+
+
+
+Ancient
+
+
+
+
+Chinese
+
+
+
+Agriculturalism
+Confucianism
+Legalism
+Logicians
+Mohism
+Chinese naturalism
+Neotaoism
+Taoism
+Yangism
+Zen
+
+
+
+
+
+Greco-Roman
+
+
+
+Aristotelianism
+Atomism
+Cynicism
+Cyrenaics
+Eleatics
+Eretrian school
+Epicureanism
+Hermeneutics
+Ionian
+
+Ephesian
+Milesian
+
+
+Megarian school
+Neoplatonism
+Peripatetic
+Platonism
+Pluralism
+Presocratic
+Pyrrhonism
+Pythagoreanism
+Neopythagoreanism
+Sophistic
+Stoicism
+
+
+
+
+
+Indian
+
+
+
+Samkhya
+Nyaya
+Vaisheshika
+Yoga
+Mīmāṃsā
+Ājīvika
+Ajñana
+Cārvāka
+Jain
+
+Anekantavada
+Syādvāda
+
+
+Buddhist
+
+Śūnyatā
+Madhyamaka
+Yogacara
+Sautrāntika
+Svatantrika
+
+
+
+
+
+
+
+Persian
+
+
+
+Mazdakism
+Zoroastrianism
+Zurvanism
+
+
+
+
+
+
+
+
+Medieval
+
+
+
+
+European
+
+
+
+Christian philosophy
+Scholasticism
+Thomism
+Renaissance humanism
+
+
+
+
+
+East Asian
+
+
+
+Korean Confucianism
+Edo Neo-Confucianism
+Neo-Confucianism
+
+
+
+
+
+Indian
+
+
+
+Vedanta
+
+Acintya bheda abheda
+Advaita
+Bhedabheda
+Dvaita
+Dvaitadvaita
+Shuddhadvaita
+Vishishtadvaita
+
+
+Navya-Nyāya
+
+
+
+
+
+Islamic
+
+
+
+Averroism
+Avicennism
+Illuminationism
+ʿIlm al-Kalām
+Sufi
+
+
+
+
+
+Jewish
+
+
+
+Judeo-Islamic
+
+
+
+
+
+
+
+
+Modern
+
+
+
+
+People
+
+
+
+Cartesianism
+Kantianism
+Neo-Kantianism
+Hegelianism
+Marxism
+Spinozism
+
+
+
+
+
+0
+
+
+
+Anarchism
+Classical Realism
+Liberalism
+Collectivism
+Conservatism
+Determinism
+Dualism
+Empiricism
+Existentialism
+Foundationalism
+Historicism
+Holism
+Humanism
+Idealism
+
+Absolute
+British
+German
+Objective
+Subjective
+Transcendental
+
+
+Individualism
+Kokugaku
+Materialism
+Modernism
+Monism
+Naturalism
+Natural law
+Nihilism
+New Confucianism
+Neo-Scholasticism
+Pragmatism
+Phenomenology
+Positivism
+Reductionism
+Rationalism
+Social contract
+Socialism
+Transcendentalism
+Utilitarianism
+
+
+
+
+
+
+
+
+Contemporary
+
+
+
+
+Analytic
+
+
+
+Applied ethics
+Analytic feminism
+Analytical Marxism
+Communitarianism
+Consequentialism
+Critical rationalism
+Experimental philosophy
+Falsificationism
+Foundationalism / Coherentism
+Generative linguistics
+Internalism and Externalism
+Logical positivism
+Legal positivism
+Normative ethics
+Meta-ethics
+Moral realism
+Neo-Aristotelian
+Quinean naturalism
+Ordinary language philosophy
+Postanalytic philosophy
+Quietism
+Rawlsian
+Reformed epistemology
+Systemics
+Scientism
+Scientific realism
+Scientific skepticism
+Contemporary utilitarianism
+Vienna Circle
+Wittgensteinian
+
+
+
+
+
+Continental
+
+
+
+Critical theory
+Deconstruction
+Existentialism
+Feminist
+Frankfurt School
+New Historicism
+Hermeneutics
+Neo-Marxism
+Phenomenology
+Postmodernism
+Post-structuralism
+Social constructionism
+Structuralism
+Western Marxism
+
+
+
+
+
+Other
+
+
+
+Kyoto School
+Objectivism
+Russian cosmism
+more...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Positions
+
+
+
+
+
+
+
+Aesthetics
+
+
+
+Formalism
+Institutionalism
+Aesthetic response
+
+
+
+
+
+Ethics
+
+
+
+Consequentialism
+Deontology
+Virtue
+
+
+
+
+
+Free will
+
+
+
+Compatibilism
+Determinism
+Libertarianism
+
+
+
+
+
+Metaphysics
+
+
+
+Atomism
+Dualism
+Monism
+Naturalism
+
+
+
+
+
+Epistemology
+
+
+
+Constructivism
+Empiricism
+Idealism
+Particularism
+Fideism
+Rationalism / Reasonism
+Skepticism
+Solipsism
+
+
+
+
+
+Mind
+
+
+
+Behaviorism
+Emergentism
+Eliminativism
+Epiphenomenalism
+Functionalism
+Objectivism
+Subjectivism
+
+
+
+
+
+Normativity
+
+
+
+Absolutism
+Particularism
+Relativism
+Nihilism
+Skepticism
+Universalism
+
+
+
+
+
+Ontology
+
+
+
+Action
+Event
+Process
+
+
+
+
+
+Reality
+
+
+
+Anti-realism
+Conceptualism
+Idealism
+Materialism
+Naturalism
+Nominalism
+Physicalism
+Realism
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philosophy by region
+Philosophy-related lists
+Miscellaneous
+
+
+
+
+
+
+
+
+
+
+By region
+
+
+
+African
+Ethiopian
+Aztec
+Native America
+Eastern
+Chinese
+Egyptian
+Czech
+Indian
+Indonesian
+Iranian
+Japanese
+Korean
+Vietnam
+Pakistani
+Western
+American
+Australian
+British
+Danish
+French
+German
+Greek
+Italian
+Polish
+Romanian
+Russian
+Slovene
+Spanish
+Turkish
+
+
+
+
+
+Lists
+
+
+
+Outline
+Index
+Years
+Problems
+Schools
+Glossary
+Philosophers
+Movements
+Publications
+
+
+
+
+
+Miscellaneous
+
+
+
+Women in philosophy
+Sage (philosophy)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Portal
+ Category
+ Book
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of science
+
+
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+A priori and a posteriori
+Causality
+Commensurability
+Consilience
+Construct
+Creative synthesis
+Demarcation problem
+Empirical evidence
+Explanatory power
+Fact
+Falsifiability
+Feminist method
+Ignoramus et ignorabimus
+Inductive reasoning
+Intertheoretic reduction
+Inquiry
+Nature
+Objectivity
+Observation
+Paradigm
+Problem of induction
+Scientific law
+Scientific method
+Scientific revolution
+Scientific theory
+Testability
+Theory choice
+Theory-ladenness
+Underdetermination
+Unity of science
+
+
+
+
+
+Metatheory
+of science
+
+
+
+Coherentism
+Confirmation holism
+Constructive empiricism
+Constructive realism
+Constructivist epistemology
+Contextualism
+Conventionalism
+Deductive-nomological model
+Hypothetico-deductive model
+Inductionism
+Epistemological anarchism
+Evolutionism
+Fallibilism
+Foundationalism
+Instrumentalism
+Pragmatism
+Model-dependent realism
+Naturalism
+Physicalism
+Positivism / Reductionism / Determinism
+Rationalism / Empiricism
+Received view / Semantic view of theories
+Scientific realism / Anti-realism
+Scientific essentialism
+Scientific formalism
+Scientific skepticism
+Scientism
+Structuralism
+Uniformitarianism
+Vitalism
+
+
+
+
+
+Philosophy of
+
+
+
+Physics
+
+thermal and statistical
+Motion
+
+
+Chemistry
+Biology
+Environment
+Geography
+Social science
+Technology
+
+Engineering
+Artificial intelligence
+Computer science
+
+
+Information
+Mind
+Psychiatry
+Psychology
+Perception
+Space and time
+
+
+
+
+
+Related topics
+
+
+
+Alchemy
+Criticism of science
+Epistemology
+Faith and rationality
+History and philosophy of science
+History of science
+History of evolutionary thought
+Logic
+Metaphysics
+Pseudoscience
+Relationship between religion and science
+Rhetoric of science
+Sociology of scientific knowledge
+Sociology of scientific ignorance
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philosophers of science by era
+
+
+
+
+
+
+
+Ancient
+
+
+
+Plato
+Aristotle
+Stoicism
+Epicureans
+
+
+
+
+
+Medieval
+
+
+
+Averroes
+Avicenna
+Roger Bacon
+William of Ockham
+Hugh of Saint Victor
+Dominicus Gundissalinus
+Robert Kilwardby
+
+
+
+
+
+Early modern
+
+
+
+Francis Bacon
+Thomas Hobbes
+René Descartes
+Galileo Galilei
+Pierre Gassendi
+Isaac Newton
+David Hume
+
+
+
+
+
+Classical modern
+
+
+
+Immanuel Kant
+Friedrich Schelling
+William Whewell
+Auguste Comte
+John Stuart Mill
+Herbert Spencer
+Wilhelm Wundt
+Charles Sanders Peirce
+Wilhelm Windelband
+Henri Poincaré
+Pierre Duhem
+Rudolf Steiner
+Karl Pearson
+
+
+
+
+
+Late modern
+
+
+
+Alfred North Whitehead
+Bertrand Russell
+Albert Einstein
+Otto Neurath
+C. D. Broad
+Michael Polanyi
+Hans Reichenbach
+Rudolf Carnap
+Karl Popper
+Carl Gustav Hempel
+W. V. O. Quine
+Thomas Kuhn
+Imre Lakatos
+Paul Feyerabend
+Jürgen Habermas
+Ian Hacking
+Bas van Fraassen
+Larry Laudan
+Daniel Dennett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portal
+Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychology
+
+
+
+
+
+
+History
+Philosophy
+Portal
+Psychologist
+
+
+
+
+
+Basic psychology
+
+
+
+Abnormal
+Affective science
+Affective neuroscience
+Behavioral genetics
+Behavioral neuroscience
+Behaviorism
+Cognitive/Cognitivism
+Cognitive neuroscience
+Comparative
+Cross-cultural
+Cultural
+Developmental
+Differential
+Ecological
+Evolutionary
+Experimental
+Gestalt
+Intelligence
+Mathematical
+Neuropsychology
+Personality
+Positive
+Psycholinguistics
+Psychophysics
+Psychophysiology
+Quantitative
+Social
+Theoretical
+
+
+
+
+
+Applied psychology
+
+
+
+Anomalistic
+Applied behavior analysis
+Assessment
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Ergonomics
+Feminist
+Forensic
+Health
+Industrial and organizational
+Legal
+Media
+Military
+Music
+Occupational health
+Pastoral
+Political
+Psychometrics
+Psychotherapy
+Religion
+School
+Sport and exercise
+Suicidology
+Systems
+Traffic
+
+
+
+
+
+Methodologies
+
+
+
+Animal testing
+Archival research
+Behavior epigenetics
+Case study
+Content analysis
+Experiments
+Human subject research
+Interviews
+Neuroimaging
+Observation
+Qualitative research
+Quantitative research
+Self-report inventory
+Statistical surveys
+
+
+
+
+
+
+Psychologists
+
+
+
+
+William James (1842–1910)
+Ivan Pavlov (1849–1936)
+Sigmund Freud (1856–1939)
+Edward Thorndike (1874–1949)
+Carl Jung (1875–1961)
+John B. Watson (1878–1958)
+Clark L. Hull (1884–1952)
+Kurt Lewin (1890–1947)
+Jean Piaget (1896–1980)
+Gordon Allport (1897–1967)
+J. P. Guilford (1897–1987)
+Carl Rogers (1902–1987)
+Erik Erikson (1902–1994)
+B. F. Skinner (1904–1990)
+Donald O. Hebb (1904–1985)
+Ernest Hilgard (1904–2001)
+Harry Harlow (1905–1981)
+Raymond Cattell (1905–1998)
+Abraham Maslow (1908–1970)
+Neal E. Miller (1909–2002)
+Jerome Bruner (1915–2016)
+Donald T. Campbell (1916–1996)
+Hans Eysenck (1916–1997)
+Herbert A. Simon (1916–2001)
+David McClelland (1917–1998)
+Leon Festinger (1919–1989)
+George Armitage Miller (1920–2012)
+Richard Lazarus (1922–2002)
+Stanley Schachter (1922–1997)
+Robert Zajonc (1923–2008)
+Albert Bandura (b. 1925)
+Roger Brown (1925–1997)
+Endel Tulving (b. 1927)
+Lawrence Kohlberg (1927–1987)
+Noam Chomsky (b. 1928)
+Ulric Neisser (1928–2012)
+Jerome Kagan (b. 1929)
+Walter Mischel (b. 1930)
+Elliot Aronson (b. 1932)
+Daniel Kahneman (b. 1934)
+Paul Ekman (b. 1934)
+Michael Posner (b. 1936)
+Amos Tversky (1937–1996)
+Bruce McEwen (b. 1938)
+Larry Squire (b. 1941)
+Richard E. Nisbett (b. 1941)
+Martin Seligman (b. 1942)
+Ed Diener (b. 1946)
+Shelley E. Taylor (b. 1946)
+John Anderson (b. 1947)
+Ronald C. Kessler (b. 1947)
+Joseph E. LeDoux (b. 1949)
+Richard Davidson (b. 1951)
+Susan Fiske (b. 1952)
+Roy Baumeister (b. 1953)
+
+
+
+
+
+Lists
+
+
+
+Counseling topics
+Disciplines
+Important publications
+Organizations
+Outline
+Psychologists
+Psychotherapies
+Research methods
+Schools of thought
+Timeline
+Topics
+
+
+
+
+
+
+
+
+Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Social sciences
+
+
+
+Primary
+
+
+
+Anthropology
+
+archaeology
+cultural
+linguistics
+social
+
+
+Economics
+
+microeconomics
+macroeconomics
+
+
+Geography
+
+human
+integrative
+
+
+History
+
+cultural
+economic
+military
+political
+social
+
+
+Law
+
+jurisprudence
+legal history
+legal systems
+
+
+Political science
+
+international relations
+psephology
+public administration
+public policy
+
+
+Psychology
+
+abnormal
+biological
+cognitive
+developmental
+personality
+social
+
+
+Sociology
+
+criminology
+demography
+internet
+rural
+urban
+
+
+
+
+
+
+
+Interdisciplinary
+
+
+
+Anthrozoology
+Area studies
+Business studies
+Cognitive science
+Communication studies
+Community studies
+Cultural studies
+Development studies
+Education
+Environmental (social science
+studies)
+Food studies
+Gender studies
+Global studies
+History of technology
+Human ecology
+Information science
+International studies
+Media studies
+Philosophy of science
+
+economics
+history
+psychology
+social science
+
+
+Planning
+
+land use
+regional
+urban
+
+
+Political ecology
+Political economy
+Public health
+Regional science
+Science and technology studies
+Science studies
+
+historical
+
+
+Social work
+
+
+
+
+
+Other categorizations
+
+
+
+Humanities
+Geisteswissenschaft
+Human science
+
+
+
+
+
+
+
+
+Index
+Journals
+Outline
+Wikiversity
+
+
+
+
+
+
+
+
+
+
+Categories: Philosophy of mindPhilosophy of psychologyPhilosophy of social scienceHidden categories: Articles needing additional references from December 2008All articles needing additional references

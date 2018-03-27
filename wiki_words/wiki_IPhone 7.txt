@@ -1,0 +1,1285 @@
+iPhone 7
+
+
+
+
+
+本条目需要扩充。（2017年9月3日） 
+请协助改善这篇条目，更进一步的信息可能会在讨论页或扩充请求中找到。请在扩充条目后将此模板移除。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iPhone 7 / iPhone 7 Plus
+
+
+
+
+
+iPhone 7 亮黑色
+
+
+
+品牌
+苹果公司
+
+
+标语
+ 台湾：就是 7
+ 中国大陆：7，在此
+ 香港：这， 就是 iPhone 7
+ 美国：This is 7.
+ 马来西亚：This is 7.
+ 日本：これが、7
+
+
+代
+第十代
+
+
+兼容的网络
+GSM、CDMA、3G、EVDO、HSPA+、LTE、LTE Advanced
+
+
+首次发布
+首发地区：2016年9月16日
+
+
+前代型号
+iPhone 6s
+
+
+后继型号
+iPhone 8、iPhone X
+
+
+类型
+智能手机（iPhone 7）
+平板手机（iPhone 7 Plus）
+
+
+手机规格
+平板手机
+
+
+尺寸
+7: 138.3毫米（5.44英寸） H
+67.1毫米（2.64英寸） W
+7.1毫米（0.28英寸） D
+7 Plus: 158.2毫米（6.23英寸） H
+77.9毫米（3.07英寸） W
+7.3毫米（0.29英寸） D
+
+
+重量
+7: 138克（4.9盎司）
+7 Plus: 188克（6.6盎司）
+
+
+操作系统
+最初: iOS 10.0.1
+目前:iOS 11.2.5
+
+
+系统芯片
+Apple A10 Fusion
+
+
+内存
+2 GB LPDDR4（iPhone 7）
+3 GB LPDDR4（iPhone 7 Plus）
+
+
+存储
+32、128或256 GB
+
+
+显示器
+7: 4.7英寸（120毫米） Retina HD、LED-backlit IPS LCD、分辨率1334x750 326（ppi）
+配备离子强化玻璃
+3D Touch
+7 Plus: 5.5英寸（140毫米） Retina HD、LED-backlit IPS LCD、分辨率1920 x1080 401（ppi）
+配备离子强化玻璃
+3D Touch
+
+
+后置摄像头
+12MP iSight摄像头、f/1.8光圈 、自动对焦、True Tone Flash、红外截止滤波片、连拍模式、4K高清录像（每秒30fps）、慢动作视频（1080p 120 fps或720p 240 fps）、缩时摄影、全景图、脸部识别（英语：Facial recognition system）
+7 Plus:除以上之外：2倍光学变焦/ 10倍数字变焦，f / 2.8 光圈的远摄摄像头
+
+
+前置摄像头
+7MP Facetime摄像头、f/2.2光圈、曝光控制、人脸侦测、自动HDR、Retina闪光灯
+
+
+声响
+立体声扬声器
+
+
+其他
+IP67 (防飞溅,防水和防尘)
+
+
+助听器兼容性
+M3, T4
+
+
+网站
+www.apple.com/iphone-7
+
+
+
+
+本文介绍苹果公司的智能手机系列
+
+
+iPhone
+
+
+
+
+
+1
+
+
+
+3G
+3GS
+
+
+
+4
+4S
+
+
+
+5
+5C
+5S
+SE
+
+
+
+6/6 Plus
+6S/6S Plus
+
+
+
+7/7 Plus
+
+
+
+8/8 Plus
+X
+
+
+
+
+
+iPhone型号列表
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+iPhone 7与iPhone 7 Plus是美国苹果公司推出的智能手机，第十代iPhone，同时也是iPhone 6S 的后代。2016年9月7日官方公布。 [1]
+
+
+
+目录
+
+
+1 特色
+2 技术规格
+
+2.1 芯片
+2.2 外观
+2.3 尺寸和重量
+2.4 显示屏
+2.5 抗水防尘
+2.6 摄像头
+
+
+3 颜色
+4 发售
+
+4.1 第一波
+
+
+5 销售
+6 参考资料
+7 外部链接
+
+
+
+特色[编辑]
+苹果的iPhone 7 plus设计比iPhone 6S较为简单干练，天线的框线得以减少，而提供新的暗色品种经镜面处理“亮黑色”及“黑色”，太空灰被取消，其他旧有配色“银色”、“金色”、“玫瑰金色”则维持不变，从6S开始就有3D触碰的设计，还有回到主画面（Home）的按键也提高了灵敏度[1]，同时采用固态按键取代原来的按动式按键，并利用新的Taptic Engine震动来模拟按压。iPhone 7 拥有iPhone历来最大的存储容量，可选32GB、128GB、256GB，但“亮黑色”只能选择128GB或256GB。iPhone 7还移除了连接耳机的传统3.5mm TRS端子，除了带动音频由模拟传输朝数字化演进，这一改动也让手机得以直接供电耳机降噪单元，免电池降噪变成可能，随机附送的EarPods耳机亦由3.5mm耳机接口改为Lightning接头（不具降噪），另外亦附上Lightning 至 3.5毫米耳筒插口转换器，但用户想要同时充电的话只能使用采用苹果的无线蓝牙耳机AirPods，或是使用苹果专用底座。此外首次引入了双立体声外放，喇叭播放效果也显著增加。
+技术规格[编辑]
+iPhone 7/7 Plus使用iOS 10，并配备Touch ID指纹识别传感器，支持VoLTE及Apple Pay。[2][3]
+芯片[编辑]
+iPhone 7/7 Plus均采用64位架构的A10 Fusion处理器，以及M10协处理器。A10 Fusion处理器包含两个高性能核心与两个节能核心，其中，节能核心的耗电量仅为高性能核心的五分之一。据苹果所述，已经在一年前采用于iPhone 6s、iPhone SE上的A9，在iPhone 7推出当下仍维持着市场最快芯片的门槛，此次苹果自己二度打破前代A9设下的世界纪录，A10 Fusion的性能比A8高出2倍，图绘能力升级相对A9多达50%。另外iPhone 7 Plus上的内存也增至3GB，而iPhone 7则保持2GB。[4][5]
+外观[编辑]
+iPhone 7/7 Plus是颜色较多的一款，共有6种颜色，分别为玫瑰金色、金色、银色、黑色、红色及亮黑色。其中，亮黑色及红色仅提供128GB及以上存储空间。
+亮黑色具有镜面效果。红色则是与后来疾病关怀活动时期推出的特别版本。
+尺寸和重量[编辑]
+iPhone 7：长138.3毫米(5.44 英寸)，宽67.1毫米（2.64英寸），厚7.1毫米（0.28英寸），重量为138克（4.87盎司）。
+iPhone 7 Plus：长158.2毫米（6.23 英寸），宽77.9毫米（3.07英寸），厚7.3毫米（0.29英寸），重量为188克（6.63盎司）。
+显示屏[编辑]
+iPhone 7/7 Plus均采用IPS Retina多点触控显示屏，均配备广色域显示／防油渍防指纹涂层，其最大亮度均为625 cd/m2。
+区别在于，iPhone 7采用4.7英寸的显示屏，其分辨率为1334x750/326 ppi，而iPhone 7 Plus采用5.5英寸的显示屏，其分辨率为1920x1080/401 ppi。
+抗水防尘[编辑]
+两款机型在IEC 60529标准下均达到IP67级别，尽管苹果在6s的机身已经具备有防水设计，但这次首度加入该认证。
+注意：液体造成的损坏并不在保固范围内。
+摄像头[编辑]
+iPhone 7/7 Plus均采用1200万像素的摄像头，其中，iPhone 7支持最高达5倍的数码变焦。而iPhone 7 Plus则支持2倍光学变焦及最高10倍的数码变焦。
+iPhone 7 Plus支持光学变焦及最高10倍数码变焦主要是因为其拥有双镜头（广角及长焦）。
+其中，iPhone 7/7 Plus（广角镜头）拥有ƒ/1.8的光圈，而iPhone 7 Plus独有的长焦镜头则拥有ƒ/2.8的光圈。
+iPhone 7/7 Plus背后广角摄像头均配备光学防抖功能／4-LED True Tone 新型闪光灯，亮度更高，支持30 FPS的4K视频拍摄，30/60 FPS的1080p视频拍摄，30 FPS的720p视频拍摄。
+颜色[编辑]
+颜色包括：
+
+
+颜色
+名称
+英语
+天线
+备注
+
+
+
+亮黑色
+Jet Black
+黑
+正面为黑色（具有镜面效果）
+
+
+
+黑色
+Black
+黑
+正面为黑色
+
+
+
+银色
+Silver
+灰
+正面为白色
+
+
+
+金色
+Gold
+白
+正面为白色
+
+
+
+玫瑰金
+Rose Gold
+白
+正面为白色
+
+
+
+红色 (Product)
+Product Red
+红
+正面为白色（3月21日发布、3月24日开始接受预订）
+
+
+发售[编辑]
+第一波[编辑]
+首波销售国家及地区于9月9日开始接受预订，并于9月16日在澳洲、奥地利、比利时、加拿大、中国、丹麦、芬兰、法国、德国、香港、爱尔兰、意大利、日本、卢森堡、墨西哥、荷兰、新西兰、挪威、葡萄牙、波多黎各、新加坡、西班牙、瑞典、瑞士、中华民国、阿拉伯联合酋长国、英国、美国共28个国家和地区上市[6]。
+销售[编辑]
+第一季度销售量7／7 plus 法人估合计售出5850万台。苹果公司预定在本周二美股收盘后（台北时间（UTC+8）周三凌晨5点半）公布最新财报。(2017年1月30日11:45)[来源请求]
+参考资料[编辑]
+
+
+^ 1.0 1.1 iPhone 7 and 7 Plus announced with water resistance, dual cameras, and no headphone jack. Vox Media. [2016-09-07]. 
+^ iPhone 7 - 技术规格.Apple Inc. 2017/3/21.
+^ iPhone 7 Plus - 技术规格.Apple Inc. 2017/3/21.
+^ iPhone 7 - 技术规格.Apple Inc. 2017/3/21.
+^ iPhone 7 Plus - 技术规格.Apple Inc. 2017/3/21.
+^ 【等了8年】i7台湾首波开卖　有这两大原因.苹果日报.2016-09-08.
+
+
+外部链接[编辑]
+
+iPhone 7 官方网站、技术规格（台湾）（繁体中文）
+iPhone 7 官方网站、技术规格（中国）（简体中文）
+iPhone 7 官方网站、技术规格（香港）（繁体中文）
+iPhone 7 官方网站、技术规格（澳门）（繁体中文）
+
+
+
+前任：
+iPhone 6s
+iPhone 6s Plus
+iPhone SE
+'IPhone 7'
+iPhone 7 Plus
+第十代
+继任：
+iPhone 8
+iPhone 8 Plus
+iPhone X
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+苹果公司
+
+
+
+
+
+
+创始人
+
+
+
+史蒂夫·乔布斯
+斯蒂夫·沃兹尼亚克
+罗纳德·韦恩
+
+
+
+
+
+
+
+
+
+
+
+董事会
+
+
+
+
+现任
+
+
+
+比尔·坎贝尔
+米拉德·德雷克斯勒（英语：Millard Drexler）
+艾尔·高尔
+蒂姆·库克（CEO）
+锺彬娴
+薛修忠
+罗纳德·苏格（英语：Ronald Sugar）
+鲍勃·伊戈尔
+
+
+
+
+
+
+
+
+前任
+
+
+
+杰瑞·约克（英语：Jerry York）
+埃里克·施密特
+拉里·埃里森
+
+
+
+
+
+
+
+
+
+
+
+管理层
+
+
+
+
+现任
+
+
+
+提姆·库克
+艾迪·柯尔（英语：Eddy Cue）
+克雷格·费德里吉
+乔纳森·埃维
+彼得·奥朋海莫（英语：Peter Oppenheimer）
+菲利普·席勒（英语：Phil Schiller）
+安吉拉·阿伦茨
+
+
+
+
+
+
+
+
+前任
+
+
+
+罗恩·约翰逊
+约翰·博文特（英语：John Browett）
+斯科特·福斯特尔
+托尼·法戴尔
+马克·裴波马斯特（英语：Mark Papermaster）
+伯特兰·赛莱特（英语：Bertrand Serlet）
+辛那·塔马顿（英语：Sina Tamaddon）
+阿瓦德斯·特凡尼安
+乔恩·鲁宾斯坦
+南西·R·海因（英语：Nancy R. Heinen）
+弗莱德·D·安德森（英语：Fred D. Anderson）
+
+
+
+
+
+
+
+
+
+
+
+产品
+
+
+
+
+软件
+
+
+
+Classic Mac OS
+macOS
+
+版本历史
+Server
+
+
+iOS
+
+版本历史
+
+
+watchOS
+
+版本历史
+
+
+tvOS
+
+版本历史
+
+
+Core Foundation
+Developer Tools
+Final Cut Studio
+Logic Studio
+QuickTime
+
+
+
+
+
+
+
+
+硬件
+
+
+
+
+Mac
+
+
+
+
+68k
+
+
+
+Compact
+II
+LC
+Quadra
+Centris
+
+
+
+
+
+
+
+
+PowerPC
+
+
+
+Performa
+Power Macintosh
+PowerBook
+iBook
+eMac
+
+
+
+
+
+
+
+
+Intel
+
+
+
+iMac
+
+Pro
+
+
+Mac Pro
+Mac mini
+Macbook
+
+Air
+Pro
+
+
+
+
+
+
+
+
+
+
+
+
+
+iPod
+
+
+
+classic
+touch
+
+2
+3
+4
+5
+6
+
+
+nano
+shuffle
+
+
+
+
+
+
+
+
+iPhone
+
+
+
+第一代
+3G
+3GS
+4
+4s
+5
+5c
+5s
+6/6 Plus
+6S/6S Plus
+SE
+7/7 Plus
+8/8 Plus
+X
+
+
+
+
+
+
+
+
+iPad
+
+
+
+第一代
+
+2
+3
+4
+2017
+
+
+Air
+
+2
+
+
+mini
+
+2
+3
+4
+
+
+Pro
+
+
+
+
+
+
+
+
+其他
+
+
+
+AirPods
+Apple Watch
+
+Series 2
+
+
+Magic Mouse
+Magic Trackpad
+苹果标准键盘
+Apple TV
+HomePod
+AirPower
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+商店
+
+
+
+Apple Store
+App Store
+iTunes Store
+Mac App Store
+iBooks Store
+
+
+
+
+
+
+
+
+服务
+
+
+
+Developer（英语：Apple Developer）
+AppleCare
+Certifications（英语：Apple certification programs）
+Game Center
+iAd（英语：iAd）
+Genius Bar（英语：Genius Bar）
+iBooks
+iLife
+iWork.com
+Apple ID
+MobileMe
+iCloud
+One to One（英语：One to One）
+ProCare（英语：ProCare）
+Apple Pay
+Apple Music
+
+
+
+
+
+
+
+
+公司
+
+
+
+
+
+
+
+Braeburn Capital（英语：Braeburn Capital）
+FileMaker Inc.（英语：FileMaker Inc.）
+
+
+
+
+
+
+
+
+并购
+
+
+
+Emagic
+FingerWorks
+Intrinsity
+Lala
+NeXT
+Nothing Real
+P.A. Semi
+Final Cut Pro
+Siri
+Beats by Dr. Dre
+
+
+
+
+
+
+
+
+
+
+
+相关
+
+
+
+总部
+Apple Park
+广告
+
+1984
+不同凡想
+Get a Mac
+iPod
+口号
+
+
+历史
+
+社区
+纠纷
+批评
+使用过的广告歌曲
+
+
+苹果全球软件开发者年会
+音乐节
+皮克斯
+向英特尔平台迁移
+iOS应用程序审核
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 主题
+ 共享资源
+ 模板
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+iPhone
+
+
+
+
+
+
+机型
+
+
+
+第一代
+3G
+3GS
+4
+4s
+5
+5s
+
+5c
+
+
+6/6 Plus
+6s/6s Plus
+SE
+7/7 Plus
+8/8 Plus
+X
+
+
+
+
+
+
+
+
+功能
+
+
+
+App Store
+Push Notifications
+Cards（英语：Cards (iOS)）
+FaceTime
+Find My iPhone
+查找朋友
+Game Center
+iAd（英语：iAd）
+iBooks
+iBookstore
+iCloud
+iTunes Store
+iMovie
+iMessage
+音乐
+邮件
+地图
+Newsstand（英语：Newsstand (application)）
+备忘录
+通知中心
+Passbook
+提醒事项
+Safari
+
+版本历史
+
+
+Siri
+Spotlight
+SpringBoard（英语：SpringBoard）
+电话
+
+
+
+
+
+
+
+
+停止服务
+
+
+
+MobileMe
+
+
+
+
+
+
+
+
+
+
+
+300页账单
+FairPlay（英语：FairPlay）
+历史（英语：History of the iPhone）
+iFund（英语：iFund）
+越狱
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+苹果公司硬件系列（1998年起）
+
+
+
+
+
+
+消费型电脑
+
+
+
+iMac
+eMac
+Mac mini
+
+
+
+
+
+
+
+
+专业型电脑
+
+
+
+iMac Pro
+Mac Pro
+Power Mac
+Xserve
+苹果工作组服务器
+
+
+
+
+
+
+
+
+便携型计算机
+
+
+
+MacBook Air
+MacBook (Retina显示屏)
+MacBook Pro
+MacBook
+iBook
+PowerBook
+
+
+
+
+
+
+
+
+消费型电子产品
+
+
+
+iPod
+iPad
+iPhone
+Apple TV
+Newton
+Apple Watch
+
+
+
+
+
+
+
+
+配件
+
+
+
+AirPort
+iPod
+iSight
+Keyboard
+Magic Trackpad
+Magic Mouse
+遥控器
+SuperDrive
+Time Capsule
+USB调制解调器
+Xserve RAID
+Apple Pencil
+AirPods
+HomePod
+AirPower
+
+
+
+
+
+
+
+
+
+苹果公司硬件系列（1998年前）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+移动电话
+
+
+
+
+
+
+概括
+
+
+
+功能
+历史
+GSM（服务（英语：GSM services））
+操作系统（比较）
+安全
+移动电话
+SMS
+彩信
+垃圾信息（英语：Mobile phone spam）
+跟踪（英语：Mobile phone tracking）
+网页（英语：Mobile Web）
+
+HTML5（英语：HTML5 in mobile devices）
+
+
+
+
+
+
+
+
+
+
+应用
+
+
+
+飞行模式
+应用开发（英语：Mobile application development）
+应用发行平台
+行动商务
+即时短信（英语：Mobile instant messaging）
+行动学习
+本地搜索（英语：Mobile local search）
+本地追踪（英语：Mobile phone tracking）
+窃听
+移动营销
+彩信
+手机音乐（英语：Mobile music）
+手机新闻（英语：Mobile news）
+移动支付
+Push email
+Root
+Telephony电话通讯（英语：Mobile telephony）
+移动云计算（英语：Mobile cloud computing）
+
+
+
+
+
+
+
+
+手机文化
+
+
+
+手机吊饰
+手机漫画（英语：Mobile comic）
+手机约会
+日本手机文化
+手机小说
+电话铃声
+SMS语（英语：SMS language）
+移动电视
+手机广告
+
+
+
+
+
+
+
+
+移动设备
+
+
+
+Android Root
+Android设备列表
+Windows Phone手提电话列表
+功能型手机
+相机手机
+智能手机
+平板手机
+手机规格
+移动电话公司
+智能手机列表（英语：Comparison of smartphones）
+
+
+
+
+
+
+
+
+环境卫生
+
+
+
+电子垃圾
+移动电话辐射和健康
+
+
+
+
+
+
+
+
+法规
+
+
+
+Carrier IQ（英语：Carrier IQ）
+行车安全（英语：Mobile phones and driving safety）
+拍照（英语：Photography and the law）
+开车时发短信（英语：Texting while driving）
+监狱（英语：Mobile phones in prison）
+电话窃听
+紧急短信求助
+
+
+
+
+
+
+
+
+网络
+
+
+
+信道容量
+手机频率（英语：Cellular frequencies）
+移动电话运营商列表
+手机信号（英语：Mobile phone signal）
+SIM卡
+USIM卡
+手机标准列表（英语：Comparison of mobile phone standards）
+VoIP
+VoLTE
+WAP
+XHTML MP
+
+
+时代（英语：List of mobile phone generations）：0G
+1G
+2G
+2.5G
+2.75G
+3G
+3.5G
+3.9G
+4G
+4.5G（英语：LTE Advanced Pro）
+5G
+
+
+
+
+
+
+
+
+
+
+
+
+分类：IPhone触控手机IOS2016年面世的手机隐藏分类：自2017年9月扩充中的条目小写标题自2017年3月有未列明来源语句的条目

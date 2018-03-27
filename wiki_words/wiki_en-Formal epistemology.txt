@@ -1,0 +1,183 @@
+Formal epistemology
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (February 2015) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. Please help to improve this article by introducing more precise citations. (February 2015) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article is in a list format that may be better presented using prose. You can help by converting this article to prose, if appropriate. Editing help is available. (February 2015)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+Formal epistemology uses formal methods from decision theory, logic, probability theory and computability theory to model and reason about issues of epistemological interest. Work in this area spans several academic fields, including philosophy, computer science, economics, and statistics. The focus of formal epistemology has tended to differ somewhat from that of traditional epistemology, with topics like uncertainty, induction, and belief revision garnering more attention than the analysis of knowledge, skepticism, and issues with justification.
+
+
+
+Contents
+
+
+1 History
+2 Topics
+3 List of contemporary formal epistemologists
+4 See also
+5 References
+6 External links
+
+
+
+History[edit]
+Though formally oriented epistemologists have been laboring since the emergence of formal logic and probability theory (if not earlier), only recently have they been organized under a common disciplinary title. This gain in popularity may be attributed to the organization of yearly Formal Epistemology Workshops by Branden Fitelson and Sahotra Sarkar, starting in 2004, and the PHILOG-conferences starting in 2002 (The Network for Philosophical Logic and Its Applications) organized by Vincent F. Hendricks. Carnegie Mellon University's Philosophy Department hosts an annual summer school in logic and formal epistemology. In 2010, the department founded the Center for Formal Epistemology.
+Topics[edit]
+Some of the topics that come under the heading of formal epistemology include:
+
+Ampliative inference (including inductive logic);
+Belief revision theory
+Game theory and decision theory;
+Algorithmic learning theory (computational epistemology);
+Formal approaches to paradoxes of belief and/or action;
+Formal models of epistemic states, like belief and uncertainty;
+Formal theories of coherentism and confirmation;
+Foundations of probability and statistics.
+
+List of contemporary formal epistemologists[edit]
+
+Horacio Arló-Costa, Carnegie Mellon, Philosophy (Bayesian epistemology, epistemic logic, belief revision, conditionals, rational choice, normative and behavioral decision theory)
+Alexandru Baltag (dynamic-epistemic logic, probabilistic logics, belief revision etc.)
+Luc Bovens (Bayesian epistemology, probability, etc.)
+Samir Chopra (belief revision, physics, etc.)
+Jake Chandler (Bayesian epistemology, belief revision, etc.)
+John Collins Columbia, Philosophy (belief revision, causal decision theory)
+Franz Dietrich (collective decision-making, etc.)
+Trent Dougherty (Jeffrey's radical probabilism, semantics for modals, theories of probability)
+Igor Douven (Bayesian epistemology, etc.)
+Ellery Eells (confirmation, probability)
+Adam Elga (probabilistic reasoning, laws, etc.)
+Branden Fitelson (confirmation, logic, etc.)
+Malcolm Forster (confirmation, simplicity, causation)
+Haim Gaifman Columbia, Philosophy (foundations of probability, mathematical logic)
+Anthony Gillies (belief revision, formal semantics)
+Mario Gómez-Torrente
+Alan Hájek (foundations of probability, decision theory, etc.)
+Joseph Halpern (reasoning about knowledge and uncertainty)
+Sven Ove Hansson (risk, decision theory, belief revision, deontic logic)
+Gilbert Harman (epistemology, statistical learning theory, mind and language)
+Stephan Hartmann (Bayesian epistemology, probability, collective decision-making, etc.)
+James Hawthorne (confirmation theory, inductive logic, belief revision, nonmonotonic logic)
+Jeff Helzner Columbia, Philosophy (decision theory, rational choice)
+Vincent F. Hendricks Copenhagen and Columbia, Philosophy (epistemic logic, formal learning theory, information processing and analysis of democracy)
+Franz Huber (formal epistemology, philosophy of science, philosophical logic)
+Richard Jeffrey (probabilistic reasoning)
+James Joyce (decision theory)
+Kevin T. Kelly, Carnegie Mellon, Philosophy (computational epistemology, belief revision, etc.)
+Matthew Kotzen (formal epistemology, philosophy of science)
+Marion Ledwig (Newcomb's problem)
+Hannes Leitgeb (belief revision, probability, Bayesianism, etc.)
+Isaac Levi Columbia, Philosophy (belief revision, decision theory, probability)
+Patrick Maher (confirmation, inductive logic)
+David Miller (probability, induction, logic, Popper)
+Luca Moretti (confirmation, coherence, transmission of warrant, epistemic truth)
+Daniel Osherson (inductive logic, reasoning, vagueness)
+Rohit Parikh CUNY, Computer Science (epistemic logic, common knowledge)
+Gabriella Pigozzi (belief revision, decision theory)
+John L. Pollock (decision theory, reasoning, AI)
+Hans Rott (belief revision, nonmonotonic logic, rational choice)
+Darrell Rowbottom (foundations of probability, confirmation, philosophy of science, etc.)
+Nick Rugai (computational epistemology)
+Miriam Schoenfield (epistemology, ethics)
+Teddy Seidenfeld Carnegie Mellon, Philosophy (statistical decision theory, probability theory, game theory)
+Wolfgang Spohn (reasoning, probability, causation, philosophy of science, etc.)
+Paul Thorn (direct inference, defeasible reasoning, induction, etc.)
+Bas Van Fraassen (imprecise credence, probability kinematics)
+Peter Vranas (confirmation, deontic logic, time travel, ethics, etc.)
+Gregory Wheeler (probability, logic)
+Roger White (confirmation, cosmology)
+Sonja Smets (Dynamic-epistemic Logic, belief revision etc.)
+Jon Williamson (Bayesianism, probability, causation)
+Timothy Williamson (knowledge, modality, logic, vagueness, etc.)
+David Wolpert (No Free Lunch theorems, i.e., Hume done rigorously; physics and inference, i.e., monotheism theorems, Chomsky hierarchy of inference devices, etc.)
+
+See also[edit]
+
+Algorithmic learning theory
+Belief revision
+Computability theory
+Computational learning theory
+Game theory
+Inductive logic
+
+References[edit]
+
+Arlo-Costa, H, van Benthem, J. and Hendricks, V. F. (eds.) (2012). A Formal Epistemology Reader. Cambridge: Cambridge University Press.
+Bovens, L. and Hartmann, S. (2003). Bayesian Epistemology. Oxford: Oxford University Press.
+Brown, B. (2017). Thoughts and Ways of Thinking: Source Theory and Its Applications. London: Ubiquity Press. [1].
+Hendricks, V. F. (2001). The Convergence of Scientific Knowledge: A View from The Limit. Dordrect: Kluwer Academic Publishers.
+Hendricks, V. F. (2006). Mainstream and Formal Epistemology. New York: Cambridge University Press.
+Hendricks, V. F. (ed.) (2006). Special issue on “8 Bridges Between Mainstream and Formal Epistemology”, Philosophical Studies.
+Hendricks, V. F. (ed.) (2006). Special issue on “Ways of Worlds I-II”, Studia Logica.
+Hendricks, V.F. and Pritchard, D. (eds.) (2006). New Waves in Epistemology. Aldershot: Ashgate.
+Hendricks, V. F. and Symons, J. (eds.) (2005). Formal Philosophy. New York: Automatic Press / VIP. [2]
+Hendricks, V. F. and Symons, J. (eds.) (2006). Masses of Formal Philosophy. New York: Automatic Press / VIP. [3]
+Hendricks, V. F. and Hansen, P.G. (eds.) (2007). Game Theory: 5 Questions. New York: Automatic Press / VIP. [4]
+Hendricks, V.F. and Symons, J. (2006). Epistemic Logic. The Stanford Encyclopedia of Philosophy, Stanford. CA: USA.
+Wolpert, D.H., (1996) The lack of a priori distinctions between learning algorithms, Neural Computation, pp. 1341–1390.
+Wolpert, D.H., (1996) The existence of a priori distinctions between learning algorithms, Neural Computation, pp. 1391–1420.
+Wolpert, D.H., (2001) Computational capabilities of physical systems. Physical Review E, 65(016128).
+Zhu, H.Y. and R. Rohwer, (1996) No free lunch for cross-validation, pp. 1421– 1426.
+
+External links[edit]
+
+Weisberg, Jonathan. "Formal Epistemology". In Zalta, Edward N. Stanford Encyclopedia of Philosophy. 
+Formal epistemology at the Indiana Philosophy Ontology Project
+Formal epistemology at PhilPapers
+Formal Epistemology Workshop
+Formal Epistemology Meets Experimental Philosophy Workshop
+Formal Epistemology Archive
+Carnegie Mellon Summer School in Logic and Formal Epistemology
+Formal Philosophy
+Formal Epistemology, a free online journal.
+The Reasoner
+Formal Epistemology Project
+Carnegie Mellon Center for Formal Epistemology
+Formal Epistemology
+Formal epistemology & Logics
+
+
+
+
+
+Categories: EpistemologyFormalism (philosophy)Philosophy of statisticsProbability assessmentFormal epistemologyHidden categories: Wikipedia external links cleanup from February 2015Wikipedia spam cleanup from February 2015Articles lacking in-text citations from February 2015All articles lacking in-text citationsArticles needing cleanup from February 2015All pages needing cleanupArticles with sections that need to be turned into prose from February 2015Articles with multiple maintenance issues

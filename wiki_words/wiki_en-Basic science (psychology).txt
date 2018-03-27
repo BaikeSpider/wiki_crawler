@@ -1,0 +1,435 @@
+Basic science (psychology)
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2010) (Learn how and when to remove this template message)
+
+
+
+
+
+Part of a series on
+
+
+Psychology
+
+
+
+
+
+
+
+Outline
+History
+Subfields
+
+
+
+
+
+
+Basic types
+
+
+Abnormal
+Behavioral genetics
+Biological
+Cognitive/Cognitivism
+Comparative
+Cross-cultural
+Cultural
+Differential
+Developmental
+Evolutionary
+Experimental
+Mathematical
+Neuropsychology
+Personality
+Positive
+Quantitative
+Social
+
+
+
+
+
+
+
+
+Applied psychology
+
+
+Applied behavior analysis
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Environmental
+Ergonomics
+Forensic
+Health
+Humanistic
+Industrial and organizational
+Legal
+Medical
+Military
+Music
+Occupational health
+Political
+Religion
+School
+Sport
+Traffic
+
+
+
+
+
+
+
+
+Lists
+
+
+Disciplines
+Organizations
+Psychologists
+Psychotherapies
+Publications
+Research methods
+Theories
+Timeline
+Topics
+
+
+
+
+
+
+
+
+ Psychology portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Some of the research that is conducted in the field of psychology is more "fundamental" than the research conducted in the applied psychological disciplines, and does not necessarily have a direct application. The subdisciplines within psychology that can be thought to reflect a basic-science orientation include biological psychology, cognitive psychology, neuropsychology, and so on. Research in these subdisciplines is characterized by methodological rigor. The concern of psychology as a basic science is in understanding the laws and processes that underlie behavior, cognition, and emotion. Psychology as a basic science provides a foundation for applied psychology. Applied psychology, by contrast, involves the application of psychological principles and theories yielded up by the basic psychological sciences; these applications are aimed at overcoming problems or promoting well-being in areas such as mental and physical health and education.
+
+
+
+Contents
+
+
+1 Abnormal psychology
+2 Biological psychology
+3 Cognitive psychology
+4 Developmental psychology
+5 Experimental psychology
+6 Evolutionary psychology
+7 Mathematical psychology
+8 Neuropsychology
+9 Personality psychology
+10 Psychophysics
+11 Social psychology
+12 Additional areas
+13 See also
+14 References
+
+
+
+Abnormal psychology[edit]
+Main article: Abnormal psychology
+Abnormal psychology is the branch of psychology devoted to the study unusual patterns of behavior, emotion, and thought, including that which can be understood to represent mental disorder. Abnormal psychology is distinct from clinical psychology, an applied field of psychology that seeks to assess, understand, and treat psychological conditions that are harmful to the individual. However, the field of abnormal psychology provides a backdrop for clinical work. Psychopathology is a term used in abnormal psychology that suggests an underlying pathology
+Biological psychology[edit]
+Main articles: Biological psychology, Neuropsychology, Physiological psychology, and Cognitive neuroscience
+Biological psychology or behavioral neuroscience is the scientific study of the biological bases of behavior and mental processes. Biological psychologists view all behavior as dependent on the nervous system, and study the neural basis for behavior. This is the approach taken in behavioral neuroscience, cognitive neuroscience, and neuropsychology. The goal of neuropsychology is to understand how the structure and function of the brain relate to specific behavioral and psychological processes. Neuropsychology is particularly concerned with brain injury in attempting to understand normal psychological function. Cognitive neuroscientists often use neuroimaging tools, which can help them to observe which areas of the brain are active during a particular task.
+Cognitive psychology[edit]
+Main article: Cognitive psychology
+Cognitive psychology involves the study of cognition, including mental processes underlying perception, learning, problem solving, reasoning, thinking, memory, attention, language, and emotion. Classical cognitive psychology has developed an information processing model of mental function, and has been informed by functionalism and experimental psychology.
+Cognitive science is an interdisciplinary research enterprise that involves cognitive psychologists, cognitive neuroscientists, artificial intelligence, linguists, human–computer interaction, computational neuroscience, logicians and social scientists. Computational models are sometimes used to simulate phenomena of interest. Computational models provide a tool for studying the functional organization of the mind whereas neuroscience is more concerned with brain activity.
+Developmental psychology[edit]
+Main article: Developmental psychology
+Developmental psychology is concerned with the development of the human mind and behavior over the life course. Developmental psychologists seek to understand how people come to perceive, understand, and act within the world and how these processes change as they age. They may focus on intellectual, cognitive, neural, social, or moral development. Developmental researchers who study children use a number of unique research methods, including observations in natural settings and the engaging of children directly in experimental tasks. Some experimental tasks resemble specially designed games and activities that are both enjoyable for the child and scientifically useful. Developmental psychologists have even devised methods to study the mental processes of infants. In addition to studying children, developmental psychologists also study the relation of aging to mental processes.
+Experimental psychology[edit]
+Main article: Experimental psychology
+Experimental psychology represents a methodological approach to psychology rather than a content area subject. Experimental psychology lends itself to a variety of fields within psychology, including neuroscience, developmental psychology, sensation, perception, attention, learning, memory, thinking, and language. There is even an experimental social psychology. Experimental psychologists are researchers who employ experimental methods to help discover processes underlying behavior and cognition.
+Evolutionary psychology[edit]
+Main article: Evolutionary psychology
+A goal of evolutionary psychology is to explain psychological traits and processes such as memory, perception, or language in terms of adaptations that arose in the evolutionary history of humans. Traits and processes are thought to be functional products of random mutations and natural selection. Evolutionary biologists view physiological mechanisms, such as the heart, lungs, and immune system, in similar terms. Evolutionary psychology applies the same thinking to psychology. Evolutionary psychologists advance the view that much of human behavior is the cumulative result of psychological adaptations that evolved to solve problems in human ancestral environments. For example, Steven Pinker hypothesized that humans have inherited special mental capacities for acquiring language, making language acquisition nearly automatic, while inheriting no capacity specifically for reading and writing.
+Mathematical psychology[edit]
+Main article: Mathematical psychology
+Mathematical psychology represents an approach to psychological research that is based on mathematical modeling of perceptual, cognitive, and motoric processes. Mathematical psychology contributes to the establishment of law-like rules that pertain to quantifiable stimulus characteristics and quantifiable behavior. Because the quantification of behavior is fundamental to mathematical psychology, measurement is a central topic in mathematical psychology. Mathematical psychology is closely related to psychometric theory. However, psychometricians are largely concerned with individual differences in mostly static, trait-like variables. By contrast, the focal concern of mathematical psychology is process models in such areas as perception and cognition. Mathematical psychology is intimately involved in the modeling of data obtained from experimental paradigms, making it closely related to experimental psychology and cognitive psychology.
+Neuropsychology[edit]
+Main article: Neuropsychology
+Neuropsychology involves the study of the structure and function of the brain as it relates to specific psychological processes and overt behaviors. Neuropsychological research includes studies of humans and animals with brain lesions. Neuropsychologists have also studied electrical activity in individual brain cells (or groups of cells) in humans and other primates. Neuropsychology shares much with neuroscience, neurology, cognitive psychology, and cognitive science.
+Personality psychology[edit]
+Main article: Personality psychology
+A goal of personality psychology is to investigate enduring patterns of behavior, thought, and emotion in individuals. Personality psychologists are especially interested in individual differences. Within the framework of personality psychology, trait theorists attempt to analyze personality in terms of a limited number of key psychological traits. This type of research is highly dependent on statistical methods. The number of proposed traits has varied; however, there is some consensus over an empirically driven theory known as the "Big 5" personality model.
+Psychophysics[edit]
+Main article: Psychophysics
+Psychophysics is a discipline concerned with the relation between physical stimuli and their subjective correlates, or percepts or sensations. Psychophysics involves a set of methods that can be employed in research on perceptual systems. Modern applications of psychophysics rely heavily on ideal observer analyses and signal detection theory.
+Social psychology[edit]
+Main article: Social psychology (psychology)
+Social psychology involves the study of social behavior and mental processes that pertain to social behavior. Social psychology is concerned with how humans think about each other and how they relate to each other. Social psychologists study topics such as social influences on individual behavior (e.g. conformity and persuasion), belief formation, attitudes, and stereotypes. Social cognition integrates social and cognitive psychology in order to help discover how people process, remember, and distort social information. Research on group dynamics is pertinent to understanding the nature of leadership and communication.
+Additional areas[edit]
+
+Linguistics
+Neuroscience
+Quantitative psychology
+
+See also[edit]
+
+Applied psychology
+Outline of psychology
+Psychology
+
+References[edit]
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychology
+
+
+
+
+
+
+History
+Philosophy
+Portal
+Psychologist
+
+
+
+
+
+Basic psychology
+
+
+
+Abnormal
+Affective science
+Affective neuroscience
+Behavioral genetics
+Behavioral neuroscience
+Behaviorism
+Cognitive/Cognitivism
+Cognitive neuroscience
+Comparative
+Cross-cultural
+Cultural
+Developmental
+Differential
+Ecological
+Evolutionary
+Experimental
+Gestalt
+Intelligence
+Mathematical
+Neuropsychology
+Personality
+Positive
+Psycholinguistics
+Psychophysics
+Psychophysiology
+Quantitative
+Social
+Theoretical
+
+
+
+
+
+Applied psychology
+
+
+
+Anomalistic
+Applied behavior analysis
+Assessment
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Ergonomics
+Feminist
+Forensic
+Health
+Industrial and organizational
+Legal
+Media
+Military
+Music
+Occupational health
+Pastoral
+Political
+Psychometrics
+Psychotherapy
+Religion
+School
+Sport and exercise
+Suicidology
+Systems
+Traffic
+
+
+
+
+
+Methodologies
+
+
+
+Animal testing
+Archival research
+Behavior epigenetics
+Case study
+Content analysis
+Experiments
+Human subject research
+Interviews
+Neuroimaging
+Observation
+Qualitative research
+Quantitative research
+Self-report inventory
+Statistical surveys
+
+
+
+
+
+
+Psychologists
+
+
+
+
+William James (1842–1910)
+Ivan Pavlov (1849–1936)
+Sigmund Freud (1856–1939)
+Edward Thorndike (1874–1949)
+Carl Jung (1875–1961)
+John B. Watson (1878–1958)
+Clark L. Hull (1884–1952)
+Kurt Lewin (1890–1947)
+Jean Piaget (1896–1980)
+Gordon Allport (1897–1967)
+J. P. Guilford (1897–1987)
+Carl Rogers (1902–1987)
+Erik Erikson (1902–1994)
+B. F. Skinner (1904–1990)
+Donald O. Hebb (1904–1985)
+Ernest Hilgard (1904–2001)
+Harry Harlow (1905–1981)
+Raymond Cattell (1905–1998)
+Abraham Maslow (1908–1970)
+Neal E. Miller (1909–2002)
+Jerome Bruner (1915–2016)
+Donald T. Campbell (1916–1996)
+Hans Eysenck (1916–1997)
+Herbert A. Simon (1916–2001)
+David McClelland (1917–1998)
+Leon Festinger (1919–1989)
+George Armitage Miller (1920–2012)
+Richard Lazarus (1922–2002)
+Stanley Schachter (1922–1997)
+Robert Zajonc (1923–2008)
+Albert Bandura (b. 1925)
+Roger Brown (1925–1997)
+Endel Tulving (b. 1927)
+Lawrence Kohlberg (1927–1987)
+Noam Chomsky (b. 1928)
+Ulric Neisser (1928–2012)
+Jerome Kagan (b. 1929)
+Walter Mischel (b. 1930)
+Elliot Aronson (b. 1932)
+Daniel Kahneman (b. 1934)
+Paul Ekman (b. 1934)
+Michael Posner (b. 1936)
+Amos Tversky (1937–1996)
+Bruce McEwen (b. 1938)
+Larry Squire (b. 1941)
+Richard E. Nisbett (b. 1941)
+Martin Seligman (b. 1942)
+Ed Diener (b. 1946)
+Shelley E. Taylor (b. 1946)
+John Anderson (b. 1947)
+Ronald C. Kessler (b. 1947)
+Joseph E. LeDoux (b. 1949)
+Richard Davidson (b. 1951)
+Susan Fiske (b. 1952)
+Roy Baumeister (b. 1953)
+
+
+
+
+
+Lists
+
+
+
+Counseling topics
+Disciplines
+Important publications
+Organizations
+Outline
+Psychologists
+Psychotherapies
+Research methods
+Schools of thought
+Timeline
+Topics
+
+
+
+
+
+
+
+
+Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+Categories: Experimental psychologyHidden categories: Articles needing additional references from May 2010All articles needing additional references

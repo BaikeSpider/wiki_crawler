@@ -1,0 +1,553 @@
+前列腺癌
+
+
+
+
+
+ 维基百科中的医疗相关内容仅供参考，详见医学声明。如需专业意见请咨询专业人士。
+
+
+前列腺癌
+Prostate cancer
+
+
+同义词
+Carcinoma of the prostate、前列腺癌
+
+
+
+
+
+前列腺的位置
+
+
+医学专科
+肿瘤学
+
+
+症状
+无、难以排尿、尿液中有血迹、骨盆疼痛（英语：pelvic pain）、背痛 或 排尿时疼痛[1][2]
+
+
+常见始发于
+年龄 > 50[3]
+
+
+风险因子（英语：Risk factor）
+年纪较大、家族病史、人种[3]
+
+
+诊断方法
+活体组织切片、医学影像[2]
+
+
+相似疾病或共病
+良性前列腺增生症[1]
+
+
+治疗
+积极监控前列腺癌（英语：Active surveillance of prostate cancer）、手术、放射线疗法、贺尔蒙治疗（英语：Hormonal therapy (oncology)）、化学疗法[2]
+
+
+预后
+五年存活率 99% (US)[4]
+
+
+盛行率
+110万 新增病例 (2014)[5]
+
+
+死亡数
+
+
+307,000 (2014)[5]
+
+
+
+
+
+[编辑维基数据]
+
+
+
+
+
+前列腺癌
+
+
+
+
+
+分类和外部资源
+
+
+医学专科
+肿瘤学
+
+
+ICD-10
+C 61
+
+
+ICD-9-CM
+185
+
+
+OMIM
+176807
+
+
+DiseasesDB
+10780
+
+
+MedlinePlus
+000380
+
+
+eMedicine
+radio/574
+
+
+Patient UK
+前列腺癌
+
+
+
+[编辑此条目的维基数据]
+
+
+
+前列腺癌（英文：Prostate cancer）是出自前列腺的恶性肿瘤[6]。大多数前列腺癌生长速度较为缓慢，但仍有些生长相对快速[1][3]。癌细胞可转移到骨头和淋巴结等部位[7]。前列腺癌早期可能没有症状[1]，晚期可导致排尿困难、尿血、背痛、骨盆疼痛（英语：Pelvic pain）等症状[2]。前列腺肥大也会导致类似的症状。晚期症状还包括因红细胞数量低导致的疲倦[1]。
+前列腺癌的风险因子包含高龄、家族病史、种族等。约99%的病例中患者年龄超过50岁。父、母、手足等亲属患有本病时，发病风险较常人高出2至3倍。美国疾病控制中心统计显示美国非裔前列腺癌发病率最高，欧裔其次，亚裔族群前列腺癌发病率最低[8]。其他风险因子包含饮食中包含大量乳肉制品（红肉、加工肉品、乳制品）或缺乏某些蔬菜[3]。前列腺癌可由活体组织切片确诊。医学影像技术可检测癌细胞是否扩散到身体其他部位[2]。
+前列腺癌筛查（英语：Prostate cancer screening）效果尚不明确[1][3]。前列腺特异抗原（PSA）检测可增加癌症检测率，但不会降低死亡率[9]。由于大多数确诊的前列腺癌没有症状，美国预防医学工作组（英语：United States Preventive Services Task Force）（USPSTF）为防止过度诊断和过度治疗而不建议使用PSA检测。USPSTF认为检测的益处并不超过可能存在的弊端[10]。5α还原酶抑制剂（英语：5-alpha-reductase inhibitor）可能降低较低级的前列腺癌风险，但并不影响高风险前列腺癌，因此不建议用于预防前列腺癌[3]。带有矿物质或维生素的补充剂对前列腺癌风险没有作用[3][11]。
+大多数前列腺癌病例可安全通过主动监测（英语：Active surveillance of prostate cancer）或观察等待（英语：watchful waiting）追查。其他治疗方法包括手术、放射治疗、荷尔蒙治疗（英语：Hormonal therapy (oncology)）、化学治疗，这几种疗法可以合并运用[2]，当癌细胞仅存在于前列腺内部时本病有治愈可能[1]。对于癌细胞已扩散至骨骼的患者，可使用镇痛药、双膦酸盐类药物（英语：bisphosphonate）以及靶向治疗。前列腺癌的治疗效果取决于患者的年龄、健康状况，以及癌症的侵略性与癌细胞的扩散情况。大多数前列腺癌患者并不会最终因前列腺癌而去世[2]。在美国，前列腺癌患者的五年存活率约为99％[12]。在全世界，前列腺癌是第二常见的癌症，也是男性与癌症相关的第五大死因[5]。在2012年，约有110万男性患前列腺癌，又有30.7万人因前列腺癌去世[5]。前列腺癌在84个国家是男性最常见的癌症[5]，且更常发于发达国家[13]，但发展中国家的患病率正在上升[13]。因PSA检测的推广，1980年代和1990年代前列腺癌的发现率显著提升[3]。研究显示并非死于前列腺癌的60岁以上男性，约30％至70％已有前列腺癌变[1]。
+
+
+
+目录
+
+
+1 前列腺
+2 症状
+3 流行病学
+4 筛检
+
+4.1 肛门指检
+4.2 前列腺特异抗原PSA
+
+
+5 确立诊断
+6 治疗
+
+6.1 观察等待
+6.2 手术
+6.3 放射治疗
+6.4 冷冻治疗
+6.5 荷尔蒙疗法
+
+
+7 参考文献
+8 外部链接
+
+
+
+前列腺[编辑]
+主条目：前列腺
+前列腺属于男性生殖系统，主要功能是制造与贮存前列腺液，并在射精时成为精液的一部分。成年男子的前列腺约有3厘米长，重约20公克。它位于骨盆腔，膀胱之下，直肠之前。尿道出膀胱后穿过前列腺，射精时，精液也同样从尿道射出体外。前列腺由许多小腺体构成，它们分泌的前列腺液占精液的20-30%体积。前列腺细胞的增殖要靠各种男性荷尔蒙来调节，包括产自睾丸的睾固酮（testosterone）、来自肾上腺的脱氢表雄酮DHEA（dehydroepiandrosterone）和前列腺本身制造的二氢睾固酮（DHT, dihydrotestosterone）。男性荷尔蒙也掌管第二性征的表现，如脸部的胡须和多于女性的肌肉量。
+症状[编辑]
+早期的前列腺癌大多没有症状。往往是在例行健康检查发现PSA值升高，进一步追查才发现[14]。然而有时前列腺癌也会引起症状，而且和良性前列腺增生症的症状很类似，包括频尿、夜间多尿、排尿困难、尿流细小、血尿、排尿痛等。前列腺癌也可能造成性功能障碍，例如勃起困难、射精疼痛难耐。
+较严重的前列腺癌若侵犯身体其他部位，就可能引起相对应的症状。其中骨痛最常见，多半发生在脊椎、骨盆或肋骨，只要是癌细胞转移之处都可能会痛。承受重量的骨头如脊椎若因癌细胞侵犯而变得脆弱，也可能造成骨折而压迫到脊髓神经，造成下肢无力或大小便失禁[15]。
+
+
+
+
+（A）正常细胞若损坏而无法修复时，会自行凋亡。（B）癌细胞不会凋亡，结果持续增殖而不受控制。
+
+
+流行病学[编辑]
+造成前列腺癌的原因迄今未知[16]。男性的致病危险因子包括了年龄、遗传、种族、节食、生活习惯、药物等等。主要的因子在于年龄。前列腺癌在四十五岁以下是少见的，危险性随着年龄而增加。而平均被检测出来的年龄是七十岁[17]。不过，很多人终其一生不知道自己有前列腺癌。对中国、德国、以色列、牙买加、瑞典以及乌干达的其他死因男性进行尸检发现，50岁以上男性中30%前列腺内存在癌细胞，而70岁以上者，此比率甚至高达80%[18]。美国2005年预计将新确诊前列腺癌患者230,000例，并且将有30,000人死于前列腺癌[19]。
+筛检[编辑]
+肛门指检[编辑]
+检查者带上手套，涂上润滑剂，将手指伸入肛门内的直肠检查前列腺的大小形状与质地。形状不规则、质地硬或软可能是肿瘤，需进一步检查。这个检查只检查前列腺背面，不过85%的前列腺癌是发生在此区。能在肛门指检中摸出来的癌症通常更为严重[20]。只用肛门指检的筛检方式从来没有表现出防止前列腺癌致命的能力[21]。
+前列腺特异抗原PSA[编辑]
+确立诊断[编辑]
+唯一能确立前列腺癌诊断的方法是切片检查，也就是切下一小片前列腺用显微镜观察。但是切片检查之前还有几个方法能提供更多信息。一是尿道镜，是将一个细小的摄影机伸入尿道，进入膀胱。一是直肠超音波检查，是将探测器伸入肛门直肠，作出前列腺超音波成像。
+治疗[编辑]
+前列腺癌的治疗包括观察等待、手术、放射治疗、化学治疗、荷尔蒙治疗，或以上几种疗法合并运用。哪种疗法较适合，要看肿瘤侵犯的范围（称为分期）、癌细胞恶性程度（依葛里森评分法Gleason score）、血中PSA浓度等因素一起考虑。当然也要顾及患者的年龄、体能，并尊重患者的选择。由于部分疗法可能伴随着严重的副作用，如勃起功能失调、尿失禁等，选择治疗方法时要在疗效与生活品质间求取平衡。
+观察等待[编辑]
+手术[编辑]
+前列腺切除术常用于早期前列腺癌，或放射治疗效果不佳的患者。最常用的术式是耻骨后前列腺根除术，医师从下腹部的切口切除前列腺、精囊和邻近组织。另一种方式是经会阴前列腺根除术，伤口位于会阴，也就是阴囊和肛门之间。约有70%的患者可借手术将前列腺癌治愈。
+前列腺根除术对于癌细胞局限于前列腺内的患者相当有效。但是手术过程中难免会伤到一些神经，而影响到患者的生活品质，最常见的并发症是尿失禁和阳萎。约有40%的患者手术后有尿失禁的状况，大多是在打喷嚏、咳嗽或大笑的时候。阳萎是指患者阴茎无法勃起，或无法维持足够的硬度，以致无法进行性生活。患者阴茎的知觉大致正常，受到刺激也能达到高潮，但是勃起和射精的功能却很不理想。服用一些药物如威而钢（Viagra）、犀利士（英语：Tadalafil）（Cialis）、乐威壮（Levitra）可使患者的性功能恢复一些。若是患者非常在乎勃起功能，也可以考虑植入阴茎假体（英语：Penile prosthesis）（俗称人工阴茎），以维持性生活的品质。如果患者癌细胞侵犯的范围很小，也可以用较小规模的手术，设法减少神经的伤害，以避免尿失禁和阳萎。达芬奇外科手术系统广泛使用后该机器人可以进行复杂神经下的精密操作，大手术也能在不伤神经的机率大大增加前列腺切除，从而免除后遗症。
+放射治疗[编辑]
+放射治疗是以集中的辐射线破坏前列腺内的癌细胞。所谓的游离性辐射能破坏DNA的结构，使癌细胞无法持续增长（手机或电器产生的电磁波不会改细胞内的分子结构，称为非游离辐射）。用于前列腺癌的放射治疗又可分为外部照射和近接治疗。
+外部照射是用辐射源(如钴-60)或直线加速器产生的辐射线对准前列腺，并采用多个不同的入射角，以减少对皮肤和周边组织的伤害。一般多将总辐射剂量计算好之后，分为30-40个疗程，每天到治疗室照射一段时间。
+近接治疗是将放射源的针或颗粒依矩阵方式排列，置入前列腺内，在体内持续发挥治癌效果。所用的放射源最早是用镭，现今则多使用碘-125（英语：iodine-125）或钯-133，用管状针经由会阴推入前列腺，在超音波监视下推到定位，并永久留在体内。新式放射源的半衰期约60天，释出伽马射线（γ-ray），穿透性低，所以家属不用耽心被辐射线伤害。患者可以自由行动，不必天天上医院报到。
+冷冻治疗[编辑]
+治前列腺癌也可以用冷冻治疗。冷冻治疗较不具侵略性，也较不需全身麻醉。作法是从会阴皮肤插入一根金属棒，以超音波导引伸到前列腺，然后使用液态氮冷却棒子，将周围组织冰冻于摄氏零下196度。前列腺细胞内的水若是结冻，细胞也就死了。尿道另外插入一支充满温液体的导尿管以免尿道结冻。冷冻治疗可以减少排尿问题，但是勃起困难的可能则提高到90%。冷冻治疗用来作前列腺癌的起始治疗，效果不如手术或是放射治疗[22]。但用来治疗放射治疗后复发的癌症则比根治式前列腺切除术好。
+荷尔蒙疗法[编辑]
+
+
+
+
+前列腺癌的荷尔蒙治疗。图表中显示在荷尔蒙治疗中，重要的不同器官（紫色字体）、荷尔蒙（黑色字体与箭头）、和治疗（红色字体与箭头）。
+
+
+荷尔蒙疗法（Hormone therapy）是用内科或外科的方法，使前列腺癌细胞无法获得双氢睾酮（Dihydrotestosterone，DHT）、在前列腺中产生的一种荷尔蒙、使大部分前列腺癌细胞能够生长与扩散。阻止双氢睾酮，通常使得前列腺癌停止生长甚至萎缩。但是荷尔蒙疗法很少治愈前列腺癌，因为癌症最初对荷尔蒙疗法有反应，但在一到二年以后癌症对治疗有抗性。因此荷尔蒙疗法，通常用于已经扩散的前列腺癌。它也用于某些作放射治疗或手术的病人，帮助防止前列腺癌复发。前列腺癌荷尔蒙疗法为瞄准身体生产双氢睾酮的路径。反馈环路包括睾丸、下丘脑、脑下垂体、肾上腺和前列腺控制双氢睾酮的血中浓度。首先，双氢睾酮的低血液浓度，刺激下丘脑生产促性腺激素释放激素（Gonadotropin-releasing hormone，GnRH）。性腺激素释放素GnRH，然后刺激脑下垂体生产黄体生成素（Luteinizing hormone，LH），并且刺激睾丸生产睾酮（Testosterone）。最终，睾酮从睾丸和脱氢表雄酮（Dehydroepiandrosterone，DHEA）从肾上腺，刺激前列腺生产更多双氢睾酮。荷尔蒙疗法用中断这条路径在任何一点，可以减少双氢睾酮的浓度。
+有几种形式的荷尔蒙疗法：
+
+睾丸摘除术 - 外科手术摘除睾丸。
+抗雄性激素剂药物治疗
+
+参考文献[编辑]
+
+
+^ 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 Prostate Cancer Treatment (PDQ®). NCI. 2014-04-11 [1 July 2014]. 
+^ 2.0 2.1 2.2 2.3 2.4 2.5 2.6 Prostate Cancer Treatment (PDQ®). National Cancer Institute. 2014-04-08 [1 July 2014]. 
+^ 3.0 3.1 3.2 3.3 3.4 3.5 3.6 3.7 World Cancer Report 2014. World Health Organization. 2014: Chapter 5.11. ISBN 9283204298. 
+^ 引用错误：没有为名为SEER2014的参考文献提供内容
+^ 5.0 5.1 5.2 5.3 5.4 World Cancer Report 2014. World Health Organization. 2014: Chapter 1.1. ISBN 9283204298. 
+^ Prostate Cancer. National Cancer Institute. [12 October 2014]. 
+^ Ruddon, Raymond W. Cancer biology 4th ed. Oxford: Oxford University Press. 2007: 223. ISBN 9780195175431.  引文格式1维护：冗余文本 (link)
+^ 美国疾病管制局. Prostate Cancer Rates by Race and Ethnicity. [2016-02-24]. （原始内容存档于2016-02-24）. 
+^ Djulbegovic M, Beyth RJ, Neuberger MM, Stoffs TL, Vieweg J, Djulbegovic B, Dahm P. Screening for prostate cancer: systematic review and meta-analysis of randomised controlled trials. BMJ. 2010, 341: c4543. PMC 2939952. PMID 20843937. doi:10.1136/bmj.c4543. 
+^ Talking With Your Patients About Screening for Prostate Cancer (PDF). [2012-07-02]. 
+^ Stratton J, Godwin M. The effect of supplemental vitamins and minerals on the development of prostate cancer: A systematic review and meta-analysis. Family practice. 2011, 28 (3): 243–52. PMID 21273283. doi:10.1093/fampra/cmq115. 
+^ SEER Stat Fact Sheets: Prostate Cancer. NCI. [18 June 2014]. 
+^ 13.0 13.1 Baade PD, Youlden DR, Krnjacki LJ. International epidemiology of prostate cancer: geographical distribution and secular trends. Molecular nutrition & food research. February 2009, 53 (2): 171–84. PMID 19101947. doi:10.1002/mnfr.200700511. 
+^ Miller, DC; Hafez, KS, Stewart, A, et al. Prostate carcinoma presentation, diagnosis, and staging: an update form the National Cancer Data Base. Cancer. 2003, 98: 1169. PMID 12973840.  引文使用过时参数coauthors (帮助)
+^ van der Cruijsen-Koeter IW, Vis AN, Roobol MJ, Wildhagen MF, de Koning HJ, van der Kwast TH, Schroder FH. Comparison of screen detected and clinically diagnosed prostate cancer in the European randomized study of screening for prostate cancer, section rotterdam. Urol. 2005 Jul;174 (1):121-5. PMID 15947595
+^ Jemal A, Murray T, Ward E, Samuels A, Tiwari RC, Ghafoor A, Feuer EJ, Thun MJ. Cancer statistics, 2005. CA Cancer J Clin. 2005 Jan-Feb;55（1）:10-30. Erratum in: CA Cancer J Clin. 2005 Jul-Aug;55（4）:259. PMID 15661684
+^ Hoffman RM; Gilliland FD; Eley JW; Harlan LC; Stephenson RA; Stanford JL; Albertson PC; Hamilton AS; Hunt WC; Potosky AL. Racial and ethnic differences in advanced-stage prostate cancer: the Prostate Cancer Outcomes Study. J Natl Cancer Inst. 2001 Mar 7;93（5）:388-95. PMID 11238701
+^ Steinberg GD; Carter BS; Beaty TH; Childs B; Walsh PC. Family history and the risk of prostate cancer. Prostate. 1990;17（4）:337-47. PMID 2251225
+^ Lichtenstein P; Holm NV; Verkasalo PK; Iliadou A; Kaprio J; Koskenvuo M; Pukkala E; Skytthe A; Hemminki K. Environmental and heritable factors in the causation of cancer--analyses of cohorts of twins from Sweden, Denmark, and Finland. N Engl J Med. 2000 Jul 13;343 (2):78-85. PMID 10891514
+^ Chodak GW, Keller P, Schoenberg HW. Assessment of screening for prostate cancer using the digital rectal examination. J Urol. 1989 May;141 (5):1136-8. PMID 2709500
+^ Krahn MD, Mahoney JE, Eckman MH, Trachtenberg J, Pauker SG, Detsky AS. Screening for prostate cancer. A decision analytic view. JAMA. 1994 Sep 14;272 (10):773-80. PMID 7521400
+^ Bahn DK, Lee F, Badalament R, Kumar A, Greski J, Chernick M. Targeted cryoablation of the prostate: 7-year outcomes in the primary treatment of prostate cancer. Urology. 2002 Aug;60（2 Suppl 1）:3-11. PMID 12206842
+
+
+外部链接[编辑]
+
+Prostate Cancer - from Symptoms to Medical and Natural Treatment Options on urologychannel.com
+Prostate Cancer Foundation
+American Cancer Society
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+肿瘤：男性泌尿生殖肿瘤（C60–C63/D29、185–187/222)
+
+
+
+
+
+
+男性内生殖器
+
+
+
+
+
+睾丸癌
+
+
+
+
+
+
+性腺间质肿瘤
+
+
+
+
+支持间质细胞瘤
+
+间质细胞瘤
+支持细胞瘤
+
+
+
+
+
+
+
+
+
+
+
+生殖细胞瘤
+
+
+
+
+
+
+生殖性
+
+
+
+
+精原细胞瘤（英语：Seminoma）
+
+精母细胞型精原细胞瘤（英语：Spermatocytic seminoma）
+小管内精原细胞瘤（英语：Intratubular germ cell neoplasia）
+
+
+
+
+
+
+
+
+
+
+
+非生殖性
+
+
+
+
+胚胎性癌
+内胚窦瘤
+性腺胚细胞瘤
+畸胎瘤
+绒毛膜癌
+胎组织瘤（英语：Embryoma）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+前列腺癌
+
+
+
+
+恶性腺瘤（英语：Adenocarcinoma）
+前列腺上皮内瘤（英语：Prostatic intraepithelial neoplasia）
+
+高级前列腺上皮内瘤（英语：High-grade prostatic intraepithelial neoplasia）
+
+
+小细胞癌
+移行细胞癌（英语：Transitional cell carcinoma）
+
+
+
+
+
+
+
+
+
+
+
+男性外生殖器
+
+
+
+
+
+阴茎癌
+
+
+
+
+阴茎癌
+
+乳房外柏哲德氏病
+
+
+博文氏病（英语：Bowen's disease）
+鲍温样丘疹病（英语：Bowenoid papulosis）
+增殖性红斑（英语：Erythroplasia of Queyrat）
+珍珠疹
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+生殖医学索引
+
+
+
+
+
+
+描述
+
+
+
+解剖
+
+男
+女
+
+
+生理
+
+经期
+
+
+发育
+
+性别决定和分化（英语：Template:Sex determination and differentiation）
+
+
+
+
+
+
+
+
+
+
+疾病
+
+
+
+感染
+
+STD/STI
+
+
+先天
+
+男（英语：Template:Male congenital anomalies of genital organs）
+女
+
+
+肿瘤及癌症
+
+男
+女
+生殖腺（英语：Template:Gonadal tumors, paraganglioma, and glomus）
+生殖细胞
+
+
+其他
+
+男
+女
+
+
+症状
+
+
+
+
+
+
+
+
+治疗
+
+
+
+程序
+
+男（英语：Template:Male genital procedures）
+女
+
+
+药物
+
+前列腺肥大（英语：Template:Drugs used in benign prostatic hypertrophy）
+不举和早泄（英语：Template:Drugs for erectile dysfunction and PE）
+性功能障碍
+感染
+
+性病（英语：Template:Microbicides for sexually transmitted diseases）
+
+
+激素
+
+雄激素
+动情素
+黄体素
+GnRH（英语：Template:Gonadotropins and GnRH）
+催乳素（英语：Template:Prolactin inhibitors and anti-inflammatory products for vaginal administration）
+
+
+
+
+辅助生殖
+生育控制
+
+激素避孕药
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh85107606
+GND: 4047511-6
+BNF: cb12647583w（数据）
+NDL: 00575400
+
+
+
+
+
+
+
+
+
+
+
+
+分类：前列腺癌泌尿科前列腺隐藏分类：有参考文献错误的页面引文格式1维护：冗余文本含有过时参数的引用的页面使用PMID魔术链接的页面拥有贡献者连结的条目包含规范控制信息的维基百科条目

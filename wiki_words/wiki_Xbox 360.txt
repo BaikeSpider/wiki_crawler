@@ -1,0 +1,1184 @@
+Xbox 360
+
+
+
+
+
+
+
+Microsoft Xbox 360
+
+
+
+
+
+
+
+制造商
+微软（Microsoft）
+
+
+产品家族
+Xbox
+
+
+型式
+电视游戏机
+
+
+世代
+第七世代
+
+
+推出日期
+
+
+
+北美：2005年11月22日
+欧洲：2005年12月2日
+日本：2005年12月10日
+台湾：2006年3月16日
+香港：2006年3月16日
+
+
+
+
+
+停产日期
+全球：2016年4月20日
+
+
+销售台数
+8400万部(截至2014年6月9日 (2014-06-09)[update])[1]
+
+
+媒体
+DVD、CD（支持外接式HD DVD）
+
+
+CPU
+3.2 GHz PPC三核心Xenon（开发代码）
+
+
+存储空间
+硬盘、存储卡
+
+
+控制器输入
+4个有线或无线控制器wired or wireless
+
+
+连接接口
+USB 2.0
+
+
+在线服务
+Xbox Live
+
+
+最畅销游戏
+Kinect 大冒险（2189万套）
+
+
+向下兼容
+大部分的Xbox游戏（需要使用硬盘及最新的系统更新）
+
+
+前代机种
+Xbox
+
+
+后继机种
+Xbox One
+
+
+Xbox 360是美国的电脑软件公司微软所发行的第二部家用游戏主机，为Xbox的后继机种。Xbox 360为索尼电脑娱乐PlayStation 3和任天堂Wii的市场竞争者，同为第七世代游戏主机。Xbox 360最早于2005年5月12日，在E3游戏展前一星期首度曝光，2005年11月22日在北美地区上市，其后扩展至欧洲及日本地区，而香港及台湾也已经于2006年3月16日正式上市。
+Xbox 360可与Xbox LIVE紧密结合，玩家可以通过Xbox LIVE在网络上进行连接对战，或者下载游戏、音乐、电影和电视节目。Xbox 360也可以链接电脑上的Windows Media Center，让Xbox 360分享电脑中存储的图片、音乐、视频、电影和电视节目。Xbox 360也在个别地区提供与第三方厂商合作的多媒体流服务，例如在美国的Netflix和ESPN服务，以及英国的Sky Player服务。在台湾则是和台中的威达云电讯合作，将Xbox 360当作数字机顶盒，提供高清电视节目。
+2016年4月20日，微软公司宣布将停产Xbox 360，但Xbox LIVE将继续为现有的Xbox 360玩家服务[2]。
+
+
+
+目录
+
+
+1 历史
+
+1.1 开发
+1.2 名称由来
+1.3 上市
+1.4 加强多媒体影音功能
+1.5 降价与改版
+1.6 New Xbox Experience
+1.7 新型Xbox 360主机与Kinect
+
+
+2 硬件架构
+
+2.1 主机芯片
+
+2.1.1 Xenon核心
+2.1.2 Zephyr核心
+2.1.3 Falcon核心
+2.1.4 Opus核心
+2.1.5 Jasper核心
+2.1.6 Valhalla核心
+
+
+2.2 GPU
+2.3 内存
+2.4 系统带宽
+2.5 支持视频播放格式
+
+2.5.1 支持分辨率
+2.5.2 主机类别
+
+
+
+
+3 保修时间
+4 故障问题
+5 相关条目
+6 参考文献
+7 外部链接
+
+
+
+历史[编辑]
+开发[编辑]
+Xbox 360在开发时有着Xbox Next、Xenon、Xbox 2和Xbox FS等称呼。Xbox 360的构想在2003年初被提出。2003年2月，由微软副总裁J Allard带领的Xenon软件平台设计项目展开，同月，微软邀请了四百名游戏开发者在华盛顿州的贝尔维尤举行会议，以寻求他们对新游戏主机的支持。同样在二月时，前美国SEGA总裁Peter Moore加入了微软。2003年8月12日，ATI与微软签订制造新主机显示芯片的合约，此协议并在签订的两天后公开。在Xbox 360正式上市前，多部初期开发包被发现是用苹果的Power Mac G5所改装而成。这是因为Power Mac G5的PowerPC 970处理器架构与Xbox 360所使用的IBM特制Xenon处理器相同。Xenon处理器的核心是从PlayStation 3的Cell处理器PPE架构些微修改而来。根据David Shippy和Mickie Phipps的说法，IBM的员工对索尼和东芝隐藏了这件事。
+名称由来[编辑]
+微软公司设计Xbox 360时的主要目标是“创造一个生动的娱乐体验”。基于这个创意，微软推出了全新的Xbox 360游戏平台，提供给用户独特的娱乐体验，更多的是注重他们个性化的游戏喜好和游戏风格，而不是游戏本身。将用户做为整个娱乐体验的中心，一切的设计和服务都是以他们为本。因此微软采用了象征意义的360°作为名称。另外由于竞争对手已经进入第三代，微软不愿意采用Xbox 2的名字，让其产品给消费者落后的感觉。
+上市[编辑]
+Xbox 360于2005年11月22日在美国和加拿大上市，随后于12月2日在欧洲、12月10日在日本上市。2006年3月16日于香港和台湾上市。Xbox 360第一年就在36个国家上市，创下游戏主机第一年上市国家数的新纪录。
+上市初的Xbox 360外型呈白色流线型，使用三核心IBMPowerPC架构的Xenon处理器以及ATI设计的Xenos显示芯片，主机并内置网络连接功能，亦支持DVD视频播放。
+加强多媒体影音功能[编辑]
+
+
+
+
+Xbox 360（左）的外接式HD DVD光盘驱动器（中）及其遥控器（右）
+
+
+微软于2006年1月CES大会表示将于年底推出HD-DVD外接光盘驱动器。Xbox360外接式HD-DVD光盘驱动器将完全支持HD-DVD播放机所具备的基本影音规范与功能，视频解码则由GPU Xenos与中央处理器负责。该外接式光盘驱动器采用USB2.0接口与主机连接，本体并另含两组USB2.0连接端口。2006年11月微软开放了Live Marketplace的服务，美国用户可于Live卖场购买由各大好莱坞片商与电视公司提供之商业视频、电视系列剧下载至主机观看。片源种类涵盖了最新的电影与电视系列剧。
+2007年1月微软于CES大会上宣布将于2007年末在Xbox 360上推出IPTV服务，与美国各网络服务商与频道提供商合作，以网络流技术实现随选视频之平台。Xbox 360的IPTV将不仅止于单纯地在线观看电视频道之功能，该系统将与Xbox Live完整结合，可让用户于背景录制节目，畅玩游戏与在线好友语音视频聊天。
+降价与改版[编辑]
+2007年3月29日微软宣布售价479美元的Xbox 360 Elite菁英版主机将于一个月后于美国上市。Elite版主机与手把为全黑涂装，新增HDMI原生输出端口与提升硬盘容量至120 GB，4月29日在北美各大卖场上市。Elite初期需求量超乎业界预期。8月8日微软宣布北美即日起无硬盘之游乐版Xbox 360主机售价降至279美元、有20 GB硬盘之豪华版降至349美元、菁英版降至449美元。豪华版新增HDMI输出支持，并全面搭载2007年夏季起用于绘图芯片的新型热导管以加强散热对流效率。2008年9月5日微软Xbox Live首席程序员Larry Major Nelson Hryb宣布北美Xbox 360游乐版售价降至199美元、有60 GB硬盘豪华版降至299美元、菁英版降至399美元。
+New Xbox Experience[编辑]
+2008年11月19日微软在Xbox Live上推出更新，名为NXE（New Xbox Experience），让玩家能够如同Wii的Mii功能一样创造属于自己的虚拟人偶，并对浏览接口做大幅度更新，最重要的是，支持硬盘安装运行，可将游戏复制到Xbox 360硬盘中，加快游戏读取速度。
+新型Xbox 360主机与Kinect[编辑]
+2009年6月1日微软于E3游戏展中公布代号为Project Natal的体感设备，让玩家可以通过玩家的肢体动作或语音来进行Xbox 360接口以及游戏的操控。隔年6月，微软在E3游戏展中宣布Project Natal体感设备的正式名称为Kinect，并预计于11月在美国上市，售价149美元。会中并发表了新型Xbox 360主机Xbox 360 S。新的轻薄版主机改变了原先的外观、缩小尺寸并减轻重量，250GB版本主机外壳改采钢琴烤漆并大幅降低了主机运作时的噪音和耗电量，并内置Wi-Fi 802.11a/b/g/n高速无线网络与Kinect专用连接端口。新型Xbox 360主机于发表同日在美国上市。2010年8月21日新型Xbox 360 250GB主机在台湾上市。11月4日Kinect正式在美国上市，11月18日在香港上巿，11月20日在日本及台湾上市。
+2011年1月7日，微软在CES展上宣布Xbox 360主机的全球销售量突破5000万部，Kinect体感设备则达到800万部。2011年6月，微软宣布Xbox 360全球累积销售量达到5500万部。2012年9月，微软宣布Xbox 360全球累积销售量达到7000万部。
+硬件架构[编辑]
+主机芯片[编辑]
+Xenon核心[编辑]
+2005年11月上市的豪华版和核心版采用的初版设计。
+
+IBM90nmCPU，三核心，1.65亿晶体管，核心面积168mm2
+ATI90 nmGPU和版载DRAM
+Low profile GPU散热器
+标准CPU散热器
+203W电源，12V电流16.5A
+
+IBM 90 nm CPU ATI 90 nm GPU和嵌入式DRAM
+Zephyr核心[编辑]
+Zephyr是第一款试图修复三红问题并加入HDMI接口的改进版。2007年5月的菁英版首次引入该设计。2007年7月豪华版本也开始采用Zephyr主板。
+
+新的精英版采用120G 硬盘
+更新的主板布局
+HDMI输出
+CPU周边加入胶粘剂
+加入热管的GPU散热器
+CPU和GPU制程仍为90 nm
+
+CPU和GPU周边都加上了胶粘剂，将芯片和主板更牢靠的固定在一起。
+Falcon核心[编辑]
+2007年8月之后生产的所有Xbox 360豪华版和游乐版主机都采用了新的65 nm CPU及新散热器，但GPU仍然是90 nm，散热器也和Zephyr一样。这款改进版基于Zephyr，并减少了一些电容和电感，降低了成本。从2007年9月开始出货Xbox 360豪华版主机开始采用Falcon主板。Xbox 360菁英版最终也采用了这款主板。LOT号在0734以后的Xbox 360采用Falcon的可能性最大。
+
+IBM 65 nm CPU
+ATI 90 nm GPU
+体积更大，经过改进的CPU散热器
+稳压器、电容和电感等组件减少
+175W电源，12V电流降至14.2A，电源接口改变（避免被插入之前版本的主机）
+
+GPU上的嵌入式DRAM面积减小
+Opus核心[编辑]
+这是一款介于65 nm和90 nm CPU之间的版本，采用了新的散热器但没有HDMI接口，装入Xenon的外壳中，仅用于返修机。这款主板于2008年7月底在返修机上出现。
+
+基于Falcon主板
+没有HDMI接口
+IBM 65 nm CPU
+ATI 90 nm GPU
+Falcon CPU散热器
+Zephyr GPU散热器
+
+Jasper核心[编辑]
+Jasper在2008年11月底在游乐版主机上出现。采用65 nm GPU进一步降低了成本。电源功率也进一步降低到150W。12V电流降至12.1A（12.1A x 12V = 145.2W）。板载闪存升级到256MB以便安装NXE（New Xbox Experience）更新，而不需要再外接存储卡；目前日本与美国已有512MB。
+
+IBM 65 nm CPU
+ATI 65 nm GPU
+150W电源，12V电流为12.1A，采用新电源接口（避免被插入之前版本的主机）
+板载闪存从16MB升级到256MB，和NXE更新的体积相适应
+
+Valhalla核心[编辑]
+Valhalla核心使用在在2010年6月14日E3展会上发布的Xbox 360 Slim上，采用45 nm的CPU和GPU进一步降低成本和功耗。
+GPU[编辑]
+Xbox360的图型处理器（GPU）是ATI全新设计的R500（“Xenos”）GPU
+
+一共3.37亿个晶体管
+500MHz运行频率GPU（90纳米制程，2.32亿个晶体管）
+500 MHz 10MB内嵌DRAM内存（90纳米制程，1.05亿个晶体管）
+
+NEC设计的eDRAM有处理彩色、阿尔法混合（Alpha Blending）、Z轴／模板缓存（Zbuffer）、抗锯齿（Anti-alias）的逻辑功能。
+
+
+48路并联浮点动态着色管线，由于是统一着色结构，所以顶点及像素命令皆可处理
+
+每条管线拥有4个逻辑运算单元用以处理顶点或像素着色命令
+统一着色运算架构（这代表每条管线都能够运算像素或顶点着色命令）
+支持DirectX 9.0的3.0着色模式，对有DirectX10着色模式实现有限度支持
+每个时钟周期可以处理两个着色命令
+通过所有着色管线并联每个时钟周期一共可以处理96个着色命令
+着色性能：每秒处理480亿个着色命令
+
+
+每个时钟周期处理16个已过滤和16个未过滤的贴图
+多边形最大处理性能：每秒5亿个三角形
+像素填充：在4倍多重反锯齿（MSAA）情况下每秒160亿个
+粒子能力：最大理论值每秒0.96亿，与CPU协作时最大理论值为3.36亿
+Xenos内置10MB eDram的设计之诉求在于有效降低传统GPU架构在运行反锯齿下对于性能的冲击。
+
+内存[编辑]
+
+512MB GDDR3
+700MHz（等效于1400MHz）
+共享内存架构（UMA）
+
+系统带宽[编辑]
+带宽数据：
+
+22.4 GB/s内存总线界面（基于128 bit位宽总线，每时锺周期700 MHz×2次访问（每波峰一次）)
+256 GB/s eDRAM逻辑内部到eDRAM内部内存带宽
+32 GB/s GPU到eDRAM带宽（基于64bit DDR总线，每时锺周期2 GHz×2次访问）
+21.6 GB/s 前端总线（上下行各10.8 GB/s）
+1 GB/s 南桥带宽（上下行各500 MB/s）
+
+支持视频播放格式[编辑]
+Xbox360支持自外接U盘媒介以文件选取方式进行媒体播放
+
+DVD MPEG2
+WMV 9、VC-1、WMVHD
+MPEG4/AVC H.264—Up to 15Mbps从Baseline、Main至最高的High Profile配置。两声道
+
+AAC LC Main Profile的声音输出AAC LC与Main Profile。
+
+MPEG4 Part2—Up to 8Mbps，SImple Profile。两声道AAC LC Main Profile的声音输出。
+
+MPEG4/AVC/H.264将于2007年5月春季系统更新后提供支持。
+支持分辨率[编辑]
+
+
+分辨率
+纵横比
+百万像素
+标准
+输出（RGB输出使用VGA连接或SCART）,Xbox 360 Elite:HDMI输出
+
+
+640x480隔行扫描
+4:3
+0.31隔行扫描
+480i
+复合端子／S-端子／色差端子／RGBHV／RGB-SCART／HDMI
+
+
+640x480
+4:3
+0.31
+VGA／480p
+色差端子／RGBHV
+
+
+848x480
+16:9
+0.41
+WVGA／Widescreen 480p
+RGBHV
+
+
+1024x768
+4:3
+0.79
+XGA
+RGBHV
+
+
+1280x720
+16:9
+0.92
+720p
+色差端子／RGBHV／HDMI
+
+
+1280x768
+5:3
+0.98
+WXGA
+RGBHV
+
+
+1366x768
+16:9
+1.04
+WXGA
+RGBHV
+
+
+1280x1024
+5:4
+1.31
+SXGA
+RGBHV
+
+
+1440x900
+16:10
+1.29
+WXGA+
+RGBHV
+
+
+1680x1050
+16:10
+1.76
+WSXGA+
+RGBHV
+
+
+1920x1080隔行扫描
+16:9
+2.07隔行扫描
+1080i
+色差端子
+
+
+1920x1080
+16:9
+2.07
+1080p
+色差端子／RGBHV／HDMI
+
+
+主机类别[编辑]
+
+最新各型号比较
+
+型号名称
+主机颜色
+硬盘容量
+Xbox游戏兼容
+Usb端子
+网络类型
+CPU制程
+GPU制程
+HDMI端子
+光纤端子
+备注
+
+
+核心版
+灰白
+无
+需另购硬盘
+3个
+无网络线，没有无线网络
+90 nm
+90 nm
+无
+无
+无银色托盘／无耳筒／有线控制器／已停售
+
+
+Arcade游乐版
+灰白
+无
+需另购硬盘
+3个
+网络线，没有无线网络
+65 nm
+65 nm
+有
+有
+无银色托盘／无耳筒
+
+
+豪华版
+灰白
+20G
+可以
+3个
+网络线，没有无线网络
+90 nm
+90 nm
+无
+有
+已停售
+
+
+豪华版
+灰白
+60G
+可以
+3个
+网络线，没有无线网络
+65 nm
+65 nm
+有
+有
+已停售
+
+
+ELITE旗舰版
+黑色
+120G
+可以
+3个
+网络线，没有无线网络
+65 nm
+65 nm
+有
+有
+已停售
+
+
+XBOX 360 S
+黑色
+4G
+需另购硬盘
+5个
+网络线与无线网络
+45 nm
+45 nm
+有
+有
+无
+
+
+XBOX 360 S
+黑色（镜面）
+250G
+可以
+5个
+网络线与无线网络
+45 nm
+45 nm
+有
+有
+无
+
+
+XBOX 360 S
+冰晶白（镜面）
+4G
+需另购硬盘
+5个
+网络线与无线网络
+45 nm
+45 nm
+有
+有
+无
+
+
+
+各型号内容物比较
+
+名称
+手把
+耳筒
+影音端子
+网络周边
+电源线
+售价（HK/NT）
+备注
+
+
+无硬盘核心版
+灰白有线手把x1
+无耳筒
+AV端子x1
+无
+203wx1
+1699/10888
+无银色托盘／这里的新台币价格为最初发售价格／已停售
+
+
+Arcade游乐版
+灰白无线手把x1
+无耳筒
+AV端子x1,有HDMI孔（HDMI端子需另购）
+无
+150wx1
+1799/6980
+无银色托盘／256MB内存
+
+
+20G豪华版
+灰白色无线手把x1
+有线耳筒x1
+色差端子x1
+ETHERNET网络线x1
+203wx1
+2499/13888
+这里的新台币价格为最初发售价格／已停售
+
+
+60G豪华版
+灰白无线手把x1
+有线耳筒x1
+AV色差2合1端子x1,有HDMI孔（HDMI端子需另购）
+ETHERNET网络线x1
+150wx1
+2499/10360
+已停售
+
+
+120G ELITE旗舰版
+黑色无线手把x1
+有线耳筒x1
+AV端子x1,有HDMI孔（HDMI端子需另购）
+ETHERNET网络线x1
+150wx1
+2369/10360
+无
+
+
+4G S Kinect同捆
+黑色无线手把x1
+无耳筒
+AV端子x1,有HDMI孔（HDMI端子需另购）
+ETHERNET网络线x1
+135wx1
+2499/9888
+5*USB 2.0,1*KINECT AUX
+
+
+250G S Kinect同捆
+黑色无线手把x1
+有线耳筒x1
+AV端子x1,有HDMI孔（HDMI端子需另购）
+ETHERNET网络线x1
+135wx1
+3099/12888
+5*USB 2.0,1*KINECT AUX
+
+
+4G S
+黑色无线手把x1
+无耳筒
+AV端子x1,有HDMI孔（HDMI端子需另购）
+ETHERNET网络线x1
+135wx1
+*/6980
+5*USB 2.0,1*KINECT AUX
+
+
+250G S
+黑色无线手把x1
+有线耳筒x1
+AV端子x1,有HDMI孔（HDMI端子需另购）
+ETHERNET网络线x1
+135wx1
+2499/9888
+5*USB 2.0,1*KINECT AUX
+
+
+保修时间[编辑]
+三红灯及E74问题微软提供三年保修，其他主机问题，提供一年保修。
+故障问题[编辑]
+更多信息：Xbox 360故障问题
+相关条目[编辑]
+
+Xbox
+Xbox 360故障问题
+X06
+
+参考文献[编辑]
+
+
+^ E3 2014: $399 Xbox One Out Now, Xbox 360 Sales Rise to 84 million. GameSpot （英语）. 
+^ 微软宣布Xbox 360停产. 时报信息. 2016-04-22. 
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：Xbox 360
+
+
+
+Xbox（美国）
+Xbox（日本）
+Xbox（台湾）
+Xbox（香港）
+Xbox（简体中文）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+微软电子游戏产品
+
+
+
+
+
+
+游戏平台
+
+
+
+
+
+个人电脑
+
+
+
+
+Games for Windows
+DirectX
+
+
+
+
+
+
+
+
+
+在线服务
+
+
+
+
+Xbox Live
+
+虚拟形象（英语：Avatar (Xbox Live)）
+Games应用商店
+
+街机游戏
+特色游戏（英语：Xbox Live Indie Games）
+Games with Gold
+
+
+
+
+Games for Windows – Live（英语：Games for Windows – Live）
+随处都有Xbox Live（英语：Live Anywhere）
+Game Room（英语：Game Room）
+
+
+
+
+
+
+
+
+
+Xbox系列
+
+
+
+
+Xbox
+Xbox 360
+
+发售（英语：Xbox 360 launch）
+故障问题
+系统软件
+应用软件（英语：Xbox 360 applications）
+
+
+Xbox One
+
+系统软件（英语：Xbox One system software）
+应用软件（英语：List of Xbox One applications）
+
+
+
+
+
+
+
+
+
+
+
+
+
+游戏列表
+
+
+
+Xbox
+Xbox 360
+
+可下载（英语：List of downloadable Xbox 360 games）
+街机游戏（英语：List of Xbox Live Arcade games）
+街机Kinect（英语：List of Xbox Live Arcade Kinect games）
+Kinect游戏（英语：List of Kinect games）
+Kinect Fun Labs（英语：Kinect Fun Labs）
+3D支持（英语：List of Xbox 360 games with 3D support）
+SmartGlass支持
+点播游戏（英语：List of Xbox 360 Games on Demand）
+Xbox原生（英语：List of Xbox Originals）
+向后兼容（英语：List of Xbox games compatible with Xbox 360）
+
+
+Xbox One
+
+向后兼容（英语：List of Xbox 360 games compatible with Xbox One）
+最畅销（英语：List of best-selling Xbox One video games）
+Xbox Play Anywhere
+
+
+Game Room（英语：List of Game Room games）
+Platinum Hits
+Games for Windows
+Windows点播游戏（英语：List of Windows Games on Demand）
+Windows平台Xbox（英语：List of Xbox games on Windows）
+Windows Phone平台Xbox（英语：List of Xbox games on Windows Phone）
+Zune游戏（英语：List of Zune applications#Games）
+
+
+
+
+
+
+
+
+配件
+
+
+
+Xbox控制器（英语：Xbox Controller）
+Xbox 360配件（英语：List of Xbox 360 accessories）
+Xbox 360控制器（英语：Xbox 360 Controller）
+HD DVD Player（英语：Xbox 360 HD DVD Player）
+Xbox Live Vision（英语：Xbox Live Vision）
+无线耳机（英语：Xbox 360 Wireless Headset）
+无线方向盘（英语：Xbox 360 Wireless Racing Wheel）
+Xbox One控制器（英语：Xbox One Controller）
+Kinect
+Microsoft SideWinder（英语：Microsoft SideWinder）
+
+
+
+
+
+
+
+
+宣传
+
+
+
+OurColony（英语：OurColony）
+《官方Xbox杂志》
+Xbox Exhibition（英语：Xbox Exhibition disks）
+X展
+Xbox Rewards（英语：Xbox Rewards）
+西雅图海湾者 （赞助）
+Summer of Arcade（英语：Summer of Arcade）
+
+
+
+
+
+
+
+
+开发工具
+
+
+
+Xbox开发工具包
+XNA
+XNA Game Studio（英语：Microsoft XNA Game Studio）
+PartnerNet
+ID@Xbox（英语：ID@Xbox）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+第七世代游戏机
+
+
+
+
+
+
+家用游戏机
+
+
+
+PlayStation 3
+Xbox 360
+Wii
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+任天堂DS家族
+
+任天堂DS
+DS Lite
+任天堂DSi
+
+
+PlayStation Portable
+
+
+
+
+
+
+
+
+微型游戏机
+
+
+
+Zeebo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+家用游戏机
+
+
+
+
+
+
+雅达利
+
+
+
+雅达利2600
+雅达利5200
+雅达利7800
+雅达利Jaguar
+雅达利XEGS（英语：Atari XEGS）
+乓
+
+
+
+
+
+
+
+
+万代
+
+
+
+Apple Pippin
+Bandai Super Vision 8000（英语：Bandai Super Vision 8000）
+Playdia
+
+
+
+
+
+
+
+
+卡西欧
+
+
+
+卡西欧Loopy
+PV-1000（英语：PV-1000）
+
+
+
+
+
+
+
+
+Commodore国际
+
+
+
+Amiga CD32（英语：Amiga CD32）
+Amiga CDTV（英语：Amiga CDTV）
+Commodore 64 Games System（英语：Commodore 64 Games System）
+
+
+
+
+
+
+
+
+微软
+
+
+
+Xbox
+Xbox 360
+Xbox One
+
+
+
+
+
+
+
+
+日本电气
+
+
+
+PC Engine
+PC-FX
+
+
+
+
+
+
+
+
+任天堂
+
+
+
+红白机
+超级任天堂
+任天堂64
+GameCube
+Wii
+Wii U
+任天堂Switch
+
+
+
+
+
+
+
+
+飞利浦
+
+
+
+米罗华奥德赛²
+CD-i
+
+
+
+
+
+
+
+
+世嘉
+
+
+
+SG-1000
+世嘉Master System
+Mega Drive
+世嘉土星
+Dreamcast
+
+
+
+
+
+
+
+
+SNK Playmore
+
+
+
+Neo Geo
+Neo Geo CD（英语：Neo Geo CD）
+
+
+
+
+
+
+
+
+索尼
+
+
+
+PlayStation
+PlayStation 2
+PlayStation 3
+PlayStation 4
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+
+1970年代
+
+
+
+
+APF-MP1000
+Bally Astrocade
+Fairchild Channel F
+Intellivision
+米罗华奥德赛
+RCA Studio II
+VC 4000 / 1292高级可编程视频系统
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+Action Max（英语：Action Max）
+Arcadia 2001
+ColecoVision
+Cassette Vision
+Halcyon
+Vectrex
+VTech CreatiVision（英语：VTech CreatiVision）
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+3DO
+Amstrad GX4000（英语：Amstrad GX4000）
+CP System
+FM Towns Marty
+Pioneer LaserActive
+Super A'Can
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+Zeebo
+战斧F1
+刀锋TGPBOX
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xbox主题
+电子游戏主题
+微软主题
+
+
+
+
+
+
+分类：Xbox 360第七世代游戏机微软游戏机家用游戏机2000年代玩具2010年代玩具2005年面世的产品隐藏分类：CS1英语来源 (en)使用过时图像语法的页面本地链接的维基共享资源分类与Wikidata不同

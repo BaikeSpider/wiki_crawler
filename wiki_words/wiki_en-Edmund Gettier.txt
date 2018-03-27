@@ -1,0 +1,306 @@
+Edmund Gettier
+
+
+Edmund Gettier
+
+
+Born
+Edmund L. Gettier III
+October 31, 1927
+Baltimore, Maryland, U.S.
+
+
+
+
+
+Era
+Contemporary philosophy
+
+
+Region
+Western philosophy
+
+
+School
+Analytic philosophy
+
+
+
+Main interests
+
+Epistemology
+
+
+
+Notable ideas
+
+Gettier problem
+
+
+
+
+Influences
+
+
+Roderick Chisholm
+
+
+
+
+
+
+
+
+Influenced
+
+
+Robert Nozick, Colin McGinn
+
+
+
+
+
+
+
+
+
+Edmund L. Gettier III (/ˈɡɛtiər/; born October 31, 1927) is an American philosopher and Professor Emeritus at the University of Massachusetts Amherst. He is best known for his short 1963 paper, "Is Justified True Belief Knowledge?," which has generated an extensive philosophical literature trying to respond to what became known as the Gettier problem.
+
+
+
+Contents
+
+
+1 Life
+2 Work
+
+2.1 Gettier problem
+
+
+3 Selected works
+4 See also
+5 References
+6 External links
+
+
+
+Life[edit]
+Gettier was educated at Cornell University, where his mentors included Max Black and Norman Malcolm. Gettier, himself, was originally attracted to the opinions of the later Ludwig Wittgenstein. His first teaching job was at Wayne State University in Detroit, Michigan, where his colleagues included Keith Lehrer, R. C. Sleigh, and Alvin Plantinga. Because he had few publications, his colleagues urged him to publish any ideas he had just to satisfy the administration. The result was a three-page paper that remains one of the most famous in recent philosophical history. According to anecdotal comments that Plantinga has given in lectures, Gettier was originally so unenthusiastic about the paper that he had someone translate it into Spanish, and published it first in a South American journal.[citation needed] The paper was later published in Analysis. Gettier has since not published anything, but he has invented and taught to his graduate students new methods for finding and illustrating countermodels in modal logic, as well as simplified semantics for various modal logics.[citation needed]
+In his article, Gettier challenges the "justified true belief" definition of knowledge that dates back to Plato's Theaetetus, but is discounted at the end of that very dialogue. This account was accepted by most philosophers at the time, most prominently the epistemologist Clarence Irving Lewis and his student, Roderick Chisholm. Gettier's article offered counter-examples to this account in the form of cases such that subjects had true beliefs that were also justified, but for which the beliefs were true for reasons unrelated to the justification. Some philosophers, however, thought the account of knowledge as justified true belief had already been questioned in a general way by the work of Wittgenstein. (Later, a similar argument was found in the papers of Bertrand Russell).[1]
+Work[edit]
+Gettier problem[edit]
+Main article: Gettier problem
+Gettier provides several examples of beliefs that are both true and justified, but that we should not intuitively term knowledge. Cases of this sort are now termed "Gettier (counter-) examples." Because Gettier's criticism of the Justified True Belief model is systemic, other authors have imagined increasingly fantastical counterexamples. For example: I am watching the men's Wimbledon Final and John McEnroe is playing Jimmy Connors, it is match point, and McEnroe wins. I say to myself "John McEnroe is this year's men's champion at Wimbledon". Unbeknownst to me, however, the BBC were experiencing a broadcasting fault and so had broadcast a tape of last year's final, when McEnroe also beat Connors. I had been watching last year's Wimbledon final so I believed that McEnroe had bested Connors. But at that same time, in real life, McEnroe was repeating last year's victory and besting Connors! So my belief that McEnroe bested Connors to become this year's Wimbledon champion is true, and I had good reason to believe so (my belief was justified)—- and yet, there is a sense in which I could not really have claimed to 'know' that McEnroe had bested Connors because I was only accidentally right that McEnroe beat Connors—- my belief was not based on the right kind of justification.
+Gettier inspired a great deal of work by philosophers attempting to recover a working definition of knowledge. Major responses include:
+
+Gettier's use of "justification" is too general, and only some kinds of justification count;
+Gettier's examples do not count as justification at all, and only some kinds of evidence are justificatory;
+Knowledge must have a fourth condition, such as "no false premises" or "indefeasibility";
+Robert Nozick suggests knowledge must consist of justified true belief that is "truth-tracking"—- a belief such that that if it was revealed to be false it would not have been believed, and vice versa;
+Colin McGinn suggests knowledge is atomic (it is not divisible into smaller components). We have knowledge when we have knowledge, and an accurate definition of knowledge may even contain the word "knowledge."[2]
+
+A 2001 study by Weinberg, Nichols, and Stich suggests that the effect of the Gettier problem varies by culture. In particular, people from Western countries seem more likely to agree with the judgments described in the story than do those from East Asia.[3] Subsequent studies were unable to replicate these results.[4]
+Selected works[edit]
+
+Edmund L. Gettier, "Is Justified True Belief Knowledge?" Analysis, Vol. 23, pp. 121–23 (1963). doi:10.1093/analys/23.6.121
+
+See also[edit]
+
+American philosophy
+List of American philosophers
+
+References[edit]
+
+
+
+^ Russell, Bertrand (1912). The Problems of Philosophy. Oxford: Oxford University Press. pp. 131f.  Citation taken from Kratzer, Angelika (2002). "Facts: Particulars of Information Units?". Linguistics and Philosophy. 25 (5–6): 655–670. doi:10.1023/a:1020807615085. , p. 657.
+^ McGinn, Colin (1984). "The Concept of Knowledge". Midwest Studies in Philosophy. 9: 529–554. doi:10.1111/j.1475-4975.1984.tb0076.x.  reprinted in McGinn, Colin (1999). Knowledge and Reality: Selected Essays. Oxford: Clarendon Press. pp. 7–35. ISBN 0-19-823823-1. 
+^ Weinberg, J.; Nichols, S.; Stich, S. (2001). "Normativity and Epistemic Intuitions". Philosophical Topics. 29 (1): 429–460. doi:10.5840/philtopics2001291/217. 
+^ Nagel, J. (2012). "Intuitions and Experiments: A Defense of the Case Method in Epistemology". Philosophy and Phenomenological Research. doi:10.1111/j.1933-1592.2012.00634.x. 
+
+
+
+External links[edit]
+
+Gettier page at UMass Amherst
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 1081947
+LCCN: n88117413
+GND: 129098868
+
+
+
+
+
+
+
+
+
+
+Categories: 1927 birthsLiving people20th-century American philosophers21st-century American philosophersEpistemologistsAnalytic philosophersCornell University alumniWayne State University facultyUniversity of Massachusetts Amherst facultyUniversity of Massachusetts Lowell facultyWriters from BaltimoreHidden categories: Articles with hCardsAll articles with unsourced statementsArticles with unsourced statements from June 2013Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with GND identifiers

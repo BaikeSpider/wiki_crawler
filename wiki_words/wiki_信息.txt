@@ -1,0 +1,696 @@
+信息
+
+
+
+
+
+
+
+提示：本条目的主题不是讯息。
+
+
+
+
+
+本条目可能包含原创研究或未查证内容。 
+请协助添加参考资料以改善这篇条目。详细情况请参见讨论页。 
+
+
+
+
+
+
+采用二进制表示的“Wikipedia”的ASCII代码。这是计算机信息编码时最为常用的数制
+
+
+
+
+
+
+“Wikipedia”二进制ASCII代码的动画演示。
+
+
+
+
+“information”的各地常用译名
+
+
+中国大陆
+信息
+
+
+台湾
+资讯
+
+
+港澳
+资讯、信息
+
+
+越南
+通信、通𠒷
+
+
+
+
+“message”的各地常用译名
+
+
+中国大陆
+消息、信息
+
+
+台湾
+讯息
+
+
+港澳
+讯息
+
+
+信息（英语：Information），是一个严谨的科学术语，其定义不统一，是由它的极端复杂性决定的，获取信息的主要方法为六何法。信息的表现形式多不胜数：声音、图片、温度、体积、颜色……信息的类别也不计其数：电子信息、财经信息、天气信息、生物信息……。
+在热力学中，信息是指任何会影响系统的热力学状态的事件。
+信息可以减少不确定性。事件的不确定性是以其发生机率来量测，发生机率越高，不确定性越低，事件的不确定性越高，越需要额外的信息减少其不确定性。比特是典型的信息单位（英语：unit of information），但也可以使用像纳特之类的单位，例如抛出一个公正的硬币，其信息为log2(2/1) = 1 bit，抛出两个公正的硬币，其信息为log2(4/1) = 2 bits。
+
+
+
+目录
+
+
+1 词源
+2 狭义定义
+3 哲学定义
+
+3.1 经典的属加种差定义
+
+
+4 呈现及复杂性
+5 感官输入
+6 造成改变的影响
+7 物理的概念
+8 科技媒介的信息
+9 分类
+10 相关条目
+11 参考文献
+12 外部链接
+
+
+
+词源[编辑]
+在古希腊文中信息单词为μορφή或εἶδος，后者是著名哲学家柏拉图的经常用词（以及后来的亚里士多德），以表示理想的身份或事物的本质。在英文单词中则源于拉丁文宾格形式（informationem）的主格（informatio）：这个名词是由动词反过来又派生出“informare”（告知）在“to give form to the mind”，“to discipline”，“instruct”，“teach”：“这么聪明的男人应该去通知他们的国王。”
+狭义定义[编辑]
+美国数学家，信息论的奠基人克劳德·艾尔伍德·香农（Claude Elwood Shannon）在他的著名论文《通信的数学理论》（1948）中提出计算信息量的公式，（一个信息由
+
+
+
+n
+
+
+{\displaystyle n}
+
+个符号所构成，符号
+
+
+
+k
+
+
+{\displaystyle k}
+
+出现的机率为
+
+
+
+
+p
+
+k
+
+
+
+
+{\displaystyle p_{k}}
+
+），则有[1]：
+
+
+
+
+
+H
+=
+
+∑
+
+k
+=
+1
+
+
+n
+
+
+
+p
+
+k
+
+
+
+log
+
+2
+
+
+⁡
+
+p
+
+k
+
+
+
+
+{\displaystyle H=\sum _{k=1}^{n}p_{k}\log _{2}p_{k}}
+
+
+
+这个公式和热力学的熵的本质一样，故也称为熵。从公式可知，当各个符号出现的机率相等，即“不确定性”最高时，信息熵最大。故信息可以视为“不确定性”或“选择的自由度”的度量。
+美国数学家、控制论的奠基人诺伯特·维纳在他的《控制论——动物和机器中的通讯与控制问题》中认为，信息是“我们在适应外部世界，控制外部世界的过程中同外部世界交换的内容的名称”。英国学者阿希贝（William Ross Ashby）认为，信息的本性在于事物本身具有变异度。意大利学者朗高在《信息论：新的趋势与未决问题》中认为，信息是反映事物的形成、关系和差别的东西，它包含于事物的差异之中，而不在事物本身。
+另有以下两种定义：
+
+凡是在一种情况下能减少不确定性的任何事物都叫信息。[2]
+信息是物质存在的一种方式、形态或运动形态，也是事物的一种普遍属性，一般指数据、消息中所包含的意义，可以使消息中所描述事件中的不定性减少。[3]
+
+哲学定义[编辑]
+信息是反映（映射）事件的内容。事件包括判断事件、动作事件等对所有运动的描述。对信息的定义了解将从根本上揭示智能形成的原因。 经典的哲学定义有北京邮电大学钟义信教授：“信息是事物运动的状态及其改变方式”。[4]
+经典的属加种差定义[编辑]
+属加种差定义是一种严格的定义方式，A是满足C特质的B。这里A是被定义项（被定义的），B是A的属，即，这个概念是更一般于A的提前被定义的了，或已经知道的，和C并不代表这一概念，但对所有的陈述来说，A是如何不同于B的所有其他种（即所有别的概念的一般性更小于B）。
+例如在“人是两条腿的无羽毛动物”中：
+
+A=“人”
+B=“两条腿动物”
+C=“无羽毛”
+
+这是亚里士多德在他的演讲中对学生讲的如何进行概念定义的著名例子。它已经是如此的著名，以至于第二天这位学生将一只剔了羽毛的鸡带到了演讲会上。 在此基础上，Fred Dretske在《知识与信息流》一书中对信息定义到：粗略地说，信息是能够产生知识的商品，消息或信号所携带的正是我们需要知道的。
+呈现及复杂性[编辑]
+认知科学家及应用数学家认为信息是一个泛及至少和两个相关实体的概念，目的是在提供量化的意义。假设有任意定义尺寸的物体集合S，以及其子集合R，在本质上，R是一种S的呈现方式，或者说R传递了有关S概念性的信息。Vigo定义R传递有关S的信息量为当将R中的对象从S移除时，S复杂度变化的速度。依照Vigo定义的信息，模式、不变性、复杂度、呈现方式以及信息可以集成在同一个数学架构下[5][6]。此架构试图要克服在表征及量测主观的信息时，香农-维纳信息定义下的限制。
+感官输入[编辑]
+信息常被视为是一种对生物或系统的输入。输入可以分为两种：有些输入是对生物的某个机能很重要（例如食物），或是对系统本身很重要（例如能量）。Dusenbery在《感官生态》（Sensory Ecology）[7]书中称这些输入为必然输入（causal input）。其他的输入（信息）重要的原因是因为和必然输入有关，而且可以预测稍晚时间（也许不同地点）必然输入是否会出现。有些信息重要的原因可能只是和另一信息有关，但最后终究可以链接到必然输入。在实务上，信息可能只有微弱的刺激，必需用特定的感测系统来侦测，且经过能量的放大，才能会生物或是系统有用。例如光对植物是必然输入，但对动物而言却提供了一些信息，花朵反射的有色光非常弱，不足以进行光合作用，但蜜蜂的视觉系统可以侦测到，其神经系统用这种信息来导引蜜蜂找到花，采集花蜜或花粉，这些是营养系统的必然输入。
+造成改变的影响[编辑]
+信息是任意形式，会影响其他模式形成或改变的模式[8][9]。以这个意义来说，不需要一个有意识的心灵来认知模式[来源请求]。以DNA为例，这个由核酸形成的序列，是一个会影响生物形成或改变的模式，即使生物体没有有意识的心灵也是如此。
+系统理论有时会提到此种定义（定义中不需要有意识心灵）的信息，并且将系统中（因着反馈）而循环的模式称为信息。可能说此定义下的信息是某种潜在可能被感知的事物，虽然不一定是为了此目的创造或是呈现。格雷戈里·贝特森对信息的定义是“带来改变的改变”[10]。
+物理的概念[编辑]
+在物理学中信息有明确的定义。在2003年雅各布·贝肯斯坦认为物理学中的一个在成长的趋势是将物理世界定义为由信息本身组成（也以此来定义信息）（参考数字物理学）。这个例子包括量子纠缠的现象，两个粒子会互相影响，影响的速度甚至高于光速。信息即使是以非直接的方式传播，信息的传播也不会比光速快。因此可能在物理上观测某一个和其他粒子纠缠的粒子，观测本身就会影响另一个粒子，其至二个粒子除了承载的信息外，两者没有任何其他的链接。
+另外一个示例是称为麦克斯韦妖的思想实验。在此实验中呈现了信息和另一个物理性质熵的关系，其结论是无法在熵不增加（一般是会产生热）的情形来破坏信息，另一个更哲学性的结论是信息可以和能量互相转换[来源请求]。因此在逻辑门的研究中，AND闸发热量的理论下限比NOT闸的发热量要低（因为信息在AND闸中会被破坏，而在NOT闸中只会被转换）。在量子计算机的理论中物理信息的概念格外的重要。
+科技媒介的信息[编辑]
+估计世界可存储信息的量从1986年的2.6EB（经最优化压缩）－其信息量小于每个人有一片730-MBCD-ROM的信息量，成长为2007年的295 EB[11]－信息量约等于每个人有61片CD-ROM[12]。
+2007年时，世界上借由单向广播可接受信息的技术能力，相当于每人每天174份报纸[11]。而借由双向电信可交换信息的技术能力，相当于每人每天6份报纸。
+分类[编辑]
+信息依据载体的不同被分为4大类：文字、图形（图像）、声音、视频。
+相关条目[编辑]
+
+
+信息爆炸
+人工智能
+智能奇点
+信息技术
+信息转介服务
+抽象化
+准确与精密
+复杂
+
+复杂适应性系统（英语：Complex adaptive system）
+复杂系统
+
+
+控制论
+存储设备
+隐含信息（英语：Exformation）
+自由信息基础架构（英语：Free Information Infrastructure）
+信息自由
+格雷戈里·贝特森
+信息及通信技术
+信息架构
+信息经纪人（英语：Information broker）
+连续信息体（英语：Information continuum）
+熵 (信息论)
+信息几何
+数字落差
+信息基础架构（英语：Information_Infrastructure）
+信息梯（英语：Information ladder）
+信息映射（英语：Information mapping）
+信息过载
+信息处理
+信息处理器（英语：Information processor）
+信息敏感度（英语：Information sensitivity）
+信息高速公路（英语：Information superhighway）
+信息系统
+信息论
+信息圈（英语：Infosphere）
+辞书信息成本（英语：Lexicographic information cost）
+图书馆学
+信息哲学
+预测
+宣传模式
+量子信息
+ROC曲线
+关联
+噪声通道编码定理
+
+
+参考文献[编辑]
+
+
+^ 自然科学概论. 五南图书出版股份有限公司. 1996: 1– [2014-10-10]. ISBN 978-957-11-1185-8. 
+^ 信息化的创始人香农和韦弗，1948年，《通信的数学理论》
+^ 中国国家标注GB 489885《情报与文献工作词汇基本术语》
+^ 钟义信，《信息和科学原理》
+^ Vigo, R. Representational information: a new general notion and measure of information. Information Sciences, 181 (2011),4847-4859. 2011. 
+^ Vigo, R. (2013).Complexity over Uncertainty in Generalized Representational Information Theory (GRIT): A Structure-Sensitive General Theory of Information. Information, 4(1), 1-30; doi:10.3390/info4010001
+^ Dusenbery, David B. (1992). Sensory Ecology. W.H. Freeman., New York. ISBN 978-0-7167-2333-2.
+^ Shannon, Claude E. The Mathematical Theory of Communication. 1949. 
+^ Casagrande, David. Information as verb: Re-conceptualizing information for cognitive and ecological models (PDF). Journal of Ecological Anthropology. 1999, 3 (1): 4–13. 
+^ Bateson, Gregory. ^ Form, Substance, and Difference, in Steps to an Ecology of Mind. University of Chicago Press. 1972: 448–466. 
+^ 11.0 11.1 "The World’s Technological Capacity to Store, Communicate, and Compute Information", Martin Hilbert and Priscila López (2011), Science (journal), 332(6025), 60-65; free access to the article through here: martinhilbert.net/WorldInfoCapacity.html
+^ "video animation on The World’s Technological Capacity to Store, Communicate, and Compute Information from 1986 to 2010
+
+
+外部链接[编辑]
+
+
+
+查询维基词典中的信息。
+
+
+
+
+
+维基语录上的相关摘录：信息
+
+
+
+Semantic Conceptions of Information Review by Luciano Floridi for the Stanford Encyclopedia of Philosophy
+Principia Cybernetica entry on negentropy
+Fisher Information, a New Paradigm for Science: Introduction, Uncertainty principles, Wave equations, Ideas of Escher, Kant, Plato and Wheeler. This essay is continually revised in the light of ongoing research.
+How Much Information? 2003 an attempt to estimate how much new information is created each year (study was produced by faculty and students at the School of Information Management and Systems at the University of California at Berkeley）
+信息价值[失效链接]
+Informationsordbogen.dk The Danish Dictionary of Information Terms / Informationsordbogen
+中国互联网络信息中心
+《knowledge and information flow》Fred Dretske
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+技术
+
+
+
+
+
+
+领域
+
+
+
+
+农业
+
+
+
+农业工程
+水产养殖
+水产学
+食品化学
+食品工程
+营养学
+食品技术
+食品微生物学（英语：Food microbiology）
+遗传利用限制技术（英语：Genetic use restriction technology）
+
+
+
+
+
+
+
+
+生物医学（英语：Biomedical technology）
+
+
+
+生物信息学
+生物医学工程
+生物工程学
+生物技术
+健康科学
+生化检验
+药理学
+神经科学
+组织工程学
+基因工程
+纳米医学
+化学信息学
+
+
+
+
+
+
+
+
+水利/土木建筑
+
+
+
+水利工程
+土木工程
+建筑工程
+建筑设备
+消防工程
+安全工程
+结构工程
+
+
+
+
+
+
+
+
+教育技术
+
+
+
+在线学习
+教育技术学
+教育软件（英语：Educational software）
+虚拟校园（英语：Virtual campus）
+
+
+
+
+
+
+
+
+能源
+
+
+
+核工程
+核技术
+储能技术
+石油工程
+
+
+
+
+
+
+
+
+军事
+
+
+
+弹药
+炸弹
+军事技术
+电子作战
+低可侦测性技术
+工兵
+军事通信（英语：Military communications）
+
+
+
+
+
+
+
+
+信息
+
+
+
+人工智能
+计算机工程
+计算机科学
+音乐工艺
+通信工程
+通信
+图形
+信息技术
+软件工程
+音乐
+语音识别
+可视化技术
+系统分类学
+本体工程
+信息学
+
+
+
+
+
+
+
+
+工业（英语：Industrial technology）
+
+
+
+纳米科技
+音频工程
+生物工程
+生化工程
+陶瓷工程
+化学工程
+控制工程
+低温学
+电机工程学
+电子工程
+工程技术
+工程学
+工业工程学
+企业工程
+水力学
+机械工程
+机械电子学
+冶金工程
+海洋工程
+光学工程
+系统工程
+运输工程
+电动机械学
+金融工程学
+制造
+机械
+采矿业
+自动化技术
+冶金学
+
+
+
+
+
+
+
+
+交通
+
+
+
+航空航天
+航空航天工程
+空间技术
+机动车
+车辆工程
+交通工程
+流量工程
+
+
+
+
+
+
+
+
+环境科技
+
+
+
+绿色建筑
+可再生能源
+永续设计
+环境工程
+生态工程
+洁净科技（英语：Clean technology）
+生态技术（英语：Ecotechnology）
+环境工程科学（英语：Environmental engineering science）
+
+
+
+
+
+
+
+
+应用科学
+
+
+
+考古
+电子学
+光学
+半导体物理学
+环境科学
+材料科学
+微系统
+微技术
+纳米技术
+
+
+
+
+
+
+
+
+其他领域
+
+
+
+机器人学
+机械电子学
+蛋白质工程
+系统工程
+聚合物工程
+
+
+
+
+
+
+
+
+
+
+
+组件
+
+
+
+基础设施
+发明
+发明年表
+知识
+机器
+技能
+工艺
+工具
+
+
+
+
+
+
+
+
+技术史
+
+
+
+新石器革命
+工业革命
+第二次工业革命
+数字化革命
+第三次工业革命
+信息时代
+史前技术（英语：Outline of prehistoric technology）
+古代技术（英语：Ancient technology）
+中世纪技术（英语：Medieval technology）
+文艺复兴技术（英语：Renaissance technology）
+喷气时代（英语：Jet Age）
+
+
+
+
+
+
+
+
+理论（英语：Theories of technology）
+和概念
+
+
+
+适用技术
+破坏性创新
+高科技
+技术成熟度曲线
+专家统治
+技术决定论
+技术官僚
+技术奇异点
+技术接受模型
+超人类主义
+军民两用技术（英语：Dual-use technology）
+技术伦理（英语：Ethics of technology）
+
+
+
+
+
+
+
+
+其他
+
+
+
+新兴技术列表
+卡尔达肖夫指数
+Category:各国科技
+Category:科技公司
+Category:技术大学和学院
+技术传播者
+技术新闻学
+
+
+
+
+
+
+
+
+
+
+
+ Category:技术
+ commons:Category:技术
+ 技术主题
+
+
+
+
+
+
+
+
+
+
+
+
+分类：资讯形而上学概念信息、知识与不确定性资讯科学隐藏分类：使用ISBN魔术链接的页面可能带有原创研究的条目拒绝当选首页新条目推荐栏目的条目含有越南语的条目含有希腊语的条目含有英语的条目含有拉丁语的条目有未列明来源语句的条目有蓝链却未移除内部链接助手模板的页面带有失效链接的条目条目有永久失效的外部链接

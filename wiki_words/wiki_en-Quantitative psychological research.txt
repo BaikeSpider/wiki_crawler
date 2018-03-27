@@ -1,0 +1,264 @@
+Quantitative psychological research
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2009) (Learn how and when to remove this template message)
+
+
+
+Quantitative psychological research is defined as psychological research which performs mathematical modeling and statistical estimation or statistical inference or a means for testing objective theories by examining the relationship between variables.[1] The first definition distinguishes it from qualitative psychological research; however, there has been a long debate on the difference between quantitative and qualitative research. It has been argued that because this debated has not found an end, the differences are enough that both quantitative and qualitative research is valuable in ways that both should be used in the gathering of data.[2]
+Examples[edit]
+Statistics is widely used in quantitative psychological research. Typically a project begins with the collection of data based on a theory or hypothesis, followed by the application of descriptive or inferential statistical methods. Often it is necessary to collect a very large volume of data, which require validating, verifying and recording. Software packages such as SPSS and R are typically used for this purpose, and for subsequent analysis. Causal relationships are studied by manipulating factors thought to influence the phenomena of interest while controlling other variables relevant to the experimental outcomes. Researchers might measure and study the relationship between education and measurable psychological effects, whilst controlling for other key variables. Quantitatively based surveys are widely used by psychologists, and statistics such as the proportion of respondents who display one or more psychological traits reported. In such surveys, respondents are asked a set of structured questions and their responses are tabulated. The software can then perform correlation analysis or other procedures on the data. Surveys are a common example of how statistics and quantitative research are utilized to gather data.[1]
+Quantitative research falls under the category of empirical studies (or statistical studies). Research designs include experimental studies, quasi-experimental studies, pretest-postest designs, and others. Randomization, the control of variables, and valid, reliable measures are used to relate the results of the smaller subject pool to the population.[3]
+See also[edit]
+
+Empirical studies
+Statistics
+Quantitative psychology
+Quantitative research
+
+References[edit]
+
+
+
+^ a b Creswell, J. (2009). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches. SAGE Publications, Inc. p. 12. 
+^ Smith, K. (March 1983). "Quantitative versus Qualitative Research: An Attempt to Clarify the Issue". Educational Researcher. 12 (3): 6–13. doi:10.3102/0013189x012003006. JSTOR 1175144. 
+^ Newman, Benz, I., C. (1998). Qualitative-Quantitative Research Methodology: Exploring the Interactive Continuum. Southern Illinois University. pp. 9–10. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychology
+
+
+
+
+
+
+History
+Philosophy
+Portal
+Psychologist
+
+
+
+
+
+Basic psychology
+
+
+
+Abnormal
+Affective science
+Affective neuroscience
+Behavioral genetics
+Behavioral neuroscience
+Behaviorism
+Cognitive/Cognitivism
+Cognitive neuroscience
+Comparative
+Cross-cultural
+Cultural
+Developmental
+Differential
+Ecological
+Evolutionary
+Experimental
+Gestalt
+Intelligence
+Mathematical
+Neuropsychology
+Personality
+Positive
+Psycholinguistics
+Psychophysics
+Psychophysiology
+Quantitative
+Social
+Theoretical
+
+
+
+
+
+Applied psychology
+
+
+
+Anomalistic
+Applied behavior analysis
+Assessment
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Ergonomics
+Feminist
+Forensic
+Health
+Industrial and organizational
+Legal
+Media
+Military
+Music
+Occupational health
+Pastoral
+Political
+Psychometrics
+Psychotherapy
+Religion
+School
+Sport and exercise
+Suicidology
+Systems
+Traffic
+
+
+
+
+
+Methodologies
+
+
+
+Animal testing
+Archival research
+Behavior epigenetics
+Case study
+Content analysis
+Experiments
+Human subject research
+Interviews
+Neuroimaging
+Observation
+Qualitative research
+Quantitative research
+Self-report inventory
+Statistical surveys
+
+
+
+
+
+
+Psychologists
+
+
+
+
+William James (1842–1910)
+Ivan Pavlov (1849–1936)
+Sigmund Freud (1856–1939)
+Edward Thorndike (1874–1949)
+Carl Jung (1875–1961)
+John B. Watson (1878–1958)
+Clark L. Hull (1884–1952)
+Kurt Lewin (1890–1947)
+Jean Piaget (1896–1980)
+Gordon Allport (1897–1967)
+J. P. Guilford (1897–1987)
+Carl Rogers (1902–1987)
+Erik Erikson (1902–1994)
+B. F. Skinner (1904–1990)
+Donald O. Hebb (1904–1985)
+Ernest Hilgard (1904–2001)
+Harry Harlow (1905–1981)
+Raymond Cattell (1905–1998)
+Abraham Maslow (1908–1970)
+Neal E. Miller (1909–2002)
+Jerome Bruner (1915–2016)
+Donald T. Campbell (1916–1996)
+Hans Eysenck (1916–1997)
+Herbert A. Simon (1916–2001)
+David McClelland (1917–1998)
+Leon Festinger (1919–1989)
+George Armitage Miller (1920–2012)
+Richard Lazarus (1922–2002)
+Stanley Schachter (1922–1997)
+Robert Zajonc (1923–2008)
+Albert Bandura (b. 1925)
+Roger Brown (1925–1997)
+Endel Tulving (b. 1927)
+Lawrence Kohlberg (1927–1987)
+Noam Chomsky (b. 1928)
+Ulric Neisser (1928–2012)
+Jerome Kagan (b. 1929)
+Walter Mischel (b. 1930)
+Elliot Aronson (b. 1932)
+Daniel Kahneman (b. 1934)
+Paul Ekman (b. 1934)
+Michael Posner (b. 1936)
+Amos Tversky (1937–1996)
+Bruce McEwen (b. 1938)
+Larry Squire (b. 1941)
+Richard E. Nisbett (b. 1941)
+Martin Seligman (b. 1942)
+Ed Diener (b. 1946)
+Shelley E. Taylor (b. 1946)
+John Anderson (b. 1947)
+Ronald C. Kessler (b. 1947)
+Joseph E. LeDoux (b. 1949)
+Richard Davidson (b. 1951)
+Susan Fiske (b. 1952)
+Roy Baumeister (b. 1953)
+
+
+
+
+
+Lists
+
+
+
+Counseling topics
+Disciplines
+Important publications
+Organizations
+Outline
+Psychologists
+Psychotherapies
+Research methods
+Schools of thought
+Timeline
+Topics
+
+
+
+
+
+
+
+
+Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+Categories: Applied statisticsExperimental psychologyQuantitative researchStatistical data typesHidden categories: Articles needing additional references from March 2009All articles needing additional references

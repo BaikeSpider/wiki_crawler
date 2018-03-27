@@ -1,0 +1,846 @@
+疾病
+
+
+
+
+
+本条目需要补充更多来源。（2017年6月9日） 
+请协助添加多方面可靠来源以改善这篇条目，无法查证的内容可能会因为异议提出而移除。 
+
+
+
+
+
+
+
+本条目可能包含不适用或被曲解的引用资料，部分内容的准确性无法被证实。 
+请协助校核其中的错误以改善这篇条目。详情请参见条目的讨论页。 
+
+
+
+
+
+
+
+
+本条目存在以下问题，请协助改善本条目或在讨论页针对议题发表看法。
+
+
+
+
+
+
+本条目需要扩充。（2013年6月14日） 
+请协助改善这篇条目，更进一步的信息可能会在讨论页或扩充请求中找到。请在扩充条目后将此模板移除。 
+
+
+
+
+
+
+
+ 维基百科中的医疗相关内容仅供参考，详见医学声明。如需专业意见请咨询专业人士。
+
+
+
+
+扫描电子显微镜下的结核杆菌，是结核的病原菌
+
+
+疾病是生物在一定原因的损害性作用下，因自稳调节紊乱而发生的异常生命活动过程，是特定的异常病理情形，而且会影响生物体的部分或是所有器官。一般会解释为“身体病况”（medical condition），而且伴随着特定的症状及医学征象[1]。机体对病因所引起的损害发生一系列抗损害反应；自稳调节的紊乱，损害和抗损害反应，表现为疾病过程中各种复杂的机能、代谢和形态结构的异常变化，而这些变化又可使机体各器官系统之间以及机体与外界环境之间的协调关系发生障碍，从而引起各种症状、体征和行为异常，特别是对环境适应能力和体力减弱甚至丧失。
+疾病有致病原因，可能是由外在因素而造成，例如传染病，也有可能是因为内在的机能不良而导致，例如自体免疫疾病。但疾病不一定是由单一因素引起。致病的原因往往因为环境因素作用于遗传易感体；它是有规律的发展过程。疾病导致一系列的功能、代谢和形态结构的变化，并由此而产生各种症状和体征，这是认识疾病的基础。疾病是完整机体的反应，但不同的疾病又在一定部位（器官或系统）有它特殊的变化。生病时，机体内各器官系统之间的平衡关系和机体与外界环境之间的平衡关系受到破坏，机体对外界环境适应能力降低，体力减弱或丧失。
+对人类而言，疾病一般会用来泛指会造成疼痛、异常行为甚至死亡的条件。在此定义下，疾病有时也包括受伤、身心障碍、功能失调、症候群、感染、独立的症状、特异的行为等。不过在其他领域可能会有不同的分类。疾病不一定只影响人的生理，灳会对人的情绪造成影响，患有某一疾病可能会影响人的生活态度及人格。
+由于疾病造成的死亡会归类为自然死亡（英语：death by natural causes）。疾病可以分为四类：病原类疾病、营养缺乏类疾病、遗传类疾病及心理类疾病。疾病也可以用传染病及非传染病来分类。造成最多人死亡的疾病是冠状动脉疾病，再来是脑血管疾病（英语：cerebrovascular disease）及下呼吸道感染（英语：Lower respiratory tract infection）[2]。
+
+
+
+目录
+
+
+1 历史人物
+2 种类
+3 类型
+
+3.1 传染病
+3.2 非传染性疾病
+3.3 食源性疾病
+3.4 文明病
+3.5 精神障碍
+3.6 器质性病变
+
+
+4 预防
+5 治疗
+6 流行病学
+7 参见
+8 参考资料
+9 外部链接
+
+
+
+历史人物[编辑]
+以下人物在历史上对疾病机理学曾作出突出贡献。
+
+安东尼·范卢文霍克（1632年-1723年）：改进显微镜，建立微生物学
+路易·巴斯德：倡导疾病细菌学说（菌原论）和发明预防接种方法
+罗伯·柯霍：发现炭疽杆菌、结核杆菌和霍乱弧菌，发展出判断疾病病原体的柯霍氏法则
+爱德华·詹纳：种牛痘的发明者
+乔纳斯·索尔克及阿尔伯特·沙宾：分别发明脊髓灰质炎疫苗
+亚历山大·弗莱明：发现世界首种抗生素（即盘尼西林），启迪了当今世界多种抗生素的发现与研究
+格哈德·多马克：发现了能有效对抗细菌感染的药物百浪多息
+张仲景：写作的《伤寒杂病论》，是中医史上第一部理、法、方、药具备的经典
+
+种类[编辑]
+参见：国际疾病与相关健康问题统计分类
+世界卫生组织编写的“国际疾病分类第十版”中记载的病名达到一万多种；以下根据中国大陆《第二次国家卫生服务调查疾病分类---编码表》对疾病的分类，列举如下：
+
+传染病
+寄生虫病
+恶性肿瘤
+良性肿瘤
+内分泌疾病（英语：endocrine disease）（营养和代谢疾病及免疫疾病）
+血液和造血器官疾病
+精神病
+神经系统疾病（英语：Neurological disorder）
+眼及附器疾病
+耳和乳突疾病
+循环系统疾病
+呼吸系统疾病
+消化系统疾病（英语：Gastrointestinal disease）
+泌尿生殖系统疾病
+妊娠、分娩病及产褥期并发症
+皮肤和皮下组织疾病
+肌肉、骨骼系统和结缔组织疾病
+损伤和中毒
+
+类型[编辑]
+疾病的分类方法很多，除了世界卫生组织制定的标准以外，中国大陆也各个医疗机构对疾病有各自的分类方法，有些分类是根据部位来分，因此很多疾病没有概括进去没，如基因病（基因性疾病）、遗传病（遗传性疾病）、性病、食物中毒（食源性疾病）等。
+传染病[编辑]
+传染病是一种可以从一个人或其他物种，经过各种途径传染给另一个人或物种的感染症。[3]通常这种疾病可借由直接接触已感染之个体、感染者之体液及排泄物、感染者所污染到的物体，亦可透过饮水、食物、空气或其他载体（vector）而散布。常见的传染病像肠胃炎、感冒、疟疾等，艾滋病也是传染病的一种。
+非传染性疾病[编辑]
+非传染性疾病（英语：non-communicable disease）是指没有传染性的疾病，可能是像糖尿病等进程缓慢的慢性病，也可能会迅速导致死亡，如某种突发的脑溢血。非传染性疾病包括自身免疫性疾病、心血管疾病、中风、癌症、阿兹海默病等。
+食源性疾病[编辑]
+食源性疾病也称为食物中毒[4]，泛指所有因为进食了受污染食物、致病细菌、病毒，又或被寄生虫[5]、化学品或天然毒素（例如：有毒蘑菇）感染了的食物。
+文明病[编辑]
+文明病是指一些和饮食、生活型态和环境等因素有关的疾病，而且当国家变得更工业化及人类活得更长寿时，文明病的比例就会增加，包括有阿兹海默病、动脉硬化、肿瘤、肝硬化之慢性肝病、慢性阻塞性肺病、2型糖尿病、心脏病、慢性肾衰竭之肾炎、骨质疏松症、中风及肥胖症等。
+精神障碍[编辑]
+精神障碍主要是由心理上的偏差，所导致的行为偏差，这类患者通常身体上适?正常的。精神障碍的患者通常是幼年时的心理偏差，又没有及时矫正导致的。[来源请求]
+器质性病变[编辑]
+器质性病变一般是指某一器官或组织的病理改变，而且多半是永久性改变。相对于器质性病变的是功能性病变，器官没有病变，只是支配器官的神经系统失调。
+预防[编辑]
+主条目：预防医学
+许多疾病都可以借由一些方式来预防，包括卫生、充足营养、适量的运动、疫苗接种及其他自我照护（英语：self-care）及公共卫生的方式。
+治疗[编辑]
+主条目：治疗
+医学治疗是指为了治愈某一疾病或是减轻疾病的影响而进行的措施。常见的治疗包括药物、手术、医疗器材（英语：medical devices）及自我照护（英语：self-care），心理疾病有时会配合心理治疗。治疗一般会由有组织的医疗照护系统（英语：health care system），或是由病人本人或是家人进行。
+预防医学是在第一时间避免受伤、生病或是疾病的方法。治疗则是在有罹患疾病后才会进行的方式。治疗会试图改善问题或是使病症消失，但治疗不一定可以完全的治愈疾病，特别，是一些慢性病。治愈是指治疗后永久性的解决疾病带来的问题，有些疾病无法完全治愈，但仍然可以进行治疗，疼痛控制是医学中的一个分支，着重在舒缓疼痛，并且提升在疼痛中病人的活品质[6]。
+医疗紧急情况（英语：medical emergencies）下需及时获得治疗，一般会透过急症室进行，若是比较不严重的情形，则会透过紧急护理（英语：urgent care）机构。
+流行病学[编辑]
+主条目：流行病学
+流行病学研究造成疾病的一些因素，有些疾病会在特定的地理区域中出现、在特定基因或是特定社会经济环境的人身上出现，或是在一年中的特定季节出现，这些都是流行病学研究的主题之一。
+流行病学是公共卫生研究的基础方法，在判断疾病的危险因子（英语：risk factor）时非常重视循证医学。在传染病及在非传染病的研究上，流行病学从疾病爆发（英语：outbreak）的调查、资料的收集及分析、有关假说统计检定的模型建立、到结果的文献建立，送交到同行评审的期刊等。流行病学也会研究人群中疾病之间的交互作用，称为syndemic（英语：syndemic）。流行病学家会需要许多相关科学学科的知识，例如生物学（更可以了解疾病的进展）、生物统计学（整理已有的相关资讯）、地理信息系统（了解地理相关的资讯）及社会科学（了解近端及远端的危险因子）。流行病学有助于找到造成疾病的原因，也可以提供预防的效果。
+在疾病研究时，流行病学常要面临如何定义一疾病的问题，特别是一些较少认识的疾病。不同的人可能会有不同的定义，而且彼此之间差异很大。若没有一致性的定义，不同的研究者可能会对同一种疾病的特性及相关资料整理出不一致的结果[7]。
+有些发病率的数据库会整合各地区卫生主管机构的资讯，可能是全国的（例如全国医院发病率数据库，National hospital morbidity database，简称NHMD）[8][9]，或者是整个欧洲的（例如欧洲医院发病率数据库，European Hospital Morbidity Database，简称EMDB）[10])，不过还没有全世界的数据库。
+参见[编辑]
+
+
+医学主题
+
+
+
+
+宿主病原交互作用（英语：Host-pathogen interface）
+气媒疾病（英语：Airborne disease），会由空气散播的疾病
+接触传染病（英语：Contagious disease），一种传染病的类型
+预后
+不明原因疾病（英语：Cryptogenic disease），原因还不明的疾病
+发展障碍，心理或生理的严重终身性残疾
+环境病（英语：Environmental disease）
+生活型态疾病（英语：Lifestyle disease），主要因生活型态造成的疾病
+疾病及失调简写列表（英语：List of abbreviations for diseases and disorders）
+皮肤病列表
+和病原体有关的人类疾病列表（英语：List of human diseases associated with infectious pathogens）
+神秘疾病列表（英语：List of mystery diseases）
+疾病列表
+非传染病（英语：Non-communicable disease）
+植物疾病流行病学（英语：Plant disease epidemiology）
+植物病理学
+罕见病，仅在极少数人的身上所发生的稀罕病症
+健康与疾病社会学（英语：Sociology of health and illness）
+国际健康功能与身心障碍分类系统（ICF）
+国际疾病与相关健康问题统计分类（ICD）
+
+
+参考资料[编辑]
+
+
+^ 道兰氏医学词典中的Disease
+^ What is the deadliest disease in the world?. WHO. 2012-05-16 [2014-12-07]. 
+^ Dorland's Illustrated Medical Dictionary 2004 WB Saunders.
+^ 道兰氏医学词典中的food poisoning
+^ US CDC food poisoning guide. CDC （英语）. 
+^ Hardy, Paul A.; Hardy, Paul A. J. Chronic Pain Management: The Essentials. Cambridge University Press. 1997: 10. ISBN 978-1-900151-85-6. OCLC 36881282. 
+^ Tuller, David. Defining an illness is fodder for debate. The New York Times. 2011-03-04. 
+^ National hospital morbidity database 互联网档案馆的存档，存档日期2013-08-13. retrieved 2013-07-11
+^ database containing demographic, administrative and clinical data on inpatient hospitalizations in Canada.
+^ European Hospital Morbidity Database 互联网档案馆的存档，存档日期2013-09-02. which contains hospital discharge data by detailed diagnosis, age and sex, which were submitted by European countries to the WHO Regional Office for Europe.; World Health Organization Regional Office for Europe ; updated oct 2012, retrieved 2013-07-11
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：diseases
+
+
+
+
+
+维基语录上的相关摘录：疾病
+
+
+
+
+
+查询维基词典中的disease。
+
+
+
+Health Topics, MedlinePlus descriptions of most diseases, with access to current research articles.
+OMIM Comprehensive information on genes that cause disease at Online Mendelian Inheritance in Man
+CTD The Comparative Toxicogenomics Database is a scientific resource connecting chemicals, genes, and human diseases.
+NLM Comprehensive database from the US National Library of Medicine
+Health Topics A-Z, fact sheets about many common diseases at Centers for Disease Control
+The Merck Manual containing detailed description of most diseases
+Report: The global burden of disease from World Health Organization (WHO), 2004
+Free online health-risk assessment by Your Disease Risk at Washington University in St Louis
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+用来描述病征的基本医学术语（英语：Medical terminology）
+
+
+
+
+
+
+
+
+
+
+   
+
+
+医学征象
+症状
+症候群
+
+
+
+
+诊断
+鉴别诊断
+预后
+
+
+
+
+急性
+慢性病
+治愈/缓解（英语：Cure#Remission）
+
+
+
+
+疾病
+以人名为名称的疾病（英语：List of eponymously named diseases）
+首字母缩写或简称（英语：List of medical abbreviations）
+
+
+
+
+病程
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+病理学：医疗条件和ICD码
+
+
+
+
+
+
+
+（疾病 / 失调 / 症候群 / 序列、症状 / 医学征象、创伤等）
+
+
+
+
+
+
+（A/B, 001–139）
+
+
+
+传染病/感染：细菌性疾病
+
+G+
+G-
+
+
+病毒性疾病（英语：Viral disease）
+寄生虫病
+
+原虫传染（英语：Protozoan infection）
+蠕虫病（英语：Helminthiasis）
+外寄生虫感染（英语：Ectoparasitic infestation）
+
+
+真菌病
+人畜共通传染病
+
+
+
+
+
+
+
+
+（C/D,
+140–239 &
+279–289）
+
+
+
+
+癌症（C00–D48, 140–239）
+
+
+
+肿瘤
+
+
+
+
+
+
+
+
+髓血液病（D50–D77, 280–289）
+
+
+
+贫血
+凝血病（英语：Coagulopathy）
+
+
+
+
+
+
+
+
+淋巴免疫 (D80–D89, 279)
+
+
+
+免疫缺陷
+免疫增生性紊乱（英语：Immunoproliferative disorder）
+超敏反应
+
+
+
+
+
+
+
+
+
+
+
+（E, 240–278）
+
+
+
+内分泌疾病（英语：Endocrine disease）
+营养失调
+遗传性代谢缺陷
+
+
+
+
+
+
+
+
+（F, 290–319）
+
+
+
+精神病
+
+
+
+
+
+
+
+
+（G, 320–359）
+
+
+
+神经系统疾病（英语：Nervous system disease）
+
+CNS（英语：Central nervous system disease）
+PNS
+
+
+神经肌肉疾病（英语：Neuromuscular disease）
+
+
+
+
+
+
+
+
+（H, 360–389）
+
+
+
+眼部疾病（英语：Eye disease）
+耳部疾病（英语：Ear disease）
+
+
+
+
+
+
+
+
+（I, 390–459）
+
+
+
+心血管疾病
+
+心脏疾病
+血管疾病（英语：Vascular disease）
+
+
+
+
+
+
+
+
+
+
+（J, 460–519）
+
+
+
+呼吸系统疾病
+
+阻塞性肺病（英语：Obstructive lung disease）
+限制性肺病（英语：Restrictive lung disease）
+肺炎
+
+
+
+
+
+
+
+
+
+
+（K, 520–579）
+
+
+
+Oral and maxillofacial pathology
+
+Tooth disease
+salivary gland disease
+tongue disease
+
+
+Digestive disease
+
+Esophageal
+Stomach
+Enteropathy
+Liver
+Pancreatic
+
+
+
+
+
+
+
+
+
+
+（L, 680–709）
+
+
+
+皮肤状况
+skin appendages
+
+Nail disease
+Hair disease
+汗腺疾病
+
+
+
+
+
+
+
+
+
+
+（M, 710–739）
+
+
+
+Musculoskeletal disorders: Myopathy
+Arthropathy
+Osteochondropathy
+
+Osteopathy
+Chondropathy
+
+
+
+
+
+
+
+
+
+
+（N, 580–629）
+
+
+
+Urologic disease
+
+肾病变
+Urinary bladder disease
+
+
+Male genital disease
+Breast disease
+Female genital disease
+
+
+
+
+
+
+
+
+（O, 630–679）
+
+
+
+Complications of pregnancy
+Obstetric labor complication
+Puerperal disorder
+
+
+
+
+
+
+
+
+（P, 760–779）
+
+
+
+Fetal disease
+
+
+
+
+
+
+
+
+（Q, 740–759）
+
+
+
+Congenital disorder
+
+Congenital abnormality
+
+
+
+
+
+
+
+
+
+
+（R, 780–799）
+
+
+
+症候群
+医学征象
+
+Eponymous
+
+
+
+
+
+
+
+
+
+
+（S/T, 800–999）
+
+
+
+骨折
+脱臼
+Sprain
+Strain
+Subluxation
+头部外伤
+胸部创伤（英语：Chest trauma）
+毒物
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+医学：病理学
+
+
+
+
+
+
+病理学原理
+
+
+
+疾病
+
+感染
+赘生物
+病原学
+发病机制（英语：Pathogenesis）
+
+
+血流动力学（英语：Hemodynamics）
+
+缺血
+
+
+炎症
+细胞损伤（英语：Cell damage）
+伤口愈合
+
+
+细胞适应（英语：Cellular adaptation）(代偿性变化)
+萎缩
+肥大
+增生
+异型增生(发育异常)
+组织化生（英语：Metaplasia）
+
+鳞状上皮化生（英语：Squamous metaplasia）
+腺性化生（英语：Glandular metaplasia）
+
+
+
+
+细胞死亡
+坏死
+
+凝固性坏死（英语：Coagulative necrosis）
+液化性坏死（英语：Liquefactive necrosis）
+坏疽性坏死
+干酪样坏死（英语：Caseous necrosis）
+脂肪性坏死（英语：Fat necrosis）
+纤维素样坏死（英语：Fibrinoid necrosis）
+
+
+细胞程序性死亡
+
+细胞凋亡
+
+
+固缩
+核碎裂
+核溶解
+
+
+积累性
+色素
+
+含铁血黄素（英语：Hemosiderin）
+脂色素（英语：Lipochrome）/脂褐素
+黑色素
+
+
+脂肪变性（英语：Steatosis）(皮脂腺病)
+
+
+
+
+
+
+
+
+病理解剖学（英语：Anatomical pathology）
+
+
+
+外科病理学（英语：Surgical pathology）
+细胞病理学（英语：Cytopathology）
+验尸
+分子病理学（英语：Molecular pathology）
+法医病理学
+口腔颌面病理学（英语：Oral and maxillofacial pathology）
+
+
+肉眼检查（英语：Gross examination）
+组织病理学（英语：Histopathology）
+免疫组织化学
+电子显微镜
+荧光免疫检验法（英语：Immunofluorescence）(免疫萤光法)
+荧光原位杂交(FISH)
+
+
+
+
+
+
+
+
+临床病理学（英语：Clinical pathology）
+
+
+
+临床化学
+血液病理学（英语：Hematopathology）
+输血医学（英语：Transfusion medicine）
+医学微生物学
+免疫诊断学（英语：Immunoassay）
+免疫病理学（英语：Immunopathology）
+
+
+酶活性分析（英语：Enzyme assay）(酶测定)
+质谱法
+色谱法
+流式细胞术
+血库（英语：Blood bank）(血液银行)
+微生物培养鉴定（英语：Microbiological culture）
+血清学
+
+
+
+
+
+
+
+
+特殊情况
+
+
+
+心肌梗死病理时间轴（英语：Timeline of myocardial infarction pathology）
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4032844-2
+HDS: 16312
+NDL: 00571210
+
+
+
+
+
+
+
+
+
+
+
+
+分类：医学医学与社会疾病隐藏分类：CS1英语来源 (en)Webarchive模板wayback链接自2017年6月需补充来源的条目拒绝当选首页新条目推荐栏目的条目引用不当的条目自2013年6月扩充中的条目含有多个问题的条目自2017年6月有未列明来源语句的条目包含规范控制信息的维基百科条目

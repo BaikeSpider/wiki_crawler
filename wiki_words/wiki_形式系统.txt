@@ -1,0 +1,38 @@
+形式系统
+在逻辑与数学中，一个形式系统（英语：Formal system）是由两个部分组成的，一个形式语言加上一个推理规则或转换规则的集合。一个形式系统也许是纯粹抽象地制定出来，只是为了研究其自身。另一方面，也可能是为了描述真实现象或客观现实的领域而设计的。
+理论[编辑]
+在数学领域里，形式证明是形式系统的产物，由一些公理与演绎规则组成。定理便是形式证明可能的最后一行结论。这几个步骤总和起来便是数学界通称的形式主义。大卫·希尔伯特创立元数学以作为讨论形式系统的学科。任何用于讨论形式系统的语言称为元语言。元语言也许像普通语言一样自然，或它可能部分形式化，但它通常比起受检验系统的形式语言来得较不正规化。此形式语言称为对象语言，意指问题议论的对象。
+某些理论学家将形式主义粗略视为形式系统的同义词，但此词也同时指称特定风格的符号，例如保罗·狄拉克的狄拉克符号。
+在数学中的形式系统由以下要素组成：
+
+一群有限数量，且可用于建构公式的符号集合。
+一套文法，说明了如何以上述符号建构形式良好的公式（通称合式公式，或Well-formed formula，wff）。通常会要求有一个判定某公式是否为形式良好的算法。
+一群公设或公理模式的陈述，每个公理都必须是合式公式。
+一群推理规则。
+
+延伸阅读[编辑]
+
+Raymond M. Smullyan, 1961. Theory of Formal Systems: Annals of Mathematics Studies, Princeton University Press (April 1, 1961) 156 pages ISBN 069108047X
+S. C. Kleene, 1967. Mathematical Logic Reprinted by Dover, 2002. ISBN 0486425339
+Geoffrey Hunter, 1996. Metalogic: An Introduction to the Metatheory of Standard First-Order Logic University of California Press 1996. ISBN 0520023560
+Douglas Hofstadter, 1979,. Gödel, Escher, Bach: An Eternal Golden Braid ISBN 978-0465026562. 777 pages.
+
+外部链接[编辑]
+
+
+
+查询维基词典中的formalisation。
+
+
+
+Encyclopædia Britannica, Formal system definition, 2007.
+Christer Blomqvist, an introduction to formal systems, webpage 1997.
+What is a Formal System?: Some quotes from John Haugeland's `Artificial Intelligence: The Very Idea' (1985), pp. 48–64.
+Heinrich Herre Formal Language and systems, 1997.
+Peter Suber, Formal Systems and Machines: An Isomorphism, 1997.
+
+
+
+
+
+分类：形式语言数理逻辑形式方法隐藏分类：使用ISBN魔术链接的页面

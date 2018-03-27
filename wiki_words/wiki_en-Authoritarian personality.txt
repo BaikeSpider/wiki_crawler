@@ -1,0 +1,437 @@
+Authoritarian personality
+This article is about the psychological trait of authoritarianism. For the form of government that bears the same name, see Authoritarianism.
+Authoritarian personality is a state of mind or attitude characterized by belief in absolute obedience or submission to someone else’s authority, as well as the administration of that belief through the oppression of one's subordinates. It usually applies to individuals who are known or viewed as having an authoritative, strict, or oppressive personality towards subordinates.
+
+
+
+Contents
+
+
+1 Historical origins
+2 Original theory
+3 Early research
+4 Validity
+5 Current reinterpretations
+6 See also
+7 References
+8 External links
+
+
+
+Historical origins[edit]
+Theodor W. Adorno, Else Frenkel-Brunswik, Daniel Levinson, and Nevitt Sanford theorized in their 1950 book, The Authoritarian Personality, about a personality type that involved the "potentially fascistic individual".[1] They labeled it the "authoritarian personality" based on earlier writings by Erich Fromm that used this term.[2] Because the historical influences for their theory included the rise of fascism in the 1930s, World War II, and the Holocaust, a main component of the "authoritarian personality" is being susceptible to antisemitic ideology and anti-democratic political beliefs. Their large body of research (known as the Berkeley studies) focused mainly on prejudice within a psychoanalytic/psychosocial theoretical framework (i.e., Freudian and Frommian).
+Original theory[edit]
+Adorno et al. (1950) viewed the authoritarian personality as having a strict superego that controls a weak ego unable to cope with strong id impulses. The resulting intrapsychic conflicts cause personal insecurities, resulting in that person's superego to adhere to externally imposed conventional norms (conventionalism), and to the authorities who impose these norms (authoritarian submission). The ego-defense mechanism of projection occurs as indicated when that person avoids self-reference of the anxiety-producing id impulse, by displaying them onto "inferior" minority groups in the given culture (projectivity), with associated beliefs that are highly evaluative (power and toughness), and rigid (stereotypy). Additionally, there is a cynical view of humanity and a need for power and toughness resulting from the anxieties produced by perceived lapses in society's conventional norms (destructiveness and cynicism). Other characteristics of this personality type are a general tendency to focus upon those who violate conventional values and act harshly towards them (authoritarian aggression), a general opposition to subjective or imaginative tendencies (anti-intraception), a tendency to believe in mystic determination (superstition), and finally, an exaggerated concern with promiscuity.
+In regards to child development, the formation of the authoritarian type occurs within the first few years of the person's life, strongly shaped by the parents and family structure. "Hierarchical, authoritarian, exploitative" parent-child relationships may result in this personality type (Adorno et al., 1950, pp. 482–484). Parents who have a need for domination, and who dominate and threaten the child harshly, and demand obedience to conventional behaviors with threats, foster the characteristics of this personality. In addition, the parents have a preoccupation with social status, and communicate this to the child in terms of rigid and externalized rules. The child then suffers from suppressed feelings of resentment and aggression towards the parents, who are instead, idealized with reverence.
+Alfred Adler provided another perspective, linking the "will to power over others" as a central neurotic trait, usually emerging as aggressive over-compensation for felt and dreaded feelings of inferiority and insignificance. According to this view, the authoritarian's need to maintain control and prove superiority over others is rooted in a worldview populated by enemies and empty of equality, empathy, and mutual benefit.[citation needed]
+Early research[edit]
+These researchers' most noteworthy measurement for authoritarianism is the "F-scale", designed to tap a set of beliefs thought to be associated with authoritarianism without the need for specific out-groups indicated. Kirscht and Dillehay (1967)[3] outlined several problems with the Berkeley studies, including response bias. Response bias results from the F scale being uniformly worded in a confirming direction. Hence, if one tends to respond in agreement with items, regardless of their content, one is rated as an authoritarian by such a test. Several studies have shown that more variance of the F scale can be explained by response bias than the content of the items (Kirscht & Dillehay, 1967).
+Actual assessment of 16 Nazi criminals at Nuremberg trials (reported in Zillmer, et al., 1995)[4] conducted by clinicians using the Rorschach inkblots, and in one study, the F scale for authoritarianism, found that these ex-Nazis score high on three dimensions (anti-intraception, superstition and stereotyping, and projectivity), but not all nine dimensions as the theory predicted.
+One of the first applications of the authoritarian scales in academia was by Stern and colleagues, in the early 1950s, at the University of Chicago (as reported in Wiggins, 1980).[5] The hypothesized prediction was that "authoritarian" students would have difficulty in the sciences and humanities, and use of an attitudinal scale was a successful predictor.
+Validity[edit]
+Soon after the publication of The Authoritarian Personality, the theory became the subject of many criticisms. Theoretical problems involved the psychoanalytic interpretation of personality, and methodological problems focused on the inadequacies of the F-scale. Another criticism is that the theory of the Berkeley group insinuates that authoritarianism exists only on the right of the political spectrum. As a result, some have claimed that the theory is corrupted by political bias. Kreml found that although there were stylistic similarities between authoritarians and anti-authoritarians (dogmatism, rigidity, etc.), construct variables like a) the relative need for order, b) the relative need for power, c) rejection or acceptance of impulse, and d) extroversion versus introversion, differentiated the two types and could underpin a full-spectrum psycho-political theory.[6]
+Wiggins provided an insightful explanation of how the authoritarian construct is an example of the synthetic approach to personality assessment. In short, in the synthetic approach, the assumption is that those with authoritarian personality characteristics are assessed with researcher's intuitive model of what characteristics fit the criterion role requirements of the predicted situation (support of Fascism). Hence, it is not a completely empirical approach to prediction, but rather based on "arm chair" situational analysis of the criteria, and intuited psychological characteristics to be assessed that fit the situation. More recently, Jost, Glaser, Kruglanski, and Sulloway (2003)[7] have presented how the traditional research in authoritarianism or conservatism has confounded the psychological variables (e.g., personality characteristics) with the political criteria (conservative attitudes). Hence the scales measuring individual differences on authoritarianism often include the criteria attitudinal statements of political ideologies.
+Although the authoritarian is a personality construct, Adorno et al. (1950) proposed that the social environment influenced the expression of prejudice expressed, based upon the "climate of opinion" that exists at the time. Hence, ideological beliefs created within the culture and other social forces shape the prejudices of the given authoritarian individual. However, as noted by Taylor (1998),[8] this hypothesized interaction of society and the individual is lost to most of the subsequent research that implemented the F scale in differential psychological studies. Given the science of personality assessment, the variety of methods Adorno, et al. used are now unsupported, and might explain that lack of empirical studies using the F scale or the other scales developed by Adorno et al. in subsequent research. An example of the social environment impact is presented by Gibb (1969)[9] in his critique of personality traits and leadership, where a study by Katz suggested that the social situation can override personality differences. In the study, groups of black and white students were formed. Some mixed racial groups had students scoring high authoritarian F scores, and in other mixed groups, low F score students. Comparisons of high authoritarian white students to those not scoring authoritarian indicated that the former student type were more cooperative and less willing to endorse stereotypes towards blacks. Situational norms against prejudicial perceptions might have influenced authoritarian students to act less prejudicial in order to conform to the prescribed norm.
+After extensive questionnaire research and statistical analysis, Canadian psychologist Bob Altemeyer found in 1981 that only three of the original nine hypothesized components of the model correlated together: authoritarian submission, authoritarian aggression, and conventionalism. Almeyer added: "The reader familiar with the matter knows that most these criticisms [of the Authoritarian Personality] are over 25 years old, and now they might be considered little more than flaying a dead horse. Unfortunately the flaying is necessary, for the horse is not dead, but still trotting around—in various introductory psychology and developmental psychology textbooks, for example.[10]
+Current reinterpretations[edit]
+Bob Altemeyer conducted a series of studies on what he labeled right-wing authoritarianism (RWA), and presents the most recent analysis of this personality type.[11] The focus of RWA research is political preferences as measured through surveys, that suggest three tendencies as noted in attitudinal clusters. These are: 1) submission to legitimate authorities; 2) aggression towards sanctioned targeted minority groups; and 3) adherence to values and beliefs perceived as endorsed by followed leadership. McCrae & Costa (1997)[12] report that the big 5 dimension of openness to experience is negatively correlated to RWA (r=-0.57) as measured by the NEO-PI-R Openness scale.
+More recently, Jost, Glaser, Kruglanski, and Sulloway (2003) have proposed that authoritarianism, RWA and other similar constructs of political conservatism are a form of motivated social cognition. These researchers propose that conservatism has characteristics similar to those of authoritarianism, with resistance to change, and justification for inequality as the core components. In addition, conservative individuals have needs to manage uncertainty and threat with both situational motives (e.g., striving for security and dominance in social hierarchies) and dispositional motives (e.g., terror management and self-esteem). Despite its methodological deficiencies, the theory of the authoritarian personality has had a major influence on research in political, personality, and social psychology.
+In a provocative article in the peer-reviewed journal Postscripts, Robert J. Myles has applied Adorno's F-scale to the characterization of Jesus in the Gospel of John, highlighting the text's potential fascist and authoritarian impulses that were subsequently utilized by later antisemitic interpretations.[13]
+See also[edit]
+
+
+Anti-authoritarianism
+Authoritarian leadership style
+Conformity
+Control freak
+Disciplinarian
+Fascist (insult)
+The Fear of Freedom (book)
+Freudo-Marxism
+F-scale
+Obsessive-compulsive personality disorder
+Police brutality
+Repressive Tolerance
+Right-wing authoritarianism
+Stanford prison experiment
+Tyranny of the majority
+
+
+References[edit]
+
+
+
+^ Adorno, T. W.; Frenkel-Brunswik, E.; Levinson, D.J.; Sanford, R. N. (1950). The Authoritarian Personality. Harper & Brothers. ISBN 978-0-06-030150-7. 
+^ Baars, J. & Scheepers, P. (1993). "Theoretical and methodological foundations of the authoritarian personality". Journal of the History of the Behavioral Sciences, 29, pp. 345–353.
+^ Kirscht, JP, & Dillehay, RC. (1967). Dimensions of Authoritarianism: A Review of Research and Theory. University of Kentucky Press: Lexington, TN.
+^ Zillmer, E. A., Harrower, M., Ritzler, B.A., and Archer, R.P. (1995). The Quest for the Nazi Personality: A Psychological Investigation of Nazi War Criminals. LEA Hillside, NJ
+^ Wiggins, J.S. (1980). Personality and Prediction: Principles of Personality Assessment. Addison-Wesley. Reading, Mass.
+^ Kreml, William P. (1977). The Anti-Authoritarian Personality. Oxford ; New York : Pergamon Press.ISBN 978-0-08-021063-6.
+^ Jost, JT., Glaser, J., Kruglanski, AW., and Sulloway, FJ. (2003). "Political conservatism as motivated social cognition." Psychological Bulletin, 129. pp 339–375.
+^ Taylor, S. (1998). "The social being in social psychology." In The Handbook of Social Psychology, 4th, ed. (Eds. Gilbert, D.T., Fiske, S., and Lindzey, G). pp. 58–95.
+^ Gibb, C. A. (1969). "Leadership." The Handbook of Social Psychology, Vol IV. pp. 205–282. Lindzey. G., & Aronson, E. (Eds.). Addison-Wesley: Reading, Mass
+^ Altemeyer, B. (1981). Right-Wing Authoritarianism. University of Manitoba Press. ISBN 978-0-88755-124-6.
+^ Altemeyer, B. (1998). The other "authoritarian personality". Advances in Experimental Social Psychology, 30, 47-91.
+^ McCrae and Costa (1997). Conceptions and correlates of openness to experience. Handbook of Personality Psychology. (Hogan, R., Johnson, J., & Briggs, S., Eds). pp. 835–847. Academic Press: San Diego, CA.
+^ Myles, Robert (2016). "Opiate of Christ: John's Gospel and the Spectre of Class". Postscripts: The Journal of Sacred Texts and Contemporary Worlds. Retrieved 2016-10-20. 
+
+
+
+External links[edit]
+
+Professor Bob Altemeyer's The Authoritarians - An American on-line book about the corruption of Congress of the United States, the destruction of traditional conservatism by authoritarianism, the un-democratic push of the agenda of the "Religious Right" and their amoral authoritarian leaders, and the United States standing at a crossroads as the 2008 federal election approaches.
+John Dean Exposes The Authoritarians - The first in a five-part series on America's authoritarians based on John Dean's Conservatives Without Conscience.
+Authoritarianism and Polarization in American Politics by Marc Hetherington and Jonathan Weiler Excerpt.
+Bob Altemeyer and Jonathan Shockley: A Discussion on Authoritarianism on WBAI
+Баязитов Р.Ф. Авторитарный стереотип: сущность и проявления в социальных взаимодействиях. — Нижнекамск: Изд-во НМИ, 2006. — 175 с.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Abuse
+
+
+
+Types
+
+
+
+Anti-social behaviour
+Bullying
+Child abuse
+
+neglect
+sexual
+military
+
+
+Cruelty to animals
+Domestic abuse
+Elder abuse
+Gaslighting
+Harassment
+Humiliation
+Incivility
+Institutional abuse
+Intimidation
+Neglect
+Persecution
+Professional abuse
+Proxy abuse
+Psychological abuse
+Physical abuse
+Religious abuse
+Sexual abuse
+Stalking
+Structural abuse
+Verbal abuse
+more...
+
+
+
+
+
+Related topics
+
+
+
+Abusive power and control
+Child grooming
+Complex post-traumatic stress disorder
+Dehumanization
+Denial
+Destabilisation
+Exaggeration
+Isolation
+Just-world hypothesis
+Lying
+Manipulation
+Minimisation
+Narcissism
+Psychological projection
+Psychological trauma
+Psychopathy
+Rationalization
+Traumatic bonding
+Victim blaming
+Victim playing
+Victimisation
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Narcissism
+
+
+
+Types
+
+
+
+Collective
+Egomania
+Flying monkeys
+Healthy
+Malignant
+Megalomania
+Narcissistic personality disorder
+Spiritual
+Workplace
+
+
+
+
+
+Characteristics
+
+
+
+Betrayal
+Boasting
+Egocentrism
+Egotism
+Empathy (lack of)
+Envy
+Entitlement (exaggerated sense of)
+Fantasy
+Grandiosity
+Hubris
+Magical thinking
+Manipulative
+Narcissistic abuse
+Narcissistic elation
+Narcissistic rage and narcissistic injury
+Narcissistic mortification
+Narcissistic supply
+Narcissistic withdrawal
+Perfectionism
+Self-esteem
+Self-righteousness
+Shamelessness
+Superficial charm
+Superiority complex
+True self and false self
+Vanity
+
+
+
+
+
+Defences
+
+
+
+Denial
+Idealization and devaluation
+Distortion
+Projection
+Splitting
+
+
+
+
+
+Cultural phenomena
+
+
+
+Control freak
+Don Juanism
+Dorian Gray syndrome
+Metrosexual
+My way or the highway
+Selfie
+
+
+
+
+
+Related articles
+
+
+
+Codependency
+Counterdependency
+Dark triad
+Ego ideal
+Egomania (film)
+Empire-building
+God complex
+History of narcissism
+Messiah complex
+Micromanagement
+Narcissism of small differences
+Narcissistic leadership
+Narcissistic parent
+Narcissistic Personality Inventory
+Narcissus (mythology)
+On Narcissism (Freud essay)
+Sam Vaknin
+Self-love
+Self-serving bias
+Spoiled child
+The Culture of Narcissism (Lasch book)
+Workplace bullying
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Conformity
+
+
+
+Group pressures
+
+
+
+Authoritarian personality
+Bandwagon effect
+Collectivism
+Coercive persuasion
+Consensus reality
+Contagion
+
+Behavioral
+Crime
+Hysterical
+Suicide
+
+
+Groupthink
+Hazing
+Herd mentality
+Indoctrination
+Memory conformity
+Milieu control
+Mobbing
+Nationalism
+Normalization
+Normative social influence
+Ostracism
+Panopticon
+Patriotism
+Peer pressure
+Peer review
+Pluralistic ignorance
+Propaganda
+Right-wing authoritarianism
+Scapegoating
+Shunning
+Social influence
+Socialization
+Spiral of silence
+Teasing
+Tyranny of the majority
+Xeer
+
+
+
+
+
+Conforming oneself
+
+
+
+Compliance
+Countersignaling
+Herd behavior
+Internalisation
+Social proof
+Obedience
+
+
+
+
+
+Experiments
+
+
+
+Asch conformity experiments
+Milgram experiment
+Stanford prison experiment
+
+
+
+
+
+Counterconformity
+
+
+
+Anti-authoritarianism
+Antisocial tendencies
+Auto-segregation
+Civil disobedience
+Cosmopolitanism
+Counterculture
+Culture jamming
+Deviance
+Eclecticism
+Eccentricity
+Hermit
+Idiosyncrasy
+Individualism
+Rebellion
+Ritual clown
+Satire
+Shock value
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4120963-1
+
+
+
+
+
+
+
+
+
+
+Categories: Psychological theoriesPersonality traitsAuthoritarianismAnti-social behaviourAbuseWorkplace bullyingFascismHidden categories: All articles with unsourced statementsArticles with unsourced statements from January 2016Wikipedia articles with GND identifiers

@@ -1,0 +1,86 @@
+CiNii
+
+CiNii
+
+
+
+
+制作者
+国立信息学研究所（英语：National Institute of Informatics）（日本）
+
+
+历史
+2005 – 至今
+
+
+语言
+日语、英语
+
+
+可访性
+
+
+费用
+免费；全文需订阅
+
+
+涵盖
+
+
+学科
+多学科
+
+
+记录深度
+索引、抽象和全文
+
+
+形式涵盖
+期刊文章和书籍
+
+
+时间涵盖
+1906 – 至今
+
+
+地理空间涵盖
+日本
+
+
+记录数量
+1500万
+
+
+链接
+
+
+
+
+网站
+
+
+
+
+CiNii（/ˈsaɪniː/ [1]）是一个面向日本学术图书资料的书目数据库（英语：Bibliographic database）服务，尤其是日本出版的日语和英语著作。该数据库成立于2005年4月，由日本国立信息学研究所（英语：National Institute of Informatics）（NII）维护。[2]该服务的数据库搜索由NII电子图书馆服务（NII-ELS）和日本出版物引文数据库（CJP）维护，数据库由日本国立国会图书馆、机构库（英语：Institutional repositories）以及其他组织提供。[3]
+该数据库已包含超过3600部出版物的超过1500万篇文章。[4]在2012年某月（一个平常的月份），有超过220万独立访客的超过3000万次访问[5]，是日本最大、最全面的数据库。虽然该数据库涵盖众多学科，但它所含内容大部分属于人文和社会科学领域，这也许是因为CiNii是日本在该领域的学术著作的唯一数据库。[6]
+数据库标识符[编辑]
+该数据库会为其每篇刊物文章分配一个名为NII Article ID（NII文章ID，缩写NAID）的唯一标识符。[5]另一种标识符NII Citation ID（NCID或書誌ID）也称NACSIS-CAT Record ID，用于书籍。
+参考资料[编辑]
+
+^ About CiNii. CiNii. [2014-02-23]. 
+^ 大向一辉 (Ohmukai, Ikki). 学术情报プラットフォームとしてのCiNii. Current Awareness. 2009, (301). CA1691. 
+^ Databases Incorporated. CiNii. [2014-02-23]. 
+^ titlelist_els.tsv. CiNii. 2014-02-15 [2014-02-23]. 
+^ 5.0 5.1 大向一辉 (Ohmukai, Ikki). System design and data modeling of CiNii articles. The Journal of Information Science and Technology Association. 2012, 62 (11): 473–477. 
+^ 日诘梨恵 (Hizume, Rie); 逸村裕 (Itsumura, Hiroshi). CiNii 収录率から见たわが国の学术情报电子化の现状：人文学４领域を対象に. 中部図书馆情报学会志. 2010, 50: 19–35. 
+
+外部链接[编辑]
+
+CiNii（日文）
+CiNii in English（英文）
+
+
+
+
+
+分类：文献检索数据库日本数据库日本研究隐藏分类：使用过时图像语法的页面含有日语的条目

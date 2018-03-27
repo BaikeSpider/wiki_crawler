@@ -1,0 +1,517 @@
+Verificationism
+Verificationism, also known as the verification idea or the verifiability criterion of meaning, is the philosophical doctrine that only statements that are empirically verifiable (i.e. verifiable through the senses) are cognitively meaningful, or else they are truths of logic (tautologies).
+Verificationism thus rejects as cognitively "meaningless" statements specific to entire fields such as metaphysics, spirituality, theology, ethics and aesthetics. Such statements may be meaningful in influencing emotions or behavior, but not in terms of truth value, information or factual content.[1] Verificationism was a central thesis of logical positivism, a movement in analytic philosophy that emerged in the 1920s by the efforts of a group of philosophers who sought to unify philosophy and science under a common naturalistic theory of knowledge.
+
+
+
+Contents
+
+
+1 Origins
+2 Revisions
+3 Decline
+4 Legacy
+5 See also
+6 Notes
+
+
+
+Origins[edit]
+Although verificationist principles of a general sort—grounding scientific theory in some verifiable experience—are found retrospectively even with the American pragmatist C.S. Peirce and with the French conventionalist Pierre Duhem[2] who fostered instrumentalism,[3] the vigorous program termed verificationism was launched by the logical positivists who, emerging from Berlin Circle and Vienna Circle in the 1920s, sought epistemology whereby philosophical discourse would be, in their perception, as authoritative and meaningful as empirical science.
+Logical positivists garnered the verifiability criterion of cognitive meaningfulness from young Ludwig Wittgenstein's philosophy of language posed in his 1921 book Tractatus,[4] and, led by Bertrand Russell, sought to reformulate the analytic–synthetic distinction in a way that would reduce mathematics and logic to semantical conventions. This would be pivotal to verificationism, in that logic and mathematics would otherwise be classified as synthetic a priori knowledge and defined as "meaningless" under verificationism.
+Seeking grounding in such empiricism as of David Hume,[5] Auguste Comte, and Ernst Mach—along with the positivism of the latter two—they borrowed some perspectives from Immanuel Kant, and found the exemplar of science to be Albert Einstein's general theory of relativity.
+Revisions[edit]
+Logical positivists within the Vienna Circle quickly recognized that the verifiability criterion was too stringent. Notably, all universal generalizations are empirically unverifiable, such that, under verificationism, vast domains of science and reason, such as scientific hypothesis, would be rendered meaningless.[6]
+Rudolf Carnap, Otto Neurath, Hans Hahn and Philipp Frank led a faction seeking to make the verifiability criterion more inclusive, beginning a movement they referred to as the "liberalization of empiricism". Moritz Schlick and Friedrich Waismann led a "conservative wing" that maintained a strict verificationism. Whereas Schlick sought to reduce universal generalizations to frameworks of 'rules' from which verifiable statements can be derived,[7] Hahn argued that the verifiability criterion should accede to less-than-conclusive verifiability.[8] Among other ideas espoused by the liberalization movement were physicalism, over Mach's phenomenalism, coherentism over foundationalism, as well as pragmatism and fallibilism.[6][9]
+In 1936, Carnap sought a switch from verification to confirmation.[6] Carnap's confirmability criterion (confirmationism) would not require conclusive verification (thus accommodating for universal generalizations) but allow for partial testability to establish "degrees of confirmation" on a probabilistic basis. Carnap never succeeded in formalizing his thesis despite employing abundant logical and mathematical tools for this purpose. In all of Carnap's formulations, a universal law's degree of confirmation is zero.[10]
+That same year saw the publication of A. J. Ayer's work, Language, Truth and Logic, in which he proposed two types of verification: strong and weak. This system espoused conclusive verification, yet accommodated for probabilistic inclusion where verifiability is inconclusive. Ayer also distinguished between practical and theoretical verifiability. Under the latter, propositions that cannot be verified in practice would still be meaningful if they can be verified in principle.
+Karl Popper's The Logic of Scientific Discovery proposed falsificationism as a criterion under which scientific hypothesis would be tenable. Falsificationism would allow hypotheses expressed as universal generalizations, such as "all swans are white", to be provisionally true until falsified by evidence, in contrast to verificationism under which they would be disqualified immediately as meaningless.
+Though widely recognized as a revision of verificationism,[4][11] Popper intended falsificationism as a methodological standard specific to the sciences rather than as a theory of meaning.[4] Popper regarded scientific hypotheses to be unverifiable, as well as not "confirmable" under Carnap's thesis.[4][12] He also found unscientific, metaphysical, ethical, and aesthetic statements often rich in meaning and important in the origination of scientific theories.[4][13]
+Decline[edit]
+The 1951 article "Two Dogmas of Empiricism", by Willard Van Orman Quine, attacked the analytic/synthetic division and apparently rendered the verificationist program untenable. Carl Hempel, one of verificationism's greatest internal critics, had recently concluded the same as to the verifiability criterion.[14] In 1958, Norwood Hanson explained that even direct observations must be collected, sorted, and reported with guidance and constraint by theory, which sets a horizon of expectation and interpretation, how observational reports, never neutral, are laden with theory.[15]
+The principle was also recognized as being self-refuting: it cannot itself be empirically verified, and it is not a logical tautology, so must be meaningless under its own terms.
+Thomas Kuhn's landmark book of 1962, The Structure of Scientific Revolutions—which identified paradigms of science overturned by revolutionary science within fundamental physics—critically destabilized confidence in scientific foundationalism,[16] commonly if erroneously attributed to verificationism.[17] Popper, who had long claimed to have killed verificationism but recognized that some would confuse his falsificationism for more of it,[11] was knighted in 1965. At 1967, John Passmore, a leading historian of 20th-century philosophy, wrote, "Logical positivism is dead, or as dead as a philosophical movement ever becomes"—a general view among philosophers.[18] Logical positivism's fall heralded postpositivism, where Popper's view of human knowledge as hypothetical, continually growing, and open to change ascended,[11] and verificationism became mostly maligned.[2]
+Legacy[edit]
+Karl Popper has been the only philosopher of science often praised by scientists,[12] whereas verificationists have been likened to economists of the 19th century who took circuitous, protracted measures to refuse falsification, that is, refutation, of their preconceived principles.[19] Still, logical positivists practiced Popper's principles—conjecturing and refuting—until they ran their course, catapulting Popper, initially a contentious misfit, to carry the richest philosophy out of interwar Vienna.[11] And his falsificationism, as did verificationism, poses a criterion, falsifiability, to ensure that empiricism anchors scientific theory.[2]
+In a 1979 interview, A J Ayer, who had introduced logical positivism to the English-speaking world in the 1930s, was asked what he saw as its main defects, and answered that "nearly all of it was false".[18] Still, he soon admitted still holding "the same general approach".[18] The "general approach" of empiricism and reductionism—whereby mental phenomena resolve to the material or physical, and philosophical questions largely resolve to ones of language and meaning—has run through Western philosophy since the 17th century and lived beyond logical positivism's fall.[18]
+In 1977, Ayer had noted, "The verification principle is seldom mentioned and when it is mentioned it is usually scorned; it continues, however, to be put to work. The attitude of many philosophers reminds me of the relationship between Pip and Magwitch in Dickens's Great Expectations. They have lived on the money, but are ashamed to acknowledge its source".[2] In the late 20th and early 21st centuries, the general concept of verification criteria—in forms that differed from those of the logical positivists—was defended by Bas van Fraassen, Michael Dummett, Crispin Wright, Christopher Peacocke, David Wiggins, Richard Rorty, and others.[2]
+See also[edit]
+
+Epistemic theories of truth
+
+Notes[edit]
+
+
+^ Editors of Encyclopædia Britannica, "Verifiability principle", Encyclopædia Britannica, Website accessed 12 Mar 2014.
+^ a b c d e C J Misak, Verificationism: Its History and Prospects (New York: Routledge, 1995), p viii.
+^ Miran Epstein, ch 2 "Introduction to philosophy of science", in Clive Seale, ed, Researching Society and Culture, 3rd edn (London: Sage Publications, 2012), pp 18–19.
+^ a b c d e Karl Popper, ch 4, subch "Science: Conjectures and refutations", in Andrew Bailey, ed, First Philosophy: Fundamental Problems and Readings in Philosophy, 2nd edn (Peterborough Ontario: Broadview Press, 2011), pp 338–42.
+^ Despite Hume's radical empiricism, set forth near 1740, Hume was also committed to common sense, and apparently did not take his own skepticism, such as the problem of induction, as drastically as others later did [Antony G Flew, A Dictionary of Philosophy, rev 2nd edn (New York: St Martin's Press, 1984), "Hume", p 156].
+^ a b c Sahotra Sarkar and Jessica Pfeifer, eds, The Philosophy of Science: An Encyclopedia, Volume 1: A–M (New York: Routledge, 2006), "Rudolf Carnap", p 83.
+^ Moritz Schlick, 1931, "Die Kausalität in der gegenwärtigen Physik", Die Naturwissen-schaften, 19: 145–162; transl. "Causality in Contemporary Physics" in Schlick 1979b, pp. 176–209
+^ Hahn, Hans, 1933, Logik, Mathematik und Naturerkennen, Wien: Gerold, transl. "Logic, Mathematics, and Knowledge of Nature", in B. McGuiness 1987, pp. 24–45.
+^ Antony G Flew, A Dictionary of Philosophy, rev 2nd edn (New York: St Martin's Press, 1984), "Neurath", p 245.
+^ Mauro Murzi "Rudolf Carnap (1891–1970)", Internet Encyclopedia of Philosophy, 12 Apr 2001.
+^ a b c d Malachi Haim Hacohen, Karl Popper: The Formative Years, 1902–1945: Politics and Philosophy in Interwar Vienna (Cambridge: Cambridge University Press, 2000), pp 212–13.
+^ a b Peter Godfrey-Smith, Theory and Reality: An Introduction to the Philosophy of Science (Chicago: University of Chicago Press, 2005), p 57–59.
+^ Falsificationism is simply Popper's scientific epistemology, whereas critical rationalism is Popper's general epistemology.
+^ James Fetzer, "Carl Hempel", in Edward N Zalta, ed, The Stanford Encyclopedia of Philosophy (Spring 2013): "However surprising it may initially seem, contemporary developments in the philosophy of science can only be properly appreciated in relation to the historical background of logical positivism. Hempel himself attained a certain degree of prominence as a critic of this movement. Language, Truth and Logic (1936; 2nd edition, 1946), authored by A J Ayer, offers a lucid exposition of the movement, which was—with certain variations—based upon the analytic/synthetic distinction, the observational/theoretical distinction, and the verifiability criterion of meaningfulness.
+
+Hempel (1950, 1951), meanwhile, demonstrated that the verifiability criterion could not be sustained. Since it restricts empirical knowledge to observation sentences and their deductive consequences, scientific theories are reduced to logical constructions from observables. In a series of studies about cognitive significance and empirical testability, he demonstrated that the verifiability criterion implies that existential generalizations are meaningful, but that universal generalizations are not, even though they include general laws, the principal objects of scientific discovery. Hypotheses about relative frequencies in finite sequences are meaningful, but hypotheses concerning limits in infinite sequences are not. The verifiability criterion thus imposed a standard that was too strong to accommodate the characteristic claims of science and was not justifiable".
+^ Bruce Caldwell, Beyond Positivism: Economic Methodology in the 20th Century, rev edn (London: Routledge, 1994), p 47–48.
+^ Samir Okasha, Philosophy of Science: A Very Short Introduction (New York: Oxford University Press, 2002) ch 5.
+^ "But for a brief lapse around 1929/30, then, the post-Aufbau Carnap fully represents the position of Vienna Circle anti-foundationalism. In this he joined Neurath whose long-standing anti-foundationalism is evident from his famous simile likening scientists to sailors who have to repair their boat without ever being able to pull into dry dock (1932b). Their positions contrasted at least prima facie with that of Schlick (1934) who explicitly defended the idea of foundations in the Circle's protocol-sentence debate. Even Schlick conceded, however, that all scientific statements were fallible ones, so his position on foundationalism was by no means the traditional one. The point of his 'foundations' remained less than wholly clear and different interpretation of it have been put forward. ... While all in the Circle thus recognized as futile the attempt to restore certainty to scientific knowledge claims, not all members embraced positions that rejected foundationalism tout court. Clearly, however, attributing foundationalist ambitions to the Circle as a whole constitutes a total misunderstanding of its internal dynamics and historical development, if it does not bespeak wilfull ignorance. At most, a foundationalist faction around Schlick can be distinguished from the so-called left wing whose members pioneered anti-foundationalism with regard to both the empirical and formal sciences" Thomas Uebel, "Vienna Circle", sec "3.3 Reductionism and foundationalism: Two criticisms partly rebutted", in Edward N Zalta, ed, The Stanford Encyclopedia of Philosophy (Summer 2012 edn)].
+^ a b c d Oswald Hanfling, ch 5 "Logical positivism", in Stuart G Shanker, Philosophy of Science, Logic and Mathematics in the Twentieth Century (London: Routledge, 1996), pp 193–94.
+^ Mark Blaug The Methodology of Economics: Or, How Economists Explain, 2nd edn (Cambridge UK: Cambridge University Press, 1992), ch 3 "The verificationists, a largely nineteenth-century story", p 51.
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Analytic philosophy
+
+
+
+Philosophers
+
+
+
+J. L. Austin
+A. J. Ayer
+G. E. M. Anscombe
+Nick Bostrom
+Robert Brandom
+C. D. Broad
+Patricia Churchland
+David Chalmers
+Noam Chomsky
+James F. Conant
+Alice Crary
+Donald Davidson
+Daniel Dennett
+Cora Diamond
+Michael Dummett
+Paul Feyerabend
+Antony Flew
+Bas van Fraassen
+Gottlob Frege
+Jerry Fodor
+Philippa Foot
+Peter Geach
+Paul Grice
+Ian Hacking
+R. M. Hare
+Carl Gustav Hempel
+Peter van Inwagen
+Christine Korsgaard
+Saul Kripke
+Thomas Kuhn
+David Lewis
+Alasdair MacIntyre
+J. L. Mackie
+Norman Malcolm
+John McDowell
+G. E. Moore
+Ernest Nagel
+Thomas Nagel
+Robert Nozick
+Derek Parfit
+Alvin Plantinga
+Karl Popper
+Hilary Putnam
+W. V. O. Quine
+John Rawls
+Hans Reichenbach
+Richard Rorty
+Bertrand Russell
+Gilbert Ryle
+Moritz Schlick
+John Searle
+Wilfrid Sellars
+Peter Singer
+Richard Swinburne
+Charles Taylor
+Michael Walzer
+Bernard Williams
+Timothy Williamson
+Ludwig Wittgenstein
+
+
+
+
+
+Theories
+
+
+
+Actualism
+Analytical feminism
+Analytical Marxism
+Anti-realism
+Berlin Circle
+Descriptivist theory of names
+Emotivism
+Functional contextualism
+Linguistic turn
+Logical positivism
+Modal realism
+Model-dependent realism
+Neopragmatism
+Neurophilosophy
+Ordinary language philosophy
+Postanalytic philosophy
+Pragmatic theory of truth
+Verificationism
+Vienna Circle
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+Causal / Deductive / epistemic closure
+Concept
+Counterfactual
+Denotation / reference
+Definite description
+Factive
+Family resemblance
+Intuition
+Meaning (Proposition)
+Modality
+Natural kind / projectability
+Necessary–sufficient conditions
+Paradox of analysis
+Possible world
+Reduction
+Reflective equilibrium
+Rigid–flaccid designators
+Sense data
+Supervenience
+Thought experiment
+Truth function
+Truthmaker
+Truth-bearer
+Type–token distinction
+
+
+
+
+
+Related articles
+
+
+
+Aretaic turn
+Australian realism
+Communitarianism
+Ordinary language philosophy
+Philosophical logic
+Philosophy of language
+Philosophy of science
+Postanalytic philosophy
+
+
+
+
+
+
+
+
+ Index
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Positivism
+
+
+
+
+
+
+
+Perspectives
+
+
+
+Antihumanism
+Empiricism
+Rationalism
+Scientism
+
+
+
+
+
+Declinations
+
+
+
+Legal positivism
+Logical positivism / analytic philosophy
+Positivist school
+Postpositivism
+Sociological positivism
+Machian positivism (empiriocriticism)
+Rankean historical positivism
+Polish positivism
+Russian positivism (empiriomonism)
+
+
+
+
+
+Principal concepts
+
+
+
+Consilience
+Demarcation
+Evidence
+Induction
+Justificationism
+Pseudoscience
+Critique of metaphysics
+Unity of science
+Verificationism
+
+
+
+
+
+Antitheses
+
+
+
+Antipositivism
+Confirmation holism
+Critical theory
+Falsifiability
+Geisteswissenschaft
+Hermeneutics
+Historicism
+Historism
+Human science
+Humanities
+Problem of induction
+Reflectivism
+
+
+
+
+
+Related paradigm shifts
+in the history of science
+
+
+
+Non-Euclidean geometry (1830s)
+Heisenberg uncertainty principle (1927)
+
+
+
+
+
+Related topics
+
+
+
+Behavioralism
+Critical rationalism
+Criticism of science
+Epistemological idealism
+Epistemology
+Holism in anthropology
+Instrumentalism
+Modernism
+Naturalism in literature
+Nomothetic–idiographic distinction
+Objectivity in science
+Operationalism
+Phenomenalism
+Philosophy of science
+
+Deductive-nomological model
+Ramsey sentence
+Sense-data theory
+
+
+Qualitative research
+Relationship between religion and science
+Sociology
+Social science (Philosophy)
+Structural functionalism
+Structuralism
+Structuration theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+Positivist-related debate
+
+
+
+
+
+
+
+Method
+
+
+
+1890s Methodenstreit (economics)
+1909–1959 Werturteilsstreit
+1960s Positivismusstreit
+1980s Fourth Great Debate in international relations
+1990s Science Wars
+
+
+
+
+
+Contributions
+
+
+
+1830 The Course in Positive Philosophy
+1848 A General View of Positivism
+1869 Critical History of Philosophy
+1879 Idealism and Positivism
+1886 The Analysis of Sensations
+1927 The Logic of Modern Physics
+1936 Language, Truth, and Logic
+1959 The Two Cultures
+2001 The Universe in a Nutshell
+
+
+
+
+
+Proponents
+
+
+
+Richard Avenarius
+A. J. Ayer
+Auguste Comte
+Eugen Dühring
+Émile Durkheim
+Ernst Laas
+Ernst Mach
+Berlin Circle
+Vienna Circle
+
+
+
+
+
+Criticism
+
+
+
+1909 Materialism and Empirio-criticism
+1923 History and Class Consciousness
+1934 The Logic of Scientific Discovery
+1936 The Poverty of Historicism
+1942 World Hypotheses
+1951 Two Dogmas of Empiricism
+1960 Truth and Method
+1962 The Structure of Scientific Revolutions
+1963 Conjectures and Refutations
+1964 One-Dimensional Man
+1968 Knowledge and Human Interests
+1978 The Poverty of Theory
+1980 The Scientific Image
+1986 The Rhetoric of Economics
+
+
+
+
+
+Critics
+
+
+
+Theodor W. Adorno
+Gaston Bachelard
+Mario Bunge
+Wilhelm Dilthey
+Paul Feyerabend
+Hans-Georg Gadamer
+Thomas Kuhn
+György Lukács
+Karl Popper
+Willard Van Orman Quine
+Max Weber
+
+
+
+
+
+Concepts in contention
+
+
+
+Knowledge
+Phronesis
+Truth
+Verstehen
+
+
+
+
+
+
+
+
+
+
+
+
+Category
+
+
+
+
+
+
+
+
+Categories: Analytic philosophyEmpiricismLogical positivismMetatheory of scienceEpistemological theoriesMeaning (philosophy of language)Meaning in religious language

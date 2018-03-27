@@ -1,0 +1,301 @@
+数字图书馆
+
+
+
+
+
+
+
+
+数字图书馆（Digital Library）是一种馆藏以数字化格式存储，可以利用电脑访问的图书馆，而传统图书馆的馆藏则以印刷、微缩胶片或其他媒体等相对格式为馆藏主体。数字化的内容可以被存在本地端或通过电脑网络由远程访问。数字图书馆可说是一种信息检索系统。
+DELOS数字图书馆的委员定义了数字图书馆，内容如下：
+
+
+
+
+
+
+
+数字图书馆是一个组织，它也许能够有效的，全面性的收集，长时间的处理及保存大量的数字容量，并且有适当的能力以及有方向的汇整，提供用户共同研究这个内容。
+
+
+
+
+
+
+
+对于印刷品数字图书馆的第一个用途也许是在1988年报告到全国主动性研究公司。在1994年，数字图书馆由NSF/DARPA/NASA数字图书馆首先大众化。虽然现在还会偶尔使用旧称如电子图书馆（Electronic Library）或虚拟图书馆（Virtual Library），但是现在英文的"Electronic Library"多数是指由政府机构提供的门户系统，例如佛罗里达州电子图书馆（Florida Electronic Library）。
+
+
+
+目录
+
+
+1 数字图书馆概说
+2 数字图书馆的新功能与任务
+3 搜索
+4 数字化之未来展望
+5 二元图书馆
+6 虚拟图书馆
+7 数字图书馆的发展
+8 数字图书馆列表
+9 参考文献
+10 外部链接
+11 参见
+
+
+
+数字图书馆概说[编辑]
+近五十年来图书馆的发展历程，历经参考咨询与信息服务的开始发展，至1970年代步入图书馆自动化，再踏入1980年代的各类型数据库的全面开展，随后进入1990年代的网络时代多媒体。电子出版的世界，因互联网与数字科技的迅速发展，对图书馆的角色与发展投下巨大的变量，传统的纸本馆藏取而代之的是如雨后春笋般急速成长的电子出版品，因应环境的变迁，原本传统纸质类型的出版品，也不断被扫描数字化以便于传递服务。图书馆一词开始有数字图书馆的出现，也有电子图书馆（Electronic library）、虚拟图书馆（Virtual library）、无墙图书馆（Library without wall）等近似词。不仅代表人们对于图书馆的期望，亦反应出新科技对图书馆的冲击。
+图书馆从早期以纸质媒体的典藏，配合电脑科技的发展开始有电子文件，到利用图书馆自动化系统集成图书馆作业，引进各项电子资源，并进入网络环境的复合图书馆时代，近几年更因宽带、高速、高密度的数字传讯与数字典藏环境，造就数字图书馆、网站图书馆时代的来临。 然而传统图书馆与数字图书馆均有不足之处，整理两者可互补者在于
+
+传统图书馆馆藏文献是数字图书馆的基础，数字图书馆的形成三要素：用户、信息资源与通信网络。其中信息资源需要存在于载体上，不论是印刷或是电子型式，都需要一个机构进行信息的征集、加工和组织，所有信息和数据库都必须由人开发整理，而图书馆长久以来扮演的信息中介者角色，也积累了丰富的各项信息资源，是发展数字图书馆的最佳基础。
+数字图书馆通过网络促进资源共享的功能，可弥补传统图书馆限于空间及本身资源不足问题，难以履行资源共享的困境，通过网络，馆际间可便利交换共享其他图书馆的数字资源，加速馆际间合作关系的推动。
+数字图书馆远距服务的特性，可弥补传统图书馆无法提供到府服务的限制。对传统图书馆而言，利用网络传输可以缩短图书馆与用户之间的实体距离，真正达到便利用户的服务。
+传统图书馆文献保存及休闲功能，弥补了数字图书馆目前电子资源尚待克服的长久资源保存问题，也满足了社会大众在信息学习之外的休闲需求，能适切扮演个人与社会交互联结的公众服务角色。
+数字图书馆能克服实体空间的限制，充分的搜集整理各项数字资源，并可轻易扩展原有的服务方式，例如：文献传递服务、在线参考资询服务、主题网站资源选介、在线利用指导等，提供馆藏的加值服务。
+
+综上所述，数字图书馆无法完全取代传统图书馆所有的功能，传统图书馆保存着大量的文献资源，数字技术和新媒体使知识和信息的传播便捷迅速，但却无法涵盖传统图书馆的广泛社会功能，自然无法取代传统的图书馆。
+数字图书馆的新功能与任务[编辑]
+图书馆是一个变动的有机体，数字革命之后，知识载体与知识传播方式的演进，图书馆面对的是一个遽烈的变局，传统的实体图书馆与虚拟的数字图书馆结合，促使人们对于图书馆产生新的诠释与了解。信息技术与网络资源，使传统图书馆扮演的角色与功能产生许多变化，其变化主要显现在功能的调整上，数字图书馆为能达到为信息创建检索点并提供信息检索服务的目标，图书馆作业应加强的任务包括：
+
+数据的征集：延续图书信息的选择与采访，并加强网络资源的选择、电子期刊的征集与管理、实体与虚拟馆藏发展与管理、馆际互借与文献传递等。
+信息的组织：除了图书数据的分类与编目，索引与摘要服务外，应加强电子数据库的组织、网络资源的组织等。
+信息的传播与利用：强化图书馆电脑目录、网络图书馆自动化服务、网络图书馆服务，远距图书馆服务、图书馆联合目录、馆外资源集成性服务、随选视频与多媒体服务等。
+信息素养的教育与训练：持续推动图书馆利用教育、信息素养教育、网络图书馆利用教育等。
+信息与知识的咨询顾问：提供知识与信息中介者、信息检索代理、网络检索工具建置、索引典建置等。
+图书数据的保存与维护：持续进行典藏与维护图书馆数据、数字馆藏建置等。
+多元化信息资源的管理：扩展信息资源管理的范围，涵盖文件管理、文件管理、多媒体管理、各类图书馆与信息中心管理等。
+
+搜索[编辑]
+大多数的数字图书馆他们会提供一个允许资源查询的窗口，这些数据是典型的深藏于网络（或是网络上很少甚至没有的）的资源，这些深藏在网络中的数据常常不能被使用搜索引擎的人们所找到，所以就有一些数字图书馆他们创造出特殊的页面或是网点能够让大多数的搜索引擎找到他们所有的数据，许多的数字图书馆会时常会为了获得后数据而利用（OAI-PMH）开放式数据库协议使得他们的后数据显示在其他的数字图书馆中，然而众多的搜索引擎像Google Scholar、Google、Yahoo!以及Scirus也都可以利用OAI-PMH去找出这些深藏在网络之中的数据，所以通过这个协议，不管是搜索引擎或是数字图书馆都能受惠，也可以使彼此的关系性更加紧密，和达到强化自己网站本身特性的目的。
+数字化之未来展望[编辑]
+有许多项目在Google、百万图书项目（英语：Million Book project）、MSN和Yahoo!中进行大规模的数字化。书籍管理与科技，如光学器材（optical character recognition）和电子书（ebooks），贮藏所或商业的商业模型的替代之发展持续在进步中，而数字图书馆也因Google、MSN及Yahoo!这些大众较常使用的网站之努力下，正在急剧的成长茁壮当中。就像图书馆内会出现电影或音乐的馆藏，数字化图书馆也出现了网络数据库。
+二元图书馆[编辑]
+此名词是在1996年苏坦（S. Sutton）提出，认为从传统图书馆迈向数字图书馆将经历四种类型：传统图书馆、自动化图书馆、二元图书馆、数字图书馆。传统图书馆的形式是有固定馆藏、具体信息、并受到地理限制；自动化图书馆是图书馆自动化并集成一起；而二元图书馆是印刷与数字化信息平衡的图书馆，逐步迈向数字化发展方向，传统与数字馆藏并存，并可查询本馆馆藏以及藉网络通道而不受地理限制利用远距数字资源。
+虚拟图书馆[编辑]
+虚拟图书馆或称无墙图书馆（Library Without Wall），系指用户可通过互联网，分享分散世界各地，众多图书馆，实体或虚拟的馆藏资源和服务，形成一“无墙的”图书馆群体。故虚拟图书馆并不仅限单一的图书馆，并可同时提供虚拟馆藏资源，以及实体馆藏资源之书目信息。虚拟图书馆也可以是单一的无形图书馆，或为门户网站（Portals）。这个图书馆或门户网站，创建了一种结合无数的网络电子或数字资源和服务的机制，用户可通过网络远程访问该图书馆提供或汇整的电子或数字资源，或使用该图书馆的服务（如：在线参考咨询等）。
+数字图书馆的发展[编辑]
+数字图书馆现在广泛的由公共团体或商业利益的机构所认同，数字图书馆的好处在于可以更迅速的找寻到我们所想要的书籍、文件甚至是图片。数字图书馆的好处在于它能够轻易的连接并浏览许多不同的页面，能够更快速的找到我们所想要的数据，数字图书馆有别于传统的图书馆在于它不受限于仓库空间的限制，数据的数字化大大的缩减了书籍所占的空间，所以数字图书馆有能力可以存储更多的数据。相对的，维护一个传统图书馆的花费远高于维护一个数字图书馆，因为传统的图书馆需要在人事成本以及书籍维护费上花上一笔开销，而数字图书馆则完全不需要这笔花费。
+
+没有地域限制由于数据数字化，传输变的更方便，数据的搜索不会受到距离的影响，从世界各地的人们都能轻易的连上数字图书馆并找寻他们所想要的信息，一个使用数字图书馆的用户完全不用亲自到图书馆一趟，他们只需要在家上网便可。
+没有时间限制数字图书馆的好处在于它能够二十四小时的使用，没有日夜的分别，当你需要时即可查找你所要的信息。
+资源共享同样的数据可以由许多不同的人共同使用，并且同时间的使用，与以往传统图书馆一次只能一个人使用比较起来，更为方便快速。
+搜索更便捷数字图书馆提供搜索引擎，让人们找寻数据时能更快的找寻到自己所想要的数据。
+保存与保护数字化不是个长时间保存数据的解决方法，他只提供复制后的信息并保护原数据不被破坏。
+空间数字化的数据并不需要向传统图书馆一样需要一定的面积空间去收藏书籍。
+改善数字化可以改善书籍上可能有的污点或者是颜色的变化，使书籍不容易被污染。
+
+数字图书馆列表[编辑]
+
+Google图书
+古腾堡项目
+世界数字图书馆
+中国哲学书电子化计划
+青空文库
+超星数字图书馆
+宁波大学园区图书馆
+
+参考文献[编辑]
+
+胡述兆、王梅玲合著（民92）。《图书资讯学导论》。台北市：汉美图书，ISBN 9789578283138。
+顾敏（民90），〈网站图书馆：数位媒体与网域服务环境下的图书馆新类型〉。《资讯传播与图书馆学》，7（3），13－21
+罗剑丽（民93）。〈传统图书馆与虚拟图书馆功能比较〉。《韶关学院学报》。25（8），135-137。
+Charles Oppenheim and Daniel Smithson, "What is the Hybrid Library? " 《Journal of Information Science》 25:2（1999）：99.
+
+外部链接[编辑]
+
+
+Malte Herwig; "Putting The World's Books On The Web"
+BRICKS Building Resources for Integrated Cultural Knowledge Services
+CNRI-DARPA: D-Lib Magazine Electronic publication that primarily focuses on digital library research and development
+DLEEX - user made digital library with online-reading service
+DLI Digital Libraries Initiative web page
+REnKnow.Net Renewable Energies Knowledge - Transfer Network
+The Scope of the Digital Library
+Online version of Internetworking Technologies by Rahul Banerjee
+Deals with the architectures of leading digital libraries in the world（chapter 10）
+RAS metadata repository based framework for reusable software assets
+Digital Libraries, a book by William Y. Arms
+IR Research, A collection of works regarding Institutional Repositories
+IFLA Digital Libraries, resources and projects
+PADI (Preserving Access to Digital Information) - A National Library of Australia initiative; PADI is a subject gateway to international digital preservation resources.
+DigitalPreservationEurope - An EU project for digital preservation practices
+
+参见[编辑]
+
+
+书籍主题
+信息技术主题
+互联网主题
+
+
+
+电子图书馆
+图书扫描
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+视频数字发行平台
+
+
+
+
+
+
+
+
+
+数字图书馆
+流媒体
+视频点播
+
+
+
+
+
+
+
+
+运作
+
+
+
+56网
+ABC iview
+Acorn.TV
+Amazon Video
+Arte Boutique
+BBC iPlayer
+Blinkbox
+Break.com
+Brightcove
+Canalplay
+CinemaNow
+Chicken Pork Adobo
+Clowdy
+Crackle
+CraveTV
+Crunchyroll
+Dailymotion
+Daisuki
+DramaFever
+Fandor
+Flixster
+Fox Sports Go
+France TV Pluzz
+Funshion
+GOG.com
+Google Play
+Hoopla
+Hulu
+iMesh
+iTunes Store
+Lightbox
+LiveLeak
+Medici.tv
+Metacafe
+MUZU.TV
+MyTF1 VOD
+Netflix
+The NewsMarket
+Niconico
+OverDrive, Inc.
+PlayStation Store
+PlayStation Video
+Popcornflix
+PPTV
+Presto
+Quickflix
+RTÉ player
+Rutube
+SchoolTube
+Shomi
+Stan
+SVT Play
+Synaptop
+thePlatform
+TVCatchup
+Twitch.tv
+VBOX7
+Veoh
+Vevo
+VideoJug
+Vidoosh
+Viki
+Vimeo
+Voddler
+Vudu
+VyRT
+Vzaar
+Warner Archive Instant
+WatchESPN
+Wistia
+Xfinity Streampix
+Yahoo! Screen
+YouTube
+Zattoo
+爱奇艺
+百视达
+加州红
+乐视网
+任天堂eShop
+搜狐
+腾讯视频
+土豆网
+Microsoft Movies & TV
+响巢看看
+优酷网
+
+
+
+
+
+
+
+
+中止
+
+
+
+Blip
+Fearnet
+imeem
+Intel AppUp
+Joost
+Kazaa
+LoveFilm
+Megavideo
+Nintendo Channel
+Nintendo Video
+Nokia Store
+Triton
+V Cast
+Vdio
+Viddler
+Vongo
+Zune 市集
+
+
+
+
+
+
+
+
+
+
+
+
+分类：图书馆类型数字图书馆图书资讯科学隐藏分类：使用ISBN魔术链接的页面

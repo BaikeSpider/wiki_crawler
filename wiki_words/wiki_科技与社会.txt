@@ -1,0 +1,335 @@
+科技与社会
+
+
+
+
+
+本条目需要扩充。（2017年7月1日） 
+请协助改善这篇条目，更进一步的信息可能会在讨论页或扩充请求中找到。请在扩充条目后将此模板移除。 
+
+
+
+
+ 
+
+
+社会学
+
+
+
+
+
+
+
+
+
+理论和历史
+
+
+
+实证主义 · 反实证主义（英语：Antipositivism）
+结构主义 · 冲突理论
+中层理论 · 形式理论
+批判理论
+结构与能动性
+
+
+研究方法
+
+
+定量 · 定性 · 计算 · 民族志
+
+
+主题和分支
+
+
+
+社会变迁 · 都市 · 阶层 · 犯罪
+文化 · 反文化 · 发展 · 偏差 · 人口 · 教育 · 社会化 · 社会不平等
+经济 · 环境（英语：Environmental sociology） · 家庭（英语：Sociology of the family） · 性别 · 健康（英语：Sociology of health and illness）
+工业 · 互联网 · 知识 · 法律
+文学（英语：Sociology of literature） · 医疗 · 流动 · 社运 · 组织（英语：Organizational theory）
+政治 · 种族（英语：Sociology of race and ethnic relations） · 乡村 · 宗教 · 体育 · 休闲 · 灾难
+科学（英语：Sociology of scientific knowledge） · 军事（英语：Military sociology） · 传播 · 理性化 · 团体 ·
+世俗化 · 社会性网络 · 社会企业
+社会心理学
+
+
+相关学科
+
+
+
+经济地理学 · 经济思想史
+文化人类学 · 社会人类学
+社会生物学 · 文化研究
+性别研究 · 社会地理学
+社会语言学 · 媒体研究
+社会哲学 · 社会统计学
+系统科学 · 世界体系理论
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+科技与社会（英语：Science, technology and society, STS）是一跨领域学门，研究社会、政治和文化如何影响科学研究与技术发展，以及反之科技如何影响社会、政治和文化。STS研究者关心科技社会的复杂面貌、科技发展的社会意涵、争议等各种问题。
+
+
+
+目录
+
+
+1 历史
+
+1.1 早期发展
+
+1.1.1 关键主题
+
+
+1.2 转向技术
+
+
+2 专业学会
+3 重要概念
+
+3.1 STS社会建构
+3.2 技术科学
+3.3 科技社会
+3.4 审议民主
+3.5 公地悲剧
+3.6 另类现代性
+3.7 传统思维
+
+
+4 参见
+5 参考资料
+
+
+
+历史[编辑]
+如同多数跨领域学门，STS由各个学科和学科子领域发展汇合而成[1] 。70年代，历史学家莫里森在麻省理工学院创立了STS计划，成为了一个典范。 到了2011年，各地总计已有111个STS计划[2]。
+早期发展[编辑]
+STS的关键主题在60年代开始陆续独立成形，分别产生出类似的兴趣，将科技视作一种社会镶嵌事业，并各自发展直到80年代。然而早在1935年，波兰微生物学家路德维克·弗莱克（英语：Ludwik Fleck）所出版《一个科学事实的发生与发展：思维样式与思维集体学说导论》一书中，就已经意想到了这个方向。
+关键主题[编辑]
+
+科学研究 (社会科学)。将对科学知识的研究当作社会学的领域分支，考虑在科学讨论进行时的社会背景。
+
+
+技术史。在社会和历史背景下检视技术的发展。从60年代开始，一些历史学家质疑技术决定论，技术决定论的学说导致人们认为公共对科学和技术的"自然"发展是完全被动的。同时，一些历史学家也开始对医学史使用类似的语境方法。
+
+
+科学史与科学哲学。1962年汤玛斯·孔恩广为人知的著作《科学革命的结构》出版，开创性地将科学理论的演进归功于常态知识典范的变化。加州大学柏克莱分校和一些其他地方开始推展一些计划，让科学史和科学哲学家一起合作。
+
+
+科学、技术与社会。在60年代中后期，英、美和欧陆大学里的社会运动帮助一系列新跨学科领域(如女性研究)诞生，被视为为解决传统课程忽略的种种问题。这些新发展其中之一便是"科学、技术与社会"(science, technology, and society, STS)计划的兴起。从各种学科，包括人类学、历史学、政治学和社会学，这些学者创造了本科课程，致力于探索科学和技术相关课题。不同于科学研究、技术史、科学史和科学哲学家，STS学者比较像(也很可能自诩为)是追求改革的运动者，而不是象牙塔内冷静的研究员。例如在此和其他新兴STS领域的女性主义学者，争取女性在科学和工程上的角色。
+
+
+科学、工程与公共政策研究在70年代左右的研究也产生了同样的关切，当今科学和技术的发展方式似乎逐渐与公众的最大利益矛盾。这同样鼓舞了STS运动，试图将明日的科学和技术人性化。但这个学科也采取了几种不同的做法，寻求培养科技政策参与者所需专业技能的人才。一些计划强调定量方法，并且最终大部分被纳入系统工程学。另一些则强调社会学和定性方法，发现他们与STS学门相近。
+
+70到80年代，欧美顶尖大学开始将这些多样的研究主题整合在新的跨学科课程中。 例如， 康乃尔大学开始了一个的新计划，将科学研究、政策导向的学者与历史学家、科学哲学家、技术哲学家联合起来。每个计划由于各自不同的组成，以及它们原先在各大学中的不同角色，而发展出各样的特色。 例如，维吉尼亚大学的STS计划联合了各种领域的学者，当中技术史特别强，又由于该计划位于工程学院内的教学责任是为本科工程学生教授伦理，这意味着成员们对工程伦理都有相当兴趣。
+转向技术[编辑]
+参见：科学技术与社会构建
+80年代中期是STS发展的一个决定性时刻，将技术研究加入对于科学研究的领域中。这十年内有2篇文章，可以用来代表史蒂夫‧伍尔加所谓的“转向技术”：1985年麦肯其（英语：Donald Angus MacKenzie）和茱蒂‧威吉曼（英语：Judy Wajcman）的《科技的社会形塑》(Social Shaping of Technology)，以及1987年Bijker、Hughes和Pinch的《技术系统的社会建构》(The Social Construction of Technological Systems )。麦肯其和威吉曼之后继续发表了一系列文章，证明社会对技术设计的影响。 另一篇重要的文章中，Trevor Pinch和Wiebe Bijker由科学知识社会学的发展，展示技术社会学是如何沿着科学知识社会学所确立的理论和方法论进行。这是他们所称“技术的社会建构论”领域的知识基础。
+“转向技术”有助于巩固各新兴STS计划中逐渐浮现的统一性。然而近年来，也有另一波对于生态、自然和一般物质的转向，由此“社会-技术”和“自然/物质”相互合作。特别是在针对生物医学（如Carl May（英语：Carl May）、Annemarie Mol（英语：Annemarie Mol）、Nelly Oudshoorn、Andrew Webster）和生态干预（如布鲁诺·拉图、Sheila Jasanoff（英语：Sheila Jasanoff）、Matthias Gross（英语：Matthias Gross）、S. Lochlann Jain（英语：S. Lochlann Jain）、Jens Lachmund（英语：Jens Lachmund））的STS分析工作中。
+专业学会[编辑]
+科学的社会学研究学会(Society for Social Studies of Science, 4S)成立于1975年，最初提供学术交流，包括期刊《科学、技术与人的价值》(Science, Technology, and Human Values) ，以及科学研究学者主要出席的年会。4S已经成为全球最重要的科学、技术研究学会。
+在欧洲，欧洲科技研究学会（European Association for the Study of Science and Technology, EASST）[3]成立于1981年，宗旨在“激发科技研究领域的交流与合作”。同样地，欧洲科技与社会校际学会( European Inter-University Association on Society, Science and Technology, ESST)也从历史和现代的角度对社会中的科学与技术进行研究。
+在亚洲，有几个STS协会存在。日本科技与社会研究学会（Japanese Society for Science and Technology Studies, JSSTS）[4]成立于2001年。亚太科术与社会网络（Asia Pacific Science Technology & Society Network, APSTSN）[5]主要拥有澳洲、东南亚、东亚和大洋洲成员。台湾科技与社会研究学会(Taiwan Science, Technology& Society Association)[6]成立于2008年。
+在拉丁美洲，ESOCITE（Estudios Sociales de la Ciencia y laTecnología）是科学与技术研究的最大学会[7]。
+重要概念[编辑]
+STS社会建构[编辑]
+主条目：科学技术与社会构建
+技术科学[编辑]
+主条目：技术科学
+科技社会[编辑]
+主条目：科技社会
+审议民主[编辑]
+主条目：审议民主
+公地悲剧[编辑]
+主条目：公地悲剧
+另类现代性[编辑]
+传统思维[编辑]
+参见[编辑]
+
+
+行动者网络理论（英语：Actor–network theory）
+文化失调（英语：Cultural lag）
+赛博格人类学（英语：Cyborg anthropology）
+工程研究 (社会学)（英语：Engineering studies）
+历史唯物主义
+创新系统（英语：Innovation system）
+模式二（英语：mode 2）
+正规化过程理论（英语：Normalization process theory）
+语音社会科学（英语：Phronetic social science）
+公众知觉科学（英语：Public awareness of science）
+科学计量学
+团队科学论（英语：Science of team science）
+技术的社会建构论
+科学知识社会学（英语：Sociology of scientific knowledge）
+科技的社会形塑
+技术创新系统（英语：Technological innovation system）
+
+
+参考资料[编辑]
+
+
+^ Bijker, W. E., Hughes, T. P., Pinch, T. and Douglas, D. G., The Social Construction of Technological Systems: New Directions in the Sociology and History of Technology, MIT Press, Cambridge, 2012.
+^ The STS Wiki.
+^ European Association for the Study of Science and Technology
+^ Japanese Society for Science and Technology Studies
+^ Asia Pacific Science Technology & Society Network
+^ 台湾科技与社会研究学会
+^ Kreimer, P. (2007). Estudios sociales de la ciencia y la tecnología en América Latina: ¿para qué?, ¿ para quién? Redes, 13(26), 55–64. Retrieved from http://www.redalyc.org/pdf/907/90702603.pdf
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+社会科学
+
+
+
+
+
+
+基础
+
+
+
+地理学
+
+人文
+环境
+
+
+历史学
+法学
+政治学
+
+国际关系
+公共行政学
+公共政策
+
+
+经济学
+社会学
+
+犯罪学
+人口学
+乡村
+
+
+心理学
+
+社会
+
+
+人类学
+
+考古学
+文化
+语言学
+社会
+
+
+
+
+
+
+
+
+
+
+跨学科
+
+
+
+人与动物关系学
+区域研究
+商学
+社会神经科学
+认知科学
+传播学
+社区研究（英语：Community studies）
+文化研究
+发展研究（英语：Development studies）
+教育学
+环境（社会科学（英语：Environmental social science）
+研究（英语：Environmental studies））
+食品研究
+性别研究
+全球研究
+技术史
+人类生态学
+信息学
+国际研究
+媒体研究
+科学哲学
+
+经济
+历史
+心理
+社会科学（英语：Philosophy of social science）
+
+
+规划
+
+土地使用（英语：Land-use planning）
+环境
+都市
+
+
+政治生态学
+政治经济学
+公共卫生
+区域经济学
+科技与社会
+科学研究
+
+历史
+
+
+
+
+
+
+
+
+
+
+其它分类
+
+
+
+思想科学（英语：Geisteswissenschaft）
+人文科学
+
+
+
+
+
+
+
+
+
+
+
+
+分类：社会学子领域创新科学研究科技研究隐藏分类：自2017年7月扩充中的条目

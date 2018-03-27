@@ -1,0 +1,620 @@
+Alvin Goldman
+
+
+Alvin I. Goldman
+
+
+Born
+1938
+
+
+
+
+
+Era
+Contemporary philosophy
+
+
+Region
+Western philosophy
+
+
+School
+Analytic
+
+
+
+Main interests
+
+Epistemology, philosophy of action
+
+
+
+Notable ideas
+
+Causal theory of knowledge, social epistemology
+
+
+
+
+Influences
+
+
+W.V.O. Quine
+
+
+
+
+
+
+
+
+
+Alvin Ira Goldman (born 1938) is an American philosopher who is Board of Governors Professor of Philosophy and Cognitive Science at Rutgers University in New Jersey and a leading figure in epistemology.
+
+
+
+Contents
+
+
+1 Education and career
+2 Philosophical work
+
+2.1 Action theory
+2.2 Epistemology
+2.3 Other work
+
+
+3 Bibliography
+4 See also
+5 References
+6 External links
+
+
+
+Education and career[edit]
+Goldman earned his BA from Columbia University and PhD from Princeton University, and previously taught at the University of Michigan (1963–1980), the University of Illinois, Chicago (1980–1983) and the University of Arizona (1983–1994). He joined the Rutgers faculty in 1994.[1] He has done influential work on a wide range of philosophical topics, but his principal areas of research are epistemology, philosophy of mind, and cognitive science.
+He is married to the ethicist Holly Martin Smith.
+Philosophical work[edit]
+Action theory[edit]
+Goldman's early book, A Theory of Human Action (a revised version of his Ph.D. thesis), presents a systematic way of classifying and relating the many actions we perform at any time. Its influence was broad and can be found in, among other writings, John Rawls' book A Theory of Justice. Goldman's early work in action theory soon gave way to work in other branches of philosophy, most influentially epistemology.
+Epistemology[edit]
+Goldman's accounts of knowledge and justified belief, using notions like causation and reliability instead of normative concepts like permissibility and obligation, contributed to a philosophical approach that came to be known in the 1970s as naturalized epistemology. (Unlike W.V.O. Quine's version of naturalized epistemology, however, Goldman's retains a traditional focus on questions of justification.) Goldman's view emerged initially as part of the efforts in the 1960s to find a "fourth" condition in response to the Gettier challenge to the account of knowledge as "justified true belief." In his 1967 paper, "A Causal Theory of Knowing", Goldman proposed that knowledge amounts to true belief appropriately caused by the fact that makes it true. Later, he claimed knowledge amounts to true belief that is produced by a reliable process.[2]
+Goldman has described his "naturalistic" approach to epistemology as splitting "epistemology (individual epistemology, anyway) into two parts.... The first part is dedicated to the 'analytic' task of identifying the criteria, or satisfaction conditions, for various normative epistemic statuses. With respect to the normative status of justifiedness (of belief), the proposed criterion is the reliability of the belief-forming processes by which the belief is produced. Defense of this criterion of justifiedness was not based on scientific psychology, but rather a familiar form of armchair methodology. The second part is the task where science enters the picture. Psychological science is required to identify the kinds of operations or computations available to the human cognizer, how well they work when operating on certain inputs and under certain conditions."[3]
+More recently, Goldman has focused his epistemological efforts on questions of social epistemology, of the different social mechanisms through which knowledge is transmitted in society. His work in social epistemology has dealt with the law (especially evidence), voting and media, among other topics. He attempts to provide (in his words) a less radical view of social epistemology than those suggested by cultural theorists and postmodernists under that name. His approach uses tools of analytic philosophy especially formal epistemology to analyze problems in social knowledge. Some of this work is summarized in his book Knowledge in a Social World.
+Other work[edit]
+Goldman has devoted significant time to showing how research in cognitive science is relevant to a variety of branches of philosophy including epistemology. Much of this work appears in his books Epistemology and Cognition, Philosophical Applications of Cognitive Science, and Simulating Minds.
+Bibliography[edit]
+
+Action (1965)
+"A Causal Theory of Knowing" in The Journal of Philosophy v. 64 (1967), pp. 357–372.
+A Theory of Human Action (1970)
+"Epistemics: The Regulative Theory of Cognition," The Journal of Philosophy 75 (1978) pp. 509–523.
+"What is Justified Belief?" in Justification and Knowledge (1979), pp. 1–23.
+Epistemology and Cognition (1986)
+Liaisons: Philosophy Meets the Cognitive and Social Sciences (1991)
+Philosophical Applications of Cognitive Science (1993)
+Readings in Philosophy and Cognitive Science (editor), (1993)
+Knowledge in a Social World (1999)
+Pathways to Knowledge: Private and Public (2004)
+Simulating Minds (2006)
+Joint Ventures: Mindreading, Mirroring, and Embodied Cognition (2013)
+
+See also[edit]
+
+American philosophy
+List of American philosophers
+Reliabilism
+
+References[edit]
+
+
+
+^ http://fas-philosophy.rutgers.edu/goldman/CV.pdf
+^ Goldman, Alvin I. Liaisons: Philosophy meets the cognitive and social sciences. Massachusetts Institute of Technology Press, 1992. (Chapter 5, 85-103)
+^ http://www.3ammagazine.com/3am/thinking-about-mindreading-mirroring-and-embedded-cognition/
+
+
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to: Alvin Goldman
+
+
+
+Alvin Goldman's home page
+Article partly devoted to Goldman's epistemic views
+Stanford Encyclopedia of Philosophy entry on reliabilism, written by Goldman
+Stanford Encyclopedia of Philosophy entry on naturalised epistemology, relevant to Goldman
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Analytic philosophy
+
+
+
+Philosophers
+
+
+
+J. L. Austin
+A. J. Ayer
+G. E. M. Anscombe
+Nick Bostrom
+Robert Brandom
+C. D. Broad
+Patricia Churchland
+David Chalmers
+Noam Chomsky
+James F. Conant
+Alice Crary
+Donald Davidson
+Daniel Dennett
+Cora Diamond
+Michael Dummett
+Paul Feyerabend
+Antony Flew
+Bas van Fraassen
+Gottlob Frege
+Jerry Fodor
+Philippa Foot
+Peter Geach
+Paul Grice
+Ian Hacking
+R. M. Hare
+Carl Gustav Hempel
+Peter van Inwagen
+Christine Korsgaard
+Saul Kripke
+Thomas Kuhn
+David Lewis
+Alasdair MacIntyre
+J. L. Mackie
+Norman Malcolm
+John McDowell
+G. E. Moore
+Ernest Nagel
+Thomas Nagel
+Robert Nozick
+Derek Parfit
+Alvin Plantinga
+Karl Popper
+Hilary Putnam
+W. V. O. Quine
+John Rawls
+Hans Reichenbach
+Richard Rorty
+Bertrand Russell
+Gilbert Ryle
+Moritz Schlick
+John Searle
+Wilfrid Sellars
+Peter Singer
+Richard Swinburne
+Charles Taylor
+Michael Walzer
+Bernard Williams
+Timothy Williamson
+Ludwig Wittgenstein
+
+
+
+
+
+Theories
+
+
+
+Actualism
+Analytical feminism
+Analytical Marxism
+Anti-realism
+Berlin Circle
+Descriptivist theory of names
+Emotivism
+Functional contextualism
+Linguistic turn
+Logical positivism
+Modal realism
+Model-dependent realism
+Neopragmatism
+Neurophilosophy
+Ordinary language philosophy
+Postanalytic philosophy
+Pragmatic theory of truth
+Verificationism
+Vienna Circle
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+Causal / Deductive / epistemic closure
+Concept
+Counterfactual
+Denotation / reference
+Definite description
+Factive
+Family resemblance
+Intuition
+Meaning (Proposition)
+Modality
+Natural kind / projectability
+Necessary–sufficient conditions
+Paradox of analysis
+Possible world
+Reduction
+Reflective equilibrium
+Rigid–flaccid designators
+Sense data
+Supervenience
+Thought experiment
+Truth function
+Truthmaker
+Truth-bearer
+Type–token distinction
+
+
+
+
+
+Related articles
+
+
+
+Aretaic turn
+Australian realism
+Communitarianism
+Ordinary language philosophy
+Philosophical logic
+Philosophy of language
+Philosophy of science
+Postanalytic philosophy
+
+
+
+
+
+
+
+
+ Index
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of mind
+
+
+
+Theories
+
+
+
+Behaviorism (Radical)
+Biological naturalism
+Cognitive psychology
+Mind–body dualism
+Eliminative materialism
+Emergent materialism
+Emergentism
+Epiphenomenalism
+Functionalism
+Idealism
+Interactionism
+Materialism
+Monism
+Naïve realism
+
+Neurophenomenology
+
+
+Neutral monism
+Occasionalism
+Psychoanalysis
+Parallelism
+Phenomenalism
+Phenomenology
+Physicalism
+
+identity theory
+
+
+Property dualism
+Representational
+Solipsism
+Substance dualism
+
+
+
+
+
+Concepts
+
+
+
+Abstract object
+Artificial intelligence
+Chinese room
+Cognition
+Cognitive closure
+Concept
+Concept and object
+Consciousness
+Hard problem of consciousness
+Hypostatic abstraction
+Idea
+Identity
+Ingenuity
+Intelligence
+Intentionality
+Introspection
+Intuition
+Language of thought
+Materialism
+Mental event
+Mental image
+Mental process
+Mental property
+Mental representation
+Mind
+Mind–body problem
+
+Non-physical entity
+
+
+New mysterianism
+Pain
+Problem of other minds
+Propositional attitude
+Qualia
+Tabula rasa
+Understanding
+Zombie
+more...
+
+
+
+
+
+Related topics
+
+
+
+Metaphysics
+Philosophy of artificial intelligence / information / perception / self
+
+
+
+
+
+
+
+
+Portal
+Category
+Philosophers category
+Project
+Task Force
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 108261568
+LCCN: n85224219
+ISNI: 0000 0001 0931 0003
+GND: 128976764
+SUDOC: 029309263
+BNF: cb12096279k (data)
+BIBSYS: 90678753
+SNAC: w6q1032t
+
+
+
+
+
+
+
+
+
+
+Categories: 20th-century American philosophers21st-century American philosophersLiving people1938 birthsPrinceton University alumniPhilosophers from MichiganPhilosophers from ArizonaPhilosophers from TexasEpistemologistsUniversity of Michigan facultyUniversity of Arizona facultyRutgers University facultyAction theoristsPhilosophers of mindGuggenheim FellowsHidden categories: Articles with hCardsWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with BIBSYS identifiersWikipedia articles with SNAC-ID identifiers

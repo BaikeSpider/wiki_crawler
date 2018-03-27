@@ -1,0 +1,2 @@
+Computer experiment
+A computer experiment or simulation experiment is an experiment used to study a computer simulation, also referred to as an in silico system. This area includes computational physics, computational chemistry, computational biology and other similar disciplines.

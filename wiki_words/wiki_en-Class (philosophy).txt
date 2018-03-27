@@ -1,0 +1,269 @@
+Class (philosophy)
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2015) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article may be confusing or unclear to readers. Please help us clarify the article. There might be a discussion about this on the talk page. (April 2011) (Learn how and when to remove this template message)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+In at least one source,[1] a "class" is a set in which an individual member can be recognized in one or both of two ways: a) it is included in an extensional definition of the whole set (a list of set members) b) it matches an Intensional definition of one set member. By contrast, a "type" is an intensional definition; it is a description that is sufficiently generalized to fit every member of a set.
+Philosophers sometimes distinguish classes from types and kinds. We can talk about the class of human beings, just as we can talk about the type (or natural kind), human being, or humanity. How, then, might classes differ from types? One might well think they are not actually different categories of being, but typically, while both are treated as abstract objects, classes are not usually treated as universals, whereas types usually are. Whether natural kinds ought to be considered universals is vexed; see natural kind.
+There is, in any case, a difference in how we talk about types or kinds. We say that Socrates is a token of a type, or an instance of the natural kind, human being. But notice that we say instead that Socrates is a member of the class of human beings. We would not say that Socrates is a "member" of the type or kind, human beings. Nor would we say he is a type (or kind) of a class. He is a token (instance) of the type (kind). So the linguistic difference is: types (or kinds) have tokens (or instances); classes, on the other hand, have members.
+The concept of a class is similar to the concept of a set defined by its members.[2] Here, the class is extensional. If, however, a set is defined intensionally, then it is a set of things that meet some requirement to be a member. Thus, such a set can be seen as creating a type. Note that it also creates a class from the extension of the intensional set. A type always has a corresponding class (though that class might have no members), but a class does not necessarily have a corresponding type.
+References[edit]
+
+
+
+^ "From Aristotle to EA: a type theory for EA"[unreliable source?]
+^ Antony Flew. Dictionary of Philosophy. p. 64. 
+
+
+
+External links[edit]
+
+"Class" as analytical term in philosophy, Philosophypages.com
+"Class" as an analytical feature of any Category or Categorical term, in the language of deductive reasoning
+"Class" as an aspect of logic, and particularly Bertrand Russell"s Principia Mathematica
+"From Aristotle to EA: a type theory for EA" quoted 26/10/2014.
+
+
+
+Philosophy portal
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of language
+
+
+
+Philosophers
+
+
+
+Plato (Cratylus)
+Gorgias
+Confucius
+Xunzi
+Aristotle
+Stoics
+Pyrrhonists
+Scholasticism
+Ibn Rushd
+Ibn Khaldun
+Thomas Hobbes
+Gottfried Wilhelm Leibniz
+Johann Herder
+Ludwig Noiré
+Wilhelm von Humboldt
+Fritz Mauthner
+Paul Ricœur
+Ferdinand de Saussure
+Gottlob Frege
+Franz Boas
+Paul Tillich
+Edward Sapir
+Leonard Bloomfield
+Zhuangzi
+Henri Bergson
+Lev Vygotsky
+Ludwig Wittgenstein
+
+Philosophical Investigations
+Tractatus Logico-Philosophicus
+
+
+Bertrand Russell
+Rudolf Carnap
+Jacques Derrida
+
+Of Grammatology
+Limited Inc
+
+
+Benjamin Lee Whorf
+Gustav Bergmann
+J. L. Austin
+Noam Chomsky
+Hans-Georg Gadamer
+Saul Kripke
+A. J. Ayer
+G. E. M. Anscombe
+Jaakko Hintikka
+Michael Dummett
+Donald Davidson
+Roger Gibson
+Paul Grice
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Hilary Putnam
+David Lewis
+John Searle
+Joxe Azurmendi
+Scott Soames
+Stephen Yablo
+John Hawthorne
+Stephen Neale
+Paul Watzlawick
+
+
+
+
+
+Theories
+
+
+
+Causal theory of reference
+Contrast theory of meaning
+Contrastivism
+Conventionalism
+Cratylism
+Deconstruction
+Descriptivist theory of names
+Direct reference theory
+Dramatism
+Expressivism
+Linguistic determinism
+Logical atomism
+Logical positivism
+Mediated reference theory
+Nominalism
+Non-cognitivism
+Phallogocentrism
+Quietism
+Relevance theory
+Semantic externalism
+Semantic holism
+Structuralism
+Supposition theory
+Symbiosism
+Theological noncognitivism
+Theory of descriptions
+Verification theory
+
+
+
+
+
+Concepts
+
+
+
+Ambiguity
+Linguistic relativity
+Meaning
+Language
+Truth-bearer
+Proposition
+Use–mention distinction
+Concept
+Categories
+Set
+Class
+Intension
+Logical form
+Metalanguage
+Mental representation
+Principle of compositionality
+Property
+Sign
+Sense and reference
+Speech act
+Symbol
+Entity
+Sentence
+Statement
+more...
+
+
+
+
+
+Related articles
+
+
+
+Analytic philosophy
+Philosophy of information
+Philosophical logic
+Linguistics
+Pragmatics
+Rhetoric
+Semantics
+Formal semantics
+Semiotics
+
+
+
+
+
+
+
+
+Category
+Task Force
+Discussion
+
+
+
+
+
+
+
+
+
+This logic-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+Categories: Concepts in logicClass (grouping)Logic stubsHidden categories: All articles lacking reliable referencesArticles lacking reliable references from March 2016Articles needing additional references from January 2015All articles needing additional referencesWikipedia articles needing clarification from April 2011All Wikipedia articles needing clarificationArticles with multiple maintenance issuesAll stub articles

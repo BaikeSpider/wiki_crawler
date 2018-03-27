@@ -1,0 +1,2 @@
+核磁共振成像
+核磁共振成像（英语：Nuclear Magnetic Resonance Imaging，简称NMRI），又称自旋成像（英语：spin imaging），也称磁共振成像（Magnetic Resonance Imaging，简称MRI），台湾又称磁振造影，香港又称磁力共振成像，是利用核磁共振（nuclear magnetic resonance，简称NMR）原理，依据所释放的能量在物质内部不同结构环境中不同的衰减，通过外加梯度磁场检测所发射出的电磁波，即可得知构成这一物体原子核的位置和种类，据此可以绘制成物体内部的结构图像。

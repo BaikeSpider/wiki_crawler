@@ -1,0 +1,674 @@
+Substance theory
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2010) (Learn how and when to remove this template message)
+
+
+
+Substance theory, or substance attribute theory, is an ontological theory about objecthood, positing that a substance is distinct from its properties. A thing-in-itself is a property-bearer that must be distinguished from the properties it bears.[1]
+Substance is a key concept in ontology and metaphysics, which may be classified into monist, dualist, or pluralist varieties according to how many substances or individuals are said to populate, furnish, or exist in the world. According to monistic views, there is only one substance. Stoicism and Spinoza, for example, hold monistic views, that pneuma or God, respectively, is the one substance in the world. These modes of thinking are sometimes associated with the idea of immanence. Dualism sees the world as being composed of two fundamental substances, for example, the Cartesian substance dualism of mind and matter. Pluralist philosophies include Plato's Theory of Forms and Aristotle's hylomorphic categories.
+
+
+
+Contents
+
+
+1 Ancient Greek philosophy
+
+1.1 Aristotle
+1.2 Stoicism
+1.3 Neoplatonism
+
+
+2 Early modern philosophy
+3 Irreducible concepts
+
+3.1 Bare particular
+3.2 Inherence
+
+
+4 Arguments supporting the theory
+
+4.1 Argument from grammar
+4.2 Argument from conception
+
+
+5 Criticism
+6 Bundle theory
+
+6.1 Identity of indiscernibles counterargument
+
+
+7 See also
+8 References
+9 External links
+
+
+
+Ancient Greek philosophy[edit]
+Aristotle[edit]
+Aristotle used the term "substance" (Greek: οὐσία ousia) in a secondary sense for genera and species understood as hylomorphic forms. Primarily, however, he used it with regard to his category of substance, the specimen ("this person" or "this horse") or individual, qua individual, who survives accidental change and in whom the essential properties inhere that define those universals.
+
+A substance—that which is called a substance most strictly, primarily, and most of all—is that which is neither said of a subject nor in a subject, e.g. the individual man or the individual horse. The species in which the things primarily called substances are, are called secondary substances, as also are the genera of these species. For example, the individual man belongs in a species, man, and animal is a genus of the species; so these—both man and animal—are called secondary substances.[2]
+— Aristotle, Categories 2a13 (trans. J. L. Ackrill)
+
+In chapter 6 of book I the Physics Aristotle argues that any change must be analysed in reference to the property of an invariant subject: as it was before the change and thereafter. Thus, in his hylomorphic account of change, matter serves as a relative substratum of transformation, i.e., of changing (substantial) form. In the Categories, properties are predicated only of substance, but in chapter 7 of book I of the Physics, Aristotle discusses substances coming to be and passing away in the "unqualified sense" wherein primary substances (πρῶται οὐσίαι; Categories 2a35) are generated from (or perish into) a material substratum by having gained (or lost) the essential property that formally defines substances of that kind (in the secondary sense). Examples of such a substantial change include not only conception and dying, but also metabolism, e.g., the bread a man eats becomes the man. On the other hand, in accidental change, because the essential property remains unchanged, by identifying the substance with its formal essence, substance may thereby serve as the relative subject matter or property-bearer of change in a qualified sense (i.e., barring matters of life or death). An example of this sort of accidental change is a change of color or size: a tomato becomes red, or a juvenile horse grows.
+Aristotle thinks that in addition to primary substances (which are particulars), there are secondary substances (δεύτεραι οὐσίαι), which are universals (Categories 2a11–a18).[3]
+Neither the "bare particulars" nor "property bundles" of modern theory have their antecedent in Aristotle, according to whom, all matter exists in some form. There is no prime matter or pure elements, there is always a mixture: a ratio weighing the four potential combinations of primary and secondary properties and analysed into discrete one-step and two-step abstract transmutations between the elements.[citation needed]
+However, according to Aristotle's theology, a form of invariant form exists without matter, beyond the cosmos, powerless and oblivious, in the eternal substance of the unmoved movers.
+Stoicism[edit]
+
+
+
+
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2017) (Learn how and when to remove this template message)
+
+
+
+See also: Stoic categories
+The Stoics rejected the idea that incorporeal beings inhere in matter, as taught by Plato. They believed that all being is corporeal infused with a creative fire called pneuma. Thus they developed a scheme of categories different from Aristotle's based on the ideas of Anaxagoras and Timaeus.
+Neoplatonism[edit]
+Neoplatonists argue that beneath the surface phenomena that present themselves to our senses are three higher spiritual principles or hypostases, each one more sublime than the preceding. For Plotinus, these are the soul or world-soul, being/intellect or divine mind (nous), and "the one".[4]
+Early modern philosophy[edit]
+René Descartes means by a substance an entity which exists in such a way that it needs no other entity in order to exist. Therefore, only God is a substance in this strict sense. However, he extends the term to created things, which need only the concurrence of God to exist. He maintained that two of these are mind and body, each being distinct from the other in their attributes and therefore in their essence, and neither needing the other in order to exist. This is Descartes' substance dualism.
+Baruch Spinoza denied Descartes' "real distinction" between mind and matter. Substance, according to Spinoza, is one and indivisible, but has multiple "attributes". He regards an attribute, though, as "what we conceive as constituting the [single] essence of substance". The single essence of one substance can be conceived of as material and also, consistently, as mental. What is ordinarily called the natural world, together with all the individuals in it, is immanent in God: hence his famous phrase deus sive natura ("God or Nature").
+John Locke views substance through a corpuscularian lens where it exhibits two types of qualities which both stem from a source. The corpuscularian hypothesis, by Robert Boyle, states that "all material bodies are composites of ultimately small particles of matter" that "have the same material qualities as the larger composite bodies do".[5] Using this basis, Locke defines his first group, primary qualities, as "the ones that a body doesn't lose, however much it alters".[6] The materials retain their primary qualities even if they are broken-down because of the unchanging nature of their atomic particles.[5] If someone is curious about an object and they say it is solid and extended, these two descriptors are primary qualities.[7] The second group consists of secondary qualities which are "really nothing but the powers to produce various sensations in us by their primary qualities".[6] Locke argues that the impressions our senses perceive from the objects (i.e. taste, sounds, colors, etc.) are not natural properties of the object itself, but things they induce in us by means of the "size, shape, texture, and motion of their imperceptible parts", or their atoms ,.[6] The bodies send insensible particles to our senses which let us perceive the object through different faculties; what we perceive is based on the object's composition. With these qualities, people can achieve the object through bringing "co-existing powers and sensible qualities to a common ground for explanation".[8] What binds these qualities all together? Locke argues for a substratum, or substance, to take this role. He defines substance as follows:
+
+The idea that we have, to which we give the general name substance, being nothing but the supposed, but unknown, support of those qualities we find existing, which we imagine cannot subsist sine re substante, without something to support them, we call that support substantia; which, according to the true import of the word, is, in plain English, standing under or upholding.
+— John Locke, An Essay Concerning Human Understanding; book 2, chapter 23; "Of our Complex Ideas of Substances"
+
+This substratum is a construct of the mind in an attempt to bind all the qualities seen together; it is only "a supposition of an unknown support of qualities that are able to cause simple ideas in us".[6] Without making a substratum, people would be at a loss as to how different qualities relate. Locke does, however, mention that this substratum is an unknown, relating it to the story of the world on the turtle's back and how the believers eventually had to concede that the turtle just rested on "something he knew not what".[6] This is how the mind perceives all things and from which it can make ideas about them; it is entirely relative, but it does provide a "regularity and consistency to our ideas".[7] Substance, overall, has two sets of qualities that define it, and how we perceive it. These qualities rush to our minds which must organize them. As a result, it creates a substratum for each object to which it groups related qualities.
+Irreducible concepts[edit]
+See also: Noumenon and Phenomenon
+Two irreducible concepts encountered in substance theory are the bare particular and inherence.
+Bare particular[edit]
+In substance theory, a bare particular of an object is the element without which the object would not exist, that is, its substance, which exists independently from its properties, even if it is impossible for it to lack properties entirely. It is "bare" because it is considered without its properties and "particular" because it is not abstract. The properties that the substance has are said to inhere in the substance.
+Inherence[edit]
+Another primitive concept in substance theory is the inherence of properties within a substance. For example, in the sentence, "The apple is red" substance theory says that red inheres in the apple. Substance theory takes the meaning of an apple having the property of redness to be understood, and likewise that of a property's inherence in substance, which is similar to, but not identical with, being part of the substance.
+The inverse relation is participation. Thus in the example above, just as red inheres in the apple, so the apple participates in red.
+Arguments supporting the theory[edit]
+Two common arguments supporting substance theory are the argument from grammar and the argument from conception.
+Argument from grammar[edit]
+The argument from grammar uses traditional grammar to support substance theory. For example, the sentence "Snow is white" contains a grammatical subject "snow" and the predicate "is white", thereby asserting snow is white. The argument holds that it makes no grammatical sense to speak of "whiteness" disembodied, without asserting that snow or something else is white. Meaningful assertions are formed by virtue of a grammatical subject, of which properties may be predicated, and in substance theory, such assertions are made with regard to a substance.
+Bundle theory rejects the argument from grammar on the basis that a grammatical subject does not necessarily refer to a metaphysical subject. Bundle theory, for example, maintains that the grammatical subject of statement refers to its properties. For example, a bundle theorist understands the grammatical subject of the sentence, "Snow is white", to be a bundle of properties such as white. Accordingly, one can make meaningful statements about bodies without referring to substances.
+Argument from conception[edit]
+Another argument for the substance theory is the argument from conception. The argument claims that in order to conceive of an object's properties, like the redness of an apple, one must conceive of the object that has those properties. According to the argument, one cannot conceive of redness, or any other property, distinct from the substance that has that property.
+Criticism[edit]
+The idea of substance was famously critiqued by David Hume,[9][citation needed] who held that since substance cannot be perceived, it should not be assumed to exist. But the claim that substance cannot be perceived is neither clear nor obvious, and neither is the implication obvious.[according to whom?]
+Friedrich Nietzsche, and after him Martin Heidegger, Michel Foucault and Gilles Deleuze also rejected the notion of "substance", and in the same movement the concept of subject contained with the framework of Platonic idealism. For this reason, Althusser's "anti-humanism" and Foucault's statements were criticized, by Jürgen Habermas and others, for misunderstanding that this led to a fatalist conception of social determinism. For Habermas, only a subjective form of liberty could be conceived, to the contrary of Deleuze who talks about "a life", as an impersonal and immanent form of liberty.
+For Heidegger, Descartes means by "substance" that by which "we can understand nothing else than an entity which is in such a way that it need no other entity in order to be." Therefore, only God is a substance as ens perfectissimus (most perfect being). Heidegger showed the inextricable relationship between the concept of substance and of subject, which explains why, instead of talking about "man" or "humankind", he speaks about the Dasein, which is not a simple subject, nor a substance.[10]
+Alfred North Whitehead has argued that the concept of substance has only a limited applicability in everyday life and that metaphysics should rely upon the concept of process.[11]
+Roman Catholic theologian Karl Rahner, as part of his critique of transubstantiation, rejected substance theory and instead proposed the doctrine of transfinalization, which he felt was more attuned to modern philosophy. However, this doctrine was rejected by Pope Paul VI in his encyclical Mysterium fidei.
+Bundle theory[edit]
+Main article: Bundle theory
+In direct opposition to substance theory is bundle theory, whose most basic premise is that all concrete particulars are merely constructions or 'bundles' of attributes or qualitative properties:
+
+Necessarily, for any concrete entity, 
+
+
+
+a
+
+
+{\displaystyle a}
+
+, if for any entity, 
+
+
+
+b
+
+
+{\displaystyle b}
+
+, 
+
+
+
+b
+
+
+{\displaystyle b}
+
+ is a constituent of 
+
+
+
+a
+
+
+{\displaystyle a}
+
+, then 
+
+
+
+b
+
+
+{\displaystyle b}
+
+ is an attribute.[12]
+
+The bundle theorist's principal objections to substance theory concern the bare particulars of a substance, which substance theory considers independently of the substance's properties. The bundle theorist objects to the notion of a thing with no properties, claiming that such a thing is inconceivable and citing John Locke, who described a substance as "a something, I know not what." To the bundle theorist, as soon as one has any notion of a substance in mind, a property accompanies that notion.
+Identity of indiscernibles counterargument[edit]
+The indiscernibility argument from the substance theorist targets those bundle theorists who are also metaphysical realists. Metaphysical realism uses the identity of universals to compare and identify particulars. Substance theorists say that bundle theory is incompatible with metaphysical realism due to the identity of indiscernibles: particulars may differ from one another only with respect to their attributes or relations.
+The substance theorist's indiscernibility argument against the metaphysically realistic bundle theorist states that numerically different concrete particulars are discernible from the self-same concrete particular only by virtue of qualitatively different attributes.
+
+Necessarily, for any complex objects, 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ and 
+
+
+
+b
+
+
+{\displaystyle b}
+
+, if for any entity, 
+
+
+
+c
+
+
+{\displaystyle c}
+
+, 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ is a constituent of 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ if and only if 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ is a constituent of 
+
+
+
+b
+
+
+{\displaystyle b}
+
+, then 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ is numerically identical with 
+
+
+
+b
+
+
+{\displaystyle b}
+
+.[12]
+
+The indiscernibility argument points out that if bundle theory and discernible concrete particulars theory explain the relationship between attributes, then the identity of indiscernibles theory must also be true:
+
+Necessarily, for any concrete objects, 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ and 
+
+
+
+b
+
+
+{\displaystyle b}
+
+, if for any attribute, Φ, Φ is an attribute of 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ if and only if Φ is an attribute of 
+
+
+
+b
+
+
+{\displaystyle b}
+
+, then 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ is numerically identical with 
+
+
+
+b
+
+
+{\displaystyle b}
+
+.[12]
+
+The indiscernibles argument then asserts that the identity of indiscernibles is violated, for example, by identical sheets of paper. All of their qualitative properties are the same (e.g. white, rectangular, 9 x 11 inches...) and thus, the argument claims, bundle theory and metaphysical realism cannot both be correct.
+However, bundle theory combined with trope theory (as opposed to metaphysical realism) avoids the indiscernibles argument because each attribute is a trope if can only be held by only one concrete particular.
+The argument does not consider whether "position" should be considered an attribute or relation. It is after all through the differing positions that we in practice differentiate between otherwise identical pieces of paper.
+See also[edit]
+
+
+History of chemistry
+History of molecular theory
+Hypokeimenon
+Inherence
+Materialism
+Transcendentals
+
+
+References[edit]
+
+
+
+^ Rae Langton (2001). Kantian humility: our ignorance of things in themselves. Oxford University Press. p. 28. ISBN 0-19-924317-4. 
+^ Ackrill, J.L. (1988). A New Aristotle Reader. Princeton University Press. p. 7. ISBN 9781400835829. 
+^ Aristotle's Categories (Stanford Encyclopedia of Philosophy)
+^ Neoplatonism (Ancient Philosophies) by Pauliina Remes (2008), University of California Press ISBN 0520258347, pages 48–52.
+^ a b Sheridan, P. (2010). Locke: A Guide for the Perplexed. London: Continuum. pp. 34, 38.
+^ a b c d e Locke, J. (1979). An Essay Concerning Human Understanding, Book II (P. H. Nidditch, Ed.). Clarendon: Oxford.
+^ a b Stumpf, S. E. (1999). Socrates to Sartre: a history of philosophy. Boston, MA: McGraw-Hill. p. 260.
+^ Constantin, Ion, PhD.C., I.F.P.C.R.M. (2012). PHILOSOPHY OF SUBSTANCE: A HISTORICAL PERSPECTIVE. Linguistic and Philosophical Investigations, 11, 135-140. Retrieved from https://search.proquest.com/docview/1030745650
+^ Hockney, Mike (2015). The Forbidden History of Science. Hyperreality Books. 
+^ A. Kadir Cucen (2002-01-18). "Heidegger's Critique of Descartes' Metaphysics" (PDF). Uludag University. Retrieved 2011-12-28. 
+^ See, e.g., Ronny Desmet and Michel Weber (edited by), Whitehead. The Algebra of Metaphysics. Applied Process Metaphysics Summer Institute Memorandum, Louvain-la-Neuve, Éditions Chromatika, 2010 (ISBN 978-2-930517-08-7).
+^ a b c Loux, M.J. (2002). Metaphysics: A Contemporary Introduction. Routledge Contemporary Introductions to Philosophy Series. Taylor & Francis. pp. 106–107, 110. ISBN 9780415140348. LCCN 97011036. 
+
+
+
+External links[edit]
+
+Robinson, Howard. "Substance". In Zalta, Edward N. Stanford Encyclopedia of Philosophy. 
+Robinson, Tad. "17th Century Theories of Substance". Internet Encyclopedia of Philosophy. 
+Friesian School on Substance and Essence
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Metaphysics
+
+
+
+Metaphysicians
+
+
+
+Parmenides
+Plato
+Aristotle
+Plotinus
+Duns Scotus
+Thomas Aquinas
+Francisco Suárez
+Nicolas Malebranche
+René Descartes
+John Locke
+David Hume
+Thomas Reid
+Immanuel Kant
+Isaac Newton
+Arthur Schopenhauer
+Baruch Spinoza
+Georg W. F. Hegel
+George Berkeley
+Gottfried Wilhelm Leibniz
+Henri Bergson
+Friedrich Nietzsche
+Charles Sanders Peirce
+Joseph Maréchal
+Ludwig Wittgenstein
+Martin Heidegger
+Alfred N. Whitehead
+Bertrand Russell
+Dorothy Emmet
+G. E. Moore
+Jean-Paul Sartre
+Gilbert Ryle
+Hilary Putnam
+P. F. Strawson
+R. G. Collingwood
+Adolph Stöhr
+Rudolf Carnap
+Saul Kripke
+Willard V. O. Quine
+G. E. M. Anscombe
+Donald Davidson
+Michael Dummett
+David Malet Armstrong
+David Lewis
+Alvin Plantinga
+Peter van Inwagen
+Derek Parfit
+more ...
+
+
+
+
+
+Theories
+
+
+
+Abstract object theory
+Action theory
+Anti-realism
+Determinism
+Dualism
+Enactivism
+Essentialism
+Existentialism
+Free will
+Idealism
+Libertarianism
+Liberty
+Materialism
+Meaning of life
+Monism
+Naturalism
+Nihilism
+Phenomenalism
+Realism
+Physicalism
+Pirsig's metaphysics of Quality
+Platonic idealism
+Relativism
+Scientific realism
+Solipsism
+Subjectivism
+Substance theory
+Type theory
+
+
+
+
+
+Concepts
+
+
+
+Abstract object
+Anima mundi
+Being
+Category of being
+Causality
+Choice
+Cogito ergo sum
+Concept
+Embodied cognition
+Entity
+Essence
+Existence
+Experience
+Hypostatic abstraction
+Idea
+Identity
+Identity and change
+Information
+Insight
+Intelligence
+Intention
+Linguistic modality
+Matter
+Meaning
+Memetics
+Mental representation
+Mind
+Motion
+Necessity
+Notion
+Object
+Pattern
+Perception
+Physical body
+Principle
+Property
+Qualia
+Quality
+Reality
+Soul
+Subject
+Substantial form
+Thought
+Time
+Truth
+Type–token distinction
+Universal
+Unobservable
+Value
+more ...
+
+
+
+
+
+Related topics
+
+
+
+Axiology
+Cosmology
+Epistemology
+Feminist metaphysics
+Interpretations of quantum mechanics
+Meta-
+Ontology
+Philosophy of mind
+Philosophy of psychology
+Philosophy of self
+Philosophy of space and time
+Teleology
+Theoretical physics
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Aristotelianism
+
+
+
+Overview
+
+
+
+Peripatetic school
+Physics
+Biology
+Ethics
+Logic
+Theology (unmoved mover)
+
+
+
+
+
+
+
+
+Ideas and interests
+
+
+
+Correspondence theory of truth
+Hexis
+Virtue ethics (golden mean)
+Four causes
+Telos
+Phronesis
+Eudaimonia
+Arete
+Temporal finitism
+Antiperistasis
+Philosophy of nature (sublunary sphere)
+Potentiality and actuality
+Universals (substantial form)
+Hylomorphism
+Mimesis
+Catharsis
+Substance (hypokeimenon, ousia, transcendentals)
+Essence–accident
+Category of being
+Minima naturalia
+Magnanimity
+Sensus communis
+Rational animal
+Genus–differentia
+Mythos
+
+
+
+
+
+Corpus Aristotelicum
+
+
+
+Physics
+Organon
+Nicomachean Ethics
+Politics
+Metaphysics
+On the Soul
+Rhetoric
+Poetics
+
+
+
+
+
+Followers
+
+
+
+Alexander the Great
+Theophrastus
+Avicenna
+Averroes
+Maimonides
+Thomas Aquinas
+Mortimer Adler
+Alasdair MacIntyre
+Martha Nussbaum
+
+
+
+
+
+Related topics
+
+
+
+Platonism
+Commentaries on Aristotle
+Recovery of Aristotle
+Scholasticism
+Conimbricenses
+Pseudo-Aristotle
+Views on women
+Aristotle's wheel paradox
+Aristotle's razor
+
+
+
+
+
+
+ Philosophy portal
+
+
+
+
+
+
+
+
+Categories: OntologyAristotelianismMetaphysical theoriesSpinoza studiesHidden categories: Articles needing additional references from October 2010All articles needing additional referencesArticles containing Greek-language textAll articles with unsourced statementsArticles with unsourced statements from August 2016Articles needing additional references from December 2017Articles with unsourced statements from July 2011All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from February 2017

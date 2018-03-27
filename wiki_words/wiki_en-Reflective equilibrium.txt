@@ -1,0 +1,329 @@
+Reflective equilibrium
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2011) (Learn how and when to remove this template message)
+
+
+
+Reflective equilibrium is a state of balance or coherence among a set of beliefs arrived at by a process of deliberative mutual adjustment among general principles and particular judgments. Although he did not use the term, philosopher Nelson Goodman introduced the method of reflective equilibrium as an approach to justifying the principles of inductive logic. The term 'reflective equilibrium' was coined by John Rawls and popularized in his A Theory of Justice as a method for arriving at the content of the principles of justice.
+
+
+
+Contents
+
+
+1 Overview
+2 Wide reflective equilibrium
+3 See also
+4 References
+5 Further reading
+
+
+
+Overview[edit]
+Rawls argues that human beings have a "sense of justice" which is both a source of moral judgment and moral motivation. In Rawls's theory, we begin with "considered judgments" that arise from the sense of justice. These may be judgments about general moral principles (of any level of generality) or specific moral cases. If our judgments conflict in some way, we proceed by adjusting our various beliefs until they are in "equilibrium", which is to say that they are stable, not in conflict, and provide consistent practical guidance. Rawls argues that a set of moral beliefs in ideal reflective equilibrium describes or characterizes the underlying principles of the human sense of justice.
+An example of the method of reflective equilibrium may be useful. Suppose Zachary believes in the general principle of always obeying the commands in the Bible, and mistakenly thinks that these are completely encompassed by every Old Testament command.[clarification needed] Suppose also that he thinks that it is not ethical to stone people to death merely for being Wiccan. These views may come into conflict (see Exodus 22:18, but see John 8:7). If they do, Zachary will then have several choices. He can discard his general principle in search of a better one (for example, only obeying the Ten Commandments), modify his general principle (for example, choosing a different translation of the Bible, or letting Jesus' teaching from John 8:7 "If any of you is without sin, let him be the first to cast a stone" override the Old Testament command), or change his opinions about the point in question to conform with his theory (by deciding that witches really should be killed). Whatever the decision, he has moved toward reflective equilibrium.
+Reflective equilibrium serves an important justificatory function within Rawls's political theory. The nature of this function, however, is disputed. The dominant view, best exemplified by the work of Norman Daniels and Thomas Scanlon, is that the method of reflective equilibrium is a kind of coherentist method for the epistemic justification of moral beliefs. However, in other writings, Rawls seems to argue that his theory bypasses traditional metaethical questions, including questions of moral epistemology, and is intended instead to serve a practical function. This provides some motivation for a different view of the justificatory role of reflective equilibrium. On this view, the method of reflective equilibrium serves its justificatory function by linking together the cognitive and motivational aspects of the human sense of justice in the appropriate way.
+Rawls argues that candidate principles of justice cannot be justified unless they are shown to be stable. Principles of justice are stable if, among other things, the members of society regard them as authoritative and reliably compliant with them. The method of reflective equilibrium determines a set of principles rooted in the human sense of justice, which is a capacity that both provides the material for the process of reflective equilibration and our motivation to adhere to principles we judge morally sound. The method of reflective equilibrium serves the aim of defining a realistic and stable social order by determining a practically coherent set of principles that are grounded in the right way in the source of our moral motivation, such that we will be disposed to comply with them. As Fred D'Agostino puts it, stable principles of justice will require considerable "up-take" by the members of society. The method of reflective equilibrium provides a way of settling on principles that will achieve the kind of "up-take" necessary for stability.
+Reflective equilibrium is not static, though Rawls allows for provisional fixed points; it will change as the individual considers his opinions about individual issues or explores the consequences of his principles.[1]
+Rawls applied this technique to his conception of a hypothetical original position from which people would agree to a social contract. He arrived at the conclusion that the optimal theory of justice is the one to which people would agree from behind a veil of ignorance, not knowing their social positions.
+Philosopher Paul Thagard has criticized the method of reflective equilibrium as "only like a smokescreen for a relatively sophisticated form of logical and methodological relativism" and "at best incidental to the process of developing normative principles".[2] Among the "numerous problems" of reflective equilibrium, Thagard counted "undue reliance on intuition and the danger of arriving at stable but suboptimal sets of norms".[3] In place of reflective equilibrium, Thagard recommended what he considered to be a more consequentialist method of justifying norms by identifying a domain of practices, identifying candidate norms for the practices, identifying the appropriate goals of the practices, evaluating the extent to which different practices accomplish these goals, and adopting as domain norms the practices that best accomplish these goals.[3][4]
+Philosopher Dietmar Hübner has pointed out that there are many interpretations of reflective equilibrium that deviate from Rawls' original method in ways that reduce the cogency of the idea.[5] Among these misinterpretations, according to Hübner, are definitions of reflective equilibrium as "(a) balancing theoretical accounts against intuitive convictions; (b) balancing general principles against particular judgements; (c) balancing opposite ethical conceptions or divergent moral statements".[5]
+Wide reflective equilibrium[edit]
+
+
+
+
+This section needs expansion. You can help by adding to it. (October 2017)
+
+
+
+Wide reflective equilibrium, first introduced by Rawls, has been described by Norman Daniels as "a method that attempts to produce coherence in ordered triple sets of beliefs held by a particular person, namely: (a) a set of considered moral judgments, (b) a set of moral principles, and (c) a set of relevant (scientific and philosophical) background theories".[6]
+See also[edit]
+
+Consistency
+Dialectics
+Double-loop learning
+Enantiodromia
+Foundherentism
+Rational reconstruction
+
+References[edit]
+
+
+
+^ Rawls, John (1971). A theory of justice. Cambridge, MA: Belknap Press of Harvard University Press. p. 65. ISBN 0674880102. OCLC 216912. 
+^ Thagard, Paul (1988). Computational philosophy of science. Cambridge, MA: MIT Press. p. 115. ISBN 0262200686. OCLC 16525738. 
+^ a b Thagard, Paul (April 2009). "Why cognitive science needs philosophy and vice versa". Topics in Cognitive Science. 1 (2): 237–254 [248]. doi:10.1111/j.1756-8765.2009.01016.x. 
+^ Thagard, Paul (2010). The brain and the meaning of life. Princeton, NJ: Princeton University Press. pp. 202–217. ISBN 9780691142722. OCLC 416717721. 
+^ a b Hübner, Dietmar (January 2017). "Three remarks on 'reflective equilibrium': on the use and misuse of Rawls' balancing concept in contemporary ethics". Philosophical Inquiry. 41 (1): 11–40. doi:10.5840/philinquiry20174112. 
+^ Räikkä, Juha (2011). "Wide reflective equilibrium". In Chatterjee, Deen K. Encyclopedia of global justice. Springer reference. Dordrecht: Springer Verlag. pp. 1157–1158. doi:10.1007/978-1-4020-9160-5_33. ISBN 9781402091599. OCLC 772633396. 
+
+
+
+Further reading[edit]
+
+Daniels, Norman (May 1979). "Wide reflective equilibrium and theory acceptance in ethics". The Journal of Philosophy. 76 (5): 256–282. doi:10.2307/2025881. JSTOR 2025881. 
+Nielsen, Kai (January 1982). "Grounding rights and a method of reflective equilibrium". Inquiry: An Interdisciplinary Journal of Philosophy. 25 (3): 277–306. doi:10.1080/00201748208601969. 
+Nielsen, Kai (July 1993). "Relativism and wide reflective equilibrium". The Monist. 76 (3): 316–332. doi:10.5840/monist199376320. JSTOR 27903343. 
+Daniels, Norman (1996). Justice and justification: reflective equilibrium in theory and practice. Cambridge studies in philosophy and public policy. Cambridge, UK; New York: Cambridge University Press. doi:10.1017/CBO9780511624988. ISBN 052146711X. OCLC 34322703. 
+Stanovich, Keith E. (1999). "Rationality and reflective equilibrium". Who is rational?: studies of individual differences in reasoning. Mahwah, NJ: Lawrence Erlbaum Associates. pp. 24–27. ISBN 0805824723. OCLC 39812301. 
+Campbell, Richmond (July 2014). "Reflective equilibrium and moral consistency reasoning". Australasian Journal of Philosophy. 92 (3): 433–451. doi:10.1080/00048402.2013.833643. 
+Thiel, Ghislaine J. M. W. van; Delden, Johannes J. M. van (2014). "Intuitions in moral reasoning: normative empirical reflective equilibrium as a model for substantial justification of moral claims". In Christen, Markus; Schaik, Carel van; Fischer, Johannes; Huppenbauer, Markus; Tanner, Carmen. Empirically informed ethics: morality between facts and norms. Library of ethics and applied philosophy. 32. Heidelberg; New York: Springer Verlag. pp. 179–193. doi:10.1007/978-3-319-01369-5_10. ISBN 9783319013688. OCLC 857646151. 
+Daniels, Norman (14 October 2016). "Reflective equilibrium". Stanford Encyclopedia of Philosophy. Retrieved 27 December 2016. 
+Flanagan, Owen J. (2016). "Superwide reflective equilibrium". The geography of morals: varieties of moral possibility. Oxford; New York: Oxford University Press. pp. 123–127. ISBN 9780190212155. OCLC 947145166. 
+
+
+
+
+
+Links to related articles
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Analytic philosophy
+
+
+
+Philosophers
+
+
+
+J. L. Austin
+A. J. Ayer
+G. E. M. Anscombe
+Nick Bostrom
+Robert Brandom
+C. D. Broad
+Patricia Churchland
+David Chalmers
+Noam Chomsky
+James F. Conant
+Alice Crary
+Donald Davidson
+Daniel Dennett
+Cora Diamond
+Michael Dummett
+Paul Feyerabend
+Antony Flew
+Bas van Fraassen
+Gottlob Frege
+Jerry Fodor
+Philippa Foot
+Peter Geach
+Paul Grice
+Ian Hacking
+R. M. Hare
+Carl Gustav Hempel
+Peter van Inwagen
+Christine Korsgaard
+Saul Kripke
+Thomas Kuhn
+David Lewis
+Alasdair MacIntyre
+J. L. Mackie
+Norman Malcolm
+John McDowell
+G. E. Moore
+Ernest Nagel
+Thomas Nagel
+Robert Nozick
+Derek Parfit
+Alvin Plantinga
+Karl Popper
+Hilary Putnam
+W. V. O. Quine
+John Rawls
+Hans Reichenbach
+Richard Rorty
+Bertrand Russell
+Gilbert Ryle
+Moritz Schlick
+John Searle
+Wilfrid Sellars
+Peter Singer
+Richard Swinburne
+Charles Taylor
+Michael Walzer
+Bernard Williams
+Timothy Williamson
+Ludwig Wittgenstein
+
+
+
+
+
+Theories
+
+
+
+Actualism
+Analytical feminism
+Analytical Marxism
+Anti-realism
+Berlin Circle
+Descriptivist theory of names
+Emotivism
+Functional contextualism
+Linguistic turn
+Logical positivism
+Modal realism
+Model-dependent realism
+Neopragmatism
+Neurophilosophy
+Ordinary language philosophy
+Postanalytic philosophy
+Pragmatic theory of truth
+Verificationism
+Vienna Circle
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+Causal / Deductive / epistemic closure
+Concept
+Counterfactual
+Denotation / reference
+Definite description
+Factive
+Family resemblance
+Intuition
+Meaning (Proposition)
+Modality
+Natural kind / projectability
+Necessary–sufficient conditions
+Paradox of analysis
+Possible world
+Reduction
+Reflective equilibrium
+Rigid–flaccid designators
+Sense data
+Supervenience
+Thought experiment
+Truth function
+Truthmaker
+Truth-bearer
+Type–token distinction
+
+
+
+
+
+Related articles
+
+
+
+Aretaic turn
+Australian realism
+Communitarianism
+Ordinary language philosophy
+Philosophical logic
+Philosophy of language
+Philosophy of science
+Postanalytic philosophy
+
+
+
+
+
+
+
+
+ Index
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+John Rawls
+
+
+
+Major works
+
+
+
+A Theory of Justice
+Political Liberalism
+The Law of Peoples
+Justice as Fairness: A Restatement
+
+
+
+
+
+Notable ideas
+
+
+
+"Justice as Fairness"
+Original position
+Reflective equilibrium
+Overlapping consensus
+Public reason
+Primary goods
+
+
+
+
+
+Related topics
+
+
+
+Liberalism
+Political philosophy
+Justice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categories: BeliefConcepts in logicConcepts in ethicsInductive reasoningJustificationHidden categories: Articles needing additional references from February 2011All articles needing additional referencesWikipedia articles needing clarification from May 2015Articles to be expanded from October 2017All articles to be expandedArticles using small message boxes

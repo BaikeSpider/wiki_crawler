@@ -1,0 +1,221 @@
+Limited Inc
+
+Limited Inc
+
+
+Cover of the first edition
+
+
+
+Author
+Jacques Derrida
+
+
+Subject
+J. L. Austin
+
+
+Published
+1988
+
+
+Media type
+Print
+
+
+Limited Inc is a 1988 book by Jacques Derrida, containing two essays and an interview.
+The first essay, "Signature Event Context," is about J. L. Austin's theory of the illocutionary act outlined in his How To Do Things With Words.[1] The second essay, "Limited Inc a b c...", is Derrida's response to John Searle's "Reply to Derrida: Reiterating the Differences," which criticizes Derrida's interpretation of Austin. The book concludes with a letter by Derrida, written in response to questions posed by Gerald Graff in 1988: "Afterword: Toward an Ethic of Discussion". Searle's essay is not itself included: he denied Northwestern University Press permission to reprint it. A summary is included between the two Derrida essays, and Derrida quotes the essay extensively.[2]
+"Signature Event Context" was originally delivered at a Montreal conference entitled "Communication," organized by the Congrès international des Sociétés de philosophie de langue française in August 1971. It was subsequently published in the Congrès' Proceedings and then collected in Derrida's Marges de la philosophie in 1972. It first appeared in English translation in the inaugural edition of the journal Glyph in 1977. Searle's "Reply to Derrida: Reiterating the Differences" was published in Glyph's second edition in 1977, along with Derrida's reply to Searle's reply: "Limited Inc a b c..."
+
+
+
+Contents
+
+
+1 Signature Event Context
+2 Dispute with John Searle — "Afterword: Toward An Ethic of Discussion"
+3 See also
+4 References
+
+
+
+Signature Event Context[edit]
+The essay has three section headings, beginning with: "Writing & Telecommunication" on the third page, and then followed by "Parasites. Iter, of Writing: That It Perhaps Does Not Exist", and concluding with "Signatures".
+Derrida highlights Austin's theory of illocutionary acts in the "Parasites..." section because he finds it in contradiction to the definition of communication he has formulated in "Writing & Telecommunication". There he considers all communication in terms traditionally reserved for writing. Derrida lists three traits of writing. First, it subsists without the subject who inscribed it. Second, the meaning of the text is never constrained by its context. "[T]he sign", Derrida explains, "possesses the characteristic of being readable even if the moment of its production is irrevocably lost and even if I do not know what its alleged author-scriptor intended to say at the moment he wrote it".[3] Third, this possibility of rupture from its origin is provided by a text's elements (e.g. words) being separated by spacing. Derrida says that these traits "are valid not only for all orders of 'signs' and for languages in general but moreover, beyond semio-linguistic communication, for the entire field of what philosophy would call experience".[4]
+Dispute with John Searle — "Afterword: Toward An Ethic of Discussion"[edit]
+In 1972, Derrida wrote "Signature Event Context," an essay on J. L. Austin's speech act theory; following a critique of this text by John Searle in his 1977 essay Reiterating the Differences, Derrida wrote the same year Limited Inc abc ..., a long defense of his earlier argument.
+Searle exemplified his view on deconstruction in The New York Review of Books, February 2, 1984;[5] for example:
+
+...anyone who reads deconstructive texts with an open mind is likely to be struck by the same phenomena that initially surprised me: the low level of philosophical argumentation, the deliberate obscurantism of the prose, the wildly exaggerated claims, and the constant striving to give the appearance of profundity by making claims that seem paradoxical, but under analysis often turn out to be silly or trivial.
+
+In 1983, Searle told to The New York Review of Books a remark on Derrida allegedly made by Michel Foucault in a private conversation with Searle himself; Derrida later decried Searle's gesture as gossip, and also condemned as violent the use of a mass circulation magazine to fight an academic debate.[6] According to Searle's account, Foucault called Derrida's prose style "terrorist obscurantism"; Searle's quote was:
+
+Michel Foucault once characterized Derrida's prose style to me as "obscurantisme terroriste." The text is written so obscurely that you can't figure out exactly what the thesis is (hence "obscurantisme") and when one criticizes it, the author says, "Vous m'avez mal compris; vous êtes idiot' (hence "terroriste")
+
+In 1988, Derrida wrote "Afterword: Toward An Ethic of Discussion", to be published with the previous essays in the collection Limited Inc. Commenting on criticisms of his work, he wrote:[6][7]
+
+I just want to raise the question of what precisely a philosopher is doing when, in a newspaper with a large circulation, he finds himself compelled to cite private and unverifiable insults of another philosopher in order to authorize himself to insult in turn and to practice what in French is called a jugement d'autorite, that is, the method and preferred practice of all dogmatism. I do not know whether the fact of citing in French suffices to guarantee the authenticity of a citation when it concerns a private opinion. I do not exclude the possibility that Foucault may have said such things, alas! That is a different question, which would have to be treated separately. But as he is dead, I will not in my turn cite the judgment which, as I have been told by those who were close to him, Foucault is supposed to have made concerning the practice of Searle in this case and on the act that consisted in making this use of an alleged citation.”
+
+In the main text he argued that Searle avoided reading him[8] and didn't try to understand him and even that, perhaps, he was not able to understand, and how certain practices of academic politeness or impoliteness could result in a form of brutality that he disapproved of and would like to disarm, in his fashion.[9]
+Derrida also criticized Searle's work for pretending to talk about "intention" without being aware of traditional texts about the subject and without even understanding Husserl's work when talking about it.[10] Because he ignored the tradition he rested blindly imprisoned in it, repeating its most problematic gestures, falling short of the most elementary critical questions.[11]
+Derrida would even argue that in a certain way he was more close to Austin, than Searle that, in fact, was more close to continental philosophers that himself tried to criticize.[12] He would also argue about the problem he found in the constant appeal to "normality" in the analytical tradition from which Austin and Searle were only paradigmatic examples.[13]
+
+In the description of the structure called "normal," "normative," "central," "ideal,"this possibility must be integrated as an essential possibility. The possibility cannot be treated as though it were a simple accident-marginal or parasitic. It cannot be, and hence ought not to be, and this passage from can to ought reflects the entire difficulty. In the analysis of so-called normal cases, one neither can nor ought, in all theoretical rigor, to exclude the possibility of transgression. Not even provisionally, or out of allegedly methodological considerations. It would be a poor method, since this possibility of transgression tells us immediately and indispensably about the structure of the act said to be normal as well as about the structure of law in general.
+
+He continued arguing how problematic was establishing the relation between "nonfiction or standard discourse" and "fiction," defined as its "parasite, “for part of the most originary essence of the latter is to allow fiction, the simulacrum, parasitism, to take place-and in so doing to "de-essentialize" itself as it were”.[13] He would finally argue that the indispensable question would then become:[13]
+
+what is "nonfiction standard discourse," what must it be and what does this name evoke, once its fictionality or its fictionalization, its transgressive "parasitism," is always possible (and moreover by virtue of the very same words, the same phrases, the same grammar, etc.)?
+
+This question is all the more indispensable since the rules, and even the statements of the rules governing the relations of "nonfiction standard discourse" and its fictional"parasites," are not things found in nature, but laws, symbolic inventions, or conventions, institutions that, in their very normality as well as in their normativity, entail something of the fictional.
+
+See also[edit]
+
+Searle–Derrida debate
+
+References[edit]
+
+
+
+^ How to do things with Words: The William James Lectures delivered at Harvard University in 1955. Ed. J. O. Urmson. Oxford: Clarendon, 1962. ISBN 0-674-41152-8
+^ Derrida (1988), Editor's Foreword, in Limited Inc. page VII - Editor's Foreword
+^ Jacques Derrida, "Signature Event Context," Limited Inc, trans. Samuel Weber and Jeffrey Mehlman (Evanston, Il: Northwestern University Press, 1988) p. 9.
+^ Derrida, "Signature Event Context," p. 9
+^ Louis Mackey and Searle (1984)
+^ a b Derrida (1988), Afterword, in Limited Inc. page 158, footnote 12
+^ Searle (1983) and (2000)
+^ Derrida, Jacques. Limited, Inc.. Northwestern University Press, 1988. p. 29: "...I have read some of his [Searle's] work (more, in any case, than he seems to have read of mine)"[1]
+^ Jacques Derrida, "Afterwords" in Limited, Inc. (Northwestern University Press, 1988), p. 158
+^ Jacques Derrida, "Afterwords" in Limited, Inc. (Northwestern University Press, 1988), p. 130
+^ Jacques Derrida, "'Afterwords" in Limited, Inc. (Northwestern University Press, 1988), p. 131
+^ Jacques Derrida, "Afterwords" in Limited, Inc. (Northwestern University Press, 1988), p. 131
+^ a b c Jacques Derrida, "Afterwords" in Limited, Inc. (Northwestern University Press, 1988), p. 133
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Jacques Derrida
+
+
+
+Interviews collections
+
+
+
+Positions (1972)
+The Rhetoric of Drugs (1989)
+Points...: Interviews, 1974-1994 (1995)
+Paper Machine (2001)
+
+
+
+
+
+Essays
+
+
+
+Early
+The Problem of Genesis in Husserl's Philosophy (1953)
+Introduction to Husserl's The Origin of Geometry (1962)
+"Cogito and the History of Madness" (1963)
+
+
+1967
+Of Grammatology
+Speech and Phenomena
+Writing and Difference
+
+
+1968–72
+Plato's Pharmacy (1968)
+Dissemination (1972)
+Margins of Philosophy (1972)
+
+
+1973–8
+The Archeology of the Frivolous: Reading Condillac (1973)
+Glas (1974)
+Spurs: Nietzsche's Styles (1978)
+The Truth in Painting (1978)
+
+
+1980–8
+The Post Card: From Socrates to Freud and Beyond (1980)
+The Ear of the Other (1982)
+Of an Apocalyptic Tone Recently Adopted in Philosophy (1983)
+Ulysses Gramophone (1984)
+Two Words for Joyce (1984)
+Signeponge-Signsponge (1984)
+Memoires for Paul de Man (1986)
+Of Spirit (1987)
+Psyche: Inventions of the Other (Vol. I, 1987)
+Cinders (1987)
+Choral Work (1988)
+Limited Inc. (1988)
+
+
+1990s
+Right to Philosophy (1990)
+The Other Heading (1991)
+Acts of Literature (1991)
+Given Time: I. Counterfeit Money (1991)
+The Gift of Death (1992)
+Specters of Marx (1993)
+Archive Fever (1995)
+The Right to Philosophy from the Cosmopolitical Point of View (1997)
+
+
+2000s
+Ethics, Institutions, and the Right to Philosophy (2002)
+The Animal That Therefore I Am (2008)
+
+
+
+
+
+Concepts
+
+
+
+Deconstruction
+Différance
+Phallogocentrism
+Phonocentrism
+Logocentrism
+Metaphysics of presence
+Free play
+
+
+
+
+
+Related articles
+
+
+
+Marguerite Aucouturier
+Gadamer–Derrida debate
+Sokal affair
+Derrida
+The Reception of Derrida
+
+
+
+
+
+
+
+
+
+
+Categories: 1988 booksPhilosophy of language literatureWorks by Jacques DerridaHidden categories: Pages to import images to Wikidata

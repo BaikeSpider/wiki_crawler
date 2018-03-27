@@ -1,0 +1,103 @@
+你画我猜
+
+
+
+
+
+
+
+
+
+
+你画我猜
+
+
+
+
+
+Draw Something
+
+
+
+
+
+
+《你画我猜》的App Store标志
+
+
+
+平台
+iOS、Android、Windows Phone
+
+
+开发
+Omgpop
+
+
+发行
+Omgpop
+
+
+你画我猜（英语：Draw Something），台湾译作你画我猜，香港译作猜猜画画， 一款由Omgpop开发的移动软件游戏。在游戏中，两名玩家需要轮流绘画方及猜测方的身份，而绘画方的目的就是让猜测方猜对图画所表达的词语。[1]
+
+
+
+目录
+
+
+1 游戏系统
+2 发展
+3 反响
+4 棋盘游戏
+5 参考文献
+6 外部链接
+
+
+
+游戏系统[编辑]
+在《你画我猜》中，两名玩家轮流交替绘画方和猜测方的身份。[2]游戏开始时，绘画方会得到随机的英文词语，并且需要将之绘画出来。而猜测方则需要猜测图画所表达的词。每当猜测方成功猜测一个词时，绘画方就能获得1至3枚金币。[1]
+当绘画方完成绘画后，猜测方能够选择回放绘画方的绘画，但其间不能暂停。猜测方亦能看见数个空格，而空格的数量代表词语的字数。猜测方亦会得到一堆字母方格，猜测方需要从中选出词语中有的字母。猜测方能够不停地猜测，并且没有时间限制。[3]
+玩家得到的金币能够用来购买更多种颜色，以让猜测方更易明白绘画方的绘画。金币亦于能用来购买“炸弹”。这些金币能够用钱来购买。[1]
+== 工具 每个玩家均能获得一定数量的“炸弹”。作为猜测方，那些炸弹能够为猜测方消除一个字母方格或显示词语中的一个字。作为绘画方，那些炸弹能够让玩家重新选择一个词语。若玩家用光了炸弹而又无法猜出那个字，那么玩家就只能弃权。若玩家弃权的话，那么两人的连胜纪录就会重设。通过弃权，玩家能获得新词语。[1]
+发展[编辑]
+《你画我猜》善用了Facebook用户的高速增长来扩张游戏市场。当玩家通过Facebook用户进行游戏时，玩家就能和其友人进行游戏。玩家只需按下友人的Facebook用户名称，就能和其友人进行游戏。若玩家想邀请没有玩此游戏的友人参加，他们亦能在游戏中这样做。[4]
+一个近期的更新允许玩家保存和分享他们的画作。[5]
+反响[编辑]
+此游戏获得一致好评。GameZebo给予此游戏4/5分，并指出“《你画我猜》已经超越了社交游戏，它是一个进入我们思想的窗口”。[6]Touch Arcade给予此游戏5/5分，并指出“每个人都应该下载这个游戏”。[7]而Pocket Gamer则给予此游戏9/10分，并授予此游戏“金奖”。[8]此游戏亦获颁2012年乱舞应用程序聚光灯奖（Flurry App Spotlight Award）。[9]
+此游戏非常受玩家欢迎。在发布五周后，此游戏已累积逾2000万次下载。[10]在发布50天后，此游戏累积逾5000万次下载。[11]随着游戏的增长，此游戏引来了其他游戏公司的青睐。于2012年3月，Zynga以1.8亿美元收购《你画我猜》和Omgpop。 [12]但是，在Zynga在收购《你画我猜》1个月后，此游戏的每日用户减少了500万。[13]尽管如此，在发布1年后，此游戏的下载次数仍然超越了1亿次。[14]
+2013年4月25日，《你画我猜2》于iOS上发布。[15]
+棋盘游戏[编辑]
+于2012年，Zynga与孩之宝合作推出了一款名为《孩之宝游戏》（Hasbro Gaming）的棋盘游戏。该游戏系改编自《你画我猜》。该游戏是Zynga推出的数个棋盘游戏中的其中一个。其他Zynga推出的棋盘游戏包括填字游戏《Words with Friends》、《城市小镇》（CityVille）版本《地产大亨》和几种改编自《FarmVille》的儿童游戏。[16]
+参考文献[编辑]
+
+
+^ 1.0 1.1 1.2 1.3 Drawing with friends goes mobile. 互联网档案馆的存档，存档日期2012-03-22.
+^ Draw Something - IGN
+^ Don’t call it a game: How Draw Something hit 30 million downloads
+^ Draw Something - IGN guide
+^ Draw Something updated to make it more stable?
+^ Draw Something - GameZebo
+^ Draw Something - Touch Arcade
+^ Draw Something - Pocket Gamer
+^ Red Stamp, Fooducate and Draw Something Win Flurry 2012 App Spotlight Awards. Bradenton Herald. 14 March 2012 [14 March 2012]. （原始内容存档于2012年3月24日）. 
+^ Draw Something app surges to 20 million downloads. T3 magazine. [14 March 2012]. 
+^ Draw Something is 'fastest growing' mobile game. BBC. 5 April 2012 [7 April 2012]. 
+^ A Game Explodes and Changes Life Overnight at a Struggling Start-Up. New York Times. March 25, 2012. 
+^ Draw Something loses 5 million daily users in one month
+^ Draw Something crests 100 million downloads after one year - joystiq
+^ Draw Something 2 互联网档案馆的存档，存档日期2013-10-04.
+^ Zynga games page of HasbroToyShop.com. Retrieved October 17, 2012. Hasbrotoyshop.com. [2013-01-28]. 
+
+
+外部链接[编辑]
+
+官方网站
+Draw Something at Apple App Store
+Draw Something at Google Play
+Draw Something at Windows Phone Store
+
+
+
+
+
+分类：2012年电子游戏IOS游戏Android游戏Windows Phone游戏美国开发电子游戏隐藏分类：Webarchive模板wayback链接

@@ -1,0 +1,1767 @@
+Mediation (statistics)
+
+
+
+
+A simple statistical mediation model.
+
+
+In statistics, a mediation model is one that seeks to identify and explain the mechanism or process that underlies an observed relationship between an independent variable and a dependent variable via the inclusion of a third hypothetical variable, known as a mediator variable (also a mediating variable, intermediary variable, or intervening variable).[1] Rather than a direct causal relationship between the independent variable and the dependent variable, a mediation model proposes that the independent variable influences the (non-observable) mediator variable, which in turn influences the dependent variable. Thus, the mediator variable serves to clarify the nature of the relationship between the independent and dependent variables.[2]
+Mediation analyses are employed to understand a known relationship by exploring the underlying mechanism or process by which one variable influences another variable through a mediator variable.[3] Mediation analysis facilitates a better understanding of the relationship between the independent and dependent variables when the variables appear to not have a definite connection. They are studied by means of operational definitions and have no existence apart.
+
+
+
+Contents
+
+
+1 Baron and Kenny's (1986) steps for mediation
+2 Direct versus indirect effects
+3 Full versus partial mediation
+4 Sobel's test
+5 Preacher and Hayes (2004) bootstrap method
+6 Significance of mediation
+7 Approaches to mediation
+8 Criticisms of mediation measurement
+9 Other third variables
+10 Moderated mediation
+
+10.1 Models of moderated mediation
+
+
+11 Mediated moderation
+12 Regression equations for moderated mediation and mediated moderation
+13 Causal mediation analysis
+
+13.1 Fixing versus conditioning
+13.2 Definitions
+13.3 The mediation formula
+13.4 Example
+
+
+14 References
+15 External links
+
+
+
+Baron and Kenny's (1986) steps for mediation[edit]
+Baron and Kenny (1986) [4] laid out several requirements that must be met to form a true mediation relationship. They are outlined below using a real-world example. See the diagram above for a visual representation of the overall mediating relationship to be explained.
+Step 1:
+
+Regress the dependent variable on the independent variable to confirm that the independent variable is a significant predictor of the dependent variable.
+
+Independent variable 
+
+
+
+→
+
+
+{\displaystyle \to }
+
+ dependent variable
+
+
+
+
+
+Y
+=
+
+β
+
+10
+
+
++
+
+β
+
+11
+
+
+X
++
+
+ε
+
+1
+
+
+
+
+{\displaystyle Y=\beta _{10}+\beta _{11}X+\varepsilon _{1}}
+
+
+
+
+β11 is significant
+
+Step 2:
+
+Regress the mediator on the independent variable to confirm that the independent variable is a significant predictor of the mediator. If the mediator is not associated with the independent variable, then it couldn’t possibly mediate anything.
+
+Independent variable 
+
+
+
+→
+
+
+{\displaystyle \to }
+
+ mediator
+
+
+
+
+
+M
+e
+=
+
+β
+
+20
+
+
++
+
+β
+
+21
+
+
+X
++
+
+ε
+
+2
+
+
+
+
+{\displaystyle Me=\beta _{20}+\beta _{21}X+\varepsilon _{2}}
+
+
+
+
+β21 is significant
+
+Step 3:
+
+Regress the dependent variable on both the mediator and independent variable to confirm that the mediator is a significant predictor of the dependent variable, and the previously significant independent variable in Step #1 is now greatly reduced, if not nonsignificant.
+
+
+
+
+
+
+Y
+=
+
+β
+
+30
+
+
++
+
+β
+
+31
+
+
+X
++
+
+β
+
+32
+
+
+M
+e
++
+
+ε
+
+3
+
+
+
+
+{\displaystyle Y=\beta _{30}+\beta _{31}X+\beta _{32}Me+\varepsilon _{3}}
+
+
+
+
+β32 is significant
+β31 should be smaller in absolute value than the original mediation effect (β11 above)
+
+Example
+The following example, drawn from Howell (2009),[5] explains each step of Baron and Kenny’s requirements to understand further how a mediation effect is characterized. Step 1 and step 2 use simple regression analysis, whereas step 3 uses multiple regression analysis.
+Step 1:
+
+How you were parented (i.e., independent variable) predicts how confident you feel about parenting your own children (i.e., dependent variable).
+
+How you were parented 
+
+
+
+→
+
+
+{\displaystyle \to }
+
+ confidence in own parenting abilities.
+Step 2:
+
+How you were parented (i.e., independent variable) predicts your feelings of competence and self-esteem (i.e., mediator).
+
+How you were parented 
+
+
+
+→
+
+
+{\displaystyle \to }
+
+ Feelings of competence and self-esteem.
+Step 3:
+
+Your feelings of competence and self-esteem (i.e., mediator) predict how confident you feel about parenting your own children (i.e., dependent variable), while controlling for how you were parented (i.e., independent variable).
+
+Such findings would lead to the conclusion implying that your feelings of competence and self-esteem mediate the relationship between how you were parented and how confident you feel about parenting your own children.
+Note: If step 1 does not yield a significant result, one may still have grounds to move to step 2. Sometimes there is actually a significant relationship between independent and dependent variables but because of small sample sizes, or other extraneous factors, there could not be enough power to predict the effect that actually exists (See Shrout & Bolger, 2002 [6] for more info).
+Direct versus indirect effects[edit]
+In the diagram shown above, the indirect effect is the product of path coefficients "A" and "B". The direct effect is the coefficient " C' ". The direct effect measures the extent to which the dependent variable changes when the independent variable increases by one unit and the mediator variable remains unaltered. In contrast, the indirect effect measures the extent to which the dependent variable changes when the independent variable is held fixed and the mediator variable changes by the amount it would have changed had the independent variable increased by one unit.[7][8] In linear systems, the total effect is equal to the sum of the direct and indirect effects (C' + AB in the model above). In nonlinear models, the total effect is not generally equal to the sum of the direct and indirect effects, but to a modified combination of the two.[8]
+Full versus partial mediation[edit]
+A mediator variable can either account for all or some of the observed relationship between two variables.
+Full mediation
+Maximum evidence for mediation, also called full mediation, would occur if inclusion of the mediation variable drops the relationship between the independent variable and dependent variable (see pathway c in diagram above) to zero. This rarely, if ever, occurs. The most likely event is that c becomes a weaker, yet still significant path with the inclusion of the mediation effect.
+Partial mediation
+Partial mediation maintains that the mediating variable accounts for some, but not all, of the relationship between the independent variable and dependent variable. Partial mediation implies that there is not only a significant relationship between the mediator and the dependent variable, but also some direct relationship between the independent and dependent variable.
+In order for either full or partial mediation to be established, the reduction in variance explained by the independent variable must be significant as determined by one of several tests, such as the Sobel test.[9] The effect of an independent variable on the dependent variable can become nonsignificant when the mediator is introduced simply because a trivial amount of variance is explained (i.e., not true mediation). Thus, it is imperative to show a significant reduction in variance explained by the independent variable before asserting either full or partial mediation. It is possible to have statistically significant indirect effects in the absence of a total effect.[10] This can be explained by the presence of several mediating paths that cancel each other out, and become noticeable when one of the cancelling mediators is controlled for. This implies that the terms 'partial' and 'full' mediation should always be interpreted relative to the set of variables that are present in the model. In all cases, the operation of "fixing a variable" must be distinguished from that of "controlling for a variable," which has been inappropriately used in the literature.[7][11] The former stands for physically fixing, while the latter stands for conditioning on, adjusting for, or adding to the regression model. The two notions coincide only when all error terms (not shown in the diagram) are statistically uncorrelated. When errors are correlated, adjustments must be made to neutralize those correlations before embarking on mediation analysis (see Bayesian Networks).
+Sobel's test[edit]
+Main article: Sobel test
+As mentioned above, Sobel’s test[9] is performed to determine if the relationship between the independent variable and dependent variable has been significantly reduced after inclusion of the mediator variable. In other words, this test assesses whether a mediation effect is significant. It examines the relationship between the independent variable and the dependent variable compared to the relationship between the independent variable and dependent variable including the mediation factor.
+The Sobel test is more accurate than the Baron and Kenny steps explained above; however, it does have low statistical power. As such, large sample sizes are required in order to have sufficient power to detect significant effects. This is because the key assumption of Sobel’s test is the assumption of normality. Because Sobel’s test evaluates a given sample on the normal distribution, small sample sizes and skewness of the sampling distribution can be problematic (see Normal distribution for more details). Thus, the rule of thumb as suggested by MacKinnon et al., (2002) [12] is that a sample size of 1000 is required to detect a small effect, a sample size of 100 is sufficient in detecting a medium effect, and a sample size of 50 is required to detect a large effect.
+Preacher and Hayes (2004) bootstrap method[edit]
+The bootstrapping method provides some advantages to the Sobel’s test, primarily an increase in power. The Preacher and Hayes Bootstrapping method is a non-parametric test (See Non-parametric statistics for a discussion on non parametric tests and their power). As such, the bootstrap method does not violate assumptions of normality and is therefore recommended for small sample sizes. Bootstrapping involves repeatedly randomly sampling observations with replacement from the data set to compute the desired statistic in each resample. Over hundreds, or thousands, of bootstrap resamples provide an approximation of the sampling distribution of the statistic of interest. Hayes offers a macro <http://www.afhayes.com/> that calculates bootstrapping directly within SPSS, a computer program used for statistical analyses. This method provides point estimates and confidence intervals by which one can assess the significance or nonsignificance of a mediation effect. Point estimates reveal the mean over the number of bootstrapped samples and if zero does not fall between the resulting confidence intervals of the bootstrapping method, one can confidently conclude that there is a significant mediation effect to report.
+Significance of mediation[edit]
+As outlined above, there are a few different options one can choose from to evaluate a mediation model.
+Bootstrapping[13][14] is becoming the most popular method of testing mediation because it does not require the normality assumption to be met, and because it can be effectively utilized with smaller sample sizes (N < 25). However, mediation continues to be most frequently determined using the logic of Baron and Kenny [15] or the Sobel test. It is becoming increasingly more difficult to publish tests of mediation based purely on the Baron and Kenny method or tests that make distributional assumptions such as the Sobel test. Thus, it is important to consider your options when choosing which test to conduct.[10]
+Approaches to mediation[edit]
+While the concept of mediation as defined within psychology is theoretically appealing, the methods used to study mediation empirically have been challenged by statisticians and epidemiologists[7][11][16] and interpreted formally.[8]
+(1) Experimental-causal-chain design
+An experimental-causal-chain design is used when the proposed mediator is experimentally manipulated. Such a design implies that one manipulates some controlled third variable that they have reason to believe could be the underlying mechanism of a given relationship.
+(2) Measurement-of-mediation design
+A measurement-of-mediation design can be conceptualized as a statistical approach. Such a design implies that one measures the proposed intervening variable and then uses statistical analyses to establish mediation. This approach does not involve manipulation of the hypothesized mediating variable, but only involves measurement.[17]
+Criticisms of mediation measurement[edit]
+Experimental approaches to mediation must be carried out with caution. First, it is important to have strong theoretical support for the exploratory investigation of a potential mediating variable. A criticism of a mediation approach rests on the ability to manipulate and measure a mediating variable. Thus, one must be able to manipulate the proposed mediator in an acceptable and ethical fashion. As such, one must be able to measure the intervening process without interfering with the outcome. The mediator must also be able to establish construct validity of manipulation. One of the most common criticisms of the measurement-of-mediation approach is that it is ultimately a correlational design. Consequently, it is possible that some other third variable, independent from the proposed mediator, could be responsible for the proposed effect. However, researchers have worked hard to provide counter evidence to this disparagement. Specifically, the following counter arguments have been put forward:[3]
+(1) Temporal precedence. For example, if the independent variable precedes the dependent variable in time, this would provide evidence suggesting a directional, and potentially causal, link from the independent variable to the dependent variable.
+(2) Nonspuriousness and/or no confounds. For example, should one identify other third variables and prove that they do not alter the relationship between the independent variable and the dependent variable he/she would have a stronger argument for their mediation effect. See other 3rd variables below.
+Mediation can be an extremely useful and powerful statistical test, however it must be used properly. It is important that the measures used to assess the mediator and the dependent variable are theoretically distinct and that the independent variable and mediator cannot interact. Should there be an interaction between the independent variable and the mediator one would have grounds to investigate moderation.
+Other third variables[edit]
+(1) Confounding:
+
+Another model that is often tested is one in which competing variables in the model are alternative potential mediators or an unmeasured cause of the dependent variable. An additional variable in a causal model may obscure or confound the relationship between the independent and dependent variables. Potential confounders are variables that may have a causal impact on both the independent variable and dependent variable. They include common sources of measurement error (as discussed above) as well as other influences shared by both the independent and dependent variables.
+
+In experimental studies, there is a special concern about aspects of the experimental manipulation or setting that may account for study effects, rather than the motivating theoretical factor. Any of these problems may produce spurious relationships between the independent and dependent variables as measured. Ignoring a confounding variable may bias empirical estimates of the causal effect of the independent variable.
+(2) Suppression:
+
+Suppression variables increase the predictive validity of another variable by its inclusion into a regression equation. For example, higher intelligence scores (X) cause a decrease in errors made at work on an assembly line (Y). However an increase in intelligence (X) could cause an increase in errors made on an assembly line (Y) as it may also relate to an increase in boredom while at work (Z) thereby introducing an element of carelessness resulting in a higher percentage of errors made on the job. Such a suppressor variable will lead to an increase in magnitude of the relationship between two variables.
+
+In general, the omission of suppressors or confounders will lead to either an underestimation or an overestimation of the effect of X on Y, thereby either reducing or artificially inflating the magnitude of a relationship between two variables.
+(3) Moderators:
+
+Other important third variables are moderators. Moderators are variables that can make the relationship between two variables either stronger or weaker. Such variables further characterize interactions in regression by affecting the direction and/or strength of the relationship between X and Y. A moderating relationship can be thought of as an interaction. It occurs when the relationship between variables A and B depends on the level of C. See moderation for further discussion.
+
+Moderated mediation[edit]
+Mediation and moderation can co-occur in statistical models. It is possible to mediate moderation and moderate mediation.
+Moderated mediation is when the effect of the treatment A on the mediator and/or the partial effect B on the dependent variable depend in turn on levels of another variable (moderator). Essentially, in moderated mediation, mediation is first established, and then one investigates if the mediation effect that describes the relationship between the independent variable and dependent variable is moderated by different levels of another variable (i.e., a moderator). This definition has been outlined by Muller, Judd, and Yzerbyt (2005)[18] and Preacher, Rucker, and Hayes (2007).[19]
+Models of moderated mediation[edit]
+There are five possible models of moderated mediation, as illustrated in the diagrams below.[18]
+
+In the first model the independent variable also moderates the relationship between the mediator and the dependent variable.
+The second possible model of moderated mediation involves a new variable which moderates the relationship between the independent variable and the mediator (the A path).
+The third model of moderated mediation involves a new moderator variable which moderates the relationship between the mediator and the dependent variable (the B path).
+Moderated mediation can also occur when one moderating variable affects both the relationship between the independent variable and the mediator (the A path) and the relationship between the mediator and the dependent variable (the B path).
+The fifth and final possible model of moderated mediation involves two new moderator variables, one moderating the A path and the other moderating the B path.
+
+
+
+
+
+
+
+
+
+First option: independent variable moderates the B path.
+
+
+
+
+
+
+
+
+
+
+Second option: fourth variable moderates the A path.
+
+
+
+
+
+
+
+
+
+
+Third option: fourth variable moderates the B path.
+
+
+
+
+
+
+
+
+
+
+Fourth option: fourth variable moderates both the A path and the B path.
+
+
+
+
+
+
+
+
+
+
+Fifth option: fourth variable moderates the A path and a fifth variable moderates the B path.
+
+
+
+
+
+
+Mediated moderation[edit]
+Mediated moderation is a variant of both moderation and mediation. This is where there is initially overall moderation and the direct effect of the moderator variable on the outcome is mediated. The main difference between mediated moderation and moderated mediation is that for the former there is initial (overall) moderation and this effect is mediated and for the latter there is no moderation but the effect of either the treatment on the mediator (path A) is moderated or the effect of the mediator on the outcome (path B) is moderated.[18]
+In order to establish mediated moderation, one must first establish moderation, meaning that the direction and/or the strength of the relationship between the independent and dependent variables (path C) differs depending on the level of a third variable (the moderator variable). Researchers next look for the presence of mediated moderation when they have a theoretical reason to believe that there is a fourth variable that acts as the mechanism or process that causes the relationship between the independent variable and the moderator (path A) or between the moderator and the dependent variable (path C).
+Example
+The following is a published example of mediated moderation in psychological research.[20] Participants were presented with an initial stimulus (a prime) that made them think of morality or made them think of might. They then participated in the Prisoner’s Dilemma Game (PDG), in which participants pretend that they and their partner in crime have been arrested, and they must decide whether to remain loyal to their partner or to compete with their partner and cooperate with the authorities. The researchers found that prosocial individuals were affected by the morality and might primes, whereas proself individuals were not. Thus, social value orientation (proself vs. prosocial) moderated the relationship between the prime (independent variable: morality vs. might) and the behaviour chosen in the PDG (dependent variable: competitive vs. cooperative).
+The researchers next looked for the presence of a mediated moderation effect. Regression analyses revealed that the type of prime (morality vs. might) mediated the moderating relationship of participants’ social value orientation on PDG behaviour. Prosocial participants who experienced the morality prime expected their partner to cooperate with them, so they chose to cooperate themselves. Prosocial participants who experienced the might prime expected their partner to compete with them, which made them more likely to compete with their partner and cooperate with the authorities. In contrast, participants with a pro-self social value orientation always acted competitively.
+Regression equations for moderated mediation and mediated moderation[edit]
+Muller, Judd, and Yzerbyt (2005)[18] outline three fundamental models that underlie both moderated mediation and mediated moderation. Mo represents the moderator variable(s), Me represents the mediator variable(s), and εi represents the measurement error of each regression equation.
+
+Step 1: Moderation of the relationship between the independent variable (X) and the dependent variable (Y), also called the overall treatment effect (path C in the diagram).
+
+
+
+
+
+Y
+=
+
+β
+
+40
+
+
++
+
+β
+
+41
+
+
+X
++
+
+β
+
+42
+
+
+M
+o
++
+
+β
+
+43
+
+
+X
+M
+o
++
+
+ε
+
+4
+
+
+
+
+{\displaystyle Y=\beta _{40}+\beta _{41}X+\beta _{42}Mo+\beta _{43}XMo+\varepsilon _{4}}
+
+
+
+
+To establish overall moderation, the β43 regression weight must be significant (first step for establishing mediated moderation).
+Establishing moderated mediation requires that there be no moderation effect, so the β43 regression weight must not be significant.
+
+Step 2: Moderation of the relationship between the independent variable and the mediator (path A).
+
+
+
+
+
+M
+e
+=
+
+β
+
+50
+
+
++
+
+β
+
+51
+
+
+X
++
+
+β
+
+52
+
+
+M
+o
++
+
+β
+
+53
+
+
+X
+M
+o
++
+
+ε
+
+5
+
+
+
+
+{\displaystyle Me=\beta _{50}+\beta _{51}X+\beta _{52}Mo+\beta _{53}XMo+\varepsilon _{5}}
+
+
+
+
+If the β53 regression weight is significant, the moderator affects the relationship between the independent variable and the mediator.
+
+Step 3: Moderation of both the relationship between the independent and dependent variables (path A) and the relationship between the mediator and the dependent variable (path B).
+
+
+
+
+
+Y
+=
+
+β
+
+60
+
+
++
+
+β
+
+61
+
+
+X
++
+
+β
+
+62
+
+
+M
+o
++
+
+β
+
+63
+
+
+X
+M
+o
++
+
+β
+
+64
+
+
+M
+e
++
+
+β
+
+65
+
+
+M
+e
+M
+o
++
+
+ε
+
+6
+
+
+
+
+{\displaystyle Y=\beta _{60}+\beta _{61}X+\beta _{62}Mo+\beta _{63}XMo+\beta _{64}Me+\beta _{65}MeMo+\varepsilon _{6}}
+
+
+
+
+If both β53 in step 2 and β63 in step 3 are significant, the moderator affects the relationship between the independent variable and the mediator (path A).
+If both β53 in step 2 and β65 in step 3 are significant, the moderator affects the relationship between the mediator and the dependent variable (path B).
+Either or both of the conditions above may be true.
+
+Causal mediation analysis[edit]
+Fixing versus conditioning[edit]
+Mediation analysis quantifies the extent to which a variable participates in the transmittance of change from a cause to its effect. It is inherently a causal notion, hence it cannot be defined in statistical terms. Traditionally, however, the bulk of mediation analysis has been conducted within the confines of linear regression, with statistical terminology masking the causal character of the relationships involved. This led to difficulties, biases, and limitations that have been alleviated by modern methods of causal analysis, based on causal diagrams and counterfactual logic.
+The source of these difficulties lies in defining mediation in terms of changes induced by adding a third variables into a regression equation. Such statistical changes are epiphenomena which sometimes accompany mediation but, in general, fail to capture the causal relationships that mediation analysis aims to quantify.
+The basic premise of the causal approach is that it is not always appropriate to "control" for the mediator M when we seek to estimate the direct effect of X on Y (see the Figure above). The classical rationale for "controlling" for M" is that, if we succeed in preventing M from changing, then whatever changes we measure in Y are attributable solely to variations in X and we are justified then in proclaiming the effect observed as "direct effect of X on Y." Unfortunately, "controlling for M" does not physically prevent M from changing; it merely narrows the analyst's attention to cases of equal M values. Moreover, the language of probability theory does not possess the notation to express the idea of "preventing M from changing" or "physically holding M constant". The only operator probability provides is "Conditioning" which is what we do when we "control" for M, or add M as a regressor in the equation for Y. The result is that, instead of physically holding M" constant (say at M = m) and comparing Y for units under X = 1' to those under X = 0, we allow M to vary but ignore all units except those in which M achieves the value M = m. These two operations are fundamentally different, and yield different results,[21][22] except in the case of no omitted variables.
+To illustrate, assume that the error terms of M and Y are correlated. Under such conditions, the structural coefficient B and A (between M and Y and between Y and X) can no longer be estimated by regressing Y on X and M. In fact, the regression slopes may both be nonzero even when C is zero.[23] This has two consequences. First, new strategies must be devised for estimating the structural coefficients A,B and C. Second, the basic definitions of direct and indirect effects must go beyond regression analysis, and should invoke an operation that mimics "fixing M", rather than "conditioning on M."
+Definitions[edit]
+Such an operator, denoted do(M = m), was defined in Pearl (1994)[22] and it operates by removing the equation of M and replacing it by a constant m. For example, if the basic mediation model consists of the equations:
+
+
+
+
+
+X
+=
+f
+(
+
+ε
+
+1
+
+
+)
+,
+ 
+ 
+M
+=
+g
+(
+X
+,
+
+ε
+
+2
+
+
+)
+,
+ 
+ 
+Y
+=
+h
+(
+X
+,
+M
+,
+
+ε
+
+3
+
+
+)
+,
+
+
+{\displaystyle X=f(\varepsilon _{1}),~~M=g(X,\varepsilon _{2}),~~Y=h(X,M,\varepsilon _{3}),}
+
+
+
+then after applying the operator do(M = m) the model becomes:
+
+
+
+
+
+X
+=
+f
+(
+
+ε
+
+1
+
+
+)
+,
+ 
+ 
+M
+=
+m
+,
+ 
+ 
+Y
+=
+h
+(
+X
+,
+m
+,
+
+ε
+
+3
+
+
+)
+
+
+{\displaystyle X=f(\varepsilon _{1}),~~M=m,~~Y=h(X,m,\varepsilon _{3})}
+
+
+
+and after applying the operator do(X = x) the model becomes:
+
+
+
+
+
+X
+=
+x
+,
+M
+=
+g
+(
+x
+,
+
+ε
+
+2
+
+
+)
+,
+Y
+=
+h
+(
+x
+,
+M
+,
+
+ε
+
+3
+
+
+)
+
+
+{\displaystyle X=x,M=g(x,\varepsilon _{2}),Y=h(x,M,\varepsilon _{3})}
+
+
+
+where the functions f and g, as well as the distributions of the error terms ε1 and ε3 remain unaltered. If we further rename the variables M and Y resulting from do(X = x) as M(x) and Y(x), respectively, we obtain what came to be known as "potential outcomes"[24] or "structural counterfactuals".[25] These new variables provide convenient notation for defining direct and indirect effects. In particular, four types of effects have been defined for the transition from X = 0 to X = 1:
+(a) Total effect –
+
+
+
+
+
+T
+E
+=
+E
+[
+Y
+(
+1
+)
+−
+Y
+(
+0
+)
+]
+
+
+{\displaystyle TE=E[Y(1)-Y(0)]}
+
+
+
+(b) Controlled direct effect -
+
+
+
+
+
+C
+D
+E
+(
+m
+)
+=
+E
+[
+Y
+(
+1
+,
+m
+)
+−
+Y
+(
+0
+,
+m
+)
+]
+
+
+{\displaystyle CDE(m)=E[Y(1,m)-Y(0,m)]}
+
+
+
+(c) Natural direct effect -
+
+
+
+
+
+N
+D
+E
+=
+E
+[
+Y
+(
+1
+,
+M
+(
+0
+)
+)
+−
+Y
+(
+0
+,
+M
+(
+0
+)
+)
+]
+
+
+{\displaystyle NDE=E[Y(1,M(0))-Y(0,M(0))]}
+
+
+
+(d) Natural indirect effect
+
+
+
+
+
+N
+I
+E
+=
+E
+[
+Y
+(
+0
+,
+M
+(
+1
+)
+)
+−
+Y
+(
+0
+,
+M
+(
+0
+)
+)
+]
+
+
+{\displaystyle NIE=E[Y(0,M(1))-Y(0,M(0))]}
+
+
+
+Where E[ ] stands for expectation taken over the error terms.
+These effects have the following interpretations:
+
+TE measures the expected increase in the outcome Y as X changes from X=0 to X =1, while the mediator is allowed to track the change in X as dictated by the function M = g(X, ε2).
+CDE measures the expected increase in the outcome Y as X changes from X = 0 to X = 1, while the mediator is fixed at a pre-specified level M = m uniformly over the entire population
+NDE measures the expected increase in Y as X changes from X = 0 to X = 1, while setting the mediator variable to whatever value it would have obtained under X = 0, i.e., before the change.
+NIE measures the expected increase in Y when the X is held constant, at X = 0, and M changes to whatever value it would have attained (for each individual) under X = 1.
+The difference TE-NDE measures the extent to which mediation is necessary for explaining the effect, while the NIE measures the extent to which mediation is sufficient for sustaining it.
+
+A controlled version of the indirect effect does not exist because there is no way of disabling the direct effect by fixing a variable to a constant.
+According to these definitions the total effect can be decomposed as a sum
+
+
+
+
+
+T
+E
+=
+N
+D
+E
+−
+N
+I
+
+E
+
+r
+
+
+
+
+{\displaystyle TE=NDE-NIE_{r}}
+
+
+
+where NIEr stands for the reverse transition, from X = 1 to X = 0; it becomes additive in linear systems, where reversal of transitions entails sign reversal.
+The power of these definitions lies in their generality; they are applicable to models with arbitrary nonlinear interactions, arbitrary dependencies among the disturbances, and both continuous and categorical variables.
+The mediation formula[edit]
+In linear analysis, all effects are determined by sums of products of structural coefficients, giving
+
+
+
+
+
+
+
+
+
+T
+E
+
+
+
+=
+C
++
+A
+B
+
+
+
+
+C
+D
+E
+(
+m
+)
+
+
+
+=
+N
+D
+E
+=
+C
+,
+
+ independent of 
+
+m
+
+
+
+
+N
+I
+E
+
+
+
+=
+A
+B
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}TE&=C+AB\\CDE(m)&=NDE=C,{\text{ independent of }}m\\NIE&=AB.\end{aligned}}}
+
+
+
+Therefore, all effects are estimable whenever the model is identified. In non-linear systems, more stringent conditions are needed for estimating the direct and indirect effects [8][26] .[27] For example, if no confounding exists, (i.e., ε1, ε2, and ε3 are mutually independent) the following formulas can be derived:[8]
+
+
+
+
+
+
+
+
+
+T
+E
+
+
+
+=
+E
+(
+Y
+∣
+X
+=
+1
+)
+−
+E
+(
+Y
+∣
+X
+=
+0
+)
+
+
+
+
+C
+D
+E
+(
+m
+)
+
+
+
+=
+E
+(
+Y
+∣
+X
+=
+1
+,
+M
+=
+m
+)
+−
+E
+(
+Y
+∣
+X
+=
+0
+,
+M
+=
+m
+)
+
+
+
+
+N
+D
+E
+
+
+
+=
+
+∑
+
+m
+
+
+[
+E
+(
+Y
+
+|
+
+X
+=
+1
+,
+M
+=
+m
+)
+−
+E
+(
+Y
+∣
+X
+=
+0
+,
+M
+=
+m
+)
+]
+P
+(
+M
+=
+m
+∣
+X
+=
+0
+)
+
+
+
+
+N
+I
+E
+
+
+
+=
+
+∑
+
+m
+
+
+[
+P
+(
+M
+=
+m
+∣
+X
+=
+1
+)
+−
+P
+(
+M
+=
+m
+∣
+X
+=
+0
+)
+]
+E
+(
+Y
+∣
+X
+=
+0
+,
+M
+=
+m
+)
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}TE&=E(Y\mid X=1)-E(Y\mid X=0)\\CDE(m)&=E(Y\mid X=1,M=m)-E(Y\mid X=0,M=m)\\NDE&=\sum _{m}[E(Y|X=1,M=m)-E(Y\mid X=0,M=m)]P(M=m\mid X=0)\\NIE&=\sum _{m}[P(M=m\mid X=1)-P(M=m\mid X=0)]E(Y\mid X=0,M=m).\end{aligned}}}
+
+
+
+The last two equations are called Mediation Formulas [28][29][30] and have become the target of estimation in many studies of mediation.[26][27][29][30] They give distribution-free expressions for direct and indirect effects and demonstrate that, despite the arbitrary nature of the error distributions and the functions f, g, and h, mediated effects can nevertheless be estimated from data using regression. The analyses of moderated mediation and mediating moderators fall as special cases of the causal mediation analysis, and the mediation formulas identify how various interactions coefficients contribute to the necessary and sufficient components of mediation.[27][28]
+Example[edit]
+Assume the model takes the form
+
+
+
+
+
+
+
+
+
+X
+
+
+
+=
+
+ε
+
+1
+
+
+
+
+
+
+M
+
+
+
+=
+
+b
+
+0
+
+
++
+
+b
+
+1
+
+
+X
++
+
+ε
+
+2
+
+
+
+
+
+
+Y
+
+
+
+=
+
+c
+
+0
+
+
++
+
+c
+
+1
+
+
+X
++
+
+c
+
+2
+
+
+M
++
+
+c
+
+3
+
+
+X
+M
++
+
+ε
+
+3
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}X&=\varepsilon _{1}\\M&=b_{0}+b_{1}X+\varepsilon _{2}\\Y&=c_{0}+c_{1}X+c_{2}M+c_{3}XM+\varepsilon _{3}\end{aligned}}}
+
+
+
+where the parameter 
+
+
+
+
+c
+
+3
+
+
+
+
+{\displaystyle c_{3}}
+
+ quantifies the degree to which M modifies the effect of X on Y. Even when all parameters are estimated from data, it is still not obvious what combinations of parameters measure the direct and indirect effect of X on Y, or, more practically, how to assess the fraction of the total effect 
+
+
+
+T
+E
+
+
+{\displaystyle TE}
+
+ that is explained by mediation and the fraction of 
+
+
+
+T
+E
+
+
+{\displaystyle TE}
+
+ that is owed to mediation. In linear analysis, the former fraction is captured by the product 
+
+
+
+
+b
+
+1
+
+
+
+c
+
+2
+
+
+
+/
+
+T
+E
+
+
+{\displaystyle b_{1}c_{2}/TE}
+
+, the latter by the difference 
+
+
+
+(
+T
+E
+−
+
+c
+
+1
+
+
+)
+
+/
+
+T
+E
+
+
+{\displaystyle (TE-c_{1})/TE}
+
+, and the two quantities coincide. In the presence of interaction, however, each fraction demands a separate analysis, as dictated by the Mediation Formula, which yields:
+
+
+
+
+
+
+
+
+
+N
+D
+E
+
+
+
+=
+
+c
+
+1
+
+
++
+
+b
+
+0
+
+
+
+c
+
+3
+
+
+
+
+
+
+N
+I
+E
+
+
+
+=
+
+b
+
+1
+
+
+
+c
+
+2
+
+
+
+
+
+
+T
+E
+
+
+
+=
+
+c
+
+1
+
+
++
+
+b
+
+0
+
+
+
+c
+
+3
+
+
++
+
+b
+
+1
+
+
+(
+
+c
+
+2
+
+
++
+
+c
+
+3
+
+
+)
+
+
+
+
+
+
+=
+N
+D
+E
++
+N
+I
+E
++
+
+b
+
+1
+
+
+
+c
+
+3
+
+
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}NDE&=c_{1}+b_{0}c_{3}\\NIE&=b_{1}c_{2}\\TE&=c_{1}+b_{0}c_{3}+b_{1}(c_{2}+c_{3})\\&=NDE+NIE+b_{1}c_{3}.\end{aligned}}}
+
+
+
+Thus, the fraction of output response for which mediation would be sufficient is
+
+
+
+
+
+
+
+
+N
+I
+E
+
+
+T
+E
+
+
+
+=
+
+
+
+
+b
+
+1
+
+
+
+c
+
+2
+
+
+
+
+
+c
+
+1
+
+
++
+
+b
+
+0
+
+
+
+c
+
+3
+
+
++
+
+b
+
+1
+
+
+(
+
+c
+
+2
+
+
++
+
+c
+
+3
+
+
+)
+
+
+
+,
+
+
+{\displaystyle {\frac {NIE}{TE}}={\frac {b_{1}c_{2}}{c_{1}+b_{0}c_{3}+b_{1}(c_{2}+c_{3})}},}
+
+
+
+while the fraction for which mediation would be necessary is
+
+
+
+
+
+1
+−
+
+
+
+N
+D
+E
+
+
+T
+E
+
+
+
+=
+
+
+
+
+b
+
+1
+
+
+(
+
+c
+
+2
+
+
++
+
+c
+
+3
+
+
+)
+
+
+
+c
+
+1
+
+
++
+
+b
+
+0
+
+
+
+c
+
+3
+
+
++
+
+b
+
+1
+
+
+(
+
+c
+
+2
+
+
++
+
+c
+
+3
+
+
+)
+
+
+
+.
+
+
+{\displaystyle 1-{\frac {NDE}{TE}}={\frac {b_{1}(c_{2}+c_{3})}{c_{1}+b_{0}c_{3}+b_{1}(c_{2}+c_{3})}}.}
+
+
+
+These fractions involve non-obvious combinations of the model's parameters, and can be constructed mechanically with the help of the Mediation Formula. Significantly, due to interaction, a direct effect can be sustained even when the parameter 
+
+
+
+
+c
+
+1
+
+
+
+
+{\displaystyle c_{1}}
+
+ vanishes and, moreover, a total effect can be sustained even when both the direct and indirect effects vanish. This illustrates that estimating parameters in isolation tells us little about the effect of mediation and, more generally, mediation and moderation are intertwined and cannot be assessed separately.
+References[edit]
+As of 19 June 2014, this article is derived in whole or in part from Causal Analysis in Theory and Practice. The copyright holder has licensed the content in a manner that permits reuse under CC BY-SA 3.0 and GFDL. All relevant terms must be followed.
+
+Notes
+
+
+
+^ "Types of Variables" (PDF). University of Indiana. 
+^ MacKinnon, D. P. (2008). Introduction to Statistical Mediation Analysis. New York: Erlbaum.
+^ a b Cohen, J.; Cohen, P.; West, S. G.; Aiken, L. S. (2003) Applied multiple regression/correlation analysis for the behavioral sciences (3rd ed.). Mahwah, NJ: Erlbaum.
+^ Baron, R. M. and Kenny, D. A. (1986) "The Moderator-Mediator Variable Distinction in Social Psychological Research – Conceptual, Strategic, and Statistical Considerations", Journal of Personality and Social Psychology, Vol. 51(6), pp. 1173–1182.
+^ Howell, D. C. (2009). Statistical methods for psychology (7th ed.). Belmot, CA: Cengage Learning.
+^ Shrout, P. E.; Bolger, N. (2002). "Mediation in experimental and nonexperimental studies: New procedures and recommendations". Psychological Methods. 7 (4): 422–445. doi:10.1037/1082-989x.7.4.422. 
+^ a b c Robins, J. M.; Greenland, S. (1992). "Identifiability and exchangeability for direct and indirect effects". Epidemiology. 3 (2): 143–55. doi:10.1097/00001648-199203000-00013. PMID 1576220. 
+^ a b c d e Pearl, J. (2001) "Direct and indirect effects". Proceedings of the Seventeenth Conference on Uncertainty in Artificial Intelligence, Morgan Kaufmann, 411–420.
+^ a b Sobel, M. E. (1982). "Asymptotic confidence intervals for indirect effects in structural equation models". Sociological Methodology. 13: 290–312. doi:10.2307/270723. JSTOR 270723. 
+^ a b Hayes, A. F. (2009). "Beyond Baron and Kenny: Statistical mediation analysis in the new millennium". Communication Monographs. 76 (4): 408–420. doi:10.1080/03637750903310360. 
+^ a b Kaufman, J. S.; MacLehose, R. F.; Kaufman, S (2004). "A further critique of the analytic strategy of adjusting for covariates to identify biologic mediation". Epidemiologic perspectives & innovations : EP+I. 1: 4. doi:10.1186/1742-5573-1-4. PMC 526390 . PMID 15507130. 
+^ MacKinnon, D. P.; Lockwood, C. M.; Lockwood, J. M.; West, S. G.; Sheets, V. (2002). "A comparison of methods to test mediation and other intervening variable effects". Psychol Methods. 7 (1): 83–104. doi:10.1037/1082-989x.7.1.83. PMC 2819363 . PMID 11928892. 
+^ "Testing of Mediation Models in SPSS and SAS". Comm.ohio-state.edu. Retrieved 2012-05-16. 
+^ "SPSS and SAS Macro for Bootstrapping Specific Indirect Effects in Multiple Mediation Models". Comm.ohio-state.edu. Retrieved 2012-05-16. 
+^ "Mediation". davidakenny.net. Retrieved April 25, 2012.
+^ Bullock, J. G.; Green, D. P.; Ha, S. E. (2010). "Yes, but what's the mechanism? (don't expect an easy answer)" (PDF). Journal of Personality and Social Psychology. 98 (4): 550–8. doi:10.1037/a0018933. PMID 20307128. 
+^ Spencer, S. J.; Zanna, M. P.; Fong, G. T. (2005). "Establishing a causal chain: Why experiments are often more effective than mediational analyses in examining psychological processes" (PDF). Journal of Personality and Social Psychology. 89 (6): 845–51. doi:10.1037/0022-3514.89.6.845. PMID 16393019. 
+^ a b c d Muller, D.; Judd, C. M.; Yzerbyt, V. Y. (2005). "When moderation is mediated and mediation is moderated". Journal of Personality and Social Psychology. 89 (6): 852–863. doi:10.1037/0022-3514.89.6.852. PMID 16393020. 
+^ Preacher, K. J., Rucker, D. D. & Hayes, A. F. (2007). Assessing moderated mediation hypotheses: Strategies, methods, and prescriptions. Multivariate Behavioral Research, 42, 185–227.
+^ Smeesters, D.; Warlop, L.; Avermaet, E. V.; Corneille, O.; Yzerbyt, V. (2003). "Do not prime hawks with doves: The interplay of construct activation and consistency of social value orientation on cooperative behavior". Journal of Personality and Social Psychology. 84 (5): 972–987. doi:10.1037/0022-3514.84.5.972. PMID 12757142. 
+^ Robins, J.M.; Greenland, S. (1992). "Identifiability and exchangeability for direct and indirect effects". Epidemiology. 3 (2): 143–155. doi:10.1097/00001648-199203000-00013. PMID 1576220. 
+^ a b Pearl, Judea (1994). Lopez de Mantaras, R.; Poole, D., eds. "A probabilistic calculus of actions". Uncertainty in Artificial Intelligence 10. San Mateo, CA: Morgan Kaufmann. 1302: 454–462. arXiv:1302.6835  [cs.AI]. Bibcode:2013arXiv1302.6835P. 
+^ Pearl, J (2014). "Interpretation and identification of causal mediation" (PDF). Psychological Methods. 19 (4): 459–81. doi:10.1037/a0036434. PMID 24885338. 
+^ Rubin, D.B. (1974). "Estimating causal effects of treatments in randomized and nonrandomized studies". Journal of Educational Psychology. 66 (5): 688–701. doi:10.1037/h0037350. 
+^ Balke, A.; Pearl, J. (1995). Besnard, P.; Hanks, S., eds. "Counterfactuals and Policy Analysis in Structural Models". Uncertainty in Artificial Intelligence 11. San Francisco, CA: Morgan Kaufmann. 1302: 11–18. arXiv:1302.4929  [cs.AI]. Bibcode:2013arXiv1302.4929B. 
+^ a b Imai, K.; Keele, L.; Yamamoto, T. (2010). "Identification, inference, and sensitivity analysis for causal mediation effects". Statistical Science. 25 (1): 51–71. doi:10.1214/10-sts321. 
+^ a b c VanderWeele, T.J. (2009). "Marginal structural models for the estimation of direct and indirect effects". Epidemiology. 20 (1): 18–26. doi:10.1097/ede.0b013e31818f69ce. PMID 19234398. 
+^ a b Pearl, Judea (2009). "Causal inference in statistics: An overview" (PDF). Statistics Surveys. 3: 96–146. doi:10.1214/09-ss057. 
+^ a b Vansteelandt, Stijn; Bekaert, Maarten; Lange, Theis (2012). "Imputation strategies for the estimation of natural direct and indirect effects". Epidemiologic Methods. 1 (1, Article 7). doi:10.1515/2161-962X.1014. 
+^ a b Albert, Jeffrey (2012). "Distribution-Free Mediation Analysis for Nonlinear Models with Confounding". Epidemiology. 23 (6): 879. doi:10.1097/ede.0b013e31826c2bb9. 
+
+
+
+Bibliography
+
+
+Preacher, Kristopher J.; Hayes, Andrew F. (2004). "SPSS and SAS procedures for estimating indirect effects in simple mediation models". Behavior Research Methods, Instruments, and Computers. 36 (4): 717–731. doi:10.3758/BF03206553. 
+Preacher, Kristopher J.; Hayes, Andrew F. (2008). "Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator models". Behavior Research Methods. 40 (3): 879–891. doi:10.3758/BRM.40.3.879. PMID 18697684. 
+Preacher, K. J.; Zyphur, M. J.; Zhang, Z. (2010). "A general multilevel SEM framework for assessing multilevel mediation". Psychological Methods. 15 (3): 209–233. doi:10.1037/a0020141. PMID 20822249. 
+Baron, R. M. and Kenny, D. A. (1986) "The Moderator-Mediator Variable Distinction in Social Psychological Research – Conceptual, Strategic, and Statistical Considerations", Journal of Personality and Social Psychology, Vol. 51(6), pp. 1173–1182.
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). New York, NY: Academic Press.
+Hayes, A. F. (2009). "Beyond Baron and Kenny: Statistical mediation analysis in the new millennium". Communication Monographs. 76 (4): 408–420. doi:10.1080/03637750903310360. 
+Howell, D. C. (2009). Statistical methods for psychology (7th ed.). Belmot, CA: Cengage Learning.
+MacKinnon, D. P.; Lockwood, C. M. (2003). "Advances in statistical methods for substance abuse prevention research". Prevention Science. 4 (3): 155–171. doi:10.1023/A:1024649822872. PMC 2843515 . PMID 12940467. 
+Preacher, K. J.; Kelley, K. (2011). "Effect sizes measures for mediation models: Quantitative strategies for communicating indirect effects". Psychological Methods. 16 (2): 93–115. doi:10.1037/a0022658. PMID 21500915. 
+Rucker, D.D., Preacher, K.J., Tormala, Z.L. & Petty, R.E. (2011). "Mediation analysis in social psychology: Current practices and new recommendations". Social and Personality Psychology Compass, 5/6, 359–371.
+Sobel, M. E. (1982). "Asymptotic confidence intervals for indirect effects in structural equation models". Sociological Methodology. 13: 290–312. doi:10.2307/270723. JSTOR 270723. 
+Spencer, S. J.; Zanna, M. P.; Fong, G. T. (2005). "Establishing a causal chain: why experiments are often more effective than mediational analyses in examining psychological processes". Attitudes and Social Cognition. 89 (6): 845–851. doi:10.1037/0022-3514.89.6.845. PMID 16393019. 
+Pearl, Judea (2012). "The Mediation Formula: A guide to the assessment of causal pathways in nonlinear models". In Berzuini, C.; Dawid, P.; Bernardinelli, L. Causality: Statistical Perspectives and Applications. Chichester, UK: John Wiley and Sons, Ltd. pp. 151–179. 
+Shaughnessy J.J., Zechmeister E. & Zechmeister J. (2006). Research Methods in Psychology (7th ed., pp. 51–52). New York: McGraw Hill.
+Tolman, E. C. (1938). "The Determiners of Behavior at a Choice Point". Psychological Review. 45: 1–41. doi:10.1037/h0062733. 
+Tolman, E. C.; Honzik, C. H. (1930). "Degrees of hunger, reward and nonreward, and maze learning in rats". University of California Publications in Psychology. 4: 241–275. 
+
+External links[edit]
+
+Summary of mediation methods at PsychWiki
+Example of Causal Mediation Using Propensity Scores The Methodology Center, Penn State University
+Book on moderation and mediation analysis, including an introduction to the PROCESS macro for SPSS and SAS Andrew F. Hayes, Ohio State University
+Online text of "The Determiner of Behavior at a Choice Point"
+Kenneth MacCorquodale and Paul E. Meehl (1948) ON A DISTINCTION BETWEEN HYPOTHETICAL CONSTRUCTS AND INTERVENING VARIABLES Classics in the History of Psychology, retr. 22 Aug 2011.
+
+
+
+
+
+Categories: Statistical modelsIndependence (probability theory)PsychometricsHidden categories: Articles with imported dually licensed text

@@ -1,0 +1,717 @@
+Existential therapy
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2007) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article contains content that is written like an advertisement. Please help improve it by removing promotional content and inappropriate external links, and by adding encyclopedic content written from a neutral point of view. (October 2016) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article may require copy editing for grammar, style, cohesion, tone, or spelling. You can assist by editing it. (November 2017) (Learn how and when to remove this template message)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+Existential psychotherapy is a form of psychological therapy that, like the existential philosophy which underlies it, is founded upon the belief that human existence is best understood through a direct examination of our own experiences, as well as those concepts that are universally applicable to human existence such as death, freedom, responsibility, meaning, etc.[1] Existential therapy stresses the freedom and responsibility of the individual, and aims to find ways by which individuals may live in order to facilitate a greater degree of meaning in their lives. This involves the philosophical exploration and adjustment in many areas of a person's life. Rather than being a specific means of assessing and treating patients, existential therapy is a philosophical approach to psychotherapy that emphasizes these concepts and their importance for wellbeing.[2]
+
+
+
+Contents
+
+
+1 Background
+
+1.1 Development in Europe
+1.2 Development in Britain
+1.3 Development in Canada
+
+
+2 View of the human mind
+3 Psychological dysfunction
+4 The good life
+5 Four worlds
+6 Research Support
+7 See also
+8 References
+9 Further reading
+10 External links
+
+
+
+Background[edit]
+The philosophers who are especially pertinent to the development of existential psychotherapy are those whose work was directly aimed at making sense of human existence, but the fields of phenomenology and existential philosophy are especially and directly responsible for the generation of existential therapy.
+The starting point of existential philosophy (see Warnock 1970; Macquarrie 1972; Mace 1999; Van Deurzen and Kenward 2005) can be traced back to the nineteenth century and the work of Søren Kierkegaard and Friedrich Nietzsche. Their work was in conflict with the predominant ideologies of their time and committed to the exploration of reality as it can be experienced in a passionate and personal manner.
+Soren Kierkegaard (1813–1855) protested vehemently against popular misunderstanding and abuse of Christian dogma and the so-called 'objectivity' of science (Kierkegaard, 1841, 1844). He thought that both were ways of avoiding the anxiety inherent in human existence. He had great contempt for the way in which life was being lived by those around him and believed that truth could ultimately only be discovered subjectively by the individual in action. What was most lacking was people's courage to take the leap of faith and live with passion and commitment from the inward depth of existence. This involved a constant struggle between the finite and infinite aspects of our nature as part of the difficult task of creating a self and finding meaning. As Kierkegaard lived by his own word, he was lonely and much ridiculed during his lifetime.
+Friedrich Nietzsche (1844–1900) took this philosophy of life a step further. His starting point was the notion that God is dead, that is, the idea of God was outmoded and limiting (Nietzsche, 1861, 1874, 1886), but furthermore, that the Enlightenment -- with the newfound faith in reason and rationality -- had killed, or replaced God with a new Truth, perhaps more pernicious than the one it replaced. Science and rationality were the new "God," but a deity that was colder and less comforting than before. Nietzsche exerted a significant impact upon the development of psychology generally, but especially influenced an approach which emphasized an understanding of life from a personal perspective.[3] In exploring the various needs of the individual in relation to the ontological conditions of being, Nietzsche asserted that all things are in a state of "ontological privation", in which they long to become more than they are. This state of deprivation has major implications for the physiological and psychological needs of the individual.[4]
+While Kierkegaard and Nietzsche drew attention to the human issues that needed to be addressed, Edmund Husserl's phenomenology (Husserl, 1960, 1962; Moran, 2000) provided the method to address them in a rigorous manner. He contended that natural sciences assume the separateness of subject and object and that this kind of dualism[disambiguation needed] can only lead to error. He proposed a whole new mode of investigation and understanding of the world and our experience of it. Prejudice has to be put aside or 'bracketed', in order for us to meet the world afresh and discover what is absolutely fundamental and only directly available to us through intuition. If people want to grasp the essence of things, instead of explaining and analyzing them, they have to learn to describe and understand them.
+Max Scheler (1874-1928) developed a philosophical anthropology on the basis of a material ethic of values ("Materielle Wertethik") such opposing Immanuel Kant's ethics of duty ("Pflichtethik"). He described a hierarchical system of values that further developed phenomenological philosophy. He described the human psyche as of four layers in the analogy of the layers of the organic nature, but in the human being, it is opposed by the principle of the human spirit. Scheler's philosophy forms the basis of Viktor Frankl's logotherapy and existential analysis.
+Martin Heidegger (1889–1976) applied the phenomenological method to understanding the meaning of being (Heidegger, 1962, 1968). He argued that poetry and deep philosophical thinking can bring greater insight into what it means to be in the world that can be achieved through scientific knowledge. He explored human beings in the world in a manner that revolutionized classical ideas about the self and psychology. He recognized the importance of time, space, death, and human relatedness. He also favored hermeneutics, an old philosophical method of investigation, which is the art of interpretation. Unlike interpretation as practiced in psychoanalysis (which consists of referring a person's experience to a pre-established theoretical framework) this kind of interpretation seeks to understand how the person himself subjectively experiences something.
+Jean-Paul Sartre (1905–80) contributed many other strands of existential exploration, particularly in terms of emotions, imagination, and the person's insertion into a social and political world. The philosophy of existence, on the contrary, is carried by a wide-ranging literature, which includes many other authors than the ones mentioned above. Other existential authors include Karl Jaspers (1951, 1963), Paul Tillich, Martin Buber, and Hans-Georg Gadamer within the Germanic tradition and Albert Camus, Gabriel Marcel, Paul Ricoeur, Maurice Merleau-Ponty, Simone de Beauvoir and Emmanuel Lévinas within the French tradition (see for instance Spiegelberg, 1972, Kearney, 1986 or van Deurzen-Smith, 1997).[full citation needed]
+From the start of the 20th century, some psychotherapists were, however, inspired by phenomenology and its possibilities for working with people. Otto Rank, an Austrian psychoanalyst who broke with Freud in the mid-1920s, was the first existential therapist. Ludwig Binswanger, in Switzerland, also attempted to bring existential insights to his work with patients, in the Kreuzlingen sanatorium where he was a psychiatrist. Much of his work was translated into English during the 1940s and 1950s and, together with the immigration to the USA of Paul Tillich (Tillich, 1952) and others, this had a considerable effect on the popularization of existential ideas as a basis for therapy (Valle and King, 1978; Cooper, 2003). Rollo May played an important role in this, and his writing (1969, 1983; May et al., 1958) kept the existential influence alive in America, leading eventually to a specific formulation of therapy (Bugental, 1981; May and Yalom, 1985; Yalom, 1980). Humanistic psychology was directly influenced by these ideas. Viktor Frankl did possibly the most for spreading existential psychology in the world. He was invited by over 200 universities worldwide and accomplished over 80 journeys to North America alone, first invited by Gordon Allport at Harvard Univ.
+In Europe, after Otto Rank, existential ideas were combined with some psychoanalytic principles and a method of existential analysis was developed by Medard Boss (1957a, 1957b, 1979) in close co-operation with Heidegger. In France, the ideas of Sartre (1956, 1962) and Merleau-Ponty (1962) and of a number of practitioners (Minkowski, 1970) were important and influential, but no specific therapeutic method was developed from them.
+Development in Europe[edit]
+The European School of existential analysis is dominated by two forms of therapy: Logotherapy, and Daseinsanalysis. Logotherapy was developed by psychiatrist Viktor E. Frankl.[5] Frankel was heavily influenced by existential philosophy, as well as his own experience in the Nazi concentration camps of World War II. The three main components to Logotherapy are Freedom of Will, which is the ability to change one's life to the degree that such change is possible, Will to Meaning, which places meaning at the center of wellbeing, and Meaning in Life, which asserts the objectivity of meaning. The primary techniques of Logotherapy involve helping the clients to identify and remove any barriers to the pursuit of meaning in their own lives, to determine what is personally meaningful, and to then help patients effectively pursue related goals.[6]
+Daseinsanalysis is a psychotherapeutic system developed upon the ideas of Martin Heidegger, as well as the psychoanalytic theories of Sigmund Freud, that seeks to help the individual find autonomy and meaning in their "being in the world" (a rough translation of "dasein").[7]
+Development in Britain[edit]
+Britain became a fertile ground for the further development of the existential approach when R. D. Laing and David Cooper, often associated with the anti-psychiatry movement, took Sartre's existential ideas as the basis for their work (Laing, 1960, 1961; Cooper, 1967; Laing and Cooper, 1964). Without developing a concrete method of therapy, they critically reconsidered the notion of mental illness and its treatment. In the late 1960s, they established an experimental therapeutic community at Kingsley Hall in the East End of London, where people could come to live through their 'madness' without the usual medical treatment. They also founded the Philadelphia Association, an organization providing an alternative living, therapy, and therapeutic training from this perspective. The Philadelphia Association is still in existence today and is now committed to the exploration of the works of philosophers such as Ludwig Wittgenstein, Jacques Derrida, Levinas, and Michel Foucault as well as the work of the French psychoanalyst Jacques Lacan. It also runs a number of small therapeutic households along these lines. The Arbours Association is another group that grew out of the Kingsley Hall experiment. Founded by Joseph Berke and Schatzman in the 1970s, it now runs a training program in psychotherapy, a crisis center, and several therapeutic communities. The existential input in the Arbours has gradually been replaced with a more neo-Kleinian emphasis.
+The impetus for further development of the existential approach in Britain has largely come from the development of a number of existentially based courses in academic institutions. This started with the programs created by Emmy van Deurzen, initially at Antioch University in London and subsequently at Regent's College, London and since then at the New School of Psychotherapy and Counselling, also in London. The latter is a purely existentially based training institute, which offers postgraduate degrees validated by the University of Sheffield and Middlesex University. In the last decades, the existential approach has spread rapidly and has become a welcome alternative to established methods. There are now a number of other, mostly academic, centers in Britain that provide training in existential counselling and psychotherapy and a rapidly growing interest in the approach in the voluntary sector and in the National Health Service.
+British publications dealing with existential therapy include contributions by these authors: Jenner (de Koning and Jenner, 1982); Heaton (1988, 1994); Cohn (1994, 1997);[8] Spinelli (1997); Cooper (1989, 2002); Eleftheriadou (1994); Lemma-Wright (1994); Du Plock (1997); Strasser and Strasser (1997); van Deurzen (1997, 1998, 2002); van Deurzen and Arnold-Baker (2005); and van Deurzen and Kenward (2005). Other writers such as Lomas (1981) and Smail (1978, 1987, 1993) have published work relevant to the approach although not explicitly 'existential' in orientation. The journal of the British Society for Phenomenology regularly publishes work on existential and phenomenological psychotherapy. The Society for Existential Analysis was founded in 1988, initiated by van Deurzen. This society brings together psychotherapists, psychologists, psychiatrists, counselors, and philosophers working from an existential perspective. It offers regular fora for discussion and debate as well as major annual conferences. It publishes the Journal of the Society for Existential Analysis twice a year. It is also a member of the International Federation of Daseinsanalysis, which stimulates international exchange between representatives of the approach from around the world. An International Society for Existential Therapists also exists. It was founded in 2006 by Emmy van Deurzen and Digby Tantam, and is called the International Community of Existential Counsellors and Therapists (ICECAP).[9]
+Development in Canada[edit]
+New developments in existential therapy in the last 20 years include existential positive psychology (EPP)[10] and meaning therapy.[11][12] Different from the traditional approach to existential therapy, these new developments incorporate research findings from contemporary positive psychology.
+EPP is able to reframe the traditional issues of existential concerns into positive psychology questions that can be subjected to empirical research. It also focuses on personal growth and transformation as much as on existential anxiety.[13][14] Later, EPP was incorporated into the second wave of positive psychology (PP 2.0).
+MT is an extension of Frankl's logotherapy and America's humanistic-existential tradition; it is also pluralistic because it incorporates elements of cognitive-behavioral therapy, narrative therapy, and positive psychotherapy, with meaning as its central organizing construct. MT not only appeals to people's natural desires for happiness and significance, but also makes skillful use of their innate capacity for meaning-seeking and meaning-making. MT strikes a balance between a person-centered approach and a psycho-educational approach. At the outset of therapy, clients are informed of the use of meaning-centered interventions appropriate for their predicaments because of the empirical evidence for the vital role of meaning in healing and thriving.[15][16] MT is a comprehensive and pluralistic way to address all aspects of clients' existential concerns. Clients can benefit from MT in two ways: (1) a custom-tailored treatment to address their presenting problems, and (2) a collaborative journey to create a preferred better future.
+View of the human mind[edit]
+Existential therapy starts with the belief that although humans are essentially alone in the world, they long to be connected to others. People want to have meaning in one another's lives, but ultimately they must come to realize that they cannot depend on others for validation, and with that realization, they finally acknowledge and understand that they are fundamentally alone. The result of this revelation is anxiety in the knowledge that our validation must come from within and not from others.[17]
+Psychological dysfunction[edit]
+Because there is no single existential view, opinions about psychological dysfunction vary.
+For theorists aligned with Yalom, psychological dysfunction results from the individual's refusal or inability to deal with the normal existential anxiety that comes from confronting life's "givens": mortality, isolation, meaninglessness, and freedom.[18]
+For other theorists, there is no such thing as psychological dysfunction or mental illness.[citation needed] Every way of being is merely an expression of how one chooses to live one's life. However, one may feel unable to come to terms with the anxiety of being alone in the world. If so, an existential psychotherapist can assist one in accepting these feelings rather than trying to change them as if there is something wrong. Everyone has the freedom to choose how they are going to be in life; however, this freedom may go unpracticed. It may appear easier and safer not to make decisions that one will be responsible for. Many people will remain unaware of alternative choices in life for various societal reasons.
+The good life[edit]
+Existentialism suggests that it is possible for people to face the anxieties of life head-on and embrace the human condition of aloneness, to revel in the freedom to choose and take full responsibility for their choices. They courageously take the helm of their lives and steer in whatever direction they choose; they have the courage to be. One does not need to arrest feelings of meaninglessness, but can choose new meanings for their lives. By building, loving, and creating, one is able to live life as one's own adventure. One can accept one's own mortality and overcome the fear of death. Though the French author Albert Camus denied the specific label of existentialist, in his novel, L'Etranger, his main character Meursault ends the novel by doing just this. He accepts his mortality and rejects the constrictions of society he previously placed on himself, leaving him unencumbered and free to live his life with an unclouded mind.[citation needed] Also, Achenbach has refreshed the Socratic tradition with his own blend of philosophical counseling, as has Michel Weber with his Chromatiques Center in Belgium.
+The strictly Sartrean perspective of existential psychotherapy is generally unconcerned with the client's past; instead, the emphasis is on the choices to be made in the present and future. The counselor and the client may reflect upon how the client has answered life's questions in the past, but attention ultimately shifts to searching for a new and increased awareness in the present and enabling a new freedom and responsibility to act. The patient can then accept they are not special, and that their existence is simply coincidental, without destiny or fate. By accepting this, they can overcome their anxieties, and instead view life as moments in which they are fundamentally free.
+Four worlds[edit]
+Existential thinkers seek to avoid restrictive models that categorize or label people. Instead, they look for the universals that can be observed cross-culturally.[citation needed] There is no existential personality theory which divides humanity into types or reduces people to part components. Instead, there is a description of the different levels of experience and existence with which people are inevitably confronted. The way in which a person is in the world at a particular stage can be charted on this general map of human existence (Binswanger, 1963; Yalom, 1980; van Deurzen, 1984).
+In line with the view taken by van Deurzen,[19] one can distinguish four basic dimensions of human existence: the physical, the social, the psychological, and the spiritual. On each of these dimensions, people encounter the world and shape their attitude out of their particular take on their experience. Their orientation towards the world defines their reality. The four dimensions are obviously interwoven and provide a complex four-dimensional force field for their existence. Individuals are stretched between a positive pole of what they aspire to on each dimension and a negative pole of what they fear.
+Physical dimension On the physical dimension (Umwelt), individuals relate to their environment and to the givens of the natural world around them. This includes their attitude to the body they have, to the concrete surroundings they find themselves in, to the climate and the weather, to objects and material possessions, to the bodies of other people, their own bodily needs, to health and illness and to their own mortality. The struggle on this dimension is, in general terms, between the search for domination over the elements and natural law (as in technology, or in sports) and the need to accept the limitations of natural boundaries (as in ecology or old age). While people generally aim for security on this dimension (through health and wealth), much of life brings a gradual disillusionment and realization that such security can only be temporary. Recognizing limitations can bring a great release of tension.
+Social dimension On the social dimension (Mitwelt), individuals relate to others as they interact with the public world around them. This dimension includes their response to the culture they live in, as well as to the class and race they belong to (and also those they do not belong to). Attitudes here range from love to hate and from cooperation to competition. The dynamic contradictions can be understood in terms of acceptance versus rejection or belonging versus isolation. Some people prefer to withdraw from the world of others as much as possible. Others blindly chase public acceptance by going along with the rules and fashions of the moment. Otherwise, they try to rise above these by becoming trendsetters themselves. By acquiring fame or other forms of power, individuals can attain dominance over others temporarily. Sooner or later, however, everyone is confronted with both failure and aloneness.
+Psychological dimension On the psychological dimension (Eigenwelt), individuals relate to themselves and in this way create a personal world. This dimension includes views about their own character, their past experience, and their future possibilities. Contradictions here are often experienced in terms of personal strengths and weaknesses. People search for a sense of identity, a feeling of being substantial and having a self. But inevitably many events will confront them with evidence to the contrary and plunge them into a state of confusion or disintegration. Activity and passivity are an important polarity here. Self-affirmation and resolution go with the former and surrender and yielding with the latter. Facing the final dissolution of self that comes with personal loss and the facing of death might bring anxiety and confusion to many who have not yet given up their sense of self-importance.
+Spiritual dimension On the spiritual dimension (Überwelt) (van Deurzen, 1984), individuals relate to the unknown and thus create a sense of an ideal world, an ideology, and a philosophical outlook. It is here that they find meaning by putting all the pieces of the puzzle together for themselves. For some people, this is done by adhering to a religion or other prescriptive worldview; for others, it is about discovering or attributing meaning in a more secular or personal way. The contradictions that must be faced on this dimension are often related to the tension between purpose and absurdity, hope and despair. People create their values in search of something that matters enough to live or die for, something that may even have ultimate and universal validity. Usually, the aim is the conquest of a soul, or something that will substantially surpass mortality (as for instance in having contributed something valuable to humankind). Facing the void and the possibility of nothingness are the indispensable counterparts of this quest for the eternal.
+A structuring into the first three of these dimensions was proposed by Binswanger on the basis of Heidegger's description of Umwelt and Mitwelt and his further notion of Eigenwelt. The fourth dimension was added by van Deurzen on the basis of Heidegger's description of a spiritual world (Überwelt) in Heidegger's later work.[19][20]
+Research Support[edit]
+There has not been a large amount of research on existential therapy, and much of the research focuses on people receiving therapy who also have medical concerns, such as cancer. Despite this, some studies have indicated positive efficacy for existential therapies with certain populations. Overall, however, more research is needed before definitive scientific claims can be made.[21]
+See also[edit]
+
+
+Ludwig Binswanger
+Medard Boss
+Gestalt Therapy
+Existentialism
+Viktor Frankl
+Martin Heidegger
+Thomas Hora
+Søren Kierkegaard
+R. D. Laing
+Rollo May
+Clark Moustakas
+Karlfried Graf Dürckheim
+Friedrich Nietzsche
+Otto Rank
+Jean-Paul Sartre
+Irvin D. Yalom
+Karl Jaspers
+Martin Buber
+Contextual therapy
+Emmy van Deurzen
+William Glasser
+Metapsychiatry
+Philosophical Consultancy
+Jan Hendrik van den Berg
+Martti Olavi Siirala
+Kirk J. Schneider
+Ontological hermeneutics
+
+
+References[edit]
+
+
+^ Susan,, Iacovou,. Existential therapy : 100 key points and techniques. Weixel-Dixon, Karen, (Dual First ed.). London. ISBN 9780415644419. OCLC 907374350. 
+^ J.,, Comer, Ronald. Fundamentals of abnormal psychology (Eighth edition ed.). New York. ISBN 9781464176975. OCLC 914289944. CS1 maint: Extra text (link)
+^ Buchanan, Brett (2011). "Nietzsche-Studies-Psychology". Theory & Psychology. Vol.11(2): 283–286 – via Sage Journals. 
+^ 1921-1980., Kaufmann, Walter, (1974). Nietzsche, philosopher, psychologist, antichrist. קאופמן, וולטר ארנולד, 1921-1980. (4th ed ed.). Princeton, N.J.: Princeton University Press. ISBN 0691019835. OCLC 1246183. CS1 maint: Extra text (link)
+^ Existential therapy : legacy, vibrancy, and dialogue. Barnett, Laura, 1953-, Madison, Greg. Hove, East Sussex: Routledge. 2012. ISBN 9780415564335. OCLC 701015521. 
+^ Saraswathi, K.N. (2013). "Logotherapy". Nursing Journal of India. 104(1): 36–8. 
+^ Craig, Erik. "Daseinsanalysis: A quest for essentials". The Humanistic Psychologist. 16 (1): 1–21. doi:10.1080/08873267.1988.9976809. 
+^ Michel Weber, "Hans W. Cohn, Heidegger and the Roots of Existential Therapy, London, Continuum, 2002, SPC Series. Critical review," The Journal of the British Society for Phenomenology, Volume 36/3, October 2005, pp. 336-337.
+^ "Existential Psychotherapy". Retrieved 2007-08-29. 
+^ Wong, P. T. P. (2009). Existential positive psychology. In S. J. Lopez (Ed.), Encyclopedia of positive psychology (Vol. 1, pp. 361-368). Oxford, UK: Wiley Blackwell.
+^ Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. Journal of Contemporary Psychotherapy, 40(2), 85-99.
+^ Wong, P. T. P. (2015). Meaning therapy: Assessments and interventions. Existential Analysis, 26(1), 154-167.
+^ Wong, P. T. P. (2005). Existential and humanistic theories. In J. C. Thomas, & D. L. Segal (Eds.), Comprehensive handbook of personality and psychopathology (pp. 192-211). Hoboken, NJ: Wiley.
+^ Wong, P. T. P. (in press). Existential theoretical framework. In A. Wenzel (Ed.), The SAGE encyclopedia of abnormal and clinical psychology. New York, NY: Sage.
+^ Batthyany, A., & Russo-Netzer, P. (Eds.). (2014). Meaning in positive and existential psychology. New York, NY: Springer.
+^ Wong, P. T. P. (Ed.). (2012). The human quest for meaning: Theories, research, and applications (2nd ed.). New York, NY: Routledge.
+^ 1931-, Yalom, Irvin D.,. Existential psychotherapy. New York. ISBN 9780465021475. OCLC 6580323. 
+^ Yalom. 1980. Existential Psychotherapy
+^ a b Richard Sharf (1 January 2015). Theories of Psychotherapy & Counseling: Concepts and Cases. Cengage Learning. pp. 171–172. ISBN 978-1-305-53754-5. 
+^ Emmy van Deurzen; Raymond Kenward (12 May 2005). Dictionary of Existential Psychotherapy and Counselling. SAGE Publications. p. 112. ISBN 978-1-4462-3993-3. 
+^ Vos, Joël; Craig, Meghan; Cooper, Mick. "Existential therapies: A meta-analysis of their effects on psychological outcomes". Journal of Consulting and Clinical Psychology. 83 (1): 115–128. doi:10.1037/a0037167. 
+
+
+Further reading[edit]
+
+Frankl, Viktor (1997). Man's Search for Meaning. Pocket. 
+Yalom, I. (1980). Existential Psychotherapy. Basic Books. ISBN 0465021476. 
+Cooper, Mick (2003). Existential Therapies. Sage Publications. ISBN 0761973214. 
+Spinelli, Ernesto (2002). The Mirror and the Hammer: Challenging Orthodoxies in Therapeutic Thought. Sage Publications. ISBN 1412901782. 
+Kierkegaard, Søren; The Concept of Dread and The Sickness Unto Death, Princeton University Press
+Längle, Alfried (1990); Existential Analysis Psychotherapy, The Internat. Forum Logotherapy, Berkeley, 13, 1, 17-19.
+Längle, Alfried (2003a); Special edition on Existential Analysis, European Psychotherapy 4, 1
+Längle, Alfried (2003b); The Search for Meaning in Life and the Fundamental Existential Motivations, Psychotherapy in Australia, 10, 1, 22-27
+Längle Silvia, Wurm CSE (2015); Living Your Own Life: Existential Analysis in Action, London: Karnac
+van Deurzen, E. (2002). Existential Counselling and Psychotherapy in Practice (2nd ed.). London: Sage Publications. ISBN 0761962247. 
+ibid (1997) Everyday Mysteries: Existential Dimensions of Psychotherapy, London: Routledge. (2nd edition 2006)
+van Deurzen, E. (1998). Paradox and Passion in Psychotherapy. Chichester: Wiley. ISBN 0471961914. 
+van Deurzen, E.; Kenward, R (2005). Dictionary of Existential Psychotherapy and Counseling. London: Sage Publications. ISBN 0761970959. 
+Deurzen, E. van and Arnold-Baker, C., eds. (2005) Existential Perspectives on Human Issues: a Handbook for Practice, London: Palgrave, Macmillan.
+Deurzen, E. van & M. Adams (2016). Skills in Existential Counselling and Psychotherapy, 2nd Edition (2016). London: Sage.
+Glasser, William (1998). Choice Theory. HarperPerennial. ISBN 0060930144. 
+Willburg, Peter, "The Therapist as Listener: Martin Heidegger and the Missing Dimension of Counseling and Psychotherapy Training"[1]
+Wilkes, R and Milton, M, (2006) Being an Existential Therapist: An IPA study of existential therapists' experiences, Existential Analysis. Jan 2006
+Friedman, M. (1985). The Healing Dialogue in Psychotherapy. J. Aronson. ISBN 0876687303. 
+Milton, M., Charles, L., Judd, D., O'Brien, Tipney, A. and Turner, A . (2003) The Existential-Phenomenological Paradigm: The Importance for Integration, Existential Analysis
+Judd, D. and Milton, M. (2001) Psychotherapy with Lesbian and Gay Clients: Existential-Phenomenological Contributions to Training, Lesbian and Gay Psychology Review, 2(1): 16-23
+Corrie, S. and Milton, M . (2000) "The Relationship Between Existential-Phenomenological and Cognitive-Behavioural Therapies", European Journal of Psychotherapy, Counseling and Health.
+May, R. (1994). The Discovery of Being: Writings in Existential Psychology. W. W. Norton & Company. ISBN 0393312402. 
+May, R. (1991). The Cry for Myth. W. W. Norton & Company. ISBN 0393240770. 
+May, R. (1998). Power and Innocence: A Search for the Sources of Violence. W. W. Norton & Company. ISBN 039331703X. 
+May, R (2009). Man's Search for Himself. W. W. Norton & Company. ISBN 0393333159. 
+Milton, M (2000) "Is Existential Psychotherapy A Lesbian and Gay Affirmative Psychotherapy?" Journal of the Society for Existential Analysis,
+Milton, M. and Judd, D. (1999) "The Dilemma that is Assessment", Journal of the Society for Existential Analysis, 102-114.
+Milton, M. (1999) "Depression and the Uncertainty of Identity: An existential-phenomenological exploration in just twelve sessions", Changes: An International Journal of Psychology and Psychotherapy,
+Milton, M (1997) "An Existential Approach to HIV Related Psychotherapy", Journal of the Society for Existential Analysis, V8.1, 115-129
+Milton, M (1994). "The Case for Existential Therapy in HIV Related Psychotherapy", Counselling Psychology Quarterly, V7 (4). 367-374
+Milton, M. (1994). "HIV Related Psychotherapy and Its Existential Concerns", Counselling Psychology Review, V9 (4). 13-24
+Milton, M (1993) "Existential Thought and Client Centred Therapy", Counselling Psychology Quarterly, V6 (3). 239-248
+Sanders, Marc, Existential Depression. How to recognize and cure life-related sadness in gifted people, Self-Help Manual, 2013.
+Schneider, K.J. (2004). Rediscovery of Awe: Splendor, Mystery, and the Fluid Center of Life. St. Paul, MN: Paragon House. ISBN 1557788340. 
+Schneider, K.J. (2008). Existential-integrative Psychotherapy: Guideposts to the Core of Practice. New York: Routledge. ISBN 020394111X. 
+Schneider, K.J. (2009). "Awakening to Awe: Personal Stories of Profound Transformation." Lanham, MD: Jason Aronson.
+Schneider, K.J.,& Krug, O.T. (2010). "Existential-Humanistic Therapy." Washington, DC: American Psychological Association Press.
+Schneider, K.J. (2011). "Existential-Humanistic Therapies". In S.B. Messer & Alan Gurman (Eds.), Essential Psychotherapies. (Third ed.). New York: Guilford.
+Seidner, Stanley S. (June 10, 2009) "A Trojan Horse: Logotherapeutic Transcendence and its Secular Implications for Theology". Mater Dei Institute. pp 10–12.
+Sørensen, A. D. & K. D. Keller (eds.) (2015): Psykoterapi og eksistentiel fænomenologi." Aalborg: Aalborg Universitetsforlag
+Tillich, Paul (1952). The Courage to Be. Yale University Press.
+Wilberg, P. (2004) The Therapist as Listener - Martin Heidegger and the Missing Dimension of Counselling and Psychotherapy Training
+
+External links[edit]
+
+
+Library resources about
+Existential therapy
+
+
+
+
+
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+Existential positive psychology
+Searching for meaning
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychology
+
+
+
+
+
+
+History
+Philosophy
+Portal
+Psychologist
+
+
+
+
+
+Basic psychology
+
+
+
+Abnormal
+Affective science
+Affective neuroscience
+Behavioral genetics
+Behavioral neuroscience
+Behaviorism
+Cognitive/Cognitivism
+Cognitive neuroscience
+Comparative
+Cross-cultural
+Cultural
+Developmental
+Differential
+Ecological
+Evolutionary
+Experimental
+Gestalt
+Intelligence
+Mathematical
+Neuropsychology
+Personality
+Positive
+Psycholinguistics
+Psychophysics
+Psychophysiology
+Quantitative
+Social
+Theoretical
+
+
+
+
+
+Applied psychology
+
+
+
+Anomalistic
+Applied behavior analysis
+Assessment
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Ergonomics
+Feminist
+Forensic
+Health
+Industrial and organizational
+Legal
+Media
+Military
+Music
+Occupational health
+Pastoral
+Political
+Psychometrics
+Psychotherapy
+Religion
+School
+Sport and exercise
+Suicidology
+Systems
+Traffic
+
+
+
+
+
+Methodologies
+
+
+
+Animal testing
+Archival research
+Behavior epigenetics
+Case study
+Content analysis
+Experiments
+Human subject research
+Interviews
+Neuroimaging
+Observation
+Qualitative research
+Quantitative research
+Self-report inventory
+Statistical surveys
+
+
+
+
+
+
+Psychologists
+
+
+
+
+William James (1842–1910)
+Ivan Pavlov (1849–1936)
+Sigmund Freud (1856–1939)
+Edward Thorndike (1874–1949)
+Carl Jung (1875–1961)
+John B. Watson (1878–1958)
+Clark L. Hull (1884–1952)
+Kurt Lewin (1890–1947)
+Jean Piaget (1896–1980)
+Gordon Allport (1897–1967)
+J. P. Guilford (1897–1987)
+Carl Rogers (1902–1987)
+Erik Erikson (1902–1994)
+B. F. Skinner (1904–1990)
+Donald O. Hebb (1904–1985)
+Ernest Hilgard (1904–2001)
+Harry Harlow (1905–1981)
+Raymond Cattell (1905–1998)
+Abraham Maslow (1908–1970)
+Neal E. Miller (1909–2002)
+Jerome Bruner (1915–2016)
+Donald T. Campbell (1916–1996)
+Hans Eysenck (1916–1997)
+Herbert A. Simon (1916–2001)
+David McClelland (1917–1998)
+Leon Festinger (1919–1989)
+George Armitage Miller (1920–2012)
+Richard Lazarus (1922–2002)
+Stanley Schachter (1922–1997)
+Robert Zajonc (1923–2008)
+Albert Bandura (b. 1925)
+Roger Brown (1925–1997)
+Endel Tulving (b. 1927)
+Lawrence Kohlberg (1927–1987)
+Noam Chomsky (b. 1928)
+Ulric Neisser (1928–2012)
+Jerome Kagan (b. 1929)
+Walter Mischel (b. 1930)
+Elliot Aronson (b. 1932)
+Daniel Kahneman (b. 1934)
+Paul Ekman (b. 1934)
+Michael Posner (b. 1936)
+Amos Tversky (1937–1996)
+Bruce McEwen (b. 1938)
+Larry Squire (b. 1941)
+Richard E. Nisbett (b. 1941)
+Martin Seligman (b. 1942)
+Ed Diener (b. 1946)
+Shelley E. Taylor (b. 1946)
+John Anderson (b. 1947)
+Ronald C. Kessler (b. 1947)
+Joseph E. LeDoux (b. 1949)
+Richard Davidson (b. 1951)
+Susan Fiske (b. 1952)
+Roy Baumeister (b. 1953)
+
+
+
+
+
+Lists
+
+
+
+Counseling topics
+Disciplines
+Important publications
+Organizations
+Outline
+Psychologists
+Psychotherapies
+Research methods
+Schools of thought
+Timeline
+Topics
+
+
+
+
+
+
+
+
+Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychotherapy (list)
+
+
+
+Schools
+
+
+
+
+Psychodynamic
+
+
+
+Psychoanalysis
+Adlerian therapy
+Analytical therapy
+Mentalization-based treatment
+Transference focused psychotherapy
+
+
+
+
+
+Cognitive and
+behavioral
+
+
+
+Behavior therapy
+Cognitive behavioral therapy
+
+Cognitive therapy
+Compassion focused therapy
+Dialectical behavior therapy
+
+
+Rational emotive behavior therapy
+Combined with Applied behavior analysis
+
+Clinical behavior analysis or CBA
+Functional analytic psychotherapy
+Acceptance and commitment therapy
+
+
+
+
+
+
+
+Humanistic
+
+
+
+Person-centered therapy
+Emotionally focused therapy
+Existential therapy
+Focusing
+Gestalt therapy
+Logotherapy
+
+
+
+
+
+Other
+
+
+
+Art therapy
+Dance therapy
+Feminist therapy
+Multimodal therapy
+Music therapy
+Narrative therapy
+Play therapy
+Reality therapy
+Systemic therapy
+Transactional analysis
+List
+
+
+
+
+
+Integrative
+
+
+
+Eclectic psychotherapy
+Integrative psychotherapy
+Transtheoretical model
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+Brief psychotherapy
+Counseling
+Online counseling
+Residential treatment
+Self-help
+Support groups
+
+
+
+
+
+Research
+
+
+
+Clinical formulation
+Clinical pluralism
+Common factors theory
+History
+Practitioner–scholar model
+Society for Psychotherapy Research
+
+
+
+
+
+Techniques
+
+
+
+
+Behaviour therapy
+
+
+
+Aversion therapy
+Applied behavior analysis (ABA) (formerly Behavior modification)
+Desensitization
+Homework
+
+
+
+
+
+Other individual therapy
+
+
+
+Autogenic training
+Biofeedback
+Cognitive restructuring
+Exposure therapy
+Free association
+Hypnotherapy
+
+
+
+
+
+Group psychotherapy
+
+
+
+Family therapy
+Psychodrama
+Sensitivity training
+Relationship counseling
+
+
+
+
+
+
+
+
+People
+
+
+
+Philippe Pinel (1745–1826)
+Josef Breuer (1842–1925)
+Sigmund Freud (1856–1939)
+Pierre Janet (1859–1947)
+Alfred Adler (1870–1937)
+Sándor Ferenczi (1873–1933)
+Carl Jung (1875–1961)
+Ludwig Binswanger (1881–1966)
+Melanie Klein (1882–1960)
+Otto Rank (1884–1939)
+Karen Horney (1885–1952)
+Harry Stack Sullivan (1892–1949)
+Fritz Perls (1893–1970)
+Anna Freud (1895–1982)
+Donald Winnicott (1896–1971)
+Wilhelm Reich (1897–1957)
+Milton H. Erickson (1901–1980)
+Jacques Lacan (1901–1981)
+Erik Erikson (1902–1994)
+Carl Rogers (1902–1987)
+Viktor Frankl (1905–1997)
+George Kelly (1905–1967)
+Rollo May (1909–1994)
+Virginia Axline (1911–1988)
+Carl Whitaker (1912–1995)
+Albert Ellis (1913–2007)
+James Bugental (1915–2008)
+Joseph Wolpe (1915–1997)
+Virginia Satir (1916–1988)
+Aaron T. Beck (b. 1921)
+Salvador Minuchin (1921–2017)
+Hans Herrman Strupp (1921–2006)
+Paul Watzlawick (1921–2007)
+Haim Ginott (1922–1973)
+Arthur Janov (1924–2017)
+Eugene Gendlin (1926–2017)
+R. D. Laing (1927–1989)
+Jean Baker Miller (1927–2006)
+Otto F. Kernberg (b. 1928)
+Irvin D. Yalom (b. 1931)
+Arnold Lazarus (1932–2013)
+Lorna Smith Benjamin (b. 1934)
+Marsha M. Linehan (b. 1943)
+Vittorio Guidano (1944–1999)
+Les Greenberg (b. 1945)
+William R. Miller (b. 1947)
+Michael White (1948–2008)
+Jeffrey Young (b. 1950)
+Peter Fonagy (b. 1952)
+
+
+
+
+
+
+
+
+
+
+Categories: PsychotherapyExistential therapyHidden categories: CS1 maint: Extra textArticles needing additional references from February 2007All articles needing additional referencesArticles with a promotional tone from October 2016All articles with a promotional toneWikipedia articles needing copy edit from November 2017All articles needing copy editArticles with multiple maintenance issuesAll articles with links needing disambiguationArticles with links needing disambiguation from March 2018Articles needing more detailed referencesAll articles with unsourced statementsArticles with unsourced statements from May 2011Articles with unsourced statements from September 2008Pages using div col with deprecated parameters

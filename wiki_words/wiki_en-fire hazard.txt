@@ -1,0 +1,618 @@
+Fire safety
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+The examples and perspective in this article deal primarily with the United States and do not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (March 2015) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2014) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions. (August 2014) (Learn how and when to remove this template message)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+
+
+
+
+Fire safety equipment at a construction site in China
+
+
+Fire safety is the set of practices intended to reduce the destruction caused by fire. Fire safety measures include those that are intended to prevent ignition of an uncontrolled fire, and those that are used to limit the development and effects of a fire after it starts.
+Fire safety measures include those that are planned during the construction of a building or implemented in structures that are already standing, and those that are taught to occupants of the building.
+Threats to fire safety are commonly referred to as fire hazards. A fire hazard may include a situation that increases the likelihood of a fire or may impede escape in the event a fire occurs.
+Fire safety is often a component of building safety. Those who inspect buildings for violations of the Fire Code and go into schools to educate children on Fire Safety topics are fire department members known as Fire Prevention Officers. The Chief Fire Prevention Officer or Chief of Fire Prevention will normally train newcomers to the Fire Prevention Division and may also conduct inspections or make presentations.
+
+
+
+Contents
+
+
+1 Elements of a fire safety policy
+2 Common fire hazards
+3 Fire code
+
+3.1 List of some typical fire and explosion issues in a fire code
+
+
+4 Public fire safety education
+
+4.1 Fire educator qualifications
+4.2 Target audiences
+
+
+5 Fire safety plan
+
+5.1 Fire safety plan structure
+5.2 Use of fire safety plans
+5.3 Fire safety plans in the fire code
+5.4 Advances in fire safety planning
+
+
+6 See also
+7 References
+8 External links
+
+
+
+Elements of a fire safety policy[edit]
+Fire safety policies apply at the construction of a building and throughout its operating life. Building codes are enacted by local, sub-national, or national governments to ensure such features as adequate fire exits, signage, and construction details such as fire stops and fire rated doors, windows, and walls. Fire safety is also an objective of electrical codes to prevent overheating of wiring or equipment, and to protect from ignition by electrical faults.
+Fire codes regulate such requirements as the maximum occupancy for buildings such as theatres or restaurants, for example. Fire codes may require portable fire extinguishers within a building, or may require permanently installed fire detection and suppression equipment such as a fire sprinkler system and a fire alarm system.
+Local authorities charged with fire safety may conduct regular inspections for such items as usable fire exits and proper exit signage, functional fire extinguishers of the correct type in accessible places, and proper storage and handling of flammable materials. Depending on local regulations, a fire inspection may result in a notice of required action, or closing of a building until it can be put into compliance with fire code requirements.
+Owners and managers of a building may implement additional fire policies. For example, an industrial site may designate and train particular employees as a fire fighting force. Managers must ensure buildings comply with evacuation, and that building features such as spray fireproofing remains undamaged. Fire policies may be in place to dictate training and awareness of occupants and users of the building to avoid obvious mistakes, such as the propping open of fire doors. Buildings, especially institutions such as schools, may conduct fire drills at regular intervals throughout the year.
+Common fire hazards[edit]
+
+
+
+
+Improper use and maintenance of gas stoves often create fire hazards.
+
+
+Some common fire hazards are:[1]
+
+Kitchen fires from unattended cooking, such as frying, boiling, and simmering
+Electrical systems that are overloaded, poorly maintained or defective
+Combustible storage areas with insufficient protection
+Combustibles near equipment that generates heat, flame, or sparks
+Candles and other open flames
+Smoking (Cigarettes, cigars, pipes, lighters, etc.)
+Equipment that generates heat and utilizes combustible materials
+Flammable liquids and aerosols
+Flammable solvents (and rags soaked with solvent) placed in enclosed trash cans
+Fireplace chimneys not properly or regularly cleaned
+Cooking appliances - stoves, ovens
+Heating appliances - fireplaces, wood burning stoves, furnaces, boilers, portable heaters
+Household appliances - clothes dryers, curling irons, hair dryers, refrigerators, freezers
+Chimneys that concentrate creosote
+Electrical wiring in poor condition
+Leaking Batteries
+Personal ignition sources - matches, lighters
+Electronic and electrical equipment
+Exterior cooking equipment - barbecue
+
+Fire code[edit]
+In the United States, the fire code (also fire prevention code or fire safety code) is a model code adopted by the state or local jurisdiction and enforced by fire prevention officers within municipal fire departments. It is a set of rules prescribing minimum requirements to prevent fire and explosion hazards arising from storage, handling, or use of dangerous materials, or from other specific hazardous conditions. It complements the building code. The fire code is aimed primarily at preventing fires, ensuring that necessary training and equipment will be on hand, and that the original design basis of the building, including the basic plan set out by the architect, is not compromised. The fire code also addresses inspection and maintenance requirements of various fire protection equipment in order to maintain optimal active fire protection and passive fire protection measures.
+A typical fire safety code includes administrative sections about the rule-making and enforcement process, and substantive sections dealing with fire suppression equipment, particular hazards such as containers and transportation for combustible materials, and specific rules for hazardous occupancies, industrial processes, and exhibitions.
+Sections may establish the requirements for obtaining permits and specific precautions required to remain in compliance with a permit. For example, a fireworks exhibition may require an application to be filed by a licensed pyrotechnician, providing the information necessary for the issuing authority to determine whether safety requirements can be met. Once a permit is issued, the same authority (or another delegated authority) may inspect the site and monitor safety during the exhibition, with the power to halt operations, when unapproved practices are seen or when unforeseen hazards arise.
+List of some typical fire and explosion issues in a fire code[edit]
+
+Fireworks, explosives, mortars and cannons, model rockets (licenses for manufacture, storage, transportation, sale, use)
+Certification for servicing, placement, and inspecting fire extinguishing equipment
+General storage and handling of flammable liquids, solids, gases (tanks, personnel training, markings, equipment)
+Limitations on locations and quantities of flammables (e.g., 10 liters of gasoline inside a residential dwelling)
+Specific uses and specific flammables (e.g., dry cleaning, gasoline distribution, explosive dusts, pesticides, space heaters, plastics manufacturing)
+Permits and limitations in various building occupancies (assembly hall, hospital, school, theater, elderly care, child care, prs) that require a smoke detector, sprinkler system, fire extinguisher, or other specific equipment or procedures
+Removal of interior and exterior obstructions to emergency exits or firefighters and removal of hazardous materials
+Permits and limitations in special outdoor applications (tents, asphalt kettles, bonfires, etc.)
+Other hazards (flammable decorations, welding, smoking, bulk matches, tire yards)
+Electrical safety codes such as the National Electrical Code (by the National Fire Protection Association) for the U.S. and some other places in the Americas
+Fuel gas code
+Car fire
+
+Public fire safety education[edit]
+Most U.S. fire departments have fire safety education programs.
+Fire prevention programs may include distribution of smoke detectors, visiting schools to review key topics with the students and implementing nationally recognized programs such as NFPAS "Risk Watch" and "Learn not to burn".[2]
+Other programs or props can be purchased by fire departments or community organizations. These are usually entertaining and designed to capture children's attention and relay important messages. Props include those that are mostly auditory, such as puppets and robots. The prop is visually stimulating but the safety message is only transmitted orally. Other props are more elaborate, access more senses and increase the learning factor. They mix audio messages and visual cues with hands-on interaction. Examples of these include mobile trailer safety houses and tabletop hazard house simulators. Some fire prevention software is also being developed to identify hazards in a home.[3]
+All programs tend to mix messages of general injury prevention, safety, fire prevention, and escape in case of fire. In most cases the fire department representative is regarded as the expert and is expected to present information in a manner that is appropriate for each age group.
+Fire educator qualifications[edit]
+The US industry standard that outlines the recommended qualifications for fire safety educators is NFPA 1035: Standard for Professional Qualifications for Public Fire and Life Safety Educator, which includes the requirements for Fire and Life Safety Educator Levels I, II, and III; Public Information Officer; and Juvenile Firesetter Intervention Specialist Levels I and II.
+Target audiences[edit]
+According to the United States Fire Administration, the very young and the elderly are considered to be "at risk" populations. These groups represent approximately 33% of the population.
+Fire safety plan[edit]
+A fire safety plan is required by all North American national, state and provincial fire codes based on building use or occupancy types. Generally, the owner of the building is responsible for the preparation of a fire safety plan. [4] Buildings with elaborate emergency systems may require the assistance of a fire protection consultant. After the plan has been prepared, it must be submitted to the Chief Fire Official or authority having jurisdiction for approval. Once approved, the owner is responsible for implementing the fire safety plan and training all staff in their duties. It is also the owner’s responsibility to ensure that all visitors and staff are informed of what to do in case of fire. During a fire emergency, a copy of the approved fire safety plan must be available for the responding fire department's use.
+Fire safety plan structure[edit]
+
+Key contact information
+Utility services (Including shut-off valves for water, gas and electric)
+Access issues
+Dangerous stored materials
+Location of people with special needs
+Connections to sprinkler system
+Layout, drawing, and site plan of building
+Maintenance schedules for life safety systems
+Personnel training and fire drill procedure
+Create assemble point/safe zone
+
+Use of fire safety plans[edit]
+Fire safety plans are a useful tool for fire fighters to have because they allow them to know critical information about a building that they may have to go into. Using this, fire fighters can locate and avoid potential dangers such as hazardous material (hazmat) storage areas and flammable chemicals.
+In addition to this, fire safety plans can also provide specialized information that, in the case of a hospital fire, can provide information about the location of things like the nuclear medicine ward.[5] In addition to this, fire safety plans also greatly improve the safety of fire fighters. According to FEMA, 16 percent of all fire fighter deaths in 2002 occurred due to a structural collapse or because the fire fighter got lost.[6] Fire safety plans can outline any possible structural hazards, as well as give the fire fighter knowledge of where he is in the building.
+Fire safety plans in the fire code[edit]
+In North America alone, there are around 8 million buildings that legally require a fire safety plan, be it due to provincial or state law.[7] Not having a fire safety plan for buildings which fit the fire code occupancy type can result in a fine, and they are required for all buildings, such as commercial, industrial, assembly, etc.
+Advances in fire safety planning[edit]
+As previously stated, a copy of the approved fire safety plan shall be available for the responding fire department. This, however, is not always the case. Up until now, all fire plans were stored in paper form in the fire department. The problem with this is that sorting and storing these plans is a challenge, and it is difficult for people to update their fire plans. As a result, only half of the required buildings have fire plans, and of those, only around 10 percent are up-to-date.[7] This problem has been solved through the introduction of digital fire plans. These fire plans are stored in a database and can be accessed wirelessly on site by firefighters and are much simpler for building owners to update.
+See also[edit]
+
+
+Ablation
+Endothermic
+Fire Equipment Manufacturers' Association
+Fire sprinkler
+Fire-adapted communities
+Firestop pillow
+Firework Code
+Horn light
+Intumescent
+List of fires
+Listing and approval use and compliance
+Product certification
+Safety Centre
+
+
+References[edit]
+
+
+
+^ "Fire Safety". Fire Protection Specialists. Retrieved 17 January 2014. 
+^ NFPA eLearning On-line catalog
+^ Fire prevention software
+^ https://imperialfiresafety.com/fire-safety-plans
+^ American, Jerry, "Fire Safety Disaster." Canadian Healthcare Facilities Volume 28 Issue 3, ed Amie Silverwood. Spring 2008, 26.
+^ Fire Fighter Fatalities in the U.S. in 2002. Fema, U.S. Department of Homeland Security, July 2003
+^ a b "Canadian firm generates digital fire safety plans." Building Strategies, ed. Susan Maclean. Spring 2007, 14
+
+
+
+External links[edit]
+
+Sample Fire Code Table of Contents from International Code Council
+Fire Safety Risk Assessment Infographic
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Occupational safety and health
+
+
+
+Occupational diseases
+and injuries
+
+
+
+Acrodynia
+Asbestosis
+Asthma
+Berylliosis
+Brucellosis
+Byssinosis ("brown lung")
+Chalicosis
+Chimney sweeps' carcinoma
+Chronic solvent-induced encephalopathy (CSE)
+Coalworker's pneumoconiosis ("black lung")
+Concussions in sport
+Decompression sickness
+De Quervain syndrome
+Exposure to human nail dust
+Farmer's lung
+Fiddler's neck
+Flock worker's lung
+Glassblower's cataract
+Golfer's elbow
+Hearing Loss
+Hospital-acquired infection
+Indium lung
+Laboratory animal allergy
+Lead poisoning
+Mad hatter disease
+Mesothelioma
+Metal fume fever
+Mule spinners' cancer
+Noise-induced hearing loss
+Phossy jaw
+Pneumoconiosis
+Radium jaw
+Repetitive strain injury
+Silicosis
+Silo-filler's disease
+Sports injury
+Surfer's ear
+Tennis elbow
+Tinnitus
+Writer's cramp
+
+
+
+
+
+
+
+
+Occupational hygiene
+
+
+
+Occupational hazard
+Hierarchy of hazard controls
+Prevention through design
+Exposure assessment
+Occupational exposure limit
+Occupational epidemiology
+
+
+
+
+
+Professions
+
+
+
+Environmental health
+Industrial engineering
+Occupational health nursing
+Occupational health psychology
+Occupational medicine
+Occupational therapist
+Safety engineering
+
+
+
+
+
+Agencies and organizations
+
+
+
+European Agency for Safety and Health at Work
+UK Health and Safety Executive
+International Labour Organization
+U.S. National Institute for Occupational Safety and Health
+U.S. Occupational Safety and Health Administration
+World Health Organization
+
+
+
+
+
+Standards
+
+
+
+Bangladesh Accord
+Occupational Safety and Health Convention, 1981
+OHSAS 18001
+Worker Protection Standard (US)
+Working Environment Convention, 1977
+
+
+
+
+
+See also
+
+
+
+Environment, health and safety
+Environmental toxicology
+Ergonomics
+Health physics
+Indoor air quality
+International Chemical Safety Card
+National Day of Mourning (Canadian observance)
+Process safety management
+Public health
+Risk management
+Safety data sheet (SDS)
+Toxic tort
+Workers' compensation
+
+
+
+
+
+
+
+
+ Category
+Occupational diseases
+ Commons
+Journals
+Organizations
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Firefighting
+
+
+
+Personnel
+
+
+
+Fire captain
+Fire chief
+Fire marshal
+Fire police
+Handcrew
+Station officer
+Volunteer fire department
+Women in firefighting
+
+
+
+
+
+Facilities
+
+
+
+Fire department
+
+List of fire departments
+
+
+Fire lookout tower
+Fire station
+
+
+
+
+
+Apparatus
+
+
+
+Airport crash tender
+Fire bike
+Fire chief's vehicle
+Fire engine
+Firefighting apparatus
+HazMat
+Heavy rescue
+Light and air
+Quint
+Tender
+Wildland tender
+Wildland engine
+
+
+
+
+
+Equipment
+
+
+
+Bunker gear
+Escape chair
+Fire extinguisher
+Fire hose
+Fire hydrant
+Fire retardant
+Fire shelter
+Fireman's pole
+Fireman's switch
+Flame retardant
+Fog nozzle
+Halligan bar
+Hard suction hose
+Hazmat suit
+Heat detector
+Hose bridge
+Hydraulic rescue tools ("Jaws of life")
+Nomex
+PASS
+Proximity suit
+SCBA
+Siren
+Smoke detector
+Thermal imaging camera
+
+
+
+
+
+Terminology
+
+
+
+Backdraft
+Dead man zone
+Deluge gun
+Draft
+Fire classes
+Fire control
+Fire safety
+Fire triangle
+Fireman's carry
+Firewall
+Flash fire
+Forcible entry
+Gaseous fire suppression
+Stop, drop and roll
+Structure fire
+Two-in, two-out
+Ventilation
+
+
+
+
+
+Miscellaneous
+
+
+
+Fire camp
+Fire engine red
+Fire photography
+Fire protection engineering
+Foam
+Geography of firefighting
+History of firefighting
+International Association of Fire Fighters
+International Firefighters' Day
+List of firefighting films
+Muster
+Saint Florian
+World Firefighters Games
+World Police and Fire Games
+
+
+
+
+
+Wildland
+firefighting
+
+
+
+
+Equipment
+and
+tactics
+
+
+
+Aerial firefighting
+Controlled burn
+Driptorch
+Fire hose
+Fire lookout tower
+Fire retardant
+Fire retardant gel
+Fire trail
+Firebreak
+Firefighting apparatus
+Firefighting foam
+Helicopter bucket
+Hose pack
+MAFFS
+Pulaski
+Wildland fire engine
+Wildland water tender
+Wildfire suppression equipment and personnel
+
+
+
+
+
+Personnel
+
+
+
+Engine crew
+Handcrew
+Helitack
+Hotshots
+Lookout
+Smokejumper
+
+
+
+
+
+By location
+
+
+
+Australia
+United States (California, Washington)
+
+
+
+
+
+Lists
+
+
+
+Glossary of wildfire terms
+List of wildfires
+
+
+
+
+
+
+
+
+
+
+
+ Category
+ Commons
+
+
+
+
+
+
+
+
+
+
+Categories: Fire preventionFire protectionLegal codesHidden categories: Articles with limited geographic scope from March 2015USA-centricArticles needing additional references from August 2014All articles needing additional referencesWikipedia articles needing style editing from August 2014All articles needing style editingArticles with multiple maintenance issuesPages using div col with deprecated parameters

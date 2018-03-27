@@ -1,0 +1,891 @@
+认知神经科学
+
+
+心理学
+
+
+
+
+
+
+
+心理学大纲
+心理学史
+心理学的子领域（英语：Subfields of psychology）
+
+
+
+
+心理学基础（英语：Basic science (psychology)）
+
+
+
+
+
+异常心理学
+行为遗传学
+生物心理学
+认知心理学
+比较心理学
+跨文化心理学（英语：Cross-cultural psychology）
+文化心理学（英语：Cultural psychology）
+差异心理学（英语：Differential psychology）
+发展心理学
+演化心理学
+实验心理学
+数学心理学
+神经心理学
+人格心理学
+正面心理学
+定量心理学（英语：Quantitative psychology）
+社会心理学
+
+
+
+
+
+应用心理学
+
+
+
+
+
+应用行为分析
+临床心理学
+社区心理学
+消费行为
+咨商心理学
+批判社区心理学
+教育心理学
+环境心理学（英语：Environmental psychology）
+人因工程学
+法庭心理学
+健康心理学
+人本主义心理学
+工业与组织心理学
+本体解释学（英语：Ontological hermeneutics）
+法律心理学
+医学心理学（英语：Medical psychology）
+军事心理学（英语：Military psychology）
+音乐心理学（英语：Music psychology）
+职业健康心理学（英语：Occupational health psychology）
+政治心理学
+宗教心理学
+学校心理学（英语：School psychology）
+运动心理学
+交通心理学
+
+
+
+
+
+心理学列表
+
+
+
+
+
+心理学学科列表
+心理学组织列表（英语：List of psychology organizations）
+心理学家
+心理治疗列表（英语：List of psychotherapies）
+重要著作列表（英语：List of important publications in psychology）
+重要研究列表（英语：List of psychological research methods）
+心理学学派列表
+心理学的时间表（英语：Timeline of psychology）
+心理学文章索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+ 心理学主题  神经科学主题  医学主题  社会主题
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+神经心理学
+
+
+
+
+主题
+
+
+大脑区域（英语：List of regions in the human brain）
+临床神经心理学（英语：Clinical neuropsychology）
+认知神经心理学（英语：Cognitive neuropsychology）
+认知神经科学
+失智症
+人脑
+神经解剖学
+神经生理学
+神经心理学评估（英语：Neuropsychological assessment）
+神经心理康复（英语：Neuropsychological rehabilitation）
+外伤性颅脑损伤（英语：Traumatic brain injury）
+
+
+
+
+
+
+
+
+脑功能
+
+
+唤起（英语：Arousal）
+注意
+意识
+决策
+管控功能
+自然语言
+学习
+记忆
+运动协调
+知觉
+企划
+解决问题
+思想
+
+
+
+
+
+
+
+
+人物
+
+
+Arthur L. Benton（英语：Arthur L. Benton）
+戴维·玻姆
+Antonio Damasio（英语：Antonio Damasio）
+费尼斯·盖吉
+Norman Geschwind（英语：Norman Geschwind）
+Elkhonon Goldberg（英语：Elkhonon Goldberg）
+Patricia Goldman Rakic（英语：Patricia Goldman Rakic）
+Pasko Rakic（英语：Pasko Rakic）
+唐纳德·赫布
+Kenneth Heilman（英语：Kenneth Heilman）
+Edith Kaplan（英语：Edith Kaplan）
+Muriel Lezak（英语：Muriel Lezak）
+Benjamin Libet（英语：Benjamin Libet）
+Rodolfo Llinás（英语：Rodolfo Llinás）
+亚历山大·鲁利亚
+Brenda Milner（英语：Brenda Milner）
+Karl H. Pribram（英语：Karl H. Pribram）
+奥利佛·萨克斯
+Mark Rosenzweig（英语：Mark Rosenzweig）
+罗杰·斯佩里
+Hans-Lukas Teuber（英语：Hans-Lukas Teuber）
+亨利·莫莱森
+K.C.（英语：K.C. (patient)）
+
+
+
+
+
+
+
+
+神经心理学测验（英语：Neuropsychological test）
+
+
+本顿视觉保留测验（英语：Benton Visual Retention Test）
+连续效能任务（英语：Continuous Performance Task）
+霍尔斯特德-理坦神经心理学测验（英语：Halstead-Reitan Neuropsychological Battery）
+海灵和布里布测验（英语：Hayling and Brixton tests）
+词汇决策任务（英语：Lexical decision task）
+卢里亚-内布拉斯加神经心理学测验（英语：Luria-Nebraska Neuropsychological battery）
+简短智能测验
+雷伊-奥斯特里特复杂图（英语：Rey-Osterrieth Complex Figure）
+斯特鲁普效应
+魏氏智力测验
+韦氏记忆量表（英语：Wechsler Memory Scale）
+威斯康星卡片分拣任务（英语：Wisconsin Card Sorting Task）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+认知神经科学（英语：Cognitive neuroscience）是一门科学学门，旨在探讨认知历程的生物学基础[1]。主要的目标为阐明心理历程的神经机制，也就是大脑的运作如何造就心理或认知功能。认知神经科学为心理学和神经科学的分支，并且横跨众多领域，例如生理心理学、神经科学、认知心理学和神经心理学[2]。认知神经科学以认知科学的理论以及神经心理学、神经科学及计算机模型的实验证据为基础[2]。
+由于其跨领域的特性，认知神经科学家的背景除了上述提到的学科之外，还有来自神经生物学、神经化学、精神病学、神经学、内分泌学、有机化学、物理学、语言学、哲学和数学等学门。
+认知神经科学采用的研究方法，包括来自心理物理学、认知心理学、功能性神经造影（英语：functional_neuroimaging）、电生理学、认知基因体学（英语：cognitive_genomics）和行为遗传学的实验典范。另外一部分重要的研究方向来自于脑伤病人的研究。脑部损伤所造成的认知功能受损，提供认知神经科学许多重要的证据（请参照：神经心理学）。而理论的发展则来自计算神经科学和认知心理学。
+
+
+
+目录
+
+
+1 历史起源
+
+1.1 颅相学
+1.2 总体论
+1.3 区位化论
+1.4 神经心理学的兴起
+1.5 脑功能定位
+1.6 神经教条
+1.7 认知科学的诞生
+1.8 认知神经科学
+
+
+2 认知神经科学的主题
+3 参考文献
+
+3.1 引用
+3.2 来源
+
+
+4 延伸阅读
+5 外部链接
+
+
+
+历史起源[编辑]
+部分认知神经科学学者持有特定脑部区位负责特定的认知功能这样的观点。这样的看法源自于许多不同的理论，如颅相学。虽然颅相学最后因为缺乏科学根据而被摒弃，但特定脑区控制特定认知功能的观点仍被采纳。而现今，在扬弃了观察头壳外观这样不科学的方式之后，取而代之的是对于头皮的电生理测量，或是更多对脑部本身的观测。
+颅相学[编辑]
+认知神经科学的起源和颅相学有很大的关系。颅相学实质上是一个伪科学，并声称头皮的形状会影响行为的表现。在19世纪早期，弗朗兹·约瑟夫·加尔和史普汉（英语：J. G. Spurzheim）相信人的大脑可以被分为35个不同的区域。加尔在他的书《神经系统的解剖生理学概论和脑部深论》声称头壳上较大的凸起代表着这块区域被较频繁的使用。当时，颅相学广被大众所注意，并且发行了以颅相学为主题的期刊。甚至发明了颅相测定仪以测定头颅上的凸起。
+总体论[编辑]
+十九世纪的法国实验心理学家佛罗伦斯如众多的科学家一样质疑颅相学的观点。虽然他的实验对象为兔子和鸽子，但他发现特定部位的脑伤并不会造成行为上的改变。由此他认为行为表现是由不同脑区共同参与，也就是总体论的观点。
+区位化论[编辑]
+二十世纪，欧洲一些科学家如杰克森所进行的一些研究让区位化论重新成为主流的观点。杰克森的研究特别在于有癫痫症状的脑伤病人，他发现病人在癫痫发作的时候，时常会造成相同的阵挛和肌肉紧张的情况。因此他认为每次的发作一定都是发生在相同的脑区，并且提出特定脑区负责特定功能的看法[3]。在后续对于脑叶的研究中，区位化观点有很大的影响和帮助。
+神经心理学的兴起[编辑]
+
+
+
+
+布洛卡氏区与韦尼克区
+
+
+法国的神经科学家布洛卡（英语：Paul Broca）在1861年报告了一位病人的症状。这位病人可以听的懂语言，但是无法说，并且只能发出“炭”（tan）的音。这位病人之后被发现他左脑的额叶有脑伤，而这块脑伤的区域现今则被称作布洛卡氏区。另外一位神经科学家卡尔·韦尼克（英语：Carl Wernicke）则发现一位中风病人无法听取语言讯息和阅读文字，但可以流利的说话（虽然说的是没有意义的语句）。这位病人则是有一个在左脑顶叶和颞叶交界处的脑伤。而这块区域现今被称作韦尼克区。这两个病例是支持区位化论的重要证据，因为特定区域的脑伤造成了特定的行为改变。布洛卡和韦尼克的研究促成了神经心理学的诞生，而这个新领域研究的是心理现象和脑伤之间的关系。
+脑功能定位[编辑]
+在1870年，德国两位医师希兹格（英语：Eduard Hitzig）和费理屈（英语：Gustav Fritsch）发表了他们在动物实验的发现。他们在狗的不同大脑皮质部位通上电流，可以诱发不同的相应动作。由此他们认为行为的表现是源自于脑细胞层次的运作。德国的神经解剖学家科比尼安·布洛德曼（英语：Korbinian Brodmann）使用尼氏发明的组织染色技术观察脑部的细胞种类。于1909时，他发表了他的结论：脑部是由52个不同的部分所组成。这些分区现被称为布洛德曼分区。现在看来，有些分区划定的非常精确，如布洛德曼17区和布洛德曼18区。
+神经教条[编辑]
+在20世纪早期，圣地亚哥·拉蒙-卡哈尔和卡米洛·高尔基开始研究神经细胞的结构。高基发展出银染色法（英语：Silver stain），可以将特定区域的细胞一同染色。使用这样的技术观察神经细胞，让高尔基认为细胞之间，在共同的细胞质内有直接的连接。卡哈尔则反对这样的观点。他在脑部含有较少髓鞘的部位做染色，发现神经细胞并不是紧密相连，而是分离的。他进一步发现神经细胞会单方向的传递电讯号。这些发现称为神经教条（英语：Neuron doctrine），并对之后了解神经细胞的功能提供了基础的理论。也因次这个贡献，高基和卡哈尔都获得了1906年的诺贝尔生理学或医学奖。
+认知科学的诞生[编辑]
+1956年9月11日，认知科学大会在麻省理工学院举行。在大会上乔治·A·米勒发表了他著名的研究《神奇的数字：7±2》。诺姆·乔姆斯基和艾伦·纽厄尔和赫伯特·亚历山大·西蒙发表了他们在计算机科学上的成果。耐瑟（英语：Ulric Neisser）在他1967年的书“认知心理学”中评论了许多在这次会议中所发表的成果。心理学此名词在1950到1960年代逐渐式微，取代的是认知科学的开始。行为主义的科学家如乔治·A·米勒开始重视语言的内在表征，而不只有外在的行为表现。大卫·马尔 提出记忆的阶层性表征，也让许多心理学家接纳了心理功能是需要由脑中特别的算法处理。
+认知神经科学[编辑]
+在1980年代之前，神经科学和认知心理学这两个领域之间几乎没有互动。[4]在1970年代晚期，“认知神经科学”这个名词在一辆计程车的后座诞生[5]，由乔治·A·米勒和麦可·葛詹尼加（英语：Michael Gazzaniga）共同创立[4]。研究者开始用实验心理学、神经心理学和神经科学的研究方法来为认知科学奠定基础。在20世纪晚期，新的科学技术成为认知神经科学重要的研究方法。这些技术包含了穿颅磁刺激（英语：Transcranial_magnetic_stimulation）、功能性磁振造影、脑电图和脑磁图（英语：Magnetoencephalography）。有时也会使用到其他的脑造影技术，如正子断层扫描造影和单光子电脑断层扫描（英语：SPECT）。在动物上使用的单细胞电位记录（英语：Single-unit recording）也是重要的技术。另外其他的技术还包含微神经图（英语：microneurography）、脸部的肌电图（英语：EMG）和眼球追踪仪。整合神经科学（英语：Integrative neuroscience）试着将不同领域和不同尺度（如生物学、心理学、解剖学和临床经验）所得到的研究成果，整合成一个统合的描述性模型。
+认知神经科学的主题[编辑]
+
+注意力
+意识
+决策判断
+学习
+记忆
+情感
+语言
+动作
+感官
+
+参考文献[编辑]
+引用[编辑]
+
+
+^ Gazzaniga, Ivry and Mangun 2002, cf. title
+^ 2.0 2.1 Gazzaniga 2002, p. xv
+^ Enersen, O. D. 2009
+^ 4.0 4.1 http://www.petemandik.com/philosophy/papers/brookmandik.pdf
+^ Gazzaniga et al. 2002, p.1
+
+
+来源[编辑]
+
+
+Churchland, P.S. & Sejnowski, T.J. (1992). The Computational Brain（英语：The Computational Brain）, The MIT Press（英语：The MIT Press）, ISBN 0-262-03188-4.
+Code, C. (1996). Classic Cases: Ancient & Modern Milestones in the Development of Neuropsychological Science. In: Code, C. et al. Classic Cases in Neuropsychology.
+Gazzaniga, M. S., Ivry, R. B. & Mangun, G. R. (2002). Cognitive Neuroscience: The biology of the mind (2nd ed.). New York: W.W.Norton.
+Gazzaniga, M. S., The Cognitive Neurosciences III, (2004), The MIT Press（英语：The MIT Press）, ISBN 0-262-07254-8
+Gazzaniga, M. S., Ed. (1999). Conversations in the Cognitive Neurosciences, The MIT Press（英语：The MIT Press）, ISBN 0-262-57117-X.
+Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63, 81-97
+Parkin, A.J. (1996). Explorations in Cognitive Neuropsychology, pp. 1-23.
+Sternberg, Eliezer J. Are You a Machine? The Brain, the Mind and What it Means to be Human. Amherst, NY: Prometheus Books.
+Ward, Jamie. The Student's Guide to Cognitive Neuroscience. Psychology Press. 2006. ISBN 978-1-84169-535-8.  外部链接存在于|publisher=, |title= (帮助)
+Handbook of Functional Neuroimaging of Cognition By Roberto Cabeza, Alan Kingstone
+Principles of neural science By Eric R. Kandel, James H. Schwartz, Thomas M. Jessell
+The Cognitive Neuroscience of Memory By Amanda Parker, Edward L. Wilding, Timothy J. Bussey
+Neuronal Theories of the Brain By Christof Koch, Joel L. Davis
+Cambridge Handbook of Thinking and Reasoning By Keith James Holyoak, Robert G. Morrison
+Handbook of Mathematical Cognition By Jamie I. D. Campbell
+Cognitive Psychology By Michael W. Eysenck, Mark T. Keane
+Development of Intelligence By Mike Anderson
+Development of Mental Processing By Andreas Demetriou, et. al.
+Memory and Thinking By Robert H. Logie, K. J. Gilhooly
+Memory Capacity By Nelson Cowan
+Proceedings of the Nineteenth Annual Conference of the Cognitive Science
+Models of Working Memory By Akira Miyake, Priti Shah
+Memory and Thinking By Robert H. Logie, K. J. Gilhooly
+Variation in Working Memory By Andrew R. A. Conway, et. al.
+Memory Capacity By Nelson Cowan
+Cognition and Intelligence By Robert J. Sternberg, Jean E. Pretz
+General Factor of Intelligence By Robert J. Sternberg, Elena Grigorenko
+Neurological Basis of Learning, Development and Discovery By Anton E. Lawson
+Memory and Human Cognition By John T. E. Richardson
+Enersen, O. D. (2009). John Hughlings Jackson. In: Who Named It. http://www.whonamedit.com/doctor.cfm/2766.html Retrieved 14 August 2009
+Society for Neuroscience. http://www.sfn.org/index.cfm?pagename=about_sfn#timeline Retrieved 14 August 2009.
+
+
+延伸阅读[编辑]
+
+
+European Journal of Neuroscience
+Cerebral Cortex
+Neuroreport
+Neuropsychologia
+Social neuroscience
+Trends in Neuroscience
+Neuroscience
+Neuroimage
+Brain
+Neuroscience Letters
+Visual Neuroscience
+Vision
+Vision Research
+Brain Research
+Clinical Neuropsychology
+Experimental Neurology
+Neuroscience Methods
+Clinical Neuroscience Research
+Clinical Neuroscience
+Developmental Brain Research
+Progress in Brain Research
+Neuroscience Research
+Experimental Neurology
+Human Neurobiology
+Neurophysiology
+Synapse
+Hippocampus
+Memory and Language
+Neuropsychopharmacology
+Clinical and Experimental Neuropsychology
+Neurochemical Research
+Neural Computation
+Trends in Cognitive Science
+Current Opinion in Neurobiology
+Cognitive Brain Research
+Human Brain Mapping
+American Journal of Audiology
+Otology and Neurotology
+Hearing Research
+Clinical Neurophysiology
+Optical Society of America
+Neural Systems
+Auditory Research
+Perception
+Hearing Research
+Acoustical Society of America
+Psychological Review
+Experimental Psychology
+Visual Cognition
+Neurocomputing
+Trends in Cognitive Sciences
+Progress in Neurobiology
+Clinical Neuropharmacology
+
+
+外部链接[编辑]
+
+
+关于认知神经科学
+的图书馆资源
+
+
+
+
+
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+Cognitive Neuroscience Society Homepage
+There's Something about Zero
+What Is Cognitive Neuroscience?, Jamie Ward/Psychology Press
+goCognitive - Educational Tools for Cognitive Neuroscience (including video interviews)
+CogNet, The Brain and Cognitive Sciences Community Online, MIT
+Cognitive Neuroscience Arena, Psychology Press
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+心理学
+
+
+
+
+
+
+
+
+
+历史
+专利
+心理学家
+
+
+
+
+
+
+
+
+基础心理学（英语：Basic science (psychology)）
+（尾缀有心理学者不赘述）
+
+
+
+异常
+生物
+认知
+比较
+文化（英语：Cultural psychology）
+发展
+差别（英语：Differential psychology）
+演化
+实验
+数学
+神经
+人格
+正面
+生理
+社会
+理论
+哲学
+科学
+心理语言学
+心理物理学
+人本主义
+情感科学（英语：Affective science）
+情感神经科学（英语：Affective neuroscience）
+行为主义
+精神分析学
+认知神经科学
+
+
+
+
+
+
+
+
+应用心理学
+
+
+
+应用行为分析
+心理测验
+临床心理学
+社区心理学
+消费行为
+咨询
+教育
+法医
+健康
+工业与组织
+法律心理学
+传媒心理学（英语：Media psychology）
+军事心理学（英语：Military psychology）
+职业心理健康（英语：Occupational health psychology）
+牧师心理学
+政治心理学
+心理统计学
+校园心理学（英语：School psychology）
+运动心理学
+自杀学（英语：Suicidology）
+系统心理学（英语：Systems psychology）
+交通
+
+
+
+
+
+
+
+
+研究方法（英语：List of psychological research methods）
+
+
+
+动物测试
+档案研究（英语：Archival research）
+行为遗传学
+行为表观遗传学（英语：Behavioral epigenetics）
+案例研究（英语：Case study）
+内容分析法
+实验心理学
+人体试验
+面谈
+神经成像
+观察
+定性研究（英语：Qualitative psychological research）
+定量研究（英语：Quantitative psychological research）
+自陈量表（英语：Self-report inventory）
+统计调查
+智力
+
+
+
+
+
+
+
+
+取向
+
+
+
+阿德勒心理学（英语：Adlerian psychology）
+分析心理学
+行为主义
+认知行为疗法
+认知主义
+描述心理学（英语：Descriptive psychology）
+生态系统理论
+存在主义治疗（英语：Existential therapy）
+家庭疗法（英语：Family therapy）
+女权主义疗法（英语：Feminist therapy）
+格式塔学派
+人本主义
+晤谈治疗法（英语：Narrative therapy）
+心理学哲学（英语：Philosophy of psychology）
+精神动力取向心理治疗（英语：Psychodynamic psychotherapy）
+理性情绪行为治疗法（英语：Rational emotive behavior therapy）
+精神分析学
+超个人
+
+
+
+
+
+
+
+
+著名心理学家
+
+
+
+阿尔弗雷德·阿德勒
+高尔顿·威拉德·奥尔波特
+阿尔波特·班杜拉
+阿龙·贝克
+约翰·鲍比
+雷蒙德·卡特尔
+肯尼斯和玛米·克拉克（英语：Kenneth and Mamie Clark）
+阿尔伯特·艾利斯
+爱利克·埃里克森
+汉斯·艾森克
+利昂·费斯廷格
+西格蒙德·弗洛伊德
+哈里·哈洛
+唐纳德·赫布
+克拉克·L·赫尔
+威廉·詹姆士
+卡尔·荣格
+杰罗姆·凯根（英语：Jerome Kagan）
+库尔特·勒温
+依瓦·洛瓦斯（英语：Ivar Lovaas）
+亚伯拉罕·马斯洛
+大卫·麦克利兰
+乔治·A·米勒
+尼尔·米勒（英语：Neal E. Miller）
+沃尔特·米歇尔
+巴甫洛夫
+让·皮亚杰
+卡尔·罗哲斯
+斯坦利·沙克特（英语：Stanley Schachter）
+伯尔赫斯·弗雷德里克·斯金纳
+爱德华·桑代克
+约翰·布罗德斯·华生
+威廉·冯特
+赫尔曼·艾宾浩斯
+
+
+
+
+
+
+
+
+心理学列表
+
+
+
+辅导
+学科
+重要出版物（英语：List of important publications in psychology）
+组织（英语：List of psychology organizations）
+概要
+心理学家
+心理疗法
+研究方法（英语：List of psychological research methods）
+心理学学派
+年表（英语：Timeline of psychology）
+条目索引（英语：Index of psychology articles）
+
+
+
+
+
+
+
+
+
+
+
+参见Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+神经科学
+
+
+
+
+
+
+
+神经科学概要（英语：Outline of neuroscience）
+
+
+
+
+
+
+基础科学
+
+
+
+行为的遗传讯息学（英语：Behavioral epigenetics）
+行为遗传学
+细胞神经科学（英语：Cellular neuroscience）
+计算神经科学
+连接组学
+影像遗传学（英语：Imaging genetics）
+整合性神经科学（英语：Integrative neuroscience）
+分子神经科学（英语：Molecular neuroscience）
+神经工程
+神经解剖（构造）学
+神经化学
+神经内分泌学（英语：Neuroendocrinology）
+神经基因学（英语：Neurogenetics）
+神经信息学
+神经测量学（英语：Neurometrics）
+神经科学与生物形态学（英语：Neuromorphology）
+神经物理（英语：Neurophysics）
+神经生理学
+
+
+
+
+
+
+
+
+
+
+
+临床神经科学（英语：Clinical neuroscience）
+
+
+
+行为神经学
+临床神经生理学（英语：Clinical neurophysiology）
+神经心脏学（英语：Neurocardiology）
+神经流行病学（英语：Neuroepidemiology）
+神经与消化系统学（英语：Neurogastroenterology）
+神经免疫学（英语：Neuroimmunology）
+神经重症学
+神经内科
+神经肿瘤学（英语：Neurooncology）
+神经眼科学
+神经病理学（英语：Neuropathology）
+神经药学（英语：Neuropharmacology）
+神经假体
+神经与精神病学（英语：Neuropsychiatry）
+神经放射学（英语：Neuroradiology）
+神经复健学（英语：Neurorehabilitation）
+神经外科
+神经病毒学（英语：Neurotology）
+神经病毒学（英语：Neurovirology）
+营养与神经科学（英语：Nutritional neuroscience）
+精神病学
+
+
+
+
+
+
+
+
+认知神经科学
+
+
+
+情感神经科学（英语：Affective neuroscience）
+生物心理学
+时间生物学
+分子细胞的认知（英语：Molecular cellular cognition）
+肌肉运动的/运动神经的控制（英语：Motor control）
+神经语言学
+神经心理学
+感知神经科学（英语：Sensory neuroscience）
+社会神经科学
+系统神经科学（英语：Systems neuroscience）
+
+
+
+
+
+
+
+
+跨领域
+
+
+
+消费性神经科学（英语：Consumer neuroscience）
+文化的神经科学（英语：Cultural neuroscience）
+教育的神经科学（英语：Educational neuroscience）
+Evolutionary neuroscience（英语：Evolutionary neuroscience）
+神经人类学（英语：Neuroanthropology）
+神经生物工程（英语：Neurobioengineering）
+神经与生态学（英语：Neurobiotics）
+神经科学与犯罪学（英语：Neurocriminology）
+神经经济学
+神经科学与哲学的认识理论（英语：Neuroepistemology）
+Neuroesthetics（英语：Neuroesthetics）
+神经科学与伦理道德（英语：Neuroethics）
+神经行为学
+神经科学与历史学（英语：Neurohistory）
+神经科学与法律（英语：Neurolaw）
+神经科学与行销学（英语：Neuromarketing）
+神经科学与现象学
+神经科学与哲学（英语：Neurophilosophy）
+神经科学与政治学（英语：Neuropolitics）
+神经科学与机器人（英语：Neurorobotics）
+神经科学与社会学（英语：Neurosociology）
+神经科学与宗教学（英语：Neurotheology）
+神经科学与古生物学（英语：Paleoneurology）
+
+
+
+
+
+
+
+
+概念
+
+
+
+脑机界面
+神经发展（英语：Neural development）
+人工神经网络
+生物神经网络
+信号检测理论
+多执行之神经生理监测（英语：Intraoperative neurophysiological monitoring）
+神经芯片（英语：Neurochip）
+神经退行性疾病
+神经发展及疾患（英语：Neurodevelopmental disorder）
+神经多样性（英语：Neurodiversity）
+神经发生
+神经成像
+神经免疫系统（英语：Neuroimmune system）
+神经管理（英语：Neuromanagement）
+神经调节
+神经可塑性
+神经科技（英语：Neurotechnology）
+神经毒素
+
+
+
+
+
+
+
+
+
+
+
+ 相关书籍（英语：Book:Neuroscience）
+ 神经科学的条目分类
+ 共享资源
+ 神经科学主题
+ 专题
+
+
+
+
+
+
+
+
+
+
+
+
+分类：认知心理学神经科学认知科学隐藏分类：引文格式1错误：外部链接使用ISBN魔术链接的页面

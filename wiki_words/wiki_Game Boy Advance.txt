@@ -1,0 +1,846 @@
+Game Boy Advance
+
+
+
+
+
+
+
+Game Boy Advance
+
+
+
+
+
+一个黑色版本的Game Boy Advance
+
+
+
+制造商
+任天堂
+
+
+产品家族
+Game Boy家系
+
+
+型式
+掌上游戏机
+
+
+世代
+第六世代
+
+
+产品生命周期
+
+
+
+日本：2001年3月21日[1]
+北美：2001年6月11日[2]
+PAL：2001年6月22日[3]
+大陆：2004年6月8日
+
+
+巴西：2002年3月4日
+
+
+台湾：2001年3月21日
+
+
+
+
+韩国：2001年6月11日
+
+
+
+
+
+停产日期
+
+
+
+巴西：2003年
+日本：2006年
+欧洲：2007年
+北美：2008年
+韩国：2003年4月1日
+
+
+
+
+
+销售台数
+全球: 8151万份，所有版本 （至2010年6月30日）.
+日本： 1696万份
+美洲： 4164万份
+其他：2291万份[4][4]
+
+
+媒体
+ROM卡带
+
+
+CPU
+16.78 MHz ARM7TDMI
+8或4 MHz Z80处理器
+
+
+显示
+240×160 pixel resolution
+
+
+绘图
+Custom 2D core
+
+
+最畅销游戏
+口袋妖怪 红宝石·蓝宝石，双版本共计1600万份[5]
+
+
+向下兼容
+Game Boy, Game Boy Color （仅GBA & GBA SP）
+
+
+前代机种
+Game Boy Color[6]
+
+
+后继机种
+Game Boy Advance SP （重新设计）
+Game Boy Micro （重新设计/concurrent）
+Nintendo DS （下一代）
+
+
+Game Boy Advance（日语：ゲームボーイアドバンス，简称GBA）是任天堂公司于2001年3月21日发售的便携式游戏机，最大特点是采用了彩色的TFT液晶屏幕。售价9800日圆，可向下兼容上一代的的Game Boy和Game Boy Color的游戏。Game Boy Advance是任天堂经历了上一代拥有彩色液晶显示屏的Game Boy Color后推出的。
+Game Boy Advance有两个改版机型，分别是2003年上市的Game Boy Advance SP，和2005年上市的Game Boy Micro。截止到2010年，Game Boy Advance家族总全球累计售出了8151万部[7]。
+
+
+
+目录
+
+
+1 特性
+2 各地区发售日
+3 派生版本
+4 游戏
+5 参考资料
+6 外部链接
+
+
+
+特性[编辑]
+
+拥有一颗精简指令集的32位中央处理器ARM7TDMI，和一颗复杂指令集的8位中央处理器。其中8位的复杂指令集中央处理器是用来兼容Game Boy和Game Boy Color的游戏。
+画面分辨率为240x160
+最大可以显示32768（2^15）种颜色
+使用主动式矩阵型液晶显示屏。
+在原Game Boy的十字方向键和A、B键之外又增加了L、R两个键。
+使用两颗三号干电池（AAx2）大约能使用15个小时。
+
+
+
+
+
+
+
+
+Game Boy Advance
+
+
+
+
+
+
+
+
+
+Game Boy Advance
+
+
+
+
+
+
+
+
+
+Game Boy Advance游戏合带
+
+
+
+
+
+
+
+
+
+Game Boy Advance游戏合带描绘图
+
+
+
+
+各地区发售日[编辑]
+
+日本－2001年3月21日
+台湾－2001年3月21日
+北美－2001年6月11日
+欧洲－2001年6月22日
+中国大陆－2004年6月8日
+
+派生版本[编辑]
+2003年2月14日，任天堂公司接着推出了具备锂电池、可折叠且具有显示屏前光的GAME BOY ADVANCE SP，一般简称为 GBA SP，售价为12,500日元[8]。 2005年9月13日，即超级马里奥20周年纪念时，首度推出采用可5级亮度校调的高背光液晶屏幕，不可折叠，但是机型更为轻巧的Game Boy Micro[9]，一般简称为 GBM，Game Boy Micro为Game Boy Advance系列中唯一不向下兼容以前Game Boy和Game Boy Color游戏。只支持GBA游戏，另外连接配件也与Game Boy Advance系列不兼容。同期亦推出高背光亮度的Game Boy Advance SP版本，采用Game Boy Micro的新液晶屏幕，有2级亮度校调。
+
+
+
+
+
+
+
+Game Boy Advance SP
+
+
+
+
+
+
+
+
+
+Game Boy Micro
+
+
+
+
+游戏[编辑]
+参见：Game Boy Advance游戏列表
+
+神奇宝贝
+塞尔达传说
+马里奥
+火焰之纹章
+黄金太阳
+逆转裁判
+洛克人EXE系列
+洛克人Zero系列
+超级机器人大战
+恶魔城系列
+索尼克
+牧场物语：矿石镇的伙伴们
+名侦探柯南
+噗呦噗呦
+Chobits
+新约圣剑传说
+
+参考资料[编辑]
+
+
+^ Game Boy Advance: It's Finally Unveiled. IGN. 2000-08-23 [2014-07-19]. 
+^ Fielder, Lauren. E3 2001: Nintendo unleashes GameCube software, a new Miyamoto game, and more. GameSpot. 2001-05-16 [2014-07-19]. 
+^ Bramwell, Tom. GBA Day: June 22nd. Eurogamer. 2001-03-21 [2014-07-19]. 
+^ 4.0 4.1 Consolidated Sales Transition by Region (PDF). Nintendo. 2010-07-28 [2014-07-19]. （原始内容 (PDF)存档于2014-07-19）. 
+^ Rose, Mike. Pokemon X & Y sell 4M copies in first weekend. Gamasutra. Think Services accessdate=July 19, 2014. 2013-10-15. 
+^ Umezu; Sugino; Konno. Nintendo 3DS (Volume 3 – Nintendo 3DS Hardware Concept) (Transcript) (访谈者 : Satoru Iwata) [2011-03-07].  Iwata Asks. Nintendo. 
+^ GBA十周年生日 回顾Game Boy的发展史 互联网档案馆的存档，存档日期2014-11-08.优讯-中国网 china.com.cn/info 2011-03-23　　责任编辑: 姜一平
+^ 任天堂2月14日推出 GameBoy Advance SP掌机 小熊在线 2003年1月8日
+^ Nintendo Game Boy Micro Details
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：Game Boy Advance
+
+
+
+官方网站（日文）
+官方网站（简体中文）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Game Boy家系
+
+
+
+
+
+
+游戏机
+
+
+
+Game Boy
+
+Pocket
+Light
+
+
+Color
+Advance
+
+Advance SP
+Micro
+
+
+
+
+
+
+
+
+
+
+外设
+
+
+
+播放君
+任天堂力量
+
+
+
+
+
+
+
+
+游戏
+
+
+
+Game Boy游戏
+
+畅销游戏
+
+
+Game Boy Advance游戏
+
+畅销游戏
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+任天堂游戏硬件
+
+
+
+
+
+
+家用游戏机
+
+
+
+Color TV-Game
+红白机
+
+夏普任天堂电视
+红白机编辑
+Twin Famicom
+
+
+超级任天堂
+
+mini
+
+
+任天堂64
+
+神游机
+
+
+任天堂GameCube
+Wii
+
+Mini
+
+
+Wii U
+任天堂Switch
+
+
+
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+Game & Watch
+Game Boy
+
+Pocket
+Light
+
+
+Game Boy Color
+Virtual Boy
+Game Boy Advance
+
+SP
+Micro
+
+
+任天堂DS家族
+
+任天堂DS
+Lite
+DSi
+
+
+任天堂3DS家族
+
+3DS
+2DS
+新3DS
+新2DS LL
+
+
+任天堂Switch
+
+
+
+
+
+
+
+
+街机基板
+
+
+
+任天堂对战系统
+
+
+
+
+
+
+
+
+周边配件
+
+
+
+磁盘驱动器
+播放君
+Satellaview
+64DD
+GBA传输线
+Wii遥控器
+任天堂力量
+Joy-Con
+
+
+
+
+
+
+
+
+技术
+
+
+
+任天堂光盘
+Broadway（Wii）
+Espresso（Wii U）
+Erista（Switch）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+第六世代游戏机
+
+
+
+
+
+
+家用游戏机
+
+
+
+Dreamcast
+任天堂GameCube
+PlayStation 2
+Xbox
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+Game Boy Advance
+N-Gage
+Neo Geo Pocket Color
+WonderSwan Color
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+掌上游戏机
+
+
+
+
+
+
+万代
+
+
+
+WonderSwan
+
+WonderSwan Color
+SwanCrystal
+
+
+拓麻歌子
+携带机
+
+
+
+
+
+
+
+
+Entex
+
+
+
+Select-A-Game
+Adventurevision
+
+
+
+
+
+
+
+
+Game Park（英语：Game Park）/Holdings（英语：GamePark Holdings）
+
+
+
+GP32（英语：GP32）
+GP2X（英语：GP2X）
+XGP（英语：XGP）（从未发售）
+GP2X Wiz（英语：GP2X Wiz）
+GP2X Caanoo（英语：GP2X Caanoo）
+
+
+
+
+
+
+
+
+任天堂
+
+
+
+Game & Watch
+Game Boy
+
+Pocket
+Light
+Color
+
+
+Game Boy Advance
+
+SP
+Micro
+
+
+任天堂DS
+
+任天堂DS Lite
+任天堂DSi
+
+
+任天堂3DS
+
+2DS
+新3DS
+新2DS XL/LL
+
+
+任天堂Switch
+
+
+
+
+
+
+
+
+诺基亚
+
+
+
+N-Gage
+N-Gage QD（英语：N-Gage QD）
+
+
+
+
+
+
+
+
+世嘉
+
+
+
+Game Gear
+Nomad
+Jewelpod
+
+
+
+
+
+
+
+
+SNK
+
+
+
+Neo Geo Pocket
+Neo Geo Pocket Color
+Neo Geo X（英语：Neo Geo X）
+
+
+
+
+
+
+
+
+索尼
+
+
+
+PlayStation Portable
+
+Slim & Lite
+PSP Go
+
+
+PlayStation Vita
+
+PlayStation Vita TV
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+
+1970年代
+
+
+
+
+Microvision
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+Nelsonic Industries（英语：Nelsonic Industries）
+Electronika（英语：Electronika）
+Epoch Game Pocket Computer
+Atari Lynx
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+PC Engine GT
+Game Master (游戏机)（英语：Game Master (console)）
+Gamate（英语：Gamate）
+Barcode Battler（英语：Barcode Battler）
+Watara Supervision（英语：Watara Supervision）
+Mega Duck（英语：Mega Duck）
+R-Zone（英语：R-Zone）
+Game.com（英语：Game.com）
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+Tapwave Zodiac（英语：Tapwave Zodiac）
+GameKing（英语：GameKing）
+GPANG service（英语：GPANG）
+Didj（英语：Leapfrog Didj）
+Leapster（英语：Leapster）
+Gizmondo（英语：Gizmondo）
+Coleco Sonic（英语：Coleco Sonic）
+Dingoo（英语：Dingoo A320）
+V-Smile Pocket（英语：V-Smile Pocket）
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+JXD devices（英语：JXD）
+Pandora (游戏机)（英语：Pandora (console)）
+DragonBox Pyra（英语：DragonBox Pyra）
+Shield Portable
+GCW Zero（英语：GCW Zero）
+GPD Win（英语：GPD Win）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+列表
+
+
+
+
+
+
+
+
+
+
+
+
+分类：掌上游戏机Game Boy AdvanceGame Boy游戏机第六世代游戏机2001年面世的产品隐藏分类：Webarchive模板wayback链接维基百科和维基数据上的官方网站不同

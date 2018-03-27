@@ -1,0 +1,434 @@
+Differential psychology
+
+
+
+
+
+
+This article includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. Please help to improve this article by introducing more precise citations. (February 2016) (Learn how and when to remove this template message)
+
+
+
+
+
+Part of a series on
+
+
+Psychology
+
+
+
+
+
+
+
+Outline
+History
+Subfields
+
+
+
+
+
+
+Basic types
+
+
+Abnormal
+Behavioral genetics
+Biological
+Cognitive/Cognitivism
+Comparative
+Cross-cultural
+Cultural
+Differential
+Developmental
+Evolutionary
+Experimental
+Mathematical
+Neuropsychology
+Personality
+Positive
+Quantitative
+Social
+
+
+
+
+
+
+
+
+Applied psychology
+
+
+Applied behavior analysis
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Environmental
+Ergonomics
+Forensic
+Health
+Humanistic
+Industrial and organizational
+Legal
+Medical
+Military
+Music
+Occupational health
+Political
+Religion
+School
+Sport
+Traffic
+
+
+
+
+
+
+
+
+Lists
+
+
+Disciplines
+Organizations
+Psychologists
+Psychotherapies
+Publications
+Research methods
+Theories
+Timeline
+Topics
+
+
+
+
+
+
+
+
+ Psychology portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Differential psychology studies the ways in which individuals differ in their behavior and the processes that underlie it. This is distinguished from other aspects of psychology in that although psychology is ostensibly a study of individuals, modern psychologists often study groups, or attempt to discover general psychological processes that apply to all individuals.
+For example, in evaluating the effectiveness of a new therapy, the mean performance of the therapy in one treatment group might be compared to the mean effectiveness of a placebo (or a well-known therapy) in a second, control group. In this context, differences between individuals in their reaction to the experimental and control manipulations are actually treated as errors rather than as interesting phenomena to study.
+This approach is because psychological research depends upon statistical controls that are only defined upon groups of people. Individual difference psychologists usually express their interest in individuals while studying groups by seeking dimensions shared by all individuals but upon which individuals differ.
+
+
+
+Contents
+
+
+1 Importance of individual differences
+2 Areas of study
+3 See also
+4 References
+5 Further reading
+
+
+
+Importance of individual differences[edit]
+Individual differences are essential whenever we wish to explain how individuals differ in their behavior. In any study, significant variation exists between individuals. Reaction time, preferences, values, and health-linked behaviors are just a few examples. Individual differences in factors such as personality, intelligence, memory, or physical factors such as body size, sex, age, and other factors can be studied and used in understanding this large source of variance. Importantly, individuals can also differ not only in their current state, but in the magnitude or even direction of response to a given stimulus. Such phenomena, often explained in terms of inverted-U response curves, place differential psychology at an important location in such endeavours as personalized medicine, in which diagnoses are customised for an individual's response profile.
+Areas of study[edit]
+Individual differences research typically includes personality, motivation, intelligence, ability, IQ, interests, values, self-concept, self-efficacy, and self-esteem (to name just a few). There are few remaining "differential psychology" programs in the United States, although research in this area is very active. Current researchers are found in a variety of applied and experimental programs, including clinical psychology, educational psychology, Industrial and organizational psychology, personality psychology, social psychology, behavioral genetics, and developmental psychology programs, in the neo-Piagetian theories of cognitive development in particular.
+See also[edit]
+
+Educational psychology
+Intelligence
+Personality psychology
+Behavioral genetics
+
+
+References[edit]
+
+
+Library resources about
+Differential psychology
+
+
+
+
+
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+Further reading[edit]
+
+Introduction to Individual Differences (Wilderdom)
+Maltby, J.; Day, L. & Macaskill, A. (2007). Personality, Individual Differences and Intelligence. London: Pearson Education. 
+Buss, D.M. & Greiling, H. (1999). "Adaptive Individual Differences" (PDF). Journal of Personality. 67 (2): 209–243. doi:10.1111/1467-6494.00053. 
+Chamorro-Premuzic, T. & Furhnam, A. (2006). "Intellectual competence and the intelligent personality: A third way in differential psychology" (PDF). Review of General Psychology. 10 (3): 251–267. doi:10.1037/1089-2680.10.3.251. Archived from the original on March 19, 2009. CS1 maint: Unfit url (link)
+Kanai, R. & Rees, G. (2011). "The structural basis of inter-individual differences in human behaviour and cognition". Nature Reviews Neuroscience. 12: 231–241. doi:10.1038/nrn3000. 
+Tyler, L.E. (1965). The psychology of human differences. New York: Appleton Century Crofts. 
+Timeline of researchers and brief biographies
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychology
+
+
+
+
+
+
+History
+Philosophy
+Portal
+Psychologist
+
+
+
+
+
+Basic psychology
+
+
+
+Abnormal
+Affective science
+Affective neuroscience
+Behavioral genetics
+Behavioral neuroscience
+Behaviorism
+Cognitive/Cognitivism
+Cognitive neuroscience
+Comparative
+Cross-cultural
+Cultural
+Developmental
+Differential
+Ecological
+Evolutionary
+Experimental
+Gestalt
+Intelligence
+Mathematical
+Neuropsychology
+Personality
+Positive
+Psycholinguistics
+Psychophysics
+Psychophysiology
+Quantitative
+Social
+Theoretical
+
+
+
+
+
+Applied psychology
+
+
+
+Anomalistic
+Applied behavior analysis
+Assessment
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Ergonomics
+Feminist
+Forensic
+Health
+Industrial and organizational
+Legal
+Media
+Military
+Music
+Occupational health
+Pastoral
+Political
+Psychometrics
+Psychotherapy
+Religion
+School
+Sport and exercise
+Suicidology
+Systems
+Traffic
+
+
+
+
+
+Methodologies
+
+
+
+Animal testing
+Archival research
+Behavior epigenetics
+Case study
+Content analysis
+Experiments
+Human subject research
+Interviews
+Neuroimaging
+Observation
+Qualitative research
+Quantitative research
+Self-report inventory
+Statistical surveys
+
+
+
+
+
+
+Psychologists
+
+
+
+
+William James (1842–1910)
+Ivan Pavlov (1849–1936)
+Sigmund Freud (1856–1939)
+Edward Thorndike (1874–1949)
+Carl Jung (1875–1961)
+John B. Watson (1878–1958)
+Clark L. Hull (1884–1952)
+Kurt Lewin (1890–1947)
+Jean Piaget (1896–1980)
+Gordon Allport (1897–1967)
+J. P. Guilford (1897–1987)
+Carl Rogers (1902–1987)
+Erik Erikson (1902–1994)
+B. F. Skinner (1904–1990)
+Donald O. Hebb (1904–1985)
+Ernest Hilgard (1904–2001)
+Harry Harlow (1905–1981)
+Raymond Cattell (1905–1998)
+Abraham Maslow (1908–1970)
+Neal E. Miller (1909–2002)
+Jerome Bruner (1915–2016)
+Donald T. Campbell (1916–1996)
+Hans Eysenck (1916–1997)
+Herbert A. Simon (1916–2001)
+David McClelland (1917–1998)
+Leon Festinger (1919–1989)
+George Armitage Miller (1920–2012)
+Richard Lazarus (1922–2002)
+Stanley Schachter (1922–1997)
+Robert Zajonc (1923–2008)
+Albert Bandura (b. 1925)
+Roger Brown (1925–1997)
+Endel Tulving (b. 1927)
+Lawrence Kohlberg (1927–1987)
+Noam Chomsky (b. 1928)
+Ulric Neisser (1928–2012)
+Jerome Kagan (b. 1929)
+Walter Mischel (b. 1930)
+Elliot Aronson (b. 1932)
+Daniel Kahneman (b. 1934)
+Paul Ekman (b. 1934)
+Michael Posner (b. 1936)
+Amos Tversky (1937–1996)
+Bruce McEwen (b. 1938)
+Larry Squire (b. 1941)
+Richard E. Nisbett (b. 1941)
+Martin Seligman (b. 1942)
+Ed Diener (b. 1946)
+Shelley E. Taylor (b. 1946)
+John Anderson (b. 1947)
+Ronald C. Kessler (b. 1947)
+Joseph E. LeDoux (b. 1949)
+Richard Davidson (b. 1951)
+Susan Fiske (b. 1952)
+Roy Baumeister (b. 1953)
+
+
+
+
+
+Lists
+
+
+
+Counseling topics
+Disciplines
+Important publications
+Organizations
+Outline
+Psychologists
+Psychotherapies
+Research methods
+Schools of thought
+Timeline
+Topics
+
+
+
+
+
+
+
+
+Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+Psychology portal
+
+
+
+
+
+
+
+
+This article needs additional or more specific categories. Please help out by adding categories to it so that it can be listed with similar articles. (February 2016)
+
+
+
+
+
+
+
+Categories: Branches of psychologyHidden categories: Articles lacking in-text citations from February 2016All articles lacking in-text citationsCS1 maint: Unfit urlArticles needing additional categories from February 2016

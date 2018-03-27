@@ -1,0 +1,20 @@
+常识
+
+
+提示：本条目的主题不是常理。
+常识（英语：Common knowledge）、普遍知识（General knowledge）或基本知识（Essential knowledge）是指普通社会上智力正常的人应有的知识。
+相关条目[编辑]
+
+常理
+
+延伸阅读[编辑]
+
+R. Fagin, J. Y. Halpern, Y. Moses, and M. Y. Vardi. Reasoning about Knowledge, The MIT Press, 1995. ISBN 0-262-56200-6
+Lewis, David. Convention: A philosophical study. Harvard University Press, 1969.
+J-J Ch. Meyer and W van der Hoek Epistemic Logic for Computer Science and Artificial Intelligence, volume 41, Cambridge Tracts in Theoretical Computer Science, Cambridge University Press, 1995. ISBN 0-521-46014-X
+
+
+
+
+
+分类：知识隐藏分类：含有英语的条目使用ISBN魔术链接的页面

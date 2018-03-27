@@ -1,0 +1,191 @@
+安慰剂
+
+
+“Placebo”重定向至此。关于与此名称相似的其他条目，详见“Placebo (消歧义)”。
+
+
+
+
+
+
+
+药学
+
+
+药学科学
+
+
+药理学 - 药物化学
+
+
+生药学 - 天然药物化学
+
+
+药剂学 - 药物分析
+
+
+临床药学 - 药事管理学
+
+
+相关职业
+
+
+药剂师
+
+
+列表
+
+
+合成药物列表
+
+
+其他
+
+
+维基药学专题
+
+
+ 维基百科中的医疗相关内容仅供参考，详见医学声明。如需专业意见请咨询专业人士。
+安慰剂效应（英语：placebo effect，来自拉丁文“placebo”解“我将安慰”），又名伪药效应、假药效应、代设剂效应；指病人虽然获得无效的治疗，但却“预料”或“相信”治疗有效，而让病患症状得到舒缓的现象。
+安慰剂效应于1955年由毕阙博士（Henry K. Beecher）提出[1]，亦理解为“非特定效应”（non-specific effects）或受试者期望效应（subject-expectancy effect）。
+一个性质完全相反的效应亦同时存在——反安慰剂效应（Nocebo effect）：病人不相信治疗有效，可能会令病情恶化。反安慰剂效应（拉丁文“nocebo”解“我将伤害”）可以使用检测安慰剂效应相同的方法检测出来。例如一组服用无效药物的对照群组（control group），会出现病情恶化的现象。这个现象相信是由于接受药物的人士对于药物的效力抱有负面的态度，因而抵销了安慰剂效应，出现了反安慰剂效应。这个效应并不是由所服用的药物引起，而是基于病人心理上对康复的期望。
+
+
+
+目录
+
+
+1 安慰剂对照研究
+
+1.1 安慰剂与痛楚
+1.2 安慰剂与抑郁
+1.3 内生性鸦片
+
+
+2 客观或是主观因素的争议
+3 安慰剂作用原理
+
+3.1 病人期望效应
+3.2 制约反应
+
+
+4 安慰剂在医学上的应用
+5 安慰剂效应引发的混淆
+6 相关条目
+7 外部链接
+8 参考资料
+
+
+
+安慰剂对照研究[编辑]
+
+毕阙博士的研究（1955年）
+
+有报告[2]纪录到大约四分之一服用安慰剂的病人，例如声称可以医治背痛的安慰剂，表示有关痛症得到舒缓。而注目的是，这些痛症的舒缓，不单是靠病人报称，而是可以利用客观的方法检测得到。这个痛症改善的现象，并没有出现于非接受安慰剂的病人身上。
+由于发现了这个效应，政府管制机关规定新药必须通过临床的安慰剂对照（placebo-controlled）测试，方能获得认可。测试结果不单要证明患者对药物有反应，而且测试结果要与服用安慰剂的对照群组作比较，证明该药物比安慰剂更为有效（“有效”是指以下2项或其中1项：1)该药物比安慰剂能影响更多病人，2)病人对该药物比安慰剂有更强反应）。由于医生对有关疗程实用性的观感会影响其表现，亦可影响病人对疗程的观感。因此，此药物测试必须以双盲（double-blind）方式进行：医生及病人都不会知道该药物是否安慰剂。
+最近亦发现，模拟手术亦会出现相似的现象，所以，有部分的外科手术技术必须进行安慰剂对照研究（极少会以双盲方式进行，原因很明显）。为了使测试得到支持，药物测试群组会比安慰剂对照群组获得更好的待遇。
+几乎所有以这个对照方式进行的研究都显示安慰剂对可改善病情。举例：Kahn公布了一项有关抗抑郁药的整合分析（meta-analysis），发现服用安慰剂的群组中出现自杀或企图自杀的情况下降了30%，而服用抗抑郁剂的群组则下降40%。[3]但是，一般研究项目都没有加设一个不接受任何治疗的群组作对照，因此很难推算出安慰剂效应实际的影响程度。
+安慰剂与痛楚[编辑]
+严谨的研究发现，安慰剂可以舒缓痛症，而安慰剂对于舒缓早前已出现的痛楚比起由实验诱发的痛楚更为有效。实验测试对象能够在特定情况下对止痛剂产生条件反射。当这些条件再次出现，大脑会进行一系列神经活动，从而产生止痛效果，而这些效果是可以透过客观方法去量化的。[4][5]
+迪伦·伊文斯（Dylan Evans）于2004年提出质疑，指出安慰剂效应是透过抑压身体急性反应（acute phase response）而出现，亦即是说，不是以急性反应为主导的医学症状不会出现安慰剂效应。[6]
+安慰剂与抑郁[编辑]
+Andrew F. Leuchter于2002年以定量脑电图技术研究安慰剂效应，其研究发现出现安慰剂效应的抑郁症病人，大脑血液的流动会出现变化，而对抗抑郁药有反应的病人，亦有同样的脑部功能变化。[7]
+其他研究发现用安慰剂自杀率下降30%，而用真药下降40%。[8]
+内生性鸦片[编辑]
+内生性鸦片（Endogenous opiates）是脑部释出的化学物质，可产生镇痛、麻醉的效果，亦可引起快乐的感觉。含有鸦片剂（opiates）的鸦片或药物，能够如同内生性鸦片一样，刺激同一个脑部受体，引起兴奋的感觉。增加释放内生性鸦片，如脑内啡（endorphin|endorphin），可引起快乐感觉，例子有性交及运动（跑者愉悦感，runner's high）。
+当病人服用安慰剂后表示痛苦得到舒缓，此时候替病人注射纳洛酮（naloxone，一种可以对抗鸦片剂的药物），痛楚就会再次出现，这意味着安慰剂效应是由体内释放的鸦片剂所引起[9]。
+客观或是主观因素的争议[编辑]
+Asbjørn Hróbjartsson及Peter C. Götzsche于2001年发表研究结果，并于2004年再发表跟进研究结果，质疑安慰剂效应。[1] [2]他们对156个临床试验进行整合分析，比较安慰剂群组及不接受治疗的群组的病情进展。分析结果中，38个试验得出二元（binary）结果（病情有／没有改善）及118个试验得出连续（continuous）结果。得出二元结果的试验中显示，“与不接受治疗的群组比较，不论结果是主观的或是客观的，安慰剂都没有重大的影响力。”；而在得出连续结果的试验中，“安慰剂有正面影响，但影响力随着试验群组增大而下降，这显示安慰剂影响可能只是偏见（Bias）所造成。”研究结果的结论是，“只有少数证据显示安慰剂有强烈的临床影响力”。
+研究结果显示安慰剂效应的形成是主观因素。这有助解释为何安慰剂效应在一些偏重主观性质的病患（例如头痛、胃痛、哮喘、敏感、压力、痛症）中较容易表现出来。
+安慰剂作用原理[编辑]
+对于安慰剂如何产生作用，有以下两个假设：病人期望效应（Subject-expectancy effect）及条件反射。
+病人期望效应[编辑]
+病人期望效应引导病人有意识或无意识地报告病情得到改善，因此导致安慰剂效应的出现。Asbjørn Hróbjartsson及Peter C. Götzsche于文章中质疑“大部分病人有礼貌地倾向为迎合实验人员而报告病情得到改善，即使他们并不感到改善。”主观的偏见亦可能使病人潜意识相信病情因为得到关注及照料而改善。
+制约反应[编辑]
+古典制约是一种关联学习模式，使受训者学习到特定情况下作出特定的反应。著名的例子是巴甫洛夫的狗实验：于每次给予狗食物之前都发出铃声，经多次反复后，每当铃声一响，狗就会自动分泌唾液，原因是狗已经学习到将铃声及食物关联起来。所以，安慰剂使病人产生与有效药物相似的生物反应，有可能是因为制约所造成。[10][11]
+安慰剂在医学上的应用[编辑]
+在医学应用上使用安慰剂的准则引起了激烈讨论。有执业人员认为使用安慰剂是可取的，因为安慰剂本身无害，有时候甚至可能有益。但Asbjørn Hróbjartsson及Peter C. Götzsche的研究公布后，安慰剂有益这个观点备受质疑。
+2000年的一个研究显示，丹麦有48%的普通科执业员在过去一年曾至少开出10次安慰剂予病人。最经常使用的安慰剂治疗是以抗生素医治病毒感染及以维生素医治疲劳。（专科及医院医生则较少使用安慰剂。）[12]于2004年，英国医学期刊（British Medical Journal，BMJ）刊出的一份研究指出，有60%的以色列医生使用安慰剂，通常的原因只是为了安抚病人或“回避”病人要求使用不当药物治疗。在所有使用安慰剂的医生当中，只有15%医生告诉病人他们接受的是安慰剂或非特定药物治疗。[13]
+附随的评论文章写道：
+
+“安慰剂效应虽然只是由无效药物所引起，但更应该视为医生与病人的关系所产生的作用。除了药物治疗外，医生的照料会影响病人的治疗体验，减轻痛楚及影响其他结果。这问卷清楚显示医生继续使用安慰剂，而大部分人亦认为其有帮助。”
+
+评论文章指出Hróbjartsson及Götzsche的研究方法存在问题，质疑其研究结果虽显示安慰剂不能治愈所有病症，但这不能证明安慰剂完全不能治病。评论总结中提到，“我们不能拒用任何有效的治疗方法，即使我们不是太肯定其作用原理。”[14]
+评论文章引起了双方面的回响。[15]
+
+对使用安慰剂的批评指出，对病人采用无效的疗法是不道德的，告诉病人安慰剂是真正的药物治疗的做法是一种欺骗，长远而言会危害医生与病人的关系。批评又质疑使用安慰剂会延误对严重病情正当的诊断及治疗。
+对使用安慰剂的辩护指出，安慰剂于临床试验中无效，是因为受试者知道自己接受的可能只是安慰剂。但于医疗应用上，病人相信药物是有效的，安慰剂则发挥了效用。有人指出，经验资料（empirical data）显示安慰剂能够舒缓痛症，而且是可客观地检测得到。以安慰剂“使病人愉悦”可促进痊愈，这其实亦是医生与病人关系的一部分。[16][17]
+
+有研究指出，约有25%丹麦及以色列医生使用安慰剂作为诊断工具，以断定病人的症状是真确或是只是诈病。批评及辩护双方都同样认为以安慰剂作这样用途是不道德的。英国医学期刊评论文章写道，“病人接受安慰剂后痛楚得到舒缓并不暗示其痛楚是假的……使用安慰剂去‘诊断’痛楚是否真实的做法是被误导的。”
+有关安慰剂效应的研究及讨论正在进行，于医疗应用上使用安慰剂的共识准则于将来应该会出现。
+一般都同意，在双盲临床试实中，安慰剂对照群组对排除几种试验中可能出现的偏见是重要的。
+安慰剂效应引发的混淆[编辑]
+因为查找引因有一定困难度，很多现象于统计时被错误地归纳入安慰剂效应。
+
+疾病自然地消失。
+疾病本有的临床表现。
+错误诊断或预测（prognosis）。
+病患暂时性改善被混淆为痊愈。
+
+相关条目[编辑]
+
+霍桑效应
+观察者期望效应（Observer-expectancy effect）
+受试者期望效应（Subject-expectancy effect）
+
+外部链接[编辑]
+
+"Placebo Effect: Harnessing Your Mind's Power To Heal" ScienceDaily，2003年12月31日
+"The Placebo Effect: Real or Imagined?"[失效链接] Desonie, Dana
+Skeptic's Dictionary：The Placebo Effect
+Sciencentral.com："Mystery Painkiller" (内含短片)
+
+参考资料[编辑]
+
+
+^ Beecher, H. K. The powerful placebo. Journal of the American Medical Association. 1955-12-24, 159 (17): 1602–1606. ISSN 0002-9955. PMID 13271123. 
+^ Beecher, H. K. The powerful placebo. Journal of the American Medical Association. 1955-12-24, 159 (17): 1602–1606. ISSN 0002-9955. PMID 13271123. 
+^ Khan, A.; Warner, H. A.; Brown, W. A. Symptom reduction and suicide risk in patients treated with placebo in antidepressant clinical trials: an analysis of the Food and Drug Administration database. Archives of General Psychiatry. April 2000, 57 (4): 311–317. ISSN 0003-990X. PMID 10768687. 
+^ Benedetti, Fabrizio; Pollo, Antonella; Lopiano, Leonardo; Lanotte, Michele; Vighetti, Sergio; Rainero, Innocenzo. Conscious expectation and unconscious conditioning in analgesic, motor, and hormonal placebo/nocebo responses. The Journal of Neuroscience: The Official Journal of the Society for Neuroscience. 2003-05-15, 23 (10): 4315–4323. ISSN 1529-2401. PMID 12764120. 
+^ Wager, Tor D.; Rilling, James K.; Smith, Edward E.; Sokolik, Alex; Casey, Kenneth L.; Davidson, Richard J.; Kosslyn, Stephen M.; Rose, Robert M.; Cohen, Jonathan D. Placebo-induced changes in FMRI in the anticipation and experience of pain. Science (New York, N.Y.). 2004-02-20, 303 (5661): 1162–1167. ISSN 1095-9203. PMID 14976306. doi:10.1126/science.1093065. 
+^ Evans, Dylan. Suppression of the acute-phase response as a biological mechanism for the placebo effect. Medical Hypotheses. 2005, 64 (1): 1–7. ISSN 0306-9877. PMID 15533601. doi:10.1016/j.mehy.2004.08.009. 
+^ Leuchter, Andrew F.; Cook, Ian A.; Witte, Elise A.; Morgan, Melinda; Abrams, Michelle. Changes in brain function of depressed subjects during treatment with placebo. The American Journal of Psychiatry. January 2002, 159 (1): 122–129. ISSN 0002-953X. PMID 11772700. doi:10.1176/appi.ajp.159.1.122. 
+^ Khan, A.; Warner, H. A.; Brown, W. A. Symptom reduction and suicide risk in patients treated with placebo in antidepressant clinical trials: an analysis of the Food and Drug Administration database. Archives of General Psychiatry. April 2000, 57 (4): 311–317. ISSN 0003-990X. PMID 10768687. 
+^ Sauro, Marie D.; Greenberg, Roger P. Endogenous opiates and the placebo effect: a meta-analytic review. Journal of Psychosomatic Research. February 2005, 58 (2): 115–120. ISSN 0022-3999. PMID 15820838. doi:10.1016/j.jpsychores.2004.07.001. 
+^ Wager, Tor D.; Rilling, James K.; Smith, Edward E.; Sokolik, Alex; Casey, Kenneth L.; Davidson, Richard J.; Kosslyn, Stephen M.; Rose, Robert M.; Cohen, Jonathan D. Placebo-induced changes in FMRI in the anticipation and experience of pain. Science (New York, N.Y.). 2004-02-20, 303 (5661): 1162–1167. ISSN 1095-9203. PMID 14976306. doi:10.1126/science.1093065. 
+^ Sauro, Marie D.; Greenberg, Roger P. Endogenous opiates and the placebo effect: a meta-analytic review. Journal of Psychosomatic Research. February 2005, 58 (2): 115–120. ISSN 0022-3999. PMID 15820838. doi:10.1016/j.jpsychores.2004.07.001. 
+^ Hróbjartsson, Asbjørn; Norup, Michael. The use of placebo interventions in medical practice--a national questionnaire survey of Danish clinicians. Evaluation & the Health Professions. June 2003, 26 (2): 153–165. ISSN 0163-2787. PMID 12789709. doi:10.1177/0163278703026002002. 
+^ Nitzan, Uriel; Lichtenberg, Pesach. Questionnaire survey on use of placebo. BMJ (Clinical research ed.). 2004-10-23, 329 (7472): 944–946. ISSN 1756-1833. PMID 15377572. doi:10.1136/bmj.38236.646678.55. 
+^ Spiegel, David. Placebos in practice. BMJ (Clinical research ed.). 2004-10-23, 329 (7472): 927–928. ISSN 1756-1833. PMID 15499085. doi:10.1136/bmj.329.7472.927. 
+^ Spiegel, David. Placebos in practice. BMJ. 2004-10-21, 329 (7472): 927–928. ISSN 0959-8138. PMID 15499085. doi:10.1136/bmj.329.7472.927 （英语）. 
+^ Di Blasi, Zelda; Reilly, David. Placebos in medicine: medical paradoxes need disentangling. BMJ (Clinical research ed.). 2005-01-01, 330 (7481): 45. ISSN 1756-1833. PMID 15626817. doi:10.1136/bmj.330.7481.45-a. 
+^ Barfod, Toke S. Placebos in medicine: placebo use is well known, placebo effect is not. BMJ (Clinical research ed.). 2005-01-01, 330 (7481): 45. ISSN 1756-1833. PMID 15626818. doi:10.1136/bmj.330.7481.45. 
+
+
+
+"The Placebo Prescription" Margaret Talbot撰文，《纽约时报》9 January, 2000年1月9日
+Beecher, H. K. (1955) "The powerful placebo" Journal of the American Medical Association 159 pp.1602-1606 [Original article, most cited one, claiming a widespread placebo effect]
+Carroll, Robert Todd (2001?) The Placebo Effect Accessed on 2004-05-19. [Part of the Skeptics Dictionary. Useful categorization of possible types of mechanism for the placebo effect if it exists.]
+Dodes, John E. (2001?) The Mysterious Placebo Accessed on 2001-01-19. Originally published in the January/February 1997 issue of Skeptical Inquirer. A nice overview of the placebo effect and how it influences the study of alternative medicines.
+Evans, Dylan. The Placebo Effect: mind over matter in modern medicine 2004. HarperCollins (UK) / Oxford University Press (US)
+Evans M. Justified deception? The single blind placebo in drug research. Journal of Medical Ethics 26(3):188-193 (2000).
+Harrington, Anne, ed. The Placebo Effect: An Interdisciplinary Exploration. 1997. Cambridge: Harvard University Press. ISBN 067466984-X
+Hrobjartsson, Asbjorn; Gotzsche, Peter C. (2001) "Is the Placebo Powerless? An Analysis of Clinical Trials Comparing Placebo with No Treatment" New England Journal of Medicine 344 (21) May 2001 pp.1594-1602 [Meta-analysis, challenging most but not all of the belief that there is evidence for a placebo effect.]
+Kienle G. S., Kiene H. (1997) "The powerful placebo effect: fact or fiction?" Journal of Clinical Epidemiology. 50 (12) pp.1311-8. [Challenges Beecher's original article]
+McDonald C. J., Mazzuca S. A., McCabe G. P., Jr. "How much of the placebo 'effect' is really statistical regression?" Statistics in Medicine 2(4):417-27 (1983).
+Nordenberg, Tamar (2000) "The Healing Power of Placebos" FDA Consumer magazine
+Senn S. J. "How much of the placebo 'effect' is really statistical regression?" Statistics in Medicine 7(11):1203 (1988).
+Senn S. J. "A personal view of some controversies in allocating treatment to patients in clinical trials." Statistics in Medicine 14(24):2661-74 (1995).
+Senn S. J. "Are placebo run ins justified?" British Medical Journal 314(7088):1191-3 (1997).
+Senn S. J. "The Misunderstood Placebo." Applied Clinical Trials 10(5):40-46 (2001).
+Senn S. J. The ignoble lie [letter; comment]. Journal of Clinical Epidemiology 45(11):1338-40 (1992).
+Senn S. J. "Ethical considerations concerning treatment allocation in drug development trials" Statistical Methods in Medical Research 11 pp.403-411 (2002).
+Senn S. J. (2003) Dicing with death (CUP: Cambridge)
+Simon, Steve (2003) Ethics of a placebo group
+Zubieta et al. (2005) "Endogenous Opiates and the Placebo Effect" The Journal of Neuroscience 25(34) p.7754-7762
+
+
+
+
+
+分类：认知心理学实验心理学医学药理学神经科学隐藏分类：CS1英语来源 (en)含有拉丁语的条目含有英语的条目带有失效链接的条目条目有永久失效的外部链接使用ISBN魔术链接的页面

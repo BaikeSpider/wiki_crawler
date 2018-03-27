@@ -1,0 +1,526 @@
+可證偽性
+
+
+
+
+
+
+
+
+
+
+
+是否所有天鹅都是白色的？
+
+
+可否證性（英语：Falsifiability），又称可反证性、可否證性，在科学和科学哲学中用来表示由经验得来的表述所具有的一种属性，即“这些结论必须容许逻辑上的反例的存在”。作为对比的则包括形式上的或数学的表述，如重言式（由于定义的原因它们总是真的），数学公理和定理——这些表述不容许逻辑上反例的存在。一些哲学家和科学家（如卡尔·波普尔）宣称：一切从经验得来的假说、命题和理论必须逻辑上容许反例的存在，才是科学的。一个主张“可否證”并不意味着这个主张是“假”的。宗教和伪科学是不可否證的。
+
+
+
+目录
+
+
+1 定义
+2 科学理论的必要属性
+3 参见
+4 参考资料
+5 外部链接
+
+
+
+定义[编辑]
+如果一个主张是可证伪的，则至少在理论上存在一种观测的方法（即使实际上没有进行这项观测也无妨），来表明这个主张不符合重言式的标准（即这个主张不总是真的）。对某种描述进行观测的逻辑前提是它描述的事物是存在的。
+更多信息：黑天鹅效应
+例如“所有的天鹅全都是白色的”这个主张可以被“存在黑色天鹅”的观测证伪，虽然这个观测并不一定会发生。一个可证伪的命题必须定义某些被禁止的情形。例如，在这个例子中，“所有的天鹅全都是白色的”这个主张禁止了“黑天鹅”的存在。由于理论上可能存在“观测到黑色天鹅”这个反例，“所有的天鹅全都是白色的”这个主张是可证伪的。 再比如假设现在有一个人宣称“我说的话一直都是对的”，那么我们考察他以前说过的话，如果有自相矛盾的地方，那么这句话肯定是个假命题。然而，即使这个人过去一直贯彻一种想法，在他自己的言论中没有自相矛盾之处，也不能作为足够的证据证明这句话是个真命题。
+科学理论的必要属性[编辑]
+可证伪性是一个科学理论的必要属性[1]。可证伪性是由经验得来的主张的必要属性，却不是充分属性。一个主张需要更多的属性及证据使其成为经验上有意义的。
+参见[编辑]
+
+卡尔·波普尔
+本质主义
+特例假设
+黑天鹅效应
+奥卡姆剃刀
+科学哲学
+科学方法
+研究纲领
+
+参考资料[编辑]
+
+
+^ 竹内薰. 假设与真理的关系是苦闷而悲哀的. 《99.9%都是假设》. 漫游者文化. 2007-04-03. ISBN 978-986-6858-07-9 （中文（台湾）‎）. 
+
+
+外部链接[编辑]
+
+Problems with Falsificationism explained at The Galilean Library
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+科学哲学
+
+
+
+
+
+
+概念
+
+
+
+分析
+分析-综合区别
+先验
+因果
+可公度性
+构想（英语：Construct (philosophy)）
+划界问题
+解释力（英语：Explanatory power）
+事实
+可证伪性
+我们现在不知道，将来也不知道
+归纳推理
+智巧（英语：Ingenuity）
+探究（英语：Inquiry）
+科学探究模型（英语：Models of scientific inquiry）
+本性（英语：Nature (philosophy)）
+客观性
+观察
+范式
+归纳问题（英语：Problem of induction）
+科学解释（英语：Models of scientific inquiry）
+定律
+科学方法
+科学革命
+科学理论
+可测试性
+选择理论
+
+
+
+
+
+
+
+
+科学元理论
+
+
+
+验证整体论（英语：Confirmation holism）
+真理融贯论
+语境主义（英语：Contextualism）
+传统主义（英语：Conventionalism）
+演绎的法则的（英语：Deductive-nomological model）
+实证主义-还原论-决定论
+可谬论
+基础主义（英语：Foundationalism）
+假设－演绎模型（英语：Hypothetico-deductive model）
+无限主义（英语：Infinitism）
+工具主义
+实用主义
+理性主义 / 经验主义
+科学理论的接受观（英语：Received view of theories） / 语义观（英语：Semantic view of theories）
+科学实在论 / 反实在论（英语：Anti-realism）
+科学主义
+自然主义
+怀疑论
+均变论
+活力论
+
+
+
+
+
+
+
+
+科学哲学
+相关条目
+
+
+
+知识论
+科学哲学史（英语：History and philosophy of science）
+科学史
+物理哲学
+热力学和统计物理哲学（英语：Philosophy of thermal and statistical physics）
+化学哲学
+生物哲学
+演化思想史
+环境哲学
+时间和空间哲学（英语：Philosophy of space and time）
+神经科学哲学（英语：Neurophilosophy）
+精神哲学
+心理学哲学（英语：Philosophy of psychology）
+感知哲学（英语：Philosophy of perception）
+人工智能哲学
+计算机科学哲学（英语：Philosophy of computer science）
+信息哲学
+技术哲学（英语：Philosophy of technology）
+社会科学哲学（英语：Philosophy of social science）
+伪科学
+宗教与科学
+科学修辞学（英语：Rhetoric of science）
+科学知识社会学（英语：Sociology of scientific knowledge）
+更多...（英语：Index of philosophy of science articles）
+
+
+
+
+
+
+
+
+科学哲学家
+
+
+
+
+
+古典时期
+
+
+
+
+柏拉图
+亚里士多德
+伊壁鸠鲁
+斯多亚学派
+
+
+
+
+
+
+
+
+
+中世纪
+
+
+
+
+圣维克多的休
+罗吉尔·培根
+伊本·鲁世德
+多明尼库斯·贡狄萨利奴斯（英语：Dominicus Gundissalinus）
+罗伯特·基尔沃比（英语：Robert Kilwardby）
+奥卡姆的威廉
+
+
+
+
+
+
+
+
+
+近代
+
+
+
+
+弗兰西斯·培根
+皮埃尔·伽桑狄
+勒内·笛卡尔
+伽利略·伽利莱
+托马斯·霍布斯
+艾萨克·牛顿
+
+
+
+
+
+
+
+
+
+18~19世纪
+
+
+
+
+伊曼努尔·康德
+弗里德里希·谢林
+威廉·维赫维尔
+奥古斯特·孔德
+约翰·斯图尔特·密尔
+赫伯特·斯宾塞
+威廉·冯特
+查尔斯·桑德斯·皮尔士
+威廉·文德尔班
+儒勒·昂利·庞加莱
+皮埃尔·迪昂
+鲁道夫·斯坦纳
+卡尔·皮尔逊
+
+
+
+
+
+
+
+
+
+科学哲学创立
+
+
+
+
+卡尔·波普尔
+查理·邓巴·博尔德（英语：C. D. Broad）
+阿尔伯特·爱因斯坦
+托马斯·库恩
+拉卡托什·伊姆雷
+
+
+
+
+
+
+
+
+
+其他
+现代哲学家
+
+
+
+
+分析哲学：阿尔弗雷德·诺思·怀特黑德
+伯特兰·罗素
+卡尔·古斯塔夫·亨普尔（英语：Carl Gustav Hempel）
+威拉德·冯·奥曼·蒯因
+精神哲学：奥图·纽拉特
+鲁道夫·卡尔纳普
+尤尔根·哈贝马斯
+其他：保罗·费耶阿本德
+丹尼尔·丹尼特
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+主题
+分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+知识论
+
+
+
+
+
+
+学者
+
+
+
+托马斯·阿奎那
+希波的奥古斯丁
+威廉·阿尔斯顿（英语：William Alston）
+Robert Audi（英语：Robert Audi）
+A.J. 艾耶尔
+乔治·贝克莱
+Laurence BonJour（英语：Laurence BonJour）
+勒内·笛卡尔
+爱德蒙德·葛梯尔（英语：Edmund Gettier）
+阿尔文·戈德曼（英语：Alvin Goldman）
+纳尔逊·古德曼（英语：Nelson Goodman）
+保罗·格莱斯
+大卫·休谟
+伊曼努尔·康德
+索伦·克尔凯郭尔
+索尔·克里普克
+约翰·洛克
+G.E. 摩尔
+罗伯特·诺齐克
+阿尔文·普兰丁格
+柏拉图
+希拉里·普特南
+托马斯·里德
+P.F. 斯特劳森
+W.V.O. 蒯因
+伯特兰·罗素
+维特根斯坦
+尼古拉斯·沃特斯多夫（英语：Nicholas Wolterstorff）
+维也纳学派
+
+
+
+
+
+
+
+
+理论
+
+
+
+真理融贯论
+建构主义认识论（英语：Constructivist epistemology）
+情境主义
+决定论
+经验主义
+进化知识论（英语：Evolutionary epistemology）
+可谬论
+女性主义知识论（英语：Feminist epistemology）
+信仰主义
+基础主义（英语：Foundationalism）
+发生认识论（英语：Genetic epistemology）
+整全观
+无限主义（英语：Infinitism）
+固有观念说（英语：Innatism）
+内在主义与外在主义（英语：Internalism_and_externalism）
+朴素实在论（英语：Naïve realism）
+自然主义知识论（英语：Naturalized_epistemology）
+现象主义
+实证主义
+还原主义
+可靠主义（英语：Reliabilism）
+表现实在论（英语：representative realism）
+理性主义
+怀疑论
+理型论
+先验观念论（英语：Transcendental idealism）
+均变论
+
+
+
+
+
+
+
+
+概念
+
+
+
+先验
+分析
+分析-综合区别
+信念
+因果
+常识
+陈述性知识
+探索性思考（英语：Exploratory thought）
+葛梯尔问题
+理由（英语：Theory of justification）
+知识
+归纳
+客观性
+归纳问题（英语：Problem of induction）
+他心问题
+知觉
+命题
+回溯论证（英语：Regress argument）
+简单（英语：Simplicity）
+思辨理性（英语：Speculative reason）
+真理
+更多...
+
+
+
+
+
+
+
+
+相关条目
+
+
+
+知识论概要
+Alethiology（英语：Alethiology）
+理性与信仰（英语：Faith and rationality）
+形式知识论（英语：Formal epistemology）
+元知识论（英语：Meta-epistemology）
+感知哲学（英语：Philosophy of perception）
+科学哲学
+社会知识论（英语：Social epistemology）
+
+
+
+
+
+
+
+
+
+
+
+主题
+分类
+专题
+历史
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4698037-4
+
+
+
+
+
+
+
+
+
+
+
+
+分类：认识论理论科学哲学理论隐藏分类：包含规范控制信息的维基百科条目

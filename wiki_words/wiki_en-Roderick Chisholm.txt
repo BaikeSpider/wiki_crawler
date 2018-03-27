@@ -1,0 +1,373 @@
+Roderick Chisholm
+For the Australian rower, see Roderick Chisholm (rower).
+
+
+Roderick Chisholm
+
+
+Born
+(1916-11-27)November 27, 1916
+North Attleboro, Massachusetts
+
+
+Died
+January 19, 1999(1999-01-19) (aged 82)
+Providence, Rhode Island
+
+
+Nationality
+American
+
+
+Alma mater
+Harvard University
+
+
+
+
+
+Era
+20th-century philosophy
+
+
+Region
+Western philosophy
+
+
+School
+Analytic philosophy
+
+
+
+Main interests
+
+Epistemology
+Metaphysics
+
+
+
+Notable ideas
+
+Direct attribution theory of reference, contrary-to-fact conditional, latitudinarianism
+
+
+
+
+Influences
+
+
+Curt John Ducasse, Clarence Irving Lewis,[1] Wilfrid Sellars, Donald C. Williams, Alexius Meinong
+
+
+
+
+
+
+
+
+Influenced
+
+
+Richard Taylor, Jaegwon Kim, Keith Lehrer, Robert C. Sleigh, Jr., Ernest Sosa, Peter D. Klein, Fred Feldman, Terence Penelhum, Selmer Bringsjord, Dean Zimmerman, David Benfield, Joseph Boyle, Bernard K. Symonds, Edmund Gettier
+
+
+
+
+
+
+
+
+
+Roderick Milton Chisholm (/ˈtʃɪzəm/; November 27, 1916 – January 19, 1999)[2] was an American philosopher known for his work on epistemology, metaphysics, free will, value theory, and the philosophy of perception. He was often called "the philosopher's philosopher."[3]
+
+
+
+Contents
+
+
+1 Life and career
+2 Philosophical work
+
+2.1 Direct attribution theory of reference
+2.2 "Chisholming"
+
+
+3 Bibliography
+4 See also
+5 Notes
+6 References
+7 External links
+
+
+
+Life and career[edit]
+Chisholm graduated from Brown University in 1938 and received his Ph.D. at Harvard University in 1942 under Clarence Irving Lewis and Donald C. Williams. He was drafted into the United States Army in July 1942 and did basic training at Fort McClellan in Alabama. Chisholm administered psychological tests in Boston and New Haven. In 1943 he married Eleanor Parker, whom he had met as an undergraduate at Brown.[4] He spent his academic career at Brown University and served as president of the Metaphysical Society of America in 1973.
+Chisholm trained many distinguished philosophers, including Selmer Bringsjord, Fred Feldman, Keith Lehrer, James Francis Ross, Richard Taylor, and Dean Zimmerman. He also had a significant influence on many colleagues, including Jaegwon Kim and Ernest Sosa.
+Philosophical work[edit]
+Chisholm's first major work was Perceiving (1957). His epistemological views were summed up in a popular text, Theory of Knowledge, which appeared in three very different editions (1966, 1977, and 1989). His masterwork was Person and Object, its title deliberately contrasting with W. V. O. Quine's Word and Object. Chisholm was a metaphysical Platonist in the tradition of Bertrand Russell, and a rationalist in the tradition of Russell, G. E. Moore, and Franz Brentano; he objected to Quine's anti-realism, behaviorism, and relativism.
+Chisholm defended the possibility of empirical knowledge by appeal to a priori epistemic principles whose consequences include that it is more reasonable to trust your senses and memory in most situations than to doubt them. His theory of knowledge was also famously "foundationalist" in character: all justified beliefs are either "directly evident" or supported by chains of justified beliefs that ultimately lead to beliefs that are directly evident. He also defended a controversial theory of volition called "agent causation" much like that of Thomas Reid. He argued that free will is incompatible with determinism, and believed that we do act freely; this combination of views is known as libertarianism.[citation needed] He developed a highly original theory of first person thought according to which the things we believe are properties, and believing them is a matter of self-attributing them. (A similar view was developed independently by David Kellogg Lewis, and enjoys considerable popularity, although it is now known mainly through Lewis's work.) Chisholm was also famous for defending the possibility of robust self-knowledge (against the skeptical arguments of David Hume), and an objective ethics of requirements similar to that of W. D. Ross. Chisholm's other books include The Problem of the Criterion, Perceiving, The First Person and A Realist Theory of the Categories, though his numerous journal articles are probably better known than any of these.
+Chisholm read widely in the history of philosophy, and frequently referred to the work of Ancient, Medieval, Modern, and even Continental philosophers (although the use he made of this material has sometimes been challenged). Nonetheless, he greatly respected the history of philosophy, in the face of a prevailing indifference among analytic philosophers. Chisholm translated some work by Brentano and by Husserl, and contributed to the post-1970 renaissance of mereology.
+Direct attribution theory of reference[edit]
+Chisholm argued for the primacy of the mental over linguistic intentionality, as suggested in the title of Person and Object (1976) that was deliberately contrasted with Quine's Word and Object (1960). In this regard, he defended the direct attribution theory of reference in The First Person (1981). He argues that we refer to things other than ourselves by indirectly attributing properties to them, and that we indirectly or relatively attribute properties to them by directly attributing properties to ourselves. Suppose the following bed scene:
+
+(1) a man M is in bed B with a woman W, namely, M-B-W, or
+(2) a woman W is in bed B with a man M, namely, W-B-M.
+
+If I were M and "U" were W, then I could directly attribute to myself the property (1) or M-B-W, while indirectly to "U" the property (2) or W-B-M, thereby referring to "U". That is, to say (1) is relatively to say (2), or to explicate M-B-W is to implicate W-B-M.
+His idea of indirect attribution (1981) is relevant to John Searle's "indirect speech act" (1975) and Paul Grice's "implicature" (1975), in addition to entailment.
+"Chisholming"[edit]
+Stylistically, Chisholm was known for formulating definitions and subsequently revising them in the light of counterexamples. This led to a joke definition of a new verb:[5]
+
+chisholm, v. To make repeated small alterations in a definition or example. “He started with definition (d.8) and kept chisholming away at it until he ended up with (d.8′′′′′′′′).”
+— Daniel Dennett and Asbjørn Steglich-Petersen, The Philosophical Lexicon, 2008
+
+While intended as a joke, the term has found some use in serious philosophical papers (for example,[6]).
+Bibliography[edit]
+
+Perceiving: A Philosophical Study (Ithaca: Cornell University Press) 1957.
+Realism and the Background of Phenomenology (Free Press) 1960.
+Person and Object: A Metaphysical Study (London: G. Allen & Unwin) 1976.
+Essays on the Philosophy of Roderick M. Chisholm (ed. R.M. Chisholm and Ernest Sosa. Amsterdam: Rodopi) 1979.
+The First Person: An Essay on Reference and Intentionality (Minneapolis: University of Minnesota Press) 1981.
+The Foundations of Knowing (Minneapolis: University of Minnesota Press) 1982.
+Brentano and Meinong Studies (Atlantic Highlands, N.J.: Humanities Press) 1982.
+Brentano and Intrinsic Value (New York: Cambridge University Press) 1986.
+Roderick M. Chisholm (ed. Radu J. Bogdan. Boston: D. Reidel Publishing Company) 1986.
+On Metaphysics (Minneapolis: University of Minnesota Press) 1989.
+Theory of knowledge (Englewood Cliffs, N.J.: Prentice Hall) 1st ed. 1966, 2nd ed. 1977, 3rd ed. 1989.
+"The Nature of Epistemic Principles," Nous 24: 209-16, 1990.
+"On the Simplicity of the Soul," Philosophical Perspectives 5: 157-81, 1991.
+"Agents, Causes, and Events: The Problem of Free Will" in: Timothy O'Connor, ed. Agents, Causes, and Events: Essays on Indeterminism and Free Will (New York: Oxford University Press): 95-100, 1995.
+A Realistic Theory of Categories: An Essay on Ontology (New York: Cambridge University Press) 1996.
+
+See also[edit]
+
+Franz Brentano
+American philosophy
+List of American philosophers
+
+Notes[edit]
+
+
+
+^ Hunter, Bruce, 2016 "Clarence Irving Lewis" in The Stanford Encyclopedia of Philosophy.
+^ Dictionary Of Modern American Philosophers (2005), p. 475.
+^ http://www.opencourtbooks.com/books_n/philosophy_chisholm.htm
+^ Chisholm, Roderick (1997). The philosophy of Roderick M. Chisholm. Chicago: Open Court. pp. 1–9. ISBN 0-8126-9357-4. 
+^ Feldman, Richard and Feldman, Fred, "Roderick Chisholm", The Stanford Encyclopedia of Philosophy (Winter 2008 Edition), Edward N. Zalta (ed.), http://plato.stanford.edu/archives/win2008/entries/chisholm/
+^ Kevin Meeker. Chisholming away at Plantinga's critique of epistemic deontology. Australasian Journal of Philosophy. Volume 76, Issue 1, 1998, pp. 90-96
+
+
+
+References[edit]
+
+Hahn, L. E., ed., 1997. The Philosophy of Roderick Chisholm (The Library of Living Philosophers). Open Court. Includes an autobiographical essay and a complete bibliography.
+"Roderick M. Chisholm" (Dean Zimmerman, Richard Foley), in Companion to Analytic Philosophy, ed. by David Sosa and Al Martinich (Oxford: Basil Blackwell, 2001), pp. 281–295
+
+External links[edit]
+
+Feldman, Richard; Feldman, Fred. "Roderick Chisholm". In Zalta, Edward N. Stanford Encyclopedia of Philosophy. 
+Information Philosopher on Roderick Chisholm on Free Will
+"On Roderick M. Chisholm"
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Analytic philosophy
+
+
+
+Philosophers
+
+
+
+J. L. Austin
+A. J. Ayer
+G. E. M. Anscombe
+Nick Bostrom
+Robert Brandom
+C. D. Broad
+Patricia Churchland
+David Chalmers
+Noam Chomsky
+James F. Conant
+Alice Crary
+Donald Davidson
+Daniel Dennett
+Cora Diamond
+Michael Dummett
+Paul Feyerabend
+Antony Flew
+Bas van Fraassen
+Gottlob Frege
+Jerry Fodor
+Philippa Foot
+Peter Geach
+Paul Grice
+Ian Hacking
+R. M. Hare
+Carl Gustav Hempel
+Peter van Inwagen
+Christine Korsgaard
+Saul Kripke
+Thomas Kuhn
+David Lewis
+Alasdair MacIntyre
+J. L. Mackie
+Norman Malcolm
+John McDowell
+G. E. Moore
+Ernest Nagel
+Thomas Nagel
+Robert Nozick
+Derek Parfit
+Alvin Plantinga
+Karl Popper
+Hilary Putnam
+W. V. O. Quine
+John Rawls
+Hans Reichenbach
+Richard Rorty
+Bertrand Russell
+Gilbert Ryle
+Moritz Schlick
+John Searle
+Wilfrid Sellars
+Peter Singer
+Richard Swinburne
+Charles Taylor
+Michael Walzer
+Bernard Williams
+Timothy Williamson
+Ludwig Wittgenstein
+
+
+
+
+
+Theories
+
+
+
+Actualism
+Analytical feminism
+Analytical Marxism
+Anti-realism
+Berlin Circle
+Descriptivist theory of names
+Emotivism
+Functional contextualism
+Linguistic turn
+Logical positivism
+Modal realism
+Model-dependent realism
+Neopragmatism
+Neurophilosophy
+Ordinary language philosophy
+Postanalytic philosophy
+Pragmatic theory of truth
+Verificationism
+Vienna Circle
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+Causal / Deductive / epistemic closure
+Concept
+Counterfactual
+Denotation / reference
+Definite description
+Factive
+Family resemblance
+Intuition
+Meaning (Proposition)
+Modality
+Natural kind / projectability
+Necessary–sufficient conditions
+Paradox of analysis
+Possible world
+Reduction
+Reflective equilibrium
+Rigid–flaccid designators
+Sense data
+Supervenience
+Thought experiment
+Truth function
+Truthmaker
+Truth-bearer
+Type–token distinction
+
+
+
+
+
+Related articles
+
+
+
+Aretaic turn
+Australian realism
+Communitarianism
+Ordinary language philosophy
+Philosophical logic
+Philosophy of language
+Philosophy of science
+Postanalytic philosophy
+
+
+
+
+
+
+
+
+ Index
+ Category
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 2482306
+LCCN: n50038168
+ISNI: 0000 0000 8350 2751
+GND: 118520474
+SELIBR: 181532
+SUDOC: 02833342X
+BNF: cb120190584 (data)
+SNAC: w6kx2x8x
+
+
+
+
+
+
+
+
+
+
+Categories: 1916 births1999 deathsPhilosophers from MassachusettsAnalytic philosophersAmerican philosophy academicsBrown University facultyEpistemologists20th-century American philosophersHarvard University alumniPhilosophy teachersPresidents of the Metaphysical Society of AmericaHidden categories: Articles with hCardsAll articles with unsourced statementsArticles with unsourced statements from November 2015Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with SELIBR identifiersWikipedia articles with BNF identifiersWikipedia articles with SNAC-ID identifiers

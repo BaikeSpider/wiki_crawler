@@ -1,0 +1,560 @@
+Case study
+In the social sciences and life sciences, a case study is a research method involving an up-close, in-depth, and detailed examination of a subject of study (the case), as well as its related contextual conditions.
+Case studies can be produced by following a formal research method. These case studies are likely to appear in formal research venues, as journals and professional conferences, rather than popular works. The resulting body of 'case study research' has long had a prominent place in many disciplines and professions, ranging from psychology, anthropology, sociology, and political science to education, clinical science, social work, and administrative science.[1][2]
+In doing case study research, the "case" being studied may be an individual, organization, event, or action, existing in a specific time and place. For instance, clinical science has produced both well-known case studies of individuals and also case studies of clinical practices.[3][4][5] However, when "case" is used in an abstract sense, as in a claim, a proposition, or an argument, such a case can be the subject of many research methods, not just case study research. Case studies may involve both qualitative and quantitative research methods.
+Another suggestion is that case study should be defined as a research strategy, an empirical inquiry that investigates a phenomenon within its real-life context. Case study research can mean single and multiple case studies, can include quantitative evidence, relies on multiple sources of evidence, and benefits from the prior development of theoretical propositions. Case studies should not be confused with qualitative research and they can be based on any mix of quantitative and qualitative evidence. Single-subject research provides the statistical framework for making inferences from quantitative case-study data.[2][6] This is also supported and well-formulated in Lamnek, 2005[page needed][6]: "The case study is a research approach, situated between concrete data taking techniques and methodologic paradigms."[this quote needs a citation]
+Case studies in research may be mistaken for the case method used in teaching.[citation needed]
+
+
+
+Contents
+
+
+1 Different types of case study research methods
+2 Case selection and structure
+3 Marketing Analysis
+4 Case presented
+5 The best method
+6 Advantages of surveys
+7 Limitation of the method
+8 Types of case studies
+9 Case Studies in Business
+10 Generalizing from case studies
+11 History
+12 Related uses
+13 See also
+14 References
+15 Further reading
+16 External links
+
+
+
+Different types of case study research methods[edit]
+Ridder (2017)[7] (similarly also Welch et al., 2011[8]) distinguishes four common case study approaches. First, there is the “no theory first” type of case study design, which is closely connected to Eisenhardt’s methodological work. The second type of research design is about “gaps and holes”, following Yin’s guidelines and making positivist assumptions. A third design deals with a “social construction of reality”, which is represented by Stake. Finally, the reason for case study research can also be to identify “anomalies”. A representative scholar of this approach is Burawoy. Each of these four approaches has its areas of application, but it is important to understand their unique ontological and epistomological assumptions. There are substantial methodological differences between these approaches.
+Besides these research methods are very different in nature, "case study" can also refer to a teaching method.
+Case selection and structure[edit]
+An average, or typical case, is often not the richest in information. In clarifying lines of history and causation it is more useful to select subjects that offer an interesting, unusual or particularly revealing set of circumstances. A case selection that is based on representativeness will seldom be able to produce these kinds of insights. When selecting a case for a case study, researchers will therefore use information-oriented sampling, as opposed to random sampling.[9] Outlier cases (that is, those which are extreme, deviant or atypical) reveal more information than the potentially representative case, as seen in the cases selected for more qualitative safety scientific analyses of accidents for example (see e.g. [10][11]). A case may be chosen because of the inherent interest of the case or the circumstances surrounding it. Alternatively it may be chosen because of a researchers' in-depth local knowledge; where researchers have this local knowledge they are in a position to "soak and poke" as Fenno[12] puts it, and thereby to offer reasoned lines of explanation based on this rich knowledge of setting and circumstances.
+Three types of cases may thus be distinguished for selection:
+
+Key cases
+Outlier cases
+Local knowledge cases
+
+Whatever the frame of reference for the choice of the subject of the case study (key, outlier, local knowledge), there is a distinction to be made between the subject and the object of the case study. The subject is the “practical, historical unity”[13] through which the theoretical focus of the study is being viewed. The object is that theoretical focus – the analytical frame. Thus, for example, if a researcher were interested in US resistance to communist expansion as a theoretical focus, then the Korean War might be taken to be the subject, the lens, the case study through which the theoretical focus, the object, could be viewed and explicated.[14]
+Beyond decisions about case selection and the subject and object of the study, decisions need to be made about purpose, approach and process in the case study. Thomas[15] thus proposes a typology for the case study wherein purposes are first identified (evaluative or exploratory), then approaches are delineated (theory-testing, theory-building or illustrative), then processes are decided upon, with a principal choice being between whether the study is to be single or multiple, and choices also about whether the study is to be retrospective, snapshot or diachronic, and whether it is nested, parallel or sequential. It is thus possible to take many routes through this typology, with, for example, an exploratory, theory-building, multiple, nested study, or an evaluative, theory-testing, single, retrospective study. The typology thus offers many permutations for case-study structure.[citation needed]
+A closely related study in medicine is the case report, which identifies a specific case as treated and/or examined by the authors as presented in a novel form. These are, to a differentiable degree, similar to the case study in that many contain reviews of the relevant literature of the topic discussed in the thorough examination of an array of cases published to fit the criterion of the report being presented. These case reports can be thought of as brief case studies with a principal discussion of the new, presented case at hand that presents a novel interest.[citation needed]
+Marketing Analysis[edit]
+Some issues are usually realised in a situation where marketing is concerned. One must, therefore, ensure that he/she can fully understand these things. In a case where the market of any organisation is in a messy state, the agency will always seek to find out some of the reasons why the scenario is that way. They will have to gather information that may help them in solving such issues. For this to be fully achieved, one must be able to carry out a market research to establish where the problem is. This, therefore, calls for the different methods which can be used in a situation where one wants to conduct a marketing research.[16] Some ways can be used to come up with the purpose of study that is most appropriate. The organisations have to choose one of the available techniques so that they can thoroughly conduct their investigations. Some of the primary methods that would be used included interviews, surveys, focus groups, observations and in some cases use field trials.[17] These methods mainly depended on the amount of cash they organisation is willing to spend in having this market research done and also the kind of data that is required by the group.
+Case presented[edit]
+In our case, the British Airways company is undergoing some series of complications. There have been some complaints from their client as about some issues.[18] Apart from those, there have been some serious issues such as most of their members of staff engaging in the strike as they demand their payments. There have also been significant delays in some of the secured flights just because of the problems associated with their computers. This has mainly sparked most of their clients who have, as a result, felt angered. Most of their brands have also been damaged.
+The best method[edit]
+In such a scenario, it is usually significant that we research so that we can know what the problem is. This can only be achieved through means that will enable us to find the suitable information that will help in preparation of the action plan to solve these issues. The best method to be used here is that of surveys. The organisation should be able to apply this way because they will be able to get sufficient information which pertains to their brand image from most of their clients. Most of the customers will also complete the survey by ensuring that they give reasons for their various attitudes towards the company’s brand.[citation needed]
+Advantages of surveys[edit]
+One of the benefits of this method is that the company will be able to get feedback from a significant portion of customers. Most of the customers will be able to answer the questions which will pertain to the brand and therefore a concrete feedback will be achieved. The other merit is the fact that it is less costly when compared to the others such as interviews. The company will just have to pay for the production of questionnaires used in the survey.[citation needed]
+Limitation of the method[edit]
+On the other hand, surveys also have demerits. One of the disadvantages is the fact that their design is inflexible. This is because the study that the company uses from the beginning, as well as its administration, cannot be changed throughout the process of gathering data that is meaningful. In some cases, the survey questions are usually inappropriate since the company will be forced to come up with items that will be used by the entire body of customers.[citation needed]
+Types of case studies[edit]
+In public-relations research, three types of case studies are used:[19]
+
+Linear,
+Process-oriented,
+Grounded.
+
+Under the more generalized category of case study exist several subdivisions, each of which is custom selected for use depending upon the goals of the investigator. These types of case study include the following:
+
+Illustrative case studies. These are primarily descriptive studies. They typically utilize one or two instances of an event to show the existing situation. Illustrative case studies serve primarily to make the unfamiliar familiar and to give readers a common language about the topic in question.
+Exploratory (or pilot) case studies. These are condensed case studies performed before implementing a large scale investigation. Their basic function is to help identify questions and select types of measurement prior to the main investigation. The primary pitfall of this type of study is that initial findings may seem convincing enough to be released prematurely as conclusions.
+Cumulative case studies. These serve to aggregate information from several sites collected at different times. The idea behind these studies is that the collection of past studies will allow for greater generalization without additional cost or time being expended on new, possibly repetitive studies.
+Critical instance case studies. These examine one or more sites either for the purpose of examining a situation of unique interest with little to no interest in generalization, or to call into question a highly generalized or universal assertion. This method is useful for answering cause and effect questions.
+
+Case Studies in Business[edit]
+At Harvard Law School In 1870, Christopher Langdell departed from the traditional lecture-and-notes approach to teaching contract law and began using cases pled before courts as the basis for class discussions.[20] By 1920, this practice had become the dominant pedagogical approach used by law schools in the United States;[21] it also was adopted by Harvard Business School.[citation needed]
+Research in business disciplines is usually based on a positivist epistemology,[22] namely, that reality is something that is objective and can be discovered and understood by a scientific examination of empirical evidence. But organizational behavior cannot always be easily reduced to simple tests that prove something to be true or false. Reality may be an objective thing, but it is understood and interpreted by people who, in turn, act upon it, and so critical realism, which addresses the connection between the natural and social worlds, is a useful basis for analyzing the environment of and events within an organization.[23]
+Case studies in management are generally used to interpret strategies or relationships, to develop sets of “best practices”, or to analyze the external influences or the internal interactions of a firm.[24] With several notable exceptions (e.g., Janis on Groupthink[25]), they are rarely used to propose new theories.[citation needed]
+Generalizing from case studies[edit]
+A critical case is defined as having strategic importance in relation to the general problem. A critical case allows the following type of generalization: "If it is valid for this case, it is valid for all (or many) cases." In its negative form, the generalization would run: "If it is not valid for this case, then it is not valid for any (or valid for only few) cases."[citation needed]
+The case study is effective for generalizing using the type of test that Karl Popper called falsification, which forms part of critical reflexivity. Falsification offers one of the most rigorous tests to which a scientific proposition can be subjected: if just one observation does not fit with the proposition it is considered not valid generally and must therefore be either revised or rejected. Popper himself used the now famous example: "All swans are white", and proposed that just one observation of a single black swan would falsify this proposition and in this way have general significance and stimulate further investigations and theory-building. The case study is well suited for identifying "black swans" because of its in-depth approach: what appears to be "white" often turns out on closer examination to be "black".[citation needed]
+Galileo Galilei built his rejection of Aristotle's law of gravity on a case study selected by information-oriented sampling and not by random sampling. The rejection consisted primarily of a conceptual experiment and later on a practical one. These experiments, with the benefit of hindsight, seem self-evident. Nevertheless, Aristotle's incorrect view of gravity had dominated scientific inquiry for nearly two thousand years before it was falsified. In his experimental thinking, Galileo reasoned as follows: if two objects with the same weight are released from the same height at the same time, they will hit the ground simultaneously, having fallen at the same speed. If the two objects are then stuck together into one, this object will have double the weight and will according to the Aristotelian view therefore fall faster than the two individual objects. This conclusion seemed contradictory to Galileo. The only way to avoid the contradiction was to eliminate weight as a determinant factor for acceleration in free fall. Galileo’s experimentalism did not involve a large random sample of trials of objects falling from a wide range of randomly selected heights under varying wind conditions, and so on. Rather, it was a matter of a single experiment, that is, a case study.[citation needed]
+Galileo’s view continued to be subjected to doubt, however, and the Aristotelian view was not finally rejected until half a century later, with the invention of the air pump. The air pump made it possible to conduct the ultimate experiment, known by every pupil, whereby a coin or a piece of lead inside a vacuum tube falls with the same speed as a feather. After this experiment, Aristotle’s view could be maintained no longer. What is especially worth noting, however, is that the matter was settled by an individual case due to the clever choice of the extremes of metal and feather. One might call it a critical case, for if Galileo’s thesis held for these materials, it could be expected to be valid for all or a large range of materials. Random and large samples were at no time part of the picture. However it was Galileo's view that was the subject of doubt as it was not reasonable enough to be the Aristotelian view. By selecting cases strategically in this manner one may arrive at case studies that allow generalization.[citation needed]
+History[edit]
+It is generally believed[by whom?] that Frederic Le Play first introduced the case-study method into social science in 1829 as a handmaiden to statistics in his studies of family budgets.[26][27]
+Other roots stem from the early 20th century, when researchers working in the disciplines of sociology, psychology, and anthropology began making case studies.[citation needed] In all these disciplines, case studies were an occasion for postulating new theories, as in the grounded-theory work of sociologists Barney Glaser (1930- ) and Anselm Strauss (1916-1996).[28]
+The popularity of case studies in testing theories or hypotheses has developed only in recent decades.[citation needed] One of the areas in which case studies have been gaining popularity is education and in particular educational evaluation.[29][30][31][32]
+Educators have used case studies as a teaching method and as part of professional development, especially in business and legal education. The problem-based learning (PBL) movement offers an example. When used in (non-business) education and professional development, case studies are often referred to as critical incidents.[citation needed]
+Ethnography exemplifies a type of case study, commonly found in communication case studies. Ethnography is the description, interpretation, and analysis of a culture or social group, through field research in the natural environment of the group being studied. The main method of ethnographic research is thorough observation, where the researcher observes study participants over an extended period of time within the participants' own environment.[33]
+Comparative case studies have become more popular[when?] in social science, policy, and education research. One approach encourages researchers to compare horizontally, vertically, and temporally.[34]
+Related uses[edit]
+Using case studies in research differs from their use in teaching, where they are commonly called case methods and casebook methods. Teaching case studies have been a highly popular pedagogical format in many fields ranging from business education to science education. Harvard Business School has been among the most prominent developers and users of teaching case studies.[35][36] Business school faculty generally develop case studies with particular learning objectives in mind. Additional relevant documentation, such as financial statements, time-lines, and short biographies, often referred to in the case study as exhibits, and multimedia supplements (such as video-recordings of interviews with the case subject) often accompany the case studies. Similarly, teaching case studies have become increasingly popular in science education. The National Center for Case Studies in Teaching Science[37] has made a growing body of case studies available for classroom use, for university as well as secondary school coursework.[38] Nevertheless, the principles involved in doing case study research contrast with those involved in doing case studies for teaching. Teaching case studies need not adhere strictly to the use of evidence, as they can be manipulated to satisfy educational needs. The generalizations from teaching case studies also may relate to pedagogical issues rather than the substance of the case being studied.[citation needed]
+Case studies are commonly used in case competitions and in job interviews for consulting firms such as McKinsey & Company, CEB Inc. and the Boston Consulting Group, in which candidates are asked to develop the best solution for a case in an allotted time frame.[39]
+See also[edit]
+
+Anecdotal evidence
+Casebook method
+Case method
+Case study in psychology
+Case competition
+Case report
+Washington County Closed-Circuit Educational Television Project
+
+References[edit]
+
+
+^ Milfs, Albert J.; Gabrielle Durepos; Elden Wiebe. (Eds.). (2010). Encyclopedia of Case Study Research. Sage Publications. California. p. xxxi. ISBN 978-1-4129-5670-3. 
+^ a b Robert K. Yin. Case Study Research: Design and Methods. 5th Edition. Sage Publications. California, 2014. Pages 5-6. ISBN 978-1-4522-4256-9
+^ Rolls, Geoffrey (2005). Classic Case Studies in Psychology. Hodder Education, Abingdon, England. 
+^ Suzanne Corkin. Permanent Present Tense: The Unforgettable Life of the Amnesic Patient, H.M.. Basic Books. New York. 2013. ISBN 978-0-4650-3159-7
+^ Rodger Kessler & Dale Stafford. Editors. Collaborative Medicine Case Studies: Evidence in Practice. Springer. New York. 2008. ISBN 978-0-3877-6893-9
+^ a b Siegfried Lamnek. Qualitative Sozialforschung. Lehrbuch. 4. Auflage. Beltz Verlag. Weihnhein, Basel, 2005
+^ Ridder (2017), https://doi.org/10.1007/s40685-017-0045-z
+^ Welch et al. (2011), https://doi.org/10.1057/jibs.2010.55
+^ Flyvbjerg, Bent (2016). "Five Misunderstandings About Case-Study Research". Qualitative Inquiry. 12 (2): 219. doi:10.1177/1077800405284363. 
+^ Huang, Huayi (2015). Development of New Methods to Support Systemic Incident Analysis (PDF) (Doctoral dissertation). Queen Mary University of London. [page needed]
+^ Underwood, Peter; Waterson, Patrick; Braithwaite, Graham (2016). "'Accident investigation in the wild' – A small-scale, field-based evaluation of the STAMP method for accident analysis". Safety Science. 82: 129–43. doi:10.1016/j.ssci.2015.08.014. 
+^ Fenno, Richard F (2014). "Observation, Context, and Sequence in the Study of Politics". American Political Science Review. 80: 3–15. doi:10.2307/1957081. JSTOR 1957081. 
+^ M. Wieviorka (1992) Case studies: history or sociology? In Ragin, Charles C.; Becker, Howard Saul, eds. (1992-07-31). What Is a Case?: Exploring the Foundations of Social Inquiry. Cambridge University Press (published 1992). p. 10. ISBN 9780521421881. Retrieved 2016-06-20. 
+^ Gary Thomas, How to do your Case Study (Thousand Oaks: Sage, 2011)[page needed]
+^ Thomas, Gary (2011). "A Typology for the Case Study in Social Science Following a Review of Definition, Discourse, and Structure". Qualitative Inquiry. 17 (6): 511–21. doi:10.1177/1077800411409884. 
+^ Armstrong et al., 2014[full citation needed]
+^ Guesalaga et al., 2016[full citation needed]
+^ Harrison, 2013[full citation needed]
+^ Stacks, Don W. (2013-08-20). "Case Study". In Heath, Robert L. Encyclopedia of Public Relations. SAGE Publications (published 2013). p. 99. ISBN 9781452276229. Retrieved 2016-06-20. There are three major types of case studies common to public relations: linear, process-oriented and grounded. 
+^ Kimball, B. A. (2009). The Inception of Modern Professional Education: C. C. Langdell, 1826–1906 (Chapel Hill: University of North Carolina Press, 2009)[page needed]
+^ Jackson, Giles (2011). "Rethinking the case method". Journal of Management Policy and Practice. 12 (5): 142–64. 
+^ Chua, Wai Fong (October 1986). "Radical Developments in Accounting Thought". The Accounting Review. 61 (4): 601–32. JSTOR 247360. 
+^ Bhaskar, Roy; Danermark, Berth (2006). "Metatheory, Interdisciplinarity and Disability Research: A Critical Realist Perspective". Scandinavian Journal of Disability Research. 8 (4): 278–97. doi:10.1080/15017410600914329. 
+^ Klonoski, Robert (2013). "The case for case studies: Deriving theory from evidence". Journal of Business Case Studies. 9 (3): 261–6. 
+^ Janis, Irving L (1973). "Groupthink and Group Dynamics: A Social Psychological Analysis of Defective Policy Decisions". Policy Studies Journal. 2 (1): 19–25. doi:10.1111/j.1541-0072.1973.tb00117.x. 
+^ (Les Ouvriers Europeens (2nd edition, 1879)[page needed]
+^ Healy, Sister Mary Edward (1947). "Le Play's Contribution to Sociology: His Method". The American Catholic Sociological Review. 8 (2): 97–110. doi:10.2307/3707549. JSTOR 3707549. 
+^ Barney G. Glaser and Strauss, The discovery of grounded theory: Strategies for qualitative research (New York: Aldine, 1967). ISBN 978-0202302607[page needed]
+^ Robert E. Stake, The Art of Case Study Research (Thousand Oaks: Sage, 1995). ISBN 0-8039-5767-X[page needed]
+^ MacDonald, Barry; Walker, Rob (2006). "Case‐study and the Social Philosophy of Educational Research". Cambridge Journal of Education. 5 (1): 2–11. doi:10.1080/0305764750050101. 
+^ MacDonald, B. (1978) The Experience of Innovation, CARE Occasional Publications #6, CARE, University of East Anglia, Norwich, UK[page needed]
+^ Kushner, S. (2000) Personalizing Evaluation. Thousand Oaks: Sage Publications[page needed]
+^ Encyclopedia of Consumer Culture[full citation needed]
+^ Bartlett, Lesley and Vavrus, Frances (2017). Rethinking Case Study Research. Routledge. CS1 maint: Multiple names: authors list (link) [page needed]
+^ Garvin, David A. (2003). "Making the Case: Professional Education for the World of Practice". Harvard Magazine. 106 (1): 56–107. 
+^ W. Ellet. The Case Study Handbook: How to Read, Write, and Discuss Persuasively about Cases. Harvard Business School Press. Boston, MA. 2007. ISBN 978-1-422-10158-2[page needed]
+^ Herreid, Clyde F. Herreid, Nancy A. Schiller, Carolyn Wright, Ky. "National Center for Case Study Teaching in Science (NCCSTS)". sciencecases.lib.buffalo.edu. 
+^ Palmer, Grier; Iordanou, Ioanna (2015). Exploring Cases Using Emotion, Open Space and Creativity. Case-based Teaching and Learning for the 21st Century. Libri. pp. 19–38. ISBN 978 1 909818 57 6. 
+^ Mamou, Victor. "Consulting Case Study". Management Consulting Formula. Retrieved 13 June 2016. 
+
+
+Further reading[edit]
+
+Baskarada, Sasa (October 19, 2014). "Qualitative Case Study Guidelines". The Qualitative Report. 19 (40): 1–25. SSRN 2559424 . 
+Bartlett, L. and Vavrus, F. (2017). Rethinking Case Study Research. New York: Routledge.
+Baxter, Pamela; Jack, Susan (2008). "Qualitative Case Study Methodology: Study Design and Implementation for Novice Researchers". The Qualitative Report. 13 (4): 544–59. 
+Dul, J. and Hak, T. (2008) Case Study Methodology in Business Research. Oxford: Butterworth-Heinemann. ISBN 978-0-7506-8196-4.
+Eisenhardt, Kathleen M (1989). "Building Theories from Case Study Research". The Academy of Management Review. 14 (4): 532–50. doi:10.2307/258557. JSTOR 258557. 
+George, Alexander L. and Bennett, Andrew. (2005) Case studies and theory development in the social sciences. London: MIT Press. ISBN 0-262-57222-2
+Gerring, John. (2005) Case Study Research. New York: Cambridge University Press. ISBN 978-0-521-67656-4
+Klonoski, Robert (2013) The case for case studies: Deriving theory from evidence, Journal of Business Case Studies 9/3, pp. 261-266. Available at: JBCS
+Kyburz-Graber, Regula (2004). "Does case-study methodology lack rigour? The need for quality criteria for sound case-study research, as illustrated by a recent case in secondary and higher education". Environmental Education Research. 10 (1): 53–65. doi:10.1080/1350462032000173706. 
+Mills, Albert J., Durepos, Gabrielle, and Wiebe, Elden. Eds. (2010) Encyclopedia of Case Study Research. (2 vols.). Thousand Oaks, CA: Sage. ISBN 978-1-4129-5670-3
+Ragin, Charles C. and Becker, Howard S. Eds. (1992) What is a Case? Exploring the Foundations of Social Inquiry. Cambridge: Cambridge University Press. ISBN 0-521-42188-8
+Scholz, Roland W. and Tietje, Olaf. (2002) Embedded Case Study Methods. Integrating Quantitative and Qualitative Knowledge. Thousand Oaks, CA: Sage. ISBN 0-7619-1946-5
+Straits, Bruce C. and Singleton, Royce A. (2004) Approaches to Social Research, 4th ed. Oxford: Oxford University Press. ISBN 0-19-514794-4. Available from: [1]
+Thomas, Gary. (2011) How to do your Case Study: A Guide for Students and Researchers. Thousand Oaks, CA: Sage.
+Yin, Robert. (2014) Case Study Research: Design and Methods. (5th Edition). Thousand Oaks, CA: Sage.
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to: Case study
+
+
+
+Case Studies from Colorado State University
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Clinical research and experimental design
+
+
+
+Overview
+
+
+
+Clinical trial
+
+Trial protocols
+Adaptive clinical trial
+
+
+Academic clinical trials
+Clinical study design
+
+
+
+
+
+Controlled study
+(EBM I to II-1; A to B)
+
+
+
+Randomized controlled trial
+
+Scientific experiment
+Blind experiment
+Open-label trial
+
+
+
+
+
+
+
+Observational study
+(EBM II-2 to II-3; B to C)
+
+
+
+Cross-sectional study vs. Longitudinal study, Ecological study
+Cohort study
+
+Retrospective
+Prospective
+
+
+Case-control study (Nested case-control study)
+Case series
+Case study
+Case report
+
+
+
+
+
+Epidemiology/
+methods
+
+
+
+occurrence: Incidence (Cumulative incidence)
+Prevalence
+
+Point
+Period
+
+
+
+
+association: absolute (Absolute risk reduction, Attributable risk, Attributable risk percent)
+relative (Relative risk, Odds ratio, Hazard ratio)
+
+
+other: Clinical endpoint
+Virulence
+Infectivity
+Mortality rate
+Morbidity
+Case fatality rate
+Specificity and sensitivity
+Likelihood-ratios
+Pre/post-test probability
+
+
+
+
+
+Trial/test types
+
+
+
+In vitro
+In vivo
+Animal testing
+Animal testing on non-human primates
+First-in-man study
+Multicenter trial
+Seeding trial
+Vaccine trial
+
+
+
+
+
+Analysis of clinical trials
+
+
+
+Risk–benefit ratio
+Systematic review
+Replication
+Meta-analysis
+Intention-to-treat analysis
+
+
+
+
+
+Interpretation of results
+
+
+
+Selection bias
+Survivorship bias
+Correlation does not imply causation
+Null result
+
+
+
+
+
+
+
+
+Category
+Glossary
+List of topics
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychology
+
+
+
+
+
+
+History
+Philosophy
+Portal
+Psychologist
+
+
+
+
+
+Basic psychology
+
+
+
+Abnormal
+Affective science
+Affective neuroscience
+Behavioral genetics
+Behavioral neuroscience
+Behaviorism
+Cognitive/Cognitivism
+Cognitive neuroscience
+Comparative
+Cross-cultural
+Cultural
+Developmental
+Differential
+Ecological
+Evolutionary
+Experimental
+Gestalt
+Intelligence
+Mathematical
+Neuropsychology
+Personality
+Positive
+Psycholinguistics
+Psychophysics
+Psychophysiology
+Quantitative
+Social
+Theoretical
+
+
+
+
+
+Applied psychology
+
+
+
+Anomalistic
+Applied behavior analysis
+Assessment
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Ergonomics
+Feminist
+Forensic
+Health
+Industrial and organizational
+Legal
+Media
+Military
+Music
+Occupational health
+Pastoral
+Political
+Psychometrics
+Psychotherapy
+Religion
+School
+Sport and exercise
+Suicidology
+Systems
+Traffic
+
+
+
+
+
+Methodologies
+
+
+
+Animal testing
+Archival research
+Behavior epigenetics
+Case study
+Content analysis
+Experiments
+Human subject research
+Interviews
+Neuroimaging
+Observation
+Qualitative research
+Quantitative research
+Self-report inventory
+Statistical surveys
+
+
+
+
+
+
+Psychologists
+
+
+
+
+William James (1842–1910)
+Ivan Pavlov (1849–1936)
+Sigmund Freud (1856–1939)
+Edward Thorndike (1874–1949)
+Carl Jung (1875–1961)
+John B. Watson (1878–1958)
+Clark L. Hull (1884–1952)
+Kurt Lewin (1890–1947)
+Jean Piaget (1896–1980)
+Gordon Allport (1897–1967)
+J. P. Guilford (1897–1987)
+Carl Rogers (1902–1987)
+Erik Erikson (1902–1994)
+B. F. Skinner (1904–1990)
+Donald O. Hebb (1904–1985)
+Ernest Hilgard (1904–2001)
+Harry Harlow (1905–1981)
+Raymond Cattell (1905–1998)
+Abraham Maslow (1908–1970)
+Neal E. Miller (1909–2002)
+Jerome Bruner (1915–2016)
+Donald T. Campbell (1916–1996)
+Hans Eysenck (1916–1997)
+Herbert A. Simon (1916–2001)
+David McClelland (1917–1998)
+Leon Festinger (1919–1989)
+George Armitage Miller (1920–2012)
+Richard Lazarus (1922–2002)
+Stanley Schachter (1922–1997)
+Robert Zajonc (1923–2008)
+Albert Bandura (b. 1925)
+Roger Brown (1925–1997)
+Endel Tulving (b. 1927)
+Lawrence Kohlberg (1927–1987)
+Noam Chomsky (b. 1928)
+Ulric Neisser (1928–2012)
+Jerome Kagan (b. 1929)
+Walter Mischel (b. 1930)
+Elliot Aronson (b. 1932)
+Daniel Kahneman (b. 1934)
+Paul Ekman (b. 1934)
+Michael Posner (b. 1936)
+Amos Tversky (1937–1996)
+Bruce McEwen (b. 1938)
+Larry Squire (b. 1941)
+Richard E. Nisbett (b. 1941)
+Martin Seligman (b. 1942)
+Ed Diener (b. 1946)
+Shelley E. Taylor (b. 1946)
+John Anderson (b. 1947)
+Ronald C. Kessler (b. 1947)
+Joseph E. LeDoux (b. 1949)
+Richard Davidson (b. 1951)
+Susan Fiske (b. 1952)
+Roy Baumeister (b. 1953)
+
+
+
+
+
+Lists
+
+
+
+Counseling topics
+Disciplines
+Important publications
+Organizations
+Outline
+Psychologists
+Psychotherapies
+Research methods
+Schools of thought
+Timeline
+Topics
+
+
+
+
+
+
+
+
+Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+Categories: EvidenceEvaluation methodsScientific methodHidden categories: Wikipedia articles needing page number citations from December 2017Articles needing more detailed referencesCS1 maint: Multiple names: authors listArticles with unsourced quotesAll articles with unsourced statementsArticles with unsourced statements from December 2017Articles with specifically marked weasel-worded phrases from June 2017Articles with unsourced statements from June 2017All articles with vague or ambiguous timeVague or ambiguous time from June 2017

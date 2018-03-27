@@ -1,0 +1,1445 @@
+Occupational health psychology
+
+
+Part of a series on
+
+
+Psychology
+
+
+
+
+
+
+
+Outline
+History
+Subfields
+
+
+
+
+
+
+Basic types
+
+
+Abnormal
+Behavioral genetics
+Biological
+Cognitive/Cognitivism
+Comparative
+Cross-cultural
+Cultural
+Differential
+Developmental
+Evolutionary
+Experimental
+Mathematical
+Neuropsychology
+Personality
+Positive
+Quantitative
+Social
+
+
+
+
+
+
+
+
+Applied psychology
+
+
+Applied behavior analysis
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Environmental
+Ergonomics
+Forensic
+Health
+Humanistic
+Industrial and organizational
+Legal
+Medical
+Military
+Music
+Occupational health
+Political
+Religion
+School
+Sport
+Traffic
+
+
+
+
+
+
+
+
+Lists
+
+
+Disciplines
+Organizations
+Psychologists
+Psychotherapies
+Publications
+Research methods
+Theories
+Timeline
+Topics
+
+
+
+
+
+
+
+
+ Psychology portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Occupational health psychology (OHP) is an interdisciplinary area of psychology that is concerned with the health and safety of workers.[1][2][3] OHP addresses a number of major topic areas including the impact of occupational stressors on physical and mental health, the impact of involuntary unemployment on physical and mental health, work-family balance, workplace violence and other forms of mistreatment, accidents and safety, and interventions designed to improve/protect worker health.[1][2] OHP emerged from two distinct disciplines within applied psychology, namely, health psychology and industrial and organizational psychology, as well as occupational medicine.[4] OHP has also been informed by other disciplines including industrial sociology, industrial engineering, and economics,[5] as well as preventive medicine and public health.[6] OHP is concerned with the relationship of psychosocial workplace factors to the development, maintenance, and promotion of workers' health and that of their families.[1][6] Thus the field's focus is work-related factors that can lead to injury, disease, and distress.
+
+
+
+Contents
+
+
+1 Historical overview
+
+1.1 Origins
+1.2 Recognition as a field of study
+1.3 Emergence as a discipline
+
+
+2 Research methods
+
+2.1 Standard research designs
+2.2 Quantitative methods
+2.3 Qualitative research methods
+
+
+3 Research topics
+
+3.1 Important theoretical models in OHP research
+
+3.1.1 Demand-control-support model
+3.1.2 Job demands-resources model
+3.1.3 Effort-reward imbalance model
+
+
+3.2 Occupational stress and cardiovascular disease
+
+3.2.1 Cardiovascular disease
+3.2.2 Job loss and cardiovascular health
+3.2.3 Job-related burnout and cardiovascular health
+
+
+3.3 Musculoskeletal disorders
+3.4 Workplace mistreatment
+
+3.4.1 Workplace incivility
+3.4.2 Abusive supervision
+3.4.3 Workplace bullying
+3.4.4 Sexual harassment
+3.4.5 Workplace violence
+
+
+3.5 Mental disorder
+
+3.5.1 Alcohol abuse
+3.5.2 Depression
+3.5.3 Personality disorders
+3.5.4 Schizophrenia
+
+
+3.6 Psychological distress
+
+3.6.1 Psychosocial working conditions
+3.6.2 Unemployment
+3.6.3 Economic insecurity
+3.6.4 Work-family
+
+
+3.7 Workplace interventions
+
+3.7.1 Industrial organizations
+3.7.2 OHP research at the National Institute for Occupational Safety and Health
+3.7.3 Military and first responders
+3.7.4 Modestly scaled interventions
+3.7.5 Health promotion
+3.7.6 Prevention
+
+
+3.8 Accidents and safety
+
+
+4 See also
+5 References
+6 Further reading
+7 External links
+
+
+
+Historical overview[edit]
+Origins[edit]
+The Industrial Revolution prompted thinkers, such as Karl Marx with his theory of alienation,[7] to concern themselves with the nature of work and its impact on workers.[1] Taylor's (1911) Principles of Scientific Management[8][9] as well as Mayo’s research in the late 1920s and early 1930s on workers at the Hawthorne Western Electric plant[10] helped to inject the impact of work on workers into the subject matter psychology addresses. The creation in 1948 of the Institute for Social Research (ISR) at the University of Michigan was important because of its research on occupational stress and employee health.[11][12][13]
+Research in the U.K. by Trist and Bamforth (1951) suggested the reduction in autonomy that accompanied organizational changes in English coal mining operations adversely affected worker morale.[14] Arthur Kornhauser’s work in the early 1960s on the mental health of automobile workers in Michigan[15] also contributed to the development of the field.[16][17] A 1971 study by Gardell examined the impact of work organization on mental health in Swedish pulp and paper mill workers and engineers.[18] Research on the impact of unemployment on mental health was conducted at the University of Sheffield’s Institute of Work Psychology.[9] In 1970 Kasl and Cobb documented the impact of unemployment on blood pressure in U.S. factory workers.[19]
+Recognition as a field of study[edit]
+A number of individuals are associated with the creation of the term “occupational health psychology” or "occupational health psychologist."[20] They include Ferguson (1977),[21] Feldman (1985),[22] Everly (1986),[4] and Raymond, Wood, and Patrick (1990).[23] In 1988, in response to a dramatic increase in the number of stress-related worker compensation claims in the U.S., the National Institute for Occupational Safety and Health (NIOSH) "recognized stress-related psychological disorders as a leading occupational health risk" (p. 201).[24][25] When this change was coupled with an increased recognition of the impact of stress on a range of problems in the workplace, NIOSH found that their stress-related programs were significantly increasing in prominence.[24] In 1990, Raymond et al.[23] argued that the time has come for doctoral-level psychologists to get interdisciplinary OHP training, integrating health psychology with public health, because creating healthy workplaces should be a goal for the field.
+Emergence as a discipline[edit]
+Established in 1987, Work & Stress is the first and "longest established journal in the fast developing discipline that is occupational health psychology" (p. 1).[26] Three years later, the American Psychological Association (APA) and NIOSH jointly organized the first international Work, Stress, and Health conference in Washington, DC. The conference has since become a biannual OHP meeting.[27] In 1996, the Journal of Occupational Health Psychology was published by APA. That same year, the International Commission on Occupational Health created the Work Organisation and Psychosocial Factors (ICOH-WOPS) scientific committee,[28][29] which focused primarily on OHP.[27] In 1999, the European Academy of Occupational Health Psychology (EA-OHP) was established at the first European Workshop on Occupational Health Psychology in Lund, Sweden.[30] That workshop is considered to be the first EA-OHP conference, the first of a continuing series of conferences EA-OHP organizes and devotes to OHP research and practice.[30]
+In 2000 the informal International Coordinating Group for Occupational Health Psychology (ICGOHP) was founded for the purpose of facilitating OHP-related research, education, and practice as well as coordinating international conference scheduling.[27] Also in 2000, Work & Stress became associated with the EA-OHP.[26] In 2005, the Society for Occupational Health Psychology (SOHP) was established in the United States.[31] In 2008, SOHP joined with APA and NIOSH in co-sponsoring the Work, Stress, and Health conferences.[32] In 2017, SOHP and Springer began to publish an OHP-related journal Occupational Health Science.[33]
+Research methods[edit]
+Main article: List of psychological research methods
+The main purpose of OHP research is to understand how working conditions affect worker health,[34] use that knowledge to design interventions to protect and improve worker health, and evaluate the effectiveness of such interventions.[35] The research methods used in OHP are similar to those used in other branches of psychology.
+Standard research designs[edit]
+Self-report survey methodology is the most used approach in OHP research.[36] Cross-sectional designs are commonly used; case-control designs have been employed much less frequently.[37] Longitudinal designs[38] including prospective cohort studies and experience sampling studies[39] can examine relationships over time.[40][41] OHP-related research devoted to evaluating health-promoting workplace interventions has relied on quasi-experimental designs[42][43] and, less commonly, experimental approaches.[44][45]
+Quantitative methods[edit]
+Statistical methods commonly used in other areas of psychology are also used in OHP-related research. Statistical methods used include structural equation modeling[46] and hierarchical linear modeling[47] (HLM; also known as multilevel modeling). HLM can better adjust for similarities between employees[47] and is especially well suited to evaluating the lagged impact of work stressors on health outcomes; in this research context HLM can help minimize censoring and is well-suited to experience sampling studies.[48] Meta-analyses have been used to aggregate data (modern approaches to meta-analyses rely on HLM), and draw conclusions across multiple studies.[40]
+Qualitative research methods[edit]
+Qualitative research methods include interviews,[49][50] focus groups,[51] and self-reported, written descriptions of stressful incidents at work.[52][53] First-hand observation of workers on the job has also been used,[54] as has participant observation.[55]
+Research topics[edit]
+Important theoretical models in OHP research[edit]
+Three influential theoretical models in OHP research are the demand-control-support, demand-resources, and effort-reward imbalance models.
+Demand-control-support model[edit]
+The most influential model in OHP research has been the original demand-control model.[1] According to the model, the combination of low levels of work-related decision latitude (i.e., autonomy and control over the job) combined with high workloads (high levels of work demands) can be particularly harmful to workers (they can lead to "job strain," a term representing the combination of low decision latitude and high workload leading to poorer mental or physical health).[56] The model suggests not only that these two job factors are related to poorer health but that high levels of decision latitude on the job will buffer or reduce the adverse health impact of high levels of demands. Research has clearly supported the idea that decision latitude and demands relate to strains, but research findings about buffering have been mixed with only some studies providing support.[57] The demand-control model asserts that job control can come in two broad forms: ‘skill discretion’ and ‘decision authority’.[58] Skill discretion refers to the level of skill and creativity required on the job and the flexibility an employee is permitted in deciding what skills to use (e.g. opportunity to use skills, similar to job variety).[59] Decision authority refers to employees being able to make decisions about their work (e.g., having autonomy).[59] These two forms of job control are traditionally assessed together in a composite measure of decision latitude; there is, however, some evidence that the two types of job control may not be similarly related to health outcomes.[58][60]
+About a decade after Karasek first introduced the demand-control model, Johnson, Hall, and Theorell (1989),[61] in the context of research on heart disease, extended the model to include social isolation. Johnson et al. labeled the combination of high levels of demands, low levels of control, and low levels of coworker support “iso-strain.” The resulting expanded model has been labeled the demand–control–support (DCS) model. Research that followed the development of this model has suggested that one or more of the components of the DCS model (high psychological workload, low control, and lack of social support), if not the exact combination represented by iso-strain, have adverse effects of physical and mental health.[1]
+Job demands-resources model[edit]
+An alternative model, the job demands-resources (JD-R) model,[62] grew out of the DCS model. In the JD-R model, the category of demands (workload) remains more or less the same as in the DCS model although the JD-R model more specifically includes physical demands. Resources, however, are defined as job-relevant features that help workers achieve work-related goals, lessen job demands, or stimulate personal growth. Control and support as per the DCS model are subsumed under resources. Resources can be external (provided by the organization) or internal (part of a worker's personal make-up). In addition to control and support, resources encompassed by the model can also include physical equipment, software, performance feedback from supervisors, the worker's own coping strategies, etc. There has not, however, been as much research on the JD-R model as there has been on the constituents of the DC or DCS model.[1]
+Effort-reward imbalance model[edit]
+After the DCS model, the, perhaps, second most influential model in OHP research has been the effort-reward imbalance (ERI) model. It links job demands to the rewards employees receive for the job.[63][64] That model holds that high work-related effort coupled with low control over job-related intrinsic (e.g., recognition) and extrinsic (e.g., pay) rewards triggers high levels of activation in neurohormonal pathways that, cumulatively, are thought to exert adverse effects on mental and physical health.
+Occupational stress and cardiovascular disease[edit]
+Main articles: Occupational stress and Cardiovascular disease
+A number of work-related, psychosocial factors have been linked to cardiovascular disease (CVD).
+Cardiovascular disease[edit]
+Research has identified health-behavioral and biological factors that are related to increased risk for CVD. These risk factors include smoking, obesity, low density lipoprotein (the "bad" cholesterol), lack of exercise, and blood pressure. Psychosocial working conditions are also risk factors for CVD.[1] In a case-control study involving two large U.S. data sets, Murphy (1991) found that hazardous work situations, jobs that required vigilance and responsibility for others, and work that required attention to devices were related to increased risk for cardiovascular disability.[65] These included jobs in transportation (e.g., air traffic controllers, airline pilots, bus drivers, locomotive engineers, truck drivers), preschool teachers, and craftsmen. Among 30 studies involving men[66] and women,[67] most have found an association between workplace stressors and CVD.
+Fredikson, Sundin, and Frankenhaeuser (1985) found that reactions to psychological stressors include increased activity in the brain axes which play an important role in the regulation of blood pressure,[68][69] particularly ambulatory blood pressure. A meta-analysis and systematic review involving 29 samples linked job strain to elevated ambulatory blood pressure.[70] Belkić et al. (2000)[71] found that many of the 30 studies covered in their review revealed that decision latitude and psychological workload exerted independent effects on CVD; two studies found synergistic effects, consistent with the strictest version of the demand-control model.[72][73] A review of 17 longitudinal studies having reasonably high internal validity found that 8 showed a significant relation between the combination of low latitude and high workload (the job strain condition) and CVD and 3 more showed a nonsignificant relation.[74] The findings, however, were clearer for men than for women, on whom data were more sparse. In a massive (n > 197,000) longitudinal study that combined data from 13 independent studies, Kivimäki et al. (2012)[75] found that, controlling for other risk factors, the combination of high levels of demands and low control at baseline increased the risk of CVD in initially healthy workers by between 20 and 30% over a follow-up period that averaged 7.5 years. In this study the effects were similar for men and women.
+There is evidence that, consistent with the ERI model, high work-related effort coupled with low control over job-related rewards adversely affects cardiovascular health. At least five studies of men have linked effort-reward imbalance with CVD.[76]
+Job loss and cardiovascular health[edit]
+Main article: Unemployment § Individual
+Research has suggested that job loss adversely affects cardiovascular health[19][77] as well as health in general.[78][79]
+Job-related burnout and cardiovascular health[edit]
+Main article: Occupational burnout
+There is evidence from a prospective study that job-related burnout, controlling for traditional risk factors, such as smoking and hypertension, increases the risk of coronary heart disease over the course of the next three and a half years in workers who were initially disease-free.[80]
+Musculoskeletal disorders[edit]
+Main article: Musculoskeletal disorders
+Musculoskeletal disorders (MSDs) involve injury and pain to the joints and muscles of the body. Approximately 2.5 million workers in the US suffer from MSDs,[81] which is the third most common cause of disability and early retirement for American workers.[82] In Europe MSDs are the most often reported workplace health problem.[83] The development of musculoskelelatal problems cannot be solely explained in the basis of biomechanical factors (e.g., repetitive motion) although such factors are important contributors.[84] There has been evidence that psychosocial workplace factors (e.g., job strain) also contribute to the development of musculoskeletal problems.[84][85][86]
+Workplace mistreatment[edit]
+Main articles: Workplace aggression and Workplace violence
+There are many forms of workplace mistreatment ranging from relatively minor incivility to serious cases of bullying and violence.[87]
+Workplace incivility[edit]
+Main article: Incivility
+Workplace incivility has been defined as "low-intensity deviant behavior with ambiguous intent to harm the target....Uncivil behaviors are characteristically rude and discourteous, displaying a lack of regard for others" (p. 457).[88] Incivility is distinct from violence. Examples of workplace incivility include insulting comments, denigration of the target's work, spreading false rumors, social isolation, etc. A summary of research conducted in Europe suggests that workplace incivility is common there.[89] In research on more than 1000 U.S. civil service workers, more than 70% of the sample experienced workplace incivility in the past five years. Compared to men, women were more exposed to incivility; incivility was associated with psychological distress and reduced job satisfaction.[89]
+Abusive supervision[edit]
+Main article: Abusive supervision
+Abusive supervision is the extent to which a supervisor engages in a pattern of behavior that harms subordinates.[90][91]
+Workplace bullying[edit]
+Main article: Workplace bullying
+Although definitions of workplace bullying vary, it involves a repeated pattern of harmful behaviors directed towards an individual by one or more others who have more power than the target.[92] Workplace bullying is sometimes termed mobbing.
+Sexual harassment[edit]
+Main article: Sexual harassment
+Sexual harassment is behavior that denigrates or mistreats an individual due to his or her gender, creates an offensive workplace, and interferes with an individual being able to do the job.[93]
+Workplace violence[edit]
+Main article: Workplace violence
+Workplace violence is a significant health hazard for employees.[1]
+
+
+
+-Nonfatal assault-
+
+
+
+Most workplace assaults are nonfatal, with an annual physical assault rate of 6% in the U.S.[94] Assaultive behavior in the workplace often produces injury, psychological distress, and economic loss. One study of California workers found a rate of 72.9 non-fatal, officially documented assaults per 100,000 workers per year, with workers in the education, retail, and health care sectors subject to excess risk.[95] A Minnesota workers' compensation study found that women workers had a twofold higher risk of being injured in an assault than men, and health and social service workers, transit workers, and members of the education sector were at high risk for injury compared to workers in other economic sectors.[96] A West Virginia workers' compensation study found that workers in the health care sector and, to a lesser extent, the education sector were at elevated risk for assault-related injury.[97] Another workers' compensation study found that excessively high rates of assault-related injury in schools, healthcare, and, to a lesser extent, banking.[98] In addition to the physical injury that results from being a victim of workplace violence, individuals who witness such violence without being directly victimized are at increased risk for experiencing adverse effects, as found in a study of Los Angeles teachers.[99]
+
+
+
+-Homicide-
+
+
+
+In 1996 there were 927 work-associated homicides in the United States,[100] in a labor force that numbered approximately 132,616,000.[101] The rate works out to be about 7 homicides per million workers for the one year. Men are more likely to be victims of workplace homicide than women.[96]
+Mental disorder[edit]
+Main article: Mental disorder
+Research has found that psychosocial workplace factors are among the risk factors for a number of categories of mental disorder.
+Alcohol abuse[edit]
+Main article: Alcohol abuse
+Workplace factors can contribute to alcohol abuse and dependence of employees. Rates of abuse can vary by occupation, with high rates in the construction and transportation industries as well as among waiters and waitresses.[102] Within the transportation sector, heavy truck drivers and material movers were at especially high risk. A prospective study of ECA subjects who were followed one year after the initial interviews provided data on newly incident cases of alcohol abuse and dependence.[103] The study found that workers in jobs that combined low control with high physical demands were at increased risk of developing alcohol problems although the findings were confined to men.
+Depression[edit]
+Main article: Major depressive disorder
+Using data from the ECA study, Eaton, Anthony, Mandel, and Garrison (1990) concluded that members of three occupational groups, lawyers, secretaries, and special education teachers (but not other types of teachers) showed elevated rates of DSM-III major depression, adjusting for social demographic factors.[104] The ECA study involved representative samples of American adults from five U.S. geographical areas, providing relatively unbiased estimates of the risk of mental disorder by occupation; however, because the data were cross-sectional, no conclusions bearing on cause-and-effect relations are warranted. Evidence from a Canadian prospective study indicated that individuals in the highest quartile of occupational stress (high-strain jobs as per the demand-control model) are at increased risk of experiencing an episode of major depression.[105] A meta-analysis that pooled the results of 11 well-designed longitudinal studies indicated that a number of facets of the psychosocial work environment (e.g., low decision latitude, high psychological workload, lack of social support at work, effort-reward imbalance, and job insecurity) increase the risk of common mental disorders such as depression.[40]
+Personality disorders[edit]
+Main article: Personality disorder
+Depending on the diagnosis, severity and individual, and the job itself, personality disorders can be associated with difficulty coping with work or the workplace, potentially leading to problems with others by interfering with interpersonal relationships. Indirect effects also play a role; for example, impaired educational progress or complications outside of work, such as substance abuse and co-morbid mental disorders, can plague sufferers. However, personality disorders can also bring about above-average work abilities by increasing competitive drive or causing the sufferer to exploit his or her co-workers.[106][107]
+Schizophrenia[edit]
+Main article: Schizophrenia
+In a case-control study, Link, Dohrenwend, and Skodol found that, compared to depressed and well control subjects, schizophrenic patients were more likely to have had jobs, prior to their first episode of the disorder, that exposed them to “noisesome” work characteristics (e.g., noise, humidity, heat, cold, etc.).[108] The jobs tended to be of higher status than other blue collar jobs, suggesting that downward drift in already-affected individuals does not account for the finding. One explanation involving a diathesis-stress model suggests that the job-related stressors helped precipitate the first episode in already-vulnerable individuals. There is some supporting evidence from the Epidemiologic Catchment Area (ECA) study.[109]
+Psychological distress[edit]
+Main article: Psychological distress
+Longitudinal studies have suggested adverse working conditions can contribute to the development of psychological distress.[110] Psychological distress refers to negative affect, without the individuals necessarily meeting criteria for a psychiatric disorder.[111][112] Psychological distress is often expressed in affective (depressive), psychophysical or psychosomatic (e.g., headaches, stomach aches, etc.), and anxiety symptoms. The relation of adverse working conditions to psychological distress is thus an important avenue of research. Job satisfaction is also related to negative health outcomes.[113][114]
+Psychosocial working conditions[edit]
+Parkes (1982)[115] studied the relation of working conditions to psychological distress in British student nurses. She found that in this "natural experiment," student nurses experienced higher levels of distress and lower levels of job satisfaction in medical wards than in surgical wards; compared to surgical wards, medical wards make greater affective demands on the nurses. In another study, Frese (1985)[116] concluded that objective working conditions give rise to subjective stress and psychosomatic symptoms in blue collar German workers. In addition to the above studies, a number of other well-controlled longitudinal studies have implicated work stressors in the development of psychological distress and reduced job satisfaction.[117][118]
+Unemployment[edit]
+A comprehensive meta-analysis involving 86 studies indicated that involuntary job loss is linked to increased psychological distress.[119] The impact of involuntary unemployment was comparatively weaker in countries that had greater income equality and better social safety nets.[119] The research evidence also indicates that poorer mental health slightly, but significantly, increases the risk of later job loss.[119]
+Economic insecurity[edit]
+Some OHP research is concerned with (a) understanding the impact of economic crises on individuals' physical and mental health and well-being and (b) calling attention to personal and organizational means for ameliorating the impact of the crisis.[120] Economic insecurity contributes, at least partly, to psychological distress and work-family conflict.[121] Ongoing job insecurity, even in the absence of job loss, is related to higher levels of depressive symptoms, psychological distress, and worse overall health.[122]
+Work-family[edit]
+Main articles: Work–family conflict and Double burden
+Employees must balance their working lives with their home lives. Work–family conflict is a situation in which the demands of work conflict with the demands of family, making it difficult to adequately do both, giving rise to distress.[121][123]
+Workplace interventions[edit]
+A number of stress management interventions have emerged that have shown demonstrable effects in reducing job stress.[124] Cognitive behavioral interventions have tended to have greatest impact on stress reduction.[124]
+Industrial organizations[edit]
+OHP interventions often concern both the health of the individual and the health of the organization. Adkins (1999) described the development of one such intervention, an organizational health center (OHC) at a California industrial complex.[125] The OHC helped to improve both organizational and individual health as well as help workers manage job stress. Innovations included labor-management partnerships, suicide risk reduction, conflict mediation, and occupational mental health support. OHC practitioners also coordinated their services with previously underutilized local community services in the same city, thus reducing redundancy in service delivery.
+Hugentobler, Israel, and Schurman (1992) detailed a different, multi-layered intervention in a mid-sized Michigan manufacturing plant.[126] The hub of the intervention was the Stress and Wellness Committee (SWC) which solicited ideas from workers on ways to improve both their well-being and productivity. Innovations the SWC developed included improvements that ensured two-way communication between workers and management and reduction in stress resulting from diminished conflict over issues of quantity versus quality. Both the interventions described by Adkins and Hugentobler et al. had a positive impact on productivity.
+OHP research at the National Institute for Occupational Safety and Health[edit]
+Main article: National Institute for Occupational Safety and Health
+Currently there are efforts under way at NIOSH to help reduce the incidence of preventable disorders (e.g., sleep apnea) among heavy-truck and tractor-trailer drivers and, concomitantly, the life-threatening accidents to which the disorders lead,[127] improve the health and safety of workers who are assigned to shift work or who work long hours,[128] and reduce the incidence of falls among iron workers.[129]
+Military and first responders[edit]
+The Mental Health Advisory Teams of the United States Army employ OHP-related interventions with combat troops.[130][131] OHP also has a role to play in interventions aimed at helping first responders.[132][133]
+Modestly scaled interventions[edit]
+Schmitt (2007) described three different modestly scaled OHP-related interventions that helped workers abstain from smoking, exercise more frequently, and shed weight.[134] Other OHP interventions include a campaign to improve the rates of hand washing, an effort to get workers to walk more often, and a drive to get employees to be more compliant with regard to taking prescribed medicines.[135] The interventions tended reduce organization health-care costs.[134][135]
+Health promotion[edit]
+Organizations can play a role in the health behavior of employees by providing resources to encourage healthy behavior in areas of exercise, nutrition, and smoking cessation.[136]
+Prevention[edit]
+Although the dimensions of the problem of workplace violence vary by economic sector, one sector, education, has had some limited success in introducing programmatic, psychologically-based efforts to reduce the level of violence.[137] Research suggests that there continue to be difficulties in successfully "screening out applicants [for jobs] who may be prone to engaging in aggressive behavior,"[138] suggesting that aggression-prevention training of existing employees may be an alternative to screening. Only a small number of studies evaluating the effectiveness of training programs to reduce workplace violence currently exist.[139]
+Accidents and safety[edit]
+Main article: Work accident
+Psychological factors are an important factor in occupational accidents that can lead to injury and death of employees. An important influence on the incidence of accidents is the organization's safety climate that is employees' shared beliefs about how supervisors reward and support safety behavior.[140]
+See also[edit]
+
+
+Employee assistance programs
+Human factors and ergonomics
+Kiss up kick down
+Machiavellianism in the workplace
+Mobbing
+Narcissism in the workplace
+Occupational Health Science
+Occupational stress
+Psychopathy in the workplace
+Social undermining
+Stress management
+Total Worker Health
+Work-life balance
+
+
+References[edit]
+
+
+^ a b c d e f g h i Schonfeld, I.S., & Chang, C.-H. (2017). Occupational health psychology: Work, stress, and health. New York, NY: Springer Publishing Company.
+^ a b Houdmont, J., & Leka, S. (2010). An introduction to occupational health psychology. In S. Leka & J. Houdmont (Eds.). Occupational health psychology (pp. 1 - 30). John Wiley: Hoboken, NJ.
+^ Centers for Disease Control and Prevention. Occupational Health Psychology (OHP). [1]
+^ a b Everly, G.S., Jr. (1986). An introduction to occupational health psychology. In P.A. Keller & L.G. Ritt (Eds.), Innovations in clinical practice: A source book (Vol. 5, pp. 331-338). Sarasota, FL: Professional Resource Exchange.
+^ Society for Occupational Health Psychology. Field of OHP. What is occupational health psychology [2]
+^ a b Tetrick, L.E., & Quick, J.C. (2011). Overview of occupational health psychology: Public health in occupational settings. In J.C. Quick & L.E. Tetrick (Eds.), Handbook of occupational health psychology (2nd ed., pp. 3-20). Washington DC: American Psychological Association.
+^ Marx, K. (1967/1845). The German ideology. In L.D. Easton & K.H.L. Guddat (Eds. and Trans.), Writings of the young Marx on philosophy and society. Garden City, NY: Doubleday.
+^ Taylor, F.W. (1911). The principles of scientific management. Norwood, MA: The Plimpton Press.
+^ a b Christie, A., & Barling, J. (2011). A short history of occupational health psychology: A biographical approach. In C. Cooper & A. Antoniou (Eds.), New directions in organizational psychology and behavioural medicine (pp. 7-24). Washington, DC: Gower Publishing.
+^ Mayo, E. (1933) The human problems of an industrial civilization. New York: MacMillan.
+^ Quinn, R.P. et al. (1971). Survey of working conditions: Final report on univariate and bivariate tables, Document No. 2916-0001. Washington, DC: U.S. Government Printing Office.
+^ House, J.S. (1980). Occupational stress and the mental and physical health of factory workers. Ann Arbor: Survey Research Center, Institute for Social Research, University of Michigan.
+^ Caplan, R.D., Cobb, S., & French, J.R.P., Jr. (1975). Relationships of cessation of smoking with job stress, personality, and social support. Journal of Applied Psychology, 60, 211-219. doi:10.1037/h0076471
+^ Trist, E.L., & Bamforth, K.W. (1951). Some social and psychological consequences of the longwall method of coal getting. Human Relations, 14, 3-38. doi:10.1177/001872675100400101
+^ Kornhauser, A. (1965). Mental health of the industrial worker. New York: Wiley.
+^ Christie, A. & Barling, J. (2011). A short history of occupational health psychology: A biographical approach. In C. Cooper & A. Antoniou (Eds.), New directions in organizational psychology and behavioral medicine (pp. 7-24). Washington, DC: Gower Publishing.
+^ Zickar, M.J. (2003). Remembering Arthur Kornhauser: Industrial psychology’s advocate for worker well-being. Journal of Applied Psychology, 88, 363–369. doi: 10.1037/0021-9010.88.2.363
+^ Gardell, B. (1971). Alienation and mental health in the modern industrial environment. In L. Levi (Ed.), Society, stress and disease (Vol. 1, pp. 148-180). Oxford: Oxford University Press.
+^ a b Kasl, S.V., & Cobb, S. (1970). Blood pressure changes in men undergoing job loss: A preliminary report. Psychosomatic Medicine, 32(1), 19-38.
+^ Schonfeld, I.S. (2018). Occupational health psychology. In D.S. Dunn (Ed.), Oxford Bibliographies in Psychology. New York: Oxford University Press.
+^ Ferguson, D. (1977). The psychologist and occupational health. Proceedings of the Annual Conference, Ergonomics Society of Australia and New Zealand (pp. 41–50). Adelaide, South Australia, Australia: Department of Psychology, University of Adelaide.
+^ Feldman, R.H.L. (1985). Promoting occupational safety and health. G. Everly & R.H.L. Feldman (Eds.), Occupational health promotion: Health behavior in the workplace (pp. 188-207). New York: Wiley.
+^ a b Raymond, J.S., Wood, D., & Patrick, W.K. (1990). Psychology doctoral training in work and health. American Psychologist, 45, 1159-1161. doi:10.1037/0003-066X.45.10.1159
+^ a b Sauter, S.L., Hurrell, J.J., Jr., Fox, H.R., Tetrick, L.E., & Barling, J. (1999). Occupational health psychology: An emerging discipline. Industrial Health, 37(2), 199-211.
+^ "Milestones in the history of occupational health psychology", (February 2002). Monitor on Psychology, American Psychological Association. 33(2). [3] Retrieved July 28, 2014.
+^ a b Cox, T., & Tisserand, M. (2006). Editorial: Work & Stress comes of age: Twenty years of occupational health psychology. Work & Stress, 20, 1-5. doi:10.1080/02678370600739795
+^ a b c Barling, J., & Griffiths, A. (2011). A history of occupational health psychology. In J.C. Quick & L.E. Tetrick (Eds.), Handbook of occupational health psychology (2nd ed., pp. 21-34). Washington, D.C., American Psychological Association.
+^ International Commission on Occupational Health-Work Organisation and Psychosocial Factors [4]
+^ International Commission on Occupational Health
+^ a b Houdmont, J. (2009). Across the pond: A history of the European Academy of Occupational Health Psychology. Newsletter of the Society of Occupational Health Psychology, 7, 4-5. [5]
+^ Hammer, L.B., & Schonfeld, I.S. (2007). The historical development of the Society for Occupational Health Psychology (SOHP). Newsletter of the Society for Occupational Health Psychology, 1, 2. [6]
+^ Hammer, L.B., Sauter, S., & Limanowski, J. (2008) Work, stress, and health 2008. Society for Occupational Health Psychology Newsletter, 2, 2. [7]
+^ Occupational Health Science. Accessed January 2017
+^ Kasl, S.V., & Jones, B.A. (2011). An epidemiological perspective on research design, measurement, and surveillance strategies. In J. C. Quick & L. E. Tetrick (Eds.), Handbook of occupational health psychology (2nd ed., pp. 375-394). Washington DC: American Psychological Association.
+^ Adkins, J.A., Kelley, S.D., Bickman, L., & Weiss, H.M. (2011). Program evaluation: The bottom line in organizational health. In J.C. Quick & L.E. Tetrick (Eds.), Handbook of occupational health psychology (2nd ed., pp. 395-415). Washington DC: American Psychological Association.
+^ Eatough, E.M., & Spector P.E. (2013). Quantitative self-report methods in occupational health psychology research. In R.R. Sinclair, M. Wang, & L.E. Tetrick (Eds.), Research methods in occupational health psychology (pp. 248-267). New York: Routledge.
+^ Warren, N., Dillon, C., Morse, T., Hall, C., & Warren, A. (2000). Biomechanical, psychosocial, and organizational risk factors for WRMSD: Population-based estimates from the Connecticut Upper-extremity Surveillance Project (CUSP). Journal of Occupational Health Psychology, 5, 164-181. doi:10.1037/1076-8998.5.1.164
+^ Kelloway, E.K., & Francis, L. (2013). Longitudinal research and data analysis. In R.R. Sinclair, M. Wang, & L.E. Tetrick (Eds.), Research methods in occupational health psychology (pp. 374-394). New York: Routledge.
+^ Sonnentag, S., Binnewies, C., & Ohly, S. (2013). Event-sampling methods in occupational health psychology. In R. R. Sinclair, M. Wang & L. E. Tetrick (Eds.), Research methods in occupational health psychology (pp. 208-228). New York: Routledge.
+^ a b c Stansfeld, S., & Candy, B. (2006). Psychosocial work environment and mental health--a meta-analytic review. Scandinavian Journal of Work, Environment & Health, 32(6), 443-462.
+^ Clarkson, G.P., & Hodgkinson, G.P. (2007). What can occupational stress diaries achieve that questionnaires can’t? Personnel Review, 5, 684-700.
+^ Bond, F.W., & Bunce, D. (2001). Job control mediates change in a work reorganization intervention for stress reduction. Journal of Occupational Health Psychology, 6, 290-302. doi:10.1037/1076-8998.6.4.290
+^ Chen, P.Y., Cigularov, K.P., & Menger, L.M. (2013). Experimental and quasi-experimental designs in occupational health psychology. In R.R. Sinclair, M. Wang, & L.E. Tetrick (Eds.), Research methods in occupational health psychology (pp. 180-207). New York: Routledge.
+^ Flaxman, P. E., & Bond, F. W. (2010). Worksite stress management training: Moderated effects and clinical significance. Journal of Occupational Health Psychology, 15, 347-358. doi:10.1037/a0020522
+^ Taris, T.W., de Lange, A.H., & Kompier, M.A.J. (2010). Research methods in occupational health psychology. In S. Leka & J. Houdmont (Eds.), Occupational health psychology (pp. 269-297). Chichester, UK: Wiley-Blackwell.
+^ Hayduk, L.A. (1987). Structural equations modeling with lisrel. Baltimore, MD: Johns Hopkins University Press.
+^ a b Raudenbush, S.W., & Bryk, A.S. (2001). Hierarchical linear models: Applications and data analysis methods (2nd ed.). Newbury Park, CA: Sage.
+^ Schonfeld, I.S., & Rindskopf, D. (2007). Hierarchical linear modeling in organizational research: Longitudinal data outside the context of growth modeling. Organizational Research Methods, 18, 417-429. doi:10.1177/1094428107300229
+^ O'Driscoll, M.P., & Cooper, C.L. (1994). Coping with work-related stress: A critique of existing measures and proposal for an alternative methodology. Journal of Occupational and Organizational Psychology, 67, 343-354. doi:10.1111/j.2044-8325.1994.tb00572.x
+^ Dewe, P.J. (1989). Examining the nature of work stress: Individual evaluations of stressful experiences and coping. Human Relations, 42, 993-1013. doi:10.1177/001872678904201103
+^ Kidd, P., Scharf, T., & Veazie, M. (1996). Linking stress and injury in the farming environment: A secondary analysis. Health Education Quarterly, 23, 224-237. doi:10.1177/109019819602300207
+^ Keenan, A., & Newton, T.J. (1985). Stressful events, stressors and psychological strains in young professional engineers. Journal of Occupational Behaviour, 6(2), 151-156. doi:10.1002/job.4030060206
+^ Schonfeld, I.S., & Mazzola, J.J. (2013). Strengths and limitations of qualitative approaches to research in occupational health psychology (pp. 268-289). In R.R. Sinclair, M. Wang, & L.E. Tetrick (Eds.), Research methods in occupational health psychology. New York: Routledge/Taylor & Francis Group.
+^ Kainan, A. (1994). Staffroom grumblings as expressed teachers' vocation. Teaching and Teacher Education, 10, 281-290. doi:10.1016/0742-051X(95)97310-I
+^ Palmer, C.E. (1983). A note about paramedics' strategies for dealing with death and dying. Journal of Occupational Psychology, 56, 83-86. doi:10.1111/j.2044-8325.1983.tb00114.x
+^ Karasek, R.A. (1979). Job demands, job decision latitude, and mental strain: Implications for job redesign. Administrative Science Quarterly, 24(2), 285-307.
+^ de Lange, A.H., Taris, T.W., Kompier, M.A., Houtman, I.L., & Bongers, P.M. (2003). "The very best of the millennium": Longitudinal research and the demand-control-(support) model. Journal of Occupational Health Psychology, 8, 282-305. doi:10.1037/1076-8998.8.4.282
+^ a b Bean, C.G., Winefield, H.R., Sargent, C., & Hutchinson, A.D. (2015). Differential associations of job control components with both waist circumference and body mass index. Social Science & Medicine, 143, 1-8. doi:10.1016/j.socscimed.2015.08.034
+^ a b de Araújo, T.M., Karasek. R. (2008) Validity and reliability of the job content questionnaire in formal and informal jobs in Brazil. Scandinavian Journal of Work, Environment & Health, 6, Suppl. 52–59
+^ Joensuu, M. et al. et al. (2012). Differential associations of job control components with mortality: A cohort study, 1986–2005. American Journal of Epidemiology, 175, 609–619. doi:10.1093/aje/kws028
+^ Johnson, J. V., Hall, E. M., & Theorell, T. (1989). Combined effects of job strain and social isolation on cardiovascular disease morbidity and mortality in a random sample of the Swedish male working population. Scandinavian Journal of Work, Environment & Health, 15, 271–279. doi:10.5271/sjweh.1852
+^ Demerouti, E., Bakker, A.B., Nachreiner, F., & Schaufeli, W.B. (2001). The job demands-resources model of burnout. Journal of Applied Psychology, 86, 499-512. doi:10.1037//0021-9010.86.3.499
+^ Siegrist, J., & Peter, R. (1994). Job stressors and coping characteristics in work-related disease: Issues of validity. Work & Stress, 8, 130-140. doi: 10.1080/02678379408259985
+^ Siegrist, J. (1996). Adverse health effects of high-effort/low-reward conditions. Journal of Occupational Health Psychology, 1, 27-41. doi:10.1037/1076-8998.1.1.27
+^ Murphy, L.R. (1991). Job dimensions associated with severe disability due to cardiovascular disease. Journal of Clinical Epidemiology, 44(2), 155-166.
+^ Belkić, K., Landsbergis, P., Schnall, P., et al. (2000). Psychosocial factors: Review of the empirical data among men. In Schnall, P., Belkić, K., Landsbergis, P., et al (Eds.), The workplace and cardiovascular disease. Occupational Medicine, State of the Art Reviews, 15(1), 24–46. Philadelphia: Hanley and Belfus. "Archived copy". Archived from the original on 2008-07-23. Retrieved 2008-07-23. 
+^ Brisson C. (2000). Women, work and cardiovascular disease. In P. Schnall, K. Belkić, P.A. Landsbergis, & D. Baker (Eds.), The workplace and cardiovascular disease. Occupational Medicine: State of the Art Reviews, 15(1), 49–57. Philadelphia: Hanley and Belfus. "Archived copy". Archived from the original on 2008-07-23. Retrieved 2008-07-23. 
+^ Fredrikson M., Sundin O., & Frankenhaeuser M. (1985). Cortisol excretion during the defence reaction in humans. Psychosomatic Medicine, 47, 313-319.
+^ DeQuattro, V., & Hamad, R. (1985). The role of stress and the sympathetic nervous system in hypertension and ischemic heart disease: advantages of therapy with beta-receptor blockers. Clinical and Experimental Hypertension. Part A, Theory and Practice, 7(7), 907-932.
+^ Landsbergis, P., Dobson, M., Koutsouras, G., & Schnall, P. (2013). Job strain and ambulatory blood pressure: a meta-analysis and systematic review. American Journal of Public Health, 103(3), e61-e71. doi:10.2105/AJPH.2012.301153
+^ Belkić, K., et al. (2000). Psychosocial factors: Review of the empirical data among men. Occupational Medicine: State of the Art Reviews, 15, 24-46. "Archived copy". Archived from the original on 2008-07-23. Retrieved 2008-07-23. 
+^ Hallqvist, J., Diderichsen, F., Theorell, T., Reuterwall, C., & Ahlbom, A. (1998). Is the effect of job strain on myocardial infarction risk due to interaction between high psychological demands and low decision latitude? Results from Stockholm Heart Epidemiology Program (SHEEP). Social Science & Medicine, 46(11), 1405-1415.
+^ Johnson, J.V., & Hall, E.M. (1988). Job strain, workplace social support, and cardiovascular disease: A cross-sectional study of a random sample of the Swedish working population. American Journal of Public Health, 78(10), 1336-1342.
+^ Belkic, K.L., Landsbergis, P.A., Schnall, P.L., & Baker, D. (2004). Is job strain a source of major cardiovascular risk? Scandinavian Journal of Work, Environment, and Health, 30(2), 85-128.
+^ Kivimäki, M., Nyberg, S., Batty, G., Fransson, E., Heikkilä, K., Alfredsson, L., . . . Theorell, T. (2012). Job strain as a risk factor for coronary heart disease: A collaborative meta-analysis of individual participant data. The Lancet, 380, 1491–1497. doi:10.1016/S0140-6736(12)60994-5
+^ Landsbergis, P., et al. (2003). The workplace and cardiovascular disease: Relevance and potential role for occupational health psychology. In J.C. Quick & L.E. Tetrick (Eds.), Handbook of occupational health psychology (pp. 265-287). Washington, DC: American Psychological Association.
+^ Gallo, W.T., Teng, H.M., Falba, T.A., Kasl, S.V., Krumholz, H.M., & Bradley, E.H. (2006). The impact of late career job loss on myocardial infarction and stroke: A 10 year follow up using the health and retirement survey. Occupational and Environmental Medicine, 63, 683-687. doi:10.1136/oem.2006.026823
+^ Strully, K.W. (2009). Job loss and health in the U.S. labor market. Demography, 46, 221-246. doi:10.1007/s12114-011-9109-z
+^ Gallo, W. T. (2010). Involuntary job loss and health: My path to job loss research. Newsletter of the Society for Occupational Health Psychology, 9, 17, 20. [8]
+^ Toker, S., Melamed, S., Berliner, S., Zeltser, D., & Shapira, I. (2012). Burnout and risk of coronary heart disease: a prospective study of 8838 employees. Psychosomatic Medicine, 74, 840-847. doi:10.1097/PSY.0b013e31826c3174
+^ Social Security Administration. (2012). Annual statistical report on the Social Security Disability Insurance Program, 2011. Washington, DC: Author. [9]
+^ Sprigg, C. A., Stride, C.B., Wall, T.D., Holman, D.J., & Smith, P.R. (2007). Work characteristics, musculoskeletal disorders, and the mediating role of psychological strain: A study of call center employees. Journal of Applied Psychology, 92, 1456-1466. doi: 10.1037/0021-9010.92.5.1456
+^ Hauke, A., Flintrop, J., Brun, E., & Rugulies, R. (2011). The impact of work-related psychosocial stressors on the onset of musculoskeletal disorders in specific body regions: A review and meta-analysis of 54 longitudinal studies. Work & Stress, 25, 243-256. doi: 10.1080/02678373.2011.614069
+^ a b Bigos, S., Battié, M., Spengler, D., Fisher, L., Fordyce, W., Hansson, T., & ... Wortley, M. (1991). A prospective study of work perceptions and psychosocial factors affecting the report of back injury. Spine, 16(1), 1-6.
+^ Theorell, T., Hasselhorn, H., Vingård, E., & Andersson, B. (2000). Interleukin 6 and cortisol in acute musculoskeletal disorders: Results from a case-referent study in Sweden. Stress Medicine, 16, 27-35. doi:10.1002/(SICI)1099-1700(200001)16:1<27::AID-SMI829>3.0.CO;2-#
+^ Mäntyniemi, A., Oksanen, T., Salo, P., Virtanen, M., Sjösten, N., Pentti, J., & ... Vahtera, J. (2012). Job strain and the risk of disability pension due to musculoskeletal disorders, depression or coronary heart disease: A prospective cohort study of 69,842 employees. Occupational and Environmental Medicine, 69, 574-581. doi:10.1136/oemed-2011-100411
+^ Yang, L., Caughlin, D.E., Gazica, M.W., Truxillo, D.M., & Spector, P.E. (2014). Workplace mistreatment climate and potential employee and organizational outcomes: A meta-analytic review from the target’s perspective. Journal of Occupational Health Psychology, 19, 315-335. doi:10.1037/a0036905
+^ Andersson, L. M., & Pearson, C. M. (1999). Tit for tat? The spiraling effect of incivility in the workplace. Academy of Management Review, 24, 452-471. doi:10.5465/AMR.1999.2202131
+^ a b Cortina, L.M., Magley, V., Williams, J.H., & Langhout, R.D. (2001). Incivility in the workplace: Incidence and impact. Journal of Occupational Health Psychology, 6, 64-80. doi:10.1037//1076-8998.6.1.64
+^ Tepper, B. J. (2000). "Consequences of abusive supervision". Academy of Management Journal, 43, 178-190. doi: https://dx.doi.org/10.2307/1556375
+^ Grandey, A.A., Kern, J.H., & Frone, M.R. (2007). Verbal abuse from outsiders versus insiders: Comparing frequency, impact on emotional exhaustion, and the role of emotional labor. Journal of Occupational Health Psychology, 12, 63-79. doi:10.1037/1076-8998.12.1.63
+^ Rayner, C., & Keashly, L. (2005). Bullying at work: A perspective from Britain and North America. In S. Fox & P.E. Spector (Eds.), Counterproductive work behavior: Investigations of actors and targets (pp. 271-296). Washington, DC: American Psychological Association. doi:10.1037/10893-011
+^ Rospenda, K.M., & Richman, J.A. (2005). Harassment and discrimination. In J. Barling, E.K. Kelloway & M.R. Frone (Eds.), Handbook of work stress (pp. 149-188). Thousand Oaks, CA: Sage.
+^ Schat, A.C.H., Frone, M.R., & Kelloway, E.K. (2006). Prevalence of workplace aggression in the U.S. workforce. In E.K. Kelloway, J. Barling, & J.J. Hurrell, Jr. (Eds.), Handbook of workplace violence (pp. 47-89). Thousand Oaks, CA: Sage.
+^ Peek Asa, C., Howard, J., Vargas, L., Kraus, J.F. (1997). Incidence of non-fatal workplace assault injuries determined from employer's reports in California. Journal of Occupational and Environmental Medicine, 39(1), 44-50.
+^ a b LaMar W.J., Gerberich, S.G., Lohman, W.H., Zaidman, B. (1998). Work-related physical assault. Journal of Occupational and Environmental Medicine, 40(4), 317-324.
+^ Islam, S.S., Edla, S.R., Mujuru, P., Doyle, E.J., & Ducatman, A.M. (2003). Risk factors for physical assault. State managed workers' compensation experience. American Journal of Preventive Medicine, 25(1), 31-37.
+^ Hashemi, L., & Webster, B.S. (1998). Non-fatal workplace violence workers' compensation claims (1993 1996). Journal of Occupational and Environmental Medicine, 40, 561-567. doi:10.1016/S0749-3797(03)00095-3
+^ Bloch, A.M. (1978). Combat neurosis in inner-city schools. American Journal of Psychiatry, 135(10), 1189–1192.
+^ Bureau of Labor Statistics. (2004). 1992-2001 Census of fatal occupational injuries (CFOI) Revised data. Washington, DC: U.S. Department of Labor, Bureau of Labor Statistics. [10]
+^ Bureau of Labor Statistics. (2004). Civilian labor force (seasonally adjusted)(LNS11000000). Washington, DC: U.S. Department of Labor, Bureau of Labor Statistics. [11]
+^ Mandell W., Eaton, W.W., Anthony, J.C., & Garrison, R. (1992). Alcoholism and occupations: A review and analysis of 104 occupations. Alcoholism: Clinical and Experimental Research, 16, 734-746. doi:10.1111/j.1530-0277.1992.tb00670.x
+^ Crum, R.M., Muntaner. C., Eaton. W.W., & Anthony. J.C. (1995). Occupational stress and the risk of alcohol abuse and dependence. Alcoholism: Clinical and Experimental Research, 19, 647-655. doi:10.1111/j.1530-0277.1995.tb01562.x
+^ Eaton, W.W., Anthony, J.C., Mandel, W., & Garrison, R. (1990). Occupations and the prevalence of major depressive disorder. Journal of Occupational Medicine, 32(11), 1079-1087.
+^ Wang J. (2005). Work stress as a risk factor for major depressive episode(s). Psychological Medicine, 35, 865-871. doi:10.1017/S0033291704003241
+^ Ettner, S.L. (2011). Personality disorders and Work. In Schultz & Rogers (Eds.), Work accommodation and retention in mental health (pp. 163-188). New York: Springer. doi:10.1007978-1-4419-0428-9_9
+^ Ettner, S.L., Maclean, J.C., & French, M.T. (2011). Does having a dysfunctional personality hurt your career? Axis II personality disorders and labor market outcomes. Industrial Relations, 50, 149–173. doi:10.1111/j.1468-232X.2010.00629.x
+^ Link, B.G., Dohrenwend, B.P., & Skodol, A.E. (1986). Socio-economic status and schizophrenia: Noisome occupational characteristics as a risk factor. American Sociological Review, 51, 242-258. doi:10.2307/2095519
+^ Muntaner, C., Tien, A.Y., Eaton, W.W., & Garrison R. (1991). Occupational characteristics and the occurrence of psychotic disorders. Social Psychiatry and Psychiatric Epidemiology, 26, 273-280. doi:10.1007/BF00789219
+^ Ford, M.T., Matthews, R.A., Wooldridge, J.D., Mishra, V., Kakar, U.M., & Strahan, S.R. (2014). How do occupational stressor-strain effects vary with time? A review and meta-analysis of the relevance of time lags in longitudinal studies. Work & Stress, 28, 9-30. doi: 10.1080/02678373.2013.877096
+^ Dohrenwend, B.P., Shrout, P.E., Egri, G., & Mendelsohn, F.S. (1980). Nonspecific psychological distress and other dimensions of psychopathology: Measures for use in the general population. Archives of General Psychiatry, 37, 1229-1236.
+^ Frank, J.D. (1973). Persuasion and healing. Baltimore: The Johns Hopkins Press.
+^ Greenberg, E.S., & Grunberg, L. (1995). Work alienation and problem alcohol behavior. Journal of Health and Social Behavior, 36, 83-102. doi:10.2307/2137289
+^ House, J.S. (1974). Occupational stress and coronary heart disease: A review and theoretical integration. Journal of Health and Social Behavior, 15, 12-27. doi:10.2307/2136922
+^ Parkes, K.R. (1982). Occupational stress among student nurses: A natural experiment. Journal of Applied Psychology, 67, 784-796. doi:10.1037/0021-9010.67.6.784
+^ Frese, M. (1985). Stress at work and psychosomatic complaints: A causal interpretation. Journal of Applied Psychology, 70, 314-328. doi:10.1037/0021-9010.70.2.314
+^ Carayon, P. (1992). A longitudinal study of job design and worker strain: Preliminary results. In J.C. Quick, L.R. Murphy, & J.J. Hurrell, Jr. (Eds.), Work and well-being: Assessments and instruments for occupational mental health (pp. 19-32). Washington, DC: American Psychological Association. doi:10.1037/10116-002
+^ Dormann, C., & Zapf, D. (2002). Social stressors at work, irritation, and depressive symptoms: Accounting for unmeasured third variables in a multi-wave study. Journal of Occupational and Organizational Psychology, 75, 33-58. doi:10.1348/096317902167630
+^ a b c Paul, K. I., & Moser, K. (2009). Unemployment impairs mental health: Meta-analyses. Journal of Vocational Behavior, 74, 264-282. doi:10.1016/j.jvb.2009.01.001
+^ Probst, T.M., & Sears, L.E. (2009). Stress during the financial crisis. Newsletter of the Society for Occupational Health Psychology, 5, 3-4. [12]
+^ a b Sinclair, R.R., Probst, T., Hammer, L.B., & Schaffer, M.M. (2013). Low income families and occupational health: Implications of economic stress for work-family conflict research and practice. In A.G. Antoniou & C.L. Cooper (Eds.), The psychology of the recession on the workplace (pp. 308-323). Northampton, MA, US: Edward Elgar Publishing. doi:10.4337/9780857933843.00030
+^ Burgard, S.A., Brand, J.E., & House, J.S. (2009). Perceived job insecurity and worker health in the United States. Social Science & Medicine, 69, 777-785. doi:10.1016/j.socscimed.2009.06.029.
+^ Greenhaus, J.G., & Allen, T. (2011). Work-family balance: A review and extension. In J.C. Quick & L.E. Tetrick (Eds.), Handbook of occupational health psychology (2nd ed., pp. 165-183). Washington DC, American Psychological Association.
+^ a b Richardson, K. M., & Rothstein, H. R. (2008). Effects of occupational stress management intervention programs: A meta-analysis. Journal of Occupational Health Psychology, 13, 69–93. doi:10.1037/1076-8998.13.1.69
+^ Adkins, J.A. (1999). Promoting organizational health: The evolving practice of occupational health psychology. Professional Psychology: Research and Practice, 30(2), 129 137. doi:10.1037/0735-7028.30.2.129
+^ Hugentobler, M.K., Israel, B.A., & Schurman, S.J. (1992). An action research approach to workplace health: Integrating methods. Health Education Quarterly, 19(1), 55-76. doi:10.1177/109019819201900105
+^ Hitchcock, E. (2008). NIOSH OHP activities. Newsletter of the Society for Occupational Health Psychology, 3, 10. [13]
+^ Caruso, C. (2009). NIOSH OHP activities: Training products for workers who are assigned to shift work or work long work hours. Newsletter of the Society for Occupational Health Psychology, 5, 16-17. [14]
+^ Scharf, T., Hunt, J., III, McCann, M., Pierson, R., Migliaccio, F., Limanowski, J., et al. (2010). Hazard recognition for ironworkers: Preventing falls and close calls. Newsletter of the Society for Occupational Health Psychology, 9, 8-9. [15]
+^ Thomas, J.L. (2008). OHP Research and Practice in the US Army: Mental Health Advisory Teams. Newsletter of the Society for Occupational Health Psychology, 4, 4-5. [16]
+^ Genderson, M.R., Schonfeld, I.S., Kaplan, M.S., & Lyons, M.J. (2009).Suicide associated with military service. Newsletter of the Society for Occupational Health Psychology, 6, 5-7. [17]
+^ Katz, C. (2008). Mental health of 9/11 responders. Newsletter of the Society for Occupational Health Psychology, 4, 2-3. [18]
+^ Arnetz, B. (2009). Low-intensity stress in high-stress professionals. Newsletter of the Society for Occupational Health Psychology, 7, 6-7.[19]
+^ a b Schmitt, L. (2007). OHP interventions: Wellness programs. Newsletter of the Society for Occupational Health Psychology, 1, 4-5. [20]
+^ a b Schmitt, L. (2008). OHP interventions: Wellness programs (Part 2). Newsletter of the Society for Occupational Health Psychology, 2, 6-7. [21]
+^ Bennett, J.B., Cook, R.F., & Pelletier, K.R. (2011). An integral framework for organizational wellness: Core technology, practice models, and case studies In J.C. Quick & L.E. Tetrick (Eds.), Handbook of occupational health psychology (2nd ed., pp. 95-118). Washington, DC: American Psychological Association.
+^ Schonfeld, I.S. (2006). School violence. In E.K. Kelloway, J. Barling, & J.J. Hurrell, Jr. (Eds), Handbook of workplace violence (pp. 169-229). Thousand Oaks, CA: Sage Publications. [22]
+^ Day, A.L, & Catano, V.M. (2006) Screening and selecting out violent employees. In E.K. Kelloway, J. Barling, & J.J. Hurrell, Jr. (Eds), Handbook of workplace violence (pp. 549-577). Thousand Oaks, CA: Sage Publications.
+^ Schat, A.C.H., & Kelloway, E.K. (2006). Training as a workplace aggression intervention strategy. In E.K. Kelloway, J. Barling, & J.J. Hurrell, Jr. (Eds), Handbook of workplace violence (pp. 579-605). Thousand Oaks, CA: Sage Publications.
+^ Zohar, D. (2010). Thirty years of safety climate research: Reflections and future directions. Accident Analysis and Prevention, 42, 1517-1522. doi: 10.1016/j.aap.2009.12.019.
+
+
+Further reading[edit]
+
+
+Cohen, A., & Margolis, B. (1973). Initial psychological research related to the Occupational Safety and Health Act of 1970. American Psychologist, 28(7), 600-606. doi:10.1037/h0034997
+de Lange, A.H., Taris, T.W., Kompier, M.A.J., Houtman, I.L.D., & Bongers, P.M. (2003). “The very best of the millennium”: Longitudinal research and the Demand-Control-(Support) Model. Journal of Occupational Health Psychology, 8(4), 282–305. doi:10.1037/1076-8998.8.4.282
+Everly, G.S., Jr. (1986). An introduction to occupational health psychology. In P.A. Keller & L.G. Ritt (Eds.), Innovations in clinical practice: A source book, Vol. 5 (pp. 331–338). Sarasota, FL: Professional Resource Exchange.
+Frese, M. (1985). Stress at work and psychosomatic complaints: A causal interpretation. Journal of Applied Psychology, 70(2), 314-328. doi:10.1037/0021-9010.70.2.314
+Karasek, R.A. (1979). Job demands, job decision latitude, and mental strain: Implications for job redesign. Administrative Science Quarterly, 24(2), 285-307.
+Kasl, S.V. (1978). Epidemiological contributions to the study of work stress. In C.L. Cooper & R.L. Payne (Eds.), Stress at work (pp. 3–38). Chichester, UK: Wiley.
+Kasl, S.V., & Cobb, S. (1970). Blood pressure changes in men undergoing job loss: A preliminary report. Psychosomatic Medicine, 32(1), 19-38.
+Kelloway, E.K., Barling, J., & Hurrell, J.J., Jr. (Eds.) (2006). Handbook of workplace violence. Thousand Oaks, CA: Sage Publications.
+Leka, S., & Houdmont, J. (Eds.)(2010). Occupational health psychology. Chichester, UK: Wiley-Blackwell.
+Parkes, K.R. (1982). Occupational stress among student nurses: A natural experiment. Journal of Applied Psychology, 67(6), 784-796. doi:10.1037/0021-9010.67.6.784
+Quick, J.C., Murphy, L.R., & Hurrell, J.J., Jr. (Eds.) (1992). Work and well-being: Assessments and instruments for occupational mental health. Washington, DC: American Psychological Association.
+Quick, J.C., & Tetrick, L.E. (Eds.). (2010). Handbook of occupational health psychology (2nd ed.). Washington, DC: American Psychological Association.
+Raymond, J., Wood, D., & Patrick, W. (1990). Psychology training in work and health. American Psychologist, 45(10), 1159-1161. doi:10.1037/0003-066X.45.10.1159
+Sauter, S.L., & Murphy, L.R. (Eds.) (1995). Organizational risk factors for job stress. Washington, DC: American Psychological Association.
+Schonfeld, I.S., & Chang, C.-H. (2017). Occupational health psychology: Work, stress, and health. New York, NY: Springer Publishing Company.
+Siegrist, J. (1996). Adverse health effects of high effort-low reward conditions at work. Journal of Occupational Health Psychology, 1(1), 27-43. doi:10.1037/1076-8998.1.1.27
+Zapf, D., Dormann, C., & Frese, M. (1996). Longitudinal studies in organizational stress research: A review of the literature with reference to methodological issues. Journal of Occupational Health Psychology, 1(2), 145-169. doi:10.1037/1076-8998.1.2.145
+
+
+External links[edit]
+
+List of academic journals that publish OHP-related articles by Paul Spector
+European Academy of Occupational Health Psychology
+Society for Occupational Health Psychology
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Occupational safety and health
+
+
+
+Occupational diseases
+and injuries
+
+
+
+Acrodynia
+Asbestosis
+Asthma
+Berylliosis
+Brucellosis
+Byssinosis ("brown lung")
+Chalicosis
+Chimney sweeps' carcinoma
+Chronic solvent-induced encephalopathy (CSE)
+Coalworker's pneumoconiosis ("black lung")
+Concussions in sport
+Decompression sickness
+De Quervain syndrome
+Exposure to human nail dust
+Farmer's lung
+Fiddler's neck
+Flock worker's lung
+Glassblower's cataract
+Golfer's elbow
+Hearing Loss
+Hospital-acquired infection
+Indium lung
+Laboratory animal allergy
+Lead poisoning
+Mad hatter disease
+Mesothelioma
+Metal fume fever
+Mule spinners' cancer
+Noise-induced hearing loss
+Phossy jaw
+Pneumoconiosis
+Radium jaw
+Repetitive strain injury
+Silicosis
+Silo-filler's disease
+Sports injury
+Surfer's ear
+Tennis elbow
+Tinnitus
+Writer's cramp
+
+
+
+
+
+
+
+
+Occupational hygiene
+
+
+
+Occupational hazard
+Hierarchy of hazard controls
+Prevention through design
+Exposure assessment
+Occupational exposure limit
+Occupational epidemiology
+
+
+
+
+
+Professions
+
+
+
+Environmental health
+Industrial engineering
+Occupational health nursing
+Occupational health psychology
+Occupational medicine
+Occupational therapist
+Safety engineering
+
+
+
+
+
+Agencies and organizations
+
+
+
+European Agency for Safety and Health at Work
+UK Health and Safety Executive
+International Labour Organization
+U.S. National Institute for Occupational Safety and Health
+U.S. Occupational Safety and Health Administration
+World Health Organization
+
+
+
+
+
+Standards
+
+
+
+Bangladesh Accord
+ISO 45001
+Occupational Safety and Health Convention, 1981
+Worker Protection Standard (US)
+Working Environment Convention, 1977
+
+
+
+
+
+See also
+
+
+
+Environment, health and safety
+Environmental toxicology
+Ergonomics
+Health physics
+Indoor air quality
+International Chemical Safety Card
+National Day of Mourning (Canadian observance)
+Process safety management
+Public health
+Risk management
+Safety data sheet (SDS)
+Toxic tort
+Workers' compensation
+
+
+
+
+
+
+
+
+ Category
+Occupational diseases
+ Commons
+Journals
+Organizations
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Aspects of occupations
+
+
+
+
+
+
+Apartheid
+Asthma
+Burnout
+Closure
+Crime
+Disease
+Fatality
+Hygiene
+Inequality
+Injury
+Injustice
+Licensing
+Lung disease
+Medicine
+Prestige
+Psychology
+Psychosis
+Rehabilitation
+Repetitive strain injury
+Safety and health
+Science
+Sexism
+Stress
+Therapist
+Therapy
+Therapy in the United Kingdom
+Welfare
+
+
+
+
+
+
+
+
+ See also templates
+Aspects of corporations
+Aspects of jobs
+Aspects of organizations
+Aspects of workplaces
+Occupational safety and health
+Employment
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Employment
+
+
+
+Classifications
+
+
+
+Casual
+Contingent
+Full-time
+Part-time
+Self-employed
+Skilled
+Independent contractor
+Temporary
+Tenure
+Unskilled
+Wage labour
+
+
+
+
+
+Hiring
+
+
+
+Application
+Background check
+Business networking
+Contract
+Cover letter
+Curriculum Vitae (CV)
+Drug testing
+e-recruitment
+Employment counsellor
+Executive search
+Induction programme
+Job fair
+Job fraud
+Job hunting
+Job interview
+Labour brokering
+Overqualification
+Onboarding
+Personality-job fit theory
+Person-environment fit
+Probation
+Reference
+Résumé
+Simultaneous recruiting of new graduates
+Underemployment
+Work-at-home scheme
+
+
+
+
+
+Roles
+
+
+
+Co-op
+Employee
+Employer
+Internship
+Job
+Permanent
+Permatemp
+Supervisor
+Volunteer
+
+
+
+
+
+Worker class
+
+
+
+Blue-collar
+Gold-collar
+Green-collar
+Grey-collar
+Pink-collar
+White-collar
+
+
+
+
+
+Career and training
+
+
+
+Apprenticeship
+Avocation
+Career assessment
+Career counseling
+Career development
+Coaching
+Creative class
+Education
+
+Continuing education
+Continuing professional development
+E-learning
+Employability
+Further education
+Graduate school
+Induction training
+Initial Professional Development
+Knowledge worker
+Licensure
+Lifelong learning
+Practice-based professional learning
+Professional association
+Professional certification
+Professional development
+Professional school
+Reflective practice
+Retraining
+Vocational education
+Vocational school
+Vocational university
+
+
+Mentorship
+Occupational Outlook Handbook
+Practice firm
+Profession
+Tradesman
+Vocation
+
+
+
+
+
+Attendance
+
+
+
+Break
+Career break
+Furlough
+Gap year
+Leave of absence
+Long service leave
+No call, no show
+Sabbatical
+Sick leave
+Time clock
+
+
+
+
+
+Schedules
+
+
+
+Four-day week
+Eight-hour day
+Flextime
+Overtime
+Retroactive overtime
+Shift work
+Telecommuting
+Working time
+Workweek and weekend
+
+
+
+
+
+Wages and salaries
+
+
+
+Income bracket
+Income tax
+Living wage
+Maximum wage
+National average salary
+
+World
+Europe
+
+
+Minimum wage
+
+Canada
+Hong Kong
+Europe
+United States
+
+
+Progressive wage
+
+Singapore
+
+
+Overtime rate
+Paid time off
+Performance-related pay
+Salary
+Salary cap
+Working poor
+
+
+
+
+
+Benefits
+
+
+
+Annual leave
+Casual Friday
+Day care
+Disability insurance
+Health insurance
+Life insurance
+Parental leave
+Pension
+Sick leave
+Take-home vehicle
+
+
+
+
+
+Safety and health
+
+
+
+Epilepsy and employment
+Human factors and ergonomics
+Industrial noise
+Karōshi
+Protective clothing
+Occupational burnout
+Occupational disease
+Occupational exposure limit
+Occupational health psychology
+Occupational injury
+Occupational stress
+Repetitive strain injury
+Sick building syndrome
+Work accident
+
+Occupational fatality
+
+
+Workers' compensation
+Workplace phobia
+Workplace wellness
+
+
+
+
+
+Equality
+
+
+
+Affirmative action
+Equal pay for women
+Gender pay gap
+Glass ceiling
+
+
+
+
+
+Infractions
+
+
+
+Corporate abuse
+
+Accounting scandals
+Corporate behaviour
+Corporate crime
+Control fraud
+Corporate scandals
+
+
+Discrimination
+Dress code
+Employee handbook
+Employee monitoring
+Evaluation
+Labour law
+Sexual harassment
+Sleeping while on duty
+Wage theft
+Whistleblower
+Workplace bullying
+Workplace harassment
+Workplace incivility
+
+
+
+
+
+Willingness
+
+
+
+Boreout
+Civil conscription
+Conscription
+Dead-end job
+Extreme careerism
+Job satisfaction
+Organizational commitment
+McJob
+Refusal of work
+Slavery
+
+Bonded labour
+Human trafficking
+Labour camp
+Penal labour
+Peonage
+Truck system
+Unfree labour
+Wage slavery
+
+
+Workaholic
+Work aversion
+Work ethic
+Work–life balance
+
+Downshifting (lifestyle)
+Slow living
+
+
+
+
+
+
+
+Termination
+
+
+
+At-will employment
+Dismissal
+
+Banishment room
+Constructive dismissal
+Wrongful dismissal
+
+
+Employee exit management
+Exit interview
+Layoff
+Notice period
+Pink slip
+Resignation
+
+Letter of resignation
+
+
+Restructuring
+Retirement
+
+Mandatory retirement
+Retirement age
+
+
+Severance package
+
+Golden handshake
+Golden parachute
+
+
+Turnover
+
+
+
+
+
+Unemployment
+
+
+
+Barriers to Employment
+Depression
+
+Great Depression
+Long Depression
+
+
+Discouraged worker
+Frictional unemployment
+Full employment
+Graduate unemployment
+Involuntary unemployment
+Jobless recovery
+Phillips curve
+Recession
+
+Great Recession
+Great Recession job losses
+List of recessions
+Recession-proof job
+
+
+Reserve army of labour
+Types of unemployment
+Unemployment Convention
+Unemployment benefits
+Unemployment extension
+Unemployment insurance
+Unemployment rates
+
+Employment rates
+Employment-to-population ratio
+
+
+Structural unemployment
+Technological unemployment
+Wage curve
+Youth unemployment
+
+
+
+
+
+
+
+
+ See also templates
+
+
+Aspects of corporations
+Aspects of jobs
+Aspects of occupations
+Aspects of organizations
+Aspects of workplaces
+Corporate titles
+Organized labor
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychology
+
+
+
+
+
+
+History
+Philosophy
+Portal
+Psychologist
+
+
+
+
+
+Basic psychology
+
+
+
+Abnormal
+Affective science
+Affective neuroscience
+Behavioral genetics
+Behavioral neuroscience
+Behaviorism
+Cognitive/Cognitivism
+Cognitive neuroscience
+Comparative
+Cross-cultural
+Cultural
+Developmental
+Differential
+Ecological
+Evolutionary
+Experimental
+Gestalt
+Intelligence
+Mathematical
+Neuropsychology
+Personality
+Positive
+Psycholinguistics
+Psychophysics
+Psychophysiology
+Quantitative
+Social
+Theoretical
+
+
+
+
+
+Applied psychology
+
+
+
+Anomalistic
+Applied behavior analysis
+Assessment
+Clinical
+Community
+Consumer
+Counseling
+Critical
+Educational
+Ergonomics
+Feminist
+Forensic
+Health
+Industrial and organizational
+Legal
+Media
+Military
+Music
+Occupational health
+Pastoral
+Political
+Psychometrics
+Psychotherapy
+Religion
+School
+Sport and exercise
+Suicidology
+Systems
+Traffic
+
+
+
+
+
+Methodologies
+
+
+
+Animal testing
+Archival research
+Behavior epigenetics
+Case study
+Content analysis
+Experiments
+Human subject research
+Interviews
+Neuroimaging
+Observation
+Qualitative research
+Quantitative research
+Self-report inventory
+Statistical surveys
+
+
+
+
+
+
+Psychologists
+
+
+
+
+William James (1842–1910)
+Ivan Pavlov (1849–1936)
+Sigmund Freud (1856–1939)
+Edward Thorndike (1874–1949)
+Carl Jung (1875–1961)
+John B. Watson (1878–1958)
+Clark L. Hull (1884–1952)
+Kurt Lewin (1890–1947)
+Jean Piaget (1896–1980)
+Gordon Allport (1897–1967)
+J. P. Guilford (1897–1987)
+Carl Rogers (1902–1987)
+Erik Erikson (1902–1994)
+B. F. Skinner (1904–1990)
+Donald O. Hebb (1904–1985)
+Ernest Hilgard (1904–2001)
+Harry Harlow (1905–1981)
+Raymond Cattell (1905–1998)
+Abraham Maslow (1908–1970)
+Neal E. Miller (1909–2002)
+Jerome Bruner (1915–2016)
+Donald T. Campbell (1916–1996)
+Hans Eysenck (1916–1997)
+Herbert A. Simon (1916–2001)
+David McClelland (1917–1998)
+Leon Festinger (1919–1989)
+George Armitage Miller (1920–2012)
+Richard Lazarus (1922–2002)
+Stanley Schachter (1922–1997)
+Robert Zajonc (1923–2008)
+Albert Bandura (b. 1925)
+Roger Brown (1925–1997)
+Endel Tulving (b. 1927)
+Lawrence Kohlberg (1927–1987)
+Noam Chomsky (b. 1928)
+Ulric Neisser (1928–2012)
+Jerome Kagan (b. 1929)
+Walter Mischel (b. 1930)
+Elliot Aronson (b. 1932)
+Daniel Kahneman (b. 1934)
+Paul Ekman (b. 1934)
+Michael Posner (b. 1936)
+Amos Tversky (1937–1996)
+Bruce McEwen (b. 1938)
+Larry Squire (b. 1941)
+Richard E. Nisbett (b. 1941)
+Martin Seligman (b. 1942)
+Ed Diener (b. 1946)
+Shelley E. Taylor (b. 1946)
+John Anderson (b. 1947)
+Ronald C. Kessler (b. 1947)
+Joseph E. LeDoux (b. 1949)
+Richard Davidson (b. 1951)
+Susan Fiske (b. 1952)
+Roy Baumeister (b. 1953)
+
+
+
+
+
+Lists
+
+
+
+Counseling topics
+Disciplines
+Important publications
+Organizations
+Outline
+Psychologists
+Psychotherapies
+Research methods
+Schools of thought
+Timeline
+Topics
+
+
+
+
+
+
+
+
+Wiktionary definition
+Wiktionary category
+Wikisource
+Wikimedia Commons
+Wikiquote
+Wikinews
+Wikibooks
+
+
+
+
+
+
+
+
+
+
+Categories: Applied psychologyBranches of psychologyDeterminants of healthBehavioural sciencesOccupational safety and healthHidden categories: Pages using div col without cols and colwidth parametersPages using Columns-list with deprecated parameters

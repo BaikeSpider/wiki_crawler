@@ -1,0 +1,1399 @@
+Embodied cognition
+Embodied cognition is the theory that many features of cognition, whether human or otherwise, are shaped by aspects of the entire body of the organism. The features of cognition include high level mental constructs (such as concepts and categories) and performance on various cognitive tasks (such as reasoning or judgment). The aspects of the body include the motor system, the perceptual system, bodily interactions with the environment (situatedness) and the assumptions about the world that are built into the structure of the organism.
+The embodied mind thesis challenges other theories, such as cognitivism, computationalism, and Cartesian dualism.[1][2] It is closely related to the extended mind thesis, situated cognition and enactivism. The modern version depends on insights drawn from recent research in psychology, linguistics, cognitive science, dynamical systems, artificial intelligence, robotics, animal cognition, plant cognition and neurobiology.
+
+
+
+Contents
+
+
+1 Embodiment thesis
+2 Philosophical background
+3 Connections with the sciences
+4 Psychology
+
+4.1 Visual search
+4.2 Distance perception
+4.3 Perspective
+4.4 Language comprehension
+4.5 Memory
+
+
+5 Reasoning
+
+5.1 Approach and avoidance
+5.2 Self-regulation
+5.3 Social psychology
+5.4 Evolutionary view
+
+
+6 Cognitive science and linguistics
+
+6.1 Conceptual metaphor
+6.2 Image schema
+6.3 Prototypes
+
+
+7 Artificial intelligence and robotics
+
+7.1 History of artificial intelligence
+7.2 Moravec's paradox
+7.3 Approach to artificial intelligence
+
+7.3.1 Solving problems of perception and locomotion directly
+
+
+
+
+8 Neuroscience
+9 Criticisms
+
+9.1 Infants as examples
+9.2 Overinterpretation?
+
+
+10 Six views of embodied cognition
+
+10.1 Criticism of the six claims
+
+
+11 See also
+12 References
+13 External links
+
+
+
+Embodiment thesis[edit]
+In philosophy, embodied cognition holds that an agent's cognition is strongly influenced by aspects of an agent's body beyond the brain itself.[1] In their proposal for an enactive approach to cognition Varela et al. defined "embodied":[3]
+
+"By using the term embodied we mean to highlight two points: first that cognition depends upon the kinds of experience that come from having a body with various sensorimotor capacities, and second, that these individual sensorimotor capacities are themselves embedded in a more encompassing biological, psychological and cultural context."
+
+
+
+— Eleanor Rosch, Evan Thompson, Francisco J. Varela: The Embodied Mind: Cognitive Science and Human Experience pages 172–173
+
+
+
+
+
+The Varela enactive definition is broad enough to overlap the views of extended cognition and situated cognition, and indeed, these ideas are not always carefully separated.[4] For example, according to Michael Dawson, the relationship is tangled:[5]
+
+"In viewing cognition as embedded or situated, embodied cognitive science emphasizes feedback between an agent and the world. We have seen that this feedback is structured by the nature of an agent's body...This in turn suggests that agents with different kinds of bodies can be differentiated in terms of degrees of embodiment...Embodiment can be defined as the extent to which an agent can alter its environment." [Citations have been omitted]
+
+
+
+— Michael Dawson: Degrees of embodiment; The Routledge Handbook of Embodied Cognition, page 62
+
+
+
+
+
+Some authors explain the dependence of cognition upon the body and its environmental interactions by saying cognition in real biological systems is not an end in itself but is constrained by the system's goals and capacities. However, they argue, such constraints do not mean cognition is set by adaptive behavior (or autopoiesis) alone, but cognition requires “some kind of information processing...the transformation or communication of incoming information”, the acquiring of which involves "exploration and modification of the environment".[6]
+
+"It would be a mistake, however, to suppose that cognition consists simply of building maximally accurate representations of input information...the gaining of knowledge is a stepping stone to achieving the more immediate goal of guiding behavior in response to the system's changing surroundings."
+
+
+
+— Marcin Miłkowski: Explaining the Computational Mind, p. 4
+
+
+
+
+
+The separation of embodied cognition from extended cognition and situated cognition can be based upon the embodiment thesis, a narrower view of embodiment than that of Varela et al. or that of Dawson:[1]
+
+Embodiment thesis: Many features of cognition are embodied in that they are deeply dependent upon characteristics of the physical body of an agent, such that the agent's beyond-the-brain body plays a significant causal role, or a physically constitutive role, in that agent's cognitive processing.
+
+
+
+—RA Wilson and L Foglia, Embodied Cognition in the Stanford Encyclopedia of Philosophy
+
+
+
+
+
+This thesis omits direct mention of some aspects of the "more encompassing biological, psychological and cultural context" included by Varela et al. The Extended mind thesis, in contrast with the Embodiment thesis, limits cognitive processing neither to the brain nor even to the body, but extends it outward into the agent's world.[1][7] Situated cognition emphasizes that this extension is not just a matter of including resources outside the head, but stresses the role of probing and modifying interaction with the agent's world.[8]
+Philosophical background[edit]
+In his Universal Natural History and Theory of Heaven (1755).[9] philosopher Immanuel Kant advocated a view of the mind–body problem and the subject–object problem with parallels to the embodied view.[10] Some difficulties with this interpretation of Kant include (i) the view that Kant holds the empirical, and specifically knowledge of the body, cannot support a priori transcendental claims,[11] and (ii) the view that Kant holds that transcendental philosophy, although charged with the responsibility of explaining how we can have empirical knowledge, is not itself empirical.[12]
+José Ortega y Gasset, George Santayana, Miguel de Unamuno, Maurice Merleau-Ponty, Martin Heidegger and others in the broadly existential tradition have proposed philosophies of mind influencing the development of the modern 'embodiment' thesis.[13]
+The embodiment movement in artificial intelligence has fueled the embodiment argument in philosophy and a revised view of ethology:[14]
+
+"Species-typical activity patterns must be thought of as emergent phenomena in three different senses of the word. They have emerged...through natural selection, ....by a process of maturation and/or learning, ...and from interactions between the creature's low-level activities and its species-typical environment."
+
+
+
+—Horst Hendriks-Jansen Catching Ourselves in the Act, p. 10
+
+
+
+
+
+These developments have also given emotions a new status in philosophy of mind as an indispensable constituent, rather than a non-essential addition to rational intellectual thought. In philosophy of mind, the idea that cognition is embodied is sympathetic with other views of cognition such as situated cognition or externalism. This is a radical move towards a total re-localization of mental processes out of the neural domain.[15]
+Connections with the sciences[edit]
+Embodied cognition is a topic of research in social and cognitive psychology, covering issues such as social interaction and decision-making.[16] Embodied cognition reflects the argument that the motor system influences our cognition, just as the mind influences bodily actions. For example, when participants hold a pencil in their teeth engaging the muscles of a smile, they comprehend pleasant sentences faster than unpleasant ones, while holding a pencil between their nose and upper lip to engage the muscles of a frown has the reverse effect.[17]
+George Lakoff (a cognitive scientist and linguist) and his collaborators (including Mark Johnson, Mark Turner, and Rafael E. Núñez) have written a series of books promoting and expanding the thesis based on discoveries in cognitive science, such as conceptual metaphor and image schema.[18]
+Robotics researchers such as Rodney Brooks, Hans Moravec and Rolf Pfeifer have argued that true artificial intelligence can only be achieved by machines that have sensory and motor skills and are connected to the world through a body.[19] The insights of these robotics researchers have in turn inspired philosophers like Andy Clark and Horst Hendriks-Jansen.[20]
+Neuroscientists Gerald Edelman, António Damásio and others have outlined the connection between the body, individual structures in the brain and aspects of the mind such as consciousness, emotion, self-awareness and will.[21] Biology has also inspired Gregory Bateson, Humberto Maturana, Francisco Varela, Eleanor Rosch and Evan Thompson to develop a closely related version of the idea, which they call enactivism.[22] The motor theory of speech perception proposed by Alvin Liberman and colleagues at the Haskins Laboratories argues that the identification of words is embodied in perception of the bodily movements by which spoken words are made.[23][24][25][26][27] In related work at Haskins, Paul Mermelstein, Philip Rubin, Louis Goldstein, and colleagues developed articulatory synthesis tools for computationally modeling the physiology and aeroacoustics of the vocal tract, demonstrating how cognition and perception of speech can be shaped by biological constraints. This was extended into the audio-visual domain by the "talking heads" approach of Eric Vatikiotis-Bateson, Rubin, and other colleagues.
+More detail is provided in the sections that follow.
+Psychology[edit]
+Visual search[edit]
+
+
+
+
+Graph of the visual search task results showing that participants made less object orientation errors when grasping than pointing.
+
+
+One embodied cognition study shows that action intention can affect processing in visual search, with more orientation errors for pointing than for grasping.[28] Participants either pointed to or grasped target objects of 2 colors and 2 orientations (45° and 135°). There were randomized numbers of distractors as well (0, 3, 6, or 9), which differed from the target in color, orientation, or both. A tone sounded to inform participants which target orientation to find. Participants kept their eyes on a fixation point until it turned from red to the target color. The screen then lit up and the participants searched for the target, either pointing to it or grasping it (depending on the block). There were 2 blocks for pointing and 2 for grasping, with the order counterbalanced. Each block had 64 trials.[28]
+Results from the experiment show that accuracy decreases with an increase in the number of distractors.[28] Overall, participants made more orientation errors than color errors.[28] There was no main effect of accuracy between the pointing and grasping conditions, but participants made significantly fewer orientation errors in the grasping condition than in the pointing condition.[28] Color errors were the same in both conditions.[28] Because orientation is important in grasping an object, these results fit with the researchers' hypothesis that the plan to grasp an object will aid in orientation accuracy.[28] This supports embodied cognition because action intention (planning to grasp an object) can affect visual processing of task-relevant information (orientation).[28]
+Distance perception[edit]
+Internal states can affect distance perception, which relates to embodied cognition.[29] Researchers randomly assigned college student participants to high-choice, low-choice, and control conditions. The high-choice condition signed a “freedom of choice” consent form indicating their decision to wear a Carmen Miranda costume and walk across a busy area of campus. Low-choice participants signed an “experimenter choice” consent form, indicating the experimenter assigned the participant to wear the costume. A control group walked across campus but did not wear a costume. At the conclusion of the experiment, each participant completed a survey which asked them to estimate the distance they walked.[29]
+The high-choice participants perceived the distance walked as significantly shorter than participants in the low-choice and control groups, even though they walked the same distance.[29] The manipulation caused high-choice participants to feel responsible for the choice to walk in the embarrassing costume.[29] This created cognitive dissonance, which refers to a discrepancy between attitudes and behaviors.[29] High-choice participants reconciled their thoughts and actions by perceiving the distance as shorter.[29] These results show the ability of internal states to affect perception of physical distance moved, which illustrates the reciprocal relationship of the body and mind in embodied cognition.[29]
+Perspective[edit]
+
+
+
+
+Graph depicting the percentage of responses by perspective for each photograph condition.
+
+
+Researchers have found that when making judgements about objects in photographs, people will take the perspective of a person in the picture instead of their own.[30] They showed college undergraduate participants 1 of 3 photographs and asked where 1 object in the picture was compared to the other object. For example, if the 2 objects were an apple and a banana, the participants would have to respond to a question about the location of the apple compared to the banana. The photographs either had no person, a person looking at the object, in this case the banana, or a person reaching for the banana. The photograph and question appeared in a larger set of questionnaires not related to the study.[30]
+Results show that participants who viewed photographs that included a person were significantly more likely to respond from another's perspective than those who saw photographs with no person.[30] There were no differences in perspective of responses for the person looking versus reaching.[30] Participants who saw the scene without a person were significantly more likely to respond from their own perspective.[30] This means that the presence of a person in the photograph affected the perspective used even though the question focused solely on the two objects.[30] The researchers state that these results suggest disembodied cognition, in which the participants put themselves into the body of the person in the photograph.[30]
+Language comprehension[edit]
+See also: Embodied language processing
+Some researchers extend embodied cognition to include language.[31][16] They describe language as a tool that aids in broadening our sense of body.[16] For instance, when asked to identify “this” object, participants most often choose an object near to them.[16] Conversely, when asked to identify “that” object, participants choose an object further away from them.[16] Language allows us to distinguish between distances in more complex ways than the simple perceptual difference between near and far objects.[16]
+
+
+
+
+The change in "relative phase shift" for different conditions in the study. Participants had a significantly larger change for "performable" sentences than "inanimate" sentences and swinging only.
+
+
+The motor system is involved in language comprehension, in this case when sentences were performable by a human, there was a change in participants' overall movement of a pendulum.[32] Researchers performed an experiment in which college undergraduate participants swung a pendulum while completing a "sentence judgement task." Participants would swing the pendulum with both hands for 10 seconds before a prompt and then a sentence would appear on the screen until the participant responded. In the control condition, participants swung the pendulum without performing the "sentence judgement task." Each trial had half "plausible" and half "implausible" sentences. The "plausible" sentences made sense semantically, while the "implausible" ones did not. The "performable" sentences could be performed by a human, while the "inanimate" sentences could not. Participants responded by saying "yes" to the "plausible" sentences.[32]
+Results show a significant "relative phase shift," or overall change in movement of the swinging pendulum, for the "performable" sentences.[32] This change did not occur for "inanimate" sentences or the control condition.[32] The researchers did not expect an overall phase shift, instead they expected a change in the variability of movement, or the "standard deviation of relative phase shift."[32] Although not entirely expected, these results support embodied cognition and show that the motor system is involved in the understanding of language.[32] The researchers suggest that the nature of this relationship needs to be further studied to determine the exact correlation this task has to bi-manual motor movements.[32]
+Embodiment effects emerge in the way in which people of different sex and temperament perceive verbal material, such as common adjectives and abstract and neutral nouns. Trofimova, who first described this phenomenon in her experiments, called it "projection through capacities". This phenomenon emerges when people's lexical perception depends upon their capacities to handle the events; when their information processing registers mostly those aspects of objects or of a situation that they can properly react to and deal with according to their inherent capacities.[33][34][35] For example, in these studies males with stronger motor-physical endurance estimated abstractions describing people-, work/reality- and time-related concepts in more positive terms than males with a weaker endurance. Females with stronger social or physical endurance estimated social attractors in more positive terms than weaker females. Both male and female temperament groups with higher sociability showed a universal positive bias in their estimations of neutral words, especially for social and work/reality-related concepts, in comparison to participants with lower sociability. Capacities related to the tempo of activities also appeared to impact the perception of lexical material: men with faster motor-physical tempo estimated neutral, abstract time-related concepts significantly in more positive terms than men with slower tempo.
+Memory[edit]
+A study examining memory and embodied cognition illustrates that people remember more of the gist of a story when they physically act it out.[36] Researchers divided female participants randomly into 5 groups, which were "Read Only," "Writing," "Collaborative Discussion," "Independent Discussion," and "Improvisation." All participants received a monologue about teen addiction and were told to pay attention to details about the character and action in the monologue. Participants were given 5 minutes to read the monologue twice, unaware of a future recall test. In the "Read Only" condition participants filled out unrelated questionnaires after reading the monologue. In the "Writing" condition participants responded to 5 questions about the story from the perspective of the character in the monologue. They had 6 minutes to answer each question. In the "Collaborative Discussion" condition participants responded from the character's perspective to the same questions as the "Writing" group, but in groups of 4 or 5 women. They were also given 6 minutes per question and everyone participated in answering each question. The "Independent Discussion" condition was the same as the "Collaborative Discussion," except 1 person answered each question. In the "Improvisation" condition participants acted out 5 scenes from the monologue in groups of 5 women. The researchers suggest that this condition involves embodied cognition and will produce better memory for the monologue. Every participant played the main character and a supporting character once. Participants were given short prompts from lines in the monologue, which were excluded from the memory test. Participants had 2 minutes to choose characters and 4 minutes for improvisations. The recall test was the monologue with 96 words or phrases missing. Participants had to fill in the blanks as accurately as possible.[36]
+Researchers gave the recall test to a group who did not read the monologue. They scored significantly lower than the other groups, which indicated that guessing was not easy.[36] In coding the answers to the recall test, exact words were labeled "Verbatim", and correct content but varied wording was labeled "Gist". The combination of "Verbatim" and "Gist" was called "Total Memory." The "Improvisational" group had more "Gist" memories than any other group and had more "Total Memory" than both of the discussion groups.[36] The results fit the researchers' hypothesis that the "Improvisational" group would remember more because they actively rehearsed the information from the monologue.[36] Although other groups had also elaborately encoded the information, the "Improvisation" group remembered significantly more than the discussion groups and marginally more than the "Reading Only" and "Writing" groups.[36] Simply experiencing the monologue in an active way aids in remembering the "Gist."[36] There were no differences across groups for "Verbatim" memory, which they suggest could take longer than the limited time during the experiment to develop.[36]
+Reasoning[edit]
+A series of experiments demonstrated the interrelation between motor experience and high-level reasoning. For example, although most individuals recruit visual processes when presented with spatial problems such as mental rotation tasks[37] motor experts favor motor processes to perform the same tasks, with higher overall performance.[38] A related study showed that motor experts use similar processes for the mental rotation of body parts and polygons, whereas non-experts treated these stimuli differently.[39] These results were not due to underlying confounds, as demonstrated by a training study which showed mental rotation improvements after a one-year motor training, compared with controls.[40] Similar patterns were also found in working memory tasks, with the ability to remember movements being greatly disrupted by a secondary verbal task in controls and by a motor task in motor experts, suggesting the involvement of different processes to store movements depending on motor experience, namely verbal for controls and motor for experts.[41]
+Approach and avoidance[edit]
+
+
+
+
+Table showing response times for the positive, negative, and neutral valence conditions in the approach and avoidance experiment. Participants were significantly faster for the "positive toward" condition regardless of the central word's valence.
+
+
+In research focused on the approach and avoidance effect, people showed an approach effect for positive words.[42] In the "positive toward condition," participants moved positive words toward the center of the screen and negative words away. In the "negative toward condition," participants moved negative words toward the center and positive words away. Participants were given feedback about their accuracy at the end of each of the 4 experimental blocks. In the first experiment the word at the center of the screen had a positive valence, while in the second experiment the central word had a negative valence. In the third experiment, the center of the screen had an empty box.[42]
+As predicted, in the first experiment participants in the "positive toward condition" responded significantly faster than those in the "negative toward condition."[42] This fits the approach/avoidance effect in embodied cognition, which states that people are faster to approach positive things and avoid negative ones.[42] In the second experiment, researchers expected participants in the "negative toward condition" to be faster, yet those in the "positive toward condition" responded significantly faster.[42] Although effects were smaller in the third experiment, participants in the "positive toward condition" were still faster.[42] Overall, people were faster in the "positive toward condition," regardless of the valence of the central word. Despite mixed results regarding the researchers' expectations, they maintain that the motor system is important in processing higher level representations such as the action goal.[42] In this study, participants showed strong approach effects in the "positive toward condition," which supports embodied cognition.[42]
+As part of a larger study, researchers separated participants into 5 groups with different instructions.[43] In the "approach" condition, participants were instructed to imagine physically moving the product toward them, but in the "avoid" condition, participants had to imagine moving the product away from them. In the "control" condition, participants were instructed to simply observe the product. The "correction" condition involved the same instructions as the approach condition, except participants were told that the body can affect judgment. In the "approach information" condition, participants had to list 5 reasons why they would obtain the product. After viewing a picture of an aversive product, participants rated on a scale of 1 to 7 how desirable the product was and how much they approached of or avoided the product. They also provided how much they would pay for the product.[43]
+An approach/avoidance effect was found in relation to product evaluation.[43] Participants in the "approach" condition liked the aversive product significantly more and would pay more for it. There were no differences between the "avoidance," "control," "correction," and "approach information" conditions. Simulation of approach can affect liking and willingness to pay for a product, but the effect can be reversed if the person knows about this influence.[43] This supports embodied cognition.[43]
+Self-regulation[edit]
+As part of a larger study, one experiment randomly assigned college undergraduates to 2 groups.[44] In the "muscle-firming" condition participants grasped a pen in their hand, while in the "control" condition participants held the pen in their fingers. The participants were then asked to fill out donations to Haiti for the Red Cross in sealed envelopes. They were told to return the envelope regardless of whether they donated. They also filled out questionnaires about their feelings about the Red Cross, their tendency to donate, their feelings about Haiti, what they thought the purpose of the study was, etc.[44]
+Significantly more participants in the "muscle-firming" condition than in the "control" condition donated money.[44] Condition did not affect the actual amount donated when participants chose to donate. As the researchers predicted, the "muscle-firming" condition helped participants get over their physical aversion to viewing the devastation in Haiti and spend money. Muscle-firming in this experiment may also be related to an increase in self-control, suggesting embodied cognition can play a role in self-regulation.[44]
+Another set of studies was conducted by Shalev (2014), indicating that exposure to physical or conceptual thirst or dryness-related cues influence perceived energy and reduce self-regulation. In Study 1, participants primed with dryness-related concepts reported greater physical thirst and tiredness and lower subjective vitality. In Study 2, participants who were physically thirstywere less persistent in investing effort in an unsolvable anagram task. In Study 3, images of arid land influenced time preference regarding when to begin preparation to make a monetary investment. Finally, in Studies 4a and 4b, exposure to the names of dryness-related products influenced impressions of the vitality of a target person.[45]
+Some suggest that the embodied mind serves self-regulatory processes by combining movement and cognition to reach a goal.[46] Thus, the embodied mind has a facilitative effect. Some judgments, such as the emotion of a face, are detected more quickly when a participant mimics the facial expression that is being evaluated.[29] Individuals holding a pen in their mouths to freeze their facial muscles and make them unable to mimic the expression were less able to judge emotions. Goal-relevant actions may be encouraged by embodied cognition, as evidenced by the automated approach and avoidance of certain environmental cues.[29] Embodied cognition is also influenced by the situation. If one moves in a way previously associated with danger, the body may require a greater level of information processing than if the body moves in a way associated with a benign situation.[46]
+Social psychology[edit]
+
+
+
+
+Results from the social embodied cognition study that illustrate the relationship between positive emotions, observed behavioral synchrony, and embodied rapport.
+
+
+Some social psychologists examined embodied cognition and hypothesized that embodied cognition would be supported by embodied rapport.[47] Embodied rapport would be demonstrated by pairs of same-sex strangers using Aron’s paradigm, which instructs participants to alternate asking certain questions and to progressively self-disclose. The researchers predicted that participants would mimic each other’s movements, reflecting embodied cognition. Half the participants completed a control task of reading and editing a scientific article, while half the participants completed a shortened version of Aron’s self-disclosure paradigm.[47]
+There is a significant correlation between self-disclosure and positive emotions towards the other participant.[47] Participants randomly assigned to the self-disclosure task displayed more behavioral synchrony (rated by independent judges watching the tapes of each condition on mute) and reported more positive emotions than the control group.[47] Since bodily movements influence the psychological experience of the task, the relationship between self-disclosure and positive feelings towards one's partner may be an example of embodied cognition.[47]
+Evolutionary view[edit]
+Embodied cognition may also be defined from the perspective of evolutionary psychologists.[48] Evolutionary psychologists view emotion as an important self-regulatory aspect of embodied cognition, and emotion as a motivator towards goal-relevant action.[48] Emotion helps drive adaptive behavior. The evolutionary perspective cites language, both spoken and written, as types of embodied cognition.[48] Pacing and non-verbal communication reflect embodied cognition in spoken language. Technical aspects of written language, such as italics, all caps, and emoticons promote an inner voice and thereby a sense of feeling rather than thinking about a written message.[48]
+Cognitive science and linguistics[edit]
+George Lakoff and his collaborators have developed several lines of evidence that suggest that people use their understanding of familiar physical objects, actions and situations (such as containers, spaces, trajectories) to understand other more complex domains (such as mathematics, relationships or death). Lakoff argues that all cognition is based on knowledge that comes from the body and that other domains are mapped onto our embodied knowledge using a combination of conceptual metaphor, image schema and prototypes.
+Conceptual metaphor[edit]
+Main article: Conceptual metaphor
+Lakoff and Mark Johnson[49] showed that humans use metaphor ubiquitously and that metaphors operate at a conceptual level (i.e., they map one conceptual domain onto another), they involve an unlimited number of individual expressions and that the same metaphor is used conventionally throughout a culture. Lakoff and his collaborators have collected thousands of examples of conceptual metaphors in many domains.[49][50]
+For example, people will typically use language about journeys to discuss the history and status of a love affair, a metaphor Lakoff and Johnson call "LOVE IS A JOURNEY". It is used in such expression as: "we arrived at a crossroads," "we parted ways", "we hit the rocks" (as in a sea journey), "she's in the driver's seat", or, simply, "we're together". In cases like these, something complex (a love affair) is described in terms of something that can be done with a body (travel through space).
+Image schema[edit]
+Main article: Image schema
+
+
+
+
+This section needs expansion. You can help by adding to it. (December 2011)
+
+
+
+Prototypes[edit]
+Main article: Prototype theory
+Prototypes are "typical" members of a category, e.g. a robin is a prototypical bird, but a penguin is not. The role of prototypes in human cognition was first identified and studied by Eleanor Rosch in the 1970s.[51] She was able to show that prototypical objects are more easily categorized than non-prototypical objects, and that people answered questions about a category as a whole by reasoning about a prototype. She also identified basic level categories:[52] categories that have prototypes that are easily visualized (such as a chair) and are associated with basic physical motions (such as "sitting"). Prototypes of basic level categories are used to reason about more general categories.
+Prototype theory has been used to explain human performance on many different cognitive tasks and in a large variety of domains. George Lakoff argues that prototype theory shows that the categories that people use are based on our experience of having a body and have no resemblance to logical classes or types. For Lakoff, this shows that traditional objectivist accounts of truth cannot be correct.[53]
+A classic argument against embodiment in its strict form is based on abstract meaning. Whereas the meanings of the words ‘eye’ and ‘grasp’ can be explained, to a degree, by pointing to objects and actions, those of ‘beauty’ and ‘freedom’ cannot.[54] It may be that some common sensorimotor knowledge is immanent in freeing actions or instantiations of beauty, but it seems likely that additional semantic binding principles are behind such concepts. So might it be necessary, after all, to place abstract semantics in an amodal meaning system? A remarkable observation has recently been offered that may be of the essence in this context: abstract terms show an over-proportionally strong tendency to be semantically linked to knowledge about emotions.[55][56] This additional embodied–semantic link accounts for advantages in processing speed for abstract emotional terms over otherwise matched control words.[56] In addition, abstract words strongly activate anterior cingulate cortex, a site known to be relevant for emotion processing[57] Thus, it appears that at least some abstract words are semantically grounded in emotion knowledge.
+If abstract emotion words indeed receive their meaning through grounding in emotion it is of crucial relevance[58][59] Therefore, the link between an abstract emotion word and its abstract concept is via manifestation of the latter in prototypical actions. The child learns an abstract emotion word such as 'joy' because it shows JOY-expressing action schemas, which language-teaching adults use as criteria for correct application of the abstract emotion word[57][58][59] Thus, the manifestation of emotions in actions becomes the crucial link between word use and internal state, and hence between sign and meaning. Only after a stock of abstract emotion words has been grounded in emotion-expressing action can further emotion terms be learnt from context.
+Artificial intelligence and robotics[edit]
+History of artificial intelligence[edit]
+The experience of AI research provides another line of evidence supporting the embodied mind thesis. In the early history of AI successes in programming high-level reasoning tasks such as chess-playing led to an unfounded optimism that all AI problems would be relatively quickly solved. These programs simulated intelligence using logic and high-level abstract symbols (an approach called Good old-fashioned AI). This "disembodied" approach ran into serious difficulties in the 1970s and 80s, as researchers discovered that abstract, disembodied reasoning was highly inefficient and could not achieve human-levels of competence on many simple tasks.[60] Funding agencies (such as DARPA) withdrew funding because the field of AI had failed to achieve its stated objectives, leading to difficult period now known as the "AI winter". Many AI researchers began to doubt that high level symbolic reasoning could ever perform well enough to solve simple problems.
+Rodney Brooks argued in the mid-80s that these symbolic approaches were failing because researchers did not appreciate the importance of sensorimotor skills to intelligence in general, and applied these principals to robotics (an approach he called "Nouvelle AI"). Another successful new direction was neural networks—programs based on the actual structures within human bodies that gave rise to intelligence and learning. In the 90s, statistical AI achieved high levels of success in industry without using any symbolic reasoning, but instead using probabilistic techniques to make "guesses" and improve them incrementally. This process is similar to the way human beings are able to make fast, intuitive choices without stopping to reason symbolically.
+Moravec's paradox[edit]
+Main article: Moravec's paradox
+Moravec's paradox is the discovery by artificial intelligence and robotics researchers that, contrary to traditional assumptions, high-level reasoning requires very little computation, but low-level sensorimotor skills require enormous computational resources. The principle was articulated by Hans Moravec (whence the name) and others in the 1980s.
+As Moravec writes:
+
+Encoded in the large, highly evolved sensory and motor portions of the human brain is a billion years of experience about the nature of the world and how to survive in it. The deliberate process we call reasoning is, I believe, the thinnest veneer of human thought, effective only because it is supported by this much older and much powerful, though usually unconscious, sensorimotor knowledge. We are all prodigious olympians in perceptual and motor areas, so good that we make the difficult look easy. Abstract thought, though, is a new trick, perhaps less than 100 thousand years old. We have not yet mastered it. It is not all that intrinsically difficult; it just seems so when we do it.[61]
+
+Approach to artificial intelligence[edit]
+Solving problems of perception and locomotion directly[edit]
+See also: Nouvelle AI, Situated, Behavior based AI, and Embodied cognitive science
+Many artificial intelligence researchers have argued that a machine may need a human-like body to think and speak as well as a human being. As early as 1950, Alan Turing wrote:
+
+It can also be maintained that it is best to provide the machine with the best sense organs that money can
+buy, and then teach it to understand and speak English. That process could follow the normal teaching of a
+child. Things would be pointed out and named, etc. (Turing, 1950).[62]
+Embodiment theory was brought into artificial intelligence most notably by Rodney Brooks who showed in the 1980s that robots could be more effective if they 'thought' (planned or processed) and perceived as little as possible. The robot's intelligence is geared towards only handling the minimal amount of information necessary to make its behavior be appropriate and/or as desired by its creator.
+Others have argued that without taking into account both the architecture of the human brain, and embodiment, it is unrealistic to replicate accurately the processes which take place during language acquisition, comprehension, production, or during non-linguistic actions.[63] There have thus been suggestions that while robots are far from isomorphic with humans, they could benefit from strengthened associative connections in the optimization of their processes and their reactivity and sensitivity to environmental stimuli, and in situated human-machine interaction, and that the concept of multisensory integration be extended to cover linguistic input and the complementary information combined from temporally coincident sensory impressions.[63]
+The embodied approach to AI has been given several names by different schools of researchers, including: Nouvelle AI (Brooks' term), Situated AI, Behavior based AI and Embodied cognitive science.
+Neuroscience[edit]
+
+
+
+
+
+
+This section may need to be rewritten entirely to comply with Wikipedia's quality standards, as comprehensive. You can help. The discussion page may contain suggestions. (December 2011)
+
+
+
+One source of inspiration for embodiment theory has been research in cognitive neuroscience, such as the proposals of Gerald Edelman concerning how mathematical and computational models such as neuronal group selection and neural degeneracy result in emergent categorization.
+Rohrer (2005) discusses how both our neural and developmental embodiment shape both our mental and linguistic categorizations. The degree of thought abstraction has been found to be associated with physical distance which then affects associated ideas and perception of risk.[64]
+The embodied mind thesis is compatible with some views of cognition promoted in neuropsychology, such as the theories of consciousness of Vilayanur S. Ramachandran, Gerald Edelman, and Antonio Damasio.
+The modeling work of cognitive neuroscientists such as Francisco Varela and Walter Freeman seeks to explain embodied and situated cognition in terms of dynamical systems theory and neurophenomenology, but rejects the idea that the brain uses representations to do so (a position also espoused by Gerhard Werner).
+Criticisms[edit]
+Research on embodied cognition is extremely broad, covering a wide range of concepts. Methods to study embodied cognition vary from experiment to experiment based on the operational definition used by researchers. There is much evidence for embodied cognition, although interpretation of results and their significance may be disputed. Researchers continue to search for the best way to study and interpret embodied cognition.
+Infants as examples[edit]
+Some[65] criticize the notion that pre-verbal children provide an ideal channel for studying embodied cognition, especially embodied social cognition.[66] It may be impossible to know when a pre-verbal infant is a "pure model" of embodied cognition, since infants experience dramatic changes in social behavior throughout development.[65] A 9-month old has reached a different developmental stage than a 2-month old. Looking-time and reaching measures of embodied cognition may not represent embodied cognition since infants develop object permanence of objects they can see before they develop object permanence with objects they can touch.[65] True embodied cognition suggests that children would have to first physically engage with an object to understand object permanence.[65]
+The response to this critique is that infants are "ideal models" of embodied cognition.[66] Infants are the best models because they utilize symbols less than adults do.[66] Looking-time could likely be a better measure of embodied cognition than reaching because infants have not developed certain fine motor skills yet.[66] Infants may first develop a passive mode of embodied cognition before they develop the active mode involving fine motor movements.[66]
+Overinterpretation?[edit]
+Some criticize the conclusions made by researchers about embodied cognition.[67] The pencil-in-teeth study is frequently cited as an example of these invalidly drawn conclusions. The researchers believed that the quicker responses to positive sentences by participants engaging their smiling muscles represented embodied cognition.[17] However, opponents argue that the effects of this exercise were primed or facilitated by the engagement of certain facial muscles.[67] Many cases of facilitative movements of the body may be incorrectly labeled as evidence of embodied cognition.[67]
+Six views of embodied cognition[edit]
+The following "Six Views of Embodied Cognition" are taken from Margaret Wilson:[68][69]
+
+"Cognition is situated. Cognitive activity takes place in the context of a real-world environment, and inherently involves perception and action." One example of this is moving around a room while, at the same time, trying to decide where the furniture should go.
+"Cognition is time-pressured. We are 'mind on the hoof' (Clark, 1997), and cognition must be understood in terms of how it functions under the pressure of real-time interaction with the environment." When you're under pressure to make a decision, the choice that is made emerges from the confluence of pressures that you're under. In the absence of pressure, a decision may be made differently.
+"We off-load cognitive work onto the environment. Because of limits on our information-processing abilities (e.g., limits on attention and working memory), we exploit the environment to reduce the cognitive workload. We make the environment hold or even manipulate information for us, and we harvest that information only on a need-to-know basis." This is seen when people have calendars, agendas, PDAs, or anything to help them with everyday functions. We write things down so we can use the information when we need it, instead of taking the time to memorize or encode it into our minds.
+"The environment is part of the cognitive system. The information flow between mind and world is so dense and continuous that, for scientists studying the nature of cognitive activity, the mind alone is not a meaningful unit of analysis." This statement means that the production of cognitive activity does not come from the mind alone, but rather is a mixture of the mind and the environmental situation that we are in. These interactions become part of our cognitive systems. Our thinking, decision-making, and future are all impacted by our environmental situations.
+"Cognition is for action. The function of the mind is to guide action and things such as perception and memory must be understood in terms of their contribution to situation-appropriate behavior." This claim has to do with the purpose of perception and cognition. For example, visual information is processed to extract identity, location, and affordances (ways that we might interact with objects). A prominent anatomical distinction is drawn between the "what" (ventral) and "where" (dorsal) pathways in visual processing. However, the commonly labeled "where" pathway is also the "how" pathway, at least partially dedicated to action.
+"Off-line cognition is body-based. Even when decoupled from the environment, the activity of the mind is grounded in mechanisms that evolved for interaction with the environment – that is, mechanisms of sensory processing and motor control." This is shown with infants or toddlers best. Children utilize skills and abilities they were born with, such as sucking, grasping, and listening, to learn more about the environment. The skills are broken down into five main categories that combine sensory with motor skills, sensorimotor functions. The five main skills are:
+
+Mental Imagery: Is visualizing something that is not currently present in your environment. For example, imagining a future activity, or recalling how many windows are on the first floor of a house you once lived in (even though you did not count them explicitly while living there).
+Working Memory: Short term memory
+Episodic Memory: Long term memory of specific events.
+Implicit Memory: means by which we learn certain skills until they become automatic for us. An example of this would be an adult brushing his/her teeth, or an expert race car driver putting the car in drive.
+Reasoning and Problem-Solving: Having a mental model of something will increase problem-solving approaches.
+
+
+
+Criticism of the six claims[edit]
+Margaret Wilson adds: "Some authors go so far as to complain that the phrase 'situated cognition' implies, falsely, that there also exists cognition that is not situated (Greeno & Moore, 1993, p. 50)."[70] Of her six claims, she notes in her abstract, "the first three and the fifth claim appear to be at least partially true, and their usefulness is best evaluated in terms of the range of their applicability. The fourth claim, I argue, is deeply problematic. The sixth claim has received the least attention, but it may in fact be the best documented and most powerful of the six claims."[71]
+See also[edit]
+
+
+Action-specific perception
+Active inference
+Blue Brain Project
+Cognitive biology
+Cognitive linguistics
+Cognitive neuropsychology
+Cognitive neuroscience
+Cognitive science
+Conceptual blending
+Conceptual metaphor
+Ecological psychology
+Embodied bilingual language
+Embodied cognitive science
+Embodied embedded cognition
+Embodied music cognition
+Enactivism
+Extended cognition
+Extended mind thesis
+Externalism
+Image schema
+Moravec's paradox
+Neuroconstructivism
+Neuropsychology
+Neurophenomenology
+Philosophy of mind
+Plant cognition
+Situated cognition
+Where Mathematics Comes From
+
+
+References[edit]
+
+
+^ a b c d Wilson, Robert A.; Foglia, Lucia (July 25, 2011). Edward N. Zalta, ed. "Embodied Cognition". The Stanford Encyclopedia of Philosophy (Fall 2011 Edition). 
+^ Varela, Thompson & Rosch 1992
+^ Eleanor Rosch; Evan Thompson; Francisco J. Varela (1991). The embodied mind: Cognitive science and human experience (Paperback 1992 ed.). MIT Press. ISBN 978-0262720212. 
+^ For example, Lawrence Shapiro, ed. (2014). The Routledge Handbook of Embodied Cognition. Routledge. ISBN 9781317688662.  includes articles on extended cognition and situated cognition.
+^ Michael Dawson (2014). "Chapter 6: Embedded and situated cognition". In Lawrence Shapiro. The Routledge Handbook of Embodied Cognition. Routledge. pp. 59–67. ISBN 9781317688655. 
+^ Marcin Milkowski (2013). Explaining the Computational Mind. MIT Press. p. 4. ISBN 9780262018869. 
+^ David Chalmers (ed.). "The Extended Mind". Philosophy of the mind. philpapers: philosophical research on line. Retrieved February 2015.  Check date values in: |access-date= (help) See also: Andy Clark; David J Chalmers (2010). "Chapter 2: The extended mind". In Richard Menary. The extended mind. MIT Press. pp. 27 ff. ISBN 9780262014038. 
+^ Andy Clark (2008). Supersizing the Mind : Embodiment, Action, and Cognitive Extension: Embodiment, Action, and Cognitive Extension. Cambridge University Press. p. 107. ISBN 9780199715534. no genuinely cognitive system will turn out to consist entirely of the kind of external resources that fans of extended cognition typically invoke 
+^ Immanuel Kant, Universal Natural History and Theory of the Heavens, p.367; translated by Stephen Palmquist in Kant's Critical Religion (Aldershot: Ashgate, 2000), p.320.
+^ Andrew Carpenter (2008). "Kant on the embodied cognition". فلسفه. 36 (1): 59–68. 
+^ Eleanor Rosch; Evan Thompson; Francisco J. Varela (1992). "Chapter 4: The I of the storm". The Embodied Mind: Cognitive Science and Human Experience. MIT Press. p. 70. ISBN 9780262261234. 
+^ Helge Svare (2006). "Chapter 7: The body and the transcendental". Body and Practice in Kant. Springer Science & Business Media. pp. 213 ff. ISBN 9781402041198. 
+^ Cowart, Monica 2004 Embodied Cognition The Internet Encyclopedia of Philosophy, ISSN 2161-0002, [1], retrieved 27 Feb 2012.
+^ Horst Hendriks-Jansen (1996). Catching Ourselves in the Act: Situated Activity, Interactive Emergence, Evolution, and Human Thought. MIT Press. ISBN 9780262082464. 
+^ Di Paolo, Ezequiel Shallow and Deep Embodiment University of Sussex, 29.10.2009 12:43 Duration: 1:11:38 https://cast.switch.ch/vod/clips/74nrkbwys (Video, retrieved 27 Feb 2012 [2]
+^ a b c d e f Borghi, Anna M.; Cimatti, Felice (2010). "Embodied cognition and beyond: Acting and sensing the body". Neuropsychologia. 48 (3): 763–773. doi:10.1016/j.neuropsychologia.2009.10.029. ISSN 0028-3932. PMID 19913041. 
+^ a b Diane Pecher; Rolf A. Zwaan (10 January 2005). Grounding Cognition: The Role of Perception and Action in Memory, Language, and Thinking. Cambridge University Press. pp. 115–. ISBN 978-1-139-44247-3. 
+^ Lakoff & Johnson (1980); Lakoff (1987); Lakoff & Turner (1989); Lakoff & Johnson (1999); Lakoff & Nunez 2000
+^ Moravec 1988, Brooks 1990, Pfeiffer 2001
+^ Clark 1997, Hendriks-Jansen 1996
+^ Edelman 2004, Damasio 1999
+^ Maturana & Varela 1987, Varela, Thompson & Rosch 1992
+^ Liberman, AM; Cooper, FS; Shankweiler, DP; Studdert-Kennedy, M (1967). "Perception of the speech code". Psychological Review. 74 (6): 431–61. doi:10.1037/h0020279. PMID 4170865. 
+^ Liberman, AM; Mattingly, IG (1985). "The motor theory of speech perception revised". Cognition. 21 (1): 1–36. doi:10.1016/0010-0277(85)90021-6. PMID 4075760. 
+^ Liberman, AM; Mattingly, IG (1989). "A specialization for speech perception". Science. 243 (4890): 489–94. doi:10.1126/science.2643163. PMID 2643163. 
+^ Liberman, AM; Whalen, DH (2000). "On the relation of speech to language". Trends in Cognitive Sciences. 4 (5): 187–196. doi:10.1016/S1364-6613(00)01471-6. PMID 10782105. 
+^ Galantucci, B; Fowler, CA; Turvey, MT (2006). "The motor theory of speech perception reviewed". Psychonomic Bulletin & Review. 13 (3): 361–77. doi:10.3758/bf03193857. PMC 2746041 . PMID 17048719. 
+^ a b c d e f g h Bekkering H, Neggers SF (2002). "Visual search is modulated by action intentions". Psychol Sci. 13 (4): 370–4. doi:10.1111/j.0956-7976.2002.00466.x. PMID 12137141. 
+^ a b c d e f g h i Balcetis E, Dunning D (2007). "Cognitive dissonance and the perception of natural environments". Psychol Sci. 18 (10): 917–21. doi:10.1111/j.1467-9280.2007.02000.x. PMID 17894610. 
+^ a b c d e f g Tversky, Barbara; Hard, Bridgette Martin (2009). "Embodied and disembodied cognition: Spatial perspective-taking". Cognition. 110 (1): 124–129. doi:10.1016/j.cognition.2008.10.008. ISSN 0010-0277. PMID 19056081. 
+^ Paradowski MB (2014). "Storytelling in language teaching – re-evaluating the weight of kinaesthetic modality for brain-compatible pedagogy". Storytelling: An Interdisciplinary Journal. 1 (2): 13–52. 
+^ a b c d e f g Olmstead AJ, Viswanathan N, Aicher KA, Fowler CA (2009). "Sentence comprehension affects the dynamics of bimanual coordination: implications for embodied cognition". Q J Exp Psychol (Hove). 62 (12): 2409–17. doi:10.1080/17470210902846765. PMID 19396732. 
+^ Trofimova, IN (1999). "How people of different age sex and temperament estimate the world". Psychological Reports. 85/2: 533–552. doi:10.2466/pr0.1999.85.2.533. 
+^ Trofimova, IN (2012). "Understanding misunderstanding: a study of sex differences in meaning attribution". Psychological Research. 77 (6): 748–760. doi:10.1007/s00426-012-0462-8. 
+^ Trofimova, IN (2014). "Observer bias: an interaction of temperament traits with biases in the semantic perception of lexical material". PLoS ONE. 9 (1): e85677. doi:10.1371/journal.pone.0085677. PMC 3903487 . PMID 24475048. 
+^ a b c d e f g h Scott, Christina L.; Harris, Richard Jackson; Rothe, Alicia R. (2001). "Embodied Cognition Through Improvisation Improves Memory for a Dramatic Monologue". Discourse Processes. 31 (3): 293–305. doi:10.1207/S15326950dp31-3_4. ISSN 0163-853X. 
+^ Hyun, J. S.; Luck, S. J. (2007). "Visual working memory as the substrate for mental rotation". Psychonomic Bulletin & Review. 14 (1): 154–158. doi:10.3758/bf03194043. 
+^ Moreau, D (2012). "The role of motor processes in three-dimensional mental rotation: Shaping cognitive processing via sensorimotor experience". Learning and Individual Differences. 22 (3): 354–359. doi:10.1016/j.lindif.2012.02.003. 
+^ Moreau, D (2013a). "Constraining movement alters the recruitment of motor processes in mental rotation". Experimental Brain Research. 224 (3): 447–454. doi:10.1007/s00221-012-3324-0. 
+^ Moreau, D.; Clerc, J.; Mansy-Dannay, A.; Guerrien, A. (2012). "Enhancing spatial ability through sport practice: Evidence for an effect of motor training on mental rotation performance". Journal of Individual Differences. 33 (2): 83–88. doi:10.1027/1614-0001/a000075. 
+^ Moreau, D (2013b). "Motor expertise modulates movement processing in working memory". Acta Psychologica. 142 (3): 356–361. doi:10.1016/j.actpsy.2013.01.011. 
+^ a b c d e f g h Dantzig, Saskia van; Zeelenberg, René; Pecher, Diane (2009). "Unconstraining theories of embodied cognition". Journal of Experimental Social Psychology. 45 (2): 345–351. doi:10.1016/j.jesp.2008.11.001. ISSN 0022-1031. 
+^ a b c d e Labroo, Aparna A.; Nielsen, Jesper H. (2010). "Half the Thrill Is in the Chase: Twisted Inferences from Embodied Cognitions and Brand Evaluation". Journal of Consumer Research. 37 (1): 143–158. doi:10.1086/649908. ISSN 0093-5301. 
+^ a b c d Hung, Iris W.; Labroo, Aparna A. (2011). "From Firm Muscles to Firm Willpower: Understanding the Role of Embodied Cognition in Self-Regulation". Journal of Consumer Research. 37 (6): 1046–1064. doi:10.1086/657240. ISSN 0093-5301. 
+^ Shalev, I. (2014). "Implicit Energy Loss: Embodied Dryness Cues Influence Vitality and Depletion". Journal of Consumer Psychology. 24: 260–270. doi:10.1016/j.jcps.2013.09.011. 
+^ a b Balcetis, Emily; Cole, Shana (2009). "Body in Mind: The Role of Embodied Cognition in Self-Regulation". Social and Personality Psychology Compass. 3 (5): 759–774. doi:10.1111/j.1751-9004.2009.00197.x. ISSN 1751-9004. 
+^ a b c d e Vacharkulksemsuk T, Fredrickson BL (2012). "Strangers in sync: Achieving embodied rapport through shared movements". J Exp Soc Psychol. 48 (1): 399–402. doi:10.1016/j.jesp.2011.07.015. PMC 3290409 . PMID 22389521. 
+^ a b c d Kaschak, Michael P.; Maner, Jon K.; Miller, Saul; Coyle, Jacqueline M. (2009). "Embodied social cognition: Bodies, emotions, and blackberries". European Journal of Social Psychology. 39 (7): 1255–1256. doi:10.1002/ejsp.692. ISSN 0046-2772. 
+^ a b Lakoff & Johnson 1980.
+^ Lakoff & Turner 1989.
+^ Rosch, Eleanor (1973). "Natural categories". Cognitive Psychology. 4 (3): 328–350. doi:10.1016/0010-0285(73)90017-0. 
+^ Rosch, Eleanor (1978). "Principles of Categorization". In Rosch, Eleanor; Lloyd, B. B. Cognition and Categorization'. Lawrence Erlbaum Associates. pp. 7–48. 
+^ Lakoff, G. Women, Fire, and Dangerous Things: What Categories Reveal About the Mind. University of Chicago Press. ISBN 0-226-46804-6.
+^ Pulvermuller, Friedemann (2013). "How neurons make meaning: brain mechanisms for embodied and abstract-symbolic semantics" (PDF). Trends in Cognitive Sciences. Elsevier. 17 (9): 458–470. doi:10.1016/j.tics.2013.06.004. PMID 23932069. 
+^ Meteyard, L.; et al. (2012). "Coming of age: a review of embodiment and the neuroscience of semantics". Cortex. 48: 788–804. doi:10.1016/j.cortex.2010.11.002. PMID 21163473. 
+^ a b Kousta, S.T.; et al. (2011). "The representation of abstract words: why emotion matters". J. Exp. Psychol. Gen. 140: 14–34. 
+^ a b Vigliocco, G.; et al. (2013). "The neural representation of abstract words: the role of emotion". Cereb. Cortex. 24: 1767–1777. doi:10.1093/cercor/bht025. 
+^ a b Wittgenstein, L. (1953). Philosophical Investigations. Blackwell Publishers. 
+^ a b Baker, G.P.; Hacker, P.M.S. (2009). Wittgenstein: Understanding and Meaning, Part 1: Essays. Wiley-Blackwell. 
+^ See History of AI § The problems
+^ Moravec 1988, pp. 15–16.
+^ Turing 1950.
+^ a b Paradowski, Michał B. 2012. Developing embodied multisensory dialogue agents. In: Rzepka, Rafał, Michał Ptaszyński & Paweł Dybala (Eds.) Linguistic and Cognitive Approaches to Dialogue Agents. Birmingham: The Society for the Study of Artificial Intelligence and Simulation of Behaviour, 6–14.
+^ Liberman N, Trope Y (2008-11-21). "The Psychology of Transcending the Here and Now". Science. 322 (5905): 1201–1205. doi:10.1126/science.1161958. PMC 2643344 . PMID 19023074. 
+^ a b c d Longo, M. R. (2009). "What's embodied and how can we tell?". European Journal of Social Psychology. 39 (7): 1207–1209. doi:10.1002/ejsp.684. 
+^ a b c d e Daum, Moritz M.; Sommerville, Jessica A.; Prinz, Wolfgang (2009). "Disentangling embodied and symbolic modes of social understanding". European Journal of Social Psychology. 39 (7): 1214–1216. doi:10.1002/ejsp.686. ISSN 0046-2772. 
+^ a b c Adams, F. (2010). "Embodied cognition". Phenomenology and the Cognitive Sciences. 9 (4): 619–628. doi:10.1007/s11097-010-9175-x. 
+^ "Margaret Wilson -". people.ucsc.edu. Retrieved 23 March 2018. 
+^ Wilson, Margaret (2002). "Six Views of Embodied Cognition" (PDF). Psychonomic Bulletin & Review. 9 (4): 625–636. doi:10.3758/BF03196322 
+^ Wilson (2002: 627).
+^ Wilson (2002: 625).
+
+
+
+Brooks, Rodney A. (1999). Cambrian Intelligence: The Early History of the New AI. Cambridge MA: The MIT Press. ISBN 0-262-52263-2
+Clark, Andy (1997). Being There: Putting Brain, Body and World Together Again. Cambridge MA: The MIT Press. ISBN 0-262-53156-9
+Damasio, Antonio (1999). The Feeling of What Happens: Body and Emotion in the Making of Consciousness. New York: Houghton Mifflin Harcourt. ISBN 0-15-601075-5
+Edelman, G (2004). Wider than the Sky: The Phenomenal Gift of Consciousness. Yale University Press. ISBN 0-300-10229-1
+Gallagher, S. (2005). How the Body Shapes the Mind. Oxford: Oxford University Press. ISBN 0-19-920416-0.
+Hendriks-Jansen, Horst (1996) Catching Ourselves in the Act: Situated Activity, Interactive Emergence, Evolution, and Human Thought. Cambridge MA: The MIT Press. ISBN 0-262-08246-2
+Hyun, J. S.; Luck, S. J. (2007). "Visual working memory as the substrate for mental rotation". Psychonomic Bulletin & Review. 14 (1): 154–158. doi:10.3758/bf03194043. 
+Lakoff, George and Johnson, Mark (1980) Metaphors We Live By. University of Chicago Press. ISBN 0-226-46801-1
+Lakoff, George (1987) Women, Fire, and Dangerous Things: What Categories Reveal About the Mind University of Chicago Press. ISBN 0-226-46804-6.
+Lakoff, George and Turner, Mark (1989) More Than Cool Reason: A Field Guide to Poetic Metaphor. University of Chicago Press. ISBN 0-226-46812-7
+Lakoff, George and Johnson, Mark (1999) Philosophy In The Flesh: the Embodied Mind and its Challenge to Western Thought. Basic Books. ISBN 0-465-05674-1
+Lakoff, George and Nuñez, Rafael. (2001). Where Mathematics Comes From: How the Embodied Mind Brings Mathematics into Being. New York: Basic Books. ISBN 0-465-03771-2
+Maturana, Humberto and Varela, Francisco (1987) The Tree of Knowledge: The Biological Roots of Human Understanding. Boston: Shambhala. ISBN 0-87773-373-2
+Pfeifer, R. (2001) Understanding Intelligence. Cambridge MA: The MIT Press. ISBN 0-262-16181-8
+Pfeifer, R. and Bongard, J. (2006) How the Body Shapes the Way We Think: A New View of Intelligence. Cambridge MA: The MIT Press. ISBN 978-0-262-16239-5
+Varela, Francisco J., Thompson, Evan T., and Rosch, Eleanor. (1991). The Embodied Mind: Cognitive Science and Human Experience. Cambridge, MA: The MIT Press. ISBN 0-262-72021-3
+Greeno, J.G; Moore, J.L. (1993). "Situativity and symbols: Response to Vera and Simon". Cognitive Science. 17: 49–59. doi:10.1207/s15516709cog1701_3. 
+Wilson, M. (2001). The case for sensorimotor coding in working memory. Psychonomic Bulletin and Review, *, 44–57.
+
+External links[edit]
+
+The Situated Body, a special issue of Janus Head: Journal of Interdisciplinary Studies in Literature, Continental Philosophy, Phenomenological Psychology and the Arts. Guest edited by Shaun Gallagher.
+Embodiment and Experientialism from the Handbook of Cognitive Linguistics (pdf)
+Embodied Cognition: A Field Guide (pdf) – from an Artificial Intelligence perspective
+Where the Action Is by Paul Dourish- for applications to human-computer interaction.
+Pragmatism, Ideology, and Embodiment: William James and the Philosophical Foundations of Embodiment by Tim Rohrer
+Society for the Scientific Study of Embodiment
+Embodied Cognition – Internet Encyclopedia of Philosophy
+2001 Summary of how the embodiment hypothesis of cognitive linguistics has begun to interact with theories of embodiment in fields ranging from cognitive anthropology to cognitive neuroscience
+Goddard College's Embodiment Studies Web Resources
+Embodiment Resources – for those researching into embodiment, particularly as it relates to phenomenology, sociology and cognitive neuroscience.
+EUCog – European Network for the Advancement of Artificial Cognitive Systems, Interaction and Robotics Many references here to up to date research on embodiment and enaction
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy
+
+
+
+
+
+
+
+
+Branches
+
+
+
+
+
+
+
+Traditional
+
+
+
+Metaphysics
+
+Ontology
+
+
+Epistemology
+Logic
+Ethics
+Aesthetics
+
+
+
+
+
+Philosophy of
+
+
+
+Action
+Art
+
+Culture
+Design
+Music
+Film
+
+
+Business
+Color
+Cosmos
+Dialogue
+Education
+Environment
+Futility
+Happiness
+Healthcare
+History
+Human nature
+Humor
+Feminism
+Language
+Life
+Literature
+Mathematics
+Mind
+
+Pain
+Psychology
+
+
+Philosophy of psychiatry
+Philosophy of perception
+Philosophy
+Religion
+Science
+
+Physics
+Chemistry
+Biology
+Geography
+
+
+Sexuality
+Social science
+
+Culture
+Economics
+Justice
+Law
+Politics
+Society
+
+
+Space and time
+Sport
+Technology
+
+Artificial intelligence
+Computer science
+Engineering
+Information
+
+
+War
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schools of thought
+
+
+
+
+
+
+
+By era
+
+
+
+Ancient
+Western
+
+Medieval
+Renaissance
+Early modern
+Modern
+Contemporary
+
+
+
+
+
+
+
+Ancient
+
+
+
+
+Chinese
+
+
+
+Agriculturalism
+Confucianism
+Legalism
+Logicians
+Mohism
+Chinese naturalism
+Neotaoism
+Taoism
+Yangism
+Zen
+
+
+
+
+
+Greco-Roman
+
+
+
+Aristotelianism
+Atomism
+Cynicism
+Cyrenaics
+Eleatics
+Eretrian school
+Epicureanism
+Hermeneutics
+Ionian
+
+Ephesian
+Milesian
+
+
+Megarian school
+Neoplatonism
+Peripatetic
+Platonism
+Pluralism
+Presocratic
+Pyrrhonism
+Pythagoreanism
+Neopythagoreanism
+Sophistic
+Stoicism
+
+
+
+
+
+Indian
+
+
+
+Samkhya
+Nyaya
+Vaisheshika
+Yoga
+Mīmāṃsā
+Ājīvika
+Ajñana
+Cārvāka
+Jain
+
+Anekantavada
+Syādvāda
+
+
+Buddhist
+
+Śūnyatā
+Madhyamaka
+Yogacara
+Sautrāntika
+Svatantrika
+
+
+
+
+
+
+
+Persian
+
+
+
+Mazdakism
+Zoroastrianism
+Zurvanism
+
+
+
+
+
+
+
+
+Medieval
+
+
+
+
+European
+
+
+
+Christian philosophy
+Scholasticism
+Thomism
+Renaissance humanism
+
+
+
+
+
+East Asian
+
+
+
+Korean Confucianism
+Edo Neo-Confucianism
+Neo-Confucianism
+
+
+
+
+
+Indian
+
+
+
+Vedanta
+
+Acintya bheda abheda
+Advaita
+Bhedabheda
+Dvaita
+Dvaitadvaita
+Shuddhadvaita
+Vishishtadvaita
+
+
+Navya-Nyāya
+
+
+
+
+
+Islamic
+
+
+
+Averroism
+Avicennism
+Illuminationism
+ʿIlm al-Kalām
+Sufi
+
+
+
+
+
+Jewish
+
+
+
+Judeo-Islamic
+
+
+
+
+
+
+
+
+Modern
+
+
+
+
+People
+
+
+
+Cartesianism
+Kantianism
+Neo-Kantianism
+Hegelianism
+Marxism
+Spinozism
+
+
+
+
+
+0
+
+
+
+Anarchism
+Classical Realism
+Liberalism
+Collectivism
+Conservatism
+Determinism
+Dualism
+Empiricism
+Existentialism
+Foundationalism
+Historicism
+Holism
+Humanism
+Idealism
+
+Absolute
+British
+German
+Objective
+Subjective
+Transcendental
+
+
+Individualism
+Kokugaku
+Materialism
+Modernism
+Monism
+Naturalism
+Natural law
+Nihilism
+New Confucianism
+Neo-Scholasticism
+Pragmatism
+Phenomenology
+Positivism
+Reductionism
+Rationalism
+Social contract
+Socialism
+Transcendentalism
+Utilitarianism
+
+
+
+
+
+
+
+
+Contemporary
+
+
+
+
+Analytic
+
+
+
+Applied ethics
+Analytic feminism
+Analytical Marxism
+Communitarianism
+Consequentialism
+Critical rationalism
+Experimental philosophy
+Falsificationism
+Foundationalism / Coherentism
+Generative linguistics
+Internalism and Externalism
+Logical positivism
+Legal positivism
+Normative ethics
+Meta-ethics
+Moral realism
+Neo-Aristotelian
+Quinean naturalism
+Ordinary language philosophy
+Postanalytic philosophy
+Quietism
+Rawlsian
+Reformed epistemology
+Systemics
+Scientism
+Scientific realism
+Scientific skepticism
+Contemporary utilitarianism
+Vienna Circle
+Wittgensteinian
+
+
+
+
+
+Continental
+
+
+
+Critical theory
+Deconstruction
+Existentialism
+Feminist
+Frankfurt School
+New Historicism
+Hermeneutics
+Neo-Marxism
+Phenomenology
+Postmodernism
+Post-structuralism
+Social constructionism
+Structuralism
+Western Marxism
+
+
+
+
+
+Other
+
+
+
+Kyoto School
+Objectivism
+Russian cosmism
+more...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Positions
+
+
+
+
+
+
+
+Aesthetics
+
+
+
+Formalism
+Institutionalism
+Aesthetic response
+
+
+
+
+
+Ethics
+
+
+
+Consequentialism
+Deontology
+Virtue
+
+
+
+
+
+Free will
+
+
+
+Compatibilism
+Determinism
+Libertarianism
+
+
+
+
+
+Metaphysics
+
+
+
+Atomism
+Dualism
+Monism
+Naturalism
+
+
+
+
+
+Epistemology
+
+
+
+Constructivism
+Empiricism
+Idealism
+Particularism
+Fideism
+Rationalism / Reasonism
+Skepticism
+Solipsism
+
+
+
+
+
+Mind
+
+
+
+Behaviorism
+Emergentism
+Eliminativism
+Epiphenomenalism
+Functionalism
+Objectivism
+Subjectivism
+
+
+
+
+
+Normativity
+
+
+
+Absolutism
+Particularism
+Relativism
+Nihilism
+Skepticism
+Universalism
+
+
+
+
+
+Ontology
+
+
+
+Action
+Event
+Process
+
+
+
+
+
+Reality
+
+
+
+Anti-realism
+Conceptualism
+Idealism
+Materialism
+Naturalism
+Nominalism
+Physicalism
+Realism
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philosophy by region
+Philosophy-related lists
+Miscellaneous
+
+
+
+
+
+
+
+
+
+
+By region
+
+
+
+African
+Ethiopian
+Aztec
+Native America
+Eastern
+Chinese
+Egyptian
+Czech
+Indian
+Indonesian
+Iranian
+Japanese
+Korean
+Vietnam
+Pakistani
+Western
+American
+Australian
+British
+Danish
+French
+German
+Greek
+Italian
+Polish
+Romanian
+Russian
+Slovene
+Spanish
+Turkish
+
+
+
+
+
+Lists
+
+
+
+Outline
+Index
+Years
+Problems
+Schools
+Glossary
+Philosophers
+Movements
+Publications
+
+
+
+
+
+Miscellaneous
+
+
+
+Women in philosophy
+Sage (philosophy)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Portal
+ Category
+ Book
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Metaphysics
+
+
+
+Metaphysicians
+
+
+
+Parmenides
+Plato
+Aristotle
+Plotinus
+Duns Scotus
+Thomas Aquinas
+Francisco Suárez
+Nicolas Malebranche
+René Descartes
+John Locke
+David Hume
+Thomas Reid
+Immanuel Kant
+Isaac Newton
+Arthur Schopenhauer
+Baruch Spinoza
+Georg W. F. Hegel
+George Berkeley
+Gottfried Wilhelm Leibniz
+Henri Bergson
+Friedrich Nietzsche
+Charles Sanders Peirce
+Joseph Maréchal
+Ludwig Wittgenstein
+Martin Heidegger
+Alfred N. Whitehead
+Bertrand Russell
+Dorothy Emmet
+G. E. Moore
+Jean-Paul Sartre
+Gilbert Ryle
+Hilary Putnam
+P. F. Strawson
+R. G. Collingwood
+Adolph Stöhr
+Rudolf Carnap
+Saul Kripke
+Willard V. O. Quine
+G. E. M. Anscombe
+Donald Davidson
+Michael Dummett
+David Malet Armstrong
+David Lewis
+Alvin Plantinga
+Peter van Inwagen
+Derek Parfit
+more ...
+
+
+
+
+
+Theories
+
+
+
+Abstract object theory
+Action theory
+Anti-realism
+Determinism
+Dualism
+Enactivism
+Essentialism
+Existentialism
+Free will
+Idealism
+Libertarianism
+Liberty
+Materialism
+Meaning of life
+Monism
+Naturalism
+Nihilism
+Phenomenalism
+Realism
+Physicalism
+Pirsig's metaphysics of Quality
+Platonic idealism
+Relativism
+Scientific realism
+Solipsism
+Subjectivism
+Substance theory
+Type theory
+
+
+
+
+
+Concepts
+
+
+
+Abstract object
+Anima mundi
+Being
+Category of being
+Causality
+Choice
+Cogito ergo sum
+Concept
+Embodied cognition
+Entity
+Essence
+Existence
+Experience
+Hypostatic abstraction
+Idea
+Identity
+Identity and change
+Information
+Insight
+Intelligence
+Intention
+Linguistic modality
+Matter
+Meaning
+Memetics
+Mental representation
+Mind
+Motion
+Necessity
+Notion
+Object
+Pattern
+Perception
+Physical body
+Principle
+Property
+Qualia
+Quality
+Reality
+Soul
+Subject
+Substantial form
+Thought
+Time
+Truth
+Type–token distinction
+Universal
+Unobservable
+Value
+more ...
+
+
+
+
+
+Related topics
+
+
+
+Axiology
+Cosmology
+Epistemology
+Feminist metaphysics
+Interpretations of quantum mechanics
+Meta-
+Ontology
+Philosophy of mind
+Philosophy of psychology
+Philosophy of self
+Philosophy of space and time
+Teleology
+Theoretical physics
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+Categories: Cognitive scienceEnactive cognitionPhilosophy of artificial intelligenceMind–body problemHidden categories: CS1 errors: datesArticles with inconsistent citation formatsArticles to be expanded from December 2011All articles to be expandedArticles using small message boxesWikipedia articles needing rewrite from December 2011All articles needing rewritePages using div col with deprecated parameters

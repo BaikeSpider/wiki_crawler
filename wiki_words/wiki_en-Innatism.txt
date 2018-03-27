@@ -1,0 +1,297 @@
+Innatism
+Innatism is a philosophical and epistemological doctrine that holds that the mind is born with ideas/knowledge, and that therefore the mind is not a "blank slate" at birth, as early empiricists such as John Locke claimed. It asserts that not all knowledge is gained from experience and the senses. Plato and Descartes are prominent philosophers in the development of innatism and the notion that the mind is already born with ideas, knowledge and beliefs. Both philosophers emphasize that experiences are the key to unlocking this knowledge but not the source of the knowledge itself. Essentially, no knowledge is derived exclusively from one's experiences as empiricists like John Locke suggested.[1]
+
+
+
+Contents
+
+
+1 Difference from nativism
+2 Nativism
+3 Innate idea
+
+3.1 Philosophical debate
+
+3.1.1 Plato
+3.1.2 Descartes
+3.1.3 John Locke
+3.1.4 Gottfried Wilhelm Leibniz
+
+
+3.2 Scientific ideas
+3.3 Scientific evidence for innateness
+
+
+4 Learning vs. innate knowledge
+
+4.1 Costs and benefits of learned and innate knowledge and the evolution of learning
+
+
+5 See also
+6 References
+
+6.1 Classical texts
+6.2 Recent studies
+
+
+7 External links
+
+
+
+Difference from nativism[edit]
+In general usage, the terms innatism and nativism are synonymous as they both refer to notions of preexisting ideas present in the mind. However, more correctly,[citation needed] innatism refers to the philosophy of Plato and Descartes, who assumed that a God or a similar being or process placed innate ideas and principles in the human mind.
+Nativism represents an adaptation of this, grounded in the fields of genetics, cognitive psychology, and psycholinguistics. Nativists hold that innate beliefs are in some way genetically programmed to arise in our mind—that innate beliefs are the phenotypes of certain genotypes that all humans share in common.
+Nativism[edit]
+Main article: Psychological nativism
+Nativism is a modern view rooted in innatism. The advocates of nativism are mainly philosophers who also work in the field of cognitive psychology or psycholinguistics: most notably Noam Chomsky and Jerry Fodor (although the latter has adopted a more critical attitude towards nativism in his later writings). The nativist's general objection against empiricism is still the same as was raised by the rationalists; the human mind of a newborn child is not a tabula rasa, but equipped with an inborn structure.
+Innate idea[edit]
+In philosophy and psychology, an innate idea is a concept or item of knowledge which is said to be universal to all humanity—that is, something people are born with rather than something people have learned through experience.
+The issue is controversial, and can be said to be an aspect of a long-running nature versus nurture debate, albeit one localized to the question of understanding human cognition.
+Philosophical debate[edit]
+Although individual human beings obviously vary due to cultural, racial, linguistic and era-specific influences, innate ideas are said to belong to a more fundamental level of human cognition. For example, the philosopher René Descartes theorized that knowledge of God is innate in everybody as a product of the faculty of faith.
+Other philosophers, most notably the empiricists, were critical of the theory and denied the existence of any innate ideas, saying all human knowledge was founded on experience, rather than a priori reasoning.
+Philosophically, the debate over innate ideas is central to the conflict between rationalist and empiricist epistemologies. While rationalists believe that certain ideas exist independently of experience, empiricism claims that all knowledge is derived from experience.
+Immanuel Kant was a German philosopher who is regarded as having ended the impasse in modern philosophy between rationalists and empiricists, and is widely held to have synthesized these two early modern traditions in his thought.
+Plato[edit]
+Plato argues that if there are certain concepts that we know to be true but did not learn from experience then it must be because we have an innate knowledge of it and this knowledge must have been gained before birth. In Plato's Meno, he recalls a situation in which Socrates, his mentor, questioned a slave boy about a geometry theorem. Though the slave boy had no previous experience with geometry, he was able to generate the right responses to the questions he was asked. Plato reasoned that this was possible as Socrates' questions sparked the innate knowledge of math the boy had had from birth.[2]
+Descartes[edit]
+Descartes conveys the idea that innate knowledge or ideas is something inborn such as one would say, that a certain disease might be 'innate' to signify that a person might be at risk of contacting such a disease. He suggests that something that is 'innate' is effectively present from birth and while it may not reveal itself then, is more than likely to present itself later in life. Descartes comparison of innate knowledge to an innate disease, whose symptoms may only show up later in life, unless prohibited by a factor like age or puberty, suggests that if an event occurs prohibiting someone from exhibiting an innate behaviour or knowledge, it doesn’t mean the knowledge did not exist at all but rather it wasn’t expressed – they were not able to acquire that knowledge. In other words, innate beliefs, ideas and knowledge require experiences to be triggered or they may never be expressed. Experiences are not the source of knowledge as proposed by John Locke, but catalysts to the uncovering of knowledge.[1]
+John Locke[edit]
+The main antagonist to the concept of innate ideas is John Locke, a contemporary of Leibniz. Locke argued that the mind is in fact devoid of all knowledge or ideas at birth; it is a blank sheet or tabula rasa. He argued that all our ideas are constructed in the mind via a process of constant composition and decomposition of the input that we receive through our senses.
+Locke, in An Essay Concerning Human Understanding, suggests that the concept of universal assent in fact proves nothing, except perhaps that everyone is in agreement; in short universal assent proves that there is universal assent and nothing else. Moreover, Locke goes on to suggest that in fact there is no universal assent. Even a phrase such as "What is, is" is not universally assented to; infants and severely handicapped adults do not generally acknowledge this truism. Locke also attacks the idea that an innate idea can be imprinted on the mind without the owner realizing it. To return to the musical analogy, we may not be able to recall the entire melody until we hear the first few notes, but we were aware of the fact that we knew the melody and that upon hearing the first few notes we would be able to recall the rest.
+Locke ends his attack upon innate ideas by suggesting that the mind is a tabula rasa or "blank slate", and that all ideas come from experience; all our knowledge is founded in sensory experience.
+Essentially, the same knowledge thought to be a priori by Leibniz is in fact, according to Locke, the result of empirical knowledge, which has a lost origin [been forgotten] in respect to the inquirer. However, the inquirer is not cognizant of this fact; and thus, he experiences what he believes to be a priori knowledge.
+Gottfried Wilhelm Leibniz[edit]
+Gottfried Wilhelm Leibniz suggested that we are born with certain innate ideas, the most identifiable of these being mathematical truisms. The idea that 1 + 1 = 2 is evident to us without the necessity for empirical evidence. Leibniz argues that empiricism can only show us that concepts are true in the present; the observation of one apple and then another in one instance, and in that instance only, leads to the conclusion that one and another equals two. However, the suggestion that one and another will always equal two require an innate idea, as that would be a suggestion of things unwitnessed.
+Leibniz called such concepts as mathematical truisms "necessary truths". Another example of such may be the phrase, "what is, is" or "it is impossible for the same thing to be and not to be". Leibniz argues that such truisms are universally assented to (acknowledged by all to be true); this being the case, it must be due to their status as innate ideas. Often there are ideas that are acknowledged as necessarily true but are not universally assented to. Leibniz would suggest that this is simply because the person in question has not become aware of the innate idea, not because they do not possess it. Leibniz argues that empirical evidence can serve to bring to the surface certain principles that are already innately embedded in our minds. This is similar to needing to hear only the first few notes in order to recall the rest of the melody.
+Scientific ideas[edit]
+In his Meno, Plato raises an important epistemological quandary: How is it that we have certain ideas which are not conclusively derivable from our environments? Noam Chomsky has taken this problem as a philosophical framework for the scientific enquiry into innatism. His linguistic theory, which derives from 18th century classical-liberal thinkers such as Wilhelm von Humboldt, attempts to explain in cognitive terms how we can develop knowledge of systems which are said, by supporters of innatism, to be too rich and complex to be derived from our environment. One such example is our linguistic faculty. Our linguistic systems contain a systemic complexity which supposedly could not be empirically derived: the environment seems too poor, variable and indeterminate, according to Chomsky, to explain the extraordinary ability to learn complex concepts possessed by very young children. Essentially, their accurate grammatical knowledge cannot have originated from their experiences as their experiences are not adequate.[1] It follows that humans must be born with a universal innate grammar, which is determinate and has a highly organized directive component, and enables the language learner to ascertain and categorize language heard into a system. Chomsky states that the ability to learn how to properly construct sentences or know which sentences are grammatically incorrect is an ability gained from innate knowledge.[2] Noam Chomsky cites as evidence for this theory, the apparent invariability, according to his views, of human languages at a fundamental level. In this way, linguistics may provide a window into the human mind, and establish scientific theories of innateness which otherwise would remain merely speculative.
+One implication of Noam Chomsky's innatism, if correct, is that at least a part of human knowledge consists in cognitive predispositions, which are triggered and developed by the environment, but not determined by it. Chomsky suggests that we can look at how a belief is acquired as an input-output situation. He supports the doctrine of innatism as he states that human beliefs gathered from sensory experience are much richer and complex than the experience itself. He asserts that the extra information gathered is from the mind itself as it cannot solely be from experiences. Humans derive excess amount of information from their environment so some of that information must be pre-determined.[1]
+Parallels can then be drawn, on a purely speculative level, between our moral faculties and language, as has been done by sociobiologists such as E. O. Wilson and evolutionary psychologists such as Steven Pinker. The relative consistency of fundamental notions of morality across cultures seems to produce convincing evidence for these theories. In psychology, notions of archetypes such as those developed by Carl Jung, suggest determinate identity perceptions.
+Scientific evidence for innateness[edit]
+Evidence for innatism is being found by neuroscientists working on the Blue Brain Project. They discovered that neurons transmit signals despite an individual's experience. It had been previously assumed that neuronal circuits are made when the experience of an individual is imprinted in the brain, making memories. Researchers at Blue Brain discovered a network of about fifty neurons which they reckoned were building blocks of more complex knowledge but contained basic innate knowledge that could be combined in different more complex ways to give way to acquired knowledge, like memory.[3]
+Scientists ran tests on the neuronal circuits of several rats and ascertained that if the neuronal circuits had only been formed based on an individual's experience, the tests would bring about very different characteristics for each rat. However, the rats all displayed similar characteristics which suggests that their neuronal circuits must have been established previously to their experiences – it must be inborn and created prior to their experiences. The research done in the Blue Brain project expresses that some the building blocks of all our knowledge, is genetic and we're born with it.[3]
+Learning vs. innate knowledge[edit]
+There are two ways in which animals can gain knowledge. The first of these two ways is learning. This is when an animal gathers information about its surrounding environment and then proceeds to use this information. For example, if an animal eats something that hurts its stomach, it has learned not to eat this again. The second way that an animal can acquire knowledge is through innate knowledge. This knowledge is genetically inherited. The animal automatically knows it without any prior experience. An example of this is when a horse is born and can immediately walk. The horse has not learned this behavior; it simply knows how to do it.[4] In some scenarios, innate knowledge is more beneficial than learned knowledge. However, in other scenarios the opposite is true.
+Costs and benefits of learned and innate knowledge and the evolution of learning[edit]
+In a changing environment, an animal must constantly be gaining new information in order to survive. However, in a stable environment this same individual need only to gather the information it needs once and rely on it for the duration of its life. Therefore, there are different scenarios in which learning or innate knowledge is better suited. Essentially, the cost of obtaining certain knowledge versus the benefit of having it determined whether an animal evolved to learn in a given situation or whether it innately knew the information. If the cost of gaining the knowledge outweighed the benefit of having it, then the individual would not have evolved to learn in this scenario; instead, non-learning would evolve. However, if the benefit of having certain information outweighed the cost of obtaining it, then the animal would be far more likely to evolve to have to learn this information.[4]
+Non-learning is more likely to evolve in two scenarios. If an environment is static and change does not or rarely occurs then learning would simply be unnecessary. Because there is no need for learning in this scenario – and because learning could prove to be disadvantageous due to the time it took to learn the information – non-learning evolves. However, if an environment were in a constant state of change then learning would also prove to be disadvantageous. Anything learned would immediately become irrelevant because of the changing environment.[4] The learned information would no longer apply. Essentially, the animal would be just as successful if it took a guess as if it learned. In this situation, non-learning would evolve.
+However, in environments where change occurs but is not constant, learning is more likely to evolve. Learning is beneficial in these scenarios because an animal can adapt to the new situation, but can still apply the knowledge that it learns for a somewhat extended period of time. Therefore, learning increases the chances of success as opposed to guessing and adapts to changes in the environment as opposed to innate knowledge.[4]
+See also[edit]
+
+Anamnesis
+Concept
+Descartes
+Empiricism
+Fitra
+Idea
+Instinct
+Jerry Fodor
+John Locke
+Nature versus nurture
+Noam Chomsky
+Plato
+Psychological nativism
+Rationalism
+Tabula rasa
+
+References[edit]
+
+
+
+^ a b c d Stich, S. P. (1975). Innate ideas. Berkley, CA: University of California Press.
+^ a b Lacewing, M. (n.d.). Innate knowledge. Routledge Taylor & Francis Group. Retrieved from http://documents.routledge-interactive.s3.amazonaws.com/9781138793934/AS/ReasonandExperience/Innate-knowledge.pdf
+^ a b Pousaz, L. (2011, March 22). New evidence for innate knowledge. Retrieved from http://actu.epfl.ch/news/new-evidence-for-innate-knowledge-5/
+^ a b c d DunlapLehtila_umn_0130E_10349.pdf Archived 2013-11-13 at the Wayback Machine.
+
+
+
+Classical texts[edit]
+
+Descartes, Rene. Meditations on First Philosophy with Selections from the Objections and Replies, translated by John Cottingham (Cambridge: Cambridge University Press, 1986).
+Locke, John. An Essay Concerning Human Understanding. 1690.
+Leibniz, Gottfried. Discourse on Metaphysics and Related Writings, edited and translated by R.N.D. Martin and Stuart Brown (Manchester and New York:Manchester University Press, 1988).
+
+Recent studies[edit]
+
+Carruthers, Peter. Human Knowledge and Human Nature. A New Introduction to an Ancient Debate, New York : Oxford University Press, 1992.
+Chomsky, Noam. Aspects of the Theory of Syntax. (Cambridge, Mass, 1965)
+Kaldis, Byron. "Leibniz' Argument for Innate Ideas" in Just the Arguments: 100 of the Most Important Arguments in Western Philosophy edited by M Bruce & S Barbone (Blackwell, 2011).
+Ridling, Zaine (2001). "Philosophy: Then and Now A look back at 26 centuries of thought." Types and Expressions of Rationalism, pp. 514–515. Access Foundation.
+Unger, Wolfgang. "Nativism in the Light of Locke's Critique on Innate Principles." Term Paper in Phil 702, Locke's Essay. Department of Philosophy, University of Massachusetts, Amhernt.
+University of California Santa Barbara, Department of Philosophy: PowerPoint: Locke's attack on innatism.
+
+External links[edit]
+john locks argument against innatism
+- 1) the theory of innate knowledge is excessive. even innatists accept that most of our knowledge is learned through experience, but ifthat can be extended to account for all knowledge, we learn colour through seeing it so therefore there is no need for a theory about injnate understanding of colour.
+-2)no ideas are universally held. do we all possess the idea of god? do we all believe in justice and beauty? do we all understand the law of identity? if not, it may not be the case that we have acquired these ideas through impressions / experience/ social interaction ( this is the children and idiots criticism)
+-3) even if there are some universally agreed statements, it is just the ability of the human brain to organize learned ideas/word, that is innate. An 'ability to organize' is not the same as ' possessing propositional knowledge .' (e.g) computer with no saved files has all the operations programmed in but has an empty memory. are humans sand??
+
+
+Samet, Jerry, "The Historical Controversies Surrounding Innateness", The Stanford Encyclopedia of Philosophy
+Essay: Nativism in the Light of Locke’s Critique on Innate Principles
+The Rationalist Tradition
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+Categories: RationalismTheory of mindEpistemological theoriesA prioriHidden categories: Webarchive template wayback linksAll articles with unsourced statementsArticles with unsourced statements from August 2012

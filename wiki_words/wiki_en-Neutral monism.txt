@@ -1,0 +1,408 @@
+Neutral monism
+In the philosophy of mind, neutral monism is the view that the mental and the physical are two ways of organizing or describing the same elements, which are themselves "neutral", that is, neither physical nor mental.[1] This view denies that the mental and the physical are two fundamentally different things. Rather, neutral monism claims the universe consists of only one kind of stuff, in the form of neutral elements that are in themselves neither mental nor physical.
+
+
+
+Contents
+
+
+1 History
+2 Bertrand Russell
+3 David Chalmers
+4 See also
+5 References and notes
+6 Sources
+7 External links
+
+
+
+History[edit]
+
+
+
+
+A diagram with neutral monism compared to Cartesian dualism, physicalism and idealism.
+
+
+Neutral monism about the mind–body relationship is described by C. D. Broad in one of his earlier works, The Mind and Its Place in Nature. Broad's list of possible views about the mind-body problem, which became known simply as "Broad's famous list of 1925" (see chapter XIV of'),[2] states the basis of what this theory had been and was to become. There are few self-proclaimed neutral monists; most of the philosophers who are seen to have this view were classified after their deaths. Some examples of this are Baruch Spinoza, David Hume, Ernst Mach, Richard Avenarius, Kenneth Sayre and Joseph Petzoldt and Jonathan Westphal.
+Earlier, William James had propounded the notion in his essay "Does Consciousness Exist?" in 1904 (reprinted in Essays in Radical Empiricism in 1912).[3] Whately Carington in his book Matter, Mind, and Meaning (1949) advocated a form of neutral monism. He held that mind and matter both consist of the same kind of components known as "cognita" or sense data.[4][5][6]
+According to Stephen Stich and Ted Warfield, neutral monism has not been a popular view in philosophy as it is difficult to develop or understand the nature of the neutral elements.[7]
+Bertrand Russell[edit]
+In 1921, Bertrand Russell adopted a similar position to that of William James.[8] Russell quotes from James's essay "Does 'consciousness' exist?" as follows:
+
+"My thesis is," [James] says, "that if we start with the supposition that there is only one primal stuff or material in the world, a stuff of which everything is composed, and if we call that stuff 'pure experience,' then knowing can easily be explained as a particular sort of relation towards one another into which portions of pure experience may enter. The relation itself is a part of pure experience; one of its 'terms' becomes the subject or bearer of the knowledge, the knower, the other becomes the object known (p. 4)."[9]
+
+Russell summarizes this notion as follows:
+
+James's view is that the raw material out of which the world is built up is not of two sorts, one matter and the other mind, but that it is arranged in different patterns by its inter-relations, and that some arrangements may be called mental, while others may be called physical.[10]
+
+Russell observes that the same view of "consciousness" is set forth in James's succeeding essay, "A World of Pure Experience" (ib., pp. 39–91).[11] In addition to the role of James, Russell observes the role of two American Realists:
+
+the American realists . . . Professor R. B. Perry of Harvard and Mr. Edwin B. Holt . . . have derived a strong impulsion from James, but have more interest than he had in logic and mathematics and the abstract part of philosophy. They speak of "neutral" entities as the stuff out of which both mind and matter are constructed. Thus Holt says: "... perhaps the least dangerous name is neutral-stuff."[12]
+
+Russell goes on to agree with James and in part with the "American realists":
+
+My own belief – for which the reasons will appear in subsequent lectures – is that James is right in rejecting consciousness as an entity, and that the American realists are partly right, though not wholly, in considering that both mind and matter are composed of a neutral-stuff which, in isolation is neither mental nor material.[13]
+
+David Chalmers[edit]
+David Chalmers[14] considers the consciousness of rocks as well as thermostats, although he eschews the notion that rocks are conscious:
+
+I do not think it is strictly accurate to say that rocks (for example) have experiences . . . although rocks may have experiences associated with them. ... Personally, I am much more confident of naturalistic dualism than I am of panpsychism. The latter issue seems to be very much open. But I hope to have said enough to show that we ought to take the possibility of some sort of panpsychism seriously: there seem to be no knockdown arguments against the view, and there are various positive reasons why one might embrace it. (Chalmers 1996:299)
+
+In his 2002 "Consciousness and its Place in Nature", Chalmers carefully considers neutral monism and panpsychism, variants of what he calls "Type-F Monism".[15] He admits that:
+
+The type-F view is admittedly speculative and it can sound strange at first hearing. Many find it extremely counterintuitive to suppose that fundamental physical systems have phenomenal properties: e.g. that there is something it is like to be an electron.[15]
+
+See also[edit]
+
+Dialectical monism
+Double aspect theory
+Monadology
+Panpsychism
+Philosophy of mind
+
+References and notes[edit]
+
+
+
+^ Craig, Edward. (1998). Routledge Encyclopedia of Philosophy. Routledge. p. 816. ISBN 0415-07310-3
+^ Broad, C. D. (1925) The Mind and Its Place in Nature. London: Kegan Paul.
+^ James, William. (1912). Essays in Radical Empiricism. New York: Longmans, Green, and Co.
+^ Broad, C. D. (1950). Matter, Mind, and Meaning by W. Whately Carington. Philosophy. Vol. 25, No. 94. pp. 275–277.
+^ Grenell, R. G. (1953). Matter, Mind and Meaning by Whately Carington. The Quarterly Review of Biology. Vol. 28, No. 4. pp. 404–405.
+^ Oakeshott, Michael; O'Sullivan, Luke. (2007). The Concept of a Philosophical Jurisprudence: Essays and Reviews 1926–51. Imprint Academic. p. 286. ISBN 978-1845401801 "The doctrine that Mr Carington comes to favour is a form of Neutral Monism: the common constituents of mind and matter are sense-data or cognita. In themselves these cognita are neither mental nor material."
+^ Stich, Stephen; Warfield, Ted. (2003). The Blackwell Guide to Philosophy of Mind. Blackwell Publishing. pp. 20-21. ISBN 0-631-21774-6
+^ Russell, Bertrand. (1921). The Analysis of Mind. London, G. Allen & Unwin; New York, Macmillan.
+^ r.e. "(p. 4)" see next footnotes about source of James's quote. The James quote appears at Russell 1921:10.
+^ Russell 1921:10
+^ Russell 1921:10. The ibid refers to footnote #5 on Russell 1921:9 with regards to the quotes from James derived from Journal of Philosophy, Psychology and Scientific Methods's," vol. i, 1904. Reprinted in "Essays in Radical Empiricism" (Longmans, Green & Co., 1912), pp. 1-38.
+^ Russell 1921:10-11
+^ Russell 1921:11
+^ Chalmers 1996: 293-301 "Is Experience Ubiquitous?" which includes subsections What is it like to be a thermostat?, Whither pansychism?, and Constraining the double-aspect principle.
+^ a b Chalmers 2002: 264-267
+
+
+
+Sources[edit]
+
+"Monism". Columbia Encyclopedia. Columbia University Press. 2008. Retrieved 2008-09-23. 
+Erik C. Banks. (2014). The Realistic Empiricism of Mach, James, and Russell: Neutral Monism Reconceived. Cambridge University Press.
+Erik C. Banks. (2010). Neutral Monism Reconsidered. Philosophical Psychology 23: 173-187.
+David Chalmers (1996) The Conscious Mind: In Search of a Fundamental Theory, Oxford University Press, New York, ISBN 0-19-511789-1 (Pbk.)
+David Chalmers ed. (2002) Philosophy of Mind: Classical and Contemporary Readings, Oxford University Press, New York, ISBN 0-19-514581-X (pbk. : alk. paper).
+Andrew Gluck (2007) Damasio's Error and Descartes' Truth: An Inquiry into Epistemology, Metaphysics, and Consciousness, University of Scranton Press, Scranton PA, ISBN 978-1-58966-127-1 ((pb)).
+Bertrand Russell (1921) The Analysis of Mind, republished 2005 by Dover Publications, Inc., Mineola, NY, ISBN 0-486-44551-8 (pbk.)
+
+External links[edit]
+
+Stanford Encyclopedia of Philosophy entry
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Analytic philosophy
+
+
+
+Philosophers
+
+
+
+J. L. Austin
+A. J. Ayer
+G. E. M. Anscombe
+Nick Bostrom
+Robert Brandom
+C. D. Broad
+Patricia Churchland
+David Chalmers
+Noam Chomsky
+James F. Conant
+Alice Crary
+Donald Davidson
+Daniel Dennett
+Cora Diamond
+Michael Dummett
+Paul Feyerabend
+Antony Flew
+Bas van Fraassen
+Gottlob Frege
+Jerry Fodor
+Philippa Foot
+Peter Geach
+Paul Grice
+Ian Hacking
+R. M. Hare
+Carl Gustav Hempel
+Peter van Inwagen
+Christine Korsgaard
+Saul Kripke
+Thomas Kuhn
+David Lewis
+Alasdair MacIntyre
+J. L. Mackie
+Norman Malcolm
+John McDowell
+G. E. Moore
+Ernest Nagel
+Thomas Nagel
+Robert Nozick
+Derek Parfit
+Alvin Plantinga
+Karl Popper
+Hilary Putnam
+W. V. O. Quine
+John Rawls
+Hans Reichenbach
+Richard Rorty
+Bertrand Russell
+Gilbert Ryle
+Moritz Schlick
+John Searle
+Wilfrid Sellars
+Peter Singer
+Richard Swinburne
+Charles Taylor
+Michael Walzer
+Bernard Williams
+Timothy Williamson
+Ludwig Wittgenstein
+
+
+
+
+
+Theories
+
+
+
+Actualism
+Analytical feminism
+Analytical Marxism
+Anti-realism
+Berlin Circle
+Descriptivist theory of names
+Emotivism
+Functional contextualism
+Linguistic turn
+Logical positivism
+Modal realism
+Model-dependent realism
+Neopragmatism
+Neurophilosophy
+Ordinary language philosophy
+Postanalytic philosophy
+Pragmatic theory of truth
+Verificationism
+Vienna Circle
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+Causal / Deductive / epistemic closure
+Concept
+Counterfactual
+Denotation / reference
+Definite description
+Factive
+Family resemblance
+Intuition
+Meaning (Proposition)
+Modality
+Natural kind / projectability
+Necessary–sufficient conditions
+Paradox of analysis
+Possible world
+Reduction
+Reflective equilibrium
+Rigid–flaccid designators
+Sense data
+Supervenience
+Thought experiment
+Truth function
+Truthmaker
+Truth-bearer
+Type–token distinction
+
+
+
+
+
+Related articles
+
+
+
+Aretaic turn
+Australian realism
+Communitarianism
+Ordinary language philosophy
+Philosophical logic
+Philosophy of language
+Philosophy of science
+Postanalytic philosophy
+
+
+
+
+
+
+
+
+ Index
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of mind
+
+
+
+Theories
+
+
+
+Behaviorism (Radical)
+Biological naturalism
+Cognitive psychology
+Mind–body dualism
+Eliminative materialism
+Emergent materialism
+Emergentism
+Epiphenomenalism
+Functionalism
+Idealism
+Interactionism
+Materialism
+Monism
+Naïve realism
+
+Neurophenomenology
+
+
+Neutral monism
+Occasionalism
+Psychoanalysis
+Parallelism
+Phenomenalism
+Phenomenology
+Physicalism
+
+identity theory
+
+
+Property dualism
+Representational
+Solipsism
+Substance dualism
+
+
+
+
+
+Concepts
+
+
+
+Abstract object
+Artificial intelligence
+Chinese room
+Cognition
+Cognitive closure
+Concept
+Concept and object
+Consciousness
+Hard problem of consciousness
+Hypostatic abstraction
+Idea
+Identity
+Ingenuity
+Intelligence
+Intentionality
+Introspection
+Intuition
+Language of thought
+Materialism
+Mental event
+Mental image
+Mental process
+Mental property
+Mental representation
+Mind
+Mind–body problem
+
+Non-physical entity
+
+
+New mysterianism
+Pain
+Problem of other minds
+Propositional attitude
+Qualia
+Tabula rasa
+Understanding
+Zombie
+more...
+
+
+
+
+
+Related topics
+
+
+
+Metaphysics
+Philosophy of artificial intelligence / information / perception / self
+
+
+
+
+
+
+
+
+Portal
+Category
+Philosophers category
+Project
+Task Force
+
+
+
+
+
+
+
+
+
+
+Categories: Metaphysics of mindMonismPhilosophy of mindTheory of mind

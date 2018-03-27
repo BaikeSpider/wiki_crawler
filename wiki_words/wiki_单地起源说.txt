@@ -1,0 +1,633 @@
+人类单地起源说
+
+
+
+
+
+本条目部分链接不符合格式手册规范。跨语言链接及章节标题等处的链接可能需要清理。（2015年12月11日） 
+请协助改善此条目。参见WP:LINKSTYLE、WP:MOSIW以了解细节。突出显示跨语言链接可以便于检查。 
+
+
+
+
+
+
+
+
+
+
+
+依据线粒体DNA资料所提出的一套人类迁移模型
+
+
+现代人类晚近非洲起源说（英语：recent African origin of modern humans）是古人类学描述解剖学意义上的现代人类的起源与早期迁徙时，最广为接受的模型。[1]这套理论在普及书籍中称为（晚近）源出非洲模型（(recent) Out-of-Africa），在学术上称为晚近单一起源假说（recent single-origin hypothesis, RSOH）、替代假说（replacement hypothesis）与晚近非洲起源模型（recent African origin, RAO）。人类具有单一源头（单一起源说）的这项假设，是由达尔文在他的《人类的由来》（1871年）这本书所提出的。[2]这个概念直到1980年代之前还属推测性质的，此后则由线粒体DNA的研究，再加上体质人类学的古代标本证据，而获得确切证实。
+主要的竞争假说是现代人类多地起源说，想像有一波智人从非洲迁徙出去的浪潮，而且与全球许多区域的当地直立人群体发生混血。大多数主张多区域起源的学者依然将非洲视为人类遗传多样性的主要源头，但是赋予混血过程更重要的角色。[3][4]
+
+
+
+目录
+
+
+1 理论历史
+2 早期“智人”
+3 遗传学的历史重建
+
+3.1 线粒体DNA
+3.2 Y染色体DNA
+3.3 基因组分析
+
+
+4 源出非洲的数次迁徙
+5 后续往东南亚的扩张
+6 人类最早进入北美洲
+7 相竞争的假设
+8 参见
+9 参考文献
+10 进阶阅读
+11 外部链接
+
+
+
+理论历史[编辑]
+更多信息：人类演化历程
+
+
+
+
+恩斯特·海克尔所绘制的脊椎动物的古生物学树状图（约在1879年）。
+物种的演化历史被描写成一株系统发生树，从一支单一的树干往上分出许多树枝。虽然海克尔的树状图有点过时，但是它清楚显示在现代重新建构的更复杂树状图的原则。
+
+
+随着十九世纪早期人类学的发展，学者就激辩着人类发展的不同理论。诸如布卢门巴赫（Johann Friedrich Blumenbach）与普里查德（James Cowles Pritchard）抱持着自从创世神话以来，各种不同的人类种族就已发展出来，他们共享一个祖先源头（单一起源说，monogenism）。他们的对手，例如阿格西（Louis Agassiz）与诺特（Josiah C. Nott）支持多重起源说（polygenism），他认为现代人类各个种族来自猿类的不同物种演化，各自在不同地域发展成为分别不同的种族，并不具共同的祖先。
+查尔斯·达尔文是率先提出有机体具有共同起源的学者，也是最早提出所有的人类具有共同的祖先，曾经存活在非洲。[2]在《人类的由来》一书，他推测人类是从猿类的谱系发展而来，这些猿类当时依然具有小的脑子，但已双足直立行走，双手自由活动，以运用在增进智力的用途上。更进一步，他认为这种猿类是栖息在非洲：[5]
+
+生活在世界各大地区的哺乳动物跟同一区域内已灭绝的物种具有密切关连。因此，非洲先前可能栖息著跟大猩猩和黑猩猩有着密切关连的已灭绝的类人猿；而且因为这两个物种是现在人类最近的近亲，有点可能的是，我们的早期祖先居住在非洲大陆，而不是其他地方。但是对这项问题多做猜测是徒劳无功的，因为有个体型大得像一个男人的猿类，由拉代（Édouard Lartet）发现的森林古猿，跟人形的长臂猿有着密切关连，在中新世晚期存在于欧洲；经历这么长一段时间以来，地球必定经历了多次伟大的革命，已有充裕的时间进行大规模迁移。
+——达尔文，《人类的由来》[6]
+
+这项预测是有洞察力的，因为在1871年几乎无法取得任何关于古代人属的人类化石。一直到将近五十年后，达尔文的猜测才获得支持，当时人类学家开始在非洲几个地区发现许多脑子较小的古代人类化石。现代人类仅从东非这个地点起源（单一起源），已是今天科学社群所抱持的主流观点。[7][8][9][10][11]但是究竟他们向外迁徙是一次或多次，则有许多不同的理论。有一套多次迁徙模型，包含着南向扩散理论（Southern Dispersal theory），[12]近年来，这个模型受到来自遗传学、语言学及考古学的证据所支持。在研究者当中，有越来越多人也怀疑“被忽略很久的北非”是首次艰难踏出非洲的现代人类的故乡。[13][14][15]可以遇见到，随着越来越多考古资料出土，多次迁移的概念也会逐步被强化。
+20世纪中叶之前，人类学的论辩大多倾向支持单一起源论。多重起源论的孤立支持者到了20世纪中叶才开始高谈阔论，如查尔顿库恩（Carleton Coon）迟至1962年才提出假设，智人前后兴起五次，在五个地方由直立人演化而来。[16]现代人类的“晚近非洲起源”的意思是“单一起源”（monogenism），并已在各种情况下，被当成“多重起源”（polygenism）的反义词。随着考古遗传学（archaeogenetics）在1990年代问世，科学家们能够更有信心地为“源出非洲”的迁徙时间定年。
+学者诠释了基因与化石证据，以呈现“早期智人”（archaic Homo sapiens）只有在距今20万年到15万年前的非洲，演化成为解剖学上的现代人类，[17]有一支智人在大约距今12万5千年到六万年间离开非洲，经过一段时间，替代了先前存在非洲以外地区的早期人类群体，例如尼安德特人与直立人。[18]最早成功“源出非洲”的迁徙（最早具有存活子嗣的迁移者），依据遗传学的建议，普遍定年在距今六万年前，即使说从非洲迁徙出来的尝试，依据阿拉伯考古学在这个区域的工具发现，早在距今12万5千年前就已开始。[19]
+在2000年，学者发表了古代澳洲的蒙哥人（Mungo Man 3）线粒体DNA序列，显示这是当代人类一个已灭绝的亚种，在现代人类的晚近共同祖先分道扬镳前，就已分出而迁徙到澳洲。这个研究结果如果正确的话，将会支持现代人类多区域起源假说。[20][21]这项研究成果随后遭到质疑，[22][23]并由李卡克（W. James Peacock）提出答辩，他是蒙哥人的古代DNA（ancient DNA）序列研究团队的领导人。[24]学者的质疑论辩重点在于，究竟是否有其他类型的人属亚种的遗传成分，进入了智人的基因库。
+早期“智人”[编辑]
+
+
+
+
+现代人类（左）与尼安德特人（右）的头骨解剖学比较。
+
+
+解剖学上的现代人类大约在距今25万年前源起于非洲。在距今约40万年到更新世中期第二次间冰期（距今约25万年）所发生的人类头骨扩张趋势以及阿舍利文化石器，提供了从直立人到智人的转化证据。[25]在晚近非洲起源（Recent African Origin, RAO）的观点，在非洲境内与从非洲往外的迁徙，最终取代了先前散居的直立人。
+在埃塞俄比亚阿瓦旭中部（Middle Awash）一处遗址所发现的智人伊达图亚种，存活在大约距今16万年前。[26]这是最早已知的解剖学上的现代人类，而且被归类为一个灭绝的亚种。[27]在以色列的卡夫泽洞穴所发现的早期智人化石已定年在距今8万到10万年间。然而这些人类在距今7万到8万年间似乎是灭绝或退回非洲，有可能由从欧洲冰河时期较寒冷区域向南逃的尼安德特人所取代。[28] Hua Liu等人分析了大约距今56,000±5,700年的线粒体DNA证据的微卫星标记（autosomal microsatellite markers）。他把来自卡夫泽洞穴的早期人类古生物学化石诠释为一支孤立的撤退到非洲者的后代。[29]
+所有在非洲以外的完整的现代人类化石都被定年到更晚近的时代。在非洲以外所发现最古老的完整记年的现代人类是来自澳洲的蒙哥湖遗址，定年在大约距今42,000年前。[30][31]在中国北京周口店的田园洞人大约距今38,000到42,000年间。琉球发现的距今17,000到19,000年间的港川人与他们在型态上大多类似。[32][33]然而，其他学者已将柳江人定年到距今111,000到139,000年间。[34]
+大约从距今10万年前开始，更加成熟的技术与工艺作品萌芽，到了距今5万年前，完整的行为现代性（modern behaviour）变得更加显著。石器呈现了规则的模式，更精准地重制或仿制，由骨头与鹿角所制作的工具首次出现。[35][36]
+遗传学的历史重建[编辑]
+人类基因组的其中两个成分非常适合用来解析人类的历史：线粒体DNA与Y染色体。这是基因组当中，不受在每个世代产生多样性的演化机制所改组的唯一的两个成分；反之，这些成分完整地传递下去。依据这项假设，目前存活的所有人们都遗传来自距今约16万年前存活在非洲的一位女性的同一个线粒体[37] [38][39]她被称为线粒体夏娃。今天所有的男人都从一个存活在距今14万年前的男人们那里，遗传了相同的Y染色体。他已被命名为Y染色体亚当。目前据信，依据对于非关性别的染色体与性别特定染色体的比较分析，比起女人，为数更多的男人参与了这场源出非洲的早期人类散播。[40]
+线粒体DNA[编辑]
+更多信息：人类线粒体DNA单倍体群
+
+
+
+
+依据线粒体DNA 群体遗传学所绘制的当代人类早期分化发展地图（参阅：Haplogroup L）
+
+
+第一支由线粒体夏娃分支出来的世系是L0单倍体群。这支单倍体群在非洲南部的桑人及东非的山达威人（Sandawe）当中有较高的比例。这也在恩布提人（Mbuti）之中发现。[41][42]
+这些群体在人类历史的早期分支开来，而且从那时开始就在遗传学上保持着相对的孤立。L1、L2与L3单倍体群都是L1-6的后代而且大部分局限于非洲。较大的M及N单倍体群是在非洲以外世界各地的世系，从L3传承下来。
+Y染色体DNA[编辑]
+主条目：人类Y染色体DNA单倍型类群
+用来界定Y染色体CT单倍群（除了Y染色体A单倍群与Y染色体B单倍群之外的所有Y染色体单倍群）的各项基因突变，其发生时间早于“源出非洲”的迁徙，CT单倍群的后代DE单倍群则限定在非洲。将C单倍群跟其他所有的CR单倍群区分开来的突变，发生在大约距今6万年前，就在第一次的源出非洲迁徙后不久。
+F单倍群起源在大约45,000年前，有的是在北非（在这个情况可能指向第二波的源出非洲迁徙），有的是在南亚。在非洲以外的男性有超过90%是F单倍群这条直接的男性线路的后代。
+基因组分析[编辑]
+即使线粒体DNA与Y染色体DNA在解析人类历史时格外好用，但是数十个人类群体的基因组资料也受到研究。2009年6月，来自国际人类基因组单体型图计划（第II期）与人类多样形体研究中心（CEPH）的人类基因组多样性研究计划样本，对于基因组-wide SNP（单核苷酸多态性）资料分析结果出版。[43]这些样本取自1138名彼此无关联的个体。[43]在这项分析之前，群体遗传学家期望在各种不同的族群之间发现巨大的差异，这些差异是衍生自这些群体内部所共同具有的等位基因，这些基因却是其它群体之中不常见或不存在的。[44]反之，从这项研究计划取得的资料，对于53个群体的研究显示，这些群体仅落入三个基因群：非洲、欧亚人（包括欧洲与中东的原住民，以及亚洲西南部东迄现今的巴基斯坦）、以及东亚人（包括亚洲、日本、东南亚、美洲与大洋洲的原住民）。[44]这项研究确定了大多数的族群差异可归因于遗传漂变，当代的非洲群体比其他两个遗传群体具有更大的遗传多样性，当代欧亚人的多样性比当代东亚人稍多。[44]这项研究显示自然选择塑造人类基因组的速度可能远比学者先前设想的缓慢，在各个大陆之内或之间的迁徙对基因变异性的分布则具有更重大影响。[45]
+源出非洲的数次迁徙[编辑]
+
+
+
+
+跨越红海
+
+
+大约距今7万年前，L3线粒体单倍群的一部分从东非迁入近东。这个第一波“源出非洲”的迁徙时间在2011年引起质疑讨论，这是依据在阿拉伯联合酋长国新发现的石器，指出在距今100,000与125,000年间现代人类就已出现。[46]
+有些科学家相信，只有一群人在唯一的一次迁徙中离开非洲，并继续散播到世界其他地方，[47]这是依据一项事实，在非洲以外的地方，只有L3单倍群的后代。从这个殖民过程，其他学者指出可能有几波扩张浪潮。例如，遗传学家威尔士（Spencer Wells）表示，这些早期的旅行者沿着亚洲的南方海岸线，在大约距今5万年前，跨越了大约155英里的海域进住澳洲。威尔士说，澳洲原住民是这个第一波迁移浪潮的后代。[48]另外亦有研究认为，人类在距今至少6.5万年前到达澳洲[49][50]。
+据估计第一批源出非洲的迁移者，来自在非洲为数约2,000到5,000人的一个群体，[51]其中只有一小群，有可能少至150到1,000人，跨越红海。[52]在所有出现于非洲的世系当中，只有L3线粒体单倍群的女性后代在非洲以外地区被发现。假使曾有数次的迁移，学者可以期望有超过一个以上的世系出现在非洲以外。L3的女性后代，M与N单倍群世系，在非洲的发生频率非常低（即使说 M1单倍群非常古老且分歧多样，位于北非与非洲之角）而且看似晚近才到达非洲。一项可能的解释就是，这些突变是在东非所发生，就在这场源出非洲迁徙后不久，并借由奠基者效应成为此后的强势单倍群。
+其他科学家提出更可信的多次扩散模型（Multiple Dispersal Model），其中两次源出非洲的迁徙，一次跨越红海沿着印度的海岸区域前行（海岸路线），这可能以M单倍群为代表。另一群迁移者带有N单倍群，在后一次冰河期时从东非沿着尼罗河口而下(实际向北前进)，并透过西奈半岛进入中东。这个群体随后分支往几个方向前进，有些在高加索山脉形成白种人进入欧洲，其他则往中亚进入亚洲。这项假设尝试解释为何N单倍群在欧洲占绝对优势，例如白人多有乳糖耐受性等独特体质，以及为何在欧洲没有M单倍群。海岸路线迁移的证据是假设性的，因为在全新世海平面升起把这些证据都深埋于海底了。[12][53]另一种说法是，一小群欧洲人的奠基者群体在一开始表现了M单倍群与N单倍群，但透过源自于一场种群瓶颈而产生的随机遗传漂变，佚失了M单倍群，仅剩亚洲还有存活族群。
+今天红海的曼德海峡宽度大约12英里（20公里），但在距今50,000年前由于冰河期的关系，海平面比现在低了70米，而且海面宽度更小。即使说海峡从未完全封闭，但其中可能曾有几座小岛，可用简单的浮板到达。在厄立特里亚出土了距今125,000年的贝冢，[54]指出早期人类的食物包括了由海滩捞拾而取得的海产。
+后续往东南亚的扩张[编辑]
+
+
+
+
+早期人类迁徙地图[55]
+1.智人
+2.尼安德特人
+3.早期人科
+
+
+从近东地区，这些群体在距今5万年前向东迁徙到南亚，然后在距今4万年前继续迁到澳大利亚，智人首次扩张到直立人从未到达的领域。后来在大约4万年前，第二批次经高加索的克罗马侬人到达欧洲。大约在距今3万年前，智人到达东亚（韩国及日本）。后续迁移到北美的发生时间有所争议，有的学者主张在大约距今3万年前，透过两次冰河期的空档进入，或者是只有非常晚，大约距今约14,000年前的最后一次冰河期经过白令海。
+第一批跨过红海的这个群体，沿着阿拉伯半岛及波斯湾的海岸路线前进，直到抵达印度才似乎成为他们第一个主要定居点。M单倍群在巴基斯坦与印度的南部海岸区域具有较高的频率，而且在印度具有最大的多样性，显示这里是M单倍群的突变可能发生地点。[56]印度有60%人口属于M单倍群。安达曼群岛的原住民也属于这个M世系。安达曼岛人被视为亚洲最早人类的后代，依水而居的他们被称为矮黑人，因为他们长期跟亚洲大陆相隔离。他们是早期定居者的海岸路线的证明，从印度沿着泰国与印尼海岸，一路到巴布亚新几内亚。由于从新几内亚的高地人所测得的M单倍群频率较高，而且安达曼岛人与新几内亚人都具有深色皮肤与非洲型卷发，某些科学家相信他们全都是在距今6万年前跨越红海的同一波移民浪潮的一部分。值得注意的是，哈定等人的研究发现（Harding et al. 2000, p. 1355）显示，至少就深肤色而言，新几内亚人的单倍群类型背景，在MC1R（黑素皮质素1，关连到黑色素产生的许多基因之一），跟非洲的同一个基因是一模一样（带有一个不发挥作用的突变）。因此，虽然这些群体在其他位址（由于漂变、瓶颈等等）有别于非洲人，但在这场远离非洲的过程，显然对于黑色肤色特征的选择有可能持续下去（至少在黑素皮质素1）。这将会支持一个假设，显示来自非洲的最初迁徙者类似于他们离开非洲之前的非洲人（至少是肤色），而且这种古老的表型遗迹可在当代的非洲人、安达曼岛人与新几内亚人看到。其他学者则指出他们的体质特征类似于非洲人可能是趋同演化的结果。[57][58]
+从阿拉伯半岛到印度，M单倍群的比例向东逐渐增加：在印度，M的数量多过N，比例是3:1。然而，跨越进入东亚，N单倍群又成为主要的世系，特别是两者交界在印度支那半岛与中国南方上，可见此地发生过族群入侵、资源竞争与通婚。M单倍群在东南亚岛屿上是强势的，但在中南半岛与澳洲原住民当中，N单倍群又重新成为更常见的世系。从欧洲到澳大利亚的N单倍群的不连续分布，可从奠基者效应与种群瓶颈来解释。[59]
+人类最早进入北美洲[编辑]
+相竞争的假设[编辑]
+主条目：人类多地起源说
+多区域演化假设最初是由沃波夫所提出，主张人类的演化，从距今180万年前的更新世时的直立人到今天，都是在一个单一的、连续不断的遍及世界各地的群体之内。多区域起源的提倡者拒斥在古代欧亚人及非洲的人属群体之间具有物种形成的假设。多区域的支持者指出化石记录与染色体DNA之中的演化证据。有一项研究显示当代人类的基因库其中至少5%可以归类成古代人类的混杂，在欧洲可能来自尼安德特人。[60]但这项研究也显示，人类为何与尼安德特人共同具有古代基因世系，存在着其他理由。[61][62]
+参见[编辑]
+
+多地起源说
+人类Y染色体DNA单倍型类群
+线粒体夏娃
+分子人类学
+多峇巨灾理论
+
+参考文献[编辑]
+
+
+^ William A. Haviland; Harald E. L. Prins; Dana Walrath; Bunny McBride. The Essence of Anthropology. Cengage Learning. 24 February 2009: 90 [14 June 2011]. ISBN 9780495599814.  引文使用过时参数coauthors (帮助)
+^ 2.0 2.1 Peter Lafreniere. Adaptive Origins: Evolution and Human Development. Taylor & Francis. 22 September 2010: 90 [14 June 2011]. ISBN 9780805860122. 
+^ Robert Jurmain; Lynn Kilgore; Wenda Trevathan. Essentials of Physical Anthropology. Cengage Learning. 20 March 2008: 266– [14 June 2011]. ISBN 9780495509394. 
+^ Wolpoff MH, Hawks J, Caspari R. Multiregional, not multiple origins. Am. J. Phys. Anthropol. May 2000, 112 (1): 129–36. PMID 10766948. doi:10.1002/(SICI)1096-8644 (200005)112:1<129::AID-AJPA11>3.0.CO;2-K 请检查|doi=值 (帮助). 
+^ Bowler 2003，第213页
+^ The descent of man Chapter 6 – On the Affinities and Genealogy of Man. Darwin-online.org.uk. [2011-01-11]. 
+^ Liu H, Prugnolle F, Manica A, Balloux F. A geographically explicit genetic model of worldwide human-settlement history. Am. J. Hum. Genet. August 2006, 79 (2): 230–7. PMC 1559480. PMID 16826514. doi:10.1086/505436. 目前可取得的遗传与考古证据，往往被学者诠释为现代人类在东非单一起源的支持证据。但是，这只是人类住居地点历史的“最接近共识”的终点，人类迁徙历史的更多细节却有非常多的疑云待解。 
+^ Out of Africa Revisited – 308 (5724): 921g – Science. Sciencemag.org. 2005-05-13 [2009-11-23]. doi:10.1126/science.308.5724.921g. 
+^ Stringer C. Human evolution: Out of Ethiopia. Nature. June 2003, 423 (6941): 692–3, 695. PMID 12802315. doi:10.1038/423692a. 
+^ Johanson D. Origins of Modern Humans: Multiregional or Out of Africa?. ActionBioscience. American Institute of Biological Sciences. 
+^ Modern Humans – Single Origin (Out of Africa) vs Multiregional. 
+^ 12.0 12.1 Searching for traces of the Southern Dispersal 互联网档案馆的存档，存档日期2012-05-10., by Dr. Marta Mirazón Lahr, et al.
+^ Was North Africa the Launch Pad for Modern Human Migrations? Michael Balter, science 7 January 2011: 331 (6013), 20–23. [DOI:10.1126/science.331.6013.20]
+^ A Revised Root for the Human Y Chromosomal Phylogenetic Tree: The Origin of Patrilineal Diversity in Africa. Fulvio Cruciani, Beniamino Trombetta, Andrea Massaia, Giovanni Destro-Bisol, Daniele Sellitto, Rosaria Scozzari, The American Journal of Human Genetics – 19 May 2011
+^ Earliest evidence of modern human life history in North African early Homo sapiens, Tanya M. Smith, Paul Tafforeau, Donald J. Reid, Rainer Grün, Stephen Eggins, Mohamed Boutakiout, Jean-Jacques Hublin, doi: 10.1073/pnas.0700747104 PNAS April 10, 2007 vol. 104 no. 15 6128–6133
+^ Jackson Jr., John P. (2001). "In Ways Unacademical": The Reception of Carleton S. Coon's The Origin of Races 互联网档案馆的存档，存档日期2009-05-29., University of Colorado
+^ Renée Hetherington; Robert G. B. Reid. The Climate Connection: Climate Change and Modern Human Evolution. Cambridge University Press. 2010: 64 [14 June 2011]. ISBN 9780521147231. 
+^ Martin Meredith. Born in Africa: The Quest for the Origins of Human Life. PublicAffairs. 10 May 2011: 148 [14 June 2011]. ISBN 9781586486631. 
+^ , 331 (6016), 453-456 DOI: 10.1126/science.1199113
+^ Adcock GJ, Dennis ES, Easteal S, Huttley GA, Jermiin LS, Peacock WJ, Thorne A. Mitochondrial DNA sequences in ancient Australians: Implications for modern human origins. Proc. Natl. Acad. Sci. U.S.A. January 2001, 98 (2): 537–42. Bibcode:2001PNAS...98..537A. PMC 14622. PMID 11209053. doi:10.1073/pnas.98.2.537. 
+^ Australia Challenges Out-of-Africa Theory ABC News January 9, 2003
+^ Cooper A, Rambaut A, Macaulay V, Willerslev E, Hansen AJ, Stringer C. Human origins and ancient human DNA. Science. June 2001, 292 (5522): 1655–6. PMID 11388352. doi:10.1126/science.292.5522.1655. 
+^ Chamberlain, C; Chamberlain, AT; Riley, MS; Stringer, C; Collins, MJ. The thermal history of human fossils and the likelihood of successful DNA amplification (PDF). Journal of Human Evolution. 2003, 45 (3): 203–17. PMID 14580590. doi:10.1016/S0047-2484(03)00106-4. [失效链接]
+^ O'Connell, University of Utah 互联网档案馆的存档，存档日期2004-09-05.
+^ Eric Delson; Ian Tattersall; John A. Van Couvering. Encyclopedia of human evolution and prehistory. Taylor & Francis. 2000: 677– [14 June 2011]. ISBN 978-0-8153-1696-1. 
+^ White TD, Asfaw B, DeGusta D, Gilbert H, Richards GD, Suwa G, Howell FC. Pleistocene Homo sapiens from Middle Awash, Ethiopia. Nature. June 2003, 423 (6941): 742–7. PMID 12802332. doi:10.1038/nature01669. 
+^ 160,000-year-old fossilized skulls uncovered in Ethiopia are oldest anatomically modern humans. University of California, Berkeley. 2003. 
+^ Clive Finlayson. The humans who went extinct: why Neanderthals died out and we survived. Oxford University Press US. 11 October 2009: 68 [14 June 2011]. ISBN 978-0-19-923918-4. 
+^ Liu H, Prugnolle F, Manica A, Balloux F. A geographically explicit genetic model of worldwide human-settlement history. Am. J. Hum. Genet. August 2006, 79 (2): 230–7. PMC 1559480. PMID 16826514. doi:10.1086/505436. 
+^ Bowler JM, Johnston H, Olley JM, Prescott JR, Roberts RG, Shawcross W, Spooner NA. New ages for human occupation and climatic change at Lake Mungo, Australia. Nature. 2003, 421 (6925): 837–40. PMID 1259451. doi:10.1038/nature01383. 
+^ Olleya JM, Roberts RG, Yoshida H and Bowler JM. Single-grain optical dating of grave-infill associated with human burials at Lake Mungo, Australia. Quaternary Science Reviews. 2006, 25 (19–20): 2469–2474. Bibcode:2006QSRv...25.2469O. doi:10.1016/j.quascirev.2005.07.022. 
+^ Hu Y, Shang H, Tong H, Nehlich O, Liu W, Zhao C, Yu J, Wang C, Trinkaus E, Richards MP. Stable isotope dietary analysis of the Tianyuan 1 early modern human. Proc. Natl. Acad. Sci. U.S.A. July 2009, 106 (27): 10971–4. Bibcode:2009PNAS..10610971H. PMC 2706269. PMID 19581579. doi:10.1073/pnas.0904826106. 
+^ Brown P. Recent human evolution in East Asia and Australasia. Philos. Trans. R. Soc. Lond., B, Biol. Sci. August 1992, 337 (1280): 235–42. PMID 1357698. doi:10.1098/rstb.1992.0101. 
+^ Shen G, Wang W, Wang Q, Zhao J, Collerson K, Zhou C, Tobias PV. U-Series dating of Liujiang hominid site in Guangxi, Southern China. J. Hum. Evol. December 2002, 43 (6): 817–29. PMID 12473485. doi:10.1006/jhev.2002.0601. 
+^ Ancestral tools. Handprint.com. 1999-08-01 [2011-01-11]. 
+^ Middle to upper paleolithic transition. Wsu.edu. [2011-01-11]. 
+^ Jones, Marie; John Savino. Supervolcano: The Catastrophic Event That Changed the Course of Human History (Could Yellowstone be Next?). Franklin Lakes, NJ: New Page Books. 2007. ISBN 1-56414-953-6. 
+^ Cann RL, Stoneking M, Wilson AC. Mitochondrial DNA and human evolution. Nature. 1987, 325 (6099): 31–6. Bibcode:1987Natur.325...31C. PMID 3025745. doi:10.1038/325031a0. 
+^ Vigilant L, Stoneking M, Harpending H, Hawkes K, Wilson AC. African populations and the evolution of human mitochondrial DNA. Science. September 1991, 253 (5027): 1503–7. Bibcode:1991Sci...253.1503V. PMID 1840702. doi:10.1126/science.1840702. 
+^ Keinan A, Mullikin JC, Patterson N, Reich D. Accelerated genetic drift on chromosome X during the human dispersal out of Africa. Nat. Genet. January 2009, 41 (1): 66–70. PMC 2612098. PMID 19098910. doi:10.1038/ng.303. 
+^ Gonder MK, Mortensen HM, Reed FA, de Sousa A, Tishkoff SA. Whole-mtDNA genome sequence analysis of ancient African lineages. Mol. Biol. Evol. March 2007, 24 (3): 757–68. PMID 17194802. doi:10.1093/molbev/msl209. 
+^ Chen YS, Olckers A, Schurr TG, Kogelnik AM, Huoponen K, Wallace DC. mtDNA variation in the South African Kung and Khwe-and their genetic relationships to other African populations. Am. J. Hum. Genet. April 2000, 66 (4): 1362–83. PMC 1288201. PMID 10739760. doi:10.1086/302848. 
+^ 43.0 43.1 Coop G, Pickrell JK, Novembre J, Kudaravalli S, Li J, Absher D, Myers RM, Cavalli-Sforza LL, Feldman MW, Pritchard JK. Schierup, Mikkel H., 编. The role of geography in human adaptation. PLoS Genet. June 2009, 5 (6): e1000500. PMC 2685456. PMID 19503611. doi:10.1371/journal.pgen.1000500. 
+^ 44.0 44.1 44.2 Brown, David. Among Many Peoples, Little Genomic Variety. The Washington Post. June 22, 2009 [2009-06-25]. 
+^ Geography And History Shape Genetic Differences In Humans. Science Daily. June 7, 2009 [2009-06-25]. 
+^ Humans may have left Africa earlier than thought. Apnews.myway.com. [2011-06-14]. 
+^ Both Australian Aborigines and Europeans Rooted in Africa. News.softpedia.com. [2011-01-11]. 
+^ Rincon, Paul. Human line 'nearly split in two'. BBC News. April 24, 2008 [2009-12-31]. 
+^ Humans First Arrived in Australia 65,000 Years Ago, Study Suggests
+^ 人类在 6.5 万年前第一次踏上澳洲
+^ Zhivotovsky; Rosenberg, NA; Feldman, MW; 等. Features of Evolution and Expansion of Modern Humans, Inferred from Genomewide Microsatellite Markers. American Journal of Human Genetics. 2003, 72 (5): 1171–86. PMC 1180270. PMID 12690579. doi:10.1086/375120.  引文格式1维护：显式使用等标签 (link)
+^ Stix, Gary. The Migration History of Humans: DNA Study Traces Human Origins Across the Continents. 2008 [2011-06-14]. 
+^ A single origin, several dispersal hypothesis. Biomedcentral.com. 2004-10-29 [2011-01-11]. 
+^ Walter RC, Buffler RT, Bruggemann JH, Guillaume MM, Berhe SM, Negassi B, Libsekal Y, Cheng H, Edwards RL, von Cosel R, Néraudeau D, Gagnon M. Early human occupation of the Red Sea coast of Eritrea during the last interglacial. Nature. May 2000, 405 (6782): 65–9. PMID 10811218. doi:10.1038/35011048. 
+^ Literature: Göran Burenhult: Die ersten Menschen, Weltbild Verlag, 2000. ISBN 978-3-8289-0741-6
+^ Metspalu M, Kivisild T, Metspalu E, Parik J, Hudjashov G, Kaldma K, Serk P, Karmin M, Behar DM, Gilbert MT, Endicott P, Mastana S, Papiha SS, Skorecki K, Torroni A, Villems R. Most of the extant mtDNA boundaries in south and southwest Asia were likely shaped during the initial settlement of Eurasia by anatomically modern humans. BMC Genet. August 2004, 5: 26. PMC 516768. PMID 15339343. doi:10.1186/1471-2156-5-26. 
+^ Evolution of Human Languages. Ehl.santafe.edu. [2011-01-11]. 
+^ Endicott P, Gilbert MT, Stringer C, Lalueza-Fox C, Willerslev E, Hansen AJ, Cooper A. The genetic origins of the Andaman Islanders. Am. J. Hum. Genet. January 2003, 72 (1): 178–84. PMC 378623. PMID 12478481. doi:10.1086/345487. 
+^ Ingman M, Gyllensten U. Mitochondrial genome variation and evolutionary history of Australian and New Guinean aborigines. Genome Res. July 2003, 13 (7): 1600–6. PMC 403733. PMID 12840039. doi:10.1101/gr.686603. 
+^ Plagnol V, Wall JD. Possible ancestral structure in human populations. PLoS Genet. July 2006, 2 (7): e105. PMC 1523253. PMID 16895447. doi:10.1371/journal.pgen.0020105. ..strong evidence for ancient admixture in both a European and a West African population (p ≈ 10−7), with contributions to the modern gene pool of at least 5%. While Neanderthals form an obvious archaic source population candidate in Europe.. 
+^ Green RE, Krause J, Briggs AW; 等. A draft sequence of the Neandertal genome. Science. May 2010, 328 (5979): 710–22. Bibcode:2010Sci...328..710G. PMID 20448178. doi:10.1126/science.1188021. Lay summary – BBC News.  引文格式1维护：显式使用等标签 (link)
+^ Blum MG, Jakobsson M. Deep divergences of human gene trees and models of human origins. Mol. Biol. Evol. October 2010, 28 (2): 889–98. PMID 20930054. doi:10.1093/molbev/msq265. 
+
+
+进阶阅读[编辑]
+
+
+Bowler, Peter J. Evolution: The History of an Idea 3rd. Berkeley: University of California Press. 2003. ISBN 0-520-23693-9. 
+Darwin, Charles. [[The Descent of Man, and Selection in Relation to Sex]] 1st. London: John Murray. 1871 [2009-09-05].  网址－维基内链冲突 (帮助)
+Gibbons A. Human anthropology. Modern men trace ancestry to African migrants. Science. May 2001, 292 (5519): 1051–2. PMID 11352048. doi:10.1126/science.292.5519.1051b. 
+Underhill PA, Passarino G, Lin AA, Shen P, Mirazón Lahr M, Foley RA, Oefner PJ, Cavalli-Sforza LL. The phylogeography of Y chromosome binary haplotypes and the origins of modern human populations (PDF). Ann. Hum. Genet. January 2001, 65 (Pt 1): 43–62. PMID 11415522. doi:10.1046/j.1469-1809.2001.6510043.x. （原始内容 (PDF)存档于2009-08-15）. 
+Neanderthals 'mated with modern humans', BBC News, 21 April 1999
+New analysis shows three human migrations out of Africa – Replacement theory 'demolished', Washington University in St. Louis, 2 February 2006
+Harding RM, Healy E, Ray AJ, Ellis NS, Flanagan N, Todd C, Dixon C, Sajantila A, Jackson IJ, Birch-Machin MA, Rees JL. Evidence for variable selective pressures at MC1R. Am. J. Hum. Genet. April 2000, 66 (4): 1351–61. PMC 1288200. PMID 10733465. doi:10.1086/302863. 
+Long JC, Kittles RA. Human genetic diversity and the nonexistence of biological races (PDF). Hum. Biol. August 2003, 75 (4): 449–71. PMID 14655871. doi:10.1353/hub.2003.0058. 
+Risch, N., Burchard, E., Ziv, E. and Tang, H. Categorization of humans in biomedical research: genes, race and disease. Genome Biology. 2002, 3 (7): comment2007.2001 – comment2007.2012. PMC 139378. PMID 12184798. doi:10.1186/gb-2002-3-7-comment2007. 
+Tishkoff SA, Kidd KK. Implications of biogeography of human populations for 'race' and medicine. Nat. Genet. November 2004, 36 (11 Suppl): S21–7. PMID 15507999. doi:10.1038/ng1438. 
+Cavalli-Sforza F, Cavalli-Sforza LL. The great human diasporas: the history of diversity and evolution. Boston: Addison-Wesley. 1995. ISBN 0-201-44231-0. 
+Crow TJ (编). The Speciation of Modern Homo sapiens (Proceedings of the British Academy). London: British Academy. 2004. ISBN 0-19-726311-9. 
+Foley R. Humans before humanity: an evolutionary perspective. Oxford: Blackwell. 1995. ISBN 0-631-20528-4. 
+Olson S. Mapping human history: genes, race, and our common origins. Boston: Houghton Mifflin. 2003. ISBN 0-618-35210-4. 
+Oppenheimer, Stephen. The Real Eve: Modern Man's Journey Out of Africa. New York, NY: Carroll & Graf. 2003. ISBN 0-7867-1192-2. 
+McKie R, Stringer C. African exodus: the origins of modern humanity. London: Pimlico. 1997. ISBN 0-7126-7307-5. 
+Sykes, Bryan. The Seven Daughters of Eve: The Science That Reveals Our Genetic Ancestry. Corgi Adult. 2004. ISBN 0-552-15218-8. 
+Wade N. Before the Dawn : Recovering the Lost History of Our Ancestors. Penguin Press HC, The. 2006. ISBN 1-59420-079-3. 
+Wells S. Journey of Man: Genetic Odyssey. Random House. 2004. ISBN 0-8129-7146-9. 
+Wells, Spencer. Deep ancestry: inside the Genographic Project. Washington, D.C: National Geographic. 2006. ISBN 0-7922-6215-8. 
+Manica A, Amos W, Balloux F, Hanihara T. The effect of ancient population bottlenecks on human phenotypic variation. Nature. July 2007, 448 (7151): 346–8. Bibcode:2007Natur.448..346M. PMC 1978547. PMID 17637668. doi:10.1038/nature05951. Lay summary – Science Daily. 
+Scholz CA, Johnson TC, Cohen AS, King JW, Peck JA, Overpeck JT, Talbot MR, Brown ET, Kalindekafe L, Amoako PY, Lyons RP, Shanahan TM, Castañeda IS, Heil CW, Forman SL, McHargue LR, Beuning KR, Gomez J, Pierson J. East African megadroughts between 135 and 75 thousand years ago and bearing on early-modern human origins. Proc. Natl. Acad. Sci. U.S.A. October 2007, 104 (42): 16416–21. Bibcode:2007PNAS..10416416S. PMC 1964544. PMID 17785420. doi:10.1073/pnas.0703874104. Lay summary – Science Daily. 
+Cohen AS, Stone JR, Beuning KR, Park LE, Reinthal PN, Dettman D, Scholz CA, Johnson TC, King JW, Talbot MR, Brown ET, Ivory SJ. Ecological consequences of early Late Pleistocene megadroughts in tropical Africa. Proc. Natl. Acad. Sci. U.S.A. October 2007, 104 (42): 16422–7. Bibcode:2007PNAS..10416422C. PMC 2034256. PMID 17925446. doi:10.1073/pnas.0703873104. Lay summary – Science Daily. 
+Smith L. Climate change led mankind out of Africa. Times Online. 2007-10-09. 
+Russell S. DNA studies trace human migration from Africa. San Francisco Chronicle. 2008-02-22. 
+Serre D, Langaney A, Chech M, Teschler-Nicola M, Paunovic M, Mennecier P, Hofreiter M, Possnert G, Pääbo S. No evidence of Neandertal mtDNA contribution to early modern humans. PLoS Biol. March 2004, 2 (3): E57. PMC 368159. PMID 15024415. doi:10.1371/journal.pbio.0020057. 
+Stringer, Chris. The Origin of Our Species. London: Allen Lane. 2011. ISBN 978-1-84614-140-9. 
+
+
+外部链接[编辑]
+
+人类系谱树 The Human Family Tree – by Spencer Wells – National Geographic
+从线粒体DNA看智人在世界的扩散An mtDNA view of the peopling of the world by Homo sapiens（archived version）
+国家地理杂志：人类之旅地图 National Geographic: Atlas of the Human Journey
+布雷萧基金会：人种之旅 Bradshaw Foundation: The Journey of Mankind
+Human Evolution.(2011). In Encyclopædia Britannica. Retrieved from http://www.britannica.com/EBchecked/topic/275670/human-evolution 大英百科条目“人类演化”
+现代人身世之谜：DNA记录人类迁徙路线
+扎格罗斯跟托罗斯山脉才是第一个关卡
+
+
+纪录片
+
+
+DNA之谜：找寻亚当 DNA Mysteries – The Search for Adam – by Spencer Wells – National Geographic, 2008.
+真正的夏娃：当代人类源出非洲之旅 The Real Eve: Modern Man's Journey Out of Africa – by Stephen Oppenheimer – Discovery Channel, 2002.
+人类之旅：基因的漂泊之旅 Journey of Man: A Genetic Odyssey (movie) by Spencer Wells – PBS and National Geographic Channel, 2003.
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+人类演化
+
+
+
+
+
+
+
+人族
+
+
+
+
+
+
+分类尚有争议
+
+
+
+
+中新世
+
+乍得沙赫人1 · 图根原人1 · 肯尼亚平脸人2
+
+
+
+
+
+
+
+
+
+南猿亚族
+(南猿类)
+
+
+
+
+5.3 Ma
+↑ 上新世 ↓
+2.58 Ma
+
+
+
+
+地猿(属)3
+
+
+
+始祖地猿
+卡达巴地猿
+
+
+
+
+
+
+
+
+
+
+
+
+南方古猿(属)
+
+
+
+阿法南方古猿
+非洲南方古猿
+湖畔南方古猿
+羚羊河南方古猿
+近亲南方古猿(A. deyiremeda)
+惊奇南方古猿
+源泉南方古猿
+
+
+
+
+
+
+
+
+傍人(属)
+
+
+
+埃塞俄比亚傍人
+罗百氏傍人
+鲍氏傍人
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+人亚族
+人属
+
+
+
+
+上新世
+
+巧人
+
+
+
+
+
+
+2.58 Ma
+↑ 更新世 ↓
+11.7 Ka
+
+
+
+
+直立人
+
+
+
+爪哇猿人
+格鲁及亚人
+蓝田人
+和县人
+南京人
+古爪哇巨人(Meganthropus)
+北京人
+梭罗人(H. e. soloensis)
+托塔韦人(H. e. tautavelensis)
+巫山人
+元谋人
+
+
+
+
+
+
+
+
+
+
+
+匠人
+鲁道夫人
+豪登人(H. gautengensis)
+前人
+佛罗勒斯人
+西布兰诺人
+
+
+
+
+
+
+
+
+早期智人
+
+
+
+海德堡人 (罗德西亚人)
+尼安德特人
+丹尼索瓦人
+
+
+
+
+
+
+
+
+晚期智人
+
+
+
+长者智人
+克罗马侬人
+智人(人类)
+
+
+
+
+
+
+
+
+
+
+
+澎湖原人
+马鹿洞人
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+尚未定年
+
+纳莱蒂人
+
+
+
+
+
+
+
+注1：部分学者将其归为南猿亚族，或将其归为人亚族。 注2：部分学者将其视为南猿亚族，或将其归为人属。
+注3：部分学者将其归为人亚族。
+
+
+
+
+
+
+
+相关条目：人类演化年表 · 人类演化化石列表 · 人类演化遗传学
+学说：单地起源说 · 多地起源说
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+三时代系统（英语：Three-age system）
+
+
+
+
+
+
+石器时代
+
+
+
+Prehistoric technology
+石器
+燧石器
+旧石器时代
+
+旧石器时代初期
+旧石器时代中期
+旧石器时代晚期
+
+
+中石器时代
+新石器时代
+日本旧石器时代
+旧石器时代的欧洲（英语：Paleolithic Europe）
+Middle Stone Age
+Later Stone Age
+Epipaleolithic
+Pre-Pottery Neolithic
+Pre-Pottery Neolithic A
+Pre-Pottery Neolithic B
+新石器革命
+中国新石器文化列表
+Nordic Stone Age
+Neolithic British Isles
+南亚石器时代
+Stone-Age Poland
+人类单地起源说
+
+
+
+
+
+
+
+
+青铜时代
+
+
+
+铜石并用时代
+青铜
+Atlantic Bronze Age
+Nordic Bronze Age
+Bronze Age in Romania
+青铜时代的崩溃（英语：Bronze Age collapse）
+
+
+
+
+
+
+
+
+铁器时代
+
+
+
+钢铁冶金学
+铁陨石
+冶金学
+British Iron Age
+Pre-Roman Iron Age
+罗马铁器时代（英语：Roman Iron Age）
+Germanic Iron Age
+Iron Age Scandinavia
+印度铁器时代（英语：Iron Age India）
+中国铁器时代（英语：Iron Age China）
+Tsebelda culture
+
+
+
+
+
+
+
+
+
+
+
+List of archaeological periods
+List of time periods
+
+
+
+
+
+
+
+
+
+
+
+
+分类：人类演化考古学人口史人类遗传史人口流动近期单起源假说隐藏分类：含有过时参数的引用的页面引文格式1错误：DOIWebarchive模板wayback链接带有失效链接的条目条目有永久失效的外部链接引文格式1维护：显式使用等标签使用ISBN魔术链接的页面自2015年12月连结格式不正确的条目含有英语的条目引文格式1错误：网址－维基内链冲突

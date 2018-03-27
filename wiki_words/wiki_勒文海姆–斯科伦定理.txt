@@ -1,0 +1,763 @@
+勒文海姆–斯科伦定理
+在数理逻辑中，经典 Löwenheim–Skolem 定理声称对于标识(signature)为 
+
+
+
+<
+
+C
+
+,
+
+F
+
+,
+
+R
+
+,
+σ
+>
+
+
+{\displaystyle <\mathbf {C} ,\mathbf {F} ,\mathbf {R} ,\sigma >}
+
+ 的任何可数一阶逻辑语言 L 和 L-结构 M，存在一个可数无限基本子结构 N 
+
+
+
+⊆
+
+
+{\displaystyle \subseteq }
+
+ ' 这个定理的自然和有用的推论是所有一致的 L-理论都有可数的模型。
+这里的标识由常量集合 
+
+
+
+
+C
+
+
+
+{\displaystyle \mathbf {C} }
+
+、函数集合 
+
+
+
+
+F
+
+
+
+{\displaystyle \mathbf {F} }
+
+、关系符号集合 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbf {R} }
+
+、和表示函数和关系符号的元数的函数 
+
+
+
+σ
+:
+
+F
+
+∪
+
+R
+
+→
+
+N
+
+
+
+{\displaystyle \sigma :\mathbf {F} \cup \mathbf {R} \rightarrow \mathbb {N} }
+
+ 组成。在这个上下文中 L-结构，由底层集合(经常指示为“M”)和 L 的函数和关系符号的释义组成。L 的常量在 M 中的释义就是 
+
+
+
+
+M
+
+
+
+{\displaystyle \mathbf {M} }
+
+的元素。类似的，
+
+
+
+σ
+(
+f
+)
+ 
+
+
+{\displaystyle \sigma (f)\ }
+
+-元函数 
+
+
+
+f
+∈
+
+F
+
+
+
+{\displaystyle f\in \mathbf {F} }
+
+ 被指派为 M 中的 
+
+
+
+σ
+(
+f
+)
+ 
+
+
+{\displaystyle \sigma (f)\ }
+
+-元函数 
+
+
+
+
+M
+
+σ
+(
+f
+)
+
+
+→
+M
+
+
+{\displaystyle M^{\sigma (f)}\rightarrow M}
+
+ 的图，而
+
+
+
+σ
+(
+R
+)
+ 
+
+
+{\displaystyle \sigma (R)\ }
+
+-元关系 
+
+
+
+R
+∈
+
+R
+
+
+
+{\displaystyle R\in \mathbf {R} }
+
+ 的释义被指派为 M 中的 
+
+
+
+σ
+(
+R
+)
+ 
+
+
+{\displaystyle \sigma (R)\ }
+
+-元关系。语言 L 是可数的，如果在 L 中的常量、函数和关系符号是可数的。
+
+
+
+目录
+
+
+1 例子
+2 证明梗概
+3 更一般的 "Löwenheim–Skolem 定理"
+4 勒文海姆-斯科伦定理在一阶逻辑中的定义和证明
+5 引用
+6 参见
+
+
+
+例子
+一个周知的不可数模型是所有实数的集合，带有次序关系 "<" 作为唯一的关系，和加法与乘法作为函数。有序域的公理是一阶句子；最小上界公理不是一阶的而是二阶的。这个定理蕴涵了实数域的某个可数无限的子域，因此不同于实数域，但满足了实数域所满足的所有一阶句子。(作为可数的有序域，它不能满足最小上界公理)。例如，特定多项式方程有解(在这个模型中)的断言是一阶句子，因此在断言了其存在的可数子模型中是真的，当且仅当它在实数域中是真的。
+数学家考虑的多数数学结构，特别是多数范畴的多数成员，是这里定义意义上的模型。Löwenheim–Skolem 定理告诉我们如果它们是不可数的，它们不能被任何一阶句子的集合唯一性的选取出来。
+证明梗概
+对于在模型 M 中为真的如下形式的一阶句子
+
+
+
+
+
+∀
+x
+ 
+∃
+y
+ 
+R
+(
+x
+,
+y
+)
+
+
+{\displaystyle \forall x\ \exists y\ R(x,y)}
+
+
+
+或
+
+
+
+
+
+∀
+
+x
+
+1
+
+
+ 
+⋯
+ 
+∀
+
+x
+
+n
+
+
+ 
+∃
+
+y
+
+1
+
+
+ 
+⋯
+ 
+∃
+
+y
+
+m
+
+
+R
+(
+
+x
+
+1
+
+
+,
+…
+,
+
+x
+
+n
+
+
+,
+
+y
+
+1
+
+
+,
+…
+,
+
+y
+
+m
+
+
+)
+
+
+{\displaystyle \forall x_{1}\ \cdots \ \forall x_{n}\ \exists y_{1}\ \cdots \ \exists y_{m}R(x_{1},\dots ,x_{n},y_{1},\dots ,y_{m})}
+
+
+
+有一个Skolem 函数 f，就是说映射 x 到断言了其存在的 y 的函数，使得
+
+
+
+
+
+∀
+x
+ 
+R
+(
+x
+,
+f
+(
+x
+)
+)
+
+
+{\displaystyle \forall x\ R(x,f(x))}
+
+
+
+在 M 中为真。因为有很多这样的 y 的值，必须启用选择公理来推出 Skolem 函数的存在。
+这个模型的某些成员可以直接用一阶公式来定义，就是说，它们的存在被如下形式的句子所断言
+
+
+
+
+
+∃
+
+y
+
+1
+
+
+ 
+⋯
+ 
+∃
+
+y
+
+m
+
+
+R
+(
+
+y
+
+1
+
+
+,
+…
+,
+
+y
+
+m
+
+
+)
+
+
+{\displaystyle \exists y_{1}\ \cdots \ \exists y_{m}R(y_{1},\dots ,y_{m})}
+
+
+
+并且因为只有可数多个一阶公式，只有可数多个成员可以用这种方式直接定义。
+证明的想法是: 开始于这个模型的所有一阶可定义成员的集合，并接着在所有 Skolem 函数下闭合它。这个闭包必定最多是可数无限的。这个模型的子集是这个定理断言了其存在的子模型。
+更一般的 "Löwenheim–Skolem 定理"
+上述定理假定了有限或可数无限的语言。更一般的 Löwenheim-Skolem 定理做其他有关基数的假定。类似于这个经典定理的某些定理，断言更小的子模型的存在(“向下” Löwenheim-Skolem 定理)；其他一些断言更大基数的模型的存在(“向上” Löwenheim-Skolem 定理)。
+勒文海姆-斯科伦定理在一阶逻辑中的定义和证明
+勒文海姆-斯科伦定理: 如果 
+
+
+
+Δ
+
+
+{\displaystyle \Delta }
+
+ 是一个含有有限可数个数的命题组成的集合，并且集合 
+
+
+
+Δ
+
+
+{\displaystyle \Delta }
+
+ 是可以满足的(
+
+
+
+Δ
+
+
+{\displaystyle \Delta }
+
+ SAT),那么至少存在一个模型(或叫作指派，或叫作解释(Interpretation)) 用符号记作 I, 
+
+
+
+I
+⊨
+Δ
+
+
+{\displaystyle I\models \Delta }
+
+ ,且这个模型 I 指派解释也是可数的
+证明:
+
+前提:在语言集合L中如果我们有一个可满足式的有限可数命题公式的集合 
+
+
+
+Δ
+
+
+{\displaystyle \Delta }
+
+，且
+
+
+
+ϕ
+∈
+Δ
+
+
+{\displaystyle \phi \in \Delta }
+
+,
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+是
+
+
+
+Δ
+
+
+{\displaystyle \Delta }
+
+中的命题公式
+如果我们有一个集合，用字母记作 S ,并且 
+
+
+
+S
+=
+
+⋃
+
+ϕ
+∈
+Δ
+
+
+C
+L
+(
+ϕ
+)
+
+
+{\displaystyle S=\bigcup _{\phi \in \Delta }CL(\phi )}
+
+，其中集合 
+
+
+
+C
+L
+(
+ϕ
+)
+
+
+{\displaystyle CL(\phi )}
+
+是由命题公式
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+转换成子句结构(Clause)所组成的集合，我们有一个定理(记作Th): 如果
+
+
+
+ψ
+
+
+{\displaystyle \psi }
+
+是可满足式的(Satisfaisable)公式，当且仅当Clause(
+
+
+
+ψ
+
+
+{\displaystyle \psi }
+
+)也是可满足式的，通过这个定理，我们确保S是可满足的，并且也是可数的
+如果我们有一个基于语言集合L的等价公理集合，记作
+
+
+
+
+E
+
+=
+
+
+
+
+{\displaystyle E_{=}}
+
+(该集合是为了用于Skolemisation方法中,也就是
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+在转化成Clause(
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+)过程中，去除有限量词
+
+
+
+∃
+
+
+{\displaystyle \exists }
+
+的方法Skolemisation,化为Skolem范式)
+那么很显然 
+
+
+
+S
+⋃
+
+E
+
+=
+
+
+
+
+{\displaystyle S\bigcup E_{=}}
+
+ 也是可满式的集合，那么 
+
+
+
+I
+F
+(
+S
+⋃
+
+E
+
+=
+
+
+)
+
+
+{\displaystyle IF(S\bigcup E_{=})}
+
+ 同样是可满足的
+由于语言集合L中的元素是可数的 所以
+
+
+
+I
+F
+(
+S
+⋃
+
+E
+
+=
+
+
+)
+
+
+{\displaystyle IF(S\bigcup E_{=})}
+
+ 是也是有限可数的集合
+如果我们有一个模型，记作 I 且 
+
+
+
+I
+⊨
+I
+F
+(
+S
+⋃
+
+E
+
+=
+
+
+)
+
+
+{\displaystyle I\models IF(S\bigcup E_{=})}
+
+,赫尔不兰特定理(Theoreme de Herbrand)告诉我们如果我们要构造一个模型M,并且
+
+
+
+M
+⊨
+S
+⋃
+
+E
+
+=
+
+
+
+
+{\displaystyle M\models S\bigcup E_{=}}
+
+，那么模型M的模型解释指派域(记作)D是一个以I(t)为元素的指派域(其中t是在S中的所有的项)，那么模型M是通过Congurence关系来解释指派等价性关系(Egalite)
+由于我们说语言理合L是可数的，那么指派解释域D也是可数的
+那么我们可以构造另一个模型M'，并且基于解释域 
+
+
+
+D
+
+/
+
+
+M
+
+=
+
+
+
+
+{\displaystyle D/M_{=}}
+
+(我们通过等价关系来指派解释等价性)且
+
+
+
+
+M
+′
+
+⊨
+S
+
+
+{\displaystyle M'\models S}
+
+,那么M'必然也是可数的，那么根据Th定理，
+
+
+
+
+M
+′
+
+⊨
+S
+
+
+{\displaystyle M'\models S}
+
+ ,那么我们就可以说 
+
+
+
+
+M
+′
+
+⊨
+Δ
+
+
+{\displaystyle M'\models \Delta }
+
+
+所以我们证明了勒文海姆-斯科伦定理
+
+引用
+
+Wilfrid Hodges (1997), "A Shorter Model Theory", Cambridge University Press, ISBN 0521587131
+María Manzano (1999), "Model Theory", Oxford University Press, ISBN 0198538510
+Rothmaler, Philipp (2000), "Introduction To Model Theory", CRC
+
+参见
+
+Skolem悖论
+模型论
+
+
+
+
+
+分类：被半保护的页面模型论数学定理隐藏分类：使用ISBN魔术链接的页面

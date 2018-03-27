@@ -1,0 +1,939 @@
+Problem of induction
+For the mathematical technique, see Mathematical induction.
+
+
+Part of a series on
+
+
+Certainty
+
+
+
+
+Approximation
+Belief
+Certainty
+Doubt
+Determinism
+Fallibilism
+Fatalism
+Hypothesis
+Justification
+Nihilism
+Proof
+Scientific theory
+Skepticism
+Solipsism
+Theory
+Truth
+Uncertainty
+
+
+
+
+
+
+Related concepts and fundamentals:
+
+Agnosticism
+Epistemology
+Presupposition
+Probability
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The problem of induction is the philosophical question of whether inductive reasoning leads to knowledge understood in the classic philosophical sense,[1] highlighting the apparent lack of justification for:
+
+Generalizing about the properties of a class of objects based on some number of observations of particular instances of that class (e.g., the inference that "all swans we have seen are white, and, therefore, all swans are white", before the discovery of black swans) or
+Presupposing that a sequence of events in the future will occur as it always has in the past (e.g., that the laws of physics will hold as they have always been observed to hold). Hume called this the principle of uniformity of nature.[2]
+
+The problem calls into question all empirical claims made in everyday life or through the scientific method, and, for that reason, the philosopher C. D. Broad said that "induction is the glory of science and the scandal of philosophy." Although the problem arguably dates back to the Pyrrhonism of ancient philosophy, as well as the Carvaka school of Indian philosophy, David Hume popularized it in the mid-18th century.
+
+
+
+Contents
+
+
+1 Formulation of the problem
+
+1.1 Ancient and early modern origins
+1.2 David Hume
+1.3 Nelson Goodman's new riddle of induction
+
+
+2 Notable interpretations
+
+2.1 Hume
+2.2 David Stove and Donald Williams
+2.3 Karl Popper
+2.4 Neo-Scholastics
+
+
+3 See also
+4 Notes
+5 References
+6 External links
+
+
+
+Formulation of the problem[edit]
+
+
+
+
+Usually inferred from repeated observations: "The sun always rises in the east".
+
+
+
+
+
+
+Usually not inferred from repeated observations: "If someone dies, it's never me".
+
+
+In inductive reasoning, one makes a series of observations and infers a new claim based on them. For instance, from a series of observations that a woman walks her dog by the market at 8am on Monday, it seems valid to infer that next Monday she will do the same, or that, in general, the woman walks her dog by the market every Monday. That next Monday the woman walks by the market merely adds to the series of observations, it does not prove she will walk by the market every Monday. First of all, it is not certain, regardless of the number of observations, that the woman always walks by the market at 8am on Monday. In fact, Hume would even argue that we cannot claim it is "more probable", since this still requires the assumption that the past predicts the future.
+Second, the observations themselves do not establish the validity of inductive reasoning, except inductively. Bertrand Russell illustrated this point in The Problems of Philosophy:
+
+
+“
+Domestic animals expect food when they see the person who usually feeds them. We know that all these rather crude expectations of uniformity are liable to be misleading. The man who has fed the chicken every day throughout its life at last wrings its neck instead, showing that more refined views as to the uniformity of nature would have been useful to the chicken.
+”
+
+
+In several publications it is presented as a story about a turkey, fed every morning without fail, who following the laws of induction concludes this will continue, but then his throat is cut on Thanksgiving Day.[3]
+Ancient and early modern origins[edit]
+Pyrrhonian skeptic Sextus Empiricus first questioned the validity of inductive reasoning, positing that a universal rule could not be established from an incomplete set of particular instances. He wrote:[4]
+
+When they propose to establish the universal from the particulars by means of induction, they will effect this by a review of either all or some of the particulars. But if they review some, the induction will be insecure, since some of the particulars omitted in the induction may contravene the universal; while if they are to review all, they will be toiling at the impossible, since the particulars are infinite and indefinite.
+
+The focus upon the gap between the premises and conclusion present in the above passage appears different from Hume's focus upon the circular reasoning of induction. However, Weintraub claims in The Philosophical Quarterly[5] that although Sextus's approach to the problem appears different, Hume's approach was actually an application of another argument raised by Sextus:[6]
+
+Those who claim for themselves to judge the truth are bound to possess a criterion of truth. This criterion, then, either is without a judge's approval or has been approved. But if it is without approval, whence comes it that it is truthworthy? For no matter of dispute is to be trusted without judging. And, if it has been approved, that which approves it, in turn, either has been approved or has not been approved, and so on ad infinitum.
+
+Although the criterion argument applies to both deduction and induction, Weintraub believes that Sextus's argument "is precisely the strategy Hume invokes against induction: it cannot be justified, because the purported justification, being inductive, is circular." She concludes that "Hume's most important legacy is the supposition that the justification of induction is not analogous to that of deduction." She ends with a discussion of Hume's implicit sanction of the validity of deduction, which Hume describes as intuitive in a manner analogous to modern foundationalism.
+The Carvaka, a materialist and skeptic school of Indian philosophy, used the problem of induction to point out the flaws in using inference as a way to gain valid knowledge. They held that since inference needed an invariable connection between the middle term and the predicate, and further, that since there was no way to establish this invariable connection, that the efficacy of inference as a means of valid knowledge could never be stated.[7][8]
+The 9th century Indian skeptic, Jayarasi Bhatta, also made an attack on inference, along with all means of knowledge, and showed by a type of reductio argument that there was no way to conclude universal relations from the observation of particular instances.[9][10]
+Medieval writers such as al-Ghazali and William of Ockham connected the problem with God's absolute power, asking how we can be certain that the world will continue behaving as expected when God could at any moment miraculously cause the opposite.[11] Duns Scotus however argued that inductive inference from a finite number of particulars to a universal generalization was justified by "a proposition reposing in the soul, 'Whatever occurs in a great many instances by a cause that is not free, is the natural effect of that cause.'"[12] Some 17th-century Jesuits argued that although God could create the end of the world at any moment, it was necessarily a rare event and hence our confidence that it would not happen very soon was largely justified.[13]
+David Hume[edit]
+Few philosophers are as associated with induction as David Hume. He described the problem in An Enquiry concerning Human Understanding, §4, based on his epistemological framework. Here, "reason" refers to deductive reasoning and "induction" refers to inductive reasoning.
+First, Hume ponders the discovery of causal relations, which form the basis for what he refers to as "matters of fact". He argues that causal relations are found not by reason, but by induction. This is because for any cause, multiple effects are conceivable, and the actual effect cannot be determined by reasoning about the cause; instead, one must observe occurrences of the causal relation to discover that it holds. For example, when one thinks of "a billiard ball moving in a straight line toward another",[14] one can conceive that the first ball bounces back with the second ball remaining at rest, the first ball stops and the second ball moves, or the first ball jumps over the second, etc. There is no reason to conclude any of these possibilities over the others. Only through previous observation can it be predicted, inductively, what will actually happen with the balls. In general, it is not necessary that causal relation in the future resemble causal relations in the past, as it is always conceivable otherwise; for Hume, this is because the negation of the claim does not lead to a contradiction.
+Next, Hume ponders the justification of induction. If all matters of fact are based on causal relations, and all causal relations are found by induction, then induction must be shown to be valid somehow. He uses the fact that induction assumes a valid connection between the proposition "I have found that such an object has always been attended with such an effect" and the proposition "I foresee that other objects which are in appearance similar will be attended with similar effects".[15] One connects these two propositions not by reason, but by induction. This claim is supported by the same reasoning as that for causal relations above, and by the observation that even rationally inexperienced people can infer, for example, that touching fire causes pain. Hume challenges other philosophers to come up with a (deductive) reason for the connection. If a deductive justification for induction cannot be provided, then it appears that induction is based on an inductive assumption about the connection, which would be begging the question. Induction, itself, cannot validly explain the connection.
+In this way, the problem of induction is not only concerned with the uncertainty of conclusions derived by induction, but doubts the very principle through which those uncertain conclusions are derived.[16]
+Nelson Goodman's new riddle of induction[edit]
+Main article: New riddle of induction
+Nelson Goodman's Fact, Fiction, and Forecast presented a different description of the problem of induction in the chapter entitled "The New Riddle of Induction". Goodman proposed the new predicate "grue". Something is grue if and only if it has been (or will be, according to a scientific, general hypothesis[17][18]) observed to be green before a certain time t and blue after that time. The "new" problem of induction is, since all emeralds we have ever seen are both green and grue, why do we suppose that after time t we will find green but not grue emeralds? The problem here raised is that two different inductions will be true and false under the same conditions. In other words:
+– Given the observations of a lot of green emeralds, someone using a common language will inductively infer that all emeralds are green (therefore, he will believe that any emerald he will ever find will be green, even after time t).
+– Given the same set of observations of green emeralds, someone using the predicate "grue" will inductively infer that all emeralds, which will be observed after t, will be blue, despite the fact that he observed only green emeralds so far.
+Goodman, however, points out that the predicate "grue" only appears more complex than the predicate "green" because we have defined grue in terms of blue and green. If we had always been brought up to think in terms of "grue" and "bleen" (where bleen is blue before time t, or green thereafter), we would intuitively consider "green" to be a crazy and complicated predicate. Goodman believed that which scientific hypotheses we favour depend on which predicates are "entrenched" in our language.
+W.V.O. Quine offers a practical solution to this problem[19] by making the metaphysical claim that only predicates that identify a "natural kind" (i.e. a real property of real things) can be legitimately used in a scientific hypothesis. R. Bhaskar also offers a practical solution to the problem. He argues that the problem of induction only arises if we deny the possibility of a reason for the predicate, located in the enduring nature of something.[20] For example, we know that all emeralds are green, not because we have only ever seen green emeralds, but because the chemical make-up of emeralds insists that they must be green. If we were to change that structure, they would not be green. For instance, emeralds are a kind of green beryl, made green by trace amounts of chromium and sometimes vanadium. Without these trace elements, the gems would be colourless.
+Notable interpretations[edit]
+Hume[edit]
+See also: David Hume on the problem of induction
+Although induction is not made by reason, Hume observes that we nonetheless perform it and improve from it. He proposes a descriptive explanation for the nature of induction in §5 of the Enquiry, titled "Skeptical solution of these doubts". It is by custom or habit that one draws the inductive connection described above, and "without the influence of custom we would be entirely ignorant of every matter of fact beyond what is immediately present to the memory and senses."[21] The result of custom is belief, which is instinctual and much stronger than imagination alone.[22]
+David Stove and Donald Williams[edit]
+David Stove's argument for induction, based on the statistical syllogism, was presented in the Rationality of Induction and was developed from an argument put forward by one of Stove's heroes, the late Donald Cary Williams (formerly Professor at Harvard) in his book The Ground of Induction.[23] Stove argued that it is a statistical truth that the great majority of the possible subsets of specified size (as long as this size is not too small) are similar to the larger population to which they belong. For example, the majority of the subsets which contain 3000 ravens which you can form from the raven population are similar to the population itself (and this applies no matter how large the raven population is, as long as it is not infinite). Consequently, Stove argued that if you find yourself with such a subset then the chances are that this subset is one of the ones that are similar to the population, and so you are justified in concluding that it is likely that this subset "matches" the population reasonably closely. The situation would be analogous to drawing a ball out of a barrel of balls, 99% of which are red. In such a case you have a 99% chance of drawing a red ball. Similarly, when getting a sample of ravens the probability is very high that the sample is one of the matching or "representative" ones. So as long as you have no reason to think that your sample is an unrepresentative one, you are justified in thinking that probably (although not certainly) that it is.[24]
+Karl Popper[edit]
+Karl Popper, a philosopher of science, sought to solve the problem of induction.[25][26] He argued that science does not use induction, and induction is in fact a myth.[27] Instead, knowledge is created by conjecture and criticism.[28] The main role of observations and experiments in science, he argued, is in attempts to criticize and refute existing theories.[29]
+According to Popper, the problem of induction as usually conceived is asking the wrong question: it is asking how to justify theories given they cannot be justified by induction. Popper argued that justification is not needed at all, and seeking justification "begs for an authoritarian answer". Instead, Popper said, what should be done is to look to find and correct errors.[30] Popper regarded theories that have survived criticism as better corroborated in proportion to the amount and stringency of the criticism, but, in sharp contrast to the inductivist theories of knowledge, emphatically as less likely to be true.[31] Popper held that seeking for theories with a high probability of being true was a false goal that is in conflict with the search for knowledge. Science should seek for theories that are most probably false on the one hand (which is the same as saying that they are highly falsifiable and so there are lots of ways that they could turn out to be wrong), but still all actual attempts to falsify them have failed so far (that they are highly corroborated).
+Wesley C. Salmon criticizes Popper on the grounds that predictions need to be made both for practical purposes and in order to test theories. That means Popperians need to make a selection from the number of unfalsified theories available to them, which is generally more than one. Popperians would wish to choose well-corroborated theories, in their sense of corroboration, but face a dilemma: either they are making the essentially inductive claim that a theory's having survived criticism in the past means it will be a reliable predictor in the future; or Popperian corroboration is no indicator of predictive power at all, so there is no rational motivation for their preferred selection principle.[32]
+David Miller has criticized this kind of criticism by Salmon and others because it makes inductivist assumptions.[33] Popper does not say that corroboration is an indicator of predictive power. The predictive power[according to whom?] is in the theory itself, not in its corroboration. The rational motivation for choosing a well-corroborated theory is that it is simply easier to falsify: Well-corroborated means that at least one kind of experiment (already conducted at least once) could have falsified (but did not actually falsify) the one theory, while the same kind of experiment, regardless of its outcome, could not have falsified the other. So it is rational to choose the well-corroborated theory: It may not be more likely to be true, but if it is actually false, it is easier to get rid of when confronted with the conflicting evidence that will eventually turn up. Accordingly, it is wrong to consider corroboration as a reason, a justification for believing in a theory or as an argument in favor of a theory to convince someone who objects to it.[34]
+Neo-Scholastics[edit]
+See also[edit]
+
+A priori and a posteriori
+Abductive reasoning
+Bayesian inference
+Hasty generalization
+Law of large numbers
+Nassim Taleb
+Solomonoff's theory of inductive inference
+
+Notes[edit]
+
+
+^ Vickers, John, "Can induction be justified?", The Stanford Encyclopedia of Philosophy (Fall 2011 Edition), Edward N. Zalta (ed.)
+^ Hume, David. An Enquiry Concerning Human Understanding. Gutenberg Press. #9662: Most recently updated in 16 October 2007
+^ This story is found in Alan Chalmers, What is this thing Called Science, Open University Press, Milton Keynes, 1982, p. 14.
+^ Sextus Empiricus. Outlines of Pyrrhonism, trans. Robert Gregg Bury (Loeb ed.) (London: W. Heinemann, 1933), p. 283.
+^ Weintraub, R. (1995). What was Hume's Contribution to the Problem of Induction? The Philosophical Quarterly 45(181):460-470
+^ Sextus Empiricus. Against the Logicians, trans. Robert Gregg Bury (Loeb ed.) (London: W. Heinemann, 1935), p. 179
+^ Dr. S. Radhakrishnan, Indian Philosophy Vol I, pg 279
+^ S. Dasgupta - A history of Indian philosophy, Vol III. pg 533
+^ Piotr Balcerowicz, "Jayarāśi"
+^ Franco, Eli, 1987, Perception, Knowledge and Disbelief: A Study of Jayarāśi's Scepticism
+^ Franklin, J. (2001), The Science of Conjecture: Evidence and Probability Before Pascal (Baltimore: Johns Hopkins University Press), 232-3, 241.
+^ Duns Scotus: Philosophical Writings, trans. A. Wolter (Edinburgh:, 1962), 109-10; Franklin, Science of Conjecture, 206.
+^ Franklin, Science of Conjecture, 223-4.
+^ Enquiry, §4.1.
+^ Enquiry, §4.2.
+^ The Problem of Induction
+^ Goodman, Nelson. Fact, Fiction, and Forecast (Fourth Edition). Harvard University Press, 1983, p.74, "will each confirm the general hypothesis that all emeralds are grue"
+^ Goodman’s original definition of grue
+^ Willard Van Orman Quine (1970). "Natural Kinds" (PDF). In Nicholas Rescher; et al. Essays in Honor of Carl G. Hempel. Dordrecht: D. Reidel. pp. 41–56.  Reprinted in: Quine (1969), Ontological Relativity and Other Essays, Ch. 5.
+^ Bhaskar, Roy (2008). A Realist Theory of Science. New York: Routledge. pp. 215–228. ISBN 978-0-415-45494-0. 
+^ Enquiry, §5.1.
+^ Enquiry, §5.2.
+^ Donald Cary Williams (1947). The Ground of Induction. New York: Russell and Russell. , "Donald Cary Williams". Stanford Encyclopedia of Philosophy. 2015. Retrieved 2017-03-04. 
+^ D. Stove, The Rationality of Induction, Clarendon Press, Oxford, 1986, ch. 6.
+^ Karl Popper (1959). The Logic of Scientific Discovery. pp. Ch. 1. ISBN 84-309-0711-4. ...the theory to be developed in the following pages stands directly opposed to all attempts to operate with the ideas of inductive logic. 
+^ Alan Saunders (15 January 2000). "A Portrait of Sir Karl Popper". The Science Show. Radio National. Retrieved 27 December 2007. 
+^ Karl Popper (1963). Conjectures and Refutations. p. 53. ISBN 0-06-131376-9. Induction, i.e. inference based on many observations, is a myth. It is neither a psychological fact, nor a fact of ordinary life, nor one of scientific procedure. 
+^ Karl Popper (1963). Conjectures and Refutations. p. 53. ISBN 0-06-131376-9. The actual procedure of science is to operate with conjectures: to jump to conclusions — often after one single observation 
+^ Karl Popper (1963). Conjectures and Refutations. p. 128. ISBN 0-06-131376-9. Tests proceed partly by way of observation, and observation is thus very important; but its function is not that of producing theories. It plays its role in rejecting, eliminating, and criticizing theories 
+^ Karl Popper (1963). Conjectures and Refutations. p. 25. ISBN 0-06-131376-9. I propose to replace ... the question of the sources of our knowledge by the entirely different question: 'How can we hope to detect and eliminate error?' 
+^ Logic of Scientific Discovery, section 43
+^ Wesley C. Salmon (1967). The Foundations of Scientific Inference. p. 26.  |access-date= requires |url= (help)
+^ Critical Rationalism: A restatement and defense
+^ Thomas Bullemore, "Some Remarks on the Pragmatic Problem of Induction", Academia.edu
+
+
+References[edit]
+
+David Hume (1910) [1748]. An Enquiry concerning Human Understanding. P.F. Collier & Son. ISBN 0-19-825060-6. Retrieved 27 December 2007. 
+Wolpert, David (1996). "The Lack of A Priori Distinctions between Learning Algorithms". Neural Computation. 8: 1341–1390. doi:10.1162/neco.1996.8.7.1341. 
+Colin Howson (2000). Hume's Problem: Induction and the Justification of Belief. Oxford University Press. ISBN 978-0-19-825038-8. Retrieved 7 January 2008. 
+
+External links[edit]
+
+Zalta, Edward N. (ed.). "The Problem of Induction". Stanford Encyclopedia of Philosophy. 
+Zalta, Edward N. (ed.). "David Hume: Causation and Inductive Inference". Stanford Encyclopedia of Philosophy. 
+Problem of induction at the Indiana Philosophy Ontology Project
+Probability and Hume's Inductive Scepticism at the Wayback Machine (archived 27 October 2009) (1973) by David Stove
+Discovering Karl Popper by Peter Singer
+The Warrant of Induction by D. H. Mellor
+Hume and the Problem of Induction
+Secular Responses to the Problem of Induction, by James N. Anderson
+The Pragmatic Problem of Induction, by Thomas Bullemore
+Understanding Scientific Progress, by Nicholas Maxwell. This book sets out to solve the problem of induction and related problems associated with scientific progress.
+The problem of induction and metaphysical assumptions concerning the comprehensibility and knowability of the universe by Nicholas Maxwell
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Epistemology
+
+
+
+Epistemologists
+
+
+
+Thomas Aquinas
+Augustine of Hippo
+William Alston
+Robert Audi
+A. J. Ayer
+George Berkeley
+Laurence BonJour
+René Descartes
+John Dewey
+Fred Dretske
+Edmund Gettier
+Roger Gibson
+Alvin Goldman
+Nelson Goodman
+Paul Grice
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+Saul Kripke
+David Lewis
+John Locke
+G. E. Moore
+Robert Nozick
+Alvin Plantinga
+Plato
+Hilary Putnam
+Thomas Reid
+Gilbert Ryle
+P. F. Strawson
+Willard Van Orman Quine
+Bertrand Russell
+Baruch Spinoza
+Timothy Williamson
+Ludwig Wittgenstein
+Nicholas Wolterstorff
+Vienna Circle
+
+
+
+
+
+Theories
+
+
+
+Coherentism
+Constructivist epistemology
+Contextualism
+Determinism
+Empiricism
+Evolutionary epistemology
+Fallibilism
+Feminist epistemology
+Fideism
+Foundationalism
+Genetic epistemology
+Holism
+Infinitism
+Innatism
+Internalism and externalism
+Naïve realism
+Naturalized epistemology
+Phenomenalism
+Positivism
+Reductionism
+Reliabilism
+Representative realism
+Rationalism
+Skepticism
+Theory of forms
+Transcendental idealism
+Uniformitarianism
+
+
+
+
+
+Concepts
+
+
+
+A priori knowledge
+Analysis
+Analytic–synthetic distinction
+Belief
+Causality
+Common sense
+Descriptive knowledge
+Exploratory thought
+Gettier problem
+Justification
+Knowledge
+Induction
+Objectivity
+Problem of induction
+Problem of other minds
+Perception
+Proposition
+Regress argument
+Simplicity
+Speculative reason
+Truth
+more...
+
+
+
+
+
+Related articles
+
+
+
+Outline of epistemology
+Alethiology
+Faith and rationality
+Formal epistemology
+Meta-epistemology
+Philosophy of perception
+Philosophy of science
+Social epistemology
+
+
+
+
+
+
+
+
+Portal
+Category
+Task Force
+Stubs
+Discussion
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Philosophy of science
+
+
+
+
+
+
+
+Concepts
+
+
+
+Analysis
+Analytic–synthetic distinction
+A priori and a posteriori
+Causality
+Commensurability
+Consilience
+Construct
+Creative synthesis
+Demarcation problem
+Empirical evidence
+Explanatory power
+Fact
+Falsifiability
+Feminist method
+Ignoramus et ignorabimus
+Inductive reasoning
+Intertheoretic reduction
+Inquiry
+Nature
+Objectivity
+Observation
+Paradigm
+Problem of induction
+Scientific law
+Scientific method
+Scientific revolution
+Scientific theory
+Testability
+Theory choice
+Theory-ladenness
+Underdetermination
+Unity of science
+
+
+
+
+
+Metatheory
+of science
+
+
+
+Coherentism
+Confirmation holism
+Constructive empiricism
+Constructive realism
+Constructivist epistemology
+Contextualism
+Conventionalism
+Deductive-nomological model
+Hypothetico-deductive model
+Inductionism
+Epistemological anarchism
+Evolutionism
+Fallibilism
+Foundationalism
+Instrumentalism
+Pragmatism
+Model-dependent realism
+Naturalism
+Physicalism
+Positivism / Reductionism / Determinism
+Rationalism / Empiricism
+Received view / Semantic view of theories
+Scientific realism / Anti-realism
+Scientific essentialism
+Scientific formalism
+Scientific skepticism
+Scientism
+Structuralism
+Uniformitarianism
+Vitalism
+
+
+
+
+
+Philosophy of
+
+
+
+Physics
+
+thermal and statistical
+Motion
+
+
+Chemistry
+Biology
+Environment
+Geography
+Social science
+Technology
+
+Engineering
+Artificial intelligence
+Computer science
+
+
+Information
+Mind
+Psychiatry
+Psychology
+Perception
+Space and time
+
+
+
+
+
+Related topics
+
+
+
+Alchemy
+Criticism of science
+Epistemology
+Faith and rationality
+History and philosophy of science
+History of science
+History of evolutionary thought
+Logic
+Metaphysics
+Pseudoscience
+Relationship between religion and science
+Rhetoric of science
+Sociology of scientific knowledge
+Sociology of scientific ignorance
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philosophers of science by era
+
+
+
+
+
+
+
+Ancient
+
+
+
+Plato
+Aristotle
+Stoicism
+Epicureans
+
+
+
+
+
+Medieval
+
+
+
+Averroes
+Avicenna
+Roger Bacon
+William of Ockham
+Hugh of Saint Victor
+Dominicus Gundissalinus
+Robert Kilwardby
+
+
+
+
+
+Early modern
+
+
+
+Francis Bacon
+Thomas Hobbes
+René Descartes
+Galileo Galilei
+Pierre Gassendi
+Isaac Newton
+David Hume
+
+
+
+
+
+Classical modern
+
+
+
+Immanuel Kant
+Friedrich Schelling
+William Whewell
+Auguste Comte
+John Stuart Mill
+Herbert Spencer
+Wilhelm Wundt
+Charles Sanders Peirce
+Wilhelm Windelband
+Henri Poincaré
+Pierre Duhem
+Rudolf Steiner
+Karl Pearson
+
+
+
+
+
+Late modern
+
+
+
+Alfred North Whitehead
+Bertrand Russell
+Albert Einstein
+Otto Neurath
+C. D. Broad
+Michael Polanyi
+Hans Reichenbach
+Rudolf Carnap
+Karl Popper
+Carl Gustav Hempel
+W. V. O. Quine
+Thomas Kuhn
+Imre Lakatos
+Paul Feyerabend
+Jürgen Habermas
+Ian Hacking
+Bas van Fraassen
+Larry Laudan
+Daniel Dennett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portal
+Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Positivism
+
+
+
+
+
+
+
+Perspectives
+
+
+
+Antihumanism
+Empiricism
+Rationalism
+Scientism
+
+
+
+
+
+Declinations
+
+
+
+Legal positivism
+Logical positivism / analytic philosophy
+Positivist school
+Postpositivism
+Sociological positivism
+Machian positivism (empiriocriticism)
+Rankean historical positivism
+Polish positivism
+Russian positivism (empiriomonism)
+
+
+
+
+
+Principal concepts
+
+
+
+Consilience
+Demarcation
+Evidence
+Induction
+Justificationism
+Pseudoscience
+Critique of metaphysics
+Unity of science
+Verificationism
+
+
+
+
+
+Antitheses
+
+
+
+Antipositivism
+Confirmation holism
+Critical theory
+Falsifiability
+Geisteswissenschaft
+Hermeneutics
+Historicism
+Historism
+Human science
+Humanities
+Problem of induction
+Reflectivism
+
+
+
+
+
+Related paradigm shifts
+in the history of science
+
+
+
+Non-Euclidean geometry (1830s)
+Heisenberg uncertainty principle (1927)
+
+
+
+
+
+Related topics
+
+
+
+Behavioralism
+Critical rationalism
+Criticism of science
+Epistemological idealism
+Epistemology
+Holism in anthropology
+Instrumentalism
+Modernism
+Naturalism in literature
+Nomothetic–idiographic distinction
+Objectivity in science
+Operationalism
+Phenomenalism
+Philosophy of science
+
+Deductive-nomological model
+Ramsey sentence
+Sense-data theory
+
+
+Qualitative research
+Relationship between religion and science
+Sociology
+Social science (Philosophy)
+Structural functionalism
+Structuralism
+Structuration theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+Positivist-related debate
+
+
+
+
+
+
+
+Method
+
+
+
+1890s Methodenstreit (economics)
+1909–1959 Werturteilsstreit
+1960s Positivismusstreit
+1980s Fourth Great Debate in international relations
+1990s Science Wars
+
+
+
+
+
+Contributions
+
+
+
+1830 The Course in Positive Philosophy
+1848 A General View of Positivism
+1869 Critical History of Philosophy
+1879 Idealism and Positivism
+1886 The Analysis of Sensations
+1927 The Logic of Modern Physics
+1936 Language, Truth, and Logic
+1959 The Two Cultures
+2001 The Universe in a Nutshell
+
+
+
+
+
+Proponents
+
+
+
+Richard Avenarius
+A. J. Ayer
+Auguste Comte
+Eugen Dühring
+Émile Durkheim
+Ernst Laas
+Ernst Mach
+Berlin Circle
+Vienna Circle
+
+
+
+
+
+Criticism
+
+
+
+1909 Materialism and Empirio-criticism
+1923 History and Class Consciousness
+1934 The Logic of Scientific Discovery
+1936 The Poverty of Historicism
+1942 World Hypotheses
+1951 Two Dogmas of Empiricism
+1960 Truth and Method
+1962 The Structure of Scientific Revolutions
+1963 Conjectures and Refutations
+1964 One-Dimensional Man
+1968 Knowledge and Human Interests
+1978 The Poverty of Theory
+1980 The Scientific Image
+1986 The Rhetoric of Economics
+
+
+
+
+
+Critics
+
+
+
+Theodor W. Adorno
+Gaston Bachelard
+Mario Bunge
+Wilhelm Dilthey
+Paul Feyerabend
+Hans-Georg Gadamer
+Thomas Kuhn
+György Lukács
+Karl Popper
+Willard Van Orman Quine
+Max Weber
+
+
+
+
+
+Concepts in contention
+
+
+
+Knowledge
+Phronesis
+Truth
+Verstehen
+
+
+
+
+
+
+
+
+
+
+
+
+Category
+
+
+
+
+
+
+
+
+Categories: David HumeKarl PopperPhilosophical problemsPhilosophy of sciencePhilosophical logicInductive reasoningConcepts in epistemologyHidden categories: Pages using citations with accessdate and no URLAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from October 2016Webarchive template wayback linksUse dmy dates from October 2010

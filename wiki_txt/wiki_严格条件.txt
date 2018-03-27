@@ -1,0 +1,81 @@
+严格条件
+在逻辑中，严格条件是遵照来自模态逻辑的必然性算子行事的实质条件。对于任何两个命题 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ 和 
+
+
+
+q
+
+
+{\displaystyle q}
+
+，公式 
+
+
+
+p
+→
+q
+
+
+{\displaystyle p\rightarrow q}
+
+ 说 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ 实质上蕴涵 
+
+
+
+q
+
+
+{\displaystyle q}
+
+，而 
+
+
+
+◻
+(
+p
+→
+q
+)
+
+
+{\displaystyle \Box (p\rightarrow q)}
+
+ 说 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ 严格蕴涵 
+
+
+
+q
+
+
+{\displaystyle q}
+
+。严格条件是 Clarence Irving Lewis 尝试为充分的表达直陈条件而找出的条件。比如这种条件一般的要避免实质蕴涵悖论。比如下列陈述，没有被实质蕴涵正确的形式化。

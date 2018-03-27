@@ -1,0 +1,2 @@
+Baddeley's model of working memory
+Alan Baddeley and Graham Hitch proposed a model of working memory in 1974, in an attempt to present a more accurate model of primary memory (often referred to as short-term memory). Working memory splits primary memory into multiple components, rather than considering it to be a single, unified construct.[1]

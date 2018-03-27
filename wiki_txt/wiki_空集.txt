@@ -1,0 +1,31 @@
+空集
+空集是不含任何元素的集合，数学符号为
+
+
+
+∅
+
+
+{\displaystyle \emptyset }
+
+、
+
+
+
+∅
+
+
+{\displaystyle \varnothing }
+
+或
+
+
+
+{
+
+}
+
+
+{\displaystyle \{\;\}}
+
+。

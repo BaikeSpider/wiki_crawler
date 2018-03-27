@@ -1,0 +1,564 @@
+电子游戏机
+
+
+
+
+
+
+
+
+
+
+
+
+
+本条目属于
+
+
+电子游戏史系列
+
+
+
+
+游戏机史
+
+
+第一世代（1972－1980）
+第二世代（1976－1992）
+第三世代（1983－1995）
+第四世代（1987－1999）
+第五世代（1993－2006）
+第六世代（1998－2013）
+第七世代（2005－）
+第八世代（2012－）
+
+
+
+
+
+
+
+
+通史
+
+
+街机黄金年代（英语：Golden age of arcade video games）
+电子游戏史
+1983年美国游戏业萧条事件
+
+
+
+
+
+
+
+
+其他
+
+
+早期电子游戏历史
+第一款电子游戏
+街机年表（英语：Timeline of arcade video game history）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+电子游戏机，又名电子游乐器，是通过游戏软件提供娱乐功能的消费电子产品。依照进行游戏的方式的不同，又分为家用游戏机及掌上游戏机。20世纪末起，随着电脑技术突飞猛进，游戏机更具备网上影音服务功能的多元化阶段。
+而游戏机也可以说是属于电脑的一种，主要组成元件完全和约翰·冯·诺伊曼对计算机的定义一致，不过和个人电脑对比，电子游戏机针对影像、音效与操作机能进行特别的强化，也有各种的软件和硬件可供安装使用。个人电脑虽然有强大硬件支持，但游戏支持不佳，可能出现移植游戏比在游戏机上更差的情况。游戏机主要的硬件元件包括CPU、内存、储存媒体、影音输出设备、信号输入设备等。其中，游戏机的信号输入设备又被称为控制器、手把或摇杆。
+亦有电脑厂商针对游戏的要求来配置并组装个人电脑并出售，称为电竞电脑，此类个人电脑较一般电脑更适于执行游戏，但与专门为游戏而设计的游戏机仍有不同，故通常不被视为游戏机的一种，然而由Valve公司所生产的Steam Machine正在挑战这个定义。
+
+
+
+目录
+
+
+1 历史
+
+1.1 第一世代
+1.2 第二世代
+1.3 第三世代
+1.4 第四世代
+1.5 第五世代
+1.6 第六世代
+1.7 第七世代
+1.8 第八世代
+
+
+2 参见
+3 注解
+4 外部链接
+
+
+
+历史[编辑]
+第一世代[编辑]
+主条目：第一世代游戏机历史
+第一世代开始于1972年，由米罗华发售第一款家用游戏机，称为米罗华奥德赛。虽然奥德赛在销量上可以称为成功[1]，但是真正令大众对电子游戏机产生注视是于同年推出，雅达利的街机游戏乓（Pong）。1975年，由于兵大受欢迎，米罗华决定分别推出奥德赛100及奥德赛200，同时雅达利亦推出家用游戏机版本的兵。而这三款家用游戏机都使用比原本的奥德赛更简单的设计，但在游戏数目都较少，亦没有任何配件及卡带。
+之后，很多公司都生产相似的家用游戏机并推出于市场。加上通用仪器稍后时间研发出更便宜的微型芯片，令更多小型发展商推出大量表面上相异但都只是包含相同游戏的电子游戏机。
+而此世代大部分电子游戏机都是专用游戏机，正式来说只能称呼为电子游戏。由于雅达利、米罗华及Coleco（英语：Coleco）等公司大量推出相似的电子游戏机，令整个市场都充斥着简单及相似的电子游戏。
+第二世代[编辑]
+主条目：第二世代游戏机历史
+第二世代（有时被认为是早期9世代，或者从更短的范围来看也可以说是4位世代）开始于1976年Fairchild Channel F和的Radofin 1292 Advanced Programmable Video System推出。
+在这一世代的前段时间，各大厂商争相为进入电子游戏这一市场而推出了若干主机，而到了后期，推出的游戏主机则大多是前一阶段的改良。雅达利2600是在第二世代中比较有优势的机型，而类如Intellivision、奥德赛2和ColecoVision也占有一定的市场。
+电子游戏的第二世代在1984年由于1983年美国游戏业萧条事件戛然而止。
+第三世代[编辑]
+主条目：第三世代游戏机历史
+第三世代一般认为是以1983年7月15日在日本发售的FC即Family Computer（后来也称为Famicom或NES，即Nintendo Entertainment System）起始的。虽然在上一世代的主机也有使用8-bit位处理器，但在末期时才开始明确使用bit位来为主机进行标识。在这一世代中，这种以bit位来对主机进行区分的形式也开始成为一种潮流，就像Mega Drive/Genesis以16-bit为卖点一样。在美国，NES（FC）在此世代中拥有主导地位。
+第四世代[编辑]
+主条目：第四世代游戏机历史
+
+
+
+
+第四世代电子游戏机
+
+
+第四世代（或普遍称为“16位时代”）是以1987年10月30日在日本发售，由日本电气（NEC）研发的PC Engine（北美版称为TurboGrafx-16）作为开始。虽然PC Engine是第一部发售的第四世代游戏机，在日本销量亦只是仅次于超级任天堂（Super Famicom，北美版称为Super Nintendo Entertainment System，简称“SNES”）。但在北美洲，游戏机的销量主要为任天堂的超级任天堂与世嘉（Sega）的Mega Drive（北美版称为Sega Genesis）之争。任天堂成功继承在第三世代建立的基业，而SNES亦成为第四世代销量最高的游戏机。而世嘉亦在此世代发得重大成功，并创造出能够与任天堂的吉祥物马里奥竞争的角色——索尼克。除此之外，虽然有不少公司推出其他种类的游戏机，但没有一款获得成功。但同时亦有不少公司认为游戏机市场已经逐渐成熟，并计划在将来推出自家研发的游戏机。
+第五世代[编辑]
+主条目：第五世代游戏机历史
+第五世代是以1993年10月4日在北美发售的3DO游戏机作为开始。一开始索尼原打算与任天堂合作推出带有光盘的FC游戏机，但任天堂看出索尼在游戏产业上的野心后背叛了索尼，之后索尼为报复任天堂便推出了具有跨时代意义的Playstation。Playstation采用了造价低廉而容量可观的CD-ROM，并且拥有在当时非常出众的3D运算效果，轻松击败了任天堂原有的市场版图，在全球范围内占有垄断地位。任天堂和世嘉分别于1996年和1994年11月推出了他们的主机N64和SATURN（索尼PlayStation游戏机于世嘉 SATURN发售两个礼拜后在也日本发售），但前者的卡带式设计影响了主机性能的发挥，后者则缺乏第三方游戏厂商的有力支持，最终都落败于PS；N64最后在美国和日本依旧占据了较大的市场份额，而世嘉 SATURN则尽在日本国内有较小的影响力。除任天堂与世嘉外，3DO等游戏公司也推出了他们自己的游戏主机，虽然其中不乏精品，但都最终都属于昙花一现的产品，很快便退出了市场。随着2006年Playstation的停产，第五世代落下了帷幕。
+第六世代[编辑]
+主条目：第六世代游戏机历史
+
+
+
+
+第六世代电子游戏机
+
+
+第六世代是以1998年11月27日，由世嘉Dreamcast的发售作为起始的游戏主机的黄金时代。本世代的特点是DVD和网络的导入。为挽回颓势，世嘉于世嘉土星推出的第四年便推出了第六世代的Dreamcast，因不能向下兼容土星而使得玩家们大为不满，之后又因为所采用的GD-ROM容量问题和缺乏第三方游戏厂商的的支持而最终落败，并直接导致了世嘉完全退出游戏主机市场；虽然第三方游戏厂商的响应寥寥无几，但DC上依旧不乏经典的大手笔作品，其中《莎木》曾被日本玩家评为最希望出续作游戏排行的第二名，并创下了20亿日元天价开发费的世界纪录，且其记录直到2008年才被Rockstar Games的《GTAIV》所打破。随后，索尼于1999年推出了Playstation的后继机种Playstation2。索尼PS2向下兼容上一代的Playstation,并依靠强大的DVD光驱而轻松击败了世嘉DC后又面临着来自微软XBOX和任天堂Game Cube的威胁，其中微软XBOX的性能为本世代最强，但最终都被PS2的丰富的游戏数量和极高的性价比所击败；PS2截止至2011年的全球销量达到了史无前例的1.5亿台，并且还保持着三个世界之最的记录，即世界上销售时间最长（11年）、公司支持时间最长、游戏最多的游戏机。即使随着2005年微软Xbox360的发售游戏机进入了第七世代，但PS2依旧在长时间内保持了旺盛的生命力，直到2012年索尼才宣布在日本地区停止生产PS2主机，而在东欧、北非和东南亚地区则依旧畅销。
+第七世代[编辑]
+主条目：第七世代游戏机历史
+随着2005年微软Xbox360的发售，游戏机进入了竞争白热化的第七世代，并在市场占有率上呈现出：任天堂的Wii、索尼的PlayStation 3与微软的Xbox 360，三分天下的格局。第七世代的显著特点是高清的游戏画面、网络服务的完善与体感娱乐的普及。率先于2005年发售的微软Xbox360是Xbox的后继机种，拥有着最为完善的网络功能Xbox Live，同时又在部分地区与当地供应商积极合作推出了流媒体服务，在美国地区有着很高的影响力；
+第八世代[编辑]
+主条目：第八世代游戏机历史
+在电子游戏历史中，第八世代是指2012年和2013年间推出的数款电子游戏机。第八世代包括了任天堂在2012年第四季推出的后继机种Wii U；索尼的PlayStation 4则是在2013年2月20日正式对外公开，并于2013年第四季上市；[2]而微软是在2013年5月21日宣布了Xbox 360的后继机种Xbox One，[3]同样也在2013年第四季发售。[4]在便携式游戏机方面，第八世代是随着Nintendo 3DS在2011年2月于日本推出后正式展开，3DS之后于同年3月陆续在北美洲和欧洲地区上市。PlayStation Portable的后继机种PlayStation Vita则是在2011年12月在日本登场，之后于2012年3月在欧美地区上市。
+有许多观点认为第八世代的游戏机将会面临来自智能手机、平板电脑和智能电视游戏市场的严峻挑战。[5][6][7][8][9][10]由于这些装置的成长速度极快，许多分析家认为第八世代可能是家用游戏机的最后一个世代。[10]在发售前就已通过群众募款获得数百万美元资金的游戏机OUYA，将开源自由开发和免费游玩的商业模式带入了第八世代主机。[11][12]GameStick、NVIDIA Shield、Ouya和Steam Box等公司都试着想加入市场竞争；但却都很少被人以第八世代游戏机来称呼。[13][14][15]
+参见[编辑]
+
+电子游戏机列表
+电竞电脑
+
+注解[编辑]
+
+
+^ How Video Games Invaded the Home TV Set. Ralph H. Baer Consultants. [2016-05-02] （英语）. 
+^ PS4 release date specs confirmed. PC Advisor UK. 2013-04-24 [2013-06-12]. 
+^ Microsoft Confirms Next-Gen Xbox Announcement. IGN. 2013-04-24 [2013-04-24]. 
+^ Bass, Dina; King, Ian. Microsoft Said to Plan Next Xbox for 2013 Holiday Season. Bloomberg. 2012-11-30 [2012-12-01]. 
+^ Cull, James. Nvidia Tegra: The Future of Android Gaming. appstorm.net. 2011-06-20. 
+^ Mobile Gaming is Dominating the Gaming Industry. Geekaphone. 2011-07-27. 
+^ Alpeyev, Pavel. Nintendo May Fail to Replicate Wii Success as IPhone Games Bloom. Bloomberg.com. 2011-06-19 [2011-06-22]. 
+^ Gallagher, Dan. Sony, Nintendo Place Big Bets on Handhelds. The Wall Street Journal. 2011-06-21 [2011-06-22]. 
+^ Agnello, Anthony John. Will Smart TVs End the Game Console Business?. InvestorPlace. 2012-02-09 [2012-02-24]. 
+^ 10.0 10.1 PlayStation 2 manufacture ends after 12 years. The Guardian. 2013-01-04 [2013-01-04]. 
+^ http://www.pocketgamer.biz/r/PG.Biz/Astrogun+news/news.asp?c=43243
+^ http://www.joystiq.com/2013/05/09/sony-microsoft-going-heavily-on-free-to-play-next-gen-says-e/
+^ Langshaw, Mark; Reynolds, Matthew. Can Android consoles Ouya, Project Shield challenge PlayStation, Xbox?. DigitalSpy.com. 2013-01-13 [2013-03-07]. 
+^ Kelly, Tadhg. With Ouya, GameStick, Steam Box and more, will 2013 be the year of the 'microconsole'?. Edge Online. 2013-01-10 [2013-03-07]. 
+^ Pereira, Chris. Digital and Nontraditional: Breaking Down Ouya, Steam Box, And Other New Wave Systems. 1up.com. 2013-01-15 [2013-03-07]. （原始内容存档于2013-02-21）. 
+
+
+外部链接[编辑]
+
+MobyGames一个互联网视频游戏数据库
+Game-Machines.com Consoles游戏机的详细发展历史
+The Console Conspiracy是一个专门报导所有关于视频游戏新闻的网站
+What Console一个专注于介绍游戏主机的网站
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+电子游戏机
+
+
+
+
+
+
+按类型
+
+
+
+家用游戏机
+
+列表
+
+
+掌上游戏机
+
+列表
+
+
+微型游戏机
+专用游戏机
+街机
+
+主板
+
+
+
+
+
+
+
+
+
+
+按世代
+
+
+
+第一世代
+第二世代
+第三世代
+第四世代
+第五世代
+第六世代
+第七世代
+第八世代
+
+
+
+
+
+
+
+
+按制造商
+
+
+
+世嘉
+
+
+
+
+
+
+
+
+相关条目
+
+
+
+游戏机游戏
+模拟器
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+电脑的体型（类别）
+
+
+
+
+
+
+大型
+
+
+
+超级计算机
+大型计算机
+次超级计算机
+
+
+
+
+
+
+
+
+中小型
+
+
+
+中型电脑（英语：Midrange computer）
+小型计算机
+超级小型电脑（英语：Superminicomputer）
+服务器
+
+
+
+
+
+
+
+
+微型
+
+
+
+
+个人电脑、移动设备与移动运算（英语：Mobile computing）
+
+
+
+
+台式电脑
+
+
+
+工作站
+电竞电脑
+家用电脑
+一体机
+小主板（英语：Small form factor）
+
+迷你台式电脑
+
+
+
+
+
+
+
+
+
+
+笔记型电脑
+
+
+
+行动工作站（英语：Desktop replacement computer）
+次笔记型电脑（英语：Subnotebook）
+
+上网本
+Smartbook
+超极致笔电
+
+
+
+
+
+
+
+
+
+
+平板电脑
+
+
+
+超级行动电脑
+行动上网装置
+
+Internet tablet
+
+
+
+
+
+
+
+
+
+
+手持式个人电脑（英语：Handheld PC）
+
+
+
+掌上型电脑（英语：Palm-size PC）
+Pocket computer（英语：Pocket computer）
+
+
+
+
+
+
+
+
+PDA
+
+
+
+Electronic organizer（英语：Electronic organizer）
+企业数位助理（英语：Enterprise digital assistant）
+Pocket PC
+
+
+
+
+
+
+
+
+移动电话
+
+
+
+功能型手机
+智能手机
+平板手机
+便携式媒体播放器
+
+
+
+
+
+
+
+
+计算器
+
+
+
+科学计算机（英语：Scientific calculator）
+程序计算机（英语：Programmable calculator）
+图形计算器
+
+
+
+
+
+
+
+
+可穿戴式电脑
+
+
+
+电子手表
+
+计算机手表（英语：Calculator watch）
+智能手表
+
+
+Virtual retinal display（英语：Virtual retinal display）
+头戴式显示器
+
+抬头显示器
+
+
+
+
+
+
+
+
+
+
+
+
+
+电子游戏机
+
+
+
+街机
+家用游戏机
+专用游戏机
+微型游戏机
+掌上游戏机
+
+
+
+
+
+
+
+
+影视用途产品
+
+
+
+智能电视
+家庭剧院个人电脑
+机顶盒
+
+
+
+
+
+
+
+
+其他终端装置
+
+
+
+互动式机台（英语：Interactive kiosk）
+
+多媒体机台
+
+
+自动柜员机
+可移动计算机
+电子书阅读器
+便携式资料终端机（英语：Portable data terminal）/可行动式资料终端机（英语：Mobile data terminal）
+Plug（英语：Plug computer）
+
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+单片机
+Nanocomputer（英语：Nanocomputer）
+Pizza box form factor（英语：Pizza box form factor）
+单板机
+智能微尘
+无线感测网络
+
+
+
+
+
+
+
+
+
+
+
+
+分类：电子游戏机电子游戏术语隐藏分类：CS1英语来源 (en)

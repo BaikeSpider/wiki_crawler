@@ -1,0 +1,2 @@
+Deductive closure
+Deductive closure is a property of a set of objects (usually the objects in question are statements). A set of objects, O, is said to exhibit closure or to be closed under a given operation, R, provided that for every object, x, if x is a member of O and x is R-related to any object, y, then y is a member of O.[1] In the context of statements, a deductive closure is the set of all the statements that can be deduced from a given set of statements.

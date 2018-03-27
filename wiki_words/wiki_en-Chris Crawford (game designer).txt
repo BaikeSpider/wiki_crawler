@@ -1,0 +1,194 @@
+Chris Crawford (game designer)
+
+
+Chris Crawford
+
+
+
+Chris Crawford at Cologne Game Lab in 2011
+
+
+
+Born
+(1950-06-01) June 1, 1950 (age 67)
+Houston, Texas,
+United States
+
+
+Nationality
+American
+
+
+Occupation
+Video game designer
+
+
+Years active
+1976–present
+
+
+Known for
+Game Developers Conference
+
+
+Notable work
+Eastern Front (1941)
+Balance of Power
+
+
+Website
+erasmatazz.com
+
+
+Christopher Crawford (born June 1, 1950) is a computer game designer and writer. He designed and programmed several important computer games in the 1980s, including Eastern Front (1941) and Balance of Power. Among developers he became known for his passionate advocacy of game design as an art form, founding both The Journal of Computer Game Design and the Computer Game Developers Conference (now called the Game Developers Conference). In 1992 Crawford withdrew from commercial game development and began experimenting with ideas for a next generation interactive storytelling system.
+
+
+
+Contents
+
+
+1 Biography
+
+1.1 1980s
+1.2 Game Developers Conference
+1.3 Withdrawal from game industry
+1.4 Storyworlds
+
+
+2 People games
+3 Bibliography
+4 Games
+5 References
+6 External links
+
+
+
+Biography[edit]
+After receiving a B.S. in physics from UC Davis in 1972 and an M.S. in physics from University of Missouri in 1975, Crawford taught at a community college and the University of California.
+Crawford first encountered computer games at Missouri, when he met someone attempting to computerize Avalon Hill's Blitzkrieg. While teaching he wrote an early version of Tanktics in FORTRAN for the IBM 1130 in 1976 as a hobby, then wrote Tanktics and an early version of Legionnaire for personal computers such as the KIM-1 and Commodore PET. In 1978 Crawford began selling the games and by 1979 "made the startling discovery", he later said, "that it is far more lucrative and enjoyable to teach for fun and program for money". He joined Atari that year, founding the Games Research Group under Alan Kay in 1982.[1]
+1980s[edit]
+At Atari Crawford started game work with Wizard for the VCS, but this work was abandoned and would not appear until some time later. He then turned his attention to the new "Home Computer System", now referred to as the Atari 8-bit family. His first releases on this platform were Energy Czar and Scram, games written in Atari BASIC.
+Finding development on the systems difficult due to a lack of clear information, he started experimenting with the Atari 8-bit computer's hardware assisted smooth scrolling and used it to produce a scrolling map display. This work was used to create Eastern Front (1941), which is widely considered one of the first wargames on a microcomputer to compete with traditional paper-n-pencil games in terms of depth.[2] He followed this with Legionnaire, based on the same display engine but adding real-time instead of turn-based game play.
+Using the knowledge gathered while writing these games, he helped produce technical documentation covering most of the advanced features of the Atari computer, from the hardware assisted smooth scrolling to digitized sounds, with the information presented in a friendly format for a wide audience. This included videos distributed by ACE (Atari Computer Enthusiast) Support[3] to user groups, and a series of articles published in BYTE magazine containing most of the content of the book, De Re Atari that would be published later. Another book followed, The Art of Computer Game Design.
+By 1983 BYTE called Crawford "easily the most innovative and talented person working on the Atari 400/800 computer today",[4] and his name was well enough known that Avalon Hill's advertising for a revised version of Legionnaire mentioned Crawford as author.[5] Laid off in the Atari collapse during the video game crash of 1983-1984, Crawford went freelance and produced Balance of Power for the Apple Macintosh in 1985, which was a best-seller,[1] reaching 250,000 units sold. Additional strategy games followed.
+Game Developers Conference[edit]
+The Game Developers Conference, which in 2013 drew over 23,000 attendees, began in 1987 as a salon held in Crawford's living room with roughly 27 game design friends and associates.[6] The gathering's original name, the Computer Game Developers Conference, would remain into the 1990s until the word Computer was dropped. While the GDC has become a prominent event in the gaming industry, Crawford was eventually ousted from the GDC board, and made his final official appearance at the gathering in 1994.[7] He eventually returned to the conference, giving lectures in both 2001 and 2006.[8]
+Withdrawal from game industry[edit]
+Crawford acknowledged that his views on computer game design were unusual and controversial. In a 1986 interview with Computer Gaming World he stated that he began writing software as a hobby that became a job with the goal of writing the best possible game. Crawford said that by 1982, his goal was to pursue computer games as an art form. While denouncing hack and slash games ("just straight run, kill or be killed"), text adventures ("about as interesting as a refrigerator light"), and the Commodore 64 and Apple II series ("so gutless. I don't feel I can do an interesting game on them"), he stated that Dan Bunten, Jon Freeman and Anne Westfall, and himself were the only designers who had proven that they could develop more than one great game.[1]
+Crawford admitted that some critics called his games inaccessible:[1]
+
+In many ways, I'll agree with it. That's another way of saying, "Crawford's games aren't that much fun." And there is some merit in that. I don't strive so much for simple-minded fun ... do you want a game that will punch you in the stomach or really affect you? ... None of my games are great, none of my games have touched people deeply, but that is what I am learning how to do ... none of my games can hold a candle to any of Charlie Chaplin's works. I don't even think I've reached D. W. Griffith's level yet. I hope that someday I will ... If I didn't think that possible, I would get out of the business.
+
+At the 1992 CGDC, Chris Crawford gave "The Dragon Speech",[9] which he considers "the finest speech of [his] life".[10] Throughout the speech, he used a dragon as a metaphor for video games as a medium of artistic expression. He declared that he and the video game industry were working "at cross purposes", with the industry focusing heavily on "depth", when Crawford wanted more "breadth": to explore new horizons rather than merely furthering what has already been explored. He arrived at the conclusion that he must leave the gaming industry in order to pursue this dream. He declared that he knew that this idea was insane, but he compared this "insanity" to that of Don Quixote:
+
+Insanity is an inability to come to terms with reality. Don Quixote was definitely insane, because he couldn't come to terms. But there was a reason: the reality in which Don Quixote lived was a sordid and ugly reality … Don Quixote didn't want that. He wanted to live in a world where there was truth, and human dignity, and, yes, love.… Instead of giving up on it, he imposed his reality onto the real world. Where other people saw a filthy country hostel, he saw a castle! Where other people saw a flock of sheep, he saw a mighty army! Where other people saw a windmill, he saw a dragon. Yes, Don Quixote was a crazy old fool. But, you know, he was more honest about his dream than most people, and for that, I honor him.
+
+The speech is notable for its dramatic ending in which Crawford confronts the dragon:
+
+I have committed myself, I have dedicated myself, to the pursuit of the dragon. And having made that commitment … all of a sudden, I can see him! There he is, right in front of me, clear as day.… You're so much bigger than I ever imagined, and I'm, I'm not so sure I like this. I mean, yes, you're glorious and beautiful, but you're ugly, too. Your breath reeks of death!… Am I so pitiful that you can sneer in my face like that? Yes, yes, you frighten me! You hurt me! I've felt your claws ripping through my soul! But I'm going to die someday, and before I can do that, I've got to face you, eyeball to eyeball. I've got to look you right in the eye, and see what's inside, but I'm not good enough to do that yet. I'm not experienced enough, so I'm going to have to start learning. Today. Here. Now. Come, dragon, I will fight you. Sancho Panza, my sword! (He picks up a sword from the desk behind him, which he unsheaths from its scabbard.) For truth! For beauty! For art! Charge!
+
+Crawford then charged down the lecture hall and out the door, symbolizing his exit from the gaming industry.
+Storyworlds[edit]
+After his "Dragon" speech, at GDC 1992, and his apparent exit from the gaming industry, Crawford did appear at GDC the following year[11] but had not abandoned his unconventional views on game design. Computer Gaming World wrote after the 1993 conference that Crawford "has opted to focus upon a narrow niche of interactive art lovers rather than continuing to reach as many gamers as possible".[12] He served as editor of Interactive Entertainment Design, a monthly collection of essays written for game designers.[13]
+Since then, Crawford has been working on Storytron (originally known as Erasmatron), an engine for running interactive electronic storyworlds. As of December 2008[update], a beta version of the Storytronics authoring tool, Swat, has been released. The system was officially launched March 23, 2009, with Crawford's storyworld sequel to Balance of Power.[14] As of December 1, 2012, the project has been in a "medically induced coma."[15] In August 2013 Crawford released source code of several of his games from his career to the public,[16] fulfilling a 2011 given promise,[17] among them Eastern Front (1941) and Balance of Power.
+People games[edit]
+"People games", as termed by Crawford, are games where the goals are of a social nature and focus on interactions with well-defined characters. They are described in Chris Crawford on Game Design as well as in his "The Dragon Speech", as follows:
+
+I dreamed of the day when computer games would be a viable medium of artistic expression — an art form. I dreamed of computer games encompassing the broad range of human experience and emotion: computer games about tragedies, or self-sacrifice; games about duty and honor, patriotism; a satirical game about politics, or games about human folly; games about men's relationship to God or to Nature; games about the passionate love between a boy and girl, or the serene and mature love between husband and wife of decades; games about family relationships or death, mortality, games about a boy becoming a man, and a man realizing that he is no longer young; games about a man facing truth at high noon on a dusty main street, or a boy and his dog, and a prostitute with a heart of gold. All of these things and more were part of this dream, but by themselves they amounted to nothing, because all of these things have already been done by other art forms. There was no advantage, no purchase, nothing superior about this dream, it's just an old rehash. All we are doing with the computer, if all we do is just reinvent the wheel with poor grade materials, well, we don't have a dream worth pursuing. But there was a second part of this dream that catapulted it into the stratosphere. The second part is what made this dream important and worthy: that is interactivity.
+Let me explain to you why interactivity is so overwhelmingly important. Let me talk about the human brain. You know, our minds are not passive receptacles, they are active agents. It’s not as if we have a button on the side of our heads and they come along and push the button and the top of our heads flips open and then they take a pitcher full of knowledge and pour it into our skull, and then they close the top of our head, shake well and say, «Congratulations, you’re educated now!». [...] All the higher mammals learn by playing, by doing, by interacting. And indeed, the higher the mammal, the more of its life is spent in play to prepare itself for adulthood. So you can see, this active role of the mind is fundamental to the way we think, it’s wired into our brains. And over the millennia we humans have learned ways to improve upon this. The first improvement is language. [...] So language is a way of allowing one person to learn from many different people. But you know, we’ve also learned to turn that concept around to use language as a way of allowing one person to teach many people. [...] the principle remains the same. And in fact, this is the genesis of art. 'Cause art really is just a way of communicating ideas.
+[...] The interactive conversation is effective, but the expository lecture is efficient. That’s the trade-off we make. And over the centuries, we humans have learned that the gains in efficiency outweigh the losses in effectiveness. And therefore we choose expository methods. But the sacrifice remains real! We haven’t ever solved that problem. It’s been with us since the beginning of history. Every single artist has faced this, every communicator, every teacher, every novelist, every sculptor, every singer, every musician, every painter, every single artist through all of human history has been forced to sacrifice effectiveness for efficiency… until now. Because now we have a technology that changes everything. [...] That is the revolutionary nature of the computer. It allows us to automate interactivity to achieve both effectiveness and efficiency. That was the most important part of my dream.
+
+Bibliography[edit]
+
+De Re Atari (contributor) (1982)
+The Art of Computer Game Design (1982)
+Balance of Power (Microsoft Press, 1986) - a book about the making of the game
+The Art of Interactive Design (No Starch Press, 2002) ISBN 1-886411-84-0
+Chris Crawford on Game Design (New Riders Press, 2003) ISBN 0-13-146099-4
+Chris Crawford on Interactive Storytelling (New Riders Press, 2004) ISBN 0-321-27890-9
+
+Games[edit]
+
+Tanktics (1978)[18]
+Legionnaire
+Wizard (released 25 years later, with the Atari Flashback 2)
+Energy Czar
+Scram
+Eastern Front (1941) (1981)
+Gossip
+Excalibur (1983)
+Balance of Power (1985)
+Patton Versus Rommel (1987)
+Trust & Betrayal: The Legacy of Siboot (1987)
+Balance of Power: The 1990 Edition (1989)
+The Global Dilemma: Guns or Butter (1990)
+Balance of the Planet (1990)
+Patton Strikes Back (1991)
+Balance of Power: 21st Century (2009)[19]
+
+References[edit]
+
+
+^ a b c d Boosman, Frank (December 1986). "Designer Profile / Chris Crawford (part 1)". Computer Gaming World (interview). p. 46. Retrieved 1 November 2013. 
+^ Cervo, Tony (2002). "1981 Winners". GameSpy. Archived from the original on 2006-05-05. Retrieved 30 January 2015. 
+^ ACE Video Visits with Chris Crawford on YouTube
+^ Williams, Gregg (March 1983). "Legionnaire". BYTE. p. 248. Retrieved 19 October 2013. 
+^ "Wargames / Not the movie .... the real things!". Compute! (advertisement). December 1983. p. 189. Retrieved 30 October 2013. 
+^ "The Computer Game Developers' Conference - Interactive Storytelling Tools for Writers - Chris Crawford". Erasmatazz. 2010-08-14. Retrieved 2016-03-07. 
+^ "75 Power Players: The Exile". Next Generation. Imagine Media (11): 65. November 1995. 
+^ Dugan, Patrick (February 28, 2011). "GDC 2011: Opinion: Understanding Crawford - Why Chris Crawford Is Misunderstood". Gamasutra. 
+^ The Dragon Speech on YouTube on YouTube
+^ Crawford, Chris. Chris Crawford on Game Design, p. 443
+^ Rouse III, Richard. Game Design: Theory and Practice, p. 281
+^ "The 7th International Computer Game Developers Conference". Computer Gaming World. July 1993. p. 34. Retrieved 12 July 2014. 
+^ "The Way Games Ought to Be". Next Generation. Imagine Media (12): 6–9. December 1995. 
+^ Sterling, Bruce. "Web Semantics: Storytron - Beyond the Beyond, Wired.com". Archived from the original on March 28, 2009. Retrieved 2009-03-24. CS1 maint: BOT: original-url status unknown (link)
+^ "Direct link to Storytron website". Archived from the original on December 1, 2011. Retrieved 2006-03-29. CS1 maint: BOT: original-url status unknown (link)
+^ Request for assistance in publishing old source code files at Atari Age by Chris Crawford (Aug 24 2013)
+^ Crawford, Chris (2013). "Source Code". Retrieved 2017-02-24. 30 months ago, at the 2011 Game Developers Conference, somebody asked me to release the source code for my old games. I said I would look into it. [...] I have begun the process of preparing my source code for general distribution. 
+^ Crawford's entry from the Small Version of Giant List from Halcyon Days
+^ "Direct Link to Balance of Power: 21st Century". Archived from the original on October 30, 2011. Retrieved 2008-08-31. CS1 maint: BOT: original-url status unknown (link)
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Chris Crawford.
+
+
+
+Erasmatazz - Chris Crawford's personal website
+Chris Crawford profile at MobyGames
+A Conversation with Chris Crawford in The Escapist webmagazine
+Video Games are Dead: A Chat With Storytronics Guru Chris Crawford at Gamasutra
+"Into the Night" on YouTube, with Jason Rohrer and Chris Crawford
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 75226857
+LCCN: n83123235
+ISNI: 0000 0000 8155 6297
+GND: 136981755
+SUDOC: 119779706
+BNF: cb16064215s (data)
+BIBSYS: 1017930
+NDL: 00465053
+SNAC: w6xn0t0p
+
+
+
+
+
+
+
+
+
+
+Categories: 1950 birthsAmerican video game designersLiving peoplePeople from HoustonAtari peopleUniversity of California, Davis alumniUniversity of Missouri alumniHidden categories: CS1 maint: BOT: original-url status unknownArticles with hCardsArticles containing potentially dated statements from 2008All articles containing potentially dated statementsWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with BIBSYS identifiersWikipedia articles with SNAC-ID identifiers
